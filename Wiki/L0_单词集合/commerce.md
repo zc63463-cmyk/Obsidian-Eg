@@ -126,8 +126,15 @@ com-(共同，一起) + merc(交易，贸易)
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - "E-commerce has fundamentally transformed the way people shop and do business."（电子商务从根本上改变了人们购物和做生意的方式。）——考研阅读真题
-> - "The chamber of commerce promotes local business interests and economic growth."（商会促进当地的商业利益和经济增长。）——考研高频表达
+> - We are trying to develop a model for best practice in electronic commerce. `[例]`
+>   - 中译：我们正在努力开发电子商务最佳实践的模型。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/commerce
+> - They are trying to promote commerce between their countries. `[例]`
+>   - 中译：他们正在努力促进两国之间的商业往来。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/commerce
+> - There has been a lot of commerce with their country. `[例]`
+>   - 中译：与他们的国家有很多贸易往来。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/commerce
 
 ---
 

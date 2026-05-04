@@ -143,9 +143,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Hundreds of innocent civilians had been slaughtered by government troops. ` `[真题]`
-> - The First World War slaughtered a whole generation of young men. ` `[语料库]`
-> - Thousands of people were slaughtered in the civil war. ` `[语料库]`
+> - Hardly anyone in the town escaped the slaughter when the rebels were defeated. `[例]`
+> - We must find ways of reducing the slaughter which takes place on our roads (= death of many people in car accidents ) every year. `[例]`
+> - The geese are being fattened for slaughter. `[例]`
 
 
 ---

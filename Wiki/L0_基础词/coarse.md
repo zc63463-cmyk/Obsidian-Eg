@@ -127,9 +127,15 @@ coarse 源自古英语 *cors*（普通的、日常的），与拉丁语 *grossus
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Linen is a coarse-grained fabric . `[例]`
 > - He was a man of middle age with coarse , curly gray hair, a dark, pock-marked complexion and protruding, almost batrachian eyes. `[例]`
+>   - 中译：他是个中年男子，一头粗糙的灰色卷发，肤色黝黑，长着麻子，眼睛突出，几乎像蝙蝠一样。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/coarse
 > - He had a heavy face and a shrivelled nose and thick, coarse , bunched up skin. `[例]`
+>   - 中译：他脸色沉重，鼻子干瘪，皮肤又厚又粗糙，皱巴巴的。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/coarse
+> - She'd always been taught—and she'd felt it instinctively—that sun-braised cheeks, sallow skin and reddened hands were coarse and unsightly, the emblem of the foreigner and the day laborer. `[例]`
+>   - 中译：她一直被教导——她本能地感觉到——被太阳晒黑的脸颊、蜡黄的皮肤和发红的双手是粗糙和难看的，是外国人和打零工的标志。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/coarse
 
 
 ---

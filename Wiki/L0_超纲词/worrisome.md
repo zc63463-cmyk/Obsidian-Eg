@@ -3,10 +3,8 @@ title: "worrisome"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-25
-mastery: L0
 word_freq: 超纲词
 semantic_field: 人本世界
 prototype: 令人担忧的
@@ -43,7 +41,7 @@ worry（担忧，古英语 *wyrgan*，原义为"扼杀、使窒息"）+ -some（
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**令人担忧的**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **令人担忧的**（情感层面）
@@ -64,7 +62,7 @@ worry（担忧，古英语 *wyrgan*，原义为"扼杀、使窒息"）+ -some（
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ worry（担忧，古英语 *wyrgan*，原义为"扼杀、使窒息"）+ -some（
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > worry（担忧）+ -some（引起……的）= worrisome（令人担忧的）。想象你看到体检报告上有一项指标偏高——这个数字就是 worrisome 的，它让你的心悬起来，像被什么东西"咬住"（worry 的原始含义）。-some 后缀表示"引起某种感觉"，所以 worrisome = 引起 worry 的事物。
@@ -86,7 +84,7 @@ worry（担忧，古英语 *wyrgan*，原义为"扼杀、使窒息"）+ -some（
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ worry（担忧，古英语 *wyrgan*，原义为"扼杀、使窒息"）+ -some（
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[reassuring]]：令人安心的（worrisome 的精确反义：令人担忧↔令人安心）
 > - [[comforting]]：令人宽慰的（worrisome 的反义：使人发愁↔使人宽慰）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,7 +115,7 @@ worry（担忧，古英语 *wyrgan*，原义为"扼杀、使窒息"）+ -some（
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a worrisome trend**：令人担忧的趋势
 > - **worrisome symptoms**：令人担忧的症状
 > - **a worrisome situation**：令人担忧的局势
@@ -126,19 +124,12 @@ worry（担忧，古英语 *wyrgan*，原义为"扼杀、使窒息"）+ -some（
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - Alcohol and tobacco consumption by young people is especially worrisome because habits formed early are likely to persist . `[例]`
-> - The possibility of fire is especially worrisome for people who live on the edge of the forest . `[例]`
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-25 | **复习次数**：0 | **当前等级**：L0
-
----
+> [!example]- 语料
+> - Alcohol and tobacco consumption by young people is especially worrisome because habits formed early are likely to persist. `[例]`
+> - The possibility of fire is especially worrisome for people who live on the edge of the forest. `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

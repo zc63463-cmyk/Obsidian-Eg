@@ -137,9 +137,9 @@ late 源自古英语 *læt*，源自原始日耳曼语 *lataz*（迟的）。无
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The problem began ]late last year, when PRH confirmed that it had introduced a credit limit �1ith Waterstones " at a very significant level" . `[真题]`
+> - The problem began ]late last year, when PRH confirmed that it had introduced a credit limit �1ith Waterstones " at a very significant level". `[真题]`
 > - Jackson snapped them on a late 19th-century expedition through the Yellowstone Basin that was conducted by the · head of the U. `[真题]`
-> - It was late at night . `[例]`
+> - It was late at night. `[例]`
 
 
 ---

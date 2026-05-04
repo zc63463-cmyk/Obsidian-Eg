@@ -135,9 +135,15 @@ contra-(反，对立) + [[dict]](说) = contradict（反着说）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - So the evidence contradicts the claim that we're mainly suffering from structural unemployment. `[真题]`
-> - Your actions contradict your declared moral principles. `[COCA-ACAD]`
-> - The witness contradicted her earlier testimony under cross-examination. `[例]`
+> - If you're both going to lie , at least stick to the same story and don't contradict each other! `[例]`
+>   - 中译：如果你们都要说谎，至少要坚持同一个故事，不要互相矛盾！
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/contradict
+> - He kept contradicting himself when we were arguing - I think he was a bit confused. `[例]`
+>   - 中译：当我们争论的时候，他一直在自相矛盾——我认为他有点困惑。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/contradict
+> - Recent evidence has contradicted established theories on this subject. `[例]`
+>   - 中译：最近的证据与关于这个问题的既定理论相矛盾。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/contradict
 
 ---
 

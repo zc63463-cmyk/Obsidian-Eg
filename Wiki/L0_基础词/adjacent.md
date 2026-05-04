@@ -128,9 +128,15 @@ ad-(=to, 朝向，见 [[ad]]) + jac(=jacent, 位于，拉丁语 *jacere* 躺) + 
 ## 真题/语料关联
 
 > [!example]- 语料
-> - They lived in a house adjacent to the railway . `[例]`
 > - The planes landed on adjacent runways. `[例]`
-> - They work in adjacent buildings . `[例]`
+>   - 中译：飞机降落在邻近的跑道上。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/adjacent
+> - Our farm land was adjacent to the river. `[例]`
+>   - 中译：我们的农田毗邻河流。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/adjacent
+> - The vineyards of Verzy lie adjacent to those of Verzenay. `[例]`
+>   - 中译：韦尔济 (Verzy) 的葡萄园毗邻韦尔泽奈 (Verzenay) 的葡萄园。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/adjacent
 
 
 ---

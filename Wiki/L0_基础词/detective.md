@@ -132,9 +132,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Her new detective series will be her debut on the small screen . `[例]`
-> - She hired a private detective to find out if her husband was having an affair . `[例]`
-> - A private detective has apparently unearthed some fresh evidence . `[例]`
+> - Her new detective series will be her debut on the small screen. `[例]`
+> - She hired a private detective to find out if her husband was having an affair. `[例]`
+> - A private detective has apparently unearthed some fresh evidence. `[例]`
 
 
 ---

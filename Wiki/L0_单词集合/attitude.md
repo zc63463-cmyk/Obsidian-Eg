@@ -126,9 +126,15 @@ at-(=ad-, 向) + -titude(=tend-的名词形式，倾向、伸展)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Writing calls for a critical attitude of mind that she did not possess. `[真题]`
-> - It is often very difficult to change people's attitudes toward controversial issues. `[COCA-ACAD]`
-> - She has a positive attitude toward her work and always tries her best. `[例]`
+> - It's often very difficult to change people's attitudes. `[例]`
+>   - 中译：改变人们的态度通常非常困难。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/attitude
+> - She takes the attitude that children should be allowed to learn at their own pace. `[例]`
+>   - 中译：她的态度是应该允许孩子们按照自己的节奏学习。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/attitude
+> - He has a very bad attitude to work. `[例]`
+>   - 中译：他的工作态度很不好。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/attitude
 
 ---
 

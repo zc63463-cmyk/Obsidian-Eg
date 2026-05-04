@@ -141,10 +141,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The airline confirmed that no distress signal was sent. `[COCA-ACAD]`
-> - The government's new policy signals a shift towards renewable energy. `[COCA-ACAD]`
-> - The stock market decline sent a warning signal to investors. `[COCA-ACAD]`
-> - The red flag went up to signal a halt. `[COCA-ACAD]`
+> - When she gave (them) the signal, they all cheered. `[例]`
+>   - 中译：当她发出信号时，他们都欢呼起来。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/signal
+> - The fireworks were a signal that the festival had started. `[例]`
+>   - 中译：烟花是节日开始的信号。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/signal
+> - The signal for a race to start is often the firing of a gun. `[例]`
+>   - 中译：比赛开始的信号通常是鸣枪。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/signal
 
 ---
 

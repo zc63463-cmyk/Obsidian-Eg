@@ -124,10 +124,15 @@ in-(进入) + [[gen]](产生) + -i- + -ent(名词后缀，表示物)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Speed is the essential ingredient of all athletics." `[COCA-ACAD]`
-> - "The active ingredient in some of the mouthwashes was simply detergent." `[COCA-ACAD]`
-> - "Trust is a vital ingredient in a successful marriage." `[COCA-ACAD]`
-> - "Policymakers see capital investment as a key ingredient in an economic recovery." `[COCA-ACAD]`
+> - Mix all the dry ingredients together before you add the milk. `[例]`
+>   - 中译：在添加牛奶之前将所有干成分混合在一起。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/ingredient
+> - The list of ingredients included 250 g of almonds. `[例]`
+>   - 中译：配料表中包括250克杏仁。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/ingredient
+> - Trust is a vital ingredient in a successful marriage. `[例]`
+>   - 中译：信任是成功婚姻的重要组成部分。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/ingredient
 ---
 
 

@@ -131,9 +131,9 @@ re-(向后/回) + volut(=volvere, 滚/转) + -ion(名词后缀) + -ary(形容词
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The new treatment for cancer is considered revolutionary by the medical community. ` [真题]`
-> - Women have made revolutionary changes in their roles in the past 25 years. ` [真题]`
-> - She was a true revolutionary who fought for the independence of her country. ` [真题]`
+> - The researchers proposed a revolutionary solution to the problem. `[例]`
+> - The company adopted a revolutionary approach to improve efficiency. `[例]`
+> - The plan offers a revolutionary option for small organizations. `[例]`
 
 
 ---

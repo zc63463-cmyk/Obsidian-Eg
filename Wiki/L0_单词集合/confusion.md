@@ -136,9 +136,15 @@ con-(=together, 共同) + [[fuse]](=pour, 倾倒) + -ion(名词后缀) → 共�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The new policy has caused considerable confusion among employees about their responsibilities. `[COCA-ACAD]`
-> - There is widespread confusion about the difference between "affect" and "effect" even among native English speakers. `[COCA]`
-> - She looked at the complex instructions in confusion, unable to figure out the first step. `[例]`
+> - There seems to be some confusion over who is actually giving the talk. `[例]`
+>   - 中译：对于谁是真正的演讲者似乎存在一些困惑。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/confusion
+> - To avoid confusion, the twins never wore the same clothes. `[例]`
+>   - 中译：为了避免混淆，双胞胎从不穿同样的衣服。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/confusion
+> - A spokeswoman blamed the confusion on miscommunication between the company and its customers. `[例]`
+>   - 中译：一位发言人将这种混乱归咎于公司与客户之间的沟通不畅。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/confusion
 ---
 
 

@@ -128,9 +128,9 @@ gasp 为基础词汇，词源不确定。可能来自古诺尔斯语 *geispa*（
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She gasped in horror when she saw the extent of the damage. `[语料库]`
-> - The runner was gasping for breath after the 100-metre sprint. `[语料库]`
-> - There was a collective gasp from the crowd as he scored the winning goal. `[Collins]`
+> - She gasped in horror when she saw the extent of the damage. `[例]`
+> - The runner was gasping for breath after the 100-metre sprint. `[例]`
+> - There was a collective gasp from the crowd as he scored the winning goal. `[例]`
 
 
 ---

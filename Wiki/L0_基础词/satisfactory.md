@@ -122,10 +122,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The company's financial performance this year has been satisfactory, though it still falls short of the board's expectations." `[真题]`
-> - "The researchers acknowledged that the current evidence is far from satisfactory and called for more rigorous studies to confirm the findings." `[真题]`
-> - "His progress this term has been satisfactory." `[权威语料]`
-> - "There seems to be no satisfactory explanation for the phenomenon." `[权威语料]`
+> - The company's financial performance this year has been satisfactory, though it still falls short of the board's expectations. `[真题]`
+> - The researchers acknowledged that the current evidence is far from satisfactory and called for more rigorous studies to confirm the findings. `[真题]`
+> - His progress this term has been satisfactory. `[例]`
+> - There seems to be no satisfactory explanation for the phenomenon. `[例]`
 
 
 ---

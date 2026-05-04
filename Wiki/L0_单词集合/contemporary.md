@@ -129,9 +129,15 @@ con-(共同/一起) + 建议创建词根笔记 [[temp/tempor]](time/时间) + -a
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Sales of contemporary art fell by two-thirds, and in the most overheated sector — for Chinese contemporary art — they were down by nearly 90% in the year to November. `[真题]`
-> - A visitor from Rome would have recognized its owner as a participant in the contemporary culture of the empire. `[COCA-ACAD]`
-> - She is interested in contemporary dance and often attends performances at the local theater. `[例]`
+> - Although the play was written hundreds of years ago, it still has a contemporary feel to it. `[例]`
+>   - 中译：虽然这部剧是几百年前写的，但仍然具有现代感。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/contemporary
+> - I wanted to update my kitchen and put in something more contemporary. `[例]`
+>   - 中译：我想更新我的厨房并添加一些更现代的东西。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/contemporary
+> - The contemporary dance scene is flourishing in Britain at the moment. `[例]`
+>   - 中译：目前，英国的现代舞正在蓬勃发展。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/contemporary
 
 ---
 

@@ -126,9 +126,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The company has already axed 14 people, and many more may lose their jobs." [COCA]
-> - "Three staff members got the ax yesterday." [COCA]
-> - "Yesterday the airline axed three of its daily flights to Chicago." [COCA]
+> - There will also be the signature backyard games such as ax -throwing, cornhole, jumbo beer pong, giant Jenga and more. `[例]`
+>   - 中译：还有标志性的后院游戏，如扔斧头、沙包、巨型啤酒乒乓球、巨型叠叠乐等。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/ax
+> - The images of the soldier swinging an ax into the fallen statue of Jesus on the cross in the southern Lebanese village of Debel had sparked widespread condemnation, in Lebanon and internationally. `[例]`
+>   - 中译：在黎巴嫩南部村庄德贝尔，一名士兵将斧头砍向倒在十字架上的耶稣雕像的画面引发了黎巴嫩和国际社会的广泛谴责。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/ax
+> - Italian peacekeepers have replaced a statue of Jesus Christ in a village in southern Lebanon after an Israeli soldier was pictured taking what appears to be a hammer or ax to the figure. `[例]`
+>   - 中译：一名以色列士兵被拍到用锤子或斧头砸向黎巴嫩南部一个村庄的耶稣基督雕像，意大利维和人员更换了该雕像。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/ax
 
 
 ---

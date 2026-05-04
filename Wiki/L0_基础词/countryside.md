@@ -119,9 +119,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Every summer thousands of people flock to the countryside. `[真题]`
-> - Much of Connecticut's countryside is dotted with large estates and horse farms. `[语料库]`
-> - The mansion is set in 90 acres of beautiful, unspoiled countryside. `[语料库]`
+> - The surrounding countryside is windswept and rocky. `[例]`
+>   - 中译：周围的乡村风雨交加，岩石遍布。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/countryside
+> - Everyone should enjoy the right of access to the countryside. `[例]`
+>   - 中译：每个人都应该享有进入乡村的权利。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/countryside
+> - The insurgents, who operate at ease, crossing borders and dominating much of the countryside in Mali and Burkina Faso, now feel emboldened to target capital cities. `[例]`
+>   - 中译：叛乱分子活动自如，跨越边境，控制了马里和布基纳法索的大部分乡村，现在他们更有底气以首都为目标。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/countryside
 
 
 ---

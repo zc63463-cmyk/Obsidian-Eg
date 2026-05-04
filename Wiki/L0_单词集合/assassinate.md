@@ -123,10 +123,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The president was assassinated by a lone gunman during a public appearance. [考研-阅读]
-> - The plot to assassinate the political leader was uncovered by intelligence agencies. [考研-阅读]
-> - The senator attempted to assassinate her opponent's character during the debate. `[COCA-ACAD]`
-> - President Kennedy was assassinated in Dallas in 1963. `[例]`
+> - President Kennedy was assassinated in Dallas, Texas, in 1963. `[例]`
+>   - 中译：1963年，肯尼迪总统在德克萨斯州达拉斯被暗杀。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/assassinate
+> - The prime minister was assassinated by extremists. `[例]`
+>   - 中译：总理被极端分子暗杀。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/assassinate
+> - They discovered a secret plot to assassinate the governor. `[例]`
+>   - 中译：他们发现了一个刺杀州长的秘密阴谋。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/assassinate
 
 ---
 

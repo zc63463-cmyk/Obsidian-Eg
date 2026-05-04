@@ -128,10 +128,15 @@ enter-(在内) + tain(保持)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He entertains the possibility of counterpreferential choice, even when preferences or goals include moral objectives." `[真题]`
-> - "The ladies refuse to even entertain the idea of the look on themselves." `[COCA-ACAD]`
-> - "They always entertain their guests in grand style." `[COCA]`
-> - "The television programme is designed to educate and not merely to entertain." `[COCA]`
+> - We hired a magician to entertain the children. `[例]`
+>   - 中译：我们雇了一位魔术师来招待孩子们。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/entertain
+> - Most children's television programmes aim to educate and entertain at the same time. `[例]`
+>   - 中译：大多数儿童电视节目的目的是同时教育和娱乐。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/entertain
+> - Milligan's anarchic humour has always had the power to offend as well as entertain. `[例]`
+>   - 中译：米利根的无政府主义幽默总是具有令人反感和娱乐的力量。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/entertain
 
 ---
 

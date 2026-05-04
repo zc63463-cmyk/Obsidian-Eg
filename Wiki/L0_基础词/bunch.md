@@ -125,9 +125,15 @@ bunch 源自中古英语 *bunche*，可能来自古法语方言 *bonge*（一捆
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The reorganization will give us a whole bunch of problems . `[例]`
-> - They're a bunch of jerks . `[例]`
-> - Your friends are a nice bunch. `[例]`
+> - She picked me a bunch of flowers. `[例]`
+>   - 中译：她给我摘了一束花。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bunch
+> - She put all the flowers together in one big bunch. `[例]`
+>   - 中译：她把所有的花集中在一起，形成一大束。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bunch
+> - I have a whole bunch of stuff to do this morning. `[例]`
+>   - 中译：今天早上我有一大堆事情要做。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bunch
 
 
 ---

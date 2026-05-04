@@ -128,10 +128,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "In the 19th century, wagon trains carried thousands of settlers across the American West in search of new opportunities." `[权威语料]`
-> - "The factory uses automated guided wagons to transport materials between different production lines." `[权威语料]`
-> - "Intrepid pioneers came to California by wagon train." `[权威语料]`
-> - "We overtook carts and wagons stacked with fruit and veg." `[权威语料]`
+> - In the 19th century, wagon trains carried thousands of settlers across the American West in search of new opportunities. `[例]`
+> - The factory uses automated guided wagons to transport materials between different production lines. `[例]`
+> - Intrepid pioneers came to California by wagon train. `[例]`
+> - We overtook carts and wagons stacked with fruit and veg. `[例]`
 
 
 ---

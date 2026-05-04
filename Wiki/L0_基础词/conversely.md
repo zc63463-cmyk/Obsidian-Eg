@@ -122,9 +122,15 @@ con-(加强语气) + [[ver-vert|vers]](=turn, 转，[[ver-vert]]) + -e + -ly(副
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Conversely, austerity means less goods produced and less employment. `[COCA-ACAD]`
-> - Conversely, the risks of inaction have increased. `[COCA-NEWS]`
-> - Conversely, an increase in the dormancy level of the seed population was observed after periods of storage in dry soil. `[COCA-ACAD]`
+> - You can add the fluid to the powder, or, conversely, the powder to the fluid. `[例]`
+>   - 中译：您可以将液体添加到粉末中，或者相反，将粉末添加到液体中。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/conversely
+> - Proctor, conversely , was pegged as a late first-rounder due to concerns about his weight and inconsistent technique despite his apparent strength and athleticism. `[例]`
+>   - 中译：相反，普罗克特尽管拥有明显的力量和运动能力，但由于对他的体重和不稳定的技术的担忧，他被认为是首轮较晚的选手。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/conversely
+> - Or some might be in the right place at the right time and get too much credit for success, or, conversely , get blamed for being unable to fix an unfixable company. `[例]`
+>   - 中译：或者，有些人可能在正确的时间出现在正确的地点，并因成功而获得太多荣誉，或者相反，因为无法修复一家无法修复的公司而受到指责。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/conversely
 
 
 ---

@@ -133,9 +133,15 @@ co-（=com-，共同，一起）+ ordin（顺序，等级，拉丁语 *ordo*）+
 ## 真题/语料关联
 
 > [!example]- 语料
-> - A number of charities are coordinating their efforts to distribute food to the region. `[COCA-NEWS]`
-> - Cambridge University is to coordinate an international effort to find out how the Chernobyl disaster caused a huge increase in child cancer. `[COCA-NEWS]`
-> - The Red Cross is coordinating relief aid to the refugees. `[COCA-NEWS]`
+> - They appointed a new manager to coordinate the work of the team. `[例]`
+>   - 中译：他们任命了一位新经理来协调团队的工作。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/coordinate
+> - We need to develop a coordinated approach to the problem. `[例]`
+>   - 中译：我们需要制定一个协调一致的方法来解决这个问题。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/coordinate
+> - We try to coordinate our activities with those of other groups. `[例]`
+>   - 中译：我们尝试将我们的活动与其他团体的活动进行协调。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/coordinate
 
 
 ---

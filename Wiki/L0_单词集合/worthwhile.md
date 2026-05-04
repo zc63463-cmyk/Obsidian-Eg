@@ -135,10 +135,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She considers teaching a worthwhile career . `[例]`
-> - The time and expense involved in keeping up to date with all the changes has been worthwhile. `[例]`
-> - If you need him on this project , you've got to make it financially worthwhile for him (= you will have to pay him a suitable amount of money for the amount of work involved ) . `[例]`
-> - It's not a worthwhile use of your time . `[例]`
+> - It was in aid of a worthwhile cause (= a charity, etc.). `[例]`
+>   - 中译：这是为了帮助一项有价值的事业（=慈善事业等）。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/worthwhile
+> - We all felt we had done something worthwhile for the local community. `[例]`
+>   - 中译：我们都觉得我们为当地社区做了一些有价值的事情。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/worthwhile
+> - High prices in the UK make it worthwhile for buyers to look abroad. `[例]`
+>   - 中译：英国的高物价使得买家值得将目光投向国外。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/worthwhile
 
 ---
 

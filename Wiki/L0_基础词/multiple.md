@@ -130,8 +130,8 @@ multi-(许多，多) + [[plic-plex|plic]](折叠) + -le(形容词/名词后缀)
 
 > [!example]- 语料
 > - Throughout the trip , Jackson juggled multiple cameras and plate sizes using the " collodion process" that required him to coat the plates with a chemical mixture , then expose them and develop the resulting images with a portable darkroom. `[真题]`
-> - The young man died of multiple burns . `[例]`
-> - We made multiple copies of the report . `[例]`
+> - The young man died of multiple burns. `[例]`
+> - We made multiple copies of the report. `[例]`
 
 
 ---

@@ -136,10 +136,10 @@ mal-(坏/恶) + ign(=gen, 出生/产生) + -ant(形容词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Malignant melanoma can arise de novo and may present as an irregularly pigmented lesion with an irregular edge." `[COCA-ACAD]`
-> - "An ulcer which fails to heal despite adequate therapy should be biopsied to exclude malignant change." `[COCA-ACAD]`
-> - "She developed a malignant breast tumour." `[真题]`
-> - "Moreover, in the domestic rabbits, the warts were no longer benign, but malignant." `[真题]`
+> - Malignant melanoma can arise de novo and may present as an irregularly pigmented lesion with an irregular edge. `[COCA-ACAD]`
+> - An ulcer which fails to heal despite adequate therapy should be biopsied to exclude malignant change. `[COCA-ACAD]`
+> - She developed a malignant breast tumour. `[真题]`
+> - Moreover, in the domestic rabbits, the warts were no longer benign, but malignant. `[真题]`
 
 
 ---

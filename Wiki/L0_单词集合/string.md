@@ -133,9 +133,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - A package tied with string. `[例]`
-> - She wrapped the parcel with brown paper and a long piece of string. `[例]`
-> - Our cat loves nothing more than playing with a ball of string. `[例]`
+> - He wrapped the package in brown paper and tied it with string. `[例]`
+>   - 中译：他用牛皮纸把包裹包裹起来，并用绳子绑起来。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/string
+> - The key is hanging on a string by the door. `[例]`
+>   - 中译：钥匙挂在门边的一根绳子上。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/string
+> - The molecules join together to form long strings. `[例]`
+>   - 中译：分子连接在一起形成长绳。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/string
 
 ---
 

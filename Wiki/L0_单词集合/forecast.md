@@ -123,8 +123,15 @@ fore-（前缀，含义"在……之前"）+ cast（动词，含义"投掷、投
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Economists forecast that the unemployment rate will decline in the coming year.（经济学家预测未来一年失业率将下降。）
-> - The weather forecast predicted heavy rain for the weekend.（天气预报预测周末将有大雨。）
+> - The forecast said it was going to rain later today. `[例]`
+>   - 中译：天气预报说今天晚些时候会下雨。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/forecast
+> - There will be some good news in today's economic forecast. `[例]`
+>   - 中译：今天的经济预测将会有一些好消息。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/forecast
+> - The company's shares slumped as it cut profit forecasts for next year. `[例]`
+>   - 中译：由于下调明年的盈利预期，该公司股价暴跌。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/forecast
 
 ---
 

@@ -130,10 +130,9 @@ friend(朋友) + -ly(具有……性质的)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The local people are friendly and welcoming to tourists from all over the world. ` [真题]`
-> - Companies are increasingly adopting environmentally friendly practices to reduce their carbon footprint. ` [真题]`
-> - Our neighbors have always been very friendly toward us since we moved into the neighborhood. ` [语料]`
-> - The company prides itself on providing friendly customer service that puts customers at ease. ` [语料]`
+> - The researchers proposed a friendly solution to the problem. `[例]`
+> - The company adopted a friendly approach to improve efficiency. `[例]`
+> - The plan offers a friendly option for small organizations. `[例]`
 
 
 ---

@@ -123,9 +123,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "But take a longer view and there is a surprising amount that we can say with considerable assurance." `[真题]`
-> - "She gave me her assurance that the work would be completed on time." `[例]`
-> - "The company provides a written assurance that all products meet safety standards." `[例]`
+> - She gave me her assurance (that) she would sign the contract immediately. `[例]`
+>   - 中译：她向我保证她会立即签署合同。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/assurance
+> - Despite the government's repeated assurances to the contrary , taxation has risen over the past decade. `[例]`
+>   - 中译：尽管政府一再做出相反的保证，但过去十年税收却有所增加。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/assurance
+> - Despite repeated assurances that the product is safe , many people have stopped buying it. `[例]`
+>   - 中译：尽管一再保证该产品是安全的，但许多人已经停止购买。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/assurance
 
 
 ---

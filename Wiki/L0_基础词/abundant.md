@@ -129,9 +129,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - There is abundant evidence that cars have a harmful effect on the environment . `[例]`
-> - Cheap consumer goods are abundant (= exist in large amounts ) in this part of the world . `[例]`
-> - It is a region with abundant natural resources . `[例]`
+> - Fish are abundant in the lake. `[例]`
+>   - 中译：湖中鱼类丰富。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/abundant
+> - We have abundant evidence to prove his guilt. `[例]`
+>   - 中译：我们有充足的证据证明他有罪。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/abundant
+> - Rainfall is more abundant in summer. `[例]`
+>   - 中译：夏季雨量较为充沛。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/abundant
 
 
 ---

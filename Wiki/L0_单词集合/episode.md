@@ -120,9 +120,15 @@ epi-(在…之上/进入) + [[spec-spect|od]](看/道路，来自希腊语 eisod
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The latest episode of the financial crisis has raised fears of a global recession. `[真题]`
-> - He tried to forget the whole embarrassing episode. `[COCA-ACAD]`
-> - I had an episode of severe chest pain and was rushed to the hospital. `[COCA-ACAD]`
+> - This latest episode in the fraud scandal has shocked a lot of people. `[例]`
+>   - 中译：这起最新的诈骗丑闻震惊了很多人。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/episode
+> - The drugs , the divorce , and the depression - it's an episode in his life that he wants to forget. `[例]`
+>   - 中译：毒品、离婚和抑郁——这是他生命中他想要忘记的一段插曲。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/episode
+> - I had an episode of severe chest pain. `[例]`
+>   - 中译：我有一次严重的胸痛。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/episode
 
 ---
 

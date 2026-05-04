@@ -132,9 +132,15 @@ ac-(=ad-，向) + count(=computare，计算，数)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Women **account for** nearly half of the workforce.（女性占劳动力的近一半。）
-> - How do you **account for** the company's sudden decline in profits?（你如何解释公司利润的突然下降？）
-> - We must take environmental factors into **account** when planning the project.（我们在规划项目时必须将环境因素考虑在内。）
+> - I withdrew my money and asked the bank to close my account. `[例]`
+>   - 中译：我提取了我的钱并要求银行关闭我的账户。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/account
+> - I've opened an account with a building society. `[例]`
+>   - 中译：我已经在建房互助会开设了账户。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/account
+> - I paid the money into my account this morning. `[例]`
+>   - 中译：今天早上我把钱存入了我的账户。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/account
 
 ---
 

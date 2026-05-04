@@ -135,9 +135,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - He leaped out of his car and ran towards the house . `[例]`
-> - I leaped up to answer the phone . `[例]`
-> - The dog leaped over the gate into the field . `[例]`
+> - He leaped out of his car and ran towards the house. `[例]`
+> - I leaped up to answer the phone. `[例]`
+> - The dog leaped over the gate into the field. `[例]`
 
 
 ---

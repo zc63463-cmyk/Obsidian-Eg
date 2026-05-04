@@ -130,7 +130,7 @@ toil 源自盎格鲁-法语 *toil*（争斗，混乱），来自古法语 *toeil
 > [!example]- 语料
 > - Lindi has achieved her comfortable life only after years of hard toil. `[例]`
 > - Well, after a day's toil in the office I like to relax a little. `[例]`
-> - Farm workers have been toiling in the 100-degree heat over the past week . `[例]`
+> - Farm workers have been toiling in the 100-degree heat over the past week. `[例]`
 
 
 ---

@@ -132,9 +132,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - I'll call you when I've finished my homework . `[例]`
+> - I'll call you when I've finished my homework. `[例]`
 > - Please place your questionnaire in the box when you're finished. `[例]`
-> - She finished the concert with a song from her first album . `[例]`
+> - She finished the concert with a song from her first album. `[例]`
 
 
 ---

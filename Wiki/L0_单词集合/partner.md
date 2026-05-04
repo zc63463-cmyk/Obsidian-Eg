@@ -132,9 +132,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The two companies are partners in a contract to build the new power station." `` `[COCA-ACAD]` ``
-> - "He's a partner in a Chicago law firm." `` `[COCA-ACAD]` ``
-> - "The company has partnered with a local charity to raise funds for the community." `` `[真题]` ``
+> - He gave up his job as a police officer after his partner was killed. `[例]`
+>   - 中译：在他的伴侣被杀后，他放弃了警察的工作。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/partner
+> - The two companies are partners in a contract to build the new factory. `[例]`
+>   - 中译：两家公司是合作伙伴，签订了建设新工厂的合同。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/partner
+> - I've invited David and his partner over for dinner. `[例]`
+>   - 中译：我邀请大卫和他的搭档过来吃晚饭。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/partner
 
 ---
 

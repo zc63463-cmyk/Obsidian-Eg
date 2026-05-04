@@ -137,9 +137,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Alina Reyes shot to fame a few years ago with her extraordinary first novel." `[真题]`
-> - "If he's not armed, don't shoot." `[真题]`
-> - "House prices have shot up dramatically over the past decade." `[真题]`
+> - If he's not armed, don't shoot. `[真题]`
+> - The kids were shooting arrows at a target. `[例]`
+> - He has a licence to shoot pheasants on the farmer's land. `[例]`
 
 
 ---

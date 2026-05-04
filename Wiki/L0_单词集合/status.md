@@ -131,9 +131,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - As a result D. status D. in line with D. pioneering D. competed D. `[真题]`
-> - According to Paragraph 1 , the careers of scientists can be determined by __ A. how many citations their works contain B. how many times their papers are cited C. the prestige of the people they work with D. the status they have in scientific circles 37. `[真题]`
-> - The association works to promote the status of retired people as useful members of the community . `[例]`
+> - They were granted refugee status. `[例]`
+>   - 中译：他们获得了难民身份。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/status
+> - The party was denied legal status. `[例]`
+>   - 中译：该党的合法地位被剥夺。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/status
+> - The company investigated the immigration status of its workers. `[例]`
+>   - 中译：该公司调查了其工人的移民身份。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/status
 
 ---
 

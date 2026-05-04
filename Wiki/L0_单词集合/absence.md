@@ -129,9 +129,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "His absence from the meeting was noticed by everyone."（他没来开会，大家都注意到了）——描述缺席
-> - "The project failed in the absence of proper funding."（由于缺乏适当的资金，项目失败了）——描述缺乏
-> - "She did not mention his absence."（她没有提到他的缺席）——考研阅读常见搭配
+> - A new manager was appointed during her absence. `[例]`
+>   - 中译：在她缺席期间任命了一位新经理。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/absence
+> - I'll be gone for two weeks , with Chris handling the deliveries in my absence. `[例]`
+>   - 中译：我将离开两周，克里斯在我缺席期间负责处理送货事宜。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/absence
+> - She has had repeated absences from work this year. `[例]`
+>   - 中译：今年她已经多次旷工。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/absence
 
 ---
 

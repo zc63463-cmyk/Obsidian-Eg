@@ -130,10 +130,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The government adopted a cautious approach to economic reform."（政府采取了谨慎的经济改革方法）——政治话题
-> - "Investors remain cautious about the stock market outlook."（投资者对股市前景保持谨慎）——金融话题
-> - "She is a cautious driver who never exceeds the speed limit."（她是一个谨慎的司机，从不超速）——生活话题
-> - "Scientists expressed cautious optimism about the new treatment."（科学家对这种新疗法表达了谨慎的乐观态度）——科学话题
+> - He's a cautious driver. `[例]`
+>   - 中译：他是一个谨慎的司机。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/cautious
+> - Environmental groups are expressing cautious optimism that an agreement to protect the area can be reached. `[例]`
+>   - 中译：环保组织对能够达成保护该地区的协议表示谨慎乐观。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/cautious
+> - The prime minister was extremely cautious, saying nothing inflammatory and giving no hostages to fortune. `[例]`
+>   - 中译：首相极其谨慎，不说任何煽动性的话，也不让财富为人质。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/cautious
 
 ---
 

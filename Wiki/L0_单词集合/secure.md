@@ -144,10 +144,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - He was disappointed by his failure to secure the top job with the bank. `[COCA-ACAD]`
-> - Children need to feel secure in order to do well at school. `[COCA-ACAD]`
-> - The change in the law will make it harder for the police to secure convictions. `[COCA-ACAD]`
-> - The company has established a secure foothold in the market. `[COCA-ACAD]`
+> - Check that all windows and doors are secure. `[例]`
+>   - 中译：检查所有门窗是否牢固。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/secure
+> - Her promotion has made her position in the company more secure. `[例]`
+>   - 中译：她的晋升使她在公司的地位更加稳固。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/secure
+> - The museum has been promised $22 million by the government , so its future is relatively secure. `[例]`
+>   - 中译：该博物馆已获得政府承诺2200万美元的资助，因此其未来相对有保障。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/secure
 
 ---
 

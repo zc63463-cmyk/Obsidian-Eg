@@ -127,10 +127,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The flight was delayed due to bad weather." `[COCA-ACAD]`
-> - "The improvement was due to a higher level of gold ore treated during the period." `[COCA-ACAD]`
-> - "The two oil companies, which are due to merge in February, also provide considerable technical assistance." `[COCA-ACAD]`
-> - "He also committed 27 errors, but many were due to inexperience." `[COCA-ACAD]`
+> - What time is the next bus due? `[例]`
+>   - 中译：下一趟巴士几点到站？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/due
+> - The package is due to arrive tomorrow. `[例]`
+>   - 中译：包裹预计明天到达。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/due
+> - The next meeting is due to be held in three months ' time. `[例]`
+>   - 中译：下次会议定于三个月后举行。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/due
 
 ---
 

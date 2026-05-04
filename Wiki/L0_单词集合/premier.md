@@ -127,8 +127,15 @@ pre-(在前面) + prim/pre(第一) + -er(名词/形容词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The premier emphasized the importance of innovation in driving the country's economic development."（总理强调了创新在推动国家经济发展中的重要性。）——考研高频表达
-> - "The university is considered the premier institution for studying engineering in the region."（该大学被认为是该地区学习工程学的顶尖学府。）——考研高频表达
+> - He's one of the nation's premier scientists. `[例]`
+>   - 中译：他是美国最杰出的科学家之一。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/premier
+> - She's one of the UK's premier historians. `[例]`
+>   - 中译：她是英国最重要的历史学家之一。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/premier
+> - We stayed at one of Edinburgh's premier hotels. `[例]`
+>   - 中译：我们住在爱丁堡最好的酒店之一。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/premier
 ---
 
 

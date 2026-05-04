@@ -129,9 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Now that's naughty - don't throw food on the floor ! `[例]`
-> - Our boss treats us all like naughty children . `[例]`
-> - I'm afraid I borrowed your car without asking ." "Yes, that was very naughty of you - I needed it at the weekend ! `[例]`
+> - Now that's naughty - don't throw food on the floor! `[例]`
+> - Our boss treats us all like naughty children. `[例]`
+> - I'm afraid I borrowed your car without asking ." "Yes, that was very naughty of you - I needed it at the weekend! `[例]`
 
 
 ---

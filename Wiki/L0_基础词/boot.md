@@ -131,9 +131,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Don't forget your boots and shin pads . `[例]`
-> - I always keep a blanket and a toolkit in the boot for emergencies . `[例]`
-> - Stolen goods were found in the boot of her car . `[例]`
+> - She wore black knee-high boots. `[例]`
+>   - 中译：她穿着黑色及膝靴。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/boot
+> - Did you lock the boot? `[例]`
+>   - 中译：你锁好行李箱了吗？
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/boot
+> - What have you got in the boot? `[例]`
+>   - 中译：你的后备箱里有什么？
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/boot
 
 
 ---

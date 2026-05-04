@@ -130,8 +130,8 @@ tune 源自古法语 *ton*，源自拉丁语 *tonus*（音调、声音），最�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - He was humming a tune as he dried the dishes . `[例]`
-> - That's a very catchy tune (= easy to remember and pleasant ) . `[例]`
+> - He was humming a tune as he dried the dishes. `[例]`
+> - That's a very catchy tune (= easy to remember and pleasant ). `[例]`
 > - The piano is out of tune. `[例]`
 
 

@@ -141,7 +141,7 @@ flat 源自古诺尔斯语 *flatr*（平坦的），原始日耳曼语 *\*flata-
 > [!example]- 语料
 > - An ice rink needs to be completely flat. `[例]`
 > - Much of the countryside in that region is very flat. `[例]`
-> - I usually prefer to wear flat shoes (= ones without a raised heel ) . `[例]`
+> - I usually prefer to wear flat shoes (= ones without a raised heel ). `[例]`
 
 
 ---

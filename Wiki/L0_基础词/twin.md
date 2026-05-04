@@ -128,7 +128,7 @@ twin 源自古英语 *twinn*（双倍的、成对的），原始日耳曼语 *\*
 ## 真题/语料关联
 
 > [!example]- 语料
-> - My sister has twin sons . `[例]`
+> - My sister has twin sons. `[例]`
 > - The two countries are often regarded as economic twins. `[例]`
 > - A car with twin exhausts. `[例]`
 

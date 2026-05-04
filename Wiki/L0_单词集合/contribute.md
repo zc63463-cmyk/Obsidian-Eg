@@ -127,9 +127,15 @@ con-(共同、一起) + [[fer|trib]](=ferre，带来) + -ute(动词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Even the very phrase "jobseeker's allowance" is about redefining the unemployed as a "jobseeker" who had no fundamental right to a benefit he or she has earned through making national insurance contributions. `[真题]`
-> - Many people contributed to the success of the event. `[COCA-ACAD]`
-> - Several factors contributed to the decline of the industry. `[例]`
+> - Aren't you going to contribute towards Jack's leaving present? `[例]`
+>   - 中译：你不打算为杰克的临别礼物出一份力吗？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/contribute
+> - Come to the meeting if you feel you have something to contribute. `[例]`
+>   - 中译：如果您觉得自己有贡献，请参加会议。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/contribute
+> - Her family has contributed $50,000 to the fund. `[例]`
+>   - 中译：她的家人已向该基金捐款 50,000 美元。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/contribute
 
 ---
 

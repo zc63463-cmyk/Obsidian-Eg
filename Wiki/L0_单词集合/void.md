@@ -136,9 +136,15 @@ void 本身为词根（源自拉丁语 vacuus "空的"），建议创建词根�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She stood at the edge of the chasm and stared into the void. `[例]`
-> - Before Einstein, space was regarded as a formless void. `[例]`
-> - They tried to describe their attempts to fill the void left by their son's death . `[例]`
+> - Below him was nothing but a black void. `[例]`
+>   - 中译：他的下方，除了一片漆黑的虚空之外，什么也没有。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/void
+> - She sat staring into the void, emptying her mind of all thoughts. `[例]`
+>   - 中译：她坐在那儿，凝视着虚空，清空了所有的思绪。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/void
+> - The void left by his mother's death was never filled. `[例]`
+>   - 中译：母亲去世留下的空白从未被填补。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/void
 ---
 
 

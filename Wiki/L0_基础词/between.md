@@ -126,9 +126,15 @@ be-/bi-（在，附近）+ twēon/twīhnum（二，古英语与"two"同源）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The town lies halfway between Rome and Florence. `[COCA-ACAD]`
-> - There is a fine line between confidence and arrogance. `[例]`
-> - Let's keep this between us. `[BNC-SPOKEN]`
+> - Q comes between P and R in the English alphabet. `[例]`
+>   - 中译：Q 在英语字母表中位于 P 和 R 之间。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/between
+> - Switzerland lies between France, Germany, Austria and Italy. `[例]`
+>   - 中译：瑞士位于法国、德国、奥地利和意大利之间。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/between
+> - The paper had fallen down between the desk and the wall. `[例]`
+>   - 中译：纸张掉在桌子和墙壁之间。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/between
 
 
 ---

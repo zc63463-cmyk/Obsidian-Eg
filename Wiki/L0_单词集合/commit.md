@@ -132,8 +132,15 @@ com-(完全，加强) + mit(发送，交付)
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - "The government has committed significant resources to fighting climate change."（政府已投入大量资源应对气候变化。）——考研阅读真题
-> - "He committed himself to finishing the project by the end of the year."（他承诺在年底前完成这个项目。）——考研高频表达
+> - He was sent to prison for a crime that he didn't commit. `[例]`
+>   - 中译：他因未犯下的罪行而被送进监狱。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/commit
+> - Soldiers who obey orders to commit atrocities should be answerable for their crimes. `[例]`
+>   - 中译：服从命令实施暴行的士兵应该为自己的罪行承担责任。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/commit
+> - They were imprisoned for incitement to commit grievous bodily harm. `[例]`
+>   - 中译：他们因煽动严重身体伤害而被监禁。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/commit
 
 ---
 

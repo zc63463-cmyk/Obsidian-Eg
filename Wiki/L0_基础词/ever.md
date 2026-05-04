@@ -131,7 +131,7 @@ review_count: 0
 
 > [!example]- 语料
 > - He captured the first-ever shots of iconic landmarks such as the Tetons, Old Faithful and the Colorado Rockies. `[真题]`
-> - Nothing ever happens here in the evening . `[例]`
+> - Nothing ever happens here in the evening. `[例]`
 > - Have you ever been to London? `[例]`
 
 

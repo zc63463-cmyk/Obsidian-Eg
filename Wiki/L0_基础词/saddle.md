@@ -129,9 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The new manager found himself saddled with problems left by his predecessor. `[外刊]`
-> - The corporation is no longer saddled with a huge debt after the restructuring. `[外刊]`
-> - They saddled me with cleaning up after the party. `[外刊]`
+> - The new manager found himself saddled with problems left by his predecessor. `[例]`
+> - The corporation is no longer saddled with a huge debt after the restructuring. `[例]`
+> - They saddled me with cleaning up after the party. `[例]`
 
 
 ---

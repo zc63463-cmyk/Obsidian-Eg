@@ -3,10 +3,8 @@ title: "unaccountably"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-25
-mastery: L0
 word_freq: 超纲词
 semantic_field: 抽象关系
 prototype: 无法解释地（无法被算清/说明原因）
@@ -43,7 +41,7 @@ un-(不，否定前缀) + [[count|count]](计算) + -able(可被...的) + -ly(�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**无法解释地**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **无法解释地**（认知层面）
@@ -64,7 +62,7 @@ un-(不，否定前缀) + [[count|count]](计算) + -able(可被...的) + -ly(�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +73,7 @@ un-(不，否定前缀) + [[count|count]](计算) + -able(可被...的) + -ly(�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > account（账目/说明）+ un-（不）→ 账算不清 → 事说不通。unaccountably 就是"莫名其妙地"。She was unaccountably happy.（她莫名其妙地开心——找不到开心原因，就像一笔糊涂账。）
@@ -87,7 +85,7 @@ un-(不，否定前缀) + [[count|count]](计算) + -able(可被...的) + -ly(�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ un-(不，否定前缀) + [[count|count]](计算) + -able(可被...的) + -ly(�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[accountably]]：可解释地，负责任地
 > - [[explainably]]：可解释地
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,26 +115,19 @@ un-(不，否定前缀) + [[count|count]](计算) + -able(可被...的) + -ly(�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **unaccountably nervous/frightened**：莫名其妙地紧张/害怕
 > - **unaccountably disappear/vanish**：莫名其妙地消失
 > - **feel unaccountably**：感到莫名其妙地……
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - I felt unaccountably happy this morning . `[例]`
-> - Unaccountably, the lawyer never called this supposed witness . `[例]`
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-25 | **复习次数**：0 | **当前等级**：L0
-
----
+> [!example]- 语料
+> - I felt unaccountably happy this morning. `[例]`
+> - Unaccountably, the lawyer never called this supposed witness. `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -132,10 +132,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She is one of the most imaginative writers of her generation. `[真题]`
-> - The artist's imaginative approach to painting brought a fresh perspective to the gallery. `[COCA-ACAD]`
-> - The company needs an imaginative approach to solve this problem. `[COCA-ACAD]`
-> - His imaginative storytelling captivated the audience. `[COCA-ACAD]`
+> - The architects have made imaginative use of glass and transparent plastic. `[例]`
+>   - 中译：建筑师们富有想象力地使用了玻璃和透明塑料。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/imaginative
+> - You’ll need to be a little more imaginative if you want to hold their attention. `[例]`
+>   - 中译：如果你想吸引他们的注意力，你需要更有想象力。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/imaginative
+> - She wrote an imaginative story about life on the planet Venus. `[例]`
+>   - 中译：她写了一个关于金星上生命的富有想象力的故事。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/imaginative
 
 ---
 

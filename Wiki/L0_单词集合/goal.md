@@ -125,7 +125,15 @@ goal（源自中古英语 gol"边界、标记"，与 [[base]] 同源，原指"�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The government has set ambitious goals for economic growth in the next decade.（政府为未来十年的经济增长设定了宏伟目标。）
+> - Black headed the ball into the goal. `[例]`
+>   - 中译：布莱克头球攻门。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/goal
+> - She won the ball and ran towards the goal. `[例]`
+>   - 中译：她赢得了球并向球门跑去。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/goal
+> - Brazil won by three goals to one. `[例]`
+>   - 中译：巴西队以三比一获胜。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/goal
 
 ---
 

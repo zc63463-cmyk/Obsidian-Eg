@@ -127,9 +127,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - There have been monumental social and demographic changes in the country . `[例]`
-> - This demographic ( young teenagers ) is the fastest-growing age group using the site . `[例]`
-> - More than any other demographic group , it is the educated young adult who has been the industry’s favorite customer . `[例]`
+> - There have been monumental social and demographic changes in the country. `[例]`
+>   - 中译：该国发生了巨大的社会和人口变化。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/demographic
+> - This demographic ( young teenagers ) is the fastest-growing age group using the site. `[例]`
+>   - 中译：这一人群（青少年）是使用该网站增长最快的年龄组。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/demographic
+> - More than any other demographic group , it is the educated young adult who has been the industry’s favorite customer. `[例]`
+>   - 中译：与其他人口群体相比，受过教育的年轻人更成为该行业最受欢迎的客户。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/demographic
 
 ---
 

@@ -3,10 +3,8 @@ title: "overwork"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-25
-mastery: L0
 word_freq: 超纲词
 semantic_field: 人本世界
 prototype: 工作过度
@@ -44,7 +42,7 @@ over-(过度) + work(工作)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**工作过度**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **工作过度**（时间/精力层面）
@@ -65,7 +63,7 @@ over-(过度) + work(工作)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ over-(过度) + work(工作)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > over（过度）+ work（工作）→ 工作过度。日本有个词叫"过劳死"——karoshi，英文就是 death from overwork。你连续加班一个月——you are overworking yourself。记住：work hard, but don't overwork。
@@ -88,7 +86,7 @@ over-(过度) + work(工作)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ over-(过度) + work(工作)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[underwork]]：工作不足（overwork 的反义：工作过度↔工作不足）
 > - [[relax]]：放松
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -116,26 +114,19 @@ over-(过度) + work(工作)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **overwork oneself**：使自己工作过度
 > - **die from overwork**：过劳死
 > - **suffer from overwork**：因过度工作而受苦
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - `[例]` Many employees overwork themselves to meet unreasonable deadlines.
-> - `[例]` Prolonged overwork can lead to serious health problems including burnout.
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-25 | **复习次数**：0 | **当前等级**：L0
-
----
+> [!example]- 语料
+> - You look exhausted - I hope they're not overworking you. `[例]`
+> - She overworks her staff. `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

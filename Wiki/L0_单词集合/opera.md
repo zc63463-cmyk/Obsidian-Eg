@@ -133,8 +133,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Carmen" is my favourite opera. `[例]`
+>   - 中译：《卡门》是我最喜欢的歌剧。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/opera
 > - I've never been a huge fan of opera. `[例]`
+>   - 中译：我从来都不是歌剧的忠实粉丝。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/opera
 > - He goes to the opera (= to see an opera) whenever he can. `[例]`
+>   - 中译：他一有机会就去歌剧院（=看歌剧）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/opera
 
 ---
 

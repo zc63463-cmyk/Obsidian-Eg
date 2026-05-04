@@ -131,9 +131,15 @@ over-（在……上方）+ lap（重叠，搭接）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "There is considerable overlap between the two academic disciplines." `` `[COCA-ACAD]` ``
-> - "Baseball season overlaps football season in September." `` `[COCA-ACAD]` ``
-> - "Some of your duties overlap his." `` `[COCA-ACAD]` ``
+> - The fence is made of panels that overlap (each other). `[例]`
+>   - 中译：栅栏由（彼此）重叠的面板制成。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/overlap
+> - My musical tastes don't overlap with my brother's at all. `[例]`
+>   - 中译：我的音乐品味与我哥哥的完全不重叠。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/overlap
+> - The roof tiles will need an overlap of several centimetres. `[例]`
+>   - 中译：屋顶瓦片需要重叠几厘米。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/overlap
 
 ---
 

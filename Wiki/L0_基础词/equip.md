@@ -122,9 +122,9 @@ equip（源自古法语 *esquiper* "装备一艘船"，可能源自古诺斯语 
 ## 真题/语料关联
 
 > [!example]- 语料
-> - A. ruins B. debt C. fashion Section Il Reading Comprehension Part A Directions: D. equipped D. permanently D. combination D. connect D. along with D. evaluation D. reduced D. opposed D. in case D. meeting D. `[真题]`
-> - It's going to cost $4 million to equip the hospital . `[例]`
+> - It's going to cost $4 million to equip the hospital. `[例]`
 > - All the police officers were equipped with shields to defend themselves against the rioters. `[例]`
+> - The thieves equipped themselves with duplicate keys to the safe. `[例]`
 
 
 ---

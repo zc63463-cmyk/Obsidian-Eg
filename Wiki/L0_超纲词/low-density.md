@@ -3,10 +3,8 @@ title: "low-density"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 自然物理
 prototype: 密度低的（单位面积/体积内含量少的）
@@ -43,7 +41,7 @@ low（低的）+ density（密度，来自 dense + -ity）→ **低密度的**
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**密度低的**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **密度低的**（物理层面）
@@ -66,7 +64,7 @@ low（低的）+ density（密度，来自 dense + -ity）→ **低密度的**
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ low（低的）+ density（密度，来自 dense + -ity）→ **低密度的**
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **词拆分记忆**：
 > low（低）+ density（密度）→ 密度低的。想象两个社区：一个高楼林立、人挤人（high-density），另一个别墅散落、绿树成荫（low-density）。
@@ -89,7 +87,7 @@ low（低的）+ density（密度，来自 dense + -ity）→ **低密度的**
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +100,13 @@ low（低的）+ density（密度，来自 dense + -ity）→ **低密度的**
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[high-density]]：高密度的（low-density ↔ high-density，精确反义）
 > - [[dense]]：密集的（低密度 ↔ 密集）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +118,7 @@ low（低的）+ density（密度，来自 dense + -ity）→ **低密度的**
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **low-density housing**：低密度住宅
 > - **low-density area**：低密度区域（人口稀疏区）
 > - **low-density material**：低密度材料
@@ -129,19 +127,12 @@ low（低的）+ density（密度，来自 dense + -ity）→ **低密度的**
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - Low density housing with gardens is by far the best for young families . `[例]`
+> [!example]- 语料
+> - Low density housing with gardens is by far the best for young families. `[例]`
 > - A low density substance has a low mass in relation to its size. `[例]`
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

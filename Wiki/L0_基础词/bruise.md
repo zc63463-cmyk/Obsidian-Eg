@@ -125,9 +125,15 @@ bruise（源自古法语 *bruisier*，弄碎，可能与拉丁语 *frustum* 碎�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - His arms and back were covered in bruises. `[例]`
-> - She had a few cuts and bruises, but nothing serious . `[例]`
-> - One or two of the peaches had bruises on them. `[例]`
+> - His legs were covered in bruises. `[例]`
+>   - 中译：他的腿上满是瘀伤。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bruise
+> - She suffered only minor cuts and bruises. `[例]`
+>   - 中译：她只受了轻微的割伤和擦伤。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bruise
+> - He had a bad bruise on his leg after he fell. `[例]`
+>   - 中译：他摔倒后腿上受了重伤。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/bruise
 
 
 ---

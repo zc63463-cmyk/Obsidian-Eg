@@ -122,9 +122,15 @@ com-(=con-, 共同/一起) + [[menc-mence|menc-/mence]](开始，拉丁语 *comm
 ## 真题/语料关联
 
 > [!example]- 语料
-> - We will commence building work in August of next year . `[例]`
-> - Shall we let the meeting commence? `[例]`
-> - Unfortunately, he commenced speak ing before all the guests had finished eating . `[例]`
+> - The meeting is scheduled to commence at noon. `[例]`
+>   - 中译：会议定于中午开始。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/commence
+> - I will be on leave during the week commencing 15 February. `[例]`
+>   - 中译：我将从 2 月 15 日开始的一周内休假。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/commence
+> - The day commenced with a welcome from the principal. `[例]`
+>   - 中译：这一天在校长的欢迎中开始。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/commence
 
 
 ---

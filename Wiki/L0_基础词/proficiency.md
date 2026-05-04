@@ -126,9 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The job ad said they wanted proficiency in at least two languages . `[例]`
+> - The job ad said they wanted proficiency in at least two languages. `[例]`
 > - Photographs entered in the contest will be judged on originality and technical proficiency. `[例]`
-> - Candidates must be able to demonstrate a high level of proficiency in both languages . `[例]`
+> - Candidates must be able to demonstrate a high level of proficiency in both languages. `[例]`
 
 
 ---

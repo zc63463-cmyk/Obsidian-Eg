@@ -130,9 +130,15 @@ re-(回/反) + [[sist|sist]](站立) + -ant(形容词后缀，表"……的")
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "If people in the network just two degrees removed from the initial influential prove resistant, the cascade of change won't propagate very far or affect many people." `[真题]`
-> - "UK consumers have proved highly resistant to genetically modified foods of all kinds." `[COCA-ACAD]`
-> - "Researchers are worried that some strains may be becoming resistant to conventional medicines." `[COCA-ACAD]`
+> - Why are you so resistant to change? `[例]`
+>   - 中译：为什么你如此抗拒改变？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/resistant
+> - Mosquitoes are becoming resistant to insecticides. `[例]`
+>   - 中译：蚊子对杀虫剂产生了抗药性。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/resistant
+> - Elderly people are not always resistant to change. `[例]`
+>   - 中译：老年人并不总是抵制改变。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/resistant
 
 
 ---

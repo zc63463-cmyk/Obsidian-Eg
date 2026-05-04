@@ -3,10 +3,8 @@ title: "snapshot"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-25
-mastery: L0
 word_freq: 超纲词
 semantic_field: 物品工具
 prototype: 快照，快速拍摄的照片
@@ -44,7 +42,7 @@ snap(快速咬合/咔嚓一声) + shot(射击/拍摄)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**快照，快速拍摄的照片**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **快照**（摄影层面）
@@ -68,7 +66,7 @@ snap(快速咬合/咔嚓一声) + shot(射击/拍摄)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -79,7 +77,7 @@ snap(快速咬合/咔嚓一声) + shot(射击/拍摄)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > snap（咔嚓）+ shot（拍摄）→ 快照。相机"咔嚓"一声拍下的就是 snapshot。a snapshot of the economy 就像给经济拍了一张"照片"——记录它在某一时刻的样子。snapshot 就是"时间的一张照片"。
@@ -91,7 +89,7 @@ snap(快速咬合/咔嚓一声) + shot(射击/拍摄)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,13 +102,13 @@ snap(快速咬合/咔嚓一声) + shot(射击/拍摄)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[portrait]]：肖像画，正式照片（snapshot 的反义：快照↔精心拍摄的肖像）
 > - [[panorama]]：全景（snapshot 的反义：瞬间记录↔全景展示）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,26 +119,19 @@ snap(快速咬合/咔嚓一声) + shot(射击/拍摄)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a snapshot of**：……的快照/概况
 > - **take a snapshot**：拍一张快照
 > - **a snapshot survey**：快速调查
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - Credit rating agencies provide a snapshot of the risks an investment poses at any one time . `[例]`
+> [!example]- 语料
+> - Credit rating agencies provide a snapshot of the risks an investment poses at any one time. `[例]`
 > - Snapshots of the children. `[例]`
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-25 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

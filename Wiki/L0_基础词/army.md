@@ -124,9 +124,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - When did you join the army? `[例]`
-> - He has decided on a career in the British Army. `[例]`
-> - The minister is believed to have been killed by the rebel army. `[例]`
+> - The two opposing armies faced each other across the battlefield. `[例]`
+>   - 中译：两军在战场上对峙。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/army
+> - He commanded the army of occupation after the war. `[例]`
+>   - 中译：战后他指挥占领军。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/army
+> - Her sister is in the army. `[例]`
+>   - 中译：她的姐姐在军队里。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/army
 
 
 ---

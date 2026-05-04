@@ -121,9 +121,15 @@ vol-(意志、意愿) + -unt(连接成分) + -eer(表示"人"的后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The health clinic is relying on volunteers to run the office and answer the phones . `[例]`
-> - Since it would be a highly dangerous mission , the Lieutenant asked for volunteers. `[例]`
-> - It's a volunteer army with no paid professionals . `[例]`
+> - Schools need volunteers to help children to read. `[例]`
+>   - 中译：学校需要志愿者帮助孩子们阅读。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/volunteer
+> - She does volunteer work at an orphanage. `[例]`
+>   - 中译：她在一家孤儿院做志愿者。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/volunteer
+> - She was a volunteer for the Red Cross before training as a nurse. `[例]`
+>   - 中译：在接受护士培训之前，她是红十字会的一名志愿者。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/volunteer
 
 ---
 

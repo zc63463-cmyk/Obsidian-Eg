@@ -137,10 +137,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He went bankrupt after only a year in business." `[COCA-NEWS]`
-> - "The recession has led to many small businesses going bankrupt." `[COCA-NEWS]`
-> - "He believes that modern society is morally bankrupt." `[COCA-ACAD]`
-> - "If I don't find a job, I'll be bankrupt in two months." `[COCA-SPOKEN]`
+> - The company was declared bankrupt in the High Court. `[例]`
+>   - 中译：该公司被高等法院宣布破产。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bankrupt
+> - As a lawyer, she specialized in working with bankrupts. `[例]`
+>   - 中译：作为一名律师，她专门从事与破产人打交道的工作。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/bankrupt
+> - The lawsuit could leave them bankrupt. `[例]`
+>   - 中译：这起诉讼可能会让他们破产。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/bankrupt
 
 
 ---

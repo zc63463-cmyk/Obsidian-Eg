@@ -122,9 +122,15 @@ con-(共同、一起) + vene-(=venire，来) → 共同来到一起
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The committee will convene next week to discuss the proposed changes. `[COCA-ACAD]`
-> - A special session was convened to address the emergency. `[COCA-ACAD]`
-> - The United Nations General Assembly convenes annually in September. `[例]`
+> - The prime minister convened (a meeting of) his cabinet to discuss the matter. `[例]`
+>   - 中译：首相召开内阁会议来讨论此事。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/convene
+> - The council will be convening on the morning of the 25th. `[例]`
+>   - 中译：理事会将于25日上午召开。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/convene
+> - Peace talks will convene next month. `[例]`
+>   - 中译：和平谈判将于下个月举行。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/convene
 
 ---
 

@@ -125,8 +125,15 @@ col-(共同，一起，[[com]]变体) + lid(打击、撞击)
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - "Two trains collided head-on, causing dozens of casualties."（两列火车正面相撞，造成数十人伤亡。）——考研阅读真题
-> - "The interests of environmental protection and economic development often collide."（环境保护和经济发展的利益经常发生冲突。）——考研高频表达
+> - The two vans collided at the crossroads. `[例]`
+>   - 中译：两辆货车在十字路口相撞。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/collide
+> - It was predicted that a comet would collide with one of the planets. `[例]`
+>   - 中译：据预测，一颗彗星将与其中一颗行星相撞。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/collide
+> - He went off the road to avoid colliding with another car. `[例]`
+>   - 中译：他离开道路以避免与另一辆车相撞。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/collide
 
 ---
 

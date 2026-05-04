@@ -124,8 +124,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Militant groups demanding political reform have staged protests across the country."（要求政治改革的激进组织在全国范围内发起了抗议活动。）——考研高频表达
-> - "The militant attitude of some environmental activists has drawn both praise and criticism."（一些环保活动家的激进态度既赢得了赞扬也招致了批评。）——考研高频表达
+> - The group has taken a militant position on the abortion issue and is refusing to compromise. `[例]`
+>   - 中译：该组织在堕胎问题上采取了激进立场，拒绝妥协。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/militant
+> - Militants within the party are demanding radical reforms. `[例]`
+>   - 中译：党内的激进分子要求进行彻底的改革。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/militant
+> - The militants now threaten the security and stability of the country. `[例]`
+>   - 中译：武装分子现在威胁到国家的安全与稳定。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/militant
 
 ---
 

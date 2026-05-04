@@ -130,10 +130,10 @@ mend 源自古英语 *mendian*（修复），可能与拉丁语 *mendax*（错�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "We don't have to learn how to be mentally healthy; it is built into us in the same way that our bodies know how to heal a cut or mend a broken bone." `[真题]`
-> - "I felt that might well mend the rift between them." `[真题]`
-> - "Luckily they were able to mend the car on the spot." `[真题]`
-> - "He has promised drastic disciplinary action if they do not mend their ways." `[真题]`
+> - We don't have to learn how to be mentally healthy; it is built into us in the same way that our bodies know how to heal a cut or mend a broken bone. `[真题]`
+> - I felt that might well mend the rift between them. `[真题]`
+> - Luckily they were able to mend the car on the spot. `[真题]`
+> - He has promised drastic disciplinary action if they do not mend their ways. `[真题]`
 
 
 ---

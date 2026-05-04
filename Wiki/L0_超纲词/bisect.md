@@ -3,10 +3,8 @@ title: "bisect"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 理性世界
 prototype: 切成两半
@@ -42,7 +40,7 @@ bi-(二/两) + [[sec-sect|sect]](切)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**切成两半**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **切成两半**（物理动作层面）
@@ -63,7 +61,7 @@ bi-(二/两) + [[sec-sect|sect]](切)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -73,7 +71,7 @@ bi-(二/两) + [[sec-sect|sect]](切)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > bi（二）+ sect（切）→ bisect（切成两半）。一条河 bisects 一座城市，就是把城市切成两半。数学中 bisect an angle 就是画一条线把角切成两个相等的角。
@@ -85,7 +83,7 @@ bi-(二/两) + [[sec-sect|sect]](切)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -98,13 +96,13 @@ bi-(二/两) + [[sec-sect|sect]](切)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[unite]]：联合，合并（一分为二↔合二为一）
 > - [[merge]]：合并（分开↔合并）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -115,7 +113,7 @@ bi-(二/两) + [[sec-sect|sect]](切)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **bisect an angle**：平分一个角
 > - **bisect a line**：平分一条线段
 > - **a river bisects the city**：一条河将城市一分为二
@@ -123,19 +121,12 @@ bi-(二/两) + [[sec-sect|sect]](切)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - A narrow river bisects the old town into two distinct halves. `[例]`
 > - In geometry class, students learned how to bisect an angle using a compass and straightedge. `[例]`
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
-
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

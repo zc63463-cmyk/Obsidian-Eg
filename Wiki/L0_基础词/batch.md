@@ -125,10 +125,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "We looked at the job applications in two batches." `[COCA-ACAD]`
-> - "I've got a whole batch of applications to read through." `[COCA-ACAD]`
-> - "The first batch of his 119 shirts sold out within two weeks." `[COCA-NEWS]`
-> - "Modern computer systems use batch processing to handle large volumes of data efficiently." `[例]`
+> - Each summer a new batch of students tries to find work. `[例]`
+>   - 中译：每年夏天，一批新的学生都会尝试找工作。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/batch
+> - He worked his way through the next batch of emails and messages. `[例]`
+>   - 中译：他继续处理下一批电子邮件和消息。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/batch
+> - We deliver the goods in batches. `[例]`
+>   - 中译：我们分批发货。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/batch
 
 
 ---

@@ -128,10 +128,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The country is experiencing a severe economic crisis. `[真题]`
-> - They could still invalidate Fourth Amendment protections when facing severe, urgent circumstances. `[真题]`
-> - The fire has caused severe damage to the building. `[COCA-ACAD]`
-> - He faces severe penalties for his actions. `[COCA-ACAD]`
+> - Waterstones branches suffer a severe reduction in revenue. `[真题]`
+>   - 中译：Waterstones 分支机构的收入严重减少。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - This is a school for children with severe learning difficulties. `[例]`
+>   - 中译：这是一所为有严重学习困难的儿童开设的学校。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/severe
+> - There is expected to be a severe frost tonight. `[例]`
+>   - 中译：预计今晚将有严重霜冻。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/severe
 
 ---
 

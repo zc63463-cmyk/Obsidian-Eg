@@ -130,8 +130,8 @@ review_count: 0
 
 > [!example]- 语料
 > - A major naval battle was fought near here. `[例]`
-> - Many diplomats attended a naval review to mark the anniversary of the end of the war . `[例]`
-> - Allegations of sexual harassment have led to disciplinary proceedings being taken against three naval officers . `[例]`
+> - Many diplomats attended a naval review to mark the anniversary of the end of the war. `[例]`
+> - Allegations of sexual harassment have led to disciplinary proceedings being taken against three naval officers. `[例]`
 
 
 ---

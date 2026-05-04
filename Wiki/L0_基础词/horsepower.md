@@ -125,7 +125,7 @@ horsepower（1805年，由 horse "马" + power "力量、功率" 组成的复合
 > [!example]- 语料
 > - That architectural firm probably doesn't have the creative horsepower to produce a truly innovative design. `[例]`
 > - The top variant features a tri-motor all-wheel-drive system capable of producing up to 955 horsepower , placing it among the more powerful electric vehicles currently available. `[例]`
-> - The Launch Package version of the 2027 R2 Performance model starts at about $58,000 and features a dual-motor, all-wheel-drive powertrain producing 656 horsepower . `[例]`
+> - The Launch Package version of the 2027 R2 Performance model starts at about $58,000 and features a dual-motor, all-wheel-drive powertrain producing 656 horsepower. `[例]`
 
 
 ---

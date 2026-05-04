@@ -134,10 +134,15 @@ count 源自拉丁语 *computare*（计算），*com-*（一起）+ *putare*（�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - In a democracy, every vote counts. `[真题]`
-> - She counted herself fortunate to have survived the accident. `[真题]`
-> - I've lost count of how many times she's been late for work this month. `[语料库]`
-> - Experience counts for a lot in poker. `[语料库]`
+> - She can count up to 10 in Italian. `[例]`
+>   - 中译：她可以用意大利语数到10。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/count
+> - They're still counting votes in Texas. `[例]`
+>   - 中译：他们仍在德克萨斯州计票。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/count
+> - I can't count the number of times I've eaten there (= I've eaten there very many times). `[例]`
+>   - 中译：我已经数不清我在那里吃过多少次了（=我在那里吃过很多次）。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/count
 
 
 ---

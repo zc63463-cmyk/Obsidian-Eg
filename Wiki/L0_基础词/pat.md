@@ -138,9 +138,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He deserves a pat on the back for all his hard work." `[Oxford Learners]`
-> - "She patted her hair to make sure it was neat." `[Cambridge Corpus]`
-> - "Serve with a pat of butter and a sprinkle of flaky salt." `[Southern Living]`
+> - He deserves a pat on the back for all his hard work. `[例]`
+> - She patted her hair to make sure it was neat. `[例]`
+> - Pat Hardy, who sympathises with the views of the energy sector, is resisting proposed changes 1to science standards for pre-teen pupils. `[真题]`
 
 
 ---

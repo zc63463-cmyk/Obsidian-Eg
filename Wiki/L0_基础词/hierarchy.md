@@ -130,7 +130,7 @@ review_count: 0
 
 > [!example]- 语料
 > - Some monkeys have a very complex social hierarchy. `[例]`
-> - Every organization has a hierarchy, and trying to understand that, and the systems and processes of the organization , is important . `[例]`
+> - Every organization has a hierarchy, and trying to understand that, and the systems and processes of the organization , is important. `[例]`
 > - When the recommendations had been submitted and approved by the hierarchy, teams were established to manage the process of implementing them. `[例]`
 
 

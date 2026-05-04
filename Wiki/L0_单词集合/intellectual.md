@@ -130,9 +130,15 @@ intel-(=inter-，在…之间) + [[lect-leg|lect]](阅读/选择) + -ual(形容�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Is it true that the American intellectual is rejected and considered of no account in his society? `[真题]`
-> - High levels of lead could damage the intellectual development of children. `[COCA-ACAD]`
-> - They need both intellectual stimulation and a grasp of the wider context in which they work. `[COCA-ACAD]`
+> - The publishing industry talks about diversity in terms of authors and staff but it also needs a plurality of ways of delivering intellectual contact, choice and different voices. `[真题]`
+>   - 中译：出版业谈论作者和员工的多样性，但它也需要多种方式来提供知识接触、选择和不同的声音。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - Looking after a baby at home all day is nice but it doesn't provide much intellectual stimulation. `[例]`
+>   - 中译：整天在家照顾婴儿固然很好，但并不能提供太多的智力刺激。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/intellectual
+> - I like detective stories and romances - nothing too intellectual. `[例]`
+>   - 中译：我喜欢侦探小说和爱情小说——没有什么太理智的。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/intellectual
 
 
 ---

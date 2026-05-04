@@ -131,9 +131,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "I tried to contact him at his office, but he wasn't in." `[COCA-SPOK]`
-> - "She dislikes any kind of physical contact." `[COCA-FICT]`
-> - "Scientists established contact with the spacecraft on 28 April for the first time in eight months." `[COCA-NEWS]`
+> - I don't have much contact with my uncle. `[例]`
+>   - 中译：我和叔叔的联系不多。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/contact
+> - We've been unable to establish radio contact with the pilot. `[例]`
+>   - 中译：我们无法与飞行员建立无线电联系。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/contact
+> - She's lost contact with (= no longer sees or writes to) her son. `[例]`
+>   - 中译：她与儿子失去了联系（=不再见到儿子或写信给儿子）。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/contact
 
 
 ---

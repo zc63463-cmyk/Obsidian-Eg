@@ -122,10 +122,9 @@ dyna-(力量，权力) + -sty(名词后缀，表状态)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The Roman Empire was succeeded by a series of dynasties that vied for control of Europe." `[真题]`
-> - "Political dynasties are not unique to monarchies; they exist in democracies too." `[真题]`
-> - "The Ming Dynasty was the time when the politics of autocratic monarchy reached its peak in Chinese history." `[真题]`
-> - "The Kennedy family is often described as a political dynasty in American politics." `[真题]`
+> - The Ming Dynasty was the time when the politics of autocratic monarchy reached its peak in Chinese history. `[真题]`
+> - The Kennedy family is often described as a political dynasty in American politics. `[真题]`
+> - The Mogul dynasty ruled over India for centuries. `[例]`
 
 
 ---

@@ -126,9 +126,15 @@ to-(朝向) + -ken(古英语"显示、表明"的词根)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - As a token of our gratitude for all that you have done, we would like you to accept this small gift . `[例]`
-> - It doesn't have to be a big present - it's just a token. `[例]`
-> - He always bought me tokens for a department store for my birthday . `[例]`
+> - Collect six tokens for a free T-shirt. `[例]`
+>   - 中译：收集 6 个代币即可获得一件免费 T 恤。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/token
+> - We hope you will accept this book as a small token of our appreciation. `[例]`
+>   - 中译：我们希望您能接受这本书，以表达我们的感激之情。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/token
+> - The penalty for failure will be high. But, by the same token, the rewards for success will be great. `[例]`
+>   - 中译：失败的惩罚将会很高。但是，出于同样的原因，成功的回报也将是巨大的。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/token
 
 ---
 

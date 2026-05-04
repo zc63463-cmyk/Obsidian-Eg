@@ -128,9 +128,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The party came to power in 2010 and has since introduced sweeping reforms." `` `[COCA-NEWS]` ``
-> - "Nuclear power provides about 20% of the world's electricity." `` `[COCA-ACAD]` ``
-> - "A robust and functional Congress is essential for maintaining the balance of power within the democratic system." `` `[COCA-ACAD]` ``
+> - This is all part of a wider change towards concentration of power and cartels. `[真题]`
+>   - 中译：这都是权力和卡特尔集中化更广泛变革的一部分。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - I've no power over him - he does what he wants to. `[例]`
+>   - 中译：我对他没有权力——他做他想做的事。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/power
+> - Once nicotine has you in its power, it's very difficult to stop smoking. `[例]`
+>   - 中译：一旦尼古丁对你产生影响，你就很难戒烟。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/power
 ---
 
 

@@ -3,10 +3,8 @@ title: "necessarily"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-25
-mastery: L0
 word_freq: 超纲词
 semantic_field: 抽象关系
 prototype: 必然地（不可避免地）
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**必然地**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **必然地**（逻辑层面）
@@ -64,7 +62,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +73,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > ne-（不）+ cess（让步）= necessary（不能让步的→必要的）。necessarily 就是"必然地"。老师问"这道题一定选A吗？"，你回答"Not necessarily"（不一定）。考试中 not necessarily 是高频考点——"不一定"比"一定不"弱得多。
@@ -87,7 +85,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[unnecessarily]]：不必要地（necessarily 的反义：必要地↔不必要地）
 > - [[possibly]]：可能地（necessarily 的反义：必然地↔可能地）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,7 +116,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **not necessarily**：不一定（考研高频）
 > - **necessarily follow**：必然得出（结论）
 > - **necessarily mean**：必然意味着
@@ -126,19 +124,12 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - The fact that something is cheap doesn't necessarily mean it's of low quality . `[例]`
+> [!example]- 语料
+> - The fact that something is cheap doesn't necessarily mean it's of low quality. `[例]`
 > - You can love someone without necessarily wanting to marry them. `[例]`
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-25 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -126,9 +126,15 @@ spur 源自古英语 *spura*（马刺），与日耳曼语族同源。无标准�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Rising consumer sales have the effect of spurring the economy to faster growth . `[例]`
-> - Spurred (on) by her early success , she went on to write four more novels in rapid succession . `[例]`
-> - He spurred his horse on and shouted "Faster! Faster! `[例]`
+> - He dug his spurs into the horse’s sides. `[例]`
+>   - 中译：他用马刺刺进马的两侧。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/spur
+> - His speech was a powerful spur to action. `[例]`
+>   - 中译：他的讲话有力地推动了行动。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/spur
+> - A few encouraging words might provide just the spur she needs. `[例]`
+>   - 中译：几句鼓励的话或许就能给她所需要的激励。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/spur
 
 ---
 

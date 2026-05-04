@@ -133,8 +133,8 @@ review_count: 0
 
 > [!example]- 语料
 > - Sugar makes your teeth decay. `[例]`
-> - The role of the extended family has been decaying for some time . `[例]`
-> - Pollution has decayed the surface of the stonework on the front of the cathedral . `[例]`
+> - The role of the extended family has been decaying for some time. `[例]`
+> - Pollution has decayed the surface of the stonework on the front of the cathedral. `[例]`
 
 
 ---

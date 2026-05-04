@@ -135,9 +135,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He was absent from the meeting without notice."（他没有通知就缺席了会议）——考研阅读常见表达
-> - "Why were you absent from school yesterday?"（你昨天为什么没来上学？）——日常/学术语境
-> - "She had an absent look on her face."（她脸上带着心不在焉的表情）——文学类文本
+> - We drank a toast to absent friends. `[例]`
+>   - 中译：我们为缺席的朋友干杯。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/absent
+> - If a child is absent, the teacher notes it down in the class register. `[例]`
+>   - 中译：如果孩子缺席，老师会在班级登记册上记录下来。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/absent
+> - The teacher called the roll to see if any students were absent. `[例]`
+>   - 中译：老师点名看看是否有学生缺席。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/absent
 
 ---
 

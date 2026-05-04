@@ -133,9 +133,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "More than five thousand secondary school students have been expelled for cheating." `[真题]`
-> - "He had kidney cancer, with secondary tumours in the brain and lungs." `[真题]`
-> - "Where these works end up is of secondary importance to us." `[真题]`
+> - More than five thousand secondary school students have been expelled for cheating. `[真题]`
+> - He had kidney cancer, with secondary tumours in the brain and lungs. `[真题]`
+> - Where these works end up is of secondary importance to us. `[真题]`
 
 
 ---

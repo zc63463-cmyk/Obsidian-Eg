@@ -127,10 +127,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The police worked in conjunction with the army to maintain order. `[COCA-NEWS]`
-> - This offer may not be used in conjunction with any other offer or discount. `[Collins]`
-> - There is a team of writers working in conjunction with each other on the book. `[Cambridge]`
-> - The conjunction of low interest rates and rising demand fueled the housing boom. `[例]`
+> - The theory is that there was a rare conjunction of certain bright planets that created the image of the so-called ‘Star of Bethlehem’. `[例]`
+>   - 中译：该理论认为，某些明亮行星的罕见结合创造了所谓的“伯利恒之星”的图像。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/conjunction
+> - The police are working in conjunction with tax officers on the investigation. `[例]`
+>   - 中译：警方正在与税务官员合作进行调查。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/conjunction
+> - The software can be used in conjunction with any other application. `[例]`
+>   - 中译：该软件可以与任何其他应用程序结合使用。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/conjunction
 
 
 ---

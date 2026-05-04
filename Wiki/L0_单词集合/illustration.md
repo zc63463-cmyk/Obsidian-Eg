@@ -135,10 +135,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - A couple of examples are included, by way of illustration. `[COCA-ACAD]`
-> - The president's budget is a vivid illustration of how much the political landscape has changed. `[COCA-ACAD]`
-> - The book contains 25 colour illustrations. `[COCA-ACAD]`
-> - This case is a perfect illustration of the principle in action. `[真题]`
+> - The illustrations show monstrous beasts with bodies like bears and heads like tigers. `[例]`
+>   - 中译：插图上描绘的是身如熊、头如虎的猛兽。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/illustration
+> - You will be expected to assist the editor with the selection of illustrations for the book. `[例]`
+>   - 中译：您需要协助编辑为本书选择插图。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/illustration
+> - Encyclopedias on CD-ROM include sound , illustrations and simple animations. `[例]`
+>   - 中译：CD-ROM 上的百科全书包括声音、插图和简单的动画。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/illustration
 
 ---
 

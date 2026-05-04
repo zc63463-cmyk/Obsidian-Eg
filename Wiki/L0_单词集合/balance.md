@@ -144,9 +144,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - It is important to strike a balance between work and family life. `[COCA-ACAD]`
-> - The ecological balance of the environment has been severely disrupted by human activities. `[COCA-ACAD]`
-> - On balance, the benefits of the new policy outweigh its costs. `[例]`
+> - The toddler wobbled and lost his balance (= started to fall sideways ). `[例]`
+>   - 中译：幼儿摇摇晃晃并失去平衡（=开始向侧面跌倒）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/balance
+> - She had to hold onto the railings to keep her balance (= to stop herself from falling ). `[例]`
+>   - 中译：她必须抓住栏杆才能保持平衡（=防止自己跌倒）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/balance
+> - These canals inside the ear are responsible for helping the body maintain balance. `[例]`
+>   - 中译：耳内的这些耳道负责帮助身体保持平衡。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/balance
 
 ---
 

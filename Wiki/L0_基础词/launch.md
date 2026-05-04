@@ -133,8 +133,8 @@ launch 源自古法语 *lanchier*（投掷），可能源自拉丁语 *lancea*�
 
 > [!example]- 语料
 > - How much champagne will we need for the launch? `[例]`
-> - Illness prevented her from attending the launch party for her latest novel . `[例]`
-> - The launch of the space shuttle was delayed for 24 hours because of bad weather . `[例]`
+> - Illness prevented her from attending the launch party for her latest novel. `[例]`
+> - The launch of the space shuttle was delayed for 24 hours because of bad weather. `[例]`
 
 
 ---

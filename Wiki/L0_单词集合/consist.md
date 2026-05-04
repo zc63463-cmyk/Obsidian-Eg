@@ -122,9 +122,15 @@ con-（一起）+ [[sist|sist-]]（站立）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The committee consists of representatives from various departments." `[真题]`
-> - "The beauty of the plan consists in its simplicity." `[真题]`
-> - "The course consists of three main modules covering theory, methodology, and practical applications." `[COCA-ACAD]`
+> - The beauty of air travel consists in its speed and ease. `[例]`
+>   - 中译：航空旅行的美妙之处在于它的速度和轻松。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/consist
+> - For her, happiness consists in watch ing television and reading magazines. `[例]`
+>   - 中译：对她来说，幸福就是看电视和读杂志。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/consist
+> - While Fold consists almost entirely of four-on-the-floor rhythms, each track feels like it’s built for a different chapter of a larger, arcing DJ set. `[例]`
+>   - 中译：虽然 Fold 几乎完全由四人节奏组成，但每首曲目都感觉像是为更大的弧形 DJ 集的不同章节而构建的。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/consist
 
 ---
 

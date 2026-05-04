@@ -131,9 +131,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Everyone will have an opportunity to comment . `[例]`
-> - I was never given the opportunity of going to college . `[例]`
-> - The exhibition is a unique opportunity to see her later work . `[例]`
+> - Everyone will have an opportunity to comment. `[例]`
+>   - 中译：每个人都有机会发表评论。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/opportunity
+> - I was never given the opportunity of going to college. `[例]`
+>   - 中译：我从未获得过上大学的机会。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/opportunity
+> - The exhibition is a unique opportunity to see her later work. `[例]`
+>   - 中译：这次展览是欣赏她后期作品的独特机会。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/opportunity
 
 ---
 

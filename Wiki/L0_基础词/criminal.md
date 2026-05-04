@@ -128,9 +128,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The program is designed to help former criminals find jobs and reintegrate into society. `[真题]`
-> - A criminal waste of talent occurs when highly educated people are unable to find suitable employment. `[真题]`
-> - The defendant was charged with criminal behavior and faced a lengthy prison sentence. `[真题]`
+> - Police sometimes put themselves in danger when arresting violent criminals. `[例]`
+>   - 中译：警察在逮捕暴力犯罪分子时有时会将自己置于危险之中。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/criminal
+> - Society does not know how to deal with hardened criminals (= people who regularly commit crimes and are not sorry for what they do). `[例]`
+>   - 中译：社会不知道如何处理顽固的罪犯（=经常犯罪并且对自己所做的事情不感到抱歉的人）。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/criminal
+> - He admits to being a petty criminal (= who commits crimes that are not very serious). `[例]`
+>   - 中译：他承认自己是一名小罪犯（=所犯罪行不是很严重）。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/criminal
 
 
 ---

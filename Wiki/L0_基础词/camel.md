@@ -125,8 +125,14 @@ camel 源自古法语 *camel*，来自拉丁语 *camelus*，来自希腊语 *kam
 
 > [!example]- 语料
 > - Vertical touted the dramatic locations, 12,500 extras, and abundant horses and camels made available with substantial support from Neom, the massive Saudi development with sound stages and infrastructure created by the film’s backer MBC Studios. `[例]`
+>   - 中译：Vertical 大力宣传影片的戏剧性外景地、12,500 名临时演员以及充足的马匹和骆驼，这些都得到了 Neom 的大力支持。Neom 是沙特阿拉伯的大型开发项目，拥有电影支持者 MBC Studios 建造的摄影棚和基础设施。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/camel
 > - Ventilation aside, the springy print also tied the whole outfit together — her camel carryall and red flip-flops matched nicely with the bright blooms featured on her trousers. `[例]`
+>   - 中译：除了通风之外，弹性印花也将整套服装联系在一起——她的驼色手提包和红色人字拖与裤子上鲜艳的花朵完美搭配。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/camel
 > - The country draws tourists across the world to Marrakech's souks and Medina, camel treks in the Sahara Desert, historic cities like Fez and coastal destinations such as Essaouira, but new warnings highlight potential risks. `[例]`
+>   - 中译：该国吸引了世界各地的游客前往马拉喀什的露天市场和麦地那、撒哈拉沙漠中的骆驼徒步旅行、非斯等历史名城以及索维拉等沿海目的地，但新的警告强调了潜在的风险。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/camel
 
 
 ---

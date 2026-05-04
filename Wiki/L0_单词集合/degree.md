@@ -134,9 +134,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - This job demands a high degree of skill . `[例]`
-> - There isn't the slightest degree of doubt that he's innocent . `[例]`
+> - This job demands a high degree of skill. `[例]`
+>   - 中译：这项工作需要很高的技能。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/degree
+> - There isn't the slightest degree of doubt that he's innocent. `[例]`
+>   - 中译：毫无疑问他是无辜的。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/degree
 > - I have to warn you that there's a degree of (= some) danger involved in this. `[例]`
+>   - 中译：我必须警告你，这涉及一定程度（=一些）的危险。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/degree
 
 ---
 

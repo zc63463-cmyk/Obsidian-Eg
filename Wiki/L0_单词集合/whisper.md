@@ -140,9 +140,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She leaned over and whispered something in his ear . `[例]`
-> - What are you two girls whispering about? `[例]`
-> - Where are the toilets ?" she whispered. `[例]`
+> - Don't you know it's rude to whisper? `[例]`
+>   - 中译：难道你不知道窃窃私语是不礼貌的吗？
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/whisper
+> - What are you two whispering about? `[例]`
+>   - 中译：你们两个在窃窃私语什么呢？
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/whisper
+> - Can you meet me tonight?’ he whispered. `[例]`
+>   - 中译：今晚你能见我吗？”他低声说道。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/whisper
 
 ---
 

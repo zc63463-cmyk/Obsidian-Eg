@@ -126,9 +126,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - If the foundations of the house aren't stable, collapse is possible . `[例]`
-> - After several part-time jobs , he's now got a stable job in a bank . `[例]`
-> - The hospital said she was in a stable condition (= not likely to get worse ) following the operation . `[例]`
+> - The patient's condition is stable (= it is not getting worse). `[例]`
+>   - 中译：病人的病情稳定（=没有恶化）。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/stable
+> - Cattle prices remain stable. `[例]`
+>   - 中译：生牛价格保持稳定。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/stable
+> - The situation in the country has remained relatively stable for a few months now. `[例]`
+>   - 中译：几个月来，该国局势保持相对稳定。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/stable
 
 ---
 

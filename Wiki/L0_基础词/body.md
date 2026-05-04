@@ -131,9 +131,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - A good diet and plenty of exercise will help you to keep your body healthy . `[例]`
-> - She rubbed suncream over her entire body. `[例]`
-> - He had a fat body but thin legs and arms . `[例]`
+> - The human body is a complex structure. `[例]`
+>   - 中译：人体是一个复杂的结构。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/body
+> - The virus can affect all parts of the body. `[例]`
+>   - 中译：该病毒可以影响身体的各个部位。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/body
+> - The heart pumps blood around the body. `[例]`
+>   - 中译：心脏将血液输送到全身。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/body
 
 
 ---

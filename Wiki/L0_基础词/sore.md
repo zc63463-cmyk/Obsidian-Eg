@@ -128,8 +128,8 @@ sore（疼痛的，基础词汇，源自古英语 *sār*，PIE *\*sai-* "痛苦"
 
 > [!example]- 语料
 > - All the dust has made my eyes sore. `[例]`
-> - My feet were sore with all the walking . `[例]`
-> - He accused me of being a sore loser (= someone who does not accept defeat well) . `[例]`
+> - My feet were sore with all the walking. `[例]`
+> - He accused me of being a sore loser (= someone who does not accept defeat well). `[例]`
 
 
 ---

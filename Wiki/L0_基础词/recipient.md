@@ -138,10 +138,10 @@ re-（回，向后）+ cip（拿，=capere 的缩略形式）+ -i-（连接元�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - He was the recipient of a distinguished service award for his contribution to public health. `[牛津词典]`
-> - The message was never delivered to the intended recipient due to an address error. `[剑桥语料库]`
-> - Family carers were not recipients of district nursing support in their own right but were dependent upon the cared-for person receiving nursing care. `[剑桥英语语料库]`
-> - Matching a donor kidney with the most suitable recipient remains one of the greatest challenges in transplant medicine. `[通用医学语料]`
+> - He was the recipient of a distinguished service award for his contribution to public health. `[例]`
+> - The message was never delivered to the intended recipient due to an address error. `[例]`
+> - Family carers were not recipients of district nursing support in their own right but were dependent upon the cared-for person receiving nursing care. `[例]`
+> - Matching a donor kidney with the most suitable recipient remains one of the greatest challenges in transplant medicine. `[例]`
 
 
 ---

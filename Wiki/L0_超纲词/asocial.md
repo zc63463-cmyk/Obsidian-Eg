@@ -3,10 +3,8 @@ title: "asocial"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 人本世界
 prototype: 不社交的（缺乏社会性联系的）
@@ -43,7 +41,7 @@ a-(=without, 没有，否定前缀) + soci(同伴，社会，拉丁语 *socius*)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**不社交的（远离社会的）**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **不社交的**（行为层面）
@@ -64,7 +62,7 @@ a-(=without, 没有，否定前缀) + soci(同伴，社会，拉丁语 *socius*)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ a-(=without, 没有，否定前缀) + soci(同伴，社会，拉丁语 *socius*)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > a- = 没有/不，social = 社交的。asocial = 不社交的。想象一个猫——它不是讨厌人（不是 antisocial），它只是不想理人（asocial）。猫就是典型的 asocial 动物：不主动社交，但也不会攻击你。而狼群中的孤狼如果攻击同伴，那就是 antisocial。
@@ -86,7 +84,7 @@ a-(=without, 没有，否定前缀) + soci(同伴，社会，拉丁语 *socius*)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ a-(=without, 没有，否定前缀) + soci(同伴，社会，拉丁语 *socius*)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[social]]：社交的（asocial 的精确反义：不社交↔社交的）
 > - [[gregarious]]：爱交际的（asocial 的反义：不合群↔爱交际）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,26 +115,19 @@ a-(=without, 没有，否定前缀) + soci(同伴，社会，拉丁语 *socius*)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **asocial behavior/tendencies**：不合群的行为/倾向
 > - **asocial personality**：不合群的人格
 > - **asocial individual**：不合群的个体
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - Not all introverted people are asocial; many simply prefer smaller social gatherings.`[例]`
-> - The child displayed asocial tendencies, preferring to play alone rather than with peers.`[例]`
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
+> [!example]- 语料
+> - Not all introverted people are asocial; many simply prefer smaller social gatherings. `[例]`
+> - The child displayed asocial tendencies, preferring to play alone rather than with peers. `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

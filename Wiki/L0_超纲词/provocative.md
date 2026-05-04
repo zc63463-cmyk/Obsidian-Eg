@@ -3,10 +3,8 @@ title: "provocative"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-25
-mastery: L0
 word_freq: 超纲词
 semantic_field: 人本世界
 prototype: 引发反应的（挑起某种情绪或行为）
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**引发反应的**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **引发反应**（行为层面）
@@ -66,7 +64,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > pro（向前）+ voc（叫喊）= provocative。想象一个人站在人群前大声叫喊——这就是 provocative。他的话可能 provocative（挑衅的），也可能 provocative（引人深思的）。关键看引发的是什么反应。好的老师会问 provocative questions——引发学生深入思考的问题。
@@ -88,7 +86,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +100,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[soothing]]：抚慰的（provocative 的反义：挑衅↔抚慰）
 - [[unprovocative]]：不挑衅的（provocative 的反义）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,7 +120,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **provocative remarks/comments**：挑衅性的言论
 > - **a provocative question**：引人深思的问题
 > - **provocative behavior**：挑衅性行为
@@ -130,19 +128,12 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - The programme will take a detailed and provocative look at the problem of homelessness . `[例]`
-> - In a deliberately provocative speech , she criticized the whole system of government . `[例]`
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-25 | **复习次数**：0 | **当前等级**：L0
-
----
+> [!example]- 语料
+> - The programme will take a detailed and provocative look at the problem of homelessness. `[例]`
+> - In a deliberately provocative speech , she criticized the whole system of government. `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

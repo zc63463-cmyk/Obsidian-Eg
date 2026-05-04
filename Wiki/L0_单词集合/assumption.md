@@ -126,9 +126,15 @@ as-(=ad-，朝向) + sumpt-(=sumere，拿取，sume-的完成时态词干) + -io
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Such behavior is regarded as 'all too human', with the underlying assumption that animals cannot feel what humans do." `[真题]`
-> - "The argument is based on the assumption that economic growth will continue at the current rate." `[例]`
-> - "We made the assumption that everyone would attend the meeting, but several people were absent." `[例]`
+> - These calculations are based on the assumption that prices will continue to rise. `[例]`
+>   - 中译：这些计算是基于价格将继续上涨的假设。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/assumption
+> - People tend to make assumptions about you when you have a disability. `[例]`
+>   - 中译：当您有残疾时，人们往往会对您做出假设。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/assumption
+> - They make the naive assumption that because it's popular it must be good. `[例]`
+>   - 中译：他们天真地认为，因为它很受欢迎，所以一定很好。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/assumption
 
 ---
 

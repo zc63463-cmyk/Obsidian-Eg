@@ -3,10 +3,8 @@ title: "flexibility"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 抽象关系
 prototype: 灵活性（能够弯曲、适应变化的能力）
@@ -43,7 +41,7 @@ flex(弯曲，拉丁语 *flectere*) + -ibil(-ible, 能…的) + -ity(名词后�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**灵活性**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **灵活性**（物理层面）
@@ -64,7 +62,7 @@ flex(弯曲，拉丁语 *flectere*) + -ibil(-ible, 能…的) + -ity(名词后�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +73,7 @@ flex(弯曲，拉丁语 *flectere*) + -ibil(-ible, 能…的) + -ity(名词后�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 拉丁语 flectere 意为"弯曲"。flex 是"弯曲"，flexible 是"能弯曲的→灵活的"，flexibility 就是"灵活性的状态"。瑜伽练的是身体的 flexibility（柔韧性），好的工作制度需要的是 schedule flexibility（时间安排的灵活性）。能弯能直，就是灵活。
@@ -87,7 +85,7 @@ flex(弯曲，拉丁语 *flectere*) + -ibil(-ible, 能…的) + -ity(名词后�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +98,13 @@ flex(弯曲，拉丁语 *flectere*) + -ibil(-ible, 能…的) + -ity(名词后�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[rigidity]]：僵化，刚性（flexibility↔rigidity：灵活↔僵化）
 > - [[inflexibility]]：不灵活性（flexibility 的精确反义）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,7 +117,7 @@ flex(弯曲，拉丁语 *flectere*) + -ibil(-ible, 能…的) + -ity(名词后�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **workplace flexibility**：工作场所的灵活性
 > - **schedule flexibility**：时间安排的灵活性
 > - **physical flexibility**：身体柔韧性
@@ -127,19 +125,12 @@ flex(弯曲，拉丁语 *flectere*) + -ibil(-ible, 能…的) + -ity(名词后�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - The company offers greater flexibility in working hours to attract talent. `[例]`
 > - Flexibility is key to surviving in a rapidly changing market. `[例]`
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
-
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

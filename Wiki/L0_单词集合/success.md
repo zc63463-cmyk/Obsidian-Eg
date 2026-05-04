@@ -128,9 +128,15 @@ suc-(=sub-, 在下面/在后面) + cess(走，拉丁语 *cessus*，*cedere* 的�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The success of almost any project depends largely on its manager . `[例]`
-> - I've been trying to persuade her to take on more people , but so far without success. `[例]`
-> - I'm not having much success in communicating with him at the moment . `[例]`
+> - The company has achieved considerable success in this market. `[例]`
+>   - 中译：该公司在这个市场上取得了相当大的成功。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/success
+> - Initially the venture enjoyed a fair amount of success. `[例]`
+>   - 中译：最初，该合资企业取得了相当大的成功。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/success
+> - I didn't have much success in finding a job. `[例]`
+>   - 中译：我找工作并没有取得多大成功。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/success
 
 
 ---

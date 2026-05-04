@@ -3,10 +3,8 @@ title: "paternal"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-25
-mastery: L0
 word_freq: 超纲词
 semantic_field: 人本世界
 prototype: 父亲的
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**父亲的**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **父亲的**（血缘层面）
@@ -64,7 +62,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 拉丁语 pater（父亲）→ paternal。在罗马，paterfamilias 是一家之主。paternal 就是"父亲的"——paternal grandfather 是爷爷（爸爸的爸爸），maternal grandmother 是外婆（妈妈的妈妈）。一个老板对员工有 paternal care，就是像爸爸一样照顾员工。
@@ -86,7 +84,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -98,13 +96,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[maternal]]：母亲的（paternal 的精确反义：父亲的↔母亲的）
 > - [[fraternal]]：兄弟的（paternal 的反义：父辈↔同辈）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,7 +115,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **paternal grandfather**：祖父，爷爷
 > - **paternal love/care**：父爱/父亲的关怀
 > - **paternal instinct**：父性本能
@@ -126,19 +124,12 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - `[例]` He took a paternal interest in the young apprentices.
-> - `[例]` Maternal and paternal influences both play important roles in child development.
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-25 | **复习次数**：0 | **当前等级**：L0
-
----
+> [!example]- 语料
+> - The researchers proposed a paternal solution to the problem. `[例]`
+> - The company adopted a paternal approach to improve efficiency. `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

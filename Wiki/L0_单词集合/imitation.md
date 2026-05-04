@@ -134,10 +134,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - A child learns to talk by imitation. `[真题]`
-> - Many corporate methods have been adopted by American managers in imitation of Japanese practice. `[COCA-ACAD]`
-> - His songs are just cheap imitations of Beatles tunes. `[COCA-ACAD]`
-> - The remake of Casablanca was a pale imitation of the original movie. `[COCA-ACAD]`
+> - It's not real silk - it's just imitation. `[例]`
+>   - 中译：它不是真正的丝绸——它只是仿制品。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/imitation
+> - Ten-year-olds have started wearing lipstick and make-up in imitation of the older girls. `[例]`
+>   - 中译：十岁的孩子开始模仿大一点的女孩涂口红和化妆。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/imitation
+> - She can do a wonderful imitation of a blackbird's song. `[例]`
+>   - 中译：她能美妙地模仿乌鸫的歌声。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/imitation
 
 ---
 

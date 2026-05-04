@@ -129,9 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "This is a glorious chapter in our country's history." `[语料库]`
-> - "I got dressed and emerged into glorious sunshine." `[语料库]`
-> - "We had a glorious afternoon of sailing." `[语料库]`
+> - This is a glorious chapter in our country's history. `[例]`
+> - I got dressed and emerged into glorious sunshine. `[例]`
+> - We had a glorious afternoon of sailing. `[例]`
 
 
 ---

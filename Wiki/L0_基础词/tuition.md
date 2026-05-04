@@ -122,9 +122,9 @@ tu-/tut-(看护，拉丁语 *tueri*，to watch over) + -tion(名词后缀，表�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - All students receive tuition in logic and metaphysics . `[例]`
-> - Few can afford the tuition of $12,000 a semester . `[例]`
-> - All students receive tuition in basic maths . `[例]`
+> - All students receive tuition in logic and metaphysics. `[例]`
+> - Few can afford the tuition of $12,000 a semester. `[例]`
+> - All students receive tuition in basic maths. `[例]`
 
 
 ---

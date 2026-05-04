@@ -119,10 +119,15 @@ in-(不) + [[dign|dign]]( worthy，值得/尊严) + -ant(形容词后缀，…�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She was indignant at being falsely accused of misconduct. `` `[COCA]` ``
-> - They were indignant that they hadn't been invited to the meeting. `` `[COCA]` ``
-> - He became very indignant when it was suggested he had made a mistake. `` `[COCA]` ``
-> - Letters of indignant complaint poured into the court. `` `[COCA]` ``
+> - She wrote an indignant letter to the paper complaining about the council's action. `[例]`
+>   - 中译：她给该报写了一封愤怒的信，抱怨该委员会的行为。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/indignant
+> - He became very indignant when it was suggested he had made a mistake. `[例]`
+>   - 中译：当有人暗示他犯了错误时，他变得非常愤怒。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/indignant
+> - She wrote an indignant letter to the paper complaining about the mayor’s actions. `[例]`
+>   - 中译：她给报纸写了一封愤怒的信，抱怨市长的行为。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/indignant
 
 ---
 

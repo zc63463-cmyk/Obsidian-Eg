@@ -117,8 +117,15 @@ pre-（前缀，"在...之前"）+ cis（切分/确定）+ -ion（名词后缀�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The surgeon performed the operation with pinpoint precision."（外科医生以极为精准的手法实施了手术。）——考研高频表达
-> - "Scientific research requires precision in both measurement and analysis."（科学研究在测量和分析方面都需要精确性。）——考研高频表达
+> - Great precision is required to align the mirrors accurately. `[例]`
+>   - 中译：精确对准镜子需要很高的精度。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/precision
+> - Precision bombing was used to destroy enemy airbases and armaments factories. `[例]`
+>   - 中译：精确轰炸被用来摧毁敌方空军基地和军工厂。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/precision
+> - His books are a pleasure to read because he writes with such clarity and precision. `[例]`
+>   - 中译：他的书读起来很愉快，因为他的写作如此清晰和精确。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/precision
 
 ---
 

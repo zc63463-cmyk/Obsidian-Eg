@@ -3,10 +3,8 @@ title: "exclusionary"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 社会习俗
 prototype: 排斥性的（把某些人排除在外的）
@@ -43,7 +41,7 @@ ex-(出去/向外) + [[clus|clus]](关闭) + -ion(名词后缀) + -ary(形容词
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**排斥性的（把某些人排除在外的）**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **关在门外**（物理层面）
@@ -64,7 +62,7 @@ ex-(出去/向外) + [[clus|clus]](关闭) + -ion(名词后缀) + -ary(形容词
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ ex-(出去/向外) + [[clus|clus]](关闭) + -ion(名词后缀) + -ary(形容词
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > ex（向外）+ clus（关闭）→ exclude（排除在外）→ exclusionary（排斥性的）。clus 就是"关闭"——include（包含=关进来）、exclude（排除=关出去）、conclusion（结论=关在一起）。exclusionary 就是把人"关出去"的——排斥性的。
@@ -88,7 +86,7 @@ ex-(出去/向外) + [[clus|clus]](关闭) + -ion(名词后缀) + -ary(形容词
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -98,13 +96,13 @@ ex-(出去/向外) + [[clus|clus]](关闭) + -ion(名词后缀) + -ary(形容词
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[inclusive]]：包容性的（排斥性↔包容性）
 > - [[integrative]]：整合性的（排他↔整合）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,7 +116,7 @@ ex-(出去/向外) + [[clus|clus]](关闭) + -ion(名词后缀) + -ary(形容词
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **exclusionary policies**：排斥性政策
 > - **exclusionary practices**：排斥性做法
 > - **exclusionary rule**：排除规则（法律术语，排除非法证据）
@@ -126,19 +124,12 @@ ex-(出去/向外) + [[clus|clus]](关闭) + -ion(名词后缀) + -ary(形容词
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - The exclusionary rule prevents illegally obtained evidence from being used in court. `[例]`
 > - Critics argue that the university's admission policies are exclusionary and disproportionately affect minority applicants. `[例]`
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
-
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

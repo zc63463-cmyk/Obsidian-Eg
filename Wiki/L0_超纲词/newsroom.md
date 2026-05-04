@@ -3,10 +3,8 @@ title: "newsroom"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-25
-mastery: L0
 word_freq: 超纲词
 semantic_field: 社会专业
 prototype: 新闻编辑室（报社或电视台的新闻工作区域）
@@ -43,7 +41,7 @@ news（新闻）+ room（房间）
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**新闻编辑室**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **新闻编辑室**（工作空间层面）
@@ -62,7 +60,7 @@ news（新闻）+ room（房间）
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -72,7 +70,7 @@ news（新闻）+ room（房间）
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > news（新闻）+ room（房间）= newsroom（新闻编辑室）。想象电影里记者们忙碌的场景——大屏幕上滚动着新闻，编辑在改稿子，记者在打电话——那就是 newsroom。名字就是字面意思：做新闻的房间。
@@ -84,7 +82,7 @@ news（新闻）+ room（房间）
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -95,12 +93,12 @@ news（新闻）+ room（房间）
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - 无精确反义词（newsroom 是特定场所名称）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -113,7 +111,7 @@ news（新闻）+ room（房间）
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **in the newsroom**：在新闻编辑室里
 > - **newsroom staff**：新闻编辑室工作人员
 > - **a busy newsroom**：忙碌的新闻编辑室
@@ -121,19 +119,12 @@ news（新闻）+ room（房间）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - `[例]` The newsroom was buzzing with activity as the breaking story unfolded.
-> - `[例]` She has worked in newsrooms for over twenty years.
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-25 | **复习次数**：0 | **当前等级**：L0
-
----
+> [!example]- 语料
+> - The newsroom just received a press release. `[例]`
+> - That duplication has raised concerns about staff consolidations and widespread newsroom layoffs. `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

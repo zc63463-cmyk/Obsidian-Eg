@@ -133,9 +133,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - According to Branch, state-level science standards in the US __ _ A. call for regular revision B. require urgent application C. have limited influence D. cater to local needs 25. `[真题]`
-> - According to Paragraph 1 , the careers of scientists can be determined by __ A. how many citations their works contain B. how many times their papers are cited C. the prestige of the people they work with D. the status they have in scientific circles 37. `[真题]`
-> - On 31 May the two leaders signed a peace accord. `[例]`
+> - The two sides signed a peace accord last July. `[例]`
+>   - 中译：双方去年7月签署了和平协议。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/accord
+> - This action would not be in accord with our policy. `[例]`
+>   - 中译：这一行动不符合我们的政策。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/accord
+> - Botanists are not in complete accord about how many species exist. `[例]`
+>   - 中译：植物学家对于存在多少物种的说法并不完全一致。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/accord
 
 
 ---

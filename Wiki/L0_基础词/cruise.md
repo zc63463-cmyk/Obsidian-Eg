@@ -129,9 +129,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - He and his wife went on a cruise to the Bahamas. `[例]`
-> - They spent the summer cruising around the Mediterranean . `[例]`
-> - The ship has never before cruised in Alaskan waters . `[例]`
+> - We cruised for a week down the Yangtze River. `[例]`
+>   - 中译：我们沿着长江航行了一周。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/cruise
+> - He dreams of cruising the Mediterranean. `[例]`
+>   - 中译：他梦想着航行地中海。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/cruise
+> - We were cruising along the highway. `[例]`
+>   - 中译：我们沿着高速公路行驶。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/cruise
 
 
 ---

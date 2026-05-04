@@ -129,9 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Snap decisions in reaction to rapid stimuli aren't exclusive to the interpersonal realm." `[真题]`
-> - "So you can see how being good in the interpersonal realm actually was a direct benefit, even for effectively pursuing a technical task." `[真题]`
-> - "New discoveries in the realm of medicine have transformed patient care." `[真题]`
+> - Snap decisions in reaction to rapid stimuli aren't exclusive to the interpersonal realm. `[真题]`
+> - So you can see how being good in the interpersonal realm actually was a direct benefit, even for effectively pursuing a technical task. `[真题]`
+> - New discoveries in the realm of medicine have transformed patient care. `[真题]`
 
 
 ---

@@ -123,10 +123,15 @@ en-(=in, 使) + force(=fortis, 力量/强度) → 使力量生效→强制执行
 ## 真题/语料关联
 
 > [!example]- 语料
-> - It is the job of the inspectors to enforce compliance with the regulations. `[COCA-ACAD]`
-> - The legislation will be difficult to enforce. `[COCA-ACAD]`
-> - United Nations troops enforced a ceasefire in the area. `[COCA-ACAD]`
-> - Speed limits are strictly enforced in residential areas. `[例]`
+> - It isn't always easy for the police to enforce speed limits. `[例]`
+>   - 中译：警察执行限速并不总是那么容易。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/enforce
+> - The new teacher had failed to enforce any sort of discipline. `[例]`
+>   - 中译：新老师没有执行任何形式的纪律。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/enforce
+> - The army were called out to enforce the curfew. `[例]`
+>   - 中译：军队被派去执行宵禁。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/enforce
 
 ---
 

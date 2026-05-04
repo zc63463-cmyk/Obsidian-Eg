@@ -128,9 +128,15 @@ trans-(跨越) + [[mit|mit]](发送)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Radio Seven transmits on 201 medium wave (= uses those particular radio waves to broadcast on) . `[例]`
-> - The information is transmitted electronically to the central computer . `[例]`
-> - Department stores use EDI to transmit orders to suppliers . `[例]`
+> - The ceremony was transmitted live by satellite to over fifty countries. `[例]`
+>   - 中译：仪式通过卫星现场直播到五十多个国家。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/transmit
+> - Parents can unwittingly transmit their own fears to their children. `[例]`
+>   - 中译：父母可能会不知不觉地将自己的恐惧传递给孩子。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/transmit
+> - Steam only transmits heat when it condenses. `[例]`
+>   - 中译：蒸汽仅在凝结时传递热量。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/transmit
 
 ---
 

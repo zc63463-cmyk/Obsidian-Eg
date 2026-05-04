@@ -123,8 +123,8 @@ review_count: 0
 
 > [!example]- 语料
 > - I envy her ability to talk to people she's never met before. `[例]`
-> - I don't envy you the job of cooking for all those people . `[例]`
-> - I watched with envy as she set off for the airport . `[例]`
+> - I don't envy you the job of cooking for all those people. `[例]`
+> - I watched with envy as she set off for the airport. `[例]`
 
 
 ---

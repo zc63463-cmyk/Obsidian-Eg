@@ -138,9 +138,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The earthquake shattered all the windows in the building." `[真题]`
-> - "A tragic accident shattered her dreams of Olympic glory." `[真题]`
-> - "The defeat shattered her confidence." `[真题]`
+> - The earthquake shattered all the windows in the building. `[真题]`
+> - A tragic accident shattered her dreams of Olympic glory. `[真题]`
+> - The defeat shattered her confidence. `[真题]`
 
 
 ---

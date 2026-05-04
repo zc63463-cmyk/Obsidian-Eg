@@ -132,9 +132,15 @@ chunk 可能源自拟声词，模仿砍击厚块物体时发出的声音（"嘭"
 ## 真题/语料关联
 
 > [!example]- 语料
-> - A substantial chunk of our profits. `[例]`
-> - Three hours is quite a chunk out of my working day . `[例]`
-> - He was forever chunking chip shots around the greens . `[例]`
+> - This one project has taken a substantial chunk of our budget. `[例]`
+>   - 中译：这个项目占用了我们预算的很大一部分。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/chunk
+> - The listening texts consist of short, bite-sized chunks which are accessible to beginners. `[例]`
+>   - 中译：听力文本由简短的块组成，适合初学者。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/chunk
+> - She cut the fruit into large chunks. `[例]`
+>   - 中译：她把水果切成大块。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/chunk
 
 
 ---

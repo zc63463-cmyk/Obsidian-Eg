@@ -122,10 +122,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The small country is sandwiched between two powerful neighbors." `[真题]`
-> - "She grabbed a quick sandwich for lunch before heading back to the office." `[真题]`
-> - "I was sandwiched between two big men who joked over my head." `[权威语料]`
-> - "She lived in a skinny Victorian house sandwiched between two brownstones in Cambridge." `[权威语料]`
+> - The small country is sandwiched between two powerful neighbors. `[真题]`
+> - She grabbed a quick sandwich for lunch before heading back to the office. `[真题]`
+> - I was sandwiched between two big men who joked over my head. `[例]`
+> - She lived in a skinny Victorian house sandwiched between two brownstones in Cambridge. `[例]`
 
 
 ---

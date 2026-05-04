@@ -130,10 +130,15 @@ at-（=ad-，向、朝向）+ [[tract|tract]]（拉、拖，拉丁语 *trahere* 
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The new policy is designed to attract foreign investment and stimulate economic growth. `[COCA-ACAD]`
-> - The museum attracts thousands of visitors each year. `[COCA-NEWS]`
-> - Electrically charged objects attract or repel one another. `[COCA-ACAD]`
-> - The bright colors of the painting attracted attention from across the room. `[例]`
+> - I had always been attracted by the idea of working abroad. `[例]`
+>   - 中译：我一直被出国工作的想法所吸引。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/attract
+> - What first attracted me to her was her sense of humour. `[例]`
+>   - 中译：她首先吸引我的是她的幽默感。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/attract
+> - She finds herself increasingly attracted to them and their lifestyle. `[例]`
+>   - 中译：她发现自己越来越被他们和他们的生活方式所吸引。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/attract
 
 
 ---

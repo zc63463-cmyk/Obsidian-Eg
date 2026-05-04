@@ -128,8 +128,15 @@ pre-(在……之前) + [[scrib-script|scrib]](写)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The law prescribes strict standards for food safety."（法律对食品安全规定了严格的标准。）——2016年阅读Text3
-> - "We should not presume that all consumers share the same preference."（我们不该擅自认定所有消费者都拥有相同的偏好。）——2017年阅读Text2
+> - The drug is often prescribed for ulcers. `[例]`
+>   - 中译：该药通常用于治疗溃疡。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/prescribe
+> - I've been prescribed painkillers. `[例]`
+>   - 中译：医生给我开了止痛药。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/prescribe
+> - The doctor prescribed some pills. `[例]`
+>   - 中译：医生开了一些药。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/prescribe
 ---
 
 

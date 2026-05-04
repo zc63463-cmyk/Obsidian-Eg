@@ -126,7 +126,7 @@ review_count: 0
 
 > [!example]- 语料
 > - With the extra resources , the project now seems feasible. `[例]`
-> - It may be feasible to clone human beings , but is it ethical ? `[例]`
+> - It may be feasible to clone human beings , but is it ethical? `[例]`
 > - With the extra resources the plan now seems feasible. `[例]`
 
 

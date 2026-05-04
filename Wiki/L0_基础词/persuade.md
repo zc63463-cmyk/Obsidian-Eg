@@ -128,9 +128,9 @@ review_count: 0
 
 > [!example]- 语料
 > - Advertising is intended to appeal to consumers, but it does not force them to buy the product; it is meant to persuade rather than coerce. `[真题]`
-> - If she doesn't want to go, nothing you can say will persuade her. `[语料库]`
-> - He is trying to persuade local and foreign businesses to invest in the project. `[语料库]`
-> - Her legal advisers persuaded her into mentioning the names of the people involved in the robbery. `[语料库]`
+> - If she doesn't want to go, nothing you can say will persuade her. `[例]`
+> - He is trying to persuade local and foreign businesses to invest in the project. `[例]`
+> - Her legal advisers persuaded her into mentioning the names of the people involved in the robbery. `[例]`
 
 
 ---

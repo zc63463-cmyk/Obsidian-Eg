@@ -127,8 +127,8 @@ review_count: 0
 
 > [!example]- 语料
 > - The dance was based on several Hindu legends. `[例]`
-> - She is writing a thesis on Irish legend and mythology . `[例]`
-> - Legend has it (= people say) that he always wore his boots in bed . `[例]`
+> - She is writing a thesis on Irish legend and mythology. `[例]`
+> - Legend has it (= people say) that he always wore his boots in bed. `[例]`
 
 
 ---

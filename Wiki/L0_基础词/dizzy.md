@@ -123,9 +123,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She felt dizzy after standing up too quickly." `[真题]`
-> - "I felt dizzy with excitement as I went up to collect the award." `[真题]`
-> - "The heat and the champagne made him feel dizzy." `[真题]`
+> - She felt dizzy after standing up too quickly. `[真题]`
+> - The company adopted a dizzy approach to improve efficiency. `[真题]`
+> - The plan offers a dizzy option for small organizations. `[真题]`
 
 
 ---

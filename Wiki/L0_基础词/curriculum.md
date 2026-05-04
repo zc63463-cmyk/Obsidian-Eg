@@ -129,9 +129,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Maths is an intrinsic part of the school curriculum. `[例]`
-> - The Romans aren't on this year's curriculum. `[例]`
-> - She demanded to see the school's curriculum. `[例]`
+> - The school curriculum should be as broad as possible. `[例]`
+>   - 中译：学校课程应尽可能广泛。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/curriculum
+> - Spanish is on the curriculum. `[例]`
+>   - 中译：西班牙语已列入课程。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/curriculum
+> - Spanish is in the curriculum. `[例]`
+>   - 中译：西班牙语包含在课程中。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/curriculum
 
 
 ---

@@ -122,7 +122,7 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - In 60 percent of the households surveyed both spouses went out to work . `[例]`
+> - In 60 percent of the households surveyed both spouses went out to work. `[例]`
 > - My brothers and sisters and their spouses. `[例]`
 > - Employees and their spouses are covered by the health plan. `[例]`
 

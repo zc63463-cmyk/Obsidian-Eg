@@ -120,9 +120,15 @@ bowel 源自古英语 *būel*（肠子），与 [[bow]]（弯曲）同源——�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - He has trouble with his bowels. `[例]`
-> - The patient had complained of general abdominal pain and difficulty moving her bowels for the past four days . `[例]`
 > - Patients are asked to report any change in bowel habit. `[例]`
+>   - 中译：要求患者报告排便习惯的任何变化。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bowel
+> - A rumble came from the bowels of the earth (= deep underground). `[例]`
+>   - 中译：一阵隆隆声从地底（=地下深处）传来。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bowel
+> - They dug deep into the bowels of the earth. `[例]`
+>   - 中译：他们深入地底。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/bowel
 
 
 ---

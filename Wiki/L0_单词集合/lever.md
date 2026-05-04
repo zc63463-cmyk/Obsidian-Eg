@@ -135,9 +135,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The most obvious policy lever suggested by this study for increasing the access of the poor to more remunerative wage labour is rural formal education." `[COCA-ACAD]`
-> - "Something she could use as a lever against him; something he would really care about." `[COCA-FIC]`
-> - "The hand brake is usually applied by a lever at the side of the driver's seat." `[COCA-ACAD]`
+> - She levered up the drain cover. `[例]`
+>   - 中译：她撬开排水沟盖。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/lever
+> - He levered open the engine compartment and released a great cloud of blue smoke. `[例]`
+>   - 中译：他撬开发动机舱，释放出一大团蓝色烟雾。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/lever
+> - He levered himself out of his chair with the usual difficulty and opened his arms wide. `[例]`
+>   - 中译：他像往常一样艰难地从椅子上站起来，张开双臂。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/lever
 
 ---
 

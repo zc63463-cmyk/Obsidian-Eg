@@ -132,9 +132,15 @@ supr-(=super- 的最高级形式，在最上面) + -eme(形容词后缀) → 在
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The supreme commander of the armed forces. `[例]`
-> - The country's present constitution gives supreme authority to the presidency . `[例]`
-> - Beethoven reigns supreme among classical composers . `[例]`
+> - It is an event in which she reigns supreme. `[例]`
+>   - 中译：这是她统治至高无上的事件。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/supreme
+> - She smiled with supreme confidence. `[例]`
+>   - 中译：她微笑着，充满了无比的自信。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/supreme
+> - The board has supreme authority over such issues. `[例]`
+>   - 中译：董事会对此类问题拥有最高权力。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/supreme
 
 ---
 

@@ -139,10 +139,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - My parents' divorce had a big effect on me. `[COCA-ACAD]`
-> - The new law will come into effect next month. `[COCA-ACAD]`
-> - The policy has a significant effect on reducing carbon emissions. `[COCA-ACAD]`
-> - Eating junk food will eventually have an effect on your health. `[COCA-ACAD]`
+> - A lot of workers are servicing the tourist industry , and the tourism industry is serviced by those people coming in short term, " Castle said, " and so it's a cyclical effect. `[真题]`
+>   - 中译：许多工人正在为旅游业提供服务，而旅游业又是由那些短期到来的人提供服务的，”卡斯尔说，“所以这是一种周期性效应。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - I tried taking tablets for the headache but they didn't have any effect. `[例]`
+>   - 中译：我尝试服用治疗头痛的药片，但没有任何效果。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/effect
+> - I think I'm suffering from the effects of too little sleep. `[例]`
+>   - 中译：我想我正受到睡眠过少的影响。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/effect
 
 ---
 

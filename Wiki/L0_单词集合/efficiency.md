@@ -130,10 +130,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Families and businesses need to take steps to maximize energy efficiency. `[COCA-ACAD]`
-> - The assembly line increased industry's efficiency. `[COCA-ACAD]`
-> - Improving energy efficiency is one of the most cost-effective ways to reduce carbon emissions. `[COCA-ACAD]`
-> - Auto makers will increase the fuel efficiency of their cars by 20% over the next five years. `[COCA-ACAD]`
+> - The design of the solar panels is inspired by the efficiency with which plants convert sunlight into sugar. `[例]`
+>   - 中译：太阳能电池板的设计灵感来自于植物将阳光转化为糖的效率。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/efficiency
+> - Families and business need to take steps to maximize energy efficiency. `[例]`
+>   - 中译：家庭和企业需要采取措施最大限度地提高能源效率。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/efficiency
+> - Streamlining cars increases their fuel efficiency. `[例]`
+>   - 中译：流线型汽车提高了燃油效率。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/efficiency
 
 ---
 

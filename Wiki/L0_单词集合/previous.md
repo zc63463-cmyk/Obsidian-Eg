@@ -127,8 +127,14 @@ pre-(在……之前) + vi(路) + -ous(形容词后缀)
 
 > [!example]- 语料
 > - While veterans of previous expeditions wrote at length about stunning trail sights, these vivid photographs were another thing entirely. `[真题]`
+>   - 中译：虽然之前探险的老兵们详细描述了令人惊叹的步道景观，但这些生动的照片完全是另一回事。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
 > - The previous owner of the house had built an extension on the back. `[例]`
-> - Training is provided , so no previous experience is required for the job . `[例]`
+>   - 中译：房子的前任主人在后面建了一个扩建部分。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/previous
+> - Training is provided , so no previous experience is required for the job. `[例]`
+>   - 中译：提供培训，因此不需要任何工作经验。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/previous
 ---
 
 

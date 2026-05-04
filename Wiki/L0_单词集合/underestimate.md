@@ -131,9 +131,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Their stock is underestimated. `[真题]`
-> - Originally the contractor gave me a price of €2,000, but now they say they underestimated and it's going to be at least €3,000. `[例]`
-> - Don't underestimate the difficulties of getting both parties to the conference table . `[例]`
+> - We underestimated the time it would take to get there. `[例]`
+>   - 中译：我们低估了到达那里所需的时间。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/underestimate
+> - The statistics seriously underestimate the number of people affected. `[例]`
+>   - 中译：统计数据严重低估了受影响的人数。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/underestimate
+> - We underestimated how long it would take. `[例]`
+>   - 中译：我们低估了需要多长时间。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/underestimate
 
 ---
 

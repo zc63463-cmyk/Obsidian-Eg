@@ -125,9 +125,9 @@ rig-(=rigor, 严格/僵硬，拉丁语 *rigor*) + -or(名词后缀) + -ous(充�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The study was conducted using rigorous scientific methods to ensure the validity of the results. ` [真题]`
-> - Students must undergo rigorous training before they are qualified to practice medicine. ` [真题]`
-> - Her rigorous research methods have earned her a reputation as a leading expert in the field. ` [真题]`
+> - The researchers proposed a rigorous solution to the problem. `[例]`
+> - The company adopted a rigorous approach to improve efficiency. `[例]`
+> - The plan offers a rigorous option for small organizations. `[例]`
 
 
 ---

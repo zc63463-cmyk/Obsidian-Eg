@@ -132,9 +132,15 @@ trans-（跨越，穿过）+ -ient（形容词后缀，表示"正在……的"�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - A glass of whisky has only a transient warming effect . `[例]`
-> - The city has a large transient population (= many people who are living in it only temporarily ) . `[例]`
-> - It's an organization set up to provide money and help for transients. `[例]`
+> - A Summer in New York is actually Europe, the Sequel—city of transient Danes and Italians and Spaniards and French. `[例]`
+>   - 中译：纽约的夏天实际上是欧洲，续集——丹麦人、意大利人、西班牙人和法国人的短暂城市。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/transient
+> - But Vandenberg, who had already written a hagiographic biography of Hamilton, was doing his personal hero no service. Rather, he trivialized him by dragging him into the transient issues of the day. `[例]`
+>   - 中译：但范登堡已经为汉密尔顿写了一部传记，这对他个人的英雄没有任何帮助。相反，他把他拖入了当今短暂的问题中，从而贬低了他。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/transient
+> - The mountain lies between his residence and the main road, and occludes the expectation of transient visits. `[例]`
+>   - 中译：这座山位于他的住所和主干道之间，阻碍了短暂拜访的期望。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/transient
 ---
 
 

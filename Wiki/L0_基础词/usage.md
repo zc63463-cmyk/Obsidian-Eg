@@ -132,9 +132,9 @@ use(使用) + -age(名词后缀，表示状态/行为/结果)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The earliest recorded usage of the word is in the twelfth century . `[例]`
+> - The earliest recorded usage of the word is in the twelfth century. `[例]`
 > - Sports equipment is designed to withstand hard usage. `[例]`
-> - Many had complained about the usage they'd received at his hands . `[例]`
+> - Many had complained about the usage they'd received at his hands. `[例]`
 
 
 ---

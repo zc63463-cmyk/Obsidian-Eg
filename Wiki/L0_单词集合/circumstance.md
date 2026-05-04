@@ -118,6 +118,15 @@ circum-(周围) + st(站立) + -ance(名词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
+> - I think she coped very well under the circumstances. `[例]`
+>   - 中译：我认为她在这种情况下应对得很好。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/circumstance
+> - Obviously we can't deal with the problem until we know all the circumstances. `[例]`
+>   - 中译：显然，在我们了解所有情况之前，我们无法处理这个问题。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/circumstance
+> - She died in suspicious circumstances. `[例]`
+>   - 中译：她死因可疑。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/circumstance
 - Economic circumstances have changed dramatically.（经济环境发生了巨大变化。）
 - The court must consider all the circumstances of the case.（法院必须考虑案件的所有情况。）
 

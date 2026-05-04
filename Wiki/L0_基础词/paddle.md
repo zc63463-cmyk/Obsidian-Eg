@@ -125,9 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He paddled the canoe along the river." `[真题]`
-> - "The children went paddling in the sea." `[真题]`
-> - "Next morning they paddled off in kayaks, hugging the coast along a sheer rock face." `[真题]`
+> - He paddled the canoe along the river. `[真题]`
+> - The children went paddling in the sea. `[真题]`
+> - Next morning they paddled off in kayaks, hugging the coast along a sheer rock face. `[真题]`
 
 
 ---

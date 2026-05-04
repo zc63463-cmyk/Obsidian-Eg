@@ -124,10 +124,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - In reality, things are not as simple as they seem. `[COCA]`
-> - The reality is that most small businesses fail within the first five years. `[COCA]`
-> - He needs to accept the reality that his time in this job is over. `[COCA]`
-> - I don't think you understand the reality of the situation. `[COCA]`
+> - The reality of the situation is that unless we find some new funding soon , the youth centre will have to close. `[例]`
+>   - 中译：现实情况是，除非我们尽快找到新的资金，否则青年中心将不得不关闭。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/reality
+> - He escaped from reality by going to the cinema every afternoon. `[例]`
+>   - 中译：他每天下午都去看电影来逃避现实。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/reality
+> - He seemed very young , but he was in reality (= in fact ) older than all of us. `[例]`
+>   - 中译：他看起来很年轻，但实际上他比我们所有人都年长。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/reality
 
 ---
 

@@ -128,9 +128,15 @@ blue(蓝色) + print(印刷/打印)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Their blueprint for economic reform was published yesterday . `[例]`
-> - The report provided a blueprint for relieving the county’s crowded jail facilities . `[例]`
-> - The health ministry's latest blueprint for pension reform. `[例]`
+> - DNA carries the genetic blueprint which tells any organism how to build itself. `[例]`
+>   - 中译：DNA 携带遗传蓝图，告诉任何有机体如何构建自身。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/blueprint
+> - The nonprofit was drafting blueprints for a new headquarters on Homestead Avenue. `[例]`
+>   - 中译：该非营利组织正在为霍姆斯特德大道的新总部起草蓝图。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/blueprint
+> - Seventy-seven years ago, famed architects and furniture designers Ray and Charles Eames, came up with a modernist blueprint for a system composed of inexpensive and off-the-shelf materials from industrial and commercial catalogs that could be easily assembled. `[例]`
+>   - 中译：七十七年前，著名建筑师和家具设计师雷·伊姆斯 (Ray Eames) 和查尔斯·伊姆斯 (Charles Eames) 提出了一个现代主义蓝图，该系统由工业和商业目录中的廉价现成材料组成，可以轻松组装。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/blueprint
 
 
 ---

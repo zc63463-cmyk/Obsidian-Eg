@@ -134,9 +134,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "generate electricity from renewable sources"（利用可再生能源发电）——考研阅读常见搭配，环保/能源话题
-> - "generate public interest"（引起公众兴趣）——考研阅读常见搭配，社会话题
-> - "generate enormous revenue"（产生巨额收入）——考研阅读常见搭配，经济话题
+> - At the same time AI can also be used to generate content for social media posts and chat sites. `[真题]`
+>   - 中译：同时，人工智能还可以用于为社交媒体帖子和聊天网站生成内容。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - Her latest film has generated a lot of interest. `[例]`
+>   - 中译：她的最新电影引起了很多人的兴趣。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/generate
+> - A first day at school always generates excitement. `[例]`
+>   - 中译：上学的第一天总是令人兴奋。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/generate
 
 ---
 

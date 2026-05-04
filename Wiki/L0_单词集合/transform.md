@@ -133,9 +133,15 @@ trans-（跨越，穿过）+ form（形状，形态）+ -（动词后缀）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The reorganization will transform the entertainment industry . `[例]`
-> - The growth of the textile industry transformed the area . `[例]`
-> - Whenever a camera was pointed at her, Marilyn would instantly transform her self into a radiant star . `[例]`
+> - The photochemical reactions transform the light into electrical impulses. `[例]`
+>   - 中译：光化学反应将光转化为电脉冲。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/transform
+> - Materials are transformed from their original state into other forms. `[例]`
+>   - 中译：材料从其原始状态转变为其他形式。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/transform
+> - I am convinced that the electric power industry is transforming. `[例]`
+>   - 中译：我坚信电力行业正在转型。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/transform
 ---
 
 

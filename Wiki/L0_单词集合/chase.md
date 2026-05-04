@@ -127,9 +127,15 @@ chase(古法语 *chacier*，追赶，狩猎)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The police **chased** the suspect through the streets.（警察在街道上追赶嫌疑人。）
-> - She gave up a stable job to **chase** her dream of becoming an artist.（她放弃了稳定的工作去追逐成为艺术家的梦想。）
-> - Children love **chasing** each other in the playground.（孩子们喜欢在操场上互相追逐。）
+> - The police car was going so fast , it must have been chasing someone. `[例]`
+>   - 中译：警车开得这么快，肯定是在追人。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/chase
+> - She was chasing (after) a man who had snatched her bag. `[例]`
+>   - 中译：她正在追赶一个抢了她包的男人。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/chase
+> - It was plucky of you to chase after the burglar. `[例]`
+>   - 中译：你追赶小偷真是太勇敢了。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/chase
 
 ---
 

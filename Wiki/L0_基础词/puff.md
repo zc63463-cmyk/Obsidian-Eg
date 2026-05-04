@@ -128,9 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - He came puffing up the stairs . `[例]`
-> - I ran all the way home ," she puffed (= said while puffing) . `[例]`
-> - She was puffing on a cigarette at the time . `[例]`
+> - He came puffing up the stairs. `[例]`
+> - I ran all the way home ," she puffed (= said while puffing). `[例]`
+> - She was puffing on a cigarette at the time. `[例]`
 
 
 ---

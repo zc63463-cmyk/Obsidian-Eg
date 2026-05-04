@@ -129,9 +129,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Tolls are now collected electronically on most motorways . `[例]`
-> - Is Bayonne a toll call (= a more expensive phone call ) from New York? `[例]`
-> - Independent sources say that the death toll from the earthquake runs into thousands. `[例]`
+> - Every hour, the news bulletin reported the mounting toll of casualties. `[例]`
+>   - 中译：新闻公报每小时都会报道不断增加的伤亡人数。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/toll
+> - Illness had taken a heavy toll on her. `[例]`
+>   - 中译：疾病给她带来了沉重的打击。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/toll
+> - The recession is taking its toll on the housing markets. `[例]`
+>   - 中译：经济衰退正在对房地产市场造成影响。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/toll
 
 ---
 

@@ -140,10 +140,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - We thought we might go abroad for Christmas, but in the end we stayed at home. `[COCA-ACAD]`
-> - The stories in the newspaper brought her career to a sudden end. `[COCA-ACAD]`
-> - We must put an end to this violence. `[COCA-ACAD]`
-> - He tried various jobs and in the end became an accountant. `[例]`
+> - At the end of 2018, Governor Charlie Baker of Massachusetts signed a bill to rein in those potential investor-buyers. `[真题]`
+>   - 中译：2018 年底，马萨诸塞州州长查理·贝克签署了一项法案，以控制这些潜在的投资者买家。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - Big-name PRH authors may suffer a bit, but it's those mid-list authors, who normally rely on Waterstones staff's passion for promoting books by lesser-known writers, who will be praying for an end to the dispute. `[真题]`
+>   - 中译：知名公关作家可能会受到一些影响，但那些通常依靠 Waterstones 工作人员推销不太知名作家的书籍的中等作家将祈祷争端结束。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - This cable should have a plug at one end and a socket at the other. `[例]`
+>   - 中译：该电缆的一端应有插头，另一端应有插座。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/end
 
 ---
 

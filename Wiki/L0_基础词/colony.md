@@ -130,9 +130,15 @@ colony 源自拉丁语 *colonia*（定居地、殖民地），来自 *colere*（
 ## 真题/语料关联
 
 > [!example]- 语料
-> - An artists ' colony. `[例]`
-> - Many behavioural patterns have been identified in the chimp colony. `[例]`
-> - India was a British colony. `[例]`
+> - Massachusetts was one of the original 13 British colonies that later became the United States. `[例]`
+>   - 中译：马萨诸塞州是最初的 13 个英国殖民地之一，后来成为美国。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/colony
+> - The beehive is expected to house two additional bee colonies , adding to the two other colonies that produce honey for the White House. `[例]`
+>   - 中译：该蜂箱预计将容纳另外两个蜂群，增加为白宫生产蜂蜜的另外两个蜂群。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/colony
+> - Continue reading … THAT SETTLES IT — Archaeologists crack 'Spanish Roanoke' mystery with haunting find from doomed colony. `[例]`
+>   - 中译：继续阅读……一切就这样解决了——考古学家从注定失败的殖民地中发现了令人难忘的发现，破解了“西班牙罗阿诺克”之谜。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/colony
 
 
 ---

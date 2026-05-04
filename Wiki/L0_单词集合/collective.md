@@ -130,8 +130,15 @@ col-(共同，一起，[[com]]变体) + [[lect]](选择、收集) + -ive(形容�
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - "The success of the project was the result of a collective effort by all team members."（项目的成功是所有团队成员共同努力的结果。）——考研阅读真题
-> - "Collective action is needed to address the problem of income inequality."（需要集体行动来解决收入不平等问题。）——考研高频表达
+> - It will require a collective effort from government , providers , and the media to meet our goals. `[例]`
+>   - 中译：实现我们的目标需要政府、提供商和媒体的集体努力。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/collective
+> - All directors take collective responsibility for board decisions. `[例]`
+>   - 中译：所有董事对董事会的决定承担集体责任。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/collective
+> - One appeal of collectives is that they reduce risk. `[例]`
+>   - 中译：集体的吸引力之一是它们可以降低风险。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/collective
 
 ---
 

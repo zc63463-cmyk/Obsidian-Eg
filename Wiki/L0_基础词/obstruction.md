@@ -129,7 +129,7 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - There's some kind of obstruction on the railway tracks . `[例]`
+> - There's some kind of obstruction on the railway tracks. `[例]`
 > - The referee said it was obstruction. `[例]`
 > - The abandoned car was causing an obstruction. `[例]`
 

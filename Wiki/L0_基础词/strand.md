@@ -127,9 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She tucked a loose strand of hair behind her ears . `[例]`
+> - She tucked a loose strand of hair behind her ears. `[例]`
 > - A strand of dental floss. `[例]`
-> - There are so many different strands to the plot that it's hard to follow . `[例]`
+> - There are so many different strands to the plot that it's hard to follow. `[例]`
 
 
 ---

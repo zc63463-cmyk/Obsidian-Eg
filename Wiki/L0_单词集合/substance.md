@@ -136,9 +136,15 @@ sub-(在下面) + 建议创建词根笔记 [[st/sta]](站立) + -ance(名词后�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - What sort of substance could withstand those temperatures ? `[例]`
-> - All athletes are tested for illegal substances. `[例]`
-> - Later that year , the substance of their secret conversation appeared in a newspaper article . `[例]`
+> - Some frogs produce toxic substances in their skin. `[例]`
+>   - 中译：有些青蛙的皮肤会产生有毒物质。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/substance
+> - He was disqualified from competing after testing positive to a banned substance. `[例]`
+>   - 中译：由于违禁物质检测呈阳性，他被取消了比赛资格。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/substance
+> - Adolescent substance use remains high in the United States. `[例]`
+>   - 中译：美国青少年物质使用率仍然很高。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/substance
 
 ---
 

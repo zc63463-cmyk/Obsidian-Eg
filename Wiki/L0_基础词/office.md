@@ -129,7 +129,7 @@ of-（变体形式，源自拉丁语 *ob-* = to, toward）+ [[fac]]（做，拉�
 
 > [!example]- 语料
 > - They have offices in Paris , London, and Madrid. `[例]`
-> - I have an appointment at the physician's office on Tuesday . `[例]`
+> - I have an appointment at the physician's office on Tuesday. `[例]`
 > - Tyler went to the dentist's office for a routine checkup. `[例]`
 
 

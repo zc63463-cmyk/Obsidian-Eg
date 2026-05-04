@@ -125,9 +125,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - I started recording the sounds on analogue reel-to-reel tape . `[例]`
-> - This is the standard method used to convert analogue signals to digital . `[例]`
-> - Grants can be given to people who still watch analogue broadcasts on old television sets to help them cover the cost of a digital converter . `[例]`
+> - Any structure one then builds with these points, lines, and curves must also be finite, providing a discrete analogue of classical geometry. `[例]`
+>   - 中译：用这些点、线和曲线构建的任何结构也必须是有限的，提供经典几何的离散模拟。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/analogue
+> - The official selection also underlines a strong analogue thread. `[例]`
+>   - 中译：官方选择还强调了强大的模拟线索。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/analogue
+> - Thomas has given us a powerful analogue for a nation driving itself off a cliff. `[例]`
+>   - 中译：托马斯为我们提供了一个强有力的类比，来形容一个国家正在走向悬崖。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/analogue
 
 
 ---

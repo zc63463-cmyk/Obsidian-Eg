@@ -126,9 +126,15 @@ in-(加强) + cre(生长) + -as(e) + -ing(进行中) + -ly(副词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - It is getting increasingly difficult for the US to remain competitive in consumer products. `[COCA-ACAD]`
-> - It is increasingly common for businesses to introduce policies on care responsibilities. `[COCA-ACAD]`
-> - The states that create these kinds of environments will be best positioned to attract the world's increasingly mobile citizens. `[COCA-ACAD]`
+> - Increasingly, there is pressure on the council to reverse its decision. `[例]`
+>   - 中译：委员会面临的压力越来越大，要求其改变决定。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/increasingly
+> - She thinks that young people today are becoming increasingly selfish. `[例]`
+>   - 中译：她认为现在的年轻人变得越来越自私。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/increasingly
+> - He became increasingly muddled as he grew older. `[例]`
+>   - 中译：随着年龄的增长，他变得越来越糊涂。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/increasingly
 
 ---
 

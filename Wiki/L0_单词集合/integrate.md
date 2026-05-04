@@ -128,9 +128,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - And in Europe, some are up in arms over a proposal to drop a specific funding category for social-science research and to integrate it within cross-cutting topics of sustainable development. `[真题]`
-> - As many took on the duty of trying to integrate reasoning and scientific philosophies into the world. `[真题]`
-> - The idea with young children is to integrate learning with play. `[COCA-ACAD]`
+> - Another issue is that, while climate change is well integrated into some subjects and at some ages-·such as earth and space sciences in high schools-it is not as well represented in curricula for younger children and in subjects that are more widely taught, such as biology and chemistry. `[真题]`
+>   - 中译：另一个问题是，虽然气候变化在某些年龄段的某些科目中得到了很好的体现，例如高中的地球和空间科学，但它在低龄儿童的课程和更广泛教授的科目（例如生物学和化学）中却没有得到很好的体现。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - He seems to find it difficult to integrate socially. `[例]`
+>   - 中译：他似乎很难融入社会。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/integrate
+> - The coach wants to integrate him into the side as quickly as possible. `[例]`
+>   - 中译：教练希望他能尽快融入球队。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/integrate
 
 
 ---

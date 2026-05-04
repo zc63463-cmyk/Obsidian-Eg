@@ -114,9 +114,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - I fell over and twisted my ankle. `[例]`
-> - The nurse bandaged my sprained ankle to keep the swelling down. `[例]`
-> - Three minutes into the match , Jackson limped off the pitch with a serious ankle injury . `[例]`
+> - She suffered a serious ankle injury in training. `[例]`
+>   - 中译：她在训练中脚踝严重受伤。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ankle
+> - We found ourselves ankle-deep in water (= the water came up to our ankles). `[例]`
+>   - 中译：我们发现自己陷入了齐脚踝深的水中（=水没过我们的脚踝）。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ankle
+> - My ankles have swollen. `[例]`
+>   - 中译：我的脚踝肿了。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ankle
 
 
 ---

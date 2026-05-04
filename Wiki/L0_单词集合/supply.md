@@ -129,9 +129,15 @@ sup-(=sub-，从下方) + ply(=ple/plet，填充，参见 [[lect-leg|ple/plet]])
 ## 真题/语料关联
 
 > [!example]- 语料
-> - We are at a crisis level on the supply of rental housing , " said Nick Taylor, executive director of the Workforce Housing Coalition of the Greater Seacoast. `[真题]`
-> - Its housing supply is at a very low level. `[真题]`
-> - The bill mentioned in Paragraph 2 was intended to __ _ A. curb short-term rental speculation B. ensure the supply of cheap housing C. punish illegal dealings in housing D. allow a free short-term rental market 28. `[真题]`
+> - Advances in agriculture increased the food supply. `[例]`
+>   - 中译：农业的进步增加了粮食供应。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/supply
+> - Demand for skilled labour outstrips supply. `[例]`
+>   - 中译：对熟练劳动力的需求超过了供给。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/supply
+> - We ordered a month's supply of oil. `[例]`
+>   - 中译：我们订购了一个月的石油供应。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/supply
 
 ---
 

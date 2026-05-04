@@ -136,9 +136,15 @@ chorus 源自希腊语 *khoros*（舞蹈的圆形场地/歌舞队），在古希
 ## 真题/语料关联
 
 > [!example]- 语料
-> - I'll sing the verses and I'd like you all to join in the chorus. `[例]`
-> - They burst into a chorus of (= they sang the song ) Happy Birthday. `[例]`
-> - The choir will be performing the Hallelujah Chorus at the concert . `[例]`
+> - Everyone joined in the chorus. `[例]`
+>   - 中译：大家都加入了合唱。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/chorus
+> - A chorus of laughter greeted his remark. `[例]`
+>   - 中译：他的话引起一阵笑声。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/chorus
+> - Thank you,’ they said in chorus. `[例]`
+>   - 中译：谢谢你。”他们异口同声地说。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/chorus
 
 
 ---

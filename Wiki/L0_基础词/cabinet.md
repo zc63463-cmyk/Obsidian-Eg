@@ -133,9 +133,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The president is completing the selection of his new cabinet. `[例]`
-> - There are three cabinet posts up for grabs . `[例]`
-> - A cabinet reshuffle (= a change to the members of the cabinet) is expected . `[例]`
+> - The china was displayed in a glass cabinet. `[例]`
+>   - 中译：瓷器陈列在玻璃柜里。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/cabinet
+> - Business leaders, cabinet members, and Supreme Court justices attended the event, which kicked off the United States’ 250th birthday celebrations. `[例]`
+>   - 中译：商界领袖、内阁成员和最高法院法官出席了此次活动，拉开了美国250岁生日庆祝活动的序幕。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/cabinet
+> - The commission’s report goes to President Cyril Ramaphosa, who will have to decide if accountability still dies in the filing cabinet , as has been the case with past commissions. `[例]`
+>   - 中译：该委员会的报告将提交给总统西里尔·拉马福萨(Cyril Ramaphosa)，他将必须决定文件柜中的问责制是否仍然消失，就像过去委员会的情况一样。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/cabinet
 
 
 ---

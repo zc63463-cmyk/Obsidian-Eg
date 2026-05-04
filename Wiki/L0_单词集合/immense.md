@@ -128,9 +128,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The internet has had an immense impact on the way we communicate. `[COCA-ACAD]`
-> - There is still an immense amount of work to be done. `[COCA-ACAD]`
-> - He inherited an immense fortune from his grandfather. `[COCA-NEWS]`
+> - They spent an immense amount of time getting the engine into perfect condition. `[例]`
+>   - 中译：他们花费了大量的时间来使发动机处于完美状态。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/immense
+> - He's an immense goalkeeper. `[例]`
+>   - 中译：他是一位出色的守门员。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/immense
+> - He inherited an immense fortune. `[例]`
+>   - 中译：他继承了一笔巨额财产。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/immense
 
 ---
 

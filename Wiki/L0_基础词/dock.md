@@ -130,9 +130,9 @@ dock 源自古英语 *docce*（一种植物），后引申为"水边凹陷处"�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The company docked his pay for being late." `[真题]`
-> - "The defendant stood in the dock, facing the jury." `[真题]`
-> - "The ship docked at the harbor early this morning." `[真题]`
+> - The company docked his pay for being late. `[真题]`
+> - The defendant stood in the dock, facing the jury. `[真题]`
+> - The ship docked at the harbor early this morning. `[真题]`
 
 
 ---

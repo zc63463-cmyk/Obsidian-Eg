@@ -135,10 +135,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The politician was accused of corruption after accepting bribes from a large corporation. `[真题]`
-> - Widespread corruption in the police force led to a loss of public trust. `[真题]`
-> - Power tends to corrupt, and absolute power corrupts absolutely. `[经典]`
-> - The unenforceable law is hardly qualified to be an institution, but the practice of bribing corrupt law enforcers does qualify. `[语料库]`
+> - It was seen as the only way to overthrow a corrupt regime. `[例]`
+>   - 中译：这被视为推翻腐败政权的唯一途径。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/corrupt
+> - They promised to seek out the corrupt officials who had accepted the bribes. `[例]`
+>   - 中译：他们承诺将追查收受贿赂的腐败官员。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/corrupt
+> - They had been engaged in corrupt practices. `[例]`
+>   - 中译：他们曾从事腐败行为。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/corrupt
 
 
 ---

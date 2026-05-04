@@ -124,9 +124,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Many students feel anxious before taking important examinations. `[例]`
-> - Parents are naturally anxious about their children's safety at school. `[例]`
-> - She was anxious to hear the results of the interview. `[例]`
+> - My mother always gets a bit anxious if we don't arrive when we say we will. `[例]`
+>   - 中译：如果我们约定的时间没有到达，我妈妈总是会有点焦虑。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/anxious
+> - I saw my sister's anxious face at the window. `[例]`
+>   - 中译：我在窗边看到姐姐焦急的脸。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/anxious
+> - The drought has made farmers anxious about the harvest. `[例]`
+>   - 中译：干旱使农民对收成感到焦虑。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/anxious
 
 ---
 

@@ -128,10 +128,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Don't bandage the wound too tightly. [COCA]
-> - His injured leg was all bandaged up. [COCA]
-> - Bystanders bandaged his wound and took him to hospital where he received 20 stitches in his arm. [COCA]
-> - He arrived at the hospital with a bandaged hand, explaining that he had injured himself while cooking. `[例]`
+> - She had a bandage on her arm. `[例]`
+>   - 中译：她的手臂上缠着绷带。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bandage
+> - He wrapped a bandage around his knee. `[例]`
+>   - 中译：他在膝盖上缠了绷带。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/bandage
+> - He arrived with a bandaged ankle. `[例]`
+>   - 中译：他抵达时脚踝缠着绷带。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/bandage
 
 
 ---

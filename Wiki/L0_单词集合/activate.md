@@ -120,6 +120,15 @@ act(行动) + -iv- + -ate(使动后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
+> - The alarm is activated by the lightest pressure. `[例]`
+>   - 中译：最轻的压力就会激活警报。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/activate
+> - Something activated the car alarm. `[例]`
+>   - 中译：有什么东西激活了汽车警报器。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/activate
+> - New customers must call an automated line to activate their card. `[例]`
+>   - 中译：新客户必须拨打自动线路来激活他们的卡。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/activate
 - You need to activate your new credit card before using it.（你需要先激活新信用卡才能使用。）
 - The virus can activate the immune system.（该病毒可以激活免疫系统。）
 

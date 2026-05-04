@@ -136,10 +136,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "global warming and climate change"（全球变暖与气候变化）——考研阅读环保类话题最高频搭配
-> - "the global economy is facing challenges"（全球经济面临挑战）——经济类阅读常见表达
-> - "take a global perspective"（采取全球视角/全局视角）——学术/管理类阅读常见搭配
-> - "global competition"（全球竞争）——商业/教育类阅读常见表达
+> - We have the chance to build an outward-looking Europe that lives up to its global responsibilities. `[例]`
+>   - 中译：我们有机会建设一个外向型欧洲，履行其全球责任。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/global
+> - They have attempted to chart the global temperature variations over the last 140 years. `[例]`
+>   - 中译：他们试图绘制过去 140 年来全球温度变化的图表。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/global
+> - As leader , he opened up exciting vistas of global co-operation. `[例]`
+>   - 中译：作为领导人，他开辟了全球合作的令人兴奋的前景。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/global
 
 ---
 

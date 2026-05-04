@@ -128,7 +128,15 @@ fer(带来/产出) + -tile(形容词后缀，"能…的")
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The region's fertile plains make it one of the world's most productive agricultural areas.（该地区肥沃的平原使其成为世界上最高产的农业区之一。）
+> - The ploughed earth looked rich and dark and fertile. `[例]`
+>   - 中译：犁过的土地看起来肥沃、黝黑、肥沃。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/fertile
+> - In order to turn the deserts into fertile and productive land , engineers built an 800-mile canal. `[例]`
+>   - 中译：为了把沙漠变成肥沃多产的土地，工程师们修建了一条800英里长的运河。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/fertile
+> - Organic farmers don't put chemicals into the soil , but keep it fertile by growing clover and adding manure. `[例]`
+>   - 中译：有机农民不会将化学物质放入土壤中，而是通过种植三叶草和添加肥料来保持土壤肥沃。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/fertile
 
 ---
 

@@ -148,9 +148,9 @@ light 源自原始印欧语 *\*leuk-*（发光、闪耀），与希腊语 *leuko
 ## 真题/语料关联
 
 > [!example]- 语料
-> - It's a north-facing room so it doesn't get much light (= brightness from the sun ) . `[例]`
+> - It's a north-facing room so it doesn't get much light (= brightness from the sun ). `[例]`
 > - Large windows bring in natural light. `[例]`
-> - Light was streaming in through the open door . `[例]`
+> - Light was streaming in through the open door. `[例]`
 
 
 ---

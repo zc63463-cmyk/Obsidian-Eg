@@ -143,9 +143,15 @@ chill 源自古英语 *ciele*（寒冷），与 cold 同源，进一步追溯至
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The dough needs to be chilled in order to firm up before rolling . `[例]`
-> - Chill the wine before serving . `[例]`
-> - The cold evening air chilled his face . `[例]`
+> - There's a chill in the air this morning. `[例]`
+>   - 中译：今天早上，空气中有一丝寒意。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/chill
+> - A small fire was burning to take the chill off the room. `[例]`
+>   - 中译：房间里生着小火，驱散了寒冷。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/chill
+> - His words sent a chill down her spine. `[例]`
+>   - 中译：他的话让她脊背发凉。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/chill
 
 
 ---

@@ -128,10 +128,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - `This alone demonstrates that the television business is not an easy world to survive in, a fact underlined by statistics that show that out of 80 European television networks, no less than 50 took a loss in 1989.` `[真题]`
-> - `The things that bring the greatest joy carry the greatest potential for loss and disappointment.` `[真题]`
-> - `The company's losses for the year were higher than expected.` `[COCA-ACAD]`
-> - `Her damages claim includes loss of earnings up to the normal retirement age.` `[COCA-NEWS]`
+> - The main disadvantage of using AI to respond to customers is that there are concerns about trusting pei:sonal interactions to machines , which could lead not only to the subsequent loss of interpersonal connections , but also to a decrease in marketing personnel. ( 47) Some believe that AI is negatively impacting on the marketer's role by reducing creativity and removing jobs, but they are aware that it is a way of reducing costs and creating new information. `[真题]`
+>   - 中译：使用人工智能响应客户的主要缺点是担心信任机器之间的人际互动，这不仅可能导致随后人际联系的丧失，还会导致营销人员的减少。 ( 47) 一些人认为人工智能通过减少创造力和减少工作岗位而对营销人员的角色产生负面影响，但他们意识到这是降低成本和创造新信息的一种方式。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - Many parents feel a sense of loss when their children leave home. `[例]`
+>   - 中译：当孩子离开家时，许多父母都会感到失落。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/loss
+> - He suffered a gradual loss of memory. `[例]`
+>   - 中译：他的记忆逐渐丧失。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/loss
 
 ---
 

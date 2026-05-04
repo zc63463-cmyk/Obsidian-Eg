@@ -125,8 +125,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She is highly capable of managing the team on her own."（她非常有能力独自管理团队。）——职场/管理类阅读语境
-> - "Only a capable engineer can handle this level of complexity."（只有有能力的工程师才能处理这种复杂程度。）——科技/工程类阅读语境
+> - We need to get an assistant who's capable and efficient. `[例]`
+>   - 中译：我们需要一个有能力、有效率的助手。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/capable
+> - Only the Democratic Party is capable of running the country. `[例]`
+>   - 中译：只有民主党才有能力治理国家。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/capable
+> - I think both sexes are equally capable of looking after children. `[例]`
+>   - 中译：我认为男女都有同等能力照顾孩子。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/capable
 
 ---
 

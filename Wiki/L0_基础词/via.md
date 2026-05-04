@@ -131,10 +131,10 @@ via 本身就是拉丁语词根，意为"道路、路径"（拉丁语 *via*）�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "I'll let her know via one of our friends." `[权威语料]`
-> - "Light is channeled along the length of each cantilever via a waveguide, and exits at its tip." `[权威语料]`
-> - "She returned home via Britain and France." `[权威语料]`
-> - "Technology allows relief workers to contact the outside world via satellite." `[权威语料]`
+> - I'll let her know via one of our friends. `[例]`
+> - Light is channeled along the length of each cantilever via a waveguide, and exits at its tip. `[例]`
+> - She returned home via Britain and France. `[例]`
+> - Technology allows relief workers to contact the outside world via satellite. `[例]`
 
 
 ---

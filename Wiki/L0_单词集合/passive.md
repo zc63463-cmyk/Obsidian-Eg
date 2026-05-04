@@ -135,9 +135,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The passive voice is commonly used in scientific writing." `` `[COCA-ACAD]` ``
-> - "He tends to be passive in group discussions." `` `[COCA-ACAD]` ``
-> - "Students should not be passive recipients of knowledge." `` `[真题]` ``
+> - He was released from prison ' is a passive sentence. `[例]`
+>   - 中译：他“出狱”是一个被动的判决。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/passive
+> - In the sentence "He was hit by the ball ", "was hit " is in the passive voice. `[例]`
+>   - 中译：在“He was hit by the ball”这句话中，“was hit”是被动语态。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/passive
+> - Catrin told me' is an active sentence , and 'I was told by Catrin' is passive. `[例]`
+>   - 中译：Catrin告诉我”是主动句，而“Catrin告诉我”是被动句。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/passive
 
 ---
 

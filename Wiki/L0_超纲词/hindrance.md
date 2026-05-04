@@ -3,10 +3,8 @@ title: "hindrance"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 抽象关系
 prototype: 阻碍，妨碍物（阻挡前进的东西）
@@ -42,7 +40,7 @@ hind(=behind/back, 在后面) + -rance(名词后缀，表示状态/行为)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**阻挡前进的东西**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **阻挡前进的东西**（物理层面）
@@ -63,7 +61,7 @@ hind(=behind/back, 在后面) + -rance(名词后缀，表示状态/行为)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ hind(=behind/back, 在后面) + -rance(名词后缀，表示状态/行为)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > hind（后面）+ rance → hindrance = 让你留在后面的东西 = 阻碍。想象你在跑步，有人拽着你的衣服不放——他就是 hindrance。记住：hinder 是动词"阻碍"，hindrance 是名词"阻碍"。more of a hindrance than a help = 帮倒忙。
@@ -86,7 +84,7 @@ hind(=behind/back, 在后面) + -rance(名词后缀，表示状态/行为)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,14 +97,14 @@ hind(=behind/back, 在后面) + -rance(名词后缀，表示状态/行为)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[help]]：帮助（阻碍↔帮助）
 > - [[aid]]：援助（妨碍↔援助）
 > - [[facilitation]]：促进（阻碍↔促进）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,7 +116,7 @@ hind(=behind/back, 在后面) + -rance(名词后缀，表示状态/行为)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **be a hindrance to**：对……是阻碍
 > - **without hindrance**：没有阻碍地
 > - **more of a hindrance than a help**：帮倒忙
@@ -126,20 +124,13 @@ hind(=behind/back, 在后面) + -rance(名词后缀，表示状态/行为)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - I've never considered my disability a hindrance, but other people have. `[例]`
 > - His lack of experience was more of a hindrance than he had anticipated. `[例]`
 > - Poor time management can be a serious hindrance to academic success. `[例]`
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
-
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

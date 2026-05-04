@@ -133,9 +133,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Dentists use cement to hold crowns and bridges in place . `[例]`
-> - The university's exchange scheme has cemented its links with many other academic institutions . `[例]`
-> - There weren’t any chairs , so she sat on the cement. `[例]`
+> - Use a mixture of one part cement to four parts sand. `[例]`
+>   - 中译：使用一份水泥和四份沙子的混合物。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/cement
+> - There is a layer of cement under the bricks. `[例]`
+>   - 中译：砖下面有一层水泥。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/cement
+> - What kind of cement works best on glass and pottery? `[例]`
+>   - 中译：哪种水泥最适合玻璃和陶器？
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/cement
 
 
 ---

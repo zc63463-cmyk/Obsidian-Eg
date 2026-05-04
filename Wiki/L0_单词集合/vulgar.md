@@ -122,9 +122,15 @@ vulg-(普通大众，平民) + -ar(形容词后缀，表示"……的")
 ## 真题/语料关联
 
 > [!example]- 语料
-> - A vulgar patterned shirt. `[例]`
-> - I've no idea how much the clothes cost because there was nothing so vulgar as a price tag in evidence . `[例]`
-> - It was an extremely vulgar joke . `[例]`
+> - She found their laughter and noisy games coarse and rather vulgar. `[例]`
+>   - 中译：她发现他们的笑声和吵闹的游戏粗俗而粗俗。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/vulgar
+> - She gave a rather vulgar laugh. `[例]`
+>   - 中译：她发出一种相当粗俗的笑声。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/vulgar
+> - He was a vulgar man. `[例]`
+>   - 中译：他是一个粗俗的人。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/vulgar
 
 ---
 

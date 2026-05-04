@@ -123,9 +123,15 @@ com-(完全/一起) + [[hens|hens]](抓住) + -ion(名词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Darwin had a phrase to describe those ignorant of evolution: they \"look at an organic being as a savage looks at a ship, as at something wholly beyond his comprehension.\"" `[真题]`
-> - "Reading comprehension is a critical skill that students must develop for academic success." `[例]`
-> - "Her comprehension of the subject matter was impressive, demonstrating a deep grasp of complex theories." `[例]`
+> - He has no comprehension of the size of the problem. `[例]`
+>   - 中译：他不了解问题的严重性。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/comprehension
+> - How she manages to fit so much into a working day is beyond my comprehension (= I cannot understand it). `[例]`
+>   - 中译：她如何能够在工作日中融入这么多内容超出了我的理解范围（=我无法理解）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/comprehension
+> - His behaviour was completely beyond comprehension (= impossible to understand). `[例]`
+>   - 中译：他的行为完全无法理解（=不可能理解）。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/comprehension
 ---
 
 

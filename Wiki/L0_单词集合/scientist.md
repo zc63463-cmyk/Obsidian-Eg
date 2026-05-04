@@ -130,10 +130,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Scientists have discovered that regular consumption of aspirin reduces the risk of heart attacks in middle-aged men. `[COCA-ACAD]`
-> - The study was undertaken by a multi-national team led by scientists from Sweden. `[COCA-ACAD]`
-> - Computer scientists have developed new algorithms for processing large datasets. `[COCA-ACAD]`
-> - A team of scientists published their findings in a leading journal. `[COCA-ACAD]`
+> - Most scientists and experts sharply dispute Hardy's views. `[真题]`
+>   - 中译：大多数科学家和专家对哈代的观点提出了尖锐的质疑。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - They casually dismiss the career work of scholars and scientists as just another misguided opinion. `[真题]`
+>   - 中译：他们漫不经心地将学者和科学家的职业工作视为另一种误导性的观点。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - A study last year by the National Center for Science Education, a non­ profit group of scientists and teachers, looking at how state public schools across the country address climate change in science classes, gave barely half of US states a grade B + or higher. `[真题]`
+>   - 中译：国家科学教育中心（一个由科学家和教师组成的非营利组织）去年进行的一项研究调查了全国公立学校如何在科学课程中应对气候变化，结果显示美国只有一半的州获得了 B+ 或更高的成绩。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
 
 ---
 

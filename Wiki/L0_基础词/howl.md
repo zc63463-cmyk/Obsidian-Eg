@@ -127,8 +127,8 @@ howl 源自古英语 *hūl*（嚎叫），拟声词，模仿狼嚎的声音。
 
 > [!example]- 语料
 > - In the silence of the night , a lone wolf howled. `[例]`
-> - An injured dog lay in the middle of the road , howling with pain . `[例]`
-> - We were howling with laughter . `[例]`
+> - An injured dog lay in the middle of the road , howling with pain. `[例]`
+> - We were howling with laughter. `[例]`
 
 
 ---

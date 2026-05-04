@@ -120,10 +120,15 @@ in-(不) + dign( worthy，值得/尊严) + -ation(名词后缀，表示动作或
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The decision to close the factory has aroused the indignation of the townspeople. `` `[COCA]` ``
-> - The public expressed their indignation at the government's decision to cut healthcare funding. `` `[COCA-ACAD]` ``
-> - She was filled with indignation when she learned about the injustice. `` `[COCA]` ``
-> - The government expressed its indignation over the way the incident had been handled. `` `[COCA-ACAD]` ``
+> - The rise in train fares has aroused public indignation. `[例]`
+>   - 中译：火车票价的上涨引起了公众的愤慨。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/indignation
+> - The government expressed its indignation over the way the incident had been handled. `[例]`
+>   - 中译：政府对事件的处理方式表示愤慨。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/indignation
+> - Joe quivered with indignation that Paul should speak to him like that. `[例]`
+>   - 中译：保罗对他这样说话，乔气得浑身发抖。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/indignation
 
 ---
 

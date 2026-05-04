@@ -131,10 +131,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - I made the icing while the cake was baking. [COCA]
-> - He forgot to water his garden, and now the flowers are just baking in the sun. [COCA]
-> - Nowadays, I bake my own bread rather than buy it. [COCA]
-> - She baked a cake for her son's birthday, following a recipe passed down from her grandmother. `[例]`
+> - The bread is baking in the oven. `[例]`
+>   - 中译：面包正在烤箱里烘烤。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bake
+> - I've been baking all morning. `[例]`
+>   - 中译：我整个早上都在烘烤。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bake
+> - I'm baking a birthday cake for Alex. `[例]`
+>   - 中译：我正在为亚历克斯烤生日蛋糕。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bake
 
 
 ---

@@ -131,10 +131,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "research findings suggest that..."（研究结果表明……）——考研阅读学术类话题最高频搭配
-> - "the findings of the survey reveal..."（调查结果显示……）——社科类阅读常见表达
-> - "contradict previous findings"（与先前的研究结果相矛盾）——学术类阅读常见搭配
-> - "the court's findings"（法庭的裁决）——法律类阅读常见表达
+> - Without enough affordable housing in southern New Hampshire towns, "employers are having a hard time attracting employees, and workers are having a hard time finding a place to live, " Taylor said. `[真题]`
+>   - 中译：泰勒说，新罕布什尔州南部城镇没有足够的经济适用房，“雇主很难吸引雇员，工人也很难找到住处”。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - The report's finding on the decrease in violent crime supports the police chief's claims. `[例]`
+>   - 中译：该报告关于暴力犯罪减少的调查结果支持了警察局长的说法。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/finding
+> - These new findings turn the accepted theories on their head. `[例]`
+>   - 中译：这些新发现颠覆了公认的理论。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/finding
 
 ---
 

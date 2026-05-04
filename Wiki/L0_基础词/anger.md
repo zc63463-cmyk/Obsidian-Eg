@@ -125,9 +125,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - I think he feels a lot of anger towards his father , who treated him very badly as a child . `[例]`
-> - There is a danger that anger at the new law may turn into anti-government feeling . `[例]`
-> - The people showed no surprise or anger at their treatment . `[例]`
+> - She had to find a way to express her pent-up anger. `[例]`
+>   - 中译：她得想办法发泄一下压抑已久的愤怒。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/anger
+> - The plan provoked anger among local residents. `[例]`
+>   - 中译：该计划激起了当地居民的愤怒。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/anger
+> - Jan slammed her fist on the desk in anger. `[例]`
+>   - 中译：简愤怒地用拳头猛击桌子。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/anger
 
 
 ---

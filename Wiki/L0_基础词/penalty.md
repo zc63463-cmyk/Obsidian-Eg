@@ -137,9 +137,9 @@ pen-(惩罚，拉丁语 *poena* 罚金/惩罚) + -alty(名词后缀，表示状�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The study found that, among prosecuted firms, those with the most comprehensive CSR programmes tended to get more lenient penalties. `[2016年考研英语阅读]`
-> - Especially for women, there is a clear penalty at work for being overweight or obese. `[2020年9月六级阅读]`
-> - The penalty for murder is life imprisonment. `[剑桥词典]`
+> - Especially for women, there is a clear penalty at work for being overweight or obese. `[例]`
+> - The penalty for murder is life imprisonment. `[例]`
+> - They asked for the maximum penalty for hoax calls to be increased to one year. `[例]`
 
 
 ---

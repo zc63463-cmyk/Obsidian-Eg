@@ -126,9 +126,9 @@ lobby 源自中世纪拉丁语 *lobia*（游廊、走廊），源自古日耳曼
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The group plans to lobby against the bill . `[例]`
-> - They have been lobbying Congress to change the legislation concerning guns . `[例]`
-> - As you enter the lobby, you’ll see the elevators on your right . `[例]`
+> - The group plans to lobby against the bill. `[例]`
+> - They have been lobbying Congress to change the legislation concerning guns. `[例]`
+> - As you enter the lobby, you’ll see the elevators on your right. `[例]`
 
 
 ---

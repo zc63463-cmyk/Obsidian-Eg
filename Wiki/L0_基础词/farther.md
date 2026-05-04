@@ -134,9 +134,9 @@ far(远) + -ther(比较级后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - How much farther is it to the airport ? `[例]`
-> - The fog's so thick , I can't see farther than about ten metres . `[例]`
-> - It was farther to the shop than I expected . `[例]`
+> - How much farther is it to the airport? `[例]`
+> - The fog's so thick , I can't see farther than about ten metres. `[例]`
+> - It was farther to the shop than I expected. `[例]`
 
 
 ---

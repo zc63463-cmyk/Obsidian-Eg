@@ -138,10 +138,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The leading cause of death in the United States is heart disease." `[COCA-ACAD]`
-> - "She is a leading expert in the field of artificial intelligence." `[COCA-ACAD]`
-> - "The company plays a leading role in the industry." `[COCA]`
-> - "He is recognized as a leading expert on cardiovascular disease prevention." `[COCA-ACAD]`
+> - She's a leading expert on the country's ecology. `[例]`
+>   - 中译：她是该国生态学方面的顶尖专家。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/leading
+> - He has established himself as the leading candidate in the election. `[例]`
+>   - 中译：他已经确立了自己在选举中的领先候选人的地位。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/leading
+> - Jaqueline du Pré was a leading exponent of cello-playing. `[例]`
+>   - 中译：杰奎琳·杜普雷 (Jaqueline du Pré) 是大提琴演奏的主要倡导者。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/leading
 
 ---
 

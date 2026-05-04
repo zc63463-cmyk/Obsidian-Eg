@@ -132,9 +132,15 @@ ad-(=to, 朝向，见 [[ad]]) + her(=hes-, 粘附，拉丁语 *haerere*) + -e
 ## 真题/语料关联
 
 > [!example]- 语料
-> - A smooth , dry surface helps the tiles adhere to the wall . `[例]`
 > - Once in the bloodstream, the bacteria adhere to the surface of the red cells. `[例]`
+>   - 中译：一旦进入血液，细菌就会粘附在红细胞的表面。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/adhere
 > - Clean the surface first, or the paint will not adhere. `[例]`
+>   - 中译：首先清洁表面，否则油漆不会附着。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/adhere
+> - There was oil adhering to the bird’s feathers. `[例]`
+>   - 中译：鸟的羽毛上附着着油。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/adhere
 
 
 ---

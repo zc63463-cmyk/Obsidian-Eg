@@ -130,8 +130,8 @@ tele-(远，希腊语 *tēle*) + [[graph-gram|graph]](写，希腊语 *graphein*
 
 > [!example]- 语料
 > - What accounts for the great outburst of major inventions in early America — breakthroughs such as the telegraph, the steamboat and the weaving machine? `[真题]`
-> - The system was completed and public use initiated on May 24, 1844, with transmission of the message "What hath God wrought!" `[真题]`
 > - Since the 1800s, companies that were linked to the sea used telegraphs to communicate with their ships across the ocean. `[真题]`
+> - The news came by telegraph. `[例]`
 
 
 ---

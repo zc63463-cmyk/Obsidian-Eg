@@ -129,8 +129,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - I spilled coffee on my silk shirt . `[例]`
-> - You've spilled something down your tie . `[例]`
+> - I spilled coffee on my silk shirt. `[例]`
+> - You've spilled something down your tie. `[例]`
 > - Let's see if I can pour the juice into the glass without spilling it. `[例]`
 
 

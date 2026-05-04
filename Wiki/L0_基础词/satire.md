@@ -126,10 +126,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Jonathan Swift's 'Gulliver's Travels' is not merely a children's adventure story but a brilliant satire on human nature and society." `[真题]`
-> - "In an age of political satire, late-night talk shows have become an important platform for social commentary and criticism." `[真题]`
-> - "The hit HBO show is a biting satire about the television industry." `[权威语料]`
-> - "He often merges politics and popular culture using satire." `[权威语料]`
+> - Jonathan Swift's 'Gulliver's Travels' is not merely a children's adventure story but a brilliant satire on human nature and society. `[真题]`
+> - In an age of political satire, late-night talk shows have become an important platform for social commentary and criticism. `[真题]`
+> - The hit HBO show is a biting satire about the television industry. `[例]`
+> - He often merges politics and popular culture using satire. `[例]`
 
 
 ---

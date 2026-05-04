@@ -128,10 +128,15 @@ barren 源自古法语 *barhaine*（荒凉的），可能与古英语 *beran*（
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The landscape was barren, with not a tree or shrub in sight." `[COCA-FIC]`
-> - "She became very depressed during the barren years when she was unable to paint." `[COCA-FIC]`
-> - "The once pristine environment is now a barren burned land." `[COCA-NEWS]`
-> - "Many said they love their jobs, and the campus is surprisingly comfy given the remote location and barren landscape." `[COCA-NEWS]`
+> - The team will come through this barren patch and start to win again. `[例]`
+>   - 中译：球队将渡过这段不景气的时期，并再次开始获胜。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/barren
+> - Few creatures can thrive on these barren mountaintops. `[例]`
+>   - 中译：很少有生物能够在这些贫瘠的山顶上繁衍生息。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/barren
+> - The book was good, but I found the barren lives of the characters depressing. `[例]`
+>   - 中译：这本书很好，但我发现人物的贫瘠生活令人沮丧。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/barren
 
 
 ---

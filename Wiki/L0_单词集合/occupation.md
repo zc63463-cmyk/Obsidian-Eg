@@ -139,9 +139,14 @@ review_count: 0
 
 > [!example]- 语料
 > - In the space marked "occupation" she wrote " police officer ". `[例]`
-> - Occupations experiencing shortages will need an average of 47% more graduates to meet demand . `[例]`
-> - It seems to me his favourite occupation is eating . `[例]`
-> - Running a house is a full-time occupation. `[例]`
+>   - 中译：在标有“职业”的空白处，她写下了“警察”。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/occupation
+> - Occupations experiencing shortages will need an average of 47% more graduates to meet demand. `[例]`
+>   - 中译：面临短缺的职业平均需要增加 47% 的毕业生才能满足需求。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/occupation
+> - It seems to me his favourite occupation is eating. `[例]`
+>   - 中译：在我看来他最喜欢的职业就是吃饭。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/occupation
 
 ---
 

@@ -133,8 +133,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She is a native speaker of English with extensive teaching experience."（她是英语母语者，拥有丰富的教学经验。）——考研高频表达
-> - "Many native species are threatened by habitat destruction and pollution."（许多本地物种正受到栖息地破坏和污染的威胁。）——考研高频表达
+> - Though Native Americans ( and later miners and fur trappers) had long recognized the area's riches, most Americans did not. `[真题]`
+>   - 中译：尽管美洲原住民（以及后来的矿工和毛皮捕猎者）早已认识到该地区的财富，但大多数美国人并不认识。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - She returned to live and work in her native Japan. `[例]`
+>   - 中译：她回到祖国日本生活和工作。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/native
+> - She's a native Californian. `[例]`
+>   - 中译：她是土生土长的加州人。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/native
 
 ---
 

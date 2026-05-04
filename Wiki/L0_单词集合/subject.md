@@ -133,9 +133,15 @@ sub-(在……之下) + [[ject]](投掷) → 投掷到……下面 → 置于…
 ## 真题/语料关联
 
 > [!example]- 语料
-> - A. assigned B. subjected C. accustomed 9. `[真题]`
-> - Another issue is that, while climate change is well integrated into some subjects and at some ages-·such as earth and space sciences in high schools-it is not as well represented in curricula for younger children and in subjects that are more widely taught, such as biology and chemistry. `[真题]`
-> - Our subject for discussion is homelessness . `[例]`
+> - Walker's work has been the subject of much debate. `[例]`
+>   - 中译：沃克的作品一直是备受争议的话题。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/subject
+> - Nelson Mandela is the subject of a new biography. `[例]`
+>   - 中译：纳尔逊·曼德拉是一本新传记的主题。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/subject
+> - The incident is currently the subject of a police investigation. `[例]`
+>   - 中译：目前，该事件正在接受警方调查。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/subject
 
 ---
 

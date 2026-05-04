@@ -130,9 +130,15 @@ charm(拉丁语 *carmen*，歌曲，咒语，诗歌)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The old town has a certain **charm** that attracts thousands of tourists every year.（这座古镇有一种独特的魅力，每年吸引成千上万的游客。）
-> - She **charmed** the interviewer with her wit and confidence.（她以机智和自信迷住了面试官。）
-> - This traditional remedy **works like a charm**.（这种传统疗法非常有效。）
+> - It's a town with a lot of old-world charm. `[例]`
+>   - 中译：这是一个充满旧世界魅力的小镇。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/charm
+> - Even as a young boy he knew how to turn on the charm (= be pleasant intentionally ) when he wanted something. `[例]`
+>   - 中译：即使作为一个小男孩，他也知道当他想要某样东西时如何发挥魅力（=故意令人愉快）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/charm
+> - I had to use all my charms to get them to lend us the hall. `[例]`
+>   - 中译：我必须用尽我所有的魅力才让他们把大厅借给我们。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/charm
 
 ---
 

@@ -127,9 +127,9 @@ lightning = [[light]](光) + -ning(名词后缀，表示动作或状态)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The thunder and lightning had moved away, but the rain continued to pour . `[例]`
-> - A flash of lightning lit up the sky . `[例]`
-> - The school was hit by a bolt of lightning yesterday . `[例]`
+> - The thunder and lightning had moved away, but the rain continued to pour. `[例]`
+> - A flash of lightning lit up the sky. `[例]`
+> - The school was hit by a bolt of lightning yesterday. `[例]`
 
 
 ---

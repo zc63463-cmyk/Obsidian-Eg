@@ -133,9 +133,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Einstein was a genius"（爱因斯坦是个天才）——考研阅读常见引用
-> - "a work of genius"（天才之作）——考研阅读常见搭配，评价类
-> - "the genius of the American political system"（美国政治制度的精髓/特质）——考研阅读常见搭配
+> - Einstein was a ( mathematical ) genius. `[例]`
+>   - 中译：爱因斯坦是一位（数学）天才。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/genius
+> - From the age of three, she showed signs of genius. `[例]`
+>   - 中译：从三岁起，她就表现出了天才的迹象。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/genius
+> - It was such a brilliant idea - a real stroke of genius. `[例]`
+>   - 中译：这真是一个绝妙的主意——真正的天才之举。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/genius
 
 ---
 

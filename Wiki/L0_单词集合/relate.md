@@ -127,9 +127,15 @@ re-(回) + lat/latus(携带、带来)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - `Many parents find it difficult to relate to their children's experiences in the digital world.` [COCA-ACAD]
-> - `The report seeks to relate the rise in crime to an increase in unemployment.` [COCA-ACAD]
-> - `He later related the whole story to me.` [COCA-FIC]
+> - We need to explain why these issues are important and relate them to everyday life. `[例]`
+>   - 中译：我们需要解释为什么这些问题很重要，并将它们与日常生活联系起来。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/relate
+> - Archaeologists hope to relate the discovery with the arrival of Vikings in the area in the tenth century. `[例]`
+>   - 中译：考古学家希望将这一发现与十世纪维京人抵达该地区联系起来。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/relate
+> - She related the events of the previous week to the police. `[例]`
+>   - 中译：她向警方讲述了上周发生的事情。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/relate
 ---
 
 

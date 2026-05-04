@@ -128,9 +128,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Suddenly the door burst open (= opened suddenly and forcefully ) and police officers rushed in. `[例]`
-> - I hate it when balloons burst. `[例]`
-> - If I eat any more cake I'll burst (= I cannot eat anything else ) ! `[例]`
+> - That balloon will burst if you blow it up any more. `[例]`
+>   - 中译：如果你再吹气球就会爆炸。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/burst
+> - Shells were bursting (= exploding) all around us. `[例]`
+>   - 中译：炮弹在我们周围爆炸。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/burst
+> - He felt he would burst with anger and shame. `[例]`
+>   - 中译：他觉得自己会感到愤怒和羞愧。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/burst
 
 
 ---

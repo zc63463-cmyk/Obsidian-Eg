@@ -130,9 +130,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The stadium has a seating capacity of 80,000."（这座体育场的座位容量为 80,000 人。）——建筑/社会类阅读语境
-> - "She has an extraordinary capacity for hard work."（她有着非凡的勤奋能力。）——人物/传记类阅读语境
-> - "He acted in his capacity as chairman of the board."（他以董事会主席的身份行事。）——商业/法律类阅读语境
+> - The elevator was at capacity and could not take any more passengers. `[例]`
+>   - 中译：电梯已满载，无法容纳更多乘客。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/capacity
+> - All our factories are working at full capacity (= are producing goods as fast as possible ). `[例]`
+>   - 中译：我们所有的工厂都在满负荷运转（=正在尽快生产货物）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/capacity
+> - The game was watched by a capacity crowd of 50,000 (= the place was completely full ). `[例]`
+>   - 中译：观看比赛的观众人数达到了 50,000 人（= 场馆完全爆满）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/capacity
 
 ---
 

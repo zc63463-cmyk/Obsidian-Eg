@@ -138,10 +138,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - `The hot summer magnified the racial tensions in the community.` `[COCA-ACAD]`
-> - `The report tends to magnify the risks involved.` `[COCA-ACAD]`
-> - `I don't want to magnify the importance of these problems.` `[COCA-ACAD]`
-> - `The lens magnified the image 100 times.` `[COCA-ACAD]`
+> - Although our skin looks smooth , when magnified it is full of bumps and holes. `[例]`
+>   - 中译：虽然我们的皮肤看起来很光滑，但放大后却布满凹凸和孔洞。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/magnify
+> - The hot summer magnified the racial tensions in the community. `[例]`
+>   - 中译：炎热的夏天加剧了社区的种族紧张局势。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/magnify
+> - Although your skin looks smooth , when magnified you can see a lot of little bumps and holes. `[例]`
+>   - 中译：尽管您的皮肤看起来很光滑，但放大后您会看到很多小凹凸和孔洞。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/magnify
 
 ---
 

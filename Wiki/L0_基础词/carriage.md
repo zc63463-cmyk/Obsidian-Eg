@@ -131,9 +131,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - That will be £150, carriage included . `[例]`
-> - She had great stage presence and perfect carriage. `[例]`
-> - If the carrier agrees to accept dangerous goods for carriage, such goods must be accompanied by a full declaration of their nature and contents . `[例]`
+> - Orders are despatched within 28 days but allow time for carriage. `[例]`
+>   - 中译：订单将在 28 天内发货，但需留出运输时间。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/carriage
+> - She showed her pedigree on her face and in her carriage. `[例]`
+>   - 中译：她的脸上和马车上都显示出她的血统。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/carriage
+> - They rode to the city in carriages. `[例]`
+>   - 中译：他们乘坐马车进城。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/carriage
 
 
 ---

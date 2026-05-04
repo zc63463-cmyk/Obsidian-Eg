@@ -3,10 +3,8 @@ title: "chatter"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 人本世界
 prototype: 快速而连续地发出短促声音（如鸟鸣、牙齿打颤）
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**快速连续发出短促声音**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **快速连续发出短促声音**（声音层面）
@@ -67,7 +65,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **拟声记忆**（优先）：
 > chatter 就是"喳喳喳"的声音——鸟叫"喳喳喳"，人闲聊"喳喳喳"，牙齿冷得"咯咯咯"。它是 chat（聊天）的强化版——chat 是普通聊天，chatter 是喋喋不休地聊。
@@ -87,7 +85,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[silence]]：沉默（chatter 的反义：喋喋不休↔沉默）
 > - [[quiet]]：安静（chatter 的反义：吵闹↔安静）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,7 +116,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **chatter away**：喋喋不休地说
 > - **chatter about**：闲聊关于……
 > - **teeth chattering**：牙齿打颤
@@ -126,19 +124,12 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - She spent the morning chattering away to her friends . `[例]`
-> - He chattered happily about nothing in particular . `[例]`
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
+> [!example]- 语料
+> - She spent the morning chattering away to her friends. `[例]`
+> - He chattered happily about nothing in particular. `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

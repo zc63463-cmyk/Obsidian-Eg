@@ -128,9 +128,15 @@ re-(反复) + lig(绑/收集) + -ious(充满……的)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - On the issue of freedom of religion and the position of the Church, there was less agreement among the leadership. `[真题]`
-> - Most leaders sought to maintain Catholicism as the official religion of the new states. `[真题]`
-> - A law guaranteeing the people freedom of conscience and religious practice was passed by the legislature. `[COCA-ACAD]`
+> - He's deeply religious and goes to church twice a week. `[例]`
+>   - 中译：他非常虔诚，每周去教堂两次。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/religious
+> - The book is essentially an exhortation to religious tolerance. `[例]`
+>   - 中译：这本书本质上是对宗教宽容的劝诫。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/religious
+> - Recent years have witnessed a growth in religious fundamentalism. `[例]`
+>   - 中译：近年来，宗教原教旨主义有所增长。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/religious
 ---
 
 

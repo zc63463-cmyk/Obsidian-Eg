@@ -129,10 +129,10 @@ kid 源自古诺斯语 *kið*（小山羊），1590年左右开始用来指代�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Half the kids round here are unemployed." `[真题]`
-> - "She sees me as a little kid who counts for nothing." `[通用语料]`
-> - "I asked her if she remembered any of the poems she used to recite for us when we were kids." `[剑桥词典]`
-> - "You won first prize? You're kidding!" `[剑桥词典]`
+> - Half the kids round here are unemployed. `[真题]`
+> - She sees me as a little kid who counts for nothing. `[例]`
+> - I asked her if she remembered any of the poems she used to recite for us when we were kids. `[例]`
+> - You won first prize? You're kidding! `[例]`
 
 
 ---

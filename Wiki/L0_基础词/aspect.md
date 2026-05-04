@@ -128,9 +128,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The report covers every aspect of the company's operations. `[COCA-ACAD]`
-> - Climate change affects almost every aspect of our lives. `[COCA-ACAD]`
-> - Perhaps the most worrying aspect of England's performance was their porous defence. `[COCA-NEWS]`
+> - The book aims to cover all aspects of city life. `[例]`
+>   - 中译：本书旨在涵盖城市生活的各个方面。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/aspect
+> - The exhibition will focus on various aspects of life and culture in the Middle Ages. `[例]`
+>   - 中译：该展览将重点关注中世纪生活和文化的各个方面。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/aspect
+> - She felt she had looked at the problem from every aspect. `[例]`
+>   - 中译：她觉得自己已经从各个方面审视了这个问题。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/aspect
 
 
 ---

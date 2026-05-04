@@ -126,8 +126,8 @@ review_count: 0
 
 > [!example]- 语料
 > - A tiny helping of food. `[例]`
-> - Her tiny attic room had poor ventilation and in summer it became unbearably stuffy . `[例]`
-> - During surgery , doctors sometimes use a laser beam to vaporize tiny blood vessels . `[例]`
+> - Her tiny attic room had poor ventilation and in summer it became unbearably stuffy. `[例]`
+> - During surgery , doctors sometimes use a laser beam to vaporize tiny blood vessels. `[例]`
 
 
 ---

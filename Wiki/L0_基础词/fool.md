@@ -133,8 +133,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Don't be fooled by his appearance . `[例]`
-> - You fool, you missed your chance ! `[例]`
+> - Don't be fooled by his appearance. `[例]`
+> - You fool, you missed your chance! `[例]`
 > - He's a fool if he thinks she still loves him. `[例]`
 
 

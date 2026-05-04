@@ -133,9 +133,15 @@ cheque 源自古法语 *eschequier*（棋盘），与 check 同源。中世纪�
 ## 真题/语料关联
 
 > [!example]- 语料
+> - Can I write you a cheque? `[例]`
+>   - 中译：我可以给你写一张支票吗？
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/cheque
+> - Shall I make the cheque out to you? `[例]`
+>   - 中译：我给你结账吗？
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/cheque
 > - I don't have any cash on me, so could I pay by cheque? `[例]`
-> - Who should I make out this cheque to? (= Whose name should I write on it?). `[例]`
-> - Please make your cheques payable to The Brighter Toyshop Ltd (= write this name on them) . `[例]`
+>   - 中译：我身上没有现金，可以用支票付款吗？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/cheque
 
 
 ---

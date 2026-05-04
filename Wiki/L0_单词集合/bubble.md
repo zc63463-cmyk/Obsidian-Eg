@@ -128,9 +128,15 @@ bubble 为拟声词（模仿冒泡的声音 bub-bub），无词根词缀拆分
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The housing bubble burst, leaving millions of homeowners in debt."（房地产泡沫破裂，使数百万房主陷入债务。）——考研高频表达
-> - "The dot-com bubble of the late 1990s is a classic example of market irrationality."（20世纪90年代末的网络泡沫是市场非理性的经典案例。）——考研高频表达
-> - "Many economists warned that the stock market was in a bubble that was bound to burst."（许多经济学家警告说，股市正处于一个必然会破裂的泡沫中。）——考研高频表达
+> - As water begins to boil , bubbles rise to the surface. `[例]`
+>   - 中译：当水开始沸腾时，气泡上升到表面。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/bubble
+> - I love champagne - I think it's the bubbles that make it so good. `[例]`
+>   - 中译：我喜欢香槟——我认为香槟之所以如此美味，是因为它的气泡。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/bubble
+> - Use a plastic tube to blow bubbles in the water. `[例]`
+>   - 中译：用塑料管在水中吹泡泡。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/bubble
 
 ---
 

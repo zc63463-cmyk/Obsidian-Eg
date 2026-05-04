@@ -126,8 +126,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - "International affiliates account for a fast-growing segment of production in economies that open up and welcome foreign investment."（在那些对外开放并欢迎外资的国家中，国际分公司在生产中所占的份额正在快速增长。）——2001年考研阅读Text4
-> - "The hospital is affiliated with the local university's medical school."（这家医院隶属于当地大学的医学院。）——考研高频表达
+> - The school is affiliated with a national association of driving schools. `[例]`
+>   - 中译：该学校隶属于全国驾驶学校协会。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/affiliate
+> - Our college is an affiliate of the university. `[例]`
+>   - 中译：我们学院是该大学的附属机构。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/affiliate
+> - I’m not affiliated with any political party. `[例]`
+>   - 中译：我不隶属于任何政党。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/affiliate
 
 ---
 

@@ -136,9 +136,15 @@ a-(加强语气/状态) + live（活，生存）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She's alive and well and living in New Zealand. `[例]`
-> - Doctors kept him alive on a life-support machine . `[例]`
-> - The lost hikers were able to stay alive by finding shelter in a cave in the side of the mountain . `[例]`
+> - Are your grandparents still alive? `[例]`
+>   - 中译：你的祖父母还活着吗？
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/alive
+> - Doctors managed to keep the baby alive. `[例]`
+>   - 中译：医生设法保住了婴儿的生命。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/alive
+> - She had to steal food just to stay alive. `[例]`
+>   - 中译：她必须偷食物才能维持生命。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/alive
 
 
 ---

@@ -128,8 +128,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Taxes on low-wage labor need to be cut and wage subsidies such as the earned income tax credit should be expanded."（需要削减对低薪劳动力的税收，并且应该扩大抵免所得税之类的薪资补贴。）——2018考研英语一阅读
-> - "The company plans to expand its business into the Asian market."（公司计划将业务扩展到亚洲市场。）——考研高频表达
+> - The air in the balloon expands when heated. `[例]`
+>   - 中译：气球中的空气受热时会膨胀。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/expand
+> - They expanded their retail operations during the 1980s. `[例]`
+>   - 中译：他们在 20 世纪 80 年代扩大了零售业务。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/expand
+> - I don't think we should expand our business in the current economic climate. `[例]`
+>   - 中译：我认为在当前的经济形势下我们不应该扩大我们的业务。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/expand
 
 ---
 

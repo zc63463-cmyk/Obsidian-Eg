@@ -131,7 +131,7 @@ review_count: 0
 > [!example]- 语料
 > - I can't untie the knot - it's too tight. `[例]`
 > - This lid is on very tight. `[例]`
-> - The people stood talking in tight groups . `[例]`
+> - The people stood talking in tight groups. `[例]`
 
 
 ---

@@ -137,9 +137,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "live in harmony with nature"（与自然和谐共处）——考研阅读/翻译高频主题句
-> - "a society characterized by racial harmony"（以种族和谐为特征的社会）——考研阅读常见搭配
-> - "The two melodies are played in harmony."（两段旋律以和声方式演奏）——考研阅读中音乐/艺术类语境
+> - It is a simple melody with complex harmonies. `[例]`
+>   - 中译：这是一首带有复杂和声的简单旋律。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/harmony
+> - It's thrilling to hear the four-part harmony, with the voices perfectly balanced. `[例]`
+>   - 中译：听到四声部的和声真是令人兴奋，声音完美平衡。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/harmony
+> - We need a few people in the congregation to sing the harmonies and not just the simple hymn tune. `[例]`
+>   - 中译：我们需要会众中的一些人来唱和声，而不仅仅是简单的赞美诗曲调。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/harmony
 
 ---
 

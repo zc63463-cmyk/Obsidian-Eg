@@ -128,9 +128,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The study found a positive correlation between regular exercise and mental health. `[COCA-ACAD]`
-> - Despite the challenges, she maintained a positive attitude throughout the process. `[COCA-ACAD]`
-> - Advances in medicine have made it possible for people to live longer and maintain a positive quality of life. `[COCA-ACAD]`
+> - On a more positive note , we're seeing signs that the housing market is picking up. `[例]`
+>   - 中译：从更积极的角度来看，我们看到房地产市场正在回暖的迹象。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/positive
+> - The past ten years have seen some very positive developments in East-West relations. `[例]`
+>   - 中译：过去十年，东西方关系取得了一些非常积极的发展。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/positive
+> - There was a very positive response to our new design - people seemed very pleased with it. `[例]`
+>   - 中译：我们的新设计得到了非常积极的回应——人们似乎对此非常满意。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/positive
 
 ---
 

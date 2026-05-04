@@ -132,9 +132,15 @@ by(旁边) + [[pass-pati|pass]](经过，来自拉丁语 *passus*，*passare*)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Issues arise, however, when developers attempt to create large-scale short-term rental facilities-de facto hotels--to bypass taxes and regulations. `[真题]`
-> - We took the road that bypasses the town . `[例]`
-> - The oil pipeline bypasses the protected wilderness area . `[例]`
+> - The bridge is being rebuilt so we'll have to take the bypass. `[例]`
+>   - 中译：这座桥正在重建，所以我们必须绕道而行。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/bypass
+> - To bypass the city, take the highway that circles it. `[例]`
+>   - 中译：要绕过城市，请走环绕城市的高速公路。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/bypass
+> - Is there a way to bypass the bridge construction? `[例]`
+>   - 中译：有没有办法绕过桥梁建设？
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/bypass
 
 
 ---

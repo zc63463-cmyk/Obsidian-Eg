@@ -132,7 +132,6 @@ with-（向后、相反，古英语 *wiþer* 的缩略形式，原始日耳曼�
 > [!example]- 语料
 > - The government was accused of withholding crucial information from the public during the early stages of the crisis. `[真题]`
 > - The governor said he would withhold judgment until he receives the committee's full report on the matter. `[真题]`
-> - She withheld her rent until the landlord agreed to have the repairs done. `[真题]`
 > - Police are withholding the dead woman's name until her relatives have been informed. `[真题]`
 
 

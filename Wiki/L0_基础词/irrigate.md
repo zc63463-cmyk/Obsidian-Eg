@@ -125,7 +125,7 @@ ir-(=in-, 进入) + rig(水/浇灌，拉丁语 *rigare*) + -ate(动词后缀，�
 > [!example]- 语料
 > - The ancient Egyptians developed sophisticated methods to irrigate their crops along the Nile. `[真题]`
 > - The water in Lake Powell is used to irrigate the surrounding farmland. `[真题]`
-> - Without proper irrigation, the arid land would be unsuitable for farming. `[真题]`
+> - A line of irrigate trees rose above the morning fog. `[例]`
 
 
 ---

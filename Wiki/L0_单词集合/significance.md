@@ -132,10 +132,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - This is a fact of considerable significance. `[COCA-ACAD]`
-> - The historical significance of the Declaration of Independence is widely recognized. `[COCA-ACAD]`
-> - They failed to appreciate the true significance of these discoveries. `[COCA-ACAD]`
-> - The results of the study have a wider significance for all the profession. `[COCA-ACAD]`
+> - They were offered a few cosmetic improvements to their working conditions , but nothing of significance. `[例]`
+>   - 中译：他们的工作条件得到了一些表面上的改善，但没有什么意义。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/significance
+> - And what might be the underlying significance of these supposedly random acts of violence? `[例]`
+>   - 中译：这些所谓的随机暴力行为的潜在意义可能是什么？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/significance
+> - His work is of great significance to historians. `[例]`
+>   - 中译：他的工作对于历史学家来说具有重要意义。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/significance
 
 ---
 

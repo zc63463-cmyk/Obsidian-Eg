@@ -137,10 +137,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - A few technical problems. `[例]`
-> - Personally, I found some parts of the book a little too technical to follow . `[例]`
-> - In her performance as the Snow Queen she showed great technical brilliance . `[例]`
-> - The computer company ran into some last-minute technical problems with its new disk drives . `[例]`
+> - We offer free technical support for those buying our software. `[例]`
+>   - 中译：我们为购买我们软件的用户提供免费技术支持。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/technical
+> - The organization provides technical assistance to farmers. `[例]`
+>   - 中译：该组织向农民提供技术援助。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/technical
+> - This is a purely technical issue. `[例]`
+>   - 中译：这是一个纯粹的技术问题。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/technical
 
 ---
 

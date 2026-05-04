@@ -123,8 +123,14 @@ review_count: 0
 
 > [!example]- 语料
 > - They do a range of skin-care products. `[例]`
+>   - 中译：他们生产一系列护肤产品。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/product
 > - The product is so good it sells itself. `[例]`
+>   - 中译：该产品非常好，可以自行销售。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/product
 > - I'm trying to cut down on dairy products. `[例]`
+>   - 中译：我正在努力减少乳制品的摄入量。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/product
 
 
 ---

@@ -126,7 +126,7 @@ pro-(向前/在前) + [[sec-sequ|sec-/sequ-]](跟随) + -ute(动词后缀)
 
 > [!example]- 语料
 > - Shoplifters will be prosecuted. `[例]`
-> - He was prosecuted for fraud . `[例]`
+> - He was prosecuted for fraud. `[例]`
 > - The victim has said that she will not prosecute. `[例]`
 
 

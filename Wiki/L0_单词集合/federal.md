@@ -126,8 +126,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The **federal** government has allocated additional funds for infrastructure development.（联邦政府已拨出额外资金用于基础设施建设。）
-> - Under the **federal** system, powers are divided between the central and state governments.（在联邦制下，权力在中央政府和州政府之间分配。）
+> - They were charged with violating federal law. `[例]`
+>   - 中译：他们被指控违反联邦法律。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/federal
+> - All of the federal judges currently sitting in Maryland hail from Baltimore. `[例]`
+>   - 中译：目前马里兰州的所有联邦法官都来自巴尔的摩。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/federal
+> - They are accused of trying to shield the General from US federal investigators. `[例]`
+>   - 中译：他们被指控试图保护将军免受美国联邦调查人员的侵害。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/federal
 
 ---
 

@@ -127,8 +127,15 @@ e-(向外) + [[vid|vid]](看) + -ence(名词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "There is growing evidence that the disease is linked to environmental pollution."（越来越多的证据表明，这种疾病与环境污染有关。）——考研高频表达
-> - "The evidence presented in court was not sufficient to convict the defendant."（法庭上出示的证据不足以给被告定罪。）——考研高频表达
+> - Perhaps most importantly, the images provided documentary evidence that later made its way to government officials. `[真题]`
+>   - 中译：也许最重要的是，这些图像提供了后来交给政府官员的文件证据。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - There is no scientific evidence to suggest that underwater births are dangerous. `[例]`
+>   - 中译：没有科学证据表明水下分娩是危险的。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/evidence
+> - Is there any scientific evidence that a person's character is reflected in their handwriting? `[例]`
+>   - 中译：有没有科学证据表明一个人的性格可以从他的笔迹中反映出来？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/evidence
 
 ---
 

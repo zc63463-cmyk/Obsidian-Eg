@@ -133,9 +133,9 @@ people 源自拉丁语 *populus*（人民、民族），经由古法语 *peple* 
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Many people believe that technology will eventually solve our environmental problems. `[考研英语一2019阅读]`
-> - The government of the people, by the people, for the people, shall not perish from the earth. `[林肯葛底斯堡演说]`
-> - In a government of the people, by the people, and for the people, the public cannot allow their vital role in the rulemaking process to be silenced. `[Slate]`
+> - Many people believe that technology will eventually solve our environmental problems. `[例]`
+> - The government of the people, by the people, for the people, shall not perish from the earth. `[例]`
+> - In a government of the people, by the people, and for the people, the public cannot allow their vital role in the rulemaking process to be silenced. `[例]`
 
 
 ---

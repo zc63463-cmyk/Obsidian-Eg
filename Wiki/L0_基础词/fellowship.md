@@ -126,8 +126,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - He enjoyed the fellowship of other actors in the company . `[例]`
-> - He was awarded a fellowship at the college . `[例]`
+> - He enjoyed the fellowship of other actors in the company. `[例]`
+> - He was awarded a fellowship at the college. `[例]`
 > - PhDs can be expensive , unless you get a fellowship. `[例]`
 
 

@@ -129,10 +129,9 @@ geo-(=ge, 地球/土地) + -[[log-logy|logy]](=log, 学科/研究)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The complementary coastlines and certain geological features that seem to span the ocean are reminders of where the two continents were once joined." `[真题]`
-> - "The hills are remnants of an earlier geological era, scraped bare of most soil and exposed to the elements." `[真题]`
-> - "He was the first person to think of mapping the geology of Britain." `[权威语料]`
-> - "The geology of the area is simple, consisting mainly of limestone and sandstone." `[权威语料]`
+> - He was the first person to think of mapping the geology of Britain. `[例]`
+> - The geology of the area is simple, consisting mainly of limestone and sandstone. `[例]`
+> - At the time , she was writing a book on the geology of Australia. `[例]`
 
 
 ---

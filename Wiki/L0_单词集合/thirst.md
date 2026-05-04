@@ -128,9 +128,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Hundreds of refugees collapsed from hunger and thirst. `[例]`
-> - I woke up with a pounding headache and a raging (= extreme ) thirst. `[例]`
-> - I've got a terrible thirst after all that running . `[例]`
+> - He quenched his thirst with a long drink of cold water. `[例]`
+>   - 中译：他喝了一大口冷水解渴。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/thirst
+> - She woke up with a raging thirst and a headache. `[例]`
+>   - 中译：她醒来时感到极度口渴和头痛。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/thirst
+> - Thousands are dying of thirst. `[例]`
+>   - 中译：数千人正在渴死。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/thirst
 
 ---
 

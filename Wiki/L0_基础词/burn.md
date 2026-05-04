@@ -133,9 +133,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - He was badly burned in the blaze . `[例]`
-> - She burned his old love letters . `[例]`
-> - Unable to escape , six people were burned alive (= died by burning) in the building . `[例]`
+> - A welcoming fire was burning in the fireplace. `[例]`
+>   - 中译：壁炉里熊熊燃烧着欢迎的火。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/burn
+> - Fires were burning all over the city. `[例]`
+>   - 中译：整个城市都在燃烧。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/burn
+> - A small candle burned brightly. `[例]`
+>   - 中译：一根小蜡烛燃烧得很明亮。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/burn
 
 
 ---

@@ -125,8 +125,8 @@ ex-(出) + [[cap]](拿取) + -ion(名词后缀) → 被取出的部分 → 例�
 
 > [!example]- 语料
 > - Men are usually quite good at map-reading but Tim is the exception. `[例]`
-> - There are exceptions to every rule . `[例]`
-> - I like all kinds of films , with the exception of (= but not) horror films . `[例]`
+> - There are exceptions to every rule. `[例]`
+> - I like all kinds of films , with the exception of (= but not) horror films. `[例]`
 
 
 ---

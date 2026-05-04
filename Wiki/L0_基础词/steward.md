@@ -125,9 +125,9 @@ stig-(=sty, 猪圈/厅堂，古英语 *stig* 房间) + [[st-sta-stat|weard]](看
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Stewards will be inspecting the race track at 9.00. `[例]`
 > - If you need help at any time during the conference , one of the stewards will be pleased to help you. `[例]`
 > - He's the steward of the City of Wakefield's Working Men's Club. `[例]`
+> - He has been a careful steward of our parks. `[例]`
 
 
 ---

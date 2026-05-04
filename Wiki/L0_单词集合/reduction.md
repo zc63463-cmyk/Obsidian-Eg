@@ -121,10 +121,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The government announced a significant reduction in carbon emissions targets. `[真题]`
-> - The reduction in military spending was welcomed by peace activists. `[真题]`
-> - Many voters want to see some reduction of the deficit. `[COCA-ACAD]`
-> - Osteoporosis is characterized by a reduction in bone density. `[COCA-ACAD]`
+> - It comes at a time . when authors are already worried about the consequences of the proposed merger between PRH and another big publisher , Simon & Schuster-the reduction in the number of unaligned UK publishers is likely to lead to fewer bidding wars,, lower advances, and more conformity in . terms of what is published. `[真题]`
+>   - 中译：它来得正是时候。当作者们已经担心 PRH 与另一家大型出版商西蒙与舒斯特 (Simon & Schuster) 之间拟议合并的后果时，不结盟的英国出版商数量的减少可能会导致竞标战的减少、预付款的降低以及 .所发布内容的条款。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - Waterstones branches suffer a severe reduction in revenue. `[真题]`
+>   - 中译：Waterstones 分支机构的收入严重减少。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - There has been a worrying reduction in the number of students taking science at university. `[例]`
+>   - 中译：大学里修读理科课程的学生人数出现了令人担忧的减少。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/reduction
 
 ---
 

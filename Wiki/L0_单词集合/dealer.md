@@ -133,8 +133,14 @@ review_count: 0
 
 > [!example]- 语料
 > - It has been alleged that the minister received a secret payoff from an arms dealer. `[例]`
-> - He is a dealer in Oriental carpets . `[例]`
-> - As with other drugs , the danger is when dealers mix ecstasy with other substances . `[例]`
+>   - 中译：据称，该部长从一名军火商那里收受秘密贿赂。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/dealer
+> - He is a dealer in Oriental carpets. `[例]`
+>   - 中译：他是东方地毯的经销商。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/dealer
+> - As with other drugs , the danger is when dealers mix ecstasy with other substances. `[例]`
+>   - 中译：与其他毒品一样，毒贩将摇头丸与其他物质混合时会产生危险。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/dealer
 
 ---
 

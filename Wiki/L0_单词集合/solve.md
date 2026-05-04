@@ -126,10 +126,15 @@ solv/solu（松开、释放）（零派生/根词，无前后缀）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Technology alone cannot solve all the problems we face today. `[COCA-ACAD]`
-> - Detectives worked for months to solve the mystery. `[COCA-FIC]`
-> - The key to solving the environmental crisis lies in international cooperation. `[真题]`
-> - Students are required to solve the equation step by step. `[真题]`
+> - Just calm down - shouting won't solve anything! `[例]`
+>   - 中译：冷静点——喊叫解决不了任何问题！
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/solve
+> - This strategy could cause more problems than it solves. `[例]`
+>   - 中译：这种策略可能会带来比它解决的问题更多的问题。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/solve
+> - The police are still no nearer to solving the crime. `[例]`
+>   - 中译：警方仍未能更接近破案。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/solve
 
 
 ---

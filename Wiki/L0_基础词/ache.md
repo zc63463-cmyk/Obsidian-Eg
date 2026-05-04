@@ -133,9 +133,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - As you get older , you have all sorts of aches and pains . `[例]`
-> - I've had a stomach ache all morning . `[例]`
-> - I've got one or two aching muscles after yesterday's run . `[例]`
+> - I'm aching all over. `[例]`
+>   - 中译：我全身都疼
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ache
+> - Her eyes ached from lack of sleep. `[例]`
+>   - 中译：她的眼睛因缺乏睡眠而疼痛。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ache
+> - It makes my heart ache (= it makes me sad) to see her suffer. `[例]`
+>   - 中译：看到她受苦，我的心很痛（=这让我很难过）。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ache
 
 
 ---

@@ -128,10 +128,9 @@ out-(向外/超出) + stand(站立) + -ing(形容词后缀，表示状态)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She has made outstanding contributions to the field of science. ` [真题]`
-> - Several outstanding issues remain to be resolved before the project can proceed. ` [真题]`
-> - He left a balance of 50 dollars outstanding on his account. ` [真题]`
-> - Her novels are outstanding for their complex characters and interesting plots. ` [语料库]`
+> - The researchers proposed a outstanding solution to the problem. `[例]`
+> - The company adopted a outstanding approach to improve efficiency. `[例]`
+> - The plan offers a outstanding option for small organizations. `[例]`
 
 
 ---

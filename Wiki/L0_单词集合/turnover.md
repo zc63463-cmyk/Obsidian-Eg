@@ -124,9 +124,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Large supermarkets have high turnovers (= their goods sell very quickly ) . `[例]`
-> - The business has an annual turnover of £50,000. `[例]`
-> - The large number of temporary contracts resulted in a high turnover of staff . `[例]`
+> - The company had an increase in turnover this quarter. `[例]`
+>   - 中译：该公司本季度营业额有所增加。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/turnover
+> - The company has a high turnover rate. `[例]`
+>   - 中译：公司人员流动率较高。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/turnover
+> - We want to find ways to speed up inventory turnover. `[例]`
+>   - 中译：我们想找到加快库存周转的方法。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/turnover
 
 ---
 

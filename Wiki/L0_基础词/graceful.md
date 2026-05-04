@@ -125,10 +125,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She is a lovely and gracious woman with a graceful manner." `[剑桥词典]`
-> - "He could have withdrawn it in a more graceful way." `[剑桥词典]`
-> - "There was no graceful way to say no to their offer." `[韦氏词典]`
-> - "With a silent, graceful dive, she disappeared beneath the surface of the lake." `[剑桥词典]`
+> - She is a lovely and gracious woman with a graceful manner. `[例]`
+> - He could have withdrawn it in a more graceful way. `[例]`
+> - There was no graceful way to say no to their offer. `[例]`
+> - With a silent, graceful dive, she disappeared beneath the surface of the lake. `[例]`
 
 
 ---

@@ -137,10 +137,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "people from all over the globe"（来自世界各地的人们）——考研阅读社会/文化类话题常见搭配
-> - "across the globe, temperatures are rising"（全球范围内气温正在上升）——环保类阅读常见表达
-> - "the globe is becoming increasingly interconnected"（世界正变得越来越互联）——全球化话题常见表达
-> - "tour the globe"（环游世界）——旅行/文化类阅读常见搭配
+> - His greatest ambition is to sail around the globe. `[例]`
+>   - 中译：他最大的梦想是环游世界。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/globe
+> - She is a superstar all around the globe. `[例]`
+>   - 中译：她是全球的超级巨星。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/globe
+> - The TV series continues its haphazard meander around the globe - this week it will be in Portugal. `[例]`
+>   - 中译：这部电视剧继续在全球随意漫游——本周将在葡萄牙播出。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/globe
 
 ---
 

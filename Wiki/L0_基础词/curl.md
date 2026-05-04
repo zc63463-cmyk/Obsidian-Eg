@@ -129,9 +129,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Her hair fell in curls over her shoulders . `[例]`
-> - Curls of smoke were rising from the chimney . `[例]`
-> - The curl on the shot sent it looping around the keeper into the far corner of the net . `[例]`
+> - His hair curls naturally. `[例]`
+>   - 中译：他的头发自然卷曲。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/curl
+> - The cat curled into a ball and went to sleep. `[例]`
+>   - 中译：猫蜷缩成一团，睡着了。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/curl
+> - She curled her legs up under her. `[例]`
+>   - 中译：她把腿盘在身下。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/curl
 
 
 ---

@@ -132,9 +132,15 @@ ap-（=ad-，向，朝向）+ 建议创建词根笔记 [[plic]]（折叠，施�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The practical application of scientific knowledge is what drives technological innovation. `[例]`
-> - The number of applications for the graduate program has increased significantly this year. `[例]`
-> - Please submit your application form before the deadline. `[例]`
+> - Free information will be sent out on application to (= if you ask ) the central office. `[例]`
+>   - 中译：免费信息将根据申请（=如果您询问）中心办公室发送。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/application
+> - I've sent off applications for four different jobs. `[例]`
+>   - 中译：我已经发出了四份不同工作的申请。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/application
+> - Have you filled in the application form for your passport yet? `[例]`
+>   - 中译：您填写护照申请表了吗？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/application
 
 ---
 

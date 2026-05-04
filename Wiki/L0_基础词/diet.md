@@ -123,9 +123,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Diet varies between different countries in the world . `[例]`
-> - The benefits of a healthy diet are obvious . `[例]`
-> - Choose a varied diet rich in whole grains , vegetables , and fruits , and low in saturated fats . `[例]`
+> - Diet varies between different countries in the world. `[例]`
+> - The benefits of a healthy diet are obvious. `[例]`
+> - Choose a varied diet rich in whole grains , vegetables , and fruits , and low in saturated fats. `[例]`
 
 
 ---

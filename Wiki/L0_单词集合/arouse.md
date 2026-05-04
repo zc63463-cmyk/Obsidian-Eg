@@ -127,10 +127,15 @@ a-（加强语气，源自古英语 on-）+ rouse（唤醒，激起，源自中�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - His strange behaviour aroused his neighbours' suspicions. [考研-阅读]
-> - The sight of people suffering arouses a deep sense of injustice in her. [考研-阅读]
-> - The government's new policy aroused widespread controversy among the public. `[COCA-ACAD]`
-> - The exhibition aroused great interest among art enthusiasts. `[例]`
+> - It's a subject that has aroused a lot of interest. `[例]`
+>   - 中译：这是一个引起了很多人兴趣的话题。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/arouse
+> - Our suspicions were first aroused when we heard a muffled scream. `[例]`
+>   - 中译：当我们听到一声低沉的尖叫声时，我们首先产生了怀疑。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/arouse
+> - Something he said as he was leaving really aroused my curiosity. `[例]`
+>   - 中译：他临走时说的一句话确实引起了我的好奇。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/arouse
 ---
 
 

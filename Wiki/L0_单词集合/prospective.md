@@ -127,9 +127,15 @@ pro-(向前) + [[spec-spect|spec-/spect-]](看) + -ive(形容词后缀) → 向�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - We've had three sets of prospective buyers looking at the house . `[例]`
-> - Given the fact that a prospective student is bombarded by prospectuses , selecting a suitable course is not easy . `[例]`
-> - There were offers from several prospective buyers . `[例]`
+> - We've had three sets of prospective buyers looking at the house. `[例]`
+>   - 中译：我们已经有三组潜在买家在看房子。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/prospective
+> - Given the fact that a prospective student is bombarded by prospectuses , selecting a suitable course is not easy. `[例]`
+>   - 中译：鉴于未来的学生会受到招生说明书的轰炸，选择合适的课程并不容易。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/prospective
+> - Her father always wants to meet her prospective boyfriends. `[例]`
+>   - 中译：她的父亲总是想见见她未来的男朋友。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/prospective
 
 
 ---

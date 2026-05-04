@@ -133,9 +133,15 @@ sub-(在下面) + 建议创建词根笔记 [[stitut/stat]](站立，放置) + -e
 ## 真题/语料关联
 
 > [!example]- 语料
-> - You can substitute oil for butter (= use oil instead of butter ) in this recipe . `[例]`
-> - You can substitute the wheat flour with almond flour (= use almond flour instead of wheat flour ) . `[例]`
-> - He made his film debut when he was substituted for the actor who was originally cast . `[例]`
+> - Paul's father only saw him as a substitute for his dead brother. `[例]`
+>   - 中译：保罗的父亲只把他视为已故兄弟的替代品。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/substitute
+> - The course teaches you the theory but there's no substitute for practical experience. `[例]`
+>   - 中译：该课程教您理论，但实践经验是无可替代的。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/substitute
+> - The local bus service was a poor substitute for their car. `[例]`
+>   - 中译：当地的巴士服务无法替代他们的汽车。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/substitute
 
 ---
 

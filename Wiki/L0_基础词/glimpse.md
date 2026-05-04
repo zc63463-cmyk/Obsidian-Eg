@@ -130,9 +130,9 @@ gl-（光/视觉词根，印欧语系 *ghel-* "发光"）+ -impse（表示短暂
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "I only got a glimpse of him as we drove by." `[真题]`
-> - "Crowds shouted and pushed to get a glimpse of their hero." `[真题]`
-> - "For a glimpse into football's immediate future, you have to go back in time." `[真题]`
+> - Crowds shouted and pushed to get a glimpse of their hero. `[真题]`
+> - For a glimpse into football's immediate future, you have to go back in time. `[真题]`
+> - We glimpsed the ruined abbey from the windows of the train. `[例]`
 
 
 ---

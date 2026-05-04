@@ -126,9 +126,14 @@ review_count: 0
 
 > [!example]- 语料
 > - After 30 years in the political arena, our local member of parliament is retiring next year. `[例]`
-> - Women are entering the political arena in greater numbers than ever before. `[例]`
-> - The international arena has become increasingly competitive in recent decades. `[COCA-ACAD]`
-> - A new sports arena is being built in the downtown area. `[例]`
+>   - 中译：在政治舞台上工作了 30 年后，我们当地的议员将于明年退休。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/arena
+> - She entered the political arena as a young woman. `[例]`
+>   - 中译：她作为一名年轻女性进入政治舞台。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/arena
+> - As they focus on growth in the fiercely competitive beer brands arena, the companies have sought to cut costs. `[例]`
+>   - 中译：当他们专注于在竞争激烈的啤酒品牌领域实现增长时，这些公司一直在寻求削减成本。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/arena
 ---
 
 

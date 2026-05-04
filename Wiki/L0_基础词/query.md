@@ -133,10 +133,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Researchers were present to provide initial instructions on how to complete the questionnaires and to answer any queries. `[Cambridge语料库]`
-> - Surprisingly, however, few writers have ever queried the normative status of manipulation itself. `[Cambridge语料库]`
-> - The results may also be indexed by a search engine, which may then be used to process queries. `[Cambridge语料库]`
-> - Having already voiced some queries and reservations let me now turn to a few more. `[Cambridge语料库]`
+> - What was their response to your query? `[例]`
+> - I have a query about the second item on the agenda. `[例]`
+> - The Revenue is unlikely to query such an arrangement unless the sums are particularly large in relation to your income. `[例]`
 
 
 ---

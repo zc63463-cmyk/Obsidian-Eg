@@ -132,7 +132,15 @@ grand（源自拉丁语 grandis"大的、伟大的"，与 [[magn]] 同源）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The grand architecture of the ancient temple still attracts millions of tourists every year.（这座古庙宏伟的建筑每年仍吸引数百万游客。）
+> - She has all kinds of grand ideas. `[例]`
+>   - 中译：她有各种宏伟的想法。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/grand
+> - His job has a grand title , but he's little more than a clerk. `[例]`
+>   - 中译：他的工作有一个宏伟的头衔，但他只不过是一名职员。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/grand
+> - As a national manager , he has shown that it is the small details that count rather than the grand gestures. `[例]`
+>   - 中译：作为一名国家队主教练，他已经表明，小细节比大动作更重要。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/grand
 
 ---
 

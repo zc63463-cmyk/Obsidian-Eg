@@ -133,9 +133,15 @@ out-（= beyond/forth，向外/超出）+ side（边，侧面）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "These factors are largely outside the control of the government." `` `[COCA-ACAD]` ``
-> - "The condition is practically unknown outside psychiatry clinics." `` `[COCA-ACAD]` ``
-> - "The company now makes much greater use of outside consultants." `` `[COCA-NEWS]` ``
+> - They were typically _1_ outside the walls of a city or village and were usually funded by governments or 2 This word " Caravanserais" is 3 a of the Persian word " karv:an" , which means a group of ltravellers or a caravan , and " seray " , a palace or enclosed building. `[真题]`
+>   - 中译：它们通常位于 _1_ 城市或村庄的城墙外，通常由政府或 2 资助。 2 这个词“Caravanserais”是波斯语单词“karv:an”的 3 a，意思是一群旅行者或商队，以及“seray”，宫殿或封闭的建筑。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - It was a sunny day outside. `[例]`
+>   - 中译：外面天气晴朗。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/outside
+> - No matter how modest your outside space , it can always be made to work as a restful sanctuary. `[例]`
+>   - 中译：无论您的外部空间多么小，它都可以成为一个宁静的避难所。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/outside
 
 ---
 

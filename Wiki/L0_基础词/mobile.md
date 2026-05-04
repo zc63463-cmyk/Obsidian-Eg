@@ -135,7 +135,7 @@ review_count: 0
 
 > [!example]- 语料
 > - The rise of mobile technology has transformed the way we communicate and access information. `[真题]`
-> - Social mobility in the United States has declined in recent decades. `[真题]`
+> - The company adopted a mobile approach to improve efficiency. `[真题]`
 > - For marginalized populations, mobile devices serve as lifelines to education. `[真题]`
 
 

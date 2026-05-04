@@ -123,9 +123,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - After the stock is done and strained , you can dilute it as necessary . `[例]`
-> - These measures are designed to dilute public fears about the product's safety . `[例]`
-> - Dilute the bleach in water before adding it to the wash . `[例]`
+> - After the stock is done and strained , you can dilute it as necessary. `[例]`
+>   - 中译：当原料完成并过滤后，您可以根据需要稀释它。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/dilute
+> - These measures are designed to dilute public fears about the product's safety. `[例]`
+>   - 中译：这些措施旨在减轻公众对产品安全的担忧。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/dilute
+> - Dilute this squash with water - one part squash to seven parts water. `[例]`
+>   - 中译：用水稀释南瓜——一份南瓜兑七份水。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/dilute
 
 ---
 

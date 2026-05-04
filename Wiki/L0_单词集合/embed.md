@@ -133,10 +133,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The nails were solidly embedded in those old plaster walls." `[COCA-FIC]`
-> - "Her feelings of guilt are deeply embedded in her personality." `[COCA-ACAD]`
-> - "The making of personal portraits was part of this popular aesthetic, firmly embedded in commercial practices." `[COCA-ACAD]`
-> - "The question is how to embed such a culture within the organization." `[COCA-ACAD]`
+> - A shower of glass from the shattered windowpane fell over the floor and seats, and a bullet embedded itself in the woodwork of an upper berth. `[例]`
+>   - 中译：破碎的窗玻璃上的大量玻璃落在地板和座位上，一颗子弹嵌入了上铺的木制品中。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/embed
+> - Crack! came a report and a bullet embedded itself in the stout wood of their own boat. `[例]`
+>   - 中译：裂缝！传来报告，一颗子弹嵌在他们自己船的坚固木头上。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/embed
+> - In the center of this masonry is embedded very thick iron plate. `[例]`
+>   - 中译：在这个砖石的中心嵌有很厚的铁板。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/embed
 
 ---
 

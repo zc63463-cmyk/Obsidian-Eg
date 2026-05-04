@@ -130,7 +130,7 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Please specify the dimensions (= the height , length and width ) of the room . `[例]`
+> - Please specify the dimensions (= the height , length and width ) of the room. `[例]`
 > - A building of vast dimensions (= size ). `[例]`
 > - His personality has several dimensions. `[例]`
 

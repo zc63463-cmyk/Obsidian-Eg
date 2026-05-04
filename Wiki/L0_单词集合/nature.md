@@ -131,8 +131,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It is human nature to seek companionship and social connection."（寻求陪伴和社交联系是人的本性。）——考研高频表达
-> - "The nature of the problem requires a comprehensive approach."（问题的性质需要一种综合性的方法。）——考研高频表达
+> - Two centuries ago , the idea of preserving nature , rather than exploiting it, was a novel one to. many U.S .. settlers. `[真题]`
+>   - 中译：两个世纪前，保护自然而不是开发自然的想法是一种新颖的想法。许多美国..定居者。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - This new technique of artificially growing cells copies what actually happens in nature. `[例]`
+>   - 中译：这种人工生长细胞的新技术复制了自然界中实际发生的情况。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/nature
+> - Feeling tired-out is Nature's way of telling you to rest. `[例]`
+>   - 中译：感到疲倦是大自然告诉你休息的方式。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/nature
 
 ---
 

@@ -127,9 +127,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - `Like all public servants they are subject to a pay freeze.` `[COCA-NEWS]`
-> - `A high-ranking civil servant was imprisoned for leaking a document to the press.` `[COCA-NEWS]`
-> - `The police are there as public servants.` `[COCA-NEWS]`
+> - Public servants should be incorruptible. `[例]`
+>   - 中译：公务员应该廉洁。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/servant
+> - His father's family lived in a big house with servants. `[例]`
+>   - 中译：他父亲一家住在一栋大房子里，还有仆人。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/servant
+> - She has servants to do all her work for her. `[例]`
+>   - 中译：她有仆人为她做所有的工作。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/servant
 
 ---
 

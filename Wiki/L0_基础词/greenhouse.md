@@ -124,8 +124,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The greenhouse effect is causing global temperatures to rise at an alarming rate."（温室效应正导致全球气温以惊人的速度上升）
-> - "Reducing greenhouse gas emissions is essential to combating climate change."（减少温室气体排放对于应对气候变化至关重要）
+> - Gladys grows a lot of tomatoes in her greenhouse. `[例]`
+> - These small, unheated enclosures use the sun’s energy to store heat like a greenhouse. `[例]`
+> - Millstone accounts for 40% of Connecticut’s electricity and 90% of non- greenhouse gas emissions. `[例]`
 
 
 ---

@@ -126,7 +126,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The gradual shift from traditional media to digital platforms has transformed the advertising industry.（从传统媒体向数字平台的逐步转变已经改变了广告业。）
+> - There has been a gradual improvement in our sales figures over the last two years. `[例]`
+>   - 中译：过去两年我们的销售数字逐渐改善。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/gradual
+> - As you go further south , you will notice a gradual change of climate. `[例]`
+>   - 中译：当您继续向南行驶时，您会注意到气候逐渐发生变化。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/gradual
+> - There has been a gradual degeneration of the judicial system in the last few years. `[例]`
+>   - 中译：近几年来，司法系统逐渐退化。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/gradual
 
 ---
 

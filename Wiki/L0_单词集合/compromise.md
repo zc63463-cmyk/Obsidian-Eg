@@ -130,9 +130,15 @@ com-(共同) + pro-(向前) + [[par|miss/mit]](发送/承诺) = compromise（共
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Party unity is threatened when members will not compromise on key issues." `[例]`
-> - "They often compromise by having just one child due to financial pressures." `[例]`
-> - "The two sides finally reached a compromise after weeks of negotiation." `[例]`
+> - It is hoped that a compromise will be reached in today's talks. `[例]`
+>   - 中译：希望今天的会谈能够达成妥协。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/compromise
+> - In a compromise between management and unions , a four percent pay rise was agreed in return for an increase in productivity. `[例]`
+>   - 中译：在管理层和工会之间达成妥协后，同意加薪 4%，以换取生产率的提高。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/compromise
+> - The government has said that there will be no compromise with terrorists. `[例]`
+>   - 中译：政府表示不会向恐怖分子妥协。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/compromise
 
 ---
 

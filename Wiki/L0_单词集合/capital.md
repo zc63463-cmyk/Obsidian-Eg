@@ -136,9 +136,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The company needs to raise more capital to expand its business."（公司需要筹集更多资本来扩展业务。）——商业/经济类阅读语境
-> - "Paris is the capital of France."（巴黎是法国的首都。）——地理/文化类阅读语境
-> - "In English, proper nouns begin with a capital letter."（在英语中，专有名词以大写字母开头。）——语言/教育类阅读语境
+> - Australia's capital city is Canberra. `[例]`
+>   - 中译：澳大利亚的首都是堪培拉。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/capital
+> - London used to be the financial capital of the world. `[例]`
+>   - 中译：伦敦曾经是世界金融之都。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/capital
+> - In defiance of the ceasefire , rebel troops are again firing on the capital. `[例]`
+>   - 中译：叛军无视停火协议，再次向首都开火。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/capital
 
 ---
 

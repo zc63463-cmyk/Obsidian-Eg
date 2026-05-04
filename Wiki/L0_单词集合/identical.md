@@ -130,9 +130,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The symptoms of the two diseases are nearly identical, making diagnosis difficult."（考研英语——两种疾病的症状几乎完全相同）
-> - "Identical twins raised apart still show remarkable similarities in personality."（CET-6——分开抚养的同卵双胞胎仍显示惊人的相似性）
-> - "The two documents are identical in content."（CET-4——两份文件内容完全相同）
+> - I've got three identical blue suits. `[例]`
+>   - 中译：我有三套一模一样的蓝色套装。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/identical
+> - The two rooms were virtually identical. `[例]`
+>   - 中译：两个房间几乎一模一样。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/identical
+> - The interests of both parties may not be identical, but they do overlap considerably. `[例]`
+>   - 中译：双方的利益可能不相同，但确实有很大重叠。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/identical
 
 ---
 

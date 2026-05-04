@@ -128,8 +128,8 @@ pile(堆积，拉丁语 *pila* 柱子/堆)
 
 > [!example]- 语料
 > - The nail hoard was discovered in 1960 in a four-metre-deep pit covered by two metres of gravel. Why had the Romans buried a million nails? The likely explanation is that the withdrawal was rushed, and they didn't want the local Caledonians to get their hands on a pile of weapons. `[真题]`
-> - In her return, she brings another book, although her desk is already piled with lots of books. `[语料库]`
-> - These files pile up over the years, creating a massive backlog of paperwork. `[语料库]`
+> - In her return, she brings another book, although her desk is already piled with lots of books. `[例]`
+> - These files pile up over the years, creating a massive backlog of paperwork. `[例]`
 
 
 ---

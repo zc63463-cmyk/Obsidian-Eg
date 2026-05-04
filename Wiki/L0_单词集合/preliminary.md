@@ -130,8 +130,15 @@ pre-(在前面) + [[termin]](边界/门槛) + -ary(形容词后缀) → 在正�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The preliminary results of the study suggest that the new drug is effective in treating the disease."（研究的初步结果表明，这种新药在治疗该疾病方面是有效的。）——考研高频表达
-> - "Before launching the product, the company conducted preliminary market research to assess consumer demand."（在推出产品之前，公司进行了初步的市场调研以评估消费者需求。）——考研高频表达
+> - Preliminary results show that the vaccine is effective , but this has to be confirmed by further medical trials. `[例]`
+>   - 中译：初步结果表明该疫苗是有效的，但这还需要进一步的医学试验来证实。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/preliminary
+> - We've decided to change the design based on our preliminary findings. `[例]`
+>   - 中译：我们决定根据初步调查结果更改设计。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/preliminary
+> - The preliminary results are very positive. `[例]`
+>   - 中译：初步结果非常积极。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/preliminary
 ---
 
 

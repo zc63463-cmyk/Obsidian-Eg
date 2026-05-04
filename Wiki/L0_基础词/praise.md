@@ -134,9 +134,9 @@ praise(称赞/赞扬，古法语 *prisier*)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - He should be praised for his honesty . `[例]`
-> - My parents always praised me when I did well at school . `[例]`
-> - He was highly praised for his research on heart disease . `[例]`
+> - He should be praised for his honesty. `[例]`
+> - My parents always praised me when I did well at school. `[例]`
+> - He was highly praised for his research on heart disease. `[例]`
 
 
 ---

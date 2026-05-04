@@ -127,9 +127,15 @@ a-（=on, 在……上）+ head（头，前方）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The road ahead is very busy . `[例]`
-> - Turn left at the traffic lights , and you'll see the hospital straight ahead. `[例]`
-> - Barcelona was ahead after ten minutes . `[例]`
+> - The road ahead was blocked. `[例]`
+>   - 中译：前面的路被堵住了。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ahead
+> - This will create problems in the months ahead. `[例]`
+>   - 中译：这将在未来几个月产生问题。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ahead
+> - He was looking straight ahead (= straight forward, in front of him). `[例]`
+>   - 中译：他直视前方（=直视前方，在他的前面）。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ahead
 
 
 ---

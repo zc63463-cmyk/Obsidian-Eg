@@ -123,10 +123,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He will appear before the magistrates tomorrow." `[COCA-NEWS]`
-> - "Greenway appeared at Bow Street Magistrates' Court to face seven charges of accepting bribes." `[COCA-NEWS]`
-> - "A federal magistrate judge issued a search warrant allowing IRS agents to search the company's offices." `[COCA-ACAD]`
-> - "The defendant was ordered to appear before a magistrate to face charges of theft and vandalism committed during the overnight disturbance." `[例]`
+> - He will appear before the magistrates tomorrow. `[COCA-NEWS]`
+> - Greenway appeared at Bow Street Magistrates' Court to face seven charges of accepting bribes. `[COCA-NEWS]`
+> - A federal magistrate judge issued a search warrant allowing IRS agents to search the company's offices. `[COCA-ACAD]`
+> - The defendant was ordered to appear before a magistrate to face charges of theft and vandalism committed during the overnight disturbance. `[例]`
 
 
 ---

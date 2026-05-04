@@ -135,9 +135,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "fashion accessories"（时尚配饰）——商业/消费类阅读常见搭配
-> - "accessory to a crime"（犯罪同谋）——法律类阅读常见搭配
-> - "accessory organs"（附属器官）——医学/科普类阅读语境
+> - Sunglasses are much more than a fashion accessory. `[例]`
+>   - 中译：太阳镜不仅仅是一种时尚配饰。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/accessory
+> - She wore a green wool suit with matching accessories (= shoes , hat , bag , etc.). `[例]`
+>   - 中译：她穿着绿色羊毛套装，配有配套配饰（=鞋子、帽子、包等）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/accessory
+> - Accessories for the top-of-the-range car include leather upholstery , electric windows , and a sunroof. `[例]`
+>   - 中译：顶级汽车的配件包括皮革内饰、电动车窗和天窗。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/accessory
 
 ---
 

@@ -136,9 +136,9 @@ family 源自拉丁语 *familia*（家庭的全体成员、户），是 *famulus
 ## 真题/语料关联
 
 > [!example]- 语料
-> - I come from a large family - I have three brothers and two sisters . `[例]`
+> - I come from a large family - I have three brothers and two sisters. `[例]`
 > - He doesn't have any family. `[例]`
-> - This movie is good family entertainment (= something that can be enjoyed by parents and children together) . `[例]`
+> - This movie is good family entertainment (= something that can be enjoyed by parents and children together). `[例]`
 
 
 ---

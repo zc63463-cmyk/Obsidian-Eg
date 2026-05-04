@@ -130,9 +130,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Josh had an accident and spilled water all over his work . `[例]`
-> - The lorry had been involved in an accident. `[例]`
-> - The sign was damaged in an accident. `[例]`
+> - He was killed in an accident. `[例]`
+>   - 中译：他在一次事故中丧生。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/accident
+> - One in seven accidents is caused by sleepy drivers. `[例]`
+>   - 中译：七分之一的事故是由昏昏欲睡的驾驶员造成的。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/accident
+> - The accident happened at 3 p.m. `[例]`
+>   - 中译：事故发生在下午3点。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/accident
 
 
 ---

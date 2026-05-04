@@ -124,10 +124,15 @@ dom-(=domus，房屋、家) + -ain(名词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Childcare is no longer solely a female domain." `[COCA-ACAD]`
-> - "These documents are in the public domain." `[COCA-ACAD]`
-> - "The research has important implications for the domain of artificial intelligence." `[COCA-ACAD]`
-> - "Literature is my domain, but electronics is my sister's." `[COCA-ACAD]`
+> - She treated the business as her private domain. `[例]`
+>   - 中译：她把生意当作自己的私人领地。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/domain
+> - These documents are in the public domain (= available to everyone). `[例]`
+>   - 中译：这些文档属于公共领域（=每个人都可以使用）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/domain
+> - Are you still looking for some kind of job in the political domain? `[例]`
+>   - 中译：您还在寻找政治领域的工作吗？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/domain
 
 
 ---

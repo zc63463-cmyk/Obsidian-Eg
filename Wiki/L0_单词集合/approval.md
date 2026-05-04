@@ -129,9 +129,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Instead of protecting speech and encouraging diversity, the tenure system often stifles them: younger professors must win the approval of established colleagues for tenure. `[例]`
-> - The president has already given his approval to the plan for restructuring the company. `[例]`
-> - The proposed changes met with widespread approval from employees. `[例]`
+> - He showed his approval by smiling broadly. `[例]`
+>   - 中译：他露出灿烂的笑容来表达他的认可。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/approval
+> - Alan is someone who always needs the approval of other people. `[例]`
+>   - 中译：艾伦是一个总是需要别人认可的人。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/approval
+> - Sam always tried hard to win his father's approval. `[例]`
+>   - 中译：山姆总是努力赢得父亲的认可。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/approval
 ---
 
 

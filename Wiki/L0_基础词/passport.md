@@ -135,9 +135,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He views boxing as his passport out of poverty." `[Cambridge Corpus]`
-> - "Many students opt for business studies simply because it sounds like a passport to a good job." `[Cambridge Corpus]`
-> - "Many refugees have arrived at the border without passports." `[Cambridge Corpus]`
+> - He views boxing as his passport out of poverty. `[例]`
+> - Many students opt for business studies simply because it sounds like a passport to a good job. `[例]`
+> - Many refugees have arrived at the border without passports. `[例]`
 
 
 ---

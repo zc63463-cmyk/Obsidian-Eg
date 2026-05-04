@@ -143,7 +143,7 @@ review_count: 0
 > [!example]- 语料
 > - France will this week mark the anniversary of the attack. `[真题]`
 > - Earlier, David Cameron issued a statement to mark the anniversary of the conflict. `[真题]`
-> - The marvel of Nature shaking off sleep and going to work unfolded itself to the musing boy. `[真题]`
+> - Choose the best word ( s) for each numbered blank and mark A, B , C or D on th� ANSWER SHEET. ( 10 points) Caravanserais were roadside inns that were built along the Silk Road in areas including China, North Africa and the Middle East. `[真题]`
 
 
 ---

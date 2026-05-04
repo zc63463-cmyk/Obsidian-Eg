@@ -127,9 +127,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The extensive bibliography provides ample guidance for readers who want to make a deeper study of the subject. `[COCA-ACAD]`
-> - Most books on art materials and techniques also include excellent bibliographies for further reading. `[COCA-ACAD]`
-> - She has included a bibliography so that readers can refer to the primary sources. `[例]`
+> - There is a useful bibliography at the end of each chapter. `[例]`
+>   - 中译：每章末尾都有一个有用的参考书目。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bibliography
+> - The instructor provided the students with an excellent bibliography on local history. `[例]`
+>   - 中译：讲师为学生提供了有关当地历史的优秀参考书目。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/bibliography
+> - The book includes a lengthy bibliography. `[例]`
+>   - 中译：本书包括冗长的参考书目。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/bibliography
 
 
 ---

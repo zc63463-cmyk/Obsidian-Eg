@@ -136,9 +136,15 @@ con-(一起/加强) + [[cap|ceiv/ceit]](拿取、抓住) = conceive（在脑中�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It is difficult to conceive of a world without the internet." `[例]`
-> - "The project was conceived as a way to bridge the gap between science and the public." `[例]`
-> - "She conceived the idea for the novel while traveling through rural Italy." `[COCA-ACAD]`
+> - I think my uncle still conceives of me as a four-year-old. `[例]`
+>   - 中译：我想我叔叔仍然把我想象成一个四岁的孩子。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/conceive
+> - He couldn't conceive of a time when he would have no job. `[例]`
+>   - 中译：他无法想象自己有一天会没有工作。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/conceive
+> - I can't conceive (= it is too shocking to imagine ) how anyone could behave so cruelly. `[例]`
+>   - 中译：我无法想象（=太令人震惊了）怎么会有人表现得如此残忍。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/conceive
 
 ---
 

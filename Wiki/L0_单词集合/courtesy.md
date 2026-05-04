@@ -126,8 +126,14 @@ review_count: 0
 
 > [!example]- 语料
 > - You might get along better with your parents if you showed them some courtesy. `[例]`
-> - He could at least have had the courtesy to say sorry . `[例]`
-> - Jessie J appears courtesy of Universal Records. `[例]`
+>   - 中译：如果你对父母表现出一些礼貌，你可能会和他们相处得更好。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/courtesy
+> - He could at least have had the courtesy to say sorry. `[例]`
+>   - 中译：他至少可以有礼貌地说声抱歉。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/courtesy
+> - The president welcomed her visitors with the usual courtesies. `[例]`
+>   - 中译：总统以一贯的礼节欢迎她的来访者。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/courtesy
 
 ---
 

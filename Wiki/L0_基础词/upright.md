@@ -126,8 +126,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She behaved as any upright citizen would have under the circumstances . `[例]`
-> - The sound of breaking glass made her sit bolt upright (= sit with her back straight ) . `[例]`
+> - She behaved as any upright citizen would have under the circumstances. `[例]`
+> - The sound of breaking glass made her sit bolt upright (= sit with her back straight ). `[例]`
 > - Firmly secure the two uprights to opposite walls in the alcove and then fit the shelves in between them. `[例]`
 
 

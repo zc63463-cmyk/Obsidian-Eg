@@ -3,10 +3,8 @@ title: "wholesale"
 tags:
   - 学习/英语/词汇
   - 语义场/资本经济
-  - 掌握/L0
 aliases: []
 date: 2026-04-25
-mastery: L0
 word_freq: 超纲词
 semantic_field: 资本经济
 prototype: 大批量的（批发）
@@ -45,7 +43,7 @@ whole（整个/全部）+ sale（出售），复合词，无拉丁/希腊词根�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**大批量的买卖**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **大批量的买卖**（商业层面）
@@ -67,7 +65,7 @@ whole（整个/全部）+ sale（出售），复合词，无拉丁/希腊词根�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -79,7 +77,7 @@ whole（整个/全部）+ sale（出售），复合词，无拉丁/希腊词根�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **词拆分记忆**（优先）：
 > whole（整个）+ sale（卖）= wholesale（批发）。你把整个仓库的苹果一次性卖给超市——这就是 wholesale。零售是 retail（re-再 + tail-切割 = 一点点卖），批发是 wholesale（whole-整个 + sale-卖 = 整批卖）。wholesale 引申为"全面的"——wholesale reform 就是"全面改革"。
@@ -91,7 +89,7 @@ whole（整个/全部）+ sale（出售），复合词，无拉丁/希腊词根�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,13 +102,13 @@ whole（整个/全部）+ sale（出售），复合词，无拉丁/希腊词根�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[retail]]：零售（wholesale 的精确反义：批发↔零售）
 > - [[partial]]：部分的（wholesale 的反义：全面的↔部分的）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,7 +119,7 @@ whole（整个/全部）+ sale（出售），复合词，无拉丁/希腊词根�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **wholesale price**：批发价
 > - **wholesale market**：批发市场
 > - **wholesale changes/reform**：全面变革/全面改革
@@ -130,19 +128,12 @@ whole（整个/全部）+ sale（出售），复合词，无拉丁/希腊词根�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - What the system needs is wholesale reform . `[例]`
-> - He raised prices slightly for wholesale and retail . `[例]`
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-25 | **复习次数**：0 | **当前等级**：L0
-
----
+> [!example]- 语料
+> - What the system needs is wholesale reform. `[例]`
+> - He raised prices slightly for wholesale and retail. `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -131,9 +131,9 @@ horror（14世纪初，源自古法语 *horror*，直接来自拉丁语 *horror*
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The crowd cried out in horror as the car burst into flames . `[例]`
+> - The crowd cried out in horror as the car burst into flames. `[例]`
 > - The thought of speaking in front of so many people fills me with horror. `[例]`
-> - I then realized to my absolute horror, that I had forgotten the present . `[例]`
+> - I then realized to my absolute horror, that I had forgotten the present. `[例]`
 
 
 ---

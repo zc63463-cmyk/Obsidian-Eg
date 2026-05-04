@@ -137,10 +137,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - There is limited scope for further reductions in the workforce. `[COCA-ACAD]`
-> - The scope of the technique was rapidly extended to study other molecules and electrode systems. `[COCA-ACAD]`
-> - Part of this was to examine the scope for local differences in policy and organizational practices. `[COCA-ACAD]`
-> - The scope of the problem is daunting. `[COCA-ACAD]`
+> - Oil painting does not come within the scope of a course of this kind. `[例]`
+>   - 中译：油画不属于此类课程的范围。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/scope
+> - The campaign appears to be growing in scope and intensity. `[例]`
+>   - 中译：该活动的范围和强度似乎都在扩大。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/scope
+> - She complained that the plan was too limited in scope. `[例]`
+>   - 中译：她抱怨该计划的范围太有限。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/scope
 
 ---
 

@@ -123,9 +123,15 @@ ac-(=ad-，向) + com-(共同) + mod(=modus，方式，尺寸) + -ation(名词�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The university guarantees **accommodation** for all first-year students.（大学保证为所有一年级学生提供住宿。）
-> - The two sides finally reached an **accommodation** after weeks of negotiation.（双方经过数周谈判终于达成妥协。）
-> - Price **accommodations** will be made for large group bookings.（大型团体预订将提供价格优惠。）
+> - They paid for his flights and hotel accommodation. `[例]`
+>   - 中译：他们支付了他的机票和酒店住宿费用。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/accommodation
+> - There's a shortage of cheap accommodation in the city. `[例]`
+>   - 中译：城里缺乏廉价的住宿。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/accommodation
+> - There is accommodation for about five hundred students on campus. `[例]`
+>   - 中译：校园内有大约五百名学生的住宿。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/accommodation
 
 ---
 

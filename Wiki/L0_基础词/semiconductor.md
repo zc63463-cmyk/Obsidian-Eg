@@ -128,9 +128,9 @@ semi-(半) + [[duct|conductor]](导体，con-共同 + duct-引导)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "For a while it looked as though the making of semiconductors, which America had invented and which sat at the heart of the new computer age, was going to be the next casualty." `[真题]`
-> - "Studies of the most patent-conscious business of all—the semiconductor industry—suggest that firms do not necessarily become more innovative as they increase their patenting activity." `[真题]`
-> - "Supply chain problems have led to a semiconductor shortage, which means new EVs can be hard to find in some markets." `[真题]`
+> - For a while it looked as though the making of semiconductors, which America had invented and which sat at the heart of the new computer age, was going to be the next casualty. `[真题]`
+> - Studies of the most patent-conscious business of all—the semiconductor industry—suggest that firms do not necessarily become more innovative as they increase their patenting activity. `[真题]`
+> - Supply chain problems have led to a semiconductor shortage, which means new EVs can be hard to find in some markets. `[真题]`
 
 
 ---

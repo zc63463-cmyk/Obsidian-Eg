@@ -127,9 +127,15 @@ cre(=cres-, 增长，拉丁语 *crescere*) + -at(e)(动词后缀) + -ive(倾向�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - They used rather creative methods to impress investors . `[例]`
-> - Several leading creatives are involved in the advertising campaign . `[例]`
-> - We attract creative people who want to get involved in building companies up. `[例]`
+> - They used rather creative methods to impress investors. `[例]`
+>   - 中译：他们用颇有创意的方法来打动投资者。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/creative
+> - She has been described as the creative colossus of the literary world. `[例]`
+>   - 中译：她被描述为文学界的创作巨人。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/creative
+> - She's very creative on the design front. `[例]`
+>   - 中译：她在设计方面非常有创意。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/creative
 
 ---
 

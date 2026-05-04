@@ -131,9 +131,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - `The first permanent British settlement in the New World was established in Virginia in 1607.` `[COCA-ACAD]`
-> - `After years of fighting, the two countries seem to be on the brink of a historic peace settlement.` `[COCA-NEWS]`
-> - `The earliest human settlements were usually located near rivers.` `[COCA-ACAD]`
+> - As part of their divorce settlement, Jeff agreed to let Polly keep the house. `[例]`
+>   - 中译：作为离婚协议的一部分，杰夫同意让波莉保留房子。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/settlement
+> - They reached an out-of-court settlement. `[例]`
+>   - 中译：他们达成庭外和解。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/settlement
+> - The actor accepted a settlement of $100,000 from the magazine. `[例]`
+>   - 中译：这位演员接受了杂志社 10 万美元的和解金。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/settlement
 
 ---
 

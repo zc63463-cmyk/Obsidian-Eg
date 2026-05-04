@@ -138,10 +138,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Shouldn't you phone home ? Your parents will be wondering wh ere you are. `[例]`
-> - He's starting to wonder whether he did the right thing in accepting this job . `[例]`
-> - Will this turkey be big enough for eight, I wonder? `[例]`
-> - Have you decided where you're going next summer ?" "I've been wondering about (= considering ) going to Florida. `[例]`
+> - Why do you want to know?’ ‘No particular reason. I was just wondering. `[例]`
+>   - 中译：你为什么想知道？” “没有什么特别的原因。我只是想知道。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/wonder
+> - I wonder who she is. `[例]`
+>   - 中译：我想知道她是谁。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/wonder
+> - I was just beginning to wonder where you were. `[例]`
+>   - 中译：我刚开始想知道你在哪里。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/wonder
 
 ---
 

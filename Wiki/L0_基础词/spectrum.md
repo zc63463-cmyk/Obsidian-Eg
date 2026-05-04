@@ -133,9 +133,9 @@ spectr(看/影像，[[spec-spect]]的变体) + -um(名词后缀：表示结果�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The colours of the spectrum - red , orange , yellow , green , blue , indigo , and violet - can be seen in a rainbow . `[例]`
+> - The colours of the spectrum - red , orange , yellow , green , blue , indigo , and violet - can be seen in a rainbow. `[例]`
 > - He has support from across the whole political spectrum. `[例]`
-> - The group includes students from both ends of the social spectrum (= range of social classes ) . `[例]`
+> - The group includes students from both ends of the social spectrum (= range of social classes ). `[例]`
 
 
 ---

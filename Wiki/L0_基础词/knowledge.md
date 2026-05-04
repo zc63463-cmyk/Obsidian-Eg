@@ -133,8 +133,8 @@ review_count: 0
 
 > [!example]- 语料
 > - Caravanserais served as an informal 10 point for the various people who travelled the Silk Road. _.!l_ , these structures became important centers for cultural 12 and interaction, with travellers sharing their cultures, ideas and beliefs, 13 taking knowledge with them, greatly _l!_ the development of several civilisations. `[真题]`
-> - Her knowledge of English grammar is very extensive . `[例]`
-> - He has a limited knowledge of French . `[例]`
+> - Her knowledge of English grammar is very extensive. `[例]`
+> - He has a limited knowledge of French. `[例]`
 
 
 ---

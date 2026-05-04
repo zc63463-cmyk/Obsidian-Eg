@@ -124,7 +124,15 @@ fore-（前缀，含义"在……之前/前面"）+ 无词根 + 无后缀
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The fore part of the ship was damaged in the storm.（船的前部在风暴中受损。）
+> - Various ecological issues have come to the fore since the discovery of the hole in the earth's ozone layer. `[例]`
+>   - 中译：自从发现地球臭氧层空洞以来，各种生态问题日益凸显。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/fore
+> - If you play golf , there's a good chance you're going to get hit . That's why everybody yells , "Fore! `[例]`
+>   - 中译：如果你打高尔夫球，你很有可能会被击中。这就是为什么每个人都大喊：“前进！
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/fore
+> - Fore!" yelled his playing partners , who then started laughing uproariously. `[例]`
+>   - 中译：前进！”他的伙伴们喊道，然后他们开始大笑起来。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/fore
 
 ---
 

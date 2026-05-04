@@ -133,7 +133,7 @@ review_count: 0
 > [!example]- 语料
 > - The editor asked the author to insert an additional paragraph to clarify the methodology used in the research study. `[真题]`
 > - Users can insert their credit card information into the online form to complete the purchase securely and conveniently. `[真题]`
-> - His hand shook slightly as he inserted the key into the lock. `[权威语料]`
+> - His hand shook slightly as he inserted the key into the lock. `[例]`
 
 
 ---

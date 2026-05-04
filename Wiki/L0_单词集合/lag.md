@@ -131,10 +131,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Catering salaries lag far behind those of other sectors." `[COCA-ACAD]`
-> - "She did well in her first year at school but then started to lag behind." `[COCA]`
-> - "Our notions of nationality tend to lag behind the realities of a changing world." `[COCA]`
-> - "Test scores for the poorest children continue to lag far behind those of the middle class." `[COCA]`
+> - He's lagging behind - I think we'd better wait for him to catch us up. `[例]`
+>   - 中译：他落后了——我想我们最好等他赶上我们。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/lag
+> - Sales are lagging at the moment. `[例]`
+>   - 中译：目前销售滞后。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/lag
+> - If I try to access any of the folders or files , the computer lags seriously. `[例]`
+>   - 中译：如果我尝试访问任何文件夹或文件，计算机就会严重滞后。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/lag
 
 ---
 

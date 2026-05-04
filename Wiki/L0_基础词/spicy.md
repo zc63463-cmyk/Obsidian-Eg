@@ -129,9 +129,9 @@ spice(香料) + -y(形容词后缀：充满……的)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Do you like spicy food ? `[例]`
+> - Do you like spicy food? `[例]`
 > - I love Creole cooking , so hot and spicy. `[例]`
-> - He jazzed up the food with a spicy sauce . `[例]`
+> - He jazzed up the food with a spicy sauce. `[例]`
 
 
 ---

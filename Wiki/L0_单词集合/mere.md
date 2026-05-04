@@ -127,8 +127,15 @@ mere(纯粹的/仅仅的) → 源自古英语 mære（边界/纯粹）
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - "The mere mention of his name made her angry."（仅仅提到他的名字就让她生气。）——考研阅读真题
-> - "A mere child could solve this problem."（一个小孩都能解决这个问题。）——考研高频表达
+> - The plane crashed mere minutes after take-off. `[例]`
+>   - 中译：飞机起飞几分钟后就坠毁了。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/mere
+> - It cost a mere 20 dollars. `[例]`
+>   - 中译：它只花费了 20 美元。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/mere
+> - The mere thought of it (= just thinking about it) makes me feel sick. `[例]`
+>   - 中译：光是想到它（=只是想到它）就让我感到恶心。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/mere
 
 ---
 

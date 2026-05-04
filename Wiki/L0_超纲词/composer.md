@@ -3,10 +3,8 @@ title: "composer"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 社会习俗
 prototype: 组合在一起的人（把各部分组合成整体的人）
@@ -43,7 +41,7 @@ com-（一起）+ [[pos-pon-posit]]（放置）+ -er（人）
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**组合在一起的人（把各部分组合成整体的人）**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **把各部分组合成整体的人**（创作角色层面）
@@ -64,7 +62,7 @@ com-（一起）+ [[pos-pon-posit]]（放置）+ -er（人）
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ com-（一起）+ [[pos-pon-posit]]（放置）+ -er（人）
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **词根记忆**（优先）：
 > com（一起）+ pos（放）+ -er（人）→ 把东西放在一起的人 → 作曲家。compose 是"组合/作曲"，composer 就是"作曲家"。贝多芬、莫扎特都是 composer——他们把音符放在一起，创作出伟大的音乐。
@@ -83,7 +81,7 @@ com-（一起）+ [[pos-pon-posit]]（放置）+ -er（人）
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -96,12 +94,12 @@ com-（一起）+ [[pos-pon-posit]]（放置）+ -er（人）
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - 无精确反义词，composer 的反义概念为"演奏者"（performer）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -114,7 +112,7 @@ com-（一起）+ [[pos-pon-posit]]（放置）+ -er（人）
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a famous composer**：著名的作曲家
 > - **classical composer**：古典作曲家
 > - **film composer**：电影配乐作曲家
@@ -122,19 +120,12 @@ com-（一起）+ [[pos-pon-posit]]（放置）+ -er（人）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - The composer Strauss was once challenged to a duel . `[例]`
-> - The famous jazz musician , Duke Ellington, was a composer, arranger and pianist . `[例]`
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
+> [!example]- 语料
+> - The composer Strauss was once challenged to a duel. `[例]`
+> - The famous jazz musician , Duke Ellington, was a composer, arranger and pianist. `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

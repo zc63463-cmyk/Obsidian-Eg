@@ -127,7 +127,7 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Application forms vary greatly in layout and length . `[例]`
+> - Application forms vary greatly in layout and length. `[例]`
 > - His house has three bedrooms and ours has four, but otherwise the layout is much the same. `[例]`
 > - Each article in the journal has its own typeface and layout. `[例]`
 

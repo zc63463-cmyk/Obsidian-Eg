@@ -129,9 +129,15 @@ re-(回) + lat/latus(携带、带来) + -ive(形容词/名词后缀，表倾向�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - `The effectiveness of the policy should be assessed relative to its intended goals.` [COCA-ACAD]
-> - `Happiness is a relative concept — what brings joy to one person may not satisfy another.` [COCA-ACAD]
-> - `Steve is a distant relative of my wife.` [COCA-FIC]
+> - I don't have many blood relatives (= people related to me by birth rather than by marriage ). `[例]`
+>   - 中译：我没有很多血亲（=与我有血缘关系而不是婚姻关系的人）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/relative
+> - The children are being cared for by a relative. `[例]`
+>   - 中译：孩子们由亲戚照顾。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/relative
+> - There weren't many people at the funeral - just close family relatives. `[例]`
+>   - 中译：参加葬礼的人并不多，只有近亲。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/relative
 ---
 
 

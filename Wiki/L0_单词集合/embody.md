@@ -131,10 +131,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The new constitution embodied the right to free speech." `[COCA-ACAD]`
-> - "We want to build a national team that embodies competitive spirit and skill." `[COCA-NEWS]`
-> - "This model embodies many new features." `[COCA-ACAD]`
-> - "Its founding charter ought therefore to declare its independence, and its legal form should embody that independence." `[COCA-ACAD]`
+> - She embodied good sportsmanship on the playing field. `[例]`
+>   - 中译：她在赛场上体现了良好的体育精神。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/embody
+> - Kennett embodied in one man an unusual range of science , music , and religion. `[例]`
+>   - 中译：肯尼特在一个人身上体现了一系列不同寻常的科学、音乐和宗教知识。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/embody
+> - Arthur Ashe embodied the ideals of good sportsmanship. `[例]`
+>   - 中译：阿瑟·阿什体现了良好体育精神的理想。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/embody
 
 ---
 

@@ -124,10 +124,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The mercury soared above 40 degrees Celsius during the heatwave." `[真题]`
-> - "Mercury is the closest planet to the Sun and has the shortest orbital period." `[真题]`
-> - "Exposure to mercury can cause serious neurological damage." `[真题]`
-> - "The museum is heavily guarded and all visitors have to pass through metal detectors before entering." `[真题]`
+> - The mercury soared above 40 degrees Celsius during the heatwave. `[真题]`
+> - Mercury is the closest planet to the Sun and has the shortest orbital period. `[真题]`
+> - Exposure to mercury can cause serious neurological damage. `[真题]`
+> - The hikers rested under a towering mercury near the coastal trail. `[例]`
 
 
 ---

@@ -123,9 +123,15 @@ com-(共同，一起) + [[pon/pos]](放置) + -ition(名词后缀，表示动作
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The composition of the committee reflects the diversity of the student body. `[COCA-ACAD]`
-> - Scientists analyzed the chemical composition of the water sample. `[COCA-ACAD]`
-> - Students were asked to write a composition on environmental protection. `[例]`
+> - At music school I studied piano and composition. `[例]`
+>   - 中译：在音乐学校我学习钢琴和作曲。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/composition
+> - In school we had to write a composition (= short piece of writing) on our favorite TV programs. `[例]`
+>   - 中译：在学校里，我们必须就我们最喜欢的电视节目写一篇作文（=短文）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/composition
+> - The composition of the city’s population has changed dramatically in the past 20 years. `[例]`
+>   - 中译：近20年来，该市人口构成发生了巨大变化。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/composition
 
 ---
 

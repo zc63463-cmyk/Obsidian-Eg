@@ -126,8 +126,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Teaching is one of the most honorable professions in the world."（教师是世界上最可敬的职业之一。）——考研高频表达
-> - "He is an honorable man who always keeps his promises."（他是个信守承诺的可敬之人。）——考研高频表达
+> - The neighbors are decent , honorable people. `[例]`
+>   - 中译：邻居们都是正派、可敬的人。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/honorable
+> - The college has a long and honorable history. `[例]`
+>   - 中译：学院有着悠久而光荣的历史。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/honorable
+> - It is not honorable of you to behave like that. `[例]`
+>   - 中译：你那样做是不光荣的。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/honorable
 ---
 
 

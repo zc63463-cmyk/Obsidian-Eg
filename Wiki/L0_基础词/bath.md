@@ -125,10 +125,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "When she got home she decided she needed a bath." `[COCA-FIC]`
-> - "Susannah has a long hot bath every evening." `[COCA-FIC]`
-> - "It's an established rhythm that before you go to bed you take a bath." `[COCA-NEWS]`
-> - "I lay soaking in a hot bubble bath." `[例]`
+> - I think I'll have a bath and go to bed. `[例]`
+>   - 中译：我想我要洗个澡然后上床睡觉。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bath
+> - She took the baby upstairs to give him a bath. `[例]`
+>   - 中译：她抱着孩子上楼去给他洗澡。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bath
+> - It's the children's bath time. `[例]`
+>   - 中译：现在是孩子们洗澡的时间。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bath
 
 
 ---

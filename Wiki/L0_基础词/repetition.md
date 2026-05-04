@@ -128,9 +128,9 @@ re-（[[re-|再，重新]]）+ pet（[[pet|寻求]]，拉丁语 *petere*）+ -it
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "We want to prevent a repetition of last summer's fires, which destroyed more than 500,000 acres of land." `[COCA-NEWS]`
-> - "The job involved the endless repetition of two or three simple tasks." `[COCA-ACAD]`
-> - "Try to avoid unnecessary repetition when stating your points." `[COCA-ACAD]`
+> - We want to prevent a repetition of last summer's fires, which destroyed more than 500,000 acres of land. `[COCA-NEWS]`
+> - The job involved the endless repetition of two or three simple tasks. `[COCA-ACAD]`
+> - Try to avoid unnecessary repetition when stating your points. `[COCA-ACAD]`
 
 
 ---

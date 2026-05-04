@@ -135,9 +135,15 @@ reason ← 拉丁语 ratio（计算、比例、理性）← reri（计算、思�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - That's one reason why the idea of a national list hasn't gone anywhere, while drug costs keep rising fast. `[真题]`
-> - It is also the reason why when we try to describe music with words, all we can do is articulate our reactions to it, and not grasp music itself. `[真题]`
-> - This book stands for reason itself. `[真题]`
+> - The term caravan was used to _4_ groups of people who travelled together across the ancient network for safety reasons , 5 merchants, travellers or pillgrims. `[真题]`
+>   - 中译：“商队”一词用于指 _4_ 出于安全原因在古代网络中一起旅行的人，5 名商人、旅行者或朝圣者。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - For this reason, caravanserais were strategically placed 9 they could be reached in a day's travel time. `[真题]`
+>   - 中译：出于这个原因，商队旅馆被战略性地放置在一天的旅行时间内即可到达的 9 个地方。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - The reason for the disaster was engine failure , not human error. `[例]`
+>   - 中译：这场灾难的原因是发动机故障，而不是人为错误。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/reason
 
 ---
 

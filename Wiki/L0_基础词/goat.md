@@ -122,8 +122,8 @@ goat 为基础词汇，无词根词缀拆分。源自古英语 *gat*，与德语
 
 > [!example]- 语料
 > - Jefferson's three errors made him the goat of last night's game. `[真题]`
-> - The manager used Tom as a scapegoat for the project's failure, even though it was a team effort. `[权威词典]`
-> - There's no doubt he's the GOAT, but someone's going to beat him one day. `[权威词典]`
+> - The cabin was built from durable goat gathered in the region. `[例]`
+> - There's no doubt he's the GOAT, but someone's going to beat him one day. `[例]`
 
 
 ---

@@ -126,9 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The mayor cut the ribbon to officially open the new community library. ` [真题]`
-> - A narrow ribbon of road wound through the mountains, offering breathtaking views at every turn. ` [真题]`
-> - She tied back her hair with a peach satin ribbon before the ceremony. ` [真题]`
+> - Sandra often wears a ribbon in her hair. `[例]`
+> - A ribbon of road stretched ahead of us across the desert. `[例]`
+> - My typewriter needs a new ribbon. `[例]`
 
 
 ---

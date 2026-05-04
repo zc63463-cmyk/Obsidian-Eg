@@ -130,9 +130,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The bank loan has greatly strengthened our financial position . `[例]`
-> - They have been strengthening their border defences in preparation for war . `[例]`
-> - His battle against cancer has strengthened his belief in God . `[例]`
+> - Her position in the party has strengthened in recent weeks. `[例]`
+>   - 中译：最近几周，她在党内的地位有所加强。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/strengthen
+> - The move is clearly intended to strengthen the president's position as head of state. `[例]`
+>   - 中译：此举显然是为了加强总统作为国家元首的地位。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/strengthen
+> - The new evidence will strengthen their case. `[例]`
+>   - 中译：新的证据将加强他们的论据。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/strengthen
 ---
 
 

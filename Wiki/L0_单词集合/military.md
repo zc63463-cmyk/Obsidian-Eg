@@ -124,9 +124,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The minister argued against making cuts in military spending."（部长反对削减军事开支。）——考研高频表达
-> - "Spain was an important military power in the 16th century."（西班牙在16世纪是一个重要的军事强国。）——考研高频表达
-> - "The military has played a significant role in the country's political history."（军方在该国的政治历史中发挥了重要作用。）——考研高频表达
+> - Support in Europe for foreign military interventions is low. `[例]`
+>   - 中译：欧洲对外国军事干预的支持率很低。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/military
+> - Many people from the area said the bombs were hitting civilian , rather than military targets. `[例]`
+>   - 中译：该地区的许多人表示，炸弹袭击的是平民目标，而不是军事目标。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/military
+> - Our military forces are the best-trained anywhere in the world. `[例]`
+>   - 中译：我们的军队是世界上训练有素的。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/military
 
 ---
 

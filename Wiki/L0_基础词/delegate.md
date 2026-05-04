@@ -128,9 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Delegates have voted in favour of the motion . `[例]`
-> - Each union elects several delegates to the annual conference . `[例]`
-> - As a boss you have to delegate responsibilities to your staff . `[例]`
+> - Delegates have voted in favour of the motion. `[例]`
+> - Each union elects several delegates to the annual conference. `[例]`
+> - As a boss you have to delegate responsibilities to your staff. `[例]`
 
 
 ---

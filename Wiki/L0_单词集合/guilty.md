@@ -121,8 +121,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The jury found the defendant guilty of fraud and sentenced him to five years in prison."（陪审团裁定被告犯有欺诈罪，判处其五年监禁。）——考研高频表达
-> - "Many working parents feel guilty about not spending enough time with their children."（许多上班族父母因没有足够的时间陪伴孩子而感到内疚。）——考研高频表达
+> - I feel guilty because I should have said something. `[例]`
+>   - 中译：我感到内疚，因为我应该说点什么。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/guilty
+> - I feel so guilty about forgetting her birthday. `[例]`
+>   - 中译：我对忘记她的生日感到非常内疚。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/guilty
+> - She must have done something wrong , because she's looking so guilty. `[例]`
+>   - 中译：她一定做错了什么，因为她看起来很内疚。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/guilty
 
 
 ---

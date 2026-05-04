@@ -127,9 +127,15 @@ con-(=com-, 共同/完全) + [[ver-vert|vers]](=turn, 转，[[ver-vert]]) + -ion
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Conversion to gas central heating will save you a lot of money. `[COCA-ACAD]`
-> - There are no charges for currency conversion. `[COCA-NEWS]`
-> - A loft conversion can add considerably to the value of a house. `[COCA-NEWS]`
+> - Their main business is the conversion of farm buildings into family homes. `[例]`
+>   - 中译：他们的主要业务是将农场建筑改造成家庭住宅。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/conversion
+> - Conversion to gas central heating will save you a lot of money. `[例]`
+>   - 中译：改用燃气中央供暖将为您节省很多钱。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/conversion
+> - No conversion from analogue to digital data is needed. `[例]`
+>   - 中译：不需要从模拟数据到数字数据的转换。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/conversion
 
 
 ---

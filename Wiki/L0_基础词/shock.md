@@ -137,9 +137,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Her death came as a great shock to the entire community." `[真题]`
-> - "She stood there in shock, unable to speak." `[真题]`
-> - "The news shocked the whole country and sparked widespread protests." `[真题]`
+> - The news shocked the whole country and sparked widespread protests. `[真题]`
+> - Her mother's death came as a great shock - it was so unexpected. `[例]`
+> - It was a shock to see her looking so ill. `[例]`
 
 
 ---

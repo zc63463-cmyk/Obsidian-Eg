@@ -134,10 +134,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The research was conducted in a systematic `manner`. `[COCA-ACAD]`
-> - Her courteous `manner` earned her many friends. `[COCA-ACAD]`
-> - Please conduct yourself in a respectful `manner`. `[COCA-ACAD]`
-> - The data were collected in a rigorous `manner`. `[真题]`
+> - She stared at me in an accusing manner. `[例]`
+>   - 中译：她用指责的眼神盯着我。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/manner
+> - He was elected in the normal manner. `[例]`
+>   - 中译：他是按照正常方式当选的。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/manner
+> - It was the manner of her death that stuck in the public's mind. `[例]`
+>   - 中译：她的死亡方式深深地留在了公众的脑海中。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/manner
 
 ---
 

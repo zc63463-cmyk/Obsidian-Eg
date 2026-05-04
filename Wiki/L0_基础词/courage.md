@@ -126,9 +126,15 @@ cour（=cor，心，拉丁语 *cor*）+ -age（名词后缀，表状态）。cou
 ## 真题/语料关联
 
 > [!example]- 语料
-> - It takes courage to stand up for your rights. `[语料库]`
-> - Sue showed great courage throughout her illness. `[语料库]`
-> - He was a man of great integrity, originality, generosity and moral courage. `[语料库]`
+> - He showed great courage and determination. `[例]`
+>   - 中译：他表现出了极大的勇气和决心。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/courage
+> - They had the courage to stand up and fight for what they believed in. `[例]`
+>   - 中译：他们有勇气站起来，为自己的信仰而奋斗。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/courage
+> - He couldn't find the courage to tell his daughters what had happened. `[例]`
+>   - 中译：他没有勇气告诉女儿们发生了什么事。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/courage
 
 
 ---

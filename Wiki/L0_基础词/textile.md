@@ -130,9 +130,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The textile industry was the first to be industrialized in Britain." `[真题]`
-> - "In addition to the textile industry, cotton is used in fishing nets, coffee filters, tents, and explosives manufacture." `[语料库]`
-> - "Some set a minimum polyester composition for their textile feedstock." `[期刊]`
+> - The textile industry was the first to be industrialized in Britain. `[真题]`
+> - In addition to the textile industry, cotton is used in fishing nets, coffee filters, tents, and explosives manufacture. `[例]`
+> - A line of textile trees rose above the morning fog. `[例]`
 
 
 ---

@@ -126,9 +126,15 @@ cream 源自古法语 *creme/cresme*（圣油），混合了晚期拉丁语 *chr
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The private schools cream off many of the best pupils from the state system. `[真题]`
-> - The cream of England's young men were killed in the Great War. `[真题]`
-> - We are going to be looking at the top banana, the big kahuna, the cream of the crop. `[真题]`
+> - We had strawberries and cream for dessert. `[例]`
+>   - 中译：我们吃了草莓和奶油作为甜点。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/cream
+> - I asked for two coffees with cream. `[例]`
+>   - 中译：我要了两杯加奶油的咖啡。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/cream
+> - Would you like milk or cream in your coffee? `[例]`
+>   - 中译：您想在咖啡中加入牛奶还是奶油？
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/cream
 
 
 ---

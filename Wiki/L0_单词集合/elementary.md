@@ -134,10 +134,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Elementary school children begin learning to read at age six." `[COCA-ACAD]`
-> - "He made an elementary mistake in the calculation." `[COCA-ACAD]`
-> - "The book provides an elementary introduction to physics." `[COCA-ACAD]`
-> - "These are elementary principles that every student should understand." `[COCA-ACAD]`
+> - I have an elementary knowledge of physics. `[例]`
+>   - 中译：我有基本的物理知识。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/elementary
+> - They made some elementary mistakes. `[例]`
+>   - 中译：他们犯了一些低级错误。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/elementary
+> - Millions of travellers fail to take even the most elementary of precautions. `[例]`
+>   - 中译：数以百万计的旅行者甚至没有采取最基本的预防措施。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/elementary
 
 ---
 

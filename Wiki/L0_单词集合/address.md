@@ -127,8 +127,15 @@ ad-(=to, toward, 向、朝) + dress(=direct, 引导、指向，源自拉丁语 d
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The president addressed the nation on television to announce the new economic policies."（总统在电视上向全国发表讲话，宣布新的经济政策。）——考研高频表达
-> - "The government must take immediate action to address the issue of income inequality."（政府必须立即采取行动解决收入不平等问题。）——考研高频表达
+> - A study last year by the National Center for Science Education, a non­ profit group of scientists and teachers, looking at how state public schools across the country address climate change in science classes, gave barely half of US states a grade B + or higher. `[真题]`
+>   - 中译：国家科学教育中心（一个由科学家和教师组成的非营利组织）去年进行的一项研究调查了全国公立学校如何在科学课程中应对气候变化，结果显示美国只有一半的州获得了 B+ 或更高的成绩。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - Police searched an address in North London in connection with a drugs arrest. `[例]`
+>   - 中译：警方搜查了伦敦北部的一个与毒品逮捕有关的地址。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/address
+> - Any further correspondence should be sent to my new address. `[例]`
+>   - 中译：任何进一步的信件应发送至我的新地址。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/address
 
 
 ---

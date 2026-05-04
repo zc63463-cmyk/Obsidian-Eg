@@ -133,8 +133,14 @@ pro-(向前) + [[fer|fer→带来]](带来/承受) + -it(名词后缀)
 
 > [!example]- 语料
 > - Says Dan Quinn, senior communications strategist at the Texas Freedom Network, a non-profit group that monitors public education. `[真题]`
+>   - 中译：德克萨斯自由网络 (Texas Freedom Network) 的高级传播策略师丹·奎恩 (Dan Quinn) 说道，该网络是一个监测公共教育的非营利组织。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
 > - A study last year by the National Center for Science Education, a non­ profit group of scientists and teachers, looking at how state public schools across the country address climate change in science classes, gave barely half of US states a grade B + or higher. `[真题]`
-> - She makes a big profit from selling waste material to textile companies . `[例]`
+>   - 中译：国家科学教育中心（一个由科学家和教师组成的非营利组织）去年进行的一项研究调查了全国公立学校如何在科学课程中应对气候变化，结果显示美国只有一半的州获得了 B+ 或更高的成绩。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - The peculiar part is that the journal that the editor is supposedly working for is not profiting at all-it is just providing citations to other journals. `[真题]`
+>   - 中译：奇怪的是，这位编辑所工作的期刊根本没有盈利——它只是提供对其他期刊的引用。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
 
 
 ---

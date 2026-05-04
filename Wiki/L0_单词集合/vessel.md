@@ -129,9 +129,15 @@ vess（容器，空腔）+ -el（名词后缀，表示小）= 小容器→器皿
 ## 真题/语料关联
 
 > [!example]- 语料
-> - A warning went out to fishing vessels in the area . `[例]`
-> - The remains of some Roman earthenware vessels were found during the dig . `[例]`
-> - As a young and spirited politician , he seems a worthy vessel for the nation's hopes . `[例]`
+> - Sculptor Maddy Inez, granddaughter of Betye Saar, crafts a series of ceramic vessels — each an ode to different plants brought over during the transatlantic slave trade — reframing gardening as an act of resistance. `[例]`
+>   - 中译：雕塑家马迪·伊内兹 (Maddy Inez) 是贝蒂·萨尔 (Betye Saar) 的孙女，她制作了一系列陶瓷器皿——每一件都是对跨大西洋奴隶贸易期间带来的不同植物的颂歌——将园艺重新定义为一种抵抗行为。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/vessel
+> - The new vessel , the resort’s first since 1976, will be named the Meg Gilbert Crofton, president of Disney World from 2006 to 2013. `[例]`
+>   - 中译：这艘新船是该度假村自 1976 年以来的第一艘船，将被命名为梅格·吉尔伯特·克罗夫顿 (Meg Gilbert Crofton)，她曾于 2006 年至 2013 年担任迪士尼世界总裁。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/vessel
+> - That means some of the newest and largest vessels like Royal Caribbean’s Icon of the Seas – which will homeport there beginning in 2027 – can sail from there. `[例]`
+>   - 中译：这意味着一些最新、最大的船只，例如皇家加勒比海图标号（从 2027 年开始将以该港为母港）可以从那里起航。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/vessel
 
 ---
 

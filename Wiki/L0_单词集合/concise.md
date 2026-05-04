@@ -127,9 +127,15 @@ con-(加强/一起) + -cise(切割) = concise（切到一起 → 切掉多余 �
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Please provide a concise summary of the main points discussed in the meeting." `[例]`
-> - "His writing style is remarkably concise, conveying complex ideas in just a few words." `[例]`
-> - "The report should be concise and to the point, avoiding unnecessary details." `[COCA-ACAD]`
+> - Make your answers clear and concise. `[例]`
+>   - 中译：让你的答案清晰简洁。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/concise
+> - She wrote up a concise summary of the day’s events. `[例]`
+>   - 中译：她对当天发生的事情进行了简要的总结。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/concise
+> - She gave us clear and concise instructions. `[例]`
+>   - 中译：她给了我们清晰简洁的指示。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/concise
 
 ---
 

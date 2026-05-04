@@ -130,8 +130,15 @@ e-（=ex-，出，向外）+ 建议创建词根笔记 [[valu]]（价值，来自
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "We need to evaluate the effectiveness of the new teaching methods."（我们需要评估新教学方法的有效性。）——考研高频表达
-> - "The study attempts to evaluate the impact of social media on teenagers' mental health."（这项研究试图评估社交媒体对青少年心理健康的影响。）——考研高频表达
+> - It's impossible to evaluate these results without knowing more about the research methods employed. `[例]`
+>   - 中译：如果不了解更多所采用的研究方法，就不可能评估这些结果。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/evaluate
+> - We shall need to evaluate how the new material stands up to wear and tear. `[例]`
+>   - 中译：我们需要评估新材料的耐磨性。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/evaluate
+> - The effects of the drug on patients ' behaviour is extremely difficult to evaluate. `[例]`
+>   - 中译：药物对患者行为的影响极难评估。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/evaluate
 
 ---
 

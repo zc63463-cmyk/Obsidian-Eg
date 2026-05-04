@@ -138,9 +138,15 @@ ap-（=ad-，向，朝向）+ 建议创建词根笔记 [[preci]]（价格，价�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - But current studies are beginning to place greater emphasis on the conditions under which we forget, as its importance begins to be more appreciated. `[真题]`
-> - Most of all, these new adults must feel that they are respected and supported by a family that appreciates them. `[真题]`
-> - I would appreciate it if you could reply at your earliest convenience. `[例]`
+> - There's no point buying him expensive wines - he doesn't appreciate them. `[例]`
+>   - 中译：给他买昂贵的葡萄酒是没有意义的——他不欣赏它们。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/appreciate
+> - Any help you could give me would be greatly appreciated. `[例]`
+>   - 中译：您能给我的任何帮助将不胜感激。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/appreciate
+> - His visits were much appreciated by the boys. `[例]`
+>   - 中译：孩子们非常感谢他的来访。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/appreciate
 
 ---
 

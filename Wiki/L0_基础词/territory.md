@@ -132,9 +132,9 @@ terr-（土地，拉丁语 *terra*）+ -itory（名词后缀，表示场所/状�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The islands are recognized by Spain as being Portuguese territory." `[真题]`
-> - "The UN is sending aid to the occupied territories." `[真题]`
-> - "Greenland is an autonomous territory in the Kingdom of Denmark." `[真题]`
+> - The islands are recognized by Spain as being Portuguese territory. `[真题]`
+> - Greenland is an autonomous territory in the Kingdom of Denmark. `[真题]`
+> - They were parachuted deep into enemy territory. `[例]`
 
 
 ---

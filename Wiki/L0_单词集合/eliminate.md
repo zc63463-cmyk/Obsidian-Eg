@@ -129,10 +129,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "We need to eliminate poverty and hunger worldwide." `[COCA-ACAD]`
-> - "The team was eliminated from the tournament in the first round." `[COCA-ACAD]`
-> - "Technology has eliminated the need for many manual jobs." `[COCA-ACAD]`
-> - "She's trying to eliminate fatty foods from her diet." `[COCA-ACAD]`
+> - A move towards healthy eating could help eliminate heart disease. `[例]`
+>   - 中译：健康饮食有助于消除心脏病。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/eliminate
+> - We eliminated the possibility that it could have been an accident. `[例]`
+>   - 中译：我们排除了这可能是一次意外的可能性。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/eliminate
+> - The police eliminated him from their enquiries. `[例]`
+>   - 中译：警方将他排除在调查之外。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/eliminate
 
 ---
 

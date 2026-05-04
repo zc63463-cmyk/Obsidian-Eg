@@ -134,10 +134,15 @@ divid(分) + -end(名词后缀，表示结果) = dividend（分配后得到的�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The company announced a dividend of $0.23 per share." `[COCA-ACAD]`
-> - "His years of hard work finally paid dividends." `[COCA-ACAD]`
-> - "Profits are distributed to shareholders as dividends." `[COCA-ACAD]`
-> - "The peace dividend has not materialised despite military spending going down in most countries." `[COCA-ACAD]`
+> - Dividends will be sent to shareholders. `[例]`
+>   - 中译：股息将派发给股东。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/dividend
+> - In addition to their salary , employees receive a profit-related dividend. `[例]`
+>   - 中译：除了工资之外，员工还可以获得与利润相关的股息。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/dividend
+> - When you consider how much money the company made, it could have paid its shareholders a much higher dividend. `[例]`
+>   - 中译：当你考虑到公司赚了多少钱时，它本可以向股东支付更高的股息。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/dividend
 
 ---
 

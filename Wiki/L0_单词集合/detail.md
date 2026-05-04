@@ -130,9 +130,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She insisted on telling me every single detail of what they did to her in hospital . `[例]`
-> - A police officer took down the details of what happened . `[例]`
+> - She insisted on telling me every single detail of what they did to her in hospital. `[例]`
+>   - 中译：她坚持告诉我他们在医院对她所做的每一个细节。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/detail
+> - A police officer took down the details of what happened. `[例]`
+>   - 中译：一名警察记下了所发生事件的细节。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/detail
 > - I was just admiring the detail in the doll's house - even the tins of food have labels on them. `[例]`
+>   - 中译：我只是欣赏玩偶之家的细节 - 甚至连食物罐头都贴有标签。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/detail
 
 
 ---

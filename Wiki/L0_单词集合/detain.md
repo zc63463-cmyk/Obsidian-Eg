@@ -128,9 +128,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - A suspect has been detained by the police for questioning . `[例]`
-> - Several of the injured were detained overnight in hospital . `[例]`
+> - A suspect has been detained by the police for questioning. `[例]`
+>   - 中译：一名嫌疑人已被警方拘留审问。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/detain
+> - Several of the injured were detained overnight in hospital. `[例]`
+>   - 中译：几名伤者被留院过夜。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/detain
 > - I'm sorry I'm late - I was unavoidably detained. `[例]`
+>   - 中译：抱歉我迟到了——我不可避免地被拘留了。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/detain
 
 
 ---

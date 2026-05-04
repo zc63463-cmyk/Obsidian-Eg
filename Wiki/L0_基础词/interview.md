@@ -127,10 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - We're interviewing six candidates for the job. ` `[真题]`
-> - The reporter requested an exclusive interview with the minister. ` `[语料库]`
-> - She had an interview for a job with a publisher. ` `[语料库]`
-> - You can listen to the interview with the President if you watch the news tonight. ` `[语料库]`
+> - They are holding interviews for the post next week. `[例]`
+> - I had an interview for a job with a publisher. `[例]`
+> - In a television interview last night she denied she had any intention of resigning. `[例]`
 
 
 ---

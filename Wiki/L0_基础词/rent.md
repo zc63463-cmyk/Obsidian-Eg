@@ -132,9 +132,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Many young people cannot afford to pay the rent in big cities." `[真题]`
-> - "That means more Gen Zers are renting for longer, even as those costs creep higher and higher." `[语料库]`
-> - "I pay a higher rent than the other tenants because my room is bigger." `[语料库]`
+> - Many young people cannot afford to pay the rent in big cities. `[真题]`
+> - That means more Gen Zers are renting for longer, even as those costs creep higher and higher. `[例]`
+> - I pay a higher rent than the other tenants because my room is bigger. `[例]`
 
 
 ---

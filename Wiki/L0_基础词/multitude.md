@@ -126,9 +126,9 @@ multi-(许多，多) + -tude(名词后缀，表示状态/程度，源自拉丁�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The city has a multitude of problems , from homelessness to drugs and murder . `[例]`
+> - The city has a multitude of problems , from homelessness to drugs and murder. `[例]`
 > - He stepped out onto the balcony to address the multitude below. `[例]`
-> - She couldn't get through the multitude surrounding the stage . `[例]`
+> - She couldn't get through the multitude surrounding the stage. `[例]`
 
 
 ---

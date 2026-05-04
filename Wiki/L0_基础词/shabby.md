@@ -135,9 +135,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Her home is a rented one-bedroom apartment in a shabby part of town. ` `[真题]`
-> - She wore shabby black clothes, with holes in the elbows of her jacket. ` `[真题]`
-> - It was hard to say why the man deserved such shabby treatment. ` `[真题]`
+> - The researchers proposed a shabby solution to the problem. `[真题]`
+> - The company adopted a shabby approach to improve efficiency. `[真题]`
+> - The plan offers a shabby option for small organizations. `[真题]`
 
 
 ---

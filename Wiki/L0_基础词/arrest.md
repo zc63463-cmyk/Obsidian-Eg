@@ -130,9 +130,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - He was arrested when customs officers found drugs in his bag . `[例]`
-> - The police arrested her for drinking and driving . `[例]`
-> - The treatment has so far done little to arrest the spread of the cancer . `[例]`
+> - A man has been arrested in connection with the robbery. `[例]`
+>   - 中译：一名男子因涉嫌抢劫而被捕。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/arrest
+> - Two youths have since been arrested on suspicion of murder. `[例]`
+>   - 中译：两名青年因涉嫌谋杀被捕。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/arrest
+> - Police arrested three suspects. `[例]`
+>   - 中译：警方逮捕了三名嫌疑人。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/arrest
 
 
 ---

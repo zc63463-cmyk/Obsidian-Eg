@@ -131,9 +131,9 @@ pro-(向前/公开地) + [[test|test-]](作证，拉丁语 *testari*)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Protests have been made by many people who would be affected by the proposed changes . `[例]`
-> - A formal protest was made by the German team about their disqualification from the relay final . `[例]`
-> - Conservation groups have united in protest against the planned new road . `[例]`
+> - Protests have been made by many people who would be affected by the proposed changes. `[例]`
+> - A formal protest was made by the German team about their disqualification from the relay final. `[例]`
+> - Conservation groups have united in protest against the planned new road. `[例]`
 
 
 ---

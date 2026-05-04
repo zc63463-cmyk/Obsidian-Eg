@@ -126,9 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The document was riddled with errors and inconsistencies that undermined its credibility. ` [真题]`
-> - The origin of the universe remains one of the greatest riddles of science. ` [真题]`
-> - His SUV was riddled with bullets, the windscreen shattered beyond recognition. ` [真题]`
+> - Scientists may have solved the riddle of Saturn's rings. `[例]`
+> - The anti-aircraft guns riddled the plane's wings with bullets. `[例]`
+> - Scholars have not completely solved the riddle of the sphinx. `[例]`
 
 
 ---

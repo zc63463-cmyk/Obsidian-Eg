@@ -133,10 +133,15 @@ di-(分开，不同) + vers(转) + -e = diverse（转向不同方向的）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Los Angeles is a culturally diverse city." `[COCA-ACAD]`
-> - "We hold very diverse views on the topic." `[COCA-ACAD]`
-> - "There is a diverse range of opinion on the issue." `[COCA-ACAD]`
-> - "Members of the largest and most diverse phylum of animals have segmented bodies and an external skeleton." `[COCA-ACAD]`
+> - Students from countries as diverse as Colombia and Lithuania use Cambridge textbooks. `[例]`
+>   - 中译：来自哥伦比亚和立陶宛等不同国家的学生使用剑桥教科书。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/diverse
+> - New York is a very culturally diverse city. `[例]`
+>   - 中译：纽约是一座文化非常多元化的城市。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/diverse
+> - I find it stimulating to live in such an ethnically diverse part of town. `[例]`
+>   - 中译：我发现生活在城镇这样一个种族多元化的地区很刺激。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/diverse
 
 ---
 

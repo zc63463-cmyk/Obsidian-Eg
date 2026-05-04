@@ -120,8 +120,8 @@ million(百万，源自意大利语 *millione*) + -aire(名词后缀，表"做�
 
 > [!example]- 语料
 > - A self-made millionaire, he pursued new passions such as learning to fly as well as his old love of taking cars to pieces. `[真题]`
-> - His catering business made him a millionaire at 41. `[真题]`
 > - Not all millionaires live a luxurious lifestyle. `[真题]`
+> - You want me to buy you a new car - do you think I'm a millionaire? `[例]`
 
 
 ---

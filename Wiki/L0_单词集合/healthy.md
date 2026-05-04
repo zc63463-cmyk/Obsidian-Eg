@@ -131,7 +131,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Maintaining a healthy work-life balance has become increasingly important in modern society.（在现代社会中，保持健康的工作与生活平衡变得越来越重要。）
+> - She's a normal , healthy child. `[例]`
+>   - 中译：她是一个正常、健康的孩子。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/healthy
+> - He looks healthy enough. `[例]`
+>   - 中译：他看起来很健康。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/healthy
+> - The walk had given her a healthy glow. `[例]`
+>   - 中译：这次散步让她焕发健康的光彩。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/healthy
 
 ---
 

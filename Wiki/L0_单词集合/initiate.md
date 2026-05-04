@@ -127,10 +127,15 @@ in-(进入) + [[it]](走/行走) + -i- + -ate(动词后缀，使……)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Hague initiated a series of reforms of the Conservative Republican Party." `[真题]`
-> - "The company initiated judicial proceedings against them." `[COCA-ACAD]`
-> - "Doctors have initiated a series of tests to determine the cause of the problem." `[COCA-ACAD]`
-> - "The council initiates its own studies and carries out research at the request of private organizations." `[COCA-ACAD]`
+> - Who initiated the violence? `[例]`
+>   - 中译：暴力事件是谁发起的？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/initiate
+> - Hague initiated a series of reforms of the Conservative Party. `[例]`
+>   - 中译：海牙发起了保守党的一系列改革。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/initiate
+> - Some of the orders are initiated directly on the trading floor. `[例]`
+>   - 中译：有些订单是直接在交易大厅发起的。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/initiate
 ---
 
 

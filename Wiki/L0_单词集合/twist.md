@@ -129,9 +129,15 @@ twist 为日耳曼语族本族词，与古英语 twā（二）有关，暗示"�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The path twists and turns for over a mile . `[例]`
-> - She sat there nervously twisting the ring around on her finger . `[例]`
-> - She twisted her head (round) so she could see what was happening . `[例]`
+> - Her hair was twisted into a knot on top of her head. `[例]`
+>   - 中译：她的头发在头顶上盘成一个结。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/twist
+> - He grabbed me and twisted my arm behind my back. `[例]`
+>   - 中译：他抓住我，把我的手臂扭到背后。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/twist
+> - Her face twisted in anger. `[例]`
+>   - 中译：她的脸因愤怒而扭曲。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/twist
 
 ---
 

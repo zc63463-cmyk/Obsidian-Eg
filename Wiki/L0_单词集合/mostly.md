@@ -125,8 +125,15 @@ most(最多/最大) + -ly(副词后缀) = mostly（最大程度地→主要地�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The students in the program are mostly from developing countries in Asia and Africa."（该项目中的学生主要来自亚洲和非洲的发展中国家。）——考研高频表达
-> - "The decline in the population of the species is mostly due to habitat loss and illegal hunting."（该物种种群数量的下降主要是由于栖息地丧失和非法狩猎。）——考研高频表达
+> - In the smaller towns , it's mostly (= usually) very quiet at nights. `[例]`
+>   - 中译：在较小的城镇，晚上大多（=通常）非常安静。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/mostly
+> - The band are mostly (= most of them are) teenagers. `[例]`
+>   - 中译：乐队大部分都是青少年。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/mostly
+> - After leaving school , she spent a year travelling , mostly in Africa and Asia. `[例]`
+>   - 中译：离开学校后，她花了一年的时间旅行，主要是在非洲和亚洲。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/mostly
 ---
 
 

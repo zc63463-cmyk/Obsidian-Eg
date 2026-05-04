@@ -128,9 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Heroin is obtained from morphine and is extremely addictive . `[例]`
+> - Heroin is obtained from morphine and is extremely addictive. `[例]`
 > - The girls were duped by drug smugglers into carrying heroin for them. `[例]`
-> - He was arrested at the airport with a kilo of heroin secreted in his clothing . `[例]`
+> - He was arrested at the airport with a kilo of heroin secreted in his clothing. `[例]`
 
 
 ---

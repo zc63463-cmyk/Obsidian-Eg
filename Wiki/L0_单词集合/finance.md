@@ -136,10 +136,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "finance the construction of infrastructure"（为基础设施建设提供资金）——考研阅读经济类话题高频搭配
-> - "the global financial crisis"（全球金融危机）——考研阅读/翻译高频表达
-> - "personal finances are under pressure"（个人财务状况承压）——社会类阅读常见表达
-> - "the ministry of finance announced new policies"（财政部宣布新政策）——政经类阅读常见搭配
+> - The finance committee controls the school's budget. `[例]`
+>   - 中译：财务委员会控制学校的预算。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/finance
+> - We keep a tight control on the organization's finances. `[例]`
+>   - 中译：我们严格控制组织的财务。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/finance
+> - He turned down a job in the finance division. `[例]`
+>   - 中译：他拒绝了财务部门的工作。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/finance
 
 ---
 

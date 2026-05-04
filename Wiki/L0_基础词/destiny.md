@@ -124,8 +124,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The destiny of our nation depends on this vote ! `[例]`
-> - She felt that her destiny had been shaped by her gender . `[例]`
+> - The destiny of our nation depends on this vote! `[例]`
+> - She felt that her destiny had been shaped by her gender. `[例]`
 > - He is a tragic victim of destiny. `[例]`
 
 

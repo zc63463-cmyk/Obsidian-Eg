@@ -3,10 +3,8 @@ title: "aggressiveness"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 人本世界
 prototype: 走向前的程度（向前推进的强度）
@@ -43,7 +41,7 @@ ag-(=ad-, 朝向) + gress(走，步) + -ive(倾向) + -ness(名词后缀)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**走向前的程度**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **走向前**（行为层面）
@@ -64,7 +62,7 @@ ag-(=ad-, 朝向) + gress(走，步) + -ive(倾向) + -ness(名词后缀)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ ag-(=ad-, 朝向) + gress(走，步) + -ive(倾向) + -ness(名词后缀)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > ag（朝向）+ gress（走）→ 走向别人 → 攻击。gress 就是"走"（如 progress 向前走→进步，congress 一起走→国会）。aggressiveness 就是"走向别人的程度"——在商业上是进取心，在冲突中是攻击性。
@@ -86,7 +84,7 @@ ag-(=ad-, 朝向) + gress(走，步) + -ive(倾向) + -ness(名词后缀)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -98,13 +96,13 @@ ag-(=ad-, 朝向) + gress(走，步) + -ive(倾向) + -ness(名词后缀)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[timidity]]：胆怯
 > - [[passivity]]：被动
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,27 +116,20 @@ ag-(=ad-, 朝向) + gress(走，步) + -ive(倾向) + -ness(名词后缀)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **verbal aggressiveness**：言语攻击性
 > - **market/business aggressiveness**：市场/商业进取心
 > - **male aggressiveness**：男性攻击性
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - Research has shown that childhood aggressiveness can be a predictor of adult behavioral problems. `[例]`
 > - The company's market aggressiveness allowed it to capture a significant share of the industry within just two years. `[例]`
 > - Excessive verbal aggressiveness in the workplace can lead to a toxic organizational culture. `[例]`
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
-
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

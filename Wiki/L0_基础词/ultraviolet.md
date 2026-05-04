@@ -124,8 +124,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Prolonged exposure to ultraviolet radiation can increase the risk of skin cancer."（长期暴露在紫外线辐射下会增加患皮肤癌的风险——考研阅读健康/科学话题常见表达）
-> - "The ozone layer protects the Earth from harmful ultraviolet rays from the sun."（臭氧层保护地球免受太阳有害紫外线的伤害——考研阅读环境话题常见表达）
+> - The researchers proposed a ultraviolet solution to the problem. `[例]`
+> - The company adopted a ultraviolet approach to improve efficiency. `[例]`
+> - The plan offers a ultraviolet option for small organizations. `[例]`
 
 
 ---

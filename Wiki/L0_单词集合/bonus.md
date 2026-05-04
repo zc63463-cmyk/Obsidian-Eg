@@ -123,9 +123,15 @@ bonus（拉丁语"好的"，源自 bon-us"好"，与 [[bene]] 同源）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Good weather is an added bonus but the real appeal of the area is the fantastic variety of landscape. `[真题]`
-> - The new contract gives workers less salary, but bonuses for hitting efficiency and sales targets. `[真题]`
-> - Employees received a performance bonus at the end of the year. `[例]`
+> - The company used to give discretionary bonus payments. `[例]`
+>   - 中译：公司过去常常给予酌情奖金。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/bonus
+> - I love the job , and it's an added bonus that it's so close to home. `[例]`
+>   - 中译：我喜欢这份工作，而且离家很近，这是一个额外的好处。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/bonus
+> - The salary was set at £12,000, plus a bonus if the company had a good year. `[例]`
+>   - 中译：工资定为12,000英镑，如果公司业绩好的话还会有奖金。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/bonus
 ---
 
 

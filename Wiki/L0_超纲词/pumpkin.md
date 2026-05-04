@@ -3,10 +3,8 @@ title: "pumpkin"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-25
-mastery: L0
 word_freq: 超纲词
 semantic_field: 物品工具
 prototype: 南瓜（一种大型圆形橙色的瓜类蔬菜）
@@ -43,7 +41,7 @@ pumpkin 源自希腊语 *pepōn*（成熟的瓜），经由拉丁语 *peponem*�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**南瓜**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **南瓜**（具体事物层面）
@@ -64,7 +62,7 @@ pumpkin 源自希腊语 *pepōn*（成熟的瓜），经由拉丁语 *peponem*�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ pumpkin 源自希腊语 *pepōn*（成熟的瓜），经由拉丁语 *peponem*�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > pumpkin 来自希腊语 pepōn（成熟的瓜），因为南瓜是秋天成熟的"大瓜"。万圣节刻南瓜灯，感恩节吃南瓜派，南瓜是秋天最标志性的食物。因为南瓜圆圆的、橙色的、温暖的，美国人用 pumpkin 称呼心爱的人——"你是我甜甜的小南瓜"。
@@ -86,7 +84,7 @@ pumpkin 源自希腊语 *pepōn*（成熟的瓜），经由拉丁语 *peponem*�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -98,12 +96,12 @@ pumpkin 源自希腊语 *pepōn*（成熟的瓜），经由拉丁语 *peponem*�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - （无精确反义词，pumpkin 为具体事物名词）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -113,7 +111,7 @@ pumpkin 源自希腊语 *pepōn*（成熟的瓜），经由拉丁语 *peponem*�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **pumpkin pie**：南瓜派（感恩节传统食品）
 > - **pumpkin patch**：南瓜地（秋天去摘南瓜的地方）
 > - **Jack-o'-lantern**：南瓜灯（万圣节刻脸的南瓜）
@@ -121,19 +119,12 @@ pumpkin 源自希腊语 *pepōn*（成熟的瓜），经由拉丁语 *peponem*�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - Pumpkin pie is a traditional American dish served on Thanksgiving. `[例]`
 > - Larger plates might include venison wrapped in chicken mousse (a nod to the Japanese sando), or pumpkin steeped in bacon dashi. `[例]`
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-25 | **复习次数**：0 | **当前等级**：L0
-
----
-
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

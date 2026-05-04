@@ -133,10 +133,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The government should adopt policies that promote sustained economic growth and reduce income inequality." `[COCA-ACAD]`
-> - "The global economic crisis of 2008 had far-reaching consequences for financial markets worldwide." `[COCA-ACAD]`
-> - "Lax economic policy distorted the price system and the intertemporal allocation of resources." `[COCA-ACAD]`
-> - "This has been due to both population growth and the profitability of rice cultivation in comparison with other crops." `[COCA-ACAD]`
+> - The country has been in a very poor economic state ever since the decline of its two major industries. `[例]`
+>   - 中译：自从两大产业衰退以来，该国的经济状况一直非常糟糕。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/economic
+> - The government's economic policies have led us into the worst recession in years. `[例]`
+>   - 中译：政府的经济政策使我们陷入多年来最严重的衰退。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/economic
+> - I don't think we should expand our business in the current economic climate. `[例]`
+>   - 中译：我认为在当前的经济形势下我们不应该扩大我们的业务。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/economic
 
 ---
 

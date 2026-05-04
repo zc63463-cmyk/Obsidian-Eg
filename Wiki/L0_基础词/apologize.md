@@ -125,9 +125,15 @@ apo-(离开/远离) + [[log-logy|log]](说话，词根 [[lect-leg|leg-/log-]]) +
 ## 真题/语料关联
 
 > [!example]- 语料
-> - I must apologize to Isobel for my lateness . `[例]`
-> - Trains may be subject to delay - we apologize for any inconvenience caused . `[例]`
-> - She apologized profusely for having to leave at 3.30 p.m. `[例]`
+> - Why should I apologize? `[例]`
+>   - 中译：我为什么要道歉？
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/apologize
+> - He wanted to publicly apologize to his victims. `[例]`
+>   - 中译：他想向受害者公开道歉。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/apologize
+> - I want to apologize publicly on his behalf to those who have suffered. `[例]`
+>   - 中译：我想代表他向那些遭受苦难的人公开道歉。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/apologize
 
 
 ---

@@ -129,10 +129,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The Queen greeted the crowd with a gracious smile." `[真题]`
-> - "She is a lovely and gracious woman." `[剑桥词典]`
-> - "Simon was gracious in defeat, but he couldn't mask the disappointment he felt." `[WordHippo语料库]`
-> - "Good gracious, that was close!" `[剑桥词典]`
+> - The Queen greeted the crowd with a gracious smile. `[真题]`
+> - She is a lovely and gracious woman. `[例]`
+> - Simon was gracious in defeat, but he couldn't mask the disappointment he felt. `[例]`
+> - Good gracious, that was close! `[例]`
 
 
 ---

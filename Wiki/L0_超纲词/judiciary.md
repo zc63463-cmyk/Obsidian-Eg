@@ -3,10 +3,8 @@ title: "judiciary"
 tags:
   - 学习/英语/词汇
   - 语义场/政治法律
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 政治法律
 prototype: 与审判和司法相关的
@@ -44,7 +42,7 @@ jud(=judic, 审判/法律，拉丁语 *judex*) + -i- + -ary(与……有关的)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**与审判和司法相关的**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **与审判相关的**（制度层面）
@@ -67,7 +65,7 @@ jud(=judic, 审判/法律，拉丁语 *judex*) + -i- + -ary(与……有关的)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ jud(=judic, 审判/法律，拉丁语 *judex*) + -i- + -ary(与……有关的)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > jud（审判）→ judge（法官）→ judiciary（司法系统）。judge 是一个人，judiciary 是整个系统。三权分立中，legislature 立法，executive 行政，judiciary 司法——judiciary 就是"审判的那一权"。
@@ -90,7 +88,7 @@ jud(=judic, 审判/法律，拉丁语 *judex*) + -i- + -ary(与……有关的)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +100,13 @@ jud(=judic, 审判/法律，拉丁语 *judex*) + -i- + -ary(与……有关的)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[legislature]]：立法机关（judiciary 的反义：司法↔立法）
 > - [[executive]]：行政机关（judiciary 的反义：司法↔行政）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,7 +119,7 @@ jud(=judic, 审判/法律，拉丁语 *judex*) + -i- + -ary(与……有关的)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **an independent judiciary**：独立的司法系统
 > - **the judiciary**：司法界（总称）
 > - **judiciary committee**：司法委员会
@@ -129,19 +127,12 @@ jud(=judic, 审判/法律，拉丁语 *judex*) + -i- + -ary(与……有关的)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - An independent judiciary is essential for the rule of law. `[例]`
 > - The judiciary has the power to interpret laws and determine their constitutionality. `[例]`
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
-
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

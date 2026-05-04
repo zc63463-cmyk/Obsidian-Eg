@@ -137,9 +137,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - As the cost of living continues to rise, many families are struggling to make ends meet. `[COCA-NEWS]`
-> - The report is regarded as a landmark study in the field. `[COCA-ACAD]`
-> - She works as a waitress to support herself through college. `[COCA-SPOKEN]`
+> - They were all dressed as clowns. `[例]`
+>   - 中译：他们都打扮得像小丑。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/as
+> - The bomb was disguised as a package. `[例]`
+>   - 中译：炸弹被伪装成一个包裹。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/as
+> - She works as a courier. `[例]`
+>   - 中译：她是一名快递员。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/as
 
 
 ---

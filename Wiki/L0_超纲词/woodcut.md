@@ -3,10 +3,8 @@ title: "woodcut"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-25
-mastery: L0
 word_freq: 超纲词
 semantic_field: 物品工具
 prototype: 在木头上雕刻的图案
@@ -43,7 +41,7 @@ wood（木头，古英语 *wudu*）+ cut（切割，古英语 *cyttan*）
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**在木头上雕刻的图案**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **在木头上雕刻的图案**（物理层面）
@@ -64,7 +62,7 @@ wood（木头，古英语 *wudu*）+ cut（切割，古英语 *cyttan*）
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ wood（木头，古英语 *wudu*）+ cut（切割，古英语 *cyttan*）
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > wood（木头）+ cut（切割）= woodcut（木刻版画）。想象中国古代的雕版印刷术——匠人在木板上反刻文字和图案，涂墨后压在纸上。每一刀 cut 都在 wood 上留下痕迹，最终成为一幅精美的 woodcut。日本浮世绘也是 woodcut 的经典形式。
@@ -86,7 +84,7 @@ wood（木头，古英语 *wudu*）+ cut（切割，古英语 *cyttan*）
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,12 +97,12 @@ wood（木头，古英语 *wudu*）+ cut（切割，古英语 *cyttan*）
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - woodcut 作为艺术形式，无直接反义词。可在"印刷方式"维度上与 [[digital_print]]（数码印刷）形成对比
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -115,7 +113,7 @@ wood（木头，古英语 *wudu*）+ cut（切割，古英语 *cyttan*）
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **Japanese woodcuts**：日本木刻版画（浮世绘）
 > - **a fine woodcut**：一幅精美的木刻版画
 > - **woodcut print**：木刻印刷品
@@ -123,19 +121,12 @@ wood（木头，古英语 *wudu*）+ cut（切割，古英语 *cyttan*）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - Long ago, woodcuts were used by printers for illustrations . `[例]`
+> [!example]- 语料
+> - Long ago, woodcuts were used by printers for illustrations. `[例]`
 > - A collection of fine woodcuts. `[例]`
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-25 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

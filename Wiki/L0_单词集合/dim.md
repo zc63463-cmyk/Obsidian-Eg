@@ -125,9 +125,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - He sat in a dim corner of the waiting room . `[例]`
-> - We could see a dim (= not easily seen ) shape in the fog . `[例]`
+> - He sat in a dim corner of the waiting room. `[例]`
+>   - 中译：他坐在候诊室一个昏暗的角落里。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/dim
+> - We could see a dim (= not easily seen ) shape in the fog. `[例]`
+>   - 中译：我们可以在雾中看到一个暗淡的（=不容易看到的）形状。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/dim
 > - I had a dim recollection of having met her before. `[例]`
+>   - 中译：我依稀记得以前见过她。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/dim
 
 ---
 

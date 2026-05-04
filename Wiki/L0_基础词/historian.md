@@ -126,7 +126,7 @@ review_count: 0
 
 > [!example]- 语料
 > - Her father was an eminent historian. `[例]`
-> - This is the acclaimed historian John Taylor's first sortie into fiction . `[例]`
+> - This is the acclaimed historian John Taylor's first sortie into fiction. `[例]`
 > - Some historians think that history repeats itself. `[例]`
 
 

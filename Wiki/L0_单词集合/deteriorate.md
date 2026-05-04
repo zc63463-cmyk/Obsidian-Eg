@@ -132,8 +132,14 @@ review_count: 0
 
 > [!example]- 语料
 > - She was taken into hospital last week when her condition suddenly deteriorated. `[例]`
-> - The political situation in the region has deteriorated rapidly . `[例]`
-> - If the economy continues to deteriorate, it will affect the firm's future performance . `[例]`
+>   - 中译：上周，她的病情突然恶化，被送往医院。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/deteriorate
+> - The political situation in the region has deteriorated rapidly. `[例]`
+>   - 中译：该地区的政治局势迅速恶化。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/deteriorate
+> - We could see his health deteriorating week by week. `[例]`
+>   - 中译：我们可以看到他的健康状况逐周恶化。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/deteriorate
 
 ---
 

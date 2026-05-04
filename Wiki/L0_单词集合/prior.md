@@ -134,9 +134,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The course required no prior knowledge of Spanish . `[例]`
-> - They had to refuse the dinner invitation because of a prior engagement (= something already planned for that time ) . `[例]`
-> - The weeks prior to her death. `[例]`
+> - The course required no prior knowledge of Spanish. `[例]`
+>   - 中译：该课程不需要西班牙语基础知识。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/prior
+> - They had to refuse the dinner invitation because of a prior engagement (= something already planned for that time ). `[例]`
+>   - 中译：由于事先有约定（=当时已经计划好的事情），他们不得不拒绝晚宴邀请。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/prior
+> - You can only withdraw money from this account by prior arrangement with the bank. `[例]`
+>   - 中译：您只能在事先与银行安排的情况下从该账户提取资金。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/prior
 ---
 
 

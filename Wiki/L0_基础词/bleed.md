@@ -128,9 +128,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Your arm is bleeding. `[例]`
-> - He was bleeding heavily . `[例]`
-> - Avoid slow-drying ink because the colours tend to bleed into one another before they've dried . `[例]`
+> - He was bleeding from a gash on his head. `[例]`
+>   - 中译：他头上有一道伤口，正在流血。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bleed
+> - The small blood vessels in the nose bleed easily. `[例]`
+>   - 中译：鼻子里的小血管很容易流血。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bleed
+> - The company seems intent on bleeding us for every penny we have. `[例]`
+>   - 中译：该公司似乎一心要榨干我们的每一分钱。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bleed
 
 
 ---

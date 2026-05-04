@@ -129,9 +129,15 @@ vote 源自拉丁语 votum（誓言、许愿），与 vow（发誓）同源。
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The state L egislature recently · voted against a bill that would've made it illegal for towns to create legislation restricting short-term rentals. `[真题]`
-> - She was too young to vote in the election . `[例]`
-> - The committee voted on the proposal , and accepted it unanimously . `[例]`
+> - You can cast your vote at the local polling station. `[例]`
+>   - 中译：您可以在当地投票站投票。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/vote
+> - He took 53% of the votes in the election. `[例]`
+>   - 中译：他在选举中获得了53%的选票。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/vote
+> - They've started opening the ballot boxes and counting the votes. `[例]`
+>   - 中译：他们已经开始打开投票箱并计票。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/vote
 
 ---
 

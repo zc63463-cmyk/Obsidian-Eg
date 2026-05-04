@@ -136,8 +136,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "This same absence of moral purpose was wounding companies such as News International."（同样缺乏道德目标正在伤害新闻国际等公司。）——2015年考研英语阅读
-> - "He was not interested in daily politics, but concerned with questions of moral behavior and the larger questions of right and wrong affecting the entire society."（他对日常政治不感兴趣，但关心道德行为的问题以及影响整个社会的更大的是非问题。）——考研阅读真题
+> - It's her moral obligation to tell the police what she knows. `[例]`
+>   - 中译：将她所知道的情况告诉警察是她的道德义务。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/moral
+> - It is not part of a novelist's job to make a moral judgment. `[例]`
+>   - 中译：做出道德判断并不是小说家的工作内容。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/moral
+> - She was the only politician to condemn the proposed law on moral grounds (= for moral reasons ). `[例]`
+>   - 中译：她是唯一一位基于道德理由（=出于道德原因）谴责拟议法律的政治家。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/moral
 
 ---
 

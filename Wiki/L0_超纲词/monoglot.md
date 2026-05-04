@@ -3,10 +3,8 @@ title: "monoglot"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 人本世界
 prototype: 只会说一种语言的人
@@ -44,7 +42,7 @@ mono-(单一，希腊语 *monos*) + glot(舌/语言，希腊语 *glōtta*)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**只会一种语言**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **只会一种语言**（语言层面）
@@ -65,7 +63,7 @@ mono-(单一，希腊语 *monos*) + glot(舌/语言，希腊语 *glōtta*)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ mono-(单一，希腊语 *monos*) + glot(舌/语言，希腊语 *glōtta*)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > mono（一）+ glot（语言/舌头）= monoglot（单语的）。对比记忆：polyglot（多语者，poly=多），bilingual（双语者，bi=二），monoglot（单语者，mono=一）。大多数英国人和美国人是 monoglot，而欧洲人更可能是 bilingual 或 polyglot。
@@ -88,7 +86,7 @@ mono-(单一，希腊语 *monos*) + glot(舌/语言，希腊语 *glōtta*)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,14 +97,14 @@ mono-(单一，希腊语 *monos*) + glot(舌/语言，希腊语 *glōtta*)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[polyglot]]：多语者（monoglot 的精确反义：单语↔多语）
 - [[bilingual]]：双语者（monoglot 的反义：单语↔双语）
 - [[multilingual]]：多语的（monoglot 的反义：单语↔多语）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,25 +116,18 @@ mono-(单一，希腊语 *monos*) + glot(舌/语言，希腊语 *glōtta*)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a monoglot society**：一个单语社会
 > - **monoglot speakers**：单语使用者
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - Growing numbers of English-language courses have helped to entice monoglot Britons abroad. `[例]`
 > - As a monoglot, he found it difficult to communicate with the locals. `[例]`
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
-
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

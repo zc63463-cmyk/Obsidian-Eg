@@ -132,9 +132,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - An unexpected turn of events. `[例]`
-> - Her resignation was completely unexpected. `[例]`
-> - How lovely to see you here - this really is an unexpected pleasure ! `[例]`
+> - Things took an unexpected turn. `[例]`
+>   - 中译：事情发生了意想不到的转变。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/unexpected
+> - The news was disappointing but not unexpected. `[例]`
+>   - 中译：这个消息令人失望，但并不意外。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/unexpected
+> - The film has some unexpected twists. `[例]`
+>   - 中译：这部电影有一些意想不到的曲折。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/unexpected
 
 ---
 

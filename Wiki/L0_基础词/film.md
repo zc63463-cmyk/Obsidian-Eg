@@ -131,7 +131,7 @@ film 源自古英语 *filmen*，意为"薄膜、皮"，与 [[fill]]（填满）�
 
 > [!example]- 语料
 > - What's your favourite film? `[例]`
-> - Her last film was shot (= made) on location in South America . `[例]`
+> - Her last film was shot (= made) on location in South America. `[例]`
 > - I hate people talking while I'm watching a film. `[例]`
 
 

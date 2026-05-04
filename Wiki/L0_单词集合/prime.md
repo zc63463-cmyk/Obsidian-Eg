@@ -137,9 +137,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - This is a prime example of 1930s architecture . `[例]`
-> - The president is a prime (= likely ) target for the assassin's bullet . `[例]`
-> - The hotel is in a prime location in the city centre . `[例]`
+> - This is a prime example of 1930s architecture. `[例]`
+>   - 中译：这是 20 世纪 30 年代建筑的一个典型例子。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/prime
+> - The president is a prime (= likely ) target for the assassin's bullet. `[例]`
+>   - 中译：总统是刺客子弹的主要（=可能）目标。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/prime
+> - The hotel is in a prime location in the city centre. `[例]`
+>   - 中译：酒店位于市中心的黄金地段。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/prime
 
 ---
 

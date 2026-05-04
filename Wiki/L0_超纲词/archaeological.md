@@ -3,10 +3,8 @@ title: "archaeological"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 社会专业
 prototype: 考古学的（研究古代遗迹的学问）
@@ -43,7 +41,7 @@ arch(古代的，原始的，希腊语 *archaios*) + aeol(=logy, 学科/研究) 
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**研究古代起源的学问**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **研究古代的**（学术层面）
@@ -64,7 +62,7 @@ arch(古代的，原始的，希腊语 *archaios*) + aeol(=logy, 学科/研究) 
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ arch(古代的，原始的，希腊语 *archaios*) + aeol(=logy, 学科/研究) 
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > archaeology = archaeo（古代的）+ logy（学科）= 考古学。archaeological 就是它的形容词形式。arch- 这个前缀在很多词中出现：architecture（建筑——古代的技艺），archives（档案——古代的记录）。记住 arch = 古代的，archaeological 就是"关于古代的学问的"。
@@ -86,7 +84,7 @@ arch(古代的，原始的，希腊语 *archaios*) + aeol(=logy, 学科/研究) 
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -98,13 +96,13 @@ arch(古代的，原始的，希腊语 *archaios*) + aeol(=logy, 学科/研究) 
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[modern]]：现代的（archaeological 的反义：古代的↔现代的）
 > - [[futuristic]]：未来主义的（archaeological 的反义：研究过去↔面向未来）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -116,7 +114,7 @@ arch(古代的，原始的，希腊语 *archaios*) + aeol(=logy, 学科/研究) 
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **archaeological site/ruins**：考古遗址
 > - **archaeological evidence/discovery**：考古证据/发现
 > - **archaeological dig/excavation**：考古发掘
@@ -124,19 +122,12 @@ arch(古代的，原始的，希腊语 *archaios*) + aeol(=logy, 学科/研究) 
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - Recent archaeological discoveries in Egypt have shed new light on ancient burial practices.`[例]`
-> - The archaeological evidence suggests that the settlement dates back to the Neolithic period.`[例]`
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
+> [!example]- 语料
+> - Recent archaeological discoveries in Egypt have shed new light on ancient burial practices. `[例]`
+> - The archaeological evidence suggests that the settlement dates back to the Neolithic period. `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

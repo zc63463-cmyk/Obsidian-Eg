@@ -128,9 +128,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The bill mentioned in Paragraph 2 was intended to __ _ A. curb short-term rental speculation B. ensure the supply of cheap housing C. punish illegal dealings in housing D. allow a free short-term rental market 28. `[真题]`
-> - The government should act to curb tax evasion . `[例]`
-> - She stood on the curb and waited until the light turned green to cross the street . `[例]`
+> - He needs to learn to curb his temper. `[例]`
+>   - 中译：他需要学会克制自己的脾气。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/curb
+> - We sat on the curb eating our ice cream. `[例]`
+>   - 中译：我们坐在路边吃冰淇淋。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/curb
+> - The legislation is intended to curb price and wage increases. `[例]`
+>   - 中译：该立法旨在抑制物价和工资上涨。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/curb
 
 
 ---

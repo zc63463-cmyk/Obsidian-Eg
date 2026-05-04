@@ -132,9 +132,15 @@ ad-(=to, 朝向，见 [[ad]]) + [[ver-vert|vert]](=转，拉丁语 *vertere*，�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - For example, AI can be used to analyse what type of advertising content or copy would be appropriate to 'speak' to a specific target customer group by revealing information about trends and preferences through the analysis of big data. ( 46) AI can also be used to identify the lifestyle choices of customers regarding their hobbies, favourite celebrities, music choices, and fashions to provide unique content in marketing messages put out through social media. `[真题]`
-> - We advertised our car in the local newspaper . `[例]`
-> - He advertises his services on the company notice board . `[例]`
+> - If you want to attract customers you need to advertise. `[例]`
+>   - 中译：如果你想吸引顾客，你就需要做广告。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/advertise
+> - I bought the camera and case as advertised in the catalogue. `[例]`
+>   - 中译：我按照目录中的广告购买了相机和保护壳。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/advertise
+> - The cruise was advertised as the ‘journey of a lifetime’. `[例]`
+>   - 中译：这次巡游被宣传为“一生难忘的旅程”。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/advertise
 
 
 ---

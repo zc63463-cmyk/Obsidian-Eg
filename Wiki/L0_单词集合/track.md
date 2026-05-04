@@ -142,9 +142,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Passengers are requested not to walk across the tracks. `[例]`
-> - The runners are now on their final lap of the track. `[例]`
-> - Sam runs track on the high school team . `[例]`
+> - India has thousands of miles of track. `[例]`
+>   - 中译：印度有数千英里的铁路。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/track
+> - Many branch lines were closed, and the tracks lifted. `[例]`
+>   - 中译：许多支线被关闭，铁轨被抬起。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/track
+> - He loves sports and participates in track and basketball. `[例]`
+>   - 中译：他热爱运动，参加田径和篮球运动。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/track
 
 ---
 

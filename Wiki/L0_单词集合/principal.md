@@ -136,9 +136,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Iraq's principal export is oil . `[例]`
+> - Iraq's principal export is oil. `[例]`
+>   - 中译：伊拉克的主要出口产品是石油。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/principal
 > - He was principal dancer at the Dance Theatre of Harlem. `[例]`
-> - That was my principal reason for moving . `[例]`
+>   - 中译：他是哈莱姆舞蹈剧院的首席舞者。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/principal
+> - That was my principal reason for moving. `[例]`
+>   - 中译：这是我搬家的主要原因。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/principal
 
 ---
 

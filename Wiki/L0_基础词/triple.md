@@ -126,9 +126,9 @@ tri-（三，前缀）+ -ple（倍，源自拉丁语 *plus*）。tri- 源自拉�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Her trainer is a triple Olympic champion . `[例]`
-> - There's a triple bill of Hitchcock films (= three films ) on at the cinema next Sunday . `[例]`
-> - A mazurka is a lively folk dance in triple time . `[例]`
+> - Her trainer is a triple Olympic champion. `[例]`
+> - There's a triple bill of Hitchcock films (= three films ) on at the cinema next Sunday. `[例]`
+> - A mazurka is a lively folk dance in triple time. `[例]`
 
 
 ---

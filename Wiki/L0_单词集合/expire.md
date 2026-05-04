@@ -127,8 +127,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "While these measures would be welcome in the short term, we must face up to the fact that the existing programme of grants to fund new affordable housing, set to expire in 2015, is unlikely to be extended beyond then."（虽然这些措施在短期内会受到欢迎，但我们必须面对这样一个事实：现有的资助新经济适用房的拨款计划将于2015年到期，不太可能延长——2014年考研英语二Text 4）
-> - "But an array of countries are rushing to assert greater influence here, with an eye not just towards the day those protective treaties expire, but also for the strategic and commercial opportunities that already exist."（许多国家正急于在此确立更大的影响力，不仅着眼于那些保护性条约到期的日子，也着眼于已经存在的战略和商业机会——考研高频表达）
+> - My passport expires next month. `[例]`
+>   - 中译：我的护照下个月到期。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/expire
+> - The contract between the two companies will expire at the end of the year. `[例]`
+>   - 中译：两家公司之间的合同将于今年年底到期。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/expire
+> - In 1936 the last Tasmanian tiger breathed its final breath and expired in a zoo in Hobart. `[例]`
+>   - 中译：1936 年，最后一只塔斯马尼亚虎在霍巴特的一家动物园里咽下了最后一口气。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/expire
 
 
 ---

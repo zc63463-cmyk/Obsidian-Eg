@@ -128,10 +128,15 @@ soph（建议创建词根笔记 [[soph]]，含义：智慧、聪明）+ -ist（�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - I think a more sophisticated approach is needed to solve this problem. `[COCA-ACAD]`
-> - These are among the most sophisticated weapons in the world. `[COCA-NEWS]`
-> - Today's sophisticated consumers demand higher quality products. `[真题]`
-> - The company has developed sophisticated technology for data analysis. `[真题]`
+> - She was slim , svelte , and sophisticated. `[例]`
+>   - 中译：她身材苗条、苗条、精致。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/sophisticated
+> - I don't think I have any books that would suit your sophisticated tastes. `[例]`
+>   - 中译：我认为我没有任何书能满足您的高雅品味。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/sophisticated
+> - He was older than me and from London and I thought him very sophisticated. `[例]`
+>   - 中译：他比我年长，来自伦敦，我认为他很老练。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/sophisticated
 
 ---
 

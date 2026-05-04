@@ -126,8 +126,15 @@ ad-(=to, toward, 向、朝) + -d(=put, place, 放，源自拉丁语 dare 给予)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The new findings add to our understanding of how the brain processes language."（新发现增加了我们对大脑如何处理语言的理解。）——考研高频表达
-> - "The government should add more courses on digital literacy to the school curriculum."（政府应在学校课程中增加更多关于数字素养的课程。）——考研高频表达
+> - Recently, another expression of this predatory behavior has emerged: so-called support service consultancies that provide language and other editorial support to individual authors and to journals sometimes advise contributors to add a number of citations to their articles. `[真题]`
+>   - 中译：最近，这种掠夺行为的另一种表现形式出现了：所谓的支持服务咨询公司为个人作者和期刊提供语言和其他编辑支持，有时会建议撰稿人在他们的文章中添加大量引用。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - It's $45 - $50 if you add in the cost of postage. `[例]`
+>   - 中译：如果加上邮费的话，价格是 45 - 50 美元。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/add
+> - Don't forget to add on your travelling expenses. `[例]`
+>   - 中译：别忘了加上你的旅费。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/add
 
 
 ---

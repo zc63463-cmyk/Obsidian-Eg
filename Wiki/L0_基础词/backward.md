@@ -131,9 +131,15 @@ back（后背，后面）+ -ward（表示方向的副词/形容词后缀，源�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Many developing countries are still struggling to overcome backward agricultural practices and modernize their farming methods." `[例]`
-> - "The government has bent over backward to attract foreign investment, offering tax incentives and streamlined regulations." `[例]`
-> - "She cast a backward glance at the house before getting into the car." [COCA]
+> - She felt that going back to live in her home town would be a backward step. `[例]`
+>   - 中译：她觉得回到家乡生活会是一种倒退。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/backward
+> - She's not backward in coming forward (= she's not shy). `[例]`
+>   - 中译：她在前进方面并不落后（=她不害羞）。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/backward
+> - I heard a noise behind me and glanced backward. `[例]`
+>   - 中译：我听到身后有声音，回头看了一眼。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/backward
 
 
 ---

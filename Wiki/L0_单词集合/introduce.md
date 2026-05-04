@@ -131,10 +131,15 @@ intro-（向内，进入）+ [[tract|duc]]（=ducere，引导，来自拉丁语 
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It was the Federal Circuit itself that introduced such patents with its 1998 decision in the so-called State Street Bank case." `[真题]`
-> - "Each year, the federal government introduces preventive programs and policies that may work." `[COCA-ACAD]`
-> - "The government has introduced a series of measures to stimulate economic growth." `[COCA-ACAD]`
-> - "He plans to introduce legislation that would set minimum standards for corporate disclosure in the US." `[COCA-ACAD]`
+> - The problem began ]late last year, when PRH confirmed that it had introduced a credit limit �1ith Waterstones " at a very significant level". `[真题]`
+>   - 中译：这个问题始于去年年底，当时 PRH 证实它已经“在非常高的水平上”引入了 Waterstones 的信用限额。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - Apple has sold many millions of iPods since the product was introduced in 2001. `[例]`
+>   - 中译：自 2001 年推出产品以来，Apple 已售出数百万台 iPod。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/introduce
+> - Such unpopular legislation is unlikely to be introduced before the next election. `[例]`
+>   - 中译：这种不受欢迎的立法不太可能在下次选举之前出台。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/introduce
 
 ---
 

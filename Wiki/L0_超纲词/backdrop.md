@@ -3,10 +3,8 @@ title: "backdrop"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 自然物理
 prototype: 舞台后方的幕布
@@ -46,7 +44,7 @@ back-(后面) + drop(落下/悬挂物)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**舞台后方的幕布**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **舞台后方的幕布**（物理层面）
@@ -67,7 +65,7 @@ back-(后面) + drop(落下/悬挂物)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ back-(后面) + drop(落下/悬挂物)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 想象你走进剧院，舞台最深处垂着一块巨大的画布——上面画着远山和星空。这块布在舞台的 back（后面）drop（垂下），就是 backdrop。后来人们说"在……的背景下"，就像说"在……这块幕布前面演出"——against the backdrop of economic crisis，就是在经济危机这块幕布前演出。
@@ -90,7 +88,7 @@ back-(后面) + drop(落下/悬挂物)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ back-(后面) + drop(落下/悬挂物)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[foreground]]：前景（backdrop 的空间反义：幕后背景↔台前前景）
 > - [[highlight]]：焦点，亮点（backdrop 的功能反义：衬托物↔被聚焦的对象）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,7 +117,7 @@ back-(后面) + drop(落下/悬挂物)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **against the backdrop of**：在……的背景下
   - The negotiations took place against the backdrop of a worsening economic crisis.（谈判在日益恶化的经济危机背景下进行。）
 > - **provide a backdrop**：提供背景
@@ -131,19 +129,12 @@ back-(后面) + drop(落下/悬挂物)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - Against the backdrop of a slowing economy, the central bank decided to cut interest rates.`[例]`
-> - The beautiful coastline provided a stunning backdrop to our holiday.`[例]`
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
+> [!example]- 语料
+> - Against the backdrop of a slowing economy, the central bank decided to cut interest rates. `[例]`
+> - The beautiful coastline provided a stunning backdrop to our holiday. `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -129,9 +129,9 @@ pens（支付，拉丁语 *pendere*，称量/支付）+ -ion（名词后缀）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Many older people find it difficult to live on their state pension. `[考研英语二2015翻译]`
-> - The government has proposed reforms to the public sector pension scheme. `[考研英语一2014阅读]`
-> - He retired on a generous pension from the company. `[剑桥词典]`
+> - The government has proposed reforms to the public sector pension scheme. `[例]`
+> - He retired on a generous pension from the company. `[例]`
+> - The Chancellor announced a miserly 75p a week rise in the state pension. `[例]`
 
 
 ---

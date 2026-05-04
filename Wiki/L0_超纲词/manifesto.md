@@ -3,10 +3,8 @@ title: "manifesto"
 tags:
   - 学习/英语/词汇
   - 语义场/政治法律
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 政治法律
 prototype: 公开宣告的声明（政党的纲领性文件）
@@ -43,7 +41,7 @@ manu-（手，拉丁语 *manus*）+ fest（打击，可联想 manifest）→ 用
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**公开宣告的声明**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **公开宣告的声明**（政治层面）
@@ -64,7 +62,7 @@ manu-（手，拉丁语 *manus*）+ fest（打击，可联想 manifest）→ 用
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +73,7 @@ manu-（手，拉丁语 *manus*）+ fest（打击，可联想 manifest）→ 用
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > manifest（明显的）+ -o → 把意图明显地公之于众的文件 → 宣言。最著名的例子就是 The Communist Manifesto（《共产党宣言》）——把共产主义的主张公之于众。
@@ -84,7 +82,7 @@ manu-（手，拉丁语 *manus*）+ fest（打击，可联想 manifest）→ 用
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -96,12 +94,12 @@ manu-（手，拉丁语 *manus*）+ fest（打击，可联想 manifest）→ 用
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - 无精确反义词（manifesto 是特定文体，无直接反义）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -112,26 +110,19 @@ manu-（手，拉丁语 *manus*）+ fest（打击，可联想 manifest）→ 用
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a party manifesto**：政党宣言
 > - **an election manifesto**：竞选纲领
 > - **issue/publish a manifesto**：发表宣言
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - In their election manifesto, the Liberal Democrats proposed increasing taxes to pay for improvements in education . `[例]`
-> - The video chronicles a very different person compared to the portrait emerging from law enforcement interviews with Allen's brother and sister and his own writings in a manifesto . `[例]`
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
+> [!example]- 语料
+> - In their election manifesto, the Liberal Democrats proposed increasing taxes to pay for improvements in education. `[例]`
+> - The video chronicles a very different person compared to the portrait emerging from law enforcement interviews with Allen's brother and sister and his own writings in a manifesto. `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

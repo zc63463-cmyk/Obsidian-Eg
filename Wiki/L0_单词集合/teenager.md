@@ -133,10 +133,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The magazine is aimed at teenagers and young adults . `[例]`
-> - He was a bit of a rebel when he was a teenager and dyed his hair pink and had his nose pierced . `[例]`
-> - As a teenager, Clare was always getting on the wrong side of her mother . `[例]`
-> - Many parents find it hard to relate to their children when they are teenagers. `[例]`
+> - She's just acting like a normal teenager. `[例]`
+>   - 中译：她只是表现得像一个正常的青少年。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/teenager
+> - After a search of the area, police located both suspects, who police said are teenagers , hiding nearby and took both into custody. `[例]`
+>   - 中译：在对该地区进行搜查后，警方发现了藏在附近的两名嫌疑人，警方称他们是青少年，并将两人拘留。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/teenager
+> - Not surprisingly, the survey also found that teenagers are more interested in news about celebrities, music, movies, sports and other entertainment. `[例]`
+>   - 中译：毫不奇怪，调查还发现青少年对名人、音乐、电影、体育和其他娱乐新闻更感兴趣。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/teenager
 
 ---
 

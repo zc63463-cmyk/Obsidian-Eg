@@ -126,9 +126,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - For example, AI can be used to analyse what type of advertising content or copy would be appropriate to 'speak' to a specific target customer group by revealing information about trends and preferences through the analysis of big data. ( 46) AI can also be used to identify the lifestyle choices of customers regarding their hobbies, favourite celebrities, music choices, and fashions to provide unique content in marketing messages put out through social media. `[真题]`
-> - Researchers analysed the purchases of 6,300 households . `[例]`
-> - The book brilliantly analyses the cultural struggles taking place in America during the 1960s. `[例]`
+> - The job involves collecting and analysing data. `[例]`
+>   - 中译：这项工作涉及收集和分析数据。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/analyse
+> - Researchers have analysed the results in detail using specialist software. `[例]`
+>   - 中译：研究人员使用专业软件详细分析了结果。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/analyse
+> - Learn to step back and critically analyse situations. `[例]`
+>   - 中译：学会退一步并批判性地分析情况。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/analyse
 
 
 ---

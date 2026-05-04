@@ -130,9 +130,15 @@ Marx（卡尔·马克思，Karl Marx，1818-1883）+ -ist（表示"……主义�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - A 1978 coup brought Marxists to power . `[例]`
-> - He branded the Senator a "Marxist" for his economic ideas . `[例]`
-> - Though still a Marxist he was disillusioned with the Communist Party . `[例]`
+> - He was a revolutionary ready to kill for the Marxist revolution. `[例]`
+>   - 中译：他是一位随时准备为马克思主义革命而杀戮的革命者。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/Marxist
+> - Che Guevara was a Marxist jungle fighter. `[例]`
+>   - 中译：切·格瓦拉是一位马克思主义丛林战士。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/Marxist
+> - As a writer with Marxist tendencies , Fred is obsessed with inequality. `[例]`
+>   - 中译：作为一位具有马克思主义倾向的作家，弗雷德对不平等问题十分着迷。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/Marxist
 
 
 ---

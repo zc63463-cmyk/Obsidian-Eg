@@ -149,11 +149,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Write your answers on the ANSWER SHEET. ( 10 points) There has been some exploration around the use of AI in digital marketing. `[真题]`
-> - Section m Writing Part A 51. `[真题]`
-> - Directions: Write a notice to recruit a student for Prof. `[真题]`
-> - You should write about 100 words on the ANSWER SHEET. `[真题]`
-> - Why not write (down) your ideas on a piece of paper before you start ? `[例]`
+> - In some countries children don't start learning to read and write until they are six. `[例]`
+>   - 中译：在一些国家，孩子们直到六岁才开始学习读写。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/write
+> - Please write in pen on both sides of the paper. `[例]`
+>   - 中译：请用笔在纸的两面写字。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/write
+> - I haven't got anything to write with. `[例]`
+>   - 中译：我没有什么可写的。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/write
 
 ---
 

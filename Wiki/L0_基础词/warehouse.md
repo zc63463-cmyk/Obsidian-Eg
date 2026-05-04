@@ -135,10 +135,10 @@ ware(商品，货物，古英语 *waru*) + house(房屋，房子)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Amazon.com, with its network of warehouses, also collects sales tax in every state that charges it." `[真题]`
-> - "The cases the court overturned said that if a business was shipping a customer's purchase to a state where the business didn't have a physical presence such as a warehouse or office, the business didn't have to collect sales tax for the state." `[真题]`
-> - "The goods have been sitting in a warehouse for months because a strike has prevented distribution." `[权威语料]`
-> - "The big factories created a network of suppliers, warehouses, and shipping companies." `[权威语料]`
+> - Amazon.com, with its network of warehouses, also collects sales tax in every state that charges it. `[真题]`
+> - The cases the court overturned said that if a business was shipping a customer's purchase to a state where the business didn't have a physical presence such as a warehouse or office, the business didn't have to collect sales tax for the state. `[真题]`
+> - The goods have been sitting in a warehouse for months because a strike has prevented distribution. `[例]`
+> - The big factories created a network of suppliers, warehouses, and shipping companies. `[例]`
 
 
 ---

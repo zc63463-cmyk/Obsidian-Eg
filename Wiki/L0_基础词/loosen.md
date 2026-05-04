@@ -129,8 +129,8 @@ review_count: 0
 
 > [!example]- 语料
 > - The screws holding the bed together had loosened. `[例]`
-> - He loosened his tie . `[例]`
-> - The screws holding the light fixture have loosened, and it’s dangling from the ceiling . `[例]`
+> - He loosened his tie. `[例]`
+> - The screws holding the light fixture have loosened, and it’s dangling from the ceiling. `[例]`
 
 
 ---

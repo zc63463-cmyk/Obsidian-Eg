@@ -129,10 +129,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The government has taken steps to simplify the tax system and reduce the burden on small businesses. `[真题]`
-> - The application forms have now been simplified. `[COCA-NEWS]`
-> - Variables within time points were permitted to correlate; however, these relations are not shown to simplify presentation. `[COCA-ACAD]`
-> - He reduced his needs to the minimum by simplifying his life. `[COCA-MAG]`
+> - He tried to simplify the story for the younger audience. `[例]`
+>   - 中译：他试图为年轻观众简化故事。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/simplify
+> - They are trying to simplify the regulations. `[例]`
+>   - 中译：他们正在努力简化法规。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/simplify
+> - Let's try and simplify the task by cutting out the checking stage. `[例]`
+>   - 中译：让我们尝试通过删除检查阶段来简化任务。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/simplify
 
 
 ---

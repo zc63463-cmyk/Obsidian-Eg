@@ -125,9 +125,15 @@ stip(=sting, 刺→标记) + -ul(小) + -ate(动词后缀) → 做小标记→�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She agreed to buy the car , but stipulated racing tyres and a turbo-powered engine . `[例]`
-> - The law stipulates that new cars must have seat belts for the driver and every passenger . `[例]`
-> - We have signed a contract which stipulates wh en the project must be completed . `[例]`
+> - A delivery date is stipulated in the contract. `[例]`
+>   - 中译：合同中规定了交货日期。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/stipulate
+> - The job advertisement stipulates that the applicant must have three years' experience. `[例]`
+>   - 中译：招聘广告规定应聘者必须拥有三年工作经验。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/stipulate
+> - The policy stipulates what form of consent is required. `[例]`
+>   - 中译：该政策规定了需要何种形式的同意。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/stipulate
 ---
 
 

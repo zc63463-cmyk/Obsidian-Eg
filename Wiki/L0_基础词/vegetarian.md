@@ -128,10 +128,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "I've been feeling much healthier since I became a vegetarian." `[Cambridge]`
-> - "She's been a vegetarian for ten years now." `[Cambridge]`
-> - "Prisoners may always ask for a vegetarian diet." `[Cambridge]`
-> - "Everyone I know likes the smell of bacon — even Mike does and he's a vegetarian." `[Cambridge]`
+> - I've been feeling much healthier since I became a vegetarian. `[例]`
+> - She's been a vegetarian for ten years now. `[例]`
+> - Prisoners may always ask for a vegetarian diet. `[例]`
+> - Everyone I know likes the smell of bacon — even Mike does and he's a vegetarian. `[例]`
 
 
 ---

@@ -126,9 +126,15 @@ con-（一起/共同）+ tamin（触摸，来自拉丁语 *tangere* 的变体 *c
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Heavy rains can contaminate drinking and recreational water with sewage, petroleum products, pesticides, herbicides, and waste from farm animals." `[COCA-ACAD]`
-> - "The government recently reported that heavy metals contaminate 12 million tons of grain a year." `[COCA-NEWS]`
-> - "Salmonella can contaminate almost any type of food and most often occurs after eating undercooked foods like poultry and eggs." `[COCA-NEWS]`
+> - The drinking water has become contaminated with lead. `[例]`
+>   - 中译：饮用水已被铅污染。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/contaminate
+> - These substances can contaminate groundwater. `[例]`
+>   - 中译：这些物质会污染地下水。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/contaminate
+> - They were accused of contaminating the minds of our young people. `[例]`
+>   - 中译：他们被指控污染了我们年轻人的思想。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/contaminate
 
 
 ---

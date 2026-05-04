@@ -3,10 +3,8 @@ title: "hasten"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 人体动作
 prototype: 加速，赶快（使动作变快）
@@ -42,7 +40,7 @@ haste(匆忙，快速) + -en(动词后缀，使动化)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**加速，赶快**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **加速，赶快**（动作层面）
@@ -63,7 +61,7 @@ haste(匆忙，快速) + -en(动词后缀，使动化)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ haste(匆忙，快速) + -en(动词后缀，使动化)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > haste 是"匆忙"，加上 -en 变成动词 hasten = "使之匆忙" = 加速。记住：Haste makes waste（欲速则不达），但 hasten the process（加速进程）是好事。hasten 就是给时间踩油门。
@@ -86,7 +84,7 @@ haste(匆忙，快速) + -en(动词后缀，使动化)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,14 +97,14 @@ haste(匆忙，快速) + -en(动词后缀，使动化)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[delay]]：延迟（加速↔延迟）
 > - [[slow]]：放慢（加速↔放慢）
 > - [[hinder]]：阻碍（促进↔阻碍）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,7 +116,7 @@ haste(匆忙，快速) + -en(动词后缀，使动化)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **hasten to do sth.**：赶紧做某事
 > - **hasten the process**：加速进程
 > - **hasten the collapse/decline**：加速崩溃/衰退
@@ -126,19 +124,12 @@ haste(匆忙，快速) + -en(动词后缀，使动化)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - There is little doubt that poor medical treatment hastened her death . `[例]`
-> - These recent poor results have hastened the manager's departure . `[例]`
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
+> [!example]- 语料
+> - There is little doubt that poor medical treatment hastened her death. `[例]`
+> - These recent poor results have hastened the manager's departure. `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -120,9 +120,15 @@ con-（一起）+ [[stit|stit-]]（站立，放置）+ -ute（动词后缀）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Such actions constitute a serious violation of academic ethics." `[真题]`
-> - "The long-term unemployed now constitute a sort of underclass." `[真题]`
-> - "Women constitute nearly half of the total workforce in the country." `[COCA-ACAD]`
+> - This latest defeat constitutes a major setback for the Democrats. `[例]`
+>   - 中译：最近的这次失败对民主党来说是一个重大挫折。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/constitute
+> - The long-term unemployed now constitute a sort of underclass. `[例]`
+>   - 中译：长期失业者现在构成了某种下层阶级。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/constitute
+> - The publishers claim that the book constitutes 'the first sequential exposition of events and thus of the history of the revolution '. `[例]`
+>   - 中译：出版商声称，这本书是“第一次对事件进行连续阐述，从而对革命历史进行连续阐述”。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/constitute
 
 ---
 

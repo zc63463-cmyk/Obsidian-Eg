@@ -3,10 +3,8 @@ title: "envision"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 理性世界
 prototype: 想象（在心中描绘出未来的画面）
@@ -43,7 +41,7 @@ en-(使进入/使成为) + [[vis-vid|vis]](看) + -ion(名词后缀，此处作�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**想象（在心中描绘出未来的画面）**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **使看见**（视觉层面）
@@ -64,7 +62,7 @@ en-(使进入/使成为) + [[vis-vid|vis]](看) + -ion(名词后缀，此处作�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ en-(使进入/使成为) + [[vis-vid|vis]](看) + -ion(名词后缀，此处作�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > en（使）+ vis（看）→ envision。vis 是"看"的词根——visible（可见的）、vision（视力/愿景）、visual（视觉的）。envision 就是在心中"看到"——你 envision a better future（展望更美好的未来）。
@@ -88,7 +86,7 @@ en-(使进入/使成为) + [[vis-vid|vis]](看) + -ion(名词后缀，此处作�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +98,13 @@ en-(使进入/使成为) + [[vis-vid|vis]](看) + -ion(名词后缀，此处作�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[overlook]]：忽视（展望↔忽视）
 > - [[forget]]：忘记（想象↔忘记）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +118,7 @@ en-(使进入/使成为) + [[vis-vid|vis]](看) + -ion(名词后缀，此处作�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **envision a future**：展望未来
 > - **envision a world**：想象一个世界
 > - **envision doing sth.**：想象做某事
@@ -128,19 +126,12 @@ en-(使进入/使成为) + [[vis-vid|vis]](看) + -ion(名词后缀，此处作�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - The architects envisioned a modern sustainable city powered entirely by renewable energy. `[例]`
 > - She envisioned herself leading the team to victory after months of rigorous training. `[例]`
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
-
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

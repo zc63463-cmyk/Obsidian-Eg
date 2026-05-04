@@ -128,7 +128,7 @@ review_count: 0
 > [!example]- 语料
 > - The company employed aggressive pricing tactics to gain market share from its competitors. `[真题]`
 > - Delaying tactics will only make the situation worse; we need to address the problem immediately. `[真题]`
-> - The brief begins by taking aim at the union's decertification, which owners contend is a negotiating tactic. `[语料库]`
+> - The brief begins by taking aim at the union's decertification, which owners contend is a negotiating tactic. `[例]`
 
 
 ---

@@ -3,10 +3,8 @@ title: "indefensible"
 tags:
   - 学习/英语/词汇
   - 语义场/政治法律
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 政治法律
 prototype: 无法辩护的、站不住脚的
@@ -43,7 +41,7 @@ in-(不) + [[de|de]]-(去除) + fens(防守，拉丁语 *defendere*) + -able(可
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以“**无法辩护的、站不住脚的**”为统筹中心，沿抽象路径向外扩展：
 >
 1. **无法防守的**（物理→抽象层面）
@@ -65,7 +63,7 @@ in-(不) + [[de|de]]-(去除) + fens(防守，拉丁语 *defendere*) + -able(可
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 |------|------|----------|
@@ -75,7 +73,7 @@ in-(不) + [[de|de]]-(去除) + fens(防守，拉丁语 *defendere*) + -able(可
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > in（不）+ de + fens（防守）+ able（可……的）→ 无法防守 → 无法辩护。一个 indefensible 的论点就像一座没有城墙的城堡——谁都能攻破。
@@ -84,7 +82,7 @@ in-(不) + [[de|de]]-(去除) + fens(防守，拉丁语 *defendere*) + -able(可
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 |------|------------|---------|---------|---------|
@@ -97,13 +95,13 @@ in-(不) + [[de|de]]-(去除) + fens(防守，拉丁语 *defendere*) + -able(可
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[defensible]]：可辩护的（indefensible 的精确反义：无法辩护↔可辩护）
 - [[justifiable]]：可辩护的
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 |--------|---------|------|---------|
@@ -117,26 +115,19 @@ in-(不) + [[de|de]]-(去除) + fens(防守，拉丁语 *defendere*) + -able(可
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **indefensible position/argument**：站不住脚的立场/论点
 - **morally indefensible**：道德上不可原谅的
 - **an indefensible act**：不可辩护的行为
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - The war is morally indefensible. `[例]`
 > - His actions in destroying the tapes were indefensible. `[例]`
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
-
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

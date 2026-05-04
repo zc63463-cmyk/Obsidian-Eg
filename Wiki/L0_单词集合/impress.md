@@ -123,10 +123,15 @@ im-(=in，进入) + press(=press，按压)（建议创建词根笔记 [[press]]�
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - `The professor was deeply impressed by the student's analytical ability.` `[真题]`
-> > - `She tried to impress the interviewers with her knowledge of the industry.` `[真题]`
-> > - `The doctor tried to impress the importance of exercise on patients.` `[COCA-ACAD]`
-> > - `His ability to speak five languages fluently impressed everyone at the international conference.` `[COCA-ACAD]`
+> - I remember when I was a child being very impressed with how many toys she had. `[例]`
+>   - 中译：我记得当我还是个孩子的时候，她有多少玩具给我留下了深刻的印象。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/impress
+> - Your mother was clearly not impressed by our behaviour in the restaurant. `[例]`
+>   - 中译：你妈妈显然对我们在餐馆里的行为不以为然。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/impress
+> - He tried to impress me with his extensive knowledge of wine. `[例]`
+>   - 中译：他试图用他丰富的葡萄酒知识给我留下深刻的印象。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/impress
 
 ---
 

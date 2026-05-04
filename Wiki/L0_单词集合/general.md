@@ -141,9 +141,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "People in general are concerned about environmental issues."（总的来说，人们关心环境问题）——考研阅读常见搭配，社会类话题
-> - "the general trend of economic development"（经济发展的总体趋势）——经济类阅读
-> - "a general overview of the situation"（对局势的总体概述）——学术/分析类阅读
+> - The general feeling is that justice was not served. `[例]`
+>   - 中译：普遍的感觉是正义没有得到伸张。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/general
+> - There is general concern about rising crime rates. `[例]`
+>   - 中译：人们普遍担心犯罪率上升。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/general
+> - My general impression of the place was good. `[例]`
+>   - 中译：我对这个地方的总体印象很好。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/general
 
 ---
 

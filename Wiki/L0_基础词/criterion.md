@@ -129,10 +129,15 @@ krit-（判断、分辨，希腊语 *krī́nein* 的变体 *kri-*）+ -terion（
 ## 真题/语料关联
 
 > [!example]- 语料
-> - We're looking for a very specific sort of person and this woman seems to fulfil all of our criteria. `[真题]`
-> - More specific and less subjective criteria should be used in selecting people for promotion within the company. `[真题]`
-> - Inclusion criteria were applied independently by two reviewers, and in case of disagreement, a consensus was reached. `[真题]`
-> - She failed to meet the stringent selection criteria. `[真题]`
+> - The main criterion is value for money. `[例]`
+>   - 中译：主要标准是物有所值。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/criterion
+> - There is really only one criterion for a grab bag of culinary facts and anecdotes like this: It has to make you look up occasionally and remark, "Hey! I never knew that. `[例]`
+>   - 中译：对于像这样的烹饪事实和轶事的抓包来说，实际上只有一个标准：它必须让你偶尔抬头并评论，“嘿！我从来不知道这一点。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/criterion
+> - Christo argues that art must be measured by its effect on the shape of a community. By this criterion Running Fence was enormously successful. `[例]`
+>   - 中译：克里斯托认为，艺术必须通过其对社区形态的影响来衡量。按照这个标准，《奔跑吧》是非常成功的。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/criterion
 
 
 ---

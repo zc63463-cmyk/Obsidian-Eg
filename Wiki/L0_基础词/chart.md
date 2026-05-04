@@ -132,9 +132,15 @@ chart 源自拉丁语 *charta*（纸、纸莎草纸），源自希腊语 *khart�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - There is a chart on the classroom wall showing the relative heights of all the children . `[例]`
-> - The sales chart shows a distinct decline in the past few months . `[例]`
-> - We need some sort of graph on which we can chart our progress . `[例]`
+> - Some shares have lost two-thirds of their value since being issued ( see chart ). `[例]`
+>   - 中译：有些股票自发行以来已经损失了三分之二的价值（见图表）。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/chart
+> - The charts of 138 patients with chronic heart failure were reviewed. `[例]`
+>   - 中译：回顾了 138 名慢性心力衰竭患者的图表。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/chart
+> - The accompanying chart shows data for eight countries. `[例]`
+>   - 中译：附图显示了八个国家的数据。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/chart
 
 
 ---

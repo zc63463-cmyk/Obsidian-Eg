@@ -134,10 +134,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Self-awareness is the foundation of emotional intelligence and effective leadership. `[真题]`
-> - The concept of the self has been a central topic in philosophy for centuries. `[COCA-ACAD]`
-> - By itself, technology is neither good nor bad; it depends on how we use it. `[COCA-ACAD]`
-> - She completed the entire research project by herself, without any assistance from her colleagues. `[COCA-ACAD]`
+> - She expresses self-contradictory views. `[真题]`
+>   - 中译：她表达了自相矛盾的观点。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - The hero of the movie finally finds his true self (= discovers what his true personality and feelings are). `[例]`
+>   - 中译：电影的主人公终于找到了自己的真实自我（=发现了自己的真实性格和感受）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/self
+> - She's not her customary cheerful self today. `[例]`
+>   - 中译：今天的她，不再是平时那种开朗的样子了。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/self
 
 ---
 

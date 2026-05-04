@@ -125,8 +125,8 @@ ex-(出) + [[cap]](拿取) + -ion(名词) + -al(形容词后缀) → 被取出�
 
 > [!example]- 语料
 > - Exceptional powers of concentration. `[例]`
-> - The company has shown exceptional growth over the past two years . `[例]`
-> - This is an exceptional contract , guaranteeing no layoffs . `[例]`
+> - The company has shown exceptional growth over the past two years. `[例]`
+> - This is an exceptional contract , guaranteeing no layoffs. `[例]`
 
 
 ---

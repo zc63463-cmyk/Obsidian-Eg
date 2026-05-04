@@ -123,9 +123,15 @@ suc-(=sub-, 在后面) + cess(走) + -ive(形容词后缀，表"倾向/特性的
 ## 真题/语料关联
 
 > [!example]- 语料
-> - It was the team's fourth successive defeat . `[例]`
-> - It was the team’s third successive defeat . `[例]`
 > - This was their fourth successive win. `[例]`
+>   - 中译：这是他们连续第四次获胜。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/successive
+> - Successive governments have tried to tackle the problem. `[例]`
+>   - 中译：历届政府都试图解决这个问题。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/successive
+> - There has been low rainfall for two successive years. `[例]`
+>   - 中译：连续两年降雨偏少。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/successive
 
 
 ---

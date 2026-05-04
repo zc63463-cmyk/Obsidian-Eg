@@ -131,9 +131,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - That old campaign slogan really means that there should be jobs and enough food for all citizens . `[例]`
+> - That old campaign slogan really means that there should be jobs and enough food for all citizens. `[例]`
 > - The company's advertising slogan in the 1970s and 1980s was "You can be sure of Shell". `[例]`
-> - The crowd began chanting anti-government slogans . `[例]`
+> - The crowd began chanting anti-government slogans. `[例]`
 
 
 ---

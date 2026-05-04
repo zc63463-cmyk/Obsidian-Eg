@@ -128,10 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She dyed her hair from blonde to black." `[真题]`
-> - "The women prepared, spun and dyed the wool." `[真题]`
-> - "She dipped the material into the dye." `[真题]`
-> - "He was a dyed-in-the-wool conservative and did not care who knew." `[真题]`
+> - The women prepared, spun and dyed the wool. `[真题]`
+> - She dipped the material into the dye. `[真题]`
+> - He was a dyed-in-the-wool conservative and did not care who knew. `[真题]`
 
 
 ---

@@ -123,8 +123,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Could you fetch me my glasses from the other room , please ? `[例]`
-> - I have to fetch my mother from the station . `[例]`
+> - Could you fetch me my glasses from the other room , please? `[例]`
+> - I have to fetch my mother from the station. `[例]`
 > - Shall I fetch some tea for you? `[例]`
 
 

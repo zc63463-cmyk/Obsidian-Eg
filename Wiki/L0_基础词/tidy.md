@@ -126,8 +126,8 @@ review_count: 0
 
 > [!example]- 语料
 > - The house was clean and tidy. `[例]`
-> - His business deals make him a tidy sum . `[例]`
-> - Tidy (up) these papers before you leave , please . `[例]`
+> - His business deals make him a tidy sum. `[例]`
+> - Tidy (up) these papers before you leave , please. `[例]`
 
 
 ---

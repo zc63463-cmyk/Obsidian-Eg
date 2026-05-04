@@ -136,10 +136,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Headaches may be a sign of stress. `[COCA-ACAD]`
-> - The company signed a contract to produce two million doses of the vaccine. `[COCA-ACAD]`
-> - The gloomy weather shows no sign of improving. `[COCA-ACAD]`
-> - The fact that he didn't say "no" immediately is a good sign. `[COCA-ACAD]`
+> - At the end of 2018, Governor Charlie Baker of Massachusetts signed a bill to rein in those potential investor-buyers. `[真题]`
+>   - 中译：2018 年底，马萨诸塞州州长查理·贝克签署了一项法案，以控制这些潜在的投资者买家。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - Grant signed an act into law that established Yellowstone as the world's first national park. `[真题]`
+>   - 中译：格兰特签署了一项法律，将黄石公园确立为世界上第一个国家公园。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - Therefore , unless customer:; are prepared to sign release agreements , the use of AI may become somewhat restricted in the future. `[真题]`
+>   - 中译：因此，除非客户：；准备签署发布协议，未来人工智能的使用可能会受到一定程度的限制。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
 
 ---
 

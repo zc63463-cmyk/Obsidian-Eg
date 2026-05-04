@@ -131,9 +131,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She stood on the shore and let the water wash over her tired feet." `真题`
-> - "In the quiet of that moment, a sense of acceptance washed over him." `真题`
-> - "Overnight the waves had washed up a lot of trash on the beach." `真题`
+> - These sheets need washing. `[例]`
+> - We use a linen-mix fabric , which washes well and is soft to the touch. `[例]`
+> - How often do you wash your hair? `[例]`
 
 
 ---

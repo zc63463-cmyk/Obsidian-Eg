@@ -132,9 +132,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - A need to train technicians in computer aided engineering. `[例]`
 > - As a pianist, she’s a brilliant technician, but she lacks passion. `[例]`
+>   - 中译：作为一名钢琴家，她是一位出色的技术人员，但她缺乏激情。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/technician
 > - They hired a technician to help maintain the office's computers. `[例]`
+>   - 中译：他们聘请了一名技术人员来帮助维护办公室的计算机。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/technician
+> - She is the lighting technician for the play. `[例]`
+>   - 中译：她是该剧的灯光师。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/technician
 
 ---
 

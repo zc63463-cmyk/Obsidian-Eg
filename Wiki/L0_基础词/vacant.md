@@ -129,10 +129,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The position had been vacant for more than a year." `[COCA-ACAD]`
-> - "Property developers have been left with many vacant apartments since the downturn in the housing market." `[COCA-NEWS]`
-> - "She had a kind of vacant look on her face." `[COCA-FICT]`
-> - "Many newer apartments remain vacant." `[COCA-NEWS]`
+> - The position had been vacant for more than a year. `[COCA-ACAD]`
+> - Property developers have been left with many vacant apartments since the downturn in the housing market. `[COCA-NEWS]`
+> - She had a kind of vacant look on her face. `[COCA-FICT]`
+> - Many newer apartments remain vacant. `[COCA-NEWS]`
 
 
 ---

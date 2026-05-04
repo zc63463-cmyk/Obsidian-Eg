@@ -135,10 +135,15 @@ en-(使动前缀，"使…进入…状态") + large(大的)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It may be said that the measure of the worth of any social institution is its effect in enlarging and improving experience." `[真题]`
-> - "Military spending further enlarged the permanent fiscal deficit." `[COCA-ACAD]`
-> - "The former enlarged their herds according to the availability of empty land or means to finance short-run troubles." `[COCA-ACAD]`
-> - "We had the photograph enlarged." `[COCA]`
+> - They've enlarged the kitchen by building over part of the garden. `[例]`
+>   - 中译：他们在花园的一部分上盖房子，扩大了厨房。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/enlarge
+> - The city council voted to enlarge the park. `[例]`
+>   - 中译：市议会投票决定扩大公园。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/enlarge
+> - He suffers from an enlarged heart. `[例]`
+>   - 中译：他患有心脏肥大症。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/enlarge
 ---
 
 

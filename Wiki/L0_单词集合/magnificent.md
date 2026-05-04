@@ -136,10 +136,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - `The Parthenon is a magnificent structure.` `[COCA-ACAD]`
-> - `The coronation was a magnificent sight.` `[COCA-ACAD]`
-> - `Chows are magnificent dogs of ancient Chinese descent known for their black tongues and lion-like mane.` `[COCA-MAG]`
-> - `The landscape was magnificent in its grandeur.` `[例]`
+> - The carnival was a magnificent spectacle. `[例]`
+>   - 中译：狂欢节场面十分壮观。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/magnificent
+> - The view from the top of the mountain is magnificent. `[例]`
+>   - 中译：从山顶看去的景色非常壮丽。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/magnificent
+> - The palace was absolutely magnificent. `[例]`
+>   - 中译：宫殿绝对是宏伟壮观。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/magnificent
 
 ---
 

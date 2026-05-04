@@ -136,9 +136,9 @@ plug 源自中古荷兰语 *plugge*（塞子、木栓），为日耳曼语族本
 ## 真题/语料关联
 
 > [!example]- 语料
-> - If a plug is wired incorrectly , it can be dangerous . `[例]`
-> - Is there a plug in the bedroom that I can use for my hairdryer ? `[例]`
-> - You can raise seed as plugs this summer and introduce the plants into the garden in the autumn . `[例]`
+> - If a plug is wired incorrectly , it can be dangerous. `[例]`
+> - Is there a plug in the bedroom that I can use for my hairdryer? `[例]`
+> - You can raise seed as plugs this summer and introduce the plants into the garden in the autumn. `[例]`
 
 
 ---

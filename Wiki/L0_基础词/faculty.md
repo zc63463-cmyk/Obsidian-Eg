@@ -135,9 +135,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She has a faculty for inspiring confidence in people . `[例]`
+> - She has a faculty for inspiring confidence in people. `[例]`
 > - She is joining the faculty of the University of Washington. `[例]`
-> - He has been a faculty member for 20 years . `[例]`
+> - He has been a faculty member for 20 years. `[例]`
 
 
 ---

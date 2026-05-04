@@ -3,10 +3,8 @@ title: "minimal"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 抽象关系
 prototype: 最小的，最低限度的
@@ -43,7 +41,7 @@ minim(最小，拉丁语 *minimus*) + -al(形容词后缀)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**最小的/最低限度的**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **最小的**（程度层面）
@@ -64,7 +62,7 @@ minim(最小，拉丁语 *minimus*) + -al(形容词后缀)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ minim(最小，拉丁语 *minimus*) + -al(形容词后缀)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > minimum（最小值）的形容词形式就是 minimal。minim（最小）是拉丁语中最小的意思。minimal effort 就是你能付出的"最少努力"，minimal damage 就是"最少的损害"。注意区分：minimal（最小的）≠ minimalism（极简主义）。
@@ -86,7 +84,7 @@ minim(最小，拉丁语 *minimus*) + -al(形容词后缀)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ minim(最小，拉丁语 *minimus*) + -al(形容词后缀)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[maximal]]：最大的（minimal 的精确反义：最小↔最大）
 > - [[significant]]：重大的（minimal 的反义：最小↔重大）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,7 +116,7 @@ minim(最小，拉丁语 *minimus*) + -al(形容词后缀)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **minimal risk/damage**：最低风险/最小损害
 > - **minimal effort**：最低限度的努力
 > - **minimal amount**：最小量
@@ -126,19 +124,12 @@ minim(最小，拉丁语 *minimus*) + -al(形容词后缀)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - There were no injuries and damage to the building was minimal. `[例]`
 > - Fortunately, damage to the heart was minimal. `[例]`
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
-
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

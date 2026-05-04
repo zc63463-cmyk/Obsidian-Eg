@@ -126,9 +126,15 @@ a-/ac-（=ad-，向……方向，[[de]] 的反义）+ scend/scand（爬，拉�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She ascended to the position of CEO after years of hard work. `[COCA-NEWS]`
-> - A long flight of steps ascends to the door of the museum. `[COCA-ACAD]`
-> - He eventually ascended to the position of chief executive after decades of service. `[COCA-ACAD]`
+> - The path started to ascend more steeply. `[例]`
+>   - 中译：道路开始变得更加陡峭。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ascend
+> - The air became colder as we ascended. `[例]`
+>   - 中译：随着我们的上升，空气变得越来越冷。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ascend
+> - Practise your scales ascending and descending. `[例]`
+>   - 中译：练习音阶的上升和下降。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ascend
 
 
 ---

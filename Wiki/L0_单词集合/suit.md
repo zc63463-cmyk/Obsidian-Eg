@@ -123,9 +123,15 @@ suit 源自拉丁语 *sequi*（跟随），与 [[sue]]（起诉/追随）同源�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - He was dressed formally , in a midnight-blue dinner suit that emphasized the width of his shoulders . `[例]`
-> - Tuxedo suits are a viable option for very formal soirées . `[例]`
-> - All the businessmen were wearing pinstripe suits. `[例]`
+> - She was wearing a grey business suit. `[例]`
+>   - 中译：她穿着一套灰色西装。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/suit
+> - He is dressed in a formal black suit. `[例]`
+>   - 中译：他穿着一套正式的黑色西装。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/suit
+> - His parents had bought him a new suit of clothes for the occasion. `[例]`
+>   - 中译：他的父母为这个场合给他买了一套新衣服。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/suit
 
 ---
 

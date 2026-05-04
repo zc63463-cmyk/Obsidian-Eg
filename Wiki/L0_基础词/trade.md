@@ -133,7 +133,7 @@ review_count: 0
 > [!example]- 语料
 > - Caravanserais were also an important marketplace for commodities and _!Lin the trade of goods along the Silk Road. `[真题]`
 > - The trade magazine The Bookseller reported that Waterstones branch managers were being told to remove PRH books from prominent areas such as tables , display spaces and windows, and were " quietly retiring them to their relevant sections". `[真题]`
-> - The country's trade in manufactured goods has expanded in the last ten years . `[例]`
+> - The country's trade in manufactured goods has expanded in the last ten years. `[例]`
 
 
 ---

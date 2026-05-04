@@ -133,10 +133,10 @@ reciprocal 源自拉丁语 *reciprocus*（沿原路返回的、交替的），�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - There is a reciprocal relationship between honesty and trust that cannot be easily broken. `[考研英语阅读伦理类话题]`
-> - The two countries entered into a reciprocal agreement to reduce trade barriers and promote bilateral investment. `[考研英语阅读经济类话题]`
-> - Of course a reciprocal interest is needed if cooperation is to be successful. `[欧盟语料库]`
-> - The two nations agreed to give reciprocal work rights to each other's citizens, thus facilitating the daily border crossings of workers from both countries. `[韦氏词典]`
+> - There is a reciprocal relationship between honesty and trust that cannot be easily broken. `[例]`
+> - The two countries entered into a reciprocal agreement to reduce trade barriers and promote bilateral investment. `[例]`
+> - Of course a reciprocal interest is needed if cooperation is to be successful. `[例]`
+> - The two nations agreed to give reciprocal work rights to each other's citizens, thus facilitating the daily border crossings of workers from both countries. `[例]`
 
 
 ---

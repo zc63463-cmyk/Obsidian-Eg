@@ -3,10 +3,8 @@ title: "constraint"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 抽象关系
 prototype: 被束缚/限制的状态
@@ -44,7 +42,7 @@ con-(共同/一起) + [[tract|tract-/str-]](拉/拖) → constrict(压缩) → c
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**被束缚/限制的状态**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **被束缚的状态**（物理层面）
@@ -67,7 +65,7 @@ con-(共同/一起) + [[tract|tract-/str-]](拉/拖) → constrict(压缩) → c
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ con-(共同/一起) + [[tract|tract-/str-]](拉/拖) → constrict(压缩) → c
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > con（一起）+ strain（拉紧）→ constraint（限制）。想象你被预算的绳索紧紧拉住——budget constraints。被时间的绳索拉住——time constraints。constraint 就是从四面八方把你拉住、让你无法自由行动的力量。
@@ -90,7 +88,7 @@ con-(共同/一起) + [[tract|tract-/str-]](拉/拖) → constrict(压缩) → c
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ con-(共同/一起) + [[tract|tract-/str-]](拉/拖) → constrict(压缩) → c
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[freedom]]：自由（constraint 的反义：束缚↔自由）
 > - [[liberty]]：自由，解放（constraint 的反义：约束↔解放）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,7 +120,7 @@ con-(共同/一起) + [[tract|tract-/str-]](拉/拖) → constrict(压缩) → c
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **budget constraints**：预算限制
 > - **time constraints**：时间限制
 > - **impose constraints on**：对……施加限制
@@ -131,19 +129,12 @@ con-(共同/一起) + [[tract|tract-/str-]](拉/拖) → constrict(压缩) → c
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - The constraints of politeness wouldn't allow her to say what she really thought about his cooking . `[例]`
-> - Financial constraints on the company are preventing them from employing new staff . `[例]`
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
+> [!example]- 语料
+> - The constraints of politeness wouldn't allow her to say what she really thought about his cooking. `[例]`
+> - Financial constraints on the company are preventing them from employing new staff. `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

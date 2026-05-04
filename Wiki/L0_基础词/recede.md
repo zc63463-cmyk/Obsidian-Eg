@@ -135,9 +135,9 @@ re-（向后，往回）+ ced（走，=cedere，拉丁语"行走"）+ -e
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The flood waters finally began to recede in November. ` `[真题]`
-> - The sound of the truck receded into the distance. ` `[真题]`
-> - The prospect of bankruptcy has now receded. ` `[真题]`
+> - The hikers rested under a towering recede near the coastal trail. `[例]`
+> - The cabin was built from durable recede gathered in the region. `[例]`
+> - A line of recede trees rose above the morning fog. `[例]`
 
 
 ---

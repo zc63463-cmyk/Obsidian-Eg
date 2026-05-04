@@ -3,10 +3,8 @@ title: "backlog"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 社会习俗
 prototype: 壁炉后方的大木头（储备起来慢慢烧）
@@ -46,7 +44,7 @@ back-(后面) + [[log-logy|log]](圆木)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**壁炉后方的大木头（储备起来慢慢烧）**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **壁炉后方的大木头**（物理层面，1680s）
@@ -68,7 +66,7 @@ back-(后面) + [[log-logy|log]](圆木)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -79,7 +77,7 @@ back-(后面) + [[log-logy|log]](圆木)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 北美冬天，壁炉是全家的命脉。聪明的主人会在壁炉最里面放一根最大的圆木（back + log），这根木头烧得最慢，能整夜维持火不灭。后来人们把"放在后面留着慢慢用"的概念延伸到工作中——那些堆积如山、等着慢慢处理的任务和订单，就是你的 backlog。你欠的作业越多，你的 backlog 越大。
@@ -91,7 +89,7 @@ back-(后面) + [[log-logy|log]](圆木)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,13 +102,13 @@ back-(后面) + [[log-logy|log]](圆木)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[clearance]]：清理，清除（backlog 的功能反义：积压↔清理积压）
 > - [[current]]：当前的，最新的（backlog 的时间反义：积压的旧任务↔当前已处理的）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,7 +119,7 @@ back-(后面) + [[log-logy|log]](圆木)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a backlog of**：积压的……
   - We have a huge backlog of orders to process.（我们有大量积压的订单需要处理。）
 > - **clear/work through a backlog**：清理积压
@@ -131,19 +129,12 @@ back-(后面) + [[log-logy|log]](圆木)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - The pandemic created a massive backlog of surgeries and medical procedures.`[例]`
-> - The company is struggling to cope with a backlog of customer complaints.`[例]`
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
+> [!example]- 语料
+> - The pandemic created a massive backlog of surgeries and medical procedures. `[例]`
+> - The company is struggling to cope with a backlog of customer complaints. `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

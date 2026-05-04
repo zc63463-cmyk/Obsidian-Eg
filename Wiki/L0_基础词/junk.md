@@ -132,10 +132,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "My nephew likes junk food such as chips and cola." `[柯林斯词典]`
-> - "It will take a lot of time to repair the car, so I'm going to junk it." `[柯林斯词典]`
-> - "The food industry was warned to stop advertising junk food to children within a year or face a clampdown." `[新闻语料]`
-> - "I always make sure to mark emails as junk if they are from unknown senders." `[通用语料]`
+> - My nephew likes junk food such as chips and cola. `[例]`
+> - It will take a lot of time to repair the car, so I'm going to junk it. `[例]`
+> - The food industry was warned to stop advertising junk food to children within a year or face a clampdown. `[例]`
+> - I always make sure to mark emails as junk if they are from unknown senders. `[例]`
 
 
 ---

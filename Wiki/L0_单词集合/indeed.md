@@ -125,9 +125,15 @@ in-(加强语气) + deed(行为/事实) → 在事实层面确实如此 → 确�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - It was impossible to find work and, indeed, it became increasingly hard to keep looking for a job. `[COCA-ACAD]`
-> - The task is difficult indeed, but not impossible. `[真题]`
-> - We live in strange times indeed. `[COCA-ACAD]`
+> - Indeed, it could be the worst environmental disaster in Europe this century. `[例]`
+>   - 中译：事实上，这可能是本世纪欧洲最严重的环境灾难。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/indeed
+> - Evidence suggests that errors may indeed be occurring. `[例]`
+>   - 中译：有证据表明，错误可能确实正在发生。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/indeed
+> - We live in strange times indeed. `[例]`
+>   - 中译：我们确实生活在一个奇怪的时代。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/indeed
 
 ---
 

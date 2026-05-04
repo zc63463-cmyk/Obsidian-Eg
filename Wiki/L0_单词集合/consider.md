@@ -134,9 +134,15 @@ con-(共同，一起/仔细) + sid/sider(星星/坐) + -er(动词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It is essential to consider factors beyond GDP." `[真题]`
-> - "Curiosity is often considered a good instinct." `[真题]`
-> - "We are considering moving to a new city next year to be closer to our families." `[COCA-ACAD]`
+> - Even if a state is considered a high performer in its science standards, "that does not mean it will be taught" , he says. `[真题]`
+>   - 中译：他说，即使一个州被认为在科学标准方面表现出色，“这并不意味着它会被教授”。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - Don't make any decisions before you've considered the situation. `[例]`
+>   - 中译：在考虑情况之前不要做出任何决定。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/consider
+> - Have you considered wh at you'll do if you don't get the job? `[例]`
+>   - 中译：你有没有考虑过如果你没有得到这份工作你会做什么？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/consider
 ---
 
 

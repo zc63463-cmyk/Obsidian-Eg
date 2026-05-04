@@ -126,7 +126,7 @@ tunnel 源自古法语 *tonnel*（大桶、圆筒），是 *tonne*（大桶）�
 
 > [!example]- 语料
 > - The decision has not yet been made whether to tunnel under the river or build a bridge over it. `[例]`
-> - The alternative is to tunnel a route through the mountain . `[例]`
+> - The alternative is to tunnel a route through the mountain. `[例]`
 > - He was trapped in a collapsed building but managed to tunnel his way out. `[例]`
 
 

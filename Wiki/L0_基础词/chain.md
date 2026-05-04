@@ -129,9 +129,15 @@ chain 源自古法语 *chaene*，源自拉丁语 *catena*（链条）。无前�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - His resignation was followed by a remarkable chain of events . `[例]`
-> - The synthetic polymer is a plastic composed of long chains of molecules . `[例]`
-> - As part of the centenary celebrations a chain of beacons was lit across the country . `[例]`
+> - The prisoners were kept in chains (= with chains around their arms and legs, to prevent them from escaping). `[例]`
+>   - 中译：囚犯被锁在链子里（=用链子缠住他们的胳膊和腿，以防止他们逃跑）。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/chain
+> - Volunteers formed a human chain (= line of people) to rescue precious items from the burning house. `[例]`
+>   - 中译：志愿者们组成了一条人链（=人线）从着火的房子里营救珍贵的物品。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/chain
+> - Our suppliers are the weakest link in the chain. `[例]`
+>   - 中译：我们的供应商是供应链中最薄弱的环节。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/chain
 
 
 ---

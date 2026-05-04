@@ -126,8 +126,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - You haven't said much, Joan - what do you think ? `[例]`
-> - I don't think there's much to be gained by catching an earlier flight . `[例]`
+> - You haven't said much, Joan - what do you think? `[例]`
+> - I don't think there's much to be gained by catching an earlier flight. `[例]`
 > - Is there any wine left ?" "Not much. `[例]`
 
 

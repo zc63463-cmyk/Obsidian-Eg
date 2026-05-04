@@ -124,10 +124,15 @@ at-（=ad-，向、朝向）+ torner（转，古法语 *torner*，拉丁语 *tor
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The defendant has the right to be represented by an attorney. `[COCA-ACAD]`
-> - They paid a high-powered attorney to plead their case. `[COCA-NEWS]`
-> - The defence attorney requested an adjournment to review the new evidence. `[COCA-ACAD]`
-> - We encourage families to obtain durable power of attorney for health care for their demented relatives. `[COCA-ACAD]`
+> - The prosecuting attorney began with a short opening statement. `[例]`
+>   - 中译：检察官首先发表了简短的开庭陈词。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/attorney
+> - She was made her father's attorney when he became ill. `[例]`
+>   - 中译：当她父亲生病时，她被任命为他的律师。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/attorney
+> - Dever continues to be represented by attorney Fred Toczek. `[例]`
+>   - 中译：德弗继续由律师 Fred Toczek 代理。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/attorney
 
 
 ---

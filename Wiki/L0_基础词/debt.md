@@ -129,9 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - A. ruins B. debt C. fashion Section Il Reading Comprehension Part A Directions: D. equipped D. permanently D. combination D. connect D. along with D. evaluation D. reduced D. opposed D. in case D. meeting D. `[真题]`
-> - He managed to pay off his debts in two years . `[例]`
+> - He managed to pay off his debts in two years. `[例]`
 > - The company ran up huge debts. `[例]`
+> - They are in debt to (= owe money to) the bank. `[例]`
 
 
 ---

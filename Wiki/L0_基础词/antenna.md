@@ -121,9 +121,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - These satellites are huge, featuring antennas that cover 2,400 square feet (223 square m) when deployed. `[例]`
-> - Once Roman is launched, the first 45 days of its mission will consist of deploying its solar panel and antennas . `[例]`
-> - The company’s satellites have stood out for their extremely large antennas . `[例]`
+> - Related Stories That day also marked the launch of NBC’s first regular television schedule, beamed out of a giant antenna stuck on top of the Empire State Building. `[例]`
+>   - 中译：当天还标志着 NBC 第一个定期电视节目的推出，该节目通过帝国大厦顶部的巨型天线发射。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/antenna
+> - That required segmenting the coil and inserting electronics within it to keep it from radiating its energy away like an antenna. `[例]`
+>   - 中译：这需要将线圈分段并在其中插入电子器件，以防止其像天线一样辐射能量。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/antenna
+> - Often, cities try to hide towers, monopoles and antennas on water towers, church crosses or the tops of other tall buildings. `[例]`
+>   - 中译：通常，城市试图将塔、单极天线和天线隐藏在水塔、教堂十字架或其他高层建筑的顶部。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/antenna
 
 
 ---

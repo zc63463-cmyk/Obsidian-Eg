@@ -119,8 +119,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - "It is advisable to make a backup copy of all important files."（建议对所有重要文件进行备份。）——考研阅读真题
-> - "It would be advisable to seek professional advice before making any investment decisions."（在做任何投资决定之前，寻求专业建议是明智的。）——考研高频表达
+> - It's advisable to book seats at least a week in advance. `[例]`
+>   - 中译：建议至少提前一周预订座位。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/advisable
+> - A certain amount of caution is advisable at this point. `[例]`
+>   - 中译：此时建议保持一定程度的谨慎。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/advisable
+> - Early booking is advisable. `[例]`
+>   - 中译：建议尽早预订。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/advisable
 
 ---
 

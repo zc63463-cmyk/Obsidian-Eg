@@ -135,9 +135,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Of course , you pay more for premises with a central location (= in or near the centre of a town ) . `[例]`
-> - Community involvement is central to our plan . `[例]`
-> - At that time she worked for Central Regional Council. `[例]`
+> - There will be rain later in central and eastern parts of the country. `[例]`
+>   - 中译：稍后，该国中部和东部地区将有降雨。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/central
+> - The flat is very central—just five minutes from Princes Street. `[例]`
+>   - 中译：该公寓位于市中心，距离王子街仅五分钟路程。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/central
+> - The offices are in a central location. `[例]`
+>   - 中译：办公室位于中心位置。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/central
 
 
 ---

@@ -130,8 +130,15 @@ ex-(=out, 向外) + press(=压，挤压) + -ion(名词后缀，表示动作或�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It is speculated that gardens arise from a basic need in the individuals who made them: the need for creative expression."（人们推测，花园源于建造者的一种基本需求：创造性表达的需求。——2013年考研英语一翻译）
-> - "He advocated freedom of thought and of personal expression."（他倡导思想自由和个人言论自由。——2014年考研英语一翻译）
+> - Recently, another expression of this predatory behavior has emerged: so-called support service consultancies that provide language and other editorial support to individual authors and to journals sometimes advise contributors to add a number of citations to their articles. `[真题]`
+>   - 中译：最近，这种掠夺行为的另一种表现形式出现了：所谓的支持服务咨询公司为个人作者和期刊提供语言和其他编辑支持，有时会建议撰稿人在他们的文章中添加大量引用。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - We've received a lot of expressions of support for our campaign. `[例]`
+>   - 中译：我们收到了很多人对我们的活动表示支持。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/expression
+> - Freedom of expression is a basic human right. `[例]`
+>   - 中译：言论自由是一项基本人权。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/expression
 
 ---
 

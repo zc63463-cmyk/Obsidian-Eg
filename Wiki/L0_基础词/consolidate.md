@@ -125,9 +125,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The question is: will the junta consolidate its power by force?" `[COCA-ACAD]`
-> - "The lower fees have forced many independent practices to go out of business or consolidate." `[COCA-NEWS]`
-> - "Between 1992 and 2002 the country was returning to and consolidating civilian rule." `[COCA-ACAD]`
+> - With this new movie he has consolidated his position as the country's leading director. `[例]`
+>   - 中译：通过这部新电影，他巩固了自己作为该国领先导演的地位。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/consolidate
+> - Italy consolidated their lead with a second goal. `[例]`
+>   - 中译：意大利凭借第二个进球巩固了领先优势。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/consolidate
+> - All the debts have been consolidated. `[例]`
+>   - 中译：所有债务均已合并。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/consolidate
 
 
 ---

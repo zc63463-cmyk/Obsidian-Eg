@@ -137,9 +137,15 @@ chew 源自古英语 *ceowan*（咀嚼），是原始日耳曼语 *keuwjan* 的�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - This meat is difficult to chew. `[例]`
-> - You don't chew your food enough - that's why you get indigestion . `[例]`
-> - Would you like some gum to chew? `[例]`
+> - After the operation you may find it difficult to chew and swallow. `[例]`
+>   - 中译：手术后，您可能会发现咀嚼和吞咽困难。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/chew
+> - She finished chewing her mouthful of pizza. `[例]`
+>   - 中译：她把满嘴的披萨嚼完了。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/chew
+> - He is always chewing gum. `[例]`
+>   - 中译：他总是嚼口香糖。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/chew
 
 
 ---

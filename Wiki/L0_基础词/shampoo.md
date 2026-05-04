@@ -132,9 +132,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She shampoos her hair every morning." `[真题]`
-> - "Duncan shampooed my hair and then Tracy cut it." `[真题]`
-> - "We need to shampoo the rug." `[真题]`
+> - She shampoos her hair every morning. `[真题]`
+> - Duncan shampooed my hair and then Tracy cut it. `[真题]`
+> - Directions: wet hair , apply shampoo, and massage into a rich lather. `[例]`
 
 
 ---

@@ -3,10 +3,8 @@ title: "overwhelmingly"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-25
-mastery: L0
 word_freq: 超纲词
 semantic_field: 抽象关系
 prototype: 压倒性地
@@ -43,7 +41,7 @@ over-(在上面/越过) + whelm(=淹没/翻覆) + -ing(进行时) + -ly(副词�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**压倒性地**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **压倒性地**（物理→抽象层面）
@@ -64,7 +62,7 @@ over-(在上面/越过) + whelm(=淹没/翻覆) + -ing(进行时) + -ly(副词�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ over-(在上面/越过) + whelm(=淹没/翻覆) + -ing(进行时) + -ly(副词�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > over（在上面）+ whelm（淹没）→ 从上面被淹没 → 压倒性的。想象洪水从上面涌来把你淹没——overwhelming（压倒性的）。投票结果 90% 赞成——overwhelmingly approved（压倒性地通过）。
@@ -86,7 +84,7 @@ over-(在上面/越过) + whelm(=淹没/翻覆) + -ing(进行时) + -ly(副词�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -97,12 +95,12 @@ over-(在上面/越过) + whelm(=淹没/翻覆) + -ing(进行时) + -ly(副词�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[marginally]]：勉强地，微弱地（overwhelmingly 的反义：压倒性地↔微弱地）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -113,26 +111,19 @@ over-(在上面/越过) + whelm(=淹没/翻覆) + -ing(进行时) + -ly(副词�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **overwhelmingly positive**：压倒性地积极
 > - **overwhelmingly likely**：极有可能
 > - **overwhelmingly support**：压倒性地支持
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - `[例]` The evidence overwhelmingly supports the theory.
-> - `[例]` Students overwhelmingly voted in favor of the new policy.
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-25 | **复习次数**：0 | **当前等级**：L0
-
----
+> [!example]- 语料
+> - The team were overwhelmingly defeated in yesterday's game. `[例]`
+> - They voted overwhelmingly against the proposal. `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

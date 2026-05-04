@@ -128,10 +128,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The teacher drummed the names of the state capitals into our heads." `[真题]`
-> - "This year's ceremony drummed up support for the communities affected by the wildfires." `[真题]`
-> - "He tried to drum into his players the importance of discipline on and off the field." `[真题]`
-> - "The government is drumming up support for the new policy." `[真题]`
+> - The teacher drummed the names of the state capitals into our heads. `[真题]`
+> - This year's ceremony drummed up support for the communities affected by the wildfires. `[真题]`
+> - He tried to drum into his players the importance of discipline on and off the field. `[真题]`
+> - The government is drumming up support for the new policy. `[真题]`
 
 ---
 

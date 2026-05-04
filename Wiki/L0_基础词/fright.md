@@ -126,10 +126,9 @@ fright(整体词，源自古英语 *fryhto*，与 [[frighten]] 同源)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - I had a terrible fright this morning when I saw the snake in my garden. ` [真题]`
-> - You gave me the fright of my life, jumping out from behind the door like that. ` [真题]`
-> - The child cried out in fright when the lights suddenly went out during the storm. ` [语料]`
-> - Leah got such a fright that she dropped the tray of glasses on the floor. ` [语料]`
+> - I lay in bed shaking with fright. `[例]`
+> - You gave her such a fright turning the lights out like that. `[例]`
+> - You gave me the fright of my life (= a very severe fright) , jumping out of the shadows! `[例]`
 
 
 ---

@@ -123,8 +123,8 @@ in-(进入) + stall(固定位置) + -ment(名词后缀)
 > [!example]- 语料
 > - Many college students rely on paying their tuition fees in installments. `[真题]`
 > - Students often choose to purchase laptops on installments to manage their finances better. `[真题]`
-> - Maria borrows a sum payable in 12 monthly installments. `[语料库]`
-> - This is the first installment of a three-part series on climate change. `[语料库]`
+> - Maria borrows a sum payable in 12 monthly installments. `[例]`
+> - This is the first installment of a three-part series on climate change. `[例]`
 
 
 ---

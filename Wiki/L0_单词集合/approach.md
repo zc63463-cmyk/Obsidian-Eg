@@ -132,9 +132,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - A comprehensive approach to environmental protection requires the cooperation of government, businesses, and individuals. `[例]`
-> - Depending on whom you are addressing, the problems will be different, and the approach should be adjusted accordingly. `[真题]`
-> - Several companies approached her about a potential partnership. `[例]`
+> - We could just see the train approaching in the distance. `[例]`
+>   - 中译：我们只能看到远处驶来的火车。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/approach
+> - If you look out of the window on the left , you'll see that we're now approaching the Eiffel Tower. `[例]`
+>   - 中译：如果您向左边的窗外看，您会发现我们现在正在接近埃菲尔铁塔。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/approach
+> - I see it's approaching lunchtime , so let's take a break. `[例]`
+>   - 中译：我看已经快到午饭时间了，我们休息一下吧。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/approach
 ---
 
 

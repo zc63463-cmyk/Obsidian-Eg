@@ -139,8 +139,8 @@ review_count: 0
 
 > [!example]- 语料
 > - A decisive win would certainly help to ease the pressure on the team's captain. `[真题]`
-> - He felt completely at ease with them. `[真题]`
 > - She performed the task with her accustomed ease. `[真题]`
+> - To ease the problem of overcrowding , new prisons will be built. `[例]`
 
 
 ---

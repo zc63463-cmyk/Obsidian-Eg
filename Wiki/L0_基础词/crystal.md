@@ -130,9 +130,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - When sea water is allowed to evaporate , salt crystals are deposited . `[例]`
-> - Cirrus clouds are composed of ice crystals. `[例]`
-> - Silicon crystals grown in a laboratory convert light into electrical energy . `[例]`
+> - Every table had been set with fine china and crystal. `[例]`
+>   - 中译：每张桌子上都摆满了精美的瓷器和水晶。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/crystal
+> - She claims that Smoky Quartz is a powerful healing crystal. `[例]`
+>   - 中译：她声称烟晶是一种强大的治疗水晶。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/crystal
+> - Some of the crystals used in the necklace are a pale pink color. `[例]`
+>   - 中译：项链中使用的一些水晶是淡粉色的。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/crystal
 
 
 ---

@@ -124,8 +124,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The report also advocates greater study of foreign languages, international affairs and the expansion of study abroad programs."（该报告还提倡增加对外语和国际关系的研究力度以及扩大留学项目。）——2014考研英语一翻译
-> - "Any further industrial expansion in the area will face fierce opposition from environmentalists."（该地区任何进一步的工业扩张都将面临环保人士的强烈反对。）——考研高频表达
+> - Expansion into new areas of research is possible. `[例]`
+>   - 中译：扩展到新的研究领域是可能的。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/expansion
+> - We need a dynamic expansion of trade with other countries. `[例]`
+>   - 中译：我们需要积极扩大与其他国家的贸易。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/expansion
+> - The president said NATO expansion will finally erase the boundary line in Europe artificially created by the Cold War. `[例]`
+>   - 中译：总统表示，北约东扩将最终消除冷战时期人为划定的欧洲边界线。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/expansion
 
 ---
 

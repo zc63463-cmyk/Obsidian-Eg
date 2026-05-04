@@ -126,10 +126,9 @@ in-(=向内，在内) + tuit(=tueri, 注视，拉丁语 *tueri* "看/保护") + 
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She had an intuition that something was wrong. ` `[真题]`
-> - If you think there's something wrong about the situation, you should trust your intuition. ` `[语料库]`
-> - Sometimes doctors have to base a diagnosis on intuition as much as on scientific tests. ` `[语料库]`
-> - Often there's no clear evidence one way or the other and you just have to base your judgment on intuition. ` `[语料库]`
+> - Often there's no clear evidence one way or the other and you just have to base your judgment on intuition. `[例]`
+> - I can't explain how I knew - I just had an intuition that you'd been involved in an accident. `[例]`
+> - You should trust your intuition in making your decision. `[例]`
 
 
 ---

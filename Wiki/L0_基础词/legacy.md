@@ -126,8 +126,8 @@ review_count: 0
 
 > [!example]- 语料
 > - An elderly cousin had left her a small legacy. `[例]`
-> - The Greeks have a rich legacy of literature . `[例]`
-> - The war has left a legacy of hatred . `[例]`
+> - The Greeks have a rich legacy of literature. `[例]`
+> - The war has left a legacy of hatred. `[例]`
 
 
 ---

@@ -127,7 +127,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Studies have shown that regular exercise significantly reduces the risk of chronic health conditions.（研究表明，定期锻炼显著降低患慢性健康问题的风险。）
+> - Regular exercise is good for your health. `[例]`
+>   - 中译：经常锻炼对您的健康有益。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/health
+> - I had to give up drinking for health reasons. `[例]`
+>   - 中译：由于健康原因我不得不戒酒。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/health
+> - The public wants more funding for education and health. `[例]`
+>   - 中译：公众希望为教育和健康提供更多资金。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/health
 
 ---
 

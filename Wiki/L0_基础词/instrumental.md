@@ -131,10 +131,9 @@ instrumental（14世纪末，源自古法语 *instrumental*，源自拉丁语 *i
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She was instrumental in bringing about prison reform. ` [真题]`
-> - Technology has been instrumental in transforming the way we communicate and access information. ` [真题]`
-> - The scientist was instrumental in developing the new vaccine. ` [语料库]`
-> - Social media has been instrumental in shaping public opinion on environmental issues. ` [语料库]`
+> - The researchers proposed a instrumental solution to the problem. `[例]`
+> - The company adopted a instrumental approach to improve efficiency. `[例]`
+> - The plan offers a instrumental option for small organizations. `[例]`
 
 
 ---

@@ -122,8 +122,15 @@ fortun(e)（来自 Fortuna，罗马命运女神）→ 命运→运气→财富
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He made a fortune by investing in technology companies during the early stages of the internet boom."（他在互联网繁荣早期投资科技公司发了一笔财。）——考研高频表达
-> - "It is a common belief that fortune favors those who are well-prepared."（人们普遍认为，机会偏爱有准备的人。）——考研高频表达
+> - Now, with record-high home prices and historically low inventory, there's an increased urgency in such regulation, particularly among those who worry that developers will come in and buy up swaths of housing to flip for a fortune on the short-term rental market. `[真题]`
+>   - 中译：现在，随着房价创历史新高，库存也创历史新低，此类监管的紧迫性越来越大，尤其是那些担心开发商会介入并购买大量住房并在短期租赁市场上转手大赚的人。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - She inherited a fortune from her grandmother. `[例]`
+>   - 中译：她从祖母那里继承了一大笔财产。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/fortune
+> - He lost a fortune gambling. `[例]`
+>   - 中译：他赌博输了一大笔钱。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/fortune
 
 
 ---

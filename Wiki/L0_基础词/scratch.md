@@ -141,9 +141,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "His career started from scratch, and he eventually became one of the most successful entrepreneurs in the industry." `[真题]`
-> - "We scratched the wall trying to get the bed into Martha's room." `[真题]`
-> - "The company was started from scratch in 1995, but its annual sales are already over $20 million." `[语料库]`
+> - His career started from scratch, and he eventually became one of the most successful entrepreneurs in the industry. `[真题]`
+> - We scratched the wall trying to get the bed into Martha's room. `[真题]`
+> - The company was started from scratch in 1995, but its annual sales are already over $20 million. `[例]`
 
 
 ---

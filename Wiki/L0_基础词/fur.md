@@ -126,9 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Many consumers now refuse to buy products made from real animal fur." `[真题]`
-> - "She had on a black coat with a fur collar." `[语料库]`
-> - "Season after season, fake fur becomes more realistic as technology improves." `[语料库]`
+> - Many consumers now refuse to buy products made from real animal fur. `[真题]`
+> - She had on a black coat with a fur collar. `[例]`
+> - Season after season, fake fur becomes more realistic as technology improves. `[例]`
 
 
 ---

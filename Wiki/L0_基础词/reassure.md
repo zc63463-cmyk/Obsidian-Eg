@@ -130,9 +130,9 @@ re-（再次，反复）+ as-（朝向，=ad-）+ sur（安全，=sure，源自�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - He reassured me that my cheque would arrive soon. ` `[真题]`
-> - The president hastened to reassure his people that he was in perfect health. ` `[真题]`
-> - Teachers tried their best to reassure kids who had seen the rumor through text messages and were afraid to board the bus. ` `[真题]`
+> - I was nervous on my first day at college , but I was reassured to see some friendly faces. `[例]`
+> - He reassured me (that) my cheque would arrive soon. `[例]`
+> - The president hastened to reassure his people that he was in perfect health. `[例]`
 
 
 ---

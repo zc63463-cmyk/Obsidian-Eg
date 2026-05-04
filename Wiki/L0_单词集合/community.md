@@ -132,8 +132,15 @@ commun(共同) + -ity(名词后缀，表示状态或集合)
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - "The local community has organized a fundraising event for the victims of the flood."（当地社区为洪灾受害者组织了一场募捐活动。）——考研阅读真题
-> - "The scientific community has welcomed the findings of the research."（科学界对这项研究的发现表示欢迎。）——考研高频表达
+> - Its communities are in need of funding. `[真题]`
+>   - 中译：它的社区需要资金。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - The scientific community measures the quality of those papers in a number of ways, including the perceived quality of the journal ( as reflected by the title's impact factor) and the number of citations a specific paper accumulates. `[真题]`
+>   - 中译：科学界通过多种方式衡量这些论文的质量，包括期刊的感知质量（如标题的影响因子所反映）和特定论文累积的引用次数。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - He's well known in the local community. `[例]`
+>   - 中译：他在当地社区很有名。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/community
 
 ---
 

@@ -129,9 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The biggest obstacle in our way was a tree trunk in the road . `[例]`
-> - This decision has removed the last obstacle to the hostages ' release . `[例]`
-> - We suddenly encountered an obstacle along the trail . `[例]`
+> - The biggest obstacle in our way was a tree trunk in the road. `[例]`
+> - This decision has removed the last obstacle to the hostages ' release. `[例]`
+> - We suddenly encountered an obstacle along the trail. `[例]`
 
 
 ---

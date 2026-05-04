@@ -130,8 +130,8 @@ pray(祈祷/恳求) + -er(名词后缀：表示行为、结果或人)
 
 > [!example]- 语料
 > - A prayer of thanks. `[例]`
-> - She always says her prayers (= prays ) before she goes to sleep . `[例]`
-> - We thought he'd been killed , but our prayers were answered when he arrived home unexpectedly . `[例]`
+> - She always says her prayers (= prays ) before she goes to sleep. `[例]`
+> - We thought he'd been killed , but our prayers were answered when he arrived home unexpectedly. `[例]`
 
 
 ---

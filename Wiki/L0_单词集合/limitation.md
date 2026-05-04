@@ -123,9 +123,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "A third limitation is the dependence of the results on time-specific depressive symptoms." `[COCA-ACAD]`
-> - "But there are limitations to what can be done." `[COCA-NEWS]`
-> - "Every scientific study has its limitations that researchers must acknowledge." `[例]`
+> - PRH declined to comment on the issue , but a spokesperson for W aterstones told me : " W aterstones are currently operating with reduced credit terms from PRH, the only publisher in the UK to place any limitations on our ability to trade. `[真题]`
+>   - 中译：PRH 拒绝就此事发表评论，但 Waterstones 的一位发言人告诉我：“Waterstones 目前正在以 PRH 降低的信贷条件运营，PRH 是英国唯一一家对我们的交易能力施加任何限制的出版商。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - Living in an apartment is fine , but it does have its limitations - for example , you don't have your own garden. `[例]`
+>   - 中译：住在公寓里很好，但它也有其局限性——例如，你没有自己的花园。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/limitation
+> - The major limitation of early record players was the short playing time of the records. `[例]`
+>   - 中译：早期电唱机的主要限制是唱片的播放时间较短。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/limitation
 
 ---
 

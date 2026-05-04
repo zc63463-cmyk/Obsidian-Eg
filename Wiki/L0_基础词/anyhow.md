@@ -125,9 +125,15 @@ any(任何) + how(方式)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - He looked a complete mess - dressed anyhow with his hair sticking up. `[例]`
-> - Anyhow, I didn’t ask you to come here to talk about your business . `[例]`
 > - She piled the papers in a heap on her desk, just anyhow. `[例]`
+>   - 中译：不管怎样，她把文件在桌子上堆成一堆。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/anyhow
+> - It's OK if we don't go to the movie. I'm not that interested in seeing it anyhow. `[例]`
+>   - 中译：如果我们不去看电影也没关系。无论如何我都没有兴趣看它。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/anyhow
+> - What exactly did she mean by that anyhow? `[例]`
+>   - 中译：她这句话究竟是什么意思？
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/anyhow
 
 
 ---

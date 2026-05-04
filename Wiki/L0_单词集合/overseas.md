@@ -121,9 +121,15 @@ over-(越过) + sea(海) + -s(副词/形容词标记)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "An increasing number of Chinese students choose to pursue their higher education overseas." `` `[COCA-ACAD]` ``
-> - "The company has been successful in penetrating overseas markets this year." `` `[COCA-ACAD]` ``
-> - "Colleges and universities are seeing strong interest from overseas students who pay large fees." `` `[COCA-NEWS]` ``
+> - We need to open up overseas markets. `[例]`
+>   - 中译：我们需要开拓海外市场。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/overseas
+> - There are a lot of overseas students studying at our college. `[例]`
+>   - 中译：有很多海外学生在我们学院学习。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/overseas
+> - My brother is a student overseas. `[例]`
+>   - 中译：我弟弟是一名海外学生。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/overseas
 ---
 
 

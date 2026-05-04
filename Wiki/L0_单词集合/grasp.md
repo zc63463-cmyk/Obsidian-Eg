@@ -125,8 +125,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Many students find it difficult to grasp the fundamental principles of quantum mechanics.（许多学生觉得很难理解量子力学的基本原理。）
-> - The full extent of the environmental damage is still beyond our grasp.（环境破坏的全部程度仍然超出了我们的认知。）
+> - Rosie suddenly grasped my hand. `[例]`
+>   - 中译：罗西突然握住了我的手。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/grasp
+> - We must grasp every opportunity to strengthen economic ties with other countries. `[例]`
+>   - 中译：我们要抓住一切机会，加强同各国的经济联系。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/grasp
+> - She suddenly grasped my arm and looked at me. `[例]`
+>   - 中译：她突然抓住我的手臂，看着我。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/grasp
 
 ---
 

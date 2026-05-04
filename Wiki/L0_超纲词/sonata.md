@@ -3,10 +3,8 @@ title: "sonata"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-25
-mastery: L0
 word_freq: 超纲词
 semantic_field: 社会习俗
 prototype: 奏鸣曲（器乐独奏曲）
@@ -43,7 +41,7 @@ sonata（源自意大利语 *sonata*，源自 *sonare*"发声，演奏"，与 [[
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**奏鸣曲**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **被演奏的乐曲**（音乐层面）
@@ -63,7 +61,7 @@ sonata（源自意大利语 *sonata*，源自 *sonare*"发声，演奏"，与 [[
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -73,7 +71,7 @@ sonata（源自意大利语 *sonata*，源自 *sonare*"发声，演奏"，与 [[
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > sonata 源于意大利语 sonare（发声/演奏）。sonata = "被演奏的乐曲"，cantata = "被演唱的乐曲"。贝多芬的《月光奏鸣曲》是最著名的 sonata 之一。想象一个人坐在钢琴前，手指在琴键上流淌出优美的旋律——那就是在演奏 sonata。
@@ -85,7 +83,7 @@ sonata（源自意大利语 *sonata*，源自 *sonare*"发声，演奏"，与 [[
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -98,12 +96,12 @@ sonata（源自意大利语 *sonata*，源自 *sonare*"发声，演奏"，与 [[
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[cantata]]：康塔塔，清唱剧（sonata 的反义：器乐演奏↔声乐演唱）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -114,26 +112,19 @@ sonata（源自意大利语 *sonata*，源自 *sonare*"发声，演奏"，与 [[
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **piano sonata**：钢琴奏鸣曲
 > - **Moonlight Sonata**：《月光奏鸣曲》
 > - **sonata form**：奏鸣曲式
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - Beethoven has composed many piano sonatas in his life, which have inspired countless concert pianists, teachers, students and listeners. `[例]`
 > - One evening in early 1944, four emaciated young women, attempting to rouse themselves from their grim prison conditions, began a secret performance of Beethoven’s Pathétique sonata in the cold and cramped barrack that also served as their dormitory, practice room, eating place and parcel depot. `[例]`
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-25 | **复习次数**：0 | **当前等级**：L0
-
----
-
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

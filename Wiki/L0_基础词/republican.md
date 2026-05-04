@@ -123,10 +123,10 @@ re-(=res，事物) + public(公共的) + -an(属于……的/人)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "There is a strong republican movement in the country." `[COCA-NEWS]`
-> - "Many business leaders were hoping for a Republican victory." `[COCA-NEWS]`
-> - "Republican leaders met with the president to discuss the budget proposal." `[COCA-NEWS]`
-> - "The Republicans gained control of the House in the midterms." `[COCA-NEWS]`
+> - There is a strong republican movement in the country. `[COCA-NEWS]`
+> - Many business leaders were hoping for a Republican victory. `[COCA-NEWS]`
+> - Republican leaders met with the president to discuss the budget proposal. `[COCA-NEWS]`
+> - The Republicans gained control of the House in the midterms. `[COCA-NEWS]`
 
 
 ---

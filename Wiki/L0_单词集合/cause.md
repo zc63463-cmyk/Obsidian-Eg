@@ -136,10 +136,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The main cause of global warming is the emission of greenhouse gases."（全球变暖的主要原因是温室气体的排放）——环境话题
-> - "She devoted her life to the cause of education."（她将一生奉献给了教育事业）——社会话题
-> - "The earthquake caused widespread destruction across the region."（地震在该地区造成了广泛的破坏）——灾难话题
-> - "We need to identify the root cause of the problem before we can solve it."（我们需要先找出问题的根本原因，然后才能解决它）——分析话题
+> - The police are still trying to establish the cause of the fire. `[例]`
+>   - 中译：警方仍在试图确定起火原因。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/cause
+> - She had died of natural causes. `[例]`
+>   - 中译：她是自然死亡的。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/cause
+> - I wouldn't tell you without (good) cause (= if there was not a (good) reason ). `[例]`
+>   - 中译：没有（好的）原因我不会告诉你（=如果没有（好的）原因）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/cause
 
 ---
 

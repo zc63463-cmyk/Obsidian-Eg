@@ -139,10 +139,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Everyone is entitled to basic human rights regardless of race or gender. `[例]`
-> - Food, water, and shelter are the basic needs of survival. `[例]`
-> - Basically, the problem lies in our lack of communication. `[例]`
-> - The government decided to go back to basics in education policy. `[例]`
+> - He only has a basic command of English (= he only knows the most important and simple words and expressions ). `[例]`
+>   - 中译：他只有基本的英语能力（=他只知道最重要和简单的单词和表达）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/basic
+> - The basic (= most important ) problem is that they don't talk to each other enough. `[例]`
+>   - 中译：基本（=最重要）的问题是他们彼此交谈得不够。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/basic
+> - It's the most basic model (= it only has the most simple features ). `[例]`
+>   - 中译：这是最基本的模型（=它只有最简单的功能）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/basic
 
 ---
 

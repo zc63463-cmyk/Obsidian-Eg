@@ -129,8 +129,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Unfortunately the report was prepared in haste and contained several inaccuracies . `[例]`
-> - In her haste to get up from the table , she knocked over a cup . `[例]`
+> - Unfortunately the report was prepared in haste and contained several inaccuracies. `[例]`
+> - In her haste to get up from the table , she knocked over a cup. `[例]`
 > - His father had just died and he didn't want to marry with indecent haste. `[例]`
 
 

@@ -3,10 +3,8 @@ title: "nudge"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-25
-mastery: L0
 word_freq: 超纲词
 semantic_field: 人体动作
 prototype: 轻推（用肘轻轻推一下）
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**轻推**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **轻推**（物理动作层面）
@@ -66,7 +64,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > nudge 是一个拟声词，模仿轻推时发出的"嗯——"声。想象上课时你睡着了，同桌用肘轻轻 nudge 了你一下——你醒了。nudge 后来引申为"温和地推动"——政府 nudge 公民健康饮食（用温和政策推动），朋友 nudge 你去健身（温和地劝说）。nudge 的核心就是"轻轻地推"。
@@ -89,7 +87,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +100,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[force]]：强迫（nudge 的反义：温和推动↔强迫）
 > - [[compel]]：迫使（nudge 的反义：温和推动↔迫使）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,7 +116,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **give someone a nudge**：轻轻推某人一下；暗示某人
 > - **nudge someone into doing**：温和地促使某人做某事
 > - **nudge someone towards**：引导某人朝……方向
@@ -126,19 +124,12 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - `[例]` "She gave him a nudge to remind him that it was time to leave."
-> - `[例]` "The government hopes to nudge people towards healthier eating habits through subtle policy changes."
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-25 | **复习次数**：0 | **当前等级**：L0
-
----
+> [!example]- 语料
+> - The children were giggling and nudging each other. `[例]`
+> - He nudged the cat off the sofa so that he could sit down. `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

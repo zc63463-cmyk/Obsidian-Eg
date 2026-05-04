@@ -133,9 +133,15 @@ Ceres(罗马神话谷物女神) + -al(名词/形容词后缀，与...有关的)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Do you want cereal or eggs ? `[例]`
-> - Wheat, rice , and corn are cereals. `[例]`
-> - I hate it when cereal goes all soggy , so I try to eat it up quickly . `[例]`
+> - Wheat and barley are common cereals. `[例]`
+>   - 中译：小麦和大麦是常见的谷物。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/cereal
+> - Some kinds of cereal have a lot of added sugar. `[例]`
+>   - 中译：某些谷物含有大量添加糖。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/cereal
+> - Some cereals have a lot of added sugar. `[例]`
+>   - 中译：有些谷物含有大量添加糖。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/cereal
 
 
 ---

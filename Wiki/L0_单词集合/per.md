@@ -137,10 +137,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The country's per capita income has increased in recent years. `[COCA-ACAD]`
-> - The technology is not good or bad per se, but it depends on how we use it. `[COCA-ACAD]`
-> - Tax is paid as a percentage of total income per the regulations. `[COCA]`
-> - The car can reach speeds of up to 120 miles per hour. `[COCA]`
+> - The meal will cost $20 per person. `[例]`
+>   - 中译：餐费为每人20美元。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/per
+> - The car was travelling at 70 miles per hour (70 mph ). `[例]`
+>   - 中译：汽车以每小时 70 英里（70 英里/小时）的速度行驶。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/per
+> - There are more cafés per square mile here than anywhere else in the country. `[例]`
+>   - 中译：这里每平方英里的咖啡馆数量比全国其他任何地方都多。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/per
 
 ---
 

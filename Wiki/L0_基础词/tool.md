@@ -125,8 +125,8 @@ review_count: 0
 
 > [!example]- 语料
 > - A free low-interest credit card can be a useful budgeting tool. `[例]`
-> - The artist was surrounded by paints , brushes , and other tools of the trade . `[例]`
-> - The president was widely regarded as the tool of the military . `[例]`
+> - The artist was surrounded by paints , brushes , and other tools of the trade. `[例]`
+> - The president was widely regarded as the tool of the military. `[例]`
 
 
 ---

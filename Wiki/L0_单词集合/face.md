@@ -144,9 +144,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "We must face the fact that..."（我们必须面对……的事实）——考研写作/翻译高频句式
-> - "On the face of it, the plan seems reasonable."（表面看来，这个计划似乎合理）——考研阅读常见搭配，表示初步判断
-> - "face-to-face communication"（面对面交流）——社会类话题高频搭配
+> - She has a long , thin face. `[例]`
+>   - 中译：她有一张又长又瘦的脸。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/face
+> - I saw a few familiar faces among the crowd. `[例]`
+>   - 中译：我在人群中看到了几个熟悉的面孔。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/face
+> - She had a puzzled expression on her face. `[例]`
+>   - 中译：她脸上露出困惑的表情。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/face
 
 ---
 

@@ -137,9 +137,9 @@ flame 源自拉丁语 *flamma*（火焰、火苗），来自动词 *flagrare*（
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The flames grew larger as the fire spread . `[例]`
-> - The car flipped over and burst into flames (= started burning immediately ) . `[例]`
-> - When the fire engine arrived the house was already in flames (= burning ) . `[例]`
+> - The flames grew larger as the fire spread. `[例]`
+> - The car flipped over and burst into flames (= started burning immediately ). `[例]`
+> - When the fire engine arrived the house was already in flames (= burning ). `[例]`
 
 
 ---

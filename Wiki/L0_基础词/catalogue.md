@@ -128,9 +128,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The whole holiday was a catalogue of disasters . `[例]`
-> - Many plants become extinct before they have even been catalogued. `[例]`
-> - The auction house produces a catalogue full of colour photographs for each sale , available two weeks beforehand . `[例]`
+> - An illustrated catalogue accompanies the exhibition. `[例]`
+>   - 中译：展览附有插图目录。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/catalogue
+> - Do you often buy goods from mail-order catalogues? `[例]`
+>   - 中译：您经常从邮购目录中购买商品吗？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/catalogue
+> - Our autumn catalogue is now available from our usual stockists. `[例]`
+>   - 中译：我们的秋季目录现在可以从我们通常的库存商处购买。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/catalogue
 
 
 ---

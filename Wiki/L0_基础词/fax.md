@@ -131,8 +131,8 @@ fac（做）+ simile（相似）→ facsimile（做成相似的东西）→ 缩�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - I'll send you a fax with the details of the proposal . `[例]`
-> - Do you have a fax at home ? `[例]`
+> - I'll send you a fax with the details of the proposal. `[例]`
+> - Do you have a fax at home? `[例]`
 > - These are true fax. `[例]`
 
 

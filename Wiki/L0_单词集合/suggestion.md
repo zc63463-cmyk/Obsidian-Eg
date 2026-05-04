@@ -121,9 +121,15 @@ sug-（sub- 在 g 前的同化：从下方）+ gest（带来，建议创建词�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - I don't know what to wear tonight - do you have any suggestions? `[例]`
-> - She made some very helpful suggestions but her boss rejected them all. `[例]`
-> - They didn't like my suggestion that we should all share the cost . `[例]`
+> - Can I make a suggestion? `[例]`
+>   - 中译：我可以提个建议吗？
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/suggestion
+> - Do you have any suggestions? `[例]`
+>   - 中译：您有什么建议吗？
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/suggestion
+> - I would like to offer a suggestion. `[例]`
+>   - 中译：我想提出一个建议。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/suggestion
 
 
 ---

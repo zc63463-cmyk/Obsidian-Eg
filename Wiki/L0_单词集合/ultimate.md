@@ -135,9 +135,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Of course the ultimate responsibility for the present conflict without doubt lies with the aggressor . `[例]`
-> - My manager will make the ultimate decision about who to employ . `[例]`
-> - Infidelity is the ultimate betrayal . `[例]`
+> - We will accept ultimate responsibility for whatever happens. `[例]`
+>   - 中译：无论发生什么，我们都将承担最终责任。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ultimate
+> - The ultimate decision lies with the parents. `[例]`
+>   - 中译：最终决定权在父母手中。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ultimate
+> - This race will be the ultimate test of your skill. `[例]`
+>   - 中译：这场比赛将是对您技能的终极考验。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ultimate
 
 ---
 

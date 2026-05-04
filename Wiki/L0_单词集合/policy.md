@@ -128,10 +128,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The government's new economic policy aims to stimulate growth and create jobs. `[真题]`
-> - Environmental policy must balance economic development with ecological protection. `[COCA-ACAD]`
-> - You should check your policy to see if you are covered for flood damage. `[COCA-ACAD]`
-> - The central bank adjusted its monetary policy in response to rising inflation. `[COCA-NEWS]`
+> - Short-term rentals themselves are not the crux of the issue, said Keren Hom , an expert on affordable housing policy. `[真题]`
+>   - 中译：保障性住房政策专家克伦·霍姆表示，短期租金本身并不是问题的症结所在。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - They believe that Europe needs a common foreign and security policy. `[例]`
+>   - 中译：他们认为欧洲需要共同的外交和安全政策。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/policy
+> - What is your party's policy on immigration? `[例]`
+>   - 中译：你们党的移民政策是什么？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/policy
 
 ---
 

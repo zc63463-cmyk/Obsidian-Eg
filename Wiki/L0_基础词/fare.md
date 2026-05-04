@@ -138,7 +138,7 @@ fare(旅行/费用，古英语 *fær*)
 > [!example]- 语料
 > - Train fares are going up again. `[例]`
 > - Can I borrow £2 for my bus fare? `[例]`
-> - How did you fare in your exams ? `[例]`
+> - How did you fare in your exams? `[例]`
 
 
 ---

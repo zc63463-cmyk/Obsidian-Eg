@@ -126,9 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Kieran is a timid child . `[例]`
-> - My dog is a little timid - especially around other dogs . `[例]`
-> - She was timid about swimming in deep water . `[例]`
+> - Kieran is a timid child. `[例]`
+> - My dog is a little timid - especially around other dogs. `[例]`
+> - She was timid about swimming in deep water. `[例]`
 
 
 ---

@@ -129,10 +129,15 @@ in-（= into/toward，向/朝向）+ [[dic]](说/指出) + -ation（名词后缀
 ## 真题/语料关联
 
 > [!example]- 语料
-> - There is every indication that the economy is recovering. `` `[COCA-ACAD]` ``
-> - Early indications suggest that the new drug is effective. `` `[COCA-ACAD]` ``
-> - The two parties have shown every indication of a willingness to compromise. `` `[COCA]` ``
-> - There is no indication that the situation will change in the near future. `` `[COCA-ACAD]` ``
+> - There are few indications (that) the economy is on an upswing. `[例]`
+>   - 中译：几乎没有迹象表明经济正在复苏。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/indication
+> - Frequent insomnia could be an indication (that) you are suffering from stress. `[例]`
+>   - 中译：频繁失眠可能表明您正承受压力。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/indication
+> - Helen's face gave no indication of what she was thinking. `[例]`
+>   - 中译：海伦的表情看不出她在想什么。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/indication
 
 ---
 

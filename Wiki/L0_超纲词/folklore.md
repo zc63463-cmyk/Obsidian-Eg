@@ -3,10 +3,8 @@ title: "folklore"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 社会习俗
 prototype: 民间传说（民间代代相传的故事和习俗）
@@ -43,7 +41,7 @@ folk(民间，百姓) + lore(知识，传说，学问)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**民间传说**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **民间传说**（文化传承层面）
@@ -66,7 +64,7 @@ folk(民间，百姓) + lore(知识，传说，学问)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ folk(民间，百姓) + lore(知识，传说，学问)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > folk（民间）+ lore（知识/学问）= folklore。lore 是一个古老词，指"口头传承的知识"。witchlore 是巫术知识，starlore 是星象知识，folklore 就是"民间的知识"——民间传说、民俗。1846年英国古董学家 William J. Thoms 创造这个词来替代拉丁化的"popular antiquities"。
@@ -88,7 +86,7 @@ folk(民间，百姓) + lore(知识，传说，学问)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,12 +99,12 @@ folk(民间，百姓) + lore(知识，传说，学问)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[scholarship]]：学术研究（folklore↔scholarship：民间口头传承↔学术书面研究）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,7 +115,7 @@ folk(民间，百姓) + lore(知识，传说，学问)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **Chinese folklore**：中国民间传说
 > - **local folklore**：当地民俗
 > - **folklore studies**：民俗学研究
@@ -125,19 +123,12 @@ folk(民间，百姓) + lore(知识，传说，学问)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - Dragons play a central role in Chinese folklore and mythology. `[例]`
 > - According to local folklore, the cave is haunted by the spirit of an ancient warrior. `[例]`
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
-
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

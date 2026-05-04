@@ -130,9 +130,15 @@ syn-(一起) + st(站立，参见 [[st-sta-stat|st/sta/stat]]) + -em(名词后�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - A central heating system. `[例]`
-> - The system keeps crashing and no one is able to figure out why. `[例]`
-> - A run in the morning is good for the system - it wakes the body up and gets everything going. `[例]`
+> - Systems are in place for dealing with complaints. `[例]`
+>   - 中译：已建立处理投诉的系统。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/system
+> - They installed a security system but it failed. `[例]`
+>   - 中译：他们安装了安全系统，但失败了。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/system
+> - How does the system work? `[例]`
+>   - 中译：系统如何运作？
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/system
 
 ---
 

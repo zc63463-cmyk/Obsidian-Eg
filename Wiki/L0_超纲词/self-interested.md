@@ -3,10 +3,8 @@ title: "self-interested"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-25
-mastery: L0
 word_freq: 超纲词
 semantic_field: 人本世界
 prototype: 追求自身利益的
@@ -43,7 +41,7 @@ self(自己) + interest(利益) + -ed(形容词后缀，表示"持有……状�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**追求自身利益的**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **追求自身利益的**（动机层面）
@@ -64,7 +62,7 @@ self(自己) + interest(利益) + -ed(形容词后缀，表示"持有……状�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ self(自己) + interest(利益) + -ed(形容词后缀，表示"持有……状�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > self-interested = self（自己）+ interested（感兴趣的）→ 只对自己的利益感兴趣。在经济学中，self-interested 是一个中性词——亚当-斯密认为面包师烤面包不是因为善良，而是因为 self-interested（利己），但结果是你有面包吃。self-interested 不等于自私，它只是说"以自身利益为导向"。
@@ -86,7 +84,7 @@ self(自己) + interest(利益) + -ed(形容词后缀，表示"持有……状�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -98,13 +96,13 @@ self(自己) + interest(利益) + -ed(形容词后缀，表示"持有……状�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[selfless]]：无私的（self-interested ↔ selfless，利己↔无私）
 > - [[altruistic]]：利他的（self-interested ↔ altruistic，利己↔利他）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -115,7 +113,7 @@ self(自己) + interest(利益) + -ed(形容词后缀，表示"持有……状�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **self-interested behavior**：利己行为
 > - **self-interested motives**：利己动机
 > - **self-interested reasons**：出于私利的理由
@@ -123,19 +121,12 @@ self(自己) + interest(利益) + -ed(形容词后缀，表示"持有……状�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - Classical economics assumes that humans are rational , self-interested individuals . `[例]`
-> - He violently denounced their callous and self-interested behaviour . `[例]`
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-25 | **复习次数**：0 | **当前等级**：L0
-
----
+> [!example]- 语料
+> - Classical economics assumes that humans are rational , self-interested individuals. `[例]`
+> - He violently denounced their callous and self-interested behaviour. `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

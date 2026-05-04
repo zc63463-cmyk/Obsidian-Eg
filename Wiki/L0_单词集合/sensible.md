@@ -119,10 +119,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> 1. Sensible ideas have been around for a long time, but the state-level bodies that govern the profession have been too conservative to implement them. `[真题]`
-> 2. That would be a more sensible way of dealing with the problem. `[真题]`
-> 3. I think the sensible thing to do is to call and ask for directions before we get lost. `[COCA-ACAD]`
-> 4. She is a sensible sort of person who always considers the consequences before acting. `[COCA-ACAD]`
+> - I think the sensible thing to do is call and ask for directions. `[例]`
+>   - 中译：我认为明智的做法是打电话问路。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/sensible
+> - It would be sensible to take an umbrella. `[例]`
+>   - 中译：带把雨伞是明智的。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/sensible
+> - It could be cold and wet so pack some sensible clothes. `[例]`
+>   - 中译：天气可能又冷又湿，所以带上一些合适的衣服。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/sensible
 
 ---
 

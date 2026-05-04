@@ -133,8 +133,8 @@ tire 源自古英语 *teorian*（失败、停止、疲劳），词源不确定�
 
 > [!example]- 语料
 > - She's been leading throughout the race , but it now looks as if she's tiring. `[例]`
-> - Even walking up the stairs at work tires me these days . `[例]`
-> - Weakened by the infection , he tires easily . `[例]`
+> - Even walking up the stairs at work tires me these days. `[例]`
+> - Weakened by the infection , he tires easily. `[例]`
 
 
 ---

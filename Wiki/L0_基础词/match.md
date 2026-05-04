@@ -129,9 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It's an interactive feature that lets visitors key in job criteria such as location, title, and salary, then E-mails them when a matching position is posted in the database." `[真题]`
-> - "She then realized that her life no longer matched her vision for it." `[真题]`
-> - "Even the best farming techniques are no match for the strong, hot winds in that area." `[语料库]`
+> - It's an interactive feature that lets visitors key in job criteria such as location, title, and salary, then E-mails them when a matching position is posted in the database. `[真题]`
+> - She then realized that her life no longer matched her vision for it. `[真题]`
+> - Even the best farming techniques are no match for the strong, hot winds in that area. `[例]`
 
 
 ---

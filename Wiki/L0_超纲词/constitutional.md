@@ -3,10 +3,8 @@ title: "constitutional"
 tags:
   - 学习/英语/词汇
   - 语义场/政治法律
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 政治法律
 prototype: 与宪法/体质相关的
@@ -43,7 +41,7 @@ con-(共同/一起) + [[st-sta-stat|stitu-/stit-]](站立/建立) + -tion(名词
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**与根本结构/宪法相关的**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **与根本结构相关的**（法律层面）
@@ -66,7 +64,7 @@ con-(共同/一起) + [[st-sta-stat|stitu-/stit-]](站立/建立) + -tion(名词
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ con-(共同/一起) + [[st-sta-stat|stitu-/stit-]](站立/建立) + -tion(名词
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > constitution（宪法/体制）+ -al（形容词后缀）→ constitutional（宪法的）。宪法就是一个国家大家共同建立起来的根本框架，符合这个框架的就是 constitutional。你的 constitutional right 就是你作为公民的根本权利。
@@ -89,7 +87,7 @@ con-(共同/一起) + [[st-sta-stat|stitu-/stit-]](站立/建立) + -tion(名词
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,12 +100,12 @@ con-(共同/一起) + [[st-sta-stat|stitu-/stit-]](站立/建立) + -tion(名词
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[unconstitutional]]：违宪的（constitutional 的精确反义：符合宪法↔违宪）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +118,7 @@ con-(共同/一起) + [[st-sta-stat|stitu-/stit-]](站立/建立) + -tion(名词
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **constitutional rights**：宪法权利
 > - **constitutional amendment**：宪法修正案
 > - **constitutional reform**：宪政改革
@@ -129,19 +127,12 @@ con-(共同/一起) + [[st-sta-stat|stitu-/stit-]](站立/建立) + -tion(名词
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - Such a policy would not be constitutional. `[例]`
-> - Freedom of speech should be a constitutional right . `[例]`
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
+> - Freedom of speech should be a constitutional right. `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

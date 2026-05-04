@@ -131,8 +131,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The findings do not simply explain people's tendency to befriend those of similar ethnic backgrounds."（研究结果并非简单地解释了人们趋向于和种族背景相似的人交朋友。）——2015年考研英语真题
-> - "Ethnic conflicts have long been a source of political instability in the region."（种族冲突长期以来一直是该地区政治不稳定的根源。）——考研高频表达
+> - A question on ethnic origin was included in the census. `[例]`
+>   - 中译：人口普查中包括了关于种族血统的问题。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/ethnic
+> - They are the second largest ethnic group in Kenya. `[例]`
+>   - 中译：他们是肯尼亚第二大民族。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/ethnic
+> - The factory's workforce reflects the ethnic mix from which it draws its labour. `[例]`
+>   - 中译：工厂的劳动力反映了其劳动力的种族结构。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/ethnic
 
 ---
 

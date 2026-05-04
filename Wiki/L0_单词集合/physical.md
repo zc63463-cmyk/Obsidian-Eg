@@ -132,9 +132,15 @@ phys(自然/物质) + -ic(形容词后缀，"…的") + -al(形容词后缀，"�
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - The program is designed to address both physical and emotional health. `[真题]`
-> > - There was no physical evidence of the crime. `[COCA-NEWS]`
-> > - Regular physical exercise, preferable outdoors, can prevent deterioration of bone density. `[COCA-ACAD]`
+> - I'm not a very physical sort of person (= I don't enjoy physical activities ). `[例]`
+>   - 中译：我不是一个喜欢体力活动的人（=我不喜欢体力活动）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/physical
+> - The referee stepped in because the game had started to get a little too physical. `[例]`
+>   - 中译：裁判介入是因为比赛开始变得有点太激烈了。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/physical
+> - There was obviously a great physical attraction between them. `[例]`
+>   - 中译：他们之间显然存在着巨大的肉体吸引力。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/physical
 
 ---
 

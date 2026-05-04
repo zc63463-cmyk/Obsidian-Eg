@@ -128,9 +128,15 @@ cre-(创造，拉丁语 *creare* "to create") + -at-(动词过去分词后缀) +
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Man is a creature of habit, and changing deeply ingrained behaviors is extremely difficult. `[真题]`
-> - All living creatures deserve respect and protection under the law. `[真题]`
-> - They are both creatures of habit and love their routine: writing, walking, reading and going to bed at ten every night. `[真题]`
+> - The dormouse is a shy, nocturnal creature. `[例]`
+>   - 中译：睡鼠是一种害羞的夜行生物。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/creature
+> - She was an exotic creature with long red hair and brilliant green eyes. `[例]`
+>   - 中译：她是一个奇异的生物，长着红色的长发和明亮的绿色眼睛。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/creature
+> - He always goes to bed at ten—he's a creature of habit (= he likes to do the same things at the same time every day). `[例]`
+>   - 中译：他总是十点钟睡觉——他是个习惯性动物（=他喜欢每天在同一时间做同样的事情）。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/creature
 
 
 ---

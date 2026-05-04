@@ -133,9 +133,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The invention of the internet inaugurated a new era in communication. `[COCA-ACAD]`
-> - Putin will surely be inaugurated for a fifth term in the spring. `[COCA-NEWS]`
-> - The museum was inaugurated with fanfare, including speeches and performances. `[COCA-NEWS]`
+> - American presidents are always inaugurated on 20 January. `[例]`
+>   - 中译：美国总统总是在 1 月 20 日就职。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/inaugurate
+> - The European Community inaugurated the Single European Market in 1993. `[例]`
+>   - 中译：欧洲共同体于 1993 年建立了欧洲单一市场。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/inaugurate
+> - The change of government inaugurated a new era of economic prosperity. `[例]`
+>   - 中译：政府更迭开创了经济繁荣的新时代。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/inaugurate
 
 ---
 

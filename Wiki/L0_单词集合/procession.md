@@ -119,9 +119,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The festival will open with a procession led by the mayor . `[例]`
-> - My day has just been a never-ending procession of visitors . `[例]`
-> - The dancers leading the procession were in colourful and elaborate costumes . `[例]`
+> - The festival will open with a procession led by the mayor. `[例]`
+>   - 中译：节日将以由市长带领的游行活动拉开帷幕。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/procession
+> - My day has just been a never-ending procession of visitors. `[例]`
+>   - 中译：我的一天就像是永不停歇的游客队伍。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/procession
+> - The dancers leading the procession were in colourful and elaborate costumes. `[例]`
+>   - 中译：引领游行队伍的舞者穿着色彩鲜艳、精美的服装。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/procession
 
 
 ---

@@ -130,10 +130,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The graph shows how house prices have risen since the 1980s." `[真题]`
-> - "We have noted from the graph that there is a wide gap between the top ten universities both of China and of the world." `[真题]`
-> - "The line graph compares the average consumption of fish and three kinds of meat in a European country from 1979 to 2004." `[雅思真题]`
-> - "As can be seen from the graph, the two curves show the fluctuation of the price." `[雅思写作]`
+> - The graph shows how house prices have risen since the 1980s. `[真题]`
+> - We have noted from the graph that there is a wide gap between the top ten universities both of China and of the world. `[真题]`
+> - The line graph compares the average consumption of fish and three kinds of meat in a European country from 1979 to 2004. `[例]`
+> - As can be seen from the graph, the two curves show the fluctuation of the price. `[例]`
 
 
 ---

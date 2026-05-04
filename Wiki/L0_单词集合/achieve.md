@@ -125,8 +125,15 @@ a-(=ad-，朝向) + chieve(=[[fac]]/cap，做、完成，源自拉丁语 caput �
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Many people fail to achieve their goals because they lack persistence."（许多人未能实现目标，因为他们缺乏毅力。）——考研高频表达
-> - "The country has achieved remarkable economic growth over the past decade."（过去十年间，该国取得了显著的经济增长。）——考研高频表达
+> - The government's training policy , he claimed , was achieving its objectives. `[例]`
+>   - 中译：他声称，政府的培训政策正在实现其目标。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/achieve
+> - She recently achieved her goal of completing a marathon. `[例]`
+>   - 中译：她最近实现了完成马拉松的目标。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/achieve
+> - She finally achieved her ambition to visit South America. `[例]`
+>   - 中译：她终于实现了访问南美洲的愿望。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/achieve
 
 ---
 

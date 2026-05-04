@@ -123,9 +123,15 @@ as-(=ad-, 去/向) + [[cert|cert]](确定/确信) → 向某人传递确定性
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The company assured customers that their personal data would be kept secure." `[例]`
-> - "She assured me that everything would be fine." `[例]`
-> - "I can assure you of our full cooperation in this matter." `[例]`
+> - The unions assured the new owners of the workers ' loyalty to the company. `[例]`
+>   - 中译：工会向新老板保证了工人对公司的忠诚。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/assure
+> - You can rest assured (= feel confident ) that I shall be there as promised. `[例]`
+>   - 中译：你可以放心（=有信心），我会按照承诺的那样去那里。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/assure
+> - Don't worry , your car will be ready tomorrow ," the mechanic assured him. `[例]`
+>   - 中译：别担心，你的车明天就准备好了。”机械师向他保证。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/assure
 
 
 ---

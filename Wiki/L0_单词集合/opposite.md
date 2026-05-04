@@ -139,8 +139,14 @@ review_count: 0
 
 > [!example]- 语料
 > - You'd never know they're sisters - they're completely opposite to each other in every way. `[例]`
-> - Police attempts to calm the violence had the opposite effect . `[例]`
-> - My brother and I live on opposite sides of the city . `[例]`
+>   - 中译：你永远不会知道她们是姐妹——她们在各方面都完全相反。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/opposite
+> - Police attempts to calm the violence had the opposite effect. `[例]`
+>   - 中译：警方试图平息暴力却产生了相反的效果。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/opposite
+> - The two politicians have diametrically opposite points of view. `[例]`
+>   - 中译：两位政治家的观点截然相反。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/opposite
 
 ---
 

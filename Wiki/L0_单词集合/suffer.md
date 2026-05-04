@@ -121,9 +121,15 @@ sub-（在下方）+ [[fer|fer]]（承受/带来）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Big-name PRH authors may suffer a bit, but it's those mid-list authors, who normally rely on Waterstones staff's passion for promoting books by lesser-known writers, who will be praying for an end to the dispute. `[真题]`
-> - Waterstones branches suffer a severe reduction in revenue. `[真题]`
-> - I think he suffered a lot when his wife left him. `[例]`
+> - I hate to see animals suffering. `[例]`
+>   - 中译：我讨厌看到动物受苦。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/suffer
+> - The country has suffered greatly at the hands of its corrupt government. `[例]`
+>   - 中译：该国因腐败政府而遭受了巨大苦难。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/suffer
+> - Increasing numbers of children are suffering from mental health problems. `[例]`
+>   - 中译：越来越多的儿童患有心理健康问题。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/suffer
 
 
 ---

@@ -143,10 +143,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Innovation is like soccer; even the best players miss the goal and have their shots blocked much more frequently than they score. `[真题]`
-> - Four score and seven years ago our fathers brought forth on this continent a new nation. `[真题]`
-> - She was thrilled with her high score on the test. `[COCA-ACAD]`
-> - The team worked hard to improve their score throughout the season. `[COCA-ACAD]`
+> - Tennant scored in the last minute of the game. `[例]`
+>   - 中译：田南特在比赛最后时刻进球。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/score
+> - She has scored over twenty goals for her team this season. `[例]`
+>   - 中译：本赛季她为球队打进了二十多个进球。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/score
+> - In American football , a touchdown scores (= is worth ) six points. `[例]`
+>   - 中译：在美式足球中，一次达阵得（=）六分。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/score
 
 ---
 

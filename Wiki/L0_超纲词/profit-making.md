@@ -3,10 +3,8 @@ title: "profit-making"
 tags:
   - 学习/英语/词汇
   - 语义场/资本经济
-  - 掌握/L0
 aliases: []
 date: 2026-04-25
-mastery: L0
 word_freq: 超纲词
 semantic_field: 资本经济
 prototype: 创造利润的（以盈利为目的的）
@@ -44,7 +42,7 @@ profit（利润/利益）+ making（制造/产生）= 制造利润的→盈利�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**制造利润的**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **制造利润**（经济层面）
@@ -65,7 +63,7 @@ profit（利润/利益）+ making（制造/产生）= 制造利润的→盈利�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ profit（利润/利益）+ making（制造/产生）= 制造利润的→盈利�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > profit（利润）+ making（制造）= profit-making。制造利润就是"盈利"。Apple 是一家 profit-making company（盈利公司），而红十字会是一家 non-profit organization（非营利组织）。profit-making 就是"以赚钱为目的的"。
@@ -88,7 +86,7 @@ profit（利润/利益）+ making（制造/产生）= 制造利润的→盈利�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +100,13 @@ profit（利润/利益）+ making（制造/产生）= 制造利润的→盈利�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[non-profit]]：非营利的（profit-making 的精确反义：盈利↔非营利）
 - [[loss-making]]：亏损的（profit-making 的反义：盈利↔亏损）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,26 +118,19 @@ profit（利润/利益）+ making（制造/产生）= 制造利润的→盈利�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a profit-making business/company**：盈利的企业/公司
 > - **profit-making organization**：营利性组织
 > - **profit-making activity**：盈利活动
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - She does not see why a profit-making business cannot also be ethical . `[例]`
+> [!example]- 语料
+> - She does not see why a profit-making business cannot also be ethical. `[例]`
 > - I believe that public transport should be run as a service, not as a profit-making enterprise. `[例]`
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-25 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

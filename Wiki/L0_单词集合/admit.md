@@ -123,8 +123,15 @@ ad-(=to, toward, 向、朝) + [[mit]](=send, let go, 送、放行)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The government had to admit that its economic policies had failed to achieve the desired results."（政府不得不承认其经济政策未能达到预期效果。）——考研高频表达
-> - "Only students who meet the admission requirements will be admitted to the program."（只有满足录取要求的学生才能被录取到该项目中。）——考研高频表达
+> - She admitted (that) she had made a mistake. `[例]`
+>   - 中译：她承认她犯了一个错误。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/admit
+> - She admitted mak ing a mistake. `[例]`
+>   - 中译：她承认犯了一个错误。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/admit
+> - At first he denied stealing the money but he later admitted to it. `[例]`
+>   - 中译：起初他否认偷了钱，但后来他承认了这一点。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/admit
 
 
 ---

@@ -128,10 +128,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Understanding the economics of healthcare is essential for designing effective public policy." `[COCA-ACAD]`
-> - "He is a professor of economics at Cornell University, specializing in health economics and public policy." `[COCA-ACAD]`
-> - "The economics of the project make it unlikely to receive funding from private investors." `[COCA-ACAD]`
-> - "Economic growth models often rely on dynamic systems theory to describe how an economy's output changes over time." `[COCA-ACAD]`
+> - Their ideas sound fine in principle , but they haven't worked out the economics behind the policies. `[例]`
+>   - 中译：他们的想法原则上听起来不错，但他们还没有弄清楚政策背后的经济学原理。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/economics
+> - She's in her third year of studying economics at York University. `[例]`
+>   - 中译：她正在约克大学学习经济学，这是她的第三年。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/economics
+> - I'm afraid my grasp of economics is rather limited. `[例]`
+>   - 中译：恐怕我对经济学的了解相当有限。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/economics
 
 ---
 

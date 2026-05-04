@@ -129,8 +129,8 @@ nav（船，拉丁语 *navis*）+ -ig（驱动，源自拉丁语 *agere* "驱动
 ## 真题/语料关联
 
 > [!example]- 语料
-> - In the past, navigation depended on a knowledge of the positions of the stars . `[例]`
-> - Mechanics discovered problems with the plane's navigation system . `[例]`
+> - In the past, navigation depended on a knowledge of the positions of the stars. `[例]`
+> - Mechanics discovered problems with the plane's navigation system. `[例]`
 > - We have streamlined our website for easier navigation. `[例]`
 
 

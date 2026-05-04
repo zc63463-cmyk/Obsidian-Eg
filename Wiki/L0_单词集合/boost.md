@@ -129,9 +129,15 @@ boost（源自中古英语，可能与"推"有关，拟声或方言词）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Agreeable people boost your confidence and allow you to relax and feel comfortable. `[真题]`
-> - The new policy is expected to boost economic growth. `[真题]`
-> - The victory boosted the team's confidence before the final match. `[例]`
+> - The company is looking for ways to boost sales in Asia , its biggest market. `[例]`
+>   - 中译：该公司正在寻找提高其最大市场亚洲销售额的方法。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/boost
+> - I tried to boost his morale by praising his cooking. `[例]`
+>   - 中译：我试图通过表扬他的厨艺来鼓舞他的士气。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/boost
+> - Share prices were boosted by reports of the president's recovery. `[例]`
+>   - 中译：总统康复的报道提振了股价。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/boost
 ---
 
 

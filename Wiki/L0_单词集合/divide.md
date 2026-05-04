@@ -142,10 +142,15 @@ di-(分开) + vid(分) + -e = divide（分开）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The country remained deeply divided after he took office." `[COCA-ACAD]`
-> - "A tall fence divides the two yards." `[COCA-ACAD]`
-> - "Here the river divides into four separate streams." `[COCA-ACAD]`
-> - "The community is divided on what is the best way to protect kids." `[COCA-ACAD]`
+> - At the end of the lecture , I'd like all the students to divide into small discussion groups. `[例]`
+>   - 中译：讲座结束时，我希望所有学生分成小组讨论。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/divide
+> - After the Second World War, Germany was divided into two separate countries. `[例]`
+>   - 中译：第二次世界大战后，德国分裂为两个独立的国家。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/divide
+> - I think we should divide the costs equally among us. `[例]`
+>   - 中译：我认为我们应该平均分摊费用。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/divide
 
 ---
 

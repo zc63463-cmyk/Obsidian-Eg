@@ -127,8 +127,8 @@ review_count: 0
 
 > [!example]- 语料
 > - The new version of the program comes with a much better user interface than the original. `[真题]`
-> - We need a clearer interface between management and the workforce. `[真题]`
 > - His dissertation was on the interface between technology and tradition. `[真题]`
+> - My computer has a network interface, which allows me to get to other computers. `[例]`
 
 
 ---

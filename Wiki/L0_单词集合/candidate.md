@@ -137,9 +137,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "presidential candidate"（总统候选人）——考研阅读政治类话题高频搭配
-> - "PhD candidate"（博士生）——考研阅读/翻译中描述学术身份的常见表达
-> - "a candidate for heart surgery"（心脏手术的适合人选）——医学类阅读语境
+> - There are three candidates standing in the election. `[例]`
+>   - 中译：共有三名候选人参加选举。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/candidate
+> - The English Department is a likely candidate for staff cuts. `[例]`
+>   - 中译：英语系可能是裁员对象。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/candidate
+> - Candidates must write their names on the top page of the exam paper. `[例]`
+>   - 中译：考生必须将自己的名字写在试卷的首页上。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/candidate
 
 ---
 

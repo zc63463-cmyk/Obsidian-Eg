@@ -3,10 +3,8 @@ title: "ironically"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 人本世界
 prototype: 像讽刺地（以与预期相反的方式）
@@ -43,7 +41,7 @@ iron(讽刺，希腊语 *eirōneia* 假装无知) + -ic(形容词后缀) + -ally
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**像讽刺地**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **像讽刺地**（方式层面）
@@ -66,7 +64,7 @@ iron(讽刺，希腊语 *eirōneia* 假装无知) + -ic(形容词后缀) + -ally
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ iron(讽刺，希腊语 *eirōneia* 假装无知) + -ic(形容词后缀) + -ally
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > iron（讽刺）+ -ic + -ally → 像讽刺一样地 → 具有讽刺意味地。戒烟的人反而因为戒烟焦虑而开始暴饮暴食——ironically, quitting smoking made him gain weight。防止犯罪的监控系统反而侵犯了隐私——ironically, the surveillance system invaded privacy。都是"事与愿违的讽刺"。
@@ -90,7 +88,7 @@ iron(讽刺，希腊语 *eirōneia* 假装无知) + -ic(形容词后缀) + -ally
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +100,13 @@ iron(讽刺，希腊语 *eirōneia* 假装无知) + -ic(形容词后缀) + -ally
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[sincerely]]：真诚地（讽刺↔真诚）
 > - [[literally]]：字面地（反讽↔字面）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,26 +118,19 @@ iron(讽刺，希腊语 *eirōneia* 假装无知) + -ic(形容词后缀) + -ally
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **ironically enough**：具有讽刺意味的是
 > - **ironically, ...**：讽刺的是，……
 > - **smile/speak ironically**：讽刺地微笑/说话
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - Ironically, the technology designed to save time has made us busier than ever. `[例]`
 > - Ironically enough, the countries that consume the most produce the least. `[例]`
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
-
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -131,9 +131,9 @@ hijack 是一个复合词，由 **high**（高的）+ **jack**（杰克，俚语
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Two men hijacked a jet travelling to Paris and demanded $125,000. `[例]`
-> - He resents the way his ideas have been hijacked by others in the department . `[例]`
-> - The hijack ended with the release of all the plane's passengers unharmed . `[例]`
+> - He resents the way his ideas have been hijacked by others in the department. `[例]`
+> - The hijack ended with the release of all the plane's passengers unharmed. `[例]`
+> - He’s a leading suspect in the hijacking of the jetliner. `[例]`
 
 
 ---

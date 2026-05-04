@@ -123,9 +123,15 @@ ap-(=ad-, 向) + [[par]](准备) + -atus(名词后缀，表示状态/结果)。�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - A piece of apparatus. `[例]`
-> - The divers checked their breathing apparatus. `[例]`
-> - The whole apparatus of communism was already falling apart . `[例]`
+> - Firefighters needed breathing apparatus to enter the burning house. `[例]`
+>   - 中译：消防员需要呼吸器才能进入燃烧的房屋。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/apparatus
+> - Science departments say they are lacking basic apparatus. `[例]`
+>   - 中译：科学部门表示他们缺乏基本设备。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/apparatus
+> - We cannot do without the apparatus of government in protecting the rights of the individual. `[例]`
+>   - 中译：我们离不开政府机构来保护个人权利。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/apparatus
 
 
 ---

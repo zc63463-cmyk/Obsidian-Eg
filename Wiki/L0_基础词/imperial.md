@@ -129,8 +129,8 @@ imper(命令/帝国，拉丁语 *imperare* 命令) + -ial(形容词后缀，表�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Imperial units have in many cases been replaced by metric ones in Britain . `[例]`
-> - Suppliers will be told to change labels to imperial and metric on pre-packed foods . `[例]`
+> - Imperial units have in many cases been replaced by metric ones in Britain. `[例]`
+> - Suppliers will be told to change labels to imperial and metric on pre-packed foods. `[例]`
 > - The glittering ceremony conjured up images of Russia's imperial past. `[例]`
 
 

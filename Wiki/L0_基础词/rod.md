@@ -121,7 +121,7 @@ rod（杆，古英语 *rodd* "杆/棍"，可能与古诺斯语 *rudda* "棍棒"�
 > [!example]- 语料
 > - He sat by the lake, holding his fishing rod. `[真题]`
 > - The lightning rod protects the building from lightning strikes. `[真题]`
-> - Spare the rod and spoil the child. `[真题]`
+> - He was given a fishing rod for his birthday. `[例]`
 
 
 ---

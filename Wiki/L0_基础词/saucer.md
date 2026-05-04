@@ -120,9 +120,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The table was set with matching cups and saucers, bright silverware, and old plates." `[BNC-WRITTEN]`
-> - "He placed his cup and its flooded saucer separately on the coffee table and sat back in his chair." `[BNC-FICTION]`
-> - "The flying saucer was a popular motif in 1950s science fiction." `[COCA-ACAD]`
+> - The table was set with matching cups and saucers, bright silverware, and old plates. `[BNC-WRITTEN]`
+> - He placed his cup and its flooded saucer separately on the coffee table and sat back in his chair. `[BNC-FICTION]`
+> - The flying saucer was a popular motif in 1950s science fiction. `[COCA-ACAD]`
 
 
 ---

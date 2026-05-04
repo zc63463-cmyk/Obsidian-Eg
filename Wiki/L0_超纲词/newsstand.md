@@ -3,10 +3,8 @@ title: "newsstand"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-25
-mastery: L0
 word_freq: 超纲词
 semantic_field: 物品工具
 prototype: 报刊亭（街头售卖报纸和杂志的摊位）
@@ -43,7 +41,7 @@ news（新闻/报纸）+ stand（摊位/支架）
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**报刊亭**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **报刊亭**（销售场所层面）
@@ -62,7 +60,7 @@ news（新闻/报纸）+ stand（摊位/支架）
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -72,7 +70,7 @@ news（新闻/报纸）+ stand（摊位/支架）
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > news（新闻/报纸）+ stand（摊位）= newsstand（报刊亭）。想象街角那个小摊子，上面摆满了各种报纸和杂志，老板坐在后面看报纸——那就是 newsstand。名字就是字面意思：stand 上卖 news。
@@ -84,7 +82,7 @@ news（新闻/报纸）+ stand（摊位/支架）
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -95,12 +93,12 @@ news（新闻/报纸）+ stand（摊位/支架）
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - 无精确反义词（newsstand 是特定场所名称）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -112,26 +110,19 @@ news（新闻/报纸）+ stand（摊位/支架）
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **at the newsstand**：在报刊亭
 > - **newsstand on the corner**：街角的报刊亭
 > - **buy a newspaper at the newsstand**：在报刊亭买报纸
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - `[例]` He picked up a copy of the evening paper at the newsstand on his way home.
-> - `[例]` The newsstand sells a wide variety of magazines and newspapers.
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-25 | **复习次数**：0 | **当前等级**：L0
-
----
+> [!example]- 语料
+> - The full list can be found in Travel + Leisure’s May 2026 issue, now on newsstands and Apple News+. `[例]`
+> - For more World’s Most Beautiful content, pick up the latest issue of PEOPLE, on newsstands now. `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -128,8 +128,15 @@ mono-(单一) + [[pol|poly]](销售)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Any threat of monopoly, they argue, is removed by fierce competition from trucks."（他们认为，在公路运输的激烈竞争面前，垄断的威胁已经不复存在。）——2003考研英语一Text3
-> - "In recent years, railroads have been combining with each other, merging into super systems, causing heightened concerns about monopoly."（近年来，铁路公司相互联合，组成了超大型集团，引起人们对垄断行为的极大关注。）——考研高频表达
+> - The government is determined to protect its tobacco monopoly. `[例]`
+>   - 中译：政府决心保护其烟草垄断。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/monopoly
+> - Is Microsoft a monopoly? `[例]`
+>   - 中译：微软是垄断企业吗？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/monopoly
+> - The drafting of a new constitution cannot be a monopoly of the white minority regime (= other people should do it too). `[例]`
+>   - 中译：新宪法的起草不能由白人少数政权垄断（=其他人也应该这样做）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/monopoly
 
 ---
 

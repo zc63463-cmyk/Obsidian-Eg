@@ -127,7 +127,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The government has pledged additional aid to the regions affected by the earthquake.（政府已承诺向地震灾区提供额外援助。）
+> - A thesaurus is a useful aid to writing. `[例]`
+>   - 中译：同义词库是写作的有用辅助工具。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/aid
+> - He gets about with the aid of a walking stick. `[例]`
+>   - 中译：他拄着拐杖四处走动。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/aid
+> - The Vatican has agreed to donate £80,000 in humanitarian aid to countries affected by the war. `[例]`
+>   - 中译：梵蒂冈同意向受战争影响的国家捐赠8万英镑的人道主义援助。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/aid
 
 ---
 

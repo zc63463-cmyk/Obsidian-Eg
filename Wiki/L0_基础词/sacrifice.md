@@ -130,9 +130,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - ...have limited the opportunities of teenagers who are already questioning the heavy personal sacrifices involved in climbing Japan's rigid social ladder to good schools and jobs. `[真题]`
 > - She sacrificed family life to her career. `[真题]`
-> - The labor union crafted an historic contract that made up for sacrifices hourly workers made to help the automakers in years past. `[外刊]`
+> - The labor union crafted an historic contract that made up for sacrifices hourly workers made to help the automakers in years past. `[例]`
+> - Many women sacrifice interesting careers for their families. `[例]`
 
 
 ---

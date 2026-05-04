@@ -3,10 +3,8 @@ title: "mortality"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 人本世界
 prototype: 必死的命运，死亡状态
@@ -43,7 +41,7 @@ mort(死亡，拉丁语 *mors*, *mortis*) + -al(形容词后缀) + -ity(名词�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**死亡的状态**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **死亡的状态**（存在层面）
@@ -66,7 +64,7 @@ mort(死亡，拉丁语 *mors*, *mortis*) + -al(形容词后缀) + -ity(名词�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ mort(死亡，拉丁语 *mors*, *mortis*) + -al(形容词后缀) + -ity(名词�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > mortal（终有一死的）的名词形式就是 mortality。mort 词根就是"死亡"：mortuary（太平间），mortgage（抵押——签字时说"如果我死了，房子归你"）。infant mortality rate（婴儿死亡率）是最常见的搭配。face your mortality 就是"面对你终有一死的事实"。
@@ -88,7 +86,7 @@ mort(死亡，拉丁语 *mors*, *mortis*) + -al(形容词后缀) + -ity(名词�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +98,13 @@ mort(死亡，拉丁语 *mors*, *mortis*) + -al(形容词后缀) + -ity(名词�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[immortality]]：不朽，永生（mortality 的精确反义：必死↔不朽）
 - [[survival]]：存活（mortality 的反义：死亡↔存活）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,7 +117,7 @@ mort(死亡，拉丁语 *mors*, *mortis*) + -al(形容词后缀) + -ity(名词�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **infant/child mortality rate**：婴儿/儿童死亡率
 > - **mortality rate**：死亡率
 > - **reduce mortality**：降低死亡率
@@ -127,19 +125,12 @@ mort(死亡，拉丁语 *mors*, *mortis*) + -al(形容词后缀) + -ity(名词�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - Health Services publishes the national mortality rate annually . `[例]`
-> - Infant mortality is much higher in the poorest areas of the city . `[例]`
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
+> [!example]- 语料
+> - Health Services publishes the national mortality rate annually. `[例]`
+> - Infant mortality is much higher in the poorest areas of the city. `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -130,10 +130,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Students are encouraged to participate in class discussions." `` `[COCA-ACAD]` ``
-> - "Over 500 people participated in the survey." `` `[COCA-NEWS]` ``
-> - "She never participates in any of our discussions." `` `[COCA-FICT]` ``
-> - "Kate has always participated fully in the life of the school." `` `[COCA-MAG]` ``
+> - She never participates in any of our discussions , does she? `[例]`
+>   - 中译：她从不参与我们的任何讨论，是吗？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/participate
+> - Kate has always participated fully in the life of the school. `[例]`
+>   - 中译：凯特一直充分参与学校的生活。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/participate
+> - As a child he was very much an outsider , never participating in the games other children played. `[例]`
+>   - 中译：小时候，他是一个局外人，从不参加其他孩子玩的游戏。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/participate
 
 ---
 

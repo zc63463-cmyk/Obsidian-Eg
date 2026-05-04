@@ -143,11 +143,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She mastered Japanese in less than two years. `[COCA-FIC]`
-> - Her pain completely mastered her. `[COCA-FIC]`
-> - The city has developed a master plan for urban development. `[COCA-ACAD]`
-> - He is a master of the art of political persuasion. `[COCA-ACAD]`
-> - She completed her Master of Arts in Comparative Literature. `[COCA-ACAD]`
+> - With careful training , a dog will obey its master completely. `[例]`
+>   - 中译：经过精心训练，狗会完全服从主人。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/master
+> - Servants had to obey their masters. `[例]`
+>   - 中译：仆人必须服从他们的主人。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/master
+> - She was the victim of her circumstances rather than the master of her fate. `[例]`
+>   - 中译：她是环境的受害者，而不是命运的主人。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/master
 
 ---
 

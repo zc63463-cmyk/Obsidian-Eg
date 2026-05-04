@@ -132,8 +132,8 @@ ice 源自古英语 *īs* "冰"，原始日耳曼语 *\*īsaz*，原始印欧语
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The pond was covered in ice all winter . `[例]`
-> - Would you like ice in your juice ? `[例]`
+> - The pond was covered in ice all winter. `[例]`
+> - Would you like ice in your juice? `[例]`
 > - He slipped on a patch of ice. `[例]`
 
 

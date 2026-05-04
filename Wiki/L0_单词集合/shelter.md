@@ -129,10 +129,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The organization provides food and shelter for homeless people. `[真题]`
-> - Animal shelters are overcrowded with abandoned pets. `[真题]`
-> - When it started raining, they took shelter in a cave. `[COCA-ACAD]`
-> - The trees gave some shelter from the wind. `[COCA-ACAD]`
+> - They opened a shelter to provide temporary housing for the city's homeless. `[例]`
+>   - 中译：他们开设了一个庇护所，为该市无家可归者提供临时住房。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/shelter
+> - We took shelter for the night in an abandoned house. `[例]`
+>   - 中译：我们在一所废弃的房子里过夜。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/shelter
+> - There was no shelter from the merciless heat. `[例]`
+>   - 中译：无情的酷暑无处可避。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/shelter
 
 ---
 

@@ -120,9 +120,15 @@ re-(反复) + [[sent|sent]](感觉) → 反复感到不满 → 怨恨
 ## 真题/语料关联
 
 > [!example]- 语料
-> - `[真题]` Indeed, the mere presence of a grape in the other chamber was enough to induce resentment in a female capuchin.
-> - `[COCA-ACAD]` He deeply resented the fact that his teammates did not support him.
-> - `[COCA-ACAD]` Many employees resent being excluded from the decision-making process.
+> - She bitterly resented her father's new wife. `[例]`
+>   - 中译：她对父亲的新婚妻子深恶痛绝。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/resent
+> - He resents hav ing to explain his work to other people. `[例]`
+>   - 中译：他讨厌向其他人解释他的工作。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/resent
+> - I resent paying extra for my drink just because it's in a posey bottle! `[例]`
+>   - 中译：我讨厌仅仅因为我的饮料装在一个漂亮的瓶子里就付额外的钱！
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/resent
 
 ---
 

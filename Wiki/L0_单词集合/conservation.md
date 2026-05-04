@@ -131,9 +131,15 @@ con-(共同，一起) + [[serv|serv]](保持，保存) + -ation(名词后缀，�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Energy conservation, a shift to other fuels and a decline in the importance of heavy, energy-intensive industries have reduced oil consumption." `[真题]`
-> - "We tend to look on nature conservation as some kind of favour that human beings are granting to the natural world." `[真题]`
-> - "The conservation of endangered species has become a global priority for governments and NGOs alike." `[COCA-ACAD]`
+> - One of the turning points in public support for land conservation efforts-and recognizing the magnificence of the Yellowstone region in particular-came in the form of vivid photographs. `[真题]`
+>   - 中译：公众支持土地保护工作的转折点之一——尤其是认识到黄石地区的壮丽——以生动的照片的形式出现。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - Energy conservation reduces your fuel bills and helps the environment. `[例]`
+>   - 中译：节约能源可以减少燃料费用并有利于环境。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/conservation
+> - The law of conservation of energy states that energy cannot be created or destroyed. `[例]`
+>   - 中译：能量守恒定律规定能量不能被创造或毁灭。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/conservation
 ---
 
 

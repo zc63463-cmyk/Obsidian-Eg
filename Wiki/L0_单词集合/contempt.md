@@ -127,9 +127,15 @@ con-(共同/完全) + 建议创建词根笔记 [[tempt/tempt]](to despise/轻视
 ## 真题/语料关联
 
 > [!example]- 语料
-> - So few authors have brains enough or literary gift enough to keep their own end up in journalism, that I am tempted to define "journalism" as "a term of contempt applied by writers who are not read to writers who are." `[真题]`
-> - Politicians seem to be generally held in contempt by ordinary people. `[COCA-ACAD]`
-> - He showed contempt for the rules of the institution and was reprimanded accordingly. `[例]`
+> - At school she had complete contempt for all her teachers. `[例]`
+>   - 中译：在学校里，她完全蔑视所有的老师。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/contempt
+> - You should treat those remarks with the contempt that they deserve. `[例]`
+>   - 中译：你应该以应有的蔑视态度对待这些言论。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/contempt
+> - She's beneath contempt (= I have no respect for her)! `[例]`
+>   - 中译：她受到蔑视（=我不尊重她）！
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/contempt
 
 ---
 

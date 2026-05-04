@@ -3,10 +3,8 @@ title: "exacerbate"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 人本世界
 prototype: 使恶化（使已经不好的情况变得更糟）
@@ -43,7 +41,7 @@ ex-(完全/向外) + acerb(苦涩/严厉) + -ate(动词后缀，使成为)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**使恶化（使已经不好的情况变得更糟）**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **使更苦涩**（感受层面）
@@ -64,7 +62,7 @@ ex-(完全/向外) + acerb(苦涩/严厉) + -ate(动词后缀，使成为)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +73,7 @@ ex-(完全/向外) + acerb(苦涩/严厉) + -ate(动词后缀，使成为)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > ex（完全）+ acerb（苦涩）+ ate（使）→ exacerbate。acerb 就是"苦涩"——acerbic（尖刻的）。exacerbate 就是让情况变得"完全苦涩"——使恶化。经济危机 + 贸易战 = exacerbate the economic downturn。
@@ -87,7 +85,7 @@ ex-(完全/向外) + acerb(苦涩/严厉) + -ate(动词后缀，使成为)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ ex-(完全/向外) + acerb(苦涩/严厉) + -ate(动词后缀，使成为)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[alleviate]]：缓解，减轻（使恶化↔缓解）
 > - [[mitigate]]：减轻，缓和（加剧↔缓和）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -116,7 +114,7 @@ ex-(完全/向外) + acerb(苦涩/严厉) + -ate(动词后缀，使成为)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **exacerbate the problem/situation**：使问题/情况恶化
 > - **exacerbate tensions**：加剧紧张局势
 > - **exacerbate the conflict**：使冲突加剧
@@ -124,19 +122,12 @@ ex-(完全/向外) + acerb(苦涩/严厉) + -ate(动词后缀，使成为)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - The prolonged drought has exacerbated food shortages in several regions of the country. `[例]`
 > - Raising interest rates during a recession could exacerbate unemployment and slow economic recovery. `[例]`
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
-
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

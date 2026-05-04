@@ -124,8 +124,8 @@ plat-(平坦，来自法语 *plateau*，与 [[flat]] 同源) + -eau(名词后缀
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The US death rate reached a plateau in the 1960s, before declining suddenly . `[例]`
-> - I'd been losing about a pound a week on my diet , but recently I've plateaued and haven't lost an ounce . `[例]`
+> - The US death rate reached a plateau in the 1960s, before declining suddenly. `[例]`
+> - I'd been losing about a pound a week on my diet , but recently I've plateaued and haven't lost an ounce. `[例]`
 > - The economic slowdown has caused our sales to plateau. `[例]`
 
 

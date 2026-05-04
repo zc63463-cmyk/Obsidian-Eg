@@ -130,8 +130,8 @@ in-(=intensive，加强语气) + [[ver-vert|vers-]](转，拉丁语 *vertere*，
 
 > [!example]- 语料
 > - There is an inverse relationship between the price of a product and the quantity demanded. `[真题]`
-> - The amount of business activity is in inverse proportion to the amount of government control. `[语料库]`
-> - The current crisis is the exact inverse of the boom we experienced a few years ago. `[外刊]`
+> - The amount of business activity is in inverse proportion to the amount of government control. `[例]`
+> - The current crisis is the exact inverse of the boom we experienced a few years ago. `[例]`
 
 
 ---

@@ -132,7 +132,7 @@ review_count: 0
 > - The keyboard can determine whether they should be given access to the computer it's connected to — regardless of whether someone gets the password right. `[真题]`
 > - Our club is open to everyone regardless of age, sex or educational background. `[真题]`
 > - We have no land ethic yet, but we have at least drawn nearer the point of admitting that birds should continue as a matter of intrinsic right, regardless of the presence or absence of economic advantage to us. `[真题]`
-> - This job is open to all, regardless of previous experience. `[权威词典]`
+> - This job is open to all, regardless of previous experience. `[例]`
 
 
 ---

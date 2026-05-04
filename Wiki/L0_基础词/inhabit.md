@@ -132,10 +132,10 @@ in-(在……中，使) + [[hab]](居住，拥有，源自拉丁语 *habitare*�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Even American newspapers, which inhabit the most troubled corner of the global industry, have not only survived but often returned to profit." `[真题]`
-> - "Everybody wants to know how the people who will soon inhabit those empty office cubicles will differ from those who came before them." `[真题]`
-> - "The valley is inhabited by the Dani tribe." `[COCA-ACAD]`
-> - "The beautifully coloured fish that inhabit the Egyptian reefs attract divers from around the world." `[COCA-NEWS]`
+> - Even American newspapers, which inhabit the most troubled corner of the global industry, have not only survived but often returned to profit. `[真题]`
+> - Everybody wants to know how the people who will soon inhabit those empty office cubicles will differ from those who came before them. `[真题]`
+> - The valley is inhabited by the Dani tribe. `[COCA-ACAD]`
+> - The beautifully coloured fish that inhabit the Egyptian reefs attract divers from around the world. `[COCA-NEWS]`
 
 
 ---

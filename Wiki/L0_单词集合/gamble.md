@@ -136,9 +136,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Don't gamble with your health."（不要拿你的健康冒险）——考研阅读常见搭配，健康类话题
-> - "The company took a gamble on the new product."（公司在新产品上冒了一次险）——商业类阅读语境
-> - "gambling addiction"（赌博成瘾）——社会问题类话题
+> - Anyone who gambles on the stock exchange has to be prepared to lose money. `[例]`
+>   - 中译：任何在证券交易所赌博的人都必须做好赔钱的准备。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/gamble
+> - I like to gamble when I play cards - it makes it more interesting. `[例]`
+>   - 中译：我打牌时喜欢赌博——这使它更有趣。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/gamble
+> - He gambles on the horses (= horse races ). `[例]`
+>   - 中译：他赌马（=赛马）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/gamble
 
 ---
 

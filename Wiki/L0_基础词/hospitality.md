@@ -125,7 +125,7 @@ review_count: 0
 > [!example]- 语料
 > - The local people showed me great hospitality. `[例]`
 > - The restaurant guide is independent and we do not accept any free hospitality. `[例]`
-> - The company's guests are entertained in the corporate hospitality area . `[例]`
+> - The company's guests are entertained in the corporate hospitality area. `[例]`
 
 
 ---

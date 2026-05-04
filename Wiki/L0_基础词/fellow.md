@@ -132,8 +132,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She introduced me to some of her fellow students . `[例]`
-> - Our fellow travellers were mostly Spanish-speaking tourists . `[例]`
+> - She introduced me to some of her fellow students. `[例]`
+> - Our fellow travellers were mostly Spanish-speaking tourists. `[例]`
 > - He seemed like a decent fellow. `[例]`
 
 

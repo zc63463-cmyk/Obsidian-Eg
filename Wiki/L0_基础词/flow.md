@@ -129,7 +129,7 @@ flow（源自古英语 *flōwan*，原始印欧语 *pleu-* "流动"）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Lava from the volcano was flowing down the hillside . `[例]`
+> - Lava from the volcano was flowing down the hillside. `[例]`
 > - Many short rivers flow into the Pacific Ocean. `[例]`
 > - The river flows through three counties before flowing into the sea just south of here. `[例]`
 

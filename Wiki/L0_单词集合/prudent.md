@@ -135,8 +135,14 @@ prud(= provident，有远见的/预见) + -ent(形容词后缀，……的) = pr
 
 > [!example]- 语料
 > - It's always prudent to read a contract carefully before signing it. `[例]`
-> - His decision was prudent and timely . `[例]`
-> - They insisted that the deal is fiscally prudent and would not put the city budget at risk . `[例]`
+>   - 中译：在签署合同之前仔细阅读合同始终是谨慎的做法。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/prudent
+> - His decision was prudent and timely. `[例]`
+>   - 中译：他的决定是审慎而及时的。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/prudent
+> - They insisted that the deal is fiscally prudent and would not put the city budget at risk. `[例]`
+>   - 中译：他们坚称，该交易在财政上是审慎的，不会使城市预算面临风险。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/prudent
 ---
 
 

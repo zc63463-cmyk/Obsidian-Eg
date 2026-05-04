@@ -123,9 +123,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - They branded her a coward for informing on her colleagues during the interrogation. `[语料库]`
-> - He despised himself for being such a coward. `[语料库]`
-> - Many civil servants are moral cowards. `[语料库]`
+> - You coward! What are you afraid of? `[例]`
+>   - 中译：你这个胆小鬼！你怕什么？
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/coward
+> - I'm a real coward when it comes to going to the dentist. `[例]`
+>   - 中译：说到去看牙医，我真是个胆小鬼。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/coward
+> - Across 17 tracks, Amos positions herself as both conqueror and coward , exploring how the greed and individualism of modern society has allowed tech feudalists and 21st-century robber barons to make out like kings. `[例]`
+>   - 中译：在 17 首曲目中，阿莫斯将自己定位为征服者和懦夫，探索现代社会的贪婪和个人主义如何让科技封建主义者和 21 世纪的强盗大亨像国王一样亲密。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/coward
 
 
 ---

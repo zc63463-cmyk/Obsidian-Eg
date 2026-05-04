@@ -128,9 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - How many nations have a nuclear capability (= have nuclear weapons ) ? `[例]`
+> - How many nations have a nuclear capability (= have nuclear weapons )? `[例]`
 > - Nuclear disarmament (= giving up or removing a country’s nuclear weapons ). `[例]`
-> - The country had agreed to disable its main nuclear fuel production plant by the end of the year . `[例]`
+> - The country had agreed to disable its main nuclear fuel production plant by the end of the year. `[例]`
 
 
 ---

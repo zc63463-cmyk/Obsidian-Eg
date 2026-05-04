@@ -131,9 +131,15 @@ bolster 源自古英语 *bolster*（枕头、垫子），原始日耳曼语 *\*b
 ## 真题/语料关联
 
 > [!example]- 语料
-> - More money is needed to bolster the industry . `[例]`
-> - They need to do something to bolster their image . `[例]`
-> - The UN is sending more troops to bolster the peacekeepers. `[例]`
+> - I needed to stress the bus driver’s evidence in order to bolster my case. `[例]`
+>   - 中译：我需要强调公交车司机的证据以支持我的论点。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bolster
+> - Falling interest rates may help to bolster up the economy. `[例]`
+>   - 中译：利率下降可能有助于提振经济。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bolster
+> - She is thinking of ways to bolster her career. `[例]`
+>   - 中译：她正在考虑如何加强她的事业。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/bolster
 
 
 ---

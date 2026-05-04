@@ -125,9 +125,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Preparations for the festival are now proceeding smoothly . `[例]`
-> - Before proceeding, we need to be more precise about the meaning of 'outcome' in such models. `[例]`
+> - Preparations for the festival are now proceeding smoothly. `[例]`
+>   - 中译：目前，节日筹备工作进展顺利。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/proceeding
 > - There was enough evidence to bring criminal proceedings against her. `[例]`
+>   - 中译：有足够的证据对她提起刑事诉讼。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/proceeding
+> - The Mayor will open the proceedings at the City Hall tomorrow. `[例]`
+>   - 中译：市长将于明天在市政厅宣布诉讼程序。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/proceeding
 
 ---
 

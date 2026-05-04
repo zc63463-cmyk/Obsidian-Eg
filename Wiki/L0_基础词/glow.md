@@ -131,9 +131,9 @@ gl-（光/视觉词根，印欧语系 *ghel-* "发光"）+ -ow（表示状态的
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The night lantern glowed softly in the darkness." `[语料库]`
-> - "The rising sun casts a golden glow over the fields." `[语料库]`
-> - "He felt a glow of pride in what she had accomplished." `[语料库]`
+> - The night lantern glowed softly in the darkness. `[例]`
+> - The rising sun casts a golden glow over the fields. `[例]`
+> - He felt a glow of pride in what she had accomplished. `[例]`
 
 
 ---

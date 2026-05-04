@@ -131,10 +131,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Dr. Myers and Dr. Worm argue that their work gives a correct baseline, which future management efforts must take into account. `[考研-2006-阅读Text3]`
-> - They argued that only a negligible rise in atmosphere radioactivity resulted from the test. `[考研-阅读]`
-> - Critics argue that the new policy will disproportionately affect low-income families. `[COCA-ACAD]`
-> - She argued him into changing his mind about quitting the project. `[例]`
+> - They were arguing over which film to go and see. `[例]`
+>   - 中译：他们正在争论去看哪部电影。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/argue
+> - The children are always arguing. `[例]`
+>   - 中译：孩子们总是吵架。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/argue
+> - Kids, will you stop arguing with each other? `[例]`
+>   - 中译：孩子们，你们能别再吵架了吗？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/argue
 ---
 
 

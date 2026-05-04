@@ -126,10 +126,15 @@ out(出来，out) + come(来，come)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The study found a direct correlation between early childhood education and positive academic outcomes." `[真题]`
-> - "The outcome of the experiment supported the researcher's original hypothesis." `[真题]`
-> - "He stressed that he was pleased with the outcome of the strategy review." `[COCA-ACAD]`
-> - "This method of parenting is associated with more positive social and academic outcomes." `[COCA-ACAD]`
+> - By allowing AI to develop content some brand marketers may find that they are losing control over the brand narrative. ( 48 ) Algorithms that are used to simulate human interactions are creating mmy of these concerns, especially as no-one is quite sure what the outcomes of using AI to interact with customers will be. `[真题]`
+>   - 中译：通过允许人工智能开发内容，一些品牌营销人员可能会发现他们正在失去对品牌叙事的控制。 ( 48 ) 用于模拟人类交互的算法正在引发这些担忧，特别是因为没有人完全确定使用人工智能与客户交互的结果会是什么。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - It's too early to predict the outcome of the meeting. `[例]`
+>   - 中译：现在预测会议结果还为时过早。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/outcome
+> - The weather decided the outcome of the cricket match. `[例]`
+>   - 中译：天气决定了板球比赛的结果。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/outcome
 
 ---
 

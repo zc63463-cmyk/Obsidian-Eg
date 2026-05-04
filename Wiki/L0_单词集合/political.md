@@ -132,10 +132,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The political landscape of the country has changed dramatically over the past decade. `[真题]`
-> - Freedom of speech is a fundamental political right. `[COCA-ACAD]`
-> - Political stability is essential for economic growth and foreign investment. `[COCA-ACAD]`
-> - People have diverse political views on this issue. `[COCA-NEWS]`
+> - What millions of Texas kids leam in their public schools is determined too often by the political ideology of partisan board members , rather than facts and sound scholarship. `[真题]`
+>   - 中译：数以百万计的德克萨斯州孩子在公立学校学习的内容往往是由党派董事会成员的政治意识形态决定的，而不是事实和良好的学术成果。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - There are two major political parties in the US - the Democratic Party and the Republican Party. `[例]`
+>   - 中译：美国有两个主要政党——民主党和共和党。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/political
+> - Education is back at the top of the political agenda (= the matters that the government is considering ). `[例]`
+>   - 中译：教育重新成为政治议程的首要议题（=政府正在考虑的事项）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/political
 
 ---
 

@@ -130,9 +130,15 @@ con-(=together，一起) + flict(=strike，打击)（建议创建词根笔记 [[
 ## 真题/语料关联
 
 > [!example]- 语料
-> - They should also learn how to solve problems and resolve conflicts. `[真题]`
-> - The new policy is in conflict with existing laws. `[COCA-ACAD]`
-> - The judge resigned due to a conflict of interest. `[例]`
+> - There was a lot of conflict between him and his father. `[例]`
+>   - 中译：他和他父亲之间有很多矛盾。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/conflict
+> - It was an unpopular policy and caused a number of conflicts within the party. `[例]`
+>   - 中译：这是一项不受欢迎的政策，并在党内引起了一些冲突。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/conflict
+> - His outspoken views would frequently bring him into conflict with the president. `[例]`
+>   - 中译：他直言不讳的观点常常使他与总统发生冲突。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/conflict
 ---
 
 

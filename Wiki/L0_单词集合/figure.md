@@ -143,10 +143,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "key figures in the industry"（行业关键人物）——考研阅读常见搭配，商业/社会类话题
-> - "official figures show that..."（官方数据显示……）——考研阅读数据引用高频表达
-> - "figure out how to solve the problem"（弄清楚如何解决问题）——考研翻译/写作常见搭配
-> - "a commanding figure"（威风凛凛的人物）——文学类阅读常见描写
+> - Can you read this figure? Is it a three or an eight? `[例]`
+>   - 中译：你能读懂这个数字吗？是三还是八？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/figure
+> - Write the amount in both words and figures. `[例]`
+>   - 中译：用文字和数字写出金额。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/figure
+> - I looked quickly down the column of figures. `[例]`
+>   - 中译：我快速地往下看那一栏数字。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/figure
 
 ---
 

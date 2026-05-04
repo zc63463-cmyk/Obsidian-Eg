@@ -139,10 +139,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The commander sent a scout to take a look at the bridge." `[真题]`
-> - "American companies are keen to scout out business opportunities in Vietnam." `[语料库]`
-> - "Manchester United's chief scouts travel the world looking for talented young players." `[语料库]`
-> - "I'm scouting round for a place to stay." `[语料库]`
+> - American companies are keen to scout out business opportunities in Vietnam. `[例]`
+> - Manchester United's chief scouts travel the world looking for talented young players. `[例]`
+> - I'm scouting round for a place to stay. `[例]`
 
 
 ---

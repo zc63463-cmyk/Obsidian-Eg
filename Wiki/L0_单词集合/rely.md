@@ -126,9 +126,15 @@ re-(反复) + ly(绑，同lig)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Many animals rely on concealment for protection. `[COCA-ACAD]`
-> - It would be rash to rely on such evidence. `[COCA-ACAD]`
-> - The author relies heavily on the primary sources of the literature. `[COCA-ACAD]`
+> - Big-name PRH authors may suffer a bit, but it's those mid-list authors, who normally rely on Waterstones staff's passion for promoting books by lesser-known writers, who will be praying for an end to the dispute. `[真题]`
+>   - 中译：知名公关作家可能会受到一些影响，但那些通常依靠 Waterstones 工作人员推销不太知名作家的书籍的中等作家将祈祷争端结束。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - The success of this project relies on everyone mak ing an effort. `[例]`
+>   - 中译：这个项目的成功有赖于大家的努力。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/rely
+> - I'm relying on the garage to fix the car by tomorrow. `[例]`
+>   - 中译：我希望车库明天能把车修好。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/rely
 ---
 
 

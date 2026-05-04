@@ -129,8 +129,15 @@ mono-(单一) + [[ton|tone]](音调) + -ous(形容词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It was a monotonous life, operating with machine-like regularity."（那是一种单调的生活，以机器般的规律运转。）——考研高频表达
-> - "Factory work was monotonous and physically demanding."（工厂工作单调乏味且体力消耗大。）——考研高频表达
+> - The music became monotonous after a while. `[例]`
+>   - 中译：过了一会儿，音乐变得单调了。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/monotonous
+> - She stood all day ironing a monotonous succession of clothes and sheets. `[例]`
+>   - 中译：她整天站着熨烫一系列单调的衣服和床单。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/monotonous
+> - New secretaries came and went with monotonous regularity. `[例]`
+>   - 中译：新秘书的来来往往都是单调的规律。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/monotonous
 
 ---
 

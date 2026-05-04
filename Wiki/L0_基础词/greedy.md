@@ -125,8 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The company's greedy pursuit of profit led to environmental destruction."（公司对利润的贪婪追求导致了环境破坏）
-> - "He was greedy for knowledge and read every book he could find."（他求知若渴，读遍了能找到的每一本书）
+> - The researchers proposed a greedy solution to the problem. `[例]`
+> - The company adopted a greedy approach to improve efficiency. `[例]`
+> - The plan offers a greedy option for small organizations. `[例]`
 
 
 ---

@@ -124,8 +124,14 @@ cult(耕作，培养) + -iv(连接) + -ate(使...)
 
 > [!example]- 语料
 > - Most of the land there is too poor to cultivate. `[例]`
-> - The villagers cultivate mostly maize and beans . `[例]`
-> - She has cultivated an image as a tough negotiator . `[例]`
+>   - 中译：那里的大部分土地太贫瘠，无法耕种。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/cultivate
+> - The villagers cultivate mostly maize and beans. `[例]`
+>   - 中译：村民主要种植玉米和豆类。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/cultivate
+> - She has cultivated an image as a tough negotiator. `[例]`
+>   - 中译：她树立了一个强硬谈判者的形象。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/cultivate
 
 ---
 

@@ -129,9 +129,9 @@ fry(整体词，源自古英语 *frygian*，与 [[fritter]] 同源)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "A diet high in fried foods can increase the risk of heart disease." `[真题]`
-> - "Heat the oil in a large saucepan and fry the bacon until just golden." `[语料库]`
-> - "With the sea and sun and wind you will fry if you don't take care." `[语料库]`
+> - With the sea and sun and wind you will fry if you don't take care. `[例]`
+> - Fry the mushrooms in a little butter. `[例]`
+> - Shall I fry you an egg , or would you prefer boiled? `[例]`
 
 
 ---

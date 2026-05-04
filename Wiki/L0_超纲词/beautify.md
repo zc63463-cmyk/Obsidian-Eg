@@ -3,10 +3,8 @@ title: "beautify"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 人本世界
 prototype: 使变美（赋予事物美的过程）
@@ -44,7 +42,7 @@ beauty(美) + -fy(动词后缀，"使……化"/"使成为")
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**使变美**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **使变美**（动作层面，15世纪中期）
@@ -66,7 +64,7 @@ beauty(美) + -fy(动词后缀，"使……化"/"使成为")
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ beauty(美) + -fy(动词后缀，"使……化"/"使成为")
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 后缀 -fy 是英语里的"变身器"——simplify 是"简化"，purify 是"净化"，classify 是"分类"。beauty + -fy = beautify，就是"美化"。城市种树是 beautify the city，脸上化妆是 beautify your face。-fy 的力量就是"把名词变成动词"——把 beauty 这个状态变成一个动作。
@@ -89,7 +87,7 @@ beauty(美) + -fy(动词后缀，"使……化"/"使成为")
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,14 +101,14 @@ beauty(美) + -fy(动词后缀，"使……化"/"使成为")
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[uglify]]：使丑化（beautify 的精确反义：美化↔丑化）
 > - [[deface]]：损坏外观，污损（beautify 的功能反义：美化↔破坏外观）
 > - [[disfigure]]：毁容，使变丑（beautify 的结果反义：变美↔变丑）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,7 +121,7 @@ beauty(美) + -fy(动词后缀，"使……化"/"使成为")
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **beautify the city/campus**：美化城市/校园
   - The local government launched a campaign to beautify the city before the Olympics.（当地政府发起了一项在奥运会前美化城市的运动。）
 > - **beautify oneself**：打扮自己
@@ -131,19 +129,12 @@ beauty(美) + -fy(动词后缀，"使……化"/"使成为")
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - Community volunteers worked together to beautify the neighborhood by planting trees and cleaning up the park. `[例]`
 > - The urban renewal project aims to beautify the downtown area while preserving its historic character. `[例]`
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
-
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

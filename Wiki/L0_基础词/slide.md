@@ -147,9 +147,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - When I was little I used to like sliding on the polished floor in my socks . `[例]`
-> - We have one of those doors in the kitchen that slides open . `[例]`
-> - There is a dining room with sliding glass doors that lead onto a balcony . `[例]`
+> - When I was little I used to like sliding on the polished floor in my socks. `[例]`
+> - We have one of those doors in the kitchen that slides open. `[例]`
+> - There is a dining room with sliding glass doors that lead onto a balcony. `[例]`
 
 
 ---

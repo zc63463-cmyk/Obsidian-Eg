@@ -123,9 +123,15 @@ common(共同的/普通的) + place(地方)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Electric cars are increasingly commonplace. `[例]`
-> - We exchanged commonplaces about the weather over cups of tea . `[例]`
-> - Public financing for sports stadiums has become commonplace. `[例]`
+> - This technology is now commonplace in schools. `[例]`
+>   - 中译：这项技术现在在学校中很常见。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/commonplace
+> - Drug use has become commonplace at rock concerts. `[例]`
+>   - 中译：在摇滚音乐会上吸毒已变得司空见惯。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/commonplace
+> - He photographed commonplace objects like lamps and bowls. `[例]`
+>   - 中译：他拍摄了灯和碗等常见物品。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/commonplace
 
 
 ---

@@ -134,9 +134,15 @@ blank 源自古法语 *blanc*（白色的），与古英语 *blanc*（白色）�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Choose the best word ( s) for each numbered blank and mark A, B , C or D on th� ANSWER SHEET. ( 10 points) Caravanserais were roadside inns that were built along the Silk Road in areas including China, North Africa and the Middle East. `[真题]`
-> - When I saw him out at a club the next night , he blanked me. `[例]`
-> - Without even discussing it, we all turned our backs on her and blanked her. `[例]`
+> - She turned to a blank page in her notebook. `[例]`
+>   - 中译：她翻到笔记本上的空白页。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/blank
+> - She stared at me with a blank expression on her face. `[例]`
+>   - 中译：她一脸茫然地看着我。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/blank
+> - Steve looked blank and said he had no idea what I was talking about. `[例]`
+>   - 中译：史蒂夫一脸茫然，说他不知道我在说什么。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/blank
 
 
 ---

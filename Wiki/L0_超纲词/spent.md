@@ -3,10 +3,8 @@ title: "spent"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-25
-mastery: L0
 word_freq: 超纲词
 semantic_field: 人本世界
 prototype: 耗尽的，筋疲力尽的
@@ -44,7 +42,7 @@ spend(花费) + -ed(形容词后缀，表示"持有……状态的")
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**筋疲力尽的**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **被花光的**（资源层面）
@@ -68,7 +66,7 @@ spend(花费) + -ed(形容词后缀，表示"持有……状态的")
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -79,7 +77,7 @@ spend(花费) + -ed(形容词后缀，表示"持有……状态的")
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > spend（花费）的过去分词 spent → 被花光的。钱包空了——money is spent。跑完马拉松后瘫倒在地——I'm completely spent（我彻底筋疲力尽了）。一根火柴烧完了——a spent match。spent 就是"被花光"的一切。
@@ -91,7 +89,7 @@ spend(花费) + -ed(形容词后缀，表示"持有……状态的")
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,13 +102,13 @@ spend(花费) + -ed(形容词后缀，表示"持有……状态的")
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[energetic]]：精力充沛的（spent 的精确反义：筋疲力尽↔精力充沛）
 > - [[unused]]：未使用的（spent 的反义：已用完↔未使用）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,26 +120,19 @@ spend(花费) + -ed(形容词后缀，表示"持有……状态的")
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a spent force**：已经耗尽力量的势力
 > - **completely/totally spent**：彻底筋疲力尽
 > - **spent fuel**：乏燃料（核反应堆用过的燃料）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - After several defeats in a row , people are starting to say that the team is a spent force . `[例]`
-> - We arrived home spent after our long journey . `[例]`
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-25 | **复习次数**：0 | **当前等级**：L0
-
----
+> [!example]- 语料
+> - After several defeats in a row , people are starting to say that the team is a spent force. `[例]`
+> - We arrived home spent after our long journey. `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

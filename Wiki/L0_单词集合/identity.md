@@ -137,9 +137,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The author explores how migration affects cultural identity."（考研英语——作者探讨移民如何影响文化认同）
-> - "The internet has created new challenges for identity verification."（CET-6——互联网给身份验证带来新挑战）
-> - "Many young people struggle with identity issues during their teenage years."（IELTS——许多年轻人在青少年时期面临身份认同问题）
+> - The man's identity was being kept secret while he was helping police with their enquiries. `[例]`
+>   - 中译：该男子的身份在他协助警方调查期间一直保密。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/identity
+> - The informant was given a new identity (= a different name and new official documents ) for protection. `[例]`
+>   - 中译：举报人被赋予新的身份（=不同的姓名和新的官方文件）以得到保护。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/identity
+> - The newspaper photo apparently showed him in Rome, but it was a case of mistaken identity (= it was the wrong person ). `[例]`
+>   - 中译：报纸上的照片显然显示他在罗马，但这是一个身份错误的情况（=认错人了）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/identity
 
 ---
 

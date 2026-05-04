@@ -138,9 +138,15 @@ ex-(向外，出) + clud/clus(关闭，关上) + -ive(形容词后缀，表示"�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Good teaching and research are not exclusive, but they are also not automatic companions."（优秀的教学和研究并不互相排斥，但它们也不是自然而然相伴而生的。）——考研高频表达
-> - "But as these findings show, exercise and academics may not be mutually exclusive."（但这些发现表明，运动和学业并非互不相容。）——考研高频表达
-> - "Of the 46 beverages endorsed by professional athletes, 93 percent relied exclusively on sugar for sweetening."（在由职业运动员代言的46种饮料中，93%完全依赖糖来增甜。）——考研高频表达
+> - This room is for the exclusive use of guests. `[例]`
+>   - 中译：该房间仅供客人使用。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/exclusive
+> - He gave an exclusive interview to the Times from his home in California. `[例]`
+>   - 中译：他在加利福尼亚州的家中接受了《泰晤士报》的独家采访。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/exclusive
+> - From our website you can watch exclusive video clips and audio clips. `[例]`
+>   - 中译：从我们的网站您可以观看独家视频剪辑和音频剪辑。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/exclusive
 ---
 
 

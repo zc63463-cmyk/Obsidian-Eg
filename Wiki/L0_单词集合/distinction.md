@@ -123,10 +123,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - This distinction is so much so that where the latter is lacking, the former becomes all the more urgent. `[真题]`
-> - The author draws a clear distinction between two types of reasoning: inductive and deductive. `[真题]`
-> - Philosophers did not use to make a distinction between arts and science. `[COCA-ACAD]`
-> - The law draws a distinction between temporary and permanent employees. `[COCA-ACAD]`
+> - There's a clear distinction between the dialects spoken in the two regions. `[例]`
+>   - 中译：这两个地区的方言有明显的区别。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/distinction
+> - We have to make a distinction between genuine mistakes and acts that intend to deceive or conceal something. `[例]`
+>   - 中译：我们必须区分真正的错误和意图欺骗或隐瞒某些事情的行为。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/distinction
+> - It's sometimes very difficult to draw a clear distinction between the meanings of different words. `[例]`
+>   - 中译：有时很难清楚地区分不同单词的含义。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/distinction
 ---
 
 

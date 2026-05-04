@@ -135,9 +135,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The road has been dug up in order to lay cables. `[例]`
-> - The office has gone over to cable. `[例]`
-> - This channel is only available on cable. `[例]`
+> - They're digging up the road to lay cables. `[例]`
+>   - 中译：他们正在挖路铺设电缆。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/cable
+> - We can receive up to 500 cable channels. `[例]`
+>   - 中译：我们最多可以接收 500 个有线频道。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/cable
+> - We just had cable installed. `[例]`
+>   - 中译：我们刚刚安装了电缆。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/cable
 
 
 ---

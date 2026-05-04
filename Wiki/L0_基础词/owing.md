@@ -124,9 +124,9 @@ owe（欠）+ -ing(分词/形容词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The flight was cancelled owing to severe weather conditions." `[真题]`
-> - "The match was postponed owing to the heavy rain." `[真题]`
-> - "A significant portion of the department is still closed owing to the fact that spending to reopen it hasn't been approved." `[真题]`
+> - The flight was cancelled owing to severe weather conditions. `[真题]`
+> - The match was postponed owing to the heavy rain. `[真题]`
+> - A significant portion of the department is still closed owing to the fact that spending to reopen it hasn't been approved. `[真题]`
 
 
 ---

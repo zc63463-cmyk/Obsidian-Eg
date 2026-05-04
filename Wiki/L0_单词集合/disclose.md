@@ -125,8 +125,14 @@ dis-(打开/移除) + [[close/clus|close]](关闭/覆盖) → 移除覆盖
 
 > [!example]- 语料
 > - The company has disclosed profits of over £200 million. `[例]`
-> - He refused to disclose the source of his information. `[例]`
-> - The police have disclosed that two officers are under internal investigation . `[例]`
+>   - 中译：该公司已披露利润超过2亿英镑。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/disclose
+> - The police have disclosed that two officers are under internal investigation. `[例]`
+>   - 中译：警方透露，两名警官正在接受内部调查。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/disclose
+> - She refused to disclose any details of the plan. `[例]`
+>   - 中译：她拒绝透露该计划的任何细节。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/disclose
 
 ---
 

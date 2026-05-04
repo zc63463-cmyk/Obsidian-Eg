@@ -124,7 +124,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Many small businesses were forced to fold during the economic crisis.（经济危机期间，许多小企业被迫倒闭。）
+> - I folded the letter (in half ) and put it in an envelope. `[例]`
+>   - 中译：我把信对折（对折），放进信封里。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/fold
+> - He had a neatly folded handkerchief in his jacket pocket. `[例]`
+>   - 中译：他上衣口袋里有一块折叠整齐的手帕。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/fold
+> - Will you help me to fold (up) the sheets? `[例]`
+>   - 中译：你能帮我把床单折起来吗？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/fold
 
 ---
 

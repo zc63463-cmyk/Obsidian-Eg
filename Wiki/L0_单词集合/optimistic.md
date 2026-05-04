@@ -136,9 +136,15 @@ optim(最好的，源自拉丁语 optimus "最好的") + -ist(…的人) + -ic(�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She is optimistic about her chances of winning a gold medal . `[例]`
-> - She ended her speech on an optimistic note . `[例]`
-> - The doctor said she was optimistic about the outcome of the operation but forbore to make any promises at this early stage . `[例]`
+> - She is optimistic about her chances of winning a gold medal. `[例]`
+>   - 中译：她对自己赢得金牌的机会感到乐观。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/optimistic
+> - She ended her speech on an optimistic note. `[例]`
+>   - 中译：她以乐观的语气结束了演讲。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/optimistic
+> - The doctor said she was optimistic about the outcome of the operation but forbore to make any promises at this early stage. `[例]`
+>   - 中译：医生表示，她对手术结果持乐观态度，但在早期阶段拒绝做出任何承诺。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/optimistic
 
 ---
 

@@ -127,8 +127,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - "Children who receive affection and support from their parents tend to develop greater self-confidence."（从父母那里得到关爱和支持的孩子往往能发展出更强的自信心。）——考研阅读真题
-> - "He had a deep affection for his hometown and returned every summer."（他对家乡有着深厚的感情，每年夏天都会回去。）——考研高频表达
+> - He had a deep affection for his aunt. `[例]`
+>   - 中译：他对姨妈感情很深。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/affection
+> - The former president still holds a place in the nation's affections (= the nation still loves the former president ). `[例]`
+>   - 中译：前总统在国民心中仍然占有一席之地（=国民仍然爱着前总统）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/affection
+> - Since his divorce , he has been suspicious of women who try to win his affections. `[例]`
+>   - 中译：自从离婚后，他一直对那些试图博得他芳心的女人心生怀疑。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/affection
 
 ---
 

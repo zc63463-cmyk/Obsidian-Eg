@@ -137,9 +137,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "All this has the effect of building up unusual pressures and tensions within the community and consequently presents serious problems for the governments concerned." `[真题]`
-> - "There are growing tensions between the two countries." `[真题]`
-> - "There is mounting tension along the border." `[真题]`
+> - All this has the effect of building up unusual pressures and tensions within the community and consequently presents serious problems for the governments concerned. `[真题]`
+> - There are growing tensions between the two countries. `[真题]`
+> - There is mounting tension along the border. `[真题]`
 
 
 ---

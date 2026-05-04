@@ -129,10 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "I would like to express my gratitude to everyone for their hard work." `[剑桥词典]`
-> - "The family turned to social media expressing their gratitude, saying, 'From the bottom of our hearts, we would like to deeply thank each and every person that stopped by!'" `[真题]`
-> - "She felt a deep sense of gratitude to the teacher who had encouraged her to go on to university." `[朗文词典]`
-> - "We owe them our immense gratitude for their total commitment, hard work and determination." `[柯林斯词典]`
+> - I would like to express my gratitude to everyone for their hard work. `[例]`
+> - The family turned to social media expressing their gratitude, saying, 'From the bottom of our hearts, we would like to deeply thank each and every person that stopped by! `[真题]`
+> - She felt a deep sense of gratitude to the teacher who had encouraged her to go on to university. `[例]`
 
 
 ---

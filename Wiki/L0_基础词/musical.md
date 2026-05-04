@@ -130,9 +130,9 @@ mus(=muse, 音乐/缪斯，希腊语 *Mousa*) + -ic(形容词后缀，与……�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Mozart's musical compositions include symphonies and operas . `[例]`
+> - Mozart's musical compositions include symphonies and operas. `[例]`
 > - Joe's family all play instruments - they're very musical. `[例]`
-> - Musical instruments hang from the walls of the restaurant . `[例]`
+> - Musical instruments hang from the walls of the restaurant. `[例]`
 
 
 ---

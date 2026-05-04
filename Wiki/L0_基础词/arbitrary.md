@@ -124,9 +124,15 @@ arbiter(仲裁人，拉丁语 *arbiter*，源自 *ad-* + *bitr-* "见证人") + 
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Did you have a reason for choosing your destination or was it arbitrary? `[例]`
-> - The company has been the subject of an arbitrary take-over. `[例]`
-> - Her outfit was an arbitrary choice but was just perfect . `[例]`
+> - The choice of players for the team seemed completely arbitrary. `[例]`
+>   - 中译：球队球员的选择似乎完全是随意的。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/arbitrary
+> - He makes unpredictable, arbitrary decisions. `[例]`
+>   - 中译：他做出不可预测、武断的决定。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/arbitrary
+> - U.S. News was revealed to have considered assigning in its next rankings an arbitrary SAT score to Sarah Lawrence College because the school no longer collects applicants' scores. `[例]`
+>   - 中译：据透露，《美国新闻与世界报道》曾考虑在下一次排名中将任意 SAT 分数分配给莎拉·劳伦斯学院，因为该校不再收集申请者的分数。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/arbitrary
 
 
 ---

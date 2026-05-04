@@ -120,10 +120,15 @@ industr(y)(工业) + -ial(形容词后缀) + -ize(动词后缀，"使…化")
 ## 真题/语料关联
 
 > [!example]- 语料
-> - With optimism characteristic of all industrialized countries, we came to accept that everyone is fit to be educated. `` `[真题]` ``
-> - They admitted that in the long run industrialization greatly raised the standard of living for the average man. `` `[真题]` ``
-> - Many developing nations are struggling to industrialize their economies. `` `[COCA-ACAD]` ``
-> - China rapidly industrialized in the late twentieth century. `` `[COCA-ACAD]` ``
+> - It was the first country to industrialize. `[例]`
+>   - 中译：它是第一个实现工业化的国家。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/industrialize
+> - The southern part of the country was slow to industrialize. `[例]`
+>   - 中译：该国南部地区工业化进程缓慢。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/industrialize
+> - The government hopes to industrialize some of the agricultural regions. `[例]`
+>   - 中译：政府希望使一些农业地区实现工业化。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/industrialize
 ---
 
 

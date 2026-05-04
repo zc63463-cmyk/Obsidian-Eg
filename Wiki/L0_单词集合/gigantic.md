@@ -131,9 +131,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "a gigantic task facing the government"（政府面临的艰巨任务）——考研阅读常见搭配，政治话题
-> - "a gigantic leap forward"（巨大的飞跃）——考研阅读常见搭配
-> - "gigantic corporations dominate the market"（巨型公司主导市场）——考研阅读常见搭配，经济话题
+> - The cost has been gigantic. `[例]`
+>   - 中译：成本是巨大的。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/gigantic
+> - The problem was beginning to take on gigantic proportions. `[例]`
+>   - 中译：这个问题开始变得非常严重。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/gigantic
+> - The bomb caused a gigantic explosion. `[例]`
+>   - 中译：炸弹引起了巨大的爆炸。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/gigantic
 
 ---
 

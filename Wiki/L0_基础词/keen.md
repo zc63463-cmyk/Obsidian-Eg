@@ -133,10 +133,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Many young graduates are keen to gain international experience, viewing it as a crucial stepping stone in their career development." `[真题]`
-> - "The keen competition in the global technology market has forced companies to invest heavily in research and development." `[真题]`
-> - "She's keen on playing tennis." `[剑桥词典]`
-> - "They were very keen to start work as soon as possible." `[剑桥词典]`
+> - Many young graduates are keen to gain international experience, viewing it as a crucial stepping stone in their career development. `[真题]`
+> - The keen competition in the global technology market has forced companies to invest heavily in research and development. `[真题]`
+> - She's keen on playing tennis. `[例]`
+> - They were very keen to start work as soon as possible. `[例]`
 
 
 ---

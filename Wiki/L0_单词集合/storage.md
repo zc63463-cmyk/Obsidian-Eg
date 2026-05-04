@@ -127,9 +127,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - We've had to build some cupboards to give us more storage space . `[例]`
-> - There was still a lot of unsold fabric in storage. `[例]`
-> - Much of the art they’ve acquired is still in storage (= being kept in a safe place and not yet in use) . `[例]`
+> - There's a lot of storage space in the loft. `[例]`
+>   - 中译：阁楼里有很多存储空间。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/storage
+> - We need more storage now. `[例]`
+>   - 中译：我们现在需要更多的存储空间。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/storage
+> - When we moved we had to put our furniture in storage for a while. `[例]`
+>   - 中译：当我们搬家时，我们不得不将家具存放一段时间。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/storage
 
 ---
 

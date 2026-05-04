@@ -130,9 +130,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Since the volcano last erupted, many houses have been built in a dangerous position on its slopes . `[例]`
-> - At the end of a hot summer , violence erupted in the inner cities . `[例]`
-> - Clashes erupted between protesters and police . `[例]`
+> - Since the volcano last erupted, many houses have been built in a dangerous position on its slopes. `[例]`
+> - At the end of a hot summer , violence erupted in the inner cities. `[例]`
+> - Clashes erupted between protesters and police. `[例]`
 
 
 ---

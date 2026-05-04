@@ -126,9 +126,15 @@ ad-(=to, 朝向，见 [[ad]]) + [[ven-vent|vent]](=来，拉丁语 *venire*，�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The advent of electronic publishing and authors' need to find outlets for their papers resulted in thousands of new journals. `[真题]`
-> - Life was transformed by the advent of the steam engine . `[例]`
-> - Transportation was transformed by the advent of the internal combustion engine . `[例]`
+> - Private equity firms Boyu Capital and Advent International have made verbal offers, valuing Canada Goose at eight times its 12-month average earnings before interest, taxes, depreciation and amortization, translating into a valuation of around $1.35 billion, the people said. `[例]`
+>   - 中译：知情人士称，私募股权公司博裕资本和 Advent International 已提出口头报价，对 Canada Goose 的估值是其 12 个月息税折旧摊销前平均收益的 8 倍，相当于估值约为 13.5 亿美元。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/advent
+> - And, between Lent, Advent , Wednesdays and Fridays, and various other days, as many as 150 days of the year might require fasting for lay people. `[例]`
+>   - 中译：而且，在四旬期、降临节、周三和周五以及其他各种日子之间，一年中多达 150 天可能需要外行人禁食。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/advent
+> - Around this time, the baby’s parents returned home, saw their child and rushed him to Advent Hospital in Daytona Beach, where Carter was pronounced dead. `[例]`
+>   - 中译：大约在这个时候，婴儿的父母回到家中，看到了他们的孩子，并将他送往代托纳海滩的基督降临医院，卡特在那里被宣布死亡。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/advent
 
 
 ---

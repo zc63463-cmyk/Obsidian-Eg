@@ -135,10 +135,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - A high percentage of the female staff are part-time workers. `[COCA-ACAD]`
-> - The percentage of women students at the university has increased steadily. `[COCA-ACAD]`
-> - Interest rates fell by six percentage points. `[COCA-NEWS]`
-> - Gross margin as a percentage of net sales for the year was 45%. `[COCA-ACAD]`
+> - What percentage of women return to work after having a baby? `[例]`
+>   - 中译：生完孩子后重返工作岗位的女性比例有多少？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/percentage
+> - Interest rates have risen by two percentage points. `[例]`
+>   - 中译：利率上升了两个百分点。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/percentage
+> - The percentage of live births continues to increase. `[例]`
+>   - 中译：活产率持续增加。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/percentage
 
 ---
 

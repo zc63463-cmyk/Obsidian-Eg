@@ -120,9 +120,15 @@ clothe（给……穿衣）+ -ing（动名词后缀，表动作的结果/产物�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - You can only take three articles of clothing into the changing room . `[例]`
-> - You can only take three items of clothing into the changing room . `[例]`
-> - Protective clothing must be worn . `[例]`
+> - Workers at the factory wear protective clothing. `[例]`
+>   - 中译：工厂里的工人都穿着防护服。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/clothing
+> - Did you bring a change of clothing? `[例]`
+>   - 中译：你带换洗的衣服了吗？
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/clothing
+> - The charity helped her out with clothing for work. `[例]`
+>   - 中译：该慈善机构帮助她购买工作服装。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/clothing
 
 
 ---

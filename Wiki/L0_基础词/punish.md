@@ -126,9 +126,9 @@ pun(=pen，惩罚/代价，源自拉丁语 *poena*，惩罚) + -ish(动词后缀
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The bill mentioned in Paragraph 2 was intended to __ _ A. curb short-term rental speculation B. ensure the supply of cheap housing C. punish illegal dealings in housing D. allow a free short-term rental market 28. `[真题]`
 > - Those responsible for these crimes must be brought to court and punished. `[例]`
-> - He punished the class by giv ing them extra work . `[例]`
+> - He punished the class by giv ing them extra work. `[例]`
+> - The oil company was found guilty on ten counts of pollution , and was punished with a $250 million fine. `[例]`
 
 
 ---

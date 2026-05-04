@@ -135,10 +135,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The global economy has witnessed a profound transformation due to digitalization." `[COCA-ACAD]`
-> - "A free enterprise culture, with an innovative, dynamic economy backed by the rewards for success, spurs on investment." `[COCA-ACAD]`
-> - "Academic institutions, companies engaging in research and development, and health workers using digital data are all components of a knowledge economy." `[COCA-ACAD]`
-> - "It is more economical to buy in bulk and practice economy in daily household spending." `[COCA-ACAD]`
+> - Technology companies are driving the global economy. `[例]`
+>   - 中译：科技公司正在推动全球经济。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/economy
+> - Investors remain cautious about the state of the economy. `[例]`
+>   - 中译：投资者对经济状况仍持谨慎态度。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/economy
+> - Tourism can help to boost a weak economy. `[例]`
+>   - 中译：旅游业有助于提振疲软的经济。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/economy
 
 ---
 

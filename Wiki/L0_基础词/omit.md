@@ -125,9 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The article's authors made untrue statements and omitted key information . `[例]`
-> - A list of new employees inadvertently omitted her name . `[例]`
-> - The Prince's tour conveniently omitted the most deprived areas of the city . `[例]`
+> - The article's authors made untrue statements and omitted key information. `[例]`
+> - A list of new employees inadvertently omitted her name. `[例]`
+> - The Prince's tour conveniently omitted the most deprived areas of the city. `[例]`
 
 
 ---

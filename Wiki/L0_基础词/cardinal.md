@@ -133,9 +133,15 @@ cardin-（铰链，拉丁语 *cardo*）+ -al（形容词后缀）→ 像铰链�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Cardinals elect and advise the Pope. `[例]`
-> - Finding food was a cardinal concern . `[例]`
 > - The Pope appointed two new cardinals this year. `[例]`
+>   - 中译：教皇今年任命了两名新枢机主教。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/cardinal
+> - My cardinal rule is to always be honest. `[例]`
+>   - 中译：我的基本原则是永远诚实。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/cardinal
+> - In December 2023, after a two-year trial, a cardinal and eight other people were convicted of several financial charges. `[例]`
+>   - 中译：2023 年 12 月，经过两年的审判，一名红衣主教和其他八人被判犯有多项经济罪名。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/cardinal
 
 
 ---

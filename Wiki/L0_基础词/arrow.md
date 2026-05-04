@@ -127,10 +127,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - I followed the arrows to the car park. `[COCA-SPOKEN]`
-> - Cupid is usually depicted as a winged boy with a bow and arrow. `[COCA-ACAD]`
-> - She aimed carefully at the tree but the arrow missed. `[COCA-FIC]`
-> - The arrows in the diagram represent biological processes. `[COCA-ACAD]`
+> - The road continues as straight as an arrow. `[例]`
+>   - 中译：道路继续笔直如箭。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/arrow
+> - Use the arrow keys to move the cursor. `[例]`
+>   - 中译：使用箭头键移动光标。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/arrow
+> - The arrow on the map points north. `[例]`
+>   - 中译：地图上的箭头指向北。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/arrow
 
 
 ---

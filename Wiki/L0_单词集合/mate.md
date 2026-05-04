@@ -141,11 +141,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Many species of birds mate for life, forming strong pair bonds. `[COCA-ACAD]`
-> - Me and a couple of mates of mine went round to the pub. `[COCA-FIC]`
-> - She and I have been best mates for ages. `[COCA-FIC]`
-> - Researchers observed that the animals mate in spring when food is abundant. `[COCA-ACAD]`
-> - The first mate on the ship was responsible for navigation. `[COCA-FIC]`
+> - Peacocks use their beautiful tails to attract mates. `[例]`
+>   - 中译：孔雀用美丽的尾巴来吸引配偶。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/mate
+> - We've been mates since our school days. `[例]`
+>   - 中译：我们从学生时代起就是好朋友了。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/mate
+> - I usually go out with some of my mates from the office on Saturdays. `[例]`
+>   - 中译：我通常在周六和办公室的一些朋友一起出去。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/mate
 
 ---
 

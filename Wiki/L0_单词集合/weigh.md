@@ -143,10 +143,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Yesterday a satellite weighing 15 tons was successfully placed in orbit . `[例]`
-> - She weighs herself every week on the scales in the bathroom . `[例]`
-> - Your luggage must be weighed before it is put on the aircraft . `[例]`
-> - Easy access to a skilled workforce weighed heavily with us when we chose a site for the new factory . `[例]`
+> - How much do you weigh (= how heavy are you)? `[例]`
+>   - 中译：你的体重是多少（=你有多重）？
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/weigh
+> - A healthy baby usually weighs 6 lbs or more. `[例]`
+>   - 中译：健康婴儿的体重通常为 6 磅或以上。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/weigh
+> - The average male tiger weighs around 200 kg. `[例]`
+>   - 中译：雄性老虎的平均体重约为200公斤。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/weigh
 
 ---
 

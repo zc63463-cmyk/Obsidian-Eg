@@ -130,9 +130,15 @@ suc-(=sub-, 在后面) + cess(走) + -ion(名词后缀，表动作/状态)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - In quick succession, the Senate and House passed legislation protecting Yell ow stone in early 1872. `[真题]`
-> - Life was just an endless succession of parties and dinners . `[例]`
-> - A succession of scandals and revelations has undermined the government over the past year . `[例]`
+> - He's been hit by a succession of injuries since he joined the team. `[例]`
+>   - 中译：自从加盟球队以来，他就遭遇了一系列的伤病。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/succession
+> - She has won the award for the third year in succession. `[例]`
+>   - 中译：她已连续第三年获此殊荣。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/succession
+> - They had three children in quick succession. `[例]`
+>   - 中译：他们很快连续生育了三个孩子。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/succession
 
 
 ---

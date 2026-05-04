@@ -140,9 +140,9 @@ fast(牢固的/快的，古英语 *fæst*)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The fast train (= one that stops at fewer stations and travels quickly ) to London takes less than an hour . `[例]`
-> - It's not a relaxing movie - it's pretty fast and furious . `[例]`
-> - The accident was caused by people driving too fast in bad conditions . `[例]`
+> - The fast train (= one that stops at fewer stations and travels quickly ) to London takes less than an hour. `[例]`
+> - It's not a relaxing movie - it's pretty fast and furious. `[例]`
+> - The accident was caused by people driving too fast in bad conditions. `[例]`
 
 
 ---

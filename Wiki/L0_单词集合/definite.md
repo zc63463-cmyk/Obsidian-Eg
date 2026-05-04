@@ -132,9 +132,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The date for the meeting is now definite: 5 March . `[例]`
-> - She has very definite opinions . `[例]`
-> - Are you sure I'm invited too?" "Yes, Dan was very definite about it on the phone . `[例]`
+> - The date for the meeting is now definite: 5 March. `[例]`
+>   - 中译：会议日期现已确定：3 月 5 日。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/definite
+> - She has very definite opinions. `[例]`
+>   - 中译：她有非常明确的意见。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/definite
+> - Are you sure I'm invited too?" "Yes, Dan was very definite about it on the phone. `[例]`
+>   - 中译：你确定我也被邀请了吗？” “是的，丹在电话里说得很肯定。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/definite
 
 ---
 

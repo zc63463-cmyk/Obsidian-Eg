@@ -128,9 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The river banks were overgrown with reeds." `[真题]`
-> - "I regret to say that some of our allies today are broken reeds." `[真题]`
-> - "Each is a mix of bare granite and forest tucked up inside a skirt of reeds." `[真题]`
+> - The river banks were overgrown with reeds. `[真题]`
+> - I regret to say that some of our allies today are broken reeds. `[真题]`
+> - Each is a mix of bare granite and forest tucked up inside a skirt of reeds. `[真题]`
 
 
 ---

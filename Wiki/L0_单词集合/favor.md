@@ -142,10 +142,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Could you do me a favor and close the window?"（你能帮我个忙关一下窗户吗？）——日常交际
-> - "The majority of voters were in favor of the new policy."（大多数选民赞成这项新政策）——政治话题
-> - "The weather conditions favored the growth of the crops."（天气条件有利于农作物的生长）——注意 favor 作"有利于"的用法
-> - "The teacher was accused of showing favor to certain students."（老师被指控偏袒某些学生）——教育话题
+> - The bill proved largely popular and sailed through Congress with large majorities in favor. `[真题]`
+>   - 中译：事实证明，该法案很受欢迎，并以绝大多数人的支持顺利通过了国会。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - In applying for this job , Tiffany has a lot in her favor (= to her advantage ). `[例]`
+>   - 中译：在申请这份工作时，蒂芙尼有很多对她有利的地方（=对她有利）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/favor
+> - The city council voted in favor of (= in support of) the proposed housing development. `[例]`
+>   - 中译：市议会投票赞成（=支持）拟议的住房开发。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/favor
 
 ---
 

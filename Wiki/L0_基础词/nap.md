@@ -124,8 +124,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - He likes to nap for an hour when he gets home from work . `[例]`
-> - While the children nap after lunch , their teachers will get a break . `[例]`
+> - He likes to nap for an hour when he gets home from work. `[例]`
+> - While the children nap after lunch , their teachers will get a break. `[例]`
 > - I had a short nap after lunch. `[例]`
 
 

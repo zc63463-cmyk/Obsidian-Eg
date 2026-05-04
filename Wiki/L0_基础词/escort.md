@@ -127,9 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Several little boats escorted the sailing ship into the harbour . `[例]`
-> - Security guards escorted the intruders from the building . `[例]`
-> - The police escorted her to the airport , and made sure that she left the country . `[例]`
+> - Several little boats escorted the sailing ship into the harbour. `[例]`
+> - Security guards escorted the intruders from the building. `[例]`
+> - The police escorted her to the airport , and made sure that she left the country. `[例]`
 
 
 ---

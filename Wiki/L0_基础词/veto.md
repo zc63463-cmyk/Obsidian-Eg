@@ -133,9 +133,9 @@ veto（拉丁语 *veto*，意为"我禁止"，*vetare* 的第一人称单数形�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "In theory, a girl may veto the spouse her parents have chosen." `[真题]`
-> - "A two-thirds majority in each house is necessary to override a veto." `[权威语料]`
-> - "The President vetoed the economic package passed by Congress." `[权威语料]`
+> - In theory, a girl may veto the spouse her parents have chosen. `[真题]`
+> - A two-thirds majority in each house is necessary to override a veto. `[例]`
+> - The President vetoed the economic package passed by Congress. `[例]`
 
 
 ---

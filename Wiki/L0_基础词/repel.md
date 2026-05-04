@@ -132,10 +132,10 @@ re-（[[re-|回，反向]]）+ pel（[[pel|推，驱赶]]，拉丁语 *pellere*�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The defenders repelled the attack without losing any men." `[COCA-ACAD]`
-> - "This coat has a special surface that repels moisture." `[COCA-NEWS]`
-> - "Similar poles of magnets repel each other, and opposite poles attract." `[COCA-ACAD]`
-> - "Her arrogance repels many people." `[BNC-SPOKEN]`
+> - The defenders repelled the attack without losing any men. `[COCA-ACAD]`
+> - This coat has a special surface that repels moisture. `[COCA-NEWS]`
+> - Similar poles of magnets repel each other, and opposite poles attract. `[COCA-ACAD]`
+> - Her arrogance repels many people. `[BNC-SPOKEN]`
 
 
 ---

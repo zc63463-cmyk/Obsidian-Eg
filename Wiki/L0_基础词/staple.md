@@ -128,9 +128,9 @@ staple 源自古英语 *stapol*（柱子、标杆），与 [[st-sta-stat|st-/sta
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Shortages mean that even staples (= basic foods ) like bread are difficult to find . `[例]`
-> - Phosphate has been a staple of this area for many years . `[例]`
-> - Romantic fiction and reference books are a staple of many public libraries . `[例]`
+> - Shortages mean that even staples (= basic foods ) like bread are difficult to find. `[例]`
+> - Phosphate has been a staple of this area for many years. `[例]`
+> - Romantic fiction and reference books are a staple of many public libraries. `[例]`
 
 
 ---

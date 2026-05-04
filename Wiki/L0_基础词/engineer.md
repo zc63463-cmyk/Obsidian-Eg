@@ -125,8 +125,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The engineer is coming to repair our phone tomorrow morning . `[例]`
-> - Left-wing groups engineered a coup against the military government . `[例]`
+> - The engineer is coming to repair our phone tomorrow morning. `[例]`
+> - Left-wing groups engineered a coup against the military government. `[例]`
 > - I'm trying to engineer a meeting between them. `[例]`
 
 

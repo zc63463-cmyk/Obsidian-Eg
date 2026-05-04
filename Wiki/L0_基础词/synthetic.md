@@ -125,7 +125,7 @@ review_count: 0
 > [!example]- 语料
 > - Synthetic fibers are often more durable than natural ones. `[真题]`
 > - Her sympathy seemed synthetic rather than genuine. `[真题]`
-> - The rug is made from a mixture of wool and synthetic fibres. `[语料库]`
+> - The rug is made from a mixture of wool and synthetic fibres. `[例]`
 
 
 ---

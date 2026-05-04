@@ -123,9 +123,15 @@ re-(回/再) + [[spec-spect|spect]](看) + -ive(形容词后缀，表"倾向/特
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The two countries signed the treaty in their respective capitals." `[COCA-ACAD]`
-> - "All of the branches would take on the names of their respective divisions." `[COCA-ACAD]`
-> - "Steven and James are aged 10 and 13 respectively." `[COCA-ACAD]`
+> - Everyone would go into the hall for assembly and then afterwards we'd go to our respective classes. `[例]`
+>   - 中译：大家到礼堂集合，然后就各自去上课了。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/respective
+> - Clinton and Zedillo ordered their respective Cabinets to devise a common counter-drug strategy. `[例]`
+>   - 中译：克林顿和塞迪略命令各自的内阁制定共同的禁毒战略。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/respective
+> - They are each recognized specialists in their respective fields. `[例]`
+>   - 中译：他们都是各自领域公认的专家。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/respective
 
 ---
 

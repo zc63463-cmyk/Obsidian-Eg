@@ -3,10 +3,8 @@ title: "sinister"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-25
-mastery: L0
 word_freq: 超纲词
 semantic_field: 抽象关系
 prototype: 左边的（不吉利的一侧）
@@ -43,7 +41,7 @@ sinister（源自拉丁语 *sinister*，意为"左边的"）
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**左边的（不吉利的一侧）**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **左边的**（空间层面）
@@ -65,7 +63,7 @@ sinister（源自拉丁语 *sinister*，意为"左边的"）
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +73,7 @@ sinister（源自拉丁语 *sinister*，意为"左边的"）
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 古罗马人认为左边是不吉利的一侧——sinister 就是"左边的"。一个人从左边走来，被认为会带来厄运。所以 sinister 从"左边的"变成了"不祥的"，再变成了"邪恶的"。一个 sinister smile 不是友好的微笑，而是让你后背发凉的阴笑。
@@ -87,7 +85,7 @@ sinister（源自拉丁语 *sinister*，意为"左边的"）
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +98,13 @@ sinister（源自拉丁语 *sinister*，意为"左边的"）
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[benevolent]]：仁慈的（sinister 的反义：邪恶↔仁慈）
 > - [[auspicious]]：吉利的（sinister 的反义：不祥↔吉利）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -116,26 +114,19 @@ sinister（源自拉丁语 *sinister*，意为"左边的"）
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a sinister plot/plan**：险恶的阴谋/计划
 > - **a sinister smile/look**：阴险的微笑/眼神
 > - **a sinister atmosphere**：不祥的气氛
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - The ruined house had a sinister appearance . `[例]`
-> - A sinister-looking man sat in the corner of the room . `[例]`
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-25 | **复习次数**：0 | **当前等级**：L0
-
----
+> [!example]- 语料
+> - The ruined house had a sinister appearance. `[例]`
+> - A sinister-looking man sat in the corner of the room. `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

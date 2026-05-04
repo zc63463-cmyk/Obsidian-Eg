@@ -3,10 +3,8 @@ title: "retrofit"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-25
-mastery: L0
 word_freq: 超纲词
 semantic_field: 物品工具
 prototype: 向后安装（给旧设备加装新部件）
@@ -44,7 +42,7 @@ retro-(向后，回顾) + [[fit|fit]](安装，适配，使合适)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**向后安装（事后加装）**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **向后安装**（技术层面）
@@ -65,7 +63,7 @@ retro-(向后，回顾) + [[fit|fit]](安装，适配，使合适)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ retro-(向后，回顾) + [[fit|fit]](安装，适配，使合适)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > retro（向后/事后）+ fit（安装/适配）→ 事后安装。想象一辆老汽车，出厂时没有导航系统，你后来给它装了一个——这就是 retrofit。不是买新车，而是给旧车"事后加装"新功能。
@@ -88,7 +86,7 @@ retro-(向后，回顾) + [[fit|fit]](安装，适配，使合适)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ retro-(向后，回顾) + [[fit|fit]](安装，适配，使合适)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[demolish]]：拆除，拆毁（retrofit 的反义：翻新改造↔拆除重建）
 > - [[scrap]]：报废，废弃（retrofit 的反义：改造利用↔废弃不用）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,7 +116,7 @@ retro-(向后，回顾) + [[fit|fit]](安装，适配，使合适)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **retrofit a building**：对建筑进行翻新改造
 > - **retrofit with**：用……进行翻新改造
 > - **retrofit program**：翻新改造计划
@@ -127,19 +125,12 @@ retro-(向后，回顾) + [[fit|fit]](安装，适配，使合适)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - A state program to retrofit engines with pollution controls has succeeded in reducing pollution from trains . `[例]`
+> [!example]- 语料
+> - A state program to retrofit engines with pollution controls has succeeded in reducing pollution from trains. `[例]`
 > - Many hospitals are struggling to pay for the retrofits. `[例]`
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-25 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

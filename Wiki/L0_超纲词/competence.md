@@ -3,10 +3,8 @@ title: "competence"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 理性世界
 prototype: 胜任的能力（能够做好某事的能力）
@@ -43,7 +41,7 @@ com-（完全）+ [[pet|pet-]]（追求，努力，拉丁语 *petere*，追求/�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**胜任的能力（能够做好某事的能力）**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **胜任的能力**（个人能力层面）
@@ -64,7 +62,7 @@ com-（完全）+ [[pet|pet-]]（追求，努力，拉丁语 *petere*，追求/�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ com-（完全）+ [[pet|pet-]]（追求，努力，拉丁语 *petere*，追求/�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **词根记忆**（优先）：
 > com（完全）+ pet（追求）→ 完全有能力去追求 → 胜任力。compete（竞争）和 competence（胜任力）同源——竞争需要能力，有能力才能竞争。
@@ -83,7 +81,7 @@ com-（完全）+ [[pet|pet-]]（追求，努力，拉丁语 *petere*，追求/�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -96,13 +94,13 @@ com-（完全）+ [[pet|pet-]]（追求，努力，拉丁语 *petere*，追求/�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[incompetence]]：无能，不胜任（competence 的精确反义：胜任↔不胜任）
 - - [[inability]]：无能力（competence 的反义：有能力↔无能力）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -115,7 +113,7 @@ com-（完全）+ [[pet|pet-]]（追求，努力，拉丁语 *petere*，追求/�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **professional competence**：专业能力
 > - **linguistic competence**：语言能力
 > - **within one's competence**：在某人的权限/能力范围内
@@ -123,19 +121,12 @@ com-（完全）+ [[pet|pet-]]（追求，努力，拉丁语 *petere*，追求/�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - Her competence as a teacher is unquestionable . `[例]`
-> - He reached a reasonable level of competence in his English . `[例]`
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
+> [!example]- 语料
+> - Her competence as a teacher is unquestionable. `[例]`
+> - He reached a reasonable level of competence in his English. `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

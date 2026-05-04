@@ -132,8 +132,14 @@ propri(自己的，拉丁语 *proprius*) + -er(比较级后缀，但已弱化)
 
 > [!example]- 语料
 > - The proper procedures for renting out spare houses. `[真题]`
-> - This is Sara's first proper job - she usually does temporary work just for the money . `[例]`
-> - If you're going to walk long distances you need proper walking boots . `[例]`
+>   - 中译：出租闲置房屋的正确程序。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - This is Sara's first proper job - she usually does temporary work just for the money. `[例]`
+>   - 中译：这是萨拉的第一份正式工作——她通常只是为了钱而做临时工作。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/proper
+> - If you're going to walk long distances you need proper walking boots. `[例]`
+>   - 中译：如果您要长距离步行，则需要合适的步行鞋。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/proper
 
 
 ---

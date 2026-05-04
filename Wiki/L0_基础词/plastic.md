@@ -133,7 +133,7 @@ review_count: 0
 > [!example]- 语料
 > - Those flowers aren't real - they're made of plastic. `[例]`
 > - The company has moved into plastics. `[例]`
-> - I hate the hostesses ' false cheerfulness and plastic smiles . `[例]`
+> - I hate the hostesses ' false cheerfulness and plastic smiles. `[例]`
 
 
 ---

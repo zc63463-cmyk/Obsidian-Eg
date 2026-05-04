@@ -125,9 +125,15 @@ boycott 源自人名。19世纪末爱尔兰的土地代理人 Charles C. Boycott
 ## 真题/语料关联
 
 > [!example]- 语料
-> - We are not boycotting PRH titles but we are doing our utmost to ensure that availability for customers remains good despite the lower overall levels of stock. `[真题]`
-> - People were urged to boycott the country's products . `[例]`
-> - The union called on its members to boycott the meeting . `[例]`
+> - We are asking people to boycott goods from companies that use child labour. `[例]`
+>   - 中译：我们要求人们抵制使用童工的公司的商品。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/boycott
+> - They have urged people to boycott foreign products. `[例]`
+>   - 中译：他们敦促人们抵制外国产品。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/boycott
+> - They boycotted the city's bus system. `[例]`
+>   - 中译：他们抵制该市的公交系统。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/boycott
 
 
 ---

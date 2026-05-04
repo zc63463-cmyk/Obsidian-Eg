@@ -130,9 +130,15 @@ coin 源自拉丁语 *cuneus*（楔子），经由古法语 *coign*（楔形、�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - I asked for £10 in 20p coins. `[例]`
-> - That machine doesn't take 50 pence coins. `[例]`
-> - Allen Ginsberg coined the term " flower power ". `[例]`
+> - They flipped a coin to see who should go first. `[例]`
+>   - 中译：他们掷硬币决定谁先走。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/coin
+> - You might as well toss a coin to decide. `[例]`
+>   - 中译：你不妨抛硬币来决定。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/coin
+> - A coin toss has decided the lucky winner. `[例]`
+>   - 中译：抛硬币决定了幸运的获胜者。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/coin
 
 
 ---

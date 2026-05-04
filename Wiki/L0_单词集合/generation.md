@@ -136,9 +136,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "the younger generation is more environmentally conscious"（年轻一代更具环保意识）——考研阅读常见话题，社会变迁类
-> - "next-generation technology"（下一代技术）——考研阅读常见搭配，科技话题
-> - "the generation gap between parents and children"（父母与子女之间的代沟）——考研阅读常见话题
+> - The younger generation smoke less than their parents did. `[例]`
+>   - 中译：年轻一代的吸烟量比他们的父辈少。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/generation
+> - There were at least three generations - grandparents , parents and children - at the wedding. `[例]`
+>   - 中译：参加婚礼的至少有三代人——祖父母、父母和孩子。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/generation
+> - It's our duty to preserve the planet for future generations. `[例]`
+>   - 中译：为子孙后代保护地球是我们的责任。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/generation
 
 ---
 

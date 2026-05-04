@@ -128,9 +128,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - I did up (= fastened ) the buttons on my blouse . `[例]`
-> - He unfastened his top button. `[例]`
-> - I had to sew a new button onto my trousers. `[例]`
+> - One of the buttons on his jacket was missing. `[例]`
+>   - 中译：他夹克上的一颗纽扣不见了。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/button
+> - Adam pressed a button and waited for the lift. `[例]`
+>   - 中译：亚当按下按钮，等待电梯。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/button
+> - She pushed a button on the control panel. `[例]`
+>   - 中译：她按下了控制面板上的按钮。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/button
 
 
 ---

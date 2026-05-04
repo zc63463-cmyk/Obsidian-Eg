@@ -131,9 +131,9 @@ secret(秘密，拉丁语 *secretus*，"分开的，隐藏的"，与 [[segregate
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The 2004 Commercial Space Launch Amendments Act, intended to encourage private space vehicles and services, prohibits the transportation secretary from regulating private spacecraft." `[真题]`
-> - "He must have asked his secretary for the file on Andy, and she got the wrong one." `[真题]`
-> - "A company which has a sole director is required by law to have another person as its company secretary." `[真题]`
+> - The 2004 Commercial Space Launch Amendments Act, intended to encourage private space vehicles and services, prohibits the transportation secretary from regulating private spacecraft. `[真题]`
+> - He must have asked his secretary for the file on Andy, and she got the wrong one. `[真题]`
+> - A company which has a sole director is required by law to have another person as its company secretary. `[真题]`
 
 
 ---

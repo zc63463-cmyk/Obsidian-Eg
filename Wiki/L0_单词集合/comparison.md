@@ -127,7 +127,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - In comparison with traditional teaching methods, online education offers greater flexibility but requires more self-discipline.（与传统教学方法相比，在线教育提供了更大的灵活性，但需要更多的自律。）
+> - They made a comparison of different countries ' eating habits. `[例]`
+>   - 中译：他们对不同国家的饮食习惯进行了比较。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/comparison
+> - By comparison with the French , the British eat far less fish. `[例]`
+>   - 中译：与法国人相比，英国人吃的鱼要少得多。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/comparison
+> - Maxwell and Thorne is tiny in comparison with most other firms in the industry. `[例]`
+>   - 中译：与业内大多数其他公司相比，麦克斯韦和索恩公司规模很小。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/comparison
 
 ---
 

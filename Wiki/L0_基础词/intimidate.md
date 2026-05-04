@@ -126,10 +126,9 @@ in-(=使动，进入) + timid(害怕的，拉丁语 *timidus*) + -ate(动词后�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - They tried to intimidate the witness into changing his testimony. ` `[真题]`
-> - Many students feel intimidated by the prospect of public speaking. ` `[真题]`
-> - Group presentations can be intimidating for students who are not used to public speaking. ` `[语料库]`
-> - The prospect of approaching a professor for help can intimidate students who are shy or introverted. ` `[语料库]`
+> - They were intimidated into accepting a pay cut by the threat of losing their jobs. `[例]`
+> - They were accused of trying to intimidate voters. `[例]`
+> - At first, she slightly intimidated me but now we are good friends. `[例]`
 
 
 ---

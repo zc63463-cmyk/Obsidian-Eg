@@ -119,8 +119,15 @@ ne-(否定前缀，"不") + cess(走/退让) + -itate(动词后缀，"使…")
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "New safety regulations necessitated adding a railing to the stairs."（新的安全规定使得有必要在楼梯上加装栏杆。）——考研高频表达
-> - "The rapid growth of the population has necessitated the construction of more schools and hospitals."（人口的快速增长使得有必要建设更多的学校和医院。）——考研高频表达
+> - Reduction in government spending will necessitate further cuts in public services. `[例]`
+>   - 中译：政府支出的减少将导致公共服务的进一步削减。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/necessitate
+> - An important meeting necessitates my be ing in Boston on Friday. `[例]`
+>   - 中译：周五我要去波士顿参加一个重要的会议。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/necessitate
+> - An important meeting necessitates my being in Houston on Friday. `[例]`
+>   - 中译：周五我要去休斯敦参加一个重要的会议。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/necessitate
 
 ---
 

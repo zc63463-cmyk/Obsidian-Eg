@@ -128,8 +128,15 @@ nerv-(神经，拉丁语 *nervus*) + -ous(形容词后缀，"充满…的")
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Neuroscientists, experts who study the nervous system, are increasingly showing that there's actually a lot that can be done."（神经科学家，研究神经系统的专家，越来越多地表明实际上可以做很多事情。——2014年考研英语一完形填空）
-> - "Good writing most often occurs when you are in hot pursuit of an idea rather than in a nervous search for errors."（良好的写作往往发生在你热切追求一个想法的时候，而不是在紧张地寻找错误的时候。——2008年考研英语一新题型）
+> - Do you get nervous during exams? `[例]`
+>   - 中译：考试时你会紧张吗？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/nervous
+> - I always feel nervous before a race. `[例]`
+>   - 中译：比赛前我总是感到紧张。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/nervous
+> - I was too nervous to speak. `[例]`
+>   - 中译：我紧张得说不出话来。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/nervous
 
 ---
 

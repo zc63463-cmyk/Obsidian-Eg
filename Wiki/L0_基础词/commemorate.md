@@ -129,9 +129,15 @@ com-(一起，词根 [[com]]) + memor(记忆，来自拉丁语 *memoria*) + -ate
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Gathered all together in this church , we commemorate those who lost their lives in the war . `[例]`
-> - A statue has been built to commemorate the 100th anniversary of the poet's birthday . `[例]`
-> - The ceremonies commemorated the 20th anniversary of the founding of the school . `[例]`
+> - A series of movies will be shown to commemorate the thirtieth anniversary of his death. `[例]`
+>   - 中译：一系列电影将上映以纪念他逝世三十周年。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/commemorate
+> - A plaque commemorates the battle. `[例]`
+>   - 中译：一块纪念这场战斗的牌匾。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/commemorate
+> - The festival commemorates the town's founding. `[例]`
+>   - 中译：这个节日是为了纪念该镇的成立。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/commemorate
 
 
 ---

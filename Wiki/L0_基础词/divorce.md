@@ -125,9 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "After years of disagreements, the couple decided to file for divorce." `[真题]`
-> - "The divorce rate has been declining in recent years according to social researchers." `[真题]`
-> - "We should not divorce science from ethics." `[真题]`
+> - After years of disagreements, the couple decided to file for divorce. `[真题]`
+> - The divorce rate has been declining in recent years according to social researchers. `[真题]`
+> - We should not divorce science from ethics. `[真题]`
 
 
 ---

@@ -129,8 +129,8 @@ review_count: 0
 
 > [!example]- 语料
 > - She broke her leg a month ago and it's still in plaster. `[例]`
-> - The torrential rain had plastered her hair to her head . `[例]`
-> - The plaster on the walls was cracked and flaking . `[例]`
+> - The torrential rain had plastered her hair to her head. `[例]`
+> - The plaster on the walls was cracked and flaking. `[例]`
 
 
 ---

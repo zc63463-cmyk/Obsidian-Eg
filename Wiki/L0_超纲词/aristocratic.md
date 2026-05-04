@@ -3,10 +3,8 @@ title: "aristocratic"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 社会习俗
 prototype: 贵族的（属于最优者的）
@@ -43,7 +41,7 @@ aristo(最好的，希腊语 *aristos*) + crat(统治，希腊语 *kratos*) + -i
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**属于最优者的**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **属于最优者的**（政治层面）
@@ -64,7 +62,7 @@ aristo(最好的，希腊语 *aristos*) + crat(统治，希腊语 *kratos*) + -i
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ aristo(最好的，希腊语 *aristos*) + crat(统治，希腊语 *kratos*) + -i
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > aristo = 最好的（希腊语 aristos），crat = 统治（希腊语 kratos）。aristocracy = 由最好的人统治 = 贵族制。aristocratic = 贵族的。对比 democracy（demo=人民+crat=统治=民主制）、bureaucracy（bureau=办公桌+crat=统治=官僚制）。记住 crat = 统治，aristocratic 就是"最优者统治的"。
@@ -86,7 +84,7 @@ aristo(最好的，希腊语 *aristos*) + crat(统治，希腊语 *kratos*) + -i
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ aristo(最好的，希腊语 *aristos*) + crat(统治，希腊语 *kratos*) + -i
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[plebeian]]：平民的（aristocratic 的精确反义：贵族的↔平民的）
 > - [[democratic]]：民主的（aristocratic 的政治反义：贵族统治↔人民统治）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -116,26 +114,19 @@ aristo(最好的，希腊语 *aristos*) + crat(统治，希腊语 *kratos*) + -i
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **aristocratic family/background**：贵族家庭/背景
 > - **aristocratic manners**：贵族气派
 > - **aristocratic society**：贵族社会
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - She came from an aristocratic family that had fallen on hard times.`[例]`
-> - The aristocratic lifestyle of the upper class was a subject of much criticism.`[例]`
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
+> [!example]- 语料
+> - She came from an aristocratic family that had fallen on hard times. `[例]`
+> - The aristocratic lifestyle of the upper class was a subject of much criticism. `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

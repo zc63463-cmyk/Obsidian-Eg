@@ -125,9 +125,15 @@ a-(=ab-, 离开，远离) + [[ver-vert|vert]](转，来自拉丁语 *vertere*)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The tragedy could have been averted if the crew had followed safety procedures. `[例]`
-> - Talks with the teachers' union over the weekend have averted a strike. `[COCA-NEWS]`
-> - She averted her eyes from the terrible scene. `[例]`
+> - A disaster was narrowly averted. `[例]`
+>   - 中译：一场灾难侥幸避免。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/avert
+> - He did his best to avert suspicion. `[例]`
+>   - 中译：他竭尽全力避免怀疑。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/avert
+> - Talks are taking place in an attempt to avert a strike. `[例]`
+>   - 中译：正在进行谈判以避免罢工。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/avert
 
 
 ---

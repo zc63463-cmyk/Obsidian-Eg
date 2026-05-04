@@ -127,8 +127,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - My brother is fond of pointing out my mistakes . `[例]`
-> - Many of us have fond memories of our childhoods . `[例]`
+> - My brother is fond of pointing out my mistakes. `[例]`
+> - Many of us have fond memories of our childhoods. `[例]`
 > - We said a fond farewell to each other (= we said goodbye in a loving way) and promised to write. `[例]`
 
 

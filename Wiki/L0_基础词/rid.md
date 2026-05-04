@@ -122,9 +122,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The proposals are an attempt to rid the country of political corruption. ` [真题]`
-> - It took months of treatment to get rid of the persistent infection. ` [真题]`
-> - We must rid ourselves of the illusion that technology alone can solve our problems. ` [真题]`
+> - The new policy aims to rid the city of unnecessary traffic barriers. `[例]`
+> - I didn't enjoy marking those papers and I was glad to be rid of them. `[例]`
+> - Have you managed to get rid of your old Volvo yet? `[例]`
 
 
 ---

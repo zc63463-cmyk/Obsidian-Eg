@@ -3,10 +3,8 @@ title: "spotlight"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-25
-mastery: L0
 word_freq: 超纲词
 semantic_field: 物品工具
 prototype: 聚光灯
@@ -44,7 +42,7 @@ spot(点，斑点) + light(光)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**聚光灯**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **聚光灯**（物理层面）
@@ -68,7 +66,7 @@ spot(点，斑点) + light(光)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -79,7 +77,7 @@ spot(点，斑点) + light(光)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > spot（点）+ light（光）→ 集中在一个点的光 → 聚光灯。舞台上，一束白光从头顶打下来，照在正在唱歌的主角身上——那就是 spotlight。一个政治丑闻被曝光，政客 suddenly in the spotlight（突然成为焦点）。spotlight 就是"万众瞩目"。
@@ -91,7 +89,7 @@ spot(点，斑点) + light(光)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,13 +102,13 @@ spot(点，斑点) + light(光)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[obscurity]]：默默无闻（spotlight 的精确反义：关注中心↔默默无闻）
 > - [[darkness]]：黑暗（spotlight 的反义：聚光灯↔黑暗）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,26 +119,19 @@ spot(点，斑点) + light(光)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **in the spotlight**：在聚光灯下，成为焦点
 > - **steal the spotlight**：抢风头
 > - **put/shed spotlight on**：使……受到关注
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - The senator has been in the spotlight recently since the revelation of his tax frauds . `[例]`
-> - Spotlights followed the two dancers around the stage . `[例]`
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-25 | **复习次数**：0 | **当前等级**：L0
-
----
+> [!example]- 语料
+> - The senator has been in the spotlight recently since the revelation of his tax frauds. `[例]`
+> - Spotlights followed the two dancers around the stage. `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

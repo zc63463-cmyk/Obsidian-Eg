@@ -127,9 +127,15 @@ crawl 源自中古英语 *craulen*，可能与斯堪的纳维亚语 *krabban*（
 ## 真题/语料关联
 
 > [!example]- 语料
-> - There had been a bad accident on the highway and traffic was crawling. `[真题]`
-> - We spent an hour crawling around on our hands and knees looking for the key. `[真题]`
-> - The days slowly crawled by as we waited for the results of the examination. `[真题]`
+> - Our baby is just starting to crawl. `[例]`
+>   - 中译：我们的宝宝刚刚开始爬行。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/crawl
+> - A man was crawling away from the burning wreckage. `[例]`
+>   - 中译：一名男子正从燃烧的废墟中爬出。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/crawl
+> - She crawled under the fence. `[例]`
+>   - 中译：她爬到栅栏下面。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/crawl
 
 
 ---

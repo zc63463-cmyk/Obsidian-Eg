@@ -124,8 +124,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The Australian **Federation** was established in 1901.（澳大利亚联邦成立于1901年。）
-> - The trade **federation** negotiated a new wage agreement with employers.（贸易联合会与雇主谈判达成了新的工资协议。）
+> - The federation of the six original Australian states took place in 1901. `[例]`
+>   - 中译：澳大利亚最初的六个州于 1901 年组成联邦。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/federation
+> - He's against European federation. `[例]`
+>   - 中译：他反对欧洲联盟。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/federation
+> - The trade federation promotes cooperation between local businesses. `[例]`
+>   - 中译：该贸易联合会促进当地企业之间的合作。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/federation
 
 ---
 

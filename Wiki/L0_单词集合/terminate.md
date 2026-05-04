@@ -130,9 +130,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - They terminated my contract in October . `[例]`
-> - This train will terminate at the next stop - passengers who wish to continue should change trains . `[例]`
-> - Employers must terminate all illegal employees . `[例]`
+> - Your contract of employment terminates in December. `[例]`
+>   - 中译：您的雇佣合同将于 12 月终止。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/terminate
+> - The agreement was terminated immediately. `[例]`
+>   - 中译：该协议立即终止。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/terminate
+> - This train terminates at London Victoria. `[例]`
+>   - 中译：该列车终点站为伦敦维多利亚。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/terminate
 
 ---
 

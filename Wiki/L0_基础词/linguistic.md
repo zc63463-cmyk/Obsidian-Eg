@@ -124,7 +124,7 @@ lingu(舌头/语言，拉丁语 *lingua*) + -ist(人) + -ic(形容词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - I'm particularly interested in the linguistic development of young children . `[例]`
+> - I'm particularly interested in the linguistic development of young children. `[例]`
 > - Linguistic and cultural barriers. `[例]`
 > - New developments in linguistic theory. `[例]`
 

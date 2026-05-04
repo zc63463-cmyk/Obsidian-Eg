@@ -125,9 +125,9 @@ neck（脖子）+ lace（带子、蕾丝，源自拉丁语 *laqueus* "绳索、�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She fingered her necklace absent-mindedly as she talked . `[例]`
-> - Her diamond necklace glittered brilliantly under the spotlights . `[例]`
-> - This necklace was handed down to my mother by my grandmother . `[例]`
+> - She fingered her necklace absent-mindedly as she talked. `[例]`
+> - Her diamond necklace glittered brilliantly under the spotlights. `[例]`
+> - This necklace was handed down to my mother by my grandmother. `[例]`
 
 
 ---

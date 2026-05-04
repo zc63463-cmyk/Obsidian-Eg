@@ -128,9 +128,15 @@ chair 源自古法语 *chaiere*（座位），源自拉丁语 *cathedra*（座�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Who will take the chair at the next meeting ? `[例]`
-> - All questions should be addressed to the chair. `[例]`
-> - She is the chair of the board of governors at a local school . `[例]`
+> - She was sitting in her favourite chair. `[例]`
+>   - 中译：她坐在她最喜欢的椅子上。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/chair
+> - He sighed and leaned back in his chair. `[例]`
+>   - 中译：他叹了口气，靠在椅子上。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/chair
+> - Sit down,’ she said, pointing to the empty chair next to her. `[例]`
+>   - 中译：坐下吧，”她指着旁边的空椅子说道。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/chair
 
 
 ---

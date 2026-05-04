@@ -125,7 +125,15 @@ hesit(粘住/迟疑) + -ate(动词后缀，使动)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Many people hesitate to seek help for mental health issues due to social stigma.（由于社会偏见，许多人在寻求心理健康帮助时犹豫不决。）
+> - Waterstones staff hesitate to promote big-name authors' books. `[真题]`
+>   - 中译：Waterstones 的员工对于推销大牌作家的书籍犹豫不决。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - She hesitated slightly before answering the detective's question. `[例]`
+>   - 中译：她稍微犹豫了一下，才回答了侦探的问题。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/hesitate
+> - Do you love me?" she asked . He hesitated and then said, "I'm not sure. `[例]`
+>   - 中译：你爱我吗？”她问。他犹豫了一下，然后说：“我不确定。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/hesitate
 
 ---
 

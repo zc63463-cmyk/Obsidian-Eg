@@ -127,7 +127,7 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The book is supposed to be the layman’s guide to home repair . `[例]`
+> - The book is supposed to be the layman’s guide to home repair. `[例]`
 > - To explain something in layman’s terms (= in simple language). `[例]`
 > - For a layman , he knows a lot about the law. `[例]`
 

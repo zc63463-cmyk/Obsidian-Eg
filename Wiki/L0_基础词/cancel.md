@@ -134,9 +134,15 @@ cancel 源自拉丁语 *cancellare*（画格子、划掉），来自 *cancelli*�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - They had to cancel tomorrow's game because of the bad weather . `[例]`
-> - The 7.10 train to Budapest has been cancelled. `[例]`
-> - The network cancelled her talk show following the scandal . `[例]`
+> - All flights have been cancelled because of bad weather. `[例]`
+>   - 中译：由于天气恶劣，所有航班均被取消。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/cancel
+> - The prime minister has abruptly cancelled a trip to Washington. `[例]`
+>   - 中译：首相突​​然取消了华盛顿之行。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/cancel
+> - The Foreign Office is not advising people to cancel their travel plans. `[例]`
+>   - 中译：外交部并不建议人们取消旅行计划。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/cancel
 
 
 ---

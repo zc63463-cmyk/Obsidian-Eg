@@ -124,9 +124,9 @@ review_count: 0
 
 > [!example]- 语料
 > - Despite a number of setbacks, they persevered in their attempts to fly around the world in a balloon. `[真题]`
-> - She persevered with her violin lessons despite the difficulties. `[语料库]`
-> - He persevered with his task until he had succeeded in collecting an armful of firewood. `[语料库]`
-> - Despite receiving little support, the women are persevering with their crusade to fight crime. `[语料库]`
+> - She persevered with her violin lessons despite the difficulties. `[例]`
+> - He persevered with his task until he had succeeded in collecting an armful of firewood. `[例]`
+> - Despite receiving little support, the women are persevering with their crusade to fight crime. `[例]`
 
 
 ---

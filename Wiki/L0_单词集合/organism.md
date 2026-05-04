@@ -123,8 +123,14 @@ organ(器官/工具) + -ism(名词后缀，表"…体系/…主义")
 
 > [!example]- 语料
 > - Amoebae and bacteria are single-celled organisms. `[例]`
-> - The human body is a remarkably complex organism. `[例]`
+>   - 中译：变形虫和细菌都是单细胞生物。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/organism
 > - Even the simplest, single-celled organisms show examples of this behaviour. `[例]`
+>   - 中译：即使是最简单的单细胞生物也表现出这种行为的例子。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/organism
+> - The cell is the unit of which all living organisms are composed. `[例]`
+>   - 中译：细胞是组成所有生物体的单位。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/organism
 
 ---
 

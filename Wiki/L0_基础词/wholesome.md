@@ -123,7 +123,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Children need wholesome activities to develop properly."（儿童需要有益身心的活动来健康成长。）
+> - The researchers proposed a wholesome solution to the problem. `[例]`
+> - The company adopted a wholesome approach to improve efficiency. `[例]`
+> - The plan offers a wholesome option for small organizations. `[例]`
 
 
 ---

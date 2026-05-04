@@ -125,8 +125,8 @@ review_count: 0
 
 > [!example]- 语料
 > - I told him to leave , and he obeyed. `[例]`
-> - The soldiers refused to obey orders . `[例]`
-> - Cyclists, just like anyone else , must obey the rules of the road . `[例]`
+> - The soldiers refused to obey orders. `[例]`
+> - Cyclists, just like anyone else , must obey the rules of the road. `[例]`
 
 
 ---

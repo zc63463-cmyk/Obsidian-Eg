@@ -3,10 +3,8 @@ title: "multinational"
 tags:
   - 学习/英语/词汇
   - 语义场/资本经济
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 资本经济
 prototype: 跨越多个国家的
@@ -44,7 +42,7 @@ multi-(多，拉丁语 *multus*) + nation(国家) + -al(形容词后缀)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**跨越多个国家的**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **跨越多个国家的**（组织层面）
@@ -65,7 +63,7 @@ multi-(多，拉丁语 *multus*) + nation(国家) + -al(形容词后缀)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ multi-(多，拉丁语 *multus*) + nation(国家) + -al(形容词后缀)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > multi（多）+ national（国家的）= multinational（跨国的）。multi- 前缀很常见：multicultural（多元文化的），multimedia（多媒体），multitask（多任务）。multinational corporation（跨国公司，简称 MNC）就是在一个国家注册、在多个国家做生意的大公司。
@@ -88,7 +86,7 @@ multi-(多，拉丁语 *multus*) + nation(国家) + -al(形容词后缀)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ multi-(多，拉丁语 *multus*) + nation(国家) + -al(形容词后缀)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[domestic]]：国内的（multinational 的精确反义：跨国↔国内）
 - [[national]]：国家的（multinational 的反义：多国↔一国）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,26 +117,19 @@ multi-(多，拉丁语 *multus*) + nation(国家) + -al(形容词后缀)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **multinational company/corporation**：跨国公司
 > - **multinational forces**：多国部队
 > - **multinational agreement**：多国协议
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - The UN has sent a multinational peace-keeping force . `[例]`
-> - Are multinationals now more powerful than governments ? `[例]`
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
+> [!example]- 语料
+> - The UN has sent a multinational peace-keeping force. `[例]`
+> - Are multinationals now more powerful than governments? `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

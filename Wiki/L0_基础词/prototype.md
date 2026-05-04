@@ -121,9 +121,9 @@ proto-(第一的/最初的，希腊语 *prōtos*) + type(类型/印记，希腊�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Manufacturers have built a prototype which will be shown at the forthcoming trade fair . `[例]`
+> - Manufacturers have built a prototype which will be shown at the forthcoming trade fair. `[例]`
 > - Our first prototype digital camera appeared back in 1976. `[例]`
-> - The firm and its industrial partners plan this summer to put a prototype of an underwater power platform off the Florida coast . `[例]`
+> - The firm and its industrial partners plan this summer to put a prototype of an underwater power platform off the Florida coast. `[例]`
 
 
 ---

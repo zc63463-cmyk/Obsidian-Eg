@@ -3,10 +3,8 @@ title: "attest"
 tags:
   - 学习/英语/词汇
   - 语义场/政治法律
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 政治法律
 prototype: 作证（站在某事旁边证明）
@@ -43,7 +41,7 @@ at-(=ad-, 向，加强) + test(见证，证据，拉丁语 *testis*)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**站在某事旁边证明**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **作证**（法律层面）
@@ -64,7 +62,7 @@ at-(=ad-, 向，加强) + test(见证，证据，拉丁语 *testis*)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ at-(=ad-, 向，加强) + test(见证，证据，拉丁语 *testis*)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > attest = at（向）+ test（见证）→ 走向见证 → 作证。test 这个词根在英语中无处不在：test（测试=检验证据）、testimony（证词）、testify（作证）、protest（pro向前+test见证→站出来作证→抗议）。attest 就是"去作证"。
@@ -86,7 +84,7 @@ at-(=ad-, 向，加强) + test(见证，证据，拉丁语 *testis*)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ at-(=ad-, 向，加强) + test(见证，证据，拉丁语 *testis*)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[contradict]]：反驳（attest 的反义：证明↔反驳）
 > - [[disprove]]：反驳，证明为假（attest 的精确反义：证实↔证伪）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,7 +116,7 @@ at-(=ad-, 向，加强) + test(见证，证据，拉丁语 *testis*)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **attest to**：证明……
 > - **attest to the fact that**：证明……的事实
 > - **attested copy**：公证副本
@@ -126,19 +124,12 @@ at-(=ad-, 向，加强) + test(见证，证据，拉丁语 *testis*)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - Numerous studies attest to the effectiveness of regular exercise in reducing stress. `[例]`
 > - The ancient ruins attest to the sophistication of this early civilization. `[例]`
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
-
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

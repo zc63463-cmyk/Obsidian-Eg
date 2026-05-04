@@ -140,11 +140,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The company is seeking a new CEO to lead the organization through its next phase of growth. `[COCA-ACAD]`
-> - Many young graduates seek employment in the technology sector due to its promising prospects. `[真题]`
-> - He is seeking legal advice on how to proceed with the lawsuit. `[COCA-ACAD]`
-> - The government seeks to improve public health by investing in preventive care. `[COCA-ACAD]`
-> - Refugees seek shelter in neighboring countries to escape the ongoing conflict. `[例]`
+> - Are you actively seeking jobs ?" she asked. `[例]`
+>   - 中译：你正在积极寻找工作吗？”她问道。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/seek
+> - I was expelled from school and forced to seek work. `[例]`
+>   - 中译：我被学校开除并被迫寻找工作。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/seek
+> - You should seek compensation. `[例]`
+>   - 中译：你应该寻求赔偿。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/seek
 
 ---
 

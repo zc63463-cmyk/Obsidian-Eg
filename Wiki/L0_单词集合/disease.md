@@ -126,9 +126,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - They reported a sudden outbreak of the disease in the south of the country . `[例]`
-> - The first symptom of the disease is a very high temperature . `[例]`
-> - Starvation and disease have killed thousands of refugees . `[例]`
+> - They reported a sudden outbreak of the disease in the south of the country. `[例]`
+>   - 中译：他们报告该国南部突然爆发了这种疾病。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/disease
+> - The first symptom of the disease is a very high temperature. `[例]`
+>   - 中译：该病的第一个症状是体温很高。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/disease
+> - Starvation and disease have killed thousands of refugees. `[例]`
+>   - 中译：饥饿和疾病导致数千名难民死亡。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/disease
 
 ---
 

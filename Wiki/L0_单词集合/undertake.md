@@ -132,9 +132,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Students are required to undertake simple experiments . `[例]`
-> - The Highway Code advises drivers not to undertake. `[例]`
-> - The president directed the Department of Justice to undertake an investigation of the allegations . `[例]`
+> - The company has announced that it will undertake a full investigation into the accident. `[例]`
+>   - 中译：该公司已宣布将对这起事故进行全面调查。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/undertake
+> - He's undertaking a thorough search. `[例]`
+>   - 中译：他正在进行彻底的搜查。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/undertake
+> - Fairlead Strategies undertakes no obligation to maintain or update this material based on subsequent information and events or to provide you with any additional or supplemental information or any update to or correction of the information contained herein. `[例]`
+>   - 中译：Fairlead Strategies 不承担根据后续信息和事件维护或更新本材料的义务，也不承担向您提供任何附加或补充信息或对此处包含的信息进行任何更新或更正的义务。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/undertake
 
 ---
 

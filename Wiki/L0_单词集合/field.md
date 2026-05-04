@@ -138,9 +138,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "in the field of..."（在……领域）——考研阅读/翻译超高频短语，引出学科或行业领域
-> - "field of research/study"（研究领域）——考研阅读中描述学术范围的常见搭配
-> - "field work"（实地考察）——考研阅读中描述研究方法的常见搭配
+> - We drove past fields of ripening wheat. `[例]`
+>   - 中译：我们开车经过正在成熟的麦田。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/field
+> - The cows were all standing in one corner of the field. `[例]`
+>   - 中译：牛都站在田地的一角。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/field
+> - I spoke to an aid worker who had recently returned from the field. `[例]`
+>   - 中译：我采访了一位最近从外地回来的援助人员。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/field
 
 ---
 

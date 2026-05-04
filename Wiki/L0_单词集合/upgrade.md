@@ -132,9 +132,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The urgency to upgrade short-term rental facilities. `[真题]`
-> - It's very simple to upgrade the indexing software . `[例]`
-> - Consider upgrading your buildings insurance policy every five to 10 years . `[例]`
+> - We are constantly upgrading our software to meet customers' needs. `[例]`
+>   - 中译：我们不断升级我们的软件以满足客户的需求。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/upgrade
+> - Users can easily upgrade to the new version. `[例]`
+>   - 中译：用户可以轻松升级到新版本。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/upgrade
+> - The towpath was upgraded for use by cyclists. `[例]`
+>   - 中译：纤道经过升级，供骑自行车的人使用。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/upgrade
 
 ---
 

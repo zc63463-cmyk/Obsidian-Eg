@@ -123,9 +123,15 @@ con-(共同、一起) + [[fer|trib]](=ferre，带来) + -ution(=ution，复合�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Even the very phrase "jobseeker's allowance" is about redefining the unemployed as a "jobseeker" who had no fundamental right to a benefit he or she has earned through making national insurance contributions. `[真题]`
-> - He has made an important contribution to the company's success. `[COCA-ACAD]`
-> - Her research made a significant contribution to the field of neuroscience. `[例]`
+> - All contributions (= presents of money ) , no matter how small , will be much appreciated. `[例]`
+>   - 中译：所有的贡献（=金钱礼物），无论多小，都将受到高度赞赏。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/contribution
+> - All contributions (= articles to be printed ) for the school magazine must be received by 1 August. `[例]`
+>   - 中译：学校杂志的所有投稿（即要印刷的文章）必须在 8 月 1 日之前收到。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/contribution
+> - She didn't make much of a contribution (= she did not say much) at today's meeting , did she? `[例]`
+>   - 中译：她在今天的会议上没有做出什么贡献（=她没有说太多），是吗？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/contribution
 
 ---
 

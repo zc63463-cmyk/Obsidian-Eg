@@ -129,9 +129,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - I think the question is, shouldn't a dev,eloper who's really building a hotel, but disguising it as not a hotel, be treated and taxed and regulated like a hotel?" Hom said. `[真题]`
-> - My parents treated us all the same when we were kids . `[例]`
-> - He treated his wife very badly . `[例]`
+> - Treat your keyboard with care and it should last for years. `[例]`
+>   - 中译：小心对待您的键盘，它应该可以使用多年。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/treat
+> - All candidates will be treated equally , regardless of age. `[例]`
+>   - 中译：所有候选人，无论年龄大小，都将受到平等对待。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/treat
+> - They treat their animals quite badly. `[例]`
+>   - 中译：他们对待动物非常恶劣。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/treat
 
 
 ---

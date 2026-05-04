@@ -3,10 +3,8 @@ title: "unlearned"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-25
-mastery: L0
 word_freq: 超纲词
 semantic_field: 理性世界
 prototype: 未受教育的（没有学过的）
@@ -44,7 +42,7 @@ un-(不，否定前缀) + [[lect-leg|learn]](学习) + -ed(形容词后缀，持
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**未受教育的**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **未受教育的**（教育层面）
@@ -65,7 +63,7 @@ un-(不，否定前缀) + [[lect-leg|learn]](学习) + -ed(形容词后缀，持
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ un-(不，否定前缀) + [[lect-leg|learn]](学习) + -ed(形容词后缀，持
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > learn（学习）+ un-（不）+ -ed → 没学过的。unlearned person 就是"没读过书的人"。作为动词 unlearn 更有趣——We must unlearn our prejudices.（我们必须忘掉偏见。）→"反向学习"就是先清空错误的，才能装进正确的。
@@ -88,7 +86,7 @@ un-(不，否定前缀) + [[lect-leg|learn]](学习) + -ed(形容词后缀，持
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +98,13 @@ un-(不，否定前缀) + [[lect-leg|learn]](学习) + -ed(形容词后缀，持
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[learned]]：有学问的，博学的
 > - [[educated]]：受过教育的
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,7 +117,7 @@ un-(不，否定前缀) + [[lect-leg|learn]](学习) + -ed(形容词后缀，持
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **an unlearned person/man**：一个没有学问的人
 > - **unlearn bad habits**：改掉坏习惯
 > - **unlearn old ways**：抛弃旧方式
@@ -127,19 +125,12 @@ un-(不，否定前缀) + [[lect-leg|learn]](学习) + -ed(形容词后缀，持
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - Although the people of the farming community were largely an unlearned lot, they wanted an advanced education for their children. `[例]`
-> - De-Stalinization was quick and brutal, with history having the last say — a lesson guaranteed to go unlearned . `[例]`
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-25 | **复习次数**：0 | **当前等级**：L0
-
----
+> - De-Stalinization was quick and brutal, with history having the last say — a lesson guaranteed to go unlearned. `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

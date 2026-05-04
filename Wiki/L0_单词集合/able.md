@@ -133,9 +133,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "be able to adapt to the changing environment"（能够适应不断变化的环境）——考研阅读高频表达
-> - "an able administrator"（一位能干的管理者）——管理/组织类话题中常见
-> - "students are better able to learn when..."（学生在……时能更好地学习）——教育类阅读语境
+> - I think individuals being able to rent out their second home is a good thing. `[真题]`
+>   - 中译：我认为个人能够出租第二套住房是一件好事。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - In one example, an individual-acting as author, editor, and consultant-was able to use at least 15 journals as citation providers to articles published by five scientists at three universities. `[真题]`
+>   - 中译：在一个示例中，一位个人（作为作者、编辑和顾问）能够使用至少 15 种期刊作为三所大学的五位科学家发表的文章的引用提供者。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - For AI to be successful, data needs to be accessible, but the use of personal data is becoming more regulated and the automated sharing of data is becoming more difficult. ( 49 ) If customers are not willing to share data, AI will be starved of essential information and will not be able to function effectively or employ machine learning to improve its marketing content and communication. `[真题]`
+>   - 中译：人工智能要取得成功，数据需要可访问，但个人数据的使用变得更加规范，数据的自动共享也变得更加困难。 ( 49 ) 如果客户不愿意共享数据，人工智能将缺乏必要的信息，将无法有效运作或利用机器学习来改进其营销内容和沟通。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
 
 ---
 

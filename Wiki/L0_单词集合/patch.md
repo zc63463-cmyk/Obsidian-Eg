@@ -142,9 +142,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "They've managed to patch up their differences." `` `[COCA-ACAD]` ``
-> - "The couple are working on patching up their differences." `` `[COCA-ACAD]` ``
-> - "The hole in the roof has been patched up temporarily." `` `[真题]` ``
+> - Our dog has a black patch on his back. `[例]`
+>   - 中译：我们家的狗背上有一块黑色的斑块。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/patch
+> - The hotel walls were covered in damp patches. `[例]`
+>   - 中译：酒店的墙壁上布满了潮湿的斑点。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/patch
+> - There were lots of icy patches on the road this morning. `[例]`
+>   - 中译：今天早上，路上有很多结冰的地方。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/patch
 
 ---
 

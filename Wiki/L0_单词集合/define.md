@@ -136,8 +136,14 @@ review_count: 0
 
 > [!example]- 语料
 > - In the dictionary , " reality " is defined as "the state of things as they are, rather than as they are imagined to be". `[例]`
-> - Before I answer your question , could you define your terms a little more (= explain what you mean by the words you have used) ? `[例]`
-> - Your rights and responsibilities are defined in the citizens ' charter . `[例]`
+>   - 中译：在字典中，“现实”被定义为“事物本来的状态，而不是想象的那样”。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/define
+> - Before I answer your question , could you define your terms a little more (= explain what you mean by the words you have used)? `[例]`
+>   - 中译：在我回答你的问题之前，你能稍微定义一下你的术语吗（=解释一下你所使用的单词的意思）？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/define
+> - Your rights and responsibilities are defined in the citizens ' charter. `[例]`
+>   - 中译：您的权利和责任在《公民宪章》中规定。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/define
 
 ---
 

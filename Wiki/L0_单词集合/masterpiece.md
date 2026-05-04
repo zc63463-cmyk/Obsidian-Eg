@@ -129,11 +129,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Leonardo's "Last Supper" is widely regarded as a masterpiece. `[COCA-ACAD]`
-> - Her press conference was a masterpiece of media manipulation. `[COCA-NEWS]`
-> - The novel is a masterpiece of social commentary. `[COCA-ACAD]`
-> - The painting was widely regarded as a masterpiece by art critics. `[COCA-ACAD]`
-> - The bridge is a masterpiece of Victorian engineering. `[COCA-ACAD]`
+> - Leonardo's "Last Supper" is widely regarded as a masterpiece. `[例]`
+>   - 中译：列奥纳多的《最后的晚餐》被广泛认为是一部杰作。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/masterpiece
+> - Her press conference was a masterpiece of media manipulation. `[例]`
+>   - 中译：她的新闻发布会是媒体操纵的杰作。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/masterpiece
+> - The museum houses several of his Cubist masterpieces. `[例]`
+>   - 中译：博物馆收藏了他的几幅立体主义杰作。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/masterpiece
 
 ---
 

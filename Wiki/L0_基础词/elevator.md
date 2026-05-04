@@ -121,9 +121,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - He rode the elevator to the 43rd floor. `[真题]`
-> - We took a creaky old elevator up to the third floor. `[真题]`
 > - People were trapped in elevators, businesses closed early, and schools sent students home. `[真题]`
+> - They place the bales onto an elevator that transports them to a shredding mill. `[例]`
+> - It's on the fifth floor, so we'd better take the elevator. `[例]`
 
 
 ---

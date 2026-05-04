@@ -132,10 +132,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The train passes by some breathtaking scenery in the Canadian Rockies. `[COCA-ACAD]`
-> - We stayed in a peaceful Alpine village surrounded by magnificent scenery. `[COCA-ACAD]`
-> - She designed the scenery for the play. `[COCA-ACAD]`
-> - The region is known for its spectacular natural scenery. `[例]`
+> - They stopped at the top of the hill to admire the scenery. `[例]`
+>   - 中译：他们在山顶停下来欣赏风景。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/scenery
+> - The scenery really was beautiful. `[例]`
+>   - 中译：风景确实很美。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/scenery
+> - The majestic Montana scenery will leave you breathless. `[例]`
+>   - 中译：雄伟的蒙大拿州风景将让您屏息凝神。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/scenery
 
 ---
 

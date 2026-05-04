@@ -126,9 +126,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Theories abound about how the universe began . `[例]`
-> - The streams and rivers abound in fish . `[例]`
 > - Stories about his travels abound. `[例]`
+>   - 中译：关于他的旅行的故事比比皆是。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/abound
+> - They live in a region where oil abounds. `[例]`
+>   - 中译：他们生活在盛产石油的地区。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/abound
+> - Which is to say, possibilities abound! `[例]`
+>   - 中译：也就是说，可能性很大！
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/abound
 
 
 ---

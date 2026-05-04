@@ -129,9 +129,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Two writers collaborated on the script for the film . `[例]`
-> - A German company collaborated with a Swiss firm to develop the product . `[例]`
-> - The team will collaborate with colleagues at another lab who conduct related research . `[例]`
+> - Researchers around the world are collaborating to develop a new vaccine. `[例]`
+>   - 中译：世界各地的研究人员正在合作开发一种新疫苗。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/collaborate
+> - We have collaborated on many projects over the years. `[例]`
+>   - 中译：多年来我们在许多项目上进行了合作。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/collaborate
+> - She agreed to collaborate with him in writing the biography of her grandmother. `[例]`
+>   - 中译：她同意与他合作撰写她祖母的传记。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/collaborate
 
 
 ---

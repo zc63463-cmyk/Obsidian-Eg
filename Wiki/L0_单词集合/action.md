@@ -118,6 +118,15 @@ act(行动/做) + -ion(名词后缀，表示行为/结果)
 ## 真题/语料关联
 
 > [!example]- 语料
+> - We can and must take prompt action to establish a coordinated approach to climate protection. `[例]`
+>   - 中译：我们可以而且必须立即采取行动，建立协调一致的气候保护方法。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/action
+> - This problem calls for swift action from the government. `[例]`
+>   - 中译：这个问题需要政府迅速采取行动。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/action
+> - Action to prevent the spread of the disease is high on the government's agenda. `[例]`
+>   - 中译：防止疾病传播的行动是政府议程上的首要任务。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/action
 - The government's action was widely criticized.（政府的行动受到广泛批评。）
 - The chemical has a calming action on the nerves.（这种化学物质对神经有镇静作用。）
 

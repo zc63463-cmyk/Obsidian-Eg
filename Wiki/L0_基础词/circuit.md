@@ -123,9 +123,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - They first met each other on the tennis circuit (= while at different tennis competitions) . `[例]`
-> - He was a familiar figure on the lecture circuit. `[例]`
-> - The judge had served for many years on the northeastern Circuit. `[例]`
+> - The race ended with eight laps of a city centre circuit. `[例]`
+>   - 中译：比赛以市中心赛道的八圈结束。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/circuit
+> - The earth takes a year to make a circuit of (= go around) the sun. `[例]`
+>   - 中译：地球绕太阳一周需要一年的时间。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/circuit
+> - This is her biggest triumph in nine years on the women's tennis circuit. `[例]`
+>   - 中译：这是她九年来在女子网球巡回赛上取得的最大胜利。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/circuit
 
 
 ---

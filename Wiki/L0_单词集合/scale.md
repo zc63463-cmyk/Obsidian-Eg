@@ -152,10 +152,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Nuclear weapons cause destruction on a massive scale. `[COCA-ACAD]`
-> - The company plans to scale up its operations next year. `[COCA-NEWS]`
-> - We don't yet know the scale of the problem. `[COCA-NEWS]`
-> - Many of the technological advancements have required large-scale production units to justify the investment. `[COCA-ACAD]`
+> - How would you rate his work on a scale of 1 to 5? `[例]`
+>   - 中译：您如何评价他的工作（从 1 到 5）？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/scale
+> - This map is large scale (= things are shown in detail ). `[例]`
+>   - 中译：这张地图比例尺很大（= 事物显示得很详细）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/scale
+> - Is the bridge drawn to scale (= so that it shows the exact shape of the bridge , but much smaller )? `[例]`
+>   - 中译：桥是否按比例绘制（=以便显示桥的确切形状，但要小得多）？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/scale
 
 ---
 

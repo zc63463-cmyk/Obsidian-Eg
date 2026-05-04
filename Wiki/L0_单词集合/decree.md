@@ -127,9 +127,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The decree stopped short of a full declaration of independence . `[例]`
+> - The decree stopped short of a full declaration of independence. `[例]`
+>   - 中译：该法令并未全面宣布独立。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/decree
 > - More than 200 people were freed by military decree. `[例]`
+>   - 中译：军事法令释放了 200 多人。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/decree
 > - The government has extensive powers to issue emergency decrees. `[例]`
+>   - 中译：政府拥有发布紧急法令的广泛权力。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/decree
 
 ---
 

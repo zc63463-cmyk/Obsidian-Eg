@@ -127,10 +127,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "But by 55, she had developed severe heart valve disease because of heavy radiation doses." `[COCA-NEWS]`
-> - "A doctor advised the 26-year-old to seek heart valve surgery in the nearest major city, 200 miles away." `[COCA-NEWS]`
-> - "The aortic valve, ascending aorta and the two brachiocephalic arteries were normally developed." `[Cambridge]`
-> - "The reserve valve and bypass valve are also on the left." `[Cambridge]`
+> - But by 55, she had developed severe heart valve disease because of heavy radiation doses. `[COCA-NEWS]`
+> - A doctor advised the 26-year-old to seek heart valve surgery in the nearest major city, 200 miles away. `[COCA-NEWS]`
+> - The aortic valve, ascending aorta and the two brachiocephalic arteries were normally developed. `[例]`
+> - The reserve valve and bypass valve are also on the left. `[例]`
 
 
 ---

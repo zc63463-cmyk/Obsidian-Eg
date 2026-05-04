@@ -121,8 +121,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The government has allocated additional funding to support small businesses affected by the pandemic."（政府拨发了额外资金来支持受疫情影响的小企业。）——考研高频表达
-> - "Students may need additional support to cope with the academic pressure of university life."（学生可能需要额外的支持来应对大学生活的学业压力。）——考研高频表达
+> - There will be an extra charge for any additional passengers. `[例]`
+>   - 中译：任何额外的乘客均需支付额外费用。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/additional
+> - The doctor has made an initial diagnosis , but there'll be an additional examination by a specialist. `[例]`
+>   - 中译：医生已做出初步诊断，但专家还会进行进一步检查。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/additional
+> - They looked to the government for additional support. `[例]`
+>   - 中译：他们向政府寻求额外的支持。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/additional
 
 
 ---

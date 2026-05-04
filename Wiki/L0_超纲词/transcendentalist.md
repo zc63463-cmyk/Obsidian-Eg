@@ -3,10 +3,8 @@ title: "transcendentalist"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-25
-mastery: L0
 word_freq: 超纲词
 semantic_field: 理性世界
 prototype: 超验主义者（相信超越经验之上的精神真理的人）
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**超验主义者**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **超验主义者**（哲学层面）
@@ -63,7 +61,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > trans（超越）+ scend（攀登）= transcend（超越）→ transcendentalist（超验主义者）。Emerson 和 Thoreau 是最著名的 Transcendentalists——他们相信人的直觉和精神超越了物质经验。Thoreau 写的 Walden（《瓦尔登湖》）就是超验主义精神的体现。
@@ -86,7 +84,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -98,13 +96,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[empiricist]]：经验主义者（transcendentalist 的精确反义：超越经验↔依赖经验）
 - [[materialist]]：唯物主义者（transcendentalist 的反义：精神超越↔物质至上）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,26 +115,19 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **Transcendentalist movement**：超验主义运动
 > - **Transcendentalist philosophy**：超验主义哲学
 > - **New England Transcendentalists**：新英格兰超验主义者
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - Ralph Waldo Emerson was the leading figure of the Transcendentalist movement in America. `[例]`
 > - Transcendentalists believed in the inherent goodness of people and nature. `[例]`
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-25 | **复习次数**：0 | **当前等级**：L0
-
----
-
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

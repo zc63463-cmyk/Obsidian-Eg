@@ -129,9 +129,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Cut the cheese into small cubes. `[例]`
-> - The cube of 2 (= 2 x 2 x 2) is 8. `[例]`
 > - Cut the meat into cubes. `[例]`
+>   - 中译：将肉切成方块。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/cube
+> - The cube of 5 (5 3 ) is 125 (5×5×5). `[例]`
+>   - 中译：5 (5 3 ) 的立方是 125 (5×5×5)。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/cube
+> - Cube the carrots and potatoes. `[例]`
+>   - 中译：将胡萝卜和土豆切丁。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/cube
 
 
 ---

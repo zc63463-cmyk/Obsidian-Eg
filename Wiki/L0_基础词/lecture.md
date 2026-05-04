@@ -126,9 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Who's giving the lecture this afternoon ? `[例]`
-> - My dad gave me a lecture on the evils of alcohol last night . `[例]`
-> - For ten years she lectured in law . `[例]`
+> - Who's giving the lecture this afternoon? `[例]`
+> - My dad gave me a lecture on the evils of alcohol last night. `[例]`
+> - For ten years she lectured in law. `[例]`
 
 
 ---

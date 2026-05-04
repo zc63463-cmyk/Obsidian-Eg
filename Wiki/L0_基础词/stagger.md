@@ -129,9 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - After he was attacked , he managed to stagger to the phone and call for help . `[例]`
-> - The company is staggering under a $15 million debt and will almost certainly collapse by the end of the year . `[例]`
-> - He staggered all his colleagues by suddenly announcing that he was leaving the company at the end of the month . `[例]`
+> - After he was attacked , he managed to stagger to the phone and call for help. `[例]`
+> - The company is staggering under a $15 million debt and will almost certainly collapse by the end of the year. `[例]`
+> - He staggered all his colleagues by suddenly announcing that he was leaving the company at the end of the month. `[例]`
 
 
 ---

@@ -3,10 +3,8 @@ title: "spam"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-25
-mastery: L0
 word_freq: 超纲词
 semantic_field: 物品工具
 prototype: 垃圾邮件，垃圾信息
@@ -44,7 +42,7 @@ spam（源自 SPAM 午餐肉品牌名，后因 Monty Python 喜剧小品中反�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**垃圾邮件，垃圾信息**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **午餐肉品牌**（物理层面）
@@ -68,7 +66,7 @@ spam（源自 SPAM 午餐肉品牌名，后因 Monty Python 喜剧小品中反�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -79,7 +77,7 @@ spam（源自 SPAM 午餐肉品牌名，后因 Monty Python 喜剧小品中反�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > SPAM 原是午餐肉品牌。Monty Python 喜剧中小丑反复喊"Spam! Spam! Spam!"——就像你的邮箱里每天收到的垃圾邮件一样，"优惠！中奖！贷款！"反复出现，令人崩溃。所以 spam 成了"垃圾信息"的代名词。
@@ -91,7 +89,7 @@ spam（源自 SPAM 午餐肉品牌名，后因 Monty Python 喜剧小品中反�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,13 +102,13 @@ spam（源自 SPAM 午餐肉品牌名，后因 Monty Python 喜剧小品中反�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[legitimate email]]：合法邮件（spam 的反义：垃圾邮件↔合法邮件）
 > - [[opt-in]]：主动订阅（spam 的反义：不请自来↔主动选择）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,26 +119,19 @@ spam（源自 SPAM 午餐肉品牌名，后因 Monty Python 喜剧小品中反�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **spam email/filter**：垃圾邮件/垃圾邮件过滤器
 > - **spam folder**：垃圾邮件文件夹
 > - **combat/tackle spam**：打击垃圾信息
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - I signed up to a mailing list and then they spammed me for months . `[例]`
-> - Some Internet service providers block spam to subscribers . `[例]`
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-25 | **复习次数**：0 | **当前等级**：L0
-
----
+> [!example]- 语料
+> - I signed up to a mailing list and then they spammed me for months. `[例]`
+> - Some Internet service providers block spam to subscribers. `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

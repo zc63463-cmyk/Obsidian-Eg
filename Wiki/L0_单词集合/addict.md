@@ -125,8 +125,15 @@ ad-(=to, toward, 向、朝) + dict(=to say, declare, 说、宣告)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Studies have shown that social media can be as addictive as drugs for some users."（研究表明，对某些用户来说，社交媒体可能像毒品一样令人上瘾。）——考研高频表达
-> - "Many young people are addicted to their smartphones, spending hours each day scrolling through social media."（许多年轻人对智能手机上瘾，每天花数小时浏览社交媒体。）——考研高频表达
+> - She is a recovering drug addict. `[例]`
+>   - 中译：她是一名正在康复中的吸毒者。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/addict
+> - Many of those sleeping on the streets were heroin addicts. `[例]`
+>   - 中译：许多露宿街头的人都是海洛因成瘾者。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/addict
+> - Some drug addicts turn to crime in order to support their habit. `[例]`
+>   - 中译：一些吸毒者为了维持自己的习惯而转向犯罪。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/addict
 
 
 ---

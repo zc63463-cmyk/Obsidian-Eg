@@ -129,9 +129,15 @@ creep 源自古英语 *creopan* "to move with the body close to the ground"，�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She turned off the light and crept through the door without making a sound. `[真题]`
-> - Old age creeps up on you before you realize it. `[真题]`
-> - Living next to a graveyard would give me the creeps. `[真题]`
+> - I heard someone creeping around the house. `[例]`
+>   - 中译：我听到有人在房子周围爬行。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/creep
+> - He's always creeping to the boss. `[例]`
+>   - 中译：他总是偷偷摸摸地去找老板。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/creep
+> - Just the sight of him makes my flesh creep. `[例]`
+>   - 中译：光是看到他就让我浑身起鸡皮疙瘩。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/creep
 
 
 ---

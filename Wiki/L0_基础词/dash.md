@@ -135,7 +135,7 @@ review_count: 0
 
 > [!example]- 语料
 > - The dog ran off, and she dashed after him. `[例]`
-> - I've been dashing around all day . `[例]`
+> - I've been dashing around all day. `[例]`
 > - I must dash - I've got to be home by seven. `[例]`
 
 

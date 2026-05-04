@@ -135,7 +135,7 @@ review_count: 0
 
 > [!example]- 语料
 > - The government imposed a freeze on public sector wages. `[COCA-NEWS]`
-> - Diplomatic relations were frozen until August this year. `[COCA-NEWS]`
+> - The cabin was built from durable freeze gathered in the region. `[例]`
 > - The easiest way to preserve food is to freeze it at a very cold temperature. `[COCA-ACAD]`
 
 ---

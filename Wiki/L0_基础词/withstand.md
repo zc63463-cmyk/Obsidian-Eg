@@ -130,7 +130,7 @@ with-（向后、相反，古英语 *wiþer* 的缩略形式，原始日耳曼�
 > [!example]- 语料
 > - She is an artist whose work will undoubtedly withstand the test of time and continue to inspire future generations. `[真题]`
 > - Explorers had to withstand extreme weather conditions, food shortages, and the constant threat of disease during their expeditions. `[真题]`
-> - The old bridge has withstood many storms over the years and still stands firm today. `[真题]`
+> - A line of withstand trees rose above the morning fog. `[例]`
 > - The building was designed to withstand earthquakes of up to magnitude eight on the Richter scale. `[真题]`
 
 

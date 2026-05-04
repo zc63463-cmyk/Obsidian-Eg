@@ -127,9 +127,9 @@ e-(=ex-, 向外/离开) + lapse(滑落，拉丁语 *lapsus*，*labi* 的过去�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Five months have elapsed since he joined the army. `[语料库]`
-> - Patients could be retreated if more than 4 weeks had elapsed since the initial treatment. `[语料库]`
-> - It seems remarkable that nearly thirty years has elapsed since there was a major museum exhibition in the city. `[语料库]`
+> - Five months have elapsed since he joined the army. `[例]`
+> - Patients could be retreated if more than 4 weeks had elapsed since the initial treatment. `[例]`
+> - It seems remarkable that nearly thirty years has elapsed since there was a major museum exhibition in the city. `[例]`
 
 
 ---

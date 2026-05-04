@@ -124,9 +124,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The tapeworm is a parasite that lives in the human intestine. `[语料库]`
-> - He was regarded as a parasite who lived off his wealthy relatives. `[语料库]`
-> - The company was described as a parasite feeding on public funds without contributing anything of value. `[外刊]`
+> - The tapeworm is a parasite that lives in the human intestine. `[例]`
+> - He was regarded as a parasite who lived off his wealthy relatives. `[例]`
+> - The company was described as a parasite feeding on public funds without contributing anything of value. `[例]`
 
 
 ---

@@ -124,9 +124,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - I desire only to be left in peace . `[例]`
+> - I desire only to be left in peace. `[例]`
+>   - 中译：我只想安静地待着。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/desire
 > - The hotel had everything you could possibly desire. `[例]`
-> - The president desires to meet the new prime minister . `[例]`
+>   - 中译：酒店拥有您可能想要的一切。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/desire
+> - The president desires to meet the new prime minister. `[例]`
+>   - 中译：总统希望会见新总理。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/desire
 
 ---
 

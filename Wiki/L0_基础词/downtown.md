@@ -127,9 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She works for a law firm in downtown Miami." `[真题]`
-> - "There is heavy traffic in the downtown area tonight." `[真题]`
-> - "We are heading downtown for dinner and a show." `[真题]`
+> - She works for a law firm in downtown Miami. `[真题]`
+> - There is heavy traffic in the downtown area tonight. `[真题]`
+> - We are heading downtown for dinner and a show. `[真题]`
 
 
 ---

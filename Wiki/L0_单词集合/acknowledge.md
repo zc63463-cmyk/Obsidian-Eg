@@ -127,8 +127,15 @@ ac-(=ad-，朝向、加强) + [[know]]/[[gen]](cogn-，认知、知道) + -ledge
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Dr. Worm acknowledges that these figures are conservative; one reason for this is that fishing technology has improved."（Worm博士承认这些数据还是保守的，一个原因就是捕鱼技术已经改进了很多。）——2006考研阅读Text3
-> - "It is generally acknowledged that education plays a vital role in economic development."（人们普遍认为教育在经济发展中发挥着至关重要的作用。）——考研高频表达
+> - Historians generally acknowledge her as a genius in her field. `[例]`
+>   - 中译：历史学家普遍承认她是该领域的天才。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/acknowledge
+> - She acknowledged hav ing been at fault. `[例]`
+>   - 中译：她承认自己有过错。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/acknowledge
+> - She acknowledged that she had been at fault. `[例]`
+>   - 中译：她承认自己有错。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/acknowledge
 
 ---
 

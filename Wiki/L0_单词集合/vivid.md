@@ -134,9 +134,15 @@ vit/viv(生命，活) + -id(形容词后缀，表示"具有...性质的")
 ## 真题/语料关联
 
 > [!example]- 语料
-> - One of the turning points in public support for land conservation efforts-and recognizing the magnificence of the Yellowstone region in particular-came in the form of vivid photographs. `[真题]`
-> - While veterans of previous expeditions wrote at length about stunning trail sights, these vivid photographs were another thing entirely. `[真题]`
-> - He's one of those people with a very vivid imagination - every time he hears a noise he's convinced it's someone breaking in. `[例]`
+> - He gave a vivid account of his life as a fighter pilot. `[例]`
+>   - 中译：他生动地讲述了自己作为战斗机飞行员的生活。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/vivid
+> - The colours are vivid, which helps bring the game to life. `[例]`
+>   - 中译：色彩鲜艳，有助于让游戏变得栩栩如生。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/vivid
+> - His eyes were a vivid green. `[例]`
+>   - 中译：他的眼睛是鲜绿色的。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/vivid
 ---
 
 

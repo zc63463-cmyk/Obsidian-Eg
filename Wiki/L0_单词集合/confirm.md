@@ -131,9 +131,15 @@ con-(=completely/strongly，完全地/强烈地) + firm(=strong，坚固)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The spokesman confirmed that the area was now in rebel hands. `[真题]`
-> - Please call to confirm your reservation at least 24 hours in advance. `[COCA]`
-> - The report confirmed that the economy is recovering steadily. `[例]`
+> - The problem began ]late last year, when PRH confirmed that it had introduced a credit limit �1ith Waterstones " at a very significant level". `[真题]`
+>   - 中译：这个问题始于去年年底，当时 PRH 证实它已经“在非常高的水平上”引入了 Waterstones 的信用限额。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - Six people have confirmed that they will be attending and ten haven't replied yet. `[例]`
+>   - 中译：六人已确认参加，十人尚未回复。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/confirm
+> - Flights should be confirmed 48 hours before departure. `[例]`
+>   - 中译：航班应在出发前 48 小时确认。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/confirm
 ---
 
 

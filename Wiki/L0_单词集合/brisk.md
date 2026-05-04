@@ -133,10 +133,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "take long, brisk walks"（进行长时间轻快的散步）——六级真题，健康话题
-> - "moving through school at such a brisk pace"（以如此快的节奏完成学业）——六级真题，教育话题
-> - "doing a brisk trade"（生意兴隆）——常见商业语境搭配
-> - "The breeze was cool, brisk and invigorating."（微风凉爽、轻快、令人振奋）——文学描写
+> - He set a brisk pace and we struggled to keep up. `[例]`
+>   - 中译：他的步伐很快，我们很难跟上。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/brisk
+> - Her tone on the phone was brisk (= she spoke quickly and used few words) and businesslike. `[例]`
+>   - 中译：她在电话里的语气很轻快（=她说得很快，很少用词）而且很公事公办。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/brisk
+> - Business has been brisk lately. `[例]`
+>   - 中译：最近生意很红火。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/brisk
 
 ---
 

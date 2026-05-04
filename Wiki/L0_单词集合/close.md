@@ -137,8 +137,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The close relationship between economic growth and environmental degradation has been widely acknowledged."（经济增长与环境恶化之间的密切关系已被广泛认可。）——考研高频表达
-> - "Scientists are working to close the gap between theory and practice in renewable energy."（科学家们正在努力缩小可再生能源领域理论与实践之间的差距。）——考研高频表达
+> - Could you close the door please? `[例]`
+>   - 中译：请把门关上好吗？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/close
+> - Close your eyes - I've got a surprise for you. `[例]`
+>   - 中译：闭上你的眼睛——我给你准备了一个惊喜。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/close
+> - The banks had closed so I couldn't get any money out. `[例]`
+>   - 中译：银行关门了，所以我无法取出任何钱。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/close
 
 
 ---

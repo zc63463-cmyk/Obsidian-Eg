@@ -143,11 +143,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Everyone has the right to liberty and security of person. `[COCA-ACAD]`
-> - In this age of short-term contracts, job security often seems like a thing of the past. `[COCA-ACAD]`
-> - The government has invested heavily in national security and cyber security. `[真题]`
-> - Food security remains one of the most pressing challenges for developing nations. `[COCA-ACAD]`
-> - The crunch will come when the banks run out of acceptable security to back further loans. `[COCA-ACAD]`
+> - The station was closed for two hours because of a security alert. `[例]`
+>   - 中译：由于安全警报，车站关闭了两个小时。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/security
+> - The students were deported because they posed a threat to national security. `[例]`
+>   - 中译：这些学生因对国家安全构成威胁而被驱逐出境。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/security
+> - The banks must tighten security against fraud. `[例]`
+>   - 中译：银行必须加强防范欺诈的安全措施。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/security
 
 ---
 

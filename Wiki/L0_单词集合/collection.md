@@ -129,8 +129,15 @@ col-(共同，一起，[[com]]变体) + [[lect]](选择、收集) + -ion(名词�
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - "The museum has an extensive collection of ancient Chinese art."（这家博物馆收藏了大量中国古代艺术品。）——考研阅读真题
-> - "The new collection of poems has received widespread critical acclaim."（这部新诗集获得了广泛的评论界赞誉。）——考研高频表达
+> - We're having a collection for Tom's retirement present. `[例]`
+>   - 中译：我们正在收集汤姆的退休礼物。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/collection
+> - There's quite a collection of toothbrushes in the bathroom. `[例]`
+>   - 中译：浴室里有很多牙刷。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/collection
+> - There's an Egyptian art collection on display at the museum at the moment. `[例]`
+>   - 中译：博物馆里目前正在展出埃及艺术收藏品。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/collection
 
 ---
 

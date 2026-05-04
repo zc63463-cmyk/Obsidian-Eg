@@ -131,9 +131,15 @@ blunder(盲目→大错，古诺斯语 *blundra*)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - He said that the tax was a major political blunder. `[例]`
-> - I made a blunder by getting his name wrong . `[例]`
-> - I could hear him blundering around in the darkness . `[例]`
+> - We blundered along through the woods until we finally found the trail. `[例]`
+>   - 中译：我们跌跌撞撞地穿过树林，终于找到了那条路。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/blunder
+> - Another skier blundered into his path. `[例]`
+>   - 中译：另一名滑雪者跌跌撞撞地挡住了他的路。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/blunder
+> - The government blundered by not acting sooner. `[例]`
+>   - 中译：政府因没有尽早采取行动而犯了错误。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/blunder
 
 
 ---

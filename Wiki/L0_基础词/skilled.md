@@ -140,7 +140,7 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Unskilled workers usually earn less money than skilled workers in the same industry. `[外刊]`
+> - Unskilled workers usually earn less money than skilled workers in the same industry. `[例]`
 > - Many companies depend on skilled labor to remain competitive in the global market. `[真题]`
 > - The third wave of immigration included skilled Chinese workers and students from South Korea. `[真题]`
 

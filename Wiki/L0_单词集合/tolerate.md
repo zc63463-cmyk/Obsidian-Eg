@@ -127,9 +127,15 @@ toler-(忍受) + -ate(动词后缀，表"使...、做...")
 ## 真题/语料关联
 
 > [!example]- 语料
-> - I will not tolerate that kind of behaviour in my class . `[例]`
-> - These ants can tolerate temperatures that would kill other species . `[例]`
-> - Athletes often have to tolerate a lot of pain . `[例]`
+> - Their relationship was tolerated but not encouraged. `[例]`
+>   - 中译：他们的关系得到了容忍，但没有得到鼓励。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/tolerate
+> - This sort of behaviour will not be tolerated. `[例]`
+>   - 中译：这种行为是不会被容忍的。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/tolerate
+> - She refused to tolerate being called a liar. `[例]`
+>   - 中译：她拒绝容忍被称为骗子。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/tolerate
 
 ---
 

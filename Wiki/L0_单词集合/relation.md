@@ -126,9 +126,15 @@ re-(回) + lat/latus(携带、带来) + -ion(名词后缀，表动作或结果)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - `The study examines the relation between income inequality and social unrest in developing countries.` [COCA-ACAD]
-> - `In relation to the proposed changes, the committee has decided to conduct a public consultation.` [COCA-ACAD]
-> - `We have close relations in Canada and Scotland.` [COCA-FIC]
+> - Relations between him and his new wife are rather strained. `[例]`
+>   - 中译：他和他的新婚妻子之间的关系相当紧张。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/relation
+> - The relation between the original book and this new film is very faint. `[例]`
+>   - 中译：原著和这部新电影之间的关系非常微弱。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/relation
+> - She bears no relation to (= she is not similar to) her brother. `[例]`
+>   - 中译：她与她的兄弟没有关系（=她不相似）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/relation
 ---
 
 

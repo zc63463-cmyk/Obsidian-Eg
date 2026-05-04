@@ -124,10 +124,9 @@ in-(=into, 进入) + [[tract|trud]](=推，拉丁语 *trudere* "推") + -e
 ## 真题/语料关联
 
 > [!example]- 语料
-> - I don't mean to intrude, but could I have a word with you? ` `[真题]`
-> - The government should not intrude on people's private lives. ` `[真题]`
-> - I often find that my work intrudes on my family life. ` `[语料库]`
-> - Newspaper editors are being urged not to intrude on the grief of the families of missing servicemen. ` `[语料库]`
+> - I didn't realize your husband was here, Dr Jones - I hope I'm not intruding. `[例]`
+> - Newspaper editors are being urged not to intrude on the grief of the families of missing servicemen. `[例]`
+> - I do not want to intrude into your personal life. `[例]`
 
 
 ---

@@ -131,9 +131,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Ways of reading on a train or in bed are likely to differ considerably from reading in a seminar room. ` `[真题]`
-> - I attended practically every lecture and seminar when I was a student. ` `[真题]`
-> - There was some lively debate at this week's seminar. ` `[真题]`
+> - I'm attending a training seminar for financial consultants. `[例]`
+> - The National Science Teaching Association is hosting a 90-minute professional development web seminar for educators on 5 January. `[例]`
+> - The workshop will take place in the new seminar room on the first floor. `[例]`
 
 
 ---

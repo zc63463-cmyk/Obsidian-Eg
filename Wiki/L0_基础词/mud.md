@@ -125,8 +125,8 @@ review_count: 0
 
 > [!example]- 语料
 > - The vehicles got bogged down in the heavy mud. `[例]`
-> - Modern houses have replaced the one-room mud huts with grass roofs that had been home to generations of peasants . `[例]`
-> - He got out of the car and squelched through the mud to open the gate . `[例]`
+> - Modern houses have replaced the one-room mud huts with grass roofs that had been home to generations of peasants. `[例]`
+> - He got out of the car and squelched through the mud to open the gate. `[例]`
 
 
 ---

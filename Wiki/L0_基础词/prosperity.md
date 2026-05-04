@@ -123,7 +123,7 @@ pro-(向前/在前) + [[sper|sper]](希望) + -ity(名词后缀，表状态)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - A country's future prosperity depends , to an extent , upon the quality of education of its people . `[例]`
+> - A country's future prosperity depends , to an extent , upon the quality of education of its people. `[例]`
 > - The war was followed by a long period of peace and prosperity. `[例]`
 > - We need to drive growth and create jobs and prosperity. `[例]`
 

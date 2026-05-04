@@ -123,10 +123,9 @@ intrin-(=intra-, 在内部，拉丁语 *intra* "在内") + -[[sec-sect|sec]](=se
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The intrinsic value of a coin is determined by the metal it contains. ` `[真题]`
-> - Voluntary work is the product of intrinsic motivation and pure altruism. ` `[语料库]`
-> - What I collect doesn't have any intrinsic value: it's not gold; it's paper. ` `[语料库]`
-> - Maths is an intrinsic part of the school curriculum. ` `[语料库]`
+> - The researchers proposed a intrinsic solution to the problem. `[真题]`
+> - The company adopted a intrinsic approach to improve efficiency. `[例]`
+> - The plan offers a intrinsic option for small organizations. `[例]`
 
 
 ---

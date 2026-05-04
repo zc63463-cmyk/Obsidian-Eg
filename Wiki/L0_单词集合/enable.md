@@ -131,9 +131,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Technology **enables** people to communicate across vast distances in real time. `` `[COCA-ACAD]` ``
-> - Computerization has **enabled** us to do away with a lot of paperwork. `` `[COCA-ACAD]` ``
-> - The system **enables** students to access class materials online. `` `[COCA-ACAD]` ``
+> - Computerization should enable us to cut production costs by half. `[例]`
+>   - 中译：计算机化应该能够使我们的生产成本降低一半。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/enable
+> - It is wrong to enable or support any addict to become re-addicted to any drug. `[例]`
+>   - 中译：允许或支持任何成瘾者重新对任何药物上瘾都是错误的。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/enable
+> - Parents must always ask themselves if they are enabling their child's drug use. `[例]`
+>   - 中译：父母必须始终问自己是否允许孩子吸毒。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/enable
 
 ---
 

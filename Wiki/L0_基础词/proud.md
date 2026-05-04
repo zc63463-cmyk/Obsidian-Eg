@@ -126,9 +126,9 @@ proud（源自拉丁语 *prode-*，"有利的、有价值的"，与 [[provide]] 
 ## 真题/语料关联
 
 > [!example]- 语料
-> - You must be very proud of your son . `[例]`
-> - We're particularly proud of our company's environmental record . `[例]`
-> - I'm very proud to have been involved in this project . `[例]`
+> - You must be very proud of your son. `[例]`
+> - We're particularly proud of our company's environmental record. `[例]`
+> - I'm very proud to have been involved in this project. `[例]`
 
 
 ---

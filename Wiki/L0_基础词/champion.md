@@ -133,9 +133,15 @@ champion 源自古法语 *champion*，源自晚期拉丁语 *campionem*（战场
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She is the world champion for the third year in succession . `[例]`
-> - The defending champion will play his first match of the tournament tomorrow . `[例]`
-> - Who are the reigning European football champions? `[例]`
+> - He became the youngest US Open champion for 88 years. `[例]`
+>   - 中译：他成为88年来最年轻的美国公开赛冠军。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/champion
+> - They were champions at the Winter Olympics in Chamonix. `[例]`
+>   - 中译：他们是夏蒙尼冬季奥运会的冠军。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/champion
+> - She was a long-term champion of animal rights and environmental protection. `[例]`
+>   - 中译：她是动物权利和环境保护的长期倡导者。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/champion
 
 
 ---

@@ -136,7 +136,7 @@ review_count: 0
 
 > [!example]- 语料
 > - A new sports facility. `[例]`
-> - His facility for languages is astonishing . `[例]`
+> - His facility for languages is astonishing. `[例]`
 > - He asked the bank to increase his overdraft facility. `[例]`
 
 

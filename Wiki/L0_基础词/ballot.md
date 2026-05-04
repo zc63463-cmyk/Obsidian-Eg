@@ -136,10 +136,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Everyone casts his or her ballot in secret. [COCA]
-> - They decided to hold a ballot. [COCA]
-> - The union said they will ballot members on whether to strike. [COCA]
-> - The leader will be chosen by secret ballot to ensure fairness and transparency in the election process. `[例]`
+> - The chairperson is chosen by secret ballot. `[例]`
+>   - 中译：主席是通过无记名投票选出的。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ballot
+> - They cast their votes in a secret ballot. `[例]`
+>   - 中译：他们以无记名投票方式投票。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/ballot
+> - She was elected by secret ballot. `[例]`
+>   - 中译：她是通过无记名投票当选的。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/ballot
 
 
 ---

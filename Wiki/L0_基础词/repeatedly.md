@@ -126,9 +126,9 @@ re-（[[re-|再，重新]]）+ peat（[[pet|寻求]]，拉丁语 *petere*）+ -e
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The government has repeatedly stated its commitment to environmental protection." `[真题]`
-> - "He repeatedly ignored the warnings and continued his risky behavior." `[语料库]`
-> - "She repeatedly asked the same question during the interview." `[语料库]`
+> - The government has repeatedly stated its commitment to environmental protection. `[真题]`
+> - He repeatedly ignored the warnings and continued his risky behavior. `[例]`
+> - She repeatedly asked the same question during the interview. `[例]`
 
 
 ---

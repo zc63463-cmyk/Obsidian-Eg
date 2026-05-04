@@ -138,9 +138,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The doctors gave him more powerful drugs in the vain hope that he might recover . `[例]`
-> - It was vain to pretend to himself that he was not disappointed . `[例]`
-> - I tried in vain to start a conversation . `[例]`
+> - She closed her eyes tightly in a vain attempt to hold back the tears. `[例]`
+>   - 中译：她紧紧闭上眼睛，试图忍住泪水。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/vain
+> - I knocked loudly in the vain hope that someone might answer. `[例]`
+>   - 中译：我大声敲门，徒劳地希望有人回应。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/vain
+> - The government spent billions in a vain bid to prop up the currency. `[例]`
+>   - 中译：政府花费了数十亿美元来徒劳地支撑货币。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/vain
 
 ---
 

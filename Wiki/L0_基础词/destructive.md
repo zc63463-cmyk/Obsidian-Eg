@@ -126,8 +126,8 @@ review_count: 0
 
 > [!example]- 语料
 > - The destructive power of nuclear weapons. `[例]`
-> - I worry about the destructive effect that violent films may have on children . `[例]`
-> - Lack of trust is very destructive in a relationship . `[例]`
+> - I worry about the destructive effect that violent films may have on children. `[例]`
+> - Lack of trust is very destructive in a relationship. `[例]`
 
 
 ---

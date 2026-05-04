@@ -133,8 +133,14 @@ pro-(向前/充分) + -of(=off，来自古法语prove的名词形式) → 经过
 
 > [!example]- 语料
 > - How old are you?" "21." "Do you have any proof on you? `[例]`
-> - Do they have any proof that it was Hampson who stole the goods ? `[例]`
+>   - 中译：你多大了？” “21岁。” “你有什么证据吗？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/proof
+> - Do they have any proof that it was Hampson who stole the goods? `[例]`
+>   - 中译：他们有证据证明是汉普森偷了货物吗？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/proof
 > - I have a suspicion that he's having an affair , though I don't have any concrete (= definite ) proof. `[例]`
+>   - 中译：我怀疑他有外遇，尽管我没有任何具体（=明确）的证据。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/proof
 
 
 ---

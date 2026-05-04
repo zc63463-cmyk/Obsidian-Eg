@@ -133,9 +133,15 @@ com-(共同/一起) + plex(编织、折叠) → 编织在一起
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The relationship between economic growth and environmental protection is highly complex. `[例]`
-> - The apartment complex includes a swimming pool and a fitness center. `[例]`
-> - Climate change is a complex issue requiring global cooperation. `[COCA-ACAD]`
+> - The company has a complex organizational structure. `[例]`
+>   - 中译：公司组织结构复杂。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/complex
+> - It's a very complex issue to which there is no straightforward answer. `[例]`
+>   - 中译：这是一个非常复杂的问题，没有直接的答案。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/complex
+> - The film's plot was so complex that I couldn't follow it. `[例]`
+>   - 中译：这部电影的情节太复杂了，我无法理解。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/complex
 
 ---
 

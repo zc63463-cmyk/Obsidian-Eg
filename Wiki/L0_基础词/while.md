@@ -137,8 +137,9 @@ while 源自古英语 *hwīl*（一段时间、时刻），与古高地日耳曼
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "While technological advancement has brought enormous benefits to society, it has also raised serious ethical concerns about privacy, employment, and the nature of human interaction."（虽然技术进步给社会带来了巨大的好处，但它也引发了关于隐私、就业和人类互动本质的严重伦理担忧——考研阅读科技话题相关表达）
-> - "Some researchers argue that social media strengthens community bonds, while others contend that it actually increases social isolation and weakens face-to-face relationships."（一些研究人员认为社交媒体加强了社区纽带，而另一些人则认为它实际上增加了社会孤立并削弱了面对面的人际关系——考研阅读社会话题相关表达）
+> - While the data are limited, the conclusion remains persuasive. `[例]`
+> - She listened to music while she prepared the report. `[例]`
+> - Some students prefer discussion, while others learn better alone. `[例]`
 
 
 ---

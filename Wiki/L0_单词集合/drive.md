@@ -131,10 +131,15 @@ drive（源自古英语 *drīfan*，驱赶、推动）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Short-termism, or the desire for quick profits, has worsened in publicly traded companies." `[真题]`
-> - "The first thing needed for innovation is a fascination with wonder." `[真题]`
-> - "The rapid development of AI, which now dominates so much public discussion, will surely be a powerful driver of economic growth." `[COCA-ACAD]`
-> - "Sheer curiosity drives scientists to explore the unknown." `[COCA-ACAD]`
+> - I'm learning to drive. `[例]`
+>   - 中译：我正在学开车。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/drive
+> - Are you going by train ?" "No, I'm driving. `[例]`
+>   - 中译：你坐火车去吗？” “不，我开车去。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/drive
+> - She drives a red sports car. `[例]`
+>   - 中译：她开着一辆红色跑车。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/drive
 
 ---
 

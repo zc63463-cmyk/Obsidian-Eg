@@ -117,9 +117,15 @@ county 源自古法语 *comté*（伯爵的领地），与 count（伯爵）同�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The county council voted to increase funding for public schools. `[语料库]`
-> - Many county councils are now controlled by the Conservatives. `[语料库]`
-> - He appeared in the county court and ensured that the practice was stopped for all time. `[语料库]`
+> - Originally, county boundaries often followed the course of a river. `[例]`
+>   - 中译：最初，县界通常沿着河道延伸。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/county
+> - Most towns and villages throughout the county have experienced a population increase. `[例]`
+>   - 中译：全县大部分乡镇和村庄的人口都出现了增长。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/county
+> - Children from schools across the county will be taking part. `[例]`
+>   - 中译：来自全县学校的孩子们将参加。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/county
 
 
 ---

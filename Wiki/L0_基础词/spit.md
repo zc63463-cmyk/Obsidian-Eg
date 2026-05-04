@@ -129,8 +129,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - They bought watermelons and ate them as they walked , spitting out the seeds . `[例]`
-> - If it's only spitting (with rain ), perhaps we don't need waterproofs . `[例]`
+> - They bought watermelons and ate them as they walked , spitting out the seeds. `[例]`
+> - If it's only spitting (with rain ), perhaps we don't need waterproofs. `[例]`
 > - Trieste sits on a tiny spit of land , squashed between Slovenia and the Adriatic Sea. `[例]`
 
 

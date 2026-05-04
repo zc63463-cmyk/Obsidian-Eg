@@ -122,8 +122,8 @@ in-(在……内，[[in]]) + door(门，古英语 *duru*)
 
 > [!example]- 语料
 > - An indoor swimming pool. `[例]`
-> - Come indoors, it’s cold outside . `[例]`
-> - The indoor flower market is a big tourist attraction . `[例]`
+> - Come indoors, it’s cold outside. `[例]`
+> - The indoor flower market is a big tourist attraction. `[例]`
 
 
 ---

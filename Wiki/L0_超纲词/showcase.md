@@ -3,10 +3,8 @@ title: "showcase"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-25
-mastery: L0
 word_freq: 超纲词
 semantic_field: 物品工具
 prototype: 展示物品的玻璃柜
@@ -44,7 +42,7 @@ show(展示) + case(箱子，容器)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**展示物品的玻璃柜**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **展示物品的玻璃柜**（物理层面）
@@ -68,7 +66,7 @@ show(展示) + case(箱子，容器)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -79,7 +77,7 @@ show(展示) + case(箱子，容器)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > show（展示）+ case（箱子）→ 展示箱 → 展示柜。博物馆里陈列文物的玻璃柜就是 showcase。一个国际博览会就是一个 showcase for national achievements（国家成就的展示柜）。你上台演讲就是在 showcase your talent（展示你的才华）。
@@ -91,7 +89,7 @@ show(展示) + case(箱子，容器)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,13 +102,13 @@ show(展示) + case(箱子，容器)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[conceal]]：隐藏，掩盖（showcase 的反义：展示↔隐藏）
 > - [[hide]]：隐藏（showcase 的反义：展现↔隐藏）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,26 +119,19 @@ show(展示) + case(箱子，容器)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **showcase one's abilities/talent**：展示某人的能力/才华
 > - **a showcase for**：……的展示平台/窗口
 > - **serve as a showcase**：作为展示窗口
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - The Venice Film Festival has always been the showcase of Italian cinema . `[例]`
-> - The exhibition is an annual showcase for British design and innovation . `[例]`
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-25 | **复习次数**：0 | **当前等级**：L0
-
----
+> [!example]- 语料
+> - The Venice Film Festival has always been the showcase of Italian cinema. `[例]`
+> - The exhibition is an annual showcase for British design and innovation. `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

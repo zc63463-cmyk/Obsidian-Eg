@@ -127,9 +127,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The interior angles of a square are right angles or angles of 90 degrees . `[例]`
-> - The picture was hanging at an angle. `[例]`
-> - His head cracked against the angle of the door pillar . `[例]`
+> - It's a modern building, all brick and glass and sharp angles. `[例]`
+>   - 中译：这是一栋现代建筑，全是砖块和玻璃，棱角分明。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/angle
+> - The Tower of Pisa leans at an angle. `[例]`
+>   - 中译：比萨斜塔呈一定角度倾斜。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/angle
+> - The plane was coming in at a steep angle. `[例]`
+>   - 中译：飞机以一个陡峭的角度飞来。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/angle
 
 
 ---

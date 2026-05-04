@@ -137,10 +137,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Lack of confidence in the company `manifested itself` in a fall in the share price. `[COCA-ACAD]`
-> - The same alarm is `manifest` everywhere. `[COCA-ACAD]`
-> - Fear often `manifests itself` in technique. `[COCA-ACAD]`
-> - The disease `manifests itself` in various ways. `[真题]`
+> - The workers chose to manifest their dissatisfaction in a series of strikes. `[例]`
+>   - 中译：工人们选择通过一系列罢工来表达他们的不满。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/manifest
+> - The illness first manifested itself in severe stomach pains. `[例]`
+>   - 中译：这种疾病首先表现为剧烈的胃痛。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/manifest
+> - In teenagers , depression often manifests itself as anger. `[例]`
+>   - 中译：在青少年中，抑郁常常表现为愤怒。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/manifest
 
 ---
 

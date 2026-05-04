@@ -139,8 +139,8 @@ review_count: 0
 
 > [!example]- 语料
 > - Animals are usually afraid of fire. `[例]`
-> - How many historic buildings are damaged by fire each year ? `[例]`
-> - She had to be rescued when her house caught fire (= started to burn ) . `[例]`
+> - How many historic buildings are damaged by fire each year? `[例]`
+> - She had to be rescued when her house caught fire (= started to burn ). `[例]`
 
 
 ---

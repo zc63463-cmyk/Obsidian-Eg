@@ -127,8 +127,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - One of the distinctive **features** of the new policy is its emphasis on environmental protection.（新政策的显著特征之一是强调环境保护。）
-> - The magazine will **feature** an interview with the Nobel Prize winner next month.（该杂志下月将刊登对诺贝尔奖得主的专访。）
+> - The town's main features are its beautiful mosque and ancient marketplace. `[例]`
+>   - 中译：该镇的主要特色是美丽的清真寺和古老的市场。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/feature
+> - Our latest model of phone has several new features. `[例]`
+>   - 中译：我们最新型号的手机具有多项新功能。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/feature
+> - A unique feature of these rock shelters was that they were dry. `[例]`
+>   - 中译：这些岩石庇护所的一个独特之处是它们是干燥的。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/feature
 
 ---
 

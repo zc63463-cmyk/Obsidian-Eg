@@ -123,8 +123,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Brevity is the soul of wit."（简洁是智慧的灵魂。）——莎士比亚名言，考研翻译常考引用
-> - "For the sake of brevity, we will not discuss every detail here."（为了简洁起见，我们不会在这里讨论每一个细节。）——考研翻译真题
+> - His essays are models of clarity and brevity. `[例]`
+>   - 中译：他的文章是清晰简洁的典范。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/brevity
+> - Brevity is, in almost everything, a virtue. `[例]`
+>   - 中译：简洁几乎在所有事情上都是一种美德。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/brevity
+> - The essays were written with admirable brevity. `[例]`
+>   - 中译：这些文章写得简洁得令人钦佩。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/brevity
 
 
 ---

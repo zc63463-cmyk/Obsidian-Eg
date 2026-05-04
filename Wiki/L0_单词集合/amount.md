@@ -132,8 +132,15 @@ a-/ad-(向) + 建议创建词根笔记 [[mount]](上升，攀登) = 上升到一
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "A significant amount of research has been devoted to understanding the causes of the financial crisis."（大量研究致力于理解金融危机的成因。）——考研高频表达
-> - "The amount of time children spend on electronic devices has increased dramatically in recent years."（近年来，儿童在电子设备上花费的时间急剧增加。）——考研高频表达
+> - Small amounts of land were used for keeping animals. `[例]`
+>   - 中译：少量土地被用来饲养动物。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/amount
+> - He paid regular amounts of money to a charity. `[例]`
+>   - 中译：他定期向慈善机构捐款。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/amount
+> - The new tax caused a huge amount of public anger. `[例]`
+>   - 中译：新税收引起了公众的巨大愤怒。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/amount
 ---
 
 

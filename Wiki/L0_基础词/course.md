@@ -133,9 +133,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - In the course of the investigation, several new facts came to light. `[真题]`
-> - She decided to stay the course despite the difficulties. `[语料库]`
-> - They're going away on a training course next week. `[语料库]`
+> - I want to do a course in art and design. `[例]`
+>   - 中译：我想修读艺术和设计课程。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/course
+> - The department offers short courses in drama, fiction and poetry. `[例]`
+>   - 中译：该系提供戏剧、小说和诗歌的短期课程。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/course
+> - She teaches a course on internet crime. `[例]`
+>   - 中译：她教授有关网络犯罪的课程。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/course
 
 
 ---

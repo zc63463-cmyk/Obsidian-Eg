@@ -132,9 +132,9 @@ flatter 源自中古英语 *flateren*，可能融合了古英语 *floterian*（�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - I knew he was only flattering me because he wanted to borrow some money . `[例]`
-> - Steve flatters himself that he's an excellent speaker . `[例]`
-> - He flatters himself that, where Sara is concerned , he has the magic touch . `[例]`
+> - I knew he was only flattering me because he wanted to borrow some money. `[例]`
+> - Steve flatters himself that he's an excellent speaker. `[例]`
+> - He flatters himself that, where Sara is concerned , he has the magic touch. `[例]`
 
 
 ---

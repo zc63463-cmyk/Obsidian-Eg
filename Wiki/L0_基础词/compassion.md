@@ -123,10 +123,15 @@ com-(一起) + [[pass-pati|pass]](感受，拉丁语 *pati* "忍受、感受") +
 ## 真题/语料关联
 
 > [!example]- 语料
-> - I was hoping she might show a little compassion. ` [COCA-FIC]`
-> - Patients need time and compassion from their physicians. ` [COCA-ACAD]`
-> - As a disabled person, it left me feeling incredibly vulnerable when all I wanted was to be treated fairly and with compassion. ` [COCA-NEWS]`
-> - Compassion is the basis of morality. ` [例]`
+> - She was known as a hard woman with no compassion, no emotion. `[例]`
+>   - 中译：她被认为是一个冷酷的女人，没有同情心，没有情感。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/compassion
+> - In an overworked doctor, feelings of compassion are soon lost. `[例]`
+>   - 中译：对于一个过度劳累的医生来说，同情心很快就会消失。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/compassion
+> - Take away all the qualities that make for a genuinely good father—wisdom, compassion , even temper, selflessness—and what you have left is Homer Simpson with his pure, mindless, dogged devotion to his family. `[例]`
+>   - 中译：除去成为真正好父亲的所有品质——智慧、同情心、甚至脾气、无私——你剩下的就是霍默·辛普森，他对家庭纯洁、无私、顽强的奉献。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/compassion
 
 
 ---

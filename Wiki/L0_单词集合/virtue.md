@@ -127,9 +127,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Patience is a virtue. `[例]`
-> - Would there be any virtue in taking an earlier train ? `[例]`
-> - The actress has appeared in many TV ads extolling (= praising ) the virtues of hair products . `[例]`
+> - She was certainly no paragon of virtue (= her moral standards were very far from perfect). `[例]`
+>   - 中译：她当然不是美德的典范（=她的道德标准远非完美）。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/virtue
+> - Patience is not one of her virtues, I'm afraid. `[例]`
+>   - 中译：恐怕耐心并不是她的优点之一。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/virtue
+> - As a politician, he always emphasized the virtues of compromise and conciliation. `[例]`
+>   - 中译：作为政治家，他总是强调妥协与和解的美德。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/virtue
 
 ---
 

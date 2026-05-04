@@ -132,8 +132,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The students mocked the new policy, arguing that it was unrealistic and unenforceable."（学生们嘲笑这项新政策，认为它不切实际且无法执行。）——考研高频表达
-> - "He made a mock speech at the graduation ceremony that had everyone laughing."（他在毕业典礼上发表了一篇模仿演讲，逗得大家哈哈大笑。）——考研高频表达
+> - They were mocking him because he kept falling off his bike. `[例]`
+>   - 中译：他们嘲笑他，因为他总是从自行车上摔下来。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/mock
+> - She made fun of him by mocking his limp. `[例]`
+>   - 中译：她嘲笑他跛行，以此来取笑他。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/mock
+> - The wind mocked their attempts to reach the shore by pushing the boat further and further out to sea. `[例]`
+>   - 中译：风嘲笑了他们试图靠岸的努力，把船推得越来越远。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/mock
 ---
 
 

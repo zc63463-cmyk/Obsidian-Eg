@@ -130,9 +130,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - I tripped on a piece of wire that someone had stretched across the path . `[例]`
-> - She stretched out her hand and helped him from his chair . `[例]`
-> - I'm so tired ," she said, yawning and stretching. `[例]`
+> - Is there any way of stretching shoes? `[例]`
+>   - 中译：有什么办法可以让鞋子变长吗？
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/stretch
+> - Stop stretching your sleeves like that! `[例]`
+>   - 中译：别再这样伸长袖子了！
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/stretch
+> - This sweater has stretched. `[例]`
+>   - 中译：这件毛衣已经拉长了。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/stretch
 
 ---
 

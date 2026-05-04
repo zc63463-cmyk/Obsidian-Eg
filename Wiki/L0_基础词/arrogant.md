@@ -123,10 +123,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - I found him arrogant and rude. `[COCA-SPOKEN]`
-> - He has this very stubborn, arrogant belief that he can fix these fundamental problems. `[COCA-NEWS]`
-> - She has an authoritative manner that at times is almost arrogant. `[COCA-FIC]`
-> - They were arrogant without having much to be arrogant about. `[BNC-SPOKEN]`
+> - He was a rude, arrogant young man. `[例]`
+>   - 中译：他是一个粗鲁、傲慢的年轻人。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/arrogant
+> - Tim Blixseth, the founder of the Yellowstone Club and other gated hideaways, tells Frank: "I don't like most rich people. They can be arrogant ." This from a man who owns two Shih Tzus named Learjet and G2. `[例]`
+>   - 中译：黄石俱乐部和其他封闭式隐秘场所的创始人蒂姆·布利克斯塞斯 (Tim Blixseth) 告诉弗兰克：“我不喜欢大多数富人。他们可能很傲慢。”这是一位拥有两只西施犬的男子发的，分别是 Learjet 和 G2。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/arrogant
+> - Arrogant execs are not the only targets of investors' ire. … There's no telling how much money analysts such as Meeker cost investors with their interminable buy recommendations on Internet stocks that eventually went bust. `[例]`
+>   - 中译：傲慢的高管并不是投资者愤怒的唯一目标。 ……没有人知道像米克这样的分析师对互联网股票的无休无止的买入建议让投资者损失了多少钱，但这些股票最终都破产了。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/arrogant
 
 
 ---

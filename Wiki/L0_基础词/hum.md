@@ -126,9 +126,9 @@ hum（拟声词，模拟嘴唇闭合时声带振动发出的低沉嗡嗡声，�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The computers were humming in the background . `[例]`
-> - What's that strange humming sound ? `[例]`
-> - She hummed to herself as she walked to school . `[例]`
+> - The computers were humming in the background. `[例]`
+> - What's that strange humming sound? `[例]`
+> - She hummed to herself as she walked to school. `[例]`
 
 
 ---

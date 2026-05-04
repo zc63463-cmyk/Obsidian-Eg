@@ -143,9 +143,9 @@ review_count: 0
 
 > [!example]- 语料
 > - The value of property has slumped. `[例]`
-> - Car sales have slumped dramatically over the past year . `[例]`
-> - She slumped into the chair , exhausted . `[例]`
-> - There's been a slump in the demand for new cars . `[例]`
+> - Car sales have slumped dramatically over the past year. `[例]`
+> - She slumped into the chair , exhausted. `[例]`
+> - There's been a slump in the demand for new cars. `[例]`
 
 
 ---

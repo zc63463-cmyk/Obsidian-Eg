@@ -133,9 +133,15 @@ along（沿着）+ side（旁边，侧面）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - They found themselves working alongside like-minded young people with similar values . `[例]`
-> - A car pulled up alongside (ours). `[例]`
-> - The new pill will be used alongside existing medicines . `[例]`
+> - We waited for the other boat to come alongside. `[例]`
+>   - 中译：我们等待另一艘船靠岸。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/alongside
+> - The children work alongside their parents in the field. `[例]`
+>   - 中译：孩子们和父母一起在田里干活。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/alongside
+> - Bring the boat alongside the dock. `[例]`
+>   - 中译：把船开到码头旁边。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/alongside
 
 
 ---

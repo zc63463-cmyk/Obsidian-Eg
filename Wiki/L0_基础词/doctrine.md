@@ -129,9 +129,9 @@ doc(教导，拉丁语 *docere*) + -trin(名词后缀，表示行为的结果) +
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The Monroe Doctrine asserted that the Western Hemisphere was off-limits to further European colonization." `[真题]`
-> - "The doctrine of separation of powers is fundamental to many democratic systems." `[真题]`
-> - "Traditional psychiatrists still follow the doctrines of Sigmund Freud." `[真题]`
+> - The Monroe Doctrine asserted that the Western Hemisphere was off-limits to further European colonization. `[真题]`
+> - The doctrine of separation of powers is fundamental to many democratic systems. `[真题]`
+> - Traditional psychiatrists still follow the doctrines of Sigmund Freud. `[真题]`
 
 
 ---

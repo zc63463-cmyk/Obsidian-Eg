@@ -131,10 +131,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - `We did not fully appreciate the magnitude of the problem.` `[真题]`
-> - `Environmental disasters of this magnitude underline the need for an EU coastguard.` `[COCA-ACAD]`
-> - `The magnitude of the task can be readily seen by a brief look at the statistics.` `[COCA-ACAD]`
-> - `An operation of this magnitude is going to be difficult.` `[COCA-NEWS]`
+> - The magnitude of the task would have discouraged an ordinary man. `[例]`
+>   - 中译：这项任务的艰巨性会让一个普通人望而却步。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/magnitude
+> - We did not realize the magnitude of the problem. `[例]`
+>   - 中译：我们没有意识到问题的严重性。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/magnitude
+> - The star varies in brightness by about three magnitudes. `[例]`
+>   - 中译：这颗恒星的亮度变化约为三个星等。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/magnitude
 
 ---
 

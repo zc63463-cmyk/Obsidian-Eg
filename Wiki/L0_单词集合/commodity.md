@@ -129,8 +129,15 @@ com-(共同) + mod(方便/适合) + -ity(名词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "If, on the other hand, producing more of a commodity results in reducing its cost, this will tend to increase the supply offered by seller-producers."（另一方面，如果增加某种商品的产量能降低其成本，这将倾向于增加销售者提供的供给。）——考研英语真题
-> - "Water is a precious commodity that is often taken for granted in many parts of the world."（水是一种宝贵的商品，在世界上许多地方常常被视为理所当然。）——考研高频表达
+> - Caravanserais were also an important marketplace for commodities and _!Lin the trade of goods along the Silk Road. `[真题]`
+>   - 中译：商队旅馆也是丝绸之路沿线商品和货物贸易的重要市场。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - The country's most valuable commodities include tin and diamonds. `[例]`
+>   - 中译：该国最有价值的商品包括锡和钻石。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/commodity
+> - If you're going into teaching , energy is a necessary commodity. `[例]`
+>   - 中译：如果你要从事教学工作，能源是一种必需品。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/commodity
 
 
 ---

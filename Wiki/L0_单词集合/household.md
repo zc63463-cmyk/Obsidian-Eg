@@ -131,8 +131,15 @@ house（房屋）+ [[hab|hab-]]（持有，hold 的日耳曼同源变体）+ -ho
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The average household income has increased significantly over the past decade."（过去十年间，家庭平均收入显著增长。）——考研高频表达
-> - "Google has become a household name around the world."（谷歌已成为全球家喻户晓的名字。）——考研高频表达
+> - By the 1960s, most households had a TV. `[例]`
+>   - 中译：到了 20 世纪 60 年代，大多数家庭都拥有了电视。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/household
+> - The insurance doesn't cover you for household items. `[例]`
+>   - 中译：该保险不承保您的家居用品。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/household
+> - I do all my household accounts on computer. `[例]`
+>   - 中译：我所有的家庭账目都是在电脑上记的。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/household
 ---
 
 

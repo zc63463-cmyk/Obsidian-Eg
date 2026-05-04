@@ -132,7 +132,7 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She flushed with pleasure as she accepted the prize . `[例]`
+> - She flushed with pleasure as she accepted the prize. `[例]`
 > - The champagne had caused his face to flush. `[例]`
 > - My children never flush the toilet after themselves. `[例]`
 

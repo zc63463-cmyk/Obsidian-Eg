@@ -127,9 +127,15 @@ a-(加强语气) + val-(价值) → avail(使有价值→有用)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - All his efforts were to no avail. `[COCA-ACAD]`
-> - Students should avail themselves of the library resources to enhance their learning. `[例]`
-> - The medicine proved of no avail in treating the disease. `[例]`
+> - We tried to persuade her not to resign , but to no avail (= did not succeed ). `[例]`
+>   - 中译：我们试图劝她不要辞职，但没有效果（=没有成功）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/avail
+> - Our efforts availed us nothing (= did not help ). `[例]`
+>   - 中译：我们的努力毫无帮助（=没有帮助）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/avail
+> - Over a thousand learners have already availed the opportunity to study at our college. `[例]`
+>   - 中译：已有超过千名学习者有机会在我们学院学习。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/avail
 
 ---
 

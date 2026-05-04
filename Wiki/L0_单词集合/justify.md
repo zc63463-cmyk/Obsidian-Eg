@@ -135,10 +135,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The end does not always justify the means." `[COCA-ACAD]`
-> - "She was justified in her decision to resign." `[COCA-ACAD]`
-> - "The events that followed served to justify our earlier decision." `[COCA-ACAD]`
-> - "The fact that we are at war does not justify treating innocent people as criminals." `[COCA-NEWS]`
+> - Are you sure that these measures are justified? `[例]`
+>   - 中译：您确定这些措施合理吗？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/justify
+> - It was the only thing that I could do - I don't have to justify myself to anyone. `[例]`
+>   - 中译：这是我唯一能做的事——我不需要向任何人证明自己的合理性。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/justify
+> - How can you justify the employment of capital punishment? `[例]`
+>   - 中译：你如何证明使用死刑的合理性？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/justify
 
 ---
 

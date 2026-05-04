@@ -141,10 +141,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "There's no legitimate reason for prescribing this medication to a child." `[COCA-ACAD]`
-> - "Judges recognize that camera coverage serves a legitimate public interest." `[COCA-ACAD]`
-> - "She has a legitimate claim to the money." `[COCA-ACAD]`
-> - "That's a perfectly legitimate fear." `[COCA-NEWS]`
+> - The army must give power back to the legitimate government. `[例]`
+>   - 中译：军队必须将权力交还给合法政府。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/legitimate
+> - He claimed that the restaurant bill was a legitimate business expense. `[例]`
+>   - 中译：他声称餐厅账单是合法的商业开支。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/legitimate
+> - Her passport seemed legitimate, but on closer inspection , it was found to have been altered. `[例]`
+>   - 中译：她的护照看上去是合法的，但仔细一看，却发现它被涂改了。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/legitimate
 
 ---
 

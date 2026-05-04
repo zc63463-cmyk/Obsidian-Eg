@@ -132,9 +132,9 @@ frost(整体词，源自古英语 *forst*，与 freeze 同源)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "There is always the danger of a late frost killing the buds." `[真题]`
-> - "These plants are particularly susceptible to frost." `[真题]`
-> - "The lawn was covered in frost on the cold morning." `[语料库]`
+> - There is always the danger of a late frost killing the buds. `[真题]`
+> - These plants are particularly susceptible to frost. `[真题]`
+> - The lawn was covered in frost on the cold morning. `[例]`
 
 
 ---

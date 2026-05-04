@@ -124,7 +124,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The landscape has altered dramatically over the past decade due to urbanization.（由于城市化，过去十年间地貌发生了巨大变化。）
+> - We've had to alter some of our plans. `[例]`
+>   - 中译：我们不得不改变一些计划。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/alter
+> - Although the cost of making phone calls is going up, the charge for connecting to the internet will not alter. `[例]`
+>   - 中译：虽然打电话的费用在上涨，但上网的费用不会改变。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/alter
+> - Giving up our car has radically altered our lifestyle. `[例]`
+>   - 中译：放弃汽车从根本上改变了我们的生活方式。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/alter
 
 ---
 

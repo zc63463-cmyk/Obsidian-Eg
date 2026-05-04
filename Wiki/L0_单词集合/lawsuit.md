@@ -132,10 +132,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Some unhappy workers filed a lawsuit claiming they were due back wages." `[COCA-ACAD]`
-> - "A former employee brought a lawsuit against the company claiming unfair dismissal." `[COCA-ACAD]`
-> - "The parents voluntarily dismissed the lawsuit in September 2023." `[COCA]`
-> - "Two of the directors filed a lawsuit against their former employer." `[COCA]`
+> - Two of the directors filed a lawsuit against their former employer. `[例]`
+>   - 中译：其中两名董事对其前雇主提起诉讼。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/lawsuit
+> - They were fined as a result of the lawsuit. `[例]`
+>   - 中译：他们因诉讼而被罚款。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/lawsuit
+> - They filed a lawsuit against the company. `[例]`
+>   - 中译：他们对该公司提起诉讼。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/lawsuit
 
 ---
 

@@ -127,9 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The island is a tropical paradise with white sandy beaches and crystal-clear water. `[语料库]`
-> - Visitors and locals alike see this stretch as a proverbial shopper's paradise. `[外刊]`
-> - Hawaii is a paradise for surfers. `[语料库]`
+> - The island is a tropical paradise with white sandy beaches and crystal-clear water. `[例]`
+> - Visitors and locals alike see this stretch as a proverbial shopper's paradise. `[例]`
+> - Hawaii is a paradise for surfers. `[例]`
 
 
 ---

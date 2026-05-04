@@ -120,8 +120,8 @@ review_count: 0
 > [!example]- 语料
 > - The university hosted an international symposium on climate change. `[真题]`
 > - She presented her research findings at the annual symposium. `[真题]`
-> - Speakers at today's symposium had different views about the impact of modern information technology. `[语料库]`
-> - Last week I attended a symposium where there were 150 participants, and only two of them were women. `[语料库]`
+> - Speakers at today's symposium had different views about the impact of modern information technology. `[例]`
+> - Last week I attended a symposium where there were 150 participants, and only two of them were women. `[例]`
 
 
 ---

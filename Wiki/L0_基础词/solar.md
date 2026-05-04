@@ -126,9 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - They are searching for intelligent life forms in other solar systems . `[例]`
-> - These spacecraft may send back data about the outermost reaches of the solar system . `[例]`
-> - The planet Jupiter contains large amounts of the primordial gas and dust out of which the solar system was formed . `[例]`
+> - They are searching for intelligent life forms in other solar systems. `[例]`
+> - These spacecraft may send back data about the outermost reaches of the solar system. `[例]`
+> - The planet Jupiter contains large amounts of the primordial gas and dust out of which the solar system was formed. `[例]`
 
 
 ---

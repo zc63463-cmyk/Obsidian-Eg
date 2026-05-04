@@ -128,9 +128,9 @@ the-(=put, place，放置，希腊语 *tithenai*) + -sis(名词后缀，表示�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - His thesis was that World War I could have been avoided . `[例]`
+> - His thesis was that World War I could have been avoided. `[例]`
 > - A doctoral thesis (= for a PhD ). `[例]`
-> - Their main thesis was that war was inevitable . `[例]`
+> - Their main thesis was that war was inevitable. `[例]`
 
 
 ---

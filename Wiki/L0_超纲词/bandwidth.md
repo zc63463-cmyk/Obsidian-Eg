@@ -3,10 +3,8 @@ title: "bandwidth"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 理性世界
 prototype: 频段的宽度（频率范围的大小）
@@ -44,7 +42,7 @@ band(频段/带) + width(宽度)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**频段的宽度**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **频段的宽度**（物理/技术层面，1930s）
@@ -66,7 +64,7 @@ band(频段/带) + width(宽度)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ band(频段/带) + width(宽度)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 无线电工程师把电磁波谱想象成一条长长的公路，分成一段一段的"车道"（band）。每条车道的宽窄就是 bandwidth——车道越宽，能同时跑的车（数据）越多。后来这个概念被借用到日常生活中：当老板给你安排新任务时，你可以说"I don't have the bandwidth"——我的"车道"已经满了，处理不了更多了。
@@ -89,7 +87,7 @@ band(频段/带) + width(宽度)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +100,13 @@ band(频段/带) + width(宽度)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[bottleneck]]：瓶颈（bandwidth 的功能反义：宽通道↔窄瓶颈）
 > - [[limitation]]：局限，限制（bandwidth 的抽象反义：能力范围↔能力限制）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,7 +117,7 @@ band(频段/带) + width(宽度)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **have the bandwidth**：有精力/有能力（处理）
   - I'd love to help, but I just don't have the bandwidth right now.（我很想帮忙，但我现在实在没有精力。）
 > - **high/wide bandwidth**：高带宽/宽频带
@@ -129,19 +127,12 @@ band(频段/带) + width(宽度)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - The company lacks the bandwidth to take on additional projects this quarter.`[例]`
-> - As remote work becomes the norm, insufficient bandwidth has become a major barrier to productivity.`[例]`
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
+> [!example]- 语料
+> - The company lacks the bandwidth to take on additional projects this quarter. `[例]`
+> - As remote work becomes the norm, insufficient bandwidth has become a major barrier to productivity. `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

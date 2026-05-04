@@ -133,9 +133,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - You shouldn't drive fast when your car is towing a caravan . `[例]`
-> - The damaged boat was towed to safety . `[例]`
-> - You're not allowed to park here - your car will be towed away . `[例]`
+> - Our car was towed away by the police. `[例]`
+>   - 中译：我们的车被警察拖走了。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/tow
+> - A glider was being towed into the air. `[例]`
+>   - 中译：一架滑翔机被拖到空中。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/tow
+> - Vicky was towing Rosa along by the hand. `[例]`
+>   - 中译：维琪拉着罗莎的手一起走。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/tow
 
 ---
 

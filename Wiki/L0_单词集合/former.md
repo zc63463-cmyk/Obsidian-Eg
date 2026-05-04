@@ -127,8 +127,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The former CEO was accused of mismanaging the company's finances."（前任首席执行官被指控管理不善公司财务。）——考研高频表达
-> - "Studies have shown that the former approach is more effective than the latter in reducing pollution."（研究表明，前一种方法在减少污染方面比后一种更有效。）——考研高频表达
+> - The luxury apartments are in a former factory. `[例]`
+>   - 中译：豪华公寓位于一座前工厂内。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/former
+> - The painting was then restored to its former glory (= returned to its original good condition ). `[例]`
+>   - 中译：然后，这幅画又恢复了原来的光彩（=恢复到原来的良好状态）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/former
+> - It was a long time after the accident before he seemed like his former self (= behaved in the way he had before). `[例]`
+>   - 中译：事故发生后很长一段时间，他才看起来像以前一样（=像以前那样行事）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/former
 
 
 ---

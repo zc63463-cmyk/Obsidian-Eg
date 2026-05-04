@@ -134,10 +134,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Figure 6.2 provides a graphic representation of the key processes in the management of change." `[剑桥词典]`
-> - "The video was removed over its graphic violence, YouTube said." `[CNN]`
-> - "He gave a graphic description of how he thought that it would work in a modern factory under modern conditions." `[剑桥语料库]`
-> - "The files show in graphic detail how this harm has manifested." `[卫报]`
+> - Figure 6.2 provides a graphic representation of the key processes in the management of change. `[例]`
+> - The video was removed over its graphic violence, YouTube said. `[例]`
+> - He gave a graphic description of how he thought that it would work in a modern factory under modern conditions. `[例]`
+> - The files show in graphic detail how this harm has manifested. `[例]`
 
 
 ---

@@ -127,9 +127,15 @@ com-(共同/一起) + plic(折叠、编织) + -at(e)(动词后缀) + -ed(形容�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The relationship between poverty and education is more complicated than it appears. `[COCA-ACAD]`
-> - Modern technology has made our lives both easier and more complicated. `[例]`
-> - The legal procedure for obtaining a visa can be highly complicated. `[例]`
+> - I had to fill in this really complicated form. `[例]`
+>   - 中译：我必须填写这张非常复杂的表格。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/complicated
+> - The rules are rather complicated to follow. `[例]`
+>   - 中译：遵守规则相当复杂。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/complicated
+> - The relationship is a bit complicated. He's my mother's cousin's daughter's child. `[例]`
+>   - 中译：关系有点复杂。他是我母亲的表弟的女儿的孩子。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/complicated
 
 ---
 

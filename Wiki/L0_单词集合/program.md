@@ -133,9 +133,15 @@ pro-(向前/提前) + [[graph-gram|graph→写]](写) + -e（名词/动词后缀
 ## 真题/语料关联
 
 > [!example]- 语料
-> - They are developing a computer program that can determine if a song is likely to be a hit . `[例]`
+> - They are developing a computer program that can determine if a song is likely to be a hit. `[例]`
+>   - 中译：他们正在开发一种计算机程序，可以确定一首歌曲是否可能成为热门歌曲。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/program
 > - She's written a program to find words that frequently occur together. `[例]`
-> - She programmed the computer to calculate the rate of exchange in twelve currencies . `[例]`
+>   - 中译：她编写了一个程序来查找经常一起出现的单词。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/program
+> - There is still a lot of software that comes without an uninstall program. `[例]`
+>   - 中译：仍然有很多软件没有卸载程序。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/program
 
 
 ---

@@ -131,7 +131,7 @@ re-(=against，反对) + luct(挣扎，拉丁语 *luctari*) + -ant(形容词后�
 > [!example]- 语料
 > - Despite these factors, many social scientists seem reluctant to tackle such problems. `[真题]`
 > - Many parents feel reluctant to talk openly with their children. `[真题]`
-> - The United Nations was reluctant to get its forces embroiled in civil war. `[权威语料]`
+> - The United Nations was reluctant to get its forces embroiled in civil war. `[例]`
 
 
 ---

@@ -129,10 +129,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She is always fashionably dressed."（她总是穿着时尚）——生活话题
-> - "It has become fashionable to criticize the government."（批评政府已经成为一种流行做法）——注意 fashionable 用于抽象观点
-> - "The restaurant is popular among fashionable young people."（这家餐厅在时尚年轻人中很受欢迎）——社会话题
-> - "Fashionable ideas often fade quickly."（流行的观点往往很快就会消退）——文化话题
+> - It's not fashionable to wear short skirts at the moment. `[例]`
+>   - 中译：现在穿短裙不流行。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/fashionable
+> - A fashionable couple posed elegantly at the next table. `[例]`
+>   - 中译：邻桌一对时尚情侣优雅地摆姿势。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/fashionable
+> - The nightclub has a very fashionable clientele. `[例]`
+>   - 中译：这家夜总会的顾客非常时尚。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/fashionable
 
 ---
 

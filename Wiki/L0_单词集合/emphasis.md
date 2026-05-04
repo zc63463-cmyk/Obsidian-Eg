@@ -129,9 +129,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The school puts a lot of **emphasis** on teaching children to read and write. `` `[COCA-ACAD]` ``
-> - Too much **emphasis** is placed on the desirability of being thin. `` `[COCA-ACAD]` ``
-> - The **emphasis** will be on real situations, real problems and real solutions. `` `[COCA-ACAD]` ``
+> - I think we should put as much emphasis on preventing disease as we do on curing it. `[例]`
+>   - 中译：我认为我们应该像重视治疗一样重视预防疾病。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/emphasis
+> - The emphasis is on the final syllable. `[例]`
+>   - 中译：重点是最后一个音节。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/emphasis
+> - Where do you put the emphasis in the word " controversy "? `[例]`
+>   - 中译：“争议”这个词你强调的重点在哪里？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/emphasis
 
 ---
 

@@ -132,10 +132,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The west of the city was largely unaffected by the bombing." `[COCA-ACAD]`
-> - "The success of almost any project depends largely on its manager." `[COCA-ACAD]`
-> - "Their victory was largely a result of their brilliantly orchestrated election campaign." `[COCA]`
-> - "My advice was largely ignored." `[COCA]`
+> - The bill proved largely popular and sailed through Congress with large majorities in favor. `[真题]`
+>   - 中译：事实证明，该法案很受欢迎，并以绝大多数人的支持顺利通过了国会。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - Still, the decision was largely accepted-and Jackson's photos played a key role in the fight to protect the area. `[真题]`
+>   - 中译：尽管如此，这个决定还是被广泛接受了——杰克逊的照片在保护该地区的斗争中发挥了关键作用。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - Their complaints have been largely ignored. `[例]`
+>   - 中译：他们的抱怨基本上被忽视了。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/largely
 
 ---
 

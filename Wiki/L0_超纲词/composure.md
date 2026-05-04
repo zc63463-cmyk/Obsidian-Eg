@@ -3,10 +3,8 @@ title: "composure"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 人本世界
 prototype: 被放在一起的状态（内心平静、不被打扰）
@@ -43,7 +41,7 @@ com-（一起）+ [[pos-pon-posit]]（放置）+ -ure（名词后缀，表示状
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**被放在一起的状态（内心平静、不被打扰）**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **内心平静的状态**（心理状态层面）
@@ -64,7 +62,7 @@ com-（一起）+ [[pos-pon-posit]]（放置）+ -ure（名词后缀，表示状
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ com-（一起）+ [[pos-pon-posit]]（放置）+ -ure（名词后缀，表示状
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **词根记忆**（优先）：
 > com（一起）+ pos（放）→ compose（使自己安定）→ composure（安定状态=镇定）。"Compose yourself"就是"让自己安定下来"，你的 composure 就是你的"安定程度"。
@@ -83,7 +81,7 @@ com-（一起）+ [[pos-pon-posit]]（放置）+ -ure（名词后缀，表示状
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -96,13 +94,13 @@ com-（一起）+ [[pos-pon-posit]]（放置）+ -ure（名词后缀，表示状
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[agitation]]：焦虑不安（composure 的精确反义：镇定↔不安）
 - - [[panic]]：恐慌（composure 的反义：沉着↔恐慌）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -114,7 +112,7 @@ com-（一起）+ [[pos-pon-posit]]（放置）+ -ure（名词后缀，表示状
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **maintain one's composure**：保持镇定
 > - **lose one's composure**：失去镇定
 > - **with composure**：沉着地
@@ -122,20 +120,13 @@ com-（一起）+ [[pos-pon-posit]]（放置）+ -ure（名词后缀，表示状
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - You may feel nervous but don’t lose your composure in front of the camera . `[例]`
+> [!example]- 语料
+> - You may feel nervous but don’t lose your composure in front of the camera. `[例]`
 > - She answered the difficult interview questions with remarkable composure. `[例]`
 > - The firefighter showed great composure while rescuing the trapped residents from the burning building. `[例]`
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
-
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

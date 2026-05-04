@@ -130,8 +130,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Medical ethics require that patients provide informed consent before undergoing any surgical procedure, ensuring they fully understand the risks and benefits involved."（医学伦理要求患者在接受任何手术前提供知情同意，确保他们充分了解所涉及的风险和益处——考研阅读医疗话题相关表达）
-> - "The government cannot collect personal data without the explicit consent of the individuals concerned, according to the new privacy regulation."（根据新的隐私法规，政府未经相关个人的明确同意不得收集个人数据——考研阅读法律话题相关表达）
+> - The written consent of a parent is required. `[例]`
+>   - 中译：需要家长的书面同意。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/consent
+> - Children under 16 cannot give consent to medical treatment. `[例]`
+>   - 中译：16 岁以下儿童不能同意接受医疗。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/consent
+> - He is charged with taking a car without the owner's consent. `[例]`
+>   - 中译：他被指控未经车主同意擅自取车。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/consent
 
 
 ---

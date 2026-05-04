@@ -134,9 +134,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The Buick she was travelling in crashed into the rear of a tractor and went underneath it. ` `[真题]`
-> - She reared three children on her own after her husband died. ` `[真题]`
-> - You should keep your front and rear lights in good working order. ` `[真题]`
+> - The horse had injured one of its rear legs. `[例]`
+> - Always check your rear view mirror before you overtake another car. `[例]`
+> - A car usually has a driver's seat , a passenger seat and rear seats. `[例]`
 
 
 ---

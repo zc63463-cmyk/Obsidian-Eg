@@ -138,9 +138,15 @@ sub-(在下) + 建议创建词根笔记 [[ordin]](秩序，排列) + -ate(形容
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The individual's needs are subordinate to those of the group . `[例]`
-> - He left the routine checks to one of his subordinates. `[例]`
-> - Dog" is a subordinate of the category " pet ". `[例]`
+> - In some societies women are still subordinate to men. `[例]`
+>   - 中译：在一些社会中，女性仍然处于男性的从属地位。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/subordinate
+> - She was directly subordinate to the president. `[例]`
+>   - 中译：她直接隶属于总统。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/subordinate
+> - The monarch is formally subordinate to Parliament. `[例]`
+>   - 中译：君主正式隶属于议会。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/subordinate
 
 ---
 

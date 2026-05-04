@@ -144,10 +144,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The doctors made one last desperate attempt to save the boy's life. `[COCA-NEWS]`
-> - She saves part of her pay every week. `[COCA-ACAD]`
-> - The performance may have saved him from being eliminated. `[COCA-NEWS]`
-> - It saves time in the kitchen to have things you use a lot within reach. `[COCA-ACAD]`
+> - Wearing seat belts has saved many lives. `[例]`
+>   - 中译：系安全带拯救了许多人的生命。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/save
+> - He fell in the river but his friend saved him from drowning. `[例]`
+>   - 中译：他掉进河里了，但他的朋友救了他，使他免于溺水。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/save
+> - He had to borrow money to save his business. `[例]`
+>   - 中译：他不得不借钱来挽救他的生意。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/save
 
 ---
 

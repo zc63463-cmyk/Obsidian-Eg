@@ -138,9 +138,9 @@ pav(夯实/铺设，拉丁语 *pavire*) + -e
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "This would help pave the way for a human mission to Mars." `[真题]`
-> - "After 1968, most of the city's cobblestone roads were also paved over to prevent the pavers from being used as projectiles in future protests." `[真题]`
-> - "Their unique approach paved the way for an extraordinary leap into the deep earth." `[真题]`
+> - This would help pave the way for a human mission to Mars. `[真题]`
+> - After 1968, most of the city's cobblestone roads were also paved over to prevent the pavers from being used as projectiles in future protests. `[真题]`
+> - Their unique approach paved the way for an extraordinary leap into the deep earth. `[真题]`
 
 
 ---

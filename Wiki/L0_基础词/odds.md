@@ -132,9 +132,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - If you drive a car all your life , the odds are that you'll have an accident at some point . `[例]`
-> - There are heavy odds against people succeeding in such a bad economic climate . `[例]`
-> - What are the odds on him being (= do you think he will be) re-elected ? `[例]`
+> - If you drive a car all your life , the odds are that you'll have an accident at some point. `[例]`
+> - There are heavy odds against people succeeding in such a bad economic climate. `[例]`
+> - What are the odds on him being (= do you think he will be) re-elected? `[例]`
 
 
 ---

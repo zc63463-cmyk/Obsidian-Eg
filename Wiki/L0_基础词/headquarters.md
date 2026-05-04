@@ -129,9 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The company has its European headquarters in Brussels . `[例]`
+> - The company has its European headquarters in Brussels. `[例]`
 > - Regional managers are mostly free to operate without interference from headquarters. `[例]`
-> - The rebel headquarters took a direct hit from a bomb during the attack . `[例]`
+> - The rebel headquarters took a direct hit from a bomb during the attack. `[例]`
 
 
 ---

@@ -138,11 +138,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "qualitative research methods"（定性研究方法）——学术话题高频表达
-> - "There is a qualitative difference between the two approaches."（两种方法之间存在质的差异）——学术/评论语境
-> - "qualitative analysis of the data"（数据的定性分析）——研究语境
-> - "a qualitative change in the situation"（局势的质变）——政治/社会话题
-> - "qualitative and quantitative research"（定性与定量研究）——经典并列表达
+> - Is there any qualitative difference between these two DVD players? `[例]`
+>   - 中译：这两款DVD播放机有什么质的区别吗？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/qualitative
+> - There has been a qualitative change in the relationship between the public and the government. `[例]`
+>   - 中译：公众与政府的关系发生了质的变化。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/qualitative
+> - There’s a qualitative difference between seeing a live performance in a theater and watching a movie. `[例]`
+>   - 中译：在剧院看现场表演和看电影有质的区别。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/qualitative
 
 ---
 

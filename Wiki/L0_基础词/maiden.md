@@ -133,10 +133,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The Titanic sank on its maiden voyage in 1912." `[COCA-NEWS]`
-> - "When she married in 1913, she kept her maiden name, going to court to defend her right to do so." `[COCA-NEWS]`
-> - "She continued to publish journals under her maiden name because most of her recognition was under that name." `[COCA-ACAD]`
-> - "The spacecraft's maiden flight was hailed as a landmark achievement in the nation's space exploration programme." `[例]`
+> - When she married in 1913, she kept her maiden name, going to court to defend her right to do so. `[COCA-NEWS]`
+> - She continued to publish journals under her maiden name because most of her recognition was under that name. `[COCA-ACAD]`
+> - The spacecraft's maiden flight was hailed as a landmark achievement in the nation's space exploration programme. `[例]`
 
 
 ---

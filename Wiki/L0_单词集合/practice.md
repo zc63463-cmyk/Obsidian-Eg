@@ -129,9 +129,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "But in the everyday practice of science, discovery frequently follows an ambiguous and complicated route." `` `[真题]` ``
-> - "We are beginning to put the new processes and systems into practice." `` `[COCA-ACAD]` ``
-> - "It is common practice to check references before hiring." `` `[COCA-ACAD]` ``
+> - Such practices can lead an article to accrue more than 150 citations in the same year that it was published. `[真题]`
+>   - 中译：这种做法可能会导致一篇文章在发表当年就获得超过 150 次引用。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - How do you intend to put these proposals into practice, Mohamed? `[例]`
+>   - 中译：穆罕默德，您打算如何将这些建议付诸实践？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/practice
+> - It seemed like a good idea before we started , but in practice it was a disaster. `[例]`
+>   - 中译：在我们开始之前这似乎是个好主意，但实际上却是一场灾难。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/practice
 ---
 
 

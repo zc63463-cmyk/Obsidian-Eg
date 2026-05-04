@@ -130,9 +130,15 @@ brush（源自中古英语 *brussh*，可能来自古法语 *broisse*，灌木�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - I can't find my brush, but I still have my comb . `[例]`
-> - A scrubbing ( US scrub ) brush. `[例]`
-> - These shoes need a good brush. `[例]`
+> - A tiled floor is easy to brush clean. `[例]`
+>   - 中译：瓷砖地板很容易刷干净。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/brush
+> - I brushed the dirt off my jacket. `[例]`
+>   - 中译：我掸掉夹克上的污垢。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/brush
+> - He pulled out a handkerchief and brushed away the tears. `[例]`
+>   - 中译：他掏出手帕擦掉眼泪。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/brush
 
 
 ---

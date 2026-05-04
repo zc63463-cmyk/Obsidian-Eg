@@ -128,8 +128,8 @@ review_count: 0
 
 > [!example]- 语料
 > - It's tempting to buy all of this stuff on tick. `[例]`
-> - The ticking of the clock kept her awake . `[例]`
-> - That clock ticks too loudly . `[例]`
+> - The ticking of the clock kept her awake. `[例]`
+> - That clock ticks too loudly. `[例]`
 
 
 ---

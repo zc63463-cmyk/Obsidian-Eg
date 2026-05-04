@@ -131,9 +131,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - In my country , it's the custom for women to get married in white . `[例]`
-> - He left the house at nine exactly , as is his custom. `[例]`
-> - Most of our custom comes from tourists nowadays . `[例]`
+> - It's a local custom. `[例]`
+>   - 中译：这是当地的风俗习惯。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/custom
+> - She grew up with Chinese customs and traditions. `[例]`
+>   - 中译：她是在中国的习俗和传统中长大的。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/custom
+> - According to custom, one son inherited all the family property. `[例]`
+>   - 中译：按照习俗，一个儿子继承了全部家庭财产。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/custom
 
 
 ---

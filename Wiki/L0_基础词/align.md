@@ -132,9 +132,15 @@ a-(=ad-, 向，朝向) + line（线，拉丁语 *linea*）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - When you've aligned the notch on the gun with the target , fire ! `[例]`
-> - Make sure the columns align in the chart . `[例]`
-> - The post was deleted because it did not align with the values of this website . `[例]`
+> - Make sure the shelf is aligned with the top of the cupboard. `[例]`
+>   - 中译：确保架子与橱柜顶部对齐。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/align
+> - The top and bottom line of each column on the page should align. `[例]`
+>   - 中译：页面上每列的顶线和底线应对齐。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/align
+> - Domestic prices have been aligned with those in world markets. `[例]`
+>   - 中译：国内价格已与世界市场价格保持一致。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/align
 
 
 ---

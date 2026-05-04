@@ -133,9 +133,15 @@ re-(向后/对抗) + [[sist|sist→站立]](站立) + -ance(名词后缀，表�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Quebec's resistance to a national agency is provincialist ideology." `[真题]`
-> - "They have shown a stubborn resistance to change." `[COCA-ACAD]`
-> - "Over time the patient could develop a resistance to the drug." `[COCA-ACAD]`
+> - Government troops offered no resistance ( to the rebels ). `[例]`
+>   - 中译：政府军没有（对叛军）进行抵抗。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/resistance
+> - There's a lot of resistance (= opposition ) to the idea of a united Europe. `[例]`
+>   - 中译：对于统一欧洲的想法存在很多阻力（=反对）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/resistance
+> - Copper has (a) low resistance. `[例]`
+>   - 中译：铜具有 (a) 低电阻。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/resistance
 
 
 ---

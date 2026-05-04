@@ -127,8 +127,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The school encourages artistic expression through music, drama, and visual arts."（学校通过音乐、戏剧和视觉艺术鼓励艺术表达）
-> - "She has an artistic temperament that makes her sensitive to beauty in everyday life."（她具有艺术气质，使她对日常生活中的美很敏感）
+> - Love is a time-honoured subject of literary and artistic expression. `[例]`
+>   - 中译：爱情是一个历史悠久的文学艺术表现题材。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/artistic
+> - She comes from a very artistic family. `[例]`
+>   - 中译：她来自一个非常艺术的家庭。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/artistic
+> - The decor inside the house was very artistic. `[例]`
+>   - 中译：房子里面的装饰非常有艺术感。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/artistic
 
 
 ---

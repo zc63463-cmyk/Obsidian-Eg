@@ -122,9 +122,15 @@ tri-(三) + via(路) + -al(形容词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - I don't know why he gets so upset about something so trivial. `[例]`
-> - Sexual harassment in the workplace is not a trivial matter . `[例]`
-> - Getting computers to understand human language is not a trivial problem . `[例]`
+> - I know it sounds trivial , but I'm worried about it. `[例]`
+>   - 中译：我知道这听起来微不足道，但我很担心。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/trivial
+> - I'll try to fix it—but it's not trivial (= it may be difficult to fix). `[例]`
+>   - 中译：我会尝试修复它，但这并不是一件小事（=它可能很难修复）。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/trivial
+> - His later memory, untutored and unsupported by anything so trivial as evidence or documents, now flourished and ran wild. `[例]`
+>   - 中译：他后来的记忆未经训练，也没有任何证据或文件等琐碎的东西支持，现在却蓬勃发展并疯狂起来。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/trivial
 
 ---
 

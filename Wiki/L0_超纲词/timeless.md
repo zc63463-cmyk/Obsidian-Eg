@@ -3,10 +3,8 @@ title: "timeless"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-25
-mastery: L0
 word_freq: 超纲词
 semantic_field: 抽象关系
 prototype: 永恒的，不受时间影响的（超越时间的）
@@ -43,7 +41,7 @@ time（时间）+ -less（没有…的，否定后缀）。
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**永恒的**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **永恒的**（时间层面）
@@ -62,7 +60,7 @@ time（时间）+ -less（没有…的，否定后缀）。
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -73,7 +71,7 @@ time（时间）+ -less（没有…的，否定后缀）。
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > time（时间）+ -less（没有）= timeless（没有时间限制的）。莫扎特的音乐是 timeless 的——几百年后依然动听。一条 little black dress（小黑裙）是 timeless fashion（永不过时的时尚）。timeless 就是"时间拿它没办法"。
@@ -85,7 +83,7 @@ time（时间）+ -less（没有…的，否定后缀）。
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -98,14 +96,14 @@ time（时间）+ -less（没有…的，否定后缀）。
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[temporary]]：暂时的（timeless 的反义：永恒的↔暂时的）
 > - [[outdated]]：过时的（timeless 的反义：永不过时的↔过时的）
 - [[ephemeral]]：短暂的（timeless 的反义：永恒的↔短暂的）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,7 +115,7 @@ time（时间）+ -less（没有…的，否定后缀）。
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **timeless beauty**：永恒的美
 > - **timeless classic**：经典之作
 > - **timeless design**：永不过时的设计
@@ -126,19 +124,12 @@ time（时间）+ -less（没有…的，否定后缀）。
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - The city has a timeless quality as if it had existed forever . `[例]`
-> - Rothko's paintings have a timeless quality . `[例]`
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-25 | **复习次数**：0 | **当前等级**：L0
-
----
+> [!example]- 语料
+> - The city has a timeless quality as if it had existed forever. `[例]`
+> - Rothko's paintings have a timeless quality. `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

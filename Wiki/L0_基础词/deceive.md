@@ -128,7 +128,7 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The company deceived customers by selling old computers as new ones . `[例]`
+> - The company deceived customers by selling old computers as new ones. `[例]`
 > - The sound of the door closing deceived me into thinking they had gone out. `[例]`
 > - She thinks he'll come back, but she's deceiving herself. `[例]`
 

@@ -139,11 +139,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - We need to cross the bridge to get to the other side of the river. `[真题]`
-> - The only access to the city is across the bridge. `[真题]`
-> - It never crossed my mind that he might be lying. `[真题]`
-> - She was cross with him for being late again. `[真题]`
-> - Cross out any words that you don't need. `[真题]`
+> - As soon as traffic slowed down enough to safely cross, I started walking. `[例]`
+>   - 中译：当车流减慢到足以安全过马路时，我就开始步行。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/cross
+> - I waved and she crossed over (= crossed the road towards me). `[例]`
+>   - 中译：我挥手，她就跨过去了（=穿过马路向我走来）。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/cross
+> - He crossed over from the other side of the road. `[例]`
+>   - 中译：他从马路的另一边过去了。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/cross
 
 
 ---

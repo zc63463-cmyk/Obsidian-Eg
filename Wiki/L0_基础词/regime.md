@@ -132,8 +132,7 @@ reg-(统治，拉丁语 *regere*，与 [[regard]] 同源) + -ime(名词后缀)
 > [!example]- 语料
 > - When public opinion is particularly polarised, as it was following the end of the Franco regime, monarchs can rise above 'mere' politics and 'embody' a spirit of national unity. `[真题]`
 > - Born in the crisis of the old regime and Iberian Colonialism, many of the leaders of independence shared the ideals of representative government. `[真题]`
-> - The people finally rose up and overthrew the reactionary regime. `[权威词典]`
-> - The present regime has been in power for two years. `[权威词典]`
+> - The present regime has been in power for two years. `[例]`
 
 
 ---

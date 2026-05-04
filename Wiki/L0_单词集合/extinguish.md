@@ -128,9 +128,15 @@ ex-（出，完全）+ [[st-sta-stat|stinct/stingu]]（=stingere，刺，标记�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "This exploitation has reached such extremes that presently it appears that some hundreds of thousands of species will be extinguished before the end of the century."（这种开发已达到如此极端的程度，以至于目前看来，数十万个物种将在本世纪末之前灭绝。）——考研高频表达
-> - "News of the bombing extinguished all hope of peace."（轰炸的消息使和平的希望全部破灭。）——考研高频表达
-> - "Firefighters tried to extinguish the flames before they spread to nearby buildings."（消防队员试图在火势蔓延到附近建筑物之前将火焰扑灭。）——考研高频表达
+> - It took the firefighters several hours to extinguish the flames. `[例]`
+>   - 中译：消防队员花了几个小时才将火扑灭。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/extinguish
+> - Nothing could extinguish his love for her. `[例]`
+>   - 中译：没有什么可以浇灭他对她的爱。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/extinguish
+> - It took the firefighters four hours to extinguish the flames. `[例]`
+>   - 中译：消防队员花了四个小时才将大火扑灭。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/extinguish
 
 ---
 

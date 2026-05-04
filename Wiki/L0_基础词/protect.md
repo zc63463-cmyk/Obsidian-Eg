@@ -127,13 +127,13 @@ pro-(向前/在前) + tect(覆盖，拉丁语 *tegere*)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - The visualization, particularly those photographs, really hit home that this is something that has to be protected, " says Murphy. `[真题]`
 > - In quick succession, the Senate and House passed legislation protecting Yell ow stone in early 1872. `[真题]`
 > - Still, the decision was largely accepted-and Jackson's photos played a key role in the fight to protect the area. `[真题]`
 > - Clothing that protects you against the cold. `[例]`
-> - It's important to protect your skin from the harmful effects of the sun . `[例]`
-> - Surely the function of the law is to protect everyone's rights . `[例]`
+> - It's important to protect your skin from the harmful effects of the sun. `[例]`
+> - Surely the function of the law is to protect everyone's rights. `[例]`
 
 
 ---

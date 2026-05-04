@@ -3,10 +3,8 @@ title: "framer"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 社会专业
 prototype: 制定者（制定框架或规则的人）
@@ -42,7 +40,7 @@ frame(框架，结构) + -er(人/物)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**制定者**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **制定者**（制度层面）
@@ -63,7 +61,7 @@ frame(框架，结构) + -er(人/物)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ frame(框架，结构) + -er(人/物)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > frame（框架）+ -er（人）= framer（制定者）。画框是 frame，给画装框的人是 framer。引申为"给法律/政策装框的人"——制定者。The Framers of the US Constitution 就是美国宪法制定者。他们给整个国家"搭了框架"。
@@ -86,7 +84,7 @@ frame(框架，结构) + -er(人/物)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,12 +97,12 @@ frame(框架，结构) + -er(人/物)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[abolisher]]：废除者（framer↔abolisher：制定者↔废除者）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -115,26 +113,19 @@ frame(框架，结构) + -er(人/物)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **the Framers of the Constitution**：宪法制定者
 > - **policy framers**：政策制定者
 > - **framers of the agreement**：协议制定者
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - She is a picture framer for a local gallery . `[例]`
+> [!example]- 语料
+> - She is a picture framer for a local gallery. `[例]`
 > - When she finishes a painting , she takes it immediately to her framer. `[例]`
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

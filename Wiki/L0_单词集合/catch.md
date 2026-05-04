@@ -137,10 +137,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "I ran fast but still missed the bus — I couldn't catch it."（我跑得很快但还是没赶上公交车）——日常话题
-> - "She caught a severe cold during the winter vacation."（她在寒假期间染上了重感冒）——健康话题
-> - "Sorry, I didn't quite catch what you said. Could you repeat that?"（抱歉，我没太听懂你说的话，能重复一下吗？）——社交话题
-> - "The advertisement is designed to catch the attention of young consumers."（这则广告旨在吸引年轻消费者的注意）——商业话题
+> - I managed to catch the glass before it hit the ground. `[例]`
+>   - 中译：我在玻璃落地之前设法接住了它。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/catch
+> - Our dog ran past me and out of the house before I could catch it. `[例]`
+>   - 中译：我还没来得及抓住我们的狗，它就从我身边跑过，跑出了屋子。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/catch
+> - We placed saucepans on the floor to catch (= collect ) the drops of water coming through the roof. `[例]`
+>   - 中译：我们在地板上放置平底锅来接住（=收集）从屋顶流下的水滴。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/catch
 
 ---
 

@@ -127,7 +127,7 @@ deck 源自中古荷兰语 *dek*（覆盖物），与 to cover（覆盖）有关
 ## 真题/语料关联
 
 > [!example]- 语料
-> - We sat on deck until it was dark . `[例]`
+> - We sat on deck until it was dark. `[例]`
 > - Our cabin was below decks. `[例]`
 > - A new deck of cards. `[例]`
 

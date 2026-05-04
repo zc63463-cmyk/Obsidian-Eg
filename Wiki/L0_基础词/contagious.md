@@ -124,9 +124,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Keep him out of school until he's not contagious anymore." `[COCA-SPOK]`
-> - "Measles is a highly contagious disease." `[COCA-ACAD]`
-> - "His presence was warm and his wit was contagious." `[COCA-FICT]`
+> - Scarlet fever is highly contagious. `[例]`
+>   - 中译：猩红热具有高度传染性。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/contagious
+> - His enthusiasm was contagious (= spread quickly to other people). `[例]`
+>   - 中译：他的热情具有感染力（=迅速传播给其他人）。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/contagious
+> - The new disease proved contagious. `[例]`
+>   - 中译：这种新疾病被证明具有传染性。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/contagious
 
 
 ---

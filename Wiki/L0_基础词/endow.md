@@ -127,8 +127,8 @@ en-(=in-, 放入，使) + dow(给予，源自古法语 *douer*，拉丁语 *dota
 
 > [!example]- 语料
 > - The wealthy couple endowed a new wing of the hospital. `[例]`
-> - The state of Michigan has endowed three institutes to do research for industry . `[例]`
-> - This hospital was endowed by the citizens of Strasbourg in the 16th century . `[例]`
+> - The state of Michigan has endowed three institutes to do research for industry. `[例]`
+> - This hospital was endowed by the citizens of Strasbourg in the 16th century. `[例]`
 
 
 ---

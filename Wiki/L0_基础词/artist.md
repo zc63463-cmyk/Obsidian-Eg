@@ -124,10 +124,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The festival has an amazing line-up of both new and established artists. `[COCA-NEWS]`
-> - He described her as one of the greatest film artists of the 20th century. `[COCA-ACAD]`
-> - He is an exceptional footballer — an artist. `[COCA-NEWS]`
-> - This guy sounds like an experienced con artist. `[COCA-SPOKEN]`
+> - In Paris she met a group of young artists: poets, film-makers and painters. `[例]`
+>   - 中译：在巴黎，她遇到了一群年轻艺术家：诗人、电影制片人和画家。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/artist
+> - This is an artist's impression of the new stadium. `[例]`
+>   - 中译：这是新体育场的艺术想象图。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/artist
+> - Whoever made this cake is a real artist. `[例]`
+>   - 中译：制作这个蛋糕的人是一位真正的艺术家。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/artist
 
 
 ---

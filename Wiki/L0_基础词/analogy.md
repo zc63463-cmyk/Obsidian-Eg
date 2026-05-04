@@ -126,9 +126,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - It is sometimes easier to illustrate an abstract concept by analogy with (= by comparing it with) something concrete . `[例]`
-> - He was explaining that the mind has no form and is invisible , and that a useful analogy is of the mind being like the sky . `[例]`
+> - There are no analogies with any previous legal cases. `[例]`
+>   - 中译：与之前的任何法律案例都没有类比。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/analogy
 > - We can understand this theory by analogy with human beings. `[例]`
+>   - 中译：我们可以通过类比人类来理解这个理论。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/analogy
+> - He does, though, suffer from the occupational deformation of international relations specialists: an enthusiasm for ransacking the past in search of precedents, analogies , patterns, and cycles that might explain the present and forecast the future. `[例]`
+>   - 中译：不过，他确实遭受了国际关系专家职业变形的困扰：热衷于搜寻过去，寻找可以解释现在并预测未来的先例、类比、模式和周期。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/analogy
 
 
 ---

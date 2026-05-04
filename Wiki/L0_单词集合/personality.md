@@ -119,9 +119,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - A person's personality is shaped by both genetic factors and environmental influences. `[真题]`
-> - Her outgoing personality and strong sense of humour made her a popular teacher. `[COCA-ACAD]`
-> - The success of a team depends not only on individual skills but also on the personalities of its members. `[COCA-ACAD]`
+> - She has a very warm personality. `[例]`
+>   - 中译：她的性格非常热情。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/personality
+> - He is well qualified for the job , but he does lack personality (= he is a boring person ). `[例]`
+>   - 中译：他很适合这份工作，但他确实缺乏个性（=他是一个无聊的人）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/personality
+> - She has a really intriguing personality. `[例]`
+>   - 中译：她的个性非常有趣。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/personality
 
 
 ---

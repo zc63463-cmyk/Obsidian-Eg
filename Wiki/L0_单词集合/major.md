@@ -144,10 +144,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - `Fresh fruits are a major source of vitamin C.` `[COCA-ACAD]`
-> - `Smoking is one of the major causes of cancer.` `[COCA-ACAD]`
-> - `The loss of their goalkeeper through injury was a major setback for the team.` `[COCA-NEWS]`
-> - `Britain played a major role in the negotiations.` `[COCA-NEWS]`
+> - All of her major plays have been translated into English. `[例]`
+>   - 中译：她所有的主要戏剧都被翻译成英文。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/major
+> - Sugar is a major cause of tooth decay. `[例]`
+>   - 中译：糖是蛀牙的主要原因。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/major
+> - There are two problems with this situation , one major, one minor. `[例]`
+>   - 中译：这种情况有两个问题，一大一小。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/major
 
 ---
 

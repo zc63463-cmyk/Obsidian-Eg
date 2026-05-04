@@ -143,11 +143,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The explosion reduced the church to a mass of rubble. `[COCA-ACAD]`
-> - I began sifting through the mass of evidence. `[COCA-ACAD]`
-> - Mass production has led to lower costs for many consumer items. `[COCA-ACAD]`
-> - The hill appeared as a black mass in the distance. `[COCA-FIC]`
-> - A huge mass of material has been organized into a clear narrative. `[COCA-ACAD]`
+> - He believed he was defending his country from a serious threat from weapons of mass destruction. `[例]`
+>   - 中译：他相信他正在保卫自己的国家免受大规模杀伤性武器的严重威胁。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/mass
+> - What drives a person to commit mass murder? `[例]`
+>   - 中译：是什么驱使一个人进行大规模谋杀？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/mass
+> - He was one of history's worst mass murderers. `[例]`
+>   - 中译：他是历史上最严重的大屠杀凶手之一。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/mass
 
 ---
 

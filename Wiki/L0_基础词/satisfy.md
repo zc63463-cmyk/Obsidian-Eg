@@ -128,10 +128,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "To satisfy the increasing demand for clean energy, governments around the world are investing heavily in renewable energy sources such as wind and solar power." `[真题]`
-> - "The researchers conducted a series of experiments to satisfy themselves that the results were reliable and could be replicated." `[真题]`
-> - "The request failed to satisfy the criteria for obtaining such a warrant." `[权威语料]`
-> - "The classical approaches do not fully satisfy the needs of the synthetic chemist." `[权威语料]`
+> - To satisfy the increasing demand for clean energy, governments around the world are investing heavily in renewable energy sources such as wind and solar power. `[真题]`
+> - The researchers conducted a series of experiments to satisfy themselves that the results were reliable and could be replicated. `[真题]`
+> - The request failed to satisfy the criteria for obtaining such a warrant. `[例]`
+> - The classical approaches do not fully satisfy the needs of the synthetic chemist. `[例]`
 
 
 ---

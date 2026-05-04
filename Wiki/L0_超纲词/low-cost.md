@@ -3,10 +3,8 @@ title: "low-cost"
 tags:
   - 学习/英语/词汇
   - 语义场/资本经济
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 资本经济
 prototype: 低成本的（花费少的）
@@ -43,7 +41,7 @@ low（低的）+ cost（成本）→ **低成本的**
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**成本低的**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **成本低的**（经济层面）
@@ -64,7 +62,7 @@ low（低的）+ cost（成本）→ **低成本的**
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ low（低的）+ cost（成本）→ **低成本的**
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **词拆分记忆**：
 > low（低）+ cost（成本/花费）→ 成本低的。low-cost airline 就是"低成本航空"——不提供免费餐食、座位间距小，但票价便宜。
@@ -86,7 +84,7 @@ low（低的）+ cost（成本）→ **低成本的**
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ low（低的）+ cost（成本）→ **低成本的**
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[high-cost]]：高成本的（low-cost ↔ high-cost，精确反义）
 > - [[expensive]]：昂贵的（低成本 ↔ 昂贵）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -116,7 +114,7 @@ low（低的）+ cost（成本）→ **低成本的**
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **low-cost airline/carrier**：低成本航空公司
 > - **low-cost housing**：低成本住房
 > - **low-cost solution**：低成本的解决方案
@@ -125,19 +123,12 @@ low（低的）+ cost（成本）→ **低成本的**
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - The function of the "milk cow" journals is to __ _ A. boost citation counts for certain authors B. help scholars publish articles at low cost C. instruct first-time contributors in citation D. increase the readership of new journals 39. `[真题]`
-> - The 1990s saw a huge increase in the numbers of low-cost airlines . `[例]`
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
+> [!example]- 语料
+> - The researchers proposed a low cost solution to the problem. `[真题]`
+> - The 1990s saw a huge increase in the numbers of low-cost airlines. `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

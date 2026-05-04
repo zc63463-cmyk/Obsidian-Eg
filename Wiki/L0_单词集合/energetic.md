@@ -119,10 +119,15 @@ en-(=in, 在…中) + erg(=ergon, work/能量) + -etic(形容词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The dancers gave an energetic, thrilling, and polished performance which delighted everyone in the audience. `[COCA-ACAD]`
-> - Captain Nagumo was a capable, intelligent, and energetic officer. `[COCA-ACAD]`
-> - The outdoor centre organizes lots of energetic activities for the kids, like cycling and canoeing. `[COCA-ACAD]`
-> - He seemed a dynamic and energetic leader. `[例]`
+> - I tried aerobics but it was too energetic for me. `[例]`
+>   - 中译：我尝试过有氧运动，但它对我来说太精力充沛了。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/energetic
+> - The dancers gave an energetic, thrilling , and polished performance which delighted everyone in the audience. `[例]`
+>   - 中译：舞者们的表演充满活力、惊心动魄、优美动人，让在场的每个人都为之惊叹。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/energetic
+> - The outdoor centre organizes lots of energetic activities for the kids , like cycling and canoeing. `[例]`
+>   - 中译：户外中心为孩子们组织许多充满活力的活动，如骑自行车和划独木舟。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/energetic
 
 ---
 

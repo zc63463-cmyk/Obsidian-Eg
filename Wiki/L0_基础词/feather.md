@@ -131,9 +131,9 @@ feather 源自古英语 *fether*，与拉丁语 *penna*（羽毛）无关，为�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - I like to sleep on a firm mattress with feather pillows (= those containing feathers) . `[例]`
+> - I like to sleep on a firm mattress with feather pillows (= those containing feathers). `[例]`
 > - The bird ruffled its feathers. `[例]`
-> - The bird has grey feathers with a lighter collar . `[例]`
+> - The bird has grey feathers with a lighter collar. `[例]`
 
 
 ---

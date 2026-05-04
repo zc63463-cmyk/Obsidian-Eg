@@ -3,10 +3,8 @@ title: "woodland"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-25
-mastery: L0
 word_freq: 超纲词
 semantic_field: 自然物理
 prototype: 长满树木的土地
@@ -44,7 +42,7 @@ wood（树木/木头，古英语 *wudu*）+ land（土地，古英语 *land*）
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**长满树木的土地**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **长满树木的土地**（物理层面）
@@ -65,7 +63,7 @@ wood（树木/木头，古英语 *wudu*）+ land（土地，古英语 *land*）
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ wood（树木/木头，古英语 *wudu*）+ land（土地，古英语 *land*）
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > wood（树木）+ land（土地）= woodland（林地）。想象你站在一座小山丘上，眼前是一片绵延的绿色——不是密不透风的森林，而是树木与草地交织的开阔林地。松鼠在枝头跳跃，野兔在灌木丛中穿行。这片 wood 覆盖的 land，就是 woodland——比 forest 温柔，比 park 野性。
@@ -88,7 +86,7 @@ wood（树木/木头，古英语 *wudu*）+ land（土地，古英语 *land*）
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ wood（树木/木头，古英语 *wudu*）+ land（土地，古英语 *land*）
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[grassland]]：草地（woodland 的反义：林地↔草地）
 > - [[clearing]]：空地（woodland 内部的反义：有树↔无树）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,7 +117,7 @@ wood（树木/木头，古英语 *wudu*）+ land（土地，古英语 *land*）
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **ancient woodland**：古老林地
 > - **woodland management**：林地管理
 > - **woodland habitat**：林地栖息地
@@ -128,19 +126,12 @@ wood（树木/木头，古英语 *wudu*）+ land（土地，古英语 *land*）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - The group has raised money to preserve over two million acres of woodland. `[例]`
 > - Some very rare and special plants grow in these woodlands. `[例]`
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-25 | **复习次数**：0 | **当前等级**：L0
-
----
-
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

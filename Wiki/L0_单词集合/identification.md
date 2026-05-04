@@ -131,9 +131,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Passengers are required to show valid identification before boarding."（考研英语——乘客需出示有效身份证明）
-> - "Eyewitness identification is not always reliable in criminal trials."（IELTS——目击者辨认在刑事审判中并不总是可靠）
-> - "The identification of patterns in large datasets requires sophisticated algorithms."（GRE——在大型数据集中识别模式需要复杂算法）
+> - Most of the bodies were badly burned , making identification almost impossible. `[例]`
+>   - 中译：大部分尸体都被严重烧毁，几乎无法辨认。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/identification
+> - We were asked to show some identification before the security guards would let us in. `[例]`
+>   - 中译：在保安让我们进去之前，我们被要求出示一些身份证明。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/identification
+> - The security guards gave me the once-over , but they didn't ask me for any identification. `[例]`
+>   - 中译：保安扫了我一眼，但没有要求我出示任何身份证明。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/identification
 
 ---
 

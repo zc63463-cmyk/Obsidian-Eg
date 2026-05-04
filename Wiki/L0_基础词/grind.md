@@ -132,8 +132,9 @@ grind 源自古英语 *grindan*（磨碎），与 [[grin]]（咧嘴笑）共享�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "If traffic increases beyond a certain level, the city grinds to a halt."（如果交通流量超过一定水平，这座城市就会慢慢陷入瘫痪——剑桥词典例句）
-> - "Without advertising, business would grind to a halt."（如果没有广告，商业活动就会慢慢停止——剑桥词典例句）
+> - Shall I grind a little black pepper over your salad? `[例]`
+> - They grind the grain into flour (= make flour by crushing grain ) between two large stones. `[例]`
+> - She has a set of chef's knives that she grinds every week. `[例]`
 
 
 ---

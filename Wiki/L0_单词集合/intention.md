@@ -127,9 +127,15 @@ in-(=into/toward, 向内/朝向) + [[tend-tens|tens]](=伸展，*tendere* 的过
 ## 真题/语料关联
 
 > [!example]- 语料
-> - It has never been the intention of the government that the reforms should deny compensation to genuine applicants. `[COCA-ACAD]`
-> - I have no intention of retiring just yet. `[COCA-ACAD]`
-> - He has announced his intention to retire. `[COCA-ACAD]`
+> - I've no intention of changing my plans just to fit in with his. `[例]`
+>   - 中译：我无意为了适应他的计划而改变我的计划。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/intention
+> - It has never been the intention of the government that the reforms should deny compensation to genuine applicants. `[例]`
+>   - 中译：政府的本意从来都不是改革应该拒绝向真正的申请人提供补偿。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/intention
+> - He's full of good intentions, but he never does anything about them! `[例]`
+>   - 中译：他满怀善意，却从来没有付诸行动！
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/intention
 
 ---
 

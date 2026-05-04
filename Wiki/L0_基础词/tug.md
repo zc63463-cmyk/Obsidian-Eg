@@ -124,9 +124,9 @@ tug 为日耳曼语源词（中古英语 *tuggen*），可能源自古诺斯语 
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Tom tugged at his mother's arm . `[例]`
+> - Tom tugged at his mother's arm. `[例]`
 > - Feeling a tug at his sleeve , he turned to see Joe beside him. `[例]`
-> - We tugged the sled up the hill . `[例]`
+> - We tugged the sled up the hill. `[例]`
 
 
 ---

@@ -125,9 +125,15 @@ bureau 源自古法语 *burel*（粗羊毛布），*bureau* 原指"铺着粗布�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Her disappearance was reported to the police department's Missing Persons Bureau. `[例]`
-> - You’ve got to go to the Bureau of Motor Vehicles to renew your driver’s license . `[例]`
-> - The Citizen's Advice Bureau can advise you about debt problems . `[例]`
+> - I came across the paperwork in an old bureau of hers. `[例]`
+>   - 中译：我在她的旧办公室里发现了这些文件。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bureau
+> - She works for an employment bureau. `[例]`
+>   - 中译：她在就业局工作。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bureau
+> - Detectives with the homicide bureau have since taken over the investigation. `[例]`
+>   - 中译：凶杀案调查局的侦探已接手调查。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/bureau
 
 
 ---

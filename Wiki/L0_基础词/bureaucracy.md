@@ -123,9 +123,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - I had to deal with the university's bureaucracy when I was applying for financial aid . `[例]`
-> - The city’s bureaucracy is almost unmanageable . `[例]`
-> - The president wants to add more bureaucracy to our daily lives . `[例]`
+> - We need to reduce paperwork and bureaucracy in the company. `[例]`
+>   - 中译：我们需要减少公司的文书工作和官僚作风。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bureaucracy
+> - We are living in a modern bureaucracy. `[例]`
+>   - 中译：我们生活在一个现代官僚体系中。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bureaucracy
+> - As Europe slipped deeper into the war, the uranium panel twiddled its thumbs. It was so mired in bureaucracy that by the spring of 1940, it had managed to approve only the $6,000 in research funds earmarked for Fermi and Szilard, so they could purchase uranium and graphite for their fission experiments. `[例]`
+>   - 中译：随着欧洲在战争中越陷越深，铀专家小组也开始闲置。它深陷官僚主义的泥潭，以至于到 1940 年春天，它只成功批准了专门用于费米和西拉德的 6,000 美元研究资金，以便他们能够购买铀和石墨用于裂变实验。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/bureaucracy
 
 
 ---

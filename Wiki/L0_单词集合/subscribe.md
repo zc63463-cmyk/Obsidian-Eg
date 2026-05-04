@@ -134,9 +134,15 @@ sub-(在下) + 建议创建词根笔记 [[scrib/script]](写) = 在下面写上�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She subscribes to several women's magazines . `[例]`
-> - Existing shareholders subscribed to only 49 percent of the new share issue . `[例]`
-> - She subscribes to a couple of magazines . `[例]`
+> - Which journals does the library subscribe to? `[例]`
+>   - 中译：图书馆订阅哪些期刊？
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/subscribe
+> - We subscribe to several sports channels (= on TV). `[例]`
+>   - 中译：我们订阅了几个体育频道（=电视）。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/subscribe
+> - He subscribed to a newsgroup (= on the internet). `[例]`
+>   - 中译：他订阅了新闻组（=在互联网上）。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/subscribe
 
 ---
 

@@ -116,9 +116,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - They were afraid to complain about the noise lest they annoyed the neighbours . `[例]`
-> - The visitors ' book has messages from people from all over the world , who write things such as "Lest we forget . `[例]`
-> - Lest we forget , the internet was a media space before it was a marketplace . `[例]`
+> - They were afraid to complain about the noise lest they annoyed the neighbours. `[例]`
+> - The visitors ' book has messages from people from all over the world , who write things such as "Lest we forget. `[例]`
+> - Lest we forget , the internet was a media space before it was a marketplace. `[例]`
 
 
 ---

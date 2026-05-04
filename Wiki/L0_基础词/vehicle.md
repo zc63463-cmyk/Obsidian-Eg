@@ -125,10 +125,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Language is the primary vehicle for human communication." `[真题]`
-> - "The government is promoting the use of electric vehicles to reduce emissions." `[真题]`
-> - "Art can serve as a vehicle for social change and cultural expression." `[权威语料]`
-> - "The number of thefts of motor vehicles rose by a third last year." `[权威语料]`
+> - Language is the primary vehicle for human communication. `[真题]`
+> - The government is promoting the use of electric vehicles to reduce emissions. `[真题]`
+> - Art can serve as a vehicle for social change and cultural expression. `[例]`
+> - The number of thefts of motor vehicles rose by a third last year. `[例]`
 
 
 ---

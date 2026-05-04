@@ -130,8 +130,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Mist, fog, and snow are common in this area . `[例]`
-> - Thick fog has made driving conditions dangerous . `[例]`
+> - Mist, fog, and snow are common in this area. `[例]`
+> - Thick fog has made driving conditions dangerous. `[例]`
 > - Their flight was cancelled because of heavy fog. `[例]`
 
 

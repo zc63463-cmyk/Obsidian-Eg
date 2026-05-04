@@ -135,9 +135,15 @@ chest 源自古法语 *cheste*（箱子），进一步追溯至拉丁语 *cista*
 ## 真题/语料关联
 
 > [!example]- 语料
-> - He was shot in the chest at point blank range . `[例]`
-> - He folded his arms across his chest. `[例]`
-> - His shirt was open to the waist revealing a very hairy chest. `[例]`
+> - She gasped for breath, her chest heaving. `[例]`
+>   - 中译：她喘着粗气，胸口剧烈起伏。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/chest
+> - She pulled her knees to her chest, and hugged them tight. `[例]`
+>   - 中译：她把膝盖拉到胸前，紧紧地抱住它们。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/chest
+> - Why not tell her how you feel? It might do you good to get it off your chest. `[例]`
+>   - 中译：为什么不告诉她你的感受呢？把它从心里吐出来可能对你有好处。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/chest
 
 
 ---

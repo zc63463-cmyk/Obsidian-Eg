@@ -128,9 +128,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Darwinism seems to offer justification, for if all humans share common origins, it seems reasonable to suppose that cultural diversity could also be traced to more constrained beginnings. `[真题]`
-> - They could still invalidate Fourth Amendment protections when facing severe, urgent circumstances, and they could take reasonable measures to ensure that phone data are not erased or altered while a warrant is pending. `[真题]`
-> - It is not reasonable to expect people to carry around a reusable cup. `[COCA-ACAD]`
+> - If you tell him what happened , I'm sure he'll understand - he's a reasonable man. `[例]`
+>   - 中译：如果你告诉他发生了什么事，我相信他会理解的——他是一个通情达理的人。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/reasonable
+> - He went free because the jury decided there was a reasonable doubt about his guilt. `[例]`
+>   - 中译：他被释放是因为陪审团认为对他的罪行有合理的怀疑。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/reasonable
+> - We had a reasonable journey. `[例]`
+>   - 中译：我们度过了一段合理的旅程。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/reasonable
 
 ---
 

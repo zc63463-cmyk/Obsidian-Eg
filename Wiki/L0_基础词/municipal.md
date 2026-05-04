@@ -125,8 +125,8 @@ muni-(=munis，公共义务/服务，源自拉丁语 *munus*) + cip(=cap，拿/�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Orange County issued $1 billion in municipal securities . `[例]`
-> - State and local issuers are swamping investors with about $2.4 billion in new municipal debt . `[例]`
+> - Orange County issued $1 billion in municipal securities. `[例]`
+> - State and local issuers are swamping investors with about $2.4 billion in new municipal debt. `[例]`
 > - The odds seem to favor selling instead of buying municipals. `[例]`
 
 

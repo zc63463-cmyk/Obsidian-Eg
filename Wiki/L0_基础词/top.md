@@ -134,8 +134,8 @@ review_count: 0
 
 > [!example]- 语料
 > - The bill requires every rental host to register with the state , mandates they carry insurance , and opens the potential for local taxes on top of a new state levy. `[真题]`
-> - She waited for me at the top of the stairs . `[例]`
-> - There were flags on the tops of many of the buildings . `[例]`
+> - She waited for me at the top of the stairs. `[例]`
+> - There were flags on the tops of many of the buildings. `[例]`
 
 
 ---

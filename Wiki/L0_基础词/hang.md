@@ -130,8 +130,8 @@ hang 源自古英语两个动词的融合：*hon*（及物动词，"悬挂"，�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - A large bunch of keys was hanging from her belt . `[例]`
-> - Hanging meat is really important to the quality of the meat , and is the first stage of good butchery . `[例]`
+> - A large bunch of keys was hanging from her belt. `[例]`
+> - Hanging meat is really important to the quality of the meat , and is the first stage of good butchery. `[例]`
 > - Let the pheasant hang for a few days for the flavour to improve before you cook it. `[例]`
 
 

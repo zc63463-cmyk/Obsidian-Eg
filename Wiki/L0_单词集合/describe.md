@@ -123,8 +123,14 @@ review_count: 0
 
 > [!example]- 语料
 > - In your essay , you should 1) describe the picture briefly, 2 ) interpret the implied meaning , and 3) give your comments. `[真题]`
-> - Could you describe your attacker ? `[例]`
-> - He described the painting in detail . `[例]`
+>   - 中译：在你的文章中，你应该1）简要描述图片，2）解释隐含的含义，3）给出你的评论。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - Could you describe your attacker? `[例]`
+>   - 中译：你能描述一下你的攻击者吗？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/describe
+> - He described the painting in detail. `[例]`
+>   - 中译：他详细地描述了这幅画。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/describe
 
 ---
 

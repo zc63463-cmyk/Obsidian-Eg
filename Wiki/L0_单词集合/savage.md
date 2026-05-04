@@ -137,10 +137,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The Prime Minister faced savage criticism for failing to attend the debate. `[COCA-NEWS]`
-> - Japan has been dealt a savage blow by the earthquake and tsunami. `[COCA-NEWS]`
-> - The performance was savaged by the media. `[COCA-NEWS]`
-> - A hurricane savaged the city, leaving thousands homeless. `[COCA-NEWS]`
+> - She was nearly killed in a savage attack. `[例]`
+>   - 中译：她在一次野蛮袭击中差点丧命。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/savage
+> - The Prime Minister faced savage criticism for failing to attend the debate. `[例]`
+>   - 中译：首相因未能出席辩论而受到猛烈批评。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/savage
+> - The government has announced savage cuts in education spending. `[例]`
+>   - 中译：政府宣布大幅削减教育支出。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/savage
 
 ---
 

@@ -3,10 +3,8 @@ title: "revitalize"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-25
-mastery: L0
 word_freq: 超纲词
 semantic_field: 抽象关系
 prototype: 重新赋予生命（使恢复活力）
@@ -43,7 +41,7 @@ re-(再次，重新) + [[vit|vita]](生命，拉丁语 *vita*) + -al(形容词�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**重新赋予生命（使恢复活力）**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **重新赋予生命**（生物层面）
@@ -62,7 +60,7 @@ re-(再次，重新) + [[vit|vita]](生命，拉丁语 *vita*) + -al(形容词�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -72,7 +70,7 @@ re-(再次，重新) + [[vit|vita]](生命，拉丁语 *vita*) + -al(形容词�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > re（重新）+ vit（生命）→ 重新注入生命。想象一棵枯萎的树，你给它浇水施肥，它重新长出绿叶——这就是 revitalize。引申到抽象层面，给衰败的城市注入新产业、给疲软的经济注入新动力，都是"重新注入生命"。
@@ -84,7 +82,7 @@ re-(再次，重新) + [[vit|vita]](生命，拉丁语 *vita*) + -al(形容词�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -97,13 +95,13 @@ re-(再次，重新) + [[vit|vita]](生命，拉丁语 *vita*) + -al(形容词�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[stagnate]]：停滞，不发展（revitalize 的反义：恢复活力↔停滞不前）
 > - [[decline]]：衰落（revitalize 的反义：复兴↔衰落）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -116,7 +114,7 @@ re-(再次，重新) + [[vit|vita]](生命，拉丁语 *vita*) + -al(形容词�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **revitalize the economy**：振兴经济
 > - **revitalize the city**：复兴城市
 > - **revitalize education**：振兴教育
@@ -125,19 +123,12 @@ re-(再次，重新) + [[vit|vita]](生命，拉丁语 *vita*) + -al(形容词�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - Japanese investment has revitalized this part of Britain . `[例]`
-> - A variety of policy initiatives have been undertaken aimed at revitalizing the economy . `[例]`
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-25 | **复习次数**：0 | **当前等级**：L0
-
----
+> [!example]- 语料
+> - Japanese investment has revitalized this part of Britain. `[例]`
+> - A variety of policy initiatives have been undertaken aimed at revitalizing the economy. `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

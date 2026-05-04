@@ -3,10 +3,8 @@ title: "thermostat"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-25
-mastery: L0
 word_freq: 超纲词
 semantic_field: 物品工具
 prototype: 恒温器（自动调节温度的装置）
@@ -43,7 +41,7 @@ thermo-(热，源自希腊语 *therme*) + [[st-sta-stat]](站立/保持，stat �
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**恒温器**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **恒温器**（物理装置层面）
@@ -62,7 +60,7 @@ thermo-(热，源自希腊语 *therme*) + [[st-sta-stat]](站立/保持，stat �
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -72,7 +70,7 @@ thermo-(热，源自希腊语 *therme*) + [[st-sta-stat]](站立/保持，stat �
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > thermo（热）+ stat（保持稳定）= thermostat（恒温器）。冬天你把 thermostat 设到 22 度，它就自动让房间保持温暖。thermostat 就像一个"温度管家"——太热就关暖气，太冷就开暖气。
@@ -84,7 +82,7 @@ thermo-(热，源自希腊语 *therme*) + [[st-sta-stat]](站立/保持，stat �
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -96,12 +94,12 @@ thermo-(热，源自希腊语 *therme*) + [[st-sta-stat]](站立/保持，stat �
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - 无精确反义词
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -113,26 +111,19 @@ thermo-(热，源自希腊语 *therme*) + [[st-sta-stat]](站立/保持，stat �
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **set the thermostat to**：将恒温器设定到……
 > - **programmable thermostat**：可编程恒温器
 > - **turn up/down the thermostat**：调高/调低恒温器
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - A central heating thermostat. `[例]`
 > - I set the thermostat to 68 degrees. `[例]`
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-25 | **复习次数**：0 | **当前等级**：L0
-
----
-
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

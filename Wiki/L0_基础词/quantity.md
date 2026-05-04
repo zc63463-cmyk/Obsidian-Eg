@@ -128,9 +128,9 @@ quant（多少，拉丁语 *quantus*）+ -ity（名词后缀，表示状态/性�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - They are now developing ways to produce the vaccine in large quantities and cheaply. ` `[COCA-NEWS]` `
-> - Police discovered a large quantity of drugs in the van. ` `[COCA-NEWS]` `
-> - It's quality not quantity that really counts. ` `[COCA-SPOKEN]` `
+> - The ( sheer ) quantity (= large amount ) of equipment needed for the trip is staggering. `[例]`
+> - This recipe is only for four, so I usually double the quantity if I'm cooking for my family. `[例]`
+> - It's quality not quantity that really counts. `[例]`
 
 
 ---

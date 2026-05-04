@@ -130,8 +130,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "There is ample evidence that climate change is having a significant impact on biodiversity around the world."（有充分的证据表明，气候变化正在对全球生物多样性产生重大影响。）——考研高频表达
-> - "The students will have ample time to complete the examination if they manage their time wisely."（如果学生合理安排时间，将有充足的时间完成考试。）——考研高频表达
+> - There's ample evidence that the lawyer knew exactly what she was doing. `[例]`
+>   - 中译：有充分证据表明律师完全知道她在做什么。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/ample
+> - You'll have ample opportunity to ask questions after the talk. `[例]`
+>   - 中译：演讲结束后您将有充足的机会提问。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/ample
+> - There is ample space in the basement for a ping-pong table. `[例]`
+>   - 中译：地下室有足够的空间放置乒乓球桌。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/ample
 ---
 
 

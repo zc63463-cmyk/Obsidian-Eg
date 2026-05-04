@@ -128,7 +128,7 @@ sniff 源自中古英语 *sniffen*，属于 sn- 开头的拟声词族（与 [[sn
 ## 真题/语料关联
 
 > [!example]- 语料
-> - He sniffed his socks to see if they needed washing . `[例]`
+> - He sniffed his socks to see if they needed washing. `[例]`
 > - Dogs love sniffing each other. `[例]`
 > - She sniffed at her glass of wine before tasting it. `[例]`
 

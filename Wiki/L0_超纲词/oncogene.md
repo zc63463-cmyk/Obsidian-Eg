@@ -3,10 +3,8 @@ title: "oncogene"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-25
-mastery: L0
 word_freq: 超纲词
 semantic_field: 自然物理
 prototype: 肿瘤基因
@@ -43,7 +41,7 @@ onco-(=tumor/肿块, 肿瘤) + [[gen]](=[[gen]], 产生/基因)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**肿瘤基因**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **肿瘤基因**（生物医学层面）
@@ -62,7 +60,7 @@ onco-(=tumor/肿块, 肿瘤) + [[gen]](=[[gen]], 产生/基因)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -72,7 +70,7 @@ onco-(=tumor/肿块, 肿瘤) + [[gen]](=[[gen]], 产生/基因)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > onco（肿瘤）+ gene（基因）→ 肿瘤基因 → 致癌基因。就像一个"坏开关"，当 oncogene 被打开时，细胞开始疯狂分裂，形成肿瘤。与之相对的是 tumor suppressor gene（抑癌基因）——"好开关"。
@@ -84,7 +82,7 @@ onco-(=tumor/肿块, 肿瘤) + [[gen]](=[[gen]], 产生/基因)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -95,12 +93,12 @@ onco-(=tumor/肿块, 肿瘤) + [[gen]](=[[gen]], 产生/基因)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - **tumor suppressor gene**：抑癌基因（oncogene 的精确反义：致癌↔抑癌）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -111,25 +109,18 @@ onco-(=tumor/肿块, 肿瘤) + [[gen]](=[[gen]], 产生/基因)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **oncogene activation**：致癌基因激活
 > - **oncogene research**：致癌基因研究
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - `[例]` The activation of an oncogene can trigger uncontrolled cell division.
-> - `[例]` Researchers identified a new oncogene associated with certain types of lung cancer.
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-25 | **复习次数**：0 | **当前等级**：L0
-
----
+> [!example]- 语料
+> - The hikers rested under a towering oncogene near the coastal trail. `[例]`
+> - The cabin was built from durable oncogene gathered in the region. `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

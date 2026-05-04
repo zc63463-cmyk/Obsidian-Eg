@@ -138,9 +138,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She won a medal in the freestyle aerials at the last Winter Olympics . `[例]`
-> - He is famous for performing jaw-dropping aerials. `[例]`
-> - Meanwhile, the massive aerial bombardment of military targets continued unabated . `[例]`
+> - She tried a new aerial in her last competition. `[例]`
+>   - 中译：她在上次比赛中尝试了一种新的天线。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/aerial
+> - The aqueous action scenes — cascades of water swirling around aerial charges — should play out nicely on the big screen during the film’s theatrical release. `[例]`
+>   - 中译：在电影上映期间，水流动作场景——瀑布般的水流围绕着空中炸药旋转——应该会在大屏幕上完美呈现。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/aerial
+> - What to read next The idea builds on NASA's Ingenuity helicopter, which demonstrated powered flight in Mars' thin atmosphere and opened the door to more capable aerial science platforms. `[例]`
+>   - 中译：接下来读什么 这个想法建立在美国宇航局的独创性直升机的基础上，该直升机展示了在火星稀薄大气层中的动力飞行，并为更强大的空中科学平台打开了大门。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/aerial
 
 
 ---

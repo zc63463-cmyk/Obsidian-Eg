@@ -127,10 +127,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Don't dwell on the past; focus on the future." `[真题]`
-> - "She dwelt in remote parts of Asia for many years." `[真题]`
-> - "There is no need to dwell on the past." `[真题]`
-> - "His eyes dwelt on her face for a long moment." `[真题]`
+> - Don't dwell on the past; focus on the future. `[真题]`
+> - The cabin was built from durable dwell gathered in the region. `[例]`
+> - There is no need to dwell on the past. `[真题]`
+> - The hikers rested under a towering dwell near the coastal trail. `[例]`
 
 
 ---

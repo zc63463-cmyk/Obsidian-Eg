@@ -138,7 +138,7 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The car parts themselves are not expensive , it's the labour that costs the money . `[例]`
+> - The car parts themselves are not expensive , it's the labour that costs the money. `[例]`
 > - Because of his back problems , he can no longer do manual labour. `[例]`
 > - Are you tired after your labours? `[例]`
 

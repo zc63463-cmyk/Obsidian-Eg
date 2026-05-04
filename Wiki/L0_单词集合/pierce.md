@@ -130,9 +130,15 @@ pierce ← 古法语 percer ← 拉丁语 pertusus（穿孔的），与 [[fac]](
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - One bullet pierced the left side of his chest. `[真题]`
-> > - A scream pierced the silence of the night. `[COCA-NEWS]`
-> > - The sunlight pierced through the clouds. `[COCA-ACAD]`
+> - The needle pierces the fabric four times a second. `[例]`
+>   - 中译：针每秒刺穿织物四次。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/pierce
+> - I couldn't wear these earrings because my ears aren't pierced. `[例]`
+>   - 中译：我不能戴这些耳环，因为我没有打耳洞。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/pierce
+> - The gun fires a shell capable of piercing the armour of an enemy tank. `[例]`
+>   - 中译：该枪发射的炮弹能够穿透敌方坦克的装甲。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/pierce
 
 ---
 

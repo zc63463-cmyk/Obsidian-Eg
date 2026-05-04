@@ -134,9 +134,15 @@ copy（复制，源自拉丁语 *copia* 丰足）+ right（权利）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - There was a need to develop copyright protection for computer programs. `[COCA-ACAD]`
-> - Copyright law prevents freelance work from being included in electronic archives without permission. `[COCA-ACAD]`
-> - They claim the television company breached copyright when it used some of the footage on one of their DVDs. `[COCA-NEWS]`
+> - Copyright protects your work from being commercially exploited by someone else without your consent. `[例]`
+>   - 中译：版权保护您的作品不被他人在未经您同意的情况下进行商业利用。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/copyright
+> - The publishers wrote to him about obtaining the copyrights. `[例]`
+>   - 中译：出版商写信给他询问版权事宜。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/copyright
+> - Who owns the copyright on this song? `[例]`
+>   - 中译：这首歌的版权归谁所有？
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/copyright
 
 
 ---

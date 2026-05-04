@@ -133,9 +133,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - According to Branch, state-level science standards in the US __ _ A. call for regular revision B. require urgent application C. have limited influence D. cater to local needs 25. `[真题]`
-> - He's got to sign that paper - will you tell him it's urgent? `[例]`
-> - The most urgent thing in a fire is to make sure everyone is out of the building . `[例]`
+> - The police have issued an urgent appeal for information. `[例]`
+>   - 中译：警方已发出紧急呼吁，要求提供信息。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/urgent
+> - Can I see you for a moment?’ ‘Is it urgent? `[例]`
+>   - 中译：我可以见你一下吗？” “有急事吗？
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/urgent
+> - The law is in urgent need of reform. `[例]`
+>   - 中译：法律迫切需要改革。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/urgent
 
 ---
 

@@ -128,9 +128,15 @@ be-（在……处）+ hind（后面，古英语 *hindan*）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The motive behind it is, indeed, very often purely economic rather than vindictive, but this does not ameliorate its harmful impact." `[真题]`
-> - "Nearly 2000 years ago, as the Romans began to pull out of Scotland, they left behind a curious treasure: 10 tons of nails." `[真题]`
-> - "What was the reason behind her decision to leave?" `[COCA-SPOKEN]`
+> - Who's the girl standing behind Jan? `[例]`
+>   - 中译：站在简身后的那个女孩是谁？
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/behind
+> - She glanced behind her. `[例]`
+>   - 中译：她看了一眼身后。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/behind
+> - The sun disappeared behind the clouds. `[例]`
+>   - 中译：太阳消失在云层后面。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/behind
 
 
 ---

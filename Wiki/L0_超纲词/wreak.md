@@ -3,10 +3,8 @@ title: "wreak"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-25
-mastery: L0
 word_freq: 超纲词
 semantic_field: 自然物理
 prototype: 施加（破坏性的力量）
@@ -43,7 +41,7 @@ wreak（古英语 *wrecan*，驱使、惩罚、复仇；与 [[wreck]]（残骸�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**施加（破坏性的力量）**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **施加（破坏性的力量）**（动作层面）
@@ -64,7 +62,7 @@ wreak（古英语 *wrecan*，驱使、惩罚、复仇；与 [[wreck]]（残骸�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ wreak（古英语 *wrecan*，驱使、惩罚、复仇；与 [[wreck]]（残骸�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > wreak 和 wreck（残骸、破坏）是同源词。想象一艘船在暴风雨中被 wreck（撞成残骸），暴风雨就是 wreaked havoc（造成了浩劫）。记住：wreak havoc 是最高频搭配，读起来像"瑞克·浩劫"——一个叫 Rick 的人到处制造浩劫。wreak 只跟"坏事"搭配，它是一个"破坏专用动词"。
@@ -86,7 +84,7 @@ wreak（古英语 *wrecan*，驱使、惩罚、复仇；与 [[wreck]]（残骸�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,12 +97,12 @@ wreak（古英语 *wrecan*，驱使、惩罚、复仇；与 [[wreck]]（残骸�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - wreak 为负面动词，无精确反义词。在"修复"维度上可与 [[repair]]（修复）、[[restore]]（恢复）形成对比
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -116,7 +114,7 @@ wreak（古英语 *wrecan*，驱使、惩罚、复仇；与 [[wreck]]（残骸�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **wreak havoc**：造成浩劫（最高频搭配）
 > - **wreak revenge**：实施报复
 > - **wreak destruction**：造成破坏
@@ -125,19 +123,12 @@ wreak（古英语 *wrecan*，驱使、惩罚、复仇；与 [[wreck]]（残骸�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - The recent storms have wreaked havoc on crops . `[例]`
-> - She was determined to wreak revenge on both him and his family . `[例]`
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-25 | **复习次数**：0 | **当前等级**：L0
-
----
+> [!example]- 语料
+> - The recent storms have wreaked havoc on crops. `[例]`
+> - She was determined to wreak revenge on both him and his family. `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

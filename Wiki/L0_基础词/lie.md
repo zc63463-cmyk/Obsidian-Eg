@@ -137,9 +137,9 @@ lie 有两个完全不同的词源：
 ## 真题/语料关联
 
 > [!example]- 语料
-> - C o m in g a t a tim e o f fre s h in c e n tiv e s fro m th e U K g o v e rn m e n t fo r la n d o w n e rs to g ro w m o re tre e s , th e tra d e b o d y s a y s th e s e d o n 't g o fa r e n o u g h a n d fa il to p ro m o te th e b e n e fits o f p la n tin g th e m to b o o s t tim b e r s u p p lie s . ‘N o t o n ly a re w e fa c in g a c a rb o n c ris is n o w , b u t w e w ill a ls o b e fa c in g a fu tu re c o n s tru c tio n c ris is b e c a u s e o f a fa ilu re to p la n t tre e s to p ro d u c e w o o d ,” s a id S tu a rt G o o d a ll, c h ie f e x e c u tiv e o f C o n fo r. “ F o r d e c a d e s w e h a v e n o t ta k e n re s p o n s ib ility fo r in v e s tin g in o u r d o m e s tic w o o d s u p p ly , le a v in g u s e x p o s e d to flu c tu a tin g p ric e s a n d fig h tin g fo r fu tu re s u p p lie s o f w o o d a s g lo b a l d e m a n d ris e s a n d o u r o w n s u p p lie s fa ll. ” T h e U K h a s id e a l c o n d itio n s fo r g ro w in g w o o d to b u ild lo w -c a rb o n h o m e s a n d is a g lo b a l le a d e r in c e rtify in g th a t its fo re s ts a re s u s ta in a b ly m a n a g e d , C o n fo r s a y s . `[真题]`
-> - A . c a n h a rd ly a d d re s s a c o n s tru c tio n c ris is B . a re b e lie v e d to c o m e a t a w ro n g tim e C . s e e m to b e m is le a d in g fo r la n d o w n e rs D . w ill b e to o c o s tly to p u t in to p ra c tic e 2 8 . `[真题]`
-> - T h e A m e ric a n M e d ic a l A s s o c ia tio n a d v is e s p h y s ic ia n s th a t ‘in s itu a tio n s w h e re c le a r e v id e n c e o f s u b s ta n tia l d riv in g im p a irm e n t im p lie s a s tro n g th re a t to p a tie n t a n d p u b lic s a fe ty , a n d w h e re th e p h y s ic ia n 's a d v ic e to d is c o n tin u e d riv in g p riv ile g e s is ig n o re d , it is d e s ira b le a n d e th ic a l to n o tify th e D e p a rtm e n t o f M o to r V e h ic le s ,'" M e n k e w ro te . “ S o m e s ta te s re q u ire p h y s ic ia n s to re p o rt, o th e rs a llo w b u t d o n o t m a n d a te re p o rts , w h ile a fe w c o n s id e r a re p o rt a b re a c h o f c o n fid e n tia lity . `[真题]`
+> - The village lies in a wide valley surrounded by low hills. `[例]`
+> - The main difficulty lies in balancing growth with environmental protection. `[例]`
+> - He admitted that he had lied to his parents about the accident. `[例]`
 
 
 ---

@@ -129,8 +129,8 @@ hose（古英语 *hosa* "袜子、腿套"，源自原始日耳曼语 *\*husō*�
 
 > [!example]- 语料
 > - My garden hose won't reach to the flower beds - I'll need a longer one. `[例]`
-> - Firefighters had three fire hoses aimed at the burning building . `[例]`
-> - You will need a length of hose about 5 metres long . `[例]`
+> - Firefighters had three fire hoses aimed at the burning building. `[例]`
+> - You will need a length of hose about 5 metres long. `[例]`
 
 
 ---

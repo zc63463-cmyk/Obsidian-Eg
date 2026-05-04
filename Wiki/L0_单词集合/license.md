@@ -133,9 +133,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He says medical licensing boards must make it clear that painful deaths are presumptively ones that are incompetently managed and should result in license suspension." `[真题]`
-> - "In 2006, the state went a step further, requiring that any extension of the plant's license be subject to Vermont legislature's approval." `[真题]`
-> - "The restaurant has now been licensed to sell liquor." `[COCA-NEWS]`
+> - The universities make discoveries and license them to a company. `[例]`
+>   - 中译：大学做出发现并将其授权给公司。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/license
+> - Several companies have been licensed to sell these products. `[例]`
+>   - 中译：几家公司已获得销售这些产品的许可。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/license
+> - Both companies are licensed to use this source code in their products for as long as they choose. `[例]`
+>   - 中译：两家公司都有权在其产品中使用该源代码，只要他们选择。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/license
 
 ---
 

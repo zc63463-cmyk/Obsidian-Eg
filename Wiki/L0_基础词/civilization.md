@@ -129,9 +129,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Cuzco was the centre of one of the world's most famous civilizations, that of the Incas. `[例]`
-> - The ancient civilization was able to sustain a thriving agricultural economy even in those areas with non-irrigated crops . `[例]`
-> - Some people think that nuclear war would mean the end of civilization. `[例]`
+> - The Victorians regarded the railways as bringing progress and civilization. `[例]`
+>   - 中译：维多利亚时代的人认为铁路带来了进步和文明。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/civilization
+> - Environmental damage threatens the whole of civilization. `[例]`
+>   - 中译：环境破坏威胁着整个文明。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/civilization
+> - Could this be the end of civilization as we know it? `[例]`
+>   - 中译：这会是我们所知的文明的终结吗？
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/civilization
 
 
 ---

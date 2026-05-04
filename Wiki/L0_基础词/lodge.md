@@ -130,9 +130,9 @@ lodge 源自古法语 *logier*（住宿），与 [[loc-locat|loc]]（地方）�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The US lodged a formal protest against the arrest of the foreign reporters . `[例]`
-> - A fish bone had lodged in her throat . `[例]`
-> - You should lodge a copy of the letter with your solicitor . `[例]`
+> - The US lodged a formal protest against the arrest of the foreign reporters. `[例]`
+> - A fish bone had lodged in her throat. `[例]`
+> - You should lodge a copy of the letter with your solicitor. `[例]`
 
 
 ---

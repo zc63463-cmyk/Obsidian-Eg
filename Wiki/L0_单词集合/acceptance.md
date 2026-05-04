@@ -135,9 +135,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "gain widespread acceptance"（获得广泛认可）——考研阅读常见搭配，描述理论或观点被接受的过程
-> - "social acceptance"（社会认同）——社会学类阅读高频搭配
-> - "the acceptance of new technology"（新技术的被接受）——科技类阅读常见语境
+> - The idea rapidly gained acceptance (= became approved of) in political circles. `[例]`
+>   - 中译：这个想法很快在政界得到了接受（=被认可）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/acceptance
+> - The party marked his acceptance into the community. `[例]`
+>   - 中译：这次聚会标志着他融入了社会。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/acceptance
+> - Her acceptance of the award was very controversial. `[例]`
+>   - 中译：她的获奖引起了很大争议。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/acceptance
 
 ---
 

@@ -128,8 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The think tank published a report on the economic impact of climate change."（该智库发布了一份关于气候变化经济影响的报告。——考研阅读政策话题高频表达）
-> - "The old water storage tanks were replaced with a modern pumping system."（旧的水箱被现代化的泵送系统所取代。——考研翻译基础设施话题相关表达）
+> - We'll have to get a plumber in to look at that water tank. `[例]`
+> - There was a tank of live lobsters in the restaurant. `[例]`
+> - Liquid and solid waste is collected in the tank. `[例]`
 
 
 ---

@@ -132,8 +132,15 @@ exot(外部) + -ic(形容词后缀，……的) = exotic（外部的→异国情
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The exotic plants in the greenhouse attract many visitors."（温室里的异国植物吸引了许多游客。）——考研高频表达
-> - "She has a taste for exotic food."（她对异国美食有独特的品味。）——考研高频表达
+> - Before you call someone "exotic" as a compliment , you should know that the word can be offensive , because it suggests that you think that person is very different from you. `[例]`
+>   - 中译：在你称赞某人“异国情调”之前，你应该知道这个词可能具有冒犯性，因为它表明你认为那个人与你非常不同。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/exotic
+> - The band were known for their exotic outfits and even more exotic haircuts. `[例]`
+>   - 中译：该乐队以其异国情调的服装和更具异国情调的发型而闻名。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/exotic
+> - Some lottery winners spend their money on mansions or exotic cars. `[例]`
+>   - 中译：一些彩票中奖者把钱花在豪宅或名车上。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/exotic
 
 ---
 

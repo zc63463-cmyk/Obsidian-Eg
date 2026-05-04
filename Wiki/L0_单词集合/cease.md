@@ -130,10 +130,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The company ceased production due to financial difficulties."（由于财务困难，该公司停止了生产）——商业话题
-> - "A ceasefire was declared after weeks of intense fighting."（经过数周的激烈战斗后，宣布了停火）——军事话题
-> - "The ancient civilization ceased to exist thousands of years ago."（这个古老的文明在数千年前就不复存在了）——历史话题
-> - "The rain ceased and the sun finally came out."（雨停了，太阳终于出来了）——自然话题
+> - Whether the protests will cease remains to be seen. `[例]`
+>   - 中译：抗议活动是否会停止还有待观察。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/cease
+> - The company has decided to cease all UK operations after this year. `[例]`
+>   - 中译：该公司已决定今年后停止所有英国业务。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/cease
+> - Workplace nurseries will cease to be liable for tax. `[例]`
+>   - 中译：工作场所托儿所将不再纳税。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/cease
 
 ---
 

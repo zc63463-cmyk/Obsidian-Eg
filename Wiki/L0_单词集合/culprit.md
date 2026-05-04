@@ -122,8 +122,14 @@ culp(过错，罪过) + -rit(人)
 
 > [!example]- 语料
 > - Police hope the public will help them to find the culprits. `[例]`
+>   - 中译：警方希望公众能够帮助他们找到罪魁祸首。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/culprit
 > - Children in this country are getting much too fat , and sugar and sweets are the main culprits. `[例]`
+>   - 中译：这个国家的孩子变得太胖了，而糖和糖果是罪魁祸首。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/culprit
 > - Two eyewitnesses identified her as the culprit. `[例]`
+>   - 中译：两名目击者指认她是罪魁祸首。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/culprit
 
 ---
 

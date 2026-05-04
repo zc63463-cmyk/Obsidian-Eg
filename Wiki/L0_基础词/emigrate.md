@@ -124,9 +124,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Millions of Germans emigrated from Europe to America in the 19th century . `[例]`
-> - Thousands of Britons emigrate every year . `[例]`
-> - Millions of Germans emigrated from Europe in the nineteenth century . `[例]`
+> - Millions of Germans emigrated from Europe to America in the 19th century. `[例]`
+> - Thousands of Britons emigrate every year. `[例]`
+> - Millions of Germans emigrated from Europe in the nineteenth century. `[例]`
 
 
 ---

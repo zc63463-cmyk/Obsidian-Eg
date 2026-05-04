@@ -132,9 +132,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The climax of the air show was a daring flying display . `[例]`
-> - The election campaign reaches its climax next week . `[例]`
-> - The show climaxed with all the performers singing on stage together. `[例]`
+> - Signing the peace agreement was the climax of his political career. `[例]`
+>   - 中译：和平协议的签署是他政治生涯的顶峰。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/climax
+> - The team’s 3–1 victory in the final provided a fitting climax to a great season. `[例]`
+>   - 中译：球队在决赛中以 3-1 获胜，为这个伟大的赛季带来了恰到好处的高潮。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/climax
+> - The book’s powerful climax is the murder of Nancy by her lover Bill Sikes. `[例]`
+>   - 中译：这本书的高潮是南希被她的情人比尔·赛克斯谋杀。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/climax
 
 
 ---

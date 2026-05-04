@@ -128,9 +128,15 @@ carbon 源自拉丁语 *carbo*（煤炭、炭），原义为"燃烧后留下的�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The prize will be awarded to a project that can draw at least one gigatonne of carbon a year from the atmosphere . `[例]`
-> - Environmental campaigners are arguing for further cuts in carbon emissions . `[例]`
-> - All organic substances contain the element carbon. `[例]`
+> - Browns are full of carbon and will keep things from smelling bad. `[例]`
+>   - 中译：棕色富含碳，可以防止东西发出难闻的气味。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/carbon
+> - Sabah holds 60% of Malaysia’s mangroves, offering significant potential for blue carbon credit generation. `[例]`
+>   - 中译：沙巴拥有马来西亚 60% 的红树林，为蓝碳信用发电提供了巨大潜力。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/carbon
+> - Nike first publicized its engineering and marketing ambitions for the sub-2-hour marathon in late 2016, devoting substantial resources to the effort, which yielded the breakthrough of the first carbon -fiber running shoe. `[例]`
+>   - 中译：耐克于 2016 年底首次公开了其针对 2 小时以下马拉松比赛的工程和营销雄心，投入了大量资源，最终实现了首款碳纤维跑鞋的突破。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/carbon
 
 
 ---

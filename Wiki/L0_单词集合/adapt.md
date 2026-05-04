@@ -121,8 +121,15 @@ ad-(=to, toward, 向、朝) + apt(=fit, suitable, 适合的)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Species that fail to adapt to changes in their environment are at risk of extinction."（无法适应环境变化的物种面临灭绝的风险。）——考研高频表达
-> - "Immigrants often have to adapt to a new culture while preserving their own cultural identity."（移民在保留自身文化认同的同时，通常需要适应新的文化。）——考研高频表达
+> - Davies is busy adapting Brinkworth's latest novel for television. `[例]`
+>   - 中译：戴维斯正忙着将布林克沃斯的最新小说改编成电视剧。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/adapt
+> - The play had been adapted for (= changed to make it suitable for) children. `[例]`
+>   - 中译：该剧已为儿童改编（=修改为适合）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/adapt
+> - The recipe here is a pork roast adapted from Caroline O'Neill's book "Louisiana Kitchen". `[例]`
+>   - 中译：这里的食谱是改编自卡罗琳·奥尼尔的书《路易斯安那厨房》的烤猪肉。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/adapt
 
 
 ---

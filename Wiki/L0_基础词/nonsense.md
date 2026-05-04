@@ -134,9 +134,9 @@ non-（不、没有）+ sense（感觉、意义、理智）= 没有意义 = 废�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - This report is nonsense and nothing but a waste of paper . `[例]`
+> - This report is nonsense and nothing but a waste of paper. `[例]`
 > - The accusations are absolute nonsense. `[例]`
-> - Don't talk nonsense! She's far too ill to return to work ! `[例]`
+> - Don't talk nonsense! She's far too ill to return to work! `[例]`
 
 
 ---

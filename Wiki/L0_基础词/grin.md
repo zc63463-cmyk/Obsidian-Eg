@@ -129,8 +129,9 @@ grin 源自古英语 *grennian*（露齿而笑），与 [[grind]]（磨碎）共
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He grinned at me as if we shared a secret."（他对我咧嘴一笑，好像我们共享一个秘密——英语学习高频表达）
-> - "She was grinning from ear to ear when she heard the good news."（听到好消息时，她笑得合不拢嘴——剑桥词典例句）
+> - I assumed things had gone well for him because he had a big grin on his face. `[例]`
+> - That child's got such a cheeky grin. `[例]`
+> - I love his mischievous grin, don't you? `[例]`
 
 
 ---

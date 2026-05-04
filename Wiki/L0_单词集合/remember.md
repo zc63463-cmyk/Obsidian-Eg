@@ -130,10 +130,15 @@ re-(back/again) + 建议创建词根笔记 [[re/rem]](to mind/记忆) + -ber(后
 ## 真题/语料关联
 
 > [!example]- 语料
-> - I remember the day when I first arrived at the university. `[真题]`
-> - It is important to remember that not all changes are progress. `[真题]`
-> - I don't remember signing a contract. `[COCA-ACAD]`
-> - Please remember me to your family. `[COCA-ACAD]`
+> - Where did you park the car ?" "I can't remember. `[例]`
+>   - 中译：你把车停在哪里了？” “我不记得了。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/remember
+> - I can remember people's faces , but not their names. `[例]`
+>   - 中译：我能记住人们的面孔，但不记得他们的名字。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/remember
+> - She suddenly remembered (that) her keys were in her other bag. `[例]`
+>   - 中译：她突然想起她的钥匙在她的另一个包里。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/remember
 
 ---
 

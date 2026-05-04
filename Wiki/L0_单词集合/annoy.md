@@ -126,8 +126,15 @@ an-(使) + noy(厌恶、烦恼)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It annoys me when people talk loudly on their phones in public places."（人们在公共场所大声打电话让我很烦恼。）——考研高频表达
-> - "The constant noise from the construction site annoyed the residents for months."（建筑工地持续不断的噪音让居民烦恼了好几个月。）——考研高频表达
+> - Tina really annoyed me in the meeting this morning. `[例]`
+>   - 中译：今天早上的会议上蒂娜真的让我很恼火。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/annoy
+> - I'm sorry - is my cough annoying you? `[例]`
+>   - 中译：抱歉，我的咳嗽让你烦恼了吗？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/annoy
+> - It annoys me that she just expects us to help. `[例]`
+>   - 中译：令我恼火的是她只是希望我们帮忙。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/annoy
 
 ---
 

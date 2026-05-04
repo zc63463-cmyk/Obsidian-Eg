@@ -133,9 +133,9 @@ terr-（恐惧，拉丁语 *terrere*，使害怕）+ -or（名词后缀，表示
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The people fled in terror as the earthquake struck." `[真题]`
-> - "The war on terror has shaped global politics for decades." `[真题]`
-> - "What he said struck terror in my heart." `[真题]`
+> - The war on terror has shaped global politics for decades. `[真题]`
+> - What he said struck terror in my heart (= made me very frightened ). `[例]`
+> - The separatists started a campaign of terror to get independence. `[例]`
 
 
 ---

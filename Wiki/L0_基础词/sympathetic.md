@@ -123,8 +123,8 @@ review_count: 0
 > [!example]- 语料
 > - She was very sympathetic to the plight of the refugees. `[真题]`
 > - He is sympathetic to the idea of reform. `[真题]`
-> - The current government was very sympathetic towards environmental issues. `[语料库]`
-> - He suffers from back trouble too, so he was very sympathetic about my problem. `[语料库]`
+> - The current government was very sympathetic towards environmental issues. `[例]`
+> - He suffers from back trouble too, so he was very sympathetic about my problem. `[例]`
 
 
 ---

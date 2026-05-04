@@ -128,9 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The breakdown was due to a mechanical failure." `[语料库]`
-> - "This is the oldest working mechanical clock in the world." `[语料库]`
-> - "Investigators concluded that the incident was caused by mechanical failure." `[语料库]`
+> - The breakdown was due to a mechanical failure. `[例]`
+> - This is the oldest working mechanical clock in the world. `[例]`
+> - Investigators concluded that the incident was caused by mechanical failure. `[例]`
 
 
 ---

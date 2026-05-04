@@ -123,9 +123,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She wrapped a thick wool scarf around her neck and stepped out into the freezing morning." `[COCA-FICT]`
-> - "A cashmere scarf is the epitome of luxury and warmth for colder seasons." `[COCA-NEWS]`
-> - "He scarfed down two sandwiches in under five minutes." `[例]`
+> - She wrapped a thick wool scarf around her neck and stepped out into the freezing morning. `[COCA-FICT]`
+> - A cashmere scarf is the epitome of luxury and warmth for colder seasons. `[COCA-NEWS]`
+> - He scarfed down two sandwiches in under five minutes. `[例]`
 
 
 ---

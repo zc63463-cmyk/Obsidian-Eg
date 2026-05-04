@@ -139,9 +139,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Many students fail to see the connection between theory and practice."（许多学生未能看到理论与实践之间的联系）——考研阅读/翻译高频句式
-> - "The policy failed to achieve its intended goals."（该政策未能实现其预期目标）——政治经济类话题
-> - "He would never fail his family."（他绝不会辜负他的家人）——情感类文本
+> - She moved to London in the hope of finding work as a model , but failed. `[例]`
+>   - 中译：她搬到伦敦希望找到模特的工作，但失败了。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/fail
+> - This method of growing tomatoes never fails. `[例]`
+>   - 中译：这种种植西红柿的方法永远不会失败。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/fail
+> - He failed in his attempt to break the record. `[例]`
+>   - 中译：他试图打破纪录，但失败了。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/fail
 
 ---
 

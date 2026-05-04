@@ -124,9 +124,15 @@ organ(器官/工具) + -ize(动词后缀，表"使…化")
 ## 真题/语料关联
 
 > [!example]- 语料
-> - They organized a meeting between the teachers and students . `[例]`
-> - She had organized a car to meet me at the airport . `[例]`
-> - My mother is always trying to organize me (= make me do things in the way she likes ) . `[例]`
+> - They organized a meeting between the teachers and students. `[例]`
+>   - 中译：他们组织了一次教师和学生的会议。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/organize
+> - She had organized a car to meet me at the airport. `[例]`
+>   - 中译：她安排了一辆车来机场接我。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/organize
+> - She has been designated to organize the meeting. `[例]`
+>   - 中译：她已被指定组织这次会议。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/organize
 
 ---
 

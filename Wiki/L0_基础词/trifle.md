@@ -126,9 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - I brought a few trifles back from India - pieces of jewellery and fabric mainly . `[例]`
-> - I'm a trifle confused about the arrangements for tonight . `[例]`
-> - I have to say, his comment strikes me as a trifle disingenuous . `[例]`
+> - I brought a few trifles back from India - pieces of jewellery and fabric mainly. `[例]`
+> - I'm a trifle confused about the arrangements for tonight. `[例]`
+> - I have to say, his comment strikes me as a trifle disingenuous. `[例]`
 
 
 ---

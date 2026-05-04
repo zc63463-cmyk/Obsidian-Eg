@@ -127,9 +127,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The mountain gorilla is an endangered species. `[例]`
-> - Giant pandas are now classified as a vulnerable species on the global list . `[例]`
-> - Tropaeolum tuberosum (as the species name suggests ) forms small tubers . `[例]`
+> - Nearly 850 species of birds have been identified within the country's borders. `[例]`
+>   - 中译：在该国境内已识别出近 850 种鸟类。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/species
+> - There are many species of dogs. `[例]`
+>   - 中译：狗有很多不同种类。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/species
+> - The effect of climate change on species richness was evaluated. `[例]`
+>   - 中译：研究评估了气候变化对物种丰富度的影响。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/species
 
 ---
 

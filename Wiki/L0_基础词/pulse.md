@@ -131,8 +131,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Exercise increases your pulse rate . `[例]`
-> - The data , normally transmitted electronically , can be changed into pulses of light . `[例]`
+> - Exercise increases your pulse rate. `[例]`
+> - The data , normally transmitted electronically , can be changed into pulses of light. `[例]`
 > - Give the mixture a pulse or two until it is broken down. `[例]`
 
 

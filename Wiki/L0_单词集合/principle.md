@@ -127,9 +127,15 @@ prim(第一) + -ciple(名词后缀，表示"取、抓")
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The principles of the criminal justice system. `[例]`
 > - The country is run on socialist principles. `[例]`
-> - The machine works according to the principle of electromagnetic conduction . `[例]`
+>   - 中译：国家实行社会主义原则。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/principle
+> - The machine works according to the principle of electromagnetic conduction. `[例]`
+>   - 中译：该机器根据电磁传导原理工作。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/principle
+> - The organization works on the principle that all members have the same rights. `[例]`
+>   - 中译：该组织的工作原则是所有成员都享有相同的权利。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/principle
 
 ---
 

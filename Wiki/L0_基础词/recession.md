@@ -136,9 +136,9 @@ re-（向后，往回）+ cess（走，=cedere，拉丁语"行走"）+ -ion（�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The great recession may be over, but this era of high joblessness is probably beginning. ` `[真题]`
-> - The Japanese economy is experiencing its worst recession in 20 years. ` `[真题]`
-> - The country is mired in recession. ` `[真题]`
+> - The country is sliding into the depths of (a) recession. `[例]`
+> - A lot of companies have been adversely affected by the recession. `[例]`
+> - For the second time in ten years , the government has driven the economy into deep and damaging recession. `[例]`
 
 
 ---

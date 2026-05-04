@@ -131,9 +131,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "the relationship between the academy and the industry"（学术界与产业界的关系）——教育、科技政策类阅读
-> - "a military academy"（军事学院）——教育类阅读
-> - "the Chinese Academy of Sciences"（中国科学院）——科技类翻译
+> - The youth academy starts training talented young players from the age of eight. `[例]`
+>   - 中译：青训营从八岁开始培养有天赋的年轻球员。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/academy
+> - The club's academy offered players from disadvantaged backgrounds discounts on new equipment. `[例]`
+>   - 中译：俱乐部的学院为来自弱势群体的球员提供购买新装备的折扣。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/academy
+> - She trained at the Royal Academy of Music. `[例]`
+>   - 中译：她在皇家音乐学院接受训练。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/academy
 
 ---
 

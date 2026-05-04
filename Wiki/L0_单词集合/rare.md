@@ -119,10 +119,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - It's very rare to find someone who combines such qualities. `[COCA]`
-> - The museum is full of rare and precious treasures. `[COCA]`
-> - Talent like hers is rare in someone so young. `[COCA]`
-> - They mainly deal in rare books and manuscripts. `[COCA]`
+> - The museum is full of rare and precious treasures. `[例]`
+>   - 中译：博物馆里充满了稀有珍贵的珍宝。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/rare
+> - It 's very rare to find these birds in New England in winter. `[例]`
+>   - 中译：冬天在新英格兰很难找到这些鸟。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/rare
+> - It's very rare to find someone who combines such qualities. `[例]`
+>   - 中译：很难找到兼具这些品质的人。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/rare
 
 ---
 

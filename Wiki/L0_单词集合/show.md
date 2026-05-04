@@ -140,10 +140,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Research shows that a high-fibre diet may protect you from bowel cancer. `[COCA-ACAD]`
-> - These figures show an increase of over one million in unemployment. `[COCA-ACAD]`
-> - New airline technology was shown to be improving fuel consumption. `[COCA-ACAD]`
-> - He showed great courage in the face of danger. `[例]`
+> - She shows no concern for pre-teens. `[真题]`
+>   - 中译：她不关心青春期前的孩子。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - Why won't you show me wh at's in your hand? `[例]`
+>   - 中译：你为什么不让我看看你手里拿的是什么？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/show
+> - The secretly filmed video shows the prince and princess kiss ing. `[例]`
+>   - 中译：秘密拍摄的视频显示王子和公主接吻。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/show
 
 ---
 

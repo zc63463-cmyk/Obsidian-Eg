@@ -131,9 +131,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The good news is that a bill just approved by the House and a bill approved by the Senate Finance Committee would implement or test many reforms that should help slow the rise in medical costs over the long term. ` `[真题]`
-> - The Senate bill would create an independent commission to monitor the pilot programs and recommend changes in Medicare's payment policies. ` `[真题]`
-> - Senate committees in the next few weeks will challenge whether he had the right to do this. ` `[真题]`
+> - In quick succession, the Senate and House passed legislation protecting Yell ow stone in early 1872. `[真题]`
+> - The law has no chance of being passed by the Senate. `[例]`
+> - The US Senate has 100 members. `[例]`
 
 
 ---

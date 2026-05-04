@@ -124,9 +124,9 @@ furn-(装备，源自古法语 *furnir*) + -ish(动词后缀，使……)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The apartment is fully furnished with modern appliances." `[真题]`
-> - "The suspect refused to furnish the police with any information." `[真题]`
-> - "She furnished the room with antique pieces to give it a vintage look." `[语料库]`
+> - The apartment is fully furnished with modern appliances. `[真题]`
+> - The suspect refused to furnish the police with any information. `[真题]`
+> - She furnished the room with antique pieces to give it a vintage look. `[例]`
 
 
 ---

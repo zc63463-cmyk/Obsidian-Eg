@@ -126,9 +126,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The essence of his argument was that education should continue throughout life. `[真题]`
-> - The freedom to pick your leaders is the essence of a democracy. `[COCA-ACAD]`
-> - In essence, the two proposals are the same. `[COCA-ACAD]`
+> - The essence of his argument was that education should continue throughout life. `[例]`
+>   - 中译：他的论点的本质是教育应该持续一生。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/essence
+> - Yet change is the very essence of life. `[例]`
+>   - 中译：然而，变化才是生活的本质。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/essence
+> - In essence, both sides agree on the issue. `[例]`
+>   - 中译：本质上，双方在这个问题上是一致的。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/essence
 
 ---
 

@@ -129,8 +129,8 @@ em-(=in-, 进入) + bar(障碍，栅栏) + -ass(后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - You're embarrassing him with your compliments ! `[例]`
-> - I didn't want to embarrass her in front of her friends . `[例]`
+> - You're embarrassing him with your compliments! `[例]`
+> - I didn't want to embarrass her in front of her friends. `[例]`
 > - He knew that letter would embarrass him and later he tried to get rid of it. `[例]`
 
 

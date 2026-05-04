@@ -127,9 +127,15 @@ cognitive = cognit(=cognoscere, 认识、知晓) + -ive(形容词后缀，…性
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Some of her cognitive functions have been impaired . `[例]`
-> - Studies show a connection between aerobic exercise and cognitive ability . `[例]`
 > - They are studying the links between cognitive and linguistic development in young children. `[例]`
+>   - 中译：他们正在研究幼儿认知和语言发展之间的联系。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/cognitive
+> - This is both a cognitive and an emotional process. `[例]`
+>   - 中译：这既是一个认知过程，也是一个情感过程。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/cognitive
+> - The best toys for toddlers engage their interests while developing their fine motor, gross motor, cognitive , and social skills. `[例]`
+>   - 中译：最适合幼儿的玩具可以激发他们的兴趣，同时发展他们的精细运动、粗大运动、认知和社交技能。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/cognitive
 
 
 ---

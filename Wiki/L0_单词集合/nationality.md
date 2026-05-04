@@ -124,8 +124,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "People of all nationalities should be treated equally under the law."（所有国籍的人都应在法律面前受到平等对待。）——考研高频表达
-> - "She holds dual nationality and can travel freely between the two countries."（她拥有双重国籍，可以在两国之间自由旅行。）——考研高频表达
+> - She has British nationality. `[例]`
+>   - 中译：她拥有英国国籍。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/nationality
+> - What nationality are you? `[例]`
+>   - 中译：你是什​​么国籍？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/nationality
+> - At the International School they have pupils of 46 different nationalities. `[例]`
+>   - 中译：国际学校有来自 46 个不同国家的学生。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/nationality
 
 ---
 

@@ -136,9 +136,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Do you like the new couch ?" "Yes, it's very unusual. `[例]`
-> - It 's unusual to have adult conversation like that with such a young child . `[例]`
-> - I was actually on time , which is unusual for me. `[例]`
+> - The case is highly unusual. `[例]`
+>   - 中译：此案极不寻常。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/unusual
+> - Police then took the unusual step of publishing the names and pictures of the two suspects. `[例]`
+>   - 中译：警方随后采取了不同寻常的措施，公布了两名嫌疑人的姓名和照片。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/unusual
+> - It's not unusual for young doctors to work a 70-hour week (= it happens often). `[例]`
+>   - 中译：年轻医生每周工作 70 小时并不罕见（=这种情况经常发生）。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/unusual
 
 ---
 

@@ -130,9 +130,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The country had the lowest incidence of Covid cases proportional to its population. `[COCA-NEWS]`
-> - Climate change is likely to lead to degradation of air quality and higher incidences of respiratory illnesses. `[COCA-ACAD]`
-> - The lack of vitamins may explain the higher incidence of heart disease. `[COCA-ACAD]`
+> - They found an increased incidence of cancer near nuclear power stations. `[例]`
+>   - 中译：他们发现核电站附近的癌症发病率有所增加。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/incidence
+> - Cystic fibrosis is a hereditary disease and the incidence varies from country to country. `[例]`
+>   - 中译：囊性纤维化是一种遗传性疾病，不同国家的发病率不同。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/incidence
+> - Climate change is likely to lead to degradation of air quality and higher incidences of respiratory illnesses. `[例]`
+>   - 中译：气候变化可能导致空气质量下降和呼吸道疾病发病率上升。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/incidence
 
 ---
 

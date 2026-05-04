@@ -136,9 +136,15 @@ any(任何一个，古英语 *ænig*)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - PRH declined to comment on the issue , but a spokesperson for W aterstones told me : " W aterstones are currently operating with reduced credit terms from PRH, the only publisher in the UK to place any limitations on our ability to trade. `[真题]`
-> - The sales for our May Books of the Month surpassed any month since 2018. `[真题]`
-> - Is there any of that lemon cake left ? `[例]`
+> - Are there any stamps? `[例]`
+>   - 中译：有邮票吗？
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/any
+> - You can't go out without any shoes. `[例]`
+>   - 中译：不穿鞋就不能出门。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/any
+> - He forbids any talking in class. `[例]`
+>   - 中译：他禁止在课堂上讲话。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/any
 
 
 ---

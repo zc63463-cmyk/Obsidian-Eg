@@ -125,9 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The students were learning to solve simple equations, such as 6 + x = 18. `[例]`
-> - Managing the economy is a complex equation of controlling inflation and reducing unemployment . `[例]`
-> - The equation between higher education and higher earnings still holds true . `[例]`
+> - Managing the economy is a complex equation of controlling inflation and reducing unemployment. `[例]`
+> - The equation between higher education and higher earnings still holds true. `[例]`
+> - These drugs have broken the equation between AIDS and death. `[例]`
 
 
 ---

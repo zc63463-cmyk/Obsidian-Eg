@@ -130,9 +130,15 @@ con-(共同，一起) + sid/sider(星星/坐) + -er(动词后缀) + -able(可被
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The project wasted a considerable amount of time and money." `[真题]`
-> - "The recent slowdown in the US economy is likely to have a considerable impact on the rest of the world." `[真题]`
-> - "She has considerable experience in managing large-scale international projects." `[COCA-ACAD]`
+> - The fire caused considerable damage to the church. `[例]`
+>   - 中译：火灾对教堂造成了相当大的破坏。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/considerable
+> - She's a woman of considerable abilities. `[例]`
+>   - 中译：她是一个很有能力的女人。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/considerable
+> - Drug trafficking is a matter of considerable concern for the entire international community. `[例]`
+>   - 中译：贩毒是整个国际社会相当关注的问题。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/considerable
 ---
 
 

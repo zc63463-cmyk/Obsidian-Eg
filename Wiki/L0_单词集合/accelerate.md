@@ -132,9 +132,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Technology has accelerated the pace of globalization."（技术加速了全球化的步伐。）——科技、经济类阅读
-> - "accelerate economic growth"（加速经济增长）——经济政策类阅读高频搭配
-> - "The car accelerated rapidly and disappeared from sight."（汽车迅速加速消失在视线中。）——叙事类文本
+> - I accelerated to overtake the bus. `[例]`
+>   - 中译：我加速超越公共汽车。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/accelerate
+> - Inflation is likely to accelerate this year , adding further upward pressure on interest rates. `[例]`
+>   - 中译：今年通胀可能加速，进一步加大利率上行压力。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/accelerate
+> - They use special chemicals to accelerate the growth of crops. `[例]`
+>   - 中译：他们使用特殊化学品来加速农作物的生长。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/accelerate
 
 ---
 

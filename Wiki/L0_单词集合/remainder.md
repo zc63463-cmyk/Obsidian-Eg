@@ -127,9 +127,15 @@ re-(back) + 建议创建词根笔记 [[re/rem]](to stay/停留) + -der(名词后
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The remainder of the book is devoted to discussing the implications of these findings. `[COCA-ACAD]`
-> - Most of our employees work in New York; the remainder are based in London. `[COCA-ACAD]`
-> - The remainder of the paper is organized as follows. `[COCA-ACAD]`
+> - It rained the first day but the remainder of the trip was fine. `[例]`
+>   - 中译：第一天下雨，但余下的旅程一切顺利。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/remainder
+> - His autobiography never sold very well and was soon remaindered. `[例]`
+>   - 中译：他的自传销量一直不好，很快就被停刊了。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/remainder
+> - It rained the first day but was sunny for the remainder of the trip. `[例]`
+>   - 中译：第一天下雨，但余下的行程都是晴天。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/remainder
 
 ---
 

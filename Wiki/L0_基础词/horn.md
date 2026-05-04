@@ -131,8 +131,8 @@ horn（古英语 *horn* "动物的角；角制乐器"，源自原始日耳曼语
 
 > [!example]- 语料
 > - The bull lowered its horns and charged straight at him. `[例]`
-> - The male deer grows large branching horns called antlers . `[例]`
-> - The handle of the knife was made of horn, perhaps elk or deer . `[例]`
+> - The male deer grows large branching horns called antlers. `[例]`
+> - The handle of the knife was made of horn, perhaps elk or deer. `[例]`
 
 
 ---

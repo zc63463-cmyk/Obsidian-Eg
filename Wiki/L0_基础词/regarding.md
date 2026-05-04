@@ -125,9 +125,8 @@ review_count: 0
 
 > [!example]- 语料
 > - I am writing regarding your letter of application. `[真题]`
-> - He is very sensitive in this regard. `[真题]`
-> - There is no problem as regards the financial arrangements. `[权威词典]`
-> - She refused to answer questions regarding her private life. `[权威词典]`
+> - She refused to answer questions regarding her private life. `[例]`
+> - For example, AI can be used to analyse what type of advertising content or copy would be appropriate to 'speak' to a specific target customer group by revealing information about trends and preferences through the analysis of big data. ( 46) AI can also be used to identify the lifestyle choices of customers regarding their hobbies, favourite celebrities, music choices, and fashions to provide unique content in marketing messages put out through social media. `[真题]`
 
 
 ---

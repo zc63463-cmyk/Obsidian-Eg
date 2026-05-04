@@ -136,7 +136,7 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Despite Roz's heroic efforts to liven it up, the party was a disaster . `[例]`
+> - Despite Roz's heroic efforts to liven it up, the party was a disaster. `[例]`
 > - She is a heroic figure we can all look up to. `[例]`
 > - Rescuers made heroic efforts to save the crew. `[例]`
 

@@ -129,7 +129,7 @@ review_count: 0
 > [!example]- 语料
 > - They went into town to indulge in some serious shopping. `[例]`
 > - The inheritance enabled him to indulge his passion for art. `[例]`
-> - The soccer fans indulged their patriotism , waving flags and singing songs . `[例]`
+> - The soccer fans indulged their patriotism , waving flags and singing songs. `[例]`
 
 
 ---

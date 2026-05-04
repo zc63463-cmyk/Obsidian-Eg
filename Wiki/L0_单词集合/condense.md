@@ -124,9 +124,15 @@ con-(加强) + [[dens|dens/dens]](密集/浓厚) + -e(动词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The author condensed a 500-page book into a 50-page summary. `[真题]`
-> - Steam condenses into water when it cools down. `[COCA-ACAD]`
-> - The essay was condensed from ten pages to three. `[例]`
+> - Water vapour in the air condenses into fog. `[例]`
+>   - 中译：空气中的水蒸气凝结成雾。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/condense
+> - Humidity condensed on the bathroom walls. `[例]`
+>   - 中译：浴室的墙壁上凝结着湿气。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/condense
+> - Steam condenses into water when it cools. `[例]`
+>   - 中译：蒸汽冷却时凝结成水。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/condense
 
 ---
 

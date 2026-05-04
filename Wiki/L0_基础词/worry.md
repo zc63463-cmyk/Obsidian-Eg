@@ -129,7 +129,6 @@ review_count: 0
 
 > [!example]- 语料
 > - There is no need to worry about the future if you prepare well and stay focused on the present. `[真题]`
-> - What worries me most is the rising cost of living and its impact on low-income families. `[真题]`
 > - She began to worry that she wouldn't be able to finish the project before the deadline. `[真题]`
 > - The constant noise from the construction site next door has been a real worry for the residents. `[真题]`
 

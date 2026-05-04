@@ -123,9 +123,15 @@ intel-(=inter-，在…之间) + [[gen|gen]](产生) + -ent(形容词后缀，�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - In his article How Intelligent Is Intelligence Testing? Sternberg notes that traditional tests best assess analytical and verbal skills but fail to measure creativity and practical knowledge. `[真题]`
-> - The top universities aim to select the most intelligent students. `[COCA-ACAD]`
-> - Dolphins are considered highly intelligent animals. `[COCA-ACAD]`
+> - He is a highly intelligent person who can think outside the box. `[例]`
+>   - 中译：他是一个非常聪明的人，能够跳出框框思考。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/intelligent
+> - She would like a partner with whom she can have an intelligent conversation. `[例]`
+>   - 中译：她想要一个可以与她进行明智对话的伴侣。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/intelligent
+> - Helen had a few intelligent things to say on the subject. `[例]`
+>   - 中译：关于这个问题，海伦说了一些很有智慧的话。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/intelligent
 
 
 ---

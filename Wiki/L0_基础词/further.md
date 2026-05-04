@@ -131,9 +131,9 @@ forth（向前）+ -er(比较级后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "We need to conduct further research before drawing any conclusions." `[真题]`
-> - "The government should take further measures to reduce pollution." `[真题]`
-> - "She always arrives on time; furthermore, her work is always excellent." `[语料库]`
+> - We need to conduct further research before drawing any conclusions. `[真题]`
+> - The government should take further measures to reduce pollution. `[真题]`
+> - A line of further trees rose above the morning fog. `[例]`
 
 
 ---

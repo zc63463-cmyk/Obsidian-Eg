@@ -117,8 +117,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - He was diagnosed with lung cancer . `[例]`
-> - There's a high correlation between smoking and lung cancer . `[例]`
+> - He was diagnosed with lung cancer. `[例]`
+> - There's a high correlation between smoking and lung cancer. `[例]`
 > - The knife went through his ribs and punctured his lung. `[例]`
 
 

@@ -124,9 +124,15 @@ com-(一起) + [[pon/pos|prerehend/prise]](抓取、握住) = comprise（抓到�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Fifty states comprise the United States of America." `[例]`
-> - "The committee comprises representatives from various departments and disciplines." `[例]`
-> - "Manufacturing comprises approximately 14% of the state's economy." `[COCA-ACAD]`
+> - The course comprises a class book , a practice book , and a CD. `[例]`
+>   - 中译：该课程包括一本教材、一本练习书和一张CD。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/comprise
+> - Italian students comprise 60 percent of the class. `[例]`
+>   - 中译：意大利学生占班级的 60%。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/comprise
+> - The class is comprised mainly of Italian and French students. `[例]`
+>   - 中译：该班主要由意大利和法国学生组成。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/comprise
 
 ---
 

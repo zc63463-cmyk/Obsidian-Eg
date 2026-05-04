@@ -131,8 +131,8 @@ found(=fundare, 奠基，拉丁语 fundus 底部) + -ation(名词后缀，表示
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Her youngest child starts (in) foundation in September . `[例]`
-> - The foundations will have to be reinforced to prevent the house from sinking further into the ground . `[例]`
+> - Her youngest child starts (in) foundation in September. `[例]`
+> - The foundations will have to be reinforced to prevent the house from sinking further into the ground. `[例]`
 > - These allegations are completely without foundation. `[例]`
 
 

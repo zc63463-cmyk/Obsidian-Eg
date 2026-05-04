@@ -123,8 +123,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Economic growth has slowed down significantly in recent years."（近年来经济增长显著放缓。）——考研高频表达
-> - "The rapid growth of the Internet has transformed the way people communicate."（互联网的快速增长改变了人们交流的方式。）——考研高频表达
+> - C It hinders the growth of "international" journals. `[真题]`
+>   - 中译：C 它阻碍了“国际”期刊的发展。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - A balanced diet is essential for healthy growth. `[例]`
+>   - 中译：均衡饮食对于健康成长至关重要。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/growth
+> - Plant growth is most noticeable in spring and early summer. `[例]`
+>   - 中译：植物生长在春季和初夏最为明显。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/growth
 
 ---
 

@@ -133,9 +133,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - He hatched a plot to forge documents that would embarrass the company . `[例]`
-> - The birds hatched out the next afternoon . `[例]`
-> - They hatched a plan for a surprise birthday party . `[例]`
+> - He hatched a plot to forge documents that would embarrass the company. `[例]`
+> - The birds hatched out the next afternoon. `[例]`
+> - They hatched a plan for a surprise birthday party. `[例]`
 
 
 ---

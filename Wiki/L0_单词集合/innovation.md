@@ -128,10 +128,15 @@ in-(进入) + nov(新) + -ation(名词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "This keeps fees high and innovation slow." `[真题]`
-> - "Inventions and innovations almost always come out of laborious trial and error." `[真题]`
-> - "Through technology and innovation, they found ways to get better results with less work." `[COCA-ACAD]`
-> - "No major innovations in social assistance took place during the 1950s and 1960s." `[COCA-ACAD]`
+> - Another innovation for the Olympics was sprint suits for runners. `[例]`
+>   - 中译：奥运会的另一项创新是跑步运动员的短跑服。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/innovation
+> - Technological innovations have allowed for drilling with less disturbance to the environment. `[例]`
+>   - 中译：技术创新使得钻井时对环境的干扰更少。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/innovation
+> - He says he wants to stimulate creativity and innovation. `[例]`
+>   - 中译：他说他想激发创造力和创新。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/innovation
 
 ---
 

@@ -134,9 +134,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - And what might be the underlying significance of these supposedly random acts ? `[例]`
-> - The price of the investment fell below the value of the underlying assets . `[例]`
-> - The currents are affected by the shape of the underlying rocks . `[例]`
+> - The underlying assumption is that the amount of money available is limited. `[例]`
+>   - 中译：基本假设是可用资金量是有限的。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/underlying
+> - Unemployment may be an underlying cause of the rising crime rate. `[例]`
+>   - 中译：失业可能是犯罪率上升的根本原因。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/underlying
+> - Harley’s been much more noticeable in this series and, again, has excellent underlying numbers — his 23 shot attempts are second only to Heiskanen, and his nine shots on goal are second only to Robertson. `[例]`
+>   - 中译：哈雷在这个系列赛中表现得更加引人注目，并且再次拥有出色的基础数据——他的 23 次射门仅次于海斯卡宁，他的 9 次射门仅次于罗伯逊。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/underlying
 
 ---
 

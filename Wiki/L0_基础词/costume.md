@@ -129,10 +129,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - In the beer tent you can see locals dressed in traditional costume. `[语料库]`
-> - The dancers leading the procession were in colorful and elaborate costumes. `[语料库]`
-> - She came to the audition in costume as Marie Antoinette. `[语料库]`
-> - The children wore witch costumes for Halloween. `[真题]`
+> - Many locals dressed in period costume (= typical of a particular time in history) for the celebrations. `[例]`
+>   - 中译：许多当地人穿着古装（=历史上特定时期的典型服装）参加庆祝活动。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/costume
+> - The former dancer has also designed the costumes. `[例]`
+>   - 中译：这位前舞者还设计了服装。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/costume
+> - The costumes for this production were gorgeous. `[例]`
+>   - 中译：这部作品的服装非常华丽。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/costume
 
 
 ---

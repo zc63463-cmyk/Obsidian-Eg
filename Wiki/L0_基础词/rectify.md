@@ -130,9 +130,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The fire service, gas and electricity board are on the scene to identify and rectify the cause." `[真题]`
-> - "It is always the responsibility of the retailer to rectify the situation." `[真题]`
-> - "I am determined to take whatever action is necessary to rectify the situation." `[真题]`
+> - The fire service, gas and electricity board are on the scene to identify and rectify the cause. `[真题]`
+> - It is always the responsibility of the retailer to rectify the situation. `[真题]`
+> - I am determined to take whatever action is necessary to rectify the situation. `[真题]`
 
 
 ---

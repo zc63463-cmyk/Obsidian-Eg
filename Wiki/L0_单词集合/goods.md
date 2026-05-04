@@ -125,7 +125,15 @@ good（好的）+ -s（复数后缀）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The rise of e-commerce has transformed the way goods are bought and sold across the globe.（电子商务的兴起改变了全球商品买卖的方式。）
+> - Caravanserais were also an important marketplace for commodities and _!Lin the trade of goods along the Silk Road. `[真题]`
+>   - 中译：商队旅馆也是丝绸之路沿线商品和货物贸易的重要市场。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - There is a 25 percent discount on all electrical goods until the end of the week. `[例]`
+>   - 中译：直到本周末为止，所有电器产品均有 25% 的折扣。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/goods
+> - The house insurance will not cover your personal goods. `[例]`
+>   - 中译：房屋保险不承保您的个人物品。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/goods
 
 ---
 

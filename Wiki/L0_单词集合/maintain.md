@@ -142,10 +142,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - `The army has been brought in to maintain order in the region.` `[COCA-ACAD]`
-> - `They have always maintained high standards of professional conduct.` `[COCA-ACAD]`
-> - `He had always maintained his innocence.` `[COCA-NEWS]`
-> - `The pilot was struggling to maintain control of the aircraft.` `[COCA-NEWS]`
+> - The army has been brought in to maintain order in the region. `[例]`
+>   - 中译：军队已出动维持该地区的秩序。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/maintain
+> - We have standards to maintain. `[例]`
+>   - 中译：我们有标准需要维护。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/maintain
+> - Despite living in different countries , the two families have maintained close links. `[例]`
+>   - 中译：尽管生活在不同的国家，两个家庭却保持着密切的联系。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/maintain
 
 ---
 

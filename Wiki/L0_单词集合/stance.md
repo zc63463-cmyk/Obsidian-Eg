@@ -126,9 +126,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The doctor's stance on the issue of abortion is well known . `[例]`
-> - The governor’s stance on the issue of tax cuts is well known . `[例]`
-> - He had the stance of a baseball player focusing on the ball . `[例]`
+> - What is the newspaper's stance on the war? `[例]`
+>   - 中译：该报对战争持什么立场？
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/stance
+> - He is known for his anti-abortion stance. `[例]`
+>   - 中译：他以反堕胎立场而闻名。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/stance
+> - Judges are increasingly taking a tougher stance on rape. `[例]`
+>   - 中译：法官对强奸的态度越来越强硬。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/stance
 
 ---
 

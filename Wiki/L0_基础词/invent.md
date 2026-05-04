@@ -126,8 +126,8 @@ in-(进入，拉丁语 *in*) + [[ven-vent|ven]](来，拉丁语 *venire*，来) 
 
 > [!example]- 语料
 > - Alexander Graham Bell invented the telephone in 1876. `[真题]`
-> - She stood still, trying to invent a plausible excuse for being late. `[语料库]`
-> - Many children invent an imaginary friend at some point during childhood. `[外刊]`
+> - She stood still, trying to invent a plausible excuse for being late. `[例]`
+> - Many children invent an imaginary friend at some point during childhood. `[例]`
 
 
 ---

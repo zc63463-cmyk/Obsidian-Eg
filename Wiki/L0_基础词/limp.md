@@ -127,8 +127,8 @@ review_count: 0
 
 > [!example]- 语料
 > - The dog looks like it's limping - is it OK? `[例]`
-> - He limped off to see the team medic . `[例]`
-> - Three minutes into the game , Jackson limped off the pitch with a serious ankle injury . `[例]`
+> - He limped off to see the team medic. `[例]`
+> - Three minutes into the game , Jackson limped off the pitch with a serious ankle injury. `[例]`
 
 
 ---

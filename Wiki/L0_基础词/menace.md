@@ -132,9 +132,9 @@ menace 源自拉丁语 *minacia*（威胁），*minari*（威胁、伸出）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The world is still facing the menace of terrorism." `[COCA-NEWS]`
-> - "Drunk drivers are a menace to everyone." `[COCA-NEWS]`
-> - "There was an air of controlled menace about him." `[COCA-FICT]`
+> - The world is still facing the menace of terrorism. `[COCA-NEWS]`
+> - Drunk drivers are a menace to everyone. `[COCA-NEWS]`
+> - There was an air of controlled menace about him. `[COCA-FICT]`
 
 
 ---

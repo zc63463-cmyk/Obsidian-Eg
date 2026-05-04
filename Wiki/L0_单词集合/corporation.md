@@ -127,9 +127,15 @@ corpor(体/团体) + -ation(名词后缀，表示"行为、状态、结果")
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Many multinational corporations have established branches in China. `[真题]`
-> - International affiliates account for a fast-growing segment of production in economies that open up and welcome foreign investment. `[真题]`
-> - The corporation was founded in 1920 and has since grown into a global enterprise. `[例]`
+> - She didn't want to work for a big corporation where everything was so impersonal. `[例]`
+>   - 中译：她不想在一个一切都那么没有人情味的大公司工作。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/corporation
+> - The film peeks behind the scenes of a multinational corporation. `[例]`
+>   - 中译：这部电影窥探了一家跨国公司的幕后故事。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/corporation
+> - I hated working for a large corporation. `[例]`
+>   - 中译：我讨厌在大公司工作。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/corporation
 
 ---
 

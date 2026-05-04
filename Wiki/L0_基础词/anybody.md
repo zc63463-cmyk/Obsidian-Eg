@@ -126,9 +126,15 @@ any(任何一个) + body(身体/人)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Does anybody have change for a $10 bill ? `[例]`
-> - She's a bitworried about moving to a big city where she won't know anybody. `[例]`
-> - The front door was open so she walked inside and called out, "Hello! Is there anybody in? `[例]`
+> - Is there anybody who can help me? `[例]`
+>   - 中译：有人可以帮助我吗？
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/anybody
+> - Anybody can use the pool—you don't need to be a member. `[例]`
+>   - 中译：任何人都可以使用该池——您无需成为会员。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/anybody
+> - I don't know how anybody can believe that. `[例]`
+>   - 中译：我不知道怎么会有人相信这一点。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/anybody
 
 
 ---

@@ -135,7 +135,7 @@ review_count: 0
 
 > [!example]- 语料
 > - The group is known for its belief in witchcraft and magic. `[例]`
-> - As if by magic, the car changes into a boat when it hits the water . `[例]`
+> - As if by magic, the car changes into a boat when it hits the water. `[例]`
 > - With just a click of one button , all the lights in the house turn off and the blinds close like magic. `[例]`
 
 

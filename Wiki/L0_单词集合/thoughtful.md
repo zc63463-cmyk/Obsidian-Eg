@@ -131,9 +131,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - He has a thoughtful approach to his work . `[例]`
-> - Thank you for calling when I was ill - it was very thoughtful of you. `[例]`
-> - She's a very thoughtful person . `[例]`
+> - It was very thoughtful of you to send the flowers. `[例]`
+>   - 中译：你送花真是太周到了。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/thoughtful
+> - She looked at me with a thoughtful expression. `[例]`
+>   - 中译：她带着若有所思的表情看着我。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/thoughtful
+> - He looked thoughtful for a moment. `[例]`
+>   - 中译：他看上去若有所思了一会儿。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/thoughtful
 
 ---
 

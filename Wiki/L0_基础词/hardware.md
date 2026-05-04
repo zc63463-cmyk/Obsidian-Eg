@@ -135,9 +135,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The tournament was a chance to add another piece of shiny hardware to her vast collection . `[例]`
-> - The team went home from the competition with less hardware this year . `[例]`
-> - The growth of the computer and consumer electronics industries is driven by a steady stream of advances in both hardware and software . `[例]`
+> - The tournament was a chance to add another piece of shiny hardware to her vast collection. `[例]`
+> - The team went home from the competition with less hardware this year. `[例]`
+> - The growth of the computer and consumer electronics industries is driven by a steady stream of advances in both hardware and software. `[例]`
 
 
 ---

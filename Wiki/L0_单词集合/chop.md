@@ -122,6 +122,15 @@ chop（砍/劈，拟声词源）
 ## 真题/语料关联
 
 > [!example]- 语料
+> - He was chopping wood in the yard. `[例]`
+>   - 中译：他正在院子里砍柴。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/chop
+> - Add some fresh parsley , finely chopped. `[例]`
+>   - 中译：添加一些切碎的新鲜欧芹。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/chop
+> - Chop up the onions and carrots roughly. `[例]`
+>   - 中译：将洋葱和胡萝卜大致切碎。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/chop
 - The company chopped its workforce by 20%.（公司裁减了20%的员工。）
 - a pork chop（一块猪排）
 

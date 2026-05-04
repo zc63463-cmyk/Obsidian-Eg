@@ -123,9 +123,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Chimpanzees and gorillas are both apes. `[例]`
-> - He called the new building unoriginal and said that it merely aped the classical traditions . `[例]`
-> - Chimpanzees, gorillas , and orangutans are all apes. `[例]`
+> - Her boyfriend's some big ape she met at a party. `[例]`
+>   - 中译：她的男朋友是她在一次聚会上认识的一只大猩猩。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/ape
+> - She apes the speech and manners of the rich. `[例]`
+>   - 中译：她模仿富人的言谈举止。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/ape
+> - Trump taps into racist sentiments by depicting the Obamas as apes. `[例]`
+>   - 中译：特朗普利用种族主义情绪，将奥巴马夫妇描绘成猿猴。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/ape
 
 
 ---

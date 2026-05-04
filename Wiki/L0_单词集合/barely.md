@@ -126,10 +126,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - I could barely hear what she was saying. `[真题]`
-> - They had barely enough money to survive. `[COCA-FIC]`
-> - She had barely arrived when the phone rang. `[例]`
-> - The patient was barely conscious after the surgery. `[例]`
+> - A study last year by the National Center for Science Education, a non­ profit group of scientists and teachers, looking at how state public schools across the country address climate change in science classes, gave barely half of US states a grade B + or higher. `[真题]`
+>   - 中译：国家科学教育中心（一个由科学家和教师组成的非营利组织）去年进行的一项研究调查了全国公立学校如何在科学课程中应对气候变化，结果显示美国只有一半的州获得了 B+ 或更高的成绩。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - They have barely enough (= no more than what is needed ) to pay the rent this month. `[例]`
+>   - 中译：他们的钱仅够支付本月的房租（=仅够需要的）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/barely
+> - She was barely (= only just) 15 when she won her first championship. `[例]`
+>   - 中译：当她赢得第一个冠军时，她才15岁。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/barely
 
 ---
 

@@ -134,8 +134,8 @@ harv-（收割，源自古英语 *hærfest* "秋天、收割季"）+ -est（名�
 
 > [!example]- 语料
 > - It won't be long now till harvest ( time ). `[例]`
-> - Farmers are reporting a bumper (= very big ) harvest this year . `[例]`
-> - We had a good harvest this year . `[例]`
+> - Farmers are reporting a bumper (= very big ) harvest this year. `[例]`
+> - We had a good harvest this year. `[例]`
 
 
 ---

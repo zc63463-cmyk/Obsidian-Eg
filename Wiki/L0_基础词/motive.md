@@ -134,7 +134,7 @@ review_count: 0
 > [!example]- 语料
 > - Why would she have killed him? She has no motive. `[例]`
 > - Does he have a motive for lying about where he was? `[例]`
-> - What is the motive behind (= the reason for) the bombing ? `[例]`
+> - What is the motive behind (= the reason for) the bombing? `[例]`
 
 
 ---

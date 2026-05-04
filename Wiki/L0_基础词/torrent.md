@@ -123,8 +123,8 @@ review_count: 0
 
 > [!example]- 语料
 > - Heavy storms turned the river into a raging torrent. `[例]`
-> - Fig. The TV station received torrents of angry letters (= many of them) . `[例]`
-> - We got a torrent of e-mails complaining about the advertisement . `[例]`
+> - Fig. The TV station received torrents of angry letters (= many of them). `[例]`
+> - We got a torrent of e-mails complaining about the advertisement. `[例]`
 
 
 ---

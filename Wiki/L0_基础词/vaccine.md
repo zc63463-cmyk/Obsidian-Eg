@@ -128,10 +128,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "This vaccine protects against some kinds of the bacteria." `[Cambridge]`
-> - "All persons without spleen should be given pneumococcal vaccine." `[COCA-ACAD]`
-> - "Beyond any doubt, the current vaccine is safe and efficient when administered at the proposed regimen." `[Cambridge]`
-> - "The number of people receiving flu vaccine since 2000 are shown in the table." `[COCA-ACAD]`
+> - This vaccine protects against some kinds of the bacteria. `[例]`
+> - All persons without spleen should be given pneumococcal vaccine. `[COCA-ACAD]`
+> - Beyond any doubt, the current vaccine is safe and efficient when administered at the proposed regimen. `[例]`
+> - The number of people receiving flu vaccine since 2000 are shown in the table. `[COCA-ACAD]`
 
 
 ---

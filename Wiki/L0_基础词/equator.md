@@ -120,7 +120,7 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Exposure to UV rays from the sun varies according to how far away from the equator you live . `[例]`
+> - Exposure to UV rays from the sun varies according to how far away from the equator you live. `[例]`
 > - Indonesia is on the equator. `[例]`
 > - There was a celebration as the ship crossed the equator. `[例]`
 

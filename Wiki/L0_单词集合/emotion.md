@@ -127,9 +127,15 @@ e-/em-(出，向外) + mot(移动，源自拉丁语 *movere*) + ion(名词后缀
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Research has shown that **emotions** play a critical role in decision-making. `` `[COCA-ACAD]` ``
-> - Fear can be a powerful **emotion** and there will be a bit of that over the next six weeks. `` `[COCA-NEWS]` ``
-> - The second goal of the study was to explore the possibility that maltreated foster children were more sensitive to the **emotion** of anger. `` `[COCA-ACAD]` ``
+> - Like a lot of men, he finds it hard to express his emotions. `[例]`
+>   - 中译：像许多男人一样，他发现很难表达自己的情感。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/emotion
+> - My mother was overcome with emotion and burst into tears. `[例]`
+>   - 中译：母亲激动不已，泪流满面。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/emotion
+> - He showed no emotion as he walked into the witness box. `[例]`
+>   - 中译：当他走进证人席时，他没有表现出任何情绪。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/emotion
 
 ---
 

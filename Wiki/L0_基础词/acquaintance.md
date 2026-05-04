@@ -123,9 +123,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - I have absolutely no acquaintance with the family . `[例]`
-> - You have yet to have the pleasure of her acquaintance. `[例]`
-> - A small girl of my acquaintance insists on eating cornflakes without milk , flake by flake . `[例]`
+> - Claire has a wide circle of friends and acquaintances. `[例]`
+>   - 中译：克莱尔有广泛的朋友和熟人圈子。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/acquaintance
+> - He's just a business acquaintance. `[例]`
+>   - 中译：他只是一个生意上的熟人。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/acquaintance
+> - I bumped into an old acquaintance on the train. `[例]`
+>   - 中译：我在火车上遇见了一位老熟人。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/acquaintance
 
 
 ---

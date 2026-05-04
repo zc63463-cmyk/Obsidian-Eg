@@ -129,9 +129,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - A call will cost you around 25 cents. `[例]`
-> - On the foreign exchanges the pound rose two cents against the dollar . `[例]`
-> - The newspaper costs 50 cents. `[例]`
+> - A one-minute phone call to the UK cost 10 cents. `[例]`
+>   - 中译：打英国一分钟电话要花 10 美分。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/cent
+> - The price of diesel was increased by 17 cents per litre. `[例]`
+>   - 中译：柴油价格每升上涨17美分。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/cent
+> - The $300 he'd spent on a ticket was worth every cent. `[例]`
+>   - 中译：他花在一张票上的 300 美元是值得的。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/cent
 
 
 ---

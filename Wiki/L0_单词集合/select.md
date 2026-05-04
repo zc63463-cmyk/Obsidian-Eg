@@ -118,10 +118,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The committee will select the best candidate for the position after a series of rigorous interviews. `[真题]`
-> - It is important to select the right method for data analysis to ensure the validity of the results. `[COCA-ACAD]`
-> - Critics say the city's methodology for selecting projects resulted from years of poor urban planning. `[COCA-ACAD]`
-> - Only a select group of students was invited to participate in the advanced research seminar. `[COCA-ACAD]`
+> - There was a choice of four prizes , and the winner could select one of them. `[例]`
+>   - 中译：有四个奖品可供选择，获胜者可以选择其中一个。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/select
+> - A mouse is a device which makes it easier to select different options from computer menus. `[例]`
+>   - 中译：鼠标是一种可以更轻松地从计算机菜单中选择不同选项的设备。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/select
+> - How do you select people for promotion? `[例]`
+>   - 中译：您如何选择晋升人员？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/select
 
 ---
 

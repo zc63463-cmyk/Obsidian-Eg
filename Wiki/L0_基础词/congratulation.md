@@ -126,8 +126,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Please accept my warmest congratulations on your graduation."（请接受我对您毕业的最热烈祝贺——考研写作常用表达）
-> - "The president sent a letter of congratulation to the Olympic champion."（总统向奥运冠军发送了一封贺信——考研阅读常见表达）
+> - We're getting married!’ ‘Congratulations! `[例]`
+>   - 中译：我们要结婚了！”“恭喜！
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/congratulation
+> - Congratulations on your exam results! `[例]`
+>   - 中译：恭喜您取得考试成绩！
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/congratulation
+> - Let me offer you my congratulations for being elected. `[例]`
+>   - 中译：请允许我祝贺你当选。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/congratulation
 
 
 ---

@@ -125,9 +125,9 @@ spark（火花，基础词汇，源自古英语 *spearca*）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Sparks were flying out of the bonfire and blowing everywhere . `[例]`
+> - Sparks were flying out of the bonfire and blowing everywhere. `[例]`
 > - You can start a fire by rubbing two dry pieces of wood together until you produce a spark. `[例]`
-> - That small incident was the spark that set off the street riots . `[例]`
+> - That small incident was the spark that set off the street riots. `[例]`
 
 
 ---

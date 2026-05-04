@@ -3,10 +3,8 @@ title: "archaeologist"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 社会专业
 prototype: 考古学家（研究古代遗迹的人）
@@ -43,7 +41,7 @@ arch(古代的，希腊语 *archaios*) + aeol(=logy, 学科) + -ist(从事……
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**研究古代起源的人**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **研究古代的人**（职业层面）
@@ -62,7 +60,7 @@ arch(古代的，希腊语 *archaios*) + aeol(=logy, 学科) + -ist(从事……
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -72,7 +70,7 @@ arch(古代的，希腊语 *archaios*) + aeol(=logy, 学科) + -ist(从事……
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > archaeologist = archaeo（古代）+ logy（学科）+ ist（人）= 研究古代学科的人 = 考古学家。和 [[archaeological]]（考古学的）、[[archaeology]]（考古学）同源。考古学家的工作就是从泥土中挖掘过去的秘密。
@@ -84,7 +82,7 @@ arch(古代的，希腊语 *archaios*) + aeol(=logy, 学科) + -ist(从事……
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -97,12 +95,12 @@ arch(古代的，希腊语 *archaios*) + aeol(=logy, 学科) + -ist(从事……
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[futurist]]：未来学家（archaeologist 的反义：研究过去↔研究未来）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -113,26 +111,19 @@ arch(古代的，希腊语 *archaios*) + aeol(=logy, 学科) + -ist(从事……
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **archaeologist discovered/unearthed**：考古学家发现/发掘
 > - **team of archaeologists**：考古学家团队
 > - **archaeological archaeologist**：（注意：通常用 archaeological 修饰名词，archaeologist 作主语）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - Archaeologists have unearthed a 5,000-year-old settlement in southern Turkey.`[例]`
-> - The archaeologist spent decades studying the ruins of Pompeii.`[例]`
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
+> [!example]- 语料
+> - Archaeologists have unearthed a 5,000-year-old settlement in southern Turkey. `[例]`
+> - The archaeologist spent decades studying the ruins of Pompeii. `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

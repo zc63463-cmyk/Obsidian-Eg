@@ -131,8 +131,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - At the age of 25, he decided to devote himself to God . `[例]`
-> - Over half his speech was devoted to the issue of unemployment . `[例]`
+> - At the age of 25, he decided to devote himself to God. `[例]`
+> - Over half his speech was devoted to the issue of unemployment. `[例]`
 > - The report recommends that more resources be devoted to teaching four-year-olds. `[例]`
 
 

@@ -126,10 +126,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "In contrast to France's actions, Denmark's fashion industry agreed last month on rules and sanctions regarding the age, health, and other characteristics of models." `[真题]`
-> - "Trade sanctions were imposed against any country that refused to sign the agreement." `[真题]`
-> - "The UN announced new economic sanctions against countries abusing human rights." `[权威语料]`
-> - "Their economy crumbled under the weight of United Nations sanctions." `[权威语料]`
+> - In contrast to France's actions, Denmark's fashion industry agreed last month on rules and sanctions regarding the age, health, and other characteristics of models. `[真题]`
+> - Trade sanctions were imposed against any country that refused to sign the agreement. `[真题]`
+> - The UN announced new economic sanctions against countries abusing human rights. `[例]`
+> - Their economy crumbled under the weight of United Nations sanctions. `[例]`
 
 
 ---

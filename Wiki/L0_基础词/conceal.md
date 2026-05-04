@@ -125,10 +125,15 @@ con-(一起，完全) + [[ceal|cel-]](隐藏，拉丁语 *celare* "隐藏")
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The defendant is accused of attempting to conceal evidence from the investigators. ` [COCA-NEWS]`
-> - The editorial accused the government of concealing the truth from the public. ` [COCA-NEWS]`
-> - She could barely conceal her anger when she heard the decision. ` [COCA-FIC]`
-> - Do not conceal health problems from a prospective insurer. ` [例]`
+> - The paintings were concealed beneath a thick layer of plaster. `[例]`
+>   - 中译：这些画被隐藏在厚厚的石膏层下面。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/conceal
+> - Tim could barely conceal his disappointment. `[例]`
+>   - 中译：蒂姆几乎无法掩饰他的失望。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/conceal
+> - She sat down to conceal the fact that she was trembling. `[例]`
+>   - 中译：她坐下来掩饰自己颤抖的事实。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/conceal
 
 
 ---

@@ -141,8 +141,8 @@ review_count: 0
 
 > [!example]- 语料
 > - I put my money in the slot and pressed the button but nothing came out. `[例]`
-> - The holder has slots for 100 CDs . `[例]`
-> - The programme will occupy that half-hour slot before the six o'clock news . `[例]`
+> - The holder has slots for 100 CDs. `[例]`
+> - The programme will occupy that half-hour slot before the six o'clock news. `[例]`
 
 
 ---

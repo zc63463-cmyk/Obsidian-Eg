@@ -125,9 +125,9 @@ ripe（成熟的，古英语 *rīpe*，日耳曼语源，可能与 *reap* "收�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The time was ripe for change in the company." `[真题]`
-> - "The pods split open when the beans are ripe." `[真题]`
-> - "A last-minute injury robbed me of my place on the team, but I know the opportunity will be ripe again." `[真题]`
+> - The time was ripe for change in the company. `[真题]`
+> - The pods split open when the beans are ripe. `[真题]`
+> - A last-minute injury robbed me of my place on the team, but I know the opportunity will be ripe again. `[真题]`
 
 
 ---

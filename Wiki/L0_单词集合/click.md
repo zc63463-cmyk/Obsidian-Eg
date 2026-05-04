@@ -126,8 +126,15 @@ click 为拟声词（onomatopoeia），模仿短促的咔嗒声，无传统词�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "With just a click of a button, users can access vast amounts of information online."（只需点击一下按钮，用户就可以在线获取大量信息。）——考研高频表达
-> - "It didn't take long for the new team members to click and start working together effectively."（新团队成员很快就产生了默契，开始高效合作。）——考研高频表达
+> - When you have selected the file you want , click the "Open" box. `[例]`
+>   - 中译：选择所需文件后，单击“打开”框。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/click
+> - Make sure the file you're copying to is open before you click "Paste". `[例]`
+>   - 中译：在单击“粘贴”之前，请确保要复制到的文件已打开。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/click
+> - A website may have many different web pages for you to click on and explore. `[例]`
+>   - 中译：一个网站可能有许多不同的网页供您点击和浏览。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/click
 
 
 ---

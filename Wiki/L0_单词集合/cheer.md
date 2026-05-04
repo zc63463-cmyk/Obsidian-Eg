@@ -129,8 +129,15 @@ cheer（源自古法语 chiere"面部表情"，再追溯至拉丁语 cara"脸"�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The crowd cheered wildly when the team scored the winning goal."（当球队打进制胜球时，人群疯狂欢呼。）——考研高频表达
-> - "Her words of encouragement cheered him up considerably."（她的鼓励之词让他振作了很多。）——考研高频表达
+> - Everyone cheered as the winners received their medals. `[例]`
+>   - 中译：当获奖者领取奖牌时，每个人都欢呼雀跃。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/cheer
+> - He was cheering for the other side. `[例]`
+>   - 中译：他在为对方加油。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/cheer
+> - The audience clapped and cheered when she stood up to speak. `[例]`
+>   - 中译：当她站起来讲话时，观众鼓掌欢呼。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/cheer
 
 ---
 

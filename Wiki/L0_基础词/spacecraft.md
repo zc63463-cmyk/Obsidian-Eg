@@ -117,7 +117,7 @@ space(太空，[[space]]) + craft(飞行器/工艺)
 > [!example]- 语料
 > - An unmanned Chinese spacecraft has returned safely to Earth. `[例]`
 > - A spacecraft orbiting the earth. `[例]`
-> - The Starlink 17-14 mission will add another 24 broadband internet satellites to the company’s low Earth orbit constellation, which consists of more than 10,200 spacecraft . `[例]`
+> - The Starlink 17-14 mission will add another 24 broadband internet satellites to the company’s low Earth orbit constellation, which consists of more than 10,200 spacecraft. `[例]`
 
 
 ---

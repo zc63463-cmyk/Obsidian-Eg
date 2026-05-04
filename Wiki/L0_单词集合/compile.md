@@ -126,9 +126,15 @@ com-(共同/一起) + [[pile]](堆) → compile（堆在一起）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She compiled a comprehensive guide to European art. `[COCA-ACAD]`
-> - The data compiled by researchers suggests a significant trend. `[COCA-ACAD]`
-> - You need to compile the source code before running it. `[例]`
+> - We're compiling some facts and figures for a documentary on the subject. `[例]`
+>   - 中译：我们正在为有关该主题的纪录片收集一些事实和数据。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/compile
+> - It took years to compile the dictionary. `[例]`
+>   - 中译：编纂这本词典花了数年时间。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/compile
+> - They have compiled a directory of services for children. `[例]`
+>   - 中译：他们编制了一份儿童服务目录。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/compile
 
 ---
 

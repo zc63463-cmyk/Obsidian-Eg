@@ -134,11 +134,15 @@ com-(一起) + [[pon|pos-pon-posit]](放置，拉丁语 *ponere*) + -d(后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The high rate of unemployment compounded the country's economic problems. ` [COCA-NEWS]`
-> - Salt is a compound of sodium and chlorine. ` [COCA-ACAD]`
-> - Additional loss of life will only compound the tragedy. ` [COCA-NEWS]`
-> - The air smelled like a compound of diesel and petrol fumes. ` [COCA-FIC]`
-> - Fine wine has had a compound annual growth rate of 10% over the last 30 years. ` [例]`
+> - The air smelled like a compound of diesel and petrol fumes. `[例]`
+>   - 中译：空气中弥漫着柴油和汽油混合气味。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/compound
+> - Common salt is a compound of sodium and chlorine. `[例]`
+>   - 中译：食盐是钠和氯的化合物。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/compound
+> - Most compound nouns form their plurals in the usual way. `[例]`
+>   - 中译：大多数复合名词以通常的方式形成复数形式。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/compound
 
 
 ---

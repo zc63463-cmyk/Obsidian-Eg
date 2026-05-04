@@ -121,9 +121,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Traditionally, the president designates his or her successor . `[例]`
-> - Thompson has been designated as team captain . `[例]`
-> - He was designated to be the unit's English translator . `[例]`
+> - Traditionally, the president designates his or her successor. `[例]`
+>   - 中译：传统上，总统指定他或她的继任者。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/designate
+> - Thompson has been designated as team captain. `[例]`
+>   - 中译：汤普森已被指定为球队队长。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/designate
+> - He was designated to be the unit's English translator. `[例]`
+>   - 中译：他被指定为单位的英语翻译。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/designate
 
 ---
 

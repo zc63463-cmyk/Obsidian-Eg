@@ -137,8 +137,15 @@ pre-(在前面/预先) + jud(判断) + -ice(名词后缀) → 在了解之前就
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Prejudice against people of different races or religions is a serious social problem that needs to be addressed."（对不同种族或宗教信仰者的偏见是一个需要解决的社会问题。）——考研高频表达
-> - "The judge must set aside any personal prejudice and make a decision based solely on the evidence."（法官必须抛开任何个人偏见，仅根据证据做出裁决。）——考研高频表达
+> - Laws against racial prejudice must be strictly enforced. `[例]`
+>   - 中译：必须严格执行反对种族偏见的法律。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/prejudice
+> - The campaign aims to dispel the prejudice that AIDS is confined to the homosexual community. `[例]`
+>   - 中译：该活动旨在消除人们认为艾滋病仅限于同性恋群体的偏见。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/prejudice
+> - He claims that prejudice against homosexuals would cease overnight if all the gay stars in the country were honest about their sexuality. `[例]`
+>   - 中译：他声称，如果全国所有的同性恋明星都诚实地面对自己的性取向，那么对同性恋者的偏见就会在一夜之间消失。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/prejudice
 ---
 
 

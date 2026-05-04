@@ -128,9 +128,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Three provisions of Arizona's plan were overturned because they overstepped the authority of federal immigration law. `[真题]`
-> - It turned from God and the authority of the Roman Catholic Church and instead favoured a more humanistic approach to being. `[真题]`
-> - She is a recognized authority on the history of modern art. `[COCA-ACAD]`
+> - We need to get the support of someone in authority (= an important or high-ranking person ). `[例]`
+>   - 中译：我们需要获得权威人士（=重要或高层人士）的支持。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/authority
+> - They've been acting illegally and without authority (= permission ) from the council. `[例]`
+>   - 中译：他们的行为是非法的，并且没有得到理事会的授权（=许可）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/authority
+> - I'll give my lawyers authority (= permission ) to act on my behalf. `[例]`
+>   - 中译：我将授权我的律师代表我行事。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/authority
 
 ---
 

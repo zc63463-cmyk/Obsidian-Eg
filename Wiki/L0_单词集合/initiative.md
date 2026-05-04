@@ -128,10 +128,15 @@ in-(进入) + [[it]](走/行走) + -i- + -ative(形容词/名词后缀，具有�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The peace initiative was welcomed by both sides." `[真题]`
-> - "Although she was quite young, she showed a lot of initiative and was promoted to manager after a year." `[COCA-ACAD]`
-> - "The governor has proposed a new initiative to improve conditions in urban schools." `[COCA-ACAD]`
-> - "The company has the opportunity to seize the initiative by getting its new products to the market before its competitors." `[COCA-ACAD]`
+> - The peace initiative was welcomed by both sides. `[例]`
+>   - 中译：这一和平倡议受到双方欢迎。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/initiative
+> - The German leadership lauded the Russian initiative. `[例]`
+>   - 中译：德国领导人对俄罗斯的倡议表示赞赏。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/initiative
+> - The UN called on all parties in the conflict to take a positive stance towards the new peace initiative. `[例]`
+>   - 中译：联合国呼吁冲突各方对新和平倡议采取积极立场。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/initiative
 ---
 
 

@@ -134,10 +134,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Women who shoulder the double burden of childcare and full-time work. `[真题]`
-> - He shouldered the responsibility for the team's failure. `[真题]`
-> - She shouldered her way through the crowd. `[真题]`
-> - Pharmaceutical industry executives say they cannot be expected to shoulder the burden of diseases of the poor alone. `[COCA-ACAD]`
+> - I rested my head on her shoulder. `[例]`
+>   - 中译：我把头靠在她的肩膀上。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/shoulder
+> - Then she put her arm around my shoulder and gave me a kiss. `[例]`
+>   - 中译：然后她用手臂搂住我的肩膀并吻了我。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/shoulder
+> - She glanced nervously over her shoulder to make sure no one else was listening. `[例]`
+>   - 中译：她紧张地回头看了一眼，以确保没有其他人在听。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/shoulder
 
 ---
 

@@ -129,9 +129,15 @@ con-(共同/一起) + [[dict|dict/dic]](说) + -ion(名词后缀) → 共同说�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The condition of the roads has deteriorated significantly over the years. `[真题]`
-> - The prisoners were held in inhumane conditions. `[真题]`
-> - You may borrow the book on condition that you return it by Friday. `[COCA-ACAD]`
+> - Travellers on the Silk Road 7 possibility of being attacked by thieves or being 8 to extreme weather conditions. `[真题]`
+>   - 中译：丝绸之路上的旅行者 7 遭受小偷袭击或遭遇极端天气条件的可能性 8 。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - Mum's still got our pram - it's very old , but it's in perfect condition. `[例]`
+>   - 中译：妈妈还保留着我们的婴儿车——虽然很旧，但状况完好。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/condition
+> - They left the flat in a terrible condition - there was mess everywhere. `[例]`
+>   - 中译：他们离开时公寓的状况非常糟糕——到处都是一团糟。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/condition
 
 ---
 

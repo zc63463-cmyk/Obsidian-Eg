@@ -121,10 +121,10 @@ kidney 源自古英语 *cwiðe*，与 kid（小山羊）形似但词源不同。
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "You can live with just part of a liver or a colon, or only one kidney or lung." `[真题]`
-> - "Several of the patients had received kidney transplant." `[通用语料]`
-> - "More than a third of those waiting need a new kidney and have to be hooked up to a dialysis machine four times a week." `[新闻语料]`
-> - "She urgently needs a kidney transplant." `[柯林斯词典]`
+> - You can live with just part of a liver or a colon, or only one kidney or lung. `[真题]`
+> - Several of the patients had received kidney transplant. `[例]`
+> - More than a third of those waiting need a new kidney and have to be hooked up to a dialysis machine four times a week. `[例]`
+> - She urgently needs a kidney transplant. `[例]`
 
 
 ---

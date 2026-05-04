@@ -115,7 +115,7 @@ space(空间，[[space]]) + -ious(形容词后缀，充满……的)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - A spacious house is comfortable . `[例]`
+> - A spacious house is comfortable. `[例]`
 > - The hotel rooms are spacious and comfortable. `[例]`
 > - Almost all of the guests were able to fit into the spacious living room. `[例]`
 

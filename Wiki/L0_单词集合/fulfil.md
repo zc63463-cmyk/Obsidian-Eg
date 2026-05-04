@@ -121,8 +121,15 @@ ful-（full 满）+ [[fil|fil-]]（填充）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Education should fulfil its purpose of enabling individuals to reach their full potential."（教育应实现其使个人充分发挥潜能的目的。）——考研高频表达
-> - "He worked tirelessly to fulfil his duties as a public servant."（他不知疲倦地工作以履行其作为公务员的职责。）——考研高频表达
+> - A school fails if it does not fulfil the needs of its pupils. `[例]`
+>   - 中译：如果一所学校不能满足学生的需要，那么它就失败了。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/fulfil
+> - Does she have the ability and skills needed to fulfil the requirements of the job? `[例]`
+>   - 中译：她是否具备完成工作要求所需的能力和技能？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/fulfil
+> - At the age of 45, she finally fulfilled her ambition to run a marathon. `[例]`
+>   - 中译：45岁时，她终于实现了跑马拉松的梦想。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/fulfil
 
 ---
 

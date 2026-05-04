@@ -131,8 +131,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The government is investing heavily in green energy to reduce carbon emissions."（政府正在大力投资绿色能源以减少碳排放）
-> - "He is still green and needs more time to develop his skills."（他仍然缺乏经验，需要更多时间来发展技能）
+> - The researchers proposed a green solution to the problem. `[例]`
+> - The company adopted a green approach to improve efficiency. `[例]`
+> - The plan offers a green option for small organizations. `[例]`
 
 
 ---

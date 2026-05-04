@@ -125,8 +125,8 @@ pest(瘟疫，害虫，拉丁语 *pestis*)
 
 > [!example]- 语料
 > - Each year ten per cent of the crop is lost to a pest called corn rootworm. `[真题]`
-> - Insecticide resistance has limited the number of available chemical options for insect pest control. `[学术]`
-> - Eradicating bedbugs requires help from a pest control professional. `[词典]`
+> - Insecticide resistance has limited the number of available chemical options for insect pest control. `[例]`
+> - Eradicating bedbugs requires help from a pest control professional. `[例]`
 
 
 ---

@@ -136,7 +136,7 @@ sin-(没有，否定) + cere(蜡，拉丁语 *cera*) → 没有掺蜡的 → 纯
 
 > [!example]- 语料
 > - He offered a sincere apology for the mistake he had made. `[真题]`
-> - She has a sincere interest in painting and spends hours in the studio every week. `[外刊]`
+> - She has a sincere interest in painting and spends hours in the studio every week. `[例]`
 > - If the desire to convert is sincere, a relationship can begin between the two parties. `[真题]`
 
 

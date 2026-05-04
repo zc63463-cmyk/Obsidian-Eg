@@ -130,8 +130,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Hugging protects people who are under stress from the increased risk for colds that's usually associated with stress," notes Sheldon Cohen.（"拥抱可以保护有压力的人免受通常与压力相关的感冒风险增加的影响，"谢尔顿·科恩指出。）——考研高频表达
-> - "Instead of a plan of action, they continue to press for more research—a classic case of 'paralysis by analysis'."（不是制定行动计划，而是继续寻求更多的研究——一个"分析致瘫痪"的经典案例。）——2005年阅读Text2
+> - In New Hampshire, where the rental vacancy rate has dropped :below 1 percent, housing advocates fear unchecked short-term rentals will put further pressure on an already strained market. `[真题]`
+>   - 中译：在新罕布什尔州，租赁空置率已降至 1% 以下，住房倡导者担心不受控制的短期租金会给本已紧张的市场带来进一步压力。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - He put too much pressure on the door handle and it snapped. `[例]`
+>   - 中译：他对门把手施加了太大的压力，门把手就折断了。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/pressure
+> - You can stop bleeding by applying pressure close to the injured area. `[例]`
+>   - 中译：您可以通过在受伤部位附近施加压力来止血。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/pressure
 ---
 
 

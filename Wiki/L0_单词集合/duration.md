@@ -122,10 +122,15 @@ dur(持续) + -ation(行为/状态)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The school was used as a hospital for the duration of the war." `[COCA-ACAD]`
-> - "He was given the task of protecting her for the duration of the trial." `[COCA-ACAD]`
-> - "This remained the case throughout the duration of the war." `[COCA-ACAD]`
-> - "You should gradually increase the duration of your workout." `[COCA-ACAD]`
+> - He planned a stay of two years ' duration. `[例]`
+>   - 中译：他计划停留两年。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/duration
+> - I guess we're stuck with each other for the duration (of the journey ). `[例]`
+>   - 中译：我想我们在（旅途中）的整个过程中都被困住了。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/duration
+> - Most placements of agency IT staff are of a three-month or six-month duration. `[例]`
+>   - 中译：大多数机构 IT 员工的安置期限为三个月或六个月。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/duration
 
 ---
 

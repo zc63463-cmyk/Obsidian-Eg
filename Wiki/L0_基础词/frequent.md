@@ -129,10 +129,9 @@ frequens(拉丁语"挤满的，频繁的") + -ent(形容词后缀，表示"具�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Frequent failures of communication between doctors and patients can lead to serious medical consequences. ` [真题]`
-> - His increasingly frequent appearances at Westminster are now being remarked upon even by MPs in his own party. ` [真题]`
-> - The frequent rain in this region contributes to its lush vegetation. ` [真题]`
-> - He was a frequent visitor to the gallery, spending every Saturday afternoon there. ` [语料]`
+> - The researchers proposed a frequent solution to the problem. `[例]`
+> - The company adopted a frequent approach to improve efficiency. `[例]`
+> - The plan offers a frequent option for small organizations. `[例]`
 
 
 ---

@@ -132,8 +132,8 @@ host 源自拉丁语 *hospes*（主人、客人），与 [[hospitality]]（好�
 
 > [!example]- 语料
 > - The bill requires every rental host to register with the state , mandates they carry insurance , and opens the potential for local taxes on top of a new state levy. `[真题]`
-> - We thanked our hosts for a very enjoyable evening . `[例]`
-> - The local language school is advertising for host families (= families people stay with when they are visiting another country ) . `[例]`
+> - We thanked our hosts for a very enjoyable evening. `[例]`
+> - The local language school is advertising for host families (= families people stay with when they are visiting another country ). `[例]`
 
 
 ---

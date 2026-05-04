@@ -123,9 +123,15 @@ phys(自然/物质) + -ician(专家/从事…职业的人)
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - Primary care physicians play a crucial role in the healthcare system. `[真题]`
-> > - A physician was permitted to overrule these recommendations by providing the reason at the bottom of the sheet. `[COCA-ACAD]`
-> > - Please consult a physician or medical professional for personal medical advice or treatment. `[COCA-NEWS]`
+> - Dr Dennett is a practicing family physician in Atlanta. `[例]`
+>   - 中译：丹尼特医生是亚特兰大的一名执业家庭医生。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/physician
+> - Please consult your physician before beginning any new exercise program. `[例]`
+>   - 中译：在开始任何新的锻炼计划之前，请咨询您的医生。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/physician
+> - Over a roughly three-month period in 2022, the physician allegedly wrote fraudulent prescriptions for highly addictive medications without ever examining patients, while his son found buyers and collected payments as part of the scheme, according to the Drug Enforcement Administration (DEA). `[例]`
+>   - 中译：据美国缉毒局 (DEA) 称，在 2022 年大约三个月的时间里，这名医生据称在没有检查患者的情况下就为高度成瘾的药物开出了欺诈性处方，而他的儿子则寻找买家并收取费用，作为该计划的一部分。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/physician
 
 ---
 

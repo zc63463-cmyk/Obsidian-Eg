@@ -130,10 +130,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - There has been a sharp increase in the number of students applying for the program. `[真题]`
-> - She has a sharp mind and can quickly grasp complex concepts. `[真题]`
-> - The group reported a sharp decline in full-year profits. `[COCA-ACAD]`
-> - The shares opened at 28p yesterday, in sharp contrast to a high of 233p in August 1988. `[COCA-ACAD]`
+> - She nudged me with a sharp elbow , to tell me to be quiet. `[例]`
+>   - 中译：她用尖锐的手肘碰了碰我，叫我安静。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/sharp
+> - I have this sharp pain in my chest , doctor. `[例]`
+>   - 中译：医生，我的胸部剧烈疼痛。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/sharp
+> - He was a little sharp with me when I asked him to help. `[例]`
+>   - 中译：当我请他帮忙时，他对我有点尖刻。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/sharp
 
 ---
 

@@ -136,8 +136,8 @@ review_count: 0
 
 > [!example]- 语料
 > - The prize was split between Susan and Kate. `[例]`
-> - Split the aubergines in half and cover with breadcrumbs . `[例]`
-> - The teacher split the children (up) into three groups . `[例]`
+> - Split the aubergines in half and cover with breadcrumbs. `[例]`
+> - The teacher split the children (up) into three groups. `[例]`
 
 
 ---

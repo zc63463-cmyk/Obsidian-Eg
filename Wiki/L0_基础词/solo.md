@@ -137,9 +137,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Baltimore scored first when Gibbons hit a solo home run . `[例]`
-> - Phillips smashed a solo shot in the third inning . `[例]`
-> - Parker's solo on "A Night in Tunisia" was so amazing that the pianist backing him simply stopped playing . `[例]`
+> - Baltimore scored first when Gibbons hit a solo home run. `[例]`
+> - Phillips smashed a solo shot in the third inning. `[例]`
+> - Parker's solo on "A Night in Tunisia" was so amazing that the pianist backing him simply stopped playing. `[例]`
 
 
 ---

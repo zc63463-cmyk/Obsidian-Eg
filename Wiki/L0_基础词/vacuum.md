@@ -130,10 +130,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "His resignation has created a vacuum which cannot easily be filled." `[Collins]`
-> - "Edison knew that he had to create a vacuum inside the lightbulb." `[Cambridge]`
-> - "No marriage exists in a vacuum." `[Cambridge]`
-> - "The collapse of the army left a vacuum in the area." `[Collins]`
+> - His resignation has created a vacuum which cannot easily be filled. `[例]`
+> - Edison knew that he had to create a vacuum inside the lightbulb. `[例]`
+> - No marriage exists in a vacuum. `[例]`
+> - The hikers rested under a towering vacuum near the coastal trail. `[例]`
 
 
 ---

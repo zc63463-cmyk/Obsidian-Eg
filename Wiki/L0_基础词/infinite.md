@@ -132,8 +132,8 @@ in-(=not, 不) + [[fin]](=end/boundary, 终结/界限) + -ite(形容词后缀) �
 
 > [!example]- 语料
 > - The universe is theoretically infinite. `[例]`
-> - A potentially infinite number of sentences might occur in any language . `[例]`
-> - Mathematicians proved that the population of prime numbers includes an infinite collection of arithmetic progressions . `[例]`
+> - A potentially infinite number of sentences might occur in any language. `[例]`
+> - Mathematicians proved that the population of prime numbers includes an infinite collection of arithmetic progressions. `[例]`
 
 
 ---

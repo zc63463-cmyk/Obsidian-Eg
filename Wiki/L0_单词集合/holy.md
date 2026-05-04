@@ -125,8 +125,15 @@ holy 源自古英语 hālig，与 whole（完整的）同源，原始日耳曼�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "At least three Russian stations are already operating in Antarctica, part of its effort to challenge the dominance of the American GPS."（至少有三个俄罗斯站已经在南极洲运行，这是其挑战美国GPS主导地位努力的一部分。）——考研高频表达
-> - "Jerusalem is a holy city for three major religions."（耶路撒冷是三大宗教的圣城。）——考研高频表达
+> - He was regarded as righteous and holy. `[例]`
+>   - 中译：他被视为正义和神圣。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/holy
+> - She believes that the union of man and woman in holy matrimony is for ever. `[例]`
+>   - 中译：她相信男人和女人在神圣婚姻中的结合是永远的。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/holy
+> - The soldiers deliberately defiled all the holy places. `[例]`
+>   - 中译：士兵们故意玷污了所有的圣地。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/holy
 ---
 
 

@@ -124,9 +124,15 @@ a-（在……上/进入……，[[ab]] 的变体，表示方向）+ board（木
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The flight attendant welcomed us aboard. `[例]`
-> - The train's about to leave . All aboard! `[例]`
-> - We spent two months aboard ship (= on the ship ) . `[例]`
+> - He was already aboard the plane. `[例]`
+>   - 中译：他已经登上了飞机。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/aboard
+> - The plane crashed, killing all 157 passengers aboard. `[例]`
+>   - 中译：飞机坠毁，机上 157 名乘客全部遇难。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/aboard
+> - The Wu-Tang Clan founder’s Kill Bill collaborator and mentor Quentin Tarantino is aboard to present the film, which follows an ex-military convict seeking redemption in a small town. `[例]`
+>   - 中译：《武当派》创始人、《杀死比尔》的合作者兼导师昆汀·塔伦蒂诺将出演这部电影，讲述了一名前军事罪犯在小镇寻求救赎的故事。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/aboard
 
 
 ---

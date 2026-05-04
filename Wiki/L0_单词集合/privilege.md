@@ -138,8 +138,14 @@ priv(个人) + [[leg]](法律) + -e(后缀) = privilege（关于个人的法律�
 
 > [!example]- 语料
 > - Healthcare should be a right , not a privilege. `[例]`
-> - Senior management enjoy certain privileges, such as company cars and health insurance . `[例]`
+>   - 中译：医疗保健应该是一项权利，而不是特权。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/privilege
+> - Senior management enjoy certain privileges, such as company cars and health insurance. `[例]`
+>   - 中译：高级管理人员享有一定的特权，例如公司用车和健康保险。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/privilege
 > - I had the privilege of interview ing Picasso in the 1960s. `[例]`
+>   - 中译：我有幸在 20 世纪 60 年代采访过毕加索。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/privilege
 ---
 
 

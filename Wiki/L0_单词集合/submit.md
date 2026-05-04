@@ -134,9 +134,15 @@ sub-(在下) + 建议创建词根笔记 [[mit]](送，派) = 从下方送上去
 ## 真题/语料关联
 
 > [!example]- 语料
-> - You must submit your application before 1 January . `[例]`
-> - The developers submitted building plans to the council for approval . `[例]`
-> - In conclusion , I submit that the proposal will not work without some major changes . `[例]`
+> - Completed projects must be submitted by 10 March. `[例]`
+>   - 中译：已完成的项目必须在 3 月 10 日之前提交。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/submit
+> - She submitted her report to the committee. `[例]`
+>   - 中译：她向委员会提交了报告。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/submit
+> - Articles should be submitted electronically as email attachments. `[例]`
+>   - 中译：文章应以电子邮件附件的形式以电子方式提交。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/submit
 
 ---
 

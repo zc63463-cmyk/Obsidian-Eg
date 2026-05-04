@@ -129,9 +129,9 @@ member 源自拉丁语 *membrum*（肢体、部分），原始印欧语 *mems-*�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "In 2009 the number of union members in America's public sector passed that of their fellow members in the private sector." `[真题]`
-> - "Michael is a member of the Royal Society for the Protection of Birds." `[COCA-NEWS]`
-> - "Close friendships developed between crew members on the ship." `[COCA-ACAD]`
+> - In 2009 the number of union members in America's public sector passed that of their fellow members in the private sector. `[真题]`
+> - Michael is a member of the Royal Society for the Protection of Birds. `[COCA-NEWS]`
+> - Close friendships developed between crew members on the ship. `[COCA-ACAD]`
 
 
 ---

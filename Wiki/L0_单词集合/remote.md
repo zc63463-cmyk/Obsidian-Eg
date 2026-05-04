@@ -135,10 +135,15 @@ re-(back/again) + 建议创建词根笔记 [[re/rem]](to flow/流动) + -ote(形
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The remote village had no access to electricity or running water. `[真题]`
-> - The chances of success seem remote at this stage. `[真题]`
-> - They live in a remote corner of Scotland, miles from the nearest store. `[COCA-ACAD]`
-> - Teenagers are forced to study subjects that seem remote from their daily lives. `[COCA-ACAD]`
+> - Australia is large , and remote from the great centres of population of the world. `[例]`
+>   - 中译：澳大利亚幅员辽阔，而且远离世界主要人口中心。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/remote
+> - They live in a remote corner of Scotland , miles from the nearest shop. `[例]`
+>   - 中译：他们住在苏格兰的一个偏远角落，距离最近的商店有数英里。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/remote
+> - This enables you to get remote access to your email. `[例]`
+>   - 中译：这使您能够远程访问您的电子邮件。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/remote
 
 ---
 

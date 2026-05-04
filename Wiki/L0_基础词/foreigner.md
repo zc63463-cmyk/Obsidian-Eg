@@ -123,7 +123,7 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - It will soon be impossible for foreigners to enter the country . `[例]`
+> - It will soon be impossible for foreigners to enter the country. `[例]`
 > - I can't speak a word of French so everyone can tell I'm a foreigner as soon as I arrive in France. `[例]`
 > - The law said that foreigners could buy land in Hawaii. `[例]`
 

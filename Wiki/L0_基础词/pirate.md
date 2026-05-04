@@ -129,9 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The trailer was being used to house a pirate radio station . `[例]`
+> - The trailer was being used to house a pirate radio station. `[例]`
 > - A lot of this software is pirated. `[例]`
-> - Copyright laws have introduced tough new sentences for software pirates . `[例]`
+> - Copyright laws have introduced tough new sentences for software pirates. `[例]`
 
 
 ---

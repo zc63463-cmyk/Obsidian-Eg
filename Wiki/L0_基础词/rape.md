@@ -131,9 +131,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Jackson spent five years in prison after a jury wrongly convicted him of raping two women." `[真题]`
-> - "The rape of the countryside by developers has caused widespread outrage." `[真题]`
-> - "He was convicted of rape and sentenced to ten years in prison." `[真题]`
+> - Jackson spent five years in prison after a jury wrongly convicted him of raping two women. `[真题]`
+> - The rape of the countryside by developers has caused widespread outrage. `[真题]`
+> - He was convicted of rape and sentenced to ten years in prison. `[真题]`
 
 
 ---

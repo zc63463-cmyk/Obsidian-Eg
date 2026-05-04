@@ -131,8 +131,8 @@ review_count: 0
 
 > [!example]- 语料
 > - Problems with mould inside the home are more prevalent today than a generation ago. `[例]`
-> - Moulds reproduce by means of tiny spores that are invisible to the naked eye . `[例]`
-> - Moulds can grow on stored food for animals and humans , making the food unpalatable or toxic . `[例]`
+> - Moulds reproduce by means of tiny spores that are invisible to the naked eye. `[例]`
+> - Moulds can grow on stored food for animals and humans , making the food unpalatable or toxic. `[例]`
 
 
 ---

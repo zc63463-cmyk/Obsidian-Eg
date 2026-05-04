@@ -124,9 +124,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She's fluent in French . `[例]`
-> - He's a fluent Russian speaker . `[例]`
-> - He speaks fluent Chinese . `[例]`
+> - She's fluent in French. `[例]`
+> - He's a fluent Russian speaker. `[例]`
+> - He speaks fluent Chinese. `[例]`
 
 
 ---

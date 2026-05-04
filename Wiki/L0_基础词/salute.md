@@ -135,8 +135,8 @@ review_count: 0
 
 > [!example]- 语料
 > - Our scientists and our engineers have carved a most remarkable place for themselves by an achievement which the whole country salutes. `[真题]`
-> - The statement salutes the changes of the past year. `[外刊]`
-> - Soldiers salute the flag every morning during the ceremony. `[外刊]`
+> - The statement salutes the changes of the past year. `[例]`
+> - Soldiers salute the flag every morning during the ceremony. `[例]`
 
 
 ---

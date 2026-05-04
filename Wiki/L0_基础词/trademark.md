@@ -129,7 +129,7 @@ review_count: 0
 > [!example]- 语料
 > - Velcro is a registered trademark. `[例]`
 > - He was wearing one of the brightly coloured ties that are his trademark. `[例]`
-> - She gave one of her trademark smiles . `[例]`
+> - She gave one of her trademark smiles. `[例]`
 
 
 ---

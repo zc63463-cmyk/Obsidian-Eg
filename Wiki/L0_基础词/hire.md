@@ -128,7 +128,7 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - How much would it cost to hire a car for the weekend ? `[例]`
+> - How much would it cost to hire a car for the weekend? `[例]`
 > - You could always hire a dress for the ball if you can't afford to buy one. `[例]`
 > - I was hired by the first company I applied to. `[例]`
 

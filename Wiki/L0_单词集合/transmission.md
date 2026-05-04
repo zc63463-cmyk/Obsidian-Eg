@@ -128,9 +128,15 @@ trans-(跨越) + [[miss|miss]](发送) + -ion(名词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Broadband transmission has speeded up access to these sites . `[例]`
-> - We rely on high-speed transmission of data . `[例]`
-> - We apologize for the interruption to our transmissions this afternoon . `[例]`
+> - Do you know the date of transmission? `[例]`
+>   - 中译：你知道传输日期吗？
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/transmission
+> - The duet is taken from a 1943 radio transmission. `[例]`
+>   - 中译：这首二重唱取自 1943 年的无线电广播。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/transmission
+> - The equipment is used for the transmission of television signals. `[例]`
+>   - 中译：该设备用于传输电视信号。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/transmission
 
 ---
 

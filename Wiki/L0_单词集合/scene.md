@@ -143,10 +143,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The play's opening scene takes place in the courtyard. `[COCA-FIC]`
-> - Police are now at the scene of the accident. `[COCA-NEWS]`
-> - The movie's opening scene sets the tone for the entire story. `[COCA-NEWS]`
-> - Behind the scenes, negotiations were already underway. `[COCA-NEWS]`
+> - Juliet dies in Act IV, Scene iii. `[例]`
+>   - 中译：朱丽叶在第四幕第三场中去世。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/scene
+> - The whole of the banquet scene is mimed. `[例]`
+>   - 中译：整个宴会场面都是模仿的。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/scene
+> - In the first scene, the camera moves slowly across the room. `[例]`
+>   - 中译：在第一个场景中，摄像机缓慢地穿过房间。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/scene
 
 ---
 

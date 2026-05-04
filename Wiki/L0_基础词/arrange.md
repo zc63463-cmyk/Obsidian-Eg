@@ -130,9 +130,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - I'm trying to arrange my work so that I can have a couple of days off next week . `[例]`
-> - The meeting has been arranged for Wednesday . `[例]`
-> - She's arranged for her son to have swimming lessons . `[例]`
+> - The party was arranged quickly. `[例]`
+>   - 中译：聚会很快就安排好了。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/arrange
+> - Can I arrange an appointment for Monday? `[例]`
+>   - 中译：我可以安排周一的预约吗？
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/arrange
+> - The meeting was provisionally arranged for 9 October. `[例]`
+>   - 中译：会议暂定于10月9日举行。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/arrange
 
 
 ---

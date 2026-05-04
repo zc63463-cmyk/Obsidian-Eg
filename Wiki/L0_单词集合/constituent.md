@@ -123,9 +123,15 @@ con-（一起）+ [[stit|stit-]]（站立，放置）+ -u-（连接元音）+ -e
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The basic compact underlying representative government assumes that public officials will hear from their constituents and act on their concerns." `[真题]`
-> - "Downloading and consuming culture requires great skills, but failing to move beyond downloading is to strip oneself of a defining constituent of humanity." `[真题]`
-> - "Hydrogen and oxygen are the constituent elements of water." `[COCA-ACAD]`
+> - What are the basic constituents of the mixture? `[例]`
+>   - 中译：混合物的基本成分是什么？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/constituent
+> - The MP worked hard, always talking to his constituents and listening to their problems. `[例]`
+>   - 中译：这位议员工作努力，总是与选民交谈并倾听他们的问题。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/constituent
+> - Let's look at the constituent parts of this sentence. `[例]`
+>   - 中译：我们来看看这句话的组成部分。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/constituent
 
 ---
 

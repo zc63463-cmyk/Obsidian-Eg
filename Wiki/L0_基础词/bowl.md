@@ -126,9 +126,15 @@ bowl 源自古英语 *bolla*（碗、圆形容器），与 [[bow]]（弯曲）�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She eats a bowl of cereal every morning . `[例]`
-> - Just put the dirty dishes in the washing-up bowl, and I'll do them later . `[例]`
-> - The healthy acai bowl has three layers : a blended , yogurt-like bottom of acai and hemp milk , homemade granola in the middle , and fresh bananas and strawberries on top . `[例]`
+> - I refilled the dog's water bowl. `[例]`
+>   - 中译：我给狗的水碗重新装满水。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bowl
+> - He poured himself a bowl of soup. `[例]`
+>   - 中译：他给自己倒了一碗汤。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bowl
+> - I don't think I can bowl a 12-pound ball. `[例]`
+>   - 中译：我认为我不能投 12 磅重的球。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/bowl
 
 
 ---

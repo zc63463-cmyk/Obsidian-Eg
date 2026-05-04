@@ -135,8 +135,8 @@ review_count: 0
 
 > [!example]- 语料
 > - Here, your eyes are better than mine - could you thread (= put thread through) this needle for me? `[例]`
-> - The needle on a compass always points to magnetic north . `[例]`
-> - It sounds like the needle on your record player needs to be replaced . `[例]`
+> - The needle on a compass always points to magnetic north. `[例]`
+> - It sounds like the needle on your record player needs to be replaced. `[例]`
 
 
 ---

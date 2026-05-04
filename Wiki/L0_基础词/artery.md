@@ -119,10 +119,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Coronary arteries are the blood vessels that carry blood to the heart muscle. `[COCA-ACAD]`
-> - The coronary arteries supply blood to the heart muscle. `[COCA-ACAD]`
-> - A medical examiner determined the cause of death to be hardening of the arteries. `[COCA-NEWS]`
-> - The river is the main artery of trade for the region. `[COCA-ACAD]`
+> - He favors local side roads over major arteries. `[例]`
+>   - 中译：与主要干道相比，他更喜欢当地的小路。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/artery
+> - The Panama Canal is experiencing an uptick in traffic and generating more lucrative bids to transit the trade artery , aligning with a spike in demand for its reservation system as the Iran war lingers and uncertainty persists regarding the safety of the Strait of Hormuz. `[例]`
+>   - 中译：巴拿马运河的交通量正在增加，并产生了更有利可图的贸易动脉投标，随着伊朗战争的持续和霍尔木兹海峡安全的不确定性持续存在，对其预订系统的需求激增。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/artery
+> - Separate research from the University of California, Riverside found that routine microplastic exposure accelerated the formation of atherosclerosis, the artery -narrowing condition that underlies most heart attacks and strokes. `[例]`
+>   - 中译：加州大学河滨分校的另一项研究发现，日常接触微塑料会加速动脉粥样硬化的形成，动脉粥样硬化是大多数心脏病和中风的基础。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/artery
 
 
 ---

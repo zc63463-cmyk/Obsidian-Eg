@@ -124,10 +124,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> 1. The government sent a team of experts to assess the damage caused by the earthquake. `[真题]`
-> 2. She was sent home from school after she became ill during the class. `[COCA-ACAD]`
-> 3. The company decided to send a representative to attend the international conference. `[COCA-ACAD]`
-> 4. The news report was sent by satellite to broadcasting stations around the world. `[COCA-NEWS]`
+> - Could you send a reply to them as quickly as possible? `[例]`
+>   - 中译：你能尽快回复他们吗？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/send
+> - Maggie sends her love and hopes you'll feel better soon. `[例]`
+>   - 中译：玛吉向你表达她的爱，并希望你很快就会好起来。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/send
+> - We will send you written confirmation of our offer shortly. `[例]`
+>   - 中译：我们将很快向您发送报价的书面确认。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/send
 
 
 ---

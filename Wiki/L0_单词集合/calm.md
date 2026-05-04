@@ -138,9 +138,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "remain calm in the face of crisis"（面对危机保持冷静）——考研阅读中描述应对压力的态度
-> - "the calm before the storm"（暴风雨前的宁静）——考研阅读中常见比喻，描述表面平静下的潜在危机
-> - "calm the public's fears"（平息公众的恐惧）——社会类话题高频搭配
+> - Now keep calm everyone, the police are on their way. `[例]`
+>   - 中译：大家保持冷静，警察正在赶来的路上。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/calm
+> - He usually stays calm in meetings , but this time he lost his temper. `[例]`
+>   - 中译：他平时开会都很冷静，但这一次却发脾气了。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/calm
+> - We would ask you to please remain calm and exit the building in an orderly fashion. `[例]`
+>   - 中译：我们请求您保持冷静并有序退出大楼。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/calm
 
 ---
 

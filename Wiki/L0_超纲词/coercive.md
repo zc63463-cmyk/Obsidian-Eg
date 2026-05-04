@@ -3,10 +3,8 @@ title: "coercive"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 人本世界
 prototype: 强迫的（通过威胁或武力迫使服从）
@@ -43,7 +41,7 @@ co-（一起）+ [[erc|erc-]]（约束，拉丁语 *arcere*，关住/约束）+ 
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**强迫的（通过威胁或武力迫使服从）**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **强迫的**（社会控制层面）
@@ -64,7 +62,7 @@ co-（一起）+ [[erc|erc-]]（约束，拉丁语 *arcere*，关住/约束）+ 
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ co-（一起）+ [[erc|erc-]]（约束，拉丁语 *arcere*，关住/约束）+ 
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **词拆分记忆**（优先）：
 > co（一起）+ erc（约束）+ -ive（倾向）→ 把人约束在一起 → 强迫的。coercive 就是"用约束力逼人"——不让你自由选择，而是强迫你服从。
@@ -83,7 +81,7 @@ co-（一起）+ [[erc|erc-]]（约束，拉丁语 *arcere*，关住/约束）+ 
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -96,13 +94,13 @@ co-（一起）+ [[erc|erc-]]（约束，拉丁语 *arcere*，关住/约束）+ 
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[voluntary]]：自愿的（coercive 的精确反义：强迫的↔自愿的）
 - - [[persuasive]]：有说服力的（coercive 的反义：胁迫↔说服）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -114,7 +112,7 @@ co-（一起）+ [[erc|erc-]]（约束，拉丁语 *arcere*，关住/约束）+ 
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **coercive measures**：强制措施
 > - **coercive tactics**：胁迫策略
 > - **coercive power**：强制力
@@ -122,20 +120,13 @@ co-（一起）+ [[erc|erc-]]（约束，拉丁语 *arcere*，关住/约束）+ 
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - The president relied on the coercive powers of the military . `[例]`
+> [!example]- 语料
+> - The president relied on the coercive powers of the military. `[例]`
 > - Coercive interrogation techniques have been widely condemned by human rights organizations. `[例]`
 > - The government was accused of using coercive tactics to suppress political opposition. `[例]`
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
-
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

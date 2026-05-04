@@ -120,9 +120,9 @@ orn-(装饰，拉丁语 *ornare*) + -a(连接) + -ment(名词后缀，表示结�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "They spent decades collecting these colorful, Victorian-era ornaments for their Christmas tree." `[COCA-NEWS]`
-> - "She ornamented her letters with little drawings in the margin." `[COCA-FICT]`
-> - "A mass of rags in the corner was the communal bed, and the only ornament a rough-hewn crucifix." `[BNC-FICT]`
+> - They spent decades collecting these colorful, Victorian-era ornaments for their Christmas tree. `[COCA-NEWS]`
+> - She ornamented her letters with little drawings in the margin. `[COCA-FICT]`
+> - A mass of rags in the corner was the communal bed, and the only ornament a rough-hewn crucifix. `[BNC-FICT]`
 
 
 ---

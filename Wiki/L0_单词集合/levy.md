@@ -134,10 +134,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Payroll taxes are levied only on wages and salaries, not profits, interest, dividends, or capital gains." `[COCA-ACAD]`
-> - "We are going to introduce an apprenticeship levy on all large firms." `[COCA-NEWS]`
-> - "The legislators approved a new levy on imported cattle to help protect American ranchers." `[COCA-NEWS]`
-> - "A levy was imposed on cotton imports." `[COCA-ACAD]`
+> - The bill requires every rental host to register with the state , mandates they carry insurance , and opens the potential for local taxes on top of a new state levy. `[真题]`
+>   - 中译：该法案要求每个租赁房东向州政府注册，强制他们购买保险，并在新的州征税基础上开辟了征收地方税的可能性。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - They imposed a five percent levy on alcohol. `[例]`
+>   - 中译：他们对酒精征收百分之五的税。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/levy
+> - From next year , more residents will have to pay the annual levy. `[例]`
+>   - 中译：从明年开始，更多的居民将需要缴纳年度税。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/levy
 
 ---
 

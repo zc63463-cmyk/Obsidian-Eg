@@ -3,10 +3,8 @@ title: "claimant"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 社会习俗
 prototype: 提出要求的人（声称拥有某项权利的人）
@@ -43,7 +41,7 @@ claim（要求，声称）+ -ant（表示"人"的后缀）
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**提出要求的人**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **提出要求的人**（社会角色层面）
@@ -66,7 +64,7 @@ claim（要求，声称）+ -ant（表示"人"的后缀）
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ claim（要求，声称）+ -ant（表示"人"的后缀）
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **词拆分记忆**（优先）：
 > claim（要求/声称）+ -ant（人）→ 提出要求的人 → 申请人/索赔人。-ant 后缀表示"人"：assistant（助手）、applicant（申请人）、claimant（索赔人）。
@@ -85,7 +83,7 @@ claim（要求，声称）+ -ant（表示"人"的后缀）
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -98,13 +96,13 @@ claim（要求，声称）+ -ant（表示"人"的后缀）
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[defendant]]：被告（claimant 在法律语境中的反义：原告/索赔人↔被告）
 - - [[respondent]]：被告方（claimant 的反义：提出要求方↔被要求方）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -116,7 +114,7 @@ claim（要求，声称）+ -ant（表示"人"的后缀）
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **insurance claimant**：保险索赔人
 > - **benefit claimant**：福利领取者
 > - **compensation claimant**：赔偿申请人
@@ -124,19 +122,12 @@ claim（要求，声称）+ -ant（表示"人"的后缀）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - Tax credit payments are calculated according to the claimant's yearly income . `[例]`
-> - The claimant commenced this action to recover damages that were sustained while working for the defendant . `[例]`
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
+> [!example]- 语料
+> - Tax credit payments are calculated according to the claimant's yearly income. `[例]`
+> - The claimant commenced this action to recover damages that were sustained while working for the defendant. `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

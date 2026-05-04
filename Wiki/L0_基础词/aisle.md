@@ -127,9 +127,15 @@ aisle 源自拉丁语 *ala*（翼，翅膀），经由古法语 *ale* 演变而�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Would you like an aisle seat or would you prefer to be by the window ? `[例]`
-> - Shopping online means you avoid the crowded supermarket aisles . `[例]`
-> - The grocery aisles are stocked with everyday brands , priced very competitively . `[例]`
+> - Coffee and tea are in the next aisle. `[例]`
+>   - 中译：咖啡和茶位于下一个过道。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/aisle
+> - Last year the musical had the audience dancing in the aisles. `[例]`
+>   - 中译：去年，这部音乐剧让观众在过道上跳舞。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/aisle
+> - She soon had us rolling in the aisles. `[例]`
+>   - 中译：她很快就让我们在过道里打滚。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/aisle
 
 
 ---

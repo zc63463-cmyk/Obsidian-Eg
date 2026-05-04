@@ -126,7 +126,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Living in the countryside offers a comparative degree of tranquility that is hard to find in the city.（生活在乡村提供了一种在城市中难以找到的相对宁静。）
+> - Fatter" is the comparative of " fat ". `[例]`
+>   - 中译：Fatter是“fat”的比较级。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/comparative
+> - More difficult " is the comparative of " difficult ". `[例]`
+>   - 中译：更难”是“困难”的比较级。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/comparative
+> - Older' is the comparative, not the superlative , of ' old '. `[例]`
+>   - 中译：“older”是“old”的比较级，而不是最高级。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/comparative
 
 ---
 

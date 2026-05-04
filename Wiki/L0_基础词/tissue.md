@@ -129,9 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - His face is covered with scar tissue where he was badly burned . `[例]`
-> - She handed me a tissue just before I sneezed . `[例]`
-> - I always keep a box of tissues in the car . `[例]`
+> - His face is covered with scar tissue where he was badly burned. `[例]`
+> - She handed me a tissue just before I sneezed. `[例]`
+> - I always keep a box of tissues in the car. `[例]`
 
 
 ---

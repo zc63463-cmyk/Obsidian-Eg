@@ -128,10 +128,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Abraham Lincoln abolished slavery in the United States."（亚伯拉罕·林肯在美国废除了奴隶制）——历史话题
-> - "Many countries have abolished the death penalty."（许多国家已经废除了死刑）——社会/法律话题
-> - "The government decided to abolish the outdated tax system."（政府决定废除过时的税收制度）——政治/经济话题
-> - "The abolition of slavery was a landmark in human history."（奴隶制的废除是人类历史上的一个里程碑）——注意 abolition 是名词形式
+> - I think bullfighting should be abolished. `[例]`
+>   - 中译：我认为斗牛应该被废除。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/abolish
+> - National Service was abolished in the UK in 1962. `[例]`
+>   - 中译：1962年，英国废除了国民服役制度。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/abolish
+> - The government is planning to abolish subsidies to farmers. `[例]`
+>   - 中译：政府正计划取消对农民的补贴。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/abolish
 
 ---
 

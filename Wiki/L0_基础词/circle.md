@@ -127,9 +127,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - According to Paragraph 1 , the careers of scientists can be determined by __ A. how many citations their works contain B. how many times their papers are cited C. the prestige of the people they work with D. the status they have in scientific circles 37. `[真题]`
-> - Coloured paper was cut into circles. `[例]`
-> - She was a member of the inner circle of decision-makers within the organization . `[例]`
+> - Cut out two circles of paper. `[例]`
+>   - 中译：剪出两个圆形的纸。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/circle
+> - He traced a circle in the dust with his finger. `[例]`
+>   - 中译：他用手指在灰尘中画了一个圈。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/circle
+> - She walked the horse round in a circle. `[例]`
+>   - 中译：她牵着马绕了一圈。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/circle
 
 
 ---

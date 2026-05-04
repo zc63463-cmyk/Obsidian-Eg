@@ -138,9 +138,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - No call to care, finally, could be too mundane; what could be more ordinary than peeling an egg? `[剑桥语料]`
-> - Ramon peeled his sweaty shirt off and hung it on a chair to dry. `[剑桥学术词典]`
-> - The paint was peeling from the walls of the old building. `[六级阅读]`
+> - No call to care, finally, could be too mundane; what could be more ordinary than peeling an egg? `[例]`
+> - Ramon peeled his sweaty shirt off and hung it on a chair to dry. `[例]`
+> - The paint was peeling from the walls of the old building. `[例]`
 
 
 ---

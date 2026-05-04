@@ -128,10 +128,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The company was ordered to conduct an internal audit of its financial records. `[COCA-ACAD]`
-> - She decided to audit a philosophy course at the university out of personal interest. `[COCA-ACAD]`
-> - The tax audit revealed several discrepancies in the firm's accounting practices. `[COCA-NEWS]`
-> - Independent auditors found no evidence of fraud during the annual audit. `[例]`
+> - The Internal Revenue Service selected us for an audit. `[例]`
+>   - 中译：美国国税局选择我们进行审计。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/audit
+> - You will need all your records if you are selected for audit by the IRS. `[例]`
+>   - 中译：如果您被 IRS 选择进行审计，您将需要您的所有记录。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/audit
+> - They audit the company books every year. `[例]`
+>   - 中译：他们每年都会审计公司账簿。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/audit
 
 
 ---

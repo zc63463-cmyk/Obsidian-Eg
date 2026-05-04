@@ -125,7 +125,7 @@ fount(=fons, 泉水，拉丁语 fons/fontis 泉水) + -ain(名词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - There was a picture of the Trevi fountain on the front of the book . `[例]`
+> - There was a picture of the Trevi fountain on the front of the book. `[例]`
 > - They also sell garden ornaments such as statues and fountains. `[例]`
 > - The stories said that water from this fountain was good for people. `[例]`
 

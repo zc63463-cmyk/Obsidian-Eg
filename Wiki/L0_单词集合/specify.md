@@ -126,9 +126,15 @@ spec-（= species，种类/外观）+ -ify（动词后缀，使动："使成为�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Specify the duties and requirements of the job. `[真题]`
-> - He said we should meet but didn't specify a time . `[例]`
-> - The newspaper report did not specify how the men were killed . `[例]`
+> - Remember to specify your size when ordering clothes. `[例]`
+>   - 中译：订购衣服时记得注明你的尺码。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/specify
+> - The contract clearly specifies who can operate the machinery. `[例]`
+>   - 中译：合同明确规定了谁可以操作这台机器。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/specify
+> - The regulations specify that calculators may not be used in the examination. `[例]`
+>   - 中译：规定明确指出考试中不得使用计算器。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/specify
 
 ---
 

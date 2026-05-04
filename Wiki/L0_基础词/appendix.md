@@ -121,9 +121,15 @@ ap-(=ad-, 向，添加) + [[pend]](悬挂) + -ix(名词后缀)。与 [[append]]�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She had her appendix out (= medically removed ) last summer . `[例]`
-> - There's an appendix at the end of the book with a list of dates . `[例]`
-> - The appendix lists all the Olympic champions . `[例]`
+> - He had to have his appendix out (= removed). `[例]`
+>   - 中译：他必须切除阑尾。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/appendix
+> - In your textbooks, turn to Appendix 3: Glossary of Terms. `[例]`
+>   - 中译：在教科书中，请参阅附录 3：术语表。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/appendix
+> - The book has several appendixes. `[例]`
+>   - 中译：本书有几个附录。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/appendix
 
 
 ---

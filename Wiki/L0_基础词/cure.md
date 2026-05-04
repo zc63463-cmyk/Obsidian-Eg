@@ -137,9 +137,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - At one time doctors couldn't cure people of TB. `[例]`
-> - At one time doctors couldn't cure TB. `[例]`
-> - At one time she would eat nothing but crisps , but we soon cured her by ensuring she ate nothing else . `[例]`
+> - Will you be able to cure him, Doctor? `[例]`
+>   - 中译：医生，你能治好他吗？
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/cure
+> - The doctor managed to cure her of her illness. `[例]`
+>   - 中译：医生设法治愈了她的病。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/cure
+> - It is better to prevent rather than cure diseases. `[例]`
+>   - 中译：预防疾病胜于治疗疾病。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/cure
 
 
 ---

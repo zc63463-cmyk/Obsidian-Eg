@@ -127,7 +127,15 @@ heap（源自古英语 heap"堆积"，日耳曼语系同源词）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Old electronic devices end up in heaps at recycling centers, posing environmental risks.（旧电子设备最终堆积在回收中心，造成环境风险。）
+> - Put the vegetable peelings on the compost heap. `[例]`
+>   - 中译：将蔬菜皮放在堆肥堆上。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/heap
+> - Her belongings were scattered in various heaps around the room. `[例]`
+>   - 中译：她的物品散落在房间各处。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/heap
+> - The bullet hit him and he crumpled into a heap on the floor. `[例]`
+>   - 中译：子弹击中了他，他瘫倒在地板上。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/heap
 
 ---
 

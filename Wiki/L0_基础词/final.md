@@ -133,8 +133,8 @@ review_count: 0
 
 > [!example]- 语料
 > - The final chapters of a book. `[例]`
-> - The game is in its final stages . `[例]`
-> - In the final analysis , it is the drug companies that are going to profit from this policy . `[例]`
+> - The game is in its final stages. `[例]`
+> - In the final analysis , it is the drug companies that are going to profit from this policy. `[例]`
 
 
 ---

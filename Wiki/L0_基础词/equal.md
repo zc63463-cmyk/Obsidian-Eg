@@ -134,8 +134,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - One litre is equal to 1.76 imperial pints . `[例]`
-> - One box may look bigger than the other, but in fact they are roughly (= almost ) equal in volume . `[例]`
+> - One litre is equal to 1.76 imperial pints. `[例]`
+> - One box may look bigger than the other, but in fact they are roughly (= almost ) equal in volume. `[例]`
 > - All people are equal, deserving the same rights as each other. `[例]`
 
 

@@ -121,8 +121,15 @@ preci（价格/价值）+ -ous（形容词后缀，"充满...的"）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Time is the most precious resource we have, and once it is spent, it can never be recovered."（时间是我们最宝贵的资源，一旦花去，便无法挽回。）——考研高频表达
-> - "Clean water has become an increasingly precious commodity in many parts of the world."（清洁水在世界上许多地区已成为越来越宝贵的商品。）——考研高频表达
+> - Clean water is a precious commodity in many parts of the world. `[例]`
+>   - 中译：在世界许多地方，清洁水是一种宝贵的商品。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/precious
+> - You're so precious to me. `[例]`
+>   - 中译：你对我来说是如此珍贵。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/precious
+> - The museum is full of rare and precious treasures. `[例]`
+>   - 中译：博物馆里充满了稀有珍贵的珍宝。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/precious
 
 ---
 

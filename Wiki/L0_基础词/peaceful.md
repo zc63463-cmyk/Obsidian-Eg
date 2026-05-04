@@ -133,9 +133,9 @@ peace(和平，古法语 *pais*，源自拉丁语 *pax*) + -ful(充满……的�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "As many as 400,000 people participated in a peaceful demonstration in Srinagar on Feb. 23." `[真题]`
-> - "Strikes were resorted to only if all other mechanisms for a peaceful settlement were exhausted." `[真题]`
-> - "A sacred place of peace, however crude it may be, is a distinctly human need, as opposed to shelter, which is a distinctly animal need." `[真题]`
+> - The researchers proposed a peaceful solution to the problem. `[真题]`
+> - Strikes were resorted to only if all other mechanisms for a peaceful settlement were exhausted. `[真题]`
+> - The plan offers a peaceful option for small organizations. `[真题]`
 
 
 ---

@@ -133,10 +133,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Children learn language by imitating those around them. `[真题]`
-> - By demonstrating how children imitate behavior observed in adults, Bandura showed that learning can occur through observation. `[COCA-ACAD]`
-> - Artists often imitate the works of the masters. `[COCA-ACAD]`
-> - It is difficult to imitate the company's business model. `[COCA-ACAD]`
+> - Some of the younger pop bands try to imitate their musical heroes from the past. `[例]`
+>   - 中译：一些年轻的流行乐队试图模仿过去的音乐英雄。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/imitate
+> - They produce artificial chemicals which exactly imitate particular natural ones. `[例]`
+>   - 中译：他们生产完全模仿特定天然化学物质的人造化学物质。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/imitate
+> - My four-year-old daughter is always trying to imitate her older sister. `[例]`
+>   - 中译：我四岁的女儿总是试图模仿她的姐姐。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/imitate
 
 ---
 

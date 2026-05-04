@@ -3,10 +3,8 @@ title: "utopia"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-25
-mastery: L0
 word_freq: 超纲词
 semantic_field: 理性世界
 prototype: 不存在的地方（理想中的完美社会）
@@ -43,7 +41,7 @@ u- (= ou-, 希腊语 *ou* = 不，无) + topos(地方，希腊语 *τόπος*) 
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**不存在的地方**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **不存在的地方**（虚构层面）
@@ -64,7 +62,7 @@ u- (= ou-, 希腊语 *ou* = 不，无) + topos(地方，希腊语 *τόπος*) 
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ u- (= ou-, 希腊语 *ou* = 不，无) + topos(地方，希腊语 *τόπος*) 
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 希腊语 ou（不）+ topos（地方）= ou-topos = "不存在的地方"。1516年托马斯-莫尔创造了这个词，描述一个完美但虚构的岛屿社会。有趣的是，反义词 dystopia（反乌托邦）= dys（坏的）+ topos（地方）= "坏地方"。
@@ -86,7 +84,7 @@ u- (= ou-, 希腊语 *ou* = 不，无) + topos(地方，希腊语 *τόπος*) 
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ u- (= ou-, 希腊语 *ou* = 不，无) + topos(地方，希腊语 *τόπος*) 
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[dystopia]]：反乌托邦（utopia 的精确反义：理想国↔黑暗社会）
 > - [[reality]]：现实（utopia 的反义：理想↔现实）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,7 +116,7 @@ u- (= ou-, 希腊语 *ou* = 不，无) + topos(地方，希腊语 *τόπος*) 
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **utopian society**：乌托邦式的社会
 > - **a technological utopia**：技术乌托邦
 > - **create a utopia**：创造乌托邦
@@ -126,19 +124,12 @@ u- (= ou-, 希腊语 *ou* = 不，无) + topos(地方，希腊语 *τόπος*) 
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - Try and imagine a perfect society , a utopia, in which the government really got everything right . `[例]`
-> - Humans, in the developed world at least, are as close to utopia as they are ever likely to be, argues the professor . `[例]`
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-25 | **复习次数**：0 | **当前等级**：L0
-
----
+> [!example]- 语料
+> - Try and imagine a perfect society , a utopia, in which the government really got everything right. `[例]`
+> - Humans, in the developed world at least, are as close to utopia as they are ever likely to be, argues the professor. `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

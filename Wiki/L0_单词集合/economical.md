@@ -129,10 +129,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It is more economical to buy the big packet than the small one." `[COCA-ACAD]`
-> - "Hybrid cars are very economical in congested areas because energy is used more than once." `[COCA-ACAD]`
-> - "Up to a point, big plants are usually more economical than small ones." `[COCA-ACAD]`
-> - "This is a well-designed car that is also very economical to run." `[COCA-ACAD]`
+> - People were urged to be economical with water as a drought was declared. `[例]`
+>   - 中译：由于干旱的发生，人们被敦促节约用水。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/economical
+> - He was typically cautious and economical with his words (= he used few words). `[例]`
+>   - 中译：他的言辞是典型的谨慎和节约（=他很少用词）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/economical
+> - What's the most economical way of heating this building? `[例]`
+>   - 中译：为这座建筑供暖最经济的方式是什么？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/economical
 
 ---
 

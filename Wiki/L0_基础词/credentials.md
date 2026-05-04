@@ -129,9 +129,15 @@ cred-(相信，拉丁语 *credere* "to believe/trust") + -ent(名词后缀，表
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Her academic credentials include a bachelor's degree in biology and a master's degree in chemistry. `[真题]`
-> - Only candidates with proper credentials will be considered for the position. `[真题]`
-> - The university verified his academic credentials during the application process. `[真题]`
+> - She has impeccable credentials as a researcher. `[例]`
+>   - 中译：作为一名研究员，她拥有无可挑剔的资历。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/credentials
+> - He has all the credentials for the job. `[例]`
+>   - 中译：他拥有从事这项工作的所有资格。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/credentials
+> - She will first have to establish her leadership credentials. `[例]`
+>   - 中译：她首先必须建立自己的领导资格。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/credentials
 
 
 ---

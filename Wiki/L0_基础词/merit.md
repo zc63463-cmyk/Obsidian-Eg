@@ -129,10 +129,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Each case should be judged on its own merits." `[真题]`
-> - "This research merits further investigation." `[真题]`
-> - "I believe that the report merits closer reading on this point." `[真题]`
-> - "The artist's latest masterpiece merits attention for its captivating use of colors." `[真题]`
+> - Each case should be judged on its own merits. `[真题]`
+> - This research merits further investigation. `[真题]`
+> - I believe that the report merits closer reading on this point. `[真题]`
+> - The artist's latest masterpiece merits attention for its captivating use of colors. `[真题]`
 
 
 ---

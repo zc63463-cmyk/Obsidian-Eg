@@ -126,9 +126,15 @@ out-（= beyond/forth，向外/超出）+ -ward（= toward，朝……方向）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "To all outward appearances, their marriage was quite normal." `` `[COCA-FICT]` ``
-> - "His clenched fist was the only outward sign of his anger." `` `[COCA-FICT]` ``
-> - "The outward appearance of the building has not changed at all in 200 years." `` `[COCA-ACAD]` ``
+> - The outward appearance of the building has not changed at all in 200 years. `[例]`
+>   - 中译：200年来，这座建筑的外观没有任何变化。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/outward
+> - If he is suffering , he certainly shows no outward sign of it. `[例]`
+>   - 中译：如果他正在受苦，他当然不会表现出任何外在迹象。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/outward
+> - To all outward appearances everything was fine , but under the surface the marriage was very shaky. `[例]`
+>   - 中译：从表面上看，一切都很好，但在表面之下，婚姻却很不稳定。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/outward
 
 ---
 

@@ -132,7 +132,7 @@ log 源自中古英语 *logge*（原木），可能与北欧语有关。
 > [!example]- 语料
 > - The incident is noted in the ship's log as a " curious circumstance ". `[例]`
 > - Family members said he had detailed concerns about the site's safety in the log. `[例]`
-> - Log tables were used to perform complex calculations before the invention of electronic calculators . `[例]`
+> - Log tables were used to perform complex calculations before the invention of electronic calculators. `[例]`
 
 
 ---

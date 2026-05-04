@@ -135,9 +135,15 @@ con-(=together, 共同) + [[fuse]](=pour, 倾倒) → 共同倾倒在一起→�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The complex instructions only served to confuse the students rather than help them understand the experiment. `[COCA-ACAD]`
-> - It is easy to confuse correlation with causation when interpreting statistical data. `[COCA-ACAD]`
-> - Many students are confused about the difference between these two theories. `[例]`
+> - You're confusing him! Tell him slowly and one thing at a time. `[例]`
+>   - 中译：你让他困惑了！慢慢地告诉他，一次只说一件事。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/confuse
+> - Stop confusing the issue (= making the problem unnecessarily difficult )! `[例]`
+>   - 中译：停止混淆问题（=使问题变得不必要的困难）！
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/confuse
+> - You're confusing me with my sister - she's the singer. `[例]`
+>   - 中译：你把我和我妹妹搞混了——她是歌手。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/confuse
 ---
 
 

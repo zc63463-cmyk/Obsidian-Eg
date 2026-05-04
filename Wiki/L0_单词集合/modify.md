@@ -130,8 +130,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The researchers modified their original hypothesis after analyzing the new data."（研究者在分析新数据后修改了最初的假设。）——考研高频表达
-> - "The company had to modify its business model to adapt to the rapidly changing market conditions."（公司不得不修改其商业模式以适应快速变化的市场条件。）——考研高频表达
+> - Instead of simply punishing them, the system encourages offenders to modify their behaviour. `[例]`
+>   - 中译：该系统不是简单地惩罚他们，而是鼓励罪犯改变他们的行为。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/modify
+> - The proposals were unpopular and were only accepted in a modified form. `[例]`
+>   - 中译：这些提案不受欢迎，仅以修改后的形式被接受。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/modify
+> - In the sentence "She ran quickly " the adverb " quickly " modifies the verb " ran ". `[例]`
+>   - 中译：在句子“她跑得很快”中，副词“快速”修饰动词“跑”。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/modify
 ---
 
 

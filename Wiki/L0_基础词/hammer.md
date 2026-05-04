@@ -128,9 +128,9 @@ hammer 源自古英语 *hamor* "锤子"，原始日耳曼语 *\*hamaraz*。古�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She qualified for the women's hammer final . `[例]`
-> - Can you hold this nail in position while I hammer it into the door ? `[例]`
-> - I could hear you hammering upstairs . `[例]`
+> - She qualified for the women's hammer final. `[例]`
+> - Can you hold this nail in position while I hammer it into the door? `[例]`
+> - I could hear you hammering upstairs. `[例]`
 
 
 ---

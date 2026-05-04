@@ -130,9 +130,15 @@ cover（源自拉丁语 *cooperire*，*co-* = 共同 + *operire* = 覆盖、关�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The light was so bright that I had to cover my eyes . `[例]`
-> - Snow covered the hillsides . `[例]`
-> - She covered him with a blanket . `[例]`
+> - The light was so bright that I had to cover my eyes. `[例]`
+>   - 中译：光线太亮了，我不得不遮住眼睛。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/cover
+> - Snow covered the hillsides. `[例]`
+>   - 中译：雪覆盖了山坡。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/cover
+> - She covered him with a blanket. `[例]`
+>   - 中译：她给他盖上毯子。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/cover
 
 ---
 

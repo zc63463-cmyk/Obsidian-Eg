@@ -132,10 +132,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The apparent simplicity of his plot is deceptive. `[COCA-FICT]`
-> - The plan has the virtue of simplicity. `[COCA-ACAD]`
-> - For simplicity, we assume that all variables are independent. `[COCA-ACAD]`
-> - The document impressed me with its elegant simplicity. `[COCA-MAG]`
+> - The advantage of the plan is its simplicity. `[例]`
+>   - 中译：该计划的优点是简单。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/simplicity
+> - The test was simplicity itself (= very easy ). `[例]`
+>   - 中译：测试本身很简单（=非常容易）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/simplicity
+> - I prefer the second option - its advantages are simplicity and cheapness. `[例]`
+>   - 中译：我更喜欢第二种选择——它的优点是简单和便宜。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/simplicity
 
 
 ---

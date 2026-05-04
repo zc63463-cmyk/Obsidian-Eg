@@ -131,9 +131,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Since the US government has been subsidizing ethanol, the price of corn for food is rising. `[真题]`
-> - Due to large government subsidies, the growth of corn-based ethanol has been nothing short of meteoric. `[真题]`
-> - Corn converted into fuel for cars is corn that isn't converted into fuel for humans. `[真题]`
+> - The corn is still green. `[例]`
+>   - 中译：玉米还是绿的。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/corn
+> - The major crops are wheat, barley and corn. `[例]`
+>   - 中译：主要农作物有小麦、大麦和玉米。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/corn
+> - See your doctor if you have foot pain or corns. `[例]`
+>   - 中译：如果您有脚痛或鸡眼，请去看医生。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/corn
 
 
 ---

@@ -125,9 +125,15 @@ a-/ac-（=ad-，向……方向）+ scrib/script（写，拉丁语 *scribere*）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The company's success can be ascribed to its innovative approach to technology. `[COCA-ACAD]`
-> - He mistakenly ascribes the expression "survival of the fittest" to Charles Darwin. `[COCA-ACAD]`
-> - They ascribe most of their success to good timing and good luck. `[COCA-NEWS]`
+> - So proving this equivalence would instantly confirm much of the topological power that Bar-Natan and van der Veen ascribe to their new invariant. `[例]`
+>   - 中译：因此，证明这种等价性将立即证实 Bar-Natan 和 van der Veen 归因于他们的新不变量的大部分拓扑能力。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/ascribe
+> - Another Readymade ascribed to Rrose, Fresh Widow (1920), features a scale model of a French window with panels of black leather covering the glass. `[例]`
+>   - 中译：另一件被认为出自罗罗斯之手的现成作品《新鲜寡妇》（Fresh Widow，1920）以法式窗户的比例模型为特色，玻璃上覆盖着黑色皮革面板。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/ascribe
+> - In 2023, an agency spokeswoman even ascribed the blame in part to holidays. `[例]`
+>   - 中译：2023 年，该机构的一位发言人甚至将部分原因归咎于假期。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/ascribe
 
 
 ---

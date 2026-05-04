@@ -138,9 +138,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Manuscripts will be flagged up for additional scrutiny by the journal's internal editors, or by its existing Board of Reviewing Editors or by outside peer reviewers." `[真题]`
-> - "Her argument doesn't really stand up to scrutiny." `[真题]`
-> - "The government's record will be subjected to close scrutiny in the weeks before the election." `[语料库]`
+> - Manuscripts will be flagged up for additional scrutiny by the journal's internal editors, or by its existing Board of Reviewing Editors or by outside peer reviewers. `[真题]`
+> - The government's record will be subjected to close scrutiny in the weeks before the election. `[例]`
+> - Will the candidates stand up under all that scrutiny? `[例]`
 
 
 ---

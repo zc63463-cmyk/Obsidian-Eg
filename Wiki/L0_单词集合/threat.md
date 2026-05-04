@@ -131,9 +131,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Her parents carried out their threat to take away her mobile phone if her grades didn't improve . `[例]`
-> - The threat of jail failed to deter him from petty crime . `[例]`
-> - Drunken drivers pose a serious threat (= cause a lot of harm ) to other road users . `[例]`
+> - She is prepared to carry out her threat to resign. `[例]`
+>   - 中译：她准备实施她的辞职威胁。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/threat
+> - She received death threats on social media. `[例]`
+>   - 中译：她在社交媒体上收到死亡威胁。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/threat
+> - These ancient woodlands are under threat from new road developments. `[例]`
+>   - 中译：这些古老的林地正受到新道路开发的威胁。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/threat
 
 ---
 

@@ -136,10 +136,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Payment can be made by cheque or credit card. `[COCA-ACAD]`
-> - The family spends about $1,800 a month on their mortgage payments. `[COCA]`
-> - Flood victims received a one-time payment of $2,000 from the government. `[COCA-NEWS]`
-> - She demanded payment in advance before starting the work. `[COCA]`
+> - Usually we ask for payment on receipt of the goods. `[例]`
+>   - 中译：通常我们要求在收到货物时付款。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/payment
+> - When is the first payment due? `[例]`
+>   - 中译：第一笔付款什么时候到期？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/payment
+> - Verbal abuse was hardly the payment I expected for my troubles. `[例]`
+>   - 中译：言语谩骂根本不是我所期望的解决问题的方法。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/payment
 
 ---
 

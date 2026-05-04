@@ -131,10 +131,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The study found that products labeled 'made in China' were often perceived as inferior in quality." `[COCA-ACAD]`
-> - "She cited cases in which women had received inferior healthcare." `[COCA-ACAD]`
-> - "His later work was vastly inferior to his early work." `[COCA-ACAD]`
-> - "The cracks in the structure were due to the poor-quality materials and inferior workmanship." `[COCA-ACAD]`
+> - These products are inferior to those we bought last year. `[例]`
+>   - 中译：这些产品不如我们去年买的产品。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/inferior
+> - She cited cases in which women had received inferior healthcare. `[例]`
+>   - 中译：她列举了妇女获得较差医疗保健的案例。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/inferior
+> - Most often they played against vastly inferior teams. `[例]`
+>   - 中译：大多数时候，他们的对手都是实力差得多的球队。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/inferior
 ---
 
 

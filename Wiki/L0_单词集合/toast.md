@@ -118,9 +118,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - I have toast and jam for breakfast . `[例]`
-> - I'm having beans on toast for supper . `[例]`
-> - Now, if you'd all please raise your glasses , I'd like to propose a toast to the bride and groom . `[例]`
+> - He raised his glass as if to make a toast. `[例]`
+>   - 中译：他举起酒杯，仿佛要敬酒。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/toast
+> - Let's all drink a toast to the bride and groom. `[例]`
+>   - 中译：让我们大家为新娘和新郎干杯。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/toast
+> - We drank a toast to the company and its future success. `[例]`
+>   - 中译：我们为公司及其未来的成功干杯。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/toast
 ---
 
 

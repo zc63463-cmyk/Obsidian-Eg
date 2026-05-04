@@ -122,9 +122,15 @@ re-（再/重新）+ cogn/gn（[[id-ident]] 认知/知道）+ -ize（动词后�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - It is widely recognized that education plays a crucial role in promoting social mobility. `[真题]`
-> - She was recognized for her outstanding contribution to the field of medical research. `[真题]`
-> - I recognized her by her red hair. `[COCA-ACAD]`
+> - In 2016 , researchers developed an algorithm to recognize suspicious citation patterns , including groups of authors that disproportionately cite one another and groups of journals that cite each other frequently to increase the impact factors of their publications. `[真题]`
+>   - 中译：2016年，研究人员开发了一种算法来识别可疑的引用模式，包括不成比例地相互引用的作者群体和频繁相互引用以增加其出版物的影响因子的期刊群体。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - One of the turning points in public support for land conservation efforts-and recognizing the magnificence of the Yellowstone region in particular-came in the form of vivid photographs. `[真题]`
+>   - 中译：公众支持土地保护工作的转折点之一——尤其是认识到黄石地区的壮丽——以生动的照片的形式出现。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - Though Native Americans ( and later miners and fur trappers) had long recognized the area's riches, most Americans did not. `[真题]`
+>   - 中译：尽管美洲原住民（以及后来的矿工和毛皮捕猎者）早已认识到该地区的财富，但大多数美国人并不认识。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
 
 
 ---

@@ -134,9 +134,15 @@ vis（看，看见）+ -ible（形容词后缀，"可以被……的"）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - You should wear something light-coloured when you're cycling at night so that you're more visible. `[例]`
-> - There are few visible signs of the illness that kept her in hospital for so long . `[例]`
-> - The writing on the tombstone was barely visible. `[例]`
+> - The house is clearly visible from the beach. `[例]`
+>   - 中译：从海滩上可以清楚地看到房子。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/visible
+> - Most stars are not visible to the naked eye. `[例]`
+>   - 中译：大多数星星是肉眼看不见的。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/visible
+> - The moon was just visible between the clouds. `[例]`
+>   - 中译：月亮在云层之间隐约可见。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/visible
 ---
 
 

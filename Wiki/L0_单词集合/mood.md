@@ -124,8 +124,15 @@ mood(古英语 mod，意为"心、精神")
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The public mood shifted from optimism to anxiety as the economic crisis deepened."（随着经济危机的加深，公众的情绪从乐观转为焦虑。）——考研高频表达
-> - "The author captures the mood of post-war America with remarkable sensitivity."（作者以非凡的敏锐度捕捉到了战后美国的社会氛围。）——考研高频表达
+> - She's in a bad mood this morning. `[例]`
+>   - 中译：她今天早上心情不好。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/mood
+> - After my conversation with Stella, I was in a good mood for the rest of the day. `[例]`
+>   - 中译：和史黛拉谈话后，我一整天的心情都很好。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/mood
+> - Her mood seemed to change during the course of the conversation. `[例]`
+>   - 中译：谈话的过程中，她的情绪似乎发生了变化。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/mood
 
 ---
 

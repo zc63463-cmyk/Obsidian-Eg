@@ -131,9 +131,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Plants absorb carbon dioxide and release oxygen."（植物吸收二氧化碳并释放氧气）——科普类阅读
-> - "She was completely absorbed in her book."（她完全沉浸在她的书中）——文学类文本
-> - "The large company absorbed several smaller firms."（这家大公司吞并了几家较小的企业）——商业类阅读
+> - Our countryside is increasingly being absorbed into large cities. `[例]`
+>   - 中译：我们的农村越来越多地被大城市吸收。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/absorb
+> - The drug is quickly absorbed into the bloodstream. `[例]`
+>   - 中译：该药物很快被吸收到血液中。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/absorb
+> - Plants absorb carbon dioxide. `[例]`
+>   - 中译：植物吸收二氧化碳。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/absorb
 
 ---
 

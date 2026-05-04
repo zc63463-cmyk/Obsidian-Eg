@@ -129,7 +129,7 @@ review_count: 0
 
 > [!example]- 语料
 > - He heard glass breaking and ran upstairs to see what had caused it. `[例]`
-> - Sadly, the upstairs of the house was gutted by fire . `[例]`
+> - Sadly, the upstairs of the house was gutted by fire. `[例]`
 > - There were shouts from upstairs. `[例]`
 
 

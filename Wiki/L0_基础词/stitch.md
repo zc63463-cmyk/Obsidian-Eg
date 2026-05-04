@@ -130,8 +130,8 @@ stitch 源自古英语 *stice*（一针），与 [[st-sta-stat]]（站立）词�
 
 > [!example]- 语料
 > - Secure the two pieces together with a couple of stitches. `[例]`
-> - Cast on (= make the first row on the needle ) 50 stitches using pink wool . `[例]`
-> - Cast off the first four stitches (= take them off the needle and finish the edge ) . `[例]`
+> - Cast on (= make the first row on the needle ) 50 stitches using pink wool. `[例]`
+> - Cast off the first four stitches (= take them off the needle and finish the edge ). `[例]`
 
 
 ---

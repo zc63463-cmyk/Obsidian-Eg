@@ -133,11 +133,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Seemingly unrelated events can sometimes reveal a hidden pattern when examined more closely. `[真题]`
-> - The task was seemingly simple, yet it took the team several weeks to complete. `[COCA-ACAD]`
-> - Seemingly contradictory findings have led researchers to reconsider their initial hypothesis. `[COCA-ACAD]`
-> - The project faced seemingly endless delays due to bureaucratic obstacles and funding shortages. `[COCA-ACAD]`
-> - She was seemingly unaware of the tension that had been building among her colleagues. `[例]`
+> - He remains confident and seemingly untroubled by his recent problems. `[例]`
+>   - 中译：他仍然充满信心，似乎并没有被最近的问题所困扰。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/seemingly
+> - The factory closure is seemingly inevitable. `[例]`
+>   - 中译：工厂关闭似乎是不可避免的。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/seemingly
+> - Seemingly, she's gone to live with another man. `[例]`
+>   - 中译：看来，她已经跟另一个男人住在一起了。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/seemingly
 
 ---
 

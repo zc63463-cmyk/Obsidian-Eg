@@ -121,9 +121,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The economy showed signs of recovery after the global financial crisis of 2008. `[真题]`
-> - A full recovery from the disease may take several months of rest and treatment. `[真题]`
-> - Investors' new bullishness has raised hopes of economic recovery. `[COCA-ACAD]`
+> - At last the economy is showing signs of recovery. `[例]`
+>   - 中译：经济终于显现出复苏的迹象。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/recovery
+> - The police arranged the recovery of the body from the river. `[例]`
+>   - 中译：警方安排从河里打捞尸体。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/recovery
+> - Do as many exercises as you can in 40 seconds , followed by 40 seconds of aerobic recovery. `[例]`
+>   - 中译：在 40 秒内尽可能多地进行练习，然后进行 40 秒的有氧恢复。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/recovery
 
 
 ---

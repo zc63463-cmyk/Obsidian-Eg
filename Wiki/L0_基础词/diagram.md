@@ -121,9 +121,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The teacher drew a diagram showing how the blood flows through the heart . `[例]`
-> - The teacher drew a diagram showing how blood flows through the heart . `[例]`
-> - As the diagram shows , a complex arrangement has been designed to balance French , German , and Spanish interests . `[例]`
+> - The teacher drew a diagram showing how the blood flows through the heart. `[例]`
+> - The teacher drew a diagram showing how blood flows through the heart. `[例]`
+> - As the diagram shows , a complex arrangement has been designed to balance French , German , and Spanish interests. `[例]`
 
 
 ---

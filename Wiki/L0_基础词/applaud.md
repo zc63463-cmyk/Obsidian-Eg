@@ -121,9 +121,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - You should have heard the audience applaud - the noise was fantastic . `[例]`
-> - She was applauded for a full five minutes after her speech . `[例]`
-> - We applaud the family's decision to remain silent over the issue . `[例]`
+> - He started to applaud and the others joined in. `[例]`
+>   - 中译：他开始鼓掌，其他人也跟着鼓掌。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/applaud
+> - She was applauded as she came on stage. `[例]`
+>   - 中译：当她走上舞台时，受到了热烈的掌声。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/applaud
+> - The audience applauded loudly. `[例]`
+>   - 中译：观众热烈鼓掌。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/applaud
 
 
 ---

@@ -128,9 +128,15 @@ proto-(第一/原始) + col(=glue, 粘) → 粘在最前面的第一页
 ## 真题/语料关联
 
 > [!example]- 语料
-> - All data were collected according to protocols approved by the ethics committee . `[例]`
-> - It is set out in a legally binding protocol which forms part of the treaty. `[例]`
+> - All data were collected according to protocols approved by the ethics committee. `[例]`
+>   - 中译：所有数据均根据伦理委员会批准的方案收集。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/protocol
 > - As per testing protocol, the sample was divided in two. `[例]`
+>   - 中译：根据测试方案，样品被分成两部分。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/protocol
+> - The Geneva Protocol of 1925 prohibits the use of poisonous gases in war. `[例]`
+>   - 中译：1925 年《日内瓦议定书》禁止在战争中使用有毒气体。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/protocol
 
 
 ---

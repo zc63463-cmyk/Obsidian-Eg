@@ -133,9 +133,15 @@ ad-(=to, 朝向，见 [[ad]]) + [[ver-vert|vers]](=转，拉丁语 *vertere*，�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - They received a lot of adverse publicity about the changes . `[例]`
 > - Lack of money will have an adverse effect on our research programme. `[例]`
-> - So far the drug is thought not to have any adverse effects . `[例]`
+>   - 中译：缺乏资金将对我们的研究计划产生不利影响。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/adverse
+> - They have attracted strong adverse criticism. `[例]`
+>   - 中译：他们招致了强烈的批评。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/adverse
+> - This drug is known to have adverse side effects. `[例]`
+>   - 中译：众所周知，这种药物有不良副作用。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/adverse
 
 
 ---

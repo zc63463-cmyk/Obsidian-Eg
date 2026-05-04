@@ -124,8 +124,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "No clear-cut distinction can be drawn between professionals and amateurs in science: exceptions can be found to any rule."（在科学界，专业人员和业余爱好者之间无法划出明确的界限：任何规则都可以找到例外。）——2001考研英语阅读
-> - "The tournament is open to both professional and amateur athletes."（这项锦标赛对职业和业余运动员都开放。）——考研高频表达
+> - He was an amateur singer until the age of 40, when he turned professional. `[例]`
+>   - 中译：他一直是一名业余歌手，直到40岁才转为职业歌手。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/amateur
+> - The firm produces kits for amateur car constructors. `[例]`
+>   - 中译：该公司为业余汽车制造商生产套件。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/amateur
+> - He's in charge of wardrobe at the local amateur theatre. `[例]`
+>   - 中译：他负责当地业余剧院的服装。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/amateur
 
 ---
 

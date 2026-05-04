@@ -128,9 +128,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The economy is growing at its fastest rate this decade. `[例]`
-> - They’re enjoying new popularity after decades of neglect . `[例]`
 > - Air traffic has increased 30% in the last decade. `[例]`
+>   - 中译：过去十年，空中交通量增加了 30%。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/decade
+> - They predict that a large earthquake will strike the east coast before the end of the decade. `[例]`
+>   - 中译：他们预测，在本世纪末，东海岸将发生一场大地震。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/decade
+> - Environmental awareness has increased dramatically over the past decade. `[例]`
+>   - 中译：在过去的十年中，环保意识急剧增强。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/decade
 
 ---
 

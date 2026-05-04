@@ -135,8 +135,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Scopus itself has all the data necessary to detect this malpractice. `[真题]`
-> - Some sounds cannot be detected by the human ear . `[例]`
-> - Financial experts have detected signs that the economy is beginning to improve . `[例]`
+>   - 中译：Scopus 本身拥有检测这种不当行为所需的所有数据。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - Some sounds cannot be detected by the human ear. `[例]`
+>   - 中译：有些声音是人耳无法察觉的。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/detect
+> - Financial experts have detected signs that the economy is beginning to improve. `[例]`
+>   - 中译：金融专家发现了经济开始好转的迹象。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/detect
 
 ---
 

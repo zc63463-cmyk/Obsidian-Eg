@@ -121,9 +121,15 @@ bore（钻孔→厌烦，古英语 borian）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The students were bored by the repetitive exercises. `[真题]`
-> - They bored a hole through the wall. `[例]`
-> - The long speech bored me to death. `[例]`
+> - Am I boring you?" she asked anxiously. `[例]`
+>   - 中译：我让你厌烦了吗？”她焦急地问道。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/bore
+> - We were all bored silly by the play. `[例]`
+>   - 中译：我们都被这出戏无聊得傻了。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/bore
+> - I was so bored that I slept through the second half of the film. `[例]`
+>   - 中译：我实在太无聊了，所以电影的后半部分我都在睡觉。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/bore
 
 ---
 

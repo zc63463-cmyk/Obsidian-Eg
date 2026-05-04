@@ -130,9 +130,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - In her latest dispatch, our war correspondent reported an increase in fighting. `[真题]`
-> - He joined ABC as its chief foreign correspondent in 2000. `[真题]`
-> - Perhaps her most productive period was her five-year stint as a foreign correspondent in New York. `[真题]`
+> - She's the BBC's political correspondent. `[例]`
+>   - 中译：她是 BBC 的政治记者。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/correspondent
+> - She's a poor correspondent (= she does not write regularly). `[例]`
+>   - 中译：她是个糟糕的记者（=她不经常写信）。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/correspondent
+> - He was a vivid and witty correspondent. `[例]`
+>   - 中译：他是一位生动、机智的记者。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/correspondent
 
 
 ---

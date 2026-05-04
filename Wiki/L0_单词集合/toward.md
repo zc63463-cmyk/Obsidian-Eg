@@ -134,9 +134,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - This is all part of a wider change towards concentration of power and cartels. `[真题]`
-> - She stood up and walked toward him. `[例]`
-> - He leaned toward his wife and whispered , "Can we go home soon ? `[例]`
+> - The bus is heading toward town. `[例]`
+>   - 中译：公共汽车正驶向城镇。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/toward
+> - They live out towards the edge of town. `[例]`
+>   - 中译：他们住在城镇边缘。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/toward
+> - We're thinking of taking a vacation towards the end of the month. `[例]`
+>   - 中译：我们正在考虑月底休假。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/toward
 
 ---
 

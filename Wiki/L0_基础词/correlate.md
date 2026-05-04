@@ -130,9 +130,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Poverty rate explains about 34% of the variation in state murder rates. `[真题]`
-> - These revelations corrode public faith in democracy. `[真题]`
-> - Income levels correlate strongly with access to quality education. `[真题]`
+> - The figures do not seem to correlate. `[例]`
+>   - 中译：这些数字似乎并不相关。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/correlate
+> - Property values are negatively correlated to the tax rate. `[例]`
+>   - 中译：房产价值与税率呈负相关。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/correlate
+> - There is no evidence correlating height and intelligence. `[例]`
+>   - 中译：没有证据表明身高和智力之间存在关联。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/correlate
 
 
 ---

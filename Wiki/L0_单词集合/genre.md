@@ -131,9 +131,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "a new genre of writing"（一种新的写作类型）——考研阅读常见搭配
-> - "different genres of music"（不同流派的音乐）——考研阅读常见搭配
-> - "the science fiction genre"（科幻类型）——考研阅读常见搭配，文化话题
+> - What genre does the book fall into - comedy or tragedy? `[例]`
+>   - 中译：这本书属于什么类型——喜剧还是悲剧？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/genre
+> - Crime fiction is a genre which seems likely to stay with us for many years. `[例]`
+>   - 中译：犯罪小说这种类型似乎会伴随我们很多年。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/genre
+> - In genre fiction there is an implied contract between writer and reader that justice of a kind will be exacted; "good" may not always triumph over "evil," but the distinction between the two must be honored. `[例]`
+>   - 中译：在类型小说中，作者和读者之间存在着一种隐含的契约，即某种正义将得到伸张。 “善”可能并不总是战胜“恶”，但必须尊重两者之间的区别。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/genre
 
 ---
 

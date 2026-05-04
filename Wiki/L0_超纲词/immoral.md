@@ -3,10 +3,8 @@ title: "immoral"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 社会习俗
 prototype: 违背道德标准的
@@ -43,7 +41,7 @@ im-(=in-, 不) + moral(道德的)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以“**违背道德标准的**”为统筹中心，沿社会路径向外扩展：
 >
 1. **违背道德标准**（伦理判断层面）
@@ -63,7 +61,7 @@ im-(=in-, 不) + moral(道德的)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 |------|------|----------|
@@ -73,7 +71,7 @@ im-(=in-, 不) + moral(道德的)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > im（不）+ moral（道德）→ 不道德的。immoral 是明知故犯地违背道德，amoral 是根本不在乎道德——一个是“坏人”，一个是“局外人”。
@@ -82,7 +80,7 @@ im-(=in-, 不) + moral(道德的)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 |------|------------|---------|---------|---------|
@@ -95,14 +93,14 @@ im-(=in-, 不) + moral(道德的)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[moral]]：道德的（immoral 的精确反义：不道德↔道德）
 - [[ethical]]：合乎伦理的
 - [[virtuous]]：品德高尚的
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 |--------|---------|------|---------|
@@ -115,26 +113,19 @@ im-(=in-, 不) + moral(道德的)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **immoral behavior/conduct**：不道德的行为
 - **immoral profits**：不义之财
 - **highly immoral**：极不道德的
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - It is widely considered immoral to deceive others for personal gain. `[例]`
 > - The committee condemned the distribution of immoral content on the internet. `[例]`
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
-
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -123,9 +123,9 @@ forth 源自古英语 *forth*，与 fore（前面）同源，表示"向前"的�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - They set forth on their travels in early June . `[例]`
-> - As we set off into the forest , we felt as though we were venturing forth into the unknown . `[例]`
-> - Stress brings forth a " fight or flight " reaction in the body . `[例]`
+> - They set forth on their travels in early June. `[例]`
+> - As we set off into the forest , we felt as though we were venturing forth into the unknown. `[例]`
+> - Stress brings forth a " fight or flight " reaction in the body. `[例]`
 
 
 ---

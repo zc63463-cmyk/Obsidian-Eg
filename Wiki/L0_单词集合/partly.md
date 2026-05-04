@@ -128,9 +128,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The hot weather is partly to blame for the water shortage." `` `[COCA-ACAD]` ``
-> - "He was only partly responsible for the accident." `` `[COCA-ACAD]` ``
-> - "The company's problems are partly due to bad management." `` `[真题]` ``
+> - His attractiveness is partly due to his self-confidence. `[例]`
+>   - 中译：他的吸引力部分源于他的自信。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/partly
+> - The house is partly owned by her father. `[例]`
+>   - 中译：这所房子的部分所有权归她父亲所有。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/partly
+> - The hot weather is partly to blame for the water shortage. `[例]`
+>   - 中译：炎热的天气是缺水的部分原因。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/partly
 
 ---
 

@@ -128,9 +128,15 @@ con-（共同/一起）+ ting（=tact/tang，触摸，拉丁语 *tangere*）+ -e
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Buying the new house was contingent on selling the old one. `[COCA-ACAD]`
-> - The contract is contingent on approval by the Board of Trustees. `[COCA-NEWS]`
-> - The college's admission offer was contingent upon her maintaining her academic performance throughout the year. `[COCA-ACAD]`
+> - The largest contingent was from the United States. `[例]`
+>   - 中译：最大的队伍来自美国。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/contingent
+> - A strong contingent of local residents were there to block the proposal. `[例]`
+>   - 中译：当地居民的强大力量在那里阻止了这项提议。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/contingent
+> - The French contingent in the UN peacekeeping force withdrew. `[例]`
+>   - 中译：联合国维和部队中的法国特遣队撤离。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/contingent
 
 
 ---

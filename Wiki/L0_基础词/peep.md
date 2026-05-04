@@ -138,9 +138,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - I saw her peeping through the curtains into the room. `[剑桥词典]`
-> - We peeped through a crack in the fence and saw Mrs Finley talking to a strange-looking man. `[朗文词典]`
-> - Stars peep through those dark clouds. `[柯林斯词典]`
+> - I saw her peeping through the curtains into the room. `[例]`
+> - We peeped through a crack in the fence and saw Mrs Finley talking to a strange-looking man. `[例]`
+> - Stars peep through those dark clouds. `[例]`
 
 
 ---

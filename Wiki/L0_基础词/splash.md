@@ -128,9 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Water was splashing from a hole in the roof . `[例]`
-> - Unfortunately some paint splashed onto the rug . `[例]`
-> - She splashed her face with cold water . `[例]`
+> - Water was splashing from a hole in the roof. `[例]`
+> - Unfortunately some paint splashed onto the rug. `[例]`
+> - She splashed her face with cold water. `[例]`
 
 
 ---

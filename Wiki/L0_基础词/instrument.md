@@ -133,10 +133,9 @@ instrument（13世纪末，源自古法语 *instrument*，源自拉丁语 *instr
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Learning to play a musical instrument can enhance cognitive development in children. ` [真题]`
-> - Education is a powerful instrument for social change. ` [真题]`
-> - He saw the theater as an instrument of change, forcing people to consider social issues. ` [语料库]`
-> - The piano remains the most played instrument in music examinations. ` [语料库]`
+> - Guitars, pianos , and cellos are different types of string instrument. `[例]`
+> - The spinet was an early keyboard instrument related to the harpsichord , often found in domestic contexts. `[例]`
+> - The cornet is a brass instrument related to the trumpet. `[例]`
 
 
 ---

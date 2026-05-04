@@ -136,9 +136,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "by chance"（偶然地）——考研阅读/完形高频副词短语
-> - "take a chance"（冒险一试）——阅读/翻译常见搭配
-> - "chances are that..."（很可能……）——写作/翻译常用句型
+> - If you have a chance, try the steak. `[例]`
+>   - 中译：如果有机会，一定要尝尝这里的牛排。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/chance
+> - He's a very smart kid and just needs someone to give him a chance. `[例]`
+>   - 中译：他是一个非常聪明的孩子，只是需要有人给他一个机会。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/chance
+> - He wanted to change , but he was never given the chance. `[例]`
+>   - 中译：他想要改变，但一直没有机会。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/chance
 
 ---
 

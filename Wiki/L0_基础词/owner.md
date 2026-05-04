@@ -124,9 +124,9 @@ own（拥有）+ -er(名词后缀，"……的人")
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The owner of the store was sweeping his floor when I walked in." `[真题]`
-> - "The stolen car was returned to its rightful owner." `[真题]`
-> - "Every pet owner knows their animal has its own personality." `[真题]`
+> - The owner of the store was sweeping his floor when I walked in. `[真题]`
+> - The stolen car was returned to its rightful owner. `[真题]`
+> - Every pet owner knows their animal has its own personality. `[真题]`
 
 
 ---

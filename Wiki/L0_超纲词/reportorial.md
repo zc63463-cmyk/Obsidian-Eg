@@ -3,10 +3,8 @@ title: "reportorial"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-25
-mastery: L0
 word_freq: 超纲词
 semantic_field: 社会专业
 prototype: 把信息带回来（报道）
@@ -43,7 +41,7 @@ re-(回，反复) + [[port|port]](携带，运送) + -ori- + -al(形容词后缀
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**把信息带回来（报道）**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **把信息带回来**（行为层面）
@@ -64,7 +62,7 @@ re-(回，反复) + [[port|port]](携带，运送) + -ori- + -al(形容词后缀
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ re-(回，反复) + [[port|port]](携带，运送) + -ori- + -al(形容词后缀
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > re（回）+ port（带）→ 把信息从新闻现场带回来 → reportorial（记者的）。记者的本质工作就是"把信息带回来"，所以 reportorial 描述的就是记者的、报道的。
@@ -86,7 +84,7 @@ re-(回，反复) + [[port|port]](携带，运送) + -ori- + -al(形容词后缀
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -98,13 +96,13 @@ re-(回，反复) + [[port|port]](携带，运送) + -ori- + -al(形容词后缀
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[fictional]]：虚构的（reportorial 的反义：纪实↔虚构）
 > - [[imaginative]]：想象的（reportorial 的反义：如实记录↔想象创作）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -116,26 +114,19 @@ re-(回，反复) + [[port|port]](携带，运送) + -ori- + -al(形容词后缀
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **reportorial style**：记者风格，纪实风格
 > - **reportorial duties**：报道职责
 > - **reportorial instinct**：新闻直觉
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - The author's reportorial style gives the book an authentic feel.（作者纪实性的写作风格赋予了这本书真实感。）
-> - He carried out his reportorial duties with great professionalism.（他以高度的专业精神履行了报道职责。）
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-25 | **复习次数**：0 | **当前等级**：L0
-
----
+> [!example]- 语料
+> - The researchers proposed a reportorial solution to the problem. `[例]`
+> - The company adopted a reportorial approach to improve efficiency. `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

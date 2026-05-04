@@ -132,8 +132,8 @@ review_count: 0
 
 > [!example]- 语料
 > - It fosters competition among citation providers. `[真题]`
-> - Would you consider fostering a child ? `[例]`
-> - She had always wanted to foster, to help children who might otherwise suffer as she had suffered . `[例]`
+> - Would you consider fostering a child? `[例]`
+> - She had always wanted to foster, to help children who might otherwise suffer as she had suffered. `[例]`
 
 
 ---

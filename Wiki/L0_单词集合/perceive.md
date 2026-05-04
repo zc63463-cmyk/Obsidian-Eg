@@ -132,10 +132,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Although the man paints well, he does not perceive himself as an artist. `[COCA]`
-> - We cannot allow ourselves to perceive every refugee as a potential terrorist. `[COCA-NEWS]`
-> - She noted that when we see him, he is usually depicted in roles that we are culturally conditioned to perceive as male. `[COCA-ACAD]`
-> - At stake are jobs and the way the people of Europe perceive the EU. `[COCA-ACAD]`
+> - The scientific community measures the quality of those papers in a number of ways, including the perceived quality of the journal ( as reflected by the title's impact factor) and the number of citations a specific paper accumulates. `[真题]`
+>   - 中译：科学界通过多种方式衡量这些论文的质量，包括期刊的感知质量（如标题的影响因子所反映）和特定论文累积的引用次数。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - How do the French perceive the British? `[例]`
+>   - 中译：法国人如何看待英国人？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/perceive
+> - Women's magazines are often perceived to be superficial. `[例]`
+>   - 中译：女性杂志常常被认为是肤浅的。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/perceive
 
 ---
 

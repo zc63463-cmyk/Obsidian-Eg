@@ -128,9 +128,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - What an absurd thing to say! `[例]`
-> - Don't be so absurd! Of course I want you to come. `[例]`
-> - It's an absurd situation - neither of them will talk to the other. `[例]`
+> - That uniform makes the guards look absurd. `[例]`
+>   - 中译：这套制服让警卫们看起来很荒谬。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/absurd
+> - Of course it's not true, what an absurd idea. `[例]`
+>   - 中译：当然这不是真的，这是多么荒谬的想法。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/absurd
+> - He has a good sense of the absurd. `[例]`
+>   - 中译：他对荒谬有很好的判断力。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/absurd
 
 
 ---

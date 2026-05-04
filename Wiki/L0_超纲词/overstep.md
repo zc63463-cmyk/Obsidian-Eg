@@ -3,10 +3,8 @@ title: "overstep"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-25
-mastery: L0
 word_freq: 超纲词
 semantic_field: 社会习俗
 prototype: 跨过了界线
@@ -43,7 +41,7 @@ over-(越过) + step(步伐/踩)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**跨过了界线**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **跨过了界线**（空间层面）
@@ -64,7 +62,7 @@ over-(越过) + step(步伐/踩)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ over-(越过) + step(步伐/踩)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > over（越过）+ step（步伐）→ 越过步伐 → 越界。想象地上画了一条线，写着"止步"——你一脚跨过去了，就是 overstep the mark（越界）。领导管了不该管的事——overstep one's authority（越权）。
@@ -86,7 +84,7 @@ over-(越过) + step(步伐/踩)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -97,13 +95,13 @@ over-(越过) + step(步伐/踩)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[comply]]：遵守（overstep 的反义：越权↔遵守）
 > - [[respect]]：尊重（界限）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -113,26 +111,19 @@ over-(越过) + step(步伐/踩)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **overstep one's authority**：越权
 > - **overstep the mark**：做得太过分
 > - **overstep the bounds**：超越界限
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - `[例]` The judge warned the lawyer not to overstep the bounds of professional conduct.
-> - `[例]` The manager overstepped his authority by making decisions without consulting the board.
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-25 | **复习次数**：0 | **当前等级**：L0
-
----
+> [!example]- 语料
+> - The bad language in that show overstepped the boundaries of what should be allowed on television. `[例]`
+> - He argued that the court had overstepped its constitutional limits. `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

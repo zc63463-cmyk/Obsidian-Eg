@@ -129,9 +129,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She eased her large bulk out of the chair . `[例]`
-> - It was a document of surprising bulk. `[例]`
-> - The office buys paper in bulk to keep down costs . `[例]`
+> - The bulk of the population lives in cities. `[例]`
+>   - 中译：大部分人口居住在城市。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bulk
+> - The great bulk of the work has now been done. `[例]`
+>   - 中译：现在大部分工作已经完成。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bulk
+> - Despite its bulk and weight, the car is extremely fast. `[例]`
+>   - 中译：尽管体积和重量很大，但这辆车的速度却非常快。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bulk
 
 
 ---

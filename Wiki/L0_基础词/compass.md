@@ -129,10 +129,15 @@ com-(一起) + [[pass|pass-]](步，经过，拉丁语 *passus* "步")
 ## 真题/语料关联
 
 > [!example]- 语料
-> - We had to use a compass to get here. ` [COCA-FIC]`
-> - Men were in the marketplace and no longer had time to be moral compasses. ` [COCA-ACAD]`
-> - The problem is within the compass of human understanding. ` [例]`
-> - You will need sharp scissors, a ruler, and a pair of compasses for making circles. ` [COCA-ACAD]`
+> - He always carries a compass when he walks in the woods. `[例]`
+>   - 中译：当他在树林里行走时，他总是带着指南针。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/compass
+> - His religion is the compass that guides him. `[例]`
+>   - 中译：他的宗教信仰是指引他的指南针。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/compass
+> - Interest rates serve as a compass for determining whether to buy or sell stocks. `[例]`
+>   - 中译：利率是决定是否买入或卖出股票的指南针。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/compass
 
 
 ---

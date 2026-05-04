@@ -124,7 +124,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The new regulation allows for greater flexibility in working hours.（新规定在工作时间上允许更大的灵活性。）
+> - We are hopeful with our shops now open again that normality will return and that we will be allowed to buy appropriately. `[真题]`
+>   - 中译：我们希望我们的商店现在重新开业，一切都会恢复正常，我们将被允许适当购买。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - By allowing AI to develop content some brand marketers may find that they are losing control over the brand narrative. ( 48 ) Algorithms that are used to simulate human interactions are creating mmy of these concerns, especially as no-one is quite sure what the outcomes of using AI to interact with customers will be. `[真题]`
+>   - 中译：通过允许人工智能开发内容，一些品牌营销人员可能会发现他们正在失去对品牌叙事的控制。 ( 48 ) 用于模拟人类交互的算法正在引发这些担忧，特别是因为没有人完全确定使用人工智能与客户交互的结果会是什么。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - Do you think Dad will allow you to go to Jamie's party? `[例]`
+>   - 中译：你认为爸爸会允许你去参加杰米的聚会吗？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/allow
 
 ---
 

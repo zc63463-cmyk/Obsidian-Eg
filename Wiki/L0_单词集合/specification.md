@@ -129,9 +129,15 @@ spec-（= species，种类/外观）+ -ific（= fac，制造/做）+ -ation（�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - All products are made exactly to the customer's specifications. `[例]`
-> - A specification has been drawn up for the new military aircraft . `[例]`
-> - The cars have been built to a high specification (= a high standard ) . `[例]`
+> - The house has been built exactly to our specifications. `[例]`
+>   - 中译：这座房子完全按照我们的规格要求建造。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/specification
+> - The aircraft have to meet the strict specifications laid down by the FAA. `[例]`
+>   - 中译：这些飞机必须符合美国联邦航空局制定的严格规范。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/specification
+> - The manager has drafted job specifications for each of the positions. `[例]`
+>   - 中译：经理已经为每个岗位拟定了职位说明。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/specification
 
 ---
 

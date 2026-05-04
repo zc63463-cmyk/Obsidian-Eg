@@ -139,9 +139,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He polished the brass till it shone." `[真题]`
-> - "Her eyes shone with delight." `[真题]`
-> - "The parents took a shine to each other straight away." `[真题]`
+> - The hikers rested under a towering shine near the coastal trail. `[例]`
+> - The cabin was built from durable shine gathered in the region. `[例]`
+> - The parents took a shine to each other straight away. `[真题]`
 
 
 ---

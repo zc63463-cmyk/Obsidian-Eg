@@ -135,10 +135,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She had no illusions about how much work the project would require. `[真题]`
-> - They used paint to create the illusion of metal. `[COCA-ACAD]`
-> - He was under the illusion that he was a good player. `[COCA-ACAD]`
-> - The video game is designed to give the illusion that you are in control of an airplane. `[COCA-ACAD]`
+> - I'm under no illusions (= I understand the truth ) about the man I married. `[例]`
+>   - 中译：我对我结婚的男人不抱任何幻想（=我了解真相）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/illusion
+> - He had no illusions about his talents as a singer. `[例]`
+>   - 中译：他对自己作为歌手的天赋不抱任何幻想。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/illusion
+> - My boss is labouring under the illusion that (= wrongly believes that) the project will be completed on time. `[例]`
+>   - 中译：我的老板幻想着（=错误地相信）项目会按时完成。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/illusion
 
 ---
 

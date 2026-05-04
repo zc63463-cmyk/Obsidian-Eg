@@ -123,9 +123,15 @@ ap-(=ad-, 向) + [[prais]](=price, 价格/价值) + -al(名词后缀)。与 [[pr
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The newspaper gave an editorial appraisal of the government's achievements of the past year . `[例]`
-> - Many companies operate regular job appraisals, often on an annual basis . `[例]`
-> - She said there was a desire for "an honest appraisal to identify the true facts of this matter ". `[例]`
+> - He had read many detailed critical appraisals of her work. `[例]`
+>   - 中译：他读过许多对她作品的详细批评评价。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/appraisal
+> - She was honest in her appraisal of her team's chances. `[例]`
+>   - 中译：她对团队机会的评估是诚实的。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/appraisal
+> - The report has been subject to appraisal. `[例]`
+>   - 中译：该报告已接受评估。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/appraisal
 
 
 ---

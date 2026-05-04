@@ -127,7 +127,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Faced with declining sales, the company sought alternative strategies to remain competitive.（面对销量下降，公司寻求替代策略以保持竞争力。）
+> - The opposition parties have so far failed to set out an alternative strategy. `[例]`
+>   - 中译：迄今为止，反对党尚未制定替代战略。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/alternative
+> - An alternative venue for the concert is being sought. `[例]`
+>   - 中译：正在寻找音乐会的替代场地。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/alternative
+> - High vehicles must take an alternative route because of low clearance under the bridge. `[例]`
+>   - 中译：由于桥下净空较低，高的车辆必须走替代路线。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/alternative
 
 ---
 

@@ -126,9 +126,15 @@ brack(臂膀/肩膀，源自古法语 *braguette*，与 *brag* "臂" 相关) + -
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Biographical information is included in brackets. `[例]`
-> - You should include the date of publication in round brackets after the title . `[例]`
-> - They were both surgeons in a high income bracket. `[例]`
+> - Publication dates are given in brackets after each title. `[例]`
+>   - 中译：出版日期在每个标题后面的括号中给出。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bracket
+> - Add the numbers in brackets first. `[例]`
+>   - 中译：首先添加括号中的数字。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bracket
+> - People in the lower income brackets will not be able to afford this. `[例]`
+>   - 中译：低收入阶层的人们将无法承担这一费用。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bracket
 
 
 ---

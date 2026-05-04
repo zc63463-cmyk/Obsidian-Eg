@@ -125,9 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The election of a new pope can be a lengthy procedure . `[例]`
-> - The Pope has visited South America this year . `[例]`
-> - The Pope has recently returned to the Vatican . `[例]`
+> - The election of a new pope can be a lengthy procedure. `[例]`
+> - The Pope has visited South America this year. `[例]`
+> - The Pope has recently returned to the Vatican. `[例]`
 
 
 ---

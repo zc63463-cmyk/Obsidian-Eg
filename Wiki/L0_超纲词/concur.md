@@ -3,10 +3,8 @@ title: "concur"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 人本世界
 prototype: 一起跑（同时朝同一方向行动）
@@ -43,7 +41,7 @@ con-（一起）+ [[cur]]（跑，拉丁语 *currere*）
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**一起跑（同时朝同一方向行动）**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **一起跑**（同步行动层面）
@@ -64,7 +62,7 @@ con-（一起）+ [[cur]]（跑，拉丁语 *currere*）
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ con-（一起）+ [[cur]]（跑，拉丁语 *currere*）
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **词根记忆**（优先）：
 > con（一起）+ cur（跑）→ 一起跑 → 意见一致。occur（发生）和 concur（赞同）同源——occur 是"跑出来"→发生，concur 是"跑到一起"→赞同。
@@ -83,7 +81,7 @@ con-（一起）+ [[cur]]（跑，拉丁语 *currere*）
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -96,13 +94,13 @@ con-（一起）+ [[cur]]（跑，拉丁语 *currere*）
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[disagree]]：不同意（concur 的精确反义：赞同↔不同意）
 - - [[differ]]：不同，分歧（concur 的反义：一致↔分歧）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -115,26 +113,19 @@ con-（一起）+ [[cur]]（跑，拉丁语 *currere*）
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **concur with**：赞同……
 > - **concur on**：在……上达成一致
 > - **concur in**：在……方面一致
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - The new report concurs with previous findings . `[例]`
-> - The board concurred that the editor should have full control over editorial matters . `[例]`
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
+> [!example]- 语料
+> - The new report concurs with previous findings. `[例]`
+> - The board concurred that the editor should have full control over editorial matters. `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -124,8 +124,8 @@ kneel（[[knee]] 膝盖 + -el(动词后缀，表示反复/持续动作) → 用�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - At the end of the game , the quarterback kneeled with the ball to run out the clock . `[例]`
-> - Gibbons kneeled next to the plant and started digging . `[例]`
+> - At the end of the game , the quarterback kneeled with the ball to run out the clock. `[例]`
+> - Gibbons kneeled next to the plant and started digging. `[例]`
 > - People sometimes kneel to pray. `[例]`
 
 

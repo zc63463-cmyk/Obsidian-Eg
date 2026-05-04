@@ -131,9 +131,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - This biography offers a few glimpses of his life before he became famous . `[例]`
-> - Her biography revealed that she was not as rich as everyone thought . `[例]`
-> - The biography was a bit of a rush job . `[例]`
+> - The book gives potted biographies of all the major painters. `[例]`
+>   - 中译：这本书提供了所有主要画家的传记。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/biography
+> - McBride emphasizes that the most important health data reside in your biography , personal story, stress levels and relationship with food and alcohol. `[例]`
+>   - 中译：麦克布莱德强调，最重要的健康数据存在于您的传记、个人故事、压力水平以及与食物和酒精的关系中。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/biography
+> - Rodríguez’s family moved to New York City in 1953, a SABR biography noted. `[例]`
+>   - 中译：SABR 的传记指出，罗德里格斯全家于 1953 年搬到了纽约市。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/biography
 
 
 ---

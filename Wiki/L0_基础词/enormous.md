@@ -123,9 +123,9 @@ e-(=ex-, 出/超出) + [[norm|norm-]](标准/规范) + -ous(形容词后缀，�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - He earns an enormous salary . `[例]`
-> - I was absolutely enormous when I was pregnant . `[例]`
-> - You've been an enormous help . `[例]`
+> - He earns an enormous salary. `[例]`
+> - I was absolutely enormous when I was pregnant. `[例]`
+> - You've been an enormous help. `[例]`
 
 
 ---

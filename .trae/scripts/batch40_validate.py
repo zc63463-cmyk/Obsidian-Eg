@@ -14,8 +14,21 @@ from __future__ import annotations
 
 import json
 import re
+import sys
 from pathlib import Path
 from typing import Dict, List, Tuple
+
+SCRIPT_DIR = Path(__file__).resolve().parent
+if str(SCRIPT_DIR) not in sys.path:
+    sys.path.insert(0, str(SCRIPT_DIR))
+
+from common_alignment_rules import (
+    VALID_TAG_RE,
+    keep_if_contains_word,
+    looks_like_full_sentence,
+    required_corpus_count,
+    strip_tag,
+)
 
 
 REPO = Path("/workspace/Obsidian-Eg")
@@ -24,15 +37,6 @@ REPORT = Path("/data/user/work/batch40_validate_report.json")
 BAD_TXT = Path("/data/user/work/batch40_validate_bad.txt")
 
 DIGITS = "①②③④⑤⑥⑦⑧⑨⑩"
-VALID_TAG_RE = re.compile(
-    r"`\[(?:例|真题|考研-[^\]]+|COCA(?:-[^\]]+)?|BNC(?:-[^\]]+)?)\]`\s*$"
-)
-OPTION_CHAIN_RE = re.compile(r"\bA\.\s+.+\bB\.\s+.+\bC\.\s+", flags=re.I)
-BLANK_RE = re.compile(r"_{2,}|\b__\b")
-AUXILIARIES = {
-    "am","is","are","was","were","be","been","being","do","does","did",
-    "have","has","had","can","could","may","might","must","shall","should","will","would",
-}
 
 
 def read_text(p: Path) -> str:
@@ -43,79 +47,6 @@ def read_text(p: Path) -> str:
 def extract_frontmatter_word_freq(text: str) -> str:
     m = re.search(r"^word_freq:\s*(.+?)\s*$", text, flags=re.M)
     return (m.group(1).strip() if m else "").strip('"').strip("'")
-
-
-def required_corpus_count(word_freq: str) -> int:
-    return 2 if word_freq == "超纲词" else 3
-
-
-def keep_if_contains_word(word: str, s: str) -> bool:
-    w = word.lower().strip()
-    if not w:
-        return False
-    base_forms = {w}
-    if "-" in w:
-        base_forms.add(w.replace("-", " "))
-        base_forms.add(w.replace("-", ""))
-    if " " in w:
-        base_forms.add(w.replace(" ", "-"))
-        base_forms.add(w.replace(" ", ""))
-
-    forms = set()
-    consonants = "bcdfghjklmnpqrstvwxyz"
-    for base in base_forms:
-        if not base:
-            continue
-        last = base[-1]
-        forms.update({base, base + "s", base + "es"})
-        if base.endswith("e"):
-            forms.update({base + "d", base[:-1] + "ing"})
-        else:
-            forms.update({base + "ed", base + "ing"})
-        if last in consonants and not base.endswith("e"):
-            forms.update({base + last + "ed", base + last + "ing"})
-    alts = [re.escape(x) for x in sorted(forms)]
-    pat = re.compile(rf"\b(?:{'|'.join(alts)})\b", flags=re.I)
-    return bool(pat.search(s))
-
-
-def looks_like_full_sentence(s: str) -> bool:
-    s = s.strip()
-    if len(s) < 12 or len(s.split()) < 4:
-        return False
-    if not s or s[-1] not in ".?!":
-        return False
-    if not s[0].isalpha() or not s[0].isupper():
-        return False
-    if "/" in s:
-        return False
-    if BLANK_RE.search(s):
-        return False
-    if OPTION_CHAIN_RE.search(s):
-        return False
-    if re.search(r"\b[0-9]{1,3}\.$", s):
-        return False
-    lowered = re.sub(r"[^a-zA-Z'\- ]+", " ", s).lower()
-    words = [w for w in lowered.split() if w]
-    if len(words) < 4:
-        return False
-    if any(w in AUXILIARIES for w in words):
-        return True
-    for w in words:
-        if w.endswith(("ed", "ing")) and len(w) > 4:
-            return True
-        if w.endswith("s") and len(w) > 3 and w not in {"this", "thus"}:
-            return True
-    return False
-
-
-def strip_tag(raw: str) -> Tuple[str, str]:
-    m = VALID_TAG_RE.search(raw)
-    if not m:
-        return re.sub(r"`\[[^\]]+\]`\s*$", "", raw).strip(), ""
-    tag = m.group(0).strip("`")
-    sent = VALID_TAG_RE.sub("", raw).rstrip()
-    return sent, tag
 
 
 def find_section(text: str, header: str) -> str:

@@ -3,10 +3,8 @@ title: "professionalize"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-25
-mastery: L0
 word_freq: 超纲词
 semantic_field: 社会专业
 prototype: 使专业化（使某领域变得像专业职业一样）
@@ -43,7 +41,7 @@ profession（专业/职业）+ -al（形容词后缀）+ -ize（动词后缀，�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**使专业化**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **使专业化**（社会层面）
@@ -64,7 +62,7 @@ profession（专业/职业）+ -al（形容词后缀）+ -ize（动词后缀，�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ profession（专业/职业）+ -al（形容词后缀）+ -ize（动词后缀，�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > profession（专业）+ -ize（使……化）= professionalize。古代的医生没有执照，后来通过 professionalize medicine 使医学成为专业。现在很多行业都在 professionalize——建立标准、培训和认证体系。
@@ -86,7 +84,7 @@ profession（专业/职业）+ -al（形容词后缀）+ -ize（动词后缀，�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,12 +97,12 @@ profession（专业/职业）+ -al（形容词后缀）+ -ize（动词后缀，�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[amateurize]]：使业余化（professionalize 的反义：专业化↔业余化）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,26 +115,19 @@ profession（专业/职业）+ -al（形容词后缀）+ -ize（动词后缀，�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **professionalize the industry/profession**：使行业/职业专业化
 > - **efforts to professionalize**：专业化的努力
 > - **professionalize teaching/medicine**：使教学/医学专业化
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - The country is professionalizing the military. `[例]`
 > - As the field of comment moderation professionalized , community managers started to be put in place, charged with moderation. `[例]`
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-25 | **复习次数**：0 | **当前等级**：L0
-
----
-
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

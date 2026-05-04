@@ -121,9 +121,15 @@ cloth（布料）的复数形式 *claþas* → clothes（衣服）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She usually wears smart clothes. `[例]`
-> - She usually wears casual clothes. `[例]`
-> - I'm just putting my clothes on. `[例]`
+> - I bought some new clothes for the trip. `[例]`
+>   - 中译：我为这次旅行买了一些新衣服。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/clothes
+> - They were dressed in designer clothes (= clothes designed by famous fashion designers). `[例]`
+>   - 中译：他们穿着名牌服装（=著名时装设计师设计的衣服）。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/clothes
+> - She was wearing casual clothes. `[例]`
+>   - 中译：她穿着休闲服。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/clothes
 
 
 ---

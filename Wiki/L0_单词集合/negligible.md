@@ -122,8 +122,15 @@ neg-(不/没有) + [[lect-leg|lect]](选择/收集) + -ible(可以……的)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The impact of them was negligible, and did not change any of the substantive results."（其影响微不足道，并未改变任何实质性结果。）——考研高频表达
-> - "The cost was negligible."（费用不大，无关紧要。）——考研高频表达
+> - The difference between the two products is negligible. `[例]`
+>   - 中译：两种产品之间的差异可以忽略不计。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/negligible
+> - My knowledge of German is negligible. `[例]`
+>   - 中译：我的德语知识可以忽略不计。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/negligible
+> - The effect on sales was negligible. `[例]`
+>   - 中译：对销售的影响可以忽略不计。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/negligible
 ---
 
 

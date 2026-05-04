@@ -129,9 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The company bought a parcel of land on the outskirts of the city for its new factory. `[语料库]`
-> - The work was parceled out among several teams. `[语料库]`
-> - HTV is redeveloping a 21-acre parcel of land close to its studios. `[外刊]`
+> - The company bought a parcel of land on the outskirts of the city for its new factory. `[例]`
+> - The work was parceled out among several teams. `[例]`
+> - HTV is redeveloping a 21-acre parcel of land close to its studios. `[例]`
 
 
 ---

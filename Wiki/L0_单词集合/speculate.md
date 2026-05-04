@@ -130,9 +130,15 @@ spec-（= specere，看/观察）+ -ulate（动词后缀，表反复动作）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - I don't know why she did it - I'm just speculating. `[例]`
-> - A spokesperson declined to speculate on the cause of the train crash . `[例]`
-> - Journalists are speculating about whether interest rates will be cut . `[例]`
+> - We all speculated about the reasons for her resignation. `[例]`
+>   - 中译：我们都在猜测她辞职的原因。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/speculate
+> - It is useless to speculate why he did it. `[例]`
+>   - 中译：猜测他为什么这么做是没有用的。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/speculate
+> - He likes to speculate on the stock market. `[例]`
+>   - 中译：他喜欢在股票市场上投机。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/speculate
 
 ---
 

@@ -116,8 +116,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "In medieval Europe, guilds played a crucial role in regulating trade and protecting the interests of craftsmen."（在中世纪的欧洲，行会在规范贸易和保护工匠利益方面发挥了关键作用。）——考研高频表达
-> - "The Screen Actors Guild represents thousands of performers in the entertainment industry."（美国演员工会代表了娱乐行业的数千名表演者。）——考研高频表达
+> - However, the guild was not able to increase writers’ room sizes. `[例]`
+>   - 中译：然而，公会无法增加作家房间的面积。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/guild
+> - Universities, libraries, and professional guilds played that role for generations. `[例]`
+>   - 中译：大学、图书馆和专业协会代代相传地发挥着这一作用。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/guild
+> - Meanwhile, the leaders reported that the core business of the guild — paying residuals, arbitrating credit disputes, and so on — continues, though the guild’s offices, theater and library remain closed. `[例]`
+>   - 中译：与此同时，领导人报告说，尽管行会的办公室、剧院和图书馆仍然关闭，但行会的核心业务——支付余款、仲裁信用纠纷等——仍在继续。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/guild
 
 
 ---

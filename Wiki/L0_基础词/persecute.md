@@ -128,9 +128,9 @@ review_count: 0
 
 > [!example]- 语料
 > - They came to America after being persecuted for their religious beliefs. `[真题]`
-> - For three years after DNA evidence proved his innocence, the authorities persisted in persecuting him. `[语料库]`
-> - His latest film is about the experience of being persecuted for being gay. `[语料库]`
-> - Ever since the news broke about her divorce, she has been persecuted by the tabloid press. `[语料库]`
+> - For three years after DNA evidence proved his innocence, the authorities persisted in persecuting him. `[例]`
+> - His latest film is about the experience of being persecuted for being gay. `[例]`
+> - Ever since the news broke about her divorce, she has been persecuted by the tabloid press. `[例]`
 
 
 ---

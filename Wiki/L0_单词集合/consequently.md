@@ -127,9 +127,15 @@ con-(共同，一起) + sequ/secut(跟随) + -ent(形容词后缀) + -ly(副词�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Some of these causes are completely reasonable results of social needs. Others are reasonable consequences of particular advances in science being to some extent self-accelerating." `[真题]`
-> - "She didn't study hard; consequently, she failed the exam." `[真题]`
-> - "The company failed to adapt to changing market conditions; consequently, it lost a significant share of its customer base." `[COCA-ACAD]`
+> - I spent most of my money in the first week and consequently had very little to eat by the end of the holiday. `[例]`
+>   - 中译：我在第一周就花掉了大部分钱，因此到假期结束时几乎没有什么可吃的。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/consequently
+> - All the shops were closed , and consequently we couldn't buy any food. `[例]`
+>   - 中译：所有的商店都关门了，因此我们买不到任何食物。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/consequently
+> - Doctors are short of time to listen and consequently tend to prescribe drugs whenever they can. `[例]`
+>   - 中译：医生没有时间倾听，因此倾向于尽可能开药。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/consequently
 ---
 
 

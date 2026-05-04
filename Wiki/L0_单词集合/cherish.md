@@ -123,8 +123,15 @@ cher-(=car-/cur，关心、珍爱，与 care 同源) + -ish(动词后缀，表"�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "We should cherish the opportunities to learn from outstanding scholars."（我们应当珍惜向杰出学者学习的机会。）——2021考研翻译
-> - "People cherish the freedom and independence that they have won."（人们珍视他们赢得的自由和独立。）——考研高频表达
+> - Although I cherish my children , I do allow them their independence. `[例]`
+>   - 中译：虽然我珍惜我的孩子，但我确实允许他们独立。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/cherish
+> - Her most cherished possession is a 1926 letter from F. Scott Fitzgerald. `[例]`
+>   - 中译：她最珍视的财产是 1926 年 F·斯科特·菲茨杰拉德 (F. Scott Fitzgerald) 写的一封信。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/cherish
+> - Freedom of speech is a cherished (= carefully protected ) right in this country. `[例]`
+>   - 中译：在这个国家，言论自由是一项值得珍惜（=精心保护）的权利。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/cherish
 
 ---
 

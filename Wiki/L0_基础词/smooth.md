@@ -133,7 +133,7 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - This custard is deliciously smooth and creamy . `[例]`
+> - This custard is deliciously smooth and creamy. `[例]`
 > - The road ahead was flat and smooth. `[例]`
 > - This moisturizer will help to keep your skin smooth. `[例]`
 

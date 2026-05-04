@@ -127,9 +127,9 @@ out-(外面) + door(门) → 在门外 → 户外的
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The hotel has an outdoor swimming pool and a sheltered courtyard for guests." `[BNC-SPOKEN]`
-> - "The program of outdoor activities includes skiing, climbing, and hiking." `[COCA-ACAD]`
-> - "Many people prefer outdoor concerts during the summer months." `[COCA-NEWS]`
+> - The hotel has an outdoor swimming pool and a sheltered courtyard for guests. `[BNC-SPOKEN]`
+> - The program of outdoor activities includes skiing, climbing, and hiking. `[COCA-ACAD]`
+> - Many people prefer outdoor concerts during the summer months. `[COCA-NEWS]`
 
 
 ---

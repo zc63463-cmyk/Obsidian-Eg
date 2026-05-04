@@ -132,8 +132,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "I am certain that this approach will yield positive results."（我确信这种方法会产生积极的结果）——考研阅读常见表达
-> - "A certain amount of risk is inevitable in any investment."（任何投资都不可避免地存在一定风险）——a certain 的典型用法
+> - Are you absolutely certain (that) you gave them the right number? `[例]`
+>   - 中译：您绝对确定您给了他们正确的号码吗？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/certain
+> - I feel certain (that) you're doing the right thing. `[例]`
+>   - 中译：我确信你正在做正确的事。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/certain
+> - You should make certain (that) everyone understands the instructions. `[例]`
+>   - 中译：您应该确保每个人都理解这些说明。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/certain
 
 ---
 

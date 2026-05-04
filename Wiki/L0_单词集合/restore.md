@@ -133,10 +133,15 @@ re-(再/回) + stor/staur(建立，拉丁语 *staurare*, *store* 的词源) → 
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The government took steps to quell the unrest and restore public order." `[真题]`
-> - "Failing hips can be replaced, clinical depression controlled, cataracts removed in a 30-minute surgical procedure." `[真题]`
-> - "The government needs to restore confidence in the economy." `[COCA-ACAD]`
-> - "Power company crews were working yesterday to restore electrical service to homes in the area." `[COCA]`
+> - The badly neglected paintings have all been carefully restored. `[例]`
+>   - 中译：那些被严重忽视的画作都已被精心修复。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/restore
+> - After a week in bed , she was fully restored to health (= she felt healthy again). `[例]`
+>   - 中译：卧床一周后，她完全恢复健康（=她再次感觉健康）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/restore
+> - The former leader was today restored to power in the first free elections for 20 years. `[例]`
+>   - 中译：这位前领导人今天在二十年来的首次自由选举中重新掌权。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/restore
 
 
 ---

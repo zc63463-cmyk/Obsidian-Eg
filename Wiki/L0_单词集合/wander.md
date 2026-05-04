@@ -138,9 +138,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - We spent the morning wandering around the old part of the city . `[例]`
-> - She was found several hours later , wandering the streets , lost . `[例]`
-> - He was here a minute ago but he's wandered off somewhere . `[例]`
+> - She wandered aimlessly around the streets. `[例]`
+>   - 中译：她在街上漫无目的地闲逛。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/wander
+> - We wandered back towards the car. `[例]`
+>   - 中译：我们又朝车走去。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/wander
+> - The child was found wandering the streets alone. `[例]`
+>   - 中译：孩子被发现独自在街上闲逛。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/wander
 
 ---
 

@@ -128,10 +128,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - A thorough review of the existing literature reveals several gaps in our understanding of the phenomenon. `[COCA-ACAD]`
-> - The researcher conducted a comprehensive literature review before starting the experiment. `[COCA-ACAD]`
-> - Ibogaine has been linked to more than thirty deaths in the medical literature according to recent studies. `[COCA-NEWS]`
-> - Literature is a mirror that reflects the society in which it is created. `[例]`
+> - Wuthering Heights" is a classic of English literature. `[例]`
+>   - 中译：《呼啸山庄》是英国文学的经典之作。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/literature
+> - He's very knowledgeable about German literature. `[例]`
+>   - 中译：他对德国文学非常了解。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/literature
+> - I had a brilliant English teacher who fired me with enthusiasm for literature at an early age. `[例]`
+>   - 中译：我有一位出色的英语老师，他从小就激发了我对文学的热情。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/literature
 
 ---
 

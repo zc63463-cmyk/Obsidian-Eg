@@ -135,7 +135,7 @@ review_count: 0
 
 > [!example]- 语料
 > - After she came out of the station , she paused to orient herself. `[例]`
-> - Incoming freshmen have advisers to help orient them to the university . `[例]`
+> - Incoming freshmen have advisers to help orient them to the university. `[例]`
 > - Our students are oriented towards science subjects. `[例]`
 
 

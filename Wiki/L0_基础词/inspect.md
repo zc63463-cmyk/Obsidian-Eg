@@ -131,8 +131,7 @@ review_count: 0
 > [!example]- 语料
 > - After the crash both drivers got out and inspected their cars for damage. `[真题]`
 > - The engines are all inspected before they leave the factory. `[真题]`
-> - She had the car inspected by a mechanic before she bought it. `[语料库]`
-> - After the storm, we went outside to inspect the damage. `[语料库]`
+> - She had the car inspected by a mechanic before she bought it. `[例]`
 
 
 ---

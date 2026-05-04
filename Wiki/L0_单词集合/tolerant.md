@@ -123,9 +123,15 @@ toler-(忍受) + -ant(形容词后缀，表"具有...性质的")
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The present government is even less tolerant of dissent . `[例]`
-> - People in Italy are more tolerant of children in public places than in Britain . `[例]`
-> - I think men are less tolerant of stress than women. `[例]`
+> - He has a very tolerant attitude towards other religions. `[例]`
+>   - 中译：他对其他宗教抱有非常宽容的态度。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/tolerant
+> - The plants are tolerant of frost. `[例]`
+>   - 中译：这些植物能耐受霜冻。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/tolerant
+> - Although spiderwort is drought tolerant , plants benefit from protection from the hot afternoon sun. `[例]`
+>   - 中译：尽管紫露草具有耐旱性，但植物仍能免受午后炎热阳光的影响。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/tolerant
 
 ---
 

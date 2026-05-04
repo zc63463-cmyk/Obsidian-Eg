@@ -126,9 +126,15 @@ be-（使/彻底）+ wilder（引入荒野，源自 wilderness "荒野"）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She was totally bewildered by his sudden change of mood. `[COCA-ACAD]`
-> - His complete lack of interest in money bewilders his family. `[COCA-NEWS]`
-> - The bewildering array of choices on the menu made it hard to decide. `[例]`
+> - She was totally bewildered by his sudden change of mood. `[例]`
+>   - 中译：她被他突然的情绪转变弄糊涂了。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bewilder
+> - His complete lack of interest in money bewilders his family. `[例]`
+>   - 中译：他对金钱完全不感兴趣，这让他的家人感到困惑。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bewilder
+> - He was rather bewildered at seeing her there. `[例]`
+>   - 中译：看到她在那里，他感到相当困惑。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bewilder
 
 
 ---

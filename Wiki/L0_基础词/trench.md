@@ -130,7 +130,7 @@ trench 源自拉丁语 *truncare*（切断，修剪），与 [[tract]]（拉、�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - A workman was killed when the sides of the trench he was working in collapsed . `[例]`
+> - A workman was killed when the sides of the trench he was working in collapsed. `[例]`
 > - The trenches of the First World War. `[例]`
 > - I dug a trench around the tent to keep rain water from getting in. `[例]`
 

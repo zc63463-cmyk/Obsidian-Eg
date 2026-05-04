@@ -131,9 +131,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - That behavior was not consistent with our core values. `[真题]`
-> - It is not mentioned within the youth work core curriculum. `[真题]`
-> - And it is something that really goes to the core of privacy. `[真题]`
+> - This report goes to the core of the argument. `[例]`
+>   - 中译：这份报告触及了争论的核心。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/core
+> - Dutch paintings form the core of the collection. `[例]`
+>   - 中译：荷兰绘画是该系列的核心。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/core
+> - Concern for the environment is at the core of our policies. `[例]`
+>   - 中译：对环境的关注是我们政策的核心。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/core
 
 
 ---

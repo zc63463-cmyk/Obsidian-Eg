@@ -127,9 +127,15 @@ suc-(=sub-, 在后面) + cess(走) + -or(名词后缀，表"人")
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The university is seeking a successor to its vice chancellor , who retires this spring . `[例]`
-> - This range of computers is very fast , but their successors will be even faster . `[例]`
-> - The company will announce the appointment of a successor to its retiring chairman at the next board meeting . `[例]`
+> - Who's the likely successor to him as party leader? `[例]`
+>   - 中译：谁是他党魁的可能继任者？
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/successor
+> - Their latest release is a worthy successor to their popular debut album. `[例]`
+>   - 中译：他们的最新专辑是他们广受欢迎的首张专辑的当之无愧的继任者。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/successor
+> - The CEO's successor used to be the vice president here. `[例]`
+>   - 中译：CEO的继任者曾经是这里的副总裁。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/successor
 
 
 ---

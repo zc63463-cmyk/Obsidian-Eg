@@ -130,10 +130,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The Supreme Court ordered a judicial inquiry into the deaths." `[COCA-ACAD]`
-> - "The Michigan Supreme Court is the state's highest judicial body." `[COCA-NEWS]`
-> - "The tax claim is part of a broader judicial investigation into the affairs of the oil group." `[COCA-ACAD]`
-> - "Whether the initiative ultimately goes anywhere or survives judicial scrutiny, it's already having its most significant effect by driving wealthy figures into the conversation." `[COCA-NEWS]`
+> - No judicial enquiry has been held into the outbreak of violence last summer. `[例]`
+>   - 中译：尚未对去年夏天爆发的暴力事件进行任何司法调查。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/judicial
+> - The tax claim is part of a broader judicial investigation into the affairs of the oil group. `[例]`
+>   - 中译：此次税务索赔是对该石油集团事务进行更广泛司法调查的一部分。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/judicial
+> - Greenpeace applied for a judicial review to challenge the court’s decision. `[例]`
+>   - 中译：绿色和平组织申请司法复核，对法院的判决提出质疑。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/judicial
 
 ---
 

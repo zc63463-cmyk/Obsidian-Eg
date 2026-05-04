@@ -131,9 +131,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Playing board games is undergoing a revival in popularity . `[例]`
-> - I had to undergo a medical examination when I started my pension scheme . `[例]`
-> - Athletes must undergo a mandatory drugs test before competing in the championship . `[例]`
+> - Some children undergo a complete transformation when they become teenagers. `[例]`
+>   - 中译：有些孩子在青少年时期经历了彻底的转变。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/undergo
+> - The drug is currently undergoing trials in America. `[例]`
+>   - 中译：该药物目前正在美国进行试验。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/undergo
+> - She will have to undergo an operation. `[例]`
+>   - 中译：她将不得不接受手术。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/undergo
 
 ---
 

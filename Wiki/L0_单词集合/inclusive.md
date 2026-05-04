@@ -123,9 +123,15 @@ in-（前缀，含义"在内"）+ [[clud]]（词根，含义"关闭"）+ -ive（
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Supporters of inclusive education say that letting students with and without disabilities learn side-by-side helps to undo the stigma associated with special education. `[COCA-NEWS]`
-> - Sustained, inclusive and sustainable economic growth is required to achieve sustainable development. `[COCA-ACAD]`
-> - The resort offers an all-inclusive package with meals, drinks, and activities. `[COCA-NEWS]`
+> - My rent is $700 a month inclusive of bills. `[例]`
+>   - 中译：我的房租是每月 700 美元，包括账单。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/inclusive
+> - The price for a double room is £80 inclusive. `[例]`
+>   - 中译：双人间的价格为 80 英镑（含税）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/inclusive
+> - I'll be away from 20 to 31 May inclusive. `[例]`
+>   - 中译：我将于 5 月 20 日至 31 日期间缺席。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/inclusive
 
 ---
 

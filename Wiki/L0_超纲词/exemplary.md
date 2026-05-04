@@ -3,10 +3,8 @@ title: "exemplary"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 理性世界
 prototype: 值得效仿的（作为范例的）
@@ -43,7 +41,7 @@ ex-(出来) + [[empl|empl]](拿/取) + -ary(形容词后缀)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**值得效仿的（作为范例的）**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **拿出来作为样本**（动作层面）
@@ -64,7 +62,7 @@ ex-(出来) + [[empl|empl]](拿/取) + -ary(形容词后缀)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ ex-(出来) + [[empl|empl]](拿/取) + -ary(形容词后缀)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > ex（出来）+ empl（拿）+ ary → exemplary。把一个学生的表现"拿出来"给全班看——他就是 exemplary（模范的）。在法律中，法官判一个高额赔偿"拿出来"作为警告——这就是 exemplary damages（惩戒性赔偿）。
@@ -88,7 +86,7 @@ ex-(出来) + [[empl|empl]](拿/取) + -ary(形容词后缀)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -98,13 +96,13 @@ ex-(出来) + [[empl|empl]](拿/取) + -ary(形容词后缀)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[deplorable]]：令人遗憾的（模范↔令人遗憾）
 - [[mediocre]]：平庸的（模范↔平庸）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -116,7 +114,7 @@ ex-(出来) + [[empl|empl]](拿/取) + -ary(形容词后缀)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **exemplary behavior**：模范行为
 > - **exemplary performance**：模范表现
 > - **exemplary damages**：惩戒性赔偿
@@ -124,19 +122,12 @@ ex-(出来) + [[empl|empl]](拿/取) + -ary(形容词后缀)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - Her exemplary dedication to teaching earned her the highest award from the national education board. `[例]`
 > - The court awarded exemplary damages to punish the defendant for his deliberate misconduct. `[例]`
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
-
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

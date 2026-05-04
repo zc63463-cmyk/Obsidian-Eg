@@ -126,9 +126,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Look at that little boy trying to help ! Bless! `[例]`
-> - Was she crying ? Ah, bless ! `[例]`
-> - God bless our soldiers . `[例]`
+> - They brought the children to Jesus and he blessed them. `[例]`
+>   - 中译：他们把孩子们带到耶稣面前，耶稣祝福他们。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bless
+> - The priest blessed the bread and wine. `[例]`
+>   - 中译：牧师祝福面包和酒。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bless
+> - We bless your holy name, O Lord. `[例]`
+>   - 中译：主啊，我们赞美你的圣名。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bless
 
 
 ---

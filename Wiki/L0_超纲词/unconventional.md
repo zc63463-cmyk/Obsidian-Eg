@@ -3,10 +3,8 @@ title: "unconventional"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-25
-mastery: L0
 word_freq: 超纲词
 semantic_field: 社会习俗
 prototype: 不合常规的（不遵循惯例的）
@@ -43,7 +41,7 @@ un-(不，否定前缀) + [[con-|con]](共同/一起) + [[vent|vent]](来) + -io
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**不合常规的**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **不合常规的**（社会层面）
@@ -66,7 +64,7 @@ un-(不，否定前缀) + [[con-|con]](共同/一起) + [[vent|vent]](来) + -io
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ un-(不，否定前缀) + [[con-|con]](共同/一起) + [[vent|vent]](来) + -io
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > convention（惯例）= con（共同）+ vent（来）→ 大家一起来约定好的规矩。unconventional 就是"不遵守大家约定好的规矩"→打破常规。Steve Jobs was known for his unconventional thinking.（乔布斯以不落俗套的思维方式闻名。）
@@ -89,7 +87,7 @@ un-(不，否定前缀) + [[con-|con]](共同/一起) + [[vent|vent]](来) + -io
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ un-(不，否定前缀) + [[con-|con]](共同/一起) + [[vent|vent]](来) + -io
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[conventional]]：常规的，传统的
 > - [[traditional]]：传统的
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +118,7 @@ un-(不，否定前缀) + [[con-|con]](共同/一起) + [[vent|vent]](来) + -io
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **unconventional approach/method**：不合常规的方法
 > - **unconventional thinking**：不落俗套的思维
 > - **unconventional lifestyle**：非传统的生活方式
@@ -128,19 +126,12 @@ un-(不，否定前缀) + [[con-|con]](共同/一起) + [[vent|vent]](来) + -io
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - He has an unconventional attitude toward work . `[例]`
+> [!example]- 语料
+> - He has an unconventional attitude toward work. `[例]`
 > - The magazine describes him as having unconventional good looks. `[例]`
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-25 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

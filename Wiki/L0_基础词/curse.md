@@ -126,9 +126,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - We could hear him cursing and swearing as he tried to get the door open . `[例]`
-> - He leaned out of the window and cursed at passing pedestrians . `[例]`
-> - I heard them yelling and cursing me as I ran away. `[例]`
+> - He muttered a curse at the other driver. `[例]`
+>   - 中译：他低声咒骂另一个司机。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/curse
+> - The family thought that they were under a curse. `[例]`
+>   - 中译：这家人认为他们受到了诅咒。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/curse
+> - The witch is supposed to have put a curse on the house. `[例]`
+>   - 中译：据说女巫对这座房子下了诅咒。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/curse
 
 
 ---

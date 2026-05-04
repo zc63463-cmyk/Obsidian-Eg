@@ -129,8 +129,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The internet has become the primary mode of communication for people around the world."（互联网已成为世界各地人们的主要交流方式。）——考研高频表达
-> - "Universities are increasingly adopting online learning as a supplementary mode of education."（大学越来越多地将在线学习作为一种补充教育方式。）——考研高频表达
+> - Each department in the company has its own mode of operation. `[例]`
+>   - 中译：公司各个部门都有自己的运作模式。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/mode
+> - Railways are an important mode of transport for the economy. `[例]`
+>   - 中译：铁路是经济的重要运输方式。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/mode
+> - He was in full competitive mode that night. `[例]`
+>   - 中译：那天晚上他完全处于竞技状态。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/mode
 ---
 
 

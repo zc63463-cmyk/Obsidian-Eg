@@ -133,10 +133,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The documentary provides a compelling account of the challenges faced by refugees around the world." `[COCA-ACAD]`
-> - "Documentary evidence suggests that the company was aware of the safety issues long before the accident." `[COCA-ACAD]`
-> - "The lack of documentary evidence of her life has made it difficult for historians." `[COCA-ACAD]`
-> - "The documentary went through all the graphic details of the operation in unsparing detail." `[COCA-ACAD]`
+> - Perhaps most importantly, the images provided documentary evidence that later made its way to government officials. `[真题]`
+>   - 中译：也许最重要的是，这些图像提供了后来交给政府官员的文件证据。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - They showed a documentary on animal communication. `[例]`
+>   - 中译：他们放映了一部关于动物交流的纪录片。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/documentary
+> - We're compiling some facts and figures for a documentary on the subject. `[例]`
+>   - 中译：我们正在为有关该主题的纪录片收集一些事实和数据。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/documentary
 ---
 
 

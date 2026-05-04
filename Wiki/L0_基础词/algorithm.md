@@ -130,9 +130,15 @@ algorithm 源自阿拉伯数学家 Muhammad ibn Musa al-Khwarizmi（花拉子密
 ## 真题/语料关联
 
 > [!example]- 语料
-> - In 2016 , researchers developed an algorithm to recognize suspicious citation patterns , including groups of authors that disproportionately cite one another and groups of journals that cite each other frequently to increase the impact factors of their publications. `[真题]`
-> - By allowing AI to develop content some brand marketers may find that they are losing control over the brand narrative. ( 48 ) Algorithms that are used to simulate human interactions are creating mmy of these concerns, especially as no-one is quite sure what the outcomes of using AI to interact with customers will be. `[真题]`
-> - A digital fingerprint of the document is created using a specially developed set of algorithms. `[例]`
+> - The company uses machine-learning algorithms to recommend jobs to those looking for work. `[例]`
+>   - 中译：该公司使用机器学习算法向求职者推荐工作。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/algorithm
+> - From internet shopping to the airport runway, algorithms are everywhere in modern life. `[例]`
+>   - 中译：从网上购物到机场跑道，算法在现代生活中无处不在。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/algorithm
+> - Instead, hatred often arrives through a social media algorithm. `[例]`
+>   - 中译：相反，仇恨往往是通过社交媒体算法产生的。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/algorithm
 
 
 ---

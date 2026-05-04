@@ -128,7 +128,7 @@ review_count: 0
 > [!example]- 语料
 > - To her teacher's despair, Nicole never does the work that she's told to do. `[例]`
 > - Their fourth year without rain drove many farmers to despair. `[例]`
-> - He's the despair of his parents because he shows no interest in getting a job . `[例]`
+> - He's the despair of his parents because he shows no interest in getting a job. `[例]`
 
 
 ---

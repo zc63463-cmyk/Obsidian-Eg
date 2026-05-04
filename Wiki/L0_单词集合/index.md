@@ -131,9 +131,15 @@ in-(向内/指向) + dex(手指/指示，同源 digit 手指) → 用手指指�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The stock index rose by 2% following the announcement of the new policy. `[真题]`
-> - The changing size of an infant's head is considered an index of brain growth. `[COCA-ACAD]`
-> - Minimum pensions and wages are to be indexed to inflation. `[COCA-ACAD]`
+> - Try looking up " heart disease " in the index. `[例]`
+>   - 中译：尝试在索引中查找“心脏病”。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/index
+> - The search engine builds an index of websites. `[例]`
+>   - 中译：搜索引擎建立网站索引。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/index
+> - The index is divided into two sections. `[例]`
+>   - 中译：该索引分为两部分。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/index
 
 ---
 

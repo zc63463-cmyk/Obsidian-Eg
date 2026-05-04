@@ -129,7 +129,7 @@ review_count: 0
 > [!example]- 语料
 > - This year's Olympic Games will be the biggest ever sporting event. `[例]`
 > - This year's Olympic Games will be the biggest ever sports event. `[例]`
-> - Susannah's party was the social event of the year . `[例]`
+> - Susannah's party was the social event of the year. `[例]`
 
 
 ---

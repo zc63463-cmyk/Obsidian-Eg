@@ -134,10 +134,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She offered me more money or a car and I chose the latter." `[COCA]`
-> - "He spent the latter half of his career in academia." `[COCA-ACAD]`
-> - "The latter part of the 20th century saw rapid technological advances." `[COCA-ACAD]`
-> - "I would unhesitatingly choose the latter option." `[COCA]`
+> - Building of the new library should begin in the latter part of next year. `[例]`
+>   - 中译：新图书馆的建设预计将于明年下半年开始。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/latter
+> - In the latter stages of the fight he began to tire. `[例]`
+>   - 中译：在战斗的后期他开始感到疲倦。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/latter
+> - She was born in the latter half of the 18th century. `[例]`
+>   - 中译：她出生于18世纪下半叶。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/latter
 
 ---
 

@@ -121,8 +121,8 @@ review_count: 0
 > [!example]- 语料
 > - Fever and cough are common symptoms of the flu. `[真题]`
 > - Tiredness, loss of appetite and sleeping problems are all classic symptoms of depression. `[真题]`
-> - The rising crime rate is a symptom of deeper social problems. `[语料库]`
-> - Usually, high blood pressure has no symptoms, so many people have it for years without knowing. `[语料库]`
+> - The rising crime rate is a symptom of deeper social problems. `[例]`
+> - Usually, high blood pressure has no symptoms, so many people have it for years without knowing. `[例]`
 
 
 ---

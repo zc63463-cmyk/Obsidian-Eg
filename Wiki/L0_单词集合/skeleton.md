@@ -133,10 +133,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The archaeologists discovered a human skeleton dating back 5,000 years. `[真题]`
-> - The steel skeleton of the new skyscraper was completed last month. `[COCA-NEWS]`
-> - The center's staff shrank to a skeleton crew, and the many ambitious projects came to a halt. `[COCA-MAG]`
-> - Only the charred skeleton of the house remained after the fire. `[COCA-FICT]`
+> - We found an old sheep skeleton up on the cliffs. `[例]`
+>   - 中译：我们在悬崖上发现了一具古老的羊骨架。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/skeleton
+> - Her long illness reduced her to a skeleton (= made her very thin ). `[例]`
+>   - 中译：她的长期疾病使她瘦得只剩下骨头（=使她变得非常瘦）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/skeleton
+> - The discovery of the dinosaur skeleton has cast light on why they became extinct. `[例]`
+>   - 中译：恐龙骨骼的发现揭示了它们灭绝的原因。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/skeleton
 
 ---
 

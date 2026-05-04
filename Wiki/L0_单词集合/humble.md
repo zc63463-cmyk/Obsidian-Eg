@@ -131,8 +131,15 @@ hum-(=ground/earth, 地面/泥土，拉丁语 *humus*) + -ble(形容词后缀，
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She was despised because she was of humble origin."（她因出身低贱而受到蔑视。——新东方考研词汇例句）
-> - "In his autobiography, Darwin himself speaks of his intellectual powers with extraordinary modesty."（达尔文在自传中以非凡的谦逊谈论自己的智力。——2008年考研英语一翻译）
+> - He's very humble about his success. `[例]`
+>   - 中译：他对自己的成功非常谦虚。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/humble
+> - Please accept our humble apologies for the error. `[例]`
+>   - 中译：对于这个错误，请接受我们诚挚的歉意。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/humble
+> - Even when she became rich and famous , she never forgot her humble background. `[例]`
+>   - 中译：即使她变得富有和出名，她也从未忘记自己卑微的出身。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/humble
 
 ---
 

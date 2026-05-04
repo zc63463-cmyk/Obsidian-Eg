@@ -126,9 +126,15 @@ super-（在上方，建议创建词根笔记 [[super]]）+ -ior（拉丁语比�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - This is clearly the work of a superior artist . `[例]`
-> - She was chosen for the job because she was the superior candidate . `[例]`
-> - For babies , breastfeeding is superior to bottle-feeding . `[例]`
+> - Liverpool were clearly the superior team. `[例]`
+>   - 中译：利物浦显然是更优秀的球队。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/superior
+> - This model is technically superior to its competitors. `[例]`
+>   - 中译：该型号在技术上优于其竞争对手。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/superior
+> - She felt socially superior to most of her neighbours. `[例]`
+>   - 中译：她觉得自己在社会上比大多数邻居都优越。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/superior
 
 
 ---

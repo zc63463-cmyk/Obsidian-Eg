@@ -132,9 +132,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The project was severely hampered by lack of funding."（该项目因资金不足而严重受阻）——考研阅读常见搭配
-> - "Bad weather hampered rescue efforts."（恶劣天气妨碍了救援工作）——新闻/社会类阅读语境
-> - "His movements were hampered by his injury."（他的行动因受伤而受限）——医学/生活类语境
+> - Fierce storms have been hampering rescue efforts and there is now little chance of finding more survivors. `[例]`
+>   - 中译：猛烈的风暴一直阻碍救援工作，目前找到更多幸存者的可能性很小。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/hamper
+> - High winds hampered efforts to put out the fire. `[例]`
+>   - 中译：大风阻碍了灭火工作。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/hamper
+> - High winds hampered the rescue attempt. `[例]`
+>   - 中译：大风阻碍了救援行动。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hamper
 
 ---
 

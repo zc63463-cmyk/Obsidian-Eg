@@ -121,9 +121,15 @@ a-(朝向) + val(价值，力量) + -able(可以被...的)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The data is readily available for public review and analysis. `[COCA-ACAD]`
-> - Resources should be made available to all students regardless of their economic background. `[COCA-ACAD]`
-> - The only information available was incomplete and unreliable. `[COCA-ACAD]`
+> - Do you have any double rooms available this weekend? `[例]`
+>   - 中译：这个周末还有双人间吗？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/available
+> - Is this dress available in a larger size? `[例]`
+>   - 中译：这件衣服有大号的吗？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/available
+> - Our autumn catalogue is now available from our usual stockists. `[例]`
+>   - 中译：我们的秋季目录现在可以从我们通常的库存商处购买。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/available
 
 ---
 

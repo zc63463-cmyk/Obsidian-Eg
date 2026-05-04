@@ -127,9 +127,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She was concentrating on her book and his voice startled her. `[例]`
-> - The noise of the car startled the birds and the whole flock flew up into the air . `[例]`
-> - Her article on diet startled many people into changing their eating habits . `[例]`
+> - The explosion startled the horse. `[例]`
+>   - 中译：爆炸惊动了马。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/startle
+> - I was startled by her question. `[例]`
+>   - 中译：我被她的问题吓了一跳。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/startle
+> - She was startled into a little cry of surprise. `[例]`
+>   - 中译：她惊讶地小叫了一声。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/startle
 
 ---
 

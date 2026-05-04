@@ -134,9 +134,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - They have to decide by next Friday . `[例]`
+> - They have to decide by next Friday. `[例]`
+>   - 中译：他们必须在下周五之前做出决定。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/decide
 > - It doesn't matter to me which one we have - you decide. `[例]`
-> - In the end, we decided to go to the theatre . `[例]`
+>   - 中译：对我来说，我们拥有哪一个并不重要——你决定。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/decide
+> - In the end, we decided to go to the theatre. `[例]`
+>   - 中译：最后我们决定去剧院。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/decide
 
 ---
 

@@ -132,8 +132,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Instead of a plan of action, they continue to press for more research—a classic case of "paralysis by analysis"."（不是制定行动计划，而是继续寻求更多的研究——一个"分析致瘫痪"的经典案例。）——2005年阅读Text2
-> - "These men persevered in journalism as a calling, and were proud to be published in the daily press."（这些人将新闻工作视为一种使命，并以能在日报上发表文章为荣。）——2010年阅读Text1
+> - Press the button to start the machine. `[例]`
+>   - 中译：按下按钮启动机器。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/press
+> - He pressed his face against the window. `[例]`
+>   - 中译：他把脸贴在窗户上。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/press
+> - Can you press a little harder on my shoulders , please? `[例]`
+>   - 中译：请你在我的肩膀上再用力一点好吗？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/press
 ---
 
 

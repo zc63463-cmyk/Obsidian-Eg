@@ -127,9 +127,15 @@ con-(=completely，完全地) + fid(=trust，信任) + -ence(名词后缀)（建
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Readers must have confidence in the conclusions published in our journal," writes McNutt in an editorial. `[真题]`
-> - Individuals and organizations can complete online transactions with confidence, trusting the identities of each other. `[真题]`
-> - Since fewer than half of Americans say they cook at an intermediate level and only 20% describe their cooking skills as advanced, the crisis is one of confidence. `[真题]`
+> - He has the confidence to walk into a room of strangers and immediately start a conversation. `[例]`
+>   - 中译：他有信心走进一个陌生人的房间并立即开始交谈。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/confidence
+> - She's completely lacking in confidence. `[例]`
+>   - 中译：她完全没有自信。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/confidence
+> - I don't share your confidence that the market will improve next year. `[例]`
+>   - 中译：我不同意你对明年市场将会改善的信心。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/confidence
 ---
 
 

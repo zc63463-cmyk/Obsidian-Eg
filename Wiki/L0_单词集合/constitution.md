@@ -123,9 +123,15 @@ con-（一起）+ [[stit|stit-]]（站立，放置）+ -ution（名词后缀）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The constitution guarantees every citizen the right to freedom of speech and assembly." `[真题]`
-> - "The new law was declared unconstitutional by the Supreme Court." `[真题]`
-> - "She has a robust constitution that allows her to work long hours without fatigue." `[COCA-ACAD]`
+> - Britain has no written constitution. `[例]`
+>   - 中译：英国没有成文宪法。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/constitution
+> - Under (= as part of) the union constitution, a new committee is elected each year. `[例]`
+>   - 中译：根据工会章程（=作为其一部分），每年都会选举一个新委员会。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/constitution
+> - Clause 4 of the constitution is thought to be the most important section. `[例]`
+>   - 中译：宪法第 4 条被认为是最重要的部分。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/constitution
 
 ---
 

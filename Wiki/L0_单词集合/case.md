@@ -133,9 +133,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "In case of emergency, please call this number."（如果发生紧急情况，请拨打此号码。）——指令/安全类阅读语境
-> - "The lawyer presented a strong case in court."（律师在法庭上提出了有力的案件论证。）——法律类阅读语境
-> - "This is a classic case of poor management."（这是一个管理不善的经典案例。）——商业/管理类阅读语境
+> - She was suffering from an extreme case of sunburn. `[例]`
+>   - 中译：她患有严重的晒伤。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/case
+> - We have lots of applications from people who want to study here, and in each case we consider the candidate very carefully. `[例]`
+>   - 中译：我们收到了很多想要在这里学习的人的申请，对于每种情况，我们都会非常仔细地考虑候选人。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/case
+> - Over a hundred people were injured , in several cases seriously. `[例]`
+>   - 中译：一百多人受伤，其中几人伤势严重。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/case
 
 ---
 

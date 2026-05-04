@@ -128,9 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Both leaders pledged to work together to prevent the proliferation of nuclear weapons." `[真题]`
-> - "Education is the most powerful weapon which you can use to change the world." `[外刊]`
-> - "The country has been accused of developing weapons of mass destruction." `[外刊]`
+> - Both leaders pledged to work together to prevent the proliferation of nuclear weapons. `[真题]`
+> - Education is the most powerful weapon which you can use to change the world. `[例]`
+> - The country has been accused of developing weapons of mass destruction. `[例]`
 
 
 ---

@@ -3,10 +3,8 @@ title: "buzzword"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 社会习俗
 prototype: 流行热词
@@ -43,7 +41,7 @@ buzz(嗡嗡声/热议) + word(词)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**流行热词**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **流行热词**（语言层面）
@@ -64,7 +62,7 @@ buzz(嗡嗡声/热议) + word(词)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ buzz(嗡嗡声/热议) + word(词)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > buzz（嗡嗡声）+ word（词）→ buzzword（热词）。想象一群蜜蜂嗡嗡嗡地围着某个词转——大家都在讨论它，它就是 buzzword。"AI""blockchain""big data"都是典型的 tech buzzwords。
@@ -86,7 +84,7 @@ buzz(嗡嗡声/热议) + word(词)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,12 +97,12 @@ buzz(嗡嗡声/热议) + word(词)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - 无精确反义词
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -115,7 +113,7 @@ buzz(嗡嗡声/热议) + word(词)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **tech buzzwords**：科技热词
 > - **corporate buzzwords**：企业流行语
 > - **just a buzzword**：不过是个流行语
@@ -123,19 +121,12 @@ buzz(嗡嗡声/热议) + word(词)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - Many tech companies throw around buzzwords like "blockchain" and "AI" to attract investors. `[例]`
 > - The term "synergy" has become a corporate buzzword that means very little in practice. `[例]`
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
-
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

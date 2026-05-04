@@ -130,8 +130,15 @@ feel(触摸，感知，源自古英语 *fēlan*) + ing(名词后缀，表示动�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The author's **feelings** about the issue are clearly reflected in the essay.（作者对这个问题的感受在文章中得到了清晰的反映。）
-> - A growing **feeling** of insecurity has spread among the population.（一种日益增长的不安全感在民众中蔓延。）
+> - I had a tingling feeling in my fingers. `[例]`
+>   - 中译：我的手指有一种刺痛的感觉。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/feeling
+> - I've got this strange feeling in my stomach. `[例]`
+>   - 中译：我的胃里有一种奇怪的感觉。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/feeling
+> - My toes were so cold that I'd lost all feeling in them. `[例]`
+>   - 中译：我的脚趾太冷了，失去了所有知觉。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/feeling
 
 ---
 

@@ -129,10 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - But as the work became more difficult, the students with a growth mind-set showed greater persistence. `[真题]`
-> - If the pain persists, consult a doctor. `[语料库]`
-> - Despite this accumulation of evidence, the government persisted in doing nothing. `[语料库]`
-> - If symptoms persist, seek medical attention. `[语料库]`
+> - If the pain persists, consult a doctor. `[例]`
+> - Despite this accumulation of evidence, the government persisted in doing nothing. `[例]`
+> - If symptoms persist, seek medical attention. `[例]`
 
 
 ---

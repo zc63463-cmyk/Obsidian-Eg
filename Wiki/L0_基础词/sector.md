@@ -129,10 +129,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The government made an investigation of the employment in the public and private sectors." `[真题]`
-> - "For the high-tech sector, there are a few other interesting findings." `[真题]`
-> - "Many scientists working for the government have left for the private sector." `[真题]`
-> - "Let's remember that the financial sector does not make anything." `[真题]`
+> - The government made an investigation of the employment in the public and private sectors. `[真题]`
+> - For the high-tech sector, there are a few other interesting findings. `[真题]`
+> - Many scientists working for the government have left for the private sector. `[真题]`
+> - Let's remember that the financial sector does not make anything. `[真题]`
 
 
 ---

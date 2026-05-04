@@ -133,10 +133,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - We cannot simply ignore the growing evidence of environmental degradation. `[真题]`
-> - The solution to the problem is simply a matter of allocating resources more efficiently. `[COCA-ACAD]`
-> - To put it simply, at the time, the spot price of oil was far above the forward price. `[COCA-ACAD]`
-> - That is simply not the case, as decades of research have proved. `[COCA-NEWS]`
+> - You look simply (= really) beautiful in that dress. `[例]`
+>   - 中译：你穿那件衣服看起来简直（=真的）漂亮。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/simply
+> - The hunger in the region is terrible - there's quite simply (= without doubt ) no other word for it. `[例]`
+>   - 中译：该地区的饥饿是可怕的——很简单（=毫无疑问）没有其他词可以形容它。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/simply
+> - I don't like my job - I simply do it for the money. `[例]`
+>   - 中译：我不喜欢我的工作——我只是为了钱而做。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/simply
 
 
 ---

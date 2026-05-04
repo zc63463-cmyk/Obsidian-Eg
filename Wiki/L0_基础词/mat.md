@@ -124,9 +124,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She was tired of being a doormat and decided it was time to stand up for herself." `[语料库]`
-> - "Wipe your feet on the mat before you come inside." `[语料库]`
-> - "The dog lay drooling on the mat." `[语料库]`
+> - The dog lay drooling on the mat. `[例]`
+> - The electrician must have called (round) this morning when we were out - there's a note on the door mat. `[例]`
+> - There was a rush mat by the entrance. `[例]`
 
 
 ---

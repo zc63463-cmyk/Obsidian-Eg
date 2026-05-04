@@ -123,10 +123,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The sudden thunderstorm wakened the entire village in the middle of the night." `[真题]`
-> - "The pain had fully wakened him, and he began to think of the lecture." `[权威语料]`
-> - "Then, quickly, as though wakened from a dream, she began to dress and feed her children." `[权威语料]`
-> - "The shock is yet to be given which shall waken it." `[权威语料]`
+> - The sudden thunderstorm wakened the entire village in the middle of the night. `[真题]`
+> - The pain had fully wakened him, and he began to think of the lecture. `[例]`
+> - Then, quickly, as though wakened from a dream, she began to dress and feed her children. `[例]`
+> - The shock is yet to be given which shall waken it. `[例]`
 
 
 ---

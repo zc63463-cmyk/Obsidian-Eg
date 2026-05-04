@@ -130,9 +130,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - For years now, the people have been oppressed by a ruthless dictator . `[例]`
+> - For years now, the people have been oppressed by a ruthless dictator. `[例]`
+>   - 中译：多年来，人民一直受到残暴独裁者的压迫。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/oppress
 > - Strange dreams and nightmares oppressed him. `[例]`
-> - In his speech he spoke against those who continue to oppress the poor . `[例]`
+>   - 中译：奇怪的梦境和噩梦不断地折磨着他。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/oppress
+> - In his speech he spoke against those who continue to oppress the poor. `[例]`
+>   - 中译：他在讲话中反对那些继续压迫穷人的人。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/oppress
 
 ---
 

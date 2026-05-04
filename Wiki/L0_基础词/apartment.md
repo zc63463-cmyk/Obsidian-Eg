@@ -121,9 +121,15 @@ a-(=ad-, 去/向) + part(部分，分) + -ment(名词后缀，表示结果/场�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - I'll give you the keys to my apartment. `[例]`
-> - They have six luxury apartments for sale . `[例]`
-> - The Royal Apartments are open to the public . `[例]`
+> - I was renting a two-bedroom apartment in an old building. `[例]`
+>   - 中译：我在一栋老建筑里租了一套两居​​室的公寓。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/apartment
+> - A group of developers wants to build a high-rise apartment complex. `[例]`
+>   - 中译：一群开发商想要建造一座高层公寓大楼。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/apartment
+> - I lived on the ground floor of an apartment block. `[例]`
+>   - 中译：我住在一个公寓楼的底层。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/apartment
 
 
 ---

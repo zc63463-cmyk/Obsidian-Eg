@@ -136,10 +136,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - It is difficult to imagine a world without the internet. `[真题]`
-> - We tend to imagine that the Victorians were very prim and proper. `[COCA-ACAD]`
-> - I can't imagine why you're going. `[COCA-ACAD]`
-> - He could not imagine a more peaceful scene. `[COCA-ACAD]`
+> - Imagine Robert Redford when he was young - that's what John looks like. `[例]`
+>   - 中译：想象一下罗伯特·雷德福年轻时的样子——约翰就是这个样子。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/imagine
+> - Imagine (that) you're eating ice cream - try to feel how cold it is. `[例]`
+>   - 中译：想象一下你正在吃冰淇淋——试着感受一下它有多冷。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/imagine
+> - Can you imagine how it feels to be blind? `[例]`
+>   - 中译：你能想象失明的感觉吗？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/imagine
 
 ---
 

@@ -126,9 +126,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - We must accept the results of a democratic election (= an election in which all people can vote ) . `[例]`
-> - Do you think Australia is a more democratic country than Britain ? `[例]`
-> - The publishing process is a little more democratic today: you can print a book yourself and take it to the marketplace . `[例]`
+> - We must accept the results of a democratic election (= an election in which all people can vote ). `[例]`
+>   - 中译：我们必须接受民主选举（=所有人都可以投票的选举）的结果。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/democratic
+> - Do you think Australia is a more democratic country than Britain? `[例]`
+>   - 中译：你认为澳大利亚是一个比英国更民主的国家吗？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/democratic
+> - The publishing process is a little more democratic today: you can print a book yourself and take it to the marketplace. `[例]`
+>   - 中译：如今的出版过程更加民主：您可以自己印刷一本书并将其带到市场上。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/democratic
 
 ---
 

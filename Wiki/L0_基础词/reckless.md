@@ -127,10 +127,10 @@ reck（注意，在乎，源自古英语 *recan*，关心/注意）+ -less（否
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The driver of the car was arrested for reckless driving after running a red light at high speed. `[朗文词典]`
-> - The company's reckless spending habits ultimately led to its bankruptcy and the loss of thousands of jobs. `[通用经济语料]`
-> - At least, the recession has awakened us from our national fever dream of easy riches and put a necessary end to an era of reckless personal spending. `[2020年考研英语二 Text 4]`
-> - The court would be recklessly modest if it followed California's advice. `[2015年考研英语一阅读理解 Section II]`
+> - The driver of the car was arrested for reckless driving after running a red light at high speed. `[例]`
+> - The company's reckless spending habits ultimately led to its bankruptcy and the loss of thousands of jobs. `[例]`
+> - At least, the recession has awakened us from our national fever dream of easy riches and put a necessary end to an era of reckless personal spending. `[例]`
+> - The researchers proposed a reckless solution to the problem. `[例]`
 
 
 ---

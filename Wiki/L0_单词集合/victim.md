@@ -126,9 +126,15 @@ victim 源自拉丁语 victima（祭祀用的动物、祭品），与 vice（恶
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The new drug might help save the lives of cancer victims. `[例]`
-> - We appear to have been the victims of a cruel practical joke . `[例]`
-> - Our local hospital has become the latest victim of the cuts in government spending . `[例]`
+> - Several countries have pledged millions of dollars to help the victims of the tsunami. `[例]`
+>   - 中译：一些国家已承诺提供数百万美元帮助海啸受害者。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/victim
+> - The team will try to identify potential victims of domestic violence. `[例]`
+>   - 中译：该小组将尽力识别家庭暴力的潜在受害者。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/victim
+> - They were the victims of a cruel hoax. `[例]`
+>   - 中译：他们是残酷骗局的受害者。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/victim
 
 
 ---

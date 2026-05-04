@@ -133,8 +133,14 @@ pro-(向前/向下) + [[de|de→向下]](向下) + found(底部，fundus的变�
 
 > [!example]- 语料
 > - His mother's death when he was aged six had a very profound effect on him. `[例]`
+>   - 中译：他六岁时母亲的去世对他产生了非常深远的影响。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/profound
 > - The invention of the contraceptive pill brought about profound changes in the lives of women. `[例]`
-> - Those two lines of poetry express perfectly the profound sadness of loss . `[例]`
+>   - 中译：避孕药的发明给女性的生活带来了深刻的变化。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/profound
+> - Those two lines of poetry express perfectly the profound sadness of loss. `[例]`
+>   - 中译：这两句诗完美地表达了失落的深切悲伤。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/profound
 
 
 ---

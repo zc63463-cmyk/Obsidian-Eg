@@ -135,10 +135,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "it just so happened that"（碰巧）——考研阅读常见句式
-> - "changes that happen overnight"（一夜之间发生的变化）——考研阅读常见搭配
-> - "happen to meet"（偶然遇见）——考研阅读常见搭配
-> - "whatever happens"（无论如何）——考研阅读常见搭配
+> - I don't believe that the legal protection would have happened in the timeframe that it did without those images, " says Hansen, journalist and author of Prophets and Moguls, Rangers and Rogues, Bison and Bears: 100 Years of the National Park Service. `[真题]`
+>   - 中译：我认为如果没有这些图像，法律保护不会在这样的时间内发生，”记者兼《先知与大亨、流浪者与盗贼、野牛与熊：国家公园管理局 100 年》一书的作者汉森说道。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - No one knows exactly what happened but several people have been hurt. `[例]`
+>   - 中译：没有人确切知道发生了什么，但已有多人受伤。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/happen
+> - Anything could happen in the next half hour. `[例]`
+>   - 中译：在接下来的半小时内，任何事情都可能发生。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/happen
 
 ---
 

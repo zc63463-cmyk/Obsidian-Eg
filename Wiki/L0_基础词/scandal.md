@@ -125,9 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The college has recently been involved in a drugs scandal." `[LDOCE]`
-> - "He has been at the centre of a political scandal." `[LDOCE]`
-> - "A major police corruption scandal has shaken public confidence in the force." `[COCA-NEWS]`
+> - The college has recently been involved in a drugs scandal. `[例]`
+> - He has been at the centre of a political scandal. `[例]`
+> - A major police corruption scandal has shaken public confidence in the force. `[COCA-NEWS]`
 
 
 ---

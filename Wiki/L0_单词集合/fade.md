@@ -137,9 +137,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Hopes of a settlement are fading fast."（达成和解的希望正在迅速消退）——考研阅读常见搭配，新闻政治语境
-> - "The memory of that summer has faded."（那个夏天的记忆已经模糊了）——文学类文本常见用法
-> - "As the sound faded into the distance..."（随着声音渐渐消失在远方……）——描述性文本
+> - If you hang your clothes out in the bright sun , they will fade. `[例]`
+>   - 中译：如果你把衣服挂在明亮的阳光下，它们就会褪色。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/fade
+> - My suntan is already fading. `[例]`
+>   - 中译：我的晒黑已经褪色了。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/fade
+> - They arrived home just as the light was fading (= as it was getting dark ). `[例]`
+>   - 中译：他们到家的时候天已经快黑了（=天色渐渐暗下来）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/fade
 
 ---
 

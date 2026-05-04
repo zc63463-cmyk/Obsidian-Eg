@@ -132,7 +132,7 @@ review_count: 0
 > [!example]- 语料
 > - I spent most of my holiday sunbathing by the pool. `[例]`
 > - The weather isn't warm enough yet for splashing around in the pool. `[例]`
-> - Most kids are hanging out at the pool or that sort of thing in the summer . `[例]`
+> - Most kids are hanging out at the pool or that sort of thing in the summer. `[例]`
 
 
 ---

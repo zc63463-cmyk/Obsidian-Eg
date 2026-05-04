@@ -124,9 +124,15 @@ intel-(=inter-，在…之间) + [[lig|lig]](=leg，选择/阅读) + -ible(形�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The language of Darwin was intelligible to experts and non-experts alike. `[COCA-ACAD]`
-> - He spoke slowly to make himself intelligible to the audience. `[COCA-ACAD]`
-> - The recording was of such poor quality that it was barely intelligible. `[COCA-ACAD]`
+> - She was so upset when she spoke that she was hardly intelligible. `[例]`
+>   - 中译：当她说话时，她非常沮丧，几乎无法听懂。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/intelligible
+> - It was a poor telephone connection , and only some of his words were intelligible. `[例]`
+>   - 中译：电话信号很差，他的话只能听懂一些。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/intelligible
+> - His lecture was readily intelligible to all the students. `[例]`
+>   - 中译：他的演讲对所有学生来说都很容易理解。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/intelligible
 
 
 ---

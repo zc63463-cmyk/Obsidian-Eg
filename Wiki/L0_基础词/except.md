@@ -134,7 +134,7 @@ ex-(出) + [[cap]](拿取，抓取) → 从中取出 → 排除在外
 > [!example]- 语料
 > - The museum is open daily except Monday(s). `[例]`
 > - The government has few options except to keep interest rates high. `[例]`
-> - It's cool and quiet everywhere except in the kitchen . `[例]`
+> - It's cool and quiet everywhere except in the kitchen. `[例]`
 
 
 ---

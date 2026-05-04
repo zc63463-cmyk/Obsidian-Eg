@@ -131,8 +131,15 @@ pre-(在前面) + fer(带来/搬运) + -ence(名词后缀) → 把某物带到�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Employers have expressed a preference for students who have received a broadly-based education."（雇主们表示更青睐接受过广泛教育的学生。）——考研高频表达
-> - "Consumer preferences are constantly changing, forcing companies to adapt their marketing strategies accordingly."（消费者偏好不断变化，迫使公司相应地调整其营销策略。）——考研高频表达
+> - For example, AI can be used to analyse what type of advertising content or copy would be appropriate to 'speak' to a specific target customer group by revealing information about trends and preferences through the analysis of big data. ( 46) AI can also be used to identify the lifestyle choices of customers regarding their hobbies, favourite celebrities, music choices, and fashions to provide unique content in marketing messages put out through social media. `[真题]`
+>   - 中译：例如，人工智能可以通过大数据分析揭示有关趋势和偏好的信息，从而分析哪种类型的广告内容或文案适合与特定目标客户群“对话”。 ( 46) 人工智能还可以用于识别客户的生活方式选择，包括他们的爱好、最喜欢的名人、音乐选择和时尚，以便在通过社交媒体发布的营销信息中提供独特的内容。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - Her preference is for comfortable rather than stylish clothes. `[例]`
+>   - 中译：她更喜欢舒适而不是时尚的衣服。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/preference
+> - I have a preference for sweet food over spicy. `[例]`
+>   - 中译：相对于辛辣的食物，我更喜欢甜食。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/preference
 ---
 
 

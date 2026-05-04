@@ -132,8 +132,8 @@ flap 源自中古英语 *flappen*（拍打），可能是拟声词，模仿扁�
 
 > [!example]- 语料
 > - A small bird flapped its wings furiously and flew off. `[例]`
-> - Flags flapped in the breeze above their tents . `[例]`
-> - Don't flap - there's plenty of time to cook before they arrive . `[例]`
+> - Flags flapped in the breeze above their tents. `[例]`
+> - Don't flap - there's plenty of time to cook before they arrive. `[例]`
 
 
 ---

@@ -135,9 +135,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - But the consumer sentiment index remains weak, and all the rebound has occurred in Americans' evaluation of future economic conditions, not the present. ` `[真题]`
-> - It is possible that the Obama effect will be short-lived if there is a change in people's political sentiment. ` `[真题]`
-> - The area has become a hotbed of anti-government sentiment. ` `[真题]`
+> - Nationalist sentiment has increased in the area since the bombing. `[例]`
+> - I don't think she shares my sentiments. `[例]`
+> - His son was overwhelmed by the sentiments of love and support in the cards and letters he received. `[例]`
 
 
 ---

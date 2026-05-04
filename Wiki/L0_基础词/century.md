@@ -132,9 +132,15 @@ cent(=百，拉丁语 *centum*) + -ury(名词后缀，表示时间段/结果)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - From the 10th century onwards, as merchant and travel routes became more developed, the _6 __ of the caravanserais increased and they served as a safe place for people to :rest at night. `[真题]`
-> - Jackson snapped them on a late 19th-century expedition through the Yellowstone Basin that was conducted by the · head of the U. `[真题]`
-> - The city centre has scarcely changed in over a century. `[例]`
+> - A century ago , Valparaiso was the country's main port. `[例]`
+>   - 中译：一个世纪前，瓦尔帕莱索是该国的主要港口。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/century
+> - He was born more than a century after the death of Confucius. `[例]`
+>   - 中译：他出生于孔子去世一个多世纪后。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/century
+> - They have lived there for centuries. `[例]`
+>   - 中译：他们已经在那里生活了几个世纪。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/century
 
 
 ---

@@ -126,9 +126,15 @@ super-（在上方，拉丁语前缀，建议创建词根笔记 [[super]]）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The Natural History Museum is a super place for kids . `[例]`
-> - Did you enjoy the film ?" "Yes, I thought it was super. `[例]`
-> - They were super helpful when I was having problems . `[例]`
+> - We had a super time in Italy. `[例]`
+>   - 中译：我们在意大利度过了一段美好的时光。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/super
+> - The pilot did a super job,’ a passenger said afterwards. `[例]`
+>   - 中译：飞行员做得非常出色，”一位乘客事后说道。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/super
+> - She was super (= very kind) when I was having problems. `[例]`
+>   - 中译：当我遇到问题时，她非常友善。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/super
 
 
 ---

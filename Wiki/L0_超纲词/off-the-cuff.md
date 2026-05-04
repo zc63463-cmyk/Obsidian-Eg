@@ -3,10 +3,8 @@ title: "off-the-cuff"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-25
-mastery: L0
 word_freq: 超纲词
 semantic_field: 人本世界
 prototype: 即兴的（从袖口上临时写的）
@@ -43,7 +41,7 @@ off(脱离) + the + cuff(袖口)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**即兴的**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **即兴的**（时间层面——没有准备时间）
@@ -64,7 +62,7 @@ off(脱离) + the + cuff(袖口)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +73,7 @@ off(脱离) + the + cuff(袖口)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 想象一个演讲者上台前突然忘了讲稿，只好在衬衫袖口（cuff）上匆忙写下几个要点，然后"从袖口上"（off the cuff）念出来——这就是即兴演讲。off-the-cuff remarks 就是"即兴评论"——没有准备的随口一说。
@@ -87,7 +85,7 @@ off(脱离) + the + cuff(袖口)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ off(脱离) + the + cuff(袖口)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[prepared]]：准备好的（off-the-cuff 的精确反义：即兴↔有准备）
 > - [[rehearsed]]：排练过的
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -115,26 +113,19 @@ off(脱离) + the + cuff(袖口)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **off-the-cuff remarks**：即兴评论
 > - **an off-the-cuff speech**：即兴演讲
 > - **off-the-cuff comments**：随口说出的评论
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - `[例]` The president made some off-the-cuff remarks to the reporters.
-> - `[例]` She spoke off the cuff and surprised everyone with her honesty.
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-25 | **复习次数**：0 | **当前等级**：L0
-
----
+> [!example]- 语料
+> - The researchers proposed a off the cuff solution to the problem. `[例]`
+> - The company adopted a off the cuff approach to improve efficiency. `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

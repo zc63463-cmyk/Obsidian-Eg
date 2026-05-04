@@ -127,9 +127,9 @@ semi-(半，拉丁语 *semi-*) + [[mest|mester]](月，拉丁语 *mensis*) → �
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "First, students were able to read a full-length authentic text in the first semester." `[真题]`
-> - "Naturalistic observations were carried out in the two classrooms over a 10-week period during the spring semester of the academic year." `[真题]`
-> - "The fall semester starts in September and ends in January." `[真题]`
+> - First, students were able to read a full-length authentic text in the first semester. `[真题]`
+> - Naturalistic observations were carried out in the two classrooms over a 10-week period during the spring semester of the academic year. `[真题]`
+> - The fall semester starts in September and ends in January. `[真题]`
 
 
 ---

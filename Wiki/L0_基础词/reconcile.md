@@ -130,10 +130,10 @@ re-（再，重新）+ concili（召集，拉丁语 *conciliare* "召集、联�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She and Eddie had separated and reconciled so many times the children had lost track of whose clothes were where. `[John Grisham, The Chamber]`
-> - He thought they might reconcile the Parisians to his daring design by reminding them of the familiar arches of their bridges. `[韦氏词典]`
-> - She had to reconcile herself to the fact that her dream job was no longer available and start looking for other opportunities. `[通用语料]`
-> - A good mediator can help reconcile differences between conflicting parties and reach a mutually acceptable agreement. `[通用语料]`
+> - She and Eddie had separated and reconciled so many times the children had lost track of whose clothes were where. `[例]`
+> - He thought they might reconcile the Parisians to his daring design by reminding them of the familiar arches of their bridges. `[例]`
+> - She had to reconcile herself to the fact that her dream job was no longer available and start looking for other opportunities. `[例]`
+> - A good mediator can help reconcile differences between conflicting parties and reach a mutually acceptable agreement. `[例]`
 
 
 ---

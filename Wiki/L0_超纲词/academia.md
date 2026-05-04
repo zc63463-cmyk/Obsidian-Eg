@@ -3,10 +3,8 @@ title: "academia"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 社会专业
 prototype: 学术园地（柏拉图的学园所在地）
@@ -43,7 +41,7 @@ academ(学术的，源自希腊语 Akademeia) + -ia(名词后缀，表领域/状
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**学术园地**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **学术园地**（物理层面）
@@ -66,7 +64,7 @@ academ(学术的，源自希腊语 Akademeia) + -ia(名词后缀，表领域/状
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ academ(学术的，源自希腊语 Akademeia) + -ia(名词后缀，表领域/状
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 柏拉图在雅典郊外的 Akademeia 花园里讲学，学生围坐讨论哲学。两千多年后，这个花园的名字变成了 academia——整个学术界。当你说 "in academia"，你就是在说"在这个延续了2000多年的学园里"。
@@ -88,7 +86,7 @@ academ(学术的，源自希腊语 Akademeia) + -ia(名词后缀，表领域/状
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,12 +98,12 @@ academ(学术的，源自希腊语 Akademeia) + -ia(名词后缀，表领域/状
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[industry]]：产业界，工业界（academia vs industry 是经典对立：学术界↔产业界）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,7 +115,7 @@ academ(学术的，源自希腊语 Akademeia) + -ia(名词后缀，表领域/状
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **in academia**：在学术界
 > - **the world of academia**：学术界
 > - **academia and industry**：学术界与产业界
@@ -125,19 +123,12 @@ academ(学术的，源自希腊语 Akademeia) + -ia(名词后缀，表领域/状
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - Many PhD graduates struggle to find permanent positions in academia after completing their dissertations. `[例]`
 > - The gap between academia and industry has narrowed in recent years as universities increase their collaboration with tech companies. `[例]`
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
-
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

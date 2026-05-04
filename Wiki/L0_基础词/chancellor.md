@@ -128,9 +128,15 @@ chancellor 源自古法语 *chancelier*，源自晚期拉丁语 *cancellarius*�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Helmut Kohl became the first Chancellor of a united Germany in 1990. `[例]`
-> - A former politician has been appointed Chancellor of the university . `[例]`
-> - The Chancellor will deliver his budget later today. `[例]`
+> - The talks were headed by Germany’s Chancellor Scholz. `[例]`
+>   - 中译：会谈由德国总理肖尔茨主持。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/chancellor
+> - MPs waited for the chancellor's announcement. `[例]`
+>   - 中译：议员们等待总理的宣布。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/chancellor
+> - The prime minister was shown around by the chancellor of the university. `[例]`
+>   - 中译：大学校长陪同首相参观。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/chancellor
 
 
 ---

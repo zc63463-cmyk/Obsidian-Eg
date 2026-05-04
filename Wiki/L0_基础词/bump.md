@@ -127,9 +127,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She bumped into his tray , knocking the food onto his lap . `[例]`
-> - I bumped my head on the shelf as I stood up. `[例]`
-> - We bumped along the dirt road in our car , holding on to our seats . `[例]`
+> - In the dark I bumped into a chair. `[例]`
+>   - 中译：黑暗中我撞到了一把椅子。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bump
+> - The car bumped against the kerb. `[例]`
+>   - 中译：汽车撞到了路边。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bump
+> - Be careful not to bump your head on the beam when you stand up. `[例]`
+>   - 中译：站起来时要小心，不要让头撞到横梁上。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bump
 
 
 ---

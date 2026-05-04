@@ -140,9 +140,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The hot spots and their volcanic trails are milestones that mark the passage of the plates." `[真题]`
-> - "He read out a short passage from the Bible." `[Collins Corpus]`
-> - "It called on all warring sides to allow the passage of aid deliveries to civilians." `[The Guardian]`
+> - The hot spots and their volcanic trails are milestones that mark the passage of the plates. `[真题]`
+> - It called on all warring sides to allow the passage of aid deliveries to civilians. `[例]`
+> - The bathroom's on the right at the end of the passage. `[例]`
 
 
 ---

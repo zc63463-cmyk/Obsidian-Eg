@@ -145,9 +145,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She took a fancy to the little cottage."（她喜欢上了那间小屋）——考研阅读中描述偏好与选择
-> - "He fancies himself as a great writer."（他自诩为伟大的作家）——描述自视甚高
-> - "fancy goods"（精品/花哨商品）——商业类阅读语境
+> - Do you fancy a drink this evening? `[例]`
+>   - 中译：今晚你想喝一杯吗？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/fancy
+> - He could tell she fancied him. `[例]`
+>   - 中译：他看得出她喜欢他。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/fancy
+> - That Dave really fancies himself, doesn't he? `[例]`
+>   - 中译：戴夫真的很喜欢自己，不是吗？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/fancy
 
 ---
 

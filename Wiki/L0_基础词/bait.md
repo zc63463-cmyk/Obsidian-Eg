@@ -131,10 +131,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Ignore him - he's just baiting you. [COCA]
-> - I suspect he was just baiting me. [COCA]
-> - When she attempts to make you feel guilty, don't take the bait. [COCA]
-> - The opposition tried to bait the Prime Minister into making a controversial statement during the debate. `[例]`
+> - Live worms are used as bait. `[例]`
+>   - 中译：使用活虫作为诱饵。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bait
+> - The police used him as bait to trap the killers. `[例]`
+>   - 中译：警察用他作为诱饵来诱捕凶手。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bait
+> - He had chosen the right bait to persuade her to go. `[例]`
+>   - 中译：他选择了正确的诱饵来说服她走。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bait
 
 
 ---

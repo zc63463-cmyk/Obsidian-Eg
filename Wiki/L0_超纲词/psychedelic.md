@@ -3,10 +3,8 @@ title: "psychedelic"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-25
-mastery: L0
 word_freq: 超纲词
 semantic_field: 人本世界
 prototype: 显露灵魂的（使心灵显现的）
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**显露灵魂的**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **显露灵魂的**（感知层面）
@@ -69,7 +67,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -80,7 +78,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > psyche（灵魂）+ del（显现）→ 让灵魂显现出来。LSD 这种药物让你看到流动的色彩和扭曲的空间，仿佛灵魂被释放——psychedelic drugs。艺术家用荧光色和旋涡图案模仿这种体验——psychedelic art。整个1960年代的嬉皮运动就是一场 psychedelic revolution。
@@ -92,7 +90,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -105,13 +103,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[sober]]：清醒的（psychedelic 的反义：致幻的↔清醒的）
 > - [[mundane]]：平凡的，世俗的（psychedelic 的反义：迷幻的↔平凡的）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,7 +121,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **psychedelic drugs/substances**：致幻药物
 > - **psychedelic experience**：致幻体验
 > - **psychedelic art**：迷幻艺术
@@ -131,19 +129,12 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - I made my dad a playlist with songs from his favourite psychedelic bands . `[例]`
+> [!example]- 语料
+> - I made my dad a playlist with songs from his favourite psychedelic bands. `[例]`
 > - Emerging health care tools, including AI and psychedelics , in readers' eyes. `[例]`
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-25 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

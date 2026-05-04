@@ -121,8 +121,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She flung herself into her work with great enthusiasm."（她满怀热情地投入到工作中。）——考研高频表达
-> - "He flung the letter across the room in anger."（他愤怒地把信扔到了房间另一头。）——考研高频表达
+> - And you can take your ring back too!" she cried , flinging it down on the table. `[例]`
+>   - 中译：你也可以拿回你的戒指了！”她喊道，把它扔到桌子上。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/fling
+> - Could you fling the paper over here (= give me the paper )? `[例]`
+>   - 中译：你能把纸扔到这里吗（=把纸给我）？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/fling
+> - Let me just fling (= quickly put) a few things into my bag , and I'll be right with you. `[例]`
+>   - 中译：让我把一些东西扔进我的包里，我马上就来找你。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/fling
 
 ---
 

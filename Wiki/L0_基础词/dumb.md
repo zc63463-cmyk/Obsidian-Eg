@@ -133,10 +133,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He played dumb when asked about the missing money." `[真题]`
-> - "She was struck dumb by the news of his death." `[真题]`
-> - "He was born deaf and dumb." `[真题]`
-> - "I stood there, struck dumb, unable to say a word." `[真题]`
+> - He played dumb when asked about the missing money. `[真题]`
+> - She was struck dumb by the news of his death. `[真题]`
+> - He was born deaf and dumb. `[真题]`
+> - The researchers proposed a dumb solution to the problem. `[真题]`
 
 
 ---

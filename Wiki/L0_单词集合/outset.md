@@ -123,9 +123,15 @@ out-（= beyond/forth，向外/超出）+ set（= set，放置/设定）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He made it clear at the outset that he is not going to quit his job." `` `[COCA-ACAD]` ``
-> - "The public was skeptical from the outset." `` `[COCA-NEWS]` ``
-> - "At the outset of the 1990s, there was remarkable consensus within the business community." `` `[COCA-ACAD]` ``
+> - From the outset we planned to conduct our research together. `[例]`
+>   - 中译：从一开始我们就计划一起进行研究。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/outset
+> - I made it clear right from the outset that I disapproved. `[例]`
+>   - 中译：我从一开始就明确表示我不赞成。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/outset
+> - You should have made that clear right at the outset. `[例]`
+>   - 中译：你一开始就应该说清楚。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/outset
 
 ---
 

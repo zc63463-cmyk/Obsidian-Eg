@@ -131,7 +131,7 @@ review_count: 0
 
 > [!example]- 语料
 > - The majority of readers found his poetry difficult , even opaque. `[例]`
-> - Governments have been able to maintain opaque and discriminatory procurement practices . `[例]`
+> - Governments have been able to maintain opaque and discriminatory procurement practices. `[例]`
 > - Accounting firms have been notoriously opaque about their finances in the past. `[例]`
 
 

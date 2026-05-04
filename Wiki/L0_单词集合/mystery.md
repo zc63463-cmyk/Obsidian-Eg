@@ -128,8 +128,15 @@ myster-（=mysterium，秘密，来自希腊语 *mysterion*，secret rite）+ -y
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "A researcher has now solved the mystery of why the animals die."（一位研究人员现在已经解开了这些动物死亡之谜。）——考研真题完形
-> - "The cause of the disease remains a mystery to scientists."（这种疾病的病因对科学家来说仍然是个谜。）——考研高频表达
+> - How the massive stones were brought here from hundreds of miles away remains a mystery. `[例]`
+>   - 中译：这些巨大的石头是如何从数百英里之外运到这里的仍然是个谜。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/mystery
+> - The mystery was solved when the police discovered the murder weapon. `[例]`
+>   - 中译：当警方发现凶器后，谜团就解开了。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/mystery
+> - The book tries to explain some of the mysteries of life. `[例]`
+>   - 中译：本书试图解释生命的一些奥秘。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/mystery
 
 ---
 

@@ -132,9 +132,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She had the strength and stamina to take the lead and win the gold medal . `[例]`
-> - Admitting you've made a mistake is a sign of strength, not weakness . `[例]`
-> - He showed great strength of character when he refused to accept the bribes . `[例]`
+> - He pushed against the rock with all his strength. `[例]`
+>   - 中译：他用尽全力推着岩石。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/strength
+> - It may take a few weeks for you to build up your strength again. `[例]`
+>   - 中译：你可能需要几周的时间才能再次增强你的力量。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/strength
+> - She gradually regained strength in her legs. `[例]`
+>   - 中译：她的双腿逐渐恢复了力量。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/strength
 ---
 
 

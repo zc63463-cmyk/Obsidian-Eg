@@ -3,10 +3,8 @@ title: "gig"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 社会专业
 prototype: 一次演出/一份工作（临时性的表演或工作任务）
@@ -44,7 +42,7 @@ gig 为独立词汇，非词根词缀构词。源自20世纪初爵士乐俚语�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**一次演出/一份工作（临时性的）**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **一次演出**（音乐表演层面）
@@ -67,7 +65,7 @@ gig 为独立词汇，非词根词缀构词。源自20世纪初爵士乐俚语�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ gig 为独立词汇，非词根词缀构词。源自20世纪初爵士乐俚语�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > gig 的故事很有趣。20世纪初，新奥尔良的爵士乐手们接到酒吧的演出邀请，管这叫"一个 gig"。想象一个萨克斯手背着乐器走进酒吧，今晚的 gig 就开始了。后来 gig 走出音乐圈——自由职业者接的一个项目叫 gig，你下班后做的副业叫 side gig，Uber 司机接的一单叫 gig。gig economy（零工经济）就是由无数个 gig 组成的经济模式。
@@ -90,7 +88,7 @@ gig 为独立词汇，非词根词缀构词。源自20世纪初爵士乐俚语�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,13 +102,13 @@ gig 为独立词汇，非词根词缀构词。源自20世纪初爵士乐俚语�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[career]]：职业生涯（gig 是临时性的，career 是长期稳定的）
 > - [[permanent job]]：永久性工作（gig 是一次性的，permanent job 是持续的）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,7 +121,7 @@ gig 为独立词汇，非词根词缀构词。源自20世纪初爵士乐俚语�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **gig economy**：零工经济
   - The gig economy has transformed the way people work.
 > - **side gig**：副业，兼职
@@ -137,20 +135,13 @@ gig 为独立词汇，非词根词缀构词。源自20世纪初爵士乐俚语�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - The band played their last gig at the local jazz club before the guitarist moved to New York. `[例]`
 > - She landed a freelance gig as a graphic designer for a tech startup. `[例]`
 > - Many college students take on gig economy jobs to support themselves during the academic year. `[例]`
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
-
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

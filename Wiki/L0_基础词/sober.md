@@ -130,9 +130,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Are you sober enough to drive , Jim ? `[例]`
+> - Are you sober enough to drive , Jim? `[例]`
 > - I'd had no wine all evening so I was stone cold (= completely ) sober. `[例]`
-> - Steve is a recovering alcoholic who has been sober for a decade . `[例]`
+> - Steve is a recovering alcoholic who has been sober for a decade. `[例]`
 
 
 ---

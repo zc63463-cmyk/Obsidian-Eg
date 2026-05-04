@@ -127,10 +127,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Students need the ability to construct a logical argument supported by evidence and reasoning. `[COCA-ACAD]`
-> - It was the logical thing to do when all the facts were considered carefully. `[COCA-ACAD]`
-> - Since she helped us before, it is logical to assume that she will help us again. `[COCA-NEWS]`
-> - There is no logical reason for teaching boys and girls separately in this day and age. `[COCA-ACAD]`
+> - Students need the ability to construct a logical argument. `[例]`
+>   - 中译：学生需要具备构建逻辑论证的能力。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/logical
+> - It was the logical thing to do (= the decision was a reasonable one when all the facts were considered ). `[例]`
+>   - 中译：这是合乎逻辑的事情（=考虑到所有事实后，这个决定是合理的）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/logical
+> - After the children were grown , moving to a smaller house was the logical thing to do. `[例]`
+>   - 中译：孩子们长大后，搬到较小的房子是合乎逻辑的事情。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/logical
 
 ---
 

@@ -130,8 +130,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - He was knocked out by a punch in the face . `[例]`
-> - Some of the crowd started getting aggressive and threw a punch or two (= hit people ) . `[例]`
+> - He was knocked out by a punch in the face. `[例]`
+> - Some of the crowd started getting aggressive and threw a punch or two (= hit people ). `[例]`
 > - The former champion hardly landed a punch in rounds four and five. `[例]`
 
 

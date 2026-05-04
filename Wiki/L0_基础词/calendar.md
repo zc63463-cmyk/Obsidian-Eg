@@ -133,9 +133,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - An old calendar for 2012 was still hanging on the wall of her office . `[例]`
-> - He wrote the date of the meeting in his calendar. `[例]`
-> - The house calendared an anti-terrorism bill in November . `[例]`
+> - This is one of the biggest weeks in the racing calendar. `[例]`
+>   - 中译：这是赛车日历中最重要的一周之一。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/calendar
+> - The group has a busy social calendar. `[例]`
+>   - 中译：该团体的社交日程很繁忙。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/calendar
+> - These days the tennis calendar has become so crowded. `[例]`
+>   - 中译：如今，网球赛程变得如此拥挤。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/calendar
 
 
 ---

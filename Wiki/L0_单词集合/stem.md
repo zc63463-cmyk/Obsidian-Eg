@@ -137,9 +137,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Champagne glasses usually have long stems. `[例]`
-> - From the stem "sav-" you get " saves ", " saved ", " saving ", and " saver ". `[例]`
-> - These measures are designed to stem the rise of violent crime . `[例]`
+> - There are several leaves on each stem. `[例]`
+>   - 中译：每根茎上都有几片叶子。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/stem
+> - When the bush has finished flowering, cut back all the stems. `[例]`
+>   - 中译：当灌木丛开花后，剪掉所有的茎。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/stem
+> - Writ’ is the stem of the forms ‘writes’, ‘writing’ and ‘written’. `[例]`
+>   - 中译：Writ（令状）是“writes”（写）、“writing”（书写）和“writing”（书面）等形式的词干。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/stem
 
 ---
 

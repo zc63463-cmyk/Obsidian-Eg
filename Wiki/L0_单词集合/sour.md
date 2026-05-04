@@ -126,10 +126,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Milk must be kept in a cool place, or else it will go sour. `[真题]`
-> - Year-end is traditionally when many investors decide whether to sell stocks that have gone sour. `[真题]`
-> - The economic slump was caused primarily by a sour housing market. `[COCA-ACAD]`
-> - The disagreement over trade tariffs soured relations between the two countries. `[COCA-ACAD]`
+> - These plums are a bit sour. `[例]`
+>   - 中译：这些李子有点酸。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/sour
+> - Add extra sugar if the rhubarb is too sour. `[例]`
+>   - 中译：如果大黄太酸，请添加额外的糖。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/sour
+> - I love the sour taste of limes. `[例]`
+>   - 中译：我喜欢酸橙的酸味。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/sour
 
 
 ---

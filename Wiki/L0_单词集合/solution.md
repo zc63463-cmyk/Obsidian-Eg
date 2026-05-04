@@ -126,10 +126,15 @@ solu（松开、释放）+ -tion（名词后缀，表动作结果）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - There's no simple solution to this problem. `[COCA-FIC]`
-> - It was decided that the only solution was for him to leave the company. `[COCA-FIC]`
-> - There is no simple solution to the problem of climate change. `[真题]`
-> - The government has proposed a series of solutions to address the housing shortage. `[真题]`
+> - There's no easy solution to this problem. `[例]`
+>   - 中译：这个问题没有简单的解决办法。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/solution
+> - She just seems so unhappy and I don't know what the solution is. `[例]`
+>   - 中译：她看起来很不高兴，我不知道解决办法是什么。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/solution
+> - When you finish doing the crossword , the solution is on the back page. `[例]`
+>   - 中译：当您完成填字游戏后，答案就在背面。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/solution
 
 
 ---

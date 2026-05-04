@@ -130,9 +130,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She was behind in her correspondence, and had at least six letters to write. `[真题]`
-> - Any correspondence concerning the inquiry should be sent to Mr Alan Wood. `[真题]`
-> - Finally, the findings are not necessarily consistent with each other, although substantial areas of correspondence exist. `[真题]`
+> - I refused to enter into any correspondence (= to exchange letters) with him about it. `[例]`
+>   - 中译：我拒绝与他就此事进行任何通信（=交换信件）。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/correspondence
+> - We have been in correspondence for months. `[例]`
+>   - 中译：我们已经通信好几个月了。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/correspondence
+> - We kept up a correspondence for many years. `[例]`
+>   - 中译：我们多年来一直保持通信。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/correspondence
 
 
 ---

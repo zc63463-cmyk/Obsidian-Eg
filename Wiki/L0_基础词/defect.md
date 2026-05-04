@@ -133,9 +133,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - All the company's aircraft have been grounded , after a defect in the engine cooling system was discovered . `[例]`
-> - There are so many defects in our education system . `[例]`
-> - It's a character defect in her that she can't ever admit she's wrong . `[例]`
+> - All the company's aircraft have been grounded , after a defect in the engine cooling system was discovered. `[例]`
+> - There are so many defects in our education system. `[例]`
+> - It's a character defect in her that she can't ever admit she's wrong. `[例]`
 
 
 ---

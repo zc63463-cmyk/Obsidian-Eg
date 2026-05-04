@@ -130,10 +130,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Vertical integration refers to the direction of the two possible expansion of existing business enterprises as a development strategy." `[权威语料]`
-> - "The shareholders fear that vertical integration may not be the best option for the company." `[权威语料]`
-> - "Our team has abandoned the vertical structure because it didn't let people interact." `[权威语料]`
-> - "Vertical integration between hospitals and physician practices has increased substantially in recent years, reshaping the organization of US health care delivery." `[学术语料]`
+> - Vertical integration refers to the direction of the two possible expansion of existing business enterprises as a development strategy. `[例]`
+> - The shareholders fear that vertical integration may not be the best option for the company. `[例]`
+> - Our team has abandoned the vertical structure because it didn't let people interact. `[例]`
+> - Vertical integration between hospitals and physician practices has increased substantially in recent years, reshaping the organization of US health care delivery. `[例]`
 
 
 ---

@@ -126,8 +126,8 @@ review_count: 0
 
 > [!example]- 语料
 > - You can post your relationship status on your Facebook profile. `[例]`
-> - We need to increase our company's profile in Asia . `[例]`
-> - There is a growing number of women in high-profile positions (= positions which they are noticed ) in the government . `[例]`
+> - We need to increase our company's profile in Asia. `[例]`
+> - There is a growing number of women in high-profile positions (= positions which they are noticed ) in the government. `[例]`
 
 
 ---

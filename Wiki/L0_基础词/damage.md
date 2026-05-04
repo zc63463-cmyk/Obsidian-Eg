@@ -134,9 +134,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Many buildings were badly damaged during the war . `[例]`
-> - It was a scandal that damaged a lot of reputations . `[例]`
-> - Strong winds had caused serious damage to the roof . `[例]`
+> - Many buildings were badly damaged during the war. `[例]`
+> - It was a scandal that damaged a lot of reputations. `[例]`
+> - Strong winds had caused serious damage to the roof. `[例]`
 
 
 ---

@@ -136,10 +136,10 @@ vid（看，拉丁语 *videre* 的第一人称单数 *video* = "我看见"）+ -
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She has watched the race on video." `[权威语料]`
-> - "The club specialises in videoing its student golfers to correct their faults." `[权威语料]`
-> - "One video explains greenwashing — a term regularly used on social media and often misunderstood." `[权威语料]`
-> - "You can watch the full video online." `[权威语料]`
+> - She has watched the race on video. `[例]`
+> - The club specialises in videoing its student golfers to correct their faults. `[例]`
+> - One video explains greenwashing — a term regularly used on social media and often misunderstood. `[例]`
+> - You can watch the full video online. `[例]`
 
 
 ---

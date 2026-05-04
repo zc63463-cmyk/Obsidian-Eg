@@ -134,8 +134,8 @@ review_count: 0
 
 > [!example]- 语料
 > - A corkscrew is spiral-shaped. `[例]`
-> - This year's downward spiral of house prices has depressed the market . `[例]`
-> - The quarterback threw a perfect spiral into the hands of the wide receiver . `[例]`
+> - This year's downward spiral of house prices has depressed the market. `[例]`
+> - The quarterback threw a perfect spiral into the hands of the wide receiver. `[例]`
 
 
 ---

@@ -127,9 +127,15 @@ com-(一起，词根 [[com]]) + fort(强壮，力量，来自拉丁语 *fortis*)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She evidently dresses for comfort. `[例]`
-> - It's a little too hot for comfort. `[例]`
-> - Now you can watch the latest films in the comfort of your own room . `[例]`
+> - The hotel offers a high standard of comfort and service. `[例]`
+>   - 中译：酒店提供高标准的舒适度和服务。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/comfort
+> - They had enough money to live in comfort in their old age. `[例]`
+>   - 中译：他们有足够的钱来过上舒适的晚年。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/comfort
+> - Watch the latest movies in the comfort of your own home. `[例]`
+>   - 中译：在舒适的家中观看最新电影。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/comfort
 
 
 ---

@@ -131,9 +131,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "diesel/gas generator"（柴油/燃气发电机）——考研阅读常见搭配，能源/基础设施话题
-> - "random number generator"（随机数生成器）——考研阅读常见搭配，科技话题
-> - "a generator of economic growth"（经济增长的引擎/推动者）——考研阅读常见搭配，经济话题
+> - The hospital's emergency generators are designed to cope with power cuts. `[例]`
+>   - 中译：医院的应急发电机是为应对停电而设计的。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/generator
+> - The two major electricity generators declined to comment. `[例]`
+>   - 中译：两大发电商均拒绝置评。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/generator
+> - Within the United States , the military is the largest generator of hazardous waste. `[例]`
+>   - 中译：在美国，军队是危险废物的最大产生者。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/generator
 
 ---
 

@@ -116,9 +116,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Diabetes is diagnosed with a blood test . `[例]`
-> - He had developed diabetes and high blood pressure . `[例]`
-> - Diabetes affects 100 million people worldwide . `[例]`
+> - Diabetes is diagnosed with a blood test. `[例]`
+> - He had developed diabetes and high blood pressure. `[例]`
+> - Diabetes affects 100 million people worldwide. `[例]`
 
 
 ---

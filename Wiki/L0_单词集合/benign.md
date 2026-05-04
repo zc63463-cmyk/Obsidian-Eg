@@ -132,9 +132,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The doctor assured us that the tumor was benign and did not require immediate surgery. `[例]`
-> - The policy of benign neglect allowed the industry to develop naturally without government interference. `[COCA-ACAD]`
-> - The region enjoys a benign climate that supports a wide variety of crops. `[例]`
+> - His humor was benign, never cruel or hurtful. `[例]`
+>   - 中译：他的幽默是温和的，从不残忍或伤人。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/benign
+> - You would never have guessed his intentions from the benign expression on his face. `[例]`
+>   - 中译：你永远不会从他脸上和善的表情中猜到他的意图。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/benign
+> - The industry's environmental impact is relatively benign, even positive. `[例]`
+>   - 中译：该行业对环境的影响相对良性，甚至是积极的。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/benign
 
 ---
 

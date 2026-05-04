@@ -126,8 +126,14 @@ review_count: 0
 
 > [!example]- 语料
 > - This range of clothing is specially designed for shorter women. `[例]`
-> - This dictionary is designed for advanced learners of English . `[例]`
-> - These measures are designed to reduce pollution . `[例]`
+>   - 中译：该系列服装专为身材矮小的女性设计。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/design
+> - In 1960, Pierre Cardin became the first couturier to design men's clothes. `[例]`
+>   - 中译：1960年，皮尔·卡丹成为第一位设计男装的时装设计师。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/design
+> - He's designed dresses for many celebrities , most famously the Queen. `[例]`
+>   - 中译：他为许多名人设计了礼服，其中最著名的是女王。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/design
 
 ---
 

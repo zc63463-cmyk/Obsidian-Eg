@@ -124,8 +124,14 @@ opt(选择) + -ion(名词后缀) + -al(形容词后缀，表"…的")
 
 > [!example]- 语料
 > - English is compulsory for all students , but art and music are optional. `[例]`
-> - I think military service should be completely optional. `[例]`
-> - Optional plug-ins cost a further $50 on average . `[例]`
+>   - 中译：英语是所有学生的必修课，但艺术和音乐是可选的。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/optional
+> - Seat-belts are included as standard but electric windows are an optional extra. `[例]`
+>   - 中译：安全带是标准配置，但电动车窗是可选的。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/optional
+> - My phone came with 20 optional ringtones. `[例]`
+>   - 中译：我的手机有 20 种可选铃声。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/optional
 
 ---
 

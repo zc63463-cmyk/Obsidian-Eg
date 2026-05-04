@@ -131,7 +131,7 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - He heaved the bag onto his shoulder . `[例]`
+> - He heaved the bag onto his shoulder. `[例]`
 > - I managed to heave the trunk down the stairs. `[例]`
 > - He cleared a space , heaving boxes out of the way. `[例]`
 

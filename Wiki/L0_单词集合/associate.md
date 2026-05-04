@@ -134,10 +134,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Many people associate globalization with the loss of local cultural identity. `[真题]`
-> - The research center is associated with one of the most prestigious universities in the country. `[COCA-ACAD]`
-> - People naturally associate wealth with happiness, but research shows the relationship is more complex. `[COCA-ACAD]`
-> - He doesn't associate with people of that kind because he values his reputation. `[例]`
+> - Most people associate troglodytes with prehistoric times , but troglodyte communities still exist in Tunisia and China. `[例]`
+>   - 中译：大多数人将穴居人与史前时代联系起来，但穴居人社区在突尼斯和中国仍然存在。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/associate
+> - Both politicians have been closely associated with the movement for some time. `[例]`
+>   - 中译：一段时间以来，两位政治家都与这场运动有着密切的联系。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/associate
+> - He has been associated with some dubious characters. `[例]`
+>   - 中译：他与一些可疑人物有联系。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/associate
 ---
 
 

@@ -132,9 +132,9 @@ extra-(=exterus, 在外面，超出)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The support service consultancies tend to __ _ A. recommend journals to their clients B. list citation patterns their clients C. ask authors to include extra citations D. advise contributors to cite each other 38. `[真题]`
-> - Recently he's been working an extra two hours a day . `[例]`
-> - The price includes travel and accommodation but meals are extra (= there is an additional charge for meals ) . `[例]`
+> - The researchers proposed a extra solution to the problem. `[真题]`
+> - Recently he's been working an extra two hours a day. `[例]`
+> - The price includes travel and accommodation but meals are extra (= there is an additional charge for meals ). `[例]`
 
 
 ---

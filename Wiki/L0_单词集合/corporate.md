@@ -126,9 +126,15 @@ corpor(体/团体) + -ate(形容词后缀，"…的")
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - Corporate executives are under increasing pressure to improve their companies' environmental performance. `` `[真题]` ``
-> - Corporate culture plays a vital role in determining employee satisfaction. `` `[COCA-ACAD]` ``
-> - The company decided to take corporate responsibility for the environmental damage. `` `[例]` ``
+> - All adults take corporate responsibility for the upbringing of the tribe's children. `[例]`
+>   - 中译：所有成年人都对部落儿童的抚养负有共同责任。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/corporate
+> - The trend towards downshifting , where employees swap the stress of corporate life for more quality time , tempted 6% of the UK workforce last year. `[例]`
+>   - 中译：去年，降班趋势吸引了 6% 的英国劳动力，即员工将公司生活的压力转而享受更多优质时间。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/corporate
+> - The company's guests at Ascot are entertained in the corporate hospitality area. `[例]`
+>   - 中译：阿斯科特赛场的公司客人可以在公司接待区受到款待。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/corporate
 
 ---
 

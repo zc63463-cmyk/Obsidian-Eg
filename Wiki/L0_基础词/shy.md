@@ -137,9 +137,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The researchers also argued that when we shy away from casual interactions with strangers, it is often due to a misplaced anxiety that they might not want to talk to us." `[真题]`
-> - "He is a shy man, but he is not afraid of anything or anyone." `[真题]`
-> - "She was too shy to ask anyone for help." `[柯林斯词典]`
+> - The researchers also argued that when we shy away from casual interactions with strangers, it is often due to a misplaced anxiety that they might not want to talk to us. `[真题]`
+> - He is a shy man, but he is not afraid of anything or anyone. `[真题]`
+> - She was too shy to ask anyone for help. `[例]`
 
 
 ---

@@ -129,9 +129,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "be characteristic of"（是……的特征）——考研阅读/翻译超高频搭配
-> - "characteristic feature"（典型特征）——学术类阅读常见搭配
-> - "the physical characteristics of the material"（材料的物理特性）——科技类阅读高频表达
+> - Unfortunately a big nose is a family characteristic. `[例]`
+>   - 中译：不幸的是，大鼻子是家族特征。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/characteristic
+> - Sentimentality seems a characteristic of all the writers of that period. `[例]`
+>   - 中译：感伤似乎是那个时期所有作家的一个特点。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/characteristic
+> - The male bird displays (= has) several characteristics which distinguish him from the female. `[例]`
+>   - 中译：雄鸟表现出几个区别于雌鸟的特征。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/characteristic
 
 ---
 

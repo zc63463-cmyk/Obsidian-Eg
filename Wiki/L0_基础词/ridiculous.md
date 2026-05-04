@@ -123,9 +123,9 @@ ridicul-(=ridicule, 嘲笑，拉丁语 *ridiculus*) + -ous(充满...的，形容
 ## 真题/语料关联
 
 > [!example]- 语料
-> - It seems ridiculous to suggest that the Earth is flat in this day and age. ` [真题]`
-> - The prices in this restaurant are absolutely ridiculous for the quality of food served. ` [真题]`
-> - They thought it was a ridiculous idea that would never gain public support. ` [真题]`
+> - The researchers proposed a ridiculous solution to the problem. `[例]`
+> - The company adopted a ridiculous approach to improve efficiency. `[例]`
+> - The plan offers a ridiculous option for small organizations. `[例]`
 
 
 ---

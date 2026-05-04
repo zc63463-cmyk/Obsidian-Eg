@@ -140,9 +140,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "face the harsh reality"（面对残酷的现实）——考研阅读/写作高频搭配
-> - "harsh criticism from the public"（来自公众的严厉批评）——考研阅读常见搭配
-> - "the harsh conditions of the desert"（沙漠的恶劣条件）——考研阅读中环境描写语境
+> - The children had had a harsh upbringing. `[例]`
+>   - 中译：孩子们的成长经历很艰苦。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/harsh
+> - We thought the punishment was rather harsh for such a minor offence. `[例]`
+>   - 中译：我们认为对于如此轻微的过错，处罚相当严厉。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/harsh
+> - There is no alternative ," she said in a harsh voice. `[例]`
+>   - 中译：没有其他选择。”她用严厉的声音说道。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/harsh
 
 ---
 

@@ -121,9 +121,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - In the centre of the hall stood a colossal wooden statue, decorated in ivory and gold . `[例]`
-> - A statue has been built to commemorate the 100th anniversary of the poet's birthday . `[例]`
-> - A statue was erected to glorify the country's national heroes . `[例]`
+> - Plaques, statues and names on buildings all are ways that certain distinguished people, living and dead, are honored. `[例]`
+>   - 中译：匾额、雕像和建筑物上的名字都是纪念某些杰出人士（无论是在世还是已故）的方式。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/statue
+> - Kiffin left Ole Miss days before the program's first-ever College Football Playoff appearance, which immediately took him from being a man who many believed deserved a statue in Oxford to leaping Tommy Tuberville as the most hated man in the history of the Rebels' football program. `[例]`
+>   - 中译：基芬在密西西比大学首次参加大学橄榄球季后赛前几天就离开了，这立即使他从一个许多人认为值得在牛津获得雕像的人一跃超越汤米·图伯维尔，成为叛军橄榄球项目历史上最令人讨厌的人。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/statue
+> - According to Archaeology Magazine, the back of the statue was left unfinished. `[例]`
+>   - 中译：据考古杂志报道，雕像的背面尚未完成。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/statue
 
 ---
 

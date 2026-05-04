@@ -134,10 +134,15 @@ ep-(在…之上) + ic(形容词后缀) = epic（超越一般的叙事 → 史�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The Odyssey is one of the greatest epics in Western literature." `[真题]`
-> - "The company is engaged in an epic struggle for survival." `[COCA-ACAD]`
-> - "The scope and scale of the season just looks more grand and epic." `[COCA]`
-> - "An accomplishment of epic proportions." `[COCA]`
+> - It's one of those old Hollywood epics with a cast of thousands. `[例]`
+>   - 中译：这是一部拥有数千名演员的古老好莱坞史诗片。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/epic
+> - James has walked 1,000 miles in an epic journey across Africa. `[例]`
+>   - 中译：詹姆斯在穿越非洲的史诗般的旅程中行走了 1,000 英里。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/epic
+> - It's been an epic struggle to keep social services going throughout the recession. `[例]`
+>   - 中译：在整个经济衰退期间，维持社会服务的运转是一场史诗般的斗争。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/epic
 
 ---
 

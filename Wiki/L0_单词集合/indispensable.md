@@ -122,10 +122,15 @@ in-(不) + [[pon/pos|dispens]](分配/处理) + -able(可以被…的) → 不�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Education plays an indispensable role in the development of a nation. `` `[COCA-ACAD]` ``
-> - The internet has become an indispensable tool for modern communication and research. `` `[COCA-ACAD]` ``
-> - The many industrial uses of petroleum make it indispensable to the economy. `` `[COCA]` ``
-> - Leadership and learning are indispensable to each other. `` `[COCA]` ``
+> - This book is an indispensable resource for researchers. `[例]`
+>   - 中译：本书是研究人员不可或缺的资源。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/indispensable
+> - His long experience at the United Nations makes him indispensable to the talks. `[例]`
+>   - 中译：他在联合国的长期经验使他成为会谈中不可或缺的人物。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/indispensable
+> - None of our players is indispensable. `[例]`
+>   - 中译：我们的球员中没有一个是不可或缺的。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/indispensable
 
 ---
 

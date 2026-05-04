@@ -128,8 +128,8 @@ hug（源自古诺尔斯语 *hugga*，安慰；与 *hugr* 心情、勇气同源�
 
 > [!example]- 语料
 > - Have you hugged your child today? `[例]`
-> - They hugged each other when they met at the station . `[例]`
-> - Emily hugged her teddy bear tightly to her chest . `[例]`
+> - They hugged each other when they met at the station. `[例]`
+> - Emily hugged her teddy bear tightly to her chest. `[例]`
 
 
 ---

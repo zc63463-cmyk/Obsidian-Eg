@@ -134,8 +134,8 @@ review_count: 0
 
 > [!example]- 语料
 > - He has a part-time job as a hospital orderly. `[例]`
-> - She put the letters in three orderly piles . `[例]`
-> - The passengers were asked to leave the plane in an orderly fashion . `[例]`
+> - She put the letters in three orderly piles. `[例]`
+> - The passengers were asked to leave the plane in an orderly fashion. `[例]`
 
 
 ---

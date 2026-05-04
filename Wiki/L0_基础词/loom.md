@@ -125,9 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Dark storm clouds loomed on the horizon . `[例]`
+> - Dark storm clouds loomed on the horizon. `[例]`
 > - Her final exams are looming. `[例]`
-> - Here, too, the threat of unemployment has been looming on the horizon . `[例]`
+> - Here, too, the threat of unemployment has been looming on the horizon. `[例]`
 
 
 ---

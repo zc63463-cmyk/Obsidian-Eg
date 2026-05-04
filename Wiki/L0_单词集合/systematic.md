@@ -126,9 +126,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - We've got to be more systematic in the way that we approach this task . `[例]`
-> - We're hearing reports of the systematic rape and torture of prisoners . `[例]`
-> - In his typically systematic way, he laid out the pros and cons in nine numbered paragraphs . `[例]`
+> - The prisoner was subjected to systematic torture. `[例]`
+>   - 中译：该囚犯遭受了有系统的酷刑。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/systematic
+> - Reparations will support education, economic aid and mental health services, with programs specifically targeting women and girls who endured systematic persecution by extremists in Timbuktu. `[例]`
+>   - 中译：赔偿将用于支持教育、经济援助和心理健康服务，并制定专门针对廷巴克图遭受极端分子系统迫害的妇女和女童的计划。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/systematic
+> - China’s systematic and unrelenting rise China’s R&D spending milestone caps a series of achievements that have arrived in rapid succession. `[例]`
+>   - 中译：中国系统性、持续性的崛起 中国的研发支出里程碑标志着一系列迅速取得的成就的实现。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/systematic
 
 ---
 

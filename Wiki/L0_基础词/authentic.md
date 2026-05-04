@@ -127,9 +127,15 @@ auto-(自己，希腊语 *autos*) + hent(做者，希腊语 *hentes*) + -ic(形�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - He was there and saw what happened, so his is the only authentic account. `[COCA-NEWS]`
-> - The hotel even has an authentic Japanese garden. `[COCA-NEWS]`
-> - Most historians accept that the documents are authentic. `[COCA-ACAD]`
+> - I don't know if the painting is authentic. `[例]`
+>   - 中译：不知道这幅画是不是真品。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/authentic
+> - Take a trip on an authentic Spanish galleon to the famous Papagayo beach. `[例]`
+>   - 中译：乘坐正宗的西班牙大帆船前往著名的帕帕加约海滩。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/authentic
+> - In 1879 expert opinion was unanimous in rejecting Sautuola's timid suggestion that the ceiling paintings in his family's cave were made by the same prehistoric hunters whose stone and bone artifacts he had been collecting from the cave floor. He was accused of forgery and not until 1902, when discovery of similar paintings in several French caves supported Sautuola's claim, did experts agree that they were authentic relics of Paleolithic times. `[例]`
+>   - 中译：1879 年，专家意见一致拒绝了索图奥拉胆怯的建议，即他家洞穴中的天花板画是由他从洞穴地面收集石器和骨器的同一位史前猎人制作的。他被指控伪造，直到 1902 年，在法国的几个洞穴中发现类似的绘画，支持了索图奥拉的说法，专家们才同意它们是旧石器时代的真实文物。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/authentic
 
 
 ---

@@ -122,9 +122,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - A group of young lads were standing outside the shop . `[例]`
+> - A group of young lads were standing outside the shop. `[例]`
 > - He's a nice lad. `[例]`
-> - The prime minister's a local lad (= he was born and lived in this area ) . `[例]`
+> - The prime minister's a local lad (= he was born and lived in this area ). `[例]`
 
 
 ---

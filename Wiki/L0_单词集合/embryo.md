@@ -130,10 +130,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Now that scientists have access to human embryos, the question of genetic engineering arises." `[COCA-ACAD]`
-> - "The government has banned all scientific research using human embryos." `[COCA-NEWS]`
-> - "The project is still at the embryo stage." `[COCA-ACAD]`
-> - "An early embryo of economic government has arrived." `[COCA-ACAD]`
+> - Between the eighth week of development and birth a human embryo is called a foetus. `[例]`
+>   - 中译：从发育到出生的第八周，人类胚胎被称为胎儿。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/embryo
+> - The department's plans for enlargement are still in embryo. `[例]`
+>   - 中译：该部门的扩大计划仍处于酝酿阶段。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/embryo
+> - The idea already existed in embryo in his earlier novels. `[例]`
+>   - 中译：这个想法在他早期的小说中已经处于萌芽状态。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/embryo
 
 ---
 

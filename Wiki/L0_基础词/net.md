@@ -130,9 +130,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Dolphins often get tangled in the nets that are used to catch tuna fish . `[例]`
-> - The living-room windows have net curtains that let in sunlight but stop passers-by looking in from the street . `[例]`
-> - The nets at the kitchen window were looking a bit yellow . `[例]`
+> - Dolphins often get tangled in the nets that are used to catch tuna fish. `[例]`
+> - The living-room windows have net curtains that let in sunlight but stop passers-by looking in from the street. `[例]`
+> - The nets at the kitchen window were looking a bit yellow. `[例]`
 
 
 ---

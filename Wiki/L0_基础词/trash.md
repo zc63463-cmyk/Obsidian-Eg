@@ -129,7 +129,7 @@ review_count: 0
 
 > [!example]- 语料
 > - I can't believe that someone of his intelligence can read such trash! `[例]`
-> - There's nothing but trash on TV tonight . `[例]`
+> - There's nothing but trash on TV tonight. `[例]`
 > - The trash really stinks - why don't you take it out? `[例]`
 
 

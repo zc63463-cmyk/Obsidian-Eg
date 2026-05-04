@@ -127,9 +127,15 @@ re-(回) + [[ject]](投掷、扔)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - `The committee rejected the proposal on the grounds that it was too costly and impractical.` [COCA-ACAD]
-> - `The governor rejected the suggestion that it was time for him to resign.` [COCA-NEWS]
-> - `The college rejects hundreds of applicants each year.` [COCA-ACAD]
+> - The appeal was rejected by the court. `[例]`
+>   - 中译：上诉被法院驳回。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/reject
+> - Coin-operated machines in England reject euros. `[例]`
+>   - 中译：英国的投币机拒绝欧元。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/reject
+> - The prime minister rejected the suggestion that it was time for him to resign. `[例]`
+>   - 中译：首相拒绝了他该辞职的建议。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/reject
 ---
 
 

@@ -128,8 +128,8 @@ dé-(=de-，去除/开始) + but(目标，法语 *but*，"目标/终点")
 
 > [!example]- 语料
 > - He started as an actor , making his debut as a director in 1990. `[例]`
-> - Her debut as Juliet in " Romeo and Juliet" was enthusiastically received by critics . `[例]`
-> - The Broadway show debuted last year to great acclaim . `[例]`
+> - Her debut as Juliet in " Romeo and Juliet" was enthusiastically received by critics. `[例]`
+> - The Broadway show debuted last year to great acclaim. `[例]`
 
 
 ---

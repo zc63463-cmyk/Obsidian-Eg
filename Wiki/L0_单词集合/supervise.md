@@ -125,9 +125,15 @@ super-（在上方，建议创建词根笔记 [[super]]）+ vis（看，[[spec-s
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The UN is supervising the distribution of aid by local agencies in the disaster area . `[例]`
-> - The children play while two teachers supervise (= make certain that they behave correctly and are safe ) . `[例]`
-> - The Red Cross supervised the distribution of food to refugees . `[例]`
+> - She supervised the children playing near the pool. `[例]`
+>   - 中译：她监督孩子们在游泳池附近玩耍。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/supervise
+> - The builder supervised the construction of the house. `[例]`
+>   - 中译：建筑商监督了房子的建造。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/supervise
+> - She supervises a staff of 30 workers. `[例]`
+>   - 中译：她管理着 30 名员工。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/supervise
 
 
 ---

@@ -125,10 +125,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Research has shown that excess fat around the waist is a significant risk factor for cardiovascular disease and type 2 diabetes." `[权威语料]`
-> - "She wore a dress that cinched tightly at the waist, accentuating her slender figure." `[权威语料]`
-> - "Higher waist measurements identified higher risk even when body mass index appeared normal." `[权威语料]`
-> - "She put her arms around my waist." `[权威语料]`
+> - Research has shown that excess fat around the waist is a significant risk factor for cardiovascular disease and type 2 diabetes. `[例]`
+> - She wore a dress that cinched tightly at the waist, accentuating her slender figure. `[例]`
+> - Higher waist measurements identified higher risk even when body mass index appeared normal. `[例]`
+> - She put her arms around my waist. `[例]`
 
 
 ---

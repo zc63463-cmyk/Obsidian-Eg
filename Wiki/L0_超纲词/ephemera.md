@@ -3,10 +3,8 @@ title: "ephemera"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 物品工具
 prototype: 短暂之物（只存在一天的、转瞬即逝的东西）
@@ -43,7 +41,7 @@ ephemer-(短暂的，源自希腊语 *ephemeros*，"只存在一天的") + -a(�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**短暂之物（只存在一天的、转瞬即逝的东西）**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **只存在一天**（时间层面）
@@ -64,7 +62,7 @@ ephemer-(短暂的，源自希腊语 *ephemeros*，"只存在一天的") + -a(�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +73,7 @@ ephemer-(短暂的，源自希腊语 *ephemeros*，"只存在一天的") + -a(�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 希腊语 ephemeros（只存在一天的）→ ephemera。蜉蝣（ephemera）这种昆虫只活一天——因此一切转瞬即逝的东西都叫 ephemera。电影票根、演唱会传单——这些临时性的纸质品也是 ephemera。
@@ -87,7 +85,7 @@ ephemer-(短暂的，源自希腊语 *ephemeros*，"只存在一天的") + -a(�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -97,13 +95,13 @@ ephemer-(短暂的，源自希腊语 *ephemeros*，"只存在一天的") + -a(�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[permanence]]：永久性（短暂↔永久）
 > - [[durability]]：耐久性（短暂↔耐久）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -114,26 +112,19 @@ ephemer-(短暂的，源自希腊语 *ephemeros*，"只存在一天的") + -a(�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **the ephemera of fashion**：时尚的短暂之物
 > - **collecting ephemera**：收集临时性印刷品
 > - **cultural ephemera**：文化短暂现象
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - The museum has a fascinating collection of Victorian ephemera, including old theater programs and advertising posters. `[例]`
 > - Digital ephemera such as tweets and Instagram stories are now considered valuable cultural artifacts by some researchers. `[例]`
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
-
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -127,10 +127,15 @@ re-(再次/重新) + sume(拿取，源自 [[sumere|sum/sump]]) → 重新拿取 
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Peace talks are expected to resume next month after a three-month suspension." `[真题]`
-> - "She submitted her resume to several companies before receiving an interview invitation." `[真题]`
-> - "After 16 days of government closure, Congress acted late Wednesday to reopen federal parks and offices and resume federal services." `[COCA]`
-> - "There is no sign of the peace talks resuming." `[COCA-ACAD]`
+> - Normal services will be resumed in the spring. `[例]`
+>   - 中译：正常服务将于春季恢复。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/resume
+> - He stopped to take a sip of water and then resumed speak ing. `[例]`
+>   - 中译：他停下来喝了一口水，然后继续说话。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/resume
+> - The talks are due to resume today. `[例]`
+>   - 中译：会谈定于今天恢复。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/resume
 
 ---
 

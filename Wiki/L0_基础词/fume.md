@@ -129,9 +129,9 @@ fume(整体词，源自拉丁语 *fumus*，烟雾)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Workers were exposed to toxic fumes in the poorly ventilated factory." `[真题]`
-> - "The strong fumes from the paint made her feel dizzy." `[语料库]`
-> - "He began to fume with rage and exasperation." `[语料库]`
+> - Workers were exposed to toxic fumes in the poorly ventilated factory. `[真题]`
+> - The strong fumes from the paint made her feel dizzy. `[例]`
+> - A line of fume trees rose above the morning fog. `[例]`
 
 
 ---

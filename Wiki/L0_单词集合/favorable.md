@@ -133,10 +133,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The economic conditions are favorable for investment."（经济条件有利于投资）——经济话题
-> - "The new policy received a favorable response from the public."（新政策获得了公众的积极回应）——政治话题
-> - "The company reported favorable results for the quarter."（公司报告了本季度的良好业绩）——商业话题
-> - "She made a favorable impression at the job interview."（她在求职面试中给人留下了好印象）——职场话题
+> - The movie received generally favorable reviews. `[例]`
+>   - 中译：这部电影获得了普遍好评。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/favorable
+> - The new play got many favorable reviews. `[例]`
+>   - 中译：新剧获得不少好评。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/favorable
+> - He was given a favorable recommendation. `[例]`
+>   - 中译：他得到了有利的推荐。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/favorable
 
 ---
 

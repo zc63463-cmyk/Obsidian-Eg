@@ -125,9 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - We do not differentiate between our employees on the basis of their race , religion , or national origin . `[例]`
+> - We do not differentiate between our employees on the basis of their race , religion , or national origin. `[例]`
 > - Most consumers have no trouble differentiating our brand's cereal from our leading competitor's. `[例]`
-> - Service providers are all keen to differentiate themselves from their competitors . `[例]`
+> - Service providers are all keen to differentiate themselves from their competitors. `[例]`
 
 
 ---

@@ -124,9 +124,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The United Nations Security Council. `[例]`
 > - This play is supported by a grant from the local arts council. `[例]`
-> - Residents complained to the council about the condition of the road . `[例]`
+>   - 中译：该剧得到了当地艺术委员会的资助。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/council
+> - Residents complained to the council about the condition of the road. `[例]`
+>   - 中译：居民向市议会投诉道路状况。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/council
+> - To apply for a disabled person's parking badge , get a form from your council. `[例]`
+>   - 中译：要申请残疾人停车证，请向您的市政府索取表格。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/council
 
 
 ---

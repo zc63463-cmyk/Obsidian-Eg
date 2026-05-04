@@ -132,7 +132,7 @@ review_count: 0
 > [!example]- 语料
 > - Polish your shoes regularly to protect the leather. `[例]`
 > - The room smelled of candle wax and old leather. `[例]`
-> - Soft, supple leathers or suedes look rich and feel comfortable . `[例]`
+> - Soft, supple leathers or suedes look rich and feel comfortable. `[例]`
 
 
 ---

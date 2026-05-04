@@ -131,9 +131,15 @@ trans-（跨越，穿过）+ lat（搬运，携带，与 [[tract]] 同源）+ -i
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Students will do one Spanish translation a week . `[例]`
-> - A literal translation of " euthanasia " would be "good death ". `[例]`
-> - The English version is boring - maybe it has lost something in translation (= is not as good as the original ) . `[例]`
+> - He specializes in translation from Danish into English. `[例]`
+>   - 中译：他擅长将丹麦语翻译成英语。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/translation
+> - The request must have lost something in the translation from the French. `[例]`
+>   - 中译：该请求在法语翻译中肯定丢失了一些内容。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/translation
+> - Several books are already in translation into other languages. `[例]`
+>   - 中译：有几本书已经被翻译成其他语言。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/translation
 ---
 
 

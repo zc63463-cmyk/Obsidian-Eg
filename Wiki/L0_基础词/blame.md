@@ -132,9 +132,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Don't blame me (= it is not my fault ) if you miss the bus ! `[例]`
-> - Hugh blames his mother for his lack of confidence . `[例]`
-> - Hugh blames his lack of confidence on his mother . `[例]`
+> - She doesn't blame anyone for her father's death. `[例]`
+>   - 中译：她不因父亲的死而责怪任何人。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/blame
+> - A dropped cigarette is being blamed for the fire. `[例]`
+>   - 中译：火灾被归咎于掉落的香烟。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/blame
+> - Why is he blaming others for his problems? `[例]`
+>   - 中译：为什么他要把自己的问题归咎于别人？
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/blame
 
 
 ---

@@ -136,10 +136,15 @@ doc-(教导) + [[text]](编织/文字) = document（编织出来的教导文字 
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The researcher carefully documented every stage of the experiment to ensure the results could be replicated." `[COCA-ACAD]`
-> - "Historical documents reveal that the practice dates back several centuries." `[COCA-ACAD]`
-> - "Mobile phones have been used as a tool to document the violation of human rights." `[COCA-ACAD]`
-> - "It is well documented that men die younger than women." `[COCA-ACAD]`
+> - A power of attorney is an official document that allows one person to act on another's behalf. `[例]`
+>   - 中译：授权书是一份允许一个人代表另一个人行事的正式文件。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/document
+> - She denied that she had given copies of confidential documents to a journalist. `[例]`
+>   - 中译：她否认曾向记者提供过机密文件的副本。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/document
+> - Williams had ill-advisedly signed a legal document without understanding its content. `[例]`
+>   - 中译：威廉姆斯在不了解其内容的情况下，不明智地签署了一份法律文件。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/document
 ---
 
 

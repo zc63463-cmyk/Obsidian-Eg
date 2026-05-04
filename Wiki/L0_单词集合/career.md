@@ -125,8 +125,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She has had a distinguished career in journalism."（她在新闻业有着卓越的职业生涯。）——人物/传记类阅读语境
-> - "Choosing the right career is one of the most important decisions in life."（选择正确的职业是人生最重要的决定之一。）——教育/社会类阅读语境
+> - They casually dismiss the career work of scholars and scientists as just another misguided opinion. `[真题]`
+>   - 中译：他们漫不经心地将学者和科学家的职业工作视为另一种误导性的观点。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - It helps if you can move a few rungs up the career ladder before taking time off to have a baby. `[例]`
+>   - 中译：如果你能在请假生孩子之前在职业阶梯上更上一层楼，那会很有帮助。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/career
+> - I took this new job because I felt that the career prospects were much better. `[例]`
+>   - 中译：我接受这份新工作是因为我觉得职业前景好得多。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/career
 
 ---
 

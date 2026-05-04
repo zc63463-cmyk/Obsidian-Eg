@@ -124,9 +124,15 @@ out(向外) + look(看) → "向外看"
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The economic outlook for the next year remains uncertain." `` `[COCA-ACAD]` ``
-> - "Consumers continue to be pessimistic about the outlook over the next six months." `` `[COCA-ACAD]` ``
-> - "Both factors lead to a better outlook on life." `` `[COCA]` ``
+> - The outlook for the economy is bleak. `[例]`
+>   - 中译：经济前景黯淡。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/outlook
+> - The outlook for today is cloudy and dry at first with showers later. `[例]`
+>   - 中译：今天的天气先是多云干燥，随后有阵雨。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/outlook
+> - The political outlook is still uncertain. `[例]`
+>   - 中译：政治前景仍不明朗。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/outlook
 
 ---
 

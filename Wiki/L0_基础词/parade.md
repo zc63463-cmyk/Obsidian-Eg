@@ -129,9 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The soldiers paraded through the streets to celebrate the victory. `[语料库]`
-> - She paraded her new diamond ring in front of her friends. `[语料库]`
-> - Macy's Thanksgiving Day Parade is one of the most famous parades in the world. `[外刊]`
+> - The soldiers paraded through the streets to celebrate the victory. `[例]`
+> - She paraded her new diamond ring in front of her friends. `[例]`
+> - Macy's Thanksgiving Day Parade is one of the most famous parades in the world. `[例]`
 
 
 ---

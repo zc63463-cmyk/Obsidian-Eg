@@ -125,10 +125,15 @@ en-(在内) + [[vir|viron]](环绕) + -ment(名词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Certain chemicals have been banned because of their damaging effect on the environment." `[真题]`
-> - "In today's competitive business environment, companies focus on minimizing costs." `[COCA-ACAD]`
-> - "The hospital architect tries to create an environment conducive to healing." `[COCA-ACAD]`
-> - "This period provided a favourable environment for the spread of communism." `[COCA-ACAD]`
+> - Certain chemicals have been banned because of their damaging effect on the environment. `[例]`
+>   - 中译：某些化学物质由于对环境造成破坏而被禁止。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/environment
+> - We're not doing enough to protect the environment from pollution. `[例]`
+>   - 中译：我们在保护环境免受污染方面做得还不够。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/environment
+> - The radiation leak has had a disastrous effect on the environment. `[例]`
+>   - 中译：辐射泄漏对环境造成了灾难性影响。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/environment
 
 ---
 

@@ -121,9 +121,15 @@ re-（加强/再）+ commend（托付/称赞，与 [[mark]] 标记有关——�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Doctors recommend that adults engage in at least 30 minutes of moderate exercise daily. `[真题]`
-> - The committee recommended that the government invest more in renewable energy sources. `[真题]`
-> - In general, many lifestyle medicine physicians recommend a plant-based diet for people with diabetes or other inflammatory conditions. `[COCA-ACAD]`
+> - I can recommend the chicken in mushroom sauce - it's delicious. `[例]`
+>   - 中译：我可以推荐蘑菇酱鸡肉——很好吃。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/recommend
+> - She has been recommended for promotion. `[例]`
+>   - 中译：她已被推荐晋升。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/recommend
+> - The headmistress agreed to recommend the teachers ' proposals to the school governors. `[例]`
+>   - 中译：校长同意将教师们的建议推荐给学校校长。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/recommend
 
 
 ---

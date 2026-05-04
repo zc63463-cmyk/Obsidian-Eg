@@ -145,9 +145,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "call into question the validity of..."（对……的有效性提出质疑）——考研阅读/翻译极高频表达
-> - "call for a reform of the system"（呼吁改革制度）——社会类话题高频搭配
-> - "the so-called 'expert'"（所谓的"专家"）——考研阅读中表达作者态度的常见用法
+> - Recently, another expression of this predatory behavior has emerged: so-called support service consultancies that provide language and other editorial support to individual authors and to journals sometimes advise contributors to add a number of citations to their articles. `[真题]`
+>   - 中译：最近，这种掠夺行为的另一种表现形式出现了：所谓的支持服务咨询公司为个人作者和期刊提供语言和其他编辑支持，有时会建议撰稿人在他们的文章中添加大量引用。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - They've called the twins Edward and Thomas. `[例]`
+>   - 中译：他们给双胞胎起名叫爱德华和托马斯。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/call
+> - What's that actor called that we saw in the film last night? `[例]`
+>   - 中译：昨晚我们在电影中看到的那个演员叫什么名字？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/call
 
 ---
 

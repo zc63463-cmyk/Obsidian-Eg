@@ -133,8 +133,8 @@ day(天，源自PIE *dhegwh-*) + -ly(形容词/副词后缀，每……的)
 
 > [!example]- 语料
 > - Take the tablets twice daily. `[例]`
-> - Exercise has become part of my daily routine . `[例]`
-> - We back up our computer files at work on a daily basis . `[例]`
+> - Exercise has become part of my daily routine. `[例]`
+> - We back up our computer files at work on a daily basis. `[例]`
 
 
 ---

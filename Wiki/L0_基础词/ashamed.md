@@ -123,9 +123,15 @@ a-(加强语气) + sham(e)(羞愧) + -ed(形容词后缀，表示状态)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She ought to be thoroughly ashamed of herself for talking to her mother like that. `[COCA-SPOKEN]`
-> - He was ashamed to admit to his mistake in front of the whole team. `[COCA-ACAD]`
-> - I was ashamed that I had made so little effort to help. `[BNC-SPOKEN]`
+> - She was deeply ashamed of her behaviour at the party. `[例]`
+>   - 中译：她对自己在聚会上的行为深感羞愧。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ashamed
+> - Feeling depressed is nothing to be ashamed of. `[例]`
+>   - 中译：感到沮丧并没有什么可羞耻的。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ashamed
+> - We must stop being afraid or ashamed of what we are. `[例]`
+>   - 中译：我们必须停止对自己的现状感到害怕或羞耻。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ashamed
 
 
 ---

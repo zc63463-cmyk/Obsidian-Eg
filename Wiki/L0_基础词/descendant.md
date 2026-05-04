@@ -123,7 +123,7 @@ review_count: 0
 
 > [!example]- 语料
 > - He has no descendants. `[例]`
-> - They claim to be descendants of a French duke . `[例]`
+> - They claim to be descendants of a French duke. `[例]`
 > - We owe it to our descendants (= people younger than us who will live after we have died ) to leave them a clean world to live in. `[例]`
 
 

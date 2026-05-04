@@ -125,9 +125,9 @@ pot（深圆容器，日耳曼语/拉丁语源，词源不确定）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Fill a large pot with salted water and bring it to the boil . `[例]`
-> - There's plenty of cupboard space in the kitchen for all your pots and pans . `[例]`
-> - The shelf was full of pots of paint . `[例]`
+> - Fill a large pot with salted water and bring it to the boil. `[例]`
+> - There's plenty of cupboard space in the kitchen for all your pots and pans. `[例]`
+> - The shelf was full of pots of paint. `[例]`
 
 
 ---

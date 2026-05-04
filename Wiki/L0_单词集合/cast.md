@@ -136,9 +136,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The new evidence cast doubt on the previous conclusion."（新证据使先前的结论产生了疑问。）——学术/论证类阅读语境
-> - "The movie has an impressive cast of actors."（这部电影有着令人印象深刻的演员阵容。）——文化/娱乐类阅读语境
-> - "Citizens went to the polls to cast their votes."（公民们前往投票站投票。）——政治/社会类阅读语境
+> - The play's cast of characters is on the second page of the programme. `[例]`
+>   - 中译：该剧的演员表在节目的第二页。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/cast
+> - After making two guest appearances , she was promoted to the main cast for the show's second season. `[例]`
+>   - 中译：在两次客串演出后，她被提升为该剧第二季的主要演员。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/cast
+> - Part of the film's success lies in the strength of the supporting cast (= the actors who were not playing the main parts ). `[例]`
+>   - 中译：影片的成功部分在于配角的实力（=不扮演主要角色的演员）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/cast
 
 ---
 

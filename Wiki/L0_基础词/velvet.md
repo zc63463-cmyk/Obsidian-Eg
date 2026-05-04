@@ -133,10 +133,10 @@ velv(=velvet，天鹅绒，源自拉丁语 *villosus*，"有绒毛的"，与 [[v
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She was clad in blue velvet." `[权威语料]`
-> - "Velvet as a fabric is not known for its versatility." `[权威语料]`
-> - "Despite the velvet glove language, it would be difficult to find a more direct and straightforward indictment of regional policy." `[权威语料]`
-> - "Czechoslovakia's velvet divorce probably serves as the best example in postwar Europe of a relatively smooth parting of the ways." `[权威语料]`
+> - She was clad in blue velvet. `[例]`
+> - Velvet as a fabric is not known for its versatility. `[例]`
+> - Despite the velvet glove language, it would be difficult to find a more direct and straightforward indictment of regional policy. `[例]`
+> - Czechoslovakia's velvet divorce probably serves as the best example in postwar Europe of a relatively smooth parting of the ways. `[例]`
 
 
 ---

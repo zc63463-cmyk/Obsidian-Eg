@@ -134,8 +134,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The busy traffic entrance was a hazard to pedestrians . `[例]`
-> - In golf , hazards are just another part of the game . `[例]`
+> - The busy traffic entrance was a hazard to pedestrians. `[例]`
+> - In golf , hazards are just another part of the game. `[例]`
 > - The golf course now features the most dramatic water hazards. `[例]`
 
 

@@ -133,9 +133,15 @@ re-(回/再) + [[spec-spect|spect]](看) = respect
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Despite our differences, I have enormous respect for him." `[COCA-ACAD]`
-> - "It is about time tour operators respected the law and their own code of conduct." `[COCA-ACAD]`
-> - "Your theory makes sense in one respect." `[COCA-ACAD]`
+> - She is a formidable figure who commands a great deal of respect (= who is greatly admired by others ). `[例]`
+>   - 中译：她是一位令人敬畏的人物，受到极大的尊重（=受到他人的极大钦佩）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/respect
+> - He inspired respect and devotion from his pupils. `[例]`
+>   - 中译：他激发了学生的尊重和奉献。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/respect
+> - She won the grudging respect of her boss. `[例]`
+>   - 中译：她赢得了老板勉强的尊重。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/respect
 
 
 ---

@@ -129,9 +129,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Adolescents who watched more than two hours of TV a day were much more likely to be overweight." `[COCA-ACAD]`
-> - "Profit will most likely have risen by about twenty-five million pounds." `[COCA-NEWS]`
-> - "At one point he had seemed a likely candidate to become Prime Minister." `[COCA-NEWS]`
+> - It comes at a time . when authors are already worried about the consequences of the proposed merger between PRH and another big publisher , Simon & Schuster-the reduction in the number of unaligned UK publishers is likely to lead to fewer bidding wars,, lower advances, and more conformity in . terms of what is published. `[真题]`
+>   - 中译：它来得正是时候。当作者们已经担心 PRH 与另一家大型出版商西蒙与舒斯特 (Simon & Schuster) 之间拟议合并的后果时，不结盟的英国出版商数量的减少可能会导致竞标战的减少、预付款的降低以及 .所发布内容的条款。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - Do remind me because I'm likely to forget. `[例]`
+>   - 中译：请提醒我，因为我很可能会忘记。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/likely
+> - What's the likely outcome of this whole business? `[例]`
+>   - 中译：整个事件可能产生什么结果？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/likely
 
 ---
 

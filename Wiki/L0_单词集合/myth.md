@@ -130,8 +130,15 @@ myth-（来自希腊语 *mythos*，话语，故事，来自印欧语系 *mewd-*�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The worthy residents of Stratford doubt that the theatre adds a penny to their revenue."（斯特福特镇受人尊敬的居民们认为剧院一点都没有使他们的收入增加。）——2006考研英语一阅读
-> - "The myth that success is solely determined by intelligence has been widely debunked."（成功完全由智力决定这一谬论已被广泛揭穿。）——考研高频表达
+> - The ten short stories are retellings of ancient myths for young readers. `[例]`
+>   - 中译：这十篇短篇小说为年轻读者重述了古代神话。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/myth
+> - The children enjoyed the stories about the gods and goddesses of Greek myth. `[例]`
+>   - 中译：孩子们喜欢希腊神话中的男神和女神的故事。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/myth
+> - Most societies have their own creation myths. `[例]`
+>   - 中译：大多数社会都有自己的创世神话。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/myth
 
 ---
 

@@ -134,9 +134,15 @@ cloak 源自古法语 *cloke*，源自拉丁语 *cloca*（钟形斗篷），与 
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The restaurant he owned was just a cloak for (= hid ) his drug-dealing activities . `[例]`
-> - They left the house under cloak of darkness . `[例]`
-> - He has always kept his love affairs cloaked in secrecy (= kept them secret ) . `[例]`
+> - She stormed off, her cloak flying behind her. `[例]`
+>   - 中译：她怒气冲冲地走了，斗篷在她身后飞扬。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/cloak
+> - She threw a heavy cloak over her shoulders. `[例]`
+>   - 中译：她把一件厚重的斗篷披在肩上。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/cloak
+> - They left under the cloak of darkness. `[例]`
+>   - 中译：他们在黑暗的掩护下离开了。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/cloak
 
 
 ---

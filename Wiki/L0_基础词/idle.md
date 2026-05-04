@@ -132,7 +132,7 @@ idle 源自古英语 *īdel* "空的、无价值的、无用的"，原始西日�
 
 > [!example]- 语料
 > - Half these factories now stand idle. `[例]`
-> - It's crazy to have £7,000 sitting idle in the bank . `[例]`
+> - It's crazy to have £7,000 sitting idle in the bank. `[例]`
 > - If you have an idle moment , call me. `[例]`
 
 

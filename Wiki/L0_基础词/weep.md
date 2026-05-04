@@ -124,9 +124,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She wept bitterly when she heard the news. `[真题]`
-> - He wept in front of me. `[真题]`
 > - Our hearts have been left with ragged, weeping wounds. `[真题]`
+> - The sore is still weeping a lot so you'll have to change the dressing once a day. `[例]`
+> - It might help you to have a good weep. `[例]`
 
 
 ---

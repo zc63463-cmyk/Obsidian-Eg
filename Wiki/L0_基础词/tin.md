@@ -125,7 +125,7 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - He opened a tin of beans and emptied it into the saucepan . `[例]`
+> - He opened a tin of beans and emptied it into the saucepan. `[例]`
 > - The country's most valuable commodities include tin and diamonds. `[例]`
 > - In tin mining today, workers excavate tunnels horizontally from a vertical shaft. `[例]`
 

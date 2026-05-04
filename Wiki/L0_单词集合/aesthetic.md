@@ -125,8 +125,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - "The building's aesthetic appeal lies in its simplicity and harmony with nature."（这座建筑的美学魅力在于其简洁以及与自然的和谐。）——考研阅读真题
-> - "The aesthetic value of the artwork was widely recognized by critics."（这件艺术品的美学价值得到了评论家的广泛认可。）——考研高频表达
+> - He specializes in aesthetic dentistry. `[例]`
+>   - 中译：他专攻美容牙科。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/aesthetic
+> - Aesthetic treatments include everything from skincare products to injectables. `[例]`
+>   - 中译：美容治疗包括从护肤品到注射剂的一切。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/aesthetic
+> - The room has a " country cottage " aesthetic. `[例]`
+>   - 中译：房间有一种“乡村小屋”的美感。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/aesthetic
 
 ---
 

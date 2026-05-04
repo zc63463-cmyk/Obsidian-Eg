@@ -137,11 +137,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - They were outraged by the announcement of massive price increases. `[COCA-NEWS]`
-> - To my way of thinking, it would just be a massive waste of money. `[COCA-FIC]`
-> - The government has launched a massive investment in infrastructure. `[COCA-ACAD]`
-> - The new skyscraper in the city is pretty massive, dominating the skyline. `[COCA-NEWS]`
-> - The earthquake caused massive destruction across the region. `[COCA-NEWS]`
+> - They have a massive house. `[例]`
+>   - 中译：他们有一座巨大的房子。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/massive
+> - She died after taking a massive overdose of drugs. `[例]`
+>   - 中译：她因服用大量过量药物而死亡。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/massive
+> - If the drought continues , deaths will occur on a massive scale. `[例]`
+>   - 中译：如果干旱持续下去，将会出现大规模死亡。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/massive
 
 ---
 

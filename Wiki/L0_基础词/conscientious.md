@@ -124,8 +124,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The researcher's conscientious approach to data collection ensured that the study's findings were both reliable and reproducible."（研究人员一丝不苟的数据收集方法确保了研究结果的可靠性和可重复性——考研阅读学术话题相关表达）
-> - "Conscientious employees who consistently meet deadlines and maintain high standards of quality are invaluable assets to any organization."（始终按时完成任务并保持高质量标准的尽责员工是任何组织都不可或缺的宝贵资产——考研阅读职场话题相关表达）
+> - He was thorough and conscientious, rather than brilliant. `[例]`
+>   - 中译：他是彻底而认真的，而不是才华横溢。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/conscientious
+> - She was a popular and conscientious teacher. `[例]`
+>   - 中译：她是一位受欢迎且尽职尽责的老师。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/conscientious
+> - He was shifty about money matters, not conscientious about returning advances, fulfilling contracts, reading manuscripts. `[例]`
+>   - 中译：他在金钱问题上狡猾，对返还预付款、履行合同、阅读手稿不认真。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/conscientious
 
 
 ---

@@ -129,9 +129,9 @@ plumb(=plumbum, 铅，拉丁语 *plumbum*) + -er(表示"人"的名词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - When is the plumber coming to repair the burst pipe ? `[例]`
-> - We'll have to get a plumber in to look at that water tank . `[例]`
-> - Did you remember to get on to the plumber about the shower ? `[例]`
+> - When is the plumber coming to repair the burst pipe? `[例]`
+> - We'll have to get a plumber in to look at that water tank. `[例]`
+> - Did you remember to get on to the plumber about the shower? `[例]`
 
 
 ---

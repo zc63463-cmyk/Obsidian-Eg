@@ -136,7 +136,7 @@ review_count: 0
 
 > [!example]- 语料
 > - The crude technique required educated guesses on exposure times, and involved heavy, awkward equipment-several men had to assist in its transportation. `[真题]`
-> - He laboured up the hill with his heavy load . `[例]`
+> - He laboured up the hill with his heavy load. `[例]`
 > - How heavy is that box ? (= How much does it weigh ?). `[例]`
 
 

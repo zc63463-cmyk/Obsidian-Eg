@@ -134,9 +134,9 @@ hollow（源自古英语 *holh* "洞，空处"，日耳曼语系，与 hole "洞
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Hollow blocks are used because they are lighter . `[例]`
-> - He was an elderly man with hollow cheeks . `[例]`
-> - It was something of a hollow victory - she won the case , but lost all her savings in legal fees . `[例]`
+> - Hollow blocks are used because they are lighter. `[例]`
+> - He was an elderly man with hollow cheeks. `[例]`
+> - It was something of a hollow victory - she won the case , but lost all her savings in legal fees. `[例]`
 
 
 ---

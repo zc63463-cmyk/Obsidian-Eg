@@ -131,9 +131,9 @@ gl-（光/视觉词根，印欧语系 *ghel-* "发光"）+ -itter（表示反复
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "His dark eyes glittered with anger behind his glasses." `[真题]`
-> - "Many gems have glittered in tonight's speeches." `[真题]`
-> - "He shows us that all that glitters is not gold." `[真题]`
+> - His dark eyes glittered with anger behind his glasses. `[真题]`
+> - Many gems have glittered in tonight's speeches. `[真题]`
+> - He shows us that all that glitters is not gold. `[真题]`
 
 
 ---

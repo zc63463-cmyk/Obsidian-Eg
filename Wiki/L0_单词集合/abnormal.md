@@ -134,9 +134,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "abnormal behavior patterns"（反常的行为模式）——心理学/社会学类阅读中常见
-> - "abnormal weather conditions"（异常天气状况）——环境/科普类阅读中常见
-> - "abnormal cells may develop into cancer"（异常细胞可能发展为癌症）——医学/科普类阅读语境
+> - Tests revealed some abnormal skin cells. `[例]`
+>   - 中译：测试发现一些异常的皮肤细胞。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/abnormal
+> - They said that the delay to our flight was due to abnormal bad weather conditions. `[例]`
+>   - 中译：他们说我们的航班延误是由于异常恶劣的天气条件。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/abnormal
+> - It isn't abnormal to have spots at your age. `[例]`
+>   - 中译：在你这个年纪出现斑点并不是不正常的。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/abnormal
 
 ---
 

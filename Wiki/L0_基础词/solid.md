@@ -138,7 +138,7 @@ review_count: 0
 
 > [!example]- 语料
 > - The lecture hall was packed solid ( with students ). `[例]`
-> - Liquid and solid waste is collected in the tank . `[例]`
+> - Liquid and solid waste is collected in the tank. `[例]`
 > - Freeze the mixture for about three hours or so until solid. `[例]`
 
 

@@ -135,10 +135,10 @@ veil（源自拉丁语 *velum*，"遮盖物，帆"，与 [[velvet]]/[[vertical]]
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He recognized the coast of England through a veil of mist." `[权威语料]`
-> - "The government has decided to lift the veil on its plans." `[权威语料]`
-> - "I think we should draw a veil over what happened last night." `[权威语料]`
-> - "We want to lift the veil of secrecy that surrounds government decisions." `[权威语料]`
+> - He recognized the coast of England through a veil of mist. `[例]`
+> - The government has decided to lift the veil on its plans. `[例]`
+> - I think we should draw a veil over what happened last night. `[例]`
+> - We want to lift the veil of secrecy that surrounds government decisions. `[例]`
 
 
 ---

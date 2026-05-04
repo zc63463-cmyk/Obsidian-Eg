@@ -127,9 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The government's economic policy has been denounced on all sides . `[例]`
-> - He angrily denounced the decision not to allow him to speak . `[例]`
-> - We must denounce injustice and oppression . `[例]`
+> - The government's economic policy has been denounced on all sides. `[例]`
+> - He angrily denounced the decision not to allow him to speak. `[例]`
+> - We must denounce injustice and oppression. `[例]`
 
 
 ---

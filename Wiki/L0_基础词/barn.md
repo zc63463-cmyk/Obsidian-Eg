@@ -126,10 +126,15 @@ barn 源自古英语 *berern*，由 *bere*（大麦）+ *ærn*（房屋、存放
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The escaped prisoners lay up in a barn for a few weeks, until the search had been called off." `[COCA-FIC]`
-> - "The sheep were penned in behind the barn." `[COCA-FIC]`
-> - "The house, a former barn, has been attractively converted." `[COCA-NEWS]`
-> - "The property includes two fine twelfth-century timber barns, once used for storing grain." `[COCA-NEWS]`
+> - They live in a converted barn (= a barn that has been turned into a house). `[例]`
+>   - 中译：他们住在一个改建的谷仓里（=一个已经变成房子的谷仓）。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/barn
+> - Located behind a private gate, the 78-acre property pairs a 13,000-square-foot main residence with an equestrian arena, multiple barns , a guest house, and more. `[例]`
+>   - 中译：这座占地 78 英亩的地产位于私人大门后面，拥有 13,000 平方英尺的主住宅、马术场、多个谷仓、宾馆等。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/barn
+> - The two-story barn is heated and has the capability for a workshop while the second floor is suited for recreation or a studio, the listing said. `[例]`
+>   - 中译：挂牌信息称，这座两层谷仓配有暖气，可用作工作室，而二楼则适合休闲或工作室。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/barn
 
 
 ---

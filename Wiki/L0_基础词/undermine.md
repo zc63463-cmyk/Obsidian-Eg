@@ -127,9 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Criticism just undermines their confidence . `[例]`
-> - The incompetence and arrogance of the city’s administration have undermined public confidence in government . `[例]`
-> - A succession of scandals and revelations has undermined the government over the past year . `[例]`
+> - Criticism just undermines their confidence. `[例]`
+> - The incompetence and arrogance of the city’s administration have undermined public confidence in government. `[例]`
+> - A succession of scandals and revelations has undermined the government over the past year. `[例]`
 
 
 ---

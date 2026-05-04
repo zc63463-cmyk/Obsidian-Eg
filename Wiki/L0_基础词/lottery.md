@@ -124,8 +124,8 @@ review_count: 0
 
 > [!example]- 语料
 > - Education in England is something of a lottery. `[例]`
-> - Even if she won the lottery, Paige says she’d still keep her job . `[例]`
-> - The council applied for a £40m grant from the national lottery to redevelop local facilities . `[例]`
+> - Even if she won the lottery, Paige says she’d still keep her job. `[例]`
+> - The council applied for a £40m grant from the national lottery to redevelop local facilities. `[例]`
 
 
 ---

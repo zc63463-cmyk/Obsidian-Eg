@@ -126,9 +126,15 @@ aux-/aug-(增加、增长) + -ili(连接成分) + -ary(形容词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The factory is equipped with auxiliary power generators in case of emergency. `[例]`
-> - "Be", "do", and "have" are auxiliary verbs in English grammar. `[COCA-ACAD]`
-> - The hospital has a 200-bed auxiliary unit for overflow patients. `[例]`
+> - In the sentence "she has finished her book ", "has" is an auxiliary. `[例]`
+>   - 中译：在“她已经完成了她的书”这句话中，“has”是助动词。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/auxiliary
+> - The hospital has an auxiliary power supply in case of a power failure. `[例]`
+>   - 中译：医院有备用电源，以防停电。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/auxiliary
+> - About 4800 unarmed auxiliary police officers work on a volunteer basis with the New York Police Department. `[例]`
+>   - 中译：大约 4800 名手无寸铁的辅警在纽约警察局自愿工作。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/auxiliary
 
 ---
 

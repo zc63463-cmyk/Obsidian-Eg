@@ -130,7 +130,7 @@ review_count: 0
 > [!example]- 语料
 > - There's a clock on the church tower. `[例]`
 > - He works in an office tower in downtown San Francisco. `[例]`
-> - All-in-one PCs consolidate all the elements of a traditional desktop computer - monitor , tower, keyboard , mouse . `[例]`
+> - All-in-one PCs consolidate all the elements of a traditional desktop computer - monitor , tower, keyboard , mouse. `[例]`
 
 
 ---

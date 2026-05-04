@@ -128,7 +128,7 @@ review_count: 0
 > [!example]- 语料
 > - The whole region is in turmoil. `[例]`
 > - The country is in a state of political turmoil. `[例]`
-> - The Stock Exchange is in turmoil following a huge wave of selling . `[例]`
+> - The Stock Exchange is in turmoil following a huge wave of selling. `[例]`
 
 
 ---

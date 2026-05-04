@@ -127,9 +127,15 @@ com-(完全/一起) + [[hens|hens]](抓住) + -ive(形容词后缀，有...倾�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The government has proposed a comprehensive reform of the healthcare system." `[例]`
-> - "A comprehensive review of the literature reveals that the findings are largely consistent." `[例]`
-> - "The report provides a comprehensive analysis of the factors contributing to climate change." `[COCA-ACAD]`
+> - We offer you a comprehensive training in all aspects of the business. `[例]`
+>   - 中译：我们为您提供业务各个方面的全面培训。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/comprehensive
+> - Is this list comprehensive or are there some names missing? `[例]`
+>   - 中译：这个列表是否全面，或者是否缺少一些名字？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/comprehensive
+> - He has written a fully comprehensive guide to Rome. `[例]`
+>   - 中译：他写了一本全面的罗马指南。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/comprehensive
 ---
 
 

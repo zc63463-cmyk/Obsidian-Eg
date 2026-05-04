@@ -140,9 +140,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "But brain researchers have discovered that when we consciously develop new habits, we create parallel paths, and even entirely new brain cells, that can jump our trains of thought onto new, innovative tracks." `[真题]`
-> - "She saw her new job as a step further on the path to independence." `[Cambridge Corpus]`
-> - "The passage from school to college can be a difficult one for many students." `[Collins Corpus]`
+> - But brain researchers have discovered that when we consciously develop new habits, we create parallel paths, and even entirely new brain cells, that can jump our trains of thought onto new, innovative tracks. `[真题]`
+> - The cabin was built from durable path gathered in the region. `[例]`
+> - A line of path trees rose above the morning fog. `[例]`
 
 
 ---

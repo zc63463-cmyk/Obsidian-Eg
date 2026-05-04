@@ -133,8 +133,8 @@ review_count: 0
 
 > [!example]- 语料
 > - The two companies decided to fuse their operations to create a more competitive entity. `[真题]`
-> - Different cultures fuse together in this cosmopolitan city. `[语料库]`
-> - He blew a fuse when he found out the kids had broken the window. `[Collins]`
+> - Different cultures fuse together in this cosmopolitan city. `[例]`
+> - He blew a fuse when he found out the kids had broken the window. `[例]`
 
 
 ---

@@ -3,10 +3,8 @@ title: "wildlife"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-25
-mastery: L0
 word_freq: 超纲词
 semantic_field: 自然物理
 prototype: 野外生存的动植物
@@ -43,7 +41,7 @@ wild（野生的，古英语 *wild*）+ life（生命，古英语 *līf*）
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**野外生存的动植物**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **野外生存的动植物**（具体层面）
@@ -64,7 +62,7 @@ wild（野生的，古英语 *wild*）+ life（生命，古英语 *līf*）
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ wild（野生的，古英语 *wild*）+ life（生命，古英语 *līf*）
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > wild（野外的）+ life（生命）= wildlife（野外的生命）。想象你走进一片原始森林，看到鹿在溪边饮水、鹰在天空盘旋、野花在路边绽放——这些不属于任何人的生命，就是 wildlife。它们是地球最古老的主人。
@@ -86,7 +84,7 @@ wild（野生的，古英语 *wild*）+ life（生命，古英语 *līf*）
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ wild（野生的，古英语 *wild*）+ life（生命，古英语 *līf*）
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[domesticated]]：驯化的（wildlife 的反义：野生↔驯化）
 > - [[livestock]]：家畜（wildlife 的反义：野生生物↔家养动物）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -116,7 +114,7 @@ wild（野生的，古英语 *wild*）+ life（生命，古英语 *līf*）
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **wildlife conservation**：野生动物保护
 > - **wildlife protection**：野生生物保护
 > - **wildlife habitat**：野生动物栖息地
@@ -125,19 +123,12 @@ wild（野生的，古英语 *wild*）+ life（生命，古英语 *līf*）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - At the museum there was a diorama of local wildlife. `[例]`
-> - She left a large sum of money in her will to found a wildlife sanctuary . `[例]`
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-25 | **复习次数**：0 | **当前等级**：L0
-
----
+> - She left a large sum of money in her will to found a wildlife sanctuary. `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

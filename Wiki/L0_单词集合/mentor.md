@@ -129,8 +129,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Many successful entrepreneurs credit their achievements to the guidance of a trusted mentor.（许多成功的企业家将他们的成就归功于一位值得信赖的导师的指导。）
-> - The mentoring program pairs experienced professionals with new employees to facilitate knowledge transfer.（导师计划将经验丰富的专业人士与新员工配对，以促进知识传递。）
+> - The students ' chances can be improved with more studying , mentoring, and intensive review. `[例]`
+>   - 中译：通过更多的学习、指导和集中复习，学生的机会可以得到提高。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/mentor
+> - He acted as a business mentor to many young aspiring entrepreneurs. `[例]`
+>   - 中译：他是许多有抱负的年轻企业家的商业导师。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/mentor
+> - The programme was set up to train and mentor small-business entrepreneurs. `[例]`
+>   - 中译：该计划旨在培训和指导小企业企业家。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/mentor
 
 ---
 

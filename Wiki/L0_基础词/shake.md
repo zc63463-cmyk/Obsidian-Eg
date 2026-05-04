@@ -139,9 +139,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The incident had shaken her faith in him. ` `[真题]`
-> - Her voice shook as she talked about the person who attacked her. ` `[真题]`
-> - My hand shook so much that I could hardly hold the microphone. ` `[真题]`
+> - Every time one of these big trucks goes by, all the houses shake. `[例]`
+> - The child's body was shaking with sobs. `[例]`
+> - She was shaking as she opened the letter. `[例]`
 
 
 ---

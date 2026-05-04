@@ -3,10 +3,8 @@ title: "continuity"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 抽象关系
 prototype: 持续保持不断的状态
@@ -43,7 +41,7 @@ con-(一起) + [[tend-tens|tin-/ten-]](保持/持有) + -u- + -ity(名词后缀�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**持续保持不断的状态**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **持续保持不断**（时间层面）
@@ -66,7 +64,7 @@ con-(一起) + [[tend-tens|tin-/ten-]](保持/持有) + -u- + -ity(名词后缀�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ con-(一起) + [[tend-tens|tin-/ten-]](保持/持有) + -u- + -ity(名词后缀�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > continue（继续）→ continuity（连续性）。一条河流的 continuity 就是它从不断流。一部电影的 continuity 就是剧情前后连贯。一个国家的 historical continuity 就是历史传承不断。continuity 就是"一直保持不断"的那个性质。
@@ -90,7 +88,7 @@ con-(一起) + [[tend-tens|tin-/ten-]](保持/持有) + -u- + -ity(名词后缀�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ con-(一起) + [[tend-tens|tin-/ten-]](保持/持有) + -u- + -ity(名词后缀�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[discontinuity]]：不连续性，中断（continuity 的精确反义：连续↔中断）
 > - [[disruption]]：中断，破坏（continuity 的反义：连续↔破坏）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,7 +120,7 @@ con-(一起) + [[tend-tens|tin-/ten-]](保持/持有) + -u- + -ity(名词后缀�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **business continuity**：业务连续性
 > - **continuity of care**：医疗连续性
 > - **historical continuity**：历史连续性
@@ -131,19 +129,12 @@ con-(一起) + [[tend-tens|tin-/ten-]](保持/持有) + -u- + -ity(名词后缀�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - There has been no continuity in that class - they've had six different teachers . `[例]`
+> [!example]- 语料
+> - There has been no continuity in that class - they've had six different teachers. `[例]`
 > - You can skip this chapter without loss of continuity. `[例]`
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

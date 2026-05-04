@@ -3,10 +3,8 @@ title: "incorrectly"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 理性世界
 prototype: 不正确地、错误地
@@ -42,7 +40,7 @@ in-(不) + correct(正确的) + -ly(副词后缀)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以“**不正确地、错误地**”为统筹中心，沿抽象路径向外扩展：
 >
 1. **不正确地**（正确性层面）
@@ -60,7 +58,7 @@ in-(不) + correct(正确的) + -ly(副词后缀)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 |------|------|----------|
@@ -70,7 +68,7 @@ in-(不) + correct(正确的) + -ly(副词后缀)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > in（不）+ rect（直的）+ ly（……地）→ 不直地 → 不正确地。correct 就是“拉直”——把错误“拉直”成正确，incorrectly 就是没有拉直。
@@ -79,7 +77,7 @@ in-(不) + correct(正确的) + -ly(副词后缀)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 |------|------------|---------|---------|---------|
@@ -92,13 +90,13 @@ in-(不) + correct(正确的) + -ly(副词后缀)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[correctly]]：正确地（incorrectly 的精确反义：不正确↔正确）
 - [[accurately]]：准确地
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 |--------|---------|------|---------|
@@ -112,27 +110,20 @@ in-(不) + correct(正确的) + -ly(副词后缀)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **incorrectly interpreted**：被错误地解读
 - **behave incorrectly**：行为不当
 - **incorrectly applied**：被错误地应用
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - The survey data was incorrectly interpreted, leading to flawed policy recommendations. `[例]`
 > - Patients who incorrectly follow dosage instructions may experience adverse side effects. `[例]`
 > - The formula was incorrectly applied to the dataset, producing unreliable results. `[例]`
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
-
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

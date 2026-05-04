@@ -134,7 +134,7 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - They were lost in the desert for nine days . `[例]`
+> - They were lost in the desert for nine days. `[例]`
 > - We had to cross a large area of arid , featureless desert. `[例]`
 > - This town is a cultural desert. `[例]`
 

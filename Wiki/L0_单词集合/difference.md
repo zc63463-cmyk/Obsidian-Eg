@@ -134,9 +134,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - What's the difference between an ape and a monkey ? `[例]`
-> - Is there any significant difference in quality between these two items ? `[例]`
-> - They had a terrible argument a few weeks ago, but now they've settled their differences. `[例]`
+> - What's the difference between an ape and a monkey? `[例]`
+>   - 中译：猿和猴子有什么区别？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/difference
+> - Is there any significant difference in quality between these two items? `[例]`
+>   - 中译：这两个项目之间的质量有显着差异吗？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/difference
+> - Can you tell the the difference between poisonous mushrooms and edible varieties? `[例]`
+>   - 中译：你能区分有毒蘑菇和食用蘑菇吗？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/difference
 
 ---
 

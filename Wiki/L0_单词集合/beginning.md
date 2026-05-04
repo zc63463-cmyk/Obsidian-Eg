@@ -131,10 +131,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - From the very beginning, she knew that the experiment would yield unexpected results. `[COCA-ACAD]`
-> - At the beginning of the 21st century, rapid technological change transformed the global economy. `[COCA-ACAD]`
-> - Every great journey begins with a single step, and a new beginning requires courage. `[例]`
-> - The beginning of the end came when the company lost its largest client. `[例]`
+> - Notes on how to use this dictionary can be found at the beginning of the book. `[例]`
+>   - 中译：关于如何使用这本词典的注释可以在本书的开头找到。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/beginning
+> - She sat down and read the book straight through from beginning to end. `[例]`
+>   - 中译：她坐下来，把书从头到尾读了一遍。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/beginning
+> - The city had its beginnings in Roman times. `[例]`
+>   - 中译：这座城市始于罗马时代。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/beginning
 
 ---
 

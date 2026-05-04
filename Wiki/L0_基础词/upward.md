@@ -127,9 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - With an upward trend in inflation , you expect prices to rise . `[例]`
+> - With an upward trend in inflation , you expect prices to rise. `[例]`
 > - House prices have started moving upward again. `[例]`
-> - Tachi glanced upward to the stars . `[例]`
+> - Tachi glanced upward to the stars. `[例]`
 
 
 ---

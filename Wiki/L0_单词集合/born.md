@@ -118,9 +118,15 @@ born（出生，bear 的过去分词）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She was born into a wealthy family. `[真题]`
-> - He is a born leader. `[真题]`
-> - She was born with a natural talent for music. `[例]`
+> - She was born in 1950. `[例]`
+>   - 中译：她出生于1950年。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/born
+> - The toll of babies born with AIDS is rising. `[例]`
+>   - 中译：出生时就患有艾滋病的婴儿人数正在上升。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/born
+> - Stevie Wonder was born blind. `[例]`
+>   - 中译：史蒂夫·旺德生来就双目失明。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/born
 
 ---
 

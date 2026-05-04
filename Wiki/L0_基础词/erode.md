@@ -127,9 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Wind and rain have eroded the statues into shapeless lumps of stone . `[例]`
-> - The cliffs are eroding several feet a year . `[例]`
-> - His behaviour over the last few months has eroded my confidence in his judgment . `[例]`
+> - Wind and rain have eroded the statues into shapeless lumps of stone. `[例]`
+> - The cliffs are eroding several feet a year. `[例]`
+> - His behaviour over the last few months has eroded my confidence in his judgment. `[例]`
 
 
 ---

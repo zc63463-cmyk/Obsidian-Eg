@@ -132,7 +132,7 @@ review_count: 0
 
 > [!example]- 语料
 > - I ordered some tea for myself and lit my pipe. `[例]`
-> - He played the pipes as the newlyweds left the church . `[例]`
+> - He played the pipes as the newlyweds left the church. `[例]`
 > - He's one of hockey's all-time great goaltenders , with over 800 games between the pipes. `[例]`
 
 

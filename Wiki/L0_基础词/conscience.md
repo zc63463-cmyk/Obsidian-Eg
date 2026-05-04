@@ -125,10 +125,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - He's been so kind and generous toward me recently — I think he has a guilty conscience. `[Cambridge]`
-> - This is a matter of conscience — it's a moral issue, not a political one. `[Cambridge]`
-> - You didn't do anything wrong — you should have a clear conscience. `[Cambridge]`
-> - I've had it on my conscience for weeks that I didn't warn him in time. `[Oxford]`
+> - This is a matter of individual conscience (= everyone must make their own judgement about it). `[例]`
+>   - 中译：这是个人良知的问题（=每个人必须对此做出自己的判断）。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/conscience
+> - She was seized by a sudden pang of conscience. `[例]`
+>   - 中译：她突然感到良心的剧痛。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/conscience
+> - I have a terrible conscience about it. `[例]`
+>   - 中译：我对此感到良心不安。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/conscience
 
 
 ---

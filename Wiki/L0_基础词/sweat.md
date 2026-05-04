@@ -123,9 +123,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Every morning I would break out in a sweat before the exam. `[通用]`
-> - Computer graphics take a lot of the sweat out of animation. `[学术]`
-> - They extended their unbeaten run to seven matches and hardly had to break sweat to do it. `[新闻]`
+> - Every morning I would break out in a sweat before the exam. `[例]`
+> - Computer graphics take a lot of the sweat out of animation. `[例]`
+> - They extended their unbeaten run to seven matches and hardly had to break sweat to do it. `[例]`
 
 
 ---

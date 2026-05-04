@@ -131,10 +131,15 @@ re-(back) + 建议创建词根笔记 [[re/rem]](to give/给予) + -der(后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - His back injury had rendered him unfit for work. `[真题]`
-> - We are going to render them economic assistance. `[真题]`
-> - The sight of her rendered him speechless. `[COCA-ACAD]`
-> - The virus rendered the computer useless. `[COCA-ACAD]`
+> - His rudeness rendered me speechless. `[例]`
+>   - 中译：他的粗鲁让我无言以对。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/render
+> - New technology has rendered my old computer obsolete. `[例]`
+>   - 中译：新技术使我的旧电脑变得过时了。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/render
+> - She is rendering the book into English from French. `[例]`
+>   - 中译：她正在将这本书从法文翻译成英文。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/render
 
 ---
 

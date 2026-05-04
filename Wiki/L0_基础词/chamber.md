@@ -128,9 +128,15 @@ chamber 源自古法语 *chambre*，源自拉丁语 *camera*（拱顶房间、�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Meetings of the council are held in the council chamber. `[例]`
-> - There are two chambers in the British parliament - the House of Commons is the lower chamber, and the House of Lords is the upper chamber. `[例]`
-> - They agreed to maintain confidentiality by holding the hearings in chambers but having the judgments read in open court . `[例]`
+> - The members left the council chamber. `[例]`
+>   - 中译：委员们离开了议事厅。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/chamber
+> - The party has gained more seats in the Chamber of Deputies in the Italian parliament. `[例]`
+>   - 中译：该党在意大利议会众议院中获得了更多席位。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/chamber
+> - Under Senate rules, the chamber must vote on the bill by this Friday. `[例]`
+>   - 中译：根据参议院的规定，众议院必须在本周五之前对该法案进行投票。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/chamber
 
 
 ---

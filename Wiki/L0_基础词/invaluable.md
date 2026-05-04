@@ -122,8 +122,8 @@ in-(=not, 不) + valu(=价值，拉丁语 *valere* "强壮/有价值") + -able(�
 
 > [!example]- 语料
 > - The library proved to be an invaluable resource for researchers. `[真题]`
-> - Her advice was invaluable to the success of the project. `[语料库]`
-> - Such data will prove invaluable to researchers in the field. `[外刊]`
+> - Her advice was invaluable to the success of the project. `[例]`
+> - Such data will prove invaluable to researchers in the field. `[例]`
 
 
 ---

@@ -121,9 +121,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The tomb was honeycombed with passages and chambers . `[例]`
+> - The tomb was honeycombed with passages and chambers. `[例]`
 > - The tombs of the Pharaohs. `[例]`
-> - For centuries the tomb lay inviolate until, by chance , it was discovered by two miners . `[例]`
+> - For centuries the tomb lay inviolate until, by chance , it was discovered by two miners. `[例]`
 
 
 ---

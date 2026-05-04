@@ -144,9 +144,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - When the lake freezes over, we can go skating on it. `[外刊]`
+> - When the lake freezes over, we can go skating on it. `[例]`
 > - He politely skated over the issue rather than addressing it directly. `[真题]`
-> - The United States is skating on very thin ice with this policy decision. `[外刊]`
+> - The United States is skating on very thin ice with this policy decision. `[例]`
 
 
 ---

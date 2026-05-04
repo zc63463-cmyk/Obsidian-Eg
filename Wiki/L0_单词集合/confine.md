@@ -131,9 +131,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Health officials have successfully confined the epidemic to the Tabatinga area. `[真题]`
-> - He was confined to bed with a high fever for three days. `[COCA-ACAD]`
-> - The discussion was confined to economic issues during the meeting. `[例]`
+> - Let's confine our discussion to the matter in question , please! `[例]`
+>   - 中译：请让我们将讨论限制在所讨论的问题上！
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/confine
+> - Please confine your use of the phone to business calls. `[例]`
+>   - 中译：请将电话仅限于接听商务电话。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/confine
+> - By closing the infected farms we're hoping to confine the disease to the north of the region (= stop it from spreading to other areas ). `[例]`
+>   - 中译：通过关闭受感染的农场，我们希望将疾病限制在该地区的北部（=阻止其传播到其他地区）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/confine
 ---
 
 

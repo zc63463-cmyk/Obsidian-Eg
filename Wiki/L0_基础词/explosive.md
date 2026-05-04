@@ -131,8 +131,8 @@ ex-（向外）+ plos（发出巨响）+ -ive（倾向……的）→ 倾向于�
 
 > [!example]- 语料
 > - Certain gases are highly explosive. `[例]`
-> - An explosive device (= a bomb ) was found at one of the capital's busiest stations this morning . `[例]`
-> - There was an explosive clap of thunder overhead . `[例]`
+> - An explosive device (= a bomb ) was found at one of the capital's busiest stations this morning. `[例]`
+> - There was an explosive clap of thunder overhead. `[例]`
 
 ---
 

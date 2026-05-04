@@ -3,10 +3,8 @@ title: "kinship"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 社会习俗
 prototype: 亲属关系（血缘或婚姻连接）
@@ -43,7 +41,7 @@ kin(亲属/家族) + -ship(表示关系/状态的后缀)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**亲属关系**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **亲属关系**（血缘/婚姻层面）
@@ -64,7 +62,7 @@ kin(亲属/家族) + -ship(表示关系/状态的后缀)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +73,7 @@ kin(亲属/家族) + -ship(表示关系/状态的后缀)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > kin（亲属）+ ship（关系）→ kinship（亲属关系）。-ship 后缀家族：friendship 友谊，relationship 关系，leadership 领导力，kinship 亲属关系。kind（善良）和 kin（亲属）同源——对 kin（亲人）要 kind（善良）。
@@ -87,7 +85,7 @@ kin(亲属/家族) + -ship(表示关系/状态的后缀)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ kin(亲属/家族) + -ship(表示关系/状态的后缀)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[alienation]]：疏远（kinship 的反义：亲密关系↔疏远）
 > - [[estrangement]]：失和（kinship 的反义：亲缘关系↔关系破裂）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,7 +115,7 @@ kin(亲属/家族) + -ship(表示关系/状态的后缀)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **kinship ties**：亲属纽带
 > - **a sense of kinship**：亲切感，归属感
 > - **kinship group**：亲属群体
@@ -125,19 +123,12 @@ kin(亲属/家族) + -ship(表示关系/状态的后缀)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - She felt a strong sense of kinship with the local people. `[例]`
+> [!example]- 语料
 > - Kinship ties play an important role in many traditional societies. `[例]`
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
+> - Different ethnic groups have different systems of kinship. `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

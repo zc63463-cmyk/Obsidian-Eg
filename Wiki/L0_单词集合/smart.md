@@ -125,10 +125,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She was a smart student who always got top marks in her classes. `[COCA-FIC]`
-> - The smart decision was to invest in the stock market while the prices were low. `[COCA-FIC]`
-> - Smart phones have revolutionized the way people access information and communicate. `[真题]`
-> - She made a smart decision to invest in education rather than luxury goods. `[真题]`
+> - Guy looks very smart in his new suit , doesn't he? `[例]`
+>   - 中译：这家伙穿着他的新西装看起来很帅气，不是吗？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/smart
+> - She works in a very smart new office overlooking the river. `[例]`
+>   - 中译：她在一间非常漂亮的新办公室工作，俯瞰着河流。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/smart
+> - We went to a very smart party on New Year's Eve. `[例]`
+>   - 中译：除夕夜我们参加了一个非常时髦的聚会。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/smart
 
 
 ---

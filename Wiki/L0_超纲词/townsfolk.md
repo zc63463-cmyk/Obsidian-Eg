@@ -3,10 +3,8 @@ title: "townsfolk"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-25
-mastery: L0
 word_freq: 超纲词
 semantic_field: 社会习俗
 prototype: 镇民，市民（一个城镇的居民）
@@ -43,7 +41,7 @@ town（城镇）+ folk（人们）。
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**镇民**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **镇民**（群体层面）
@@ -62,7 +60,7 @@ town（城镇）+ folk（人们）。
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -72,7 +70,7 @@ town（城镇）+ folk（人们）。
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > town（城镇）+ folk（人们）= townsfolk（镇民）。想象一个小镇，the townsfolk（镇民们）每天早上在集市上见面聊天。townsfolk 带有一种亲切的乡村感——不像 citizens 那么正式。
@@ -84,7 +82,7 @@ town（城镇）+ folk（人们）。
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -97,12 +95,12 @@ town（城镇）+ folk（人们）。
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - 无精确反义词
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -114,26 +112,19 @@ town（城镇）+ folk（人们）。
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **the local townsfolk**：当地镇民
 > - **the townsfolk gathered**：镇民们聚集
 > - **friendly townsfolk**：友好的镇民
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - The audience is thrust into 1944 Hartford with townsfolk excited about how the circus is coming to town. `[例]`
 > - Just as the various townsfolk characters are clearly modeled on those that trod the musical boards back in Broadway‘s Golden Age, so too does the score owe its debts. `[例]`
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-25 | **复习次数**：0 | **当前等级**：L0
-
----
-
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

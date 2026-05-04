@@ -123,10 +123,15 @@ soci（同伴、结交）+ -o-（连接元音）+ -logy（学问、学科）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Sociology provides valuable insights into the structure and dynamics of modern society. `[COCA-ACAD]`
-> - The study of sociology helps us understand how individuals are shaped by their social environment. `[COCA-ACAD]`
-> - She majored in sociology in college and went on to become a professor. `[COCA-FIC]`
-> - In examining patterns of association, sociologists explore the interactions of people, communities, and organizations. `[COCA-ACAD]`
+> - She has a degree in sociology and politics. `[例]`
+>   - 中译：她拥有社会学和政治学学位。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/sociology
+> - The sociology professor was also a jazz zealot with a little record collection at home. `[例]`
+>   - 中译：这位社会学教授也是一位爵士乐狂热分子，家里收藏了一些唱片。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/sociology
+> - Gideon graduated from Cypress College in 2022 with degrees in sociology and social and behavioral sciences. `[例]`
+>   - 中译：Gideon 于 2022 年从赛普拉斯学院毕业，获得社会学以及社会和行为科学学位。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/sociology
 
 
 ---

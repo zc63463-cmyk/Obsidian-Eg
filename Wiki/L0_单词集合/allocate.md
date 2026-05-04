@@ -123,7 +123,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The company has allocated a significant portion of its budget to research and development.（公司已将预算的很大一部分分配给研发部门。）
+> - The government is allocating £10 million for health education. `[例]`
+>   - 中译：政府拨款 1000 万英镑用于健康教育。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/allocate
+> - The local council has decided not to allocate funds for the project. `[例]`
+>   - 中译：当地议会已决定不为该项目分配资金。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/allocate
+> - The president has agreed to allocate further funds to develop the new submarine. `[例]`
+>   - 中译：总统已同意拨出更多资金来开发新型潜艇。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/allocate
 
 ---
 

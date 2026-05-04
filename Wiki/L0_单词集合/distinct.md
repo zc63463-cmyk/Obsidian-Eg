@@ -121,10 +121,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - There is a distinct possibility that the policy will be revised in the near future. `[真题]`
-> - The two species have distinct characteristics that set them apart from each other. `[真题]`
-> - There has been a distinct improvement in the quality of education over the past decade. `[真题]`
-> - Engineering and technology are disciplines distinct from one another and from science. `[COCA-ACAD]`
+> - There's a distinct smell of cigarettes in here. `[例]`
+>   - 中译：这里有一股明显的香烟味。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/distinct
+> - There's a distinct possibility that I'll be asked to give a speech. `[例]`
+>   - 中译：我很可能会被邀请发表演讲。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/distinct
+> - The sales chart shows a distinct decline in the past few months. `[例]`
+>   - 中译：销售图表显示过去几个月明显下降。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/distinct
 ---
 
 

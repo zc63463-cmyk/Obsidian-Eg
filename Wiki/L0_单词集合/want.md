@@ -141,9 +141,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Hom said similar registration requirements could benefit struggling cities and towns , but " if we want to make a change in the housing market, the main one is we have to build a lot more. `[真题]`
-> - She wants a meeting with you. `[例]`
-> - He's everything you'd ever want in a man - bright , funny and attractive . `[例]`
+> - Do you want some more tea? `[例]`
+>   - 中译：您还想喝点茶吗？
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/want
+> - The US wants access to Chinese markets. `[例]`
+>   - 中译：美国希望进入中国市场。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/want
+> - The voters seem to want a reason to vote for him. `[例]`
+>   - 中译：选民们似乎想要一个投票给他的理由。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/want
 
 ---
 

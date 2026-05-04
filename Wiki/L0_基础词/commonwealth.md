@@ -117,9 +117,15 @@ common(共同的) + wealth(财富/福祉)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Thomas Hobbes claimed that in a state of nature , people constantly fight against each other, and that the only way to overcome this is to form a commonwealth. `[例]`
-> - The Commonwealth of Independent States (CIS)was formed following the dissolution of the Soviet Union in 1991. `[例]`
-> - The Commonwealth of Nations , usually referred to simply as the Commonwealth, is an international association of 56 member states , many of them former territories of the British Empire. `[例]`
+> - There is an annual meeting of Commonwealth heads of government. `[例]`
+>   - 中译：英联邦政府首脑每年举行一次会议。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/commonwealth
+> - The city and the Commonwealth have lost a great leader. `[例]`
+>   - 中译：这座城市和联邦失去了一位伟大的领袖。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/commonwealth
+> - Puerto Rico remains a US commonwealth, not a state. `[例]`
+>   - 中译：波多黎各仍然是美国的一个联邦，而不是一个州。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/commonwealth
 
 
 ---

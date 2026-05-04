@@ -126,8 +126,8 @@ roy-(=reg-/rex-, 国王) + -al(形容词后缀) + -ty(名词后缀，表状态/�
 
 > [!example]- 语料
 > - The writer gets a 10% royalty on each copy of his book sold. `[真题]`
-> - She receives royalties on her books twice a year from the publisher. `[真题]`
-> - Royalties from the song will go to charity to support children's education. `[真题]`
+> - She believes she's related to royalty. `[例]`
+> - Her father is descended from Greek royalty. `[例]`
 
 
 ---

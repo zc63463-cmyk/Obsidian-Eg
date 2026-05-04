@@ -144,8 +144,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Today's date is 11 June (the eleventh of June ). `[例]`
+>   - 中译：今天的日期是 6 月 11 日（六月十一日）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/date
 > - Today's date is June 11 ( June the eleventh). `[例]`
-> - What is your date of birth ? `[例]`
+>   - 中译：今天的日期是 6 月 11 日（六月十一日）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/date
+> - What is your date of birth? `[例]`
+>   - 中译：您的出生日期是哪一天？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/date
 
 ---
 

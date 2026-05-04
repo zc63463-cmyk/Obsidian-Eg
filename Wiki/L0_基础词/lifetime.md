@@ -127,7 +127,7 @@ life（生命）+ time（时间）。古英语中对应词为 lifdæg，字面�
 > [!example]- 语料
 > - We'll see a tremendous number of technological changes in our lifetime. `[例]`
 > - I never imagined that such an event would be possible during my lifetime. `[例]`
-> - Winners of the competition will get the holiday of a lifetime (= the best holiday they will ever have) . `[例]`
+> - Winners of the competition will get the holiday of a lifetime (= the best holiday they will ever have). `[例]`
 
 
 ---

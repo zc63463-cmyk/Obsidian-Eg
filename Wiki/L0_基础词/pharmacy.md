@@ -123,9 +123,9 @@ pharm-(药物，希腊语 *pharmakon*) + -acy(名词后缀，表场所/状态)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - He took antidepressants, but had his prescriptions filled at a pharmacy 20 miles away. `[语料库]`
-> - The network operates from the FIP Collaborating Centre at the School of Pharmacy, University of London. `[学术]`
-> - A typical independent pharmacy gets 92% of its income from prescriptions. `[词典]`
+> - He took antidepressants, but had his prescriptions filled at a pharmacy 20 miles away. `[例]`
+> - The network operates from the FIP Collaborating Centre at the School of Pharmacy, University of London. `[例]`
+> - A typical independent pharmacy gets 92% of its income from prescriptions. `[例]`
 
 
 ---

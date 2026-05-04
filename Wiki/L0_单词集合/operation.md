@@ -139,8 +139,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The efficient operation of the local housing market. `[真题]`
-> - There are several reactors of the type in operation (= working ) at the moment . `[例]`
-> - We expect the new system for assessing claims to come into operation (= start working ) early next year . `[例]`
+>   - 中译：当地房地产市场的高效运行。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - There are several reactors of the type in operation (= working ) at the moment. `[例]`
+>   - 中译：目前有几个该类型的反应堆正在运行（=工作中）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/operation
+> - We expect the new system for assessing claims to come into operation (= start working ) early next year. `[例]`
+>   - 中译：我们预计用于评估索赔的新系统将于明年初投入运行（=开始工作）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/operation
 
 ---
 

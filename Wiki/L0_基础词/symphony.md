@@ -121,9 +121,8 @@ review_count: 0
 
 > [!example]- 语料
 > - Beethoven's Ninth Symphony is considered one of the greatest musical works ever composed. `[真题]`
-> - When you play one of his great symphonies, you cover centuries of music in one go. `[真题]`
-> - The garden was a symphony of colors in spring. `[语料库]`
-> - He expects us to be participants in the great symphony of life. `[语料库]`
+> - The garden was a symphony of colors in spring. `[例]`
+> - He expects us to be participants in the great symphony of life. `[例]`
 
 
 ---

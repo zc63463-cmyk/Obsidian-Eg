@@ -126,8 +126,8 @@ pollute(弄脏) + -ion(名词后缀，表示动作或状态)
 
 > [!example]- 语料
 > - The manifesto includes tough measures to tackle road congestion and environmental pollution. `[例]`
-> - Pollution from the factory could be contaminating nearby wells . `[例]`
-> - It is the biggest environmental pollution incident in the history of the country . `[例]`
+> - Pollution from the factory could be contaminating nearby wells. `[例]`
+> - It is the biggest environmental pollution incident in the history of the country. `[例]`
 
 
 ---

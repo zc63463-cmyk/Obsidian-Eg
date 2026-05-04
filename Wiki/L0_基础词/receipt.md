@@ -136,9 +136,9 @@ re-（回，向后）+ ceipt（拿，=capere 的过去分词 *captus* 变体，�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Keep your receipt in case you need to return anything. ` `[真题]`
-> - Goods will be delivered on receipt of payment. ` `[真题]`
-> - We are awaiting receipt of your check. ` `[真题]`
+> - Make sure you are given a receipt for everything you buy. `[例]`
+> - More retailers are switching to email receipts instead of paper. `[例]`
+> - Here's your receipt, dear. `[例]`
 
 
 ---

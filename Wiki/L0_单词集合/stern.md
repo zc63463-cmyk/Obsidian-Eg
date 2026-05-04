@@ -129,9 +129,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Journalists received a stern warning not to go anywhere near the battleship . `[例]`
-> - The Red Ensign, the flag of the British Merchant Navy, is rarely seen these days except on the sterns of a few cruise liners and cross-Channel ferries . `[例]`
-> - A rope over the stern towed the little boat . `[例]`
+> - Her voice was stern. `[例]`
+>   - 中译：她的声音很严厉。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/stern
+> - He gave me a stern look. `[例]`
+>   - 中译：他严厉地看了我一眼。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/stern
+> - An Ada County judge let a Boise woman who stole jewelry from hospice patients off without prison time — but not without a stern warning and alternative punishment. `[例]`
+>   - 中译：艾达县一名法官释放了一名从临终关怀病人那里偷窃珠宝的博伊西妇女，无需入狱，但也附带了严厉警告和替代性惩罚。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/stern
 
 ---
 

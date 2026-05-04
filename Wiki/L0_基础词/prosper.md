@@ -123,7 +123,7 @@ pro-(向前/在前) + [[sper|sper]](希望，拉丁语 *sperare*)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Lots of microchip manufacturing companies prospered at that time . `[例]`
+> - Lots of microchip manufacturing companies prospered at that time. `[例]`
 > - As the company prospered, we prospered. `[例]`
 > - We aim to create a climate in which all small businesses can prosper. `[例]`
 

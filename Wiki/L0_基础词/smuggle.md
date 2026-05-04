@@ -128,9 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - They managed to smuggle a video of the captive journalists out of the prison . `[例]`
-> - He was caught trying to smuggle goods across the border . `[例]`
-> - He was sentenced to 65 months in prison for smuggling 14 kilograms of cocaine . `[例]`
+> - They managed to smuggle a video of the captive journalists out of the prison. `[例]`
+> - He was caught trying to smuggle goods across the border. `[例]`
+> - He was sentenced to 65 months in prison for smuggling 14 kilograms of cocaine. `[例]`
 
 
 ---

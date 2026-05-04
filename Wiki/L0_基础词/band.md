@@ -137,10 +137,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - He was a drummer in a rock band. [COCA]
-> - Neighbors banded together to help with child care and held fish fries to raise money for a fire truck. [COCA]
-> - The band played the first few bars. [COCA]
-> - He persuaded a small band of volunteers to help with the community project. `[例]`
+> - He plays drums in a band that he formed with some friends. `[例]`
+>   - 中译：他在与一些朋友组建的乐队中打鼓。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/band
+> - She's a singer with a band. `[例]`
+>   - 中译：她是一名歌手，有一支乐队。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/band
+> - There's nothing like the excitement of seeing a live band. `[例]`
+>   - 中译：没有什么比看到现场乐队表演更令人兴奋的了。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/band
 
 
 ---

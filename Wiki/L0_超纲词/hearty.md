@@ -3,10 +3,8 @@ title: "hearty"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 人本世界
 prototype: 由衷的，发自内心的（来自心脏的情感）
@@ -42,7 +40,7 @@ heart(心脏) + -y(充满……的) → 复合派生词
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**发自内心的，充满心意的**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **发自内心的**（情感层面）
@@ -65,7 +63,7 @@ heart(心脏) + -y(充满……的) → 复合派生词
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ heart(心脏) + -y(充满……的) → 复合派生词
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > heart（心）+ -y（充满……的）= hearty = 充满心意的。hearty thanks = 充满心意的感谢 = 衷心的感谢。hearty meal = 让心满足的饭菜 = 丰盛的饭菜。hearty person = 心大的人 = 健壮的人。记住：hearty 的一切含义都来自"心"。
@@ -88,7 +86,7 @@ heart(心脏) + -y(充满……的) → 复合派生词
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,14 +99,14 @@ heart(心脏) + -y(充满……的) → 复合派生词
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[insincere]]：不真诚的（衷心↔不真诚）
 > - [[meager]]：贫乏的（丰盛↔贫乏）
 > - [[feeble]]：虚弱的（健壮↔虚弱）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +118,7 @@ heart(心脏) + -y(充满……的) → 复合派生词
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **hearty thanks/approval**：衷心的感谢/赞同
 > - **hearty meal/breakfast**：丰盛的饭菜/早餐
 > - **hearty laugh**：爽朗的笑声
@@ -128,19 +126,12 @@ heart(心脏) + -y(充满……的) → 复合派生词
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - This is a lunch that will satisfy a hearty appetite (= the wish and ability to eat a lot) . `[例]`
-> - She has a hearty dislike of any sort of office work . `[例]`
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
+> [!example]- 语料
+> - This is a lunch that will satisfy a hearty appetite (= the wish and ability to eat a lot). `[例]`
+> - She has a hearty dislike of any sort of office work. `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

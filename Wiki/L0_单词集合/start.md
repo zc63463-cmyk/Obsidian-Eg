@@ -141,9 +141,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - A. talking B. starting C. breaking 11. `[真题]`
-> - We'll be starting (the session ) at six o'clock. `[例]`
-> - Can you start (= begin a new job ) on Monday ? `[例]`
+> - He's just started a new job. `[例]`
+>   - 中译：他刚刚开始一份新工作。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/start
+> - The kids start school next week. `[例]`
+>   - 中译：孩子们下周开始上学。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/start
+> - I only started (= began to read) this book yesterday. `[例]`
+>   - 中译：我昨天才开始（=开始读）这本书。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/start
 
 ---
 

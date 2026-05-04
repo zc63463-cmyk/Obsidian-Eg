@@ -135,9 +135,15 @@ bitter(苦的/痛苦的，古英语 *biter*)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She'd suffered terribly over the years but it hadn't made her bitter. `[例]`
-> - Failing the final exams was a bitter disappointment for me. `[例]`
-> - She learned through bitter experience that he was not to be trusted . `[例]`
+> - Black coffee leaves a bitter taste in the mouth. `[例]`
+>   - 中译：黑咖啡在口中留下苦涩的味道。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bitter
+> - They are locked in a bitter custody battle over their three children. `[例]`
+>   - 中译：他们为了三个孩子的监护权而陷入激烈的斗争。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bitter
+> - The candidates are locked in an increasingly bitter struggle. `[例]`
+>   - 中译：候选人陷入了日益激烈的斗争。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bitter
 
 
 ---

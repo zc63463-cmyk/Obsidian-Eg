@@ -141,10 +141,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Those of us working from home during the coronavirus pandemic soon became a lot more familiar with Zoom. `[例]`
-> - Read our guide on how to use Zoom and how to set up a Zoom meeting . `[例]`
-> - They got into the car and zoomed off. `[例]`
-> - In the last few metres of the race , she suddenly zoomed ahead . `[例]`
+> - Traffic zoomed past us. `[例]`
+>   - 中译：车流从我们身边呼啸而过。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/zoom
+> - For five weeks they zoomed around Europe. `[例]`
+>   - 中译：他们花了五个星期的时间在欧洲各地飞驰。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/zoom
+> - She spends her time zooming around the country. `[例]`
+>   - 中译：她把时间花在了全国各地。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/zoom
 
 ---
 

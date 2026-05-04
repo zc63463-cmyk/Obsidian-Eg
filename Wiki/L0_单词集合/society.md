@@ -126,10 +126,15 @@ soci（同伴、结交）+ -ety（名词后缀，表状态或组织）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - These fraudsters are preying on the poorest and the most vulnerable people in society. `[COCA-NEWS]`
-> - The prime growth engine of capitalist societies is innovation. `[COCA-ACAD]`
-> - In a rapidly changing society, traditional values are constantly being challenged. `[真题]`
-> - The role of education in shaping modern society cannot be overstated. `[真题]`
+> - There's a danger that we will end up blaming innocent children for society's problems. `[例]`
+>   - 中译：我们最终可能会将社会问题归咎于无辜的儿童。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/society
+> - She prefers her own society (= likes to be alone ). `[例]`
+>   - 中译：她更喜欢自己的社交（=喜欢独处）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/society
+> - A fair justice system is a fundamental part of a civilized society. `[例]`
+>   - 中译：公平的司法体系是文明社会的基本组成部分。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/society
 
 
 ---

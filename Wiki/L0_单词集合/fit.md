@@ -141,10 +141,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "fit for the purpose"（适合该目的）——考研阅读/翻译高频搭配
-> - "keep fit and healthy"（保持健康）——生活/健康类阅读常见表达
-> - "fit in with the local culture"（融入当地文化）——社会/文化类阅读常见搭配
-> - "fit the description of the suspect"（符合嫌疑人特征）——法律/新闻类阅读常见表达
+> - I don't think another desk will fit into this classroom. `[例]`
+>   - 中译：我认为这间教室容不下另一张桌子。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/fit
+> - My car's too big to fit in this space. `[例]`
+>   - 中译：我的车太大了，装不下这个空间。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/fit
+> - I'd love to come, if you can fit another passenger in your car. `[例]`
+>   - 中译：如果您的车里可以容纳另一位乘客，我很乐意来。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/fit
 
 ---
 

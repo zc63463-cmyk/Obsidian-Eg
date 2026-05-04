@@ -122,9 +122,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The government introduced a new scheme to compensate farmers for the damage caused by the flood. `[COCA-NEWS]`
-> - Nothing can compensate for the loss of a loved one. `[COCA-MAG]`
-> - The company compensated the employees for their overtime work. `[例]`
+> - Victims of the crash will be compensated for their injuries. `[例]`
+>   - 中译：事故受害者将获得伤害赔偿。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/compensate
+> - You'll be well compensated for the work. `[例]`
+>   - 中译：你的工作将会得到丰厚的报酬。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/compensate
+> - We just want to be fairly compensated. `[例]`
+>   - 中译：我们只是想得到公平的补偿。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/compensate
 
 ---
 

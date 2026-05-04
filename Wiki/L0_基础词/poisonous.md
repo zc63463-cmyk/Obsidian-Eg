@@ -131,9 +131,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Can you tell the difference between poisonous mushrooms and edible varieties ? `[例]`
+> - Can you tell the difference between poisonous mushrooms and edible varieties? `[例]`
 > - He said some poisonous things to me. `[例]`
-> - Carbon monoxide is a colourless , odourless , poisonous gas . `[例]`
+> - Carbon monoxide is a colourless , odourless , poisonous gas. `[例]`
 
 
 ---

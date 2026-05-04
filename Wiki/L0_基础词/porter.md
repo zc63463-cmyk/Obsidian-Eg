@@ -129,9 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - There aren't any porters, so we'll have to find a trolley for the luggage . `[例]`
-> - The porter opened the door for me and then called a taxi . `[例]`
-> - When Arthur Guinness started to brew porter in his Dublin brewery , he created an insatiable demand for his dark , tangy beer . `[例]`
+> - There aren't any porters, so we'll have to find a trolley for the luggage. `[例]`
+> - The porter opened the door for me and then called a taxi. `[例]`
+> - When Arthur Guinness started to brew porter in his Dublin brewery , he created an insatiable demand for his dark , tangy beer. `[例]`
 
 
 ---

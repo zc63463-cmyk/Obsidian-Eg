@@ -127,9 +127,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Don't tease him about his weight - it's cruel. `[例]`
-> - Children can be very cruel to each other. `[例]`
-> - His death was a cruel blow . `[例]`
+> - He was known to be a cruel dictator. `[例]`
+>   - 中译：众所周知，他是一个残酷的独裁者。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/cruel
+> - I can't stand people who are cruel to animals. `[例]`
+>   - 中译：我无法忍受那些残忍对待动物的人。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/cruel
+> - Her eyes were cruel and hard. `[例]`
+>   - 中译：她的目光残忍而冷酷。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/cruel
 
 
 ---

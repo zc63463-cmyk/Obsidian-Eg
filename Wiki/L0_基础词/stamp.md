@@ -128,9 +128,9 @@ stamp 源自古英语 *stampian*（用力踩踏），与 [[st-sta-stat|st-/sta-/
 ## 真题/语料关联
 
 > [!example]- 语料
-> - A date stamp inside the front cover of a library book shows when it should be returned . `[例]`
+> - A date stamp inside the front cover of a library book shows when it should be returned. `[例]`
 > - Although this painting clearly bears the stamp of genius , we don't know who painted it. `[例]`
-> - Each manager has left his or her own stamp on the way the company has evolved . `[例]`
+> - Each manager has left his or her own stamp on the way the company has evolved. `[例]`
 
 
 ---

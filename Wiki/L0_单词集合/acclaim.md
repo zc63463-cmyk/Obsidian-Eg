@@ -122,8 +122,15 @@ ac-(=ad-，向，加强) + claim(=clamare，呼喊，叫喊)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The novel won critical **acclaim** but was not a commercial success.（这部小说赢得了评论界的赞誉，但在商业上并不成功。）
-> - She was **acclaimed** as one of the greatest painters of the twentieth century.（她被誉为二十世纪最伟大的画家之一。）
+> - Despite the critical acclaim, the novel did not sell well. `[例]`
+>   - 中译：尽管好评如潮，这部小说的销量却并不理想。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/acclaim
+> - Her first novel was published to great acclaim in 2018. `[例]`
+>   - 中译：她的第一部小说于2018年出版，广受好评。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/acclaim
+> - Hamlet was played by Ion Caramitrou to rapturous acclaim. `[例]`
+>   - 中译：扬·卡拉米特鲁 (Ion Caramitrou) 饰演的哈姆雷特广受好评。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/acclaim
 
 ---
 

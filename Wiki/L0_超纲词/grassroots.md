@@ -3,10 +3,8 @@ title: "grassroots"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 社会习俗
 prototype: 草根层面（grass + roots）
@@ -44,7 +42,7 @@ grass(草) + roots(根) + -s(复数)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**草根层面**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **草根层面**（物理层面）
@@ -67,7 +65,7 @@ grass(草) + roots(根) + -s(复数)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ grass(草) + roots(根) + -s(复数)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > grassroots = grass（草）+ roots（根）= 草根。草的根在地下，看不见但最基础——没有根，草就活不了。社会也一样：grassroots 就是普通民众，看似不起眼，却是整个社会的根基。grassroots movement 就是从底层发起的运动——像草根一样，从下往上生长。
@@ -90,7 +88,7 @@ grass(草) + roots(根) + -s(复数)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ grass(草) + roots(根) + -s(复数)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[top-down]]：自上而下的（grassroots 的反义：基层↔顶层）
 > - [[elite]]：精英阶层（grassroots 的反义：草根↔精英）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +118,7 @@ grass(草) + roots(根) + -s(复数)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **grassroots movement**：草根运动
 > - **grassroots organization**：基层组织
 > - **grassroots support**：基层支持
@@ -128,19 +126,12 @@ grass(草) + roots(根) + -s(复数)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - The feeling among the grassroots of the Party is that the leaders are not radical enough. `[例]`
 > - The party's leaders are in danger of losing touch with its grassroots. `[例]`
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
-
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

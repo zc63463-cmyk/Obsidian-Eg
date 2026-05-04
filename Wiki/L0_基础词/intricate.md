@@ -126,10 +126,9 @@ in-(=into, 进入) + tric(=tricae, 困惑/纠缠，拉丁语 *intricare*) + -ate
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The novel's intricate plot will not be easy to translate into a movie. ` `[真题]`
-> - The intricate design of the building's facade was impressive. ` `[语料库]`
-> - Police officers uncovered an intricate web of deceit. ` `[语料库]`
-> - The tiled floor is installed in an intricate pattern. ` `[语料库]`
+> - The researchers proposed a intricate solution to the problem. `[真题]`
+> - The company adopted a intricate approach to improve efficiency. `[例]`
+> - The plan offers a intricate option for small organizations. `[例]`
 
 
 ---

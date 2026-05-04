@@ -128,8 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Poor oral hygiene can lead to gum disease and tooth loss."（不良的口腔卫生会导致牙龈疾病和牙齿脱落。）
-> - "The mechanism got gummed up with dirt."（机器被污垢弄得出毛病了。）
+> - The labels were already gummed to the envelopes. `[例]`
+> - Most teachers dont allow their students to chew gum in class. `[例]`
+> - Nearly everything the old silverback eats gets boiled , steamed or soaked so he can gum it down. `[例]`
 
 
 ---

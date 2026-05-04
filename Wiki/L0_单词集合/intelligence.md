@@ -127,9 +127,15 @@ intel-(=inter-，在…之间) + [[gen|gen]](产生) + -ence(名词后缀) → �
 ## 真题/语料关联
 
 > [!example]- 语料
-> - In his article How Intelligent Is Intelligence Testing? Sternberg notes that traditional tests best assess analytical and verbal skills but fail to measure creativity and practical knowledge. `[真题]`
-> - She impressed us with her superior intelligence. `[COCA-ACAD]`
-> - The agency was tasked with gathering intelligence on the threat. `[COCA-ACAD]`
+> - It's the intelligence of her writing that impresses me. `[例]`
+>   - 中译：她的写作智慧给我留下了深刻的印象。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/intelligence
+> - I can't believe that someone of his intelligence can read such trash! `[例]`
+>   - 中译：我简直不敢相信以他的智商能读懂这样的垃圾！
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/intelligence
+> - He believes that all children are born with equal intelligence. `[例]`
+>   - 中译：他相信所有的孩子生来就具有平等的智力。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/intelligence
 
 
 ---

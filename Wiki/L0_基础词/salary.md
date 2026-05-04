@@ -135,8 +135,8 @@ review_count: 0
 
 > [!example]- 语料
 > - The typical CEO of a top American corporation now makes about $18.9 million a year in salary and bonuses. `[真题]`
-> - The average salary is $39,000 a year. `[外刊]`
-> - She earns a high salary as a senior software engineer at the tech company. `[外刊]`
+> - The average salary is $39,000 a year. `[例]`
+> - She earns a high salary as a senior software engineer at the tech company. `[例]`
 
 
 ---

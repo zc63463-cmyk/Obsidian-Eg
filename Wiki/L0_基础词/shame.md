@@ -138,9 +138,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He said he felt no shame for what he had done." `[真题]`
-> - "It's a shame that she wasn't here to see it." `[真题]`
-> - "He would not let neighbours shame him into silence." `[真题]`
+> - He said he felt no shame for what he had done. `[真题]`
+> - It's a shame that she wasn't here to see it. `[真题]`
+> - He would not let neighbours shame him into silence. `[真题]`
 
 
 ---

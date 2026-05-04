@@ -132,9 +132,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He punched Connolly in the ear, sending him reeling." `[真题]`
-> - "The saxophone has a single reed mouthpiece like a clarinet, a conical brass body like an ophicleide, and a metal body with a flared bell." `[真题]`
-> - "My head reeled with the sheer amount of information I had to process." `[真题]`
+> - He punched Connolly in the ear, sending him reeling. `[真题]`
+> - My head reeled with the sheer amount of information I had to process. `[真题]`
+> - How do you post a reel on Instagram? `[例]`
 
 
 ---

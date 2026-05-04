@@ -131,10 +131,15 @@ in-（向内，进入）+ [[vest|vest]]（=vestire，穿衣，来自拉丁语 *v
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Transient investors, who demand high quarterly profits from companies, can hinder a firm's efforts to invest in long-term research." `[真题]`
-> - "Oliver made a fortune by investing in antique furniture." `[COCA-ACAD]`
-> - "We must really continue to invest in our universities." `[COCA-ACAD]`
-> - "The constitution had invested him with certain powers." `[COCA-ACAD]`
+> - The institute will invest five million in the project. `[例]`
+>   - 中译：该研究所将投资500万用于该项目。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/invest
+> - The rules allow you to invest a certain amount without paying tax. `[例]`
+>   - 中译：该规则允许您投资一定金额而无需缴税。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/invest
+> - He introduced new allowances to encourage small businesses to invest. `[例]`
+>   - 中译：他引入了新的补贴来鼓励小企业投资。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/invest
 
 ---
 

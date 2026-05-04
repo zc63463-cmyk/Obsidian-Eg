@@ -131,9 +131,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It gives a ray of hope to the unemployed." `[真题]`
-> - "The room was small and dark, without so much as a ray of light to brighten the gloom." `[真题]`
-> - "The one ray of sunlight in this depressing history is her meeting and falling in love with Martin." `[真题]`
+> - It gives a ray of hope to the unemployed. `[真题]`
+> - The room was small and dark, without so much as a ray of light to brighten the gloom. `[真题]`
+> - The one ray of sunlight in this depressing history is her meeting and falling in love with Martin. `[真题]`
 
 
 ---

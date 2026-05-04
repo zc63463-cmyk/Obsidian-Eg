@@ -124,10 +124,15 @@ industr(工业/勤勉) + -y(名词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The rapid development of the technology industry has transformed the way we live and work. `` `[COCA-ACAD]` ``
-> - The car industry has been hit hard by the global economic downturn. `` `[COCA]` ``
-> - The service industry has become the largest employer in many developed countries. `` `[COCA-ACAD]` ``
-> - She succeeded through sheer industry and determination. `` `[COCA]` ``
+> - A lot of workers are servicing the tourist industry , and the tourism industry is serviced by those people coming in short term, " Castle said, " and so it's a cyclical effect. `[真题]`
+>   - 中译：许多工人正在为旅游业提供服务，而旅游业又是由那些短期到来的人提供服务的，”卡斯尔说，“所以这是一种周期性效应。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - The publishing industry talks about diversity in terms of authors and staff but it also needs a plurality of ways of delivering intellectual contact, choice and different voices. `[真题]`
+>   - 中译：出版业谈论作者和员工的多样性，但它也需要多种方式来提供知识接触、选择和不同的声音。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - The publishing industry is having a hard time. `[真题]`
+>   - 中译：出版业正面临困难。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
 
 ---
 

@@ -127,9 +127,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Community involvement is now integral to company strategy. `[COCA-ACAD]`
-> - Rituals and festivals form an integral part of every human society. `[COCA-ACAD]`
-> - Practical experience is integral to the course. `[真题]`
+> - He's an integral part of the team and we can't do without him. `[例]`
+>   - 中译：他是球队不可或缺的一部分，我们不能没有他。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/integral
+> - Bars and terrace cafés are integral to the social life of the city. `[例]`
+>   - 中译：酒吧和露台咖啡馆是城市社交生活不可或缺的一部分。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/integral
+> - All rooms have a flat-screen TV with integral DVD-player. `[例]`
+>   - 中译：所有客房均配有带DVD播放机的平面电视。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/integral
 
 
 ---

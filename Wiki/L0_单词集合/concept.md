@@ -134,9 +134,15 @@ con-(一起/加强) + [[cap|cept/ceiv]](拿取、抓住) = concept（在脑中�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The concept of sustainable development has gained widespread acceptance in recent decades." `[COCA-ACAD]`
-> - "It is important to distinguish between the concept of equality and the concept of equity." `[例]`
-> - "The core concept of the theory is that all living organisms share a common ancestor." `[例]`
+> - The concept of free speech is unknown to them. `[例]`
+>   - 中译：他们不知道言论自由的概念。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/concept
+> - It is very difficult to define the concept of beauty. `[例]`
+>   - 中译：美的概念很难定义。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/concept
+> - I failed to grasp the film's central concept. `[例]`
+>   - 中译：我没能理解这部电影的中心思想。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/concept
 
 ---
 

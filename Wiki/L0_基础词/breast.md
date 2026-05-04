@@ -125,9 +125,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - When a woman becomes pregnant her breasts tend to grow larger . `[例]`
-> - She was diagnosed with breast cancer last year . `[例]`
-> - Do you think she's had breast implants ? `[例]`
+> - She had breast-augmentation surgery. `[例]`
+>   - 中译：她接受了隆胸手术。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/breast
+> - Getting breast implants entails major surgery. `[例]`
+>   - 中译：进行乳房植入物需要进行大手术。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/breast
+> - She discovered a lump in her breast. `[例]`
+>   - 中译：她发现自己的乳房有一个肿块。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/breast
 
 
 ---

@@ -128,9 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It is also not surprising that the wealthy are to be found fleeing war and persecution." `[真题]`
-> - "With their natural resources they are potentially a very wealthy country." `[真题]`
-> - "Another wide-open race can be found in Kennedy's old district, which stretches from wealthy Boston suburbs to working-class cities along the Rhode Island border." `[真题]`
+> - It is also not surprising that the wealthy are to be found fleeing war and persecution. `[真题]`
+> - With their natural resources they are potentially a very wealthy country. `[真题]`
+> - Another wide-open race can be found in Kennedy's old district, which stretches from wealthy Boston suburbs to working-class cities along the Rhode Island border. `[真题]`
 
 
 ---

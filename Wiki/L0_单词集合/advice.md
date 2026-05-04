@@ -124,8 +124,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - "The report offers practical advice on how to reduce energy consumption."（该报告就如何减少能源消耗提供了实用建议。）——考研阅读真题
-> - "She followed her doctor's advice and took a week off from work."（她听从了医生的建议，请假一周。）——考研高频表达
+> - Can I give you a piece of advice? `[例]`
+>   - 中译：我可以给你一个建议吗？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/advice
+> - I think I'll take your advice (= do what you suggest ) and get the green dress. `[例]`
+>   - 中译：我想我会接受你的建议（=照你的建议做）并穿上绿色的裙子。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/advice
+> - My advice is to go by train. `[例]`
+>   - 中译：我的建议是坐火车去。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/advice
 
 ---
 

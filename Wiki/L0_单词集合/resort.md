@@ -130,9 +130,15 @@ re-(反复/回) + sort(来源/种类，源自拉丁语 *sors*，"命运/抽签/�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Many homeless teenagers resort to stealing when their money runs out." `[COCA-ACAD]`
-> - "The men resorted to eating birds, squirrels and even their own dogs." `[COCA-ACAD]`
-> - "For thousands of data-loss victims, the last resort is a recovery service called DriveSavers." `[COCA-ACAD]`
+> - Even the busiest tourist resort can be quiet over the winter. `[例]`
+>   - 中译：即使是最繁忙的旅游胜地也能在冬天变得安静。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/resort
+> - We tried to avoid the big seaside resorts and package tours. `[例]`
+>   - 中译：我们试图避开大型海滨度假胜地和旅行团。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/resort
+> - Over a million tourists a year visit the island's beach resorts. `[例]`
+>   - 中译：每年有超过一百万游客参观岛上的海滩度假村。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/resort
 
 
 ---

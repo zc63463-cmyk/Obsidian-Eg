@@ -132,9 +132,9 @@ faith 源自拉丁语 *fides*（信任、信仰），与 [[fidel]]（忠诚的�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She has no faith in modern medicine . `[例]`
+> - She has no faith in modern medicine. `[例]`
 > - You'll cope - I have great faith in you. `[例]`
-> - After the trial , his family said they had lost all faith in the judicial system . `[例]`
+> - After the trial , his family said they had lost all faith in the judicial system. `[例]`
 
 
 ---

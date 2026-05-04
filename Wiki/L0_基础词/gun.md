@@ -127,8 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The debate over gun control continues to divide public opinion."（关于枪支管制的争论继续使公众意见分化。）
-> - "He gunned the engine and sped off down the highway."（他猛踩油门，沿着公路疾驰而去。）
+> - You could hear the noise of guns firing in the distance. `[例]`
+> - The British police do not carry guns. `[例]`
+> - At the gun, the runners sprinted away down the track. `[例]`
 
 
 ---

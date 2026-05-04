@@ -137,9 +137,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - I am inclined to agree with this view. `[COCA-ACAD]`
-> - If the media is inclined to be skeptical, the public will follow. `[COCA-NEWS]`
-> - The road inclines at an angle of about 12 degrees. `[COCA-ACAD]`
+> - The prime minister is believed to be inclining towards an April election. `[例]`
+>   - 中译：据信总理倾向于四月份举行选举。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/incline
+> - The ground inclined steeply towards the ridge in the distance. `[例]`
+>   - 中译：地面向远处的山脊陡峭地倾斜。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/incline
+> - He inclined his head and said nothing. `[例]`
+>   - 中译：他点点头，什么也没说。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/incline
 
 ---
 

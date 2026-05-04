@@ -126,9 +126,15 @@ turb-(搅动、混乱) + -ul(连接后缀) + -ent(形容词后缀，表示"…�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - This has been a turbulent week for the administration . `[例]`
-> - The ocean was too turbulent for us to be able to take the boat out. `[例]`
-> - His book discusses the turbulent years of the civil rights struggle . `[例]`
+> - The aircraft is designed to withstand turbulent conditions. `[例]`
+>   - 中译：该飞机的设计能够承受湍流条件。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/turbulent
+> - They jumped off the cliff into the turbulent waters below. `[例]`
+>   - 中译：他们从悬崖上跳入下面汹涌的海水中。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/turbulent
+> - Turbulent waters caused the boat to capsize. `[例]`
+>   - 中译：汹涌的海水导致船倾覆。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/turbulent
 
 ---
 

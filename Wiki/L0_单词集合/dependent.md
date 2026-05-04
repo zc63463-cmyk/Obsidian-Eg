@@ -127,9 +127,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - He has three dependent children . `[例]`
-> - It's very easy to become dependent on sleeping pills . `[例]`
-> - Whether I get into college or not is dependent on how good my grades are. `[例]`
+> - He has three dependent children. `[例]`
+>   - 中译：他有三个受抚养的孩子。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/dependent
+> - It's very easy to become dependent on sleeping pills. `[例]`
+>   - 中译：很容易对安眠药产生依赖性。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/dependent
+> - Most people are able to use this medication without ever becoming dependent. `[例]`
+>   - 中译：大多数人都可以使用这种药物而不会产生依赖性。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/dependent
 
 ---
 

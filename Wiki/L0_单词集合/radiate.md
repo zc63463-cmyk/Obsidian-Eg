@@ -135,10 +135,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The sun radiates heat and light." `[COCA-ACAD]`
-> - "He simply radiates integrity." `[COCA-NEWS]`
-> - "The pain was radiating down my arm." `[COCA-ACAD]`
-> - "Once established, canons exert cultural power by influencing memory and heritage and by radiating out on to the work of musicians." `[COCA-ACAD]`
+> - The planet Jupiter radiates twice as much heat from inside as it receives from the Sun. `[例]`
+>   - 中译：木星从内部辐射出的热量是从太阳接收到的热量的两倍。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/radiate
+> - A single beam of light radiated from the lighthouse. `[例]`
+>   - 中译：一道光柱从灯塔中射出。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/radiate
+> - He was radiating joy and happiness. `[例]`
+>   - 中译：他浑身散发着喜悦和幸福。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/radiate
 
 ---
 

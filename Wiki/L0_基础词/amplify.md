@@ -126,9 +126,15 @@ ampl-(=ample, 大的，充足的) + -ify(使动后缀，使……化) → 使变
 ## 真题/语料关联
 
 > [!example]- 语料
-> - A funeral can amplify the feelings of regret and loss for the relatives . `[例]`
 > - She refused to amplify further. `[例]`
+>   - 中译：她拒绝进一步扩大。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/amplify
 > - You may need to amplify this point. `[例]`
+>   - 中译：您可能需要放大这一点。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/amplify
+> - The sites are amplified by online bots. `[例]`
+>   - 中译：这些网站被在线机器人放大。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/amplify
 
 
 ---

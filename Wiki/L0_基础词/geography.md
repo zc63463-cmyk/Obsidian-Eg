@@ -130,9 +130,9 @@ geo-(=ge, 地球/土地) + [[graph-gram|graph]](写/记录) + -y(名词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - But, the force of geographic conditions peculiar to America, the interplay of the varied national groups upon one another, and the sheer difficulty of maintaining old-world ways in a raw, new continent caused significant changes. `[真题]`
 > - The American continent's geography severely limited the lines of attack. `[真题]`
 > - History and geography have conspired to bring the country to a moment of decision. `[真题]`
+> - My favourite subjects at school were history and geography. `[例]`
 
 
 ---

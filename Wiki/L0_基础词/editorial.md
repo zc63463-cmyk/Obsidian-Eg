@@ -132,9 +132,9 @@ editor（编辑）+ -ial（形容词后缀，表示"……的"）。editor 源�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The paper published an editorial strongly criticizing the mayor's actions. `[语料库]`
-> - The Athletic maintains full editorial independence. `[语料库]`
-> - The magazine's editorial team decided to run an editorial on the importance of climate change. `[语料库]`
+> - The paper published an editorial strongly criticizing the mayor's actions. `[例]`
+> - The Athletic maintains full editorial independence. `[例]`
+> - The magazine's editorial team decided to run an editorial on the importance of climate change. `[例]`
 
 
 ---

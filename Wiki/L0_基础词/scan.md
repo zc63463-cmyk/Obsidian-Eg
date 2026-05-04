@@ -127,9 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Rather than reading every word, experienced readers learn to scan a text quickly to locate the information they need." `[COCA-ACAD]`
-> - "The doctor ordered a brain scan to rule out any serious neurological conditions." `[COCA-NEWS]`
-> - "She scanned the crowd for a familiar face but couldn't find anyone she knew." `[例]`
+> - Rather than reading every word, experienced readers learn to scan a text quickly to locate the information they need. `[COCA-ACAD]`
+> - The doctor ordered a brain scan to rule out any serious neurological conditions. `[COCA-NEWS]`
+> - She scanned the crowd for a familiar face but couldn't find anyone she knew. `[例]`
 
 
 ---

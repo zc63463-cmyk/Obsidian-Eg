@@ -123,8 +123,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She greeted us with a warm smile at the door."（她在门口用温暖的微笑迎接我们）
-> - "As we reached the top of the hill, we were greeted by a breathtaking view."（当我们到达山顶时，令人叹为观止的景色映入眼帘）
+> - He greeted me at the door. `[例]`
+> - The teacher greeted each child with a friendly "Hello! `[例]`
+> - As we walked into the house , we were greeted by a wonderful smell of baking. `[例]`
 
 
 ---

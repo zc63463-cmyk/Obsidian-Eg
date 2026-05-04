@@ -135,9 +135,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "academic freedom is essential to the progress of knowledge."（学术自由对知识进步至关重要。）——教育类阅读
-> - "academic performance"（学业表现）——教育、社会类阅读高频搭配
-> - "an academic discussion with no practical implications"（没有实际意义的纯理论讨论）——批评类语境
+> - There was a lot of focus on academic achievement at my school. `[例]`
+>   - 中译：我的学校非常注重学业成绩。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/academic
+> - He wrote three academic books presenting his findings. `[例]`
+>   - 中译：他写了三本学术著作来介绍他的发现。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/academic
+> - When I started my academic career , the models that we used were extremely crude. `[例]`
+>   - 中译：当我开始我的学术生涯时，我们使用的模型非常粗糙。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/academic
 
 ---
 

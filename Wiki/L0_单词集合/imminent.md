@@ -124,9 +124,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - It emphasised that there was absolutely no information or intelligence suggesting an imminent threat. `[COCA-NEWS]`
-> - Where failure seemed imminent, the typical response was a defensive resort to criticism. `[COCA-ACAD]`
-> - Scientists warned that an earthquake was imminent. `[真题]`
+> - A strike is imminent. `[例]`
+>   - 中译：罢工迫在眉睫。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/imminent
+> - For a man in imminent danger of losing his job , he appeared quite unruffled. `[例]`
+>   - 中译：对于一个即将面临失业危险的人来说，他显得相当镇定。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/imminent
+> - Her remarks were intended to scotch rumours of an imminent election date. `[例]`
+>   - 中译：她的言论旨在平息选举日期即将到来的谣言。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/imminent
 
 ---
 

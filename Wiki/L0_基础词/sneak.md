@@ -138,9 +138,9 @@ sneak 源自古英语 *snīcan*（爬行、悄悄移动），与古诺斯语 *sn
 ## 真题/语料关联
 
 > [!example]- 语料
-> - I managed to sneak in through the back door while she wasn't looking . `[例]`
+> - I managed to sneak in through the back door while she wasn't looking. `[例]`
 > - Jan doesn't have a ticket but I thought we might sneak her in. `[例]`
-> - I thought I'd sneak up on him (= move close to him without him seeing ) and give him a surprise . `[例]`
+> - I thought I'd sneak up on him (= move close to him without him seeing ) and give him a surprise. `[例]`
 
 
 ---

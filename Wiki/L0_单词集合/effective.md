@@ -134,10 +134,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The government took effective measures to combat air pollution. `[COCA-ACAD]`
-> - Effective communication skills are essential in the workplace. `[COCA-ACAD]`
-> - The new software proved highly effective in reducing errors. `[COCA-ACAD]`
-> - The teacher's use of multimedia presentations was an effective way to engage students. `[COCA-ACAD]`
+> - As an effective Washington operator, Hayden sensed that he could capitalize on the expedition's stunning visuals. `[真题]`
+>   - 中译：作为一名高效的华盛顿操作员，海登意识到他可以利用这次探险的令人惊叹的视觉效果。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - The lighting for the production made a very effective use of shadow. `[例]`
+>   - 中译：制作中的灯光非常有效地利用了阴影。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/effective
+> - She's a very effective teacher. `[例]`
+>   - 中译：她是一位非常高效的老师。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/effective
 
 ---
 

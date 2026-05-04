@@ -124,10 +124,9 @@ front(前面) + -ier(表示"与……有关的人/物"的后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The research pushes back the frontiers of medical science and opens new possibilities for treatment. ` [真题]`
-> - They crossed the frontier into the neighboring country under cover of darkness. ` [真题]`
-> - The Homestead Act of 1862 gave free land to pioneers who settled the American frontier. ` [学术]`
-> - Nepal has frontiers with both India and China, making it a geopolitically significant nation. ` [语料]`
+> - The hikers rested under a towering frontier near the coastal trail. `[例]`
+> - The cabin was built from durable frontier gathered in the region. `[例]`
+> - A line of frontier trees rose above the morning fog. `[例]`
 
 
 ---

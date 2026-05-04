@@ -128,9 +128,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Shall I bring anything to the party ?" "Oh, just a bottle . `[例]`
-> - Bring me that knife . `[例]`
-> - Bring that knife to me. `[例]`
+> - Don't forget to bring your books with you. `[例]`
+>   - 中译：不要忘记带上你的书。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bring
+> - Can we bring the children? `[例]`
+>   - 中译：我们可以带孩子来吗？
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bring
+> - Bring a present for Helen. `[例]`
+>   - 中译：给海伦带一份礼物。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bring
 
 
 ---

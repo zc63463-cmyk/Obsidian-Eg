@@ -127,8 +127,8 @@ tu-/tut-(看护，拉丁语 *tueri*，to watch over) + -or(名词后缀，表"�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - His parents got him a tutor to help with his maths . `[例]`
-> - His tutor encouraged him to use flashcards to help him study new vocabulary . `[例]`
+> - His parents got him a tutor to help with his maths. `[例]`
+> - His tutor encouraged him to use flashcards to help him study new vocabulary. `[例]`
 > - During my illness I was taught by a series of home tutors. `[例]`
 
 

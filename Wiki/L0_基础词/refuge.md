@@ -126,9 +126,9 @@ re-(回，向后) + fug(逃，来自拉丁语 *fugere*) + -e(名词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "They were forced to seek refuge from the fighting." `[真题]`
-> - "Hundreds of thousands of people from the north have sought refuge in the south." `[真题]`
-> - "Some had to abandon their vehicles and flee on foot or even seek refuge in the ocean." `[真题]`
+> - They were forced to seek refuge from the fighting. `[真题]`
+> - Hundreds of thousands of people from the north have sought refuge in the south. `[真题]`
+> - Some had to abandon their vehicles and flee on foot or even seek refuge in the ocean. `[真题]`
 
 
 ---

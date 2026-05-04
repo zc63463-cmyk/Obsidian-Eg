@@ -124,9 +124,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The best films are those which transcend national or cultural barriers . `[例]`
-> - The underlying message of the film is that love transcends everything else . `[例]`
-> - The group makes music that transcends traditional pop categories . `[例]`
+> - The best films are those which transcend national or cultural barriers. `[例]`
+> - The underlying message of the film is that love transcends everything else. `[例]`
+> - The group makes music that transcends traditional pop categories. `[例]`
 
 
 ---

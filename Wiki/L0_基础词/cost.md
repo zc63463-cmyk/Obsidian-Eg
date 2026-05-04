@@ -127,10 +127,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The rising cost of healthcare has become a major concern. `[真题]`
-> - Pensions have not kept pace with the cost of living and the problem is likely to get worse. `[语料库]`
-> - He achieved success, but at the cost of his health. `[真题]`
-> - The increase in interest rates will raise the cost of living. `[语料库]`
+> - You could buy a used car at a fraction of the cost of a new one. `[例]`
+>   - 中译：您可以以新车成本的一小部分购买二手车。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/cost
+> - We did not even make enough money to cover the cost of the food. `[例]`
+>   - 中译：我们甚至没有赚到足够的钱来支付食物的费用。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/cost
+> - Consumers will have to bear the full cost of these pay increases. `[例]`
+>   - 中译：消费者将必须承担这些加薪的全部成本。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/cost
 
 
 ---

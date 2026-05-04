@@ -126,10 +126,15 @@ re-(再次) + [[fresh|fresh]](新鲜的) → 使重新变得新鲜 → 恢复精
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Workers tend to be diligent for the first few days of the week in any case, before hitting a plateau and then slackening off. `[真题]`
-> - Taking a short break can refresh your mind and improve productivity. `[真题]`
-> - He walked on the opposite side of the street to refresh his memory of the building. `[COCA-ACAD]`
-> - We come back refreshed, re-energized, and with renewed enthusiasm for our work. `[COCA-ACAD]`
+> - It was such a hot night that I had a cold shower to refresh my self. `[例]`
+>   - 中译：晚上太热了，我洗了个冷水澡来提提神。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/refresh
+> - Here are some tips for a complete living-room refresh. `[例]`
+>   - 中译：以下是让客厅焕然一新的一些技巧。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/refresh
+> - A refresh of the exisisting phone will be unveiled next month. `[例]`
+>   - 中译：现有手机的更新版将于下个月推出。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/refresh
 
 ---
 

@@ -126,9 +126,15 @@ stren(u)（力量，[[strength]] 的词根形式）+ -ous（形容词后缀，�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - He rarely does anything more strenuous than changing the channels on the television . `[例]`
-> - His doctor advised him not to do any strenuous exercise . `[例]`
-> - Strenuous efforts were made throughout the war to disguise the scale of civilian casualties . `[例]`
+> - Avoid strenuous exercise immediately after a meal. `[例]`
+>   - 中译：避免饭后立即进行剧烈运动。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/strenuous
+> - How about a stroll in the park? Nothing too strenuous. `[例]`
+>   - 中译：去公园散步怎么样？没什么太费劲的。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/strenuous
+> - Avoid tasks which require strenuous physical activity. `[例]`
+>   - 中译：避免需要剧烈体力活动的任务。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/strenuous
 ---
 
 

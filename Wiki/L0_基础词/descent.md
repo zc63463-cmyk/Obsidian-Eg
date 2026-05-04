@@ -126,9 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - There are more than a hundred million people of African descent in Latin America . `[例]`
+> - There are more than a hundred million people of African descent in Latin America. `[例]`
 > - The disease is most common among people of northern European descent. `[例]`
-> - The evidence supports our descent from a common ancestor . `[例]`
+> - The evidence supports our descent from a common ancestor. `[例]`
 
 
 ---

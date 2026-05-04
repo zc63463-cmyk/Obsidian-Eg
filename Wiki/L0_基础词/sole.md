@@ -137,9 +137,9 @@ sole 有两个不同的词源：
 ## 真题/语料关联
 
 > [!example]- 语料
-> - My sole objective is to make the information more widely available . `[例]`
-> - The sole survivor of the accident was found in the water after six hours . `[例]`
-> - She has sole responsibility for the project . `[例]`
+> - My sole objective is to make the information more widely available. `[例]`
+> - The sole survivor of the accident was found in the water after six hours. `[例]`
+> - She has sole responsibility for the project. `[例]`
 
 
 ---

@@ -127,8 +127,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "We cannot predict the outcome with any degree of certainty."（我们无法以任何程度的确定性来预测结果）——考研阅读常见表达，讨论预测和不确定性
-> - "One thing is for certain: the situation will not improve on its own."（有一件事是确定的：情况不会自行改善）——for certain 的典型用法
+> - There are few absolute certainties in life. `[例]`
+>   - 中译：生活中几乎没有绝对的确定性。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/certainty
+> - Somehow she knew , with deep-down certainty, that her son was still alive. `[例]`
+>   - 中译：不知何故，她内心深处确信，她的儿子还活着。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/certainty
+> - Can you state with certainty that this is the same man you saw on that day? `[例]`
+>   - 中译：你能肯定地说这就是你那天看到的那个人吗？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/certainty
 
 ---
 

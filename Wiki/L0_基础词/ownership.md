@@ -124,9 +124,9 @@ own（拥有）+ -er(人) + -ship(名词后缀，"……的状态/关系")
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The company is under private ownership." `[真题]`
-> - "The group took 51% ownership of the financial services unit." `[真题]`
-> - "We need someone to take ownership of the issue." `[真题]`
+> - The company is under private ownership. `[真题]`
+> - The group took 51% ownership of the financial services unit. `[真题]`
+> - Rates of home ownership have remained relatively constant. `[例]`
 
 
 ---

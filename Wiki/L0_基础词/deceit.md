@@ -128,8 +128,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The story is about theft , fraud , and deceit on an incredible scale . `[例]`
-> - When the newspapers published the full story , all his earlier deceits were revealed . `[例]`
+> - The story is about theft , fraud , and deceit on an incredible scale. `[例]`
+> - When the newspapers published the full story , all his earlier deceits were revealed. `[例]`
 > - All we hear from them are lies and deceit. `[例]`
 
 

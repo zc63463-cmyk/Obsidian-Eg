@@ -134,9 +134,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Water was leaking from the pipe . `[例]`
-> - Oil leaked out of the car . `[例]`
-> - The car leaked oil all over the drive . `[例]`
+> - Water was leaking from the pipe. `[例]`
+> - Oil leaked out of the car. `[例]`
+> - The car leaked oil all over the drive. `[例]`
 
 
 ---

@@ -128,9 +128,15 @@ any(任何) + where(地方)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - I was wondering if there was anywhere I could go to get this repaired . `[例]`
-> - There are quite a few words that they use in that part of the country that you don't hear anywhere else . `[例]`
-> - They live in some tiny little village miles from anywhere (= a very long way from any towns ) . `[例]`
+> - I can't see it anywhere. `[例]`
+>   - 中译：我在任何地方都看不到它。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/anywhere
+> - Did you go anywhere interesting? `[例]`
+>   - 中译：有没有去什么有趣的地方？
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/anywhere
+> - Many of these animals are not found anywhere else. `[例]`
+>   - 中译：其中许多动物在其他地方都找不到。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/anywhere
 
 
 ---

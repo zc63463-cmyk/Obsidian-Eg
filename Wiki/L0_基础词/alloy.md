@@ -131,9 +131,15 @@ al-(=ad-, to，向) + loy（=lig，绑，拉丁语 *ligare*）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Brass is an alloy of copper and zinc . `[例]`
-> - Pure gold is too soft for ordinary use and is typically hardened by alloying it with copper or other base metals . `[例]`
-> - They alloyed tin with copper to make bronze . `[例]`
+> - Brass is an alloy of copper and zinc. `[例]`
+>   - 中译：黄铜是铜和锌的合金。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/alloy
+> - Rounding things out is a set of 23-inch alloy wheels finished in Platinum Silver and secured by the automaker’s new center caps. `[例]`
+>   - 中译：更完美的是一套 23 英寸合金轮毂，采用铂银材质，并由汽车制造商的新中心盖固定。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/alloy
+> - The design also features guide tubes made of Q12 alloy to resist fuel assembly bowing and lateral deformation. `[例]`
+>   - 中译：该设计还采用 Q12 合金制成的导管，以抵抗燃料组件弯曲和横向变形。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/alloy
 
 
 ---

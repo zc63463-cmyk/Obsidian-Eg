@@ -131,10 +131,10 @@ re-(=again，再，前缀 [[re-]]) + cre(=create，创造，拉丁语 *creare*) 
 ## 真题/语料关联
 
 > [!example]- 语料
-> - This park provides ample space and modern facilities for public recreation, including tennis courts and a children's playground. `[通用语料]`
-> - These areas are set aside for outdoor recreation and are open to hunting, fishing, hiking, and camping throughout the year. `[通用语料]`
-> - The afternoons at the conference were left free for recreation, allowing delegates to explore the host city at their leisure. `[朗文词典]`
-> - Increasingly, the use of land for recreation has become a significant feature of urban planning in major cities. `[朗文词典]`
+> - This park provides ample space and modern facilities for public recreation, including tennis courts and a children's playground. `[例]`
+> - These areas are set aside for outdoor recreation and are open to hunting, fishing, hiking, and camping throughout the year. `[例]`
+> - The afternoons at the conference were left free for recreation, allowing delegates to explore the host city at their leisure. `[例]`
+> - Increasingly, the use of land for recreation has become a significant feature of urban planning in major cities. `[例]`
 
 
 ---

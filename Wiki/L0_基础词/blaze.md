@@ -138,9 +138,15 @@ blaze 源自古英语 *blæse*（火炬，火把，明亮的火焰），源自�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The sun was blazing down that afternoon . `[例]`
-> - Isaac's eyes suddenly blazed with anger . `[例]`
-> - The ship's guns blazed at the British as they tried to run for shore . `[例]`
+> - A huge fire was blazing in the fireplace. `[例]`
+>   - 中译：壁炉里熊熊燃烧着大火。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/blaze
+> - Within minutes the whole building was blazing. `[例]`
+>   - 中译：几分钟之内，整栋大楼就着火了。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/blaze
+> - He rushed back into the blazing house. `[例]`
+>   - 中译：他冲回了着火的房子。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/blaze
 
 
 ---

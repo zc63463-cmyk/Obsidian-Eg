@@ -119,9 +119,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - He underwent surgery to remove a brain tumor and made a full recovery. `[真题]`
 > - The patient was taken directly to surgery after arriving at the hospital. `[真题]`
-> - She underwent an operation on a tumour in her left lung last year. `[真题]`
+> - The procedure is a major surgery, and it will take you several weeks to recover from it. `[例]`
+> - With something as delicate as brain surgery, there is little margin for error. `[例]`
 
 
 ---

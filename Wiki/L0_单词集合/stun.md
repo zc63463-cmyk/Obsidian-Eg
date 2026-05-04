@@ -127,9 +127,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - As an effective Washington operator, Hayden sensed that he could capitalize on the expedition's stunning visuals. `[真题]`
-> - While veterans of previous expeditions wrote at length about stunning trail sights, these vivid photographs were another thing entirely. `[真题]`
-> - News of the disaster stunned people throughout the world . `[例]`
+> - The fall stunned me for a moment. `[例]`
+>   - 中译：坠落的瞬间让我惊呆了。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/stun
+> - The animals are stunned before slaughter. `[例]`
+>   - 中译：动物在屠宰前被击晕。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/stun
+> - Her words stunned me—I had no idea she felt that way. `[例]`
+>   - 中译：她的话让我震惊——我不知道她有这种感觉。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/stun
 
 ---
 

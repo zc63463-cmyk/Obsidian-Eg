@@ -3,10 +3,8 @@ title: "revision"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-25
-mastery: L0
 word_freq: 超纲词
 semantic_field: 理性世界
 prototype: 再次看（重新审视→修改）
@@ -43,7 +41,7 @@ re-(再次，重新) + [[vis-vid|vis]](看，拉丁语 *videre* 的过去分词 
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**再次看（重新审视）**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **再次看**（认知层面）
@@ -66,7 +64,7 @@ re-(再次，重新) + [[vis-vid|vis]](看，拉丁语 *videre* 的过去分词 
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ re-(再次，重新) + [[vis-vid|vis]](看，拉丁语 *videre* 的过去分词 
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > re（再次）+ vis（看）→ 再次看。你写完一篇文章，编辑让你"再看一遍"改一改——这就是 revision（修订）。考试前你把课本"再看一遍"——这也是 revision（复习，英式英语）。vision 是"看"的能力，revision 是"再次看"的行为。
@@ -88,7 +86,7 @@ re-(再次，重新) + [[vis-vid|vis]](看，拉丁语 *videre* 的过去分词 
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ re-(再次，重新) + [[vis-vid|vis]](看，拉丁语 *videre* 的过去分词 
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[original]]：原始的，初稿（revision 的反义：修订版↔原始版本）
 > - [[draft]]：草稿（revision 的反义：修改后的成品↔未修改的草稿）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +118,7 @@ re-(再次，重新) + [[vis-vid|vis]](看，拉丁语 *videre* 的过去分词 
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **make revisions**：进行修订
 > - **a revised edition**：修订版
 > - **exam revision**：考试复习
@@ -130,19 +128,12 @@ re-(再次，重新) + [[vis-vid|vis]](看，拉丁语 *videre* 的过去分词 
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - According to Branch, state-level science standards in the US __ _ A. call for regular revision B. require urgent application C. have limited influence D. cater to local needs 25. `[真题]`
+> [!example]- 语料
 > - These proposals will need a lot of revision. `[例]`
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-25 | **复习次数**：0 | **当前等级**：L0
-
----
+> - He was forced to make several revisions to his speech. `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

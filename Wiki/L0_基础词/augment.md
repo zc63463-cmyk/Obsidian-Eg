@@ -125,9 +125,15 @@ aug-(增加，拉丁语 *augere*) + -ment(名词后缀，表示结果/手段)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The region needs to augment its water supply. `[COCA-ACAD]`
-> - He continued augmenting his art collection with enthusiasm. `[COCA-ACAD]`
-> - While searching for a way to augment the family income, she began making dolls. `[COCA-NEWS]`
+> - He wrote magazine articles in order to augment his income. `[例]`
+>   - 中译：他在杂志上发表文章以增加收入。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/augment
+> - The band had been augmented by two extra trombonists. `[例]`
+>   - 中译：乐队又增加了两名长号手。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/augment
+> - These reserve units will soon be augmented by full-time Maritime Safety and Security Teams. The first of these teams was formed on July 3; a dozen more are supposed to be created within the next three years. `[例]`
+>   - 中译：这些后备部队很快将得到全职海事安全和保安小组的扩充。第一个团队于 7 月 3 日组建；未来三年内预计还会创建十几个。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/augment
 
 
 ---

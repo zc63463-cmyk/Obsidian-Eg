@@ -122,9 +122,15 @@ vol-(意志、意愿) + -unt(连接成分) + -ary(形容词后缀，表示"…�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She does voluntary work for the Red Cross two days a week . `[例]`
 > - Attendance on the course is purely voluntary. `[例]`
-> - She travelled alone at the age of 18 as a voluntary worker in India . `[例]`
+>   - 中译：参加课程纯属自愿。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/voluntary
+> - I do some voluntary work at the local hospital. `[例]`
+>   - 中译：我在当地医院做一些志愿工作。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/voluntary
+> - She works there on a voluntary basis. `[例]`
+>   - 中译：她是自愿在那里工作的。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/voluntary
 
 ---
 

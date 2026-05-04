@@ -135,8 +135,15 @@ anch(弯曲、钩) + -or(名词后缀，表示"物")
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The news anchor reported on the latest developments in the international crisis."（新闻主播报道了国际危机的最新进展。）——考研高频表达
-> - "Family values serve as an anchor that helps individuals navigate through difficult times."（家庭价值观是帮助个人度过困难时期的锚。）——考研高频表达
+> - The missing boat was last seen at anchor off the North Wales coast. `[例]`
+>   - 中译：这艘失踪的船最后一次被发现是停泊在北威尔士海岸附近。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/anchor
+> - We dropped anchor (= lowered the anchor into the water ) and stopped. `[例]`
+>   - 中译：我们抛锚（=将锚放入水中）并停了下来。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/anchor
+> - It was time to weigh anchor (= pull up the anchor and sail away). `[例]`
+>   - 中译：是时候起锚了（=拉起锚扬帆起航）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/anchor
 
 ---
 

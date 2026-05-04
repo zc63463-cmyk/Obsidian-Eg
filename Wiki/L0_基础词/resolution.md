@@ -133,9 +133,9 @@ re-(前缀：再/回) + solut(松开/解开) + -ion(名词后缀：表示动作�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - I made a resolution to give up chocolate. `[真题]`
 > - The resolution was passed by a two-thirds majority. `[真题]`
 > - The government is pressing for an early resolution of the dispute. `[真题]`
+> - The United Nations passed (= voted to support ) a resolution to increase aid to developing nations. `[例]`
 
 
 ---

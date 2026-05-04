@@ -136,9 +136,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "John has to shave twice a day." `[真题]`
-> - "He really should shave himself every other day at least and put on something clean." `[真题]`
-> - "It was a close shave — we nearly hit that truck." `[真题]`
+> - John has to shave twice a day. `[真题]`
+> - He really should shave himself every other day at least and put on something clean. `[真题]`
+> - It was a close shave — we nearly hit that truck. `[真题]`
 
 
 ---

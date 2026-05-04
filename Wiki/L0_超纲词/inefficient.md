@@ -3,10 +3,8 @@ title: "inefficient"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 抽象关系
 prototype: 效率低下的（浪费时间或资源）
@@ -43,7 +41,7 @@ in-(不，否定) + [[ef-|ex-]](出) + [[fac|fac-]](做) + -ient(…的)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**效率低下的**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **效率低下的**（过程层面）
@@ -64,7 +62,7 @@ in-(不，否定) + [[ef-|ex-]](出) + [[fac|fac-]](做) + -ient(…的)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ in-(不，否定) + [[ef-|ex-]](出) + [[fac|fac-]](做) + -ient(…的)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > in（不）+ efficient（高效的）→ 效率低的。effective 是"有没有效果"，efficient 是"做得快不快"。inefficient 就是"做得慢又浪费"——就像用勺子挖一个大坑，不如用挖掘机。
@@ -86,7 +84,7 @@ in-(不，否定) + [[ef-|ex-]](出) + [[fac|fac-]](做) + -ient(…的)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -98,13 +96,13 @@ in-(不，否定) + [[ef-|ex-]](出) + [[fac|fac-]](做) + -ient(…的)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[efficient]]：高效的（inefficient 的精确反义）
 > - [[productive]]：高产的（效率低↔高产出）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,27 +115,23 @@ in-(不，否定) + [[ef-|ex-]](出) + [[fac|fac-]](做) + -ient(…的)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **inefficient system**：低效的系统
 > - **inefficient use of resources**：资源的低效利用
 > - **highly inefficient**：极其低效的
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - The current healthcare system is inefficient and costly. `[例]`
-> - Inefficient management led to the company's decline. `[例]`
-> - The old heating system was highly inefficient, consuming far more energy than necessary. `[例]`
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
+> [!example]- 语料
+> - An inefficient heating system wastes energy. `[例]`
+>   - 中译：低效的供暖系统会浪费能源。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/inefficient
+> - The system is inherently inefficient. `[例]`
+>   - 中译：这个系统本身就是低效的。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/inefficient
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

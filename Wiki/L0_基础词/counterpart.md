@@ -119,10 +119,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The president will meet with his Brazilian counterpart tomorrow. `[语料库]`
-> - The prime minister is to meet his European counterparts to discuss the war against drugs. `[真题]`
-> - The minister held talks with his French counterpart. `[语料库]`
-> - Potatoes first arrived on these shores in the 1620s as a gift from the governor of the Bahamas to his counterpart in the colony of Virginia. `[语料库]`
+> - The Foreign Minister held talks with his Chinese counterpart. `[例]`
+>   - 中译：外交部长与中国外长举行了会谈。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/counterpart
+> - The women's shoe, like its male counterpart, is specifically designed for the serious tennis player. `[例]`
+>   - 中译：与男鞋一样，女鞋是专为严肃的网球运动员设计的。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/counterpart
+> - The secretary of defense met with his counterparts in Asia to discuss the nuclear crisis. `[例]`
+>   - 中译：国防部长与亚洲同行会面讨论核危机。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/counterpart
 
 
 ---

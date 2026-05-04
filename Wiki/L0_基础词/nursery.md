@@ -126,9 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Does Jake go to a nursery or a childminder ? `[例]`
-> - She had come off the boat fresh from Ireland and became a nursery maid in the household of one of America's most famous families . `[例]`
-> - Do you think the state should provide free nursery education ? `[例]`
+> - Does Jake go to a nursery or a childminder? `[例]`
+> - She had come off the boat fresh from Ireland and became a nursery maid in the household of one of America's most famous families. `[例]`
+> - Do you think the state should provide free nursery education? `[例]`
 
 
 ---

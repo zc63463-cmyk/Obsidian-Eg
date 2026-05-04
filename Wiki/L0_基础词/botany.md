@@ -120,9 +120,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Here I can saunter in a green-house among plants and heaths, studying botany and beauty. `[例]`
-> - His leisure time was given up to natural history, and especially to mineralogy and botany. `[例]`
-> - I spoke just now of the time when England was joined to France, as bearing on Hampshire botany. `[例]`
+> - Julia Omelchenko is a resident botany expert at Plantum, the app that helps identify plants and improve plant care. `[例]`
+>   - 中译：Julia Omelchenko 是 Plantum 的常驻植物学专家，该应用程序可帮助识别植物并改善植物护理。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/botany
+> - Apart from achieving popular success by bringing botany to the people, Lamarck’s major purpose in French Flora was to exploit what seemed to be a little opening in the field of botany in the form of a rift among botanists regarding nomenclature. `[例]`
+>   - 中译：除了通过将植物学带给人们而获得大众的成功之外，拉马克在《法国植物志》中的主要目的是利用植物学领域似乎存在的一点空白，即植物学家之间在命名法方面的分歧。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/botany
+> - During the subsequent investigation, FBI agents reached out to Matt von Konrat, the Field Museum’s head of botany collections, for help. `[例]`
+>   - 中译：在随后的调查过程中，联邦调查局特工向菲尔德博物馆植物学收藏负责人马特·冯·康拉特寻求帮助。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/botany
 
 
 ---

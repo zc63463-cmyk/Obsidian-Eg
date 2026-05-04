@@ -130,9 +130,15 @@ auto-(自己，希腊语 *autos*) + mat(思考/意愿，希腊语 *matos*，thin
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Breathing is an automatic process — you don't have to think about it. `[例]`
-> - The factory has been fully automated to increase efficiency. `[例]`
-> - Those drivers should face an automatic charge of manslaughter. `[COCA-NEWS]`
+> - My camera has manual and automatic functions. `[例]`
+>   - 中译：我的相机有手动和自动功能。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/automatic
+> - Breathing is an automatic function of the body. `[例]`
+>   - 中译：呼吸是身体的自动功能。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/automatic
+> - My reaction was automatic. `[例]`
+>   - 中译：我的反应是自动的。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/automatic
 
 
 ---

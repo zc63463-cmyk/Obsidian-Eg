@@ -124,7 +124,7 @@ pro-(向前/在前) + [[sper|sper]](希望) + -ous(充满...的，形容词后�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - In a prosperous country like this, no one should go hungry . `[例]`
+> - In a prosperous country like this, no one should go hungry. `[例]`
 > - The area is becoming more and more prosperous. `[例]`
 > - Farmers are more prosperous in the south of the country. `[例]`
 

@@ -131,9 +131,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Is there intelligent life elsewhere in the universe? `[例]`
-> - Scientists have speculated about the possibility of parallel universes. `[例]`
-> - The characters in his novels inhabit a bleak and hopeless universe. `[例]`
+> - Could there be intelligent life elsewhere in the universe? `[例]`
+>   - 中译：宇宙其他地方可能存在智慧生命吗？
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/universe
+> - As far as we know, the entire universe was created in the big bang. `[例]`
+>   - 中译：据我们所知，整个宇宙是在大爆炸中创造的。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/universe
+> - The idea of a parallel universe is hard to grasp. `[例]`
+>   - 中译：平行宇宙的想法很难理解。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/universe
 
 ---
 

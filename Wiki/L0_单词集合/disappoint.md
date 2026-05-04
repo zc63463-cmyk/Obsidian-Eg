@@ -126,9 +126,15 @@ dis-(剥夺/取消) + [[cover|appoint]](任命/约定) → 取消约定
 ## 真题/语料关联
 
 > [!example]- 语料
-> - We don't want to disappoint the fans . `[例]`
-> - I hate to disappoint you, but we don’t have the book you wanted . `[例]`
+> - We don't want to disappoint the fans. `[例]`
+>   - 中译：我们不想让球迷失望。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/disappoint
 > - Getting a B for that essay really disappointed me, as I was hoping for an A. `[例]`
+>   - 中译：那篇文章得到 B 确实让我很失望，因为我原本希望能得到 A。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/disappoint
+> - He failed to turn up for the concert , disappointing the crowds of fans waiting outside. `[例]`
+>   - 中译：他未能出席演唱会，令在场外等候的歌迷们感到失望。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/disappoint
 
 ---
 

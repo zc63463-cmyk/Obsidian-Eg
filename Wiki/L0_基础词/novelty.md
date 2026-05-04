@@ -132,8 +132,8 @@ novel(新颖的) + -ty(名词后缀，表状态/性质)
 
 > [!example]- 语料
 > - The novelty of these toys soon wore off and the children became bored with them. `[例]`
-> - In Britain in the 1950s, television still had novelty value . `[例]`
-> - Tourists are still a novelty on this remote island . `[例]`
+> - In Britain in the 1950s, television still had novelty value. `[例]`
+> - Tourists are still a novelty on this remote island. `[例]`
 
 
 ---

@@ -131,7 +131,7 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - It was just luck that I asked for a job at the right time . `[例]`
+> - It was just luck that I asked for a job at the right time. `[例]`
 > - Then I met this gorgeous woman and I couldn't believe my luck. `[例]`
 > - She wears a charm that she thinks brings her good luck. `[例]`
 

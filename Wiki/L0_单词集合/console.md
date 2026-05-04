@@ -122,9 +122,15 @@ con-（一起、共同）+ [[sol|sol-]]（安慰）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She tried to console her friend who had just lost her job." `[真题]`
-> - "There is no way to console the parents who lost their child in the accident." `[真题]`
-> - "He consoled himself with the thought that things could have been much worse." `[COCA-ACAD]`
+> - Her friends tried to console her, telling her "Everything will be fine. `[例]`
+>   - 中译：她的朋友试图安慰她，告诉她“一切都会好起来的。”
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/console
+> - He was consoled by the fact that he was young enough to try again the following year. `[例]`
+>   - 中译：令他感到欣慰的是，他还年轻，可以在第二年再次尝试。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/console
+> - I consoled myself with the thought that no one else could have done any better. `[例]`
+>   - 中译：我安慰自己，没有人能做得更好。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/console
 
 ---
 

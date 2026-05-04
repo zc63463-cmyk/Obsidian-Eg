@@ -134,9 +134,15 @@ com-(完全) + plim(填满、满足) → 完全满足心意 → 赞美
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The manager complimented the team on their outstanding performance. `[例]`
-> - She accepted the compliment with grace. `[例]`
-> - He paid her a sincere compliment on her presentation skills. `[COCA-MAG]`
+> - He complained that his husband never paid him any compliments anymore. `[例]`
+>   - 中译：他抱怨说他的丈夫再也没有对他说过任何赞美的话。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/compliment
+> - I take it as a compliment (= I am pleased ) when people say I look like my mother. `[例]`
+>   - 中译：当人们说我看起来像我的母亲时，我将其视为一种赞美（=我很高兴）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/compliment
+> - Are you fishing for (= trying to get) compliments? `[例]`
+>   - 中译：您是否在寻求（=试图获得）赞美？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/compliment
 
 ---
 

@@ -136,9 +136,9 @@ hop（古英语 *hoppian* "跳跃、舞蹈"，源自原始日耳曼语 *\*hupnoj
 ## 真题/语料关联
 
 > [!example]- 语料
-> - I tried to hop on my good foot while holding onto Jim . `[例]`
-> - We hopped over to Bruges for the weekend . `[例]`
-> - I hopped on the bus at the traffic lights . `[例]`
+> - I tried to hop on my good foot while holding onto Jim. `[例]`
+> - We hopped over to Bruges for the weekend. `[例]`
+> - I hopped on the bus at the traffic lights. `[例]`
 
 
 ---

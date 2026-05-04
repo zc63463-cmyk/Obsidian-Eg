@@ -125,9 +125,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - When we receive your instructions we will act accordingly. `[例]`
+> - We have to discover his plans and act accordingly. `[例]`
+>   - 中译：我们必须发现他的计划并采取相应的行动。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/accordingly
 > - The cost of materials rose sharply last year. Accordingly, we were forced to increase our prices. `[例]`
-> - There may be heavy traffic due to the game , so plan accordingly. `[例]`
+>   - 中译：去年材料成本大幅上涨。因此，我们被迫提高价格。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/accordingly
+> - He knew his limitations and acted accordingly. `[例]`
+>   - 中译：他知道自己的局限性并采取相应的行动。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/accordingly
 
 
 ---

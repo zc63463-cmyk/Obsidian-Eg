@@ -154,11 +154,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - These figures mean that almost six percent of the working population is unemployed. `` `[COCA-ACAD]` ``
-> - I didn't mean to hurt anybody. `` `[COCA-ACAD]` ``
-> - The mean income of households in the region has declined over the past decade. `` `[COCA-ACAD]` ``
-> - She is by no means an inexperienced teacher. `` `[COCA-ACAD]` ``
-> - The government warned that police would take tougher measures to contain the trouble. `` `[真题]` ``
+> - They were typically _1_ outside the walls of a city or village and were usually funded by governments or 2 This word " Caravanserais" is 3 a of the Persian word " karv:an" , which means a group of ltravellers or a caravan , and " seray " , a palace or enclosed building. `[真题]`
+>   - 中译：它们通常位于 _1_ 城市或村庄的城墙外，通常由政府或 2 资助。 2 这个词“Caravanserais”是波斯语单词“karv:an”的 3 a，意思是一群旅行者或商队，以及“seray”，宫殿或封闭的建筑。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - Even if a state is considered a high performer in its science standards, "that does not mean it will be taught" , he says. `[真题]`
+>   - 中译：他说，即使一个州被认为在科学标准方面表现出色，“这并不意味着它会被教授”。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - In your essay , you should 1) describe the picture briefly, 2 ) interpret the implied meaning , and 3) give your comments. `[真题]`
+>   - 中译：在你的文章中，你应该1）简要描述图片，2）解释隐含的含义，3）给出你的评论。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
 
 ---
 

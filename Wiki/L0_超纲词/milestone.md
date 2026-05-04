@@ -3,10 +3,8 @@ title: "milestone"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 抽象关系
 prototype: 路程中标记距离的石碑
@@ -43,7 +41,7 @@ mile(英里) + stone(石头)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**标记距离的石碑**"为统筹中心，沿空间→时间路径向外扩展：
 >
 > 1. **标记距离的石碑**（空间层面）
@@ -64,7 +62,7 @@ mile(英里) + stone(石头)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ mile(英里) + stone(石头)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > mile（英里）+ stone（石头）= milestone（里程碑）。罗马人修路时，每隔一英里（mile）放一块石头（stone），告诉旅行者"你已经走了这么远"。今天我们说"人生的里程碑"，就是借用这个意象——你人生旅途中的每一块"石头"都标记着一个重要时刻。
@@ -86,7 +84,7 @@ mile(英里) + stone(石头)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -98,12 +96,12 @@ mile(英里) + stone(石头)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - 无精确反义词（里程碑是正向概念，无直接反义）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -113,7 +111,7 @@ mile(英里) + stone(石头)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a historic milestone**：一个历史性的里程碑
 > - **reach/achieve a milestone**：达到一个里程碑
 > - **a major milestone**：一个重大里程碑
@@ -121,19 +119,12 @@ mile(英里) + stone(石头)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - He felt that moving out of his parents ' home was a real milestone in his life . `[例]`
-> - She spoke about some important milestones in the company's 20-year history . `[例]`
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
+> [!example]- 语料
+> - He felt that moving out of his parents ' home was a real milestone in his life. `[例]`
+> - She spoke about some important milestones in the company's 20-year history. `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,10 +3,8 @@ title: "freshman"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 社会习俗
 prototype: 新生（第一次接触某事物的人）
@@ -44,7 +42,7 @@ fresh(新鲜的，新来的) + man(人)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**新生**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **新生**（教育层面）
@@ -65,7 +63,7 @@ fresh(新鲜的，新来的) + man(人)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ fresh(新鲜的，新来的) + man(人)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > fresh（新鲜的）+ man（人）= freshman（新生）。16世纪时指"新来的人、新手"，后来专指大学一年级学生。freshman year 是大一，sophomore 是大二，junior 是大三，senior 是大四。freshman 就是"新鲜人"——对一切还感到新鲜的新生。
@@ -88,7 +86,7 @@ fresh(新鲜的，新来的) + man(人)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ fresh(新鲜的，新来的) + man(人)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[senior]]：大四学生；资深者（freshman↔senior：新生↔老生/资深者）
 > - [[veteran]]：老兵；老手（freshman↔veteran：新手↔老手）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,7 +116,7 @@ fresh(新鲜的，新来的) + man(人)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **freshman year**：大学一年级
 > - **college freshman**：大学新生
 > - **freshman 15**：大学新生常增的15磅体重（口语）
@@ -126,19 +124,12 @@ fresh(新鲜的，新来的) + man(人)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - He's a freshman at Harvard. `[例]`
-> - Greg and Jody met in their freshman year at college and married soon after they graduated . `[例]`
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
+> - Greg and Jody met in their freshman year at college and married soon after they graduated. `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

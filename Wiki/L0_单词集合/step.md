@@ -132,9 +132,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Such debates reflect fierce discussions across the US and around the world , as researchers , policymakers , teachers and students step up demands for a greater focus on teaching about the facts of climate change in schools. `[真题]`
-> - She stepped backwards and fell over a chair . `[例]`
-> - They stepped out onto the balcony . `[例]`
+> - We are taking steps to prevent pollution. `[例]`
+>   - 中译：我们正在采取措施防止污染。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/step
+> - It's a big step giving up your job and moving halfway across the world. `[例]`
+>   - 中译：放弃工作、跨越半个地球，这是迈出的一大步。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/step
+> - This was a first step towards a united Europe. `[例]`
+>   - 中译：这是迈向统一欧洲的第一步。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/step
 ---
 
 

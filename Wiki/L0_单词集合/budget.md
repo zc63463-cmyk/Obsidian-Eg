@@ -126,9 +126,15 @@ budg-(来自古法语 bouge，皮革袋子、钱包) + -et(指小后缀) → 小
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The government announced a series of budget cuts to reduce the national deficit."（政府宣布了一系列预算削减措施以减少国家赤字。）——考研高频表达
-> - "Many families are struggling to live within a tight budget."（许多家庭正在艰难地在紧张的预算内维持生活。）——考研高频表达
-> - "The project was completed on time and within budget."（该项目按时且在预算内完成。）——考研高频表达
+> - The firm has drawn up a budget for the coming financial year. `[例]`
+>   - 中译：该公司已经制定了下一个财政年度的预算。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/budget
+> - Libraries are finding it increasingly difficult to remain within budget. `[例]`
+>   - 中译：图书馆发现越来越难以保持预算之内。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/budget
+> - The app sets a budget for your calorie intake. `[例]`
+>   - 中译：该应用程序为您的卡路里摄入量设定预算。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/budget
 
 ---
 

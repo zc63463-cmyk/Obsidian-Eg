@@ -137,9 +137,15 @@ vis（看，看见）+ -ion（名词后缀，表示行为/结果/状态）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - We see in his novels his sinister , almost apocalyptic , vision of the future . `[例]`
-> - Johnny was late home and, as usual , I had visions of him lying dead in some alley . `[例]`
-> - She had visions in which the angel Gabriel appeared to her. `[例]`
+> - Cats have good night vision. `[例]`
+>   - 中译：猫的夜视能力很好。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/vision
+> - Her vision was still blurry. `[例]`
+>   - 中译：她的视线依然模糊。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/vision
+> - The disease causes a gradual loss of peripheral vision. `[例]`
+>   - 中译：这种疾病会导致周边视力逐渐丧失。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/vision
 ---
 
 

@@ -125,9 +125,9 @@ nomin-（名字，拉丁语 *nomen*）+ -ate（动词后缀，"使……/做…�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - He's been nominated by the Green Party as their candidate in the next election . `[例]`
-> - Would you like to nominate anyone for director ? `[例]`
-> - The film was nominated for an Academy Award . `[例]`
+> - He's been nominated by the Green Party as their candidate in the next election. `[例]`
+> - Would you like to nominate anyone for director? `[例]`
+> - The film was nominated for an Academy Award. `[例]`
 
 
 ---

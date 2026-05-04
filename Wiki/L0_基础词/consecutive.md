@@ -126,8 +126,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The company reported consecutive quarters of declining revenue, prompting investors to question the effectiveness of its new business strategy."（该公司报告了连续几个季度的收入下降，促使投资者质疑其新商业战略的有效性——考研阅读商业话题相关表达）
-> - "The athlete's consecutive Olympic gold medals in three different events cemented her status as one of the greatest competitors in the history of the Games."（这位运动员在三个不同项目中连续获得奥运金牌，巩固了她作为奥运史上最伟大选手之一的地位——考研阅读体育话题相关表达）
+> - She was absent for nine consecutive days. `[例]`
+>   - 中译：她已经连续缺席九天了。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/consecutive
+> - He is beginning his fourth consecutive term of office. `[例]`
+>   - 中译：他即将开始连续第四个任期。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/consecutive
+> - After six consecutive defeats, the team was almost ready to give up. `[例]`
+>   - 中译：六连败后，球队几乎准备放弃。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/consecutive
 
 
 ---

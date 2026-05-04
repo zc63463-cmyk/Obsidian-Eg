@@ -123,10 +123,15 @@ im-(=in，进入) + plic(=fold，折叠) + -y(后缀)（建议创建词根笔记
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - `The report implies that the government knew about the problem before it became public.` `[真题]`
-> > - `Her remarks implied a threat.` `[COCA-ACAD]`
-> > - `I did not mean to imply that there was any truth to these accusations.` `[COCA-ACAD]`
-> > - `Socialism implies equality.` `[COCA-ACAD]`
+> - However D. stock up on D. implied D. although D. series Read the following four texts. `[真题]`
+>   - 中译：然而 D. 储备 D. 暗示 D. 虽然 D. 系列 阅读以下四篇文章。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - In your essay , you should 1) describe the picture briefly, 2 ) interpret the implied meaning , and 3) give your comments. `[真题]`
+>   - 中译：在你的文章中，你应该1）简要描述图片，2）解释隐含的含义，3）给出你的评论。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - Are you implying (that) I'm fat? `[例]`
+>   - 中译：你是在暗示我很胖吗？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/imply
 
 ---
 

@@ -125,8 +125,15 @@ ad-(=to, toward, 向、朝) + [[ult]](=grow up, 成长，源自拉丁语 adolesc
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Adults who maintain a healthy lifestyle are less likely to develop chronic diseases."（保持健康生活方式的成年人患慢性疾病的可能性较小。）——考研高频表达
-> - "The transition from adolescence to adulthood can be a challenging period for many young people."（从青春期到成年期的过渡对许多年轻人来说可能是一个充满挑战的时期。）——考研高频表达
+> - An adult under English law is someone over 18 years old. `[例]`
+>   - 中译：根据英国法律，成年人是指年满 18 岁的人。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/adult
+> - Adults pay an admission charge but children get in free. `[例]`
+>   - 中译：成人需支付入场费，但儿童可免费入场。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/adult
+> - The school rules state that no child shall be allowed out of the school during the day , unless accompanied by an adult. `[例]`
+>   - 中译：学校规定，白天任何儿童不得离开学校，除非有成人陪同。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/adult
 
 
 ---

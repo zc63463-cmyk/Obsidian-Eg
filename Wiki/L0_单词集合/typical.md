@@ -123,9 +123,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - I must look like the typical tourist with my shorts and my camera . `[例]`
-> - This kind of hot and spicy food is very typical of the food in the south of the country . `[例]`
-> - Typical symptoms would include severe headaches , vomiting and dizziness . `[例]`
+> - This is a typical example of Roman pottery. `[例]`
+>   - 中译：这是罗马陶器的典型例子。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/typical
+> - Judy is a typical American teenager. `[例]`
+>   - 中译：朱迪是一个典型的美国青少年。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/typical
+> - This meal is typical of local cookery. `[例]`
+>   - 中译：这顿饭是典型的当地烹饪。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/typical
 
 ---
 

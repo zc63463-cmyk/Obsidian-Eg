@@ -139,7 +139,7 @@ review_count: 0
 > [!example]- 语料
 > - The roof is at a slope (= at an angle to a horizontal surface ) of 30°. `[例]`
 > - Snow had settled on some of the higher slopes. `[例]`
-> - There's a very steep slope just before you reach the top of the mountain . `[例]`
+> - There's a very steep slope just before you reach the top of the mountain. `[例]`
 
 
 ---

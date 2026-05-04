@@ -124,9 +124,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Sow the seeds in pots . `[例]`
-> - Settlers sowed the seeds they had brought with them. `[例]`
-> - It's rather early to be sowing carrot seeds , isn't it? `[例]`
+> - It's rather early to be sowing carrot seeds, isn't it? `[例]`
+>   - 中译：现在播种胡萝卜种子还太早了，不是吗？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/sow
+> - We sow carrots in between the onions. `[例]`
+>   - 中译：我们在洋葱之间播种胡萝卜。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/sow
+> - Broad beans that were sown in the previous autumn will be ready first. `[例]`
+>   - 中译：前一年秋天播下的蚕豆会最先成熟。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/sow
 
 ---
 

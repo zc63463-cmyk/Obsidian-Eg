@@ -127,10 +127,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The army suffered heavy casualties during the battle."（军队在战斗中遭受了惨重伤亡）——军事话题
-> - "Civilian casualties continue to rise in the conflict zone."（冲突地区的平民伤亡持续增加）——新闻话题
-> - "Small businesses are often the first casualties of an economic recession."（小企业往往是经济衰退的首批受害者）——经济话题
-> - "The hospital reported no casualties from the earthquake."（医院报告地震没有造成伤亡）——灾难话题
+> - The rebels suffered heavy casualties. `[例]`
+>   - 中译：叛军伤亡惨重。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/casualty
+> - The train was derailed but there were no casualties, police said. `[例]`
+>   - 中译：警方称，火车脱轨，但没有造成人员伤亡。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/casualty
+> - The number of casualties in both wars was appallingly high. `[例]`
+>   - 中译：两次战争的伤亡人数都高得惊人。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/casualty
 
 ---
 

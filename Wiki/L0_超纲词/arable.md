@@ -3,10 +3,8 @@ title: "arable"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 自然物理
 prototype: 可耕种的（可以被犁的土地）
@@ -44,7 +42,7 @@ ar(犁，耕种，拉丁语 *arare*) + -able(可以被……的)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**可被犁的土地**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **可被犁的**（物理层面）
@@ -65,7 +63,7 @@ ar(犁，耕种，拉丁语 *arare*) + -able(可以被……的)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ ar(犁，耕种，拉丁语 *arare*) + -able(可以被……的)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > ar- 来自拉丁语 arare（犁田），-able 表示"可以被"。arable = 可以被犁的土地 = 可耕地。全球 arable land（可耕地）只占陆地面积的约11%，非常珍贵。城市化正在不断侵蚀 arable land。
@@ -88,7 +86,7 @@ ar(犁，耕种，拉丁语 *arare*) + -able(可以被……的)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +98,13 @@ ar(犁，耕种，拉丁语 *arare*) + -able(可以被……的)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[barren]]：贫瘠的（arable 的精确反义：可耕种的↔贫瘠的）
 > - [[infertile]]：不肥沃的（arable 的反义：适合种植↔不适合种植）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,26 +115,19 @@ ar(犁，耕种，拉丁语 *arare*) + -able(可以被……的)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **arable land/farming**：可耕地/耕作农业
 > - **arable area**：可耕地面积
 > - **loss of arable land**：可耕地流失
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - China has only about 7% of the world's arable land, yet it feeds nearly 20% of the global population.`[例]`
-> - Urbanization has led to a significant loss of arable land in many developing countries.`[例]`
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
+> [!example]- 语料
+> - China has only about 7% of the world's arable land, yet it feeds nearly 20% of the global population. `[例]`
+> - Urbanization has led to a significant loss of arable land in many developing countries. `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

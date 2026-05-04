@@ -140,9 +140,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "You can copy and paste the text into a blank document before printing it out." `[Collins Corpus]`
-> - "She pasted the poster onto the wall using adhesive tape." `[Collins Corpus]`
-> - "The recipe calls for tomato paste to be added to the sauce." `[Content Authority]`
+> - You can copy and paste the text into a blank document before printing it out. `[例]`
+> - She pasted the poster onto the wall using adhesive tape. `[例]`
+> - The recipe calls for tomato paste to be added to the sauce. `[例]`
 
 
 ---

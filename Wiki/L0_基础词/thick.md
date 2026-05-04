@@ -134,9 +134,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She picked up a thick volume and began to read out loud . `[例]`
+> - She picked up a thick volume and began to read out loud. `[例]`
 > - The walls are two metres thick. `[例]`
-> - Thick, black smoke was pouring out of the chimney . `[例]`
+> - Thick, black smoke was pouring out of the chimney. `[例]`
 
 
 ---

@@ -132,9 +132,14 @@ review_count: 0
 
 > [!example]- 语料
 > - In the case of the guinea pig , the number of offspring varies between two and five. `[例]`
+>   - 中译：就豚鼠而言，后代的数量在两个到五个之间变化。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/offspring
 > - Tom's sister came over on Saturday with all her offspring. `[例]`
+>   - 中译：汤姆的姐姐周六带着她所有的孩子过来了。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/offspring
 > - Champion horses have numerous offspring. `[例]`
-> - The problems parents have with their teenage offspring. `[例]`
+>   - 中译：冠军马有无数的后代。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/offspring
 
 ---
 

@@ -126,9 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - This chapter is so difficult to digest, I'll have to read it again later . `[例]`
-> - A digest of the research findings is now available . `[例]`
-> - The company publishes a monthly digest of its activities . `[例]`
+> - This chapter is so difficult to digest, I'll have to read it again later. `[例]`
+> - A digest of the research findings is now available. `[例]`
+> - The company publishes a monthly digest of its activities. `[例]`
 
 
 ---

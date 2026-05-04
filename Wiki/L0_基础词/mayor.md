@@ -120,9 +120,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The prime minister met many civic leaders, including the mayor and the leaders of the immigrant communities." `[语料库]`
-> - "The city's mayor had worked for the bus company and was a powerful advocate of public transport." `[语料库]`
-> - "The alert mayor was particularly adept at locating a variety of political resources and mobilizing them to gain influence." `[语料库]`
+> - The prime minister met many civic leaders, including the mayor and the leaders of the immigrant communities. `[例]`
+> - The city's mayor had worked for the bus company and was a powerful advocate of public transport. `[例]`
+> - The alert mayor was particularly adept at locating a variety of political resources and mobilizing them to gain influence. `[例]`
 
 
 ---

@@ -132,9 +132,15 @@ blossom(果树的花/开花，古英语 *blōstm*)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The cherry tree is beginning to blossom. `[例]`
-> - She has really blossomed recently . `[例]`
-> - They are all blossoming into attractive , confident adults . `[例]`
+> - The trees are in blossom. `[例]`
+>   - 中译：树木正在开花。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/blossom
+> - She loved the spring, when the blossom was out. `[例]`
+>   - 中译：她喜欢春天，花开的时候。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/blossom
+> - Her hair smelled of apple blossoms. `[例]`
+>   - 中译：她的头发散发着苹果花的香味。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/blossom
 
 
 ---

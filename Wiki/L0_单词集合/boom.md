@@ -126,9 +126,15 @@ boom（拟声词，模仿低沉的轰鸣声）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Nonstop waves of immigrants played a role, too—and so did bigger crops of babies as yesterday's 'baby boom' generation reached its child-bearing years. `[真题]`
-> - The city experienced a tourism boom. `[真题]`
-> - The housing market is booming due to low interest rates. `[例]`
+> - The insurance business suffered from a vicious cycle of boom and bust. `[例]`
+>   - 中译：保险业经历了繁荣与萧条的恶性循环。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/boom
+> - This year has seen a boom in book sales. `[例]`
+>   - 中译：今年图书销售蓬勃发展。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/boom
+> - The cannons boomed in the night. `[例]`
+>   - 中译：夜里炮声隆隆。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/boom
 ---
 
 

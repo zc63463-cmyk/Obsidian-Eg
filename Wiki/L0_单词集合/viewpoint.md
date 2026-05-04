@@ -124,9 +124,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The viewpoint by the side of the road gave us a stunning panorama of the whole valley . `[例]`
 > - Try looking at things from a different viewpoint. `[例]`
+>   - 中译：尝试从不同的角度看待事物。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/viewpoint
 > - She will have her own viewpoint on the matter. `[例]`
+>   - 中译：对于这件事，她会有自己的看法。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/viewpoint
+> - The artist has painted the scene from various viewpoints. `[例]`
+>   - 中译：艺术家从不同的角度描绘了这个场景。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/viewpoint
 
 ---
 

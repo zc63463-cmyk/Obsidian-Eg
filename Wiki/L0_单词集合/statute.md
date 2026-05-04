@@ -131,9 +131,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - I doubt that such legislation will ever reach the statute book . `[例]`
-> - The salaries of most federal workers are set by statute. `[例]`
-> - Many state and federal statutes already cover identity theft . `[例]`
+> - Penalties are laid down in the statute. `[例]`
+>   - 中译：法规中规定了处罚措施。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/statute
+> - Corporal punishment was banned by statute in 1987. `[例]`
+>   - 中译：1987年，法律禁止体罚。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/statute
+> - These rights existed at common law, rather than under statute. `[例]`
+>   - 中译：这些权利存在于普通法中，而不是成文法中。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/statute
 
 ---
 

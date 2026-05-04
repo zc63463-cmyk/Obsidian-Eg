@@ -122,9 +122,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "You ought to have told me earlier — I could have helped." `[BNC-SPOKEN]`
-> - "We ought to respect the opinions of others even when we disagree." `[COCA-ACAD]`
-> - "He ought to be home by seven o'clock." `[BNC-SPOKEN]`
+> - You ought to have told me earlier — I could have helped. `[BNC-SPOKEN]`
+> - We ought to respect the opinions of others even when we disagree. `[COCA-ACAD]`
+> - He ought to be home by seven o'clock. `[BNC-SPOKEN]`
 
 
 ---

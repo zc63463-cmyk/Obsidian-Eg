@@ -123,9 +123,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The United States has long been a nation of immigrants. `[真题]`
-> - Immigrant children often face language barriers in school. `[COCA-ACAD]`
-> - This charge is usually raised when minority or immigrant children are taught in a language other than their own. `[COCA-ACAD]`
+> - The surrounding area has a large immigrant population. `[例]`
+>   - 中译：周边地区有大量移民人口。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/immigrant
+> - Illegal immigrants are sent back across the border if they are caught. `[例]`
+>   - 中译：非法移民一旦被发现就会被遣返回国。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/immigrant
+> - She married Norwegian immigrant Niels Larsen who later anglicized his name. `[例]`
+>   - 中译：她嫁给了挪威移民尼尔斯·拉森（Niels Larsen），后来尼尔斯·拉森将他的名字英国化。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/immigrant
 
 ---
 

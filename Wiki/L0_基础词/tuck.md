@@ -125,8 +125,8 @@ tuck 源自古英语 *tūcian*（折磨、拉扯），可能与中古低地德�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Should I tuck my shirt into my trousers ? `[例]`
-> - He tucked the bottom of the sheet under the mattress . `[例]`
+> - Should I tuck my shirt into my trousers? `[例]`
+> - He tucked the bottom of the sheet under the mattress. `[例]`
 > - Tuck your gloves in your pocket so that you don't lose them. `[例]`
 
 

@@ -124,7 +124,7 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Can I dial this number direct , or do I have to go through the operator ? `[例]`
+> - Can I dial this number direct , or do I have to go through the operator? `[例]`
 > - Can you read what it says on the dial? `[例]`
 > - What number did you dial? `[例]`
 

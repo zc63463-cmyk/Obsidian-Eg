@@ -138,9 +138,15 @@ contra-(反，对立) + -ary(形容词后缀，表示"与……有关的") = con
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Contrary to popular belief, many cats dislike milk. `[COCA-ACAD]`
-> - Contrary to expectations, the experiment yielded surprising results. `[COCA-ACAD]`
-> - On the contrary, I think the proposal has considerable merit. `[例]`
+> - I was worried that it might be too hard for me but it turned out the contrary was true. `[例]`
+>   - 中译：我担心这对我来说可能太难了，但事实证明事实恰恰相反。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/contrary
+> - His death will be considered accidental unless the contrary is shown by existing evidence. `[例]`
+>   - 中译：除非现有证据表明相反的情况，否则他的死亡将被视为意外。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/contrary
+> - Generally lower unemployment rates can halt inflation , but the contrary seems to be the case today. `[例]`
+>   - 中译：一般来说，较低的失业率可以抑制通货膨胀，但今天的情况似乎恰恰相反。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/contrary
 
 ---
 

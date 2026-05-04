@@ -140,9 +140,9 @@ re-（回，向后）+ cept（拿，=capere 的过去分词 *captus* 变体）+ 
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The new policy met with a mixed reception from the public. ` `[真题]`
-> - We had our wedding reception in a local hotel. ` `[真题]`
-> - Please report to reception on arrival. ` `[真题]`
+> - The president gave a reception for the visiting heads of state. `[例]`
+> - The new hospital was ready for the reception of its first patients. `[例]`
+> - I went to see the sales manager but got a rather chilly reception. `[例]`
 
 
 ---

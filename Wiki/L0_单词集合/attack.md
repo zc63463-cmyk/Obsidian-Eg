@@ -135,9 +135,15 @@ at-(=ad-, 去/向) + tack(钉，意大利语 *taccare*，与 tach 同源) → �
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Monsanto's critics have attacked the company for its 'merciless legal battles against small farmers,' and they are hoping this will be the case that puts it in its place." `[COCA-ACAD]`
-> - "Most wild animals won't attack unless they are provoked." `[COCA-ACAD]`
-> - "He suffered a severe heart attack and was immediately rushed to the nearest hospital." `[例]`
+> - Travellers on the Silk Road 7 possibility of being attacked by thieves or being 8 to extreme weather conditions. `[真题]`
+>   - 中译：丝绸之路上的旅行者 7 遭受小偷袭击或遭遇极端天气条件的可能性 8 。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - He was attacked and seriously injured by a gang of youths. `[例]`
+>   - 中译：他被一群年轻人袭击并受重伤。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/attack
+> - Army forces have been attacking the town since dawn. `[例]`
+>   - 中译：军队从黎明起就一直在攻击该镇。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/attack
 
 
 ---

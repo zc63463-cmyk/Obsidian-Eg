@@ -128,7 +128,7 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Can you get the lid off this jar ? `[例]`
+> - Can you get the lid off this jar? `[例]`
 > - She looked at him from under half-closed lids. `[例]`
 > - The lid of the coffin had been nailed down. `[例]`
 

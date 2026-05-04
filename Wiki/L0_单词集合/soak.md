@@ -125,10 +125,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - My shirt and pants were soaked through by the rain. `[COCA-FIC]`
-> - The oil soaked into the wood and left a dark stain. `[COCA-FIC]`
-> - The city was soaked by heavy rain for three consecutive days. `[真题]`
-> - Students should soak up as much knowledge as possible during their university years. `[真题]`
+> - The wind had blown the rain in and soaked the carpet. `[例]`
+>   - 中译：风把雨水吹了进来，浸湿了地毯。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/soak
+> - You'd better wipe up that red wine you've spilled before it soaks (= is absorbed ) into the carpet. `[例]`
+>   - 中译：你最好在红酒浸入（=被吸收）到地毯之前将其擦掉。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/soak
+> - Blood had soaked through both bandages. `[例]`
+>   - 中译：两条绷带都浸透了血。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/soak
 
 
 ---

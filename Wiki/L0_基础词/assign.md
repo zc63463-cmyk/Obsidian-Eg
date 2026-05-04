@@ -133,10 +133,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The teacher assigned a research paper on the causes of the financial crisis. `[COCA-ACAD]`
-> - Researchers have assigned great significance to the discovery of this ancient manuscript. `[COCA-ACAD]`
-> - Each student was assigned a specific role in the group project. `[例]`
-> - The committee assigned her to lead the investigation into the incident. `[例]`
+> - The teacher assigned a different task to each of the children. `[例]`
+>   - 中译：老师给每个孩子分配了不同的任务。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/assign
+> - The two large classrooms have been assigned to us. `[例]`
+>   - 中译：两个大教室已经分配给我们了。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/assign
+> - We have been assigned the two large classrooms. `[例]`
+>   - 中译：我们被分配到两个大教室。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/assign
 
 
 ---

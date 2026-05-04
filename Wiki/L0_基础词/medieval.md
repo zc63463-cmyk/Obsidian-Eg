@@ -132,9 +132,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "With the Church's teachings and ways of thinking being eclipsed by the Renaissance, the gap between the Medieval and modern periods had been bridged, leading to new and unexplored intellectual territories." `[真题]`
-> - "The medieval castle stood on a hill overlooking the valley." `[COCA-ACAD]`
-> - "His attitudes towards women are positively medieval." `[BNC-SPOKEN]`
+> - With the Church's teachings and ways of thinking being eclipsed by the Renaissance, the gap between the Medieval and modern periods had been bridged, leading to new and unexplored intellectual territories. `[真题]`
+> - The medieval castle stood on a hill overlooking the valley. `[COCA-ACAD]`
+> - His attitudes towards women are positively medieval. `[BNC-SPOKEN]`
 
 
 ---

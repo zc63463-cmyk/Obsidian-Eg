@@ -129,9 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Sprinkle some roasted chopped nuts on top . `[例]`
+> - Sprinkle some roasted chopped nuts on top. `[例]`
 > - Nuts and bolts are used to hold pieces of machinery together. `[例]`
-> - What kind of nut would leave a car on a railway track ? `[例]`
+> - What kind of nut would leave a car on a railway track? `[例]`
 
 
 ---

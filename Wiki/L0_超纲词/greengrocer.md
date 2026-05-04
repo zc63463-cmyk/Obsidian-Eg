@@ -3,10 +3,8 @@ title: "greengrocer"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 物品工具
 prototype: 批发蔬菜水果的人（gross + grocer）
@@ -43,7 +41,7 @@ green(绿色/蔬菜) + grocer(杂货商，源自拉丁语 *grossārius* 批发�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**卖蔬菜水果的人**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **卖蔬菜水果的人**（职业层面）
@@ -62,7 +60,7 @@ green(绿色/蔬菜) + grocer(杂货商，源自拉丁语 *grossārius* 批发�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -72,7 +70,7 @@ green(绿色/蔬菜) + grocer(杂货商，源自拉丁语 *grossārius* 批发�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > greengrocer = green（绿色）+ grocer（杂货商）。grocer 原来是"批发商"的意思（来自 gross 大量/批发），后来变成"杂货商"。加上 green 后，专门卖"绿色货物"——蔬菜和水果。想象英国街角的 greengrocer's shop，门口摆满了新鲜的绿色蔬菜和各色水果。
@@ -84,7 +82,7 @@ green(绿色/蔬菜) + grocer(杂货商，源自拉丁语 *grossārius* 批发�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -97,13 +95,13 @@ green(绿色/蔬菜) + grocer(杂货商，源自拉丁语 *grossārius* 批发�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[butcher]]：肉贩（greengrocer 的反义：菜贩↔肉贩）
 > - [[baker]]：面包师（greengrocer 的反义：菜贩↔面包师）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -115,25 +113,18 @@ green(绿色/蔬菜) + grocer(杂货商，源自拉丁语 *grossārius* 批发�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **the local greengrocer**：当地的蔬菜水果商
 > - **greengrocer's shop**：蔬菜水果店
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - The greengrocer had some lovely local asparagus on sale today. `[例]`
 > - The greengrocer had a wide selection of seasonal fruits. `[例]`
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
-
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

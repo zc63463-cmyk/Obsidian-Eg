@@ -125,8 +125,8 @@ hobby（源自中古英语 *hobyn* "小马"，是 Robert（Hob）的爱称 + 小
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Angela's hobby is restoring vintage motorcycles . `[例]`
-> - He needs a hobby to keep him busy and stop him from getting into mischief . `[例]`
+> - Angela's hobby is restoring vintage motorcycles. `[例]`
+> - He needs a hobby to keep him busy and stop him from getting into mischief. `[例]`
 > - The students sidetracked their teacher into talking about her hobby. `[例]`
 
 

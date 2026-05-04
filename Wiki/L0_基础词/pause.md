@@ -140,9 +140,9 @@ paus(停止，希腊语 *pauein*) + -e
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He talked for two hours without pausing for breath." `[真题]`
-> - "After a pause Al said sharply: 'I'm sorry if I've upset you.'" `[真题]`
-> - "The vast bulk of the research shows that there may be a pause, or a shifting of gears in the 40s or 50s, but this shift can be exciting, rather than terrifying." `[真题]`
+> - He talked for two hours without pausing for breath. `[真题]`
+> - The vast bulk of the research shows that there may be a pause, or a shifting of gears in the 40s or 50s, but this shift can be exciting, rather than terrifying. `[真题]`
+> - There will be a brief pause in the proceedings while the piano is moved into place. `[例]`
 
 
 ---

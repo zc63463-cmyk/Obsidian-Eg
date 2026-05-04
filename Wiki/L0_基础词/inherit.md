@@ -135,10 +135,10 @@ in-(=in, 在……里面) + her(=haerere, 粘附，拉丁语 *haerere*) + -it(�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "At a time when Thomas Piketty and other economists are warning of rising inequality and the increasing power of inherited wealth, it is bizarre that wealthy aristocratic families should still be the symbolic heart of modern democratic states." `[真题]`
-> - "To a certain extent, our ability to excel in making the connections that drive intelligence is inherited." `[真题]`
-> - "She inherited her mother's good looks and her father's stubbornness." `[COCA-FICT]`
-> - "The new government inherited many of the problems of the previous administration." `[COCA-NEWS]`
+> - At a time when Thomas Piketty and other economists are warning of rising inequality and the increasing power of inherited wealth, it is bizarre that wealthy aristocratic families should still be the symbolic heart of modern democratic states. `[真题]`
+> - To a certain extent, our ability to excel in making the connections that drive intelligence is inherited. `[真题]`
+> - She inherited her mother's good looks and her father's stubbornness. `[COCA-FICT]`
+> - The new government inherited many of the problems of the previous administration. `[COCA-NEWS]`
 
 
 ---

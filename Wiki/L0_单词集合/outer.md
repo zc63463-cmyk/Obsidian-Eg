@@ -123,10 +123,15 @@ out(外面) + -er(比较级后缀，"更…的")
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The outer layers of the Earth are composed of solid rock." `[真题]`
-> - "The city's outer suburbs have expanded rapidly in recent decades." `[真题]`
-> - "The telescope can view the outer reaches of the solar system." `[COCA-ACAD]`
-> - "Voyager 1 and its twin, Voyager 2, launched in 1977 on a grand tour of the outer solar system." `[COCA-ACAD]`
+> - Ice had formed around the outer edge of the pond. `[例]`
+>   - 中译：池塘的外缘已经结冰了。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/outer
+> - The telescope can view the outer reaches of the solar system. `[例]`
+>   - 中译：该望远镜可以观察太阳系的外围。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/outer
+> - The outer leaves of the cabbage should be removed. `[例]`
+>   - 中译：卷心菜外面的叶子应该去掉。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/outer
 
 ---
 

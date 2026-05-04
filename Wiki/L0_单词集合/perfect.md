@@ -139,10 +139,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - In a perfect world, everybody would have everything they needed. `[COCA]`
-> - The weather was perfect the whole week. `[COCA]`
-> - You have perfect timing — dinner's just coming out of the oven. `[COCA]`
-> - This is a perfect example of Gothic architecture. `[COCA-ACAD]`
+> - What is your idea of perfect happiness? `[例]`
+>   - 中译：你心目中的完美幸福是什么？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/perfect
+> - This church is a perfect example of medieval architecture. `[例]`
+>   - 中译：这座教堂是中世纪建筑的完美典范。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/perfect
+> - You have a perfect English accent. `[例]`
+>   - 中译：你有完美的英国口音。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/perfect
 
 ---
 

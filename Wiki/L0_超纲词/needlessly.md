@@ -3,10 +3,8 @@ title: "needlessly"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-25
-mastery: L0
 word_freq: 超纲词
 semantic_field: 抽象关系
 prototype: 不必要地（没有需要地）
@@ -43,7 +41,7 @@ need（需要）+ -less（没有，否定后缀）+ -ly（副词后缀）
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**不必要地**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **不必要地**（必要性层面）
@@ -64,7 +62,7 @@ need（需要）+ -less（没有，否定后缀）+ -ly（副词后缀）
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +73,7 @@ need（需要）+ -less（没有，否定后缀）+ -ly（副词后缀）
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > need（需要）+ -less（没有）= needless（不需要的），needlessly 就是"不必要地"。你考试前不必要地紧张——needlessly worry。规则不必要地复杂——needlessly complicated。needlessly 的核心就是"本可以不做，却做了"。
@@ -87,7 +85,7 @@ need（需要）+ -less（没有，否定后缀）+ -ly（副词后缀）
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ need（需要）+ -less（没有，否定后缀）+ -ly（副词后缀）
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[necessarily]]：必然地，必要地（needlessly 的反义：不必要地↔必要地）
 > - [[usefully]]：有用地（needlessly 的反义：多余地↔有用地）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -116,7 +114,7 @@ need（需要）+ -less（没有，否定后缀）+ -ly（副词后缀）
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **needlessly worry**：不必要地担心
 > - **needlessly complicated**：不必要地复杂
 > - **needlessly suffer**：不必要地受苦
@@ -124,19 +122,12 @@ need（需要）+ -less（没有，否定后缀）+ -ly（副词后缀）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - She'd worried needlessly about whether there would be enough food . `[例]`
+> [!example]- 语料
+> - She'd worried needlessly about whether there would be enough food. `[例]`
 > - The process has become needlessly complicated. `[例]`
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-25 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

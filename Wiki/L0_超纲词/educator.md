@@ -3,10 +3,8 @@ title: "educator"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 社会专业
 prototype: 引导出来的人（将知识从学生内心引导出来的人）
@@ -43,7 +41,7 @@ e-(=ex-, 出来/向外) + [[duc-duct|duc]](引导) + -at-(动词后缀) + -or(�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**引导出来的人（将知识从学生内心引导出来的人）**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **向外引导**（动作层面）
@@ -64,7 +62,7 @@ e-(=ex-, 出来/向外) + [[duc-duct|duc]](引导) + -at-(动词后缀) + -or(�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ e-(=ex-, 出来/向外) + [[duc-duct|duc]](引导) + -at-(动词后缀) + -or(�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > e（向外）+ duc（引导）+ ator（人）→ educator。教育的本质不是"灌水"，而是"点火"——educator 就是把学生内在的潜能引导出来的人。
@@ -89,7 +87,7 @@ e-(=ex-, 出来/向外) + [[duc-duct|duc]](引导) + -at-(动词后缀) + -or(�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,12 +99,12 @@ e-(=ex-, 出来/向外) + [[duc-duct|duc]](引导) + -at-(动词后缀) + -or(�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - 无精确反义词
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,7 +117,7 @@ e-(=ex-, 出来/向外) + [[duc-duct|duc]](引导) + -at-(动词后缀) + -or(�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **professional educator**：专业教育工作者
 > - **early childhood educator**：幼儿教育工作者
 > - **health educator**：健康教育工作者
@@ -127,19 +125,12 @@ e-(=ex-, 出来/向外) + [[duc-duct|duc]](引导) + -at-(动词后缀) + -or(�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - As an experienced educator, she believes that every child has the potential to succeed. `[例]`
 > - The conference brought together educators from around the world to discuss new teaching methods. `[例]`
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
-
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -135,9 +135,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Her conversation sparkled with her own subtle blend of wit and charm . `[例]`
-> - Sydney Smith, a notable wit, once remarked that he never read a book before he reviewed it because it might prejudice his opinion of it. `[例]`
-> - She learned to survive on her wits. `[例]`
+> - He needed all his wits to find his way out. `[例]`
+>   - 中译：他需要动用全部的智慧才能找到出路。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/wit
+> - The game was a long battle of wits. `[例]`
+>   - 中译：这场比赛是一场漫长的斗智斗勇。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/wit
+> - Kate paused and gathered her wits. `[例]`
+>   - 中译：凯特停顿了一下，恢复了理智。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/wit
 
 ---
 

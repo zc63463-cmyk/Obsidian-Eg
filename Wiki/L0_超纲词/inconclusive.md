@@ -3,10 +3,8 @@ title: "inconclusive"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 理性世界
 prototype: 无确定结果的、不能得出结论的
@@ -43,7 +41,7 @@ in-(不) + con-(完全) + clus(关闭，拉丁语 *claudere*) + -ive(形容词�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以“**无确定结果的、不能得出结论的**”为统筹中心，沿抽象路径向外扩展：
 >
 1. **不能完全关闭**（讨论/调查层面）
@@ -63,7 +61,7 @@ in-(不) + con-(完全) + clus(关闭，拉丁语 *claudere*) + -ive(形容词�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 |------|------|----------|
@@ -73,7 +71,7 @@ in-(不) + con-(完全) + clus(关闭，拉丁语 *claudere*) + -ive(形容词�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > in（不）+ con（完全）+ clus（关闭）→ 关不上 → 无结论的。一个 inconclusive 的调查就是“关不上案”——证据不足以得出最终结论。
@@ -82,7 +80,7 @@ in-(不) + con-(完全) + clus(关闭，拉丁语 *claudere*) + -ive(形容词�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 |------|------------|---------|---------|---------|
@@ -94,13 +92,13 @@ in-(不) + con-(完全) + clus(关闭，拉丁语 *claudere*) + -ive(形容词�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[conclusive]]：决定性的（inconclusive 的精确反义：无定论↔决定性）
 - [[decisive]]：决定性的
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 |--------|---------|------|---------|
@@ -114,27 +112,20 @@ in-(不) + con-(完全) + clus(关闭，拉丁语 *claudere*) + -ive(形容词�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **inconclusive results/evidence**：无定论的结果/证据
 - **prove inconclusive**：证明无定论
 - **an inconclusive test/trial**：非决定性的测试/试验
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - The clinical trial proved inconclusive, and researchers decided to conduct a follow-up study. `[例]`
 > - DNA evidence from the crime scene was inconclusive and could not definitively identify the suspect. `[例]`
 > - The election results remained inconclusive for several days after the voting ended. `[例]`
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
-
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

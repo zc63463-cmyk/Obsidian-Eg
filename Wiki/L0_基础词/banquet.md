@@ -132,10 +132,15 @@ banquet 源自古法语 *banquet*，可能来自 *banc*（长凳）+ *quet*（�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He was suddenly taken ill at a banquet given in his honour." `[COCA-FIC]`
-> - "Over 1,600 people attended a banquet in her honour." `[COCA-NEWS]`
-> - "It was the organization's annual black-tie awards banquet at a fancy New York City hotel." `[COCA-NEWS]`
-> - "The Lord Mayor attended a state banquet last night." `[COCA-NEWS]`
+> - A state banquet was held in honour of the visiting president. `[例]`
+>   - 中译：为迎接来访的总统举行了国宴。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/banquet
+> - The meal that followed was a veritable banquet. `[例]`
+>   - 中译：接下来的饭菜是一场名副其实的宴会。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/banquet
+> - The only injuries were likely sustained by guests and banquet staff tumbling over one another to hide under tables. `[例]`
+>   - 中译：唯一受伤的可能是客人和宴会工作人员互相翻滚，躲在桌子底下。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/banquet
 
 
 ---

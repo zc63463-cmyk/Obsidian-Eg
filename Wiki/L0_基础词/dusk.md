@@ -127,10 +127,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "They worked in the fields from dawn to dusk." `[真题]`
-> - "The street lights come on at dusk." `[真题]`
-> - "She arrived home as dusk was falling." `[真题]`
-> - "The lamps twinkled in the gathering dusk." `[真题]`
+> - They worked in the fields from dawn to dusk. `[真题]`
+> - The street lights come on at dusk. `[真题]`
+> - She arrived home as dusk was falling. `[真题]`
+> - The lamps twinkled in the gathering dusk. `[真题]`
 
 
 ---

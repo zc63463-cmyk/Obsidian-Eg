@@ -124,8 +124,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - "Doctors advise patients to exercise regularly and maintain a balanced diet."（医生建议病人定期锻炼并保持均衡的饮食。）——考研阅读真题
-> - "I would advise against making any hasty decisions at this stage."（我建议在这个阶段不要做出任何仓促的决定。）——考研高频表达
+> - Recently, another expression of this predatory behavior has emerged: so-called support service consultancies that provide language and other editorial support to individual authors and to journals sometimes advise contributors to add a number of citations to their articles. `[真题]`
+>   - 中译：最近，这种掠夺行为的另一种表现形式出现了：所谓的支持服务咨询公司为个人作者和期刊提供语言和其他编辑支持，有时会建议撰稿人在他们的文章中添加大量引用。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - His doctor advised him against smoking. `[例]`
+>   - 中译：他的医生建议他不要吸烟。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/advise
+> - I'd strongly advise against making a sudden decision. `[例]`
+>   - 中译：我强烈建议不要做出突然的决定。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/advise
 
 ---
 

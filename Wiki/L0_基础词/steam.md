@@ -131,7 +131,7 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Steam rose from the simmering stew . `[例]`
+> - Steam rose from the simmering stew. `[例]`
 > - The age of steam (= the period when steam provided power for railways and factories ). `[例]`
 > - The pump is driven by steam. `[例]`
 

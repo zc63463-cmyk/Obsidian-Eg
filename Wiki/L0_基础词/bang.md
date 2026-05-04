@@ -136,10 +136,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She fell and banged her head on the shelf as she stood up." `[COCA-SPOKEN]`
-> - "He banged the door shut and stormed out of the room, leaving everyone in stunned silence." `[例]`
-> - "The project was completed bang on schedule, much to the surprise of the critics who had doubted its feasibility." `[例]`
-> - "I didn't mean to bang into you in the narrow corridor." `[COCA-FIC]`
+> - She banged on the door angrily. `[例]`
+>   - 中译：她愤怒地敲着门。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bang
+> - The baby was banging the table with his spoon. `[例]`
+>   - 中译：婴儿正在用勺子敲打桌子。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bang
+> - She banged loudly on the table. `[例]`
+>   - 中译：她重重地敲着桌子。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bang
 
 
 ---

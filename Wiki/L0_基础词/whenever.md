@@ -126,9 +126,9 @@ when（什么时候）+ ever（曾经/永远）。when 源自古英语 *hwenne*�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - I try to use olive oil whenever possible. `[真题]`
-> - I blush whenever I think about it. `[真题]`
 > - Come and see us whenever you're in town — you're always welcome. `[真题]`
+> - Whenever I go there they seem to be asleep. `[例]`
+> - Will it be okay if I do it tomorrow ?" "Sure, whenever (= then or at any other time ). `[例]`
 
 
 ---

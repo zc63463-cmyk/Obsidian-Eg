@@ -133,9 +133,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The Red Cross's primary concern is to preserve and protect human life . `[例]`
-> - The primary responsibility lies with those who break the law . `[例]`
-> - We met at primary school , and have been best friends ever since. `[例]`
+> - The Red Cross's primary concern is to preserve and protect human life. `[例]`
+>   - 中译：红十字会的首要任务是维护和保护人的生命。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/primary
+> - The primary responsibility lies with those who break the law. `[例]`
+>   - 中译：主要责任在于违法者。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/primary
+> - Her primary purpose in suing the newspaper for libel was to clear her name. `[例]`
+>   - 中译：她起诉该报诽谤的主要目的是洗清自己的罪名。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/primary
 
 ---
 

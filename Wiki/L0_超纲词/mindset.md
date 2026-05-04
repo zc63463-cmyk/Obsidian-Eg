@@ -3,10 +3,8 @@ title: "mindset"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 人本世界
 prototype: 思维方式，心态
@@ -43,7 +41,7 @@ mind(心智/头脑) + set(设定/固定)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**思维方式/心态**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **思维方式**（认知层面）
@@ -64,7 +62,7 @@ mind(心智/头脑) + set(设定/固定)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ mind(心智/头脑) + set(设定/固定)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > mind（脑子）+ set（设定）= mindset（思维方式）。Carol Dweck 的著名理论区分了 fixed mindset（固定型思维——"我的能力是天生的"）和 growth mindset（成长型思维——"我的能力可以通过努力提升"）。你的 mindset 决定了你面对挑战时的反应。
@@ -86,7 +84,7 @@ mind(心智/头脑) + set(设定/固定)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,12 +97,12 @@ mind(心智/头脑) + set(设定/固定)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - 无精确反义词（概念名词，无直接反义）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -115,7 +113,7 @@ mind(心智/头脑) + set(设定/固定)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **growth mindset**：成长型思维
 > - **fixed mindset**：固定型思维
 > - **change/shift one's mindset**：改变某人的思维方式
@@ -124,19 +122,12 @@ mind(心智/头脑) + set(设定/固定)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - It's extraordinary how hard it is to change the mindset of the public and the press . `[例]`
+> [!example]- 语料
+> - It's extraordinary how hard it is to change the mindset of the public and the press. `[例]`
 > - American financiers have a very different mindset from ours. `[例]`
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

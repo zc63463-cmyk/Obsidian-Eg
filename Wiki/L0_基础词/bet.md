@@ -123,9 +123,15 @@ bet（来源不明，约1590年代出现于小罪犯俚语中，可能是 abet �
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "I bet it will rain tomorrow." `[真题]`
-> - "He regularly goes to the races and bets heavily." `[COCA-NEWS]`
-> - "I bet you $25 that I'll get there before you." `[COCA-SPOKEN]`
+> - You have to be over 16 to bet. `[例]`
+>   - 中译：您必须年满 16 岁才能投注。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bet
+> - I wouldn't bet on them winning the next election. `[例]`
+>   - 中译：我不会打赌他们会赢得下次选举。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bet
+> - Not many people are betting against France retaining their title. `[例]`
+>   - 中译：没有多少人认为法国队会卫冕冠军。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bet
 
 
 ---

@@ -133,9 +133,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The factory was shut down because of the toxic emissions." `[朗文词典]`
-> - "She shut out her friends when she was upset." `[外刊语料]`
-> - "Many small grocers were forced to shut up shop amid the freezing weather." `[剑桥词典]`
+> - The factory was shut down because of the toxic emissions. `[例]`
+> - She shut out her friends when she was upset. `[例]`
+> - Many small grocers were forced to shut up shop amid the freezing weather. `[例]`
 
 
 ---

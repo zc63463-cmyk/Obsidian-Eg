@@ -136,10 +136,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She is going bald. [COCA]
-> - The bald truth is he's just not happy. [COCA]
-> - The announcement came in a bald statement from the official news agency. [COCA]
-> - He started going bald in his twenties, which made him self-conscious about his appearance. `[例]`
+> - He started going bald in his twenties. `[例]`
+>   - 中译：他二十多岁时就开始秃顶。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bald
+> - Our dog has a bald patch on its leg. `[例]`
+>   - 中译：我们的狗腿上有一块秃了。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bald
+> - The bald fact is that we don't need you any longer. `[例]`
+>   - 中译：赤裸裸的事实是我们不再需要你了。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bald
 
 
 ---

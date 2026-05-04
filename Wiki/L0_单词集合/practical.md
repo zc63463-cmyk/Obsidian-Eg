@@ -124,9 +124,15 @@ practic（[[practice|实践]]）+ -al（形容词后缀，"与...有关的"）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Traditional tests best assess analytical and verbal skills but fail to measure creativity and practical knowledge." `` `[真题]` ``
-> - "The NT Rights of the Terminally Ill law has left physicians and citizens alike trying to deal with its moral and practical implications." `` `[真题]` ``
-> - "Qualifications are important but practical experience is always a plus." `` `[COCA-ACAD]` ``
+> - Qualifications are important but practical experience is always a plus. `[例]`
+>   - 中译：资格很重要，但实践经验总是更佳。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/practical
+> - The service offers young people practical advice on finding a job. `[例]`
+>   - 中译：该服务为年轻人提供实用的找工作建议。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/practical
+> - What's the use of theoretical knowledge that has no practical application? `[例]`
+>   - 中译：没有实际应用的理论知识有什么用？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/practical
 ---
 
 

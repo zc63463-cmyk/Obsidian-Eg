@@ -3,10 +3,8 @@ title: "outdate"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-25
-mastery: L0
 word_freq: 超纲词
 semantic_field: 抽象关系
 prototype: 使过时
@@ -43,7 +41,7 @@ out-(超出/胜过) + date(日期/时代)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**使过时**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **使过时**（时间层面）
@@ -62,7 +60,7 @@ out-(超出/胜过) + date(日期/时代)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -72,7 +70,7 @@ out-(超出/胜过) + date(日期/时代)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > out（超出）+ date（日期）→ 超出了日期 → 过时。智能手机的出现 outdate 了翻盖手机——把翻盖手机"赶出了时代"。注意更常用的是 outdated（过时的）和 outdatedness（陈旧性）。
@@ -84,7 +82,7 @@ out-(超出/胜过) + date(日期/时代)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -95,13 +93,13 @@ out-(超出/胜过) + date(日期/时代)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[update]]：更新（outdate 的精确反义：使过时↔更新）
 > - [[modernize]]：使现代化
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -111,25 +109,18 @@ out-(超出/胜过) + date(日期/时代)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **outdated ideas/methods**：过时的观念/方法（更常用 outdated 形式）
 > - **outdate something**：使某物过时
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - `[例]` Rapid technological advances have outdated many traditional manufacturing methods.
-> - `[例]` The university's outdated curriculum fails to prepare students for modern careers.
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-25 | **复习次数**：0 | **当前等级**：L0
-
----
+> [!example]- 语料
+> - New technology is outdating current privacy laws. `[例]`
+> - Readers can still benefit from reading his account , although subsequent anthropological work outdates it. `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

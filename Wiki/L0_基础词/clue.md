@@ -124,9 +124,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Police are still looking for clues in their search for the missing girl . `[例]`
-> - I'm never going to guess the answer if you don't give me a clue. `[例]`
-> - I've got a crossword grid almost ready to post online — I just have to finish cluing it. `[例]`
+> - The burglar left no clues. `[例]`
+>   - 中译：窃贼没有留下任何线索。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/clue
+> - They are searching for clues about the kidnapping. `[例]`
+>   - 中译：他们正在寻找有关绑架的线索。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/clue
+> - The police think the CCTV recording may offer clues to the identity of the killer. `[例]`
+>   - 中译：警方认为闭路电视录像可能会提供凶手身份的线索。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/clue
 
 
 ---

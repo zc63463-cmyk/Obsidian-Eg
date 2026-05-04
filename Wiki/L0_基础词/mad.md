@@ -135,7 +135,7 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - He must be mad spending all that money on a coat . `[例]`
+> - He must be mad spending all that money on a coat. `[例]`
 > - Some of the things she does are completely mad. `[例]`
 > - He's always complaining and it makes me so mad. `[例]`
 

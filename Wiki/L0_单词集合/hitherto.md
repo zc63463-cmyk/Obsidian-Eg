@@ -117,8 +117,15 @@ hither(到这里) + to(到) + 无后缀
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "As a description of the next music director of an orchestra that has hitherto been led by musicians like Gustav Mahler and Pierre Boulez, that seems likely to have struck at least some Times readers as faint praise."（作为一个迄今为止由古斯塔夫·马勒和皮埃尔·布列兹等音乐家领导的交响乐团的下一任音乐总监的描述，这至少会让一些《纽约时报》的读者觉得像是勉强恭维。）——2011考研英语二阅读
-> - "Hitherto, the technology has been too expensive for widespread use."（迄今为止，这项技术对于广泛应用来说一直过于昂贵。）——考研高频表达
+> - Mira revealed hitherto unsuspected talents on the dance floor. `[例]`
+>   - 中译：米拉在舞池上展现了迄今为止未被怀疑的才华。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/hitherto
+> - Economic aid has been offered to hitherto depressed people. `[例]`
+>   - 中译：已经向迄今为止抑郁的人们提供了经济援助。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/hitherto
+> - Her life hitherto had been devoid of adventure. `[例]`
+>   - 中译：迄今为止，她的生活缺乏冒险。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hitherto
 
 ---
 

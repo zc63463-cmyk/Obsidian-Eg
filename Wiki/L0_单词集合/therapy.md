@@ -135,10 +135,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Joining a club can be a therapy for loneliness . `[例]`
-> - With physical therapy, you should eventually be able to walk again. `[例]`
-> - Have you had any therapy for your depression ? `[例]`
-> - The centre has developed a form of therapy for autistic children . `[例]`
+> - He is receiving therapy for cancer. `[例]`
+>   - 中译：他正在接受癌症治疗。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/therapy
+> - Most leukaemia patients undergo some sort of drug therapy (= treatment using drugs). `[例]`
+>   - 中译：大多数白血病患者接受某种药物治疗（=使用药物治疗）。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/therapy
+> - They recommend exercise therapy for patients with chronic back pain. `[例]`
+>   - 中译：他们建议对慢性背痛患者进行运动疗法。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/therapy
 
 ---
 

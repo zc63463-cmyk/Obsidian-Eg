@@ -128,9 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She is the new dean of the Faculty of Social Sciences . `[例]`
+> - She is the new dean of the Faculty of Social Sciences. `[例]`
 > - Parsons is the dean of the TV news correspondents at Channel Nine. `[例]`
-> - Langer is the dean of the law school . `[例]`
+> - Langer is the dean of the law school. `[例]`
 
 
 ---

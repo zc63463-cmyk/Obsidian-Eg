@@ -122,9 +122,9 @@ ex-(出，超出) + cel(升高，超越)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Rebecca always excelled in languages at school . `[例]`
-> - The British team have excelled themselves this year to reach the finals . `[例]`
-> - The woman who did the flower arranging had excelled herself that day . `[例]`
+> - Rebecca always excelled in languages at school. `[例]`
+> - The British team have excelled themselves this year to reach the finals. `[例]`
+> - The woman who did the flower arranging had excelled herself that day. `[例]`
 
 
 ---

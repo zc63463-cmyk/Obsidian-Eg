@@ -132,10 +132,9 @@ fringe(整体词，源自拉丁语 *fimbria*，穗子、边缘)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The company offers an attractive package including fringe benefits such as health insurance and paid leave. ` [真题]`
-> - Many people living on the fringes of society lack access to basic healthcare and education services. ` [真题]`
-> - Penguins nesting on the fringes of the colony had longer, deeper sleeps than those in the middle. ` [学术]`
-> - The environment is no longer a fringe issue but a mainstream political concern. ` [语料]`
+> - The hikers rested under a towering fringe near the coastal trail. `[例]`
+> - The cabin was built from durable fringe gathered in the region. `[例]`
+> - A line of fringe trees rose above the morning fog. `[例]`
 
 
 ---

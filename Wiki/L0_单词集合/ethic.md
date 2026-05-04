@@ -133,8 +133,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Out of Puritanism came the intense work ethic."（强烈的职业操守源于清教主义。）——考研高频表达
-> - "The company has adopted a strict code of business ethics."（公司采纳了严格的商业道德准则。）——考研高频表达
+> - The ethics of journalism are much debated. `[例]`
+>   - 中译：新闻职业道德备受争议。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/ethic
+> - He said he was bound by a scientist's code of ethics. `[例]`
+>   - 中译：他说他受到科学家道德准则的约束。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/ethic
+> - Publication of the article was a breach of ethics. `[例]`
+>   - 中译：这篇文章的发表违反了道德规范。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/ethic
 
 ---
 

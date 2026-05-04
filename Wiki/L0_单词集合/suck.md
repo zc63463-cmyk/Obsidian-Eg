@@ -129,9 +129,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She was sitting on the grass sucking lemonade through a straw . `[例]`
-> - Greenfly can literally suck a plant dry. `[例]`
-> - I sucked my thumb until I was seven. `[例]`
+> - She was noisily sucking up milk through a straw. `[例]`
+>   - 中译：她正用吸管大声吸牛奶。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/suck
+> - He sucked the blood from a cut on his finger. `[例]`
+>   - 中译：他吸吮手指上伤口的血。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/suck
+> - The baby sucked at its mother's breast. `[例]`
+>   - 中译：婴儿吮吸着母亲的乳房。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/suck
 
 
 ---

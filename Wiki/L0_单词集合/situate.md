@@ -131,10 +131,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - To understand this issue, it must first be situated in its context. `[COCA-ACAD]`
-> - The hotel is situated on a cliff overlooking the sea. `[COCA-FICT]`
-> - The Supreme Court is poorly situated to resolve those disputes on the fly. `[COCA-ACAD]`
-> - The women have the opportunity to situate their own struggles in a wider historical context. `[COCA-ACAD]`
+> - To understand this issue , it must first be situated in its context. `[例]`
+>   - 中译：要理解这个问题，首先必须置于其背景中。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/situate
+> - The restaurant is situated near the Hudson River. `[例]`
+>   - 中译：餐厅位于哈德逊河附近。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/situate
+> - Let me try and situate the events in their historical context. `[例]`
+>   - 中译：让我尝试将这些事件置于其历史背景中。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/situate
 
 ---
 

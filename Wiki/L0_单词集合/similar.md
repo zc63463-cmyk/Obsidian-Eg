@@ -133,10 +133,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The results are similar to those reported in earlier studies. `[COCA-ACAD]`
-> - They had similar experiences growing up, even though they came from vastly different backgrounds. `[COCA-ACAD]`
-> - The disease attacks the immune system in a similar way to AIDS. `[COCA-ACAD]`
-> - Data from the rest of the country show a similar pattern. `[COCA-ACAD]`
+> - Hom said similar registration requirements could benefit struggling cities and towns , but " if we want to make a change in the housing market, the main one is we have to build a lot more. `[真题]`
+>   - 中译：霍姆表示，类似的登记要求可能会让陷入困境的城镇受益，但“如果我们想改变房地产市场，最主要的是我们必须建造更多。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - My father and I have similar views on politics. `[例]`
+>   - 中译：我和父亲对政治的看法很相似。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/similar
+> - I bought some new shoes which are very similar to a pair I had before. `[例]`
+>   - 中译：我买了一些新鞋，与我以前穿过的一双非常相似。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/similar
 
 
 ---

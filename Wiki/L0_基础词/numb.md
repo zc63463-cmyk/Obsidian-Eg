@@ -127,9 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - My fingers were numb with cold . `[例]`
+> - My fingers were numb with cold. `[例]`
 > - I was lying in a weird position and my leg went numb. `[例]`
-> - When she first heard the news , she was numb with disbelief . `[例]`
+> - When she first heard the news , she was numb with disbelief. `[例]`
 
 
 ---

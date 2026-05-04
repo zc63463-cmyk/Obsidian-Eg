@@ -127,10 +127,15 @@ country 源自古法语 *contrée*（地区、领地），来自拉丁语 *contr
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Developing countries face unique challenges in the global economy. `[真题]`
-> - They drove across the country from California to New York. `[语料库]`
-> - The whole country was stunned by the news. `[语料库]`
-> - Canada is a developed country with a strong economy. `[真题]`
+> - It's good to meet people from different parts of the country. `[例]`
+>   - 中译：很高兴认识来自全国各地的人们。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/country
+> - She didn't know what life in a foreign country would be like. `[例]`
+>   - 中译：她不知道异国他乡的生活会是什么样子。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/country
+> - It's the most popular music festival in the country. `[例]`
+>   - 中译：这是该国最受欢迎的音乐节。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/country
 
 
 ---

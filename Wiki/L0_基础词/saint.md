@@ -129,9 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Thanks so much for doing that. You're a saint. `[外刊]`
-> - Your mother's a saint. She's done so much to help us. `[外刊]`
-> - Here also are conserved the remains of St Stanislaus, the patron saint of the Poles. `[外刊]`
+> - Thanks so much for doing that. You're a saint. `[例]`
+> - Your mother's a saint. She's done so much to help us. `[例]`
+> - Here also are conserved the remains of St Stanislaus, the patron saint of the Poles. `[例]`
 
 
 ---

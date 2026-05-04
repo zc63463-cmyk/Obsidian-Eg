@@ -125,9 +125,9 @@ sob 是一个拟声词（imitative origin），约公元1200年出现于中古�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - I found her sobbing in the bedroom because she'd broken her favourite doll . `[例]`
+> - I found her sobbing in the bedroom because she'd broken her favourite doll. `[例]`
 > - You're not going to help matters by lying there sobbing! `[例]`
-> - I could hear her sobs from the next room . `[例]`
+> - I could hear her sobs from the next room. `[例]`
 
 
 ---

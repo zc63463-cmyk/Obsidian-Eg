@@ -135,10 +135,10 @@ vibr（颤动、摇动，拉丁语 *vibrare*）+ -ate（动词后缀，使……
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "All sound starts with something that vibrates." `[权威语料]`
-> - "She was swaying from side to side, bobbing her head to the bass vibrating throughout the sold-out venue." `[权威语料]`
-> - "The earthquake caused the ground to vibrate violently." `[权威语料]`
-> - "She vibrates with excitement when she sees her favorite band perform live." `[权威语料]`
+> - All sound starts with something that vibrates. `[例]`
+> - She was swaying from side to side, bobbing her head to the bass vibrating throughout the sold-out venue. `[例]`
+> - The earthquake caused the ground to vibrate violently. `[例]`
+> - She vibrates with excitement when she sees her favorite band perform live. `[例]`
 
 
 ---

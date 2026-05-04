@@ -134,10 +134,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Plants absorb radiant energy from sunlight." `[COCA-ACAD]`
-> - "The earth would be a frozen ball if it were not for the radiant heat of the sun." `[COCA-ACAD]`
-> - "She looked absolutely radiant on her wedding day." `[COCA-FIC]`
-> - "Their faces are radiant with adoration." `[COCA-NEWS]`
+> - He gave a radiant smile when he heard her news. `[例]`
+>   - 中译：当他听到她的消息时，他露出了灿烂的笑容。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/radiant
+> - The bride looked radiant on her wedding day. `[例]`
+>   - 中译：新娘在婚礼当天显得容光焕发。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/radiant
+> - Plants absorb radiant energy from sunlight. `[例]`
+>   - 中译：植物吸收阳光的辐射能。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/radiant
 
 ---
 

@@ -127,8 +127,8 @@ review_count: 0
 
 > [!example]- 语料
 > - To her dismay, she discovered that the paper was due a whole month earlier than she had expected. `[真题]`
-> - The fans watched in dismay as their team lost 42-11. `[真题]`
 > - The news has been greeted with dismay by local business leaders. `[真题]`
+> - Aid workers were said to have been filled with dismay by the appalling conditions that the refugees were living in. `[例]`
 
 
 ---

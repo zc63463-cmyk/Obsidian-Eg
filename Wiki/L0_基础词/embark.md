@@ -125,8 +125,9 @@ em-(=in-, 进入/放入) + bark(船，源自古法语 *barque*，船)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Millions of Europeans embarked for America in the late 19th century."（19世纪末，数百万欧洲人乘船前往美国——Merriam-Webster 例句）
-> - "Both countries have embarked on serious economic reforms."（两国都已着手进行严肃的经济改革——Longman Dictionary 例句）
+> - We embarked at Liverpool for New York. `[例]`
+> - We embarked at Miami for our Caribbean cruise. `[例]`
+> - The flight crew embarked and the plane took off. `[例]`
 
 
 ---

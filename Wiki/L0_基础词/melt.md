@@ -135,9 +135,9 @@ melt 源自古英语 *meltan*，与拉丁语 *molere*（磨碎）可能同源，
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He'd been going to refuse, but his heart melted when he saw the children's faces." `[COCA-FICT]`
-> - "Opposition to the government melted away after the president's speech." `[COCA-NEWS]`
-> - "The crowd around the bench began to melt away." `[COCA-FICT]`
+> - He'd been going to refuse, but his heart melted when he saw the children's faces. `[COCA-FICT]`
+> - Opposition to the government melted away after the president's speech. `[COCA-NEWS]`
+> - A line of melt trees rose above the morning fog. `[例]`
 
 
 ---

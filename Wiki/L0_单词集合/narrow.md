@@ -133,8 +133,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The government won the election by a narrow margin."（政府以微弱优势赢得了选举。）——考研高频表达
-> - "He escaped through a narrow gap in the wall."（他从墙上的一个狭窄缝隙中逃了出去。）——考研高频表达
+> - The little village has very narrow streets. `[例]`
+>   - 中译：这个小村庄的街道非常狭窄。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/narrow
+> - They had a narrow escape when their car crashed. `[例]`
+>   - 中译：当他们的车发生车祸时，他们死里逃生。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/narrow
+> - The evening sun slanted through the narrow window. `[例]`
+>   - 中译：傍晚的阳光从狭窄的窗户斜射进来。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/narrow
 
 ---
 

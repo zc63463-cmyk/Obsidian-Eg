@@ -134,9 +134,15 @@ pro-(向前/按照) + port(部分，拉丁语 *porta*，与 *part* 同源) + -io
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Children make up a large proportion of the world's population . `[例]`
-> - A higher proportion of men are willing to share household responsibilities than used to be the case . `[例]`
-> - The report shows that poor families spend a larger proportion of their income on food . `[例]`
+> - Children make up a large proportion of the world's population. `[例]`
+>   - 中译：儿童占世界人口的很大一部分。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/proportion
+> - A higher proportion of men are willing to share household responsibilities than used to be the case. `[例]`
+>   - 中译：与过去相比，愿意分担家庭责任的男性比例更高。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/proportion
+> - The report shows that poor families spend a larger proportion of their income on food. `[例]`
+>   - 中译：报告显示，贫困家庭收入的很大一部分花在食品上。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/proportion
 
 
 ---

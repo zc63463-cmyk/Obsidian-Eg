@@ -128,9 +128,15 @@ camp（田野/营地）+ -us（拉丁语名词后缀）→ 有建筑物的田野
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Smith's research project on campus sports activities. `[真题]`
-> - There's accommodation for about 500 students on campus. `[例]`
-> - Surrounded by lovely trees , the Dartmouth campus is big and beautiful . `[例]`
+> - The university has campuses in Cairns and Brisbane. `[例]`
+>   - 中译：该大学在凯恩斯和布里斯班设有校区。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/campus
+> - She lives on campus (= within the main university area). `[例]`
+>   - 中译：她住在校园内（= 在大学主区内）。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/campus
+> - The number of graduate students living off campus has dropped. `[例]`
+>   - 中译：住在校外的研究生人数有所下降。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/campus
 
 
 ---

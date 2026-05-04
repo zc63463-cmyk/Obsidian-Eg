@@ -136,9 +136,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The child vanished while on her way home from school . `[例]`
-> - We ran out after the thief , but he had vanished into thin air (= had completely disappeared ) . `[例]`
-> - Cheap rural housing is vanishing in the south of the country . `[例]`
+> - He turned around and vanished into the house. `[例]`
+>   - 中译：他转身消失在屋子里。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/vanish
+> - The magician vanished in a puff of smoke. `[例]`
+>   - 中译：魔法师化作一缕青烟消失了。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/vanish
+> - My glasses seem to have vanished. `[例]`
+>   - 中译：我的眼镜好像不见了。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/vanish
 
 ---
 

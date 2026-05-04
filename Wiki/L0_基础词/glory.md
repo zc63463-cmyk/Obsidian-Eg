@@ -133,9 +133,9 @@ glory 源自拉丁语 *gloria*（光荣、荣耀），原始印欧语词根 *ghe
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Becoming a Supreme Court judge was the crowning glory of her career." `[语料库]`
-> - "They spent millions restoring the theatre to its former glory." `[语料库]`
-> - "The sun emerged from behind the clouds in all its glory." `[语料库]`
+> - Becoming a Supreme Court judge was the crowning glory of her career. `[例]`
+> - They spent millions restoring the theatre to its former glory. `[例]`
+> - The sun emerged from behind the clouds in all its glory. `[例]`
 
 
 ---

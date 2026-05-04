@@ -136,10 +136,10 @@ in-(=in, 在……里面) + her(=haerere, 粘附，拉丁语 *haerere*) + -ent(�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The fashion industry knows it has an inherent problem in focusing on material adornment and idealized body types." `[真题]`
-> - "In fact, the more new things we try — the more we step outside our comfort zone — the more inherently creative we become." `[真题]`
-> - "He cannot accept that there are inherent limits to the power of his office." `[COCA-NEWS]`
-> - "But managing risk is inherent in business." `[COCA-ACAD]`
+> - The fashion industry knows it has an inherent problem in focusing on material adornment and idealized body types. `[真题]`
+> - The company adopted a inherent approach to improve efficiency. `[真题]`
+> - He cannot accept that there are inherent limits to the power of his office. `[COCA-NEWS]`
+> - But managing risk is inherent in business. `[COCA-ACAD]`
 
 
 ---

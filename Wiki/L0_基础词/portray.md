@@ -129,9 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The painting portrays a beautiful young woman in a blue dress . `[例]`
-> - The writer portrays life in a small village at the turn of the century . `[例]`
-> - The father in the film is portrayed as a fairly unpleasant character . `[例]`
+> - The painting portrays a beautiful young woman in a blue dress. `[例]`
+> - The writer portrays life in a small village at the turn of the century. `[例]`
+> - The father in the film is portrayed as a fairly unpleasant character. `[例]`
 
 
 ---

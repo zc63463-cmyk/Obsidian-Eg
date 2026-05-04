@@ -127,10 +127,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The restaurant caters mainly to foreign tourists."（这家餐厅主要迎合外国游客的口味）——旅游话题
-> - "TV programs should cater to the needs of different age groups."（电视节目应该迎合不同年龄段人群的需求）——媒体话题
-> - "The company was hired to cater for the conference."（这家公司被雇佣为会议提供餐饮服务）——商业话题
-> - "Many politicians cater to public opinion rather than lead it."（许多政客迎合民意而非引领民意）——政治话题
+> - I'm catering for twelve on Sunday - the whole family is coming. `[例]`
+>   - 中译：周日我要为十二个人准备饭菜——全家人都会来。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/cater
+> - Which firm will be catering at the wedding reception? `[例]`
+>   - 中译：哪家公司将在婚宴上提供餐饮服务？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/cater
+> - Who catered your party? `[例]`
+>   - 中译：谁为您的聚会提供餐饮？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/cater
 
 ---
 

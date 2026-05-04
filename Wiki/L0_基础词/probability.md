@@ -133,7 +133,7 @@ review_count: 0
 
 > [!example]- 语料
 > - The probability of getting all the answers correct is about one in ten. `[例]`
-> - Until yesterday , the project was just a possibility , but now it has become a real probability (= it is likely to happen ) . `[例]`
+> - Until yesterday , the project was just a possibility , but now it has become a real probability (= it is likely to happen ). `[例]`
 > - There's a high probability (= it is very likely that) she'll be here. `[例]`
 
 

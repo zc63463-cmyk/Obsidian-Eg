@@ -131,8 +131,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - After the earthquake many roads were obstructed by collapsed buildings . `[例]`
-> - Her view of the stage was obstructed by a pillar . `[例]`
+> - After the earthquake many roads were obstructed by collapsed buildings. `[例]`
+> - Her view of the stage was obstructed by a pillar. `[例]`
 > - An accident is obstructing traffic on the M11. `[例]`
 
 

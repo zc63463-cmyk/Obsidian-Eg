@@ -128,9 +128,9 @@ petit-(小的，法语 *petit*) + -y(形容词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Prisoners complain that they are subjected to too many petty rules and restrictions. `[词典]`
-> - The neighbourhood is safe, but there's a fair amount of petty crime such as package theft and car break-ins. `[词典]`
-> - The new legislation would allow police to arrest and fingerprint people accused of petty crimes. `[词典]`
+> - Prisoners complain that they are subjected to too many petty rules and restrictions. `[例]`
+> - The neighbourhood is safe, but there's a fair amount of petty crime such as package theft and car break-ins. `[例]`
+> - The new legislation would allow police to arrest and fingerprint people accused of petty crimes. `[例]`
 
 
 ---

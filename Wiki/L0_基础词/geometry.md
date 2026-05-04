@@ -132,10 +132,10 @@ geo-(=ge, 土地/地球) + [[meter-metr|metr]](=meter, 测量) + -y(名词后缀
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The geometry of the building is remarkably complex." `[真题]`
-> - "The geometry of Sydney's famed opera house is suggestive of some modernistic sailing ship." `[权威语料]`
-> - "He analyzed the geometry of chemical bonds to understand molecular structure." `[权威语料]`
-> - "The new study said the geometry of a volcano's crater has a major impact on the sounds a volcano can produce." `[权威语料]`
+> - The geometry of the building is remarkably complex. `[真题]`
+> - The geometry of Sydney's famed opera house is suggestive of some modernistic sailing ship. `[例]`
+> - He analyzed the geometry of chemical bonds to understand molecular structure. `[例]`
+> - The new study said the geometry of a volcano's crater has a major impact on the sounds a volcano can produce. `[例]`
 
 
 ---

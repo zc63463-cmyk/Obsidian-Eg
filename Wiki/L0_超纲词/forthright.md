@@ -3,10 +3,8 @@ title: "forthright"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 人本世界
 prototype: 直率的（径直向前，不拐弯抹角）
@@ -44,7 +42,7 @@ forth(向前) + right(直的，正确的)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**直率的**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **直率的**（行为方式层面）
@@ -65,7 +63,7 @@ forth(向前) + right(直的，正确的)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ forth(向前) + right(直的，正确的)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > forth（向前）+ right（笔直的）= forthright（直率的）。想象一条路——forth 是"向前"，right 是"笔直的"，forthright 就是"径直向前走"。说话 forthright 的人就像走直线一样——不拐弯抹角，不绕圈子。注意区分 forthright（直率的）和 straightforward（直截了当的），意思相近。
@@ -88,7 +86,7 @@ forth(向前) + right(直的，正确的)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ forth(向前) + right(直的，正确的)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[evasive]]：逃避的，含糊的（forthright↔evasive：直率的↔含糊其辞的）
 > - [[devious]]：迂回的，不坦诚的（forthright↔devious：直接的↔迂回的）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,7 +116,7 @@ forth(向前) + right(直的，正确的)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a forthright manner**：直率的态度
 > - **forthright opinions**：直言不讳的观点
 > - **a forthright discussion**：坦率的讨论
@@ -126,19 +124,12 @@ forth(向前) + right(直的，正确的)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - His forthright manner can be mistaken for rudeness . `[例]`
-> - I admire her forthright way of dealing with people . `[例]`
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
+> [!example]- 语料
+> - His forthright manner can be mistaken for rudeness. `[例]`
+> - I admire her forthright way of dealing with people. `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

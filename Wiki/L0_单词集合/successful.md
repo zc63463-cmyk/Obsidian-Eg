@@ -123,9 +123,15 @@ suc-(=sub-, 在后面) + cess(走) + -ful(形容词后缀，表"充满……的"
 ## 真题/语料关联
 
 > [!example]- 语料
-> - For AI to be successful, data needs to be accessible, but the use of personal data is becoming more regulated and the automated sharing of data is becoming more difficult. ( 49 ) If customers are not willing to share data, AI will be starved of essential information and will not be able to function effectively or employ machine learning to improve its marketing content and communication. `[真题]`
-> - My second attempt at making bread was a little more successful. `[例]`
-> - This year's harvest was one of the most successful since the record crop of 1985. `[例]`
+> - The experiment was entirely successful. `[例]`
+>   - 中译：实验完全成功。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/successful
+> - We congratulated them on the successful completion of the project. `[例]`
+>   - 中译：我们对他们项目的成功完成表示祝贺。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/successful
+> - He's always been highly successful in his work. `[例]`
+>   - 中译：他的工作一直非常成功。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/successful
 
 
 ---

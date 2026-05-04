@@ -132,8 +132,8 @@ review_count: 0
 
 > [!example]- 语料
 > - I could hardly hear her at the back. `[例]`
-> - The party had hardly started when she left . `[例]`
-> - We hardly ever (= almost never) go to concerts . `[例]`
+> - The party had hardly started when she left. `[例]`
+> - We hardly ever (= almost never) go to concerts. `[例]`
 
 
 ---

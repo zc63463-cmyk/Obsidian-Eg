@@ -127,9 +127,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She consulted many respectable people in the village, but none could see a way out of the difficulty." `[COCA-FICT]`
-> - "We consulted the committee's report for advice on how to proceed." `[COCA-ACAD]`
-> - "She accuses him of making the decision to perform without consulting her first." `[COCA-ACAD]`
+> - If the pain continues, consult your doctor. `[例]`
+>   - 中译：如果疼痛持续，请咨询您的医生。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/consult
+> - Have you consulted your lawyer about this? `[例]`
+>   - 中译：你有咨询过你的律师吗？
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/consult
+> - Consult with your physician about possible treatments. `[例]`
+>   - 中译：向您的医生咨询可能的治疗方法。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/consult
 
 
 ---

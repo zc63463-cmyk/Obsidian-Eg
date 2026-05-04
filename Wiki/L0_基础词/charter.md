@@ -133,9 +133,15 @@ charter 源自古法语 *chartre*，源自拉丁语 *charta*（纸、纸莎草�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - A charter of rights. `[例]`
-> - Education is one of the basic human rights written into the United Nations Charter. `[例]`
-> - They've chartered a plane to take delegates to the conference . `[例]`
+> - The Royal College received its charter as a university in 1967. `[例]`
+>   - 中译：皇家学院于 1967 年获得大学执照。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/charter
+> - Certain towns were allowed to hold weekly markets, by royal charter. `[例]`
+>   - 中译：根据皇家特许，某些城镇可以每周举办一次集市。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/charter
+> - The new law will be a charter for unscrupulous financial advisers. `[例]`
+>   - 中译：新法律将成为无良财务顾问的章程。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/charter
 
 
 ---

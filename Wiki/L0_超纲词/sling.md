@@ -3,10 +3,8 @@ title: "sling"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-25
-mastery: L0
 word_freq: 超纲词
 semantic_field: 物品工具
 prototype: 抛掷，悬挂的带子
@@ -44,7 +42,7 @@ sling（源自古诺斯语 *slengva*，意为"抛，掷"）
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**抛掷，悬挂的带子**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **抛掷**（动作层面）
@@ -68,7 +66,7 @@ sling（源自古诺斯语 *slengva*，意为"抛，掷"）
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -79,7 +77,7 @@ sling（源自古诺斯语 *slengva*，意为"抛，掷"）
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > sling 原指古代的投石器——大卫用 sling 击败了巨人歌利亚。手臂骨折后，医生用布带把你的手臂"挂"在脖子上——那个布带就是 sling。妈妈把婴儿"挂"在胸前或背上的背带也是 sling。sling 的核心动作就是"甩"——甩出去或甩起来。
@@ -91,7 +89,7 @@ sling（源自古诺斯语 *slengva*，意为"抛，掷"）
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,13 +102,13 @@ sling（源自古诺斯语 *slengva*，意为"抛，掷"）
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[catch]]：接住（sling 的反义：抛出↔接住）
 > - [[release]]：释放，放下（sling 的反义：悬挂↔放下）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,26 +118,19 @@ sling（源自古诺斯语 *slengva*，意为"抛，掷"）
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **arm in a sling**：手臂吊着绷带
 > - **sling mud at**：诽谤，抹黑
 > - **baby sling**：婴儿背带
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - Don't just sling your bag on the floor ! `[例]`
-> - If any of the letters aren't interesting just sling them in the bin . `[例]`
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-25 | **复习次数**：0 | **当前等级**：L0
-
----
+> [!example]- 语料
+> - Don't just sling your bag on the floor! `[例]`
+> - If any of the letters aren't interesting just sling them in the bin. `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

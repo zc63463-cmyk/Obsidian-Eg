@@ -126,8 +126,15 @@ pre-(在前面、提前) + par(准备、安排) + -ation(名词后缀，表动�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Thorough preparation is essential for success in any competitive examination."（充分的准备对于在任何竞争性考试中取得成功至关重要。）——考研高频表达
-> - "The country is making preparations for a possible economic downturn by increasing its foreign reserves."（该国正在通过增加外汇储备为可能的经济衰退做准备。）——考研高频表达
+> - The teacher didn't seem to have done much preparation for the class. `[例]`
+>   - 中译：老师似乎没有为这堂课做太多的准备。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/preparation
+> - The team blamed injuries and lack of preparation for their loss. `[例]`
+>   - 中译：球队将失利归咎于伤病和准备不足。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/preparation
+> - Yasmin assisted in the preparation of this article. `[例]`
+>   - 中译：Yasmin 协助准备了本文。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/preparation
 ---
 
 

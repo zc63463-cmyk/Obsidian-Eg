@@ -127,10 +127,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The author frequently refers to historical data to support his argument. `[真题]`
-> - In his speech, the president referred to the need for greater international cooperation. `[真题]`
-> - Patients are mostly referred to hospital by their general practitioners. `[COCA-ACAD]`
-> - The term "electronics" refers to electrically-induced action. `[COCA-ACAD]`
+> - You should make another appointment with your family doctor and insist that they refer you. `[例]`
+>   - 中译：您应该再次与您的家庭医生预约并坚持让他们转介您。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/refer
+> - After the operation , her liver failed and doctors referred her for an emergency transplant. `[例]`
+>   - 中译：手术后，她的肝脏衰竭，医生建议她进行紧急移植手术。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/refer
+> - Your doctor may refer you to a physiotherapist to help you with the exercises. `[例]`
+>   - 中译：您的医生可能会将您转介给物理治疗师来帮助您进行锻炼。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/refer
 
 ---
 

@@ -137,9 +137,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She sat through the whole meeting without uttering a word. `[例]`
-> - The meeting was a complete and utter waste of time . `[例]`
-> - Lying back in the hot bath was utter bliss . `[例]`
+> - That's complete and utter nonsense! `[例]`
+>   - 中译：这完全是一派胡言！
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/utter
+> - To my utter amazement she agreed. `[例]`
+>   - 中译：令我大吃一惊的是，她竟然同意了。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/utter
+> - It's hard to believe that we were utter strangers just a few days ago. `[例]`
+>   - 中译：很难相信就在几天前我们还是陌生人。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/utter
 
 ---
 

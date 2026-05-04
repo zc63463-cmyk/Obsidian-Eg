@@ -136,10 +136,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Scientists are skeptical about the new research findings. `[真题]`
-> - Economists, like almost everyone else, say they are skeptical about such calculations. `[COCA-ACAD]`
-> - Many medical experts remain deeply skeptical about acupuncture. `[COCA-NEWS]`
-> - A skeptical attitude is essential in scientific inquiry. `[COCA-ACAD]`
+> - I'm a bit skeptical about his chances of success. `[例]`
+>   - 中译：我对他成功的机会有点怀疑。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/skeptical
+> - Dan thinks it will all work out but I remain skeptical. `[例]`
+>   - 中译：丹认为一切都会解决，但我仍然持怀疑态度。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/skeptical
+> - Ruth is convinced that it's a good idea but I'm deeply skeptical. `[例]`
+>   - 中译：露丝确信这是个好主意，但我对此深表怀疑。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/skeptical
 
 ---
 

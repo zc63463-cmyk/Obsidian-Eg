@@ -127,9 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "His murder triggered vicious race riots across the city." `[真题]`
-> - "All the cacti were in flower, so that the desert was a riot of colour." `[真题]`
-> - "Food riots resulted in two deaths and looting throughout the city." `[真题]`
+> - His murder triggered vicious race riots across the city. `[真题]`
+> - All the cacti were in flower, so that the desert was a riot of colour. `[真题]`
+> - Food riots resulted in two deaths and looting throughout the city. `[真题]`
 
 
 ---

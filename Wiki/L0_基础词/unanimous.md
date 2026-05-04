@@ -127,9 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The jury returned a unanimous verdict of guilty after a short deliberation . `[例]`
-> - After a lengthy discussion we reached a unanimous decision on the proposal . `[例]`
-> - The new format has unanimous support . `[例]`
+> - The jury returned a unanimous verdict of guilty after a short deliberation. `[例]`
+> - After a lengthy discussion we reached a unanimous decision on the proposal. `[例]`
+> - The new format has unanimous support. `[例]`
 
 
 ---

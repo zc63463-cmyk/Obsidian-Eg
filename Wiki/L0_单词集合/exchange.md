@@ -133,8 +133,15 @@ ex-(出) + change(改变，交换)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "They make many personal sacrifices in exchange for income today."（他们做出了许多个人牺牲以换取今天的收入。）——考研高频表达
-> - "Any social group that encourages free exchange of ideas and pursuit of knowledge is beneficial."（任何鼓励自由交流思想和追求知识的社会群体都是有益的。）——考研高频表达
+> - They were given food and shelter in exchange for work. `[例]`
+>   - 中译：他们以工作换取食物和住所。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/exchange
+> - She proposes an exchange of contracts at two o'clock. `[例]`
+>   - 中译：她提议两点钟交换合同。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/exchange
+> - Several people were killed during the exchange of gunfire. `[例]`
+>   - 中译：交火中多人死亡。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/exchange
 ---
 
 

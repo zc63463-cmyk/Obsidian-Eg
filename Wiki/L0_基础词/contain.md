@@ -126,9 +126,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The allegations contained in this report are very serious." `[COCA-NEWS]`
-> - "The police were unable to contain the fighting." `[COCA-NEWS]`
-> - "Your stomach contains acid to help you digest your food." `[COCA-ACAD]`
+> - The documents contain sensitive information. `[例]`
+>   - 中译：这些文件包含敏感信息。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/contain
+> - Electronic products contain hazardous materials that cannot be deposited in landfills. `[例]`
+>   - 中译：电子产品含有不能存放在垃圾填埋场的危险材料。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/contain
+> - His account contained an element of truth. `[例]`
+>   - 中译：他的叙述包含了一定的真实性。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/contain
 
 
 ---

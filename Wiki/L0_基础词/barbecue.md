@@ -131,10 +131,15 @@ barbecue 源自西班牙语 *barbacoa*，可能来自泰诺语（加勒比海原
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "We're having a barbecue on Saturday — I hope you can come." `[COCA-SPOKEN]`
-> - "Make sure you light the barbecue in plenty of time, and I'll prepare the food." `[COCA-SPOKEN]`
-> - "They serve the best barbecue in town." `[COCA-NEWS]`
-> - "He barbecued a whole chicken for the party." `[例]`
+> - Let's have a barbecue! `[例]`
+>   - 中译：我们去吃烧烤吧！
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/barbecue
+> - We barbecued chicken and ribs. `[例]`
+>   - 中译：我们烤了鸡肉和排骨。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/barbecue
+> - We barbecue often during the summer. `[例]`
+>   - 中译：夏天我们经常烧烤。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/barbecue
 
 
 ---

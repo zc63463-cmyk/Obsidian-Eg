@@ -3,10 +3,8 @@ title: "out-of-town"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-25
-mastery: L0
 word_freq: 超纲词
 semantic_field: 抽象关系
 prototype: 外地的
@@ -43,7 +41,7 @@ out [[ob|of]](在……之外) + town(城镇)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**城外的**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **城外的**（空间层面）
@@ -64,7 +62,7 @@ out [[ob|of]](在……之外) + town(城镇)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ out [[ob|of]](在……之外) + town(城镇)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > out of town 就是"不在城里"——字面意思。你去外地出差，就是 take an out-of-town trip。外地来的客户，就是 out-of-town clients。简单直接，不需要复杂记忆。
@@ -86,7 +84,7 @@ out [[ob|of]](在……之外) + town(城镇)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -97,13 +95,13 @@ out [[ob|of]](在……之外) + town(城镇)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[local]]：本地的（out-of-town 的精确反义：外地的↔本地的）
 > - [[in-town]]：城内的
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -113,26 +111,19 @@ out [[ob|of]](在……之外) + town(城镇)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **out-of-town visitors**：外地游客
 > - **out-of-town trip**：出城旅行
 > - **out-of-town shopping**：去城外购物
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - `[例]` The conference attracted a large number of out-of-town visitors this year.
-> - `[例]` She took an out-of-town trip to visit her grandparents last weekend.
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-25 | **复习次数**：0 | **当前等级**：L0
-
----
+> [!example]- 语料
+> - The researchers proposed a out of town solution to the problem. `[例]`
+> - The company adopted a out of town approach to improve efficiency. `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

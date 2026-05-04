@@ -131,9 +131,15 @@ con-(=together, 共同) + [[nect]](=bind, 绑) → 共同绑在一起→连接
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The new highway is designed to connect the remote village with the major cities in the region. `[COCA-ACAD]`
-> - Researchers are trying to connect the findings of various studies to form a more complete picture of the phenomenon. `[COCA-ACAD]`
-> - More and more people can connect to the Internet through mobile devices. `[例]`
+> - Can I connect my printer to your computer? `[例]`
+>   - 中译：我可以将打印机连接到您的计算机吗？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/connect
+> - Where does the stove connect to the electricity? `[例]`
+>   - 中译：炉子在哪里连接电源？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/connect
+> - I'll just connect up the printer to the computer and then we'll be ready to go. `[例]`
+>   - 中译：我只需将打印机连接到计算机，然后我们就可以开始了。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/connect
 ---
 
 

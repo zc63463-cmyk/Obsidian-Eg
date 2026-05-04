@@ -126,10 +126,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The government must invest in renewable energy; otherwise, the environmental crisis will worsen." `[真题]`
-> - "He is not lazy; otherwise, he would not have completed the project ahead of schedule." `[真题]`
-> - "Art allows us to express things that we would not be able to express otherwise." `[COCA-ACAD]`
-> - "The test helps identify problems that might otherwise go unnoticed." `[COCA-ACAD]`
+> - Call home , otherwise your parents will start to worry. `[例]`
+>   - 中译：打电话回家，否则你的父母会开始担心。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/otherwise
+> - I'd better tell him about the letter , otherwise he might be angry. `[例]`
+>   - 中译：我最好把这封信的事告诉他，否则他可能会生气。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/otherwise
+> - You'd better hurry , otherwise you'll miss the train. `[例]`
+>   - 中译：你最好快点，否则你会错过火车的。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/otherwise
 
 ---
 

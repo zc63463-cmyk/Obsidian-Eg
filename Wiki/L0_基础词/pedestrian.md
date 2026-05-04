@@ -139,9 +139,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - A pedestrian crossing 8th St. impressed us with his boldness. `[The New Yorker]`
-> - He was rather a pedestrian student. `[剑桥语料]`
-> - The Stillwater Planning Commission voted to recommend approval of the project after adding a requirement that the developer fund a pedestrian crossing of 80th Street North. `[Idaho Statesman]`
+> - A pedestrian crossing 8th St. impressed us with his boldness. `[例]`
+> - He was rather a pedestrian student. `[例]`
+> - The Stillwater Planning Commission voted to recommend approval of the project after adding a requirement that the developer fund a pedestrian crossing of 80th Street North. `[例]`
 
 
 ---

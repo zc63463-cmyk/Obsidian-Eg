@@ -134,9 +134,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - An updated version of the software. `[例]`
-> - We'll update you on this news story throughout the day . `[例]`
-> - Jo's just doing an update on the mailing list . `[例]`
+> - I'll be updating you shortly. `[例]`
+>   - 中译：我很快就会向您通报最新情况。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/update
+> - I called the office to update them on the day's developments. `[例]`
+>   - 中译：我打电话给办公室，向他们通报当天的最新进展。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/update
+> - The site tells you when the information was last updated. `[例]`
+>   - 中译：该网站会告诉您信息上次更新的时间。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/update
 
 ---
 

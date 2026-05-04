@@ -131,10 +131,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Consumer behavior is influenced by a complex interplay of psychological, social, and economic factors. `[COCA-ACAD]`
-> - The behavior of the economy during the recession defied most economists' predictions. `[COCA-ACAD]`
-> - Human behavior cannot be fully understood without considering the cultural context in which it occurs. `[例]`
-> - Criminal behavior among adolescents has been linked to a range of environmental risk factors. `[例]`
+> - Recently, another expression of this predatory behavior has emerged: so-called support service consultancies that provide language and other editorial support to individual authors and to journals sometimes advise contributors to add a number of citations to their articles. `[真题]`
+>   - 中译：最近，这种掠夺行为的另一种表现形式出现了：所谓的支持服务咨询公司为个人作者和期刊提供语言和其他编辑支持，有时会建议撰稿人在他们的文章中添加大量引用。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - Many people complained about the behavior of some of the fans , who were loud and threatening to those around them. `[例]`
+>   - 中译：许多人抱怨一些球迷的行为，他们大声喧哗并威胁周围的人。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/behavior
+> - This approach can help identify common behaviors and their causes. `[例]`
+>   - 中译：这种方法可以帮助识别常见行为及其原因。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/behavior
 
 ---
 

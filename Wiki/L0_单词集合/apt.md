@@ -130,9 +130,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She is apt to lose her temper when things don't go as planned. `[例]`
-> - The phrase "survival of the fittest" is an apt description of the competitive nature of the market. `[例]`
-> - He is an apt student who quickly grasps new concepts. `[例]`
+> - The kitchen roof is apt to (= likely to) leak when it rains. `[例]`
+>   - 中译：下雨时厨房屋顶容易（=可能）漏水。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/apt
+> - We have some particularly apt students in the class this year. `[例]`
+>   - 中译：今年我们班上有一些特别优秀的学生。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/apt
+> - Chris’s apt comments summed up our opinions. `[例]`
+>   - 中译：克里斯的恰当评论总结了我们的观点。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/apt
 ---
 
 

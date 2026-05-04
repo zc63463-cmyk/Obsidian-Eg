@@ -136,9 +136,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "have access to education"（获得教育机会）——考研阅读高频搭配，社会公平类话题
-> - "easy access to information"（便捷获取信息）——科技/社会类阅读常见语境
-> - "open access"（开放获取）——学术类阅读常见术语
+> - The only access to the village is by boat. `[例]`
+>   - 中译：进入村庄的唯一途径是乘船。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/access
+> - The main access to (= entrance to) the building is at the side. `[例]`
+>   - 中译：建筑物的主要通道（=入口）位于侧面。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/access
+> - The children's father was refused access to them at any time (= refused official permission to see them). `[例]`
+>   - 中译：孩子们的父亲在任何时候都被拒绝探视他们（=拒绝正式允许会见他们）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/access
 
 ---
 

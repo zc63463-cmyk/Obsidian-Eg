@@ -129,9 +129,15 @@ con-(一起) + [[fer]](带来) + -ence(名词后缀) = conference（把意见带
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She will attend an international conference on education next month. `[真题]`
-> - The president held a press conference to address the growing public concern. `[真题]`
-> - The conference brought together leading scholars from around the world. `[真题]`
+> - They frequently hold conferences at that hotel. `[例]`
+>   - 中译：他们经常在那家旅馆举行会议。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/conference
+> - Should I book the conference room for the meeting? `[例]`
+>   - 中译：我应该预订会议的会议室吗？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/conference
+> - Ms O'Neill isn't available at the moment . She's in conference. `[例]`
+>   - 中译：奥尼尔女士目前没空。她正在开会。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/conference
 
 ---
 

@@ -126,10 +126,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "You infer information you feel the writer has invited you to grasp by presenting you with specific evidence and clues." `[真题]`
-> - "I inferred from her expression that she wanted to leave." `[COCA-ACAD]`
-> - "It seems reasonable to infer that the cause was not sabotage but a simple accident." `[COCA-ACAD]`
-> - "From archaeological evidence we can reasonably infer that these people used stone cutting tools." `[COCA-ACAD]`
+> - What do you infer from her refusal? `[例]`
+>   - 中译：你从她的拒绝中推断出什么？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/infer
+> - I inferred from her expression that she wanted to leave. `[例]`
+>   - 中译：我从她的表情推断出她想离开。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/infer
+> - He inferred that she was not interested in a relationship from what she said in her letter. `[例]`
+>   - 中译：他从她信中所说的推断出她对恋爱不感兴趣。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/infer
 ---
 
 

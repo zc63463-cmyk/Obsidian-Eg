@@ -131,9 +131,15 @@ al-(=ad-, to，向) + [[lev|lat]]（轻，拉丁语 *levis*）+ -iate（动词�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The medicine did nothing to alleviate her discomfort . `[例]`
 > - A number of measures were taken to alleviate the problem. `[例]`
+>   - 中译：采取了一系列措施来缓解这个问题。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/alleviate
 > - For decades, as you probably know, researchers have found that when you tell patients that you're giving them medicine, many report that their symptoms are alleviated, even if they're only taking sugar pills. `[例]`
+>   - 中译：您可能知道，几十年来，研究人员发现，当您告诉患者您正在给他们服用药物时，许多人报告说他们的症状得到了缓解，即使他们只服用糖丸。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/alleviate
+> - Granholm has spent the morning giving a major public address on state finance issues, courting local officials in meetings, and, in between, talking with me. We'd discussed the state of the Michigan economy and her ideas for developing a new high-tech corridor outside Detroit that focuses on homeland security innovation; we went over her ideas for alleviating overcrowding in the state's emergency rooms. `[例]`
+>   - 中译：格兰霍姆整个上午就国家财政问题发表了重要的公开演讲，在会议中向当地官员示好，并在会议间隙与我交谈。我们讨论了密歇根州的经济状况以及她在底特律郊外开发一条新的高科技走廊的想法，该走廊专注于国土安全创新；我们讨论了她关于缓解该州急诊室过度拥挤的想法。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/alleviate
 
 
 ---

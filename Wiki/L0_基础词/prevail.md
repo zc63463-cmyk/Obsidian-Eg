@@ -126,9 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The author mentions two books in Paragraph ;1 to present __ _ A. an ongoing conflict B. an intellectual concept C. a prevailing sentiment D. a literary phenomenon 32. `[真题]`
 > - I am sure that common sense will prevail in the end. `[例]`
-> - And did reason prevail over (= become a more powerful influence than) emotion ? `[例]`
+> - And did reason prevail over (= become a more powerful influence than) emotion? `[例]`
+> - This attitude still prevails among the middle classes. `[例]`
 
 
 ---

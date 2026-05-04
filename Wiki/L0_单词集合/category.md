@@ -129,10 +129,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Products in this category are exempt from tax."（这一类别的产品免税）——商业话题
-> - "The data was analyzed by age category and gender."（数据按年龄类别和性别进行了分析）——研究话题
-> - "This problem falls into a completely different category."（这个问题属于完全不同的类别）——学术话题
-> - "She won the award in the 'Best Actress' category."（她获得了"最佳女演员"类别的奖项）——娱乐话题
+> - There are three categories of accommodation - standard , executive , and deluxe. `[例]`
+>   - 中译：住宿分为三类：标准间、行政间和豪华间。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/category
+> - There's a prize for the fastest three runners in each category. `[例]`
+>   - 中译：每个类别中跑得最快的三名选手都有一个奖项。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/category
+> - Each category has several subdivisions. `[例]`
+>   - 中译：每个类别又有几个细分。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/category
 
 ---
 

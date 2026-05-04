@@ -130,9 +130,9 @@ fuel(整体词，源自古法语 *fouaille*，源自拉丁语 *focalia*，壁炉
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The government is trying to reduce the country's dependence on fossil fuels." `[真题]`
-> - "Rising prices fueled public anger and led to widespread protests." `[真题]`
-> - "They developed alternative fuels for aircraft." `[语料库]`
+> - The government is trying to reduce the country's dependence on fossil fuels. `[真题]`
+> - Rising prices fueled public anger and led to widespread protests. `[真题]`
+> - They developed alternative fuels for aircraft. `[例]`
 
 
 ---

@@ -147,9 +147,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Both of these books are published next week by Penguin R.andom House ( PRH) , a company currently involved in a stand-off with Waterstones. `[真题]`
-> - Granny says if she stands for a long time her ankles hurt . `[例]`
-> - As a sign of politeness , you should stand (up) when she comes in. `[例]`
+> - She was too weak to stand. `[例]`
+>   - 中译：她太虚弱了，无法站立。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/stand
+> - Don't just stand there —do something! `[例]`
+>   - 中译：不要只是站在那里——做点什么！
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/stand
+> - I was standing only a few feet away. `[例]`
+>   - 中译：我站在离我只有几英尺远的地方。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/stand
 ---
 
 

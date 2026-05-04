@@ -140,8 +140,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The role of scientists is to observe and describe the world , not to try to control it. `[例]`
-> - He spent a year in the jungle , observing how deforestation is affecting local tribes . `[例]`
-> - Children learn by observing adults . `[例]`
+>   - 中译：科学家的作用是观察和描述世界，而不是试图控制它。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/observe
+> - He spent a year in the jungle , observing how deforestation is affecting local tribes. `[例]`
+>   - 中译：他在丛林里呆了一年，观察森林砍伐对当地部落的影响。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/observe
+> - Children learn by observing adults. `[例]`
+>   - 中译：孩子们通过观察成人来学习。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/observe
 
 ---
 

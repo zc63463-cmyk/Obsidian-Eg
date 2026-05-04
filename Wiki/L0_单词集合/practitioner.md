@@ -117,9 +117,15 @@ practic（[[practice|实践]]）+ -er（名词后缀，"做...的人"）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Patients in local hospitals are treated by general practitioners." `` `[COCA-ACAD]` ``
-> - "In our legal system, most judges are appointed from the ranks of experienced legal practitioners." `` `[COCA-ACAD]` ``
-> - "As a healthcare practitioner, it is important to keep up with the latest research in your field." `` `[COCA-ACAD]` ``
+> - Elizabeth Quan is a London-based practitioner of traditional Chinese medicine. `[例]`
+>   - 中译：Elizabeth Quan 是伦敦的一位中医执业者。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/practitioner
+> - She was a medical practitioner (= a doctor ) before she entered politics. `[例]`
+>   - 中译：在进入政界之前，她是一名医生。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/practitioner
+> - He has years of experience as a senior practitioner in the financial services industry. `[例]`
+>   - 中译：他在金融服务行业拥有多年​​的资深从业经验。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/practitioner
 
 ---
 

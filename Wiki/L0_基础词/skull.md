@@ -140,9 +140,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - He suffered a fractured skull and was in a coma for two months. ` `[语料库]`
-> - She fell off her bike and fractured her skull. ` `[语料库]`
-> - The bullet penetrated his skull, causing fatal injuries. ` `[语料库]`
+> - The soldiers discovered a pile of human skulls and bones. `[例]`
+> - She fractured her skull in the accident. `[例]`
+> - The bones of the skull are not properly fused at birth. `[例]`
 
 
 ---

@@ -126,9 +126,15 @@ con-(=com-, 共同/一起) + [[ven-vent|ven]](=come, 来，拉丁语 *venire*) +
 ## 真题/语料关联
 
 > [!example]- 语料
-> - It's very convenient that you live near the office. `[COCA-FIC]`
-> - She will try to arrange a mutually convenient time and place for an interview. `[COCA-ACAD]`
-> - I find it convenient to be able to do my banking online. `[COCA-NEWS]`
+> - Fruit is a convenient source of vitamins and energy. `[例]`
+>   - 中译：水果是维生素和能量的便捷来源。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/convenient
+> - A bicycle is often more convenient than a car in towns. `[例]`
+>   - 中译：在城镇里，自行车通常比汽车更方便。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/convenient
+> - I can't see him now—it isn't convenient. `[例]`
+>   - 中译：我现在见不到他了——不方便。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/convenient
 
 
 ---

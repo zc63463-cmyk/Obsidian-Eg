@@ -122,10 +122,15 @@ im-(=in，进入) + port(=carry，运送) + -ance(名词后缀，表状态/性�
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - `He gained increasing importance in religious affairs.` `[真题]`
-> > - `The negotiations have taken on added importance in the wake of the bomb attack.` `[COCA-ACAD]`
-> > - `They attach great importance to the project.` `[COCA-ACAD]`
-> > - `It is of the utmost importance that patients receive the correct medication.` `[COCA-ACAD]`
+> - The health report stresses the importance of fresh food in a diet. `[例]`
+>   - 中译：健康报告强调了饮食中新鲜食物的重要性。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/importance
+> - She attaches a lot of importance to personal possessions. `[例]`
+>   - 中译：她非常重视个人财产。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/importance
+> - I'd just like to stress the importance of neatness and politeness in this job. `[例]`
+>   - 中译：我只是想强调整洁和礼貌在这项工作中的重要性。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/importance
 
 ---
 

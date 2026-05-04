@@ -128,8 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The government needs to cut through the red tape that is hindering economic growth."（政府需要消除阻碍经济增长的繁文缛节。——考研阅读政策话题高频表达）
-> - "The interview was recorded on tape and later transcribed for analysis."（面试被录在磁带上，后来被转录以供分析。——考研翻译研究话题相关表达）
+> - I've got that film on tape (= recorded ) if you want to borrow it. `[例]`
+> - If you give me a blank tape (= one with nothing on it) I'll record it for you. `[例]`
+> - Your tape deck has chewed up my cassette! `[例]`
 
 
 ---

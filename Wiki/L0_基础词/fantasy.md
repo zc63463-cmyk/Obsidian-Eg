@@ -137,8 +137,8 @@ fantasy 源自中世纪英语 fantasie，来自古法语 fantasie，来自拉丁
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Steve's favourite fantasy was to own a big house and a flashy car . `[例]`
-> - She retreated into a fantasy world , where she could be anything she wanted . `[例]`
+> - Steve's favourite fantasy was to own a big house and a flashy car. `[例]`
+> - She retreated into a fantasy world , where she could be anything she wanted. `[例]`
 > - His preferred reading was horror stories and fantasy. `[例]`
 
 

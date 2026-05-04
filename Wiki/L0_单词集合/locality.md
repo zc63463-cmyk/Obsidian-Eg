@@ -121,9 +121,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The economy in rural localities is not as prosperous as in urban areas. `[COCA-ACAD]`
-> - This is the biggest hospital in the locality and serves the surrounding communities. `[COCA-NEWS]`
-> - Property prices in this locality have risen sharply over the past five years. `[COCA-ACAD]`
+> - Many people are opting to live in the city rather than in rural localities. `[例]`
+>   - 中译：许多人选择住在城市而不是农村。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/locality
+> - In 19th-century Britain , industries became concentrated in particular localities. `[例]`
+>   - 中译：在 19 世纪的英国，工业开始集中在特定地区。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/locality
+> - The schools work with states , localities, teachers , and parents. `[例]`
+>   - 中译：学校与州、地方、教师和家长合作。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/locality
 ---
 
 

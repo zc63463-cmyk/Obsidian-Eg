@@ -131,10 +131,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - I was constantly ill, with a baffling array of symptoms. [考研-阅读]
-> - I was confronted with an array of knobs, levers, and switches. [考研-阅读]
-> - The company offers a wide array of financial services to its clients. `[COCA-ACAD]`
-> - The soldiers were arrayed in full battle gear on the parade ground. `[例]`
+> - There was a splendid array of food on the table. `[例]`
+>   - 中译：桌子上摆满了丰盛的食物。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/array
+> - They sat before an array of microphones and cameras. `[例]`
+>   - 中译：他们坐在一排麦克风和摄像机前。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/array
+> - A large number of magazines were arrayed on the stand. `[例]`
+>   - 中译：摊位上摆着大量的杂志。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/array
 ---
 
 

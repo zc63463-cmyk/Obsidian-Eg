@@ -130,8 +130,15 @@ honor 源自拉丁语 honor，原始印欧语 *keh₂n-（尊敬、荣誉）。
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The committee awarded him an honorable mention for his outstanding work."（委员会因他的出色工作授予其荣誉提名。）——考研高频表达
-> - "She was honored with the Nobel Prize for her contributions to science."（她因对科学的贡献而被授予诺贝尔奖。）——考研高频表达
+> - It is an honor to meet you. `[例]`
+>   - 中译：很荣幸见到您。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/honor
+> - The dinner is in honor of (= to show respect for) a colleague who is leaving. `[例]`
+>   - 中译：这次晚宴是为了纪念（=表示尊重）一位即将离开的同事。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/honor
+> - David has always been a man of honor. `[例]`
+>   - 中译：大卫一直是一个有荣誉感的人。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/honor
 ---
 
 

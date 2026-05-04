@@ -131,7 +131,7 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - For the third time this week the opposition has attacked the government's posture on defence . `[例]`
+> - For the third time this week the opposition has attacked the government's posture on defence. `[例]`
 > - The tone of the feminist speakers suggested they were adopting a somewhat defensive posture. `[例]`
 > - Businesses were co-operating across regional divides while the politicians postured. `[例]`
 

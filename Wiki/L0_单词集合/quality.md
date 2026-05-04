@@ -139,11 +139,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The quality of education has improved significantly."（教育质量有了显著提升）——教育话题
-> - "She has many fine personal qualities."（她有许多优秀的个人品质）——人物评价
-> - "the quality of mercy is not strained"（慈悲的本质不是勉强的）——莎士比亚《威尼斯商人》
-> - "quality control in manufacturing"（制造业中的质量控制）——商业话题
-> - "They are more concerned with quality than quantity."（他们更关注质量而非数量）——常见对比表达
+> - The scientific community measures the quality of those papers in a number of ways, including the perceived quality of the journal ( as reflected by the title's impact factor) and the number of citations a specific paper accumulates. `[真题]`
+>   - 中译：科学界通过多种方式衡量这些论文的质量，包括期刊的感知质量（如标题的影响因子所反映）和特定论文累积的引用次数。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - The food was of such poor quality. `[例]`
+>   - 中译：食物的质量很差。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/quality
+> - The cuts could result in a lower quality of service. `[例]`
+>   - 中译：削减可能会导致服务质量下降。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/quality
 
 ---
 

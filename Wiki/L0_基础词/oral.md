@@ -132,9 +132,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - When do you have your Spanish oral (= exam in spoken Spanish ) ? `[例]`
-> - A select committee will be taking oral evidence as part of its inquiry . `[例]`
-> - Only in borderline cases will pupils have an oral exam . `[例]`
+> - When do you have your Spanish oral (= exam in spoken Spanish )? `[例]`
+> - A select committee will be taking oral evidence as part of its inquiry. `[例]`
+> - Only in borderline cases will pupils have an oral exam. `[例]`
 
 
 ---

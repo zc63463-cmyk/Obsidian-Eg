@@ -133,9 +133,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She's French but she speaks with an impeccable English accent. `[例]`
-> - I thought I could detect a slight Canadian accent. `[例]`
-> - There's an acute accent on the e of " café ". `[例]`
+> - The Americans had learned Korean and spoke with a good accent. `[例]`
+>   - 中译：美国人学了韩语，说话口音也很好。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/accent
+> - In ‘today’ the accent is on the second syllable. `[例]`
+>   - 中译：“今天”的重音在第二个音节上。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/accent
+> - Canapé has an accent on the ‘e’. `[例]`
+>   - 中译：Canapé 的重音是“e”。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/accent
 
 
 ---

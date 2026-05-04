@@ -123,9 +123,9 @@ out-(=beyond/forth, 向外/突破) + break(=[[tract|打破]]，古英语 *brecan
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The cholera outbreak continued to spread despite efforts by health authorities to contain it." `[COCA-NEWS]`
-> - "At the outbreak of war, he enlisted as a private and served for four years." `[BNC-FICT]`
-> - "The events that led to the outbreak of World War I remain a subject of intense historical debate." `[COCA-ACAD]`
+> - The cholera outbreak continued to spread despite efforts by health authorities to contain it. `[COCA-NEWS]`
+> - At the outbreak of war, he enlisted as a private and served for four years. `[BNC-FICT]`
+> - The events that led to the outbreak of World War I remain a subject of intense historical debate. `[COCA-ACAD]`
 
 
 ---

@@ -124,8 +124,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The company faces formidable challenges in the highly competitive global market."（这家公司在竞争激烈的全球市场中面临着巨大的挑战。）——考研高频表达
-> - "She is a formidable opponent in any debate due to her sharp intellect and eloquence."（由于她敏锐的才智和雄辩的口才，她在任何辩论中都是令人敬畏的对手。）——考研高频表达
+> - She was once a political nonentity , but has since won a formidable reputation as a determined campaigner. `[例]`
+>   - 中译：她曾经在政治上无名小卒，但后来作为坚定的竞选者赢得了令人敬畏的声誉。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/formidable
+> - She is a formidable figure who commands a great deal of respect. `[例]`
+>   - 中译：她是一位令人敬畏的人物，备受尊敬。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/formidable
+> - My tennis is really improving - I've got a formidable two-handed backhand. `[例]`
+>   - 中译：我的网球技术确实在进步——我的双手反手技术非常强大。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/formidable
 
 
 ---

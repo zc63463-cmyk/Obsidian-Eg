@@ -142,10 +142,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "a firm belief in equality"（对平等的坚定信念）——考研阅读社会类话题高频搭配
-> - "law firms and consulting firms"（律师事务所和咨询公司）——商业/法律类阅读常见表达
-> - "stand firm against pressure"（顶住压力坚定不移）——政治/社会类阅读常见搭配
-> - "firm evidence"（确凿的证据）——学术/法律类阅读常见搭配
+> - I'd rather sleep on a firm mattress than a soft one. `[例]`
+>   - 中译：我宁愿睡硬床垫也不愿睡软床垫。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/firm
+> - These pears are still too firm to eat. `[例]`
+>   - 中译：这些梨还是太硬了，不能吃。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/firm
+> - The ground was not firm enough to build on. `[例]`
+>   - 中译：地面不够坚固，无法建造。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/firm
 
 ---
 

@@ -125,9 +125,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - It is this apparent transcendence of politics that explains monarchs' continuing popularity as heads of state. `[考研-2015-阅读]`
+> - Her unhappiness was apparent to everyone. `[例]`
+>   - 中译：她的不开心是所有人都看得出来的。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/apparent
 > - It was becoming increasingly apparent that he could no longer take care of himself. `[例]`
-> - The apparent contradiction between the two theories puzzled researchers for decades. `[例]`
+>   - 中译：越来越明显的是，他已经无法照顾自己了。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/apparent
+> - I was on the metro this morning when, for no apparent reason , the man opposite me suddenly screamed. `[例]`
+>   - 中译：今天早上我在地铁上，不知为何，对面的男人突然尖叫起来。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/apparent
 
 ---
 

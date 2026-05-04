@@ -121,7 +121,7 @@ tram 源自中古英语 *tramme*（滑车、轨道上的小车），可能来自
 ## 真题/语料关联
 
 > [!example]- 语料
-> - I hopped off the tram near the park . `[例]`
+> - I hopped off the tram near the park. `[例]`
 > - The city is planning to expand its tram system to reduce traffic congestion. `[例]`
 > - There is easy access to the centre of the city by tram. `[例]`
 

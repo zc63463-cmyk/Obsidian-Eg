@@ -126,9 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - It's hard work teaching a class of lively children . `[例]`
-> - There was some lively discussion at the meeting . `[例]`
-> - The room was painted a lively electric blue . `[例]`
+> - It's hard work teaching a class of lively children. `[例]`
+> - There was some lively discussion at the meeting. `[例]`
+> - The room was painted a lively electric blue. `[例]`
 
 
 ---

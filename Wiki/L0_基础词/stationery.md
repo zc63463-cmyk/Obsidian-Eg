@@ -123,7 +123,7 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - I got these folders at the stationery store . `[例]`
+> - I got these folders at the stationery store. `[例]`
 > - The company realized it was spending too much on stationery. `[例]`
 > - The logo featured on the letterhead stationery for the Association. `[例]`
 

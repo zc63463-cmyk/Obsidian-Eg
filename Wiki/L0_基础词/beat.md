@@ -129,9 +129,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The German-born theoretical physicist, who developed the theory of relativity, beat out other candidates." `[真题]`
-> - "The heart beats about 100,000 times per day." `[COCA-ACAD]`
-> - "Rain beat against the windows all night long." `[例]`
+> - He beat me at chess. `[例]`
+>   - 中译：他下棋打败了我。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/beat
+> - I beat her by just three points. `[例]`
+>   - 中译：我只赢了她三分。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/beat
+> - Their recent wins have proved they're still the ones to beat (= the most difficult team to beat). `[例]`
+>   - 中译：他们最近的胜利证明他们仍然是最难击败的球队（=最难击败的球队）。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/beat
 
 
 ---

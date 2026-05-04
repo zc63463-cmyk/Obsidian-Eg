@@ -133,9 +133,15 @@ con-(一起/加强) + [[cap|cept/ceiv]](拿取) + -ion(名词后缀) = conceptio
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The modern conception of human rights has evolved significantly over the past century." `[COCA-ACAD]`
-> - "His conception of education goes far beyond mere classroom instruction." `[例]`
-> - "The original conception of the project was far more ambitious than what was eventually implemented." `[例]`
+> - People from different cultures have different conceptions of the world. `[例]`
+>   - 中译：来自不同文化的人对世界有不同的看法。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/conception
+> - She has a conception of people as being basically good. `[例]`
+>   - 中译：她认为人本质上都是善良的。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/conception
+> - I thought the book's writing was dreadful , and its conception (= the ideas on which it was based ) even worse. `[例]`
+>   - 中译：我认为这本书的写作很糟糕，它的构思（=它所基于的想法）更糟糕。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/conception
 
 ---
 

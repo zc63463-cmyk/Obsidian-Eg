@@ -128,9 +128,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Students are required to complete the reading assignment before the next class. `[COCA-ACAD]`
-> - The journalist was sent on assignment to cover the election in the remote region. `[COCA-NEWS]`
-> - The assignment of duties among team members was clearly outlined in the project plan. `[例]`
+> - Students are required to complete all homework assignments. `[例]`
+>   - 中译：学生必须完成所有家庭作业。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/assignment
+> - You will need to complete three written assignments per semester. `[例]`
+>   - 中译：每学期您需要完成三份书面作业。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/assignment
+> - I had set myself a tough assignment. `[例]`
+>   - 中译：我给自己设定了一项艰巨的任务。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/assignment
 
 
 ---

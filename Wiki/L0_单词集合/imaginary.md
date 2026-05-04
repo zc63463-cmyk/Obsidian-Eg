@@ -131,10 +131,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The boundary between the real and the imaginary becomes blurred. `[真题]`
-> - Haley told her parents that an imaginary friend, a girl named Alecia, had kept her company and guided her to the river. `[COCA-ACAD]`
-> - The story is set in an imaginary kingdom. `[COCA-ACAD]`
-> - His fears were purely imaginary and had no basis in reality. `[例]`
+> - As a child I had an imaginary friend. `[例]`
+>   - 中译：小时候我有一个想象中的朋友。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/imaginary
+> - The story is set in an imaginary world. `[例]`
+>   - 中译：故事发生在一个虚构的世界里。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/imaginary
+> - All her worries were imaginary. `[例]`
+>   - 中译：她所有的担心都是虚幻的。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/imaginary
 
 ---
 

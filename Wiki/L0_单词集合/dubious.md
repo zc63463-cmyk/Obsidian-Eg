@@ -124,10 +124,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Why people are prepared to tolerate a four-hour journey each day for the dubious privilege of living in the country is beyond me." `[真题]`
-> - "They indulged in some highly dubious business practices to obtain their current position in the market." `[COCA-ACAD]`
-> - "The problems involved in assessing functional importance render the concept highly dubious sociologically." `[COCA-ACAD]`
-> - "It is dubious whether she will be able to finish the project on time." `[COCA-ACAD]`
+> - These claims are dubious and not scientifically proven. `[例]`
+>   - 中译：这些说法是可疑的，也没有得到科学证明。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/dubious
+> - He has been associated with some dubious characters. `[例]`
+>   - 中译：他与一些可疑人物有联系。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/dubious
+> - Ruth Ellis has the dubious (= bad ) distinction of being the last woman to be hanged in Britain. `[例]`
+>   - 中译：露丝·埃利斯（Ruth Ellis）是英国最后一位被绞死的女性，这一荣誉令人怀疑（=糟糕）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/dubious
 
 ---
 

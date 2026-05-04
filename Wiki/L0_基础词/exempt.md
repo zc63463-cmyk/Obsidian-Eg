@@ -124,9 +124,9 @@ ex-(出、离开) + empt(拿取，拉丁语 *emere* 的过去分词 *emptus*) �
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Small businesses have been exempted from the tax increase . `[例]`
-> - Goods exempt from this tax include books and children's clothes . `[例]`
-> - Pregnant women are exempt from dental charges under the current health system . `[例]`
+> - Small businesses have been exempted from the tax increase. `[例]`
+> - Goods exempt from this tax include books and children's clothes. `[例]`
+> - Pregnant women are exempt from dental charges under the current health system. `[例]`
 
 
 ---

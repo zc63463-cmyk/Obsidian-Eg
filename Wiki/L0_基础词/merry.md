@@ -126,10 +126,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "We wish you a Merry Christmas and a Happy New Year!" `[真题]`
-> - "The children's merry laughter filled the room." `[真题]`
-> - "Christmas is a time to eat, drink and make merry." `[真题]`
-> - "They spent a merry evening together by the fire." `[真题]`
+> - We wish you a Merry Christmas and a Happy New Year! `[真题]`
+> - The children's merry laughter filled the room. `[真题]`
+> - Christmas is a time to eat, drink and make merry. `[真题]`
+> - They spent a merry evening together by the fire. `[真题]`
 
 
 ---

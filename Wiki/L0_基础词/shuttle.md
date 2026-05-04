@@ -134,9 +134,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "All the meals on space station are put together on Earth and sent there by space shuttle." `[真题]`
-> - "During the next two years, other delegations shuttled between the two capitals." `[剑桥词典]`
-> - "The hotel provides a shuttle bus that takes you to and from the airport." `[朗文词典]`
+> - All the meals on space station are put together on Earth and sent there by space shuttle. `[真题]`
+> - During the next two years, other delegations shuttled between the two capitals. `[例]`
+> - The hotel provides a shuttle bus that takes you to and from the airport. `[例]`
 
 
 ---

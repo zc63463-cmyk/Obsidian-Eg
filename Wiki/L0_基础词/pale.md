@@ -132,7 +132,7 @@ review_count: 0
 > [!example]- 语料
 > - Her face turned pale when she heard the devastating news about the earthquake that had struck her hometown. `[真题]`
 > - The company's recent performance pales by comparison with its achievements in the previous decade. `[真题]`
-> - Despite the grim picture, experts urge patience and caution against hasty judgments. `[真题]`
+> - The plan offers a pale option for small organizations. `[真题]`
 
 
 ---

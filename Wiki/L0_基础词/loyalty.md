@@ -127,9 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - His loyalty was never in question . `[例]`
-> - Her loyalty to the cause is impressive . `[例]`
-> - Flexible working hours encourages employee loyalty to the company . `[例]`
+> - His loyalty was never in question. `[例]`
+> - Her loyalty to the cause is impressive. `[例]`
+> - Flexible working hours encourages employee loyalty to the company. `[例]`
 
 
 ---

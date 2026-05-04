@@ -133,8 +133,14 @@ review_count: 0
 
 > [!example]- 语料
 > - He's always wanted to find his birth mother but recently it's become an obsession. `[例]`
-> - His interest in detective stories has turned to obsession. `[例]`
-> - They have an obsession with making money . `[例]`
+>   - 中译：他一直想找到自己的生母，但最近却成了一种痴迷。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/obsession
+> - He has an obsession with cleanliness. `[例]`
+>   - 中译：他对清洁有一种痴迷。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/obsession
+> - His campaign for fathers ' rights has become an obsession. `[例]`
+>   - 中译：他为父亲的权利而进行的运动已经成为一种痴迷。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/obsession
 
 ---
 

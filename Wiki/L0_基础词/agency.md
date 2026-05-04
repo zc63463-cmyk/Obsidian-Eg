@@ -130,9 +130,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - An overseas aid agency. `[例]`
-> - When the legal system acquitted these women on the grounds of insanity it denied their agency. `[例]`
-> - She was freed from prison through the agency of her doctor . `[例]`
+> - She works for an advertising agency. `[例]`
+>   - 中译：她在一家广告公司工作。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/agency
+> - He managed to find a job through an agency. `[例]`
+>   - 中译：他设法通过一家中介机构找到了工作。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/agency
+> - Some laboratories are operated by government agencies. `[例]`
+>   - 中译：一些实验室由政府机构运营。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/agency
 
 
 ---

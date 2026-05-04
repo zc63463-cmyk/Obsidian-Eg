@@ -132,9 +132,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - They need an assistant who is willing to stay for six months . `[例]`
-> - Stay until the rain has stopped . `[例]`
-> - Can you stay after work to play tennis ? `[例]`
+> - She stayed at home (= did not go out to work) while the children were young. `[例]`
+>   - 中译：当孩子们还小的时候，她呆在家里（=没有出去工作）。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/stay
+> - We ended up staying for dinner. `[例]`
+>   - 中译：我们最后留下来吃晚饭。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/stay
+> - People are being advised to stay indoors. `[例]`
+>   - 中译：建议人们呆在室内。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/stay
 
 ---
 

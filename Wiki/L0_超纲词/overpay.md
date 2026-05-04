@@ -3,10 +3,8 @@ title: "overpay"
 tags:
   - 学习/英语/词汇
   - 语义场/资本经济
-  - 掌握/L0
 aliases: []
 date: 2026-04-25
-mastery: L0
 word_freq: 超纲词
 semantic_field: 资本经济
 prototype: 付得过多
@@ -43,7 +41,7 @@ over-(过度) + pay(支付)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**付得过多**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **付得过多**（经济层面）
@@ -64,7 +62,7 @@ over-(过度) + pay(支付)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ over-(过度) + pay(支付)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > over（过度）+ pay（付钱）→ 付钱过度 → 多付。你在旅游景点买东西被宰了——you overpaid（你多付了）。CEO们拿天价薪酬——overpaid executives（薪酬过高的高管）。
@@ -86,7 +84,7 @@ over-(过度) + pay(支付)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -97,12 +95,12 @@ over-(过度) + pay(支付)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[underpay]]：少付，付不足（overpay 的精确反义：多付↔少付）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -112,26 +110,19 @@ over-(过度) + pay(支付)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **overpay for something**：为某物多付钱
 > - **overpaid executives**：薪酬过高的高管
 > - **overpay by**：多付了……
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - `[例]` Many consumers overpay for brand-name products.
-> - `[例]` Some companies overpay their executives by offering excessive bonuses.
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-25 | **复习次数**：0 | **当前等级**：L0
-
----
+> [!example]- 语料
+> - If you budget to overpay your mortgage on a regular basis , you can save a lot of money. `[例]`
+> - These loans allow you to overpay at any time. `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

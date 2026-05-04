@@ -131,8 +131,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "This same absence of moral purpose was wounding companies such as News International, she thought, making it more likely that it would lose its way."（她认为，同样缺乏道德目标正在伤害新闻国际等公司，使其更有可能迷失方向。）——2015年考研英语阅读
-> - "He was not interested in daily politics, but concerned with questions of moral behavior and the larger questions of right and wrong affecting the entire society."（他对日常政治不感兴趣，但关心道德行为的问题以及影响整个社会的更大的是非问题。）——考研阅读真题
+> - They argued for a new morality based on self-sacrifice and honesty. `[例]`
+>   - 中译：他们主张建立一种基于自我牺牲和诚实的新道德。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/morality
+> - I have to question the morality of forcing poor people to pay for their medical treatment. `[例]`
+>   - 中译：我不得不质疑强迫穷人支付医疗费用的道德观。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/morality
+> - Technology is neutral – its morality is determined by its political or social use. `[例]`
+>   - 中译：技术是中立的——它的道德是由它的政治或社会用途决定的。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/morality
 
 ---
 

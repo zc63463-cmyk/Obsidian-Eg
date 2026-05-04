@@ -123,10 +123,15 @@ re-(回/重新) + venge(惩罚，源自拉丁语 vindicare) → 回报惩罚 →
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The bombing was in revenge for the assassination of their leader. `[COCA-NEWS]`
-> - He is believed to have been shot by a rival gang in revenge for the shootings last week. `[COCA-NEWS]`
-> - They know that some of the informants may be forgetful, mistaken, dishonest, or motivated by a desire for publicity or even revenge. `[真题]`
-> - She sought revenge on her ex-husband by taking him to court for custody of their children. `[COCA-NEWS]`
+> - He is believed to have been shot by a rival gang in revenge for the shootings last week. `[例]`
+>   - 中译：据信他是被敌对帮派枪杀的，以报复上周的枪击事件。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/revenge
+> - It's the story of a woman who plots a dastardly revenge on her unfaithful lover. `[例]`
+>   - 中译：这是一个女人密谋对她不忠的情人进行卑鄙报复的故事。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/revenge
+> - He needed to satisfy his desire for revenge. `[例]`
+>   - 中译：他需要满足自己的复仇欲望。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/revenge
 
 ---
 

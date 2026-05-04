@@ -131,8 +131,14 @@ propri(自己的，拉丁语 *proprius*) + -ety(名词后缀，表示状态/性�
 
 > [!example]- 语料
 > - The club does not accept responsibility for loss of or damage to club members ' personal property. `[例]`
+>   - 中译：俱乐部不对俱乐部会员个人财产的丢失或损坏承担责任。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/property
 > - Both books have "Government property" stamped inside them. `[例]`
+>   - 中译：这两本书的内部都印有“政府财产”的印记。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/property
 > - Children need to be taught to have respect for other people's property. `[例]`
+>   - 中译：需要教导孩子尊重他人的财产。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/property
 
 
 ---

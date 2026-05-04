@@ -126,10 +126,10 @@ re-(向回，[[re]]) + [[press]](压) + -ion(名词后缀，表示动作/结果)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The trade unions suffered brutal repression after the coup." `[COCA-NEWS]`
-> - "Streams of migrants are fleeing war, repression and poverty." `[COCA-NEWS]`
-> - "There was a campaign of repression against minorities in the north." `[COCA-ACAD]`
-> - "A society conditioned by violence and repression." `[COCA-ACAD]`
+> - The trade unions suffered brutal repression after the coup. `[COCA-NEWS]`
+> - Streams of migrants are fleeing war, repression and poverty. `[COCA-NEWS]`
+> - There was a campaign of repression against minorities in the north. `[COCA-ACAD]`
+> - A society conditioned by violence and repression. `[COCA-ACAD]`
 
 
 ---

@@ -125,10 +125,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The tradition is believed to have originated in ancient China." `[真题]`
-> - "The disease is thought to have originated in tropical regions." `[真题]`
-> - "The idea for the opera originated after his return from the war." `[COCA-ACAD]`
-> - "This self-sabotaging behavior originates from our fear of failure." `[COCA-ACAD]`
+> - The game is thought to have originated among the native peoples of Alaska. `[例]`
+>   - 中译：该游戏被认为起源于阿拉斯加的原住民。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/originate
+> - Who originated the saying "Small is beautiful "? `[例]`
+>   - 中译：“小而美”这句话是谁提出来的？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/originate
+> - Jazz originated in the US and is now popular throughout the world. `[例]`
+>   - 中译：爵士乐起源于美国，现已流行于世界各地。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/originate
 
 ---
 

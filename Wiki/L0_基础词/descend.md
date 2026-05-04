@@ -128,9 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The path descended steeply into the valley . `[例]`
+> - The path descended steeply into the valley. `[例]`
 > - The path descends to the valley below. `[例]`
-> - Jane descended the stairs . `[例]`
+> - Jane descended the stairs. `[例]`
 
 
 ---

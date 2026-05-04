@@ -129,9 +129,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - His tendency to exaggerate is well known . `[例]`
-> - There is a tendency for unemployment to rise in the summer . `[例]`
-> - There is a growing tendency to regard money more highly than quality of life . `[例]`
+> - I have a tendency to talk too much when I'm nervous. `[例]`
+>   - 中译：当我紧张时，我倾向于说太多话。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/tendency
+> - This material has a tendency to shrink when washed. `[例]`
+>   - 中译：这种材料在洗涤时有收缩的倾向。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/tendency
+> - There is a tendency for this disease to run in families. `[例]`
+>   - 中译：这种疾病有家族遗传的趋势。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/tendency
 
 ---
 

@@ -137,9 +137,9 @@ ego(我，拉丁语第一人称代词)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The ego mediates between the id and the superego, balancing primal desires with moral constraints. `[语料库]`
-> - His enormous ego prevented him from accepting any criticism or advice. `[语料库]`
-> - Individuals with a fixed mindset tend to view failure as a blow to their ego rather than a learning opportunity. `[语料库]`
+> - The ego mediates between the id and the superego, balancing primal desires with moral constraints. `[例]`
+> - His enormous ego prevented him from accepting any criticism or advice. `[例]`
+> - Individuals with a fixed mindset tend to view failure as a blow to their ego rather than a learning opportunity. `[例]`
 
 
 ---

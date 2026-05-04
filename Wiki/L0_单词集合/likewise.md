@@ -125,9 +125,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Studies of the motet have tended, likewise, to frame analysis in the terms established by cyclic masses." `[COCA-ACAD]`
-> - "She criticized the policy, and many experts did likewise." `[COCA-NEWS]`
-> - "Technology has transformed the way we work; likewise, it has reshaped our social interactions." `[例]`
+> - Just water these plants twice a week , and likewise the ones in the bedroom. `[例]`
+>   - 中译：每周只需给这些植物浇水两次，卧室里的植物也是如此。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/likewise
+> - I don't have time to spend hours preparing one dish !" "Likewise (= it's the same for me). `[例]`
+>   - 中译：我没有时间花几个小时准备一道菜！” “同样（=对我来说也是一样）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/likewise
+> - We put up a fence , and other neighbors did likewise. `[例]`
+>   - 中译：我们竖起了栅栏，其他邻居也这样做了。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/likewise
 
 ---
 

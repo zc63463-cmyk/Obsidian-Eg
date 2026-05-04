@@ -124,9 +124,9 @@ dot（点，中古英语 *dot*，可能来自古法语 *dot* "点"，与 dose �
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The countryside is dotted with small villages." `[真题]`
-> - "Please sign on the dotted line." `[真题]`
-> - "The sky was dotted with stars." `[真题]`
+> - The countryside is dotted with small villages. `[真题]`
+> - Please sign on the dotted line. `[真题]`
+> - The sky was dotted with stars. `[真题]`
 
 
 ---

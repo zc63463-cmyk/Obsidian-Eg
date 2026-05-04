@@ -129,9 +129,9 @@ sail（帆，航行）+ -or（表示"人"的后缀，拉丁语 *-ator*）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The old sailor told us stories of his adventures at sea. `[外刊]`
-> - She met her husband when he was working as a sailor on a cargo ship. `[外刊]`
-> - He sailed the Pacific all alone, like the bravest sailor in history. `[外刊]`
+> - The old sailor told us stories of his adventures at sea. `[例]`
+> - She met her husband when he was working as a sailor on a cargo ship. `[例]`
+> - He sailed the Pacific all alone, like the bravest sailor in history. `[例]`
 
 
 ---

@@ -3,10 +3,8 @@ title: "powerless"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-25
-mastery: L0
 word_freq: 超纲词
 semantic_field: 人本世界
 prototype: 没有力量/权力的
@@ -43,7 +41,7 @@ power（力量/权力）+ -less（没有）= 没有力量的→无能为力的
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**没有力量/权力**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **没有力量**（能力层面）
@@ -64,7 +62,7 @@ power（力量/权力）+ -less（没有）= 没有力量的→无能为力的
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ power（力量/权力）+ -less（没有）= 没有力量的→无能为力的
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > power（力量/权力）+ -less（没有）= powerless。想象你站在暴风雨面前，什么都做不了——feel powerless。或者想象一个普通百姓面对庞大的官僚系统——powerless to change anything。
@@ -86,7 +84,7 @@ power（力量/权力）+ -less（没有）= 没有力量的→无能为力的
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +98,13 @@ power（力量/权力）+ -less（没有）= 没有力量的→无能为力的
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[powerful]]：强大的，有权力的（powerless 的精确反义）
 > - [[empowered]]：有能力的，被授权的（powerless 的反义）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,26 +116,19 @@ power（力量/权力）+ -less（没有）= 没有力量的→无能为力的
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **feel powerless**：感到无能为力
 > - **powerless to do sth.**：无力做某事
 > - **the powerless**：无权者，弱势群体
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - The villagers are powerless against the armed invaders . `[例]`
-> - The police seem to be powerless (= unable ) to prevent these attacks . `[例]`
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-25 | **复习次数**：0 | **当前等级**：L0
-
----
+> [!example]- 语料
+> - The villagers are powerless against the armed invaders. `[例]`
+> - The police seem to be powerless (= unable ) to prevent these attacks. `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

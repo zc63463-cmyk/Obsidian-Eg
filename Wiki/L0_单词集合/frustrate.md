@@ -121,8 +121,15 @@ frustra-（徒劳，白费）+ -ate（动词后缀）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The slow pace of reform has frustrated many who had hoped for rapid change."（改革的缓慢步伐让许多期望迅速变革的人感到沮丧。）——考研高频表达
-> - "Attempts to reach a consensus were frustrated by deep ideological divisions."（由于深刻的意识形态分歧，达成共识的尝试受挫。）——考研高频表达
+> - It frustrates me that I'm not able to put any of my ideas into practice. `[例]`
+>   - 中译：令我沮丧的是我无法将我的任何想法付诸实践。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/frustrate
+> - The continuing civil war is frustrating the efforts of relief agencies. `[例]`
+>   - 中译：持续的内战正在阻碍救援机构的努力。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/frustrate
+> - People are frustrated with the politicians. `[例]`
+>   - 中译：人们对政客感到沮丧。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/frustrate
 
 ---
 

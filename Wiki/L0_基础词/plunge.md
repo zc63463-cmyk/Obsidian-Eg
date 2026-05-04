@@ -136,9 +136,9 @@ plunge 源自拉丁语 *plumbicare*（使铅垂下），与 [[plumb]]（铅）�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - We ran down to the beach and plunged into the sea . `[例]`
-> - The car went out of control and plunged over the cliff . `[例]`
-> - Cook the peas by plunging them into boiling water . `[例]`
+> - We ran down to the beach and plunged into the sea. `[例]`
+> - The car went out of control and plunged over the cliff. `[例]`
+> - Cook the peas by plunging them into boiling water. `[例]`
 
 
 ---

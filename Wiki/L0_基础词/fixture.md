@@ -129,9 +129,9 @@ fixture = [[fix]]（固定）+ -ture（名词后缀，表示"……的状态/结
 ## 真题/语料关联
 
 > [!example]- 语料
-> - All fixtures and fittings are included in the house price . `[例]`
-> - They've been together so long he's become a permanent fixture in her life . `[例]`
-> - Next season's fixtures will be published early next month . `[例]`
+> - All fixtures and fittings are included in the house price. `[例]`
+> - They've been together so long he's become a permanent fixture in her life. `[例]`
+> - Next season's fixtures will be published early next month. `[例]`
 
 
 ---

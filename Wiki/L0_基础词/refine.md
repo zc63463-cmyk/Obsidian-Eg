@@ -121,9 +121,9 @@ re-(再次，反复) + [[fin|fin-]](结束，完美，界限) + -e(动词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He has done it by exploring, by experimenting, by developing his own model of the grammar of language, by trying it out and seeing whether it works, by gradually changing it and refining it until it does work." `[真题]`
-> - "Engineers spent many months refining the software." `[真题]`
-> - "The methods have been refined over the years, but not radically changed." `[真题]`
+> - He has done it by exploring, by experimenting, by developing his own model of the grammar of language, by trying it out and seeing whether it works, by gradually changing it and refining it until it does work. `[真题]`
+> - Engineers spent many months refining the software. `[真题]`
+> - The methods have been refined over the years, but not radically changed. `[真题]`
 
 
 ---

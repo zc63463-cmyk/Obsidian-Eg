@@ -3,10 +3,8 @@ title: "robotics"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-25
-mastery: L0
 word_freq: 超纲词
 semantic_field: 理性世界
 prototype: 研究机器人的学问（机器人学）
@@ -43,7 +41,7 @@ robot(机器人，捷克语 *robota* "强迫劳动") + -ics(名词后缀，表�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**研究机器人的学问**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **研究机器人的学问**（学科层面）
@@ -62,7 +60,7 @@ robot(机器人，捷克语 *robota* "强迫劳动") + -ics(名词后缀，表�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -72,7 +70,7 @@ robot(机器人，捷克语 *robota* "强迫劳动") + -ics(名词后缀，表�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > robot（机器人）+ -ics（学科后缀）→ 机器人学。记住 -ics 后缀的学科家族：physics（物理学）、mathematics（数学）、economics（经济学）、linguistics（语言学）。robotics 就是这个家族中研究机器人的成员。
@@ -84,7 +82,7 @@ robot(机器人，捷克语 *robota* "强迫劳动") + -ics(名词后缀，表�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -96,12 +94,12 @@ robot(机器人，捷克语 *robota* "强迫劳动") + -ics(名词后缀，表�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - robotics 作为学科名词，没有精确反义词。在概念层面，可视为与手工劳动（manual labor）相对立。
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -113,7 +111,7 @@ robot(机器人，捷克语 *robota* "强迫劳动") + -ics(名词后缀，表�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **advances in robotics**：机器人技术的进步
 > - **robotics engineer**：机器人工程师
 > - **study robotics**：学习机器人学
@@ -122,19 +120,12 @@ robot(机器人，捷克语 *robota* "强迫劳动") + -ics(名词后缀，表�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - The field of robotics has seen many exciting developments in the last decade . `[例]`
+> [!example]- 语料
+> - The field of robotics has seen many exciting developments in the last decade. `[例]`
 > - Strangely, for the director of a robotics department , he doesn't seem to know what a robot is. `[例]`
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-25 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

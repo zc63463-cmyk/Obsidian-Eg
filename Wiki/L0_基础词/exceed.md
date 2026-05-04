@@ -126,9 +126,9 @@ ex-(出，超出) + [[ced-cess|ceed]](走) → 走出去越过界限
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The final cost should not exceed $5,000. `[例]`
-> - The success of our campaign has exceeded our wildest expectations . `[例]`
-> - She was found guilty on three charges of exceeding the speed limit . `[例]`
+> - The success of our campaign has exceeded our wildest expectations. `[例]`
+> - She was found guilty on three charges of exceeding the speed limit. `[例]`
+> - Drivers who exceed the speed limit can expect to be fined heavily. `[例]`
 
 
 ---

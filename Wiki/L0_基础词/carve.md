@@ -129,9 +129,15 @@ carve 源自古英语 *ceorfan*（切割），与德语 *kerben*（刻痕）同�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Some of the tunnels in the cliff are natural , some were carved out (= cut into the rock ) by soldiers for defensive purposes . `[例]`
-> - The statue is carved out of olive wood . `[例]`
-> - This totem pole is carved from a single tree trunk . `[例]`
+> - The statue was carved out of a single piece of stone. `[例]`
+>   - 中译：这座雕像是用一块石头雕刻而成的。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/carve
+> - The beads were carved from solid ivory. `[例]`
+>   - 中译：这些珠子是用实心象牙雕刻而成的。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/carve
+> - The wood had been carved into the shape of a flower. `[例]`
+>   - 中译：木头被雕刻成花朵的形状。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/carve
 
 
 ---

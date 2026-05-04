@@ -129,10 +129,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The United States has developed the most efficient methods of food production and distribution. `[COCA-ACAD]`
-> - Is this really an efficient use of resources? `[COCA-ACAD]`
-> - More efficient energy use is essential for sustainable development. `[COCA-ACAD]`
-> - The company needs to become more efficient to remain competitive. `[COCA-ACAD]`
+> - The efficient operation of the local housing market. `[真题]`
+>   - 中译：当地房地产市场的高效运行。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - The city's transport system is one of the most efficient in Europe. `[例]`
+>   - 中译：该市的交通系统是欧洲最高效的交通系统之一。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/efficient
+> - We need someone really efficient who can organize the office and make it run smoothly. `[例]`
+>   - 中译：我们需要一个真正高效的人来组织办公室并使其顺利运转。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/efficient
 
 ---
 

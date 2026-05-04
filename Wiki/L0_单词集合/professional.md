@@ -127,9 +127,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Chris, you're a nurse , so can I ask your professional opinion on bandaging ankles ? `[例]`
-> - Both doctors have been charged with professional misconduct (= bad or unacceptable behaviour in their work ) . `[例]`
-> - It would look more professional if the letter was typed . `[例]`
+> - Chris, you're a nurse , so can I ask your professional opinion on bandaging ankles? `[例]`
+>   - 中译：克里斯，你是一名护士，我可以问问你对包扎脚踝的专业意见吗？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/professional
+> - Both doctors have been charged with professional misconduct (= bad or unacceptable behaviour in their work ). `[例]`
+>   - 中译：两位医生都被指控犯有职业不当行为（=工作中的不良或不可接受的行为）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/professional
+> - It would look more professional if the letter was typed. `[例]`
+>   - 中译：如果这封信是打字的，看起来会更专业。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/professional
 
 ---
 

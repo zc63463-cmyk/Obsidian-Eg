@@ -130,9 +130,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Good authors know how to weave suspense and drama into their stories." `[外刊]`
-> - "The baskets are woven from strips of willow." `[外刊]`
-> - "The cyclist had to weave through the heavy traffic to reach the office on time." `[外刊]`
+> - Good authors know how to weave suspense and drama into their stories. `[例]`
+> - The cyclist had to weave through the heavy traffic to reach the office on time. `[例]`
+> - We were shown how to roughly weave ferns and grass together to make a temporary shelter. `[例]`
 
 
 ---

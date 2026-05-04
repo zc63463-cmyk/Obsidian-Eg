@@ -130,9 +130,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Reading comprehension is a key component of the national postgraduate entrance examination." `[真题]`
-> - "The court's reading of the statute was broader than previously expected." `[真题]`
-> - "This novel is required reading for all literature students." `[真题]`
+> - Reading comprehension is a key component of the national postgraduate entrance examination. `[真题]`
+> - The court's reading of the statute was broader than previously expected. `[真题]`
+> - This novel is required reading for all literature students. `[真题]`
 
 
 ---

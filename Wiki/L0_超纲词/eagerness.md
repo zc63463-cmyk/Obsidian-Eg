@@ -3,10 +3,8 @@ title: "eagerness"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 人本世界
 prototype: 渴望（像鹰一样急切地想要得到）
@@ -43,7 +41,7 @@ eager（渴望的，源自古法语 *aigre*，"尖锐的/急切的"）+ -ness（
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**渴望（像鹰一样急切地想要得到）**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **急切**（情感层面）
@@ -64,7 +62,7 @@ eager（渴望的，源自古法语 *aigre*，"尖锐的/急切的"）+ -ness（
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ eager（渴望的，源自古法语 *aigre*，"尖锐的/急切的"）+ -ness（
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > eager（渴望的）+ ness（名词后缀）→ eagerness（渴望）。eager 和 eagle（鹰）长得很像——想象一只鹰急切地俯冲向猎物，那种急切就是 eagerness。
@@ -88,7 +86,7 @@ eager（渴望的，源自古法语 *aigre*，"尖锐的/急切的"）+ -ness（
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +98,13 @@ eager（渴望的，源自古法语 *aigre*，"尖锐的/急切的"）+ -ness（
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[reluctance]]：不情愿（渴望↔不情愿）
 > - [[indifference]]：冷漠（热切↔冷漠）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,7 +115,7 @@ eager（渴望的，源自古法语 *aigre*，"尖锐的/急切的"）+ -ness（
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **eagerness to learn**：求知欲
 > - **eagerness for success**：对成功的渴望
 > - **with eagerness**：热切地
@@ -125,19 +123,12 @@ eager（渴望的，源自古法语 *aigre*，"尖锐的/急切的"）+ -ness（
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - Her eagerness to learn new skills impressed everyone in the team. `[例]`
 > - The children waited for the summer holiday with barely concealed eagerness. `[例]`
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
-
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -136,9 +136,9 @@ sky(天空) + scraper(刮擦器：scrape + -er)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The skyscraper towered over the surrounding buildings. ` `[语料库]`
-> - You get a good view of the New York skyline from the Statue of Liberty. ` `[语料库]`
-> - The construction of skyscrapers transformed the city's landscape. ` `[语料库]`
+> - BASE jumpers parachute from high places: from the tops of buildings or monuments (even when they’re not allowed to), from skyscrapers that are still being built, and from mountains and cliffs. `[例]`
+> - The restaurant is at the top of one of the big downtown skyscrapers. `[例]`
+> - The walkaround tasting will feature unlimited eats, from smash burgers — the trendy pancake-flat kind with cheese dribbling down a latticework of crispy edges — to classically juicy, skyscraper -thick patties, paired with snacks, liquor and desserts, Gonzalez says. `[例]`
 
 
 ---

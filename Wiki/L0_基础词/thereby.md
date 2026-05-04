@@ -127,9 +127,9 @@ there(那个) + by(通过，借由)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Scientists need to respond to animal rights advocates, whose arguments are confusing the public and thereby threatening advances in health knowledge and care." `[真题]`
-> - "They paid cash, thereby avoiding interest charges." `[词典]`
-> - "He became a citizen, thereby gaining the right to vote." `[词典]`
+> - Scientists need to respond to animal rights advocates, whose arguments are confusing the public and thereby threatening advances in health knowledge and care. `[真题]`
+> - They paid cash, thereby avoiding interest charges. `[例]`
+> - He became a citizen, thereby gaining the right to vote. `[例]`
 
 
 ---

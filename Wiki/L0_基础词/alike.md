@@ -132,9 +132,15 @@ a-(加强语气) + like（像，相似）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The twins even dress alike. `[例]`
-> - My father treated us all alike. `[例]`
-> - Friends and family alike were devastated by the news of her death . `[例]`
+> - They tried to treat all their children alike. `[例]`
+>   - 中译：他们试图一视同仁地对待所有的孩子。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/alike
+> - Good management benefits employers and employees alike. `[例]`
+>   - 中译：良好的管理对雇主和雇员都有利。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/alike
+> - The two cars are much alike. `[例]`
+>   - 中译：这两辆车很相似。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/alike
 
 
 ---

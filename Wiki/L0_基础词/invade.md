@@ -129,8 +129,8 @@ in-(=into, 进入) + vad(=走，拉丁语 *vadere* "走") + -e
 
 > [!example]- 语料
 > - The army invaded the neighboring country without warning. `[真题]`
-> - Smartphones have invaded every aspect of our lives. `[语料库]`
-> - The government was accused of invading the privacy of its citizens. `[外刊]`
+> - Smartphones have invaded every aspect of our lives. `[例]`
+> - The government was accused of invading the privacy of its citizens. `[例]`
 
 
 ---

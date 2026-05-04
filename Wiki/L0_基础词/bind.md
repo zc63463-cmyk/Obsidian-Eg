@@ -138,9 +138,15 @@ bind(捆绑/系紧，古英语 *bindan*)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The parties are bound by the terms of the contract once they have signed it. `[COCA-ACAD]`
-> - Culture and language bind people together. `[COCA-ACAD]`
-> - His contract binds him to working a six-day week. `[COCA-NEWS]`
+> - Organizations such as schools and clubs bind a community together. `[例]`
+>   - 中译：学校和俱乐部等组织将社区联系在一起。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bind
+> - She thought that having his child would bind him to her forever. `[例]`
+>   - 中译：她以为有了他的孩子，他就和她永远在一起了。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bind
+> - The agreement binds her to repay the debt within six months. `[例]`
+>   - 中译：该协议规定她必须在六个月内偿还债务。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bind
 
 
 ---

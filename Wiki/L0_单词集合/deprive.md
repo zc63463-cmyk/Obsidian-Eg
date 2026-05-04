@@ -120,9 +120,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - He claimed that he had been deprived of his freedom . `[例]`
-> - It is very damaging to deprive a child of affection . `[例]`
-> - You can't function properly when you're deprived of sleep . `[例]`
+> - He claimed that he had been deprived of his freedom. `[例]`
+>   - 中译：他声称他的自由被剥夺了。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/deprive
+> - It is very damaging to deprive a child of affection. `[例]`
+>   - 中译：剥夺孩子的爱是非常有害的。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/deprive
+> - You can't function properly when you're deprived of sleep. `[例]`
+>   - 中译：当你睡眠不足时，你就无法正常工作。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/deprive
 
 ---
 

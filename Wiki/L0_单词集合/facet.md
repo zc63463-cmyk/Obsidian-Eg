@@ -130,9 +130,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "We need to examine every facet of the problem."（我们需要审视问题的每个方面）——考研阅读/写作常见搭配，学术分析语境
-> - "a multi-faceted approach to education"（多层面的教育方法）——教育类话题高频搭配
-> - "Technology has added a new facet to modern life."（科技为现代生活增添了新层面）——科技与社会话题
+> - She has so many facets to her personality. `[例]`
+>   - 中译：她的个性有很多方面。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/facet
+> - Injured or painful facet joints can be injected with steroids. `[例]`
+>   - 中译：受伤或疼痛的小关节可以注射类固醇。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/facet
+> - There’s always one facet of my golf game that isn’t working. `[例]`
+>   - 中译：我的高尔夫比赛总是有一个方面不起作用。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/facet
 
 ---
 

@@ -134,9 +134,15 @@ blast 源自古英语 *blæst*（一阵风，一阵气流），源自原始日�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - An explosion blasted through the wall . `[例]`
-> - They blasted tunnels into the side of the mountain . `[例]`
-> - He saw what he thought was a grizzly bear and blasted it with his rifle . `[例]`
+> - The blast ripped through the building. `[例]`
+>   - 中译：爆炸撕裂了大楼。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/blast
+> - A blast of hot air hit us as we stepped off the plane. `[例]`
+>   - 中译：当我们走下飞机时，一阵热风向我们袭来。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/blast
+> - The driver opened the door letting out a blast of Bob Marley. `[例]`
+>   - 中译：司机打开车门，放出鲍勃·马利的声音。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/blast
 
 
 ---

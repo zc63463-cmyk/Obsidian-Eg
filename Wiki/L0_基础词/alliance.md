@@ -130,9 +130,15 @@ all（全部）+ -iance（名词后缀，表示状态）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The Eastern Bloc countries formed a military alliance during the Cold War. `[例]`
-> - These companies are forming strategic alliances in order to gain entry to Asian markets . `[例]`
-> - The two leaders have formed a close alliance. `[例]`
+> - The Social Democrats are now in alliance with the Greens. `[例]`
+>   - 中译：社会民主党现在与绿党结盟。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/alliance
+> - The Green Alliance was formed to campaign against environmental damage. `[例]`
+>   - 中译：绿色联盟的成立是为了反对环境破坏。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/alliance
+> - We need to form a closer alliance between government and industry. `[例]`
+>   - 中译：我们需要在政府和行业之间建立更紧密的联盟。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/alliance
 
 
 ---

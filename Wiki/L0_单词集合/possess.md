@@ -126,9 +126,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The ability to adapt is a quality possessed by all successful people. `[真题]`
-> - Workers who possess the requisite skills for the task are in high demand. `[COCA-ACAD]`
-> - He possessed an unusual ability to learn languages quickly. `[COCA-ACAD]`
+> - I don't possess a single DVD (= I don't have even one DVD ). `[例]`
+>   - 中译：我没有一张 DVD（= 我连一张 DVD 都没有）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/possess
+> - In the past the root of this plant was thought to possess magical powers. `[例]`
+>   - 中译：过去人们认为这种植物的根具有神奇的力量。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/possess
+> - We're trying to bring out the artistic talents that many people possess without realizing it. `[例]`
+>   - 中译：我们正在努力发掘许多人在没有意识到的情况下所拥有的艺术才能。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/possess
 
 ---
 

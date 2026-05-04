@@ -119,8 +119,15 @@ form（形状）+ -ul-（连接）+ -ate（动词后缀，使动）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The government needs to formulate a comprehensive strategy to address the issue of air pollution."（政府需要制定一项综合战略来解决空气污染问题。）——考研高频表达
-> - "Scientists have formulated a new theory to explain the phenomenon of global warming."（科学家们提出了一个新理论来解释全球变暖现象。）——考研高频表达
+> - The Administration said it was formulating a new policy for the Middle East. `[例]`
+>   - 中译：政府表示正在制定一项新的中东政策。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/formulate
+> - New drugs are being formulated to combat malaria. `[例]`
+>   - 中译：正在研制新药来对抗疟疾。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/formulate
+> - Lawyers have advised him not to comment because the firm is formulating a response. `[例]`
+>   - 中译：律师建议他不要发表评论，因为该公司正在制定回应。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/formulate
 
 
 ---

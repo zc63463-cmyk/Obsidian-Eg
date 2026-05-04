@@ -125,7 +125,7 @@ review_count: 0
 
 > [!example]- 语料
 > - Walking along the darkened street , he heard footsteps close behind him. `[例]`
-> - Their footsteps echoed between the ancient stone buildings . `[例]`
+> - Their footsteps echoed between the ancient stone buildings. `[例]`
 > - He looked down to see which way the footsteps went. `[例]`
 
 

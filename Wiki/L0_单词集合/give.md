@@ -147,10 +147,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "give rise to a series of problems"（引起一系列问题）——考研阅读高频搭配
-> - "give priority to economic development"（优先考虑经济发展）——考研阅读常见搭配
-> - "give way to new technologies"（让位于新技术）——考研阅读常见搭配
-> - "give up one's career for family"（为家庭放弃事业）——考研阅读常见搭配
+> - In your essay , you should 1) describe the picture briefly, 2 ) interpret the implied meaning , and 3) give your comments. `[真题]`
+>   - 中译：在你的文章中，你应该1）简要描述图片，2）解释隐含的含义，3）给出你的评论。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - Can you give me a date for another appointment? `[例]`
+>   - 中译：你能给我另一个约会的日期吗？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/give
+> - We always try to give to charity. `[例]`
+>   - 中译：我们总是尽力为慈善事业做出贡献。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/give
 
 ---
 

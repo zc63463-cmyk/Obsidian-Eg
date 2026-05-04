@@ -129,10 +129,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The new law has safeguards to protect the rights of citizens. `[COCA-NEWS]`
-> - Extensive background checks on staff members are carried out to safeguard children in schools. `[COCA-ACAD]`
-> - Should he decide to start a nuclear war, there are no legal safeguards to stop him. `[COCA-NEWS]`
-> - The constitution includes safeguards against abuse of power. `[COCA-ACAD]`
+> - The union safeguards the interests of all its members. `[例]`
+>   - 中译：工会维护全体会员的利益。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/safeguard
+> - Extensive background checks on staff are carried out to safeguard children in schools. `[例]`
+>   - 中译：对工作人员进行广泛的背景调查，以保护学校的儿童。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/safeguard
+> - The disk has built-in safeguards to prevent certain errors. `[例]`
+>   - 中译：该磁盘具有内置保护措施以防止某些错误。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/safeguard
 
 ---
 

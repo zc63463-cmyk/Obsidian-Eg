@@ -132,8 +132,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She had to conquer her fear of public speaking before she could deliver the presentation."（她必须先克服对公众演讲的恐惧才能进行展示——考研阅读心理话题常见表达）
-> - "The Normans conquered England in 1066, fundamentally changing the course of English history."（诺曼人于1066年征服英格兰，从根本上改变了英国历史的进程——考研阅读历史话题高频表达）
+> - The Normans conquered England in 1066. `[例]`
+>   - 中译：1066年，诺曼人征服了英格兰。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/conquer
+> - In 330 BC Persia was conquered by Alexander the Great. `[例]`
+>   - 中译：公元前330年，波斯被亚历山大大帝征服。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/conquer
+> - The Roman Empire offered citizenship to its conquered peoples. `[例]`
+>   - 中译：罗马帝国向其被征服的人民提供公民身份。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/conquer
 
 
 ---

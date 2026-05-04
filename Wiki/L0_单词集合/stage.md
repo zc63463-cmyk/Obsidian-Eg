@@ -131,9 +131,15 @@ stage 源自拉丁语 *stare*（站立）的过去分词 *status*，经由古法
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The project is in its final stages and should be completed by August . `[例]`
-> - They did the last stage of their journey on foot . `[例]`
-> - Our marriage is going through a difficult stage at the moment . `[例]`
+> - At one stage it looked as though they would win. `[例]`
+>   - 中译：在某个阶段，他们看起来似乎会赢。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/stage
+> - The product is at the design stage. `[例]`
+>   - 中译：该产品正处于设计阶段。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/stage
+> - This technology is still in its early stages. `[例]`
+>   - 中译：这项技术仍处于早期阶段。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/stage
 
 ---
 

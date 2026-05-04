@@ -122,10 +122,15 @@ im-(=in/on，在……上) + pos(=put/place，放置) + -e（建议创建词根�
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - `It can be concluded that girls' attraction to pink seems to be mainly imposed by profit-driven businessmen.` `[真题]`
-> > - `Financial regulators in Britain have imposed a rather unusual rule on the bosses of big banks.` `[真题]`
-> > - `Last Thursday, the French Senate passed a digital services tax, which would impose an entirely new tax on large multinationals.` `[真题]`
-> > - `Both the national and state governments exercise the right to impose stamp and consumption taxes.` `[COCA-ACAD]`
+> - Very high taxes have recently been imposed on cigarettes. `[例]`
+>   - 中译：最近对卷烟征收了很高的税。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/impose
+> - Judges are imposing increasingly heavy fines for minor driving offences. `[例]`
+>   - 中译：法官对轻微驾驶违法行为处以越来越重的罚款。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/impose
+> - The council has imposed a ban on alcohol in the city parks. `[例]`
+>   - 中译：该委员会已禁止在城市公园内饮酒。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/impose
 
 ---
 

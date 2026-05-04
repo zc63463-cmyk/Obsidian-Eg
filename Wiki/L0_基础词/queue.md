@@ -131,10 +131,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - We had to queue for quite a while. `[Collins语料库]`
-> - A line of women were queueing for bread. `[Collins语料库]`
-> - There was a long queue to get into the cinema. `[Collins语料库]`
-> - Three jobs remain in the printer queue. `[Collins语料库]`
+> - We had to queue for quite a while. `[例]`
+> - There was a long queue to get into the cinema. `[例]`
+> - Three jobs remain in the printer queue. `[例]`
 
 
 ---

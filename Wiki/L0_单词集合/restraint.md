@@ -131,10 +131,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The security forces exercised great restraint by not responding to hostile attacks and threats." `[COCA]`
-> - "By far the most effective method to restrain pension spending is to give people the opportunity to work longer, because it increases tax revenues and reduces spending on pensions at the same time." `[真题]`
-> - "During the recession, the government opted for a policy of wage restraint rather than a reduction in public investment." `[COCA-ACAD]`
-> - "He exercised considerable restraint in ignoring the insults." `[COCA]`
+> - He showed admirable restraint, and refused to be provoked. `[例]`
+>   - 中译：他表现出令人钦佩的克制，不肯被激怒。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/restraint
+> - The security forces exercised (= used) great restraint by not responding to hostile attacks and threats. `[例]`
+>   - 中译：安全部队表现出极大的克制，不对敌对攻击和威胁作出反应。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/restraint
+> - Lack of space is the main restraint on the firm's expansion plans. `[例]`
+>   - 中译：缺乏空间是公司扩张计划的主要制约因素。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/restraint
 
 
 ---

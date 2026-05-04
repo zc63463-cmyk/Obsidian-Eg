@@ -126,9 +126,15 @@ crew 源自古英语 *crēaw* "augmentation, reinforcement, band of soldiers"（
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The camera crew arrived early to set up their equipment for the live broadcast. `[真题]`
-> - All crew members must attend the safety briefing before departure. `[真题]`
-> - The ship's captain and crew may be brought to trial for the incident. `[真题]`
+> - None of the passengers and crew were injured. `[例]`
+>   - 中译：乘客和机组人员均未受伤。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/crew
+> - The crew of the plane instructed everyone to remain seated. `[例]`
+>   - 中译：机组人员指示所有人留在座位上。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/crew
+> - It took ambulance crews more than an hour to free them. `[例]`
+>   - 中译：救护人员花了一个多小时才将他们救出。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/crew
 
 
 ---

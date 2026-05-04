@@ -142,10 +142,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It is impossible that a single shot of education, administered in childhood and early adulthood, will be able to support a sustained, 60-year career." `[真题]`
-> - "Police frequent the area day and night, as two months ago, a young man was shot just down the street." `[真题]`
-> - "I've never tried bowling before, but I thought I'd give it a shot." `[剑桥词典]`
-> - "Just give it your best shot and you'll be fine." `[牛津词典]`
+> - It is impossible that a single shot of education, administered in childhood and early adulthood, will be able to support a sustained, 60-year career. `[真题]`
+> - Police frequent the area day and night, as two months ago, a young man was shot just down the street. `[真题]`
+> - I've never tried bowling before, but I thought I'd give it a shot. `[例]`
+> - Just give it your best shot and you'll be fine. `[例]`
 
 
 ---

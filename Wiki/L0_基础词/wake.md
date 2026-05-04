@@ -131,10 +131,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Several governments have adopted tough new anti-terrorist legislation in the wake of the attacks." `[真题]`
-> - "It took years for the public to wake up to the serious environmental consequences of industrial pollution." `[真题]`
-> - "The governor has enjoyed a huge surge in the polls in the wake of last week's convention." `[权威语料]`
-> - "So far, many investors have not woken up to the opportunities presented by the new grouping." `[权威语料]`
+> - Several governments have adopted tough new anti-terrorist legislation in the wake of the attacks. `[真题]`
+> - It took years for the public to wake up to the serious environmental consequences of industrial pollution. `[真题]`
+> - The governor has enjoyed a huge surge in the polls in the wake of last week's convention. `[例]`
 
 
 ---

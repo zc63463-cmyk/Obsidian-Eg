@@ -128,9 +128,15 @@ asset(资产/有价值的人，源自古法语 *asez* "enough")
 ## 真题/语料关联
 
 > [!example]- 语料
-> - A company's most valuable assets are often its employees, not its physical resources. `[COCA-ACAD]`
-> - Intellectual property has become one of the most important assets in the modern economy. `[COCA-ACAD]`
-> - Her knowledge and experience would make her a priceless asset to the team. `[COCA-NEWS]`
+> - In his job, patience is an invaluable asset. `[例]`
+>   - 中译：在他的工作中，耐心是一笔无价的财富。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/asset
+> - Being able to speak a foreign language is a major asset. `[例]`
+>   - 中译：能够说外语是一项重要资产。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/asset
+> - I’m not sure if his forcefulness is an asset or a liability. `[例]`
+>   - 中译：我不确定他的强势是优点还是缺点。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/asset
 
 
 ---

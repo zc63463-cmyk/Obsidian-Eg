@@ -125,8 +125,8 @@ software 是一个复合词，由 **soft**（软的）+ **ware**（货物、商�
 
 > [!example]- 语料
 > - He's written a piece of software that does your taxes for you. `[例]`
-> - The help desk helps customers install and run software . `[例]`
-> - Thousands of users are able to download software provided by the company . `[例]`
+> - The help desk helps customers install and run software. `[例]`
+> - Thousands of users are able to download software provided by the company. `[例]`
 
 
 ---

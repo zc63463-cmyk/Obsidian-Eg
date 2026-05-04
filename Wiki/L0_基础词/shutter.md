@@ -131,9 +131,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Some automakers are temporarily shuttering plants in response to falling demand." `[剑桥词典]`
-> - "We closed the shutters and withdrew into ourselves." `[柯林斯词典]`
-> - "He took pictures by pressing the shutter release with his stronger left thumb." `[柯林斯词典]`
+> - Some automakers are temporarily shuttering plants in response to falling demand. `[例]`
+> - We closed the shutters and withdrew into ourselves. `[例]`
+> - He took pictures by pressing the shutter release with his stronger left thumb. `[例]`
 
 
 ---

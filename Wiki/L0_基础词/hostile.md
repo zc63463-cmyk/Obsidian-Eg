@@ -124,9 +124,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The president had a hostile reception in Ohio this morning . `[例]`
-> - Hostile voices complained that the process would impose religious beliefs on the population . `[例]`
-> - The company convinced investors to reject a hostile bid from Enterprise Oil Plc worth £1.5 billion . `[例]`
+> - The president had a hostile reception in Ohio this morning. `[例]`
+> - Hostile voices complained that the process would impose religious beliefs on the population. `[例]`
+> - The company convinced investors to reject a hostile bid from Enterprise Oil Plc worth £1.5 billion. `[例]`
 
 
 ---

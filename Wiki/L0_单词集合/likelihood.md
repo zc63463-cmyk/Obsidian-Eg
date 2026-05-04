@@ -124,9 +124,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "We know that distractions while driving affect the likelihood of being in an accident." `[COCA-ACAD]`
-> - "There is every likelihood that more jobs will be lost later this year." `[COCA-NEWS]`
-> - "In all likelihood, the company will face increased competition in the coming years." `[例]`
+> - This latest dispute greatly increases the likelihood of a strike. `[例]`
+>   - 中译：最近的这一争端大大增加了罢工的可能性。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/likelihood
+> - We know that distractions while driving affect the likelihood of being in an accident. `[例]`
+>   - 中译：我们知道，驾驶时分心会影响发生事故的可能性。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/likelihood
+> - There is every likelihood (that) more jobs will be lost later this year. `[例]`
+>   - 中译：今年晚些时候很可能会有更多工作岗位流失。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/likelihood
 
 ---
 

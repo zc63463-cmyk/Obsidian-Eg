@@ -136,11 +136,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The vast majority of people support the new policy. `[COCA-ACAD]`
-> - The party won by a narrow majority. `[COCA-NEWS]`
-> - A majority of students prefer online learning. `[例]`
-> - The majority of young professionals in the capital have moved there from provincial towns. `[COCA-ACAD]`
-> - Relevant legislation can in any case be passed by a qualified majority. `[COCA-ACAD]`
+> - The bill proved largely popular and sailed through Congress with large majorities in favor. `[真题]`
+>   - 中译：事实证明，该法案很受欢迎，并以绝大多数人的支持顺利通过了国会。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - The majority of the employees have university degrees. `[例]`
+>   - 中译：大部分员工拥有大学学历。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/majority
+> - In Britain women are in a majority. `[例]`
+>   - 中译：在英国，女性占多数。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/majority
 
 ---
 

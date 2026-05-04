@@ -124,8 +124,8 @@ punct(=point，点，源自拉丁语 *punctus*，*pungere* 的过去分词) + -u
 
 > [!example]- 语料
 > - A punctual start to the meeting. `[例]`
-> - He's fairly punctual (= he usually arrives on time ) . `[例]`
-> - Please try to be punctual, so we can start the meeting on time . `[例]`
+> - He's fairly punctual (= he usually arrives on time ). `[例]`
+> - Please try to be punctual, so we can start the meeting on time. `[例]`
 
 
 ---

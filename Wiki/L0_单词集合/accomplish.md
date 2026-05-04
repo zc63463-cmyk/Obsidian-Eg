@@ -123,9 +123,15 @@ ac-(=ad-，向，加强) + com-(完全) + [[ple]](=plere，填满，完成) + -i
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She has **accomplished** all her goals for this year.（她已经实现了今年的所有目标。）
-> - What the team has **accomplished** in such a short time is remarkable.（团队在如此短的时间内完成的工作令人瞩目。）
-> - The new government **accomplished** little during its first term.（新政府在其第一个任期内几乎没有什么建树。）
+> - The students accomplished the task in less than ten minutes. `[例]`
+>   - 中译：学生们只用了不到十分钟就完成了任务。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/accomplish
+> - She accomplished such a lot during her visit. `[例]`
+>   - 中译：她在访问期间取得了很多成就。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/accomplish
+> - I feel as if I've accomplished nothing since I left my job. `[例]`
+>   - 中译：我感觉自从辞职以来我好像一事无成。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/accomplish
 
 ---
 

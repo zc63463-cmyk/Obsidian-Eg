@@ -128,10 +128,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - We cannot deduce very much from these figures . `[例]`
-> - The police have deduced that he must have left his apartment yesterday evening . `[例]`
-> - In an attempt to deduce what happened to the jet , investigators are looking at other similar planes . `[例]`
-> - We can deduce a lot from what people choose to buy. `[例]`
+> - We cannot deduce very much from these figures. `[例]`
+>   - 中译：我们无法从这些数字中推断出太多内容。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/deduce
+> - The police have deduced that he must have left his apartment yesterday evening. `[例]`
+>   - 中译：警方推断他一定是昨天晚上离开了他的公寓。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/deduce
+> - In an attempt to deduce what happened to the jet , investigators are looking at other similar planes. `[例]`
+>   - 中译：为了推断这架飞机发生了什么，调查人员正在寻找其他类似的飞机。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/deduce
 
 ---
 

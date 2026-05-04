@@ -130,8 +130,15 @@ ann(年) + -ual(形容词后缀，表示"具有…性质")
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The company released its annual report, showing a significant increase in revenue."（公司发布了年度报告，显示收入大幅增长。）——考研高频表达
-> - "The annual conference on climate change attracted delegates from over 100 countries."（气候变化年度会议吸引了来自100多个国家的代表。）——考研高频表达
+> - Companies publish annual reports to inform the public about the previous year's activities. `[例]`
+>   - 中译：公司发布年度报告，向公众通报上一年的活动。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/annual
+> - The flowers at the annual flower show were a beautiful sight. `[例]`
+>   - 中译：一年一度的花展上，鲜花盛开，蔚为壮观。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/annual
+> - The average annual rainfall in this region is 750 mm. `[例]`
+>   - 中译：该地区年平均降雨量为750毫米。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/annual
 
 ---
 

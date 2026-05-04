@@ -126,8 +126,15 @@ neg-(不/没有) + lect(选择/收集)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The future of literary education, it is claimed, lies in criticism, an area which had previously been neglected."（有人声称，文学教育的未来在于批评，这是一个以前被忽视的领域。）——考研高频表达
-> - "All too often the animals die through neglect."（动物因缺乏照料而死亡的事司空见惯。）——考研高频表达
+> - He neglects that poor dog - he never takes him for walks or gives him any attention. `[例]`
+>   - 中译：他忽视了那只可怜的狗——他从不带它去散步，也不给予它任何关注。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/neglect
+> - She's been neglecting her studies this semester. `[例]`
+>   - 中译：这学期她一直荒废学业。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/neglect
+> - I'd neglected to give him the name of the hotel where I'd be staying. `[例]`
+>   - 中译：我忘了告诉他我要住的旅馆的名称。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/neglect
 ---
 
 

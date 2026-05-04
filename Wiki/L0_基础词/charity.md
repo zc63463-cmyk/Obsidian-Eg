@@ -130,9 +130,15 @@ charity 源自古法语 *charité*，源自拉丁语 *caritas*（爱、仁慈）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - UNICEF is an international charity. `[例]`
-> - She does a lot of work for charity. `[例]`
-> - People tend to give to (= give money to) charity at Christmas time . `[例]`
+> - Many charities sent money to help the victims of the famine. `[例]`
+>   - 中译：许多慈善机构捐款帮助饥荒受害者。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/charity
+> - The concert will raise money for local charities. `[例]`
+>   - 中译：音乐会将为当地慈善机构筹集资金。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/charity
+> - My parents always supported charities. `[例]`
+>   - 中译：我的父母一直支持慈善事业。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/charity
 
 
 ---

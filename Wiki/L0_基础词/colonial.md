@@ -131,9 +131,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Turkey was once an important colonial power . `[例]`
-> - Various parts of Africa have suffered under colonial rule . `[例]`
-> - The present political system is a hangover from the colonial era . `[例]`
+> - Tunisia achieved independence from French colonial rule in 1956. `[例]`
+>   - 中译：1956年，突尼斯脱离法国殖民统治获得独立。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/colonial
+> - The country was a colonial power. `[例]`
+>   - 中译：该国是一个殖民国家。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/colonial
+> - The book describes life in Colonial America. `[例]`
+>   - 中译：这本书描述了美国殖民地的生活。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/colonial
 
 
 ---

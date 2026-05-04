@@ -133,9 +133,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Thanks to science, we know that we live on a rock orbiting a mediocre star in a mediocre galaxy. `[卫报]`
-> - The Galaxy consists of 100 billion stars. `[学术语料]`
-> - Present tonight at the long-awaited opening of this film are a whole galaxy of stars from the acting and musical professions. `[Cambridge]`
+> - Thanks to science, we know that we live on a rock orbiting a mediocre star in a mediocre galaxy. `[例]`
+> - The Galaxy consists of 100 billion stars. `[例]`
+> - Present tonight at the long-awaited opening of this film are a whole galaxy of stars from the acting and musical professions. `[例]`
 
 
 ---

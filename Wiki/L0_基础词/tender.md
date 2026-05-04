@@ -141,9 +141,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The head teacher tendered her resignation this morning after the school failed its inspection." `[真题]`
-> - "Local firms were invited to tender for the building contract." `[真题]`
-> - "Five companies have tendered for the hospital contract." `[真题]`
+> - The head teacher tendered her resignation this morning after the school failed its inspection. `[真题]`
+> - Local firms were invited to tender for the building contract. `[真题]`
+> - Five companies have tendered for the hospital contract. `[真题]`
 
 
 ---

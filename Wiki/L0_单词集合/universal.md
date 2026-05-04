@@ -137,9 +137,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Food, like sex , is a subject of almost universal interest . `[例]`
-> - The new reforms have not met with universal approval within the party . `[例]`
-> - Congress rejected the proposal for universal health insurance . `[例]`
+> - Such problems are a universal feature of old age. `[例]`
+>   - 中译：这些问题是老年的普遍特征。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/universal
+> - Agreement on this issue is almost universal. `[例]`
+>   - 中译：在这个问题上几乎达成了一致。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/universal
+> - This relativist turn in anthropology gained ground in succeeding decades, as the discipline became ever more attentive to the specificity of cultures, and increasingly wary of universal claims about the human condition. `[例]`
+>   - 中译：人类学的这种相对主义转向在接下来的几十年中取得了进展，因为该学科变得越来越关注文化的特殊性，并且越来越警惕关于人类状况的普遍主张。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/universal
 
 ---
 

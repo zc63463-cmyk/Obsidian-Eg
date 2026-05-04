@@ -129,9 +129,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Dust particles must have gotten into the motor." `` `[COCA-ACAD]` ``
-> - "The tiny plastic particles have been found in the ocean breeze, soil and even our brains." `` `[COCA-ACAD]` ``
-> - "Scientists announced that the particle discovered through experiments at the Large Hadron Collider is, in fact, the long-sought Higgs boson." `` `[真题]` ``
+> - In the sentence "I tidied up the room ", the adverb "up" is a particle. `[例]`
+>   - 中译：在“我整理了房间”这句话中，副词“up”是一个助词。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/particle
+> - A phrasal verb is a verb consisting of a verb plus a particle. `[例]`
+>   - 中译：短语动词是由动词加助词组成的动词。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/particle
+> - He often comes out with the wrong particle. `[例]`
+>   - 中译：他经常得出错误的粒子。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/particle
 
 ---
 

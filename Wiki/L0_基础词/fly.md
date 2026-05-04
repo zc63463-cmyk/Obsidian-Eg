@@ -130,7 +130,7 @@ fly（源自古英语 *flēogan*，原始印欧语 *pleu-* "流动/飞"）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The poor bird couldn't fly because it had a broken wing . `[例]`
+> - The poor bird couldn't fly because it had a broken wing. `[例]`
 > - The plane was a Boeing 757 flying out of Dulles International Airport. `[例]`
 > - The pianist is flying out from New York this week to play in Tokyo. `[例]`
 

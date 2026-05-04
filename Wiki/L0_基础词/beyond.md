@@ -129,9 +129,15 @@ be-/bi-（在，附近）+ geond/yond（那边，远处，与 yonder 同源）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Physics is completely beyond me. `[BNC-SPOKEN]`
-> - The impact of climate change goes beyond national borders. `[COCA-ACAD]`
-> - We cannot allow the work to continue beyond the end of the year. `[COCA-NEWS]`
+> - The road continues beyond the village up into the hills. `[例]`
+>   - 中译：这条路一直延伸到村庄之外，进入山里。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/beyond
+> - Our success was far beyond what we thought possible. `[例]`
+>   - 中译：我们的成功远远超出了我们的想象。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/beyond
+> - She's got nothing beyond her state pension. `[例]`
+>   - 中译：除了国家养老金之外，她一无所有。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/beyond
 
 
 ---

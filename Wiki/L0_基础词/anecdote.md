@@ -121,9 +121,15 @@ an-(=in-, 不/未) + ec-(=ex-, 出) + dote(=datus, 给予，拉丁语 *dare* 的
 ## 真题/语料关联
 
 > [!example]- 语料
-> - He told one or two amusing anecdotes about his years as a policeman . `[例]`
-> - He told some funny anecdotes about famous people . `[例]`
-> - Amusing anecdotes about his brief career as an actor. `[例]`
+> - The book is a rich store of anecdote. `[例]`
+>   - 中译：这本书充满了丰富的轶事。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/anecdote
+> - This research is based on anecdote, not fact. `[例]`
+>   - 中译：这项研究是基于轶事，而不是事实。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/anecdote
+> - Like many Jesuits who then ate most of their meals in refectories, McKenzie was a master raconteur with endless anecdotes , stories, and one-liners. `[例]`
+>   - 中译：像许多后来在餐厅里吃饭的耶稣会士一样，麦肯齐是一位健谈大师，有无穷无尽的轶事、故事和俏皮话。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/anecdote
 
 
 ---

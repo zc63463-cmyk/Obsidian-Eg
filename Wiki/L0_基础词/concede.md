@@ -129,10 +129,15 @@ con-(完全，加强) + [[ced|ced-cess]](退让，走，拉丁语 *cedere* "退�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Although it seems clear that he has lost the election, he still refuses to concede. ` [COCA-NEWS]`
-> - "Your plan might work," she conceded, "but I still think mine is better." ` [COCA-FIC]`
-> - The former ruler was forced to concede power to a new government. ` [COCA-NEWS]`
-> - He kept on arguing and would not concede defeat. ` [例]`
+> - He was forced to concede (that) there might be difficulties. `[例]`
+>   - 中译：他被迫承认可能会有困难。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/concede
+> - I had to concede the logic of this. `[例]`
+>   - 中译：我不得不承认这个逻辑。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/concede
+> - He reluctantly conceded the point to me. `[例]`
+>   - 中译：他不情愿地向我承认了这一点。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/concede
 
 
 ---

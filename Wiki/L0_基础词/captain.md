@@ -132,9 +132,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - It's unusual to have a goalkeeper as (the) captain of a football team . `[例]`
-> - This is your captain speaking . We expect to be landing at Osaka Kansai airport in an hour's time . `[例]`
-> - The captain gave him his orders . `[例]`
+> - The captain gave the order to abandon ship. `[例]`
+>   - 中译：船长下令弃船。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/captain
+> - The captain of the ship invited them to dine at his table. `[例]`
+>   - 中译：船长邀请他们到他的餐桌吃饭。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/captain
+> - The captain of the plane was already announcing our arrival. `[例]`
+>   - 中译：机长已经在宣布我们的到来。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/captain
 
 
 ---

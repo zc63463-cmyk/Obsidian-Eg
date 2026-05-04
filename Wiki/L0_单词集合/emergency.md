@@ -125,9 +125,15 @@ e-/em-(出) + merg(沉没) + ency(名词后缀，表示状态或性质) → 突�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The governor declared a state of **emergency** as flooding forced more than 1,400 residents from their homes. `` `[COCA-NEWS]` ``
-> - She needed **emergency** surgery for internal bleeding and reconstructive surgery to her face and neck. `` `[COCA-NEWS]` ``
-> - In case of **emergency**, pull the release cord to free your feet to swim out. `` `[COCA-NEWS]` ``
+> - How would disabled people escape in an emergency? `[例]`
+>   - 中译：遇到紧急情况，残疾人如何逃生？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/emergency
+> - Is the emergency exit suitable for wheelchairs? `[例]`
+>   - 中译：紧急出口适合轮椅通行吗？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/emergency
+> - The pilot of the aircraft was forced to make an emergency landing on Lake Geneva. `[例]`
+>   - 中译：飞机飞行员被迫紧急降落在日内瓦湖上。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/emergency
 
 ---
 

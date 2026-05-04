@@ -130,9 +130,9 @@ re-（回，再次）+ call（叫，呼唤）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The old man recalled the city as it had been before the war. ` `[真题]`
-> - The factory has issued a recall of all cars with the defective brakes. ` `[真题]`
-> - Can you recall what happened last night? ` `[真题]`
+> - The old man recalled the city as it had been before the war. `[例]`
+> - He recalled (that) he had sent the letter over a month ago. `[例]`
+> - Can you recall wh at happened last night? `[例]`
 
 
 ---

@@ -134,9 +134,9 @@ re-（[[re-|再，重新]]）+ par（[[par|准备]]，拉丁语 *parare*）→ �
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The road is under repair, so we have to take a detour." `[真题]`
-> - "It will take a long time to repair the damage caused by the financial crisis." `[真题]`
-> - "The car was damaged to such an extent that it couldn't be repaired." `[语料库]`
+> - The road is under repair, so we have to take a detour. `[真题]`
+> - It will take a long time to repair the damage caused by the financial crisis. `[真题]`
+> - The car was damaged to such an extent that it couldn't be repaired. `[例]`
 
 
 ---

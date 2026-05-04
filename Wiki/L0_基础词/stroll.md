@@ -124,7 +124,6 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - After dinner, we went for a stroll along the beach. `[COCA-FICT]`
 > - The whole family was enjoying a leisurely stroll in the sunshine. `[BNC-SPOKEN]`
 > - Afterwards, we strolled back, put the kettle on and settled down with the newspapers. `[BNC-FICT]`
 > - Walkers will love gentle strolls along well-signposted clifftop paths. `[COCA-NEWS]`

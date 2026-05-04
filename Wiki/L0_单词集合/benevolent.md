@@ -128,9 +128,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The old man gave a benevolent smile to the children playing in the garden. `[例]`
-> - She established a benevolent fund to support underprivileged students. `[例]`
-> - The benevolent organization has donated millions to local communities over the past decade. `[COCA-ACAD]`
+> - He was a benevolent old man and wouldn't hurt a fly. `[例]`
+>   - 中译：他是一位仁慈的老人，不会伤害一只苍蝇。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/benevolent
+> - He is generally viewed as a benevolent figure in history. `[例]`
+>   - 中译：他通常被视为历史上的仁慈人物。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/benevolent
+> - He describes himself as "a benevolent dictator ". `[例]`
+>   - 中译：他形容自己是“仁慈的独裁者”。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/benevolent
 
 ---
 

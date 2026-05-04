@@ -132,8 +132,8 @@ true 源自古英语 *trēowe*（忠实的、值得信赖的），原始日耳�
 
 > [!example]- 语料
 > - Which of the following is true of New Englan�? ,, A. `[真题]`
-> - Is it true that Mariana and Mark are getting married ? `[例]`
-> - The allegations , if true, could lead to her resignation . `[例]`
+> - Is it true that Mariana and Mark are getting married? `[例]`
+> - The allegations , if true, could lead to her resignation. `[例]`
 
 
 ---

@@ -126,7 +126,7 @@ stalk 源自古英语 *stalcan*（缓慢行走），与 steal（偷窃）同源�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She trimmed the stalks of the tulips before putting them in a vase . `[例]`
+> - She trimmed the stalks of the tulips before putting them in a vase. `[例]`
 > - The eyes of shrimps are on movable stalks. `[例]`
 > - The police had been stalking the woman for a week before they arrested her. `[例]`
 

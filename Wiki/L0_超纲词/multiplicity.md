@@ -3,10 +3,8 @@ title: "multiplicity"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 抽象关系
 prototype: 大量，多样性
@@ -43,7 +41,7 @@ multi-(多) + [[plic-plex|plic]](折叠/层，拉丁语 *plicare*) + -ity(名词
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**大量/多样性**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **大量/多样性**（数量层面）
@@ -64,7 +62,7 @@ multi-(多) + [[plic-plex|plic]](折叠/层，拉丁语 *plicare*) + -ity(名词
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ multi-(多) + [[plic-plex|plic]](折叠/层，拉丁语 *plicare*) + -ity(名词
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > multiple（多个的）的名词形式就是 multiplicity。multi（多）+ plic（折叠/层）= 多层折叠 = 多种多样。a multiplicity of problems 就是"一堆又一堆的问题"。plic 词根还出现在 complicate（复杂=折叠在一起）、duplicate（复制=双重折叠）中。
@@ -86,7 +84,7 @@ multi-(多) + [[plic-plex|plic]](折叠/层，拉丁语 *plicare*) + -ity(名词
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ multi-(多) + [[plic-plex|plic]](折叠/层，拉丁语 *plicare*) + -ity(名词
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[singularity]] | 单一性（multiplicity 的精确反义：多重↔单一）
 - [[uniformity]] | 统一性（multiplicity 的反义：多样↔统一）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,26 +115,19 @@ multi-(多) + [[plic-plex|plic]](折叠/层，拉丁语 *plicare*) + -ity(名词
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a multiplicity of factors/reasons**：大量因素/原因
 > - **a multiplicity of views**：多种观点
 > - **the multiplicity of**：……的多样性
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - There is a multiplicity of fashion magazines to choose from. `[例]`
-> - She knew a multiplicity of languages . `[例]`
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
+> - She knew a multiplicity of languages. `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

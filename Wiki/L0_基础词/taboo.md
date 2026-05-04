@@ -129,7 +129,7 @@ review_count: 0
 > [!example]- 语料
 > - In many cultures, discussing personal income is considered a taboo. `[真题]`
 > - The film broke a long-standing taboo by depicting mental illness in a realistic and compassionate way. `[真题]`
-> - Any mention of politics is taboo in his house. `[语料库]`
+> - Any mention of politics is taboo in his house. `[例]`
 
 
 ---

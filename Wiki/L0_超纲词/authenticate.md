@@ -3,10 +3,8 @@ title: "authenticate"
 tags:
   - 学习/英语/词汇
   - 语义场/政治法律
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 政治法律
 prototype: 证明为真（使某物成为真实的/权威的）
@@ -43,7 +41,7 @@ auth(=auto-, 自己，原始的，希腊语 *authentikos*) + ent(存在者) + -i
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**使确认为原始的/真实的**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **使确认真实性**（验证层面）
@@ -64,7 +62,7 @@ auth(=auto-, 自己，原始的，希腊语 *authentikos*) + ent(存在者) + -i
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ auth(=auto-, 自己，原始的，希腊语 *authentikos*) + ent(存在者) + -i
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > authentic = 真正的（希腊语 *authentikos* = 原始的、权威的）。authenticate = authentic + -ate = 使确认为真正的 = 验证。想象一个艺术品鉴定专家拿着放大镜仔细观察一幅画——他就是在 authenticate 这幅画，确认它是不是毕加索的真迹。
@@ -86,7 +84,7 @@ auth(=auto-, 自己，原始的，希腊语 *authentikos*) + ent(存在者) + -i
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ auth(=auto-, 自己，原始的，希腊语 *authentikos*) + ent(存在者) + -i
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[forge]]：伪造（authenticate 的精确反义：验证↔伪造）
 > - [[fabricate]]：捏造（authenticate 的反义：证明为真↔捏造假象）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,7 +115,7 @@ auth(=auto-, 自己，原始的，希腊语 *authentikos*) + ent(存在者) + -i
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **authenticate a painting/signature**：鉴定画作/签名
 > - **authenticate identity**：验证身份
 > - **authenticate the document**：验证文件
@@ -125,19 +123,12 @@ auth(=auto-, 自己，原始的，希腊语 *authentikos*) + ent(存在者) + -i
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - Experts were called in to authenticate the painting, which was suspected to be a forgery. `[例]`
 > - Two-factor authentication is widely used to authenticate users' identities online. `[例]`
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
-
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

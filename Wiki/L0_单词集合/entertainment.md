@@ -126,10 +126,15 @@ enter-(在内) + tain(保持) + -ment(名词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "During this decade new forms of entertainment, commerce, research, and communication became commonplace in the U.S." `[真题]`
-> - "Traditional forms of popular entertainment and their associated excesses were viewed as a threat to social order." `[COCA-ACAD]`
-> - "Explorers were much read and talked about and their adventures were re-enacted in lecture halls, theatres, and in all manner of visual entertainments." `[COCA-ACAD]`
-> - "Champagne was served on the roof terrace and a magician provided entertainment." `[COCA]`
+> - There's not much in the way of entertainment in this town - just the cinema and a couple of pubs. `[例]`
+>   - 中译：这个镇上没有太多的娱乐场所——只有电影院和几家酒吧。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/entertainment
+> - This season's entertainments include five new plays and several concerts of Chinese and Indian music. `[例]`
+>   - 中译：本季的娱乐节目包括五部新剧以及多场中国和印度音乐音乐会。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/entertainment
+> - This film is good family entertainment. `[例]`
+>   - 中译：这部电影是很好的家庭娱乐。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/entertainment
 
 ---
 

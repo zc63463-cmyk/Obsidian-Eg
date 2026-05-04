@@ -123,9 +123,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Hot water circulates through the heating system . `[例]`
-> - I've circulated a good luck card for everyone to sign . `[例]`
-> - I try to circulate at a party and not just stay with the friends I came with. `[例]`
+> - The condition prevents the blood from circulating freely. `[例]`
+>   - 中译：这种情况会阻碍血液自由循环。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/circulate
+> - Cooled air is circulated throughout the building. `[例]`
+>   - 中译：冷却空气在整个建筑物内循环。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/circulate
+> - Rumours began to circulate about his financial problems. `[例]`
+>   - 中译：关于他的财务问题的谣言开始流传。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/circulate
 
 
 ---

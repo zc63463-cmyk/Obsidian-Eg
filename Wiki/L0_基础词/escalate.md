@@ -125,9 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - His financial problems escalated after he became unemployed . `[例]`
-> - The row could escalate into full-blown conflict . `[例]`
-> - The decision to escalate UN involvement has been made in the hopes of a swift end to the hostilities . `[例]`
+> - His financial problems escalated after he became unemployed. `[例]`
+> - The row could escalate into full-blown conflict. `[例]`
+> - The decision to escalate UN involvement has been made in the hopes of a swift end to the hostilities. `[例]`
 
 
 ---

@@ -120,9 +120,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Under the treaty (= according to the agreement ) , inspections are required to see if any country is secretly developing nuclear arms . `[例]`
-> - The latest nation to ratify the treaty is France. `[例]`
-> - The US wants a new air treaty with the UK to lift barriers on the cities that each nations ' carriers can serve . `[例]`
+> - Under the terms of the treaty , La Rochelle was ceded to the English. `[例]`
+>   - 中译：根据条约条款，拉罗谢尔被割让给英国。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/treaty
+> - Beyond uranium, Iran and Russia signed a 20-year treaty in January 2025 strengthening their economic, military and political partnership. `[例]`
+>   - 中译：除铀之外，伊朗和俄罗斯于 2025 年 1 月签署了一项为期 20 年的条约，加强了两国的经济、军事和政治伙伴关系。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/treaty
+> - On top of this, Australia has a range of excellent co-production treaties and incentives that invite international collaboration. `[例]`
+>   - 中译：除此之外，澳大利亚还制定了一系列优秀的合拍条约和激励措施来邀请国际合作。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/treaty
 
 
 ---

@@ -133,9 +133,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "There is a great deal of this kind of nonsense in the medical journals which, when taken up by broadcasters and the lay press, generates both health scares and short-lived dietary enthusiasms." `[真题]`
-> - "She needs medical treatment for her chronic back pain." `[COCA-ACAD]`
-> - "He went to medical school at the age of twenty-four." `[COCA-ACAD]`
+> - There is a great deal of this kind of nonsense in the medical journals which, when taken up by broadcasters and the lay press, generates both health scares and short-lived dietary enthusiasms. `[真题]`
+> - She needs medical treatment for her chronic back pain. `[COCA-ACAD]`
+> - The plan offers a medical option for small organizations. `[COCA-ACAD]`
 
 
 ---

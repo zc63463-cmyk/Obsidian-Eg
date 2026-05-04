@@ -131,10 +131,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The treaty requires the signatures of all participating nations. `[COCA-ACAD]`
-> - The culinary proposal bears the signature of renowned chef David Romero. `[COCA-ACAD]`
-> - Peaches have been grown in this region since the 17th century, with peach cobbler being a signature dessert. `[COCA-ACAD]`
-> - The new policy bears the signature of the previous administration. `[例]`
+> - I mistook your signature and thought the letter was from someone else. `[例]`
+>   - 中译：我弄错了你的签名，以为这封信是别人写的。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/signature
+> - The contract is now awaiting signature. `[例]`
+>   - 中译：该合同现正等待签署。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/signature
+> - The bill could be ready for signature by Christmas. `[例]`
+>   - 中译：该法案可能会在圣诞节前准备好供签署。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/signature
 
 ---
 

@@ -131,9 +131,15 @@ n-（gn- 在前缀位置的同化变体）+ -oble（来自拉丁语 *nobilis*，
 ## 真题/语料关联
 
 > [!example]- 语料
-> - His followers believe they are fighting for a noble cause . `[例]`
-> - A building with a noble façade. `[例]`
-> - It was a noble effort to achieve a peaceful settlement to the conflict . `[例]`
+> - His followers believe they are fighting for a noble cause. `[例]`
+>   - 中译：他的追随者相信他们正在为崇高的事业而战。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/noble
+> - It was a noble effort to achieve a peaceful settlement to the conflict. `[例]`
+>   - 中译：这是和平解决冲突的崇高努力。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/noble
+> - It was very noble of you to go so far to take him home. `[例]`
+>   - 中译：你千里迢迢地把他带回家，真是太高尚了。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/noble
 
 ---
 

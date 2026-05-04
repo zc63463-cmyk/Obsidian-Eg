@@ -124,7 +124,7 @@ rur-（乡村，拉丁语 *rus*，属格 *ruris*，"开阔的土地、田野"）
 > [!example]- 语料
 > - The rural-urban divide in access to education remains a significant challenge. `[真题]`
 > - She's carrying out a comparative study of health in inner cities and rural areas. `[真题]`
-> - He grew up in a predominantly rural area. `[真题]`
+> - The plan offers a rural option for small organizations. `[真题]`
 
 
 ---

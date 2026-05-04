@@ -125,8 +125,15 @@ myster-（=mysterium，秘密，神秘事物，来自希腊语 *mysterion*，sec
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "For despite the vast accumulation of scientific knowledge in medical libraries, the body does, indeed, work in mysterious ways."（尽管医学图书馆中积累了大量的科学知识，但人体确实以神秘的方式运作。）——考研高频表达
-> - "He died under mysterious circumstances that have never been fully explained."（他在神秘的情况下去世，这些情况从未得到充分解释。）——考研高频表达
+> - She's an actress whose inner life has remained mysterious, despite the many interviews she has given. `[例]`
+>   - 中译：尽管她接受过多次采访，但她的内心生活仍然很神秘。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/mysterious
+> - He died in mysterious circumstances , and there is still a possibility that it was murder. `[例]`
+>   - 中译：他死因神秘，仍有可能是谋杀。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/mysterious
+> - All the rose bushes seem to be suffering from the same mysterious malady. `[例]`
+>   - 中译：所有的玫瑰花丛似乎都患有同样的神秘疾病。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/mysterious
 
 ---
 

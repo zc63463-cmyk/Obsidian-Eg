@@ -125,9 +125,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The Ural mountains mark the boundary between Europe and Asia . `[例]`
-> - Residents are opposed to the prison being built within the city boundary. `[例]`
-> - We watched the match from beyond the boundary. `[例]`
+> - After the war the national boundaries were redrawn. `[例]`
+>   - 中译：战后，国家边界被重新划定。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/boundary
+> - The fence marks the boundary between my property and hers. `[例]`
+>   - 中译：栅栏标志着我的财产和她的财产之间的边界。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/boundary
+> - Scientists continue to push back the boundaries of human knowledge. `[例]`
+>   - 中译：科学家们不断突破人类知识的界限。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/boundary
 
 
 ---

@@ -128,7 +128,7 @@ review_count: 0
 > [!example]- 语料
 > - The doorway was so low that we had to stoop to go through it. `[例]`
 > - Something fell out of her coat pocket and she stooped down and picked it up. `[例]`
-> - He's over six feet tall , but the way he stoops makes him look shorter . `[例]`
+> - He's over six feet tall , but the way he stoops makes him look shorter. `[例]`
 
 
 ---

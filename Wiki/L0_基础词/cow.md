@@ -126,9 +126,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The protesters had been cowed into submission by the police. `[语料库]`
-> - The dictator has succeeded in cowing his public opponents into near silence. `[语料库]`
-> - He should have been cowed and compromised by fear and debt, but he was not. `[语料库]`
+> - Don't have a cow—it's no big deal. `[例]`
+>   - 中译：没有牛——没什么大不了的。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/cow
+> - You can talk till the cows come home—you’ll never make me change my mind. `[例]`
+>   - 中译：你可以一直讲到牛回家——你永远不会让我改变主意。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/cow
+> - The cows need to be milked twice a day. `[例]`
+>   - 中译：奶牛每天需要挤奶两次。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/cow
 
 
 ---

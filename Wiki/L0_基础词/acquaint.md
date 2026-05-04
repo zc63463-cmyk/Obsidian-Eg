@@ -123,9 +123,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Take time to acquaint yourself with the rules . `[例]`
-> - The Broadcasting Museum offers workshops to acquaint children with the world of radio . `[例]`
-> - The museum offers workshops to acquaint children with the world of radio . `[例]`
+> - Please acquaint me with the facts of the case. `[例]`
+>   - 中译：请您向我介绍一下案件的事实。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/acquaint
+> - You will first need to acquaint yourself with the filing system. `[例]`
+>   - 中译：您首先需要熟悉归档系统。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/acquaint
+> - This class is designed to acquaint students with the region's most important writers. `[例]`
+>   - 中译：本课程旨在让学生熟悉该地区最重要的作家。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/acquaint
 
 
 ---

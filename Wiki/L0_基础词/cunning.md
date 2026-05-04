@@ -128,9 +128,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - I have a cunning ploy that's guaranteed to succeed . `[例]`
-> - One important detail was missing from her cunning plan . `[例]`
-> - He's a very cunning man. `[例]`
+> - He was as cunning as a fox. `[例]`
+>   - 中译：他像狐狸一样狡猾。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/cunning
+> - That cunning old rogue is up to something, I'm sure. `[例]`
+>   - 中译：我确信那个狡猾的老流氓有什么阴谋。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/cunning
+> - It was a cunning piece of detective work. `[例]`
+>   - 中译：这是一项狡猾的侦探工作。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/cunning
 
 
 ---

@@ -130,9 +130,15 @@ out-（= beyond/over，超出/过度）+ rage（愤怒，暴怒）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The footage has sparked outrage among some in the community." `` `[COCA-NEWS]` ``
-> - "The proposed pay cut outraged the staff." `` `[COCA-NEWS]` ``
-> - "The terrible living conditions of migrant workers were described as an outrage." `` `[COCA-ACAD]` ``
+> - These murders have provoked outrage across the country. `[例]`
+>   - 中译：这些谋杀案激起了全国的愤怒。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/outrage
+> - Many politicians and members of the public expressed outrage at the verdict. `[例]`
+>   - 中译：许多政界人士和公众对这一判决表示愤慨。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/outrage
+> - The bomb , which killed 15 people , was the worst of a series of terrorist outrages. `[例]`
+>   - 中译：这起炸弹袭击造成 15 人死亡，是一系列恐怖主义暴行中最严重的一次。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/outrage
 
 ---
 

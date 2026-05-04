@@ -128,9 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Members of Congress have to make a declaration of their business interests . `[例]`
-> - As witnesses to the accident , we were asked to make written declarations of what we had seen . `[例]`
-> - The company made a declaration of intent to follow an equal opportunities policy . `[例]`
+> - Members of Congress have to make a declaration of their business interests. `[例]`
+> - As witnesses to the accident , we were asked to make written declarations of what we had seen. `[例]`
+> - The company made a declaration of intent to follow an equal opportunities policy. `[例]`
 
 
 ---

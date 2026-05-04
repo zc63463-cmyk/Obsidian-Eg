@@ -135,9 +135,9 @@ heart 日耳曼语系本族词，古英语 *heorte*，原始印欧语 *kerd-（�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Isabel's heart was beating fast with fright . `[例]`
-> - She has a good heart (= she is a kind person ) . `[例]`
-> - His heart leaped (= he suddenly felt very excited and happy ) when the phone rang . `[例]`
+> - Isabel's heart was beating fast with fright. `[例]`
+> - She has a good heart (= she is a kind person ). `[例]`
+> - His heart leaped (= he suddenly felt very excited and happy ) when the phone rang. `[例]`
 
 
 ---

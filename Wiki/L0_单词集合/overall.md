@@ -130,9 +130,15 @@ over-（在……上方/覆盖）+ all（全部）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The overall quality of education has improved significantly over the past decade." `` `[COCA-ACAD]` ``
-> - "Overall, the project was successful." `` `[COCA-ACAD]` ``
-> - "Ensuring that robust technical measures are in place is only part of the overall picture." `` `[COCA-ACAD]` ``
+> - We are not boycotting PRH titles but we are doing our utmost to ensure that availability for customers remains good despite the lower overall levels of stock. `[真题]`
+>   - 中译：我们并不是抵制公屋产权，但我们正在尽最大努力确保尽管总体库存水平较低，但客户的可用性仍然良好。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - The overall situation is good, despite a few minor problems. `[例]`
+>   - 中译：总体情况良好，尽管存在一些小问题。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/overall
+> - Overall, it has been a good year. `[例]`
+>   - 中译：总的来说，这是美好的一年。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/overall
 
 ---
 

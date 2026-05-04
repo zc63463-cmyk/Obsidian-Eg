@@ -138,7 +138,7 @@ litter（14世纪初，源自盎格鲁-法语 *litere* "便携式床"，源自�
 > [!example]- 语料
 > - About two percent of fast-food packaging ends up as litter. `[例]`
 > - A litter of kittens. `[例]`
-> - Dirty clothes littered the floor of her bedroom . `[例]`
+> - Dirty clothes littered the floor of her bedroom. `[例]`
 
 
 ---

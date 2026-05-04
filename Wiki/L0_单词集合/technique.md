@@ -133,10 +133,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The crude technique required educated guesses on exposure times, and involved heavy, awkward equipment-several men had to assist in its transportation. `[真题]`
-> - We have developed a new technique for detecting errors in the manufacturing process . `[例]`
-> - She's a wonderfully creative dancer but she doesn't have the technique of a truly great performer . `[例]`
-> - New surgical techniques are constantly being developed . `[例]`
+> - Researchers used advanced techniques to analyse the brain scans. `[例]`
+>   - 中译：研究人员使用先进技术来分析大脑扫描结果。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/technique
+> - We have developed a new technique that corrects the problem. `[例]`
+>   - 中译：我们开发了一种新技术来解决这个问题。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/technique
+> - Teachers learn various techniques for dealing with problem students. `[例]`
+>   - 中译：教师学习处理问题学生的各种技巧。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/technique
 
 ---
 

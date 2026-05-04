@@ -128,8 +128,8 @@ review_count: 0
 
 > [!example]- 语料
 > - The romance of the open road has been replaced by the reality of traffic jams. `[真题]`
-> - She wrote a romance novel that became an international bestseller. `[真题]`
 > - They had a brief summer romance before going to different colleges. `[真题]`
+> - They got married last year after a whirlwind (= very short and unexpected ) romance. `[例]`
 
 
 ---

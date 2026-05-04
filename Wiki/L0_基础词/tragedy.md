@@ -125,7 +125,7 @@ tragedy 源自希腊语 *tragōidia*，由 *tragos*（山羊）+ *ōidē*（歌/
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The pilot averted a tragedy when he succeeded in preventing the plane from crashing . `[例]`
+> - The pilot averted a tragedy when he succeeded in preventing the plane from crashing. `[例]`
 > - Hitler's invasion of Poland led to the tragedy of the Second World War. `[例]`
 > - His life was touched by hardship and personal tragedy. `[例]`
 

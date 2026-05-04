@@ -126,8 +126,15 @@ ex-(向外) + [[port|port]](运送、携带)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The country's economy is heavily dependent on exports."（该国经济严重依赖出口。——考研英语经济类阅读高频表达）
-> - "China has become the world's largest exporter of manufactured goods."（中国已成为世界最大的制成品出口国。——考研英语经济类阅读高频表达）
+> - French cheeses are exported to many different countries. `[例]`
+>   - 中译：法国奶酪出口到许多不同的国家。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/export
+> - Our clothes sell so well in this country that we have no need to export. `[例]`
+>   - 中译：我们的衣服在这个国家卖得很好，我们不需要出口。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/export
+> - American culture has been exported all over the world. `[例]`
+>   - 中译：美国文化已输出到世界各地。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/export
 
 ---
 

@@ -128,9 +128,15 @@ pro-(向前) + [[tract|tract→拉]](拉/拖) → prolong（tract在词尾弱化
 ## 真题/语料关联
 
 > [!example]- 语料
-> - We were having such a good time that we decided to prolong our stay by another week . `[例]`
-> - She chewed each delicious mouthful as slowly as she could, prolonging the pleasure . `[例]`
-> - They’re trying to prolong their lives . `[例]`
+> - We were having such a good time that we decided to prolong our stay by another week. `[例]`
+>   - 中译：我们玩得很开心，所以我们决定将逗留时间再延长一周。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/prolong
+> - She chewed each delicious mouthful as slowly as she could, prolonging the pleasure. `[例]`
+>   - 中译：她尽可能慢地咀嚼每一口美味，延长愉悦的时间。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/prolong
+> - They’re trying to prolong their lives. `[例]`
+>   - 中译：他们正在努力延长自己的生命。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/prolong
 
 
 ---

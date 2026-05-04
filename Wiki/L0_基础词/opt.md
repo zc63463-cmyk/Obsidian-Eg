@@ -123,9 +123,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Mike opted for early retirement . `[例]`
-> - Most people opt to have the operation . `[例]`
-> - Instead of a soft drink , she opted for water . `[例]`
+> - Mike opted for early retirement. `[例]`
+> - Most people opt to have the operation. `[例]`
+> - Instead of a soft drink , she opted for water. `[例]`
 
 
 ---

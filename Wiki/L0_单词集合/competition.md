@@ -131,9 +131,15 @@ com-(共同) + pet(追求、寻求) + -ition(名词后缀，表行为/过程/结
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The policy is designed to promote fair competition among enterprises. `[COCA-ACAD]`
-> - Competition from foreign companies has forced local firms to cut prices. `[COCA-NEWS]`
-> - There is fierce competition for entry to top universities. `[COCA-MAG]`
+> - It fosters competition among citation providers. `[真题]`
+>   - 中译：它促进了引文提供者之间的竞争。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - Competition for jobs is intense. `[例]`
+>   - 中译：就业竞争非常激烈。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/competition
+> - There's a lot of competition between computer companies. `[例]`
+>   - 中译：计算机公司之间存在很多竞争。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/competition
 
 ---
 

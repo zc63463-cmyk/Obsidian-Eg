@@ -125,9 +125,15 @@ chat 源自中古英语 *chatten*，拟声词，模仿轻松交谈时发出的�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - At the same time AI can also be used to generate content for social media posts and chat sites. `[真题]`
-> - She spends hours on the phone chatting with her friends . `[例]`
-> - We were just chatting about what we did last weekend . `[例]`
+> - The two of us got chatting (= started chatting) at the bus stop. `[例]`
+>   - 中译：我们两个在公交车站聊天（=开始聊天）。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/chat
+> - My kids spend hours chatting on the phone to their friends. `[例]`
+>   - 中译：我的孩子们花几个小时在电话里与他们的朋友聊天。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/chat
+> - Within minutes of being introduced they were chatting away like old friends. `[例]`
+>   - 中译：被介绍后几分钟内，他们就像老朋友一样聊天了。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/chat
 
 
 ---

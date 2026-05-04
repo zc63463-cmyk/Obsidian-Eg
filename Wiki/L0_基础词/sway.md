@@ -122,9 +122,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Her speech failed to sway her colleagues into supporting the plan. `[学术]`
-> - Recent developments have swayed the balance of power in the region. `[新闻]`
-> - Traditional values still hold sway in many rural communities. `[通用]`
+> - Her speech failed to sway her colleagues into supporting the plan. `[例]`
+> - Recent developments have swayed the balance of power in the region. `[例]`
+> - Traditional values still hold sway in many rural communities. `[例]`
 
 
 ---

@@ -132,9 +132,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "A sheet of ice covered the lake." `[真题]`
-> - "Sheets of rain slanted across the road." `[真题]`
-> - "A sheet of flame shot up into the air immediately after the explosion." `[真题]`
+> - A sheet of ice covered the lake. `[真题]`
+> - Sheets of rain slanted across the road. `[真题]`
+> - Choose the best word ( s) for each numbered blank and mark A, B , C or D on th� ANSWER SHEET. ( 10 points) Caravanserais were roadside inns that were built along the Silk Road in areas including China, North Africa and the Middle East. `[真题]`
 
 
 ---

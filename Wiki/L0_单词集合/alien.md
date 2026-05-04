@@ -127,7 +127,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The concept of individualism was completely alien to traditional Chinese society.（个人主义的概念对传统中国社会来说是完全陌生的。）
+> - He believes that aliens visit Earth in UFOs. `[例]`
+>   - 中译：他相信外星人乘坐不明飞行物访问地球。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/alien
+> - In this story , the spaceship comes into contact with a society of friendly aliens. `[例]`
+>   - 中译：在这个故事中，宇宙飞船接触到了一个友好的外星人社会。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/alien
+> - When war broke out, the government rounded up thousands of aliens and put them in temporary camps. `[例]`
+>   - 中译：战争爆发后，政府围捕了数千名外国人，并将他们安置在临时营地。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/alien
 
 ---
 

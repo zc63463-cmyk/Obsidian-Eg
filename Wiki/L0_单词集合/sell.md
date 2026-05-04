@@ -124,10 +124,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Companies that fail to adapt to changing consumer preferences may struggle to sell their products. `[真题]`
-> - The idea of selling personal data to third parties has raised serious privacy concerns. `[COCA-ACAD]`
-> - The concert tickets sold out within minutes of going on sale online. `[COCA-ACAD]`
-> - She had to sell herself during the job interview, highlighting her unique skills and experience. `[COCA-ACAD]`
+> - The stall sells drinks and snacks. `[例]`
+>   - 中译：摊位出售饮料和小吃。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/sell
+> - These baskets sell well (= a lot of them are bought ). `[例]`
+>   - 中译：这些篮子卖得很好（=很多人都买了）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/sell
+> - How much does the phone sell for? `[例]`
+>   - 中译：手机卖多少钱？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/sell
 
 
 ---

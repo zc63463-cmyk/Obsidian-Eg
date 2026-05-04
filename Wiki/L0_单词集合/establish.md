@@ -133,9 +133,15 @@ e-（=ex-，出，完全地）+ 建议创建词根笔记 [[st]]（=stare，站�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The study established a link between diet and health. `[真题]`
-> - Medical tests established that she was not their own child. `[COCA-NEWS]`
-> - He has established himself as a pivotal figure in U.S. politics. `[COCA-NEWS]`
+> - It is established to prevent citation manipulation. `[真题]`
+>   - 中译：它的建立是为了防止引用操纵。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - Grant signed an act into law that established Yellowstone as the world's first national park. `[真题]`
+>   - 中译：格兰特签署了一项法律，将黄石公园确立为世界上第一个国家公园。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - The brewery was established in 1822. `[例]`
+>   - 中译：该啤酒厂成立于 1822 年。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/establish
 
 ---
 

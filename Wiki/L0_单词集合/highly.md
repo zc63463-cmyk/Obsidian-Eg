@@ -130,7 +130,15 @@ high(高) + -ly(副词后缀，"……地")
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The new technology is highly regarded by experts in the field.（这项新技术受到该领域专家的高度评价。）
+> - She was offered a highly paid job in finance. `[例]`
+>   - 中译：她得到了一份高薪的金融工作。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/highly
+> - For our country to remain competitive , we need a highly-skilled, highly-educated workforce. `[例]`
+>   - 中译：为了让我们的国家保持竞争力，我们需要一支高技能、受过高等教育的劳动力队伍。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/highly
+> - Tobacco is highly addictive. `[例]`
+>   - 中译：烟草很容易上瘾。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/highly
 
 ---
 

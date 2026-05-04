@@ -133,9 +133,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - A. ruins B. debt C. fashion Section Il Reading Comprehension Part A Directions: D. equipped D. permanently D. combination D. connect D. along with D. evaluation D. reduced D. opposed D. in case D. meeting D. `[真题]`
 > - Soon, some locals opposed the designation. `[真题]`
-> - The proposed new testing system has been vigorously opposed by teachers . `[例]`
+>   - 中译：很快，一些当地人反对这一指定。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - The proposed new testing system has been vigorously opposed by teachers. `[例]`
+>   - 中译：拟议的新考试制度遭到了教师的强烈反对。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/oppose
+> - Most of the local residents opposed the closing of the school. `[例]`
+>   - 中译：大多数当地居民反对关闭学校。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/oppose
 
 ---
 

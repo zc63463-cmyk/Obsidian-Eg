@@ -3,10 +3,8 @@ title: "unwieldy"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-25
-mastery: L0
 word_freq: 超纲词
 semantic_field: 物品工具
 prototype: 难以操控的（笨重的）
@@ -43,7 +41,7 @@ un-(不，否定) + wield(操控，挥舞，古英语 *wieldan*) + -y(充满...�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**难以操控的**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **难以操控的**（物理层面）
@@ -64,7 +62,7 @@ un-(不，否定) + wield(操控，挥舞，古英语 *wieldan*) + -y(充满...�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ un-(不，否定) + wield(操控，挥舞，古英语 *wieldan*) + -y(充满...�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > wield（挥舞、操控）是古英语词，指挥舞武器或工具。unwieldy 就是不容易挥舞的——想象你拿着一把比你人还高的大剑，转个身都困难，这就是 unwieldy。引申到组织——一个有100层审批的官僚机构也是 unwieldy。
@@ -86,7 +84,7 @@ un-(不，否定) + wield(操控，挥舞，古英语 *wieldan*) + -y(充满...�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ un-(不，否定) + wield(操控，挥舞，古英语 *wieldan*) + -y(充满...�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[wieldy]]：易于操控的（unwieldy 的精确反义，但较罕见）
 > - [[manageable]]：易管理的，可操控的（unwieldy 的常用反义）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,7 +115,7 @@ un-(不，否定) + wield(操控，挥舞，古英语 *wieldan*) + -y(充满...�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **unwieldy bureaucracy**：臃肿的官僚机构
 > - **unwieldy system**：难以管理的系统
 > - **unwieldy equipment**：笨重的设备
@@ -125,19 +123,12 @@ un-(不，否定) + wield(操控，挥舞，古英语 *wieldan*) + -y(充满...�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - A piano is a very unwieldy item to get down a flight of stairs . `[例]`
+> [!example]- 语料
+> - A piano is a very unwieldy item to get down a flight of stairs. `[例]`
 > - One disadvantage for the bank is that its huge size - over 15,000 staff - makes it unwieldy and slow-moving. `[例]`
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-25 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

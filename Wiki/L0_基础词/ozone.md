@@ -118,9 +118,9 @@ ozon-(=ozein, 散发气味，希腊语 *ozein*) + -e
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The depletion of the ozone layer has also contributed to higher winds." `[真题]`
-> - "When these chemicals reach the stratosphere they help to destroy the ozone layer." `[真题]`
-> - "Scientists discovered a hole in the ozone layer above Antarctica." `[真题]`
+> - The depletion of the ozone layer has also contributed to higher winds. `[真题]`
+> - When these chemicals reach the stratosphere they help to destroy the ozone layer. `[真题]`
+> - Scientists discovered a hole in the ozone layer above Antarctica. `[真题]`
 
 
 ---

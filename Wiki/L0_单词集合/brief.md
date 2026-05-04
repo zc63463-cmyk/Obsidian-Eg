@@ -140,10 +140,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Please give a brief self-introduction."（请做一个简短的自我介绍）——考研面试常见表达
-> - "In brief, the plan is feasible."（简而言之，这个计划是可行的）——写作/论述常用过渡
-> - "brief sb. on the latest development"（向某人介绍最新进展）——商业/新闻语境
-> - "a brief survey of the literature"（文献简述）——学术写作常见搭配
+> - His acceptance speech was mercifully brief. `[例]`
+>   - 中译：幸运的是，他的获奖感言非常简短。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/brief
+> - I had a brief look at her report before the meeting. `[例]`
+>   - 中译：我在会前简单浏览了她的报告。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/brief
+> - It'll only be a brief visit because we really don't have much time. `[例]`
+>   - 中译：这只是一次短暂的访问，因为我们真的没有太多时间。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/brief
 
 ---
 

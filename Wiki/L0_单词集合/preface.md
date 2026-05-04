@@ -130,8 +130,15 @@ pre-(在前面) + [[fac]](说/做) → 在前面说 → 序言
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "In the preface to his book, the author acknowledges the contributions of his colleagues and students."（在书的序言中，作者感谢了他的同事和学生们的贡献。）——考研高频表达
-> - "She prefaced her remarks with a brief summary of the research findings."（她在发言前先简要总结了研究发现。）——考研高频表达
+> - In his preface, the author says that he took eight years to write the book. `[例]`
+>   - 中译：作者在序言中说，他花了八年时间写这本书。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/preface
+> - We're hoping these talks could be a preface to peace. `[例]`
+>   - 中译：我们希望这些会谈能够成为和平的序言。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/preface
+> - Each work is prefaced by a descriptive note and concludes with an author's note. `[例]`
+>   - 中译：每部作品都以描述性注释开头，并以作者注释结尾。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/preface
 ---
 
 

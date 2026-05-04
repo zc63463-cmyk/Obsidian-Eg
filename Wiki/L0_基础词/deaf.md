@@ -125,7 +125,7 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The local council has remained deaf to all the objections to its proposals . `[例]`
+> - The local council has remained deaf to all the objections to its proposals. `[例]`
 > - Many of the TV programmes are broadcast with subtitles for the deaf. `[例]`
 > - She’s becoming increasingly deaf. `[例]`
 

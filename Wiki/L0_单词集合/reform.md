@@ -131,10 +131,15 @@ re-(重新、再) + form(形状、形式)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The government has launched a series of reforms aimed at improving the efficiency of the public sector. `[真题]`
-> - Education reform has been a topic of intense debate among policymakers and educators for decades. `[真题]`
-> - As governor, he reformed election procedures to ensure greater transparency. `[COCA-ACAD]`
-> - They attribute this result to certain reforms of the party's nominating process. `[COCA-ACAD]`
+> - Who will reform our unfair electoral system? `[例]`
+>   - 中译：谁来改革我们不公平的选举制度？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/reform
+> - For years I was an alcoholic , but I reformed when the doctors gave me six months to live. `[例]`
+>   - 中译：多年来我一直酗酒，但当医生告诉我只剩下六个月的生命时，我就改过自新了。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/reform
+> - He was given licence to reform the organization. `[例]`
+>   - 中译：他获得了改革该组织的许可。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/reform
 ---
 
 

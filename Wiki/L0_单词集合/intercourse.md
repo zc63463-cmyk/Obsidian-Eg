@@ -132,9 +132,15 @@ inter-(在…之间，between) + course(运行，流动，拉丁语 *cursus*，*
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Sulla was the first Roman who held diplomatic intercourse with that remote people. `[COCA-ACAD]`
-> - There's not enough interaction between the management and the workers. `[COCA-ACAD]`
-> - Commercial intercourse between the nations has increased. `[例]`
+> - Our survey reveals that most couples have intercourse once a week. `[例]`
+>   - 中译：我们的调查显示，大多数夫妇每周性交一次。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/intercourse
+> - The prosecution stated that intercourse had occurred on several occasions. `[例]`
+>   - 中译：检方称，两人曾多次发生性行为。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/intercourse
+> - Life is a pleasant blend of work and social intercourse. `[例]`
+>   - 中译：生活是工作和社交的愉快结合。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/intercourse
 
 ---
 

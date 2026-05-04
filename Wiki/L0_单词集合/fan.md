@@ -142,9 +142,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The media fanned public outrage over the scandal."（媒体煽动了公众对丑闻的愤怒）——考研阅读常见语境，描述媒体对公众情绪的影响
-> - "Police fanned out across the city searching for the suspect."（警察在城市中成扇形散开搜捕嫌疑人）——描述搜索行动
-> - "a football fan"（足球迷）——日常高频搭配
+> - More than 15,000 Liverpool fans attended Saturday's game. `[例]`
+>   - 中译：超过 15,000 名利物浦球迷观看了周六的比赛。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/fan
+> - He's a great fan of country music. `[例]`
+>   - 中译：他是乡村音乐的忠实粉丝。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/fan
+> - I'm pleased to meet you - I'm a big fan of your work. `[例]`
+>   - 中译：我很高兴认识你——我非常喜欢你的作品。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/fan
 
 ---
 

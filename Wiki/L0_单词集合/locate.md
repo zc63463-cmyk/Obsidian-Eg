@@ -122,10 +122,15 @@ loc(地方/地点) + -ate(动词后缀，使……)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Archaeologists also may locate buried remains by using such technologies as ground radar, magnetic-field recording, and metal detectors. `[真题]`
-> - The company decided to locate its new headquarters in a city with better access to international markets. `[COCA-ACAD]`
-> - Investigators are still trying to locate the source of the contamination that affected the water supply. `[COCA-NEWS]`
-> - The new campus is located in the suburbs, approximately twenty miles from the city center. `[COCA-ACAD]`
+> - Our office is located in midtown Manhattan. `[例]`
+>   - 中译：我们的办公室位于曼哈顿市中心。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/locate
+> - Police are still trying to locate the suspect. `[例]`
+>   - 中译：警方仍在努力寻找嫌疑人。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/locate
+> - Engineers are endeavouring to locate the source of the problem. `[例]`
+>   - 中译：工程师们正在努力找出问题的根源。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/locate
 ---
 
 

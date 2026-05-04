@@ -127,9 +127,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - It is possible that life exists on other planets. `[COCA-ACAD]`
-> - The government should do everything possible to reduce unemployment. `[COCA-ACAD]`
-> - Advances in medicine have made it possible for people to live longer. `[COCA-ACAD]`
+> - I can't get it all done by Friday - it's just not possible. `[例]`
+>   - 中译：我无法在周五之前完成所有工作——这是不可能的。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/possible
+> - Is it possible to buy tickets in advance? `[例]`
+>   - 中译：可以提前买票吗？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/possible
+> - They got as far as was humanly possible (= as far as anyone could have) before turning back. `[例]`
+>   - 中译：他们在返回之前已经到达了人类所能到达的最远距离（=任何人都可以到达的最远距离）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/possible
 
 ---
 

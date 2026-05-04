@@ -132,9 +132,15 @@ stir 源自古英语 styrian，与 [[stim/sting]] 同源，原始意象为用尖
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Stir the sauce gently until it begins to boil . `[例]`
-> - Stir the egg yolks into the mixture . `[例]`
-> - She paused to stir some milk into her coffee . `[例]`
+> - She stirred her tea. `[例]`
+>   - 中译：她搅拌茶。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/stir
+> - The vegetables are stirred into the rice while it is hot. `[例]`
+>   - 中译：趁热将蔬菜拌入米饭中。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/stir
+> - Stir in the milk until the sauce thickens. `[例]`
+>   - 中译：加入牛奶搅拌直至酱汁变稠。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/stir
 ---
 
 

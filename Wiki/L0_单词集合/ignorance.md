@@ -133,9 +133,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Ignorance of the law is no excuse."（不知法不能成为借口）——考研翻译/阅读常见法律类表达
-> - "out of ignorance"（出于无知）——考研阅读常见搭配
-> - "willful ignorance"（蓄意无知）——考研阅读社会/科学类话题
+> - Public ignorance about the disease is still a cause for concern. `[例]`
+>   - 中译：公众对该疾病的无知仍然令人担忧。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/ignorance
+> - Patients, it is claimed , were left in ignorance of what was wrong with them. `[例]`
+>   - 中译：据称，患者对自己的问题一无所知。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/ignorance
+> - I hate to admit my ignorance, but how does it work? `[例]`
+>   - 中译：我不愿意承认自己的无知，但是它是如何运作的呢？
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ignorance
 
 ---
 

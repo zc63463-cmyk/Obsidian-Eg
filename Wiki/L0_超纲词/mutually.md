@@ -3,10 +3,8 @@ title: "mutually"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 抽象关系
 prototype: 互相地，双方地
@@ -43,7 +41,7 @@ mut(交换/改变，拉丁语 *mutare*) + -ual(形容词后缀) + -ly(副词后�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**互相地**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **互相地**（关系层面）
@@ -64,7 +62,7 @@ mut(交换/改变，拉丁语 *mutare*) + -ual(形容词后缀) + -ly(副词后�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ mut(交换/改变，拉丁语 *mutare*) + -ual(形容词后缀) + -ly(副词后�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > mutual（互相的）的副词形式就是 mutually。mut 词根是"交换/改变"——mutual 就是"互相交换的"。最常见的搭配：mutually beneficial（互利共赢），mutually exclusive（互斥），mutually dependent（互相依赖）。mutually assured destruction（MAD，相互确保毁灭）是冷战时期的核心概念。
@@ -86,7 +84,7 @@ mut(交换/改变，拉丁语 *mutare*) + -ual(形容词后缀) + -ly(副词后�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -98,13 +96,13 @@ mut(交换/改变，拉丁语 *mutare*) + -ual(形容词后缀) + -ly(副词后�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[unilaterally]] | 单方面地（mutually 的精确反义：互相↔单方面）
 - [[independently]] | 独立地（mutually 的反义：互相依赖↔独立）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -115,7 +113,7 @@ mut(交换/改变，拉丁语 *mutare*) + -ual(形容词后缀) + -ly(副词后�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **mutually beneficial**：互利的
 > - **mutually exclusive**：互斥的
 > - **mutually dependent**：互相依赖的
@@ -123,19 +121,12 @@ mut(交换/改变，拉丁语 *mutare*) + -ual(形容词后缀) + -ly(副词后�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - It will be a mutually beneficial project . `[例]`
-> - A lot of people still think brains and beauty are mutually exclusive (= cannot exist together at the same time ) . `[例]`
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
+> [!example]- 语料
+> - It will be a mutually beneficial project. `[例]`
+> - A lot of people still think brains and beauty are mutually exclusive (= cannot exist together at the same time ). `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

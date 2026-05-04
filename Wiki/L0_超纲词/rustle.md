@@ -3,10 +3,8 @@ title: "rustle"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-25
-mastery: L0
 word_freq: 超纲词
 semantic_field: 自然物理
 prototype: 轻轻摩擦发出的沙沙声
@@ -44,7 +42,7 @@ rustle 为拟声词（onomatopoeia），模仿轻柔摩擦的声音，无明确�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**轻轻摩擦的沙沙声**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **轻轻摩擦的沙沙声**（听觉层面）
@@ -67,7 +65,7 @@ rustle 为拟声词（onomatopoeia），模仿轻柔摩擦的声音，无明确�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ rustle 为拟声词（onomatopoeia），模仿轻柔摩擦的声音，无明确�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > rustle 是拟声词——念这个词时，"r"和"s"的摩擦音就像树叶在风中沙沙作响。闭上眼睛想象：秋天的树林里，微风吹过，满树的叶子发出轻柔的 rustle。最常用的搭配是 "rustle of leaves"（树叶的沙沙声）和 "rustle up"（匆忙弄到/准备）。
@@ -90,7 +88,7 @@ rustle 为拟声词（onomatopoeia），模仿轻柔摩擦的声音，无明确�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,12 +101,12 @@ rustle 为拟声词（onomatopoeia），模仿轻柔摩擦的声音，无明确�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - rustle 作为声音描述词，没有精确反义词。在声音层面，可视为与巨响（loud noise）相对。
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,7 +116,7 @@ rustle 为拟声词（onomatopoeia），模仿轻柔摩擦的声音，无明确�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **rustle of leaves**：树叶的沙沙声
 > - **rustle in the wind**：在风中沙沙作响
 > - **rustle up**：匆忙准备，匆匆弄到
@@ -127,19 +125,12 @@ rustle 为拟声词（onomatopoeia），模仿轻柔摩擦的声音，无明确�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - The leaves rustled in the breeze . `[例]`
-> - He rustled his papers (= noisily moved them about) to hide his embarrassment . `[例]`
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-25 | **复习次数**：0 | **当前等级**：L0
-
----
+> [!example]- 语料
+> - The leaves rustled in the breeze. `[例]`
+> - He rustled his papers (= noisily moved them about) to hide his embarrassment. `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

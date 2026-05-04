@@ -121,9 +121,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She faces the dilemma of disobeying her father or losing the man she loves . `[例]`
-> - She's in a dilemma because she feels she would lose out if she tried to transfer her pension fund elsewhere . `[例]`
-> - The president is clearly in a dilemma over how to tackle the crisis . `[例]`
+> - She faces the dilemma of disobeying her father or losing the man she loves. `[例]`
+> - She's in a dilemma because she feels she would lose out if she tried to transfer her pension fund elsewhere. `[例]`
+> - The president is clearly in a dilemma over how to tackle the crisis. `[例]`
 
 
 ---

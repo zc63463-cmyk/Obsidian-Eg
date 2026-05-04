@@ -127,10 +127,15 @@ drug（源自古法语 *drogue*，"干燥的草药"，可能来自阿拉伯语 *
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Many people mistakenly believe the term drug refers only to some sort of medicine or an illegal chemical taken by drug addicts." `[真题]`
-> - "Technically, any substance other than food that alters our bodily or mental functioning is a drug." `[真题]`
-> - "Commonly abused prescription opioids include morphine, codeine, Vicodin, and Demerol." `[COCA-ACAD]`
-> - "The government has launched a nationwide campaign against illegal drugs." `[COCA-ACAD]`
+> - We may need to try a prescription drug to treat your migraines if regular paracetamol is not working. `[例]`
+>   - 中译：如果常规扑热息痛不起作用，我们可能需要尝试使用处方药来治疗您的偏头痛。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/drug
+> - He takes several drugs for his condition. `[例]`
+>   - 中译：他根据自己的病情服用了几种药物。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/drug
+> - Are you currently taking any drugs? `[例]`
+>   - 中译：您目前正在服用任何药物吗？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/drug
 
 ---
 

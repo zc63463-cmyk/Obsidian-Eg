@@ -125,7 +125,7 @@ homo-(相同，希腊语 *homos* "相同") + [[gen]](种类/产生，拉丁语 *
 
 > [!example]- 语料
 > - The population of the village has remained remarkably homogeneous. `[例]`
-> - Like the other valley towns , this was once a fairly homogeneous Anglo community . `[例]`
+> - Like the other valley towns , this was once a fairly homogeneous Anglo community. `[例]`
 > - A culturally homogeneous society. `[例]`
 
 

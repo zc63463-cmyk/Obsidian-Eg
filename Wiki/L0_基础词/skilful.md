@@ -140,7 +140,7 @@ review_count: 0
 > [!example]- 语料
 > - She also imagined a skilful closing argument and a winning trial. `[真题]`
 > - Young people who are digital natives are indeed becoming more skilful at separating fact from fiction in cyberspace. `[真题]`
-> - Police officers have to be skilful drivers to handle high-speed pursuit situations safely. `[外刊]`
+> - Police officers have to be skilful drivers to handle high-speed pursuit situations safely. `[例]`
 
 
 ---

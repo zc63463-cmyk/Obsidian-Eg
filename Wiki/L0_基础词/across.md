@@ -126,9 +126,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The term caravan was used to _4_ groups of people who travelled together across the ancient network for safety reasons , 5 merchants, travellers or pillgrims. `[真题]`
-> - Such debates reflect fierce discussions across the US and around the world , as researchers , policymakers , teachers and students step up demands for a greater focus on teaching about the facts of climate change in schools. `[真题]`
-> - A study last year by the National Center for Science Education, a non­ profit group of scientists and teachers, looking at how state public schools across the country address climate change in science classes, gave barely half of US states a grade B + or higher. `[真题]`
+> - He walked across the field. `[例]`
+>   - 中译：他走过田野。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/across
+> - I drew a line across the page. `[例]`
+>   - 中译：我在页面上画了一条线。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/across
+> - A grin spread across her face. `[例]`
+>   - 中译：她的脸上露出笑容。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/across
 
 
 ---

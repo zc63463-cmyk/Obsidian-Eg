@@ -132,10 +132,10 @@ per-（完全，贯穿，[[per]]）+ mit（送，拉丁语 *mittere*）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The regulations do not permit much flexibility. `[语料库]`
-> - Visitors are not permitted to take photographs inside the museum. `[语料库]`
-> - The prison authorities permit visiting only once a month. `[语料库]`
-> - You need a work permit to be employed in this country. `[语料库]`
+> - The regulations do not permit much flexibility. `[例]`
+> - Visitors are not permitted to take photographs inside the museum. `[例]`
+> - The prison authorities permit visiting only once a month. `[例]`
+> - You need a work permit to be employed in this country. `[例]`
 
 
 ---

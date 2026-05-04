@@ -129,9 +129,15 @@ inter-(在…之间，among/between) + -nal(形容词后缀，表示"…的")
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Nations should be left to resolve their own internal difficulties. `[真题]`
-> - The civil war led to considerable internal migration. `[真题]`
-> - The company needs to improve its internal communication mechanisms. `[COCA-ACAD]`
+> - He sustained injuries to his arms , legs , and several internal organs. `[例]`
+>   - 中译：他的手臂、腿部和多个内脏器官均受伤。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/internal
+> - The internal struggle with his conscience continued. `[例]`
+>   - 中译：他内心与良心的斗争仍在继续。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/internal
+> - She didn't want to be left alone with her dark internal thoughts. `[例]`
+>   - 中译：她不想独自承受内心阴暗的想法。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/internal
 
 ---
 

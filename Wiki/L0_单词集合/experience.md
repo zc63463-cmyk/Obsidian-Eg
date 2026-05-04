@@ -127,8 +127,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "For an active learner, engaging with a textbook can be an interactive experience: readers proceed at their own pace."（对于主动学习者来说，阅读教科书可以是一种互动体验：读者按照自己的节奏进行。）——考研真题阅读
-> - "Many international students experience culture shock when they first arrive at a foreign university."（许多留学生在初到国外大学时会经历文化冲击。）——考研高频表达
+> - The best way to learn is by experience (= by doing things). `[例]`
+>   - 中译：最好的学习方法是通过经验（=通过做事）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/experience
+> - I know from experience that Tony never keeps his promises. `[例]`
+>   - 中译：根据我的经验，我知道托尼从不遵守诺言。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/experience
+> - I don't think she has the experience for the job (= enough knowledge and skill for it). `[例]`
+>   - 中译：我认为她没有从事这项工作的经验（=足够的知识和技能）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/experience
 
 ---
 

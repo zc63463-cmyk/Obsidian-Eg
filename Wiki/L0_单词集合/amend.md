@@ -130,8 +130,15 @@ a-/em-(加强) + 建议创建词根笔记 [[mend/mend]](修正，修补) = 修�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The government proposed to amend the constitution to extend the term limits for the president."（政府提议修改宪法以延长总统的任期限制。）——考研高频表达
-> - "The committee agreed to amend the original plan to accommodate the concerns of local residents."（委员会同意修改原计划以回应当地居民的关切。）——考研高频表达
+> - MPs were urged to amend the law to prevent another oil tanker disaster. `[例]`
+>   - 中译：议员们被敦促修改法律，以防止再次发生油轮灾难。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/amend
+> - In line 20, "men" should be amended (= changed ) to " people ". `[例]`
+>   - 中译：第 20 行，“men”应修改为“people”。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/amend
+> - Until the constitution is amended, the power to appoint ministers will remain with the president. `[例]`
+>   - 中译：在宪法修改之前，任命部长的权力仍属于总统。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/amend
 ---
 
 

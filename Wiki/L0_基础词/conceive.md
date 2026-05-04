@@ -128,9 +128,15 @@ con-(加强/完全) + [[ceive|ceive]](抓取，拉丁语 *capere* "抓住、获�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - He conceived the idea of transforming the old power station into an arts centre. `[COCA-ACAD]`
-> - I find it hard to conceive that people are still treated so badly. `[COCA-NEWS]`
-> - The baby was conceived in March, so will be born in December. `[COCA-MAG]`
+> - He conceived the idea of transforming the old power station into an arts centre. `[例]`
+>   - 中译：他萌生了将旧发电站改造成艺术中心的想法。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/conceive
+> - The dam project was originally conceived in 1997. `[例]`
+>   - 中译：该大坝工程最初设想于1997年。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/conceive
+> - God is often conceived of as male. `[例]`
+>   - 中译：上帝常常被认为是男性。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/conceive
 
 
 ---

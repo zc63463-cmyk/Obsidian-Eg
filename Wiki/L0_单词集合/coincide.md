@@ -130,8 +130,15 @@ co-(共同，一起) + in-(在) + cid(落下，[[ced-cess]]变体) + -e
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The interests of employers and employees do not always coincide."（雇主和雇员的利益并不总是一致的。）——考研高频表达
-> - "The demonstration had been carefully stage-managed to coincide with the Prime Minister's visit."（这次示威活动事先作了精心安排，正好在首相访问时进行。）——考研高频表达
+> - I timed my holiday to coincide with the children's. `[例]`
+>   - 中译：我把假期安排在孩子们的假期时间上。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/coincide
+> - If the heavy rain had coincided with an extreme high tide , serious flooding would have resulted. `[例]`
+>   - 中译：如果大雨恰逢涨潮，就会引发严重的洪水。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/coincide
+> - Our views coincide on a range of subjects. `[例]`
+>   - 中译：我们的观点在一系列问题上都是一致的。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/coincide
 
 
 ---

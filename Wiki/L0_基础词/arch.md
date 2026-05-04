@@ -134,9 +134,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - In many churches the side aisles are separated from the central aisle by a row of arches. `[例]`
-> - Passing through the arch, you enter an open courtyard . `[例]`
-> - The vines were trained over an arch, providing shade as well as fruit . `[例]`
+> - There are a number of workshops under the railway arches. `[例]`
+>   - 中译：铁路拱门下有许多车间。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/arch
+> - Marble Arch is a famous London landmark. `[例]`
+>   - 中译：大理石拱门是伦敦著名的地标。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/arch
+> - The branches of the trees formed an arch over the bench. `[例]`
+>   - 中译：树枝在长凳上方形成一个拱形。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/arch
 
 
 ---

@@ -124,8 +124,15 @@ ac-(=ad-，朝向、加强) + cur-(关心、注意) + -ate(形容词后缀，表
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "To accurately tell whether someone is sociable, studies show, we need at least a minute, preferably five."（研究表明，要准确判断一个人是否善于交际，我们至少需要一分钟，最好是五分钟。）——2013考研英语二Text3
-> - "It is difficult to obtain accurate data on the number of illegal immigrants."（很难获得关于非法移民数量的准确数据。）——考研高频表达
+> - The figures they have used are just not accurate. `[例]`
+>   - 中译：他们使用的数字并不准确。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/accurate
+> - Her novel is an accurate reflection of life in Spain. `[例]`
+>   - 中译：她的小说准确地反映了西班牙的生活。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/accurate
+> - We hope to become more accurate in predicting earthquakes. `[例]`
+>   - 中译：我们希望能够更加准确地预测地震。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/accurate
 
 ---
 

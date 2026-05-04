@@ -136,9 +136,15 @@ pre-(在……前面) + [[ced-cess|ess]](存在/在) + -ent(形容词/名词后�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The study presented some interesting findings."（这项研究呈现了一些有趣的发现。）——2015年阅读
-> - "All the present members agreed to the plan."（所有在场的成员都同意这个计划。）——2016年阅读
-> - "The sobering aspect of Allen's book is that we have no one else to blame for our present condition except ourselves."（艾伦这本书令人清醒的一面是：对于目前的处境，除了我们自己，我们不能责怪任何人。）——2011年翻译
+> - They gave me theatre tickets as a present. `[例]`
+>   - 中译：他们给了我剧院门票作为礼物。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/present
+> - We're having a collection for Tom's retirement present. `[例]`
+>   - 中译：我们正在收集汤姆的退休礼物。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/present
+> - They got an entire set of silver cutlery as a wedding present. `[例]`
+>   - 中译：他们得到了一整套银餐具作为结婚礼物。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/present
 ---
 
 

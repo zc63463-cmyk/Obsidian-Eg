@@ -3,10 +3,8 @@ title: "drawn-out"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 抽象关系
 prototype: 拖长的（被拉长到超出预期的时间）
@@ -43,7 +41,7 @@ drawn（draw 的过去分词，"拉/拖"）+ out（出来/向外）
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**拖长的（被拉长到超出预期的时间）**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **被拉长**（空间层面）
@@ -64,7 +62,7 @@ drawn（draw 的过去分词，"拉/拖"）+ out（出来/向外）
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +73,7 @@ drawn（draw 的过去分词，"拉/拖"）+ out（出来/向外）
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > draw（拉）+ out（向外）→ drawn-out（被拉长的）。想象一场会议本来1小时，结果被拉长到3小时——这就是 a drawn-out meeting。
@@ -87,7 +85,7 @@ drawn（draw 的过去分词，"拉/拖"）+ out（出来/向外）
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +98,13 @@ drawn（draw 的过去分词，"拉/拖"）+ out（出来/向外）
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[brief]]：简短的（拖延↔简短）
 > - [[concise]]：简洁的（冗长↔简洁）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -116,7 +114,7 @@ drawn（draw 的过去分词，"拉/拖"）+ out（出来/向外）
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a drawn-out process**：拖延的过程
 > - **a drawn-out negotiation**：旷日持久的谈判
 > - **a drawn-out battle**：持久的战斗
@@ -124,20 +122,13 @@ drawn（draw 的过去分词，"拉/拖"）+ out（出来/向外）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - The drawn-out negotiation finally came to an end after three months. `[例]`
 > - The movie felt drawn-out and lost the audience's interest in the second half. `[例]`
 > - No one expected such a drawn-out process for a simple permit application. `[例]`
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
-
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

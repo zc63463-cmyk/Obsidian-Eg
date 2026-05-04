@@ -131,9 +131,9 @@ feast 源自古法语 *feste*，拉丁语 *festa*（节日、庆典），与 [[f
 ## 真题/语料关联
 
 > [!example]- 语料
-> - What a feast!" she said, surveying all the dishes on the table . `[例]`
+> - What a feast!" she said, surveying all the dishes on the table. `[例]`
 > - Her rich colourful costumes make the show a visual feast. `[例]`
-> - His food is a feast for the eyes as well as the palate . `[例]`
+> - His food is a feast for the eyes as well as the palate. `[例]`
 
 
 ---

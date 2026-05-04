@@ -120,9 +120,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - All the countries have proclaimed their loyalty to the alliance . `[例]`
+> - All the countries have proclaimed their loyalty to the alliance. `[例]`
+>   - 中译：所有国家都宣布效忠该联盟。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/proclaim
 > - Republican party members were confidently proclaiming victory even as the first few votes came in. `[例]`
-> - It was the famous speech in which he proclaimed that socialism was dead . `[例]`
+>   - 中译：即使在最初几张选票出现时，共和党成员也自信地宣布胜利。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/proclaim
+> - It was the famous speech in which he proclaimed that socialism was dead. `[例]`
+>   - 中译：这是他宣布社会主义已死的著名演讲。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/proclaim
 
 
 ---

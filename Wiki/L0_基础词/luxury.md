@@ -129,7 +129,7 @@ lux(光，拉丁语 *lux*, *lucis*) + -ury(名词后缀)
 > [!example]- 语料
 > - As daughter of a billionaire , she grew up surrounded by unimaginable luxury. `[例]`
 > - A day off work is such a luxury. `[例]`
-> - Luxury cruises are gaining in popularity . `[例]`
+> - Luxury cruises are gaining in popularity. `[例]`
 
 
 ---

@@ -3,10 +3,8 @@ title: "mundane"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 社会习俗
 prototype: 世俗的，平凡的
@@ -43,7 +41,7 @@ mund(世界，拉丁语 *mundus* 世界) + -ane(形容词后缀)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**世俗的**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **世俗的**（宗教对比层面）
@@ -66,7 +64,7 @@ mund(世界，拉丁语 *mundus* 世界) + -ane(形容词后缀)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ mund(世界，拉丁语 *mundus* 世界) + -ane(形容词后缀)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > mund（世界）+ -ane = mundane（世俗的）。拉丁语 *mundus* 就是"世界"。中世纪时，僧侣们把世界分为"神圣的"和"世俗的"（mundane）。今天 mundane 更多指"平凡的、无聊的"——mundane tasks（日常杂务），the mundane reality（平凡的现实）。对比 sublunary（月下的=世俗的），同义。
@@ -88,7 +86,7 @@ mund(世界，拉丁语 *mundus* 世界) + -ane(形容词后缀)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,14 +99,14 @@ mund(世界，拉丁语 *mundus* 世界) + -ane(形容词后缀)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[extraordinary]] | 非凡的（mundane 的精确反义：平凡↔非凡）
 - [[spiritual]] | 精神的，神圣的（mundane 的反义：世俗↔精神）
 - [[exciting]] | 令人兴奋的（mundane 的反义：单调↔刺激）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,7 +117,7 @@ mund(世界，拉丁语 *mundus* 世界) + -ane(形容词后缀)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **mundane tasks/details**：日常杂务/细节
 > - **mundane life/reality**：平凡的生活/现实
 > - **mundane affairs**：世俗事务
@@ -127,19 +125,12 @@ mund(世界，拉丁语 *mundus* 世界) + -ane(形容词后缀)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - Mundane matters such as paying bills and shopping for food do not interest her. `[例]`
-> - The show was just another mundane family sitcom . `[例]`
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
+> - The show was just another mundane family sitcom. `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

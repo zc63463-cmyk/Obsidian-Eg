@@ -129,8 +129,15 @@ e-(=ex-, 向外) + [[volv]](=roll, 滚动) + -tion(名词后缀) → 向外滚�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The evolution of human language is one of the most fascinating topics in linguistics."（人类语言的演变是语言学中最引人入胜的话题之一。）——考研高频表达
-> - "Darwin's theory of evolution by natural selection revolutionized our understanding of the natural world."（达尔文的自然选择进化论彻底改变了我们对自然世界的理解。）——考研高频表达
+> - Religious traditionalists objected to theories of evolution being taught in schools. `[例]`
+>   - 中译：宗教传统主义者反对在学校教授进化论。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/evolution
+> - We watched a documentary about the story of human evolution over the last three million years. `[例]`
+>   - 中译：我们观看了一部关于过去三百万年人类进化故事的纪录片。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/evolution
+> - The new telescope has helped us to understand more about the evolution of the universe. `[例]`
+>   - 中译：新望远镜帮助我们更多地了解宇宙的演化。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/evolution
 ---
 
 

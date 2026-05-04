@@ -120,8 +120,15 @@ mess-/mit-(送/放) + -age(名词后缀) + -er(表示人) → 送消息的人
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The messenger delivered the urgent letter to the commander without delay."（信使毫不迟延地将紧急信件送到了指挥官手中。）——考研高频表达
-> - "Don't shoot the messenger — I'm just reporting what I was told."（不要迁怒于报信者——我只是在传达被告知的内容。）——考研高频表达
+> - The documents were delivered by special messenger. `[例]`
+>   - 中译：这些文件是由特使送达的。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/messenger
+> - I worked in my father's store as a messenger boy. `[例]`
+>   - 中译：我在父亲的商店里当信差。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/messenger
+> - I'll get it messengered over to you right way. `[例]`
+>   - 中译：我会以正确的方式传达给你。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/messenger
 
 ---
 

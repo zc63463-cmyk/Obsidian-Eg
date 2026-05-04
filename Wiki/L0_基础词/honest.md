@@ -131,8 +131,8 @@ hon(荣誉，拉丁语 *honor* "荣誉/尊敬") + -est(形容词后缀，表"具
 ## 真题/语料关联
 
 > [!example]- 语料
-> - He had an honest face (= he looked like he could be trusted ) . `[例]`
-> - To be honest (= To tell the truth ) , I didn’t like the movie . `[例]`
+> - He had an honest face (= he looked like he could be trusted ). `[例]`
+> - To be honest (= To tell the truth ) , I didn’t like the movie. `[例]`
 > - Be honest now - do you think this dress is too young for me? `[例]`
 
 

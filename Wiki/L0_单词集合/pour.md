@@ -133,9 +133,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The government has poured billions of dollars into infrastructure development." `` `[COCA-ACAD]` ``
-> - "Criticism has poured in from all sides since the policy was announced." `` `[COCA-NEWS]` ``
-> - "It has been pouring with rain all day and the streets are flooded." `` `[COCA]` ``
+> - I spilled the juice while I was pouring it. `[例]`
+>   - 中译：我倒果汁的时候把果汁洒了。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/pour
+> - Pour the honey into the bowl and mix it thoroughly with the other ingredients. `[例]`
+>   - 中译：将蜂蜜倒入碗中，与其他成分充分混合。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/pour
+> - Would you like me to pour you some more wine? `[例]`
+>   - 中译：要我再给你倒点酒吗？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/pour
 
 ---
 

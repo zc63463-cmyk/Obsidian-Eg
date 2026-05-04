@@ -124,10 +124,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Selfish behavior can undermine social cohesion and trust among community members. `[真题]`
-> - The author argues that human beings are not inherently selfish, but are shaped by their environment. `[COCA-ACAD]`
-> - It is a major disservice and betrayal of trust when public officials place their own selfish interests over the communities they serve. `[COCA-ACAD]`
-> - Littering, whether dropped on the ground or thrown from vehicles, is caused by a few selfish people. `[COCA-ACAD]`
+> - The judge told him: " Your attitude shows a selfish disregard for others. `[例]`
+>   - 中译：法官告诉他：“你的态度表明了对他人的自私漠视。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/selfish
+> - Don't be so selfish! `[例]`
+>   - 中译：别这么自私！
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/selfish
+> - It would be a bit selfish to keep them all for myself. `[例]`
+>   - 中译：如果把它们全都留给自己，那就有点自私了。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/selfish
 
 ---
 

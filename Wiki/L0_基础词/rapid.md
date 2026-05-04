@@ -131,9 +131,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Snap decisions in reaction to rapid stimuli aren't exclusive to the interpersonal realm." `[真题]`
-> - "The 1990s were a period of rapid change and rapid growth." `[真题]`
-> - "She made a rapid recovery after her operation." `[真题]`
+> - Snap decisions in reaction to rapid stimuli aren't exclusive to the interpersonal realm. `[真题]`
+> - The 1990s were a period of rapid change and rapid growth. `[真题]`
+> - The plan offers a rapid option for small organizations. `[真题]`
 
 
 ---

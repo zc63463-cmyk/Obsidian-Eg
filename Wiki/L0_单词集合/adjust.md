@@ -123,8 +123,15 @@ ad-(=to, toward, 向、朝) + just(=right, proper, 正确的、恰当的)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It takes time for freshmen to adjust to the new environment of university life."（新生需要时间来适应大学生活的新环境。）——考研高频表达
-> - "The government needs to adjust its economic policies to cope with the changing global situation."（政府需要调整其经济政策以应对不断变化的全球形势。）——考研高频表达
+> - If the chair is too high you can adjust it to suit you. `[例]`
+>   - 中译：如果椅子太高，您可以调整它以适合您。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/adjust
+> - As a teacher you have to adjust your methods to suit the needs of slower children. `[例]`
+>   - 中译：作为一名老师，你必须调整你的方法以适应速度较慢的孩子的需要。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/adjust
+> - She adjusted her skirt , took a deep breath , and walked into the room. `[例]`
+>   - 中译：她整了整裙子，深吸了一口气，走进了房间。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/adjust
 
 
 ---

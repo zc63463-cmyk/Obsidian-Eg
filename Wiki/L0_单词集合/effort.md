@@ -134,10 +134,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - We will spare no effort to secure their release from prison. `[COCA-ACAD]`
-> - That number has stayed relatively consistent for the past decade despite a wide range of efforts to reduce it. `[COCA-ACAD]`
-> - Conservation efforts have led to the recovery of several endangered species. `[COCA-ACAD]`
-> - His efforts were rewarded with good results. `[COCA-ACAD]`
+> - One of the turning points in public support for land conservation efforts-and recognizing the magnificence of the Yellowstone region in particular-came in the form of vivid photographs. `[真题]`
+>   - 中译：公众支持土地保护工作的转折点之一——尤其是认识到黄石地区的壮丽——以生动的照片的形式出现。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - If we could all make an effort to keep this office tidier it would help. `[例]`
+>   - 中译：如果我们都能努力保持这个办公室整洁，那将会有所帮助。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/effort
+> - You can't expect to have any friends if you don't make the effort with people. `[例]`
+>   - 中译：如果你不努力与人交往，你就不能指望有任何朋友。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/effort
 
 ---
 

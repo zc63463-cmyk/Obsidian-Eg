@@ -132,8 +132,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The politician was involved in a nasty scandal that ruined his career."（这位政治家卷入了一场毁掉他职业生涯的丑闻。）——考研高频表达
-> - "The weather turned nasty, forcing the hikers to seek shelter."（天气变得恶劣，迫使徒步旅行者寻找避难所。）——考研高频表达
+> - There's a nasty smell in here. `[例]`
+>   - 中译：这里有一股难闻的气味。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/nasty
+> - He had a nasty cut above the eye. `[例]`
+>   - 中译：他眼睛上方有一道严重的伤口。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/nasty
+> - She has a nasty habit of picking on people in meetings. `[例]`
+>   - 中译：她有一个在会议上挑剔别人的坏习惯。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/nasty
 
 ---
 

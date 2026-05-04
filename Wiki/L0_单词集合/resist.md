@@ -133,9 +133,15 @@ re-(向后/对抗) + [[sist|sist→站立]](站立) + -e（动词后缀）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The party leader resisted demands for his resignation." `[COCA-ACAD]`
-> - "She couldn't resist telling us what she'd heard." `[COCA-ACAD]`
-> - "The drug will help your body resist infection." `[COCA-ACAD]`
+> - Pat Hardy, who sympathises with the views of the energy sector, is resisting proposed changes 1to science standards for pre-teen pupils. `[真题]`
+>   - 中译：帕特·哈迪（Pat Hardy）同情能源部门的观点，他反对对青春期前学生的科学标准进行修改1。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - The soldiers resisted (the enemy attacks ) for two days. `[例]`
+>   - 中译：士兵们抵抗了（敌人的攻击）两天。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/resist
+> - The party leader resisted demands for his resignation. `[例]`
+>   - 中译：该党领导人拒绝了他辞职的要求。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/resist
 
 
 ---

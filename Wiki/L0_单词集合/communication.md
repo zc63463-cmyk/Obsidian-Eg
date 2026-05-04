@@ -136,8 +136,15 @@ com-(共同) + muni(服务/公共) + -cation(名词后缀，动作结果)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "On the contrary, the price of communications is coming down fast."（相反，通信的价格正在迅速下降。）——2001年考研英语一阅读Text 4
-> - "The communications revolution has influenced both work and leisure."（通信革命影响了工作和休闲两个方面。）——考研高频表达
+> - Says Dan Quinn, senior communications strategist at the Texas Freedom Network, a non-profit group that monitors public education. `[真题]`
+>   - 中译：德克萨斯自由网络 (Texas Freedom Network) 的高级传播策略师丹·奎恩 (Dan Quinn) 说道，该网络是一个监测公共教育的非营利组织。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - For AI to be successful, data needs to be accessible, but the use of personal data is becoming more regulated and the automated sharing of data is becoming more difficult. ( 49 ) If customers are not willing to share data, AI will be starved of essential information and will not be able to function effectively or employ machine learning to improve its marketing content and communication. `[真题]`
+>   - 中译：人工智能要取得成功，数据需要可访问，但个人数据的使用变得更加规范，数据的自动共享也变得更加困难。 ( 49 ) 如果客户不愿意共享数据，人工智能将缺乏必要的信息，将无法有效运作或利用机器学习来改进其营销内容和沟通。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - Television is an increasingly important means of communication. `[例]`
+>   - 中译：电视是一种日益重要的交流方式。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/communication
 
 
 ---

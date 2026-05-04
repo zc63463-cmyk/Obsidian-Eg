@@ -135,10 +135,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Students often encounter difficulties when adapting to a new learning environment. `[COCA-ACAD]`
-> - The army is reported to be encountering considerable resistance. `[COCA-ACAD]`
-> - On my way to the station I encountered a small child begging. `[COCA-ACAD]`
-> - As we left the memorial area we encountered a group of German students. `[例]`
+> - I had an alarming encounter with a wild pig. `[例]`
+>   - 中译：我与一头野猪有一次令人震惊的遭遇。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/encounter
+> - This meeting will be the first encounter between the party leaders since the election. `[例]`
+>   - 中译：这次会议将是选举以来党领导人之间的首次会面。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/encounter
+> - She has written a memoir of her encounters with W.H. Auden over the years. `[例]`
+>   - 中译：她写了一本回忆录，讲述她与 W.H.奥登多年来。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/encounter
 
 ---
 

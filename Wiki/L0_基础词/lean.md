@@ -138,9 +138,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She leaned forward and whispered something in my ear . `[例]`
+> - She leaned forward and whispered something in my ear. `[例]`
 > - I sat down next to Bernard, who leaned over to me and said "You're late. `[例]`
-> - That fence is leaning to the right . `[例]`
+> - That fence is leaning to the right. `[例]`
 
 
 ---

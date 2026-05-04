@@ -127,9 +127,15 @@ at-(=ad-, 向、朝向) + tribute(给予，拉丁语 *tribuere*)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Few Americans attribute this solely to such obvious causes as a devalued dollar or the turning of the business cycle. `[真题]`
-> - The fall in the number of deaths from heart disease is generally attributed to improvements in diet. `[COCA-ACAD]`
-> - She attributes her success to hard work and perseverance. `[例]`
+> - Organizational ability is an essential attribute for a good manager. `[例]`
+>   - 中译：组织能力是一个优秀管理者的必备素质。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/attribute
+> - Self-confidence is a rare attribute in a 17-year-old. `[例]`
+>   - 中译：自信对于17岁的年轻人来说是一种罕见的品质。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/attribute
+> - She has the physical attributes to become a championship swimmer. `[例]`
+>   - 中译：她具备成为游泳冠军的身体素质。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/attribute
 
 ---
 

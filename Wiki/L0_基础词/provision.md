@@ -130,9 +130,9 @@ pro-(提前/向前) + [[vis-vid|vis-]](看见，拉丁语 *videre*) + -ion(名�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The provision of good public transport will be essential for developing the area . `[例]`
-> - Of course there's provision in the plan for population increase . `[例]`
-> - When designing buildings in this area , you have to make provision against earthquakes . `[例]`
+> - The provision of good public transport will be essential for developing the area. `[例]`
+> - Of course there's provision in the plan for population increase. `[例]`
+> - When designing buildings in this area , you have to make provision against earthquakes. `[例]`
 
 
 ---

@@ -126,8 +126,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - "The court affirmed the lower court's decision."（法院维持了下级法院的判决。）——考研阅读真题
-> - "She affirmed her commitment to the principles of justice and equality."（她重申了自己对正义和平等原则的承诺。）——考研高频表达
+> - The suspect affirmed (that) he had been at home all evening. `[例]`
+>   - 中译：嫌疑人确认他整个晚上都在家。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/affirm
+> - She affirmed her intention to apply for the post. `[例]`
+>   - 中译：她确认了自己申请该职位的意图。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/affirm
+> - The government has affirmed its commitment to equal rights. `[例]`
+>   - 中译：政府已确认其对平等权利的承诺。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/affirm
 
 ---
 

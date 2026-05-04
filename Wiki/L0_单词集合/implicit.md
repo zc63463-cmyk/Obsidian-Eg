@@ -125,10 +125,15 @@ im-(=in，进入) + plic(=fold，折叠) + -it(形容词后缀)（建议创建�
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - `There is an implicit assumption that economic growth will solve all social problems.` `[真题]`
-> > - `Implicit in the article is the message that single mothers are responsible for poverty.` `[COCA-ACAD]`
-> > - `The implicit threat of disease curtailed summer pleasures for the children of the polio years.` `[COCA-ACAD]`
-> > - `I have implicit trust in her honesty.` `[COCA-ACAD]`
+> - He interpreted her comments as an implicit criticism of the government. `[例]`
+>   - 中译：他将她的言论解读为对政府的含蓄批评。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/implicit
+> - Implicit in the poem's closing lines are the poet's own religious doubts. `[例]`
+>   - 中译：这首诗的最后几行隐含着诗人自己的宗教疑虑。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/implicit
+> - The experiment was designed to measure implicit racial bias. `[例]`
+>   - 中译：该实验旨在衡量隐性种族偏见。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/implicit
 
 ---
 

@@ -124,10 +124,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - In her writing she strove for a balance between innovation and familiar prose forms. `[COCA-ACAD]`
-> - Neither Jefferson nor Madison was a pacifist, though both strove to keep America at peace. `[COCA-ACAD]`
 > - The region must now strive for economic development as well as peace. `[COCA-NEWS]`
 > - We must strive to reduce poverty and inequality in our society. `[COCA-ACAD]`
+> - Mr Roe has kindled expectations that he must now strive to live up to. `[例]`
 
 
 ---

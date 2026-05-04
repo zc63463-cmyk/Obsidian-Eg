@@ -136,10 +136,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The constant notifications from smartphones distract students from their studies and reduce academic performance. `[真题]`
-> - In today's fast-paced world, it is increasingly difficult to avoid being distracted by various forms of media. `[真题]`
-> - He was distracted from his studies by a loud noise outside the window. `[COCA-ACAD]`
-> - The local story distracted attention from news of the war overseas. `[COCA-NEWS]`
+> - Don't distract her from her studies. `[例]`
+>   - 中译：不要分散她的学习注意力。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/distract
+> - He tried to distract attention from his own illegal activities. `[例]`
+>   - 中译：他试图转移人们对他自己的非法活动的注意力。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/distract
+> - The teacher had to separate the two friends because they tend to distract each other in class. `[例]`
+>   - 中译：老师不得不把这两个朋友分开，因为他们在课堂上容易分散对方的注意力。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/distract
 ---
 
 

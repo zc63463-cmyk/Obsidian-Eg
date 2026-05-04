@@ -128,9 +128,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The country's economy has been crippled by years of civil war and corruption. `[真题]`
-> - He was crippled by the accident and had to use a wheelchair for the rest of his life. `[真题]`
-> - A crippling blow to the industry came when the government imposed heavy new regulations. `[真题]`
+> - The industry has been financially crippled by these policies. `[例]`
+>   - 中译：这些政策导致该行业陷入财务困境。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/cripple
+> - Sugar producers have been crippled by plummeting prices. `[例]`
+>   - 中译：食糖生产商因价格暴跌而遭受重创。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/cripple
+> - The pilot tried to land his crippled plane. `[例]`
+>   - 中译：飞行员试图让他那架受损的飞机降落。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/cripple
 
 
 ---

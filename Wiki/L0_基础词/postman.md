@@ -123,9 +123,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The postman hasn't been here yet . `[例]`
+> - The postman hasn't been here yet. `[例]`
 > - The postman left this package with me because you were out. `[例]`
-> - I think I can see the postman coming up the drive . `[例]`
+> - I think I can see the postman coming up the drive. `[例]`
 
 
 ---

@@ -127,8 +127,15 @@ com-(完全，加强) + mend(委托，信任)
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - "The committee commended the police for their swift response to the crisis."（委员会赞扬了警方对危机的迅速反应。）——考研阅读真题
-> - "The report commends the school for its innovative approach to teaching."（报告赞扬了学校在教学方面的创新方法。）——考研高频表达
+> - The judge commended her for her bravery. `[例]`
+>   - 中译：法官赞扬了她的勇敢。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/commend
+> - Reeves commended his opponent on her historic victory. `[例]`
+>   - 中译：里夫斯赞扬了对手的历史性胜利。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/commend
+> - For a low-budget film , it has much to commend it (= it deserves praise ). `[例]`
+>   - 中译：对于一部低成本电影来说，它有很多值得赞扬的地方（=值得赞扬）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/commend
 
 ---
 

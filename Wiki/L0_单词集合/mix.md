@@ -126,8 +126,15 @@ mix(混合) — 基础词根，源自拉丁语 *miscere* "混合"
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "No one will ever know what mix of talent, ambition, energy and luck made Dickens such a distinguished writer."（没有人会知道是什么样的天赋、雄心、精力和运气的结合使狄更斯成为如此杰出的作家。）——考研高频表达
-> - "The school attracts a diverse mix of students from different backgrounds."（这所学校吸引了来自不同背景的多元化学生群体。）——考研高频表达
+> - Oil and water don't mix. Even if you shake them together they separate into two layers. `[例]`
+>   - 中译：油和水不相溶。即使你将它们摇在一起，它们也会分成两层。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/mix
+> - Mix the eggs into the flour. `[例]`
+>   - 中译：将鸡蛋混入面粉中。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/mix
+> - In a large bowl , mix together the sugar and raisins. `[例]`
+>   - 中译：在一个大碗中，将糖和葡萄干混合在一起。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/mix
 
 ---
 

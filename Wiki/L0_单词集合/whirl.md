@@ -139,10 +139,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She saw a mass of bodies whirling around on the dance floor . `[例]`
-> - He stepped out into the night and the whirling snow . `[例]`
-> - He whirled her around until she felt quite sick . `[例]`
-> - The next two days passed in a whirl of activity . `[例]`
+> - Leaves whirled in the wind. `[例]`
+>   - 中译：树叶在风中旋转。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/whirl
+> - She whirled around to face him. `[例]`
+>   - 中译：她转过身来面对他。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/whirl
+> - They ducked to avoid the whirling blades of the helicopter. `[例]`
+>   - 中译：他们低头躲避直升机旋转的桨叶。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/whirl
 
 ---
 

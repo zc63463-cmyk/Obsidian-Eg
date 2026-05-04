@@ -125,8 +125,15 @@ com-(共同，一起) + mit(发送，交付) + -tee(名词后缀，表示"做某
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - "The committee is expected to reach a decision by the end of the month."（委员会预计将在月底前做出决定。）——考研阅读真题
-> - "She was appointed to chair the parliamentary committee on education."（她被任命为议会教育委员会主席。）——考研高频表达
+> - The local council has just set up a committee to study recycling. `[例]`
+>   - 中译：当地议会刚刚成立了一个委员会来研究回收问题。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/committee
+> - The committee is composed of MPs , doctors , academics and members of the public. `[例]`
+>   - 中译：该委员会由议员、医生、学者和公众人士组成。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/committee
+> - The finance committee controls the school's budget. `[例]`
+>   - 中译：财务委员会控制学校的预算。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/committee
 
 ---
 

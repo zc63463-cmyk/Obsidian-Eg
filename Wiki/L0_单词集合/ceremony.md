@@ -122,8 +122,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The opening ceremony of the Olympics was spectacular."（奥运会开幕式壮观无比）——考研阅读常见搭配，描述大型活动
-> - "Please don't stand on ceremony; make yourself at home."（请别拘礼，当自己家一样）——日常交际语境
+> - The Olympics climaxed in a spectacular closing ceremony. `[例]`
+>   - 中译：奥运会在盛大的闭幕式中达到了高潮。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/ceremony
+> - The glittering ceremony conjured up images of Russia's imperial past. `[例]`
+>   - 中译：闪闪发光的仪式让人想起俄罗斯帝国的过去。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/ceremony
+> - Several foreign dignitaries attended the ceremony. `[例]`
+>   - 中译：多位外国政要出席了仪式。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/ceremony
 
 ---
 

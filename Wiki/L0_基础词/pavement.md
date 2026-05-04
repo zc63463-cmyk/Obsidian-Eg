@@ -137,9 +137,9 @@ pav(铺设，拉丁语 *pavire*) + -ment(名词后缀，表结果/产物)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Several pedestrians had come to grief on the icy pavement." `[真题]`
-> - "Jackie fell over and scraped her knee on the pavement." `[真题]`
-> - "While they were coming from a theatre his wife was robbed of a pearl necklace valued at six thousand pounds on the pavement." `[真题]`
+> - Several pedestrians had come to grief on the icy pavement. `[真题]`
+> - Jackie fell over and scraped her knee on the pavement. `[真题]`
+> - While they were coming from a theatre his wife was robbed of a pearl necklace valued at six thousand pounds on the pavement. `[真题]`
 
 
 ---

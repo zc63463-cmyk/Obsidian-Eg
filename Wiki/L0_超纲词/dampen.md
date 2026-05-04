@@ -3,10 +3,8 @@ title: "dampen"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 自然物理
 prototype: 使变潮湿（加水使干燥物变湿）
@@ -43,7 +41,7 @@ damp(潮湿) + -en(动词后缀，使变成...)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以“**使变潮湿（加水使干燥物变湿）**”为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **使变潮湿**（物理层面）
@@ -62,7 +60,7 @@ damp(潮湿) + -en(动词后缀，使变成...)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -72,7 +70,7 @@ damp(潮湿) + -en(动词后缀，使变成...)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 想象你在雨天没带伞，衣服被淋得 dampen 了，心情也随之 dampen（低落）。物理上的潮湿直接映射到情感上的降温。
@@ -84,7 +82,7 @@ damp(潮湿) + -en(动词后缀，使变成...)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -96,13 +94,13 @@ damp(潮湿) + -en(动词后缀，使变成...)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[stimulate]]：刺激，激发（dampen 的反义：抑制↔激发）
 > - [[intensify]]：加强，加剧（dampen 的反义：减弱↔加剧）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -113,25 +111,18 @@ damp(潮湿) + -en(动词后缀，使变成...)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **dampen enthusiasm/spirits**：使热情/精神受挫
 > - **dampen down**：压制；减弱
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - Rain had dampened the tent so we left it to dry in the afternoon sun . `[例]`
-> - Nothing you can say will dampen her enthusiasm . `[例]`
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
+> [!example]- 语料
+> - Rain had dampened the tent so we left it to dry in the afternoon sun. `[例]`
+> - Nothing you can say will dampen her enthusiasm. `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

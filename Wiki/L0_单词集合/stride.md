@@ -130,9 +130,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The West made impressive strides in improving energy efficiency after the huge rises in oil prices during the 70s. `[例]`
-> - The group has made strides to expand internationally . `[例]`
-> - She attributes her record-breaking speed to the length of her stride. `[例]`
+> - She came striding along to meet me. `[例]`
+>   - 中译：她大步走过来迎接我。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/stride
+> - She crossed the room in only a few strides. `[例]`
+>   - 中译：她只迈了几步就穿过了房间。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/stride
+> - He was standing only a few strides away from me. `[例]`
+>   - 中译：他站在离我只有几步远的地方。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/stride
 
 ---
 

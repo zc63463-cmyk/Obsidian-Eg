@@ -18,6 +18,7 @@ from __future__ import annotations
 import io
 import json
 import re
+import sys
 import time
 from pathlib import Path
 from typing import Dict, Iterable, List, Optional, Tuple
@@ -26,6 +27,16 @@ from urllib.parse import quote
 import requests
 from bs4 import BeautifulSoup
 from pypdf import PdfReader
+
+SCRIPT_DIR = Path(__file__).resolve().parent
+if str(SCRIPT_DIR) not in sys.path:
+    sys.path.insert(0, str(SCRIPT_DIR))
+
+from common_alignment_rules import (
+    keep_if_contains_word,
+    looks_like_full_sentence,
+    normalize_sentence,
+)
 
 
 MANIFEST = Path("/data/user/work/manual_review_manifest_39_41.json")
@@ -61,84 +72,11 @@ EXAM_SOURCES = [
     },
 ]
 
-AUXILIARIES = {
-    "am", "is", "are", "was", "were", "be", "been", "being",
-    "do", "does", "did",
-    "have", "has", "had",
-    "can", "could", "may", "might", "must", "shall", "should", "will", "would",
-}
-
-
-def normalize_sentence(s: str) -> str:
-    s = re.sub(r"\s+", " ", s.replace("\u00a0", " ")).strip()
-    s = s.strip('"\'“”‘’')
-    s = s.rstrip('"\'“”‘’').strip()
-    if not s:
-        return ""
-    if s[0].islower():
-        s = s[0].upper() + s[1:]
-    if s[-1] not in ".?!":
-        s += "."
-    return s
-
-
 def norm_key(s: str) -> str:
     s = normalize_sentence(s)
+    if s and s[-1] not in ".?!":
+        s += "."
     return re.sub(r"[^a-z0-9]+", " ", s.lower()).strip()
-
-
-def keep_if_contains_word(word: str, s: str) -> bool:
-    w = word.lower().strip()
-    if not w:
-        return False
-    base_forms = {w}
-    if "-" in w:
-        base_forms.add(w.replace("-", " "))
-        base_forms.add(w.replace("-", ""))
-    if " " in w:
-        base_forms.add(w.replace(" ", "-"))
-        base_forms.add(w.replace(" ", ""))
-
-    forms = set()
-    consonants = "bcdfghjklmnpqrstvwxyz"
-    for base in base_forms:
-        if not base:
-            continue
-        last = base[-1]
-        forms.update({base, base + "s", base + "es"})
-        if base.endswith("e"):
-            forms.update({base + "d", base[:-1] + "ing"})
-        else:
-            forms.update({base + "ed", base + "ing"})
-        if last in consonants and not base.endswith("e"):
-            forms.update({base + last + "ed", base + last + "ing"})
-    alts = [re.escape(x) for x in sorted(forms)]
-    pat = re.compile(rf"\b(?:{'|'.join(alts)})\b", flags=re.I)
-    return bool(pat.search(s))
-
-
-def looks_like_full_sentence(s: str) -> bool:
-    s = s.strip()
-    if len(s) < 12 or len(s.split()) < 4:
-        return False
-    if not s or s[-1] not in ".?!":
-        return False
-    if not s[0].isalpha() or not s[0].isupper():
-        return False
-    if "/" in s:
-        return False
-    lowered = re.sub(r"[^a-zA-Z'\- ]+", " ", s).lower()
-    words = [w for w in lowered.split() if w]
-    if len(words) < 4:
-        return False
-    if any(w in AUXILIARIES for w in words):
-        return True
-    for w in words:
-        if w.endswith(("ed", "ing")) and len(w) > 4:
-            return True
-        if w.endswith("s") and len(w) > 3 and w not in {"this", "thus"}:
-            return True
-    return False
 
 
 def trusted_entry(entry: Dict[str, str]) -> bool:

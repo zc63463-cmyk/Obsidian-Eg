@@ -137,8 +137,8 @@ review_count: 0
 
 > [!example]- 语料
 > - He refused to soft-pedal an investigation into the scandal. `[真题]`
-> - She put her foot down on the accelerator pedal and the car surged forward. `[柯林斯语料]`
-> - Zoox robotaxis have no gas pedal, steering wheel or other driver controls. `[Merriam-Webster]`
+> - She put her foot down on the accelerator pedal and the car surged forward. `[例]`
+> - Zoox robotaxis have no gas pedal, steering wheel or other driver controls. `[例]`
 
 
 ---

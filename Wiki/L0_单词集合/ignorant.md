@@ -135,9 +135,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Many people are ignorant of their legal rights."（许多人不了解自己的合法权利）——考研阅读/翻译高频句式
-> - "an ignorant remark"（无知的言论）——考研阅读常见搭配
-> - "ignorant of the consequences"（不了解后果）——考研阅读社会/政策类话题
+> - Many teenagers are surprisingly ignorant about current politics. `[例]`
+>   - 中译：令人惊讶的是，许多青少年对当前的政治一无所知。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/ignorant
+> - We remained blissfully ignorant of the troubles that lay ahead. `[例]`
+>   - 中译：我们仍然幸福地对未来的麻烦一无所知。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/ignorant
+> - I don't believe that you were ignorant of the fact that she is wealthy. `[例]`
+>   - 中译：我不相信你不知道她很有钱的事实。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/ignorant
 
 ---
 

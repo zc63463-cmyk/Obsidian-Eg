@@ -121,9 +121,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She felt tired after playing badminton and engaging in other exercise, and complained of a pain in her shoulder. [COCA]
-> - The local church was teeming with different organisations - concert party, badminton club, ramblers, social club, drama group, and there were lots of other young people to meet. [COCA]
-> - Badminton is one of the most popular recreational sports in many Asian countries, enjoyed by people of all ages. `[例]`
+> - Christo Popov won the men’s final at the European badminton championships before losing the doubles final with his older brother Toma Junior Popov on Sunday. `[例]`
+>   - 中译：克里斯托·波波夫在欧洲羽毛球锦标赛上赢得了男子决赛，但在周日与他的哥哥托马·朱尼奥·波波夫的双打决赛中失利。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/badminton
+> - Yes, the hybrid of tennis, badminton and ping-pong, where the balls make a popping sound that fans love and foes loathe, is pushing old-school golf into the rough. `[例]`
+>   - 中译：是的，网球、羽毛球和乒乓球的混合运动，球发出的爆裂声让球迷喜爱，而敌人则厌恶，正在将老式高尔夫推入困境。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/badminton
+> - More packages will be available later this year for other events, including badminton , cricket, diving, equestrian, rhythmic gymnastics, and soccer games in other metropolitan areas. `[例]`
+>   - 中译：今年晚些时候，其他赛事将推出更多套餐，包括其他大都市地区的羽毛球、板球、跳水、马术、艺术体操和足球比赛。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/badminton
 
 
 ---

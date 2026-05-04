@@ -131,9 +131,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Could you cut the crusts off the sandwiches , please ? `[例]`
-> - Do you know a good way of using up stale crusts? `[例]`
-> - We prefer long , skinny loaves , partly because that gives more crust. `[例]`
+> - We saved a few crusts of bread for the birds. `[例]`
+>   - 中译：我们为鸟儿留了一些面包皮。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/crust
+> - Bake until the crust is golden. `[例]`
+>   - 中译：烘烤直至外皮呈金黄色。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/crust
+> - I’ve been an actor for 20 years, earning a crust wherever I can. `[例]`
+>   - 中译：我当演员已经 20 年了，尽我所能地赚点钱。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/crust
 
 
 ---

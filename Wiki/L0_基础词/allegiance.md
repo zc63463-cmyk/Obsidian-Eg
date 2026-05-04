@@ -130,9 +130,15 @@ al-(=ad-, to，向) + [[lig|liber]]（绑，拉丁语 *ligare*）+ -ance（名�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - In many American schools , the students used to pledge allegiance to the flag at the beginning of the school day . `[例]`
-> - They all pledged allegiance by kissing the king's hand . `[例]`
-> - As an Englishman who'd lived for a long time in France, he felt a certain conflict of allegiances when the two countries played soccer . `[例]`
+> - People of various party allegiances joined the campaign. `[例]`
+>   - 中译：各个党派的拥护者都加入了这场运动。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/allegiance
+> - He affirmed his allegiance to the president. `[例]`
+>   - 中译：他确认了对总统的效忠。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/allegiance
+> - He owes allegiance to them for all the help they have given him. `[例]`
+>   - 中译：他对他们给予的所有帮助表示忠诚。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/allegiance
 
 
 ---

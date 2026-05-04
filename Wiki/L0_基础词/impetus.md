@@ -131,8 +131,8 @@ im-(=in-, 入，向内) + pet(追求，拉丁语 *petere*，寻求) + -us(拉丁
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The recent publicity surrounding homelessness has given a fresh impetus to the cause . `[例]`
-> - Often the impetus for change in education has had to come from outside the school establishment . `[例]`
+> - The recent publicity surrounding homelessness has given a fresh impetus to the cause. `[例]`
+> - Often the impetus for change in education has had to come from outside the school establishment. `[例]`
 > - The debate seems to have lost much of its initial impetus. `[例]`
 
 

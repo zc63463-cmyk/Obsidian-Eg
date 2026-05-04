@@ -120,10 +120,9 @@ over-(额外/在旁边) + hear(听)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - I couldn't help overhearing your conversation while I was sitting at the next table. ` [真题]`
-> - She claims to have overheard an argument between the manager and the client. ` [语料库]`
-> - We overheard them talking about their plans to expand the business overseas. ` [语料库]`
-> - I didn't mean to eavesdrop, but I did overhear what you said. ` [真题]`
+> - I'm sorry , I couldn't help overhearing. `[例]`
+> - They were so loud , I couldn’t help overhearing. `[例]`
+> - For creator Lee Sung Jin, the inspiration came from overhearing a heated dispute inside a couple’s home. `[例]`
 
 
 ---

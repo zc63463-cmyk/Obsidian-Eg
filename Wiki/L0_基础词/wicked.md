@@ -129,8 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The novel portrays a wicked dictator who exploits the fears and prejudices of his people to maintain his grip on power, demonstrating how tyranny can flourish when good people remain silent."（这部小说描绘了一个邪恶的独裁者，他利用人民的恐惧和偏见来维持对权力的控制，展示了当好人保持沉默时暴政如何得以滋长——考研阅读文学话题相关表达）
-> - "Environmentalists have condemned the wicked practice of illegal logging in old-growth forests, which destroys irreplaceable ecosystems that took centuries to develop."（环保主义者谴责了在原始森林中非法采伐的恶劣行为，这种行为摧毁了经过数百年才形成的不可替代的生态系统——考研阅读环保话题相关表达）
+> - The researchers proposed a wicked solution to the problem. `[例]`
+> - The company adopted a wicked approach to improve efficiency. `[例]`
+> - The plan offers a wicked option for small organizations. `[例]`
 
 
 ---

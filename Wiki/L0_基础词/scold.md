@@ -134,10 +134,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "I was scolded by the teacher for being late." `[真题]`
-> - "Her father scolded her for upsetting her mother." `[语料库]`
-> - "Don't scold him for doing badly at school, he's doing his best." `[语料库]`
-> - "Since infancy, his father scolded him when he didn't stand up for himself." `[语料库]`
+> - I was scolded by the teacher for being late. `[真题]`
+> - Her father scolded her for upsetting her mother. `[例]`
+> - Don't scold him for doing badly at school, he's doing his best. `[例]`
+> - Since infancy, his father scolded him when he didn't stand up for himself. `[例]`
 
 
 ---

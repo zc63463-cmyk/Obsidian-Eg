@@ -126,8 +126,15 @@ anti-(前，在...之前) + [[cip]](拿，取) + -ate(动词后缀，使动)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The government anticipated the economic downturn and took preventive measures."（政府预见到了经济衰退并采取了预防措施。）——考研高频表达
-> - "We did not anticipate that so many people would attend the event."（我们没有预料到会有这么多人参加这个活动。）——考研高频表达
+> - We had one or two difficulties along the way that we didn't anticipate. `[例]`
+>   - 中译：一路上我们遇到了一两个我们没有预料到的困难。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/anticipate
+> - Are you anticipating a lot of people at the party tonight? `[例]`
+>   - 中译：你预计今晚的聚会会有很多人吗？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/anticipate
+> - They anticipate having several applicants for the job. `[例]`
+>   - 中译：他们预计会有几位申请人申请这份工作。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/anticipate
 
 ---
 

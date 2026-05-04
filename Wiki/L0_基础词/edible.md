@@ -125,9 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Not all wild mushrooms are edible; some are highly poisonous. `[语料库]`
-> - The researchers identified over 200 species of edible plants in the region. `[语料库]`
-> - Birch inner bark is edible and can be processed into flour. `[语料库]`
+> - Not all wild mushrooms are edible; some are highly poisonous. `[例]`
+> - The researchers identified over 200 species of edible plants in the region. `[例]`
+> - Birch inner bark is edible and can be processed into flour. `[例]`
 
 
 ---

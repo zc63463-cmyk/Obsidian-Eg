@@ -115,10 +115,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The ratio of men to women at the conference was ten to one. `[COCA]`
-> - The school is trying to improve its student-teacher ratio. `[COCA]`
-> - The efficiency of a machine is the ratio between the energy it supplies and the energy put into it. `[COCA-ACAD]`
-> - The staff to student ratio has increased dramatically in the last five years. `[COCA]`
+> - The school is trying to improve its pupil-teacher ratio (= the number of teachers compared with the number of students ). `[例]`
+>   - 中译：学校正在努力提高师生比（=教师人数与学生人数之比）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/ratio
+> - Compute the ratio of the object's height to its weight. `[例]`
+>   - 中译：计算物体的高度与其重量的比率。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/ratio
+> - What is the car's power to weight ratio? `[例]`
+>   - 中译：汽车的功率重量比是多少？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/ratio
 
 ---
 

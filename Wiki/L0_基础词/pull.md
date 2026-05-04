@@ -128,9 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Could you help me move this bookcase over there? You pull and I'll push . `[例]`
-> - He pulled the chair away from the desk . `[例]`
-> - He pulled the heavy box across the floor to the door . `[例]`
+> - Could you help me move this bookcase over there? You pull and I'll push. `[例]`
+> - He pulled the chair away from the desk. `[例]`
+> - He pulled the heavy box across the floor to the door. `[例]`
 
 
 ---

@@ -138,10 +138,10 @@ grav(重，源自拉丁语 *gravis*，"重的、严重的")
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "AI is hugely exciting, but it has limitations, which present grave dangers given uncritical use." `[真题]`
-> - "He expressed grave concern at American attitudes." `[真题]`
-> - "The situation is grave — war now seems inevitable." `[朗文词典]`
-> - "It was a grave mistake, and it is a millstone round our necks." `[Hansard议会语料库]`
+> - AI is hugely exciting, but it has limitations, which present grave dangers given uncritical use. `[真题]`
+> - He expressed grave concern at American attitudes. `[真题]`
+> - The situation is grave — war now seems inevitable. `[例]`
+> - It was a grave mistake, and it is a millstone round our necks. `[例]`
 
 
 ---

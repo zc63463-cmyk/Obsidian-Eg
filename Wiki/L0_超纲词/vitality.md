@@ -3,10 +3,8 @@ title: "vitality"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-25
-mastery: L0
 word_freq: 超纲词
 semantic_field: 人本世界
 prototype: 生命力/生命活力
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**生命力/生命活力**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **生命力/生命活力**（身体层面）
@@ -67,7 +65,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > vit 是拉丁语中"生命"的意思——[[vitamin]]（维生素）就是"维持生命的物质"。vitality 就是"生命的力量"。想象一个八十岁的老人每天清晨在公园里打太极，动作流畅、面色红润——他身上散发出的那种蓬勃的生命能量就是 vitality。一座城市夜幕降临后灯火通明、人来人往——这座城市的 cultural vitality（文化生机）扑面而来。
@@ -89,7 +87,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,14 +100,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[lethargy]]：昏睡，倦怠（vitality 的精确反义：活力↔倦怠）
 > - [[apathy]]：冷漠，无动于衷（vitality 的反义：热情↔冷漠）
 > - [[stagnation]]：停滞（vitality 的反义：活力↔停滞）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,7 +121,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **full of vitality**：充满活力
 > - **lose vitality**：失去活力
 > - **economic vitality**：经济活力
@@ -132,19 +130,12 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - According to the packet , these vitamin pills will restore lost vitality. `[例]`
-> - The new factory should improve the economic vitality of the region . `[例]`
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-25 | **复习次数**：0 | **当前等级**：L0
-
----
+> - The new factory should improve the economic vitality of the region. `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

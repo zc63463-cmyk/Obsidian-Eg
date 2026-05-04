@@ -130,9 +130,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - In spite of his injury , Ricardo will play in Saturday's match . `[例]`
+> - In spite of his injury , Ricardo will play in Saturday's match. `[例]`
 > - She started to laugh , in spite of herself. `[例]`
-> - I almost think he died without making a will just to spite his family . `[例]`
+> - I almost think he died without making a will just to spite his family. `[例]`
 
 
 ---

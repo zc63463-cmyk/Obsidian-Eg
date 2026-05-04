@@ -127,7 +127,15 @@ grant（源自古法语 graanter，与 [[grant]] 同源，可能来自拉丁语 
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The government has granted funding to several universities for renewable energy research.（政府已向几所大学拨款用于可再生能源研究。）
+> - Grant signed an act into law that established Yellowstone as the world's first national park. `[真题]`
+>   - 中译：格兰特签署了一项法律，将黄石公园确立为世界上第一个国家公园。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - The government is awarding small grants to single mothers who are starting their own businesses. `[例]`
+>   - 中译：政府正在向自主创业的单身母亲提供小额补助。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/grant
+> - The grants were given to several local non-profit organizations. `[例]`
+>   - 中译：这些赠款被提供给了几个当地的非营利组织。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/grant
 
 ---
 

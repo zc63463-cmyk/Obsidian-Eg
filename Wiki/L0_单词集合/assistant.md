@@ -125,10 +125,15 @@ as-(=ad-，朝向) + [[st-sta-stat|sist]](=st-，站立) + -ant(名词后缀，�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The research assistant was responsible for collecting and analyzing the data. `[真题]`
-> - Ross called his assistant, Hashim, to take over while he went out. `[COCA-FIC]`
-> - She works as a teaching assistant in the physics department. `[COCA-ACAD]`
-> - He was hired as a research assistant for the project and contributed significantly to the findings. `[例]`
+> - She's a personal assistant as distinct from a secretary. `[例]`
+>   - 中译：她是一名私人助理，与秘书不同。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/assistant
+> - She can't accept she made a mistake and now she's trying to lay the blame on her assistant. `[例]`
+>   - 中译：她无法接受自己犯了一个错误，现在她试图将责任归咎于她的助理。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/assistant
+> - Did you want to talk to the chairman himself, or could his personal assistant help you? `[例]`
+>   - 中译：您想与主席本人交谈吗？或者他的私人助理可以帮助您吗？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/assistant
 
 ---
 

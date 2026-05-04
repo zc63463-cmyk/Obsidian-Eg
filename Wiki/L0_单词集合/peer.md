@@ -139,10 +139,15 @@ peer（动词，凝视）的词源存在争议，可能来自中古英语 *piere
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Children are worried about failing in front of their peers. `[COCA-ACAD]`
-> - Young people sometimes drink alcohol because of peer pressure. `[COCA]`
-> - A peer review system is being introduced to help teachers who are experiencing difficulty. `[COCA-ACAD]`
-> - She is highly respected by her professional peers. `[COCA-ACAD]`
+> - When no one answered the door , she peered through the window to see if anyone was there. `[例]`
+>   - 中译：没有人开门，她就透过窗户往外看，看看里面有没有人。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/peer
+> - The driver was peering into the distance trying to read the road sign. `[例]`
+>   - 中译：司机凝视着远处，试图看清路标。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/peer
+> - I peered through a chink in the curtains and saw them all inside. `[例]`
+>   - 中译：我透过窗帘的缝隙往里看，看到他们都在里面。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/peer
 
 ---
 

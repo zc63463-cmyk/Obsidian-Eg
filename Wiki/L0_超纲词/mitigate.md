@@ -3,10 +3,8 @@ title: "mitigate"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 理性世界
 prototype: 使某种不良情况减轻
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**使不良情况减轻**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **使不良情况减轻**（程度层面）
@@ -64,7 +62,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > mit（轻/温和）+ -ate（使动）= mitigate（使变轻→减轻）。mitigate 和 mild（温和的）同源——都来自拉丁语 *mitis*（软的/温和的）。mitigate 就是让严厉的事情变得"温和"一些：mitigate punishment（减轻惩罚），mitigate climate change（减缓气候变化）。
@@ -86,7 +84,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[aggravate]]：加重，恶化（mitigate 的精确反义：减轻↔加重）
 > - [[intensify]]：加剧（mitigate 的反义：缓和↔加剧）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,7 +116,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **mitigate damage/risk/effects**：减轻损害/风险/影响
 > - **mitigate climate change**：减缓气候变化
 > - **mitigate suffering**：缓解痛苦
@@ -126,19 +124,12 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - It is unclear how to mitigate the effects of tourism on the island . `[例]`
-> - Getting a lot of sleep and drinking plenty of fluids can mitigate the effects of the flu . `[例]`
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
+> [!example]- 语料
+> - It is unclear how to mitigate the effects of tourism on the island. `[例]`
+> - Getting a lot of sleep and drinking plenty of fluids can mitigate the effects of the flu. `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

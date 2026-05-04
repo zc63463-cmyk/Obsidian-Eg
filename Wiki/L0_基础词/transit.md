@@ -127,8 +127,8 @@ review_count: 0
 
 > [!example]- 语料
 > - It is possible to make an insurance claim for any goods lost or damaged in transit. `[例]`
-> - The question is whether road transit is cheaper than rail . `[例]`
-> - We booked tickets on the rapid-transit train . `[例]`
+> - The question is whether road transit is cheaper than rail. `[例]`
+> - We booked tickets on the rapid-transit train. `[例]`
 
 
 ---

@@ -129,9 +129,15 @@ burden 源自古英语 *byrðen*（负担、重量），原始日耳曼语 *\*bu
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The little donkey struggled under its heavy burden. `[例]`
-> - I'm afraid this role may have become too much of a heavy burden for you. `[例]`
-> - My elderly mother worries that she's a burden to me. `[例]`
+> - The main burden of caring for old people falls on the state. `[例]`
+>   - 中译：照顾老人的主要负担落在国家身上。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/burden
+> - I don't wish to burden you with my problems. `[例]`
+>   - 中译：我不想让我的问题成为你的负担。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/burden
+> - Financial and emotional loss Divorces can be a heavy financial burden. `[例]`
+>   - 中译：经济和情感损失 离婚可能会带来沉重的经济负担。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/burden
 
 
 ---

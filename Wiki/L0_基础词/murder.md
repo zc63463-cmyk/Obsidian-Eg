@@ -131,7 +131,7 @@ review_count: 0
 
 > [!example]- 语料
 > - Two sisters have been charged with (= officially accused of) murder. `[例]`
-> - There were three murders in the town last year . `[例]`
+> - There were three murders in the town last year. `[例]`
 > - The three were convicted of (= proved guilty of) murder. `[例]`
 
 

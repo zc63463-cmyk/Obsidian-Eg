@@ -134,10 +134,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - There has been a significant shift in public opinion. `[真题]`
-> - The government shifted its focus from economic growth to environmental protection. `[真题]`
-> - Don't try to shift the blame onto others. `[真题]`
-> - The paradigm shift in scientific thinking revolutionized the field. `[COCA-ACAD]`
+> - She shifted (her weight ) uneasily from one foot to the other. `[例]`
+>   - 中译：她不安地把（她的体重）从一只脚转移到另一只脚。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/shift
+> - The wind is expected to shift (to the east ) tomorrow. `[例]`
+>   - 中译：预计明天风向转向（向东）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/shift
+> - Society's attitudes towards women have shifted enormously over the last century. `[例]`
+>   - 中译：社会对妇女的态度在上个世纪发生了巨大的转变。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/shift
 
 ---
 

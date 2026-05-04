@@ -130,10 +130,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The doctor said I could go home as long as I agreed to stay in quarantine for at least seven days. `[Cambridge语料库]`
-> - Owners risk having to leave their pets abroad or put them in quarantine if they fail to follow the rules. `[Cambridge语料库]`
-> - All international arrivals, regardless of where they are from, must quarantine upon their arrival. `[Cambridge语料库]`
-> - 1.5 million people were told to quarantine for 12 weeks. `[Collins语料库]`
+> - The doctor said I could go home as long as I agreed to stay in quarantine for at least seven days. `[例]`
+> - Owners risk having to leave their pets abroad or put them in quarantine if they fail to follow the rules. `[例]`
+> - All international arrivals, regardless of where they are from, must quarantine upon their arrival. `[例]`
 
 
 ---

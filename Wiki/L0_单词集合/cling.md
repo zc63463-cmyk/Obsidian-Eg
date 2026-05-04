@@ -123,8 +123,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Some people cling to outdated traditions even when they no longer serve a practical purpose."（一些人坚持过时的传统，即使它们已不再具有实际意义。）——考研高频表达
-> - "The child clung to his mother's hand tightly as they walked through the crowded street."（孩子在穿过拥挤的街道时紧紧抓住母亲的手。）——考研高频表达
+> - One little girl was clinging onto a cuddly toy. `[例]`
+>   - 中译：一个小女孩正抓着一个可爱的玩具。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/cling
+> - Kate was still clinging to the wreckage of her failed marriage. `[例]`
+>   - 中译：凯特仍然沉浸在她失败婚姻的残骸之中。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/cling
+> - They discovered four men clinging to a piece of wood in the choppy seas. `[例]`
+>   - 中译：他们在波涛汹涌的大海中发现了四名男子紧紧抓住一块木头。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/cling
 
 
 ---

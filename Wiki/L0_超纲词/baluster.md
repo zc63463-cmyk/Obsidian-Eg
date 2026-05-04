@@ -3,10 +3,8 @@ title: "baluster"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 自然物理
 prototype: 形如石榴花的栏杆小柱
@@ -45,7 +43,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**形如石榴花的栏杆小柱**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **形如石榴花的栏杆小柱**（物理层面，17世纪）
@@ -65,7 +63,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +73,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 古希腊的工匠在雕刻楼梯栏杆时，把小柱子做成微微鼓起、上宽下窄的形状，像极了石榴花半开的花萼。于是希腊人叫它 balaustion（石榴花）。这个词一路从希腊传到罗马（balaustium），再到意大利（balaustro），最后变成英语的 baluster。下次走楼梯时，低头看看扶手下面那根精致的小柱子——那就是一朵石头的石榴花。
@@ -87,7 +85,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +98,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - 本词为建筑构件专有名词，无精确反义词
 > - [[beam]]：横梁（结构反义：竖向小柱↔横向大梁）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,7 +115,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a row of balusters**：一排栏杆小柱
   - A row of ornate balusters lined the grand staircase.（一排华丽的栏杆小柱排列在大楼梯两侧。）
 > - **baluster railing**：栏杆柱式栏杆
@@ -125,19 +123,12 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - The grand staircase was supported by carved wooden balusters, each one unique in its design.`[例]`
-> - She gripped the baluster as she descended the spiral staircase.`[例]`
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
+> [!example]- 语料
+> - The grand staircase was supported by carved wooden balusters, each one unique in its design. `[例]`
+> - She gripped the baluster as she descended the spiral staircase. `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

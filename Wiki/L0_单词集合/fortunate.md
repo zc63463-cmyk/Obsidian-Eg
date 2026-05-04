@@ -120,8 +120,15 @@ fortun(e)（命运/运气）+ -ate（形容词后缀，具有...性质的）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "We are fortunate to live in an era where information is readily accessible through the internet."（我们很幸运地生活在一个可以通过互联网轻松获取信息的时代。）——考研高频表达
-> - "She was fortunate enough to receive a scholarship that covered her full tuition fees."（她很幸运地获得了一份全额奖学金。）——考研高频表达
+> - You're very fortunate to have found such a nice house. `[例]`
+>   - 中译：你很幸运能找到这么好的房子。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/fortunate
+> - He was fortunate in his choice of assistant. `[例]`
+>   - 中译：他很幸运选择了助手。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/fortunate
+> - It was fortunate that they had set out early because the traffic was terrible. `[例]`
+>   - 中译：幸好他们出发得早，因为交通太糟糕了。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/fortunate
 
 
 ---

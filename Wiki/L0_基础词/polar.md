@@ -128,8 +128,8 @@ review_count: 0
 
 > [!example]- 语料
 > - The polar ice caps. `[例]`
-> - The novel deals with the polar opposites of love and hate . `[例]`
-> - It is best to use polar coordinates to locate points in the plane . `[例]`
+> - The novel deals with the polar opposites of love and hate. `[例]`
+> - It is best to use polar coordinates to locate points in the plane. `[例]`
 
 
 ---

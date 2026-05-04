@@ -131,9 +131,9 @@ mort(=mors/mortis, 死亡，拉丁语 mors 死亡) + gage(=抵押/担保，中�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - They took out a £400,000 mortgage (= they borrowed £400,000) to buy the house . `[例]`
-> - Their home was mortgaged up to the hilt (= the full value of their home had been borrowed ) . `[例]`
-> - They had to mortgage their home to borrow enough money to pay for their children’s education . `[例]`
+> - They took out a £400,000 mortgage (= they borrowed £400,000) to buy the house. `[例]`
+> - Their home was mortgaged up to the hilt (= the full value of their home had been borrowed ). `[例]`
+> - They had to mortgage their home to borrow enough money to pay for their children’s education. `[例]`
 
 
 ---

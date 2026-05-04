@@ -127,9 +127,9 @@ stain 源自古法语 *distaindre*（染色，褪色），来自拉丁语 *tinge
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Tomato sauce stains terribly - it's really difficult to get it out of clothes . `[例]`
-> - While she was changing the wheel on her car , her coat had become stained with oil . `[例]`
-> - This carpet is ideal for the kitchen because it doesn't stain easily . `[例]`
+> - Tomato sauce stains terribly - it's really difficult to get it out of clothes. `[例]`
+> - While she was changing the wheel on her car , her coat had become stained with oil. `[例]`
+> - This carpet is ideal for the kitchen because it doesn't stain easily. `[例]`
 
 
 ---

@@ -132,10 +132,10 @@ grav(重，源自拉丁语 *gravis*) + -ity(名词后缀，表示性质/状态)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He discoursed impressively on Newton's theory of gravity." `[真题]`
-> - "The force of gravity pulls things towards the earth's centre." `[真题]`
-> - "We are conscious of the gravity of the situation." `[柯林斯词典]`
-> - "The gravity of this situation should not be underestimated." `[BBC语料库]`
+> - He discoursed impressively on Newton's theory of gravity. `[真题]`
+> - The force of gravity pulls things towards the earth's centre. `[真题]`
+> - We are conscious of the gravity of the situation. `[例]`
+> - The gravity of this situation should not be underestimated. `[例]`
 
 
 ---

@@ -122,10 +122,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The country has a dual education system that combines academic study with vocational training." `[真题]`
-> - "She plays a dual role as both manager and mentor in the company." `[真题]`
-> - "In June, he bowed to shareholder pressure and split his dual role as chief executive and chairman." `[COCA-ACAD]`
-> - "All cars manufactured after 1998 are required to have dual airbags." `[COCA-ACAD]`
+> - Everything he says has a dual meaning. `[例]`
+>   - 中译：他所说的一切都具有双重含义。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/dual
+> - This room has a dual purpose , serving as both a study and a dining room. `[例]`
+>   - 中译：这个房间有双重用途，既可作为书房，又可作为餐厅。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/dual
+> - The aircraft was equipped with dual controls. `[例]`
+>   - 中译：该飞机配备了双控制器。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/dual
 
 ---
 

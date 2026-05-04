@@ -131,9 +131,15 @@ sub-(在后面) + 建议创建词根笔记 [[sequ/secut]](跟随) + -ent(形容�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The main disadvantage of using AI to respond to customers is that there are concerns about trusting pei:sonal interactions to machines , which could lead not only to the subsequent loss of interpersonal connections , but also to a decrease in marketing personnel. ( 47) Some believe that AI is negatively impacting on the marketer's role by reducing creativity and removing jobs, but they are aware that it is a way of reducing costs and creating new information. `[真题]`
-> - The book discusses his illness and subsequent resignation from politics . `[例]`
-> - Those explosions must have been subsequent to our departure , because we didn't hear anything. `[例]`
+> - Subsequent events confirmed our doubts. `[例]`
+>   - 中译：随后发生的事情证实了我们的怀疑。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/subsequent
+> - Developments on this issue will be dealt with in a subsequent report. `[例]`
+>   - 中译：该问题的进展将在后续报告中讨论。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/subsequent
+> - Her subsequent account of her ordeal, "The Upstairs Room" (1972), was a young adult tour de force, winning a Newbery Honor and other awards. Compared with Anne Frank's "Diary of a Young Girl," it is sparer and sterner. `[例]`
+>   - 中译：她随后对自己的磨难的描述《楼上的房间》（1972）是一部年轻人的杰作，赢得了纽伯里荣誉奖和其他奖项。与安妮·弗兰克的《少女日记》相比，它更加简洁、严肃。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/subsequent
 
 ---
 

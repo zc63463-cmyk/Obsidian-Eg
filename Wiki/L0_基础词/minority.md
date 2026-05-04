@@ -122,9 +122,8 @@ review_count: 0
 
 > [!example]- 语料
 > - Only a minority of students supported the proposed changes. `[真题]`
-> - The government has introduced policies to protect the rights of ethnic minorities. `[真题]`
-> - I don't like the design, but I'm in the minority — most people say they love it. `[真题]`
-> - We want to end discrimination against women and racial minorities. `[真题]`
+> - It's only a tiny minority of people who are causing the problem. `[例]`
+> - Children with single parents at my school were very much in the minority (= there were very few). `[例]`
 
 
 ---

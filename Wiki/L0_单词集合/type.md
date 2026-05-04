@@ -127,9 +127,15 @@ type 源自希腊语 typos（印记、打击的痕迹），与拉丁语 typus �
 ## 真题/语料关联
 
 > [!example]- 语料
-> - How insidious is this type of citation manipulation? `[真题]`
-> - In fact, a listing in Scopus seems to be a criterion to be targeted in this type of citation manipulation. `[真题]`
-> - For example, AI can be used to analyse what type of advertising content or copy would be appropriate to 'speak' to a specific target customer group by revealing information about trends and preferences through the analysis of big data. ( 46) AI can also be used to identify the lifestyle choices of customers regarding their hobbies, favourite celebrities, music choices, and fashions to provide unique content in marketing messages put out through social media. `[真题]`
+> - Bungalows are a type of house. `[例]`
+>   - 中译：平房是房屋的一种。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/type
+> - What type of car do you drive? `[例]`
+>   - 中译：您开什么类型的车？
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/type
+> - There are three main types of contract(s). `[例]`
+>   - 中译：合同主要分为三种类型。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/type
 
 ---
 

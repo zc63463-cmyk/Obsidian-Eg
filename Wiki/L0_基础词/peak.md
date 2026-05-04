@@ -140,9 +140,9 @@ peak（中古英语 *pec*，意为"尖端、山峰"，可能源自原始日耳�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Not long ago, with the country entering a recessing and Japan at its pre-bubble peak, the U.S. workforce was derided as poorly educated and one of primary cause of the poor U.S. economic performance." `[真题]`
-> - "At its peak around AD 600, this city was one of the largest human settlements in the world." `[真题]`
-> - "Traffic congestion is significantly worse during peak hours." `[真题]`
+> - Not long ago, with the country entering a recessing and Japan at its pre-bubble peak, the U.S. workforce was derided as poorly educated and one of primary cause of the poor U.S. economic performance. `[真题]`
+> - At its peak around AD 600, this city was one of the largest human settlements in the world. `[真题]`
+> - Traffic congestion is significantly worse during peak hours. `[真题]`
 
 
 ---

@@ -133,10 +133,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Some Republican congressmen accused Democrats of `manipulating` the statistics to suit themselves. `[COCA-ACAD]`
-> - Her success is partly due to her ability to `manipulate` the media. `[COCA-ACAD]`
-> - They managed to `manipulate` us into agreeing to help. `[COCA-ACAD]`
-> - The editorial was a blatant attempt to `manipulate` public opinion. `[真题]`
+> - Throughout her career she has very successfully manipulated the media. `[例]`
+>   - 中译：在她的整个职业生涯中，她非常成功地操纵了媒体。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/manipulate
+> - The opposition leader accused government ministers of manipulating the statistics to suit themselves. `[例]`
+>   - 中译：反对派领导人指责政府部长们操纵统计数据以适应自己的需要。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/manipulate
+> - The wheelchair is designed so that it is easy to manipulate. `[例]`
+>   - 中译：轮椅的设计使其易于操作。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/manipulate
 
 ---
 

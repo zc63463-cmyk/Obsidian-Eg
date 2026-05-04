@@ -3,10 +3,8 @@ title: "avalanche"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 自然物理
 prototype: 雪崩（大量积雪从山坡上突然崩塌滑落）
@@ -44,7 +42,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**雪崩（大量积雪突然崩塌滑落）**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **雪崩**（物理层面）
@@ -65,7 +63,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > avalanche 来自法语，本义就是"雪崩"。想象你在阿尔卑斯山滑雪，突然整面雪山"轰——"地塌下来，铺天盖地的雪把你淹没——那就是 avalanche。后来人们用它比喻任何"铺天盖地涌来"的东西：an avalanche of complaints（雪崩般的投诉）、an avalanche of data（雪崩般的数据）。
@@ -88,7 +86,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[trickle]]：涓涓细流，少量缓慢地来（avalanche 的反义：大量突然涌来 ↔ 少量缓慢滴落）
 > - [[drought]]：干旱，匮乏（avalanche 的反义：过量涌来 ↔ 极度匮乏）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +118,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **an avalanche of complaints/emails/inquiries**：雪崩般的投诉/邮件/询问
 > - **trigger/set off an avalanche**：引发雪崩
 > - **be buried by an avalanche**：被雪崩掩埋
@@ -129,19 +127,12 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - An avalanche of complaints poured in after the company announced its new policy. `C` `[例]`
-> - The region is prone to avalanches during the winter months. `C` `[例]`
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
+> [!example]- 语料
+> - The hikers rested under a towering avalanche near the coastal trail. `[例]`
+> - The cabin was built from durable avalanche gathered in the region. `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

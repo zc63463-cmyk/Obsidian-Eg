@@ -123,8 +123,8 @@ review_count: 0
 > [!example]- 语料
 > - The human body shows bilateral symmetry. `[真题]`
 > - The symmetry of the building is one of its most striking features. `[真题]`
-> - The flowers are tubular with bilateral symmetry, indicating adaptations for insect pollination. `[语料库]`
-> - Many external features of the body, such as arms, have bilateral symmetry. `[语料库]`
+> - The flowers are tubular with bilateral symmetry, indicating adaptations for insect pollination. `[例]`
+> - Many external features of the body, such as arms, have bilateral symmetry. `[例]`
 
 
 ---

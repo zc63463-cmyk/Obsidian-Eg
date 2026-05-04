@@ -119,7 +119,7 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - A one-megawatt turbine can produce enough electricity annually to meet the needs of 700 households . `[例]`
+> - A one-megawatt turbine can produce enough electricity annually to meet the needs of 700 households. `[例]`
 > - The flow of water drives the turbine, which is connected to an electrical generator to produce electricity. `[例]`
 > - Gas turbines can be used to generate electricity. `[例]`
 

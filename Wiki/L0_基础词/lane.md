@@ -129,8 +129,8 @@ review_count: 0
 
 > [!example]- 语料
 > - He drives so fast along those narrow country lanes. `[例]`
-> - The northbound lane is closed because of an accident . `[例]`
-> - I find driving in the fast lane very stressful . `[例]`
+> - The northbound lane is closed because of an accident. `[例]`
+> - I find driving in the fast lane very stressful. `[例]`
 
 
 ---

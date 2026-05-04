@@ -133,9 +133,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - A thick layer of clay lies over the sandstone . `[例]`
-> - There was a thin layer of oil on the surface of the water . `[例]`
-> - We stripped several layers of paint off the door . `[例]`
+> - A thick layer of clay lies over the sandstone. `[例]`
+> - There was a thin layer of oil on the surface of the water. `[例]`
+> - We stripped several layers of paint off the door. `[例]`
 
 
 ---

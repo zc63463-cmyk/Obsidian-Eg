@@ -134,9 +134,15 @@ ex-（出，向外）+ 建议创建词根笔记 [[scap]]（=cappa，披风，覆
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Education is widely regarded as the most effective way to escape poverty. `[真题]`
-> - She moved to the city to escape the memory of her past. `[COCA-FICT]`
-> - Two prisoners have escaped from the local jail. `[COCA-NEWS]`
+> - Two prisoners have escaped. `[例]`
+>   - 中译：两名囚犯越狱了。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/escape
+> - A lion has escaped from its cage. `[例]`
+>   - 中译：一只狮子从笼子里逃了出来。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/escape
+> - She was kidnapped but escaped her captors. `[例]`
+>   - 中译：她被绑架但逃脱了绑架者。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/escape
 
 ---
 

@@ -141,9 +141,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - We've planned everything — now it's time to roll up our sleeves and get started. ` `[语料库]`
-> - She simply doesn't wear her heart on her sleeve, so it's sometimes difficult to know what she's feeling. ` `[语料库]`
-> - The sleeve of my jacket got caught on the door handle and ripped. ` `[语料库]`
+> - The sleeves are too long for me. `[例]`
+> - You'd better roll your sleeves up or you'll get them dirty. `[例]`
+> - The sleeve of my jacket got caught on the door handle and ripped. `[例]`
 
 
 ---

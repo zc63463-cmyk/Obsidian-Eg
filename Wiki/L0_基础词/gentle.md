@@ -134,7 +134,7 @@ gentle 源自拉丁语 *gentilis*（属于同一氏族的、有教养的），�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Rising more than 1,000 feet in the middle of the gently rolling plains of Wyoming, the massive column of rock looks as though it was dropped down into this location from a different time and place. `[真题]`
+> - The researchers proposed a gentle solution to the problem. `[真题]`
 > - The deep, gentle voice helped calm the nervous girl. `[真题]`
 > - He was very gentle with the children and always spoke in a quiet manner. `[真题]`
 > - She agreed to come, after a little gentle persuasion. `[真题]`

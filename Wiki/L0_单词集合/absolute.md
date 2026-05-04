@@ -132,9 +132,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "I have absolute confidence in her ability."（我对她的能力有绝对的信心）——考研写作常见搭配
-> - "There is no absolute standard for beauty."（美没有绝对的标准）——阅读理解常见表达
-> - "He made an absolute mess of the project."（他把项目搞得一团糟）——口语/书面通用
+> - I have absolute faith in her judgment. `[例]`
+>   - 中译：我绝对相信她的判断。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/absolute
+> - There was no absolute proof of fraud. `[例]`
+>   - 中译：没有绝对的欺诈证据。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/absolute
+> - He's an absolute idiot! `[例]`
+>   - 中译：他绝对是个白痴！
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/absolute
 
 ---
 

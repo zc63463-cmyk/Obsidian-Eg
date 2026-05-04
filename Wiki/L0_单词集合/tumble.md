@@ -125,9 +125,15 @@ tumble 源自中古英语 tumblen，可能与 [[turn]]（转动）同源，暗�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - I lost my footing and tumbled down the stairs . `[例]`
-> - At any moment the whole building could tumble down . `[例]`
-> - He lost his balance and tumbled over . `[例]`
+> - He slipped and tumbled down the stairs. `[例]`
+>   - 中译：他脚下一滑，从楼梯上滚了下来。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/tumble
+> - We tumbled down into the hole. `[例]`
+>   - 中译：我们就掉进洞里了。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/tumble
+> - The scaffolding came tumbling down. `[例]`
+>   - 中译：脚手架倒塌了。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/tumble
 
 ---
 

@@ -125,9 +125,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The bomb killed four soldiers and three civilians. `[例]`
-> - The club operates a rigid apartheid system that protects LA's celebrities from having to share facilities with its civilians. `[例]`
-> - The actors are in character between takes , and stay aloof from milling civilians. `[例]`
+> - Two soldiers and one civilian were killed in the explosion. `[例]`
+>   - 中译：两名士兵和一名平民在爆炸中丧生。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/civilian
+> - Hundreds of innocent civilians have died in the air strikes. `[例]`
+>   - 中译：数百名无辜平民在空袭中丧生。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/civilian
+> - Further measures are needed to protect civilians. `[例]`
+>   - 中译：需要采取进一步措施来保护平民。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/civilian
 
 
 ---

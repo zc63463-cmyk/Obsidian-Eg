@@ -129,9 +129,15 @@ phra(表达/说出) + -se(名词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - She was, in her own favourite phrase, 'a woman without a past'. `[真题]`
-> > - Her unfortunate choice of phrase offended most of the audience. `[COCA-ACAD]`
-> > - He just comes out with the same old stock phrases. `[COCA-NEWS]`
+> - The phrase "a not unfamiliar situation " is an example of a double negative. `[例]`
+>   - 中译：短语“并不陌生的情况”就是双重否定的一个例子。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/phrase
+> - The phrase "a hard frost " is a collocation. `[例]`
+>   - 中译：短语“ahardfrost”是一个搭配。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/phrase
+> - In grammar , an adjunct is an adverb or adverbial phrase that gives extra information in a sentence. `[例]`
+>   - 中译：在语法中，附加语是在句子中提供额外信息的副词或副词短语。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/phrase
 
 ---
 

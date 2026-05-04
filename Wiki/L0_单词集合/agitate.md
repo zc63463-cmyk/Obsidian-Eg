@@ -140,10 +140,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The women who worked in these mills had begun to agitate for better conditions."（在这些工厂做工的妇女们开始鼓动要求改善工作条件）——常见社会话题
-> - "Don't agitate yourself over it."（别为这件事焦虑不安）——日常语境
-> - "Agitate the mixture to dissolve the powder."（搅动混合物使粉末溶解）——实验/化学语境
-> - "Snape looked agitated."（斯内普看起来焦虑不安）——《哈利·波特》文学语料
+> - I didn't want to agitate her by telling her. `[例]`
+>   - 中译：我不想告诉她这件事而激怒她。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/agitate
+> - The unions continue to agitate for higher pay. `[例]`
+>   - 中译：工会继续鼓动要求提高工资。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/agitate
+> - As a young man, he had agitated against the Vietnam war. `[例]`
+>   - 中译：年轻时，他曾强烈反对越南战争。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/agitate
 
 ---
 

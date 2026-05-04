@@ -128,10 +128,15 @@ per-(彻底/从头到尾) + form(形状/形式，与 [[fac]] 做/制造同源)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The surgeon who performed the operation said it had gone well. `[COCA-NEWS]`
-> - Computers are able to perform numerous tasks simultaneously. `[COCA-ACAD]`
-> - The two organizations perform similar functions within the industry. `[COCA-ACAD]`
-> - She performed her duties with diligence and professionalism. `[COCA-ACAD]`
+> - Computers can perform a variety of tasks. `[例]`
+>   - 中译：计算机可以执行多种任务。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/perform
+> - The operation will be performed next week. `[例]`
+>   - 中译：手术将于下周进行。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/perform
+> - Most of the students performed well in the exam. `[例]`
+>   - 中译：大多数学生在考试中表现良好。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/perform
 
 ---
 

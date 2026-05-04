@@ -133,10 +133,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "A whale passed by in all its majesty." `[COCA-NEWS]`
-> - "The performance begins at eight o'clock, Your Majesty." `[COCA-FICT]`
-> - "Their Majesties celebrated our arrival by giving us each a little silver spoon." `[BNC-SPOKEN]`
-> - "The majesty of the law treats all as equals, regardless of wealth." `[例]`
+> - A whale passed by in all its majesty. `[COCA-NEWS]`
+> - The performance begins at eight o'clock, Your Majesty. `[COCA-FICT]`
+> - The majesty of the law treats all as equals, regardless of wealth. `[例]`
 
 
 ---

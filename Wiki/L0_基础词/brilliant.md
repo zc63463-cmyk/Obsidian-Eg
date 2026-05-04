@@ -127,9 +127,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Her mother was a brilliant scientist . `[例]`
-> - The idea was quite brilliant. `[例]`
-> - She seemed to have a brilliant career ahead of her (= was likely to be extremely successful ) . `[例]`
+> - He made two brilliant saves to keep his side in the match. `[例]`
+>   - 中译：他做出了两次精彩的扑救，帮助球队保住了比赛。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/brilliant
+> - The system is brilliant in its simplicity. `[例]`
+>   - 中译：该系统的出色之处在于其简单性。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/brilliant
+> - How was it?’ ‘Brilliant! `[例]`
+>   - 中译：怎么样？” “太棒了！
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/brilliant
 
 
 ---

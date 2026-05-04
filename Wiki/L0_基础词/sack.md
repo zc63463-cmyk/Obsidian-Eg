@@ -129,7 +129,7 @@ review_count: 0
 > [!example]- 语料
 > - He was sacked for repeatedly violating the company's policies. `[真题]`
 > - Two workers got the sack for fighting in the warehouse. `[真题]`
-> - The invaders sacked the city and took everything of value. `[外刊]`
+> - The invaders sacked the city and took everything of value. `[例]`
 
 
 ---

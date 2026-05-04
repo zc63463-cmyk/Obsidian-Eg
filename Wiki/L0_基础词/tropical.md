@@ -125,9 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The city has a relatively strong economy based on tourism , and enjoys a tropical climate . `[例]`
-> - Leprosy is one of the few tropical diseases which could soon be eradicated . `[例]`
-> - She specializes in tropical medicine (= the treatment of diseases from the tropical areas of the world ) . `[例]`
+> - The city has a relatively strong economy based on tourism , and enjoys a tropical climate. `[例]`
+> - Leprosy is one of the few tropical diseases which could soon be eradicated. `[例]`
+> - She specializes in tropical medicine (= the treatment of diseases from the tropical areas of the world ). `[例]`
 
 
 ---

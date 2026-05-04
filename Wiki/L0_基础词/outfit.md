@@ -127,9 +127,9 @@ out-(外出) + [[fit]](适合/装备)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She bought a new outfit for the job interview and wanted to make a good impression." `[BNC-SPOKEN]`
-> - "We are a professional outfit and we do require payment for our services." `[COCA-NEWS]`
-> - "She got a complete ski outfit as a gift from her parents for her birthday." `[COCA-FICT]`
+> - She bought a new outfit for the job interview and wanted to make a good impression. `[BNC-SPOKEN]`
+> - We are a professional outfit and we do require payment for our services. `[COCA-NEWS]`
+> - She got a complete ski outfit as a gift from her parents for her birthday. `[COCA-FICT]`
 
 
 ---

@@ -3,10 +3,8 @@ title: "theorize"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-25
-mastery: L0
 word_freq: 超纲词
 semantic_field: 理性世界
 prototype: 建立理论（用推理形成关于某事的理论）
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**建立理论**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **建立理论**（学术层面）
@@ -62,7 +60,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -73,7 +71,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > theory（理论）+ -ize（动词后缀）= theorize（建立理论/推测）。科学家先 observe（观察），再 hypothesize（假设），最后 theorize（建立理论）。theorize 就是把零散的想法编织成系统的理论。
@@ -85,7 +83,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -98,13 +96,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[prove]]：证明（theorize 的反义：理论推测↔实证证明）
 > - [[verify]]：验证（theorize 的反义：理论化↔验证）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,26 +115,19 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **theorize about**：对……进行理论化思考
 > - **theorize that**：理论上认为……
 > - **theorize the origin of**：对……的起源建立理论
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - It's easy to theorize about what might have happened . `[例]`
+> [!example]- 语料
+> - It's easy to theorize about what might have happened. `[例]`
 > - Investigators theorized that ice had built up on the wings of the plane , causing it to stall soon after takeoff. `[例]`
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-25 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

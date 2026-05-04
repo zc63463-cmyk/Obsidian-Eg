@@ -132,9 +132,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The university offers a comprehensive orientation program to help international students adapt to the new academic and cultural environment." `[COCA-ACAD]`
-> - "A company's market orientation determines its ability to respond to changing consumer demands and competitive pressures." `[COCA-ACAD]`
-> - "His political orientation leans towards conservatism, though he describes himself as an independent." `[COCA-NEWS]`
+> - The university offers a comprehensive orientation program to help international students adapt to the new academic and cultural environment. `[COCA-ACAD]`
+> - A company's market orientation determines its ability to respond to changing consumer demands and competitive pressures. `[COCA-ACAD]`
+> - His political orientation leans towards conservatism, though he describes himself as an independent. `[COCA-NEWS]`
 
 
 ---

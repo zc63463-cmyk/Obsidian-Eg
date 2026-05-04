@@ -135,9 +135,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She sews all her children's clothes. ` `[真题]`
-> - Surgeons have managed to sew a man's ear back on after it was bitten off in a fight. ` `[真题]`
-> - I made this skirt just by sewing two pieces of material together. ` `[真题]`
+> - I made this skirt just by sewing two pieces of material together. `[例]`
+> - He sewed the badge neatly onto his uniform. `[例]`
+> - She sews all her children's clothes. `[例]`
 
 
 ---

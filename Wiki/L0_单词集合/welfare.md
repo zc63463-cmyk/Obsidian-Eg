@@ -142,10 +142,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Your taxes pay for welfare benefits such as unemployment and sickness pay . `[例]`
-> - After her month's sick leave , she was summoned to see the company's welfare officer . `[例]`
-> - Over 53,000 families in the region are currently on welfare. `[例]`
-> - The police are very concerned for the welfare of the missing child . `[例]`
+> - We are concerned about the child's welfare. `[例]`
+>   - 中译：我们关心孩子的福祉。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/welfare
+> - The state is still the main provider of welfare. `[例]`
+>   - 中译：国家仍然是福利的主要提供者。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/welfare
+> - There must be adequate welfare provision for people who are unable to work. `[例]`
+>   - 中译：必须为无法工作的人提供足够的福利。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/welfare
 
 ---
 

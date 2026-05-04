@@ -132,7 +132,7 @@ review_count: 0
 > [!example]- 语料
 > - Our office is near the station. `[例]`
 > - The reception is not very good - try to tune in to another station. `[例]`
-> - The research station will monitor wildlife , vegetation and the water table . `[例]`
+> - The research station will monitor wildlife , vegetation and the water table. `[例]`
 
 
 ---

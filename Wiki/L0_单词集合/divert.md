@@ -137,10 +137,15 @@ di-(分开，转向) + vert(转) = divert（转向别的方向）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Our flight had to be diverted to Newark because of the storm." `[COCA-ACAD]`
-> - "Should more funds be diverted from roads into railroads?" `[COCA-ACAD]`
-> - "They were charged with illegally diverting public funds for private use." `[COCA-ACAD]`
-> - "She tried to divert his attention from the bad news by telling him a funny story." `[COCA-ACAD]`
+> - Traffic will be diverted through the side streets while the main road is resurfaced. `[例]`
+>   - 中译：交通将通过小巷改道，同时主干道将重新铺设路面。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/divert
+> - Our flight had to be diverted to Newark because of the storm. `[例]`
+>   - 中译：由于暴风雨，我们的航班不得不改道飞往纽瓦克。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/divert
+> - The war has diverted attention from the country's economic problems. `[例]`
+>   - 中译：战争转移了对该国经济问题的注意力。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/divert
 
 ---
 

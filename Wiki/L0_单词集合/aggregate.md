@@ -140,10 +140,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The cause of unemployment was inadequate aggregate demand."（失业的原因是总需求不足）——考研经济学核心搭配
-> - "In the aggregate, women outlive men by 7 or more years."（总体而言，女性比男性多活7年以上）——常见统计/社会话题
-> - "The television audience aggregated 30 millions."（电视观众合计达3000万）——媒体/统计语境
-> - "aggregate supply-aggregate demand framework"（总供给-总需求框架）——经济学学术表达
+> - They purchased an aggregate of 3,000 shares in the company. `[例]`
+>   - 中译：他们总共购买了该公司的3,000股股票。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/aggregate
+> - Snowflakes are loose aggregates of ice crystals. `[例]`
+>   - 中译：雪花是松散的冰晶聚集体。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/aggregate
+> - Volumes of aggregates, cement , and concrete used in the UK will rise this year. `[例]`
+>   - 中译：今年英国使用的骨料、水泥和混凝土的数量将会增加。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/aggregate
 
 ---
 

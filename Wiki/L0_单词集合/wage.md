@@ -135,9 +135,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The job pays very low wages. `[例]`
-> - Doesn't the president need Congress ' permission to wage war on another country ? `[例]`
-> - They've been waging a long campaign to change the law . `[例]`
+> - Workers in these stores earn a good wage. `[例]`
+>   - 中译：这些商店的工人工资很高。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/wage
+> - We all hope we can find a job that pays a decent wage. `[例]`
+>   - 中译：我们都希望能找到一份工资不错的工作。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/wage
+> - Wages were paid on Fridays. `[例]`
+>   - 中译：周五发工资。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/wage
 
 ---
 

@@ -132,9 +132,15 @@ blunt(钝的/直率的，古英语 *blunt*)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - I'll be blunt - that last piece of work you did was terrible . `[例]`
-> - My recent bad experience has blunted my enthusiasm for travel . `[例]`
-> - Blunt and outspoken , he often quarreled with fellow officials . `[例]`
+> - The police said he had been hit with a blunt instrument. `[例]`
+>   - 中译：警方称他被钝器击中。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/blunt
+> - She has a reputation for blunt speaking. `[例]`
+>   - 中译：她以直言不讳而闻名。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/blunt
+> - To be blunt, your work is appalling. `[例]`
+>   - 中译：坦白说，你的工作令人震惊。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/blunt
 
 
 ---

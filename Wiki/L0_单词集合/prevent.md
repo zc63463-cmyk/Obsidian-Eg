@@ -127,8 +127,14 @@ pre-(在……之前) + ven(来) + -t(过去分词后缀)
 
 > [!example]- 语料
 > - It is established to prevent citation manipulation. `[真题]`
-> - Label your suitcases to prevent confusion . `[例]`
-> - His disability prevents him (from) driv ing . `[例]`
+>   - 中译：它的建立是为了防止引用操纵。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - Label your suitcases to prevent confusion. `[例]`
+>   - 中译：给你的手提箱贴上标签，以免混淆。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/prevent
+> - His disability prevents him (from) driv ing. `[例]`
+>   - 中译：他的残疾使他无法开车。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/prevent
 ---
 
 

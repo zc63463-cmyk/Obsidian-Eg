@@ -129,9 +129,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - They were warned of the ecological catastrophe to come. `[例]`
-> - The emigration of scientists is a catastrophe for the country . `[例]`
-> - Losing his job was a financial catastrophe for his family . `[例]`
+> - Early warnings of rising water levels prevented another major catastrophe. `[例]`
+>   - 中译：水位上升的早期预警避免了另一场重大灾难。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/catastrophe
+> - The attempt to expand the business was a catastrophe for the firm. `[例]`
+>   - 中译：扩大业务的尝试对公司来说是一场灾难。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/catastrophe
+> - We've had a few catastrophes with the food for the party. `[例]`
+>   - 中译：我们在聚会的食物方面遇到了一些灾难。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/catastrophe
 
 
 ---

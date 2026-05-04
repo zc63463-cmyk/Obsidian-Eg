@@ -127,10 +127,15 @@ dyn(力量，动力) + -am(连接) + -ic(与...有关的)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "We need a dynamic expansion of trade with other countries." `[真题]`
-> - "A vital and dynamic economy depends on an efficient financial system for collecting savings and funnelling them at low cost to the most productive uses." `[COCA-ACAD]`
-> - "In a dynamic economy where goods and services are constantly changing, how do you gauge progress?" `[COCA-ACAD]`
-> - "The dynamics of the global economy have changed dramatically in recent decades." `[COCA-ACAD]`
+> - She's young and dynamic and will be a great addition to the team. `[例]`
+>   - 中译：她年轻而充满活力，将成为团队的重要补充。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/dynamic
+> - We need a dynamic expansion of trade with other countries. `[例]`
+>   - 中译：我们需要积极扩大与其他国家的贸易。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/dynamic
+> - Jones favours a dynamic, hands-on style of management. `[例]`
+>   - 中译：琼斯喜欢充满活力、亲力亲为的管理风格。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/dynamic
 
 ---
 

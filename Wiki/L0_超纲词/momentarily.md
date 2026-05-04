@@ -3,10 +3,8 @@ title: "momentarily"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 抽象关系
 prototype: 片刻地，短暂地
@@ -43,7 +41,7 @@ moment(片刻，拉丁语 *momentum* 运动/瞬间) + -ar(形容词后缀) + -ly
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**片刻地**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **片刻地**（时间层面）
@@ -64,7 +62,7 @@ moment(片刻，拉丁语 *momentum* 运动/瞬间) + -ar(形容词后缀) + -ly
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ moment(片刻，拉丁语 *momentum* 运动/瞬间) + -ar(形容词后缀) + -ly
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > moment（片刻/瞬间）的副词形式就是 momentarily。moment 来自拉丁语 *momentum*（运动/瞬间）。momentarily 就是"只持续一个moment"——你 momentarily lost your train of thought（你短暂地忘了思路）。美式英语中它还有"马上"的意思：I'll be back momentarily（我马上回来）。
@@ -86,7 +84,7 @@ moment(片刻，拉丁语 *momentum* 运动/瞬间) + -ar(形容词后缀) + -ly
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -98,13 +96,13 @@ moment(片刻，拉丁语 *momentum* 运动/瞬间) + -ar(形容词后缀) + -ly
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[permanently]]：永久地（momentarily 的精确反义：短暂↔永久）
 - [[continuously]]：持续地（momentarily 的反义：片刻↔持续）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -116,26 +114,19 @@ moment(片刻，拉丁语 *momentum* 运动/瞬间) + -ar(形容词后缀) + -ly
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **momentarily confused/distracted**：短暂地困惑/分心
 > - **momentarily forget**：暂时忘记
 > - **resume momentarily**（美式）：马上恢复
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - She was momentarily confused by the foreign road signs . `[例]`
+> [!example]- 语料
+> - She was momentarily confused by the foreign road signs. `[例]`
 > - I'll be ready to leave momentarily. `[例]`
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

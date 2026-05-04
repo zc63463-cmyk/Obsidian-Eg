@@ -129,8 +129,15 @@ pre-(在前面) + fer(带来/搬运) + -able(可被……的) → 可被带到�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "In many cases, a gradual approach to reform is preferable to a sudden, radical change."（在许多情况下，渐进式的改革方式比突然的激进变革更为可取。）——考研高频表达
-> - "For the sake of clarity, a face-to-face discussion would be preferable to exchanging emails."（为了清晰起见，面对面讨论比通过电子邮件交流更为可取。）——考研高频表达
+> - Surely a diplomatic solution is preferable to war. `[例]`
+>   - 中译：当然，外交解决方案比战争更可取。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/preferable
+> - Anything would be preferable to war. `[例]`
+>   - 中译：任何事情都比战争更好。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/preferable
+> - Earlier would be preferable from my point of view. `[例]`
+>   - 中译：从我的角度来看，早点会更好。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/preferable
 ---
 
 

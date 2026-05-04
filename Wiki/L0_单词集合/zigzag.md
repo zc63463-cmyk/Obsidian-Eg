@@ -139,9 +139,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The kids ran in zigzags around the playground . `[例]`
-> - The Washington Post complained of "two weeks of policy zigzags". `[例]`
-> - The country seems to have been following a zigzag course between democracy and dictatorship . `[例]`
+> - The kids were running in circles and zigzags around the yard. `[例]`
+>   - 中译：孩子们在院子里绕着圈子和之字形奔跑。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/zigzag
+> - He's wearing a shirt with red zigzags on it. `[例]`
+>   - 中译：他穿着一件上面有红色锯齿的衬衫。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/zigzag
+> - We saw a motorcycle zigzagging on the highway. `[例]`
+>   - 中译：我们看到一辆摩托车在高速公路上蜿蜒行驶。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/zigzag
 
 ---
 

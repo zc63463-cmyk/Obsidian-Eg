@@ -132,9 +132,15 @@ re-(back) + 建议创建词根笔记 [[re/rem]](to stay/停留) + (无后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Many problems remain to be solved before the technology can be widely adopted. `[COCA-ACAD]`
-> - It remains to be seen whether the policy will achieve its intended goals. `[COCA-ACAD]`
-> - The previous town crier had retired in 1892 and for 110 years the post remained vacant. `[COCA-ACAD]`
+> - We are not boycotting PRH titles but we are doing our utmost to ensure that availability for customers remains good despite the lower overall levels of stock. `[真题]`
+>   - 中译：我们并不是抵制公屋产权，但我们正在尽最大努力确保尽管总体库存水平较低，但客户的可用性仍然良好。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - Their customers remain loyal. `[真题]`
+>   - 中译：他们的客户仍然忠诚。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - The doctor ordered him to remain in bed for a few days. `[例]`
+>   - 中译：医生命令他卧床几天。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/remain
 
 ---
 

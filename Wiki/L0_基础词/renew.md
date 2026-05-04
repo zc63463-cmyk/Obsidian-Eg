@@ -130,9 +130,9 @@ re-（[[re-|再，重新]]）+ new（[[new|新的]]）→ 再次变新 → **更
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "In December 1989 Syria renewed diplomatic relations with Egypt." `[真题]`
-> - "The contracts are normally renewed every five years." `[语料库]`
-> - "You should renew your passport before it expires." `[语料库]`
+> - In December 1989 Syria renewed diplomatic relations with Egypt. `[真题]`
+> - The contracts are normally renewed every five years. `[例]`
+> - You should renew your passport before it expires. `[例]`
 
 
 ---

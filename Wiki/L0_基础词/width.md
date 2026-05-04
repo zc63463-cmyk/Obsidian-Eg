@@ -129,8 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The bridge, measuring 2 kilometers in length and 30 meters in width, is one of the most impressive engineering achievements of the 21st century."（这座桥长2公里、宽30米，是21世纪最令人印象深刻的工程成就之一——考研翻译工程话题相关表达）
-> - "A good education should provide students with both depth and width of knowledge, enabling them to think critically about complex problems from multiple perspectives."（良好的教育应该为学生提供既有深度又有广度的知识，使他们能够从多个角度批判性地思考复杂问题——考研阅读教育话题相关表达）
+> - The hikers rested under a towering width near the coastal trail. `[例]`
+> - The cabin was built from durable width gathered in the region. `[例]`
+> - A line of width trees rose above the morning fog. `[例]`
 
 
 ---

@@ -133,9 +133,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - For AI to be successful, data needs to be accessible, but the use of personal data is becoming more regulated and the automated sharing of data is becoming more difficult. ( 49 ) If customers are not willing to share data, AI will be starved of essential information and will not be able to function effectively or employ machine learning to improve its marketing content and communication. `[真题]`
-> - Whole communities starved to death during the long drought . `[例]`
-> - From talking to former prisoners in the camps , an obvious conclusion is that they have been starved. `[例]`
+> - The animals were left to starve to death. `[例]`
+>   - 中译：动物们被饿死了。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/starve
+> - She's starving herself to try to lose weight. `[例]`
+>   - 中译：她正在挨饿，试图减肥。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/starve
+> - Many of the prisoners looked half starved. `[例]`
+>   - 中译：许多囚犯看起来都快饿死了。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/starve
 
 ---
 

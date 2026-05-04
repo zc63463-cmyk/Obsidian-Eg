@@ -127,8 +127,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Let's take a cab. `[例]`
+>   - 中译：我们坐出租车吧。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/cab
 > - The cab pulled up and they got out. `[例]`
-> - Called a cab to get back to the hotel. `[例]`
+>   - 中译：出租车停了下来，他们下了车。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/cab
+> - Plano Fire‑Rescue crews freed the truck driver from the cab. `[例]`
+>   - 中译：普莱诺消防救援人员将卡车司机从驾驶室中救了出来。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/cab
 
 
 ---

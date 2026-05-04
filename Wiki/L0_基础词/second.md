@@ -139,9 +139,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Elliott crossed the finish line just half a second behind his adversary." `[真题]`
-> - "All this, needless to say, had been culled second-hand from radio reports." `[真题]`
-> - "On second thought, I think we should postpone the meeting until next week." `[真题]`
+> - Elliott crossed the finish line just half a second behind his adversary. `[真题]`
+> - All this, needless to say, had been culled second-hand from radio reports. `[真题]`
+> - On second thought, I think we should postpone the meeting until next week. `[真题]`
 
 
 ---

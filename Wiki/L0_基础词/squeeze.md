@@ -129,9 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - As she waited to go into the exam , he squeezed her hand (= pressed it affectionately with his hand ) and wished her good luck . `[例]`
+> - As she waited to go into the exam , he squeezed her hand (= pressed it affectionately with his hand ) and wished her good luck. `[例]`
 > - Once he had finished cleaning the floor , he squeezed the cloth out. `[例]`
-> - He reloaded the gun , took aim , and then squeezed (= pulled back) the trigger . `[例]`
+> - He reloaded the gun , took aim , and then squeezed (= pulled back) the trigger. `[例]`
 
 
 ---

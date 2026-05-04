@@ -136,10 +136,15 @@ en-(使动前缀，"使…进入…状态") + hance(高，源自拉丁语 altus 
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Yet the link between feeling good and spending money on others can be seen among rich and poor people around the world, and scarcity enhances the pleasure of most things for most people." `[真题]`
-> - "But medical advance not only enhances clinical capability, it carries with it profound ethical, legal, social and economic implications." `[COCA-ACAD]`
-> - "The company is looking to enhance its earnings potential." `[COCA-ACAD]`
-> - "Low lighting and soft music enhanced the atmosphere in the room." `[COCA-ACAD]`
+> - These scandals will not enhance the organization's reputation. `[例]`
+>   - 中译：这些丑闻不会提高该组织的声誉。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/enhance
+> - It's things like this that enhance the quality of life. `[例]`
+>   - 中译：正是这样的事情提高了生活质量。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/enhance
+> - Smart personnel practices enhance the value of a company and its stock. `[例]`
+>   - 中译：明智的人事实践可以提高公司及其股票的价值。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/enhance
 ---
 
 

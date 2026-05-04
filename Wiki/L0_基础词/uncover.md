@@ -128,9 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The investigation uncovered evidence of a large-scale illegal trade in wild birds . `[例]`
+> - The investigation uncovered evidence of a large-scale illegal trade in wild birds. `[例]`
 > - The biography is an attempt to uncover the inner man. `[例]`
-> - Cover the dish and bake for 15 minutes , then uncover it and bake for another 10 minutes . `[例]`
+> - Cover the dish and bake for 15 minutes , then uncover it and bake for another 10 minutes. `[例]`
 
 
 ---

@@ -124,7 +124,7 @@ line(线，路线) + -er(名词后缀，表示"物")
 > [!example]- 语料
 > - Heat the oven to 170°C and fill your baking tin with paper cupcake liners. `[例]`
 > - The plants growing on the roof sit on top of a waterproof liner. `[例]`
-> - Using a black liquid liner, trace a line above your upper eyelashes . `[例]`
+> - Using a black liquid liner, trace a line above your upper eyelashes. `[例]`
 
 
 ---

@@ -130,9 +130,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The ball bounced off the goalpost and into the net . `[例]`
-> - Television pictures from all over the world are bounced off satellites (= are sent to and returned from them) . `[例]`
-> - She bounced the ball quickly . `[例]`
+> - The ball bounced twice before he could reach it. `[例]`
+>   - 中译：在他够到球之前，球弹跳了两次。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bounce
+> - Short sound waves bounce off even small objects. `[例]`
+>   - 中译：短声波即使是很小的物体也会反弹。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bounce
+> - The light bounced off the river and dazzled her. `[例]`
+>   - 中译：河水反射的光芒让她眼花缭乱。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bounce
 
 
 ---

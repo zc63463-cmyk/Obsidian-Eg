@@ -124,9 +124,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Ten years of incompetent government had brought about the virtual collapse of the country's economy . `[例]`
-> - In the game players simulate real life in a virtual world . `[例]`
-> - The service gives employees a personalized virtual desktop accessible from any web browser . `[例]`
+> - You can also take a virtual tour of the museum. `[例]`
+>   - 中译：您还可以虚拟参观博物馆。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/virtual
+> - Students will have more access to resources and support, both virtual and physical. `[例]`
+>   - 中译：学生将有更多机会获得虚拟和现实的资源和支持。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/virtual
+> - The company has a virtual monopoly in this area of trade. `[例]`
+>   - 中译：该公司在该贸易领域几乎具有垄断地位。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/virtual
 
 ---
 

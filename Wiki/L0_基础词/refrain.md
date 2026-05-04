@@ -125,9 +125,9 @@ re-(回，向后) + frain(=fret-，勒住，来自拉丁语 *frenum* 马缰绳)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "California has asked the justices to refrain from a sweeping ruling, particularly one that upsets the old assumption that authorities may search through the possessions of suspects at the time of their arrest." `[真题]`
-> - "Following the Harvard scandal, Mary Miller, the former dean of students at Yale, made an impassioned appeal to her school's professors to refrain from take-home exams." `[真题]`
-> - "We refrained from talking until we knew that it was safe." `[真题]`
+> - California has asked the justices to refrain from a sweeping ruling, particularly one that upsets the old assumption that authorities may search through the possessions of suspects at the time of their arrest. `[真题]`
+> - Following the Harvard scandal, Mary Miller, the former dean of students at Yale, made an impassioned appeal to her school's professors to refrain from take-home exams. `[真题]`
+> - We refrained from talking until we knew that it was safe. `[真题]`
 
 
 ---

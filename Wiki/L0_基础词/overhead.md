@@ -129,10 +129,9 @@ over-(在…上方) + head(头)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Companies are trying to reduce overhead costs to stay competitive in the market. ` [真题]`
-> - Their offices are in central London so the overheads are very high. ` [语料库]`
-> - One way of increasing profit margins is to cut overhead costs. ` [真题]`
-> - Birds flew overhead, heading south for the winter. ` [语料库]`
+> - The hikers rested under a towering overhead near the coastal trail. `[例]`
+> - The cabin was built from durable overhead gathered in the region. `[例]`
+> - A line of overhead trees rose above the morning fog. `[例]`
 
 
 ---

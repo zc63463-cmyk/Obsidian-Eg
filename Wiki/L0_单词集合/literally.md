@@ -124,10 +124,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - He took her comments literally and was deeply offended by what she said. `[COCA-ACAD]`
-> - The word "volk" translates literally as "folk" in English. `[COCA-ACAD]`
-> - There are literally thousands of species yet to be discovered in the deep ocean. `[COCA-NEWS]`
-> - I literally had no idea you and Sophie were coming to the party. `[COCA-MAG]`
+> - They were responsible for literally millions of deaths. `[例]`
+>   - 中译：他们确实造成了数百万人的死亡。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/literally
+> - Translations that are done too literally often don't flow well or don't sound natural. `[例]`
+>   - 中译：过于字面的翻译往往不流畅或听起来不自然。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/literally
+> - He missed that kick literally by miles. `[例]`
+>   - 中译：他差点错过了那一脚。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/literally
 
 ---
 

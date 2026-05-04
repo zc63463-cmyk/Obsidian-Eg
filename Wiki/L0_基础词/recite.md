@@ -132,10 +132,10 @@ recite 源自古法语 reciter，直接来自拉丁语 *recitare*（大声朗读
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Each child had to recite a poem to the class during the school assembly. `[考研英语阅读教育类话题]`
-> - All he could do was recite a list of government failings without offering any constructive solutions. `[考研英语阅读政治类话题]`
-> - She was able to recite the entire speech from memory without looking at her notes once. `[通用语料]`
-> - The witness was called to recite the events of that day in precise detail before the court. `[通用法律语料]`
+> - Each child had to recite a poem to the class during the school assembly. `[例]`
+> - All he could do was recite a list of government failings without offering any constructive solutions. `[例]`
+> - She was able to recite the entire speech from memory without looking at her notes once. `[例]`
+> - The witness was called to recite the events of that day in precise detail before the court. `[例]`
 
 
 ---

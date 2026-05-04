@@ -140,10 +140,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The car has been redesigned for improved safety. `[COCA-NEWS]`
-> - The injured hiker was finally able to reach safety. `[COCA-NEWS]`
-> - There is concern about the safety of the new treatment as it has not yet been proven. `[COCA-ACAD]`
-> - Army aviators must adhere to strict safety standards, professionalism, and established flight regulations. `[COCA-NEWS]`
+> - The term caravan was used to _4_ groups of people who travelled together across the ancient network for safety reasons , 5 merchants, travellers or pillgrims. `[真题]`
+>   - 中译：“商队”一词用于指 _4_ 出于安全原因在古代网络中一起旅行的人，5 名商人、旅行者或朝圣者。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - For your ( comfort and) safety, we recommend you keep your seat belt loosely fastened during the flight. `[例]`
+>   - 中译：为了您的（舒适和）安全，我们建议您在飞行过程中松开安全带。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/safety
+> - The crew of the ship were winched to safety by a rescue helicopter. `[例]`
+>   - 中译：船上的船员被一架救援直升机吊到安全地带。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/safety
 
 ---
 

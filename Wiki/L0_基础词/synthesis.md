@@ -124,7 +124,7 @@ review_count: 0
 > [!example]- 语料
 > - The report is a synthesis of data from multiple sources. `[真题]`
 > - Protein synthesis is a fundamental process in all living organisms. `[真题]`
-> - The collection is distinguished by its synthesis of Islamic, Hindu, and Zoroastrian religious traditions. `[语料库]`
+> - The collection is distinguished by its synthesis of Islamic, Hindu, and Zoroastrian religious traditions. `[例]`
 
 
 ---

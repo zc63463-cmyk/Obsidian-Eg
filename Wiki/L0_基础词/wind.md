@@ -136,8 +136,8 @@ review_count: 0
 > [!example]- 语料
 > - The winds of change are sweeping across the region, as young people increasingly demand greater political freedom and economic opportunity. `[真题]`
 > - Quiet mountain roads wind through groves of bamboo and cedar, offering breathtaking views at every turn. `[真题]`
-> - The boxer got his second wind in the eighth round and went on to win the fight by knockout. `[真题]`
-> - She wound up the old clock carefully and listened to its steady ticking fill the silent room. `[真题]`
+> - A line of wind trees rose above the morning fog. `[例]`
+> - The hikers rested under a towering wind near the coastal trail. `[例]`
 
 
 ---

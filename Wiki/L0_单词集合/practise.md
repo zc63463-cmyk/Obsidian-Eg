@@ -120,9 +120,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "But in the everyday practice of science, discovery frequently follows an ambiguous and complicated route." `` `[真题]` ``
-> - "She has practised law for over twenty years." `` `[COCA]` ``
-> - "Politicians should practise what they preach." `` `[COCA]` ``
+> - I'm quite good at tennis but I need to practise my serve. `[例]`
+>   - 中译：我网球打得很好，但我需要练习发球。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/practise
+> - She practises the violin every day. `[例]`
+>   - 中译：她每天练习小提琴。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/practise
+> - His written French is very good but he needs to practise speak ing it. `[例]`
+>   - 中译：他的法语写得很好，但他需要练习口语。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/practise
 ---
 
 

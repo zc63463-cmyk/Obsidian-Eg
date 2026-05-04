@@ -133,9 +133,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - If the new leader does manage to unify his warring party it will be quite an achievement . `[例]`
 > - The new leader hopes to unify the country. `[例]`
-> - The task of unifying Europe. `[例]`
+>   - 中译：新领导人希望统一国家。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/unify
+> - The creation of the national railroad system unified the country. `[例]`
+>   - 中译：国家铁路系统的创建统一了国家。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/unify
+> - Al-Rumayyan signed a framework agreement in June 2023 intended to unify the commercial assets of golf. `[例]`
+>   - 中译：Al-Rumayyan 于 2023 年 6 月签署了一项框架协议，旨在统一高尔夫商业资产。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/unify
 
 ---
 

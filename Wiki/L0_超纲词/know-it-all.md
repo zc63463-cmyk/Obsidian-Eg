@@ -3,10 +3,8 @@ title: "know-it-all"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 人本世界
 prototype: 什么都知道的人（自以为无所不知）
@@ -44,7 +42,7 @@ know(知道) + it(它) + all(全部)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**什么都知道的人**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **什么都知道的人**（社会角色层面）
@@ -65,7 +63,7 @@ know(知道) + it(它) + all(全部)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ know(知道) + it(它) + all(全部)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > know（知道）+ it（它）+ all（全部）→ know-it-all。字面意思就是"什么都知道"——但英语中这个词几乎总是贬义的。一个 know-it-all 总是喜欢纠正别人，好像自己什么都知道。就像中文里的"万事通"或"百事通"，往往带着嘲讽意味。
@@ -88,7 +86,7 @@ know(知道) + it(它) + all(全部)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +98,13 @@ know(知道) + it(它) + all(全部)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[humble]]：谦逊的（know-it-all 的反义：自以为是↔谦虚）
 > - [[modest]]：谦虚的（know-it-all 的反义：自大↔谦逊）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -116,26 +114,19 @@ know(知道) + it(它) + all(全部)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a know-it-all**：一个万事通
 > - **know-it-all attitude**：自以为是的态度
 > - **act like a know-it-all**：表现得像个万事通
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - Nobody likes a know-it-all who always corrects others. `[例]`
-> - His know-it-all attitude made it difficult for the team to collaborate. `[例]`
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
+> - But Tracee Chimo, who plays a bubbly, know-it-all maid, is a standout. `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -125,8 +125,8 @@ in-(进入) + stall(固定位置) + -ation(名词后缀，表示动作或结果)
 > [!example]- 语料
 > - The building was turned into a secret military installation. `[真题]`
 > - Other measures adopted have included the installation of ground source heat pumps in some churches. `[真题]`
-> - The guard would protect ministerial buildings and possibly oil installations. `[语料库]`
-> - People are aware of how unsafe many of their nuclear installations are. `[语料库]`
+> - The guard would protect ministerial buildings and possibly oil installations. `[例]`
+> - People are aware of how unsafe many of their nuclear installations are. `[例]`
 
 
 ---

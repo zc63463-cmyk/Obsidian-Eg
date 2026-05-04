@@ -129,7 +129,7 @@ re-(回，向后) + [[fus-fund-fuse|fus]](流，来自拉丁语 *fundere/fusus*)
 > - Worst of all, when her son, Ned, fell and injured his knee, she refused to pay for a doctor and spent hours looking for free medical help. `[真题]`
 > - The supervisor of personnel refused the request. `[真题]`
 > - An X-rays technician is refusing to do her job until the firm agrees to replace its out-dated equipment. `[真题]`
-> - He asked me to give him another loan, but I refused. `[权威词典]`
+> - He asked me to give him another loan, but I refused. `[例]`
 
 
 ---

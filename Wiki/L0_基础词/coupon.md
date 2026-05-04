@@ -119,9 +119,15 @@ coupe（切）+ -on（名词后缀）。coupon 源自法语 *coupon*（剪下的
 ## 真题/语料关联
 
 > [!example]- 语料
-> - This week shoppers can use discount coupons to get money off gasoline. `[语料库]`
-> - Clip this coupon for $10 off your next purchase. `[语料库]`
-> - The bonds have a coupon of 6.25 per cent. `[语料库]`
+> - Fill in and return the attached coupon. `[例]`
+>   - 中译：填写并返回随附的优惠券。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/coupon
+> - Bring in this coupon for a free oil change. `[例]`
+>   - 中译：带上这张优惠券即可免费更换机油。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/coupon
+> - I'm always clipping coupons from the newspaper to use at the grocery store. `[例]`
+>   - 中译：我总是从报纸上剪下优惠券在杂货店使用。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/coupon
 
 
 ---

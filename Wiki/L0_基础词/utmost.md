@@ -132,8 +132,8 @@ ut-(=out，向外) + -most(最高级后缀，最……的)
 
 > [!example]- 语料
 > - We are not boycotting PRH titles but we are doing our utmost to ensure that availability for customers remains good despite the lower overall levels of stock. `[真题]`
-> - The situation needs to be handled with the utmost care . `[例]`
-> - The new model of the car offers the utmost in power and performance . `[例]`
+> - The situation needs to be handled with the utmost care. `[例]`
+> - The new model of the car offers the utmost in power and performance. `[例]`
 
 
 ---

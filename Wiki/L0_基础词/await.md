@@ -123,10 +123,15 @@ a-(=ad-, 向，朝向) + wait(等待，来自古诺尔斯语 *vada* "行走"，�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - We await your prompt response to this matter. `[COCA-ACAD]`
-> - A long journey awaits them. `[COCA-NEWS]`
-> - The committee is awaiting the results of the investigation. `[COCA-NEWS]`
-> - Death awaits us all. `[例]`
+> - He is in custody awaiting trial. `[例]`
+>   - 中译：他被拘留候审。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/await
+> - Her latest novel is eagerly awaited. `[例]`
+>   - 中译：她的最新小说备受期待。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/await
+> - A crowd of people awaited the train. `[例]`
+>   - 中译：一大群人在等待火车。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/await
 
 
 ---

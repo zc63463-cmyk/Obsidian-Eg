@@ -3,10 +3,8 @@ title: "male-dominated"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 社会习俗
 prototype: 男性占主导地位的
@@ -43,7 +41,7 @@ male（男性）+ dominat(e)（支配）+ -ed（形容词后缀，表状态）
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**男性占主导地位的**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **男性占主导地位的**（社会结构层面）
@@ -62,7 +60,7 @@ male（男性）+ dominat(e)（支配）+ -ed（形容词后缀，表状态）
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -72,7 +70,7 @@ male（男性）+ dominat(e)（支配）+ -ed（形容词后缀，表状态）
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **词拆分记忆**：
 > male（男性）+ dominated（被支配的）→ 男性支配的 → 男性主导的。Engineering has long been a male-dominated field.（工程学长期以来一直是男性主导的领域。）
@@ -81,7 +79,7 @@ male（男性）+ dominat(e)（支配）+ -ed（形容词后缀，表状态）
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -92,12 +90,12 @@ male（男性）+ dominat(e)（支配）+ -ed（形容词后缀，表状态）
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[female-dominated]]：女性主导的（性别主导的反转）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -109,26 +107,19 @@ male（男性）+ dominat(e)（支配）+ -ed（形容词后缀，表状态）
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a male-dominated profession**：男性主导的职业
 > - **a male-dominated society**：男性主导的社会
 > - **male-dominated fields**：男性主导的领域
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - `` `[例]` Women remain underrepresented in male-dominated fields such as engineering and computer science.`` [C]
-> - `` `[例]` Venture capital has long been a notoriously male-dominated industry, with women receiving only a small fraction of funding.`` [C]
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
+> [!example]- 语料
+> - The researchers proposed a male dominated solution to the problem. `[例]`
+> - The company adopted a male dominated approach to improve efficiency. `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

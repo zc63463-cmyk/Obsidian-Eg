@@ -129,9 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She wants to stay at home and nurture her children . `[例]`
+> - She wants to stay at home and nurture her children. `[例]`
 > - A carefully nurtured garden. `[例]`
-> - As a record company executive , his job is to nurture young talent . `[例]`
+> - As a record company executive , his job is to nurture young talent. `[例]`
 
 
 ---

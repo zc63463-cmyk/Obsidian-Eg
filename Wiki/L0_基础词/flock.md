@@ -125,9 +125,9 @@ flock（源自古英语 *floc*，与 flake 同源，原始意义为"一团/一�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The shepherd is bringing his flock down from the hills . `[例]`
-> - A noisy flock of tourists came into the building . `[例]`
-> - The priest invited all the members of his flock (= all the people who go to his church ) to attend the special service . `[例]`
+> - The shepherd is bringing his flock down from the hills. `[例]`
+> - A noisy flock of tourists came into the building. `[例]`
+> - The priest invited all the members of his flock (= all the people who go to his church ) to attend the special service. `[例]`
 
 
 ---

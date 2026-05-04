@@ -133,8 +133,8 @@ either 源自古英语 *ǣgðer*，由 *ā*（永远/也）+ *hwæther*（两者
 
 > [!example]- 语料
 > - And if one received a grape without having to provide her token in exchange at all, the other either tossed her own token at the researcher or out of the chamber. `[真题]`
-> - Almost half of those surveyed said their companies were either in the middle of restructuring or about to embark on it. `[语料库]`
-> - Either of the dresses will look good on you. `[语料库]`
+> - Almost half of those surveyed said their companies were either in the middle of restructuring or about to embark on it. `[例]`
+> - Either of the dresses will look good on you. `[例]`
 
 
 ---

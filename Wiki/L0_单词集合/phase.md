@@ -126,9 +126,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - We're entering a new phase in international relations. `[真题]`
-> > - Many countries are moving to phase out plastics in various forms. `[COCA-NEWS]`
-> > - The construction of the building is in its final phase. `[COCA-ACAD]`
+> - The project is only in its initial phase as yet , but it's looking quite promising. `[例]`
+>   - 中译：该项目目前还处于初始阶段，但看起来很有希望。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/phase
+> - We're entering a new phase in international relations. `[例]`
+>   - 中译：我们正在进入国际关系的新阶段。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/phase
+> - When I was in my early teens I went through a phase of only ever wearing black. `[例]`
+>   - 中译：当我十几岁的时候，我经历了一个只穿黑色的阶段。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/phase
 
 ---
 

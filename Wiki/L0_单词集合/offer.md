@@ -145,10 +145,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She was offered a job in Paris . `[例]`
-> - Can I offer you (= would you like) a drink ? `[例]`
+> - She was offered a job in Paris. `[例]`
+>   - 中译：她在巴黎得到了一份工作。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/offer
+> - Can I offer you (= would you like) a drink? `[例]`
+>   - 中译：我可以请你（=你想要）喝一杯吗？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/offer
 > - Would you sell me that painting ?" "What are you offering (= what will you pay ) for it? `[例]`
-> - My father offered to take us to the airport . `[例]`
+>   - 中译：你能把那幅画卖给我吗？”“你愿意出什么价（=你愿意付多少钱）？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/offer
 
 ---
 

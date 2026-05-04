@@ -127,9 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The Renaissance, which began in Italy in the 14th century, marked a profound shift in European thought, art, and science." `[真题]`
-> - "The style is defined by a 'rebirth' of interest in classical scholarship and values, particularly the cultures of ancient Greece and Rome." `[语料库]`
-> - "In recent years, there has been a renaissance of interest in traditional crafts and handmade products among young consumers." `[语料库]`
+> - The Renaissance, which began in Italy in the 14th century, marked a profound shift in European thought, art, and science. `[真题]`
+> - In recent years, there has been a renaissance of interest in traditional crafts and handmade products among young consumers. `[例]`
+> - Opera is enjoying a long-awaited renaissance. `[例]`
 
 
 ---

@@ -119,7 +119,7 @@ prote-(=prot-, 第一的/最重要的，希腊语 *prōtos*) + -in(化学物质�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Vegans get all the protein they need from nuts , seeds , beans and cereals . `[例]`
+> - Vegans get all the protein they need from nuts , seeds , beans and cereals. `[例]`
 > - Meat and fish are a vital source of protein. `[例]`
 > - It gets slimy when you cook it because it has mucilage inside it – a mix of protein and sugar. `[例]`
 

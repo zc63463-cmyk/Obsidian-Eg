@@ -131,9 +131,15 @@ any(任何) + thing(事物)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Is there anything I can do to help ? `[例]`
-> - Was there anything else you wanted to say or is that it? `[例]`
-> - Do you have anything less expensive ? `[例]`
+> - Would you like anything else? `[例]`
+>   - 中译：你还需要什么吗 ？
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/anything
+> - There's never anything worth watching on TV. `[例]`
+>   - 中译：电视上从来没有什么值得一看的。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/anything
+> - If you remember anything at all, please let us know. `[例]`
+>   - 中译：如果您还记得任何事情，请告诉我们。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/anything
 
 
 ---

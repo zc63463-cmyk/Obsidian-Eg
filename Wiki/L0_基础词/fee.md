@@ -127,7 +127,7 @@ fee 源自古英语 *feoh*（牛、牲畜），与德语 *Vieh*（牲畜）同�
 > [!example]- 语料
 > - We couldn't pay the lawyer's fee. `[例]`
 > - No matter what the outcome of the case is, they'll spend thousands in legal fees. `[例]`
-> - The doctor’s usual fee is $125. `[例]`
+> - The entrance fee is six pounds , two pounds for the unwaged. `[例]`
 
 
 ---

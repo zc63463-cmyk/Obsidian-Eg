@@ -121,8 +121,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "In addition to English, students are encouraged to learn a second foreign language."（除了英语之外，学生还被鼓励学习第二外语。）——考研高频表达
-> - "The addition of a new wing to the museum has significantly increased its exhibition space."（博物馆新翼的扩建大大增加了其展览空间。）——考研高频表达
+> - In addition to the entourage of scientists, the team also included artists: Painter Thomas Moran and photographer William Henry Jackson were charged with capturing this astounding natural beauty and sharing it with the world. `[真题]`
+>   - 中译：除了科学家随行人员外，该团队还包括艺术家：画家托马斯·莫兰和摄影师威廉·亨利·杰克逊，他们负责捕捉这令人惊叹的自然美景并与世界分享。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - Twice a week the children are tested in basic mathematical skills such as addition (= calculating the total of different numbers put together) and subtraction. `[例]`
+>   - 中译：每周两次测试孩子们的基本数学技能，例如加法（=计算不同数字的总和）和减法。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/addition
+> - In addition to his apartment in Manhattan, he has a villa in Italy and a castle in Scotland. `[例]`
+>   - 中译：除了曼哈顿的公寓外，他在意大利还有一座别墅，在苏格兰还有一座城堡。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/addition
 
 
 ---

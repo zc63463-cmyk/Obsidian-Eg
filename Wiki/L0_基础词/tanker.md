@@ -122,8 +122,9 @@ tank（水箱、储液容器）+ -er（表示"做某事的物或人"的后缀）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The oil spill from the tanker caused severe environmental damage to the coastal ecosystem."（油轮泄漏的石油对沿海生态系统造成了严重的环境破坏。——考研阅读环保话题高频表达）
-> - "A fleet of tanker trucks was deployed to deliver clean water to the disaster-stricken areas."（一支油罐车队被派往灾区运送清洁水。——考研翻译社会话题相关表达）
+> - We watched a tanker coming into the harbor. `[例]`
+> - Data from analytics platform Kpler showed that in the two weeks after the Martinez refinery shut down, two tankers laden with gasoline set sail from the Jamnagar refinery complex and reached the Olympus Terminal in the Port of Long Beach in March 2025. `[例]`
+> - Fossil fuels tie every economy to the same fragile web of pipelines, tankers , and narrow straits. `[例]`
 
 
 ---

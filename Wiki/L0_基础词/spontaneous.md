@@ -130,9 +130,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - His jokes seemed spontaneous, but were in fact carefully prepared beforehand . `[例]`
+> - His jokes seemed spontaneous, but were in fact carefully prepared beforehand. `[例]`
 > - She's such a spontaneous, lively woman. `[例]`
-> - Since spontaneous remissions are common in rheumatoid arthritis , it is impossible to attribute them to any particular therapy . `[例]`
+> - Since spontaneous remissions are common in rheumatoid arthritis , it is impossible to attribute them to any particular therapy. `[例]`
 
 
 ---

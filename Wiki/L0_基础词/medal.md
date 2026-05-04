@@ -133,9 +133,9 @@ medal 直接来自意大利语 *medaglia*，最终源自拉丁语 *metallum*（�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He received a medal for his service in the war." `[COCA-NEWS]`
-> - "She is one of our best hopes for an Olympic medal." `[COCA-NEWS]`
-> - "That brings Britain's medal haul to six—two golds, three silvers and a bronze." `[BNC-SPOKEN]`
+> - He received a medal for his service in the war. `[COCA-NEWS]`
+> - She is one of our best hopes for an Olympic medal. `[COCA-NEWS]`
+> - That brings Britain's medal haul to six—two golds, three silvers and a bronze. `[BNC-SPOKEN]`
 
 
 ---

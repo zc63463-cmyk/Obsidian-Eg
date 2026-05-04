@@ -128,8 +128,8 @@ pro-(向前/在前) + [[voc-vok|voc-]](呼唤/声音，拉丁语 *vocare*)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The prospect of increased prices has already provoked an outcry . `[例]`
-> - Test results provoked fears that the reactor could overheat . `[例]`
+> - The prospect of increased prices has already provoked an outcry. `[例]`
+> - Test results provoked fears that the reactor could overheat. `[例]`
 > - It was a vicious-looking dog and I didn't want to provoke it. `[例]`
 
 

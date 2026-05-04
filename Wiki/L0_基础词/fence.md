@@ -133,7 +133,7 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The area is fenced on three sides but not along the highway . `[例]`
+> - The area is fenced on three sides but not along the highway. `[例]`
 > - The house was surrounded by a tall , wooden fence. `[例]`
 > - A cat was walking along the top of the fence. `[例]`
 

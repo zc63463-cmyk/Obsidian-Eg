@@ -121,9 +121,15 @@ con-(共同/一起) + [[duct|duct/duc]](引导) + -or(名词后缀，做...的�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The conductor raised his baton and the orchestra began to play. `[真题]`
-> - Copper is an excellent conductor of heat and electricity. `[COCA-ACAD]`
-> - The bus conductor checked everyone's tickets before the bus departed. `[例]`
+> - The conductor raised his baton. `[例]`
+>   - 中译：指挥举起了指挥棒。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/conductor
+> - Metal is a good conductor of heat. `[例]`
+>   - 中译：金属是热的良导体。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/conductor
+> - Wood is a poor conductor. `[例]`
+>   - 中译：木材是不良导体。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/conductor
 
 ---
 

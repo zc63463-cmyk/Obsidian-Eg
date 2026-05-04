@@ -122,9 +122,9 @@ en-(=in-, 在……里面/使) + [[vis-vid|vis]](看，拉丁语 *videre*) + -ag
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Train fare increases of 15 percent are envisaged for the next year . `[例]`
-> - It 's envisaged that building will start at the end of this year . `[例]`
-> - When do you envisage finish ing the project ? `[例]`
+> - Train fare increases of 15 percent are envisaged for the next year. `[例]`
+> - It 's envisaged that building will start at the end of this year. `[例]`
+> - When do you envisage finish ing the project? `[例]`
 
 
 ---

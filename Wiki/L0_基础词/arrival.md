@@ -126,9 +126,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Hundreds gathered to await the boxer's arrival at the airport . `[例]`
-> - On arrival at the police station , they were taken to an interview room . `[例]`
-> - New arrivals (= people who have just come to a place ) were being housed in refugee camps . `[例]`
+> - I need to check our arrival time. `[例]`
+>   - 中译：我需要查一下我们的到达时间。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/arrival
+> - Guests receive dinner on arrival at the hotel. `[例]`
+>   - 中译：客人抵达酒店后可享用晚餐。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/arrival
+> - There are 120 arrivals and departures every day. `[例]`
+>   - 中译：每天有 120 架次抵达和出发。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/arrival
 
 
 ---

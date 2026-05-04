@@ -116,10 +116,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Beethoven's habit of increasing the volume with an extreme intensity and then abruptly following it with a sudden soft passage was only rarely used by composers before him. `[真题]`
-> - Temperatures rarely rise above zero in winter. `[COCA]`
-> - Rarely has a film looked so striking. `[COCA]`
-> - She rarely ventured outside, except when she went to stock up on groceries at the corner shop. `[COCA]`
+> - I rarely have time to read a newspaper. `[例]`
+>   - 中译：我很少有时间看报纸。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/rarely
+> - Rarely have I seen such a beautiful sunset. `[例]`
+>   - 中译：我很少看到如此美丽的日落。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/rarely
+> - Temperatures rarely rise above zero in winter. `[例]`
+>   - 中译：冬季气温很少升至零以​​上。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/rarely
 
 ---
 

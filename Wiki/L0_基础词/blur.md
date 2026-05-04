@@ -132,9 +132,15 @@ blur(模糊/使模糊，中古英语 *blurren*)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - If I don't wear my glasses , everything is just a blur. `[例]`
-> - It all happened so long ago that it's just a blur to me now. `[例]`
-> - The last few days seem to have gone by in a blur. `[例]`
+> - The hedges whizzed past in a green blur as we sped along. `[例]`
+>   - 中译：当我们快速行驶时，树篱在一片绿色的模糊中呼啸而过。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/blur
+> - Everything is a blur when I take my glasses off. `[例]`
+>   - 中译：当我摘下眼镜时，一切都变得模糊。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/blur
+> - The events of that day were just a blur. `[例]`
+>   - 中译：那天发生的事情已经模糊了。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/blur
 
 
 ---

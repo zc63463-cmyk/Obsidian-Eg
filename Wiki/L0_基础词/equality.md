@@ -126,7 +126,7 @@ review_count: 0
 > [!example]- 语料
 > - Equality between the sexes. `[例]`
 > - She works as an adviser on equality and diversity at the Institute of Personnel and Development. `[例]`
-> - The 2005 law was intended to promote equality for all Californians, regardless of sexual orientation . `[例]`
+> - The 2005 law was intended to promote equality for all Californians, regardless of sexual orientation. `[例]`
 
 
 ---

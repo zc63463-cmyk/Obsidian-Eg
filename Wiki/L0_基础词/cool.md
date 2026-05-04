@@ -134,9 +134,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - He was very cool when we broke the window, and didn't shout or get mad. `[COCA-FIC]`
-> - Cereals should be stored in a cool, dry place. `[COCA-ACAD]`
-> - "Well, that's just too bad," Bill replied in a cool tone. `[COCA-FIC]`
+> - Let's sit in the shade and keep cool. `[例]`
+>   - 中译：我们坐在阴凉处纳凉吧。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/cool
+> - The wooden shutters help keep the building cool. `[例]`
+>   - 中译：木制百叶窗有助于保持建筑物凉爽。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/cool
+> - Store lemons in a cool dry place. `[例]`
+>   - 中译：将柠檬存放在阴凉干燥的地方。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/cool
 
 
 ---

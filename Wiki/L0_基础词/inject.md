@@ -132,7 +132,7 @@ inject = in-(=into, 向内、进入) + [[ject|ject-/jac-]](投掷)
 > [!example]- 语料
 > - The government decided to inject billions of dollars into the economy to stimulate growth and prevent a deeper recession. `[真题]`
 > - To inject new vitality into the traditional industry, the company has adopted innovative technologies and management strategies. `[真题]`
-> - The market rose by nearly 4% on news that the government is to inject cash into the financial system. `[权威语料]`
+> - The market rose by nearly 4% on news that the government is to inject cash into the financial system. `[例]`
 
 
 ---

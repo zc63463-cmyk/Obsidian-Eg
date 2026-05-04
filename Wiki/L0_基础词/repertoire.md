@@ -124,9 +124,9 @@ re-（[[re-|加强语气]]）+ per（产出，拉丁语 *paerere*）→ 不断�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The Royal Shakespeare Company also have many modern plays in their repertoire." `[COCA-ACAD]`
-> - "There is an extensive repertoire of music written for the flute." `[COCA-ACAD]`
-> - "I'm not a great cook — pasta and pesto is the extent of my repertoire." `[BNC-SPOKEN]`
+> - The Royal Shakespeare Company also have many modern plays in their repertoire. `[COCA-ACAD]`
+> - There is an extensive repertoire of music written for the flute. `[COCA-ACAD]`
+> - I'm not a great cook — pasta and pesto is the extent of my repertoire. `[BNC-SPOKEN]`
 
 
 ---

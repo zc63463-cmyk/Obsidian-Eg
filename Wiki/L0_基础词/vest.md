@@ -137,10 +137,10 @@ vest（拉丁语 *vestis* 衣服，*vestire* 穿衣）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Political power is now vested in the elected representatives of the people." `[权威语料]`
-> - "The state requires that there be a life vest for each person in the boat." `[权威语料]`
-> - "Practically everybody involved has a vested interest in making the child drop her claim." `[权威语料]`
-> - "After three years in the pension plan, you become fully vested." `[权威语料]`
+> - Political power is now vested in the elected representatives of the people. `[例]`
+> - The state requires that there be a life vest for each person in the boat. `[例]`
+> - Practically everybody involved has a vested interest in making the child drop her claim. `[例]`
+> - After three years in the pension plan, you become fully vested. `[例]`
 
 
 ---

@@ -3,10 +3,8 @@ title: "unsettle"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-25
-mastery: L0
 word_freq: 超纲词
 semantic_field: 人本世界
 prototype: 使不安定（使从安定的状态中离开）
@@ -43,7 +41,7 @@ un-(使离开/反转) + [[st-sta-stat]](站立/安定→settle 源自古英语 *
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**使不安定**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **使不安定**（心理层面）
@@ -64,7 +62,7 @@ un-(使离开/反转) + [[st-sta-stat]](站立/安定→settle 源自古英语 *
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +73,7 @@ un-(使离开/反转) + [[st-sta-stat]](站立/安定→settle 源自古英语 *
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > settle（安定、安顿）+ un-（使离开）→ 使不安定。你刚安顿好新家，突然收到公司搬迁通知——这个消息会 unsettle 你。
@@ -87,7 +85,7 @@ un-(使离开/反转) + [[st-sta-stat]](站立/安定→settle 源自古英语 *
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +98,13 @@ un-(使离开/反转) + [[st-sta-stat]](站立/安定→settle 源自古英语 *
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[settle]]：使安定，安顿（unsettle 的精确反义）
 > - [[calm]]：使平静（unsettle 的反义：使不安↔使平静）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,7 +117,7 @@ un-(使离开/反转) + [[st-sta-stat]](站立/安定→settle 源自古英语 *
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **unsettling news**：令人不安的消息
 > - **feel unsettled**：感到心神不宁
 > - **unsettle the market**：扰乱市场
@@ -127,19 +125,12 @@ un-(使离开/反转) + [[st-sta-stat]](站立/安定→settle 源自古英语 *
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - Even the most experienced batsmen were unsettled by the speed of this bowler . `[例]`
-> - These efforts unsettled nationalists in all camps . `[例]`
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-25 | **复习次数**：0 | **当前等级**：L0
-
----
+> [!example]- 语料
+> - Even the most experienced batsmen were unsettled by the speed of this bowler. `[例]`
+> - These efforts unsettled nationalists in all camps. `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

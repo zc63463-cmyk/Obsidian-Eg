@@ -133,9 +133,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Well, I guess I'd sell my watch or computer or do some odd jobs till I could afford a return plane ticket." `[真题]`
-> - "To avoid self-deception, watch out for excuses and try this test: ask yourself how you would feel if your actions were public." `[真题]`
-> - "Tom made a list of potential problems that we should watch out for." `[真题]`
+> - Well, I guess I'd sell my watch or computer or do some odd jobs till I could afford a return plane ticket. `[真题]`
+> - To avoid self-deception, watch out for excuses and try this test: ask yourself how you would feel if your actions were public. `[真题]`
+> - Tom made a list of potential problems that we should watch out for. `[真题]`
 
 
 ---

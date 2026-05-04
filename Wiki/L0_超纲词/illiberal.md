@@ -3,10 +3,8 @@ title: "illiberal"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 社会习俗
 prototype: 缺乏自由和宽容的态度
@@ -43,7 +41,7 @@ il-(=in-, 不) + [[liber|liber]](自由) + -al(形容词后缀)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以“**缺乏自由和宽容的态度**”为统筹中心，沿社会路径向外扩展：
 >
 1. **缺乏自由和宽容**（态度层面）
@@ -63,7 +61,7 @@ il-(=in-, 不) + [[liber|liber]](自由) + -al(形容词后缀)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 |------|------|----------|
@@ -73,7 +71,7 @@ il-(=in-, 不) + [[liber|liber]](自由) + -al(形容词后缀)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > il（不）+ liber（自由）→ 不自由的、狭隘的。liberal 是宽容开放的，illiberal 就是不宽容、心胸狭隘的。
@@ -82,7 +80,7 @@ il-(=in-, 不) + [[liber|liber]](自由) + -al(形容词后缀)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 |------|------------|---------|---------|---------|
@@ -95,13 +93,13 @@ il-(=in-, 不) + [[liber|liber]](自由) + -al(形容词后缀)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[liberal]]：自由的，宽容的（illiberal 的精确反义：不自由↔自由）
 - [[tolerant]]：宽容的
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 |--------|---------|------|---------|
@@ -113,27 +111,20 @@ il-(=in-, 不) + [[liber|liber]](自由) + -al(形容词后缀)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **illiberal attitudes**：狭隘的态度
 - **illiberal views**：偏执的观点
 - **illiberal regime**：不自由的政权
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - The government's illiberal policies have drawn criticism from international human rights organizations. `[例]`
 > - His illiberal attitudes toward immigration alienated many of his colleagues. `[例]`
 > - Scholars warn that the rise of illiberal democracy threatens the foundations of constitutional governance. `[例]`
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
-
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

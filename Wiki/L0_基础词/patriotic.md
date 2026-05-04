@@ -139,9 +139,9 @@ patri(父亲/祖国，希腊语 *patēr*) + -otic(形容词后缀，……的)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "At the heart of their slow and often frustrating work is a quest for justice and a sense of patriotic duty." `[真题]`
-> - "History is being quoted and patriotic songs revived." `[真题]`
-> - "Woosnam was fiercely patriotic." `[真题]`
+> - At the heart of their slow and often frustrating work is a quest for justice and a sense of patriotic duty. `[真题]`
+> - History is being quoted and patriotic songs revived. `[真题]`
+> - Woosnam was fiercely patriotic. `[真题]`
 
 
 ---

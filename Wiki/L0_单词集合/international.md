@@ -133,9 +133,15 @@ inter-(在…之间，among/between) + nation(国家) + -al(形容词后缀，"�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - European ministers instantly demanded that the International Accounting Standards Board (IASB) do likewise. `[真题]`
-> - The IASB says it does not want to act without overall planning, but the pressure to fold when it completes its reconstruction of rules later this year is strong. `[真题]`
-> - In crucial areas of international relations the nation state still dominates. `[COCA-ACAD]`
+> - The problem ils rampant in Scopus, a citation database, which includes a high number of the new "international" journals. `[真题]`
+>   - 中译：这个问题在 Scopus 中很严重，这是一个引文数据库，其中包含大量新的“国际”期刊。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - C It hinders the growth of "international" journals. `[真题]`
+>   - 中译：C 它阻碍了“国际”期刊的发展。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - She was the boss of a large international company. `[例]`
+>   - 中译：她是一家大型国际公司的老板。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/international
 
 ---
 

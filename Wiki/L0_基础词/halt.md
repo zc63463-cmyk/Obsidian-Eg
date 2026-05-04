@@ -129,8 +129,9 @@ halt "停止"源自德语 *halten*（握住、停止），与英语 [[hold]] 同
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Production at the factory was brought to a halt due to the workers' strike."（由于工人罢工，工厂的生产被迫停止。——考研英语真题相关话题，讨论劳资纠纷）
-> - "The peace talks ground to a halt when neither side was willing to compromise."（当双方都不愿意妥协时，和平谈判陷入了停滞。——考研相关语料，讨论国际关系）
+> - Halt!" called the guard . "You can't go any further without a permit. `[例]`
+> - Production has halted at all of the company's factories because of the pay dispute. `[例]`
+> - Security forces halted the demonstrators by blocking the road. `[例]`
 
 
 ---

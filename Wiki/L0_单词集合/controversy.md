@@ -121,9 +121,15 @@ contro-(=contra-，对立、相反) + [[ver-vert|vers]](=vertere，转) + -y(名
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Federal policy is necessarily involved in the technology vs. genius dispute. `[真题]`
-> - The President resigned amid considerable controversy. `[COCA-ACAD]`
-> - The new law has sparked controversy among civil rights groups. `[例]`
+> - Where do you put the emphasis in the word 'controversy'? `[例]`
+>   - 中译：你把“争议”这个词的重点放在哪里？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/controversy
+> - Her latest book has engendered a lot of controversy. `[例]`
+>   - 中译：她的最新书引起了很多争议。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/controversy
+> - The mayor and the city council are anxious to avoid getting entangled in the controversy. `[例]`
+>   - 中译：市长和市议会急于避免卷入这场争议。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/controversy
 
 ---
 

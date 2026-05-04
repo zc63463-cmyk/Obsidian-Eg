@@ -134,9 +134,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - I never expected that he would abuse the trust I placed in him. `[例]`
-> - He fears that his brother may be abusing alcohol . `[例]`
-> - The therapist works with children who have been sexually abused. `[例]`
+> - The system of paying cash bonuses is open to abuse (= might be used in the wrong way). `[例]`
+>   - 中译：支付现金奖金的制度很容易被滥用（=可能以错误的方式使用）。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/abuse
+> - The legal system is open to abuse. `[例]`
+>   - 中译：法律制度很容易被滥用。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/abuse
+> - He was arrested on charges of corruption and abuse of power. `[例]`
+>   - 中译：他因腐败和滥用权力罪名被捕。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/abuse
 
 
 ---

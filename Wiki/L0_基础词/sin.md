@@ -137,9 +137,9 @@ sin 源自古英语 *synn*，原始日耳曼语 *sunjō*，可能与拉丁语 *s
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It is a sin to waste food when so many people are starving." `[外刊语料]`
-> - "He knew that he had committed a terrible sin." `[牛津词典]`
-> - "You have sinned against God." `[朗文词典]`
+> - It is a sin to waste food when so many people are starving. `[例]`
+> - He knew that he had committed a terrible sin. `[例]`
+> - You have sinned against God. `[例]`
 
 
 ---

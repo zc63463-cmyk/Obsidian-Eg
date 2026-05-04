@@ -132,8 +132,8 @@ mo(=mov-, 移动) + -tion(名词后缀，表示动作/结果)
 
 > [!example]- 语料
 > - He rocked the cradle with a gentle backwards and forwards motion. `[例]`
-> - They showed the goal again in slow motion (= at a slower speed so that the action could be more clearly seen ) . `[例]`
-> - The nurse asked if her motions were regular . `[例]`
+> - They showed the goal again in slow motion (= at a slower speed so that the action could be more clearly seen ). `[例]`
+> - The nurse asked if her motions were regular. `[例]`
 
 
 ---

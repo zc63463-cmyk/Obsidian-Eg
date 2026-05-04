@@ -139,9 +139,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "An inventor must apply for a patent within one year of publicly disclosing the invention." `` `[COCA-ACAD]` ``
-> - "Coca-Cola was granted fourteen years of patent protection on its classic bottle design." `` `[COCA-ACAD]` ``
-> - "It is a patent falsehood that has been repeated many times." `` `[真题]` ``
+> - In 1880 Alexander Graham Bell was granted a patent on an apparatus for signalling and communicating called a Photophone. `[例]`
+>   - 中译：1880 年，亚历山大·格雷厄姆·贝尔 (Alexander Graham Bell) 获得了一项名为光电电话的信号和通信设备的专利。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/patent
+> - If you don't patent your invention , other people may make all the profit out of it. `[例]`
+>   - 中译：如果你不为你的发明申请专利，其他人可能会从中获利。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/patent
+> - No," he replied , with patent distaste. `[例]`
+>   - 中译：不，”他明显厌恶地回答道。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/patent
 
 ---
 

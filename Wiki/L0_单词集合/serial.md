@@ -122,10 +122,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> 1. The serial killer was finally caught by the police after a decade-long investigation. `[真题]`
-> 2. The novel was first published in serial form in a literary magazine. `[真题]`
-> 3. Most of her novels have been made into television serials at some point in their history. `[COCA-ACAD]`
-> 4. Tasks carried out in the same serial order tend to produce more consistent results. `[COCA-ACAD]`
+> - He was a serial offender with more than 50 convictions. `[例]`
+>   - 中译：他是一名连环犯罪者，已被定罪超过 50 次。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/serial
+> - She is currently filming a serial drama for the BBC. `[例]`
+>   - 中译：她目前正在为 BBC 拍摄一部连续剧。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/serial
+> - Dickens is best known for the serial novel "A Christmas Carol" which was published over a series of months. `[例]`
+>   - 中译：狄更斯最出名的是连载小说《圣诞颂歌》，该小说出版了几个月。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/serial
 
 ---
 

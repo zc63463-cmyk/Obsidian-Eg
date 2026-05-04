@@ -127,9 +127,9 @@ daunt(恐吓/使畏缩，古法语 *danter*) + -ing(形容词后缀，表进行/
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The country was faced with the daunting prospect of overcoming four decades of division . `[例]`
+> - The country was faced with the daunting prospect of overcoming four decades of division. `[例]`
 > - She has the daunting task of cooking for 20 people every day. `[例]`
-> - Starting a new job can be a daunting prospect . `[例]`
+> - Starting a new job can be a daunting prospect. `[例]`
 
 
 ---

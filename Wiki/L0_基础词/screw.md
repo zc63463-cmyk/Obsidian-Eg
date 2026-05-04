@@ -143,9 +143,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He screwed up the project by missing the deadline." `[真题]`
-> - "The government put the screws on the company to comply with environmental regulations." `[真题]`
-> - "We all screw up from time to time, so don't sweat it." `[语料库]`
+> - He screwed up the project by missing the deadline. `[真题]`
+> - The government put the screws on the company to comply with environmental regulations. `[真题]`
+> - Give it another screw to make sure the lid doesn't come off while we're travelling. `[例]`
 
 
 ---

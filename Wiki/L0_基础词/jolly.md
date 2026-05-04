@@ -132,9 +132,9 @@ jolly 源自古法语 *joli*（漂亮的、愉快的），可能源自古诺斯�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She didn't really want to go to the party, so we had to jolly her along a little." ` `[语料库]`
-> - "I know Bill can be difficult, but just keep jollying him along." ` `[语料库]`
-> - "Lisa had drunk two glasses of wine and was a little jolly, but not really drunk." ` `[语料库]`
+> - The researchers proposed a jolly solution to the problem. `[例]`
+> - The company adopted a jolly approach to improve efficiency. `[例]`
+> - The plan offers a jolly option for small organizations. `[例]`
 
 
 ---

@@ -133,9 +133,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "For a moment her mask slipped, and I saw how scared she really was." `[语料库]`
-> - "The bank robbers wore masks throughout the raid." `[语料库]`
-> - "His fooling around is a mask for his lack of confidence." `[语料库]`
+> - For a moment her mask slipped, and I saw how scared she really was. `[例]`
+> - The bank robbers wore masks throughout the raid. `[例]`
+> - His fooling around is a mask for his lack of confidence. `[例]`
 
 
 ---

@@ -129,8 +129,14 @@ review_count: 0
 
 > [!example]- 语料
 > - This weather depresses me. `[例]`
-> - It depresses me to think that I'll probably still be doing exactly the same job in ten years ' time . `[例]`
-> - Doesn't it depress you listening to the news these days ? `[例]`
+>   - 中译：这样的天气让我心情郁闷。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/depress
+> - It depresses me to think that I'll probably still be doing exactly the same job in ten years ' time. `[例]`
+>   - 中译：想到十年后我可能仍会做同样的工作，我感到很沮丧。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/depress
+> - Doesn't it depress you listening to the news these days? `[例]`
+>   - 中译：这几天的新闻你不觉得郁闷吗？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/depress
 
 ---
 

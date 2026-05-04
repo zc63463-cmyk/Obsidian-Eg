@@ -131,9 +131,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The new airport is now fully operational. `[例]`
-> - There are operational advantages in putting sales and admin in the same building . `[例]`
-> - Repairs have already begun and we expect the factory to be fully operational again with six months . `[例]`
+> - There are operational advantages in putting sales and admin in the same building. `[例]`
+>   - 中译：将销售和行政部门放在同一栋大楼内具有运营优势。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/operational
+> - Repairs have already begun and we expect the factory to be fully operational again with six months. `[例]`
+>   - 中译：维修工作已经开始，我们预计工厂将在六个月内再次全面运营。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/operational
+> - Repairs have already begun and we expect the plant to soon be fully operational (= working correctly and completely ). `[例]`
+>   - 中译：维修工作已经开始，我们预计工厂很快就能全面投入运行（= 正常且完全运行）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/operational
 
 ---
 

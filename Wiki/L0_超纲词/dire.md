@@ -3,10 +3,8 @@ title: "dire"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 人本世界
 prototype: 可怕的（令人恐惧的极端状况）
@@ -43,7 +41,7 @@ dire(拉丁语 *dirus*，可怕的/不祥的)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以“**可怕的（令人恐惧的极端状况）**”为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **可怕的**（情感层面）
@@ -64,7 +62,7 @@ dire(拉丁语 *dirus*，可怕的/不祥的)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ dire(拉丁语 *dirus*，可怕的/不祥的)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > dire = 可怕的。in dire need = 处于可怕的需要中 = 迫切需要。dire consequences = 可怕的后果 = 极其严重的后果。记住 dire 就记住可怕。
@@ -86,7 +84,7 @@ dire(拉丁语 *dirus*，可怕的/不祥的)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -98,13 +96,13 @@ dire(拉丁语 *dirus*，可怕的/不祥的)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[mild]]：温和的（dire 的反义：严重↔温和）
 > - [[trivial]]：微不足道的（dire 的反义：严重↔微不足道）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -113,26 +111,19 @@ dire(拉丁语 *dirus*，可怕的/不祥的)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **in dire need of**：极度需要
 > - **dire consequences**：极其严重的后果
 > - **dire straits**：极端困境
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - The country is in dire need of humanitarian aid. `[例]`；
-> - The report warned of dire consequences if climate change is left unchecked. `[例]`；
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
+> [!example]- 语料
+> - The researchers proposed a dire solution to the problem. `[例]`
+> - The company adopted a dire approach to improve efficiency. `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

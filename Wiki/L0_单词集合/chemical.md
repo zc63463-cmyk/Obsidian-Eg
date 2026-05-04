@@ -124,8 +124,15 @@ chem-（炼金术，源自阿拉伯语 al-kimiya）+ -ical(形容词后缀，表
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Chemical fertilizers have caused serious damage to the soil."（化肥对土壤造成了严重破坏。）——考研高频表达
-> - "The chemical composition of the substance remains unknown."（该物质的化学成分仍然未知。）——考研高频表达
+> - Throughout the trip , Jackson juggled multiple cameras and plate sizes using the " collodion process" that required him to coat the plates with a chemical mixture , then expose them and develop the resulting images with a portable darkroom. `[真题]`
+>   - 中译：在整个旅程中，杰克逊使用“火棉胶工艺”处理多个相机和印版尺寸，该工艺要求他在印版上涂上化学混合物，然后将它们曝光并用便携式暗室冲洗所得图像。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - The government has pledged to reduce the amount of chemicals used in food production. `[例]`
+>   - 中译：政府已承诺减少食品生产中化学品的使用量。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/chemical
+> - Each year , factories release millions of tons of toxic (= poisonous ) chemicals into the atmosphere. `[例]`
+>   - 中译：每年，工厂都会向大气中排放数百万吨有毒化学品。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/chemical
 
 ---
 

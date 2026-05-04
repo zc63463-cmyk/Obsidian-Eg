@@ -126,9 +126,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The train's approximate time of arrival is 10.30. `[例]`
-> - The approximate cost will be about $600. `[例]`
-> - Can you give me an approximate idea of the numbers involved ? `[例]`
+> - The cost given is only approximate. `[例]`
+>   - 中译：给出的成本只是近似值。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/approximate
+> - Use these figures as an approximate guide in your calculations. `[例]`
+>   - 中译：使用这些数字作为计算的大致指南。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/approximate
+> - Construction was completed at an approximate cost of $4.1 million. `[例]`
+>   - 中译：工程竣工成本约为 410 万美元。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/approximate
 
 
 ---

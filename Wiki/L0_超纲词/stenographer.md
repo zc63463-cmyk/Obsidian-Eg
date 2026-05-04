@@ -3,10 +3,8 @@ title: "stenographer"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-25
-mastery: L0
 word_freq: 超纲词
 semantic_field: 社会专业
 prototype: 写窄字的人（速记员）
@@ -43,7 +41,7 @@ steno-（窄，紧密，源自希腊语 *stenos*）+ [[graph-gram|graph]]（写�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**写窄字的人（速记员）**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **写窄字的人**（职业层面）
@@ -62,7 +60,7 @@ steno-（窄，紧密，源自希腊语 *stenos*）+ [[graph-gram|graph]]（写�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -72,7 +70,7 @@ steno-（窄，紧密，源自希腊语 *stenos*）+ [[graph-gram|graph]]（写�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > steno-（窄）+ [[graph-gram|graph]]（写）+ -er（人）= stenographer。想象法庭上，一个人坐在打字机前飞速敲击——ta-ta-ta-ta——每句话都被精确记录。她就是 stenographer，把长长的话压缩成窄窄的符号。
@@ -84,7 +82,7 @@ steno-（窄，紧密，源自希腊语 *stenos*）+ [[graph-gram|graph]]（写�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -96,12 +94,12 @@ steno-（窄，紧密，源自希腊语 *stenos*）+ [[graph-gram|graph]]（写�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > （无精确反义词，stenographer 是职业名词）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -112,25 +110,18 @@ steno-（窄，紧密，源自希腊语 *stenos*）+ [[graph-gram|graph]]（写�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **court stenographer**：法庭速记员
 > - **a certified stenographer**：持证速记员
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - But that hasn’t stopped liberals and their media stenographers from praying that oil markets collapse amid the U.S.-Israel strikes against the Shia Islamic theocracy and its fledgling nuclear program. `[例]`
 > - For her part, Weiss has already proven to be a happy stenographer for the White House, pulling a bombshell segment from 60 Minutes that painted the administration in a bad light. `[例]`
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-25 | **复习次数**：0 | **当前等级**：L0
-
----
-
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

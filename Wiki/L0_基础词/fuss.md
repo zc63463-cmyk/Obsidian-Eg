@@ -127,9 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Don't make a fuss about such a trivial matter. `[Cambridge]`
-> - She fussed over her children constantly, worrying about every little thing. `[语料库]`
-> - Please don't fuss, Mum. Everything's under control. `[Cambridge]`
+> - Don't make a fuss about such a trivial matter. `[例]`
+> - She fussed over her children constantly, worrying about every little thing. `[例]`
+> - Please don't fuss, Mum. Everything's under control. `[例]`
 
 
 ---

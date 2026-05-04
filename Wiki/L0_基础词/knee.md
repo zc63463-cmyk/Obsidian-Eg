@@ -126,7 +126,7 @@ knee（日耳曼语族原始词，原始印欧语 *genu* "膝盖"，与拉丁语
 
 > [!example]- 语料
 > - The baby was crawling around on her hands and knees. `[例]`
-> - She took the child and sat it on her knee (= on the part of the leg above the knee when sitting down) . `[例]`
+> - She took the child and sat it on her knee (= on the part of the leg above the knee when sitting down). `[例]`
 > - She was wearing an old pair of trousers with rips at the knees. `[例]`
 
 

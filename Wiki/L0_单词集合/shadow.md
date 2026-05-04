@@ -127,10 +127,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The scandal cast a shadow over his political career. `[真题]`
-> - Many small businesses are operating in the shadow of large corporations. `[真题]`
-> - The tree cast a long shadow across the lawn. `[COCA-ACAD]`
-> - Police shadowed the suspect for several days before making the arrest. `[COCA-ACAD]`
+> - The children were playing , jumping on each other's shadows. `[例]`
+>   - 中译：孩子们在玩耍，在彼此的影子上跳跃。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/shadow
+> - Jamie followed his mother around all day like a shadow. `[例]`
+>   - 中译：杰米整天像影子一样跟着他的母亲。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/shadow
+> - This corner of the room is always in shadow (= slight darkness ). `[例]`
+>   - 中译：房间的这个角落总是处于阴影中（=微暗）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/shadow
 
 
 ---

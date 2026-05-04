@@ -133,8 +133,15 @@ hold 为日耳曼语源本族词（非拉丁/希腊借词），无前缀后缀�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The court held that the company had violated environmental regulations."（法院裁定该公司违反了环境法规。）——考研高频表达
-> - "She holds the view that education should be accessible to all."（她认为教育应该对所有人开放。）——考研高频表达
+> - Can you hold the bag while I open the door? `[例]`
+>   - 中译：我开门时你能帮我拿一下包吗？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/hold
+> - He was holding a gun. `[例]`
+>   - 中译：他拿着枪。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/hold
+> - Could you hold the door open , please? `[例]`
+>   - 中译：请把门打开好吗？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/hold
 
 ---
 

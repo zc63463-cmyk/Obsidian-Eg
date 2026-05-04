@@ -133,9 +133,9 @@ harass(骚扰，源自古法语 *harer*，意为"纵狗咬人"，可能来自拟
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Complaints of sexual harassment (= offensive sexual suggestions or actions ) in the workplace have increased in recent years . `[例]`
-> - The company investigated claims of workplace harassment and racial discrimination . `[例]`
-> - Victims of harassment are able to take action in the courts to obtain damages . `[例]`
+> - Complaints of sexual harassment (= offensive sexual suggestions or actions ) in the workplace have increased in recent years. `[例]`
+> - The company investigated claims of workplace harassment and racial discrimination. `[例]`
+> - Victims of harassment are able to take action in the courts to obtain damages. `[例]`
 
 
 ---

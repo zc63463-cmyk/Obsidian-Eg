@@ -138,10 +138,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - This type of building is peculiar to the south of the country. `[COCA-ACAD]`
-> - It seems peculiar that he would leave town and not tell anybody. `[COCA]`
-> - The dog's peculiar behavior worried them. `[COCA]`
-> - The amino acids occur in an ordered sequence that is peculiar to each peptide. `[COCA-ACAD]`
+> - The peculiar part is that the journal that the editor is supposedly working for is not profiting at all-it is just providing citations to other journals. `[真题]`
+>   - 中译：奇怪的是，这位编辑所工作的期刊根本没有盈利——它只是提供对其他期刊的引用。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - She has the most peculiar ideas. `[例]`
+>   - 中译：她有最奇特的想法。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/peculiar
+> - It 's peculiar that they didn't tell us they were going away. `[例]`
+>   - 中译：奇怪的是他们没有告诉我们他们要离开。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/peculiar
 
 ---
 

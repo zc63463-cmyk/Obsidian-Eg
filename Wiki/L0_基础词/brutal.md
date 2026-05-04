@@ -126,9 +126,15 @@ brut(野兽，拉丁语 *brutus*，沉重的、愚钝的) + -al(形容词后缀�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - He had presided over a brutal regime in which thousands of people had " disappeared ". `[例]`
-> - He was imprisoned in 1945 for the brutal murder of a twelve-year-old girl . `[例]`
-> - She spoke with brutal honesty - I was too old for the job . `[例]`
+> - With brutal honesty she told him she did not love him. `[例]`
+>   - 中译：她以残酷的诚实告诉他她不爱他。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/brutal
+> - Sailors sometimes faced brutal punishments like whipping. `[例]`
+>   - 中译：水手有时会面临鞭打等残酷惩罚。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/brutal
+> - The writer describes the dangers of drugs with brutal honesty. `[例]`
+>   - 中译：作者以残酷的诚实描述了毒品的危险。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/brutal
 
 
 ---

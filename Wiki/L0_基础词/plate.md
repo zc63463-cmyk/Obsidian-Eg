@@ -136,7 +136,7 @@ review_count: 0
 > [!example]- 语料
 > - Throughout the trip , Jackson juggled multiple cameras and plate sizes using the " collodion process" that required him to coat the plates with a chemical mixture , then expose them and develop the resulting images with a portable darkroom. `[真题]`
 > - There's still lots of food on your plate. `[例]`
-> - Stephen ate three plates of spaghetti . `[例]`
+> - Stephen ate three plates of spaghetti. `[例]`
 
 
 ---

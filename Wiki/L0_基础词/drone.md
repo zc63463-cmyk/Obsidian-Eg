@@ -128,7 +128,7 @@ review_count: 0
 > [!example]- 语料
 > - Drone technology has transformed modern warfare and delivery services. `[真题]`
 > - He droned on about his job for what seemed like hours. `[真题]`
-> - The constant drone of the engine made it difficult to sleep. `[真题]`
+> - The Border Patrol's unmanned drone helped agents track down their smuggling suspect. `[例]`
 
 ---
 

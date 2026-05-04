@@ -127,9 +127,15 @@ top（建议创建词根笔记 [[top]]/[[toc]]，含义：地方、场所）+ -i
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Our discussion included topics such as acid rain and the melting of polar ice . `[例]`
-> - Your essay can be on any topic you like. `[例]`
-> - She did not find it easy to keep her essays on topic. `[例]`
+> - The main topic of conversation was Tom's new girlfriend. `[例]`
+>   - 中译：谈话的主要话题是汤姆的新女​​友。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/topic
+> - The article covered a wide range of controversial topics including forced marriage and abortion. `[例]`
+>   - 中译：这篇文章涵盖了一系列有争议的话题，包括强迫婚姻和堕胎。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/topic
+> - There will be workshops on related topics. `[例]`
+>   - 中译：将举办相关主题的研讨会。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/topic
 
 ---
 

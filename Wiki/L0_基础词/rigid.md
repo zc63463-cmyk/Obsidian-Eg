@@ -126,9 +126,9 @@ rig-(=rigid, 僵硬/直立) + -[[id-ident|id]](形容词后缀，表示状态)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The company's rigid hierarchy made it difficult for new ideas to emerge from lower-level employees. ` [真题]`
-> - The material is so rigid that it cannot be bent without breaking under pressure. ` [真题]`
-> - His rigid stance on the issue left no room for negotiation or compromise. ` [真题]`
+> - The researchers proposed a rigid solution to the problem. `[例]`
+> - The company adopted a rigid approach to improve efficiency. `[例]`
+> - The plan offers a rigid option for small organizations. `[例]`
 
 
 ---

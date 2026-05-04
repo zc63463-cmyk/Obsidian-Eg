@@ -131,9 +131,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The book provides an excellent introduction for readers new to the area while also providing an important research synthesis for the more expert." `[真题]`
-> - "Not all readers will embrace every viewpoint expressed in this book." `[真题]`
-> - "Thanks to that job I became an avid reader." `[真题]`
+> - The book provides an excellent introduction for readers new to the area while also providing an important research synthesis for the more expert. `[真题]`
+> - Not all readers will embrace every viewpoint expressed in this book. `[真题]`
+> - Thanks to that job I became an avid reader. `[真题]`
 
 
 ---

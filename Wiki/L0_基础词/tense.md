@@ -138,9 +138,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She was very tense as she waited for the interview." `[真题]`
-> - "There were some tense moments in the second half of the game." `[真题]`
-> - "This gesture of goodwill did little to improve the tense atmosphere at the talks." `[真题]`
+> - She was very tense as she waited for the interview. `[真题]`
+> - There were some tense moments in the second half of the game. `[真题]`
+> - This gesture of goodwill did little to improve the tense atmosphere at the talks. `[真题]`
 
 
 ---

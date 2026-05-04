@@ -124,9 +124,9 @@ out-(向外) + -ing(名词后缀，表示动作的结果/事件)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Every year the professor takes her students on an outing to the archives of the Library of Congress." `[COCA-ACAD]`
-> - "One evening, she made a rare outing to the local discotheque with her friends." `[BNC-FICT]`
-> - "The afternoon outing in the sunshine went some way to restoring my morale." `[BNC-FICT]`
+> - Every year the professor takes her students on an outing to the archives of the Library of Congress. `[COCA-ACAD]`
+> - One evening, she made a rare outing to the local discotheque with her friends. `[BNC-FICT]`
+> - The afternoon outing in the sunshine went some way to restoring my morale. `[BNC-FICT]`
 
 
 ---

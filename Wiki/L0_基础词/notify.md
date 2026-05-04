@@ -120,8 +120,8 @@ not-(知道，拉丁语 *noscere*) + -ify(使动后缀，=make)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The school is required to notify parents if their children fail to come to school . `[例]`
-> - Businesses must notify consumers if their personal information has been subject to a security breach . `[例]`
+> - The school is required to notify parents if their children fail to come to school. `[例]`
+> - Businesses must notify consumers if their personal information has been subject to a security breach. `[例]`
 > - You must notify us in writing if you wish to cancel your subscription. `[例]`
 
 

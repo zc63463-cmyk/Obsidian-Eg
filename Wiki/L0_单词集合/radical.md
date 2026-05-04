@@ -141,10 +141,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The new president has made some radical changes to the company." `[COCA-NEWS]`
-> - "Radical political and constitutional changes are almost always the result of war and revolution." `[COCA-ACAD]`
-> - "There are some radical differences between the two proposals." `[COCA-ACAD]`
-> - "He was a radical when he was young, but now he's much more moderate." `[COCA-MAG]`
+> - These people have very radical views. `[例]`
+>   - 中译：这些人的观点非常激进。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/radical
+> - The feeling among the grassroots of the Party is that the leaders are not radical enough. `[例]`
+>   - 中译：党内基层的感觉是，领导人不够激进。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/radical
+> - This is a desperate situation which requires a truly radical solution. `[例]`
+>   - 中译：这是一个绝望的局面，需要一个真正彻底的解决方案。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/radical
 
 ---
 

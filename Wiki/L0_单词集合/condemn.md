@@ -124,9 +124,15 @@ con-(一起/共同) + [[dens|dens/demn]](宣告/判定) → 一起判定有罪
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The international community strongly condemned the act of terrorism." `[COCA-ACAD]`
-> - "The building was condemned as unsafe and ordered to be demolished." `[例]`
-> - "The government condemned the use of excessive force by the police during the protest." `[例]`
+> - The terrorist action has been condemned as an act of barbarism and cowardice. `[例]`
+>   - 中译：这一恐怖行动被谴责为野蛮和懦弱的行为。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/condemn
+> - The film was condemned for its sexism. `[例]`
+>   - 中译：这部电影因其性别歧视而受到谴责。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/condemn
+> - She was the only politician to condemn the proposed law on moral grounds. `[例]`
+>   - 中译：她是唯一一位以道德理由谴责拟议法律的政治家。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/condemn
 
 ---
 

@@ -134,9 +134,9 @@ liquid（14世纪末，源自拉丁语 *liquidus* "流动的、液态的"，*liq
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Mercury is a liquid at room temperature . `[例]`
-> - Swift claimed that vowels and liquids were more typical of female speech . `[例]`
-> - Japanese has only one liquid consonant . `[例]`
+> - Mercury is a liquid at room temperature. `[例]`
+> - Swift claimed that vowels and liquids were more typical of female speech. `[例]`
+> - Japanese has only one liquid consonant. `[例]`
 
 
 ---

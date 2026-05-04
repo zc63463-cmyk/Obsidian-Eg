@@ -127,8 +127,8 @@ review_count: 0
 
 > [!example]- 语料
 > - The office building's upper floors were being repainted. `[例]`
-> - If the infection is not checked it will probably spread to the upper body . `[例]`
-> - These shoes have leather uppers and synthetic soles . `[例]`
+> - If the infection is not checked it will probably spread to the upper body. `[例]`
+> - These shoes have leather uppers and synthetic soles. `[例]`
 
 
 ---

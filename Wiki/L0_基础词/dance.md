@@ -135,8 +135,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - We danced all night . `[例]`
-> - We went dancing at a club . `[例]`
+> - We danced all night. `[例]`
+> - We went dancing at a club. `[例]`
 > - What kind of music do you like dancing to? `[例]`
 
 

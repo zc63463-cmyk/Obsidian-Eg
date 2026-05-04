@@ -119,6 +119,15 @@ choke（掐喉/窒息）
 ## 真题/语料关联
 
 > [!example]- 语料
+> - She choked to death on a fish bone. `[例]`
+>   - 中译：她被鱼刺噎死了。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/choke
+> - Children can choke on peanuts. `[例]`
+>   - 中译：儿童可能会被花生噎住。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/choke
+> - Peanuts can choke a small child. `[例]`
+>   - 中译：花生可能会噎住小孩子。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/choke
 - The room was choked with smoke.（房间里弥漫着呛人的浓烟。）
 - Roads were choked with traffic.（道路被交通堵塞了。）
 

@@ -130,9 +130,15 @@ con-(完全，彻底) + sume/sumpt(拿，取) + -tion(名词后缀，表示动�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Consumption has become a central pillar of life in industrial lands and is even embedded in social values." `[真题]`
-> - "Energy conservation, a shift to other fuels and a decline in the importance of heavy, energy-intensive industries have reduced oil consumption." `[真题]`
-> - "The government has introduced policies to encourage sustainable consumption and reduce waste." `[COCA-ACAD]`
+> - As a nation , our consumption of junk food is horrifying. `[例]`
+>   - 中译：作为一个国家，我们对垃圾食品的消费令人震惊。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/consumption
+> - We need to cut down on our fuel consumption by having fewer cars on the road. `[例]`
+>   - 中译：我们需要通过减少路上的汽车来减少燃料消耗。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/consumption
+> - The meat was clearly unfit for human consumption (= not safe for people to eat ). `[例]`
+>   - 中译：这种肉显然不适合人类食用（=人们食用不安全）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/consumption
 ---
 
 

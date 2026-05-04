@@ -125,9 +125,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - His sense of humour is one of his better traits. `[例]`
-> - Patience is one of his best traits. `[例]`
 > - Awareness of class is a typically British trait. `[例]`
+>   - 中译：阶级意识是英国人的典型特征。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/trait
+> - This dog breed has a number of desirable traits. `[例]`
+>   - 中译：该犬种具有许多理想的特征。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/trait
+> - Instead, through projects like the ENIAC replica, students can leverage traits many of them share, like the abilities to hyperfocus and to precisely repeat tasks. `[例]`
+>   - 中译：相反，通过像 ENIAC 复制品这样的项目，学生可以利用他们许多人共有的特质，比如高度专注和精确重复任务的能力。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/trait
 
 ---
 

@@ -134,9 +134,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It was the mass-issuance of mortgages to consumers with poor credit ratings that led to a rash of mortgage defaults and home foreclosures beginning in late 2007." `[真题]`
-> - "There has been a rash of burglaries in the area over the last month." `[真题]`
-> - "Don't make a rash decision that you'll regret later." `[真题]`
+> - It was the mass-issuance of mortgages to consumers with poor credit ratings that led to a rash of mortgage defaults and home foreclosures beginning in late 2007. `[真题]`
+> - There has been a rash of burglaries in the area over the last month. `[真题]`
+> - The plan offers a rash option for small organizations. `[真题]`
 
 
 ---

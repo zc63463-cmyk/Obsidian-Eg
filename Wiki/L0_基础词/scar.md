@@ -127,9 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He had a scar on his arm from a childhood accident." `[LDOCE]`
-> - "His father's alcoholism left scars that never healed." `[COCA-FICT]`
-> - "She will probably be scarred for life by the experience." `[LDOCE]`
+> - He had a scar on his arm from a childhood accident. `[例]`
+> - His father's alcoholism left scars that never healed. `[COCA-FICT]`
+> - She will probably be scarred for life by the experience. `[例]`
 
 
 ---

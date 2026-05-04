@@ -131,9 +131,15 @@ com-(共同) + pet(追求、寻求) + -itive(形容词后缀，表"……倾向�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - In today's competitive global economy, innovation is essential for survival. `[COCA-ACAD]`
-> - She has a competitive personality and always wants to win. `[COCA-MAG]`
-> - We offer competitive prices for all our products. `[例]`
+> - We have to invest in new technology if we are to remain competitive. `[例]`
+>   - 中译：如果我们要保持竞争力，就必须投资新技术。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/competitive
+> - Acting is very competitive - you've got to really push yourself if you want to succeed. `[例]`
+>   - 中译：演艺界的竞争非常激烈——如果你想成功，就必须真正逼自己一把。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/competitive
+> - You're very competitive - it's meant to be a friendly match! `[例]`
+>   - 中译：你们很有竞争力——这本来就是一场友谊赛！
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/competitive
 
 ---
 

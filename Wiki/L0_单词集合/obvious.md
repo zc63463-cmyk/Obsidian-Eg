@@ -134,8 +134,14 @@ review_count: 0
 
 > [!example]- 语料
 > - It 's obvious (that) she doesn't like him. `[例]`
-> - They have a small child so for obvious reasons they need money . `[例]`
+>   - 中译：很明显她不喜欢他。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/obvious
+> - They have a small child so for obvious reasons they need money. `[例]`
+>   - 中译：他们有一个小孩，所以出于显而易见的原因他们需要钱。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/obvious
 > - I know you don't like her, but do you have to make it so obvious? `[例]`
+>   - 中译：我知道你不喜欢她，但是有必要表现得这么明显吗？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/obvious
 
 ---
 

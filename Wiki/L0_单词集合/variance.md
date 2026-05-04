@@ -137,9 +137,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - There has been some unusual variance in temperature this month . `[例]`
-> - I could detect subtle variances in fragrance as we strolled through the garden . `[例]`
-> - We had to get a ( zoning ) variance before we could build the extension on our house . `[例]`
+> - These conclusions are totally at variance with the evidence. `[例]`
+>   - 中译：这些结论与证据完全不一致。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/variance
+> - He uttered a string of oaths, so oddly at variance with his usual smooth and civilized manner. `[例]`
+>   - 中译：他念叨着一连串的誓言，这与他一贯的温文尔雅的举止很奇怪。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/variance
+> - There was some variance in the results. `[例]`
+>   - 中译：结果存在一些差异。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/variance
 
 ---
 

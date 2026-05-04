@@ -131,10 +131,15 @@ re-(回) + strain/string(拉紧，拉丁语 *stringere*) → 往回拉紧
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "In time it should help restrain costs by eliminating redundant tests, preventing drug interactions, and helping doctors find the best treatments." `[真题]`
-> - "In musical expression, he did not feel restrained by the weight of convention." `[真题]`
-> - "The two men chased him down and restrained him until police arrived." `[COCA]`
-> - "The manufacturer took measures to restrain costs." `[COCA-ACAD]`
+> - When he started fighting , it took four police officers to restrain him. `[例]`
+>   - 中译：当他开始打架时，四名警察才将他制服。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/restrain
+> - She was so angry that she could hardly restrain her self. `[例]`
+>   - 中译：她气得几乎无法克制自己。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/restrain
+> - You should try to restrain your ambitions and be more realistic. `[例]`
+>   - 中译：你应该尽量克制自己的野心，更加现实一些。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/restrain
 
 
 ---

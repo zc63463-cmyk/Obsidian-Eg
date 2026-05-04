@@ -137,9 +137,9 @@ radi-(射线/辐射，拉丁语 *radius* 辐射线) + -o(名词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The pioneers of wireless saw it as a gift to all the people. `[真题]`
-> - I heard a good programme on the radio last night. `[真题]`
 > - The pilot radioed in to the control tower to report the emergency. `[真题]`
+> - I switched on the radio. `[例]`
+> - She's got some kind of job in radio. `[例]`
 
 
 ---

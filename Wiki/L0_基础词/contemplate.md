@@ -125,9 +125,15 @@ con-(=com-, 共同/一起) + templ(=temple, 圣殿/观察场所，拉丁语 *tem
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "I'm contemplating going abroad for a year." `[COCA-SPOK]`
-> - "They were contemplating a move to California." `[COCA-FICT]`
-> - "It's too awful to contemplate." `[COCA-FICT]`
+> - You're too young to be contemplating retirement. `[例]`
+>   - 中译：你还太年轻，还不能考虑退休。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/contemplate
+> - I have never contemplated living abroad. `[例]`
+>   - 中译：我从来没有考虑过在国外生活。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/contemplate
+> - He continued while she contemplated how to answer. `[例]`
+>   - 中译：他继续说道，而她则在思考如何回答。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/contemplate
 
 
 ---

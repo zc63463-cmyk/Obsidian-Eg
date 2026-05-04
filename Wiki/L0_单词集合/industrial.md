@@ -120,10 +120,15 @@ industr(y)(工业) + -ial(形容词后缀，"…的")
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Industrial production fell by 12.8% in the year to March, the worst slide since the Second World War. `` `[真题]` ``
-> - For some industrial scientists, however, the attractions of academia outweigh any financial considerations. `` `[真题]` ``
-> - The Industrial Revolution transformed Britain from an agricultural society into an industrial powerhouse. `` `[COCA-ACAD]` ``
-> - The government's new industrial policy aims to boost high-tech manufacturing. `` `[COCA-ACAD]` ``
+> - The plants use various technologies to remove contaminants in industrial waste and sewage , but traces of many compounds still get through. `[例]`
+>   - 中译：这些工厂使用各种技术来去除工业废物和污水中的污染物，但许多化合物的痕迹仍然可以通过。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/industrial
+> - He has an industrial background (= he has worked in industry ). `[例]`
+>   - 中译：他有工业背景（=他曾在工业界工作过）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/industrial
+> - We would drink industrial quantities of coffee at every meeting. `[例]`
+>   - 中译：每次会议我们都会喝工业量的咖啡。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/industrial
 ---
 
 

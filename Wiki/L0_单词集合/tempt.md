@@ -128,9 +128,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The offer of free credit tempted her into buying a new car . `[例]`
-> - They tempted him to join the company by offer ing him a huge salary and a company car . `[例]`
-> - Did you apply for that job ?" "Well, I was very tempted, but I decided not to. `[例]`
+> - I was tempted by the dessert menu. `[例]`
+>   - 中译：我被甜点菜单所吸引。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/tempt
+> - Don't tempt thieves by leaving valuables clearly visible. `[例]`
+>   - 中译：不要将贵重物品放在明显可见的位置，以免引诱小偷。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/tempt
+> - He was tempted into a life of crime. `[例]`
+>   - 中译：他受到诱惑走上犯罪的道路。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/tempt
 
 ---
 

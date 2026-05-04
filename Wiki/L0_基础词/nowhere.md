@@ -134,7 +134,7 @@ no(没有) + where(地方)
 
 > [!example]- 语料
 > - These young people have nowhere ( else ) to go. `[例]`
-> - Nowhere does the article mention the names of the people involved . `[例]`
+> - Nowhere does the article mention the names of the people involved. `[例]`
 > - The horse I bet on finished nowhere. `[例]`
 
 

@@ -125,10 +125,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - He was charged with assault after a fight outside the bar. [考研-阅读]
-> - The assault on the enemy positions began at dawn. [考研-阅读]
-> - Laws against sexual assault have been strengthened in many countries. `[COCA-ACAD]`
-> - The candidate launched a verbal assault on his opponent during the campaign. `[例]`
+> - They launched an assault on the capital yesterday. `[例]`
+>   - 中译：他们昨天向首都发动了进攻。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/assault
+> - He was charged with sexual assault. `[例]`
+>   - 中译：他被指控性侵犯。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/assault
+> - The number of indecent assaults has increased alarmingly over the past year. `[例]`
+>   - 中译：去年，非礼袭击的数量惊人地增加。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/assault
 
 ---
 

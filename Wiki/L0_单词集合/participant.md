@@ -129,10 +129,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She was an active participant in the class discussion." `` `[COCA-ACAD]` ``
-> - "All participants were asked to complete a questionnaire." `` `[COCA-ACAD]` ``
-> - "Participants in the study showed significant improvement." `` `[COCA-ACAD]` ``
-> - "A total of 137 participants were included in the study." `` `[COCA-ACAD]` ``
+> - The games is an international sporting event with more than three thousand participants. `[例]`
+>   - 中译：该运动会是一项国际体育赛事，有三千多名参赛者。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/participant
+> - She has been an active participant in the discussion. `[例]`
+>   - 中译：她一直积极参与讨论。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/participant
+> - The students claim to be willing participants in the experiment. `[例]`
+>   - 中译：学生们声称愿意参加实验。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/participant
 
 ---
 

@@ -120,8 +120,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The economic outlook for the next quarter remains grim.（下一季度的经济前景依然严峻。）
-> - Despite the grim statistics, the researchers remained cautiously optimistic.（尽管统计数据令人担忧，研究人员仍保持谨慎乐观。）
+> - The future looks grim. `[例]`
+>   - 中译：未来看起来很严峻。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/grim
+> - The grim reality is that there is no easy solution to this problem. `[例]`
+>   - 中译：严峻的现实是，这个问题没有简单的解决办法。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/grim
+> - I divined from his grim expression that the news was not good. `[例]`
+>   - 中译：从他严肃的表情中我推断出这个消息不是什么好消息。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/grim
 
 ---
 

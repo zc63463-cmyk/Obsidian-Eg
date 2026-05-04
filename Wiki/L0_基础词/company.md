@@ -131,9 +131,15 @@ com-(一起) + [[pan|pan-]](面包，拉丁语 *panis*) + -y(名词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Both of these books are published next week by Penguin R.andom House ( PRH) , a company currently involved in a stand-off with Waterstones. `[真题]`
-> - No smoking is company policy . `[例]`
-> - It was a long trip and I was grateful for his company. `[例]`
+> - It is the world's largest software company. `[例]`
+>   - 中译：它是世界上最大的软件公司。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/company
+> - He works for the National Bus Company. `[例]`
+>   - 中译：他在国家巴士公司工作。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/company
+> - She runs her own TV production company. `[例]`
+>   - 中译：她经营着自己的电视制作公司。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/company
 
 
 ---

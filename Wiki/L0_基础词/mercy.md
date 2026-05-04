@@ -127,10 +127,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The prisoners pleaded for mercy." `[真题]`
-> - "Poor people are increasingly at the mercy of predatory lenders." `[真题]`
-> - "Fishermen are always at the mercy of the forces of nature." `[真题]`
-> - "It's a mercy that the building was empty when the fire started." `[真题]`
+> - The prisoners pleaded for mercy. `[真题]`
+> - Poor people are increasingly at the mercy of predatory lenders. `[真题]`
+> - Fishermen are always at the mercy of the forces of nature. `[真题]`
+> - It's a mercy that the building was empty when the fire started. `[真题]`
 
 
 ---

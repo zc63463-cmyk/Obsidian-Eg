@@ -122,9 +122,15 @@ re-(再次) + [[quest|quest]](寻求) → 再次寻求 → 请求
 ## 真题/语料关联
 
 > [!example]- 语料
-> - `[真题]` The committee rejected the request for additional funding.
-> - `[真题]` Visitors are requested not to touch the exhibits.
-> - `[COCA-ACAD]` The department has requested permission to spend money on new equipment.
+> - They received hundreds of requests for more information. `[例]`
+>   - 中译：他们收到了数百个提供更多信息的请求。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/request
+> - The boss refused our request to leave work early. `[例]`
+>   - 中译：老板拒绝了我们提早下班的要求。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/request
+> - The clause was added to the contract at Carlos's request (= because Carlos asked for this). `[例]`
+>   - 中译：该条款是应卡洛斯的要求添加到合同中的（=因为卡洛斯要求这样做）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/request
 
 
 ---

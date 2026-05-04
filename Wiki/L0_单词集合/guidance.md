@@ -120,8 +120,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Children need proper guidance from their parents and teachers to develop good study habits."（儿童需要父母和老师的正确指导来养成良好的学习习惯。）——考研高频表达
-> - "The government provides financial guidance to help young people manage their personal finances."（政府提供财务指导，帮助年轻人管理个人财务。）——考研高频表达
+> - I've always looked to my father for guidance in these matters. `[例]`
+>   - 中译：在这些问题上我一直向父亲寻求指导。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/guidance
+> - Our instructors can provide guidance on how to use the equipment. `[例]`
+>   - 中译：我们的教练可以提供如何使用设备的指导。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/guidance
+> - The booklet offers practical guidance on how to set up a business. `[例]`
+>   - 中译：这本小册子提供了如何创办企业的实用指导。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/guidance
 
 
 ---

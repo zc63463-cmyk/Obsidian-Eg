@@ -133,9 +133,9 @@ joint 源自古法语 *joint*，源自拉丁语 *iunctus*，为 *iungere*（连�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The two companies have entered into a joint venture agreement to develop a major casino hotel." ` `[真题]`
-> - "In a joint statement they called the decision 'amicable'." ` `[语料库]`
-> - "Both parties must sign the form if the account is to be in joint names." ` `[语料库]`
+> - The researchers proposed a joint solution to the problem. `[真题]`
+> - The company adopted a joint approach to improve efficiency. `[例]`
+> - The plan offers a joint option for small organizations. `[例]`
 
 
 ---

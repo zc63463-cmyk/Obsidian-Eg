@@ -132,9 +132,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "We were railroaded into signing the agreement." `[COCA-NEWS]`
-> - "The bill was railroaded through the House." `[COCA-NEWS]`
-> - "He was not about to be railroaded by some impatient young woman." `[COCA-FIC]`
+> - She travelled across Siberia on the Trans-Siberian railroad. `[例]`
+>   - 中译：她乘坐西伯利亚横贯铁路穿越西伯利亚。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/railroad
+> - Thomas Grant worked on the railroad(s) for 50 years. `[例]`
+>   - 中译：托马斯·格兰特 (Thomas Grant) 在铁路工作了 50 年。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/railroad
+> - We see that freight railroads make good profits while rendering excellent service. `[例]`
+>   - 中译：我们看到货运铁路在提供优质服务的同时获得了丰厚的利润。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/railroad
 
 ---
 

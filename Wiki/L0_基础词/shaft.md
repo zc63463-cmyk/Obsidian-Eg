@@ -136,9 +136,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - A shaft of sunlight came through the open door. ` `[真题]`
-> - The miners fear being infected because social distancing is near impossible inside deep mine shafts. ` `[真题]`
-> - There was a rare shaft of light from a broker specialising in smaller companies. ` `[真题]`
+> - His fingers tightened around the shaft of the golf club. `[例]`
+> - The door opened just a crack and a narrow shaft of light spilled into the room. `[例]`
+> - Dust particles float in the few shafts of light that penetrate the gloom. `[例]`
 
 
 ---

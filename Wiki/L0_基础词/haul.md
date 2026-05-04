@@ -133,9 +133,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - They hauled the boat out of the water . `[例]`
-> - She hauled herself up into the tree . `[例]`
-> - FBI agents hauled away boxes of records . `[例]`
+> - They hauled the boat out of the water. `[例]`
+> - She hauled herself up into the tree. `[例]`
+> - FBI agents hauled away boxes of records. `[例]`
 
 
 ---

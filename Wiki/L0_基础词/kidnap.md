@@ -127,10 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The police balked the attempt to kidnap the child." `[通用语料]`
-> - "But in recent years the number of kidnaps has fallen dramatically." `[新闻语料]`
-> - "At least 100 people, including students, were kidnapped for ransom last week in Ethiopia's restive regions." `[新闻语料]`
-> - "Gunmen took him from the road, into a forest, and they have kept him there ever since." `[新闻语料]`
+> - The police balked the attempt to kidnap the child. `[例]`
+> - But in recent years the number of kidnaps has fallen dramatically. `[例]`
+> - At least 100 people, including students, were kidnapped for ransom last week in Ethiopia's restive regions. `[例]`
 
 
 ---

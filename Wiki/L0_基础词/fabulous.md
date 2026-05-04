@@ -130,9 +130,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She looked absolutely fabulous in her dress . `[例]`
-> - They've got a fabulous apartment in the centre of Paris . `[例]`
-> - We had a fabulous time at the party . `[例]`
+> - She looked absolutely fabulous in her dress. `[例]`
+> - They've got a fabulous apartment in the centre of Paris. `[例]`
+> - We had a fabulous time at the party. `[例]`
 
 
 ---

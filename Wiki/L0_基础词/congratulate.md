@@ -126,8 +126,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "I would like to congratulate you on your successful completion of the project."（我想祝贺你成功完成了这个项目——考研写作/翻译常用表达）
-> - "She congratulated herself on having made the right decision."（她为自己做出了正确的决定而感到庆幸——考研阅读常见表达）
+> - I congratulated them all on their results. `[例]`
+>   - 中译：我对他们取得的成绩表示祝贺。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/congratulate
+> - The authors are to be congratulated on producing such a clear and authoritative work. `[例]`
+>   - 中译：值得祝贺作者们创作出如此清晰且权威的作品。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/congratulate
+> - You can congratulate yourself on having done an excellent job. `[例]`
+>   - 中译：您可以祝贺自己做得非常出色。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/congratulate
 
 
 ---

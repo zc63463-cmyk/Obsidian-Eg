@@ -131,9 +131,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The rooms were bright and airy . `[例]`
-> - The lights are too bright in here - they're hurting my eyes . `[例]`
-> - A bright star was shining in the East . `[例]`
+> - Her eyes were bright with tears. `[例]`
+>   - 中译：她的眼睛里闪烁着泪光。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bright
+> - I like bright colours. `[例]`
+>   - 中译：我喜欢鲜艳的颜色。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bright
+> - Jack's face turned bright red. `[例]`
+>   - 中译：杰克的脸涨得通红。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bright
 
 
 ---

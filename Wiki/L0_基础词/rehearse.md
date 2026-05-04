@@ -133,8 +133,8 @@ re-(再，反复) + hear(听，古法语 *rehercer*，原指"反复耙地"→引
 > [!example]- 语料
 > - When facing a new situation, some people tend to rehearse their defeat by spending too much time anticipating the worst. `[真题]`
 > - We were given only two weeks to rehearse. `[真题]`
-> - The orchestra is rehearsing a piece by Schumann. `[权威词典]`
-> - The actors gathered to rehearse their lines before the play's opening night. `[权威词典]`
+> - The orchestra is rehearsing a piece by Schumann. `[例]`
+> - The actors gathered to rehearse their lines before the play's opening night. `[例]`
 
 
 ---

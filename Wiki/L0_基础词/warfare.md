@@ -135,10 +135,10 @@ war(战争) + fare(走，去，拉丁语 *far*，古英语 *faran*) → 战争�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "A million French soldiers had been killed in trench warfare." `[权威语料]`
-> - "Rebels have been warning of a turn to guerrilla warfare." `[权威语料]`
-> - "She called for an end to gang warfare and blasted crooks being freed to kill." `[权威语料]`
-> - "The stirring up of class warfare is tremendously unhelpful." `[权威语料]`
+> - A million French soldiers had been killed in trench warfare. `[例]`
+> - Rebels have been warning of a turn to guerrilla warfare. `[例]`
+> - She called for an end to gang warfare and blasted crooks being freed to kill. `[例]`
+> - The stirring up of class warfare is tremendously unhelpful. `[例]`
 
 
 ---

@@ -131,9 +131,15 @@ con-(共同/一起) + [[tempt-tent]](to stretch/拉伸) + (无后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Critics contend that the new policy will disproportionately affect low-income families. `[COCA-ACAD]`
-> - In today's competitive job market, young people must contend with numerous challenges in finding employment. `[COCA-ACAD]`
-> - Several teams are contending for the championship this season. `[例]`
+> - There are three world-class tennis players contending for this title. `[例]`
+>   - 中译：共有三名世界级网球运动员争夺这一头衔。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/contend
+> - He's contending against someone with twice his experience. `[例]`
+>   - 中译：他正在和一个经验是他两倍的人竞争。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/contend
+> - The lawyer contended (that) her client had never been near the scene of the crime. `[例]`
+>   - 中译：律师辩称，她的委托人从未靠近过犯罪现场。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/contend
 ---
 
 

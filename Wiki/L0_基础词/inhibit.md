@@ -135,10 +135,10 @@ in-(=in, 在……上面/里面) + hib(=habere, 持有/握住，拉丁语 *haber
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Lousy air links inhibit trade, exports and investment." `[真题]`
-> - "These compounds inhibit microbial growth." `[真题]`
-> - "Human skin is slightly acidic, which helps inhibit bacterial growth." `[COCA-ACAD]`
-> - "The new regulations may inhibit economic growth." `[COCA-NEWS]`
+> - Lousy air links inhibit trade, exports and investment. `[真题]`
+> - These compounds inhibit microbial growth. `[真题]`
+> - Human skin is slightly acidic, which helps inhibit bacterial growth. `[COCA-ACAD]`
+> - The new regulations may inhibit economic growth. `[COCA-NEWS]`
 
 
 ---

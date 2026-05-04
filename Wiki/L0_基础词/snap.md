@@ -141,7 +141,7 @@ snap 源自拟声词，模仿突然断裂或咬合时发出的清脆声响。可
 > [!example]- 语料
 > - Jackson snapped them on a late 19th-century expedition through the Yellowstone Basin that was conducted by the · head of the U. `[真题]`
 > - Some vandal's snapped off my car aerial again. `[例]`
-> - When she asked me to postpone my trip to help her move to her new house , I just snapped (= got angry ) . `[例]`
+> - When she asked me to postpone my trip to help her move to her new house , I just snapped (= got angry ). `[例]`
 
 
 ---

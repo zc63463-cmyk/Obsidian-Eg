@@ -139,7 +139,7 @@ inside 是一个复合词，由 **in-**（在...之中，来自 PIE *\*en*）+ *
 > - She made a film about what life was like inside the refugee camp. `[真题]`
 > - The job is unlikely to be finished inside a year. `[真题]`
 > - I needed someone with inside knowledge to back up my story. `[真题]`
-> - When we got to the window, we saw that there were already people inside. `[语料库]`
+> - When we got to the window, we saw that there were already people inside. `[例]`
 
 
 ---

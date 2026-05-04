@@ -116,9 +116,15 @@ suf-（sub- 在 f 前的同化：在下方）+ [[fac|fac]]（做）→ 做够了
 ## 真题/语料关联
 
 > [!example]- 语料
-> - I'm taking $400 - I think that should suffice. `[例]`
-> - The problems were of global importance , and only an international effort would suffice to deal with them. `[例]`
 > - Generally a brief note or a phone call will suffice. `[例]`
+>   - 中译：一般来说，一个简短的说明或一个电话就足够了。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/suffice
+> - One example will suffice to illustrate the point. `[例]`
+>   - 中译：有一个例子就足以说明这一点。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/suffice
+> - I won’t go into all the details. Suffice it to say that the whole event was a complete disaster. `[例]`
+>   - 中译：我不会详细介绍所有细节。可以说整个事件完全是一场灾难。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/suffice
 
 
 ---

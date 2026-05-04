@@ -137,7 +137,7 @@ review_count: 0
 > - He inspired many young people to take up the sport. `[真题]`
 > - The caves cannot but inspire wonder in the beholder. `[真题]`
 > - His driving hardly inspires confidence. `[真题]`
-> - Our challenge is to motivate those voters and inspire them to join our cause. `[语料库]`
+> - Our challenge is to motivate those voters and inspire them to join our cause. `[例]`
 
 
 ---

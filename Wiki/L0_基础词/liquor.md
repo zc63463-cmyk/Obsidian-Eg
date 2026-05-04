@@ -124,8 +124,8 @@ liquor（13世纪，源自古法语 *licour*，源自拉丁语 *liquor* "液体�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - He spent most of his money on liquor and drugs . `[例]`
-> - Count a drink as 12 ounces of regular beer , 5 ounces of wine or one shot of liquor or spirits . `[例]`
+> - He spent most of his money on liquor and drugs. `[例]`
+> - Count a drink as 12 ounces of regular beer , 5 ounces of wine or one shot of liquor or spirits. `[例]`
 > - Take the mixture off the heat once it has concentrated to a thin but aromatic liquor. `[例]`
 
 

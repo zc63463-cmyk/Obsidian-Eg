@@ -134,10 +134,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Fresh evidence has emerged that casts doubt on the men's conviction. ` [真题]`
-> - We need to take a fresh look at the problem rather than relying on old assumptions. ` [真题]`
-> - His book offers some fresh insights into the events leading up to the war. ` [真题]`
-> - The chef only uses fresh ingredients in her recipes to ensure the best quality. ` [语料]`
+> - The researchers proposed a fresh solution to the problem. `[例]`
+> - The company adopted a fresh approach to improve efficiency. `[例]`
+> - The plan offers a fresh option for small organizations. `[例]`
 
 
 ---

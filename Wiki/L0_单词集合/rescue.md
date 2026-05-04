@@ -121,9 +121,15 @@ re-(再次、回) + [[scu|scue]](shelter 保护、庇护) → 反复保护 → �
 ## 真题/语料关联
 
 > [!example]- 语料
-> - `[真题]` Rescue teams worked through the night to save survivors trapped under the rubble.
-> - `[COCA-ACAD]` The government has refused to rescue the company from bankruptcy.
-> - `[COCA-ACAD]` Six people were rescued by helicopter from a fishing boat in distress off the coast.
+> - The lifeboat rescued the sailors from the sinking boat. `[例]`
+>   - 中译：救生艇把正在下沉的船上的水手救了出来。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/rescue
+> - The government has refused to rescue the company from bankruptcy. `[例]`
+>   - 中译：政府拒绝将该公司从破产中拯救出来。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/rescue
+> - The management are putting together a plan to rescue the company. `[例]`
+>   - 中译：管理层正在制定一项拯救公司的计划。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/rescue
 
 ---
 

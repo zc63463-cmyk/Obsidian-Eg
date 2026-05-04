@@ -126,9 +126,15 @@ re-(回/再) + sili(跳) + -ent(形容词后缀，表"……的")
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The US economy remains amazingly resilient." `[COCA-ACAD]`
-> - "The exercise had helped make the company resilient to bad luck." `[COCA-ACAD]`
-> - "It is not necessarily that the resilient person does not experience stress, but rather how they deal with it." `[COCA-ACAD]`
+> - She's a resilient girl - she won't be unhappy for long. `[例]`
+>   - 中译：她是一个有韧性的女孩——她不会不快乐太久的。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/resilient
+> - Optimists argue that the economy may prove more resilient. `[例]`
+>   - 中译：乐观者认为经济可能更具弹性。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/resilient
+> - This rubber ball is very resilient and immediately springs back into shape. `[例]`
+>   - 中译：这个橡胶球非常有​​弹性，可以立即弹回原状。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/resilient
 
 
 ---

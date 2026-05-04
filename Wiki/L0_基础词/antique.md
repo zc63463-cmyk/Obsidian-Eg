@@ -124,9 +124,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - You can't give away Granny's old bookcase - it's a valuable antique. `[例]`
-> - My mother collects antiques. `[例]`
-> - Fry owns an antique shop and art gallery in York Harbor, Maine. `[例]`
+> - That car is an antique. `[例]`
+>   - 中译：那辆车是古董。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/antique
+> - His ventriloquist doll is antique , too. `[例]`
+>   - 中译：他的口技娃娃也很古董。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/antique
+> - Oil Landscapes Few things add warmth and a bit of history to a space the way that an antique oil painting does, and that’s exactly why Mississippi designer Melanie Bryant searches for them. `[例]`
+>   - 中译：油画风景很少有东西能像古董油画那样为空间增添温暖和历史感，这正是密西西比州设计师 Melanie Bryant 寻找它们的原因。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/antique
 
 
 ---

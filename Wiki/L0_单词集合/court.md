@@ -131,9 +131,15 @@ court（源自拉丁语 *cohors*，"围合的场地"，*co-* = 共同 + *hors* =
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Protestors gathered outside the court to await the verdict . `[例]`
-> - He's due to appear in court again on Monday . `[例]`
-> - The European Court of Human Rights. `[例]`
+> - Protestors gathered outside the court to await the verdict. `[例]`
+>   - 中译：抗议者聚集在法庭外等待判决。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/court
+> - He's due to appear in court again on Monday. `[例]`
+>   - 中译：他将于周一再次出庭。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/court
+> - The lack of evidence means that the case is unlikely to go to court. `[例]`
+>   - 中译：缺乏证据意味着此案不太可能上法庭。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/court
 
 ---
 

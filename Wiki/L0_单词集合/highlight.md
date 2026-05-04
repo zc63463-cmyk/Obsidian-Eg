@@ -127,7 +127,15 @@ high(高/亮) + [[light]](光) → highlight
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The study highlights the growing gap between rich and poor in urban areas.（这项研究突出了城市地区贫富差距日益扩大的问题。）
+> - The report highlights the need for improved safety. `[例]`
+>   - 中译：该报告强调了提高安全性的必要性。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/highlight
+> - The spelling mistakes in the text had been highlighted in green. `[例]`
+>   - 中译：文本中的拼写错误已以绿色突出显示。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/highlight
+> - The Republicans were quick to highlight the Democrats' proposed tax increases in their campaign literature. `[例]`
+>   - 中译：共和党人很快在竞选文献中强调了民主党提出的增税建议。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/highlight
 
 ---
 

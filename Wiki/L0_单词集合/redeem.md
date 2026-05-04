@@ -127,10 +127,15 @@ re-(重新/回) + [[em|emere]](买/获取，拉丁语) → 重新买回
 ## 真题/语料关联
 
 > [!example]- 语料
-> - He worked tirelessly to redeem his reputation after the scandal. `[真题]`
-> - The amount required to redeem the mortgage was far greater than they had anticipated. `[COCA-ACAD]`
-> - This voucher can be redeemed for a free meal at several local restaurants. `[COCA-ACAD]`
-> - Jesus is said to have redeemed mankind by taking our sins upon himself. `[COCA-ACAD]`
+> - A poor game was redeemed in the second half by a superb performance from Anthony Edwards. `[例]`
+>   - 中译：下半场安东尼·爱德华兹的出色表现弥补了一场糟糕的比赛。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/redeem
+> - He was an hour late, but he redeemed him self in her eyes by giving her a huge bunch of flowers. `[例]`
+>   - 中译：他迟到了一个小时，但他送了她一大束鲜花，在她眼中挽回了自己。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/redeem
+> - She took me to see a really dull film , the only redeeming feature of which (= the only thing which prevented it from being completely bad ) was the soundtrack. `[例]`
+>   - 中译：她带我去看了一部非常乏味的电影，其中唯一可取之处（=唯一阻止它变得完全糟糕的东西）是配乐。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/redeem
 
 ---
 

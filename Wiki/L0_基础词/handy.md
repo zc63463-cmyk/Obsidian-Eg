@@ -126,8 +126,8 @@ handy = hand（手）+ -y（形容词后缀，表示"具有……特征的"）�
 
 > [!example]- 语料
 > - First-time visitors to France will find this guide particularly handy. `[例]`
-> - The shed has a shelf that is handy for storing small items . `[例]`
-> - It's a nice house and it's handy for (= near) the train station . `[例]`
+> - The shed has a shelf that is handy for storing small items. `[例]`
+> - It's a nice house and it's handy for (= near) the train station. `[例]`
 
 
 ---

@@ -138,9 +138,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "People ran for the exits, screaming out in terror." `[真题]`
-> - "Through the smoke, the rescuers could hear people screaming for help." `[真题]`
-> - "When he woke in the night he would scream in terror and beg his parents to let him sleep in their room." `[语料库]`
+> - People ran for the exits, screaming out in terror. `[真题]`
+> - Through the smoke, the rescuers could hear people screaming for help. `[真题]`
+> - When he woke in the night he would scream in terror and beg his parents to let him sleep in their room. `[例]`
 
 
 ---

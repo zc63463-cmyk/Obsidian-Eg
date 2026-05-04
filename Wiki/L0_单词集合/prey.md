@@ -133,8 +133,14 @@ review_count: 0
 
 > [!example]- 语料
 > - A hawk hovered in the air before swooping on its prey. `[例]`
-> - The prey had been sighted . `[例]`
-> - Children are seen as easy prey for this type of advertising . `[例]`
+>   - 中译：一只鹰在空中盘旋，然后猛扑向猎物。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/prey
+> - The prey had been sighted. `[例]`
+>   - 中译：猎物已经被发现。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/prey
+> - Children are seen as easy prey for this type of advertising. `[例]`
+>   - 中译：儿童很容易成为此类广告的牺牲品。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/prey
 ---
 
 

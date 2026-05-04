@@ -133,10 +133,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The lecture was so dull that half the students fell asleep." `[真题]`
-> - "She complained of a dull ache in her lower back." `[真题]`
-> - "I heard a dull thud from the kitchen and realized she must have fainted." `[真题]`
-> - "Lack of sleep will dull your reflexes." `[真题]`
+> - The lecture was so dull that half the students fell asleep. `[真题]`
+> - She complained of a dull ache in her lower back. `[真题]`
+> - I heard a dull thud from the kitchen and realized she must have fainted. `[真题]`
+> - Lack of sleep will dull your reflexes. `[真题]`
 
 
 ---

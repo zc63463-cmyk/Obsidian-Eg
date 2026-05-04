@@ -120,7 +120,9 @@ gross(大量的/批发，源自古法语 *grossier* "批发商") + -er(人，做
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The local grocer has been serving the community for over 30 years.（当地杂货商已经为社区服务了30多年——考研阅读常见场景）
+> - The UK's fourth biggest grocer operates 13 distribution centres. `[例]`
+> - She is a grocer in a small town. `[例]`
+> - Ask your local grocer if he sells organic fruits and vegetables. `[例]`
 
 
 ---

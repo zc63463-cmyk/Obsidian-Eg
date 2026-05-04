@@ -128,10 +128,10 @@ in-(=in, 向内) + hale(=halare, 呼吸，拉丁语 *halare*)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "When people inhale polluted air, the harmful substances can enter their bloodstream and cause serious health problems." `[真题]`
-> - "The study found that children who inhale secondhand smoke are more likely to develop respiratory diseases." `[真题]`
-> - "He took a long slow breath, inhaling deeply." `[COCA-FICT]`
-> - "He was treated for the effects of inhaling smoke." `[BNC-SPOKEN]`
+> - When people inhale polluted air, the harmful substances can enter their bloodstream and cause serious health problems. `[真题]`
+> - The study found that children who inhale secondhand smoke are more likely to develop respiratory diseases. `[真题]`
+> - He took a long slow breath, inhaling deeply. `[COCA-FICT]`
+> - He was treated for the effects of inhaling smoke. `[BNC-SPOKEN]`
 
 
 ---

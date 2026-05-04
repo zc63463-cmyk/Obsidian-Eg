@@ -131,9 +131,15 @@ trans-(跨越) + [[port]](携带、运送)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The transport of live animals. `[例]`
-> - The company will arrange transport from the airport . `[例]`
-> - Passenger organizations yesterday called for greater investment in public transport (= buses , trains , etc. available for everyone to use) . `[例]`
+> - The region has good transport links. `[例]`
+>   - 中译：该地区交通便利。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/transport
+> - We need a reliable transport network. `[例]`
+>   - 中译：我们需要一个可靠的运输网络。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/transport
+> - Modern transport systems have been a severe threat to the environment. `[例]`
+>   - 中译：现代交通系统对环境造成了严重威胁。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/transport
 
 ---
 

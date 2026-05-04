@@ -129,8 +129,15 @@ ex-(出) + empli(拿取) + -fy(使动后缀) = exemplify（拿出来作为例子
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The company's success exemplifies the power of innovation and perseverance in business."（这家公司的成功体现了创新和毅力在商业中的力量。）——考研高频表达
-> - "This case exemplifies the challenges that small businesses face in competing with large corporations."（这个案例体现了小企业在与大型企业竞争时所面临的挑战。）——考研高频表达
+> - This painting perfectly exemplifies the naturalistic style which was so popular at the time. `[例]`
+>   - 中译：这幅画完美地体现了当时流行的自然主义风格。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/exemplify
+> - American fashion is exemplified by jeans and T-shirts. `[例]`
+>   - 中译：美国时尚的代表是牛仔裤和 T 恤。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/exemplify
+> - Her early work is exemplified in her book, ‘A Study of Children's Minds’. `[例]`
+>   - 中译：她的早期作品在她的书《儿童心灵研究》中得到了例证。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/exemplify
 ---
 
 

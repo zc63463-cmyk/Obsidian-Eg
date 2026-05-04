@@ -125,8 +125,15 @@ how（方式）+ ever（曾经/无论）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "However, there is an important difference between the two approaches to the problem."（然而，解决这个问题的两种方法之间存在重要差异。）——考研高频表达
-> - "However hard he tried, he could not convince the committee to change its decision."（无论他多么努力，都无法说服委员会改变决定。）——考研高频表达
+> - However D. stock up on D. implied D. although D. series Read the following four texts. `[真题]`
+>   - 中译：然而 D. 储备 D. 暗示 D. 虽然 D. 系列 阅读以下四篇文章。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - However, short-term rentals also provide housing for tourists, pointed out Ryan Castle, CEO of a local association of realtor. `[真题]`
+>   - 中译：然而，当地房地产经纪人协会首席执行官瑞安·卡斯尔指出，短期租赁也为游客提供了住房。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - However hungry I am, I never seem to be able to finish off a whole pizza. `[例]`
+>   - 中译：不管我有多饿，我似乎永远都吃不完整个披萨。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/however
 ---
 
 

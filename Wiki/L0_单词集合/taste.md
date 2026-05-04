@@ -142,10 +142,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Olives are usually an acquired taste (= you only like them after you have become familiar with their taste) . `[例]`
-> - When you have a cold you often lose your sense of taste. `[例]`
-> - She came home from Europe with a taste for art and the finer things in life . `[例]`
-> - Have a taste of the sauce and tell me if it needs salt . `[例]`
+> - I don't like the taste of olives. `[例]`
+>   - 中译：我不喜欢橄榄的味道。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/taste
+> - This dish has an unusual combination of tastes and textures. `[例]`
+>   - 中译：这道菜具有不同寻常的口味和质地组合。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/taste
+> - The soup has very little taste. `[例]`
+>   - 中译：汤的味道很少。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/taste
 
 ---
 

@@ -131,9 +131,9 @@ use(使用) + -ful(形容词后缀，充满……的)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - A good knife is probably one of the most useful things you can have in a kitchen . `[例]`
-> - Do the exercises serve any useful purpose ? `[例]`
-> - Computers have a useful life of only about 3 years before they're outmoded . `[例]`
+> - A good knife is probably one of the most useful things you can have in a kitchen. `[例]`
+> - Do the exercises serve any useful purpose? `[例]`
+> - Computers have a useful life of only about 3 years before they're outmoded. `[例]`
 
 
 ---

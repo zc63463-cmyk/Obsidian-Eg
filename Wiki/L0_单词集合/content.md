@@ -131,9 +131,15 @@ con-(共同/一起) + [[tempt-tent]](to hold/持有) + (无后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The content of the course has been updated to reflect the latest developments in the field. `[COCA-ACAD]`
-> - Many people are not content with their current jobs and are actively seeking better opportunities. `[COCA-ACAD]`
-> - She is content to live a quiet life in the countryside. `[例]`
+> - In some instances, there is absolutely no relationship between the content of the article and the citations. `[真题]`
+>   - 中译：在某些情况下，文章内容和引用之间完全没有关系。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - For example, AI can be used to analyse what type of advertising content or copy would be appropriate to 'speak' to a specific target customer group by revealing information about trends and preferences through the analysis of big data. ( 46) AI can also be used to identify the lifestyle choices of customers regarding their hobbies, favourite celebrities, music choices, and fashions to provide unique content in marketing messages put out through social media. `[真题]`
+>   - 中译：例如，人工智能可以通过大数据分析揭示有关趋势和偏好的信息，从而分析哪种类型的广告内容或文案适合与特定目标客户群“对话”。 ( 46) 人工智能还可以用于识别客户的生活方式选择，包括他们的爱好、最喜欢的名人、音乐选择和时尚，以便在通过社交媒体发布的营销信息中提供独特的内容。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - At the same time AI can also be used to generate content for social media posts and chat sites. `[真题]`
+>   - 中译：同时，人工智能还可以用于为社交媒体帖子和聊天网站生成内容。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
 ---
 
 

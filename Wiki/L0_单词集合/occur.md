@@ -133,10 +133,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - An accident involving over ten vehicles has occurred in the east-bound lane . `[例]`
-> - If any of these symptoms occur while you are taking the medication , consult your doctor immediately . `[例]`
-> - Violence of some type seems to occur in every society . `[例]`
-> - Minerals occur naturally in the earth's crust . `[例]`
+> - An accident involving over ten vehicles has occurred in the east-bound lane. `[例]`
+>   - 中译：东行车道发生一起涉及十多辆车的事故。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/occur
+> - If any of these symptoms occur while you are taking the medication , consult your doctor immediately. `[例]`
+>   - 中译：如果您在服药期间出现任何这些症状，请立即咨询您的医生。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/occur
+> - Many suicides occur in prisons. `[例]`
+>   - 中译：许多自杀事件发生在监狱中。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/occur
 
 ---
 

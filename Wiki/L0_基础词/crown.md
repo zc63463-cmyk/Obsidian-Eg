@@ -133,9 +133,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - He plans to defend his Olympic crown. `[例]`
-> - A pink ribbon had been tied around the crown of the hat . `[例]`
-> - Supermarkets have seen a strong increase in demand for turkey crowns this Christmas . `[例]`
+> - The crown was placed upon the new monarch's head. `[例]`
+>   - 中译：王冠被戴在新君主的头上。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/crown
+> - Who's appearing for the Crown (= bringing a criminal charge against somebody on behalf of the state) in this case? `[例]`
+>   - 中译：在本案中，谁代表皇家出庭（=代表国家对某人提出刑事指控）？
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/crown
+> - She refused the crown (= refused to become queen). `[例]`
+>   - 中译：她拒绝加冕（=拒绝成为女王）。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/crown
 
 
 ---

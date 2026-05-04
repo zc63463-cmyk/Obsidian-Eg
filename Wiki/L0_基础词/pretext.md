@@ -123,9 +123,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The border dispute was used as a pretext for military intervention . `[例]`
-> - I called her on the pretext of need ing more information . `[例]`
-> - He called her on the pretext of needing help with his homework . `[例]`
+> - The border dispute was used as a pretext for military intervention. `[例]`
+> - I called her on the pretext of need ing more information. `[例]`
+> - He called her on the pretext of needing help with his homework. `[例]`
 
 
 ---

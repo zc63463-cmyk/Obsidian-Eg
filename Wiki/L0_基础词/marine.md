@@ -137,7 +137,7 @@ review_count: 0
 
 > [!example]- 语料
 > - The marine ecosystem is vital for maintaining the balance of our planet's environment. `[真题]`
-> - The attacks on shipping have disrupted one of the busiest maritime routes in the world, forcing many vessels to avoid the area. `[真题]`
+> - The company adopted a marine approach to improve efficiency. `[真题]`
 > - Coral reefs, built by tiny coral polyps, form complex ecosystems that harbor a staggering diversity of marine life. `[真题]`
 
 

@@ -127,10 +127,15 @@ li(源自lig，捆绑) + -able(可被…的) + -ity(名词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The company's liabilities exceeded its assets, forcing it into bankruptcy." `[COCA-ACAD]`
-> - "Our warranty clearly states the limits of our liability." `[COCA-ACAD]`
-> - "The debate on immigration is proving to be something of a liability for the Prime Minister." `[COCA-NEWS]`
-> - "The company is reported to have liabilities of nearly $90,000." `[COCA-NEWS]`
+> - He denies any liability for the damage caused. `[例]`
+>   - 中译：他否认对造成的损害承担任何责任。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/liability
+> - The business has liabilities of 2 million euros. `[例]`
+>   - 中译：该企业负债200万欧元。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/liability
+> - Our warranty clearly states the limits of our liability. `[例]`
+>   - 中译：我们的保修明确规定了我们的责任限制。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/liability
 
 ---
 

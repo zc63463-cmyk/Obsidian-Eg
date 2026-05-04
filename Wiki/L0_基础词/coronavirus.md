@@ -124,9 +124,15 @@ corona(=crown, 皇冠，拉丁语 *corona*) + virus(病毒，拉丁语 *virus* �
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Over 13.64 billion COVID-19 vaccine doses had been administered by the end of 2024. `[真题]`
-> - WHO continues to recommend COVID-19 vaccination using a risk-based approach. `[真题]`
-> - The coronavirus pandemic has disrupted global supply chains and economies worldwide. `[真题]`
+> - Precautions were taken to try to limit the spread of coronavirus. `[例]`
+>   - 中译：人们采取了预防措施来限制冠状病毒的传播。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/coronavirus
+> - Legislators from both parties have pushed for even more resources for an industry severely harmed by the coronavirus pandemic. `[例]`
+>   - 中译：两党立法者都在推动为受冠状病毒大流行严重损害的行业提供更多资源。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/coronavirus
+> - That changed in 2020, when the coronavirus pandemic forced people inside and online, leading to a spike in streaming viewership — and a concurrent rise in discussion on Letterboxd. `[例]`
+>   - 中译：这种情况在 2020 年发生了变化，当时冠状病毒大流行迫使人们呆在室内和上网，导致流媒体收视率激增，同时 Letterboxd 上的讨论也随之增加。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/coronavirus
 
 
 ---

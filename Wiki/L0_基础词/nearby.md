@@ -128,9 +128,9 @@ near（近的）+ by（在……旁边）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - If there's a café nearby, we could stop for a snack . `[例]`
+> - If there's a café nearby, we could stop for a snack. `[例]`
 > - I noticed a policeman standing nearby. `[例]`
-> - We stopped at some nearby shops to buy some food . `[例]`
+> - We stopped at some nearby shops to buy some food. `[例]`
 
 
 ---

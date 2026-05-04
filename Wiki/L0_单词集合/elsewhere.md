@@ -123,10 +123,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "They couldn't find what they wanted and decided to look elsewhere." `[COCA-ACAD]`
-> - "Its population has dropped by 400,000 as youngsters seek jobs and university places elsewhere." `[COCA-NEWS]`
-> - "Across the country, Trump's call for protest was met with small crowds in New York City and elsewhere." `[COCA-NEWS]`
-> - "If we don't give good service, people will take their custom elsewhere." `[COCA-ACAD]`
+> - Among the 10 worst performers were some of the most populous states, including Texas , which was given the lowest grade ( F) and has a disproportionate influence because its textbooks are widely sold elsewhere. `[真题]`
+>   - 中译：表现最差的 10 个州是一些人口最多的州，其中包括得克萨斯州，该州的评分最低（F），并且由于其教科书在其他地方广泛销售而具有不成比例的影响力。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - The report looks at economic growth in Europe and elsewhere. `[例]`
+>   - 中译：该报告着眼于欧洲和其他地区的经济增长。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/elsewhere
+> - They couldn't find what they wanted and decided to look elsewhere. `[例]`
+>   - 中译：他们找不到自己想要的东西，于是决定到别处寻找。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/elsewhere
 
 ---
 

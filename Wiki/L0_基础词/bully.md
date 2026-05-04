@@ -128,9 +128,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Bully dogs are all descendants from the same type of dog . `[例]`
-> - A Staffordshire Bull Terrier is one of the smaller of the recognized bully breeds . `[例]`
-> - Klein won the bully at the start of the game and the Eagles scored the first goal within two minutes . `[例]`
+> - He bullied his younger brothers. `[例]`
+>   - 中译：他欺负他的弟弟们。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/bully
+> - Mike is protective of Eleven; Lucas and Max have sweet (then-platonic) chemistry; Dustin hangs out with reformed bully Steve Harrington (Jeremy Jordan, stepping in for Joe Keery). `[例]`
+>   - 中译：迈克保护十一；卢卡斯和马克斯有着甜蜜的（当时柏拉图式的）化学反应；达斯汀和改过自新的恶霸史蒂夫·哈灵顿（杰里米·乔丹，代替乔·基里饰演）一起出去玩。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/bully
+> - With elections around the corner, reframing Trump as a victim, rather than a bully , will do little to save the United States from its current political free fall. `[例]`
+>   - 中译：随着选举在即，将特朗普重新定位为受害者而不是恶霸，对于拯救美国目前的政治自由落体无济于事。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/bully
 
 
 ---

@@ -137,9 +137,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - There's a mirror above the sink . `[例]`
-> - He waved the letter excitedly above his head . `[例]`
-> - She's rented a room above a shop . `[例]`
+> - The water came above our knees. `[例]`
+>   - 中译：水没过我们的膝盖。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/above
+> - We were flying above the clouds. `[例]`
+>   - 中译：我们正飞翔在云层之上。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/above
+> - A captain in the navy ranks above a captain in the army. `[例]`
+>   - 中译：海军上尉的军衔高于陆军上尉。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/above
 
 
 ---

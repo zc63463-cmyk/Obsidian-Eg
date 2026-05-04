@@ -141,8 +141,8 @@ harbor（中古英语 *herberwe*，意为"住所、庇护所"，源自古英语 
 ## 真题/语料关联
 
 > [!example]- 语料
-> - He harbored the suspicion that someone in the agency was spying for the enemy . `[例]`
-> - They were accused of harboring a fugitive . `[例]`
+> - He harbored the suspicion that someone in the agency was spying for the enemy. `[例]`
+> - They were accused of harboring a fugitive. `[例]`
 > - The tanker stayed in Boston harbor three days to undergo repairs. `[例]`
 
 

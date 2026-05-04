@@ -134,9 +134,15 @@ all（全部）+ -ong（长的，与 long 同源）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Choose the best word ( s) for each numbered blank and mark A, B , C or D on th� ANSWER SHEET. ( 10 points) Caravanserais were roadside inns that were built along the Silk Road in areas including China, North Africa and the Middle East. `[真题]`
-> - Caravanserais were also an important marketplace for commodities and _!Lin the trade of goods along the Silk Road. `[真题]`
-> - It is 18 that around 12,000 to 15,000 caravanserais were built along the Silk Road, _ __!2_ only about 3 , 000 are known to remain today , many of which are in _1Q__. `[真题]`
+> - They walked slowly along the road. `[例]`
+>   - 中译：他们沿着路慢慢地走着。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/along
+> - I looked along the shelves for the book I needed. `[例]`
+>   - 中译：我沿着书架寻找我需要的书。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/along
+> - Houses had been built along both sides of the river. `[例]`
+>   - 中译：河两岸都建起了房屋。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/along
 
 
 ---

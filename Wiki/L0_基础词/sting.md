@@ -132,8 +132,8 @@ sting 源自古英语 *stingan*（刺），与 [[stim-sting]]（刺、刺激）�
 
 > [!example]- 语料
 > - Do all types of bee sting? `[例]`
-> - This type of disinfectant doesn't sting, even if you put it on a fresh cut . `[例]`
-> - She managed to give a stinging reply (= an angry answer intended to upset ) , before slamming down the phone . `[例]`
+> - This type of disinfectant doesn't sting, even if you put it on a fresh cut. `[例]`
+> - She managed to give a stinging reply (= an angry answer intended to upset ) , before slamming down the phone. `[例]`
 
 
 ---

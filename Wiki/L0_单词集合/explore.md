@@ -127,8 +127,15 @@ ex-(出/外) + [[plor|plor]](呼喊/哭泣) → 出去大声呼喊寻找 → 探
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He explores such problems consciously, articulately, and frankly, first by asking factual questions, then by asking moral questions, finally by suggesting action which seems appropriate in the light of the factual and moral information which he has obtained."（他有意识地、清晰地、坦率地探索这些问题，首先通过提出事实性问题，然后通过提出道德问题，最后通过根据他所获得的事实和道德信息提出适当的行动建议——2006年考研翻译）
-> - "The researchers are exploring new ways to treat cancer using gene therapy."（研究人员正在探索利用基因疗法治疗癌症的新方法——考研高频表达）
+> - The best way to explore the countryside is on foot. `[例]`
+>   - 中译：探索乡村的最佳方式是步行。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/explore
+> - Robots, rather than astronauts , explore space now. `[例]`
+>   - 中译：现在探索太空的是机器人，而不是宇航员。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/explore
+> - The children have gone exploring in the woods. `[例]`
+>   - 中译：孩子们去树林里探险了。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/explore
 
 
 ---

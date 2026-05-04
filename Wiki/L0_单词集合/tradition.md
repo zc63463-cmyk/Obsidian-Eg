@@ -132,9 +132,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Fireworks have long been an American tradition on the Fourth of July . `[例]`
-> - Switzerland has a long tradition of neutrality . `[例]`
-> - There's a tradition in our office that when it's somebody's birthday , they bring in a cake for all of us to share . `[例]`
+> - This region is steeped in tradition. `[例]`
+>   - 中译：这个地区有着悠久的传统。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/tradition
+> - The company has a long tradition of fine design. `[例]`
+>   - 中译：该公司有着悠久的精细设计传统。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/tradition
+> - The company has continued its tradition of innovation. `[例]`
+>   - 中译：公司延续了创新的传统。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/tradition
 
 ---
 

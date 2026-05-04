@@ -125,7 +125,7 @@ hypo-(在下面，希腊语 *hypo*) + thesis(放置/论点，希腊语 *thesis*�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Evidence supports their hypothesis that a long-term relationship built on trust and obligation between a buyer and a sub-contractor leads to prompt delivery and better cooperation . `[例]`
+> - Evidence supports their hypothesis that a long-term relationship built on trust and obligation between a buyer and a sub-contractor leads to prompt delivery and better cooperation. `[例]`
 > - A hypothesis about the function of dreams. `[例]`
 > - It would be pointless to engage in hypothesis before we have the facts. `[例]`
 

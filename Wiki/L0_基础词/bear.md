@@ -136,10 +136,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The developing countries bear the burden of an enormous external debt." `[COCA-ACAD]`
-> - "The strain must have been enormous but she bore it well." `[COCA-FIC]`
-> - "Airlines have to bear the costs of the price rise, while the poor old consumer has to bear the burden of rising petrol prices." `[COCA-NEWS]`
-> - "You have to bear in mind, however, that these things go in cycles." `[COCA-NEWS]`
+> - The pain was almost more than he could bear. `[例]`
+>   - 中译：疼痛几乎超出了他的承受能力。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bear
+> - She couldn't bear the thought of losing him. `[例]`
+>   - 中译：她无法忍受失去他的念头。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bear
+> - I can't bear having cats in the house. `[例]`
+>   - 中译：我无法忍受家里养猫。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bear
 
 
 ---

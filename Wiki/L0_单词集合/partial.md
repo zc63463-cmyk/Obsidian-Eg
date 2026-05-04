@@ -133,10 +133,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The judge was accused of being partial towards the defendant." `` `[COCA-NEWS]` ``
-> - "We have only achieved a partial success." `` `[COCA-ACAD]` ``
-> - "I'm not partial to mushrooms." `` `[COCA-MAG]` ``
-> - "The patient made a partial recovery after the surgery." `` `[COCA-ACAD]` ``
+> - The general has ordered a partial withdrawal of troops from the area. `[例]`
+>   - 中译：将军已下令从该地区撤出部分部队。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/partial
+> - On Wednesday there will be a partial eclipse of the sun. `[例]`
+>   - 中译：周三将出现日偏食。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/partial
+> - There has been a partial withdrawal from enemy territory. `[例]`
+>   - 中译：部分部队已从敌方领土撤出。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/partial
 
 ---
 

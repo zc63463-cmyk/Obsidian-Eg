@@ -127,7 +127,7 @@ ex-(出、向外) + cite(唤起、引起，拉丁语 *citare*) + -ment(名词后
 
 > [!example]- 语料
 > - Robin's heart was pounding with excitement. `[例]`
-> - If you want excitement, you should try parachuting . `[例]`
+> - If you want excitement, you should try parachuting. `[例]`
 > - The excitements of the previous day. `[例]`
 
 

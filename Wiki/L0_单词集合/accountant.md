@@ -121,8 +121,15 @@ ac-(=ad-，向) + count(=computare，计算) + -ant(名词后缀，表示人)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The company hired a professional **accountant** to manage its finances.（公司聘请了一位专业会计师来管理财务。）
-> - A good **accountant** can help businesses minimize their tax liabilities legally.（一位优秀的会计师能帮助企业合法地最小化税务负担。）
+> - Any accountant worth their salt should be aware of the latest changes in taxation. `[例]`
+>   - 中译：任何称职的会计师都应该了解税收的最新变化。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/accountant
+> - His accountant had aided and abetted him in the fraud. `[例]`
+>   - 中译：他的会计师协助并教唆了他的欺诈行为。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/accountant
+> - The upper middle class tend to go into business or the professions , becoming , for example , lawyers , doctors or accountants. `[例]`
+>   - 中译：中上层阶级倾向于从事商业或职业，例如成为律师、医生或会计师。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/accountant
 
 ---
 

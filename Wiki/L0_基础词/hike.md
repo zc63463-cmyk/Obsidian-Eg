@@ -129,9 +129,9 @@ hike 词源不确定，可能源自英语方言 *hike*（用力拉、拽），�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The recent hike in train fares came as a shock to commuters . `[例]`
+> - The recent hike in train fares came as a shock to commuters. `[例]`
 > - We're going hiking in the Sierra Nevada. `[例]`
-> - The Royal Mail has announced it is hiking the price of a stamp . `[例]`
+> - The Royal Mail has announced it is hiking the price of a stamp. `[例]`
 
 
 ---

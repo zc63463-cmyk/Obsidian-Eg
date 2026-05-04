@@ -144,10 +144,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - We've made huge savings this year with our staffing budget. `[COCA-NEWS]`
-> - They were able to retire on their savings. `[COCA-NEWS]`
-> - At 270 pounds, this represents a significant saving on the usual charge. `[COCA-NEWS]`
-> - His sense of humor was his saving grace. `[COCA-FIC]`
+> - He spent all his savings on an expensive car. `[例]`
+>   - 中译：他花光了所有积蓄买了一辆昂贵的汽车。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/saving
+> - We've made huge savings this year with our staffing budget. `[例]`
+>   - 中译：今年我们在人员预算方面节省了大量资金。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/saving
+> - I'm sure there are other areas where we could make savings. `[例]`
+>   - 中译：我确信我们还有其他方面可以节省开支。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/saving
 
 ---
 

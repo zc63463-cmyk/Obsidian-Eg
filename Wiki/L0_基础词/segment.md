@@ -132,9 +132,9 @@ seg(=sect，切，拉丁语 *secare*，"切割"，与 [[section]]/[[sector]]/[[s
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Rarely do members of a particular market segment group themselves neatly into a meaningful program target." `[真题]`
-> - "It is in no one's interest to keep a large segment of the population on the margins of society." `[真题]`
-> - "This is a specific segment of the traditional market, and is not in competition with the grape wine market." `[真题]`
+> - Rarely do members of a particular market segment group themselves neatly into a meaningful program target. `[真题]`
+> - It is in no one's interest to keep a large segment of the population on the margins of society. `[真题]`
+> - This is a specific segment of the traditional market, and is not in competition with the grape wine market. `[真题]`
 
 
 ---

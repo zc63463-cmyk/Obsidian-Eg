@@ -124,8 +124,15 @@ hoist 为日耳曼语源词，与 [[hold]](握住) 同源，强调"握住并向�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The sailors hoisted the flag at dawn as part of the daily ceremony."（水手们在黎明时升旗，作为日常仪式的一部分。）——考研高频表达
-> - "The rescue team hoisted the survivors to safety using a helicopter."（救援队用直升机将幸存者吊升到安全地带。）——考研高频表达
+> - A helicopter hoisted the final section of the bridge into place. `[例]`
+>   - 中译：一架直升机将桥梁的最后一段吊装到位。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/hoist
+> - With some difficulty he hoisted her onto his shoulders. `[例]`
+>   - 中译：他费了好大劲才把她扛到肩上。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/hoist
+> - I scrabbled for a handhold and hoisted my self up. `[例]`
+>   - 中译：我摸索着找到一个把手，然后把自己举了起来。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/hoist
 
 ---
 

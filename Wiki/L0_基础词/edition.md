@@ -130,9 +130,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The first edition of Darwin's On the Origin of Species was published in 1859 and sold out on the very first day. `[语料库]`
-> - A special edition will be issued to tie in with the film's release. `[语料库]`
-> - Most of her books remain in print and a new edition of her poetry was published last year. `[语料库]`
+> - The first edition of Darwin's On the Origin of Species was published in 1859 and sold out on the very first day. `[例]`
+> - A special edition will be issued to tie in with the film's release. `[例]`
+> - Most of her books remain in print and a new edition of her poetry was published last year. `[例]`
 
 
 ---

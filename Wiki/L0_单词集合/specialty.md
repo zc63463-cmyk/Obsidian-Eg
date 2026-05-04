@@ -128,9 +128,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Oysters are a local specialty of the area . `[例]`
-> - Paella is a specialty of the house (= a food that is unusually good in a particular restaurant ) . `[例]`
-> - His specialty is tax law . `[例]`
+> - Her specialty is taxation law. `[例]`
+>   - 中译：她的专长是税法。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/specialty
+> - Doctors training for general practice must complete programmes in a number of specialties, including paediatrics. `[例]`
+>   - 中译：接受全科培训的医生必须完成多个专科项目的训练，其中包括儿科。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/specialty
+> - Telling jokes is my specialty! `[例]`
+>   - 中译：讲笑话是我的拿手本领！
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/specialty
 
 ---
 

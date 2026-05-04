@@ -128,8 +128,15 @@ pre-(在前面) + em(拿、取) + -ium(名词后缀，表"物")
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Consumers are willing to pay a premium for organic food products that are perceived as healthier."（消费者愿意为被认为更健康的有机食品支付溢价。）——考研高频表达
-> - "In a competitive job market, employers place a premium on candidates with strong communication skills."（在竞争激烈的就业市场中，雇主高度重视具有较强沟通能力的候选人。）——考研高频表达
+> - We're willing to pay a premium for the best location. `[例]`
+>   - 中译：我们愿意为最好的位置支付溢价。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/premium
+> - Because of their location , these offices attract a premium. `[例]`
+>   - 中译：由于其地理位置，这些办公室吸引了溢价。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/premium
+> - The modified cars are available at a premium of five percent over the original price. `[例]`
+>   - 中译：改装车的售价比原价高出百分之五。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/premium
 ---
 
 

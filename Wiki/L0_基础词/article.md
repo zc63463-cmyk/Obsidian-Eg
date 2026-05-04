@@ -128,10 +128,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - An article of clothing was found near the river. `[COCA-NEWS]`
-> - Guests are advised not to leave any articles of value in their hotel rooms. `[COCA-FIC]`
-> - I read an interesting article on climate change in the newspaper. `[COCA-SPOKEN]`
-> - According to Article 5 of the agreement, both parties must maintain confidentiality. `[COCA-ACAD]`
+> - Her comment follows an article posted online by the ‘Huffington Post’. `[例]`
+>   - 中译：她的评论是在《赫芬顿邮报》在线发布的一篇文章之后发表的。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/article
+> - I read an interesting article by a well-known scientist on the subject of genetics. `[例]`
+>   - 中译：我读了一位著名科学家关于遗传学主题的有趣文章。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/article
+> - Have you seen that article about young fashion designers? `[例]`
+>   - 中译：你看过那篇关于年轻时装设计师的文章吗？
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/article
 
 
 ---

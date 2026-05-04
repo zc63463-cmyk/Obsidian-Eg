@@ -131,10 +131,15 @@ bar(r)-（棒、横杆）+ -ier（名词后缀，表示"物"）→ 用横杆做�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Heavy duties on imports and exports are a barrier to international trade." `[COCA-ACAD]`
-> - "The crowd managed to break through the barriers and get onto the pitch." `[COCA-NEWS]`
-> - "Cultural barriers have made it hard for women to enter many professions." `[COCA-ACAD]`
-> - "Passengers are requested to show their tickets at the barrier." `[COCA-FIC]`
+> - The crowd had to stand behind barriers. `[例]`
+>   - 中译：人群必须站在障碍物后面。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/barrier
+> - Concrete barriers were erected around the site. `[例]`
+>   - 中译：工地周围竖起了混凝土屏障。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/barrier
+> - The crowd managed to break through the barriers and get onto the pitch. `[例]`
+>   - 中译：人群设法冲破障碍，进入球场。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/barrier
 
 
 ---

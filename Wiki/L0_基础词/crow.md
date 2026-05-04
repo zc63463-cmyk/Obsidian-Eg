@@ -128,11 +128,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - He was crowing over winning the bet. `[真题]`
-> - After winning the match, he couldn't resist crowing about it to his friends. `[真题]`
-> - It's ten miles by road, but only six as the crow flies. `[真题]`
-> - He had to eat crow after his prediction failed. `[真题]`
-> - Ben rushed to his father, crowing with pleasure. `[真题]`
+> - She gave a little crow of triumph. `[例]`
+>   - 中译：她发出一声胜利的小乌鸦声。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/crow
+> - The villages are no more than a mile apart as the crow flies. `[例]`
+>   - 中译：这些村庄直线距离不超过一英里。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/crow
+> - The cock crowed as the sun began to rise. `[例]`
+>   - 中译：太阳开始升起时，公鸡就打鸣了。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/crow
 
 
 ---

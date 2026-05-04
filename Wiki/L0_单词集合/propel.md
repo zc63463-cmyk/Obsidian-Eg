@@ -125,9 +125,15 @@ pro-(向前) + pel(推动，拉丁语 *pellere*，驱赶、推动)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - A rocket propelled through space. `[例]`
-> - Fury propelled her into action. `[例]`
-> - The Kon-Tiki sailed across the Pacific Ocean propelled by wind power . `[例]`
+> - The Kon-Tiki sailed across the Pacific Ocean propelled by wind power. `[例]`
+>   - 中译：Kon-Tiki 号靠风力推动横渡太平洋。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/propel
+> - The film propelled him to international stardom. `[例]`
+>   - 中译：这部电影使他成为国际明星。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/propel
+> - Seals use their fins and flippers to propel them through the water with great force. `[例]`
+>   - 中译：海豹利用它们的鳍和鳍状肢以巨大的力量推动它们在水中前进。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/propel
 
 
 ---

@@ -142,10 +142,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The experiments yielded some surprising results . `[例]`
-> - An attempt to yield increased profits. `[例]`
-> - The investigation yielded some unexpected results . `[例]`
-> - Favourable weather yielded a good crop . `[例]`
+> - This will give a yield of 10% on your investment. `[例]`
+>   - 中译：这将为您的投资带来 10% 的收益率。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/yield
+> - The apple trees yielded an abundant harvest. `[例]`
+>   - 中译：苹果树获得了丰收。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/yield
+> - This soil should yield good crops. `[例]`
+>   - 中译：这种土壤应该能结出好庄稼。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/yield
 
 ---
 

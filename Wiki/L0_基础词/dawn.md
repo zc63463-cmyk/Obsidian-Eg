@@ -133,9 +133,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - We left as dawn was breaking (= starting ) . `[例]`
-> - The fall of the Berlin Wall marked the dawn of a new era in European history . `[例]`
-> - We worked from dawn to dusk , seven days a week . `[例]`
+> - We left as dawn was breaking (= starting ). `[例]`
+> - The fall of the Berlin Wall marked the dawn of a new era in European history. `[例]`
+> - We worked from dawn to dusk , seven days a week. `[例]`
 
 
 ---

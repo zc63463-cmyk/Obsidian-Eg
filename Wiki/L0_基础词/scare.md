@@ -129,9 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "If something scares you, it frightens or worries you." `[Collins]`
-> - "A bomb scare forced the evacuation of the building." `[COCA-NEWS]`
-> - "Don't let the noise scare you — it's just the wind." `[例]`
+> - If something scares you, it frightens or worries you. `[例]`
+> - A bomb scare forced the evacuation of the building. `[COCA-NEWS]`
+> - Don't let the noise scare you — it's just the wind. `[例]`
 
 
 ---

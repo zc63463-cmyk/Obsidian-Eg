@@ -130,10 +130,9 @@ in-(靠近/在……上) + [[st-sta-stat|st]](站立，拉丁语 *stare*) + -ant
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The internet provides instant access to vast amounts of information. ` [真题]`
-> - She took an instant dislike to me the first time we met. ` [真题]`
-> - The programme brought an instant response from viewers across the country. ` [语料库]`
-> - There is no instant solution to the problem of rising crime rates. ` [语料库]`
+> - The researchers proposed a instant solution to the problem. `[例]`
+> - The company adopted a instant approach to improve efficiency. `[例]`
+> - The plan offers a instant option for small organizations. `[例]`
 
 
 ---

@@ -126,9 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "There were chips on the rim of the plate." `[真题]`
-> - "He bought stainless steel rims for his new car." `[真题]`
-> - "First there was a nearly circular rim of resplendent mountains, their white caps glistening in the morning sun." `[真题]`
+> - There were chips on the rim of the plate. `[真题]`
+> - He bought stainless steel rims for his new car. `[真题]`
+> - First there was a nearly circular rim of resplendent mountains, their white caps glistening in the morning sun. `[真题]`
 
 
 ---

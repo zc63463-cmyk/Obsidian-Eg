@@ -130,9 +130,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - They did a thorough search of the area but found nothing. `[例]`
-> - It was a thorough waste of time . `[例]`
-> - The district attorney’s office conducted a thorough investigation . `[例]`
+> - The police carried out a thorough investigation. `[例]`
+>   - 中译：警方对此进行了彻底调查。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/thorough
+> - You will need a thorough understanding of the subject. `[例]`
+>   - 中译：您需要对该主题有透彻的了解。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/thorough
+> - She's very thorough and conscientious. `[例]`
+>   - 中译：她非常彻底和认真。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/thorough
 
 ---
 

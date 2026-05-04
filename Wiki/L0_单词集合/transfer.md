@@ -136,9 +136,15 @@ trans-（跨越，穿过）+ fer（携带，带来）+ -（动词/名词）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - He has been transferred to a psychiatric hospital . `[例]`
-> - She transferred her gun from its shoulder holster to her handbag . `[例]`
-> - We were transferred from one bus into another. `[例]`
+> - The film studio is transferring to Hollywood. `[例]`
+>   - 中译：电影制片厂正在转移到好莱坞。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/transfer
+> - If I spend a semester in Madrid, will my credits transfer? `[例]`
+>   - 中译：如果我在马德里度过一个学期，我的学分会转移吗？
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/transfer
+> - The system only allows air to go one way, preventing air from transferring from one tire to another. `[例]`
+>   - 中译：该系统只允许空气单向流动，防止空气从一个轮胎转移到另一个轮胎。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/transfer
 ---
 
 

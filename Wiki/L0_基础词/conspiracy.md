@@ -126,9 +126,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She has been charged with conspiracy to murder." `[COCA-NEWS]`
-> - "He is guilty of conspiracy to cause criminal damage." `[COCA-NEWS]`
-> - "There are certainly matters that must remain secret and there are certainly conspiracies and plots in our society." `[COCA-ACAD]`
+> - They were charged with conspiracy to murder. `[例]`
+>   - 中译：他们被指控串谋谋杀。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/conspiracy
+> - The CIA uncovered a conspiracy against the government. `[例]`
+>   - 中译：中央情报局揭露了一起针对政府的阴谋。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/conspiracy
+> - They were accused of conspiracy to commit murder. `[例]`
+>   - 中译：他们被指控串谋谋杀。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/conspiracy
 
 
 ---

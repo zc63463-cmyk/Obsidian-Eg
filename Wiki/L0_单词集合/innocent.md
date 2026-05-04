@@ -131,10 +131,15 @@ in-(不) + noc(伤害) + -ent(形容词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "We fear rejection, or that our innocent social advances will be misinterpreted as 'weird'." `[真题]`
-> - "Several innocent bystanders were injured when his car slid off the road." `[真题]`
-> - "He was sure that the man was innocent of any crime." `[COCA-ACAD]`
-> - "They seemed so young and innocent." `[COCA-ACAD]`
+> - He firmly believes that she is innocent of the crime. `[例]`
+>   - 中译：他坚信她是无辜的。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/innocent
+> - The jury concluded from the evidence that the defendant was innocent. `[例]`
+>   - 中译：陪审团根据证据得出结论，被告无罪。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/innocent
+> - There isn't the slightest degree of doubt that he's innocent. `[例]`
+>   - 中译：毫无疑问他是无辜的。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/innocent
 
 ---
 

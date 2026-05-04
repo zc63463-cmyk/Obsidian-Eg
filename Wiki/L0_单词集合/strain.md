@@ -136,9 +136,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
+> - The transport service cannot cope with the strain of so many additional passengers. `[例]`
+>   - 中译：运输服务无法应对这么多额外乘客的压力。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/strain
 > - Their marriage is under great strain at the moment. `[例]`
+>   - 中译：他们的婚姻目前正承受着巨大的压力。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/strain
 > - These repayments are putting a strain on our finances. `[例]`
-> - In New Hampshire, where the rental vacancy rate has dropped :below 1 percent, housing advocates fear unchecked short-term rentals will put further pressure on an already strained market. `[真题]`
+>   - 中译：这些还款给我们的财务带来了压力。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/strain
 ---
 
 

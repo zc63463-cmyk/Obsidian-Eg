@@ -122,8 +122,15 @@ fore-（前缀，含义"在……之前"）+ see（动词，含义"看"）+ 无�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - It is difficult to foresee the long-term consequences of climate change.（很难预见气候变化的长期后果。）
-> - The company could not have foreseen the dramatic shift in consumer preferences.（公司无法预见消费者偏好的急剧转变。）
+> - I don't foresee any difficulties so long as we keep within budget. `[例]`
+>   - 中译：只要我们不超出预算，我预计不会有任何困难。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/foresee
+> - We do not foresee any problems. `[例]`
+>   - 中译：我们预计不会出现任何问题。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/foresee
+> - We could foresee no difficulties with these proposals. `[例]`
+>   - 中译：我们可以预见这些建议不会有任何困难。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/foresee
 
 ---
 

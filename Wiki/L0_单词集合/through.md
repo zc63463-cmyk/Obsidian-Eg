@@ -144,10 +144,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Jackson snapped them on a late 19th-century expedition through the Yellowstone Basin that was conducted by the · head of the U. `[真题]`
-> - The bill proved largely popular and sailed through Congress with large majorities in favor. `[真题]`
-> - For example, AI can be used to analyse what type of advertising content or copy would be appropriate to 'speak' to a specific target customer group by revealing information about trends and preferences through the analysis of big data. ( 46) AI can also be used to identify the lifestyle choices of customers regarding their hobbies, favourite celebrities, music choices, and fashions to provide unique content in marketing messages put out through social media. `[真题]`
-> - They walked slowly through the woods . `[例]`
+> - Her knees had gone through (= made holes in) her jeans. `[例]`
+>   - 中译：她的膝盖已经穿过牛仔裤（=破了洞）。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/through
+> - The sand ran through (= between) my fingers. `[例]`
+>   - 中译：沙子从我的手指间流过。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/through
+> - The path led through the trees to the river. `[例]`
+>   - 中译：这条小路穿过树林一直通向河边。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/through
 
 ---
 

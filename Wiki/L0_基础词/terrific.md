@@ -129,9 +129,9 @@ terr-（恐惧，拉丁语 *terrere*）+ -ific（使动后缀，= -fic + -i-）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She did a terrific job on the presentation." `[真题]`
-> - "The police car drove past at a terrific speed." `[真题]`
-> - "You look terrific!" `[真题]`
+> - She did a terrific job on the presentation. `[真题]`
+> - The police car drove past at a terrific speed. `[真题]`
+> - The plan offers a terrific option for small organizations. `[真题]`
 
 
 ---

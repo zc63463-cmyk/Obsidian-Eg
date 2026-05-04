@@ -126,8 +126,15 @@ col-(共同，一起，[[com]]变体) + umn(源自拉丁语 columna，柱子)
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - "She writes a weekly column for a major national newspaper."（她为一家全国性大报撰写每周专栏。）——考研阅读真题
-> - "The temple is supported by a row of massive stone columns."（这座寺庙由一排巨大的石柱支撑。）——考研高频表达
+> - I didn't have time to read the whole article - just the first column. `[例]`
+>   - 中译：我没有时间阅读整篇文章 - 只是第一栏。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/column
+> - Add the column of figures and divide the sum by three. `[例]`
+>   - 中译：添加数字列并将总和除以三。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/column
+> - She uses her newspaper column to expound her views on environmental issues. `[例]`
+>   - 中译：她利用报纸专栏阐述她对环境问题的看法。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/column
 
 ---
 

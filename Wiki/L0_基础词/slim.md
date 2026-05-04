@@ -147,8 +147,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She has a lovely slim figure . `[例]`
-> - They only have a slim chance of winning (= it's unlikely that they will win ) . `[例]`
+> - She has a lovely slim figure. `[例]`
+> - They only have a slim chance of winning (= it's unlikely that they will win ). `[例]`
 > - You don't have much lunch - are you slimming? `[例]`
 
 

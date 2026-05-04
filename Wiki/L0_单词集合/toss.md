@@ -129,9 +129,15 @@ toss(源自中古英语 tossen，与古诺尔斯语 tossa 同源，意为"抖动
 ## 真题/语料关联
 
 > [!example]- 语料
-> - He glanced at the letter and then tossed it into the bin . `[例]`
-> - The bull tossed him up into the air . `[例]`
-> - Andrew tossed him the ball . `[例]`
+> - I tossed the book aside and got up. `[例]`
+>   - 中译：我把书扔到一边，站了起来。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/toss
+> - He tossed the ball to Anna. `[例]`
+>   - 中译：他把球扔给安娜。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/toss
+> - He tossed Anna the ball. `[例]`
+>   - 中译：他把球扔给安娜。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/toss
 
 
 ---

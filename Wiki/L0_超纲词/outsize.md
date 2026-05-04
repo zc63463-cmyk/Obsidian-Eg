@@ -3,10 +3,8 @@ title: "outsize"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-25
-mastery: L0
 word_freq: 超纲词
 semantic_field: 物品工具
 prototype: 超出常规大小的
@@ -44,7 +42,7 @@ out-(超出) + size(尺寸/大小)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**超出常规大小的**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **超出常规大小的**（空间层面）
@@ -65,7 +63,7 @@ out-(超出) + size(尺寸/大小)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ out-(超出) + size(尺寸/大小)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > out（超出）+ size（尺寸）→ 超出尺寸 → 特大的。买衣服时找不到合适尺码，需要 outsize（特大号）。一个公司有 outsize influence（超常的影响力）——它的影响力"超出了"它应有的尺寸。
@@ -88,7 +86,7 @@ out-(超出) + size(尺寸/大小)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ out-(超出) + size(尺寸/大小)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[undersized]]：偏小的（outsize 的反义：特大↔偏小）
 > - [[miniature]]：微型的
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -115,26 +113,19 @@ out-(超出) + size(尺寸/大小)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **outsize clothes**：特大号衣服
 > - **outsize influence**：超常的影响力
 > - **outsize returns**：超常的回报
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - `[例]` The company enjoys outsize influence in the global technology sector despite its relatively small size.
-> - `[例]` Investors are hoping for outsize returns from the emerging market fund this quarter.
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-25 | **复习次数**：0 | **当前等级**：L0
-
----
+> [!example]- 语料
+> - The researchers proposed a outsize solution to the problem. `[例]`
+> - The company adopted a outsize approach to improve efficiency. `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

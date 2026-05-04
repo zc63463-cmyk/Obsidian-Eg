@@ -118,9 +118,15 @@ bi-(=二，双) + -llion(大数后缀，来自 million)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The world's population has surpassed **eight billion**. `[真题]`
-> - The company is valued at over **two billion** dollars. `[真题]`
-> - **Billions** of dollars are spent on healthcare each year. `[真题]`
+> - Cosmetics is a billion-dollar industry. `[例]`
+>   - 中译：化妆品是一个价值数十亿美元的产业。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/billion
+> - The government has invested billions of dollars in the project. `[例]`
+>   - 中译：政府已在该项目上投资了数十亿美元。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/billion
+> - There were billions of flies everywhere. `[例]`
+>   - 中译：到处都是数十亿只苍蝇。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/billion
 
 ---
 

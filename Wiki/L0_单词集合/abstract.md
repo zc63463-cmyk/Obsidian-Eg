@@ -139,9 +139,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The concept is too abstract for young children."（这个概念对小孩子来说太抽象了）——考研阅读常见表达
-> - "Please read the abstract before the full paper."（请在阅读全文之前先看摘要）——学术写作语境
-> - "She abstracted the main points from the report."（她从报告中提取了要点）——描述信息处理
+> - Truth and beauty are abstract concepts. `[例]`
+>   - 中译：真与美是抽象概念。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/abstract
+> - This debate is becoming too abstract - let's have some hard facts! `[例]`
+>   - 中译：这场辩论变得太抽象了——让我们来看看一些确凿的事实吧！
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/abstract
+> - So far we've only discussed the question in the abstract (= without referring to any real examples ). `[例]`
+>   - 中译：到目前为止，我们只是抽象地讨论了这个问题（=没有参考任何实际例子）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/abstract
 
 ---
 

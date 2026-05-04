@@ -127,9 +127,9 @@ em-（加强形式）+ pir（源自希腊语 *peira* = trial, attempt，尝试�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - This theory needs to be backed up with solid empirical evidence . `[例]`
-> - Empirical studies show that some forms of alternative medicine are extremely effective . `[例]`
-> - We have no empirical evidence that the industry is in trouble . `[例]`
+> - This theory needs to be backed up with solid empirical evidence. `[例]`
+> - Empirical studies show that some forms of alternative medicine are extremely effective. `[例]`
+> - We have no empirical evidence that the industry is in trouble. `[例]`
 
 
 ---

@@ -131,10 +131,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The concept of man versus machine is at least as old as the industrial revolution." `[真题]`
-> - "The most exciting game was Harvard versus Yale." `[权威语料]`
-> - "Only 18.8% of the class of 1982 had some kind of diploma four years after high school, versus 45% of the class of 1972." `[权威语料]`
-> - "The debate of nature versus nurture has shaped the field of psychology for decades." `[学术语料]`
+> - The concept of man versus machine is at least as old as the industrial revolution. `[真题]`
+> - The most exciting game was Harvard versus Yale. `[例]`
+> - Only 18.8% of the class of 1982 had some kind of diploma four years after high school, versus 45% of the class of 1972. `[例]`
+> - The debate of nature versus nurture has shaped the field of psychology for decades. `[例]`
 
 
 ---

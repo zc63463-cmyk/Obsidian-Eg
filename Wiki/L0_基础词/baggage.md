@@ -129,10 +129,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - We all carry a lot of emotional baggage around with us. [COCA]
-> - How many pieces of baggage do you have? [COCA]
-> - They bring their emotional baggage with them. `[例]`
-> - The country's historical baggage of colonialism continues to affect its relationship with former colonial powers. `[例]`
+> - We loaded our baggage into the car. `[例]`
+>   - 中译：我们把行李装上了车。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/baggage
+> - Extensive baggage trains followed the troops. `[例]`
+>   - 中译：大量的辎重列车跟随在部队后面。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/baggage
+> - She was carrying a lot of emotional baggage. `[例]`
+>   - 中译：她背负着很多情感包袱。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/baggage
 
 
 ---

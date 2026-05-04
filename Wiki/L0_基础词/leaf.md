@@ -134,9 +134,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The trees are in leaf early this year . `[例]`
+> - The trees are in leaf early this year. `[例]`
 > - The bushes are just coming into leaf. `[例]`
-> - Rubbing a dock leaf on nettle stings helps to relieve the pain . `[例]`
+> - Rubbing a dock leaf on nettle stings helps to relieve the pain. `[例]`
 
 
 ---

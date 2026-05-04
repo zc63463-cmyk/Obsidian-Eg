@@ -125,10 +125,15 @@ in-(不) + [[dis-di|di]](二/分开) + [[fer|fer]](带来/承受) + -ent(形容�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Many young people seem indifferent to politics and social issues. `` `[COCA-ACAD]` ``
-> - She was completely indifferent to the criticism directed at her work. `` `[COCA]` ``
-> - People have become indifferent to the suffering of others. `` `[COCA]` ``
-> - The jury must remain properly indifferent to public opinion. `` `[COCA-ACAD]` ``
+> - I offered her various options but she was quite indifferent. `[例]`
+>   - 中译：我给她提供了多种选择，但她却很冷漠。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/indifferent
+> - Why don't you vote - how can you be so indifferent to what is going on? `[例]`
+>   - 中译：你为什么不投票——你怎么能对正在发生的事情如此漠不关心呢？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/indifferent
+> - He found it very hard teaching a class full of indifferent teenagers. `[例]`
+>   - 中译：他发现教一个满是冷漠青少年的班级非常困难。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/indifferent
 
 ---
 

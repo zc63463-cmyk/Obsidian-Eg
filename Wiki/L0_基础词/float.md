@@ -130,8 +130,8 @@ float（源自古英语 *flotian*，与 fleet 同源，原始印欧语 *pleu-* "
 
 > [!example]- 语料
 > - An empty bottle will float. `[例]`
-> - You can float very easily in the Dead Sea because it's so salty . `[例]`
-> - Lily pads float on the surface of the pond . `[例]`
+> - You can float very easily in the Dead Sea because it's so salty. `[例]`
+> - Lily pads float on the surface of the pond. `[例]`
 
 
 ---

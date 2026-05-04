@@ -121,9 +121,15 @@ culmin(山顶，顶点) + -ate(使...)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - My arguments with the boss got worse and worse , and finally culminated in my resignation . `[例]`
-> - Their many years of research have finally culminated in a cure for the disease . `[例]`
-> - Secret negotiations culminated in the historic peace accord . `[例]`
+> - My arguments with the boss got worse and worse , and finally culminated in my resignation. `[例]`
+>   - 中译：我和老板的争吵越来越激烈，最后我辞职了。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/culminate
+> - Their many years of research have finally culminated in a cure for the disease. `[例]`
+>   - 中译：他们多年的研究终于找到了治愈这种疾病的方法。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/culminate
+> - Secret negotiations culminated in the historic peace accord. `[例]`
+>   - 中译：秘密谈判最终达成了历史性的和平协议。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/culminate
 
 ---
 

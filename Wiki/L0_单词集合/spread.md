@@ -127,9 +127,15 @@ spread 源自古英语 *sprædan*（伸展、展开），为日耳曼语族固�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - It started off as cancer of the liver but it spread to other areas of the body . `[例]`
-> - Student artwork can't cover more than 20 percent of a wall because it could help spread a fire into the ceiling . `[例]`
-> - Discontent among junior ranks was rapidly spreading. `[例]`
+> - The news had spread and was causing great excitement. `[例]`
+>   - 中译：消息已经传开，并引起了极大兴奋。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/spread
+> - Someone's been spreading rumours about you. `[例]`
+>   - 中译：有人一直在散布关于你的谣言。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/spread
+> - The depression started in the US and spread quickly throughout the world. `[例]`
+>   - 中译：那场经济萧条始于美国，并迅速蔓延到全世界。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/spread
 
 ---
 

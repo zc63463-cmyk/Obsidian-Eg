@@ -121,9 +121,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The British Parliament consists of two houses: the House of Lords and the House of Commons." `[Cambridge Corpus]`
-> - "The opposition leader led a very forceful attack on the government in parliament." `[Cambridge Corpus]`
-> - "Sixteen members of Parliament have formed a breakaway group." `[Collins Corpus]`
+> - The British Parliament consists of two houses: the House of Lords and the House of Commons. `[例]`
+> - Sixteen members of Parliament have formed a breakaway group. `[例]`
+> - On Tuesday the country's parliament voted to establish its own army. `[例]`
 
 
 ---

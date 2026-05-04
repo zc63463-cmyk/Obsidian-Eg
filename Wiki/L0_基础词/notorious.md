@@ -122,9 +122,9 @@ not-(知道，拉丁语 *noscere*) + -or(人/状态) + -ious(形容词后缀，�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - He is one of Mexico's most notorious criminals . `[例]`
+> - He is one of Mexico's most notorious criminals. `[例]`
 > - The company is notorious for paying its bills late. `[例]`
-> - The canal is notorious for its pollution . `[例]`
+> - The canal is notorious for its pollution. `[例]`
 
 
 ---

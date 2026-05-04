@@ -118,9 +118,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Many successful people suffer from impostor syndrome. `[真题]`
 > - The empty nest syndrome affects many parents when their children leave home. `[真题]`
-> - With that came a lot of impostor syndrome and a massive confidence crisis. `[语料库]`
+> - With that came a lot of impostor syndrome and a massive confidence crisis. `[例]`
+> - Early diagnosis of the syndrome is difficult , but it is important to begin treatment as soon as possible. `[例]`
 
 
 ---

@@ -125,8 +125,14 @@ crit(判断) + -ic(与...有关的) + -ism(主义，行为)
 
 > [!example]- 语料
 > - Lesser-known PRH writers become the target of criticism. `[真题]`
-> - There has been a lot of criticism of the decision . `[例]`
-> - He resigned amid criticism about his handling of the affair . `[例]`
+>   - 中译：不太知名的公屋作家成为批评的目标。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - There has been a lot of criticism of the decision. `[例]`
+>   - 中译：这一决定遭到了很多批评。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/criticism
+> - He resigned amid criticism about his handling of the affair. `[例]`
+>   - 中译：他因处理此事的方式受到批评而辞职。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/criticism
 
 ---
 

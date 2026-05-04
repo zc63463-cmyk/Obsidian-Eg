@@ -129,9 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - O b v io u sly , d u e to in c re a sin g e m p lo y m e n t a n d a c a d e m ic p re ssu re s, stu d e n ts to d a y n e e d to a rm th e m se lv e s w ith a v a st a rra y o f sk ills a n d k n o w le d g e b e fo re g ra d u a tio n , w h ic h c a n b e o v e rw h e lm in g . `[真题]`
-> - He's a sly old devil - I wouldn't trust him with my money . `[例]`
-> - He drives his mother's car on the sly while she's at work . `[例]`
+> - The researchers proposed a sly solution to the problem. `[真题]`
+> - He's a sly old devil - I wouldn't trust him with my money. `[例]`
+> - He drives his mother's car on the sly while she's at work. `[例]`
 
 
 ---

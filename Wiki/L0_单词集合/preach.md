@@ -121,9 +121,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Health experts are now preaching that even a little exercise is far better than none at all." `` `[COCA-NEWS]` ``
-> - "The organization preaches tolerance and understanding among people of different backgrounds." `` `[COCA-ACAD]` ``
-> - "Parents should practice what they preach when it comes to healthy eating habits." `` `[COCA]` ``
+> - Father Martin preached to the assembled mourners. `[例]`
+>   - 中译：马丁神父向聚集的哀悼者布道。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/preach
+> - During the sermon , he preached about the need for forgiveness. `[例]`
+>   - 中译：在布道期间，他宣扬宽恕的必要性。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/preach
+> - They preach the abolition of established systems but propose nothing to replace them. `[例]`
+>   - 中译：他们鼓吹废除既定制度，但没有提出任何替代方案。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/preach
 
 ---
 

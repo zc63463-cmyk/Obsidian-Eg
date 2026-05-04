@@ -129,10 +129,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The questionnaire was intended to elicit information on eating habits." `[COCA-ACAD]`
-> - "She's been trying to elicit the support of other committee members." `[COCA-ACAD]`
-> - "My question elicited no response." `[COCA-ACAD]`
-> - "The discussion elicited strong reactions from the audience." `[COCA-ACAD]`
+> - Have you managed to elicit a response from them yet? `[例]`
+>   - 中译：你已经设法得到他们的回应了吗？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/elicit
+> - The questionnaire was intended to elicit information on eating habits. `[例]`
+>   - 中译：该调查问卷的目的是获取有关饮食习惯的信息。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/elicit
+> - They were able to elicit the support of the public. `[例]`
+>   - 中译：他们能够赢得公众的支持。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/elicit
 
 ---
 

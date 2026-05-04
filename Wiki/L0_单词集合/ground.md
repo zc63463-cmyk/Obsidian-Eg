@@ -131,8 +131,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The researcher's argument is well-grounded in extensive data analysis.（研究者的论点以广泛的数据分析为基础。）
-> - There are strong grounds for believing that the policy will be effective.（有充分的理由相信该政策将会有效。）
+> - Cracks had appeared in the dry ground. `[例]`
+>   - 中译：干燥的地面出现了裂缝。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/ground
+> - The plane dived towards the ground and exploded in a ball of flame. `[例]`
+>   - 中译：飞机向地面俯冲并爆炸成一团火球。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/ground
+> - A post had been driven into the ground near the tree. `[例]`
+>   - 中译：一根柱子被打入树附近的地下。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/ground
 
 ---
 

@@ -135,9 +135,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "abide by the rules and regulations"（遵守规章制度）——考研翻译和阅读中常见搭配
-> - "cannot abide the noise/pollution"（无法忍受噪音/污染）——环境类话题中常见
-> - "abide by the decision of the court"（服从法院判决）——法律类阅读语境
+> - He abided in the wilderness for forty days. `[例]`
+>   - 中译：他在旷野住了四十天。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/abide
+> - He couldn't abide the thought of being cooped up in an office. `[例]`
+>   - 中译：他无法忍受被关在办公室里的想法。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/abide
+> - I can’t abide people who look down on others. `[例]`
+>   - 中译：我不能容忍那些看不起别人的人。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/abide
 
 ---
 

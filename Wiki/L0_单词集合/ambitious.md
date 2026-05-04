@@ -127,9 +127,15 @@ ambi-(四处) + -ition(走) + -ous(形容词后缀，表示"充满……的") �
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "For such people and many more perhaps not so exceptional, the proper formulation is, 'Succeed at all costs but avoid appearing ambitious.'"（对于这些人以及许多或许不那么出众的人来说，恰当的表述是：'不惜一切代价成功，但要避免显得有野心。'）——考研真题
-> - "His latest book, however, is more ambitious and serious than his earlier works."（然而，他的最新著作比他早期的作品更具野心和严肃性。）——考研真题
-> - "The government has set ambitious targets for reducing carbon emissions by 2030."（政府已设定了到2030年减少碳排放的宏大目标。）——考研高频表达
+> - He's very ambitious for his children (= he wants them to be successful ). `[例]`
+>   - 中译：他对他的孩子们非常有雄心（=他希望他们成功）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/ambitious
+> - The government has announced an ambitious plan to modernize the railway network. `[例]`
+>   - 中译：政府宣布了一项雄心勃勃的铁路网络现代化计划。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/ambitious
+> - She has some ambitious plans for her business. `[例]`
+>   - 中译：她对自己的生意有一些雄心勃勃的计划。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/ambitious
 
 ---
 

@@ -3,10 +3,8 @@ title: "allegation"
 tags:
   - 学习/英语/词汇
   - 语义场/政治法律
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 政治法律
 prototype: 被声称的事（未经证实的声明）
@@ -43,7 +41,7 @@ al-(=ad-, 朝向) + [[leg|lect-leg]](法律，拉丁语 *lex/legis*) + -ation(�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**被声称的事**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **被声称的事**（信息层面）
@@ -64,7 +62,7 @@ al-(=ad-, 朝向) + [[leg|lect-leg]](法律，拉丁语 *lex/legis*) + -ation(�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ al-(=ad-, 朝向) + [[leg|lect-leg]](法律，拉丁语 *lex/legis*) + -ation(�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > allege（声称）+ ation → allegation（声称的事）。关键区别：allegation 是"未经证实的"。He denied the allegation（他否认了这项指控）——因为 allegation 只是有人声称，不代表是真的。legal（法律的）同源——都是朝向法律提出的东西。
@@ -86,7 +84,7 @@ al-(=ad-, 朝向) + [[leg|lect-leg]](法律，拉丁语 *lex/legis*) + -ation(�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -98,13 +96,13 @@ al-(=ad-, 朝向) + [[leg|lect-leg]](法律，拉丁语 *lex/legis*) + -ation(�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[proof]]：证据，证明（声称的反义：未经证实↔已证明）
 > - [[ exoneration]]：免除责任
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,27 +115,20 @@ al-(=ad-, 朝向) + [[leg|lect-leg]](法律，拉丁语 *lex/legis*) + -ation(�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **allegations of**：……的指控
 > - **make/deny an allegation**：提出/否认指控
 > - **alleged misconduct**：被指控的不当行为
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - The company faced allegations of environmental pollution and was forced to investigate. `[例]`
 > - He strongly denied the allegations of financial misconduct brought against him. `[例]`
 > - The committee investigated allegations that the research data had been fabricated. `[例]`
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
-
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

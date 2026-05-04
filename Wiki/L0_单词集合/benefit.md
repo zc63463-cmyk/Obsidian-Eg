@@ -136,10 +136,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Small businesses can benefit significantly from government tax incentives and loan programs. `[COCA-ACAD]`
-> - The new healthcare policy aims to extend social benefits to previously uninsured populations. `[COCA-ACAD]`
-> - Both parties recognized that mutual benefit and win-win cooperation were essential for long-term stability. `[例]`
-> - The health benefits of regular exercise are well documented in the medical literature. `[例]`
+> - Hom said similar registration requirements could benefit struggling cities and towns , but " if we want to make a change in the housing market, the main one is we have to build a lot more. `[真题]`
+>   - 中译：霍姆表示，类似的登记要求可能会让陷入困境的城镇受益，但“如果我们想改变房地产市场，最主要的是我们必须建造更多。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - The discovery of oil brought many benefits to the town. `[例]`
+>   - 中译：石油的发现给该镇带来了许多好处。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/benefit
+> - One of the many benefits of foreign travel is learning how to cope with the unexpected. `[例]`
+>   - 中译：出国旅行的众多好处之一就是学习如何应对意外情况。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/benefit
 
 ---
 

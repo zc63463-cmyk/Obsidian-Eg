@@ -124,8 +124,8 @@ review_count: 0
 > [!example]- 语料
 > - We expressed our sympathy for her loss. `[真题]`
 > - I have some sympathy with this point of view. `[真题]`
-> - The president has sent a message of sympathy to the relatives of the dead soldiers. `[语料库]`
-> - I don't have much sympathy for her — I think she's brought her troubles on herself. `[语料库]`
+> - The president has sent a message of sympathy to the relatives of the dead soldiers. `[例]`
+> - I don't have much sympathy for her — I think she's brought her troubles on herself. `[例]`
 
 
 ---

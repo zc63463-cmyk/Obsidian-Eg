@@ -125,8 +125,15 @@ mut-（=mutare，交换，改变，来自拉丁语 *mutare*，to change/exchange
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The agreement is of mutual benefit to both parties involved."（该协议对双方都有利。）——考研高频表达
-> - "Mutual respect is essential for maintaining a healthy relationship between nations."（相互尊重对于维持国家间的健康关系至关重要。）——考研高频表达
+> - Theirs was a partnership based on mutual respect , trust and understanding. `[例]`
+>   - 中译：他们的伙伴关系建立在相互尊重、信任和理解的基础上。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/mutual
+> - Both countries are acting to their mutual advantage. `[例]`
+>   - 中译：两国都在为互惠互利而行事。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/mutual
+> - The agreement was terminated by mutual consent. `[例]`
+>   - 中译：经双方同意，该协议终止。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/mutual
 
 ---
 

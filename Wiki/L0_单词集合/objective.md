@@ -154,10 +154,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Her main objective now is simply to stay in power . `[例]`
+> - Her main objective now is simply to stay in power. `[例]`
+>   - 中译：她现在的主要目标只是继续掌权。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/objective
 > - For party leaders , securing the trust of voters is the prime objective. `[例]`
+>   - 中译：对于政党领导人来说，确保选民的信任是首要目标。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/objective
 > - Can the sales team achieve its financial objectives? `[例]`
-> - The system can be considered successful only if it has met its objectives. `[例]`
+>   - 中译：销售团队能否实现其财务目标？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/objective
 
 ---
 

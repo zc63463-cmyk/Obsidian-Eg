@@ -140,7 +140,7 @@ singul-(单一的，拉丁语 *singulus*) + -ar(形容词后缀)
 > [!example]- 语料
 > - I suspect that a key to thinking usefully about macroeconomics is to shift from thinking in terms of a singular labor market to thinking about plural labor markets. `[真题]`
 > - She had a singular insight into the problem that no one else had considered. `[真题]`
-> - It was a singular achievement for such a young scientist to publish in that journal. `[外刊]`
+> - It was a singular achievement for such a young scientist to publish in that journal. `[例]`
 
 
 ---

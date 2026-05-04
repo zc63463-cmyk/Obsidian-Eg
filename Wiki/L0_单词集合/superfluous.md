@@ -121,9 +121,15 @@ super-（在上方，建议创建词根笔记 [[super]]）+ flu（流，来自�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The report was marred by a mass of superfluous detail . `[例]`
 > - She gave him a look that made words superfluous. `[例]`
-> - Our new mayor plans to eliminate superfluous programs . `[例]`
+>   - 中译：她给了他一个让言语变得多余的眼神。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/superfluous
+> - In the Imagist model, the writer is a sculptor. Technique consists of chipping away everything superfluous in order to reveal the essential form within. "It took you ninety-seven words to do it," Pound is reported to have remarked to a young literary aspirant who had handed him a new poem. "I find it could have been managed in fifty-six. `[例]`
+>   - 中译：在意象派模型中，作家是一位雕塑家。技术包括削掉一切多余的东西，以揭示内在的基本形式。据报道，庞德对一位递给他一首新诗的年轻文学抱负者说：“你花了九十七个字才做到这一点。” “我发现五十六分钟就可以完成。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/superfluous
+> - Oddly, despite the preponderance of superfluous words, the book has no glossary, which is a must for an introductory audience. `[例]`
+>   - 中译：奇怪的是，尽管有大量多余的词汇，这本书却没有词汇表，而这对于入门读者来说是必须的。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/superfluous
 
 
 ---

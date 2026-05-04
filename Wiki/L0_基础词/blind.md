@@ -131,9 +131,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - He started to go (= become ) blind in his sixties . `[例]`
-> - She's been blind since birth . `[例]`
-> - He was blind with fury (= so angry that he could not behave reasonably ) . `[例]`
+> - Doctors think he will go blind. `[例]`
+>   - 中译：医生认为他会失明。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/blind
+> - One of her parents is blind. `[例]`
+>   - 中译：她的父母之一是盲人。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/blind
+> - She has been legally blind since birth. `[例]`
+>   - 中译：她从出生起就在法律上失明。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/blind
 
 
 ---

@@ -130,10 +130,15 @@ plot 源自古英语，可能与 [[graph-gram]]（写、画）族有远源关联
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The plot of the novel revolves around a young woman's search for identity. `[真题]`
-> - The police uncovered a plot to assassinate the president. `[COCA-NEWS]`
-> - He bought a small plot of land in the countryside and built a cottage. `[COCA-FIC]`
-> - The rebels plotted to overthrow the king. `[COCA-ACAD]`
+> - The movie has a very simple plot. `[例]`
+>   - 中译：这部电影的情节非常简单。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/plot
+> - The plots of his books are basically all the same. `[例]`
+>   - 中译：他的书的情节基本上都是一样的。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/plot
+> - The movie's plot hinges on a case of mistaken identity. `[例]`
+>   - 中译：电影的情节围绕着一起认错案件展开。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/plot
 
 ---
 

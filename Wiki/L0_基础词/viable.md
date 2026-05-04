@@ -134,10 +134,10 @@ via（道路、生命通道）+ -able（能……的）→ 能走通的、能活
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Rising oil prices have made alternative energy sources more economically viable." `[权威语料]`
-> - "Home-working offers a viable solution to the work/family conflict." `[权威语料]`
-> - "We want to make public transport a viable alternative to using cars." `[权威语料]`
-> - "Perhaps the only viable solution is to merge the hospitals." `[权威语料]`
+> - Rising oil prices have made alternative energy sources more economically viable. `[例]`
+> - The company adopted a viable approach to improve efficiency. `[例]`
+> - We want to make public transport a viable alternative to using cars. `[例]`
+> - Perhaps the only viable solution is to merge the hospitals. `[例]`
 
 
 ---

@@ -139,10 +139,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - I think she was offended that she hadn't been invited to the party . `[例]`
-> - He looked offended when you called him middle-aged . `[例]`
-> - If the sight of a few dirty dishes offends you, then I think you're in trouble ! `[例]`
-> - Obviously if a police officer offends it's a fairly serious matter . `[例]`
+> - I think she was offended that she hadn't been invited to the party. `[例]`
+>   - 中译：我认为她因为没有被邀请参加聚会而感到生气。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/offend
+> - He looked offended when you called him middle-aged. `[例]`
+>   - 中译：当你称他为中年人时，他看起来很生气。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/offend
+> - If the sight of a few dirty dishes offends you, then I think you're in trouble! `[例]`
+>   - 中译：如果看到几个脏盘子就让你感到不舒服，那么我想你就有麻烦了！
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/offend
 
 ---
 

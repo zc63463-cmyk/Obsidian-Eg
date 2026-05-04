@@ -127,8 +127,8 @@ in-(=toward，朝向) + vit(渴望/追求，拉丁语 *vitare*，追求) + -atio
 
 > [!example]- 语料
 > - She received an invitation to speak at the international conference. `[真题]`
-> - He has issued an invitation to the Chinese president to come to Washington. `[语料库]`
-> - Leaving the door unlocked is an open invitation to burglars. `[外刊]`
+> - He has issued an invitation to the Chinese president to come to Washington. `[例]`
+> - Leaving the door unlocked is an open invitation to burglars. `[例]`
 
 
 ---

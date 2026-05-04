@@ -123,9 +123,15 @@ re-（再/重新）+ cover（覆盖/获得，与 [[cap]] 抓取/容纳有关）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - It took her several months to recover from the surgery and return to normal life. `[真题]`
-> - The stock market has not yet recovered from the sharp decline it experienced last year. `[真题]`
-> - He never really recovered from the shock of his wife dying. `[COCA-ACAD]`
+> - He never really recovered from the shock of his wife dying. `[例]`
+>   - 中译：他从未真正从妻子去世的震惊中恢复过来。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/recover
+> - The doctors say that it will take him a few weeks to recover. `[例]`
+>   - 中译：医生说他需要几周的时间才能康复。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/recover
+> - It will be impossible to recover all the misapplied charity money. `[例]`
+>   - 中译：被挪用的善款将不可能全部收回。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/recover
 
 
 ---

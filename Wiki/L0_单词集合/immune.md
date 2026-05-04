@@ -129,9 +129,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - No one is immune to the effects of climate change. `[真题]`
-> - The press had criticized her so often that in the end she had become immune to it. `[COCA-NEWS]`
-> - No one should be immune from prosecution. `[COCA-ACAD]`
+> - Most people who've had chickenpox once are immune to it for the rest of their lives. `[例]`
+>   - 中译：大多数患过一次水痘的人在余生都会对其免疫。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/immune
+> - He seems to be immune to colds - he just never gets them. `[例]`
+>   - 中译：他似乎对感冒免疫——他只是从来不感冒。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/immune
+> - The press had criticized her so often that in the end she had become immune to it. `[例]`
+>   - 中译：媒体对她的批评如此频繁，以至于她最终对此免疫了。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/immune
 
 ---
 

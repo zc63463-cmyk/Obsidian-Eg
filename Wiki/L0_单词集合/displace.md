@@ -135,10 +135,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Automation and artificial intelligence have displaced millions of workers in manufacturing industries. `[COCA-ACAD]`
-> - The war has created a massive displaced population in need of humanitarian assistance. `[COCA-ACAD]`
-> - Thousands of people were displaced by the earthquake and had to live in temporary shelters. `[COCA-NEWS]`
-> - Internal displacement had further consequences for the economy that until now have not been quantified. `[COCA-ACAD]`
+> - The blow displaced the woman's eardrum and left her partially deaf. `[例]`
+>   - 中译：这一击使该妇女的耳膜移位，导致她部分失聪。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/displace
+> - The building of a new dam will displace thousands of people who live in this area. `[例]`
+>   - 中译：一座新水坝的修建将使居住在该地区的数千人流离失所。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/displace
+> - Contemporary technoscience has largely displaced these early thermodynamic principles. `[例]`
+>   - 中译：当代技术科学已在很大程度上取代了这些早期的热力学原理。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/displace
 ---
 
 

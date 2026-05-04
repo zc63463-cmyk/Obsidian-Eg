@@ -128,8 +128,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "All participants will receive a certificate upon completion of the course."（所有参与者在完成课程后将获得一份证书）——教育类阅读常见表达
-> - "You must present your birth certificate when applying for a visa."（申请签证时你必须出示出生证明）——行政手续类语境
+> - She has a Certificate in Drama Education. `[例]`
+>   - 中译：她拥有戏剧教育证书。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/certificate
+> - The certificate had clearly been falsified. `[例]`
+>   - 中译：该证书显然是伪造的。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/certificate
+> - I've been hunting high and low for that certificate and I still can't find it! `[例]`
+>   - 中译：我一直在寻找那个证书，但我仍然找不到它！
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/certificate
 
 ---
 

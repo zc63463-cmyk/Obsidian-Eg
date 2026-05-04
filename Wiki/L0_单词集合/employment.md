@@ -131,9 +131,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The new factory will provide **employment** for about a hundred local people. `` `[COCA-NEWS]` ``
-> - The city is faced with inadequate housing and a lack of **employment**. `` `[COCA-ACAD]` ``
-> - The **employment** of advanced technologies in manufacturing has revolutionized production processes. `` `[COCA-ACAD]` ``
+> - Employment levels are unlikely to rise significantly before the end of next year. `[例]`
+>   - 中译：明年底前就业水平不太可能大幅上升。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/employment
+> - How long have you been looking for employment? `[例]`
+>   - 中译：您找工作多久了？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/employment
+> - Are you in employment at the moment? `[例]`
+>   - 中译：您现在在工作吗？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/employment
 
 ---
 

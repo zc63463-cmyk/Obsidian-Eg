@@ -123,8 +123,15 @@ mis-(错误前缀，"错误地") + lead(引导)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The advertisement was designed to mislead consumers into believing the product was environmentally friendly."（这则广告旨在误导消费者，让他们相信该产品是环保的。）——考研高频表达
-> - "Statistics can be misleading if they are not interpreted correctly."（如果统计数据的解释不正确，可能会产生误导。）——考研高频表达
+> - He has admitted misleading the police about his movements on the night of the murder. `[例]`
+>   - 中译：他承认在谋杀当晚的行踪上误导了警方。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/mislead
+> - We’re not misleading people , and we’re not pretending to be something we’re not. `[例]`
+>   - 中译：我们不会误导人们，也不会假装我们不是。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/mislead
+> - Statistics taken on their own are liable to mislead. `[例]`
+>   - 中译：单独统计的数据很容易产生误导。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/mislead
 
 ---
 

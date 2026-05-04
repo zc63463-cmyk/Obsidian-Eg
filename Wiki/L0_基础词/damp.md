@@ -139,7 +139,7 @@ review_count: 0
 > [!example]- 语料
 > - The grass is still damp. `[例]`
 > - This shirt still feels a bit damp. `[例]`
-> - It was a damp, misty morning . `[例]`
+> - It was a damp, misty morning. `[例]`
 
 
 ---

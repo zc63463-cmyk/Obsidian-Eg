@@ -3,10 +3,8 @@ title: "inflate"
 tags:
   - 学习/英语/词汇
   - 语义场/资本经济
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 资本经济
 prototype: 吹气膨胀（向里面吹气使其膨胀）
@@ -44,7 +42,7 @@ in-(向内) + [[flat|fla-]](吹，拉丁语 *flare*) → 不直接对应，实�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**吹气膨胀**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **吹气膨胀**（物理层面）
@@ -67,7 +65,7 @@ in-(向内) + [[flat|fla-]](吹，拉丁语 *flare*) → 不直接对应，实�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ in-(向内) + [[flat|fla-]](吹，拉丁语 *flare*) → 不直接对应，实�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > in（向内）+ flate（吹）→ 向里面吹气 → 膨胀。给气球吹气——inflate。给经济吹太多"气"（印太多钱）——inflation（通货膨胀）。把自己的成就吹大——inflate one's achievements。deflate 是"放气"，inflate 是"充气"。
@@ -90,7 +88,7 @@ in-(向内) + [[flat|fla-]](吹，拉丁语 *flare*) → 不直接对应，实�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ in-(向内) + [[flat|fla-]](吹，拉丁语 *flare*) → 不直接对应，实�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[deflate]]：放气；紧缩（inflate 的精确反义）
 > - [[shrink]]：缩小
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -122,7 +120,7 @@ in-(向内) + [[flat|fla-]](吹，拉丁语 *flare*) → 不直接对应，实�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **inflate a balloon/tire**：给气球/轮胎充气
 > - **inflate prices**：抬高物价
 > - **inflate one's ego/achievements**：吹嘘自我/夸大成就
@@ -130,20 +128,13 @@ in-(向内) + [[flat|fla-]](吹，拉丁语 *flare*) → 不直接对应，实�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - The government printed more money, which inflated the currency and led to rising prices. `[例]`
 > - He tends to inflate his achievements when talking to potential employers. `[例]`
 > - Workers inflated the balloons with helium before the festival began. `[例]`
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
-
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -3,10 +3,8 @@ title: "aversion"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 人本世界
 prototype: 转离的动作/状态（身体或心理转离某事物的倾向）
@@ -42,7 +40,7 @@ a-(=ab-, 离开/远离) + [[ver-vert|vers]](转) + -ion(名词后缀，表示动
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**转离的动作/状态**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **转离的动作/状态**（物理层面）
@@ -63,7 +61,7 @@ a-(=ab-, 离开/远离) + [[ver-vert|vers]](转) + -ion(名词后缀，表示动
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -73,7 +71,7 @@ a-(=ab-, 离开/远离) + [[ver-vert|vers]](转) + -ion(名词后缀，表示动
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > aversion 是 [[averse]] 的名词形式。a-（远离）+ vers（转）+ -ion（名词后缀）→ "转离的状态"→ 厌恶。你看到蟑螂，身体本能地"转开"——这种"转离"的倾向就是 aversion。have an aversion to sth. 就是"对某物有转离的倾向"→ 对某物有厌恶。和 [[averse]] 的关系：averse 是"反对的"（形容词），aversion 是"厌恶"（名词）。
@@ -85,7 +83,7 @@ a-(=ab-, 离开/远离) + [[ver-vert|vers]](转) + -ion(名词后缀，表示动
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -98,14 +96,14 @@ a-(=ab-, 离开/远离) + [[ver-vert|vers]](转) + -ion(名词后缀，表示动
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[affinity]]：喜爱，亲和力（aversion 的反义：厌恶 ↔ 喜爱）
 > - [[penchant]]：爱好，嗜好（aversion 的反义：反感 ↔ 爱好）
 > - [[inclination]]：倾向，意愿（aversion 的反义：排斥倾向 ↔ 倾向）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,7 +117,7 @@ a-(=ab-, 离开/远离) + [[ver-vert|vers]](转) + -ion(名词后缀，表示动
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **have an aversion to sth.**：对某事有厌恶/反感
 > - **aversion to risk/changes**：对风险/变革的厌恶
 > - **develop an aversion to**：逐渐对……产生厌恶
@@ -128,20 +126,13 @@ a-(=ab-, 离开/远离) + [[ver-vert|vers]](转) + -ion(名词后缀，表示动
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - She has a deep aversion to any form of dishonesty.`[例]`
-> - Risk aversion among investors has led to a flight to safer assets.`[例]`
-> - His aversion to public speaking held back his career for years.`[例]`
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
+> [!example]- 语料
+> - She has a deep aversion to any form of dishonesty. `[例]`
+> - Risk aversion among investors has led to a flight to safer assets. `[例]`
+> - His aversion to public speaking held back his career for years. `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

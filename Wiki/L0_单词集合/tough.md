@@ -124,9 +124,15 @@ tough(源自古英语 toh，意为"坚韧的、结实的")
 ## 真题/语料关联
 
 > [!example]- 语料
-> - These toys are made from tough plastic . `[例]`
-> - Children's shoes need to be tough. `[例]`
-> - You have to be tough to be successful in politics . `[例]`
+> - It was a tough decision to make. `[例]`
+>   - 中译：这是一个艰难的决定。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/tough
+> - During the interview I was asked some really tough questions. `[例]`
+>   - 中译：在面试过程中，我被问到了一些非常棘手的问题。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/tough
+> - She's been having a tough time of it (= a lot of problems) lately. `[例]`
+>   - 中译：她最近过得很艰难（=很多问题）。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/tough
 
 
 ---

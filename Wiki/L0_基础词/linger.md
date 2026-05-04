@@ -126,9 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - After the play had finished , we lingered for a while in the bar hoping to catch sight of the actors . `[例]`
-> - The smell from the fire still lingered days later . `[例]`
-> - It's impossible to forget such horrific events - they linger (on) in the memory forever . `[例]`
+> - After the play had finished , we lingered for a while in the bar hoping to catch sight of the actors. `[例]`
+> - The smell from the fire still lingered days later. `[例]`
+> - It's impossible to forget such horrific events - they linger (on) in the memory forever. `[例]`
 
 
 ---

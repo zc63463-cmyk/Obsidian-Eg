@@ -131,8 +131,15 @@ ex-(出) + sequ(跟随) + -e = execute（跟随指令做出来 → 执行）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The plan was well designed, but its execution was hampered by a lack of resources."（该计划设计得很好，但由于缺乏资源，其执行受到了阻碍。）——考研高频表达
-> - "The company hired a consulting firm to help execute its strategy for entering the Asian market."（公司聘请了一家咨询公司来帮助执行其进入亚洲市场的战略。）——考研高频表达
+> - He was executed for murder. `[例]`
+>   - 中译：他因谋杀罪被处决。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/execute
+> - She was condemned to death and executed two weeks later. `[例]`
+>   - 中译：她被判处死刑，两周后被处决。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/execute
+> - A convicted murderer was executed in North Carolina yesterday. `[例]`
+>   - 中译：昨天，一名被定罪的杀人犯在北卡罗来纳州被处决。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/execute
 ---
 
 

@@ -3,10 +3,8 @@ title: "nobility"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-25
-mastery: L0
 word_freq: 超纲词
 semantic_field: 社会习俗
 prototype: 贵族阶层（拥有世袭特权的社会等级）
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**贵族阶层**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **贵族阶层**（社会等级层面）
@@ -65,7 +63,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > noble（高贵的）→ nobility（高贵/贵族）。the nobility 就是"贵族阶层"——中世纪欧洲那些拥有土地和特权的世袭贵族。nobility of character 就是"品格的高贵"——一个人正直、慷慨、有尊严。nobility 的核心就是"高贵"——无论是出身还是品格。
@@ -88,7 +86,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,14 +99,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[commoner]]：平民（nobility 的反义：贵族↔平民）
 > - [[peasantry]]：农民阶级（nobility 的反义：贵族↔农民）
 > - [[baseness]]：卑劣（nobility 的反义：高贵↔卑劣）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +118,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **the nobility**：贵族阶层
 > - **nobility of character/spirit**：品格/精神的高贵
 > - **titles of nobility**：贵族头衔
@@ -128,19 +126,12 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - `[例]` The French Revolution abolished the privileges of the nobility.
-> - `[例]` Her nobility of character inspired everyone who knew her.
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-25 | **复习次数**：0 | **当前等级**：L0
-
----
+> [!example]- 语料
+> - They have shown great courage and nobility of purpose. `[例]`
+> - In particular, popes wanted to select the church’s bishops rather than allowing nobility or a king to do so. `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

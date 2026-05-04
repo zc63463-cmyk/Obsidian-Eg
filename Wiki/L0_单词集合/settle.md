@@ -135,9 +135,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - `Many cases are settled through negotiation.` `[COCA-ACAD]`
-> - `The corporation later settled with the singer for an undisclosed sum.` `[COCA-NEWS]`
-> - `Many immigrants settled in the coastal cities during the nineteenth century.` `[COCA-ACAD]`
+> - Good, that's all settled - you send out the invitations for the party , and I'll organize the food. `[例]`
+>   - 中译：好，一切都解决了——你发出聚会请柬，我来安排食物。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/settle
+> - They haven't yet settled wh en the wedding is going to be. `[例]`
+>   - 中译：他们还没有决定婚礼的举办时间。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/settle
+> - The tickets are €40 each." "Well, that settles that - I can't afford that much. `[例]`
+>   - 中译：门票每张 40 欧元。” “好吧，那就这样吧——我买不起那么多。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/settle
 
 ---
 

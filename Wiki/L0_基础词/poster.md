@@ -125,9 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The children put up posters on the classroom walls . `[例]`
-> - We noticed a poster advertising a circus . `[例]`
-> - There was a lively debate on the message boards , with many posters arguing against the plan . `[例]`
+> - The children put up posters on the classroom walls. `[例]`
+> - We noticed a poster advertising a circus. `[例]`
+> - There was a lively debate on the message boards , with many posters arguing against the plan. `[例]`
 
 
 ---

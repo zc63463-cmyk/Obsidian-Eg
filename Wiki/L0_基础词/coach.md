@@ -131,9 +131,15 @@ coach 源自匈牙利语 *kocsi*（马车），以匈牙利小镇 Kocs 命名，
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Gus Poyet was appointed as head coach. `[例]`
-> - The hotel is located just two minutes ' walk from the city centre and is very close to both the railway and coach stations . `[例]`
-> - We're going to the airport by coach. `[例]`
+> - He is a former college football coach. `[例]`
+>   - 中译：他是一名前大学橄榄球教练。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/coach
+> - Travel is by coach overnight to Berlin. `[例]`
+>   - 中译：乘过夜巴士前往柏林。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/coach
+> - Four passengers on the coach were seriously injured in the crash. `[例]`
+>   - 中译：事故中客车上的四名乘客受重伤。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/coach
 
 
 ---

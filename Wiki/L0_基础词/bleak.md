@@ -125,9 +125,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The house stands on a bleak, windswept hilltop . `[例]`
-> - The economic outlook is bleak. `[例]`
-> - It was a bleak, unpleasant day in December . `[例]`
+> - The future looks bleak for the fishing industry. `[例]`
+>   - 中译：渔业的未来看起来一片黯淡。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bleak
+> - The medical prognosis was bleak. `[例]`
+>   - 中译：医学预后很暗淡。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bleak
+> - They faced a financially bleak Christmas. `[例]`
+>   - 中译：他们面临着财政惨淡的圣诞节。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bleak
 
 
 ---

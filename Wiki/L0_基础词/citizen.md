@@ -126,9 +126,15 @@ cit-(=civ-，城市，来自拉丁语 *civis* 公民) + -izen(= -an，表示"…
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The interests of British citizens living abroad are protected by the British Embassy. `[例]`
-> - He applied to become an American citizen. `[例]`
-> - This will affect all citizens of this country . `[例]`
+> - The defeat of the president did not change the lives of ordinary citizens for the better. `[例]`
+>   - 中译：总统的失败并没有让普通公民的生活变得更好。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/citizen
+> - She's Italian by birth but is now an Australian citizen. `[例]`
+>   - 中译：她出生于意大利，但现在是澳大利亚公民。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/citizen
+> - In light of the unrest in the country, the US embassy has urged private citizens to leave. `[例]`
+>   - 中译：鉴于该国的骚乱，美国大使馆已敦促普通公民离开。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/citizen
 
 
 ---

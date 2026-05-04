@@ -128,10 +128,15 @@ batt(=bat-, 击打，拉丁语 *battuere*) + -ery(集合后缀，表示一组)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "We were put through a battery of psychological tests." `[COCA-ACAD]`
-> - "He faced a battery of questions from reporters gathered outside his home." `[COCA-NEWS]`
-> - "In the kitchen an impressive battery of stainless steel utensils hangs on the wall." `[COCA-FIC]`
-> - "All the children underwent a battery of tests at regular intervals." `[COCA-ACAD]`
+> - The battery is flat (= it is no longer producing electricity). `[例]`
+>   - 中译：电池没电了（= 不再发电）。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/battery
+> - The bicycle even has a built-in battery charger for a mobile phone. `[例]`
+>   - 中译：这辆自行车甚至还配有内置手机充电器。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/battery
+> - Isolated farms used wind turbines to charge batteries. `[例]`
+>   - 中译：孤立的农场使用风力涡轮机为电池充电。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/battery
 
 
 ---

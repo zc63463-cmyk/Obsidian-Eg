@@ -128,10 +128,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The audio quality of this recording is excellent. `[COCA-ACAD]`
-> - The film's audio engineers spent weeks perfecting the sound mix. `[COCA-NEWS]`
-> - You can connect your phone to the car's audio system via Bluetooth. `[COCA-NEWS]`
-> - The conference will provide audio and video recordings of all keynote sessions. `[例]`
+> - The audio quality was poor. `[例]`
+>   - 中译：音频质量很差。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/audio
+> - The audio portion of the broadcast was fine but the picture was poor. `[例]`
+>   - 中译：广播的音频部分很好，但图像很差。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/audio
+> - They listened to an audio recording of the speech. `[例]`
+>   - 中译：他们听取了演讲的录音。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/audio
 
 
 ---

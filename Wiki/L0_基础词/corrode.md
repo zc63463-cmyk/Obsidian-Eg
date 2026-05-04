@@ -126,9 +126,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Corruption has corroded our confidence in the police force. `[真题]`
-> - The new water was harder, and government officials allowed it to corrode the city's pipes. `[真题]`
-> - The constant lies and broken promises have started to corrode trust among the employees. `[真题]`
+> - The copper pipework has corroded in places. `[例]`
+>   - 中译：铜管道有些地方已经腐蚀。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/corrode
+> - Corruption corrodes public confidence in a political system. `[例]`
+>   - 中译：腐败侵蚀公众对政治制度的信心。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/corrode
+> - Rainwater may corrode the steel containers. `[例]`
+>   - 中译：雨水可能会腐蚀钢制容器。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/corrode
 
 
 ---

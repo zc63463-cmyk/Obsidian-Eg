@@ -127,9 +127,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - A rich blend of the finest coffee beans. `[例]`
-> - Their music is a blend of jazz and African rhythms . `[例]`
-> - Meritage" is a blend that combines " merit " and " heritage ". `[例]`
+> - Blend together the eggs, sugar and flour. `[例]`
+>   - 中译：将鸡蛋、糖和面粉混合在一起。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/blend
+> - Oil does not blend with water. `[例]`
+>   - 中译：油不与水混合。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/blend
+> - Oil and water do not blend. `[例]`
+>   - 中译：油和水不相溶。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/blend
 
 
 ---

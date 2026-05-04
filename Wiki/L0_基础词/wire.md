@@ -136,7 +136,6 @@ review_count: 0
 > [!example]- 语料
 > - The invention of the telegraph made it possible to send messages by wire across vast distances in a matter of minutes. `[真题]`
 > - Refugees were held behind barbed wire fences, waiting for their applications to be processed. `[真题]`
-> - The old house needs to be completely rewired before it can be safely occupied. `[真题]`
 > - The president wired a message to the ambassador, instructing him to return to Washington immediately. `[真题]`
 
 

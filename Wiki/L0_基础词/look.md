@@ -136,8 +136,8 @@ review_count: 0
 
 > [!example]- 语料
 > - A study last year by the National Center for Science Education, a non­ profit group of scientists and teachers, looking at how state public schools across the country address climate change in science classes, gave barely half of US states a grade B + or higher. `[真题]`
-> - They looked at the picture and laughed . `[例]`
-> - Look at all these toys on the floor . `[例]`
+> - They looked at the picture and laughed. `[例]`
+> - Look at all these toys on the floor. `[例]`
 
 
 ---

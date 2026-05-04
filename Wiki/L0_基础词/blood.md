@@ -129,9 +129,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She pointed to a patch of dried blood on the carpet . `[例]`
-> - I've been giving blood for over twenty years now. `[例]`
-> - People were lining up in the hundreds to donate blood. `[例]`
+> - Blood was pouring out of a cut on her head. `[例]`
+>   - 中译：血从她头上的伤口中涌出。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/blood
+> - His hands were covered in blood. `[例]`
+>   - 中译：他的双手沾满了鲜血。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/blood
+> - After the attacks, people donated blood in record numbers. `[例]`
+>   - 中译：袭击发生后，献血人数创历史新高。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/blood
 
 
 ---

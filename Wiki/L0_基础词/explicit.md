@@ -131,8 +131,8 @@ ex-（向外）+ [[plic-plex|plic]]（折叠）+ -it（形容词后缀）→ 把
 
 > [!example]- 语料
 > - I gave her very explicit directions how to get here. `[例]`
-> - She was very explicit about (= said very clearly and exactly ) what she thought was wrong with the plans . `[例]`
-> - I wasn't aware that I would be paying - you certainly didn't make it explicit (= state it clearly ) . `[例]`
+> - She was very explicit about (= said very clearly and exactly ) what she thought was wrong with the plans. `[例]`
+> - I wasn't aware that I would be paying - you certainly didn't make it explicit (= state it clearly ). `[例]`
 
 ---
 

@@ -125,7 +125,7 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - He demands unquestioning obedience from his soldiers . `[例]`
+> - He demands unquestioning obedience from his soldiers. `[例]`
 > - In many traditional cultures, obedience to elders is considered one of the most important virtues a person can possess. `[例]`
 > - He has acted in obedience to the law. `[例]`
 

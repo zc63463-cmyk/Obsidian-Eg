@@ -128,9 +128,15 @@ sup-(=sub-，在下方) + pos(放置，参见 [[pon/pos|pon/pos]]) → 在下面
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Dan didn't answer his phone , so I suppose (that) he's busy . `[例]`
-> - He found it a lot more difficult to get a job than he supposed it would be. `[例]`
-> - Do you suppose (that) Gillian will marry him? `[例]`
+> - Getting a visa isn't as simple as you might suppose. `[例]`
+>   - 中译：获得签证并不像您想象的那么简单。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/suppose
+> - Prices will go up, I suppose. `[例]`
+>   - 中译：我想价格会上涨。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/suppose
+> - It's reasonable to suppose that he left the note after he tried to call her. `[例]`
+>   - 中译：可以合理地推测，他是在试图给她打电话后留下了这张纸条的。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/suppose
 
 ---
 

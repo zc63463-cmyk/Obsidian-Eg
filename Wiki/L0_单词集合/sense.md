@@ -127,10 +127,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> 1. It makes no sense to continue this debate since neither side is willing to compromise. `[真题]`
-> 2. She sensed that something was wrong with the project. `[真题]`
-> 3. It makes sense to buy the most up-to-date version rather than an outdated one. `[COCA-ACAD]`
-> 4. He has a strong sense of responsibility toward his family and community. `[COCA-ACAD]`
+> - As an effective Washington operator, Hayden sensed that he could capitalize on the expedition's stunning visuals. `[真题]`
+>   - 中译：作为一名高效的华盛顿操作员，海登意识到他可以利用这次探险的令人惊叹的视觉效果。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - With her excellent sense of smell , she could tell if you were a smoker from the other side of the room. `[例]`
+>   - 中译：凭借她出色的嗅觉，她可以从房间的另一边辨别出你是否吸烟。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/sense
+> - Did you get any sense of how they might react? `[例]`
+>   - 中译：你知道他们会如何反应吗？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/sense
 
 ---
 

@@ -132,8 +132,8 @@ review_count: 0
 
 > [!example]- 语料
 > - She dipped her toe into the pool to see how cold it was. `[例]`
-> - As you turn the corner , the road dips suddenly . `[例]`
-> - The sun dipped below the horizon . `[例]`
+> - As you turn the corner , the road dips suddenly. `[例]`
+> - The sun dipped below the horizon. `[例]`
 
 
 ---

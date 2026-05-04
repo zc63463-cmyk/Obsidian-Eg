@@ -124,9 +124,15 @@ colonel 源自意大利语 *colonnello*（列的指挥官），来自 *colonna*�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Colonel is the military rank between lieutenant-colonel and brigadier . `[例]`
 > - He retired as a colonel in the air force. `[例]`
+>   - 中译：他以空军上校的身份退役。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/colonel
 > - The tanker had departed from the port of Berbera and was heading to the Somali capital of Mogadishu when it was intercepted, a colonel with the Puntland Maritime Police Force told The Associated Press. `[例]`
+>   - 中译：邦特兰海事警察部队的一名上校告诉美联社，这艘油轮从伯贝拉港出发，前往索马里首都摩加迪沙时被拦截。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/colonel
+> - In addition to Pascal, the cast includes Sigourney Weaver as Ward, a veteran pilot, colonel , and leader of the New Republic’s Adelphi Rangers. `[例]`
+>   - 中译：除了帕斯卡之外，演员阵容还包括西格妮·韦弗（Sigourney Weaver）饰演沃德（Ward），她是一位经验丰富的飞行员、上校，也是新共和国阿德尔菲游骑兵队的领袖。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/colonel
 
 
 ---

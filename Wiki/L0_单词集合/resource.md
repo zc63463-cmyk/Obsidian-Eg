@@ -132,9 +132,15 @@ re-(反复) + source(涌出/来源，源自拉丁语 *surgere*，"涌起/升起"
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Some scholars conclude that a government with finite resources should simply stop paying for medical care that sustains life beyond a certain age." `[真题]`
-> - "The company has the resources and infrastructure to manage a global brand." `[COCA-ACAD]`
-> - "We agreed to pool our resources to complete the project on time." `[COCA-ACAD]`
+> - The country's greatest resource is the dedication of its workers. `[例]`
+>   - 中译：国家最大的资源是劳动者的奉献精神。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/resource
+> - Britain's mineral resources include coal and gas deposits. `[例]`
+>   - 中译：英国的矿产资源包括煤炭和天然气矿藏。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/resource
+> - This book is an indispensable resource for researchers. `[例]`
+>   - 中译：本书是研究人员不可或缺的资源。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/resource
 
 
 ---

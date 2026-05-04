@@ -127,8 +127,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The plane crashed in heavy rain and dense fog . `[例]`
-> - The body was found hidden in dense undergrowth . `[例]`
+> - The plane crashed in heavy rain and dense fog. `[例]`
+> - The body was found hidden in dense undergrowth. `[例]`
 > - Plutonium is very dense. `[例]`
 
 

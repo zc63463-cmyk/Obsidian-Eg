@@ -128,9 +128,15 @@ awe(敬畏) + -ful(充满...的)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He suffered awful injuries in the crash." [COCA]
-> - "It's a good job they didn't go camping last weekend — the weather was awful." [COCA]
-> - "It takes an awful lot of courage to stand up for what you believe in." `[例]`
+> - That's an awful colour. `[例]`
+>   - 中译：那是一种可怕的颜色。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/awful
+> - They didn't even offer to pay.’ ‘Oh that's awful. `[例]`
+>   - 中译：他们甚至没有愿意付钱。”“哦，太糟糕了。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/awful
+> - I feel awful about forgetting her birthday. `[例]`
+>   - 中译：我对忘记她的生日感到很难过。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/awful
 
 
 ---

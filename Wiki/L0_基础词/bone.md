@@ -133,9 +133,15 @@ bone 源自古英语 *ban*（骨头），原始日耳曼语 *\*bainam*。与 [[b
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The child was so thin that you could see her bones. `[例]`
-> - During the excavations, numerous artefacts and human bones were found . `[例]`
-> - Previously dated animal bones from the cave were more than 30,000 years old , contemporary with carved stone figures found in the same cave . `[例]`
+> - He survived the accident with no broken bones. `[例]`
+>   - 中译：他在事故中幸存下来，没有骨折。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bone
+> - This fish has a lot of bones in it. `[例]`
+>   - 中译：这条鱼里面有很多骨头。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bone
+> - The dog was gnawing at a bone. `[例]`
+>   - 中译：那只狗正在啃骨头。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bone
 
 
 ---

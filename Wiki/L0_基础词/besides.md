@@ -123,9 +123,15 @@ be-（在）+ side（边）+ -s（副词/介词标记）→ 在旁边→除…�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "I don't want to go; besides, it's too late." `[真题]`
-> - "There will be five of us for dinner, besides John." `[真题]`
-> - "Besides looking after the children, she also runs a successful business." `[COCA-NEWS]`
+> - We have lots of things in common besides music. `[例]`
+>   - 中译：除了音乐之外，我们还有很多共同点。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/besides
+> - Besides working as a doctor, he also writes novels in his spare time. `[例]`
+>   - 中译：除了当医生之外，他还利用业余时间写小说。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/besides
+> - I've got no family besides my parents. `[例]`
+>   - 中译：除了父母之外我没有家人。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/besides
 
 
 ---

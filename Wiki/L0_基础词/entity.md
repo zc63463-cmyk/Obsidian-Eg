@@ -128,7 +128,7 @@ review_count: 0
 > [!example]- 语料
 > - He regarded the north of the country as a separate cultural entity. `[例]`
 > - Although the two buildings are in separate locations , the museum they are part of is a single entity. `[例]`
-> - The unit has become part of a larger department and no longer exists as a separate entity . `[例]`
+> - The unit has become part of a larger department and no longer exists as a separate entity. `[例]`
 
 
 ---

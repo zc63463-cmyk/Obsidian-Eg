@@ -125,10 +125,9 @@ re-(再次，[[re]]变体) + [[prec-pre|pre]]-(在前面，[[prec-pre]]) + [[sen
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "I sent my husband to represent me at the funeral." `[COCA-ACAD]`
-> - "This contract represents 20% of the company's annual revenue." `[COCA-ACAD]`
-> - "The popular press tends to represent him as an environmental guru." `[COCA-NEWS]`
-> - "Women were well represented at the conference." `[COCA-ACAD]`
+> - This contract represents 20% of the company's annual revenue. `[COCA-ACAD]`
+> - The popular press tends to represent him as an environmental guru. `[COCA-NEWS]`
+> - Women were well represented at the conference. `[COCA-ACAD]`
 
 
 ---

@@ -130,9 +130,9 @@ plough 源自古英语 *plōh*，可能与拉丁语 *plaustrum*（马车）有�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - These fields have been under the plough for centuries . `[例]`
-> - Farmers start ploughing in the spring . `[例]`
-> - We're going to plough the top field next week . `[例]`
+> - These fields have been under the plough for centuries. `[例]`
+> - Farmers start ploughing in the spring. `[例]`
+> - We're going to plough the top field next week. `[例]`
 
 
 ---

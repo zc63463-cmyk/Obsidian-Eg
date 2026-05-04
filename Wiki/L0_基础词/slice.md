@@ -145,8 +145,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - We agreed before we did the deal that we'd both take an equal slice of the profit . `[例]`
-> - The film presents us with a fascinating slice of history . `[例]`
+> - We agreed before we did the deal that we'd both take an equal slice of the profit. `[例]`
+> - The film presents us with a fascinating slice of history. `[例]`
 > - That wonderful backhand slice of Maria's sends the ball where her opponent just can't reach it. `[例]`
 
 

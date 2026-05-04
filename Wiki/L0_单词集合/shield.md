@@ -134,10 +134,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She shielded her eyes from the sun with her hand. `[真题]`
-> - The law shields citizens from unreasonable searches. `[真题]`
-> - Parents often try to shield their children from the harsh realities of life. `[真题]`
-> - Many European countries are looking to shield citizens from soaring gas and electricity prices. `[COCA-ACAD]`
+> - The police held up their riot shields against the flying rocks and bricks. `[例]`
+>   - 中译：警察举起防暴盾牌抵挡飞溅的石块和砖块。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/shield
+> - The anti-personnel mines were laid as a protective shield around the town. `[例]`
+>   - 中译：杀伤人员地雷布设在城镇周围作为防护罩。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/shield
+> - Anger can function as a shield against (= a way of avoiding ) even more painful emotions of loss and hurt. `[例]`
+>   - 中译：愤怒可以作为抵御（=避免）更痛苦的失落和伤害情绪的盾牌。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/shield
 
 ---
 

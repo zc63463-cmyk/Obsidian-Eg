@@ -131,8 +131,8 @@ review_count: 0
 
 > [!example]- 语料
 > - Napoleon was defeated by the Duke of Wellington at the battle of Waterloo. `[例]`
-> - They defeated the Italian team and reached the final . `[例]`
-> - The proposal to change the rules was narrowly defeated (= by a very small number ) by 201 votes to 196. `[例]`
+> - They defeated the Italian team and reached the final. `[例]`
+> - Our ambitions for this tournament have been defeated by the weather. `[例]`
 
 
 ---

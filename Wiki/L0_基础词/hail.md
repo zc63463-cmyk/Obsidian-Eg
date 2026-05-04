@@ -137,8 +137,9 @@ hail 有两个词源：
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The young scientist was hailed as a genius after her groundbreaking discovery."（这位年轻科学家在取得突破性发现后被誉为天才。——考研英语真题相关话题，讨论科学成就）
-> - "A hail of criticism followed the government's controversial decision."（政府的争议性决定招来了一阵批评。——考研相关语料，讨论政治与社会反应）
+> - The hikers rested under a towering hail near the coastal trail. `[例]`
+> - The cabin was built from durable hail gathered in the region. `[例]`
+> - A line of hail trees rose above the morning fog. `[例]`
 
 
 ---

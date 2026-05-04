@@ -124,9 +124,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - That's the third glass you've smashed this week - you're so clumsy! `[例]`
-> - The first mobile phones were heavy and clumsy to use, but nowadays they are much easier to handle . `[例]`
-> - Her clumsy handling of the situation only made it worse . `[例]`
+> - I spilt your coffee. Sorry—that was clumsy of me. `[例]`
+>   - 中译：我把你的咖啡洒了。抱歉——我太笨了。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/clumsy
+> - His clumsy fingers couldn't untie the knot. `[例]`
+>   - 中译：他笨拙的手指无法解开这个结。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/clumsy
+> - The complaints procedure is clumsy and time-consuming. `[例]`
+>   - 中译：投诉程序笨拙且耗时。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/clumsy
 
 
 ---

@@ -128,9 +128,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The system is fairly effective."（这个系统相当有效）——考研阅读常见搭配，表示适度肯定
-> - "Employees should be treated fairly."（员工应受到公平对待）——社会类话题
-> - "A fairly unbiased evaluation of the data..."（对数据的相当公正的评价……）——学术类文本
+> - I'm fairly sure that this is the right address. `[例]`
+>   - 中译：我相当确定这是正确的地址。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/fairly
+> - The way the plan works is fairly simple. `[例]`
+>   - 中译：该计划的运作方式相当简单。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/fairly
+> - There is a fairly easy way to answer the question. `[例]`
+>   - 中译：有一个相当简单的方法可以回答这个问题。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/fairly
 
 ---
 

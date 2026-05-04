@@ -129,9 +129,15 @@ con-(共同，一起) + sid/sider(星星/坐) + -er(动词后缀) + -ate(形容�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It was considerate of you to inform us of the change in schedule." `[真题]`
-> - "She is always considerate of other people's feelings." `[真题]`
-> - "He is considerate enough to help his elderly neighbours with their daily groceries." `[COCA-ACAD]`
+> - He is always a kind and considerate host. `[例]`
+>   - 中译：他始终是一位善良、体贴的主人。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/considerate
+> - She is always polite and considerate towards her employees. `[例]`
+>   - 中译：她对待员工总是彬彬有礼，体贴入微。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/considerate
+> - It was very considerate of him to wait. `[例]`
+>   - 中译：他的等待真是太体贴了。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/considerate
 ---
 
 

@@ -142,10 +142,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The thrill of winning a competition. `[例]`
-> - So why do people still go hunting - is it the thrill of the chase ? `[例]`
-> - It gave me a real thrill to see her again after so many years . `[例]`
-> - The video shows the thrills and spills (= excitement and accidents ) of motor racing . `[例]`
+> - It gave me a big thrill to meet my favourite author in person. `[例]`
+>   - 中译：能够亲自见到我最喜欢的作家让我感到非常兴奋。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/thrill
+> - She gets an obvious thrill out of performing. `[例]`
+>   - 中译：她从表演中获得了明显的兴奋感。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/thrill
+> - They were just in search of cheap thrills (= excitement that has no real value). `[例]`
+>   - 中译：他们只是在寻找廉价的刺激（=没有实际价值的刺激）。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/thrill
 
 ---
 

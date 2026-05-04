@@ -126,8 +126,15 @@ norm-（=norma，标准，来自拉丁语 *norma*，木匠的角尺）+ -al（�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The normalization of relations between the two countries was a historic milestone."（两国关系正常化是一个历史性的里程碑。）——考研高频表达
-> - "The normalization of data is a standard procedure in statistical analysis."（数据的标准化是统计分析中的标准程序。）——考研高频表达
+> - Hyper-aggressive rhetoric on social media, political extremism, and the normalization of violence are certainly contributing factors. `[例]`
+>   - 中译：社交媒体上的过度攻击性言论、政治极端主义和暴力正常化无疑是促成因素。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/normalization
+> - But normalization doesn’t mean something is medically insignificant. `[例]`
+>   - 中译：但正常化并不意味着某些事情在医学上无关紧要。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/normalization
+> - The announcement that these flights would resume is a significant step in the normalization of relations between the United States and Venezuela following the January capture of former president Nicolás Maduro. `[例]`
+>   - 中译：继一月份前总统尼古拉斯·马杜罗被捕后，宣布恢复这些航班是美国和委内瑞拉关系正常化的重要一步。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/normalization
 
 ---
 

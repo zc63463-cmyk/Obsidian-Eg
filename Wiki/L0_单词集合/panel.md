@@ -136,11 +136,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "A panel of experts was convened to discuss the issue." `` `[COCA-ACAD]` ``
-> - "The conference featured a panel discussion on climate change." `` `[COCA-NEWS]` ``
-> - "Solar panels are installed on the roof to generate electricity." `` `[COCA-MAG]` ``
-> - "The control panel allows operators to monitor the system." `` `[COCA-ACAD]` ``
-> - "She was selected to serve on the panel of judges." `` `[COCA-NEWS]` ``
+> - The competition will be judged by a panel of experts. `[例]`
+>   - 中译：比赛将由专家评审团进行评审。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/panel
+> - Several suggestions have been offered for adoption by the panel. `[例]`
+>   - 中译：已提出若干建议供专家组采纳。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/panel
+> - Your application will need to go forward to a selection panel. `[例]`
+>   - 中译：您的申请需要进入选择面板。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/panel
 
 ---
 

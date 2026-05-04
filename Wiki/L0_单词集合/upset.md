@@ -141,9 +141,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - It still upsets him when he thinks about the accident . `[例]`
-> - Don't upset yourself by thinking about what might have been. `[例]`
-> - Any mechanical problems would upset our plans of driving across the desert . `[例]`
+> - I understand how upset you must be feeling. `[例]`
+>   - 中译：我理解你一定感到多么沮丧。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/upset
+> - There's no point getting upset about it. `[例]`
+>   - 中译：没有必要为此感到不安。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/upset
+> - He was really upset over not getting the present he wanted from Father Christmas. `[例]`
+>   - 中译：他因为没有从圣诞老人那里得到他想要的礼物而感到非常沮丧。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/upset
 
 ---
 

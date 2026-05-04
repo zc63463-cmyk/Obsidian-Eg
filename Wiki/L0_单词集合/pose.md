@@ -125,9 +125,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Climate change poses a serious threat to the survival of many species. `[COCA-ACAD]`
-> - The chemical leak poses a threat to human health. `[COCA-ACAD]`
-> - The new play poses some challenging questions about modern society. `[COCA-ACAD]`
+> - Nuclear weapons pose a threat to everyone. `[例]`
+>   - 中译：核武器对每个人都构成威胁。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/pose
+> - The mountain terrain poses particular problems for civil engineers. `[例]`
+>   - 中译：山区地形给土木工程师带来了特殊的问题。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/pose
+> - Drunken drivers pose a serious threat to other road users. `[例]`
+>   - 中译：醉酒司机对其他道路使用者构成严重威胁。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/pose
 
 ---
 

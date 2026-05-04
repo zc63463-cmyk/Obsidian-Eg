@@ -127,9 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - He was arrested for carrying concealed deadly weapons . `[例]`
-> - He is accused of helping to carry out a deadly bomb attack on a fashionable Paris restaurant . `[例]`
-> - Hepatitis C is a potentially deadly virus that often attacks the liver . `[例]`
+> - He was arrested for carrying concealed deadly weapons. `[例]`
+> - He is accused of helping to carry out a deadly bomb attack on a fashionable Paris restaurant. `[例]`
+> - Hepatitis C is a potentially deadly virus that often attacks the liver. `[例]`
 
 
 ---

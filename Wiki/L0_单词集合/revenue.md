@@ -124,10 +124,15 @@ re-(回) + venue(来，源自拉丁语 venire) → 回来的东西 → 收入
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Newspapers are becoming more balanced businesses, with a healthier mix of revenues from readers and advertisers. `[真题]`
-> - These measures will increase the club's ability to generate revenue. `[COCA-ACAD]`
-> - Tax revenue relieves the pressure on the budget. `[COCA-ACAD]`
-> - Expenses have exceeded revenue, putting the company in a difficult financial position. `[真题]`
+> - Waterstones branches suffer a severe reduction in revenue. `[真题]`
+>   - 中译：Waterstones 分支机构的收入严重减少。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - Taxes provide most of the government's revenue. `[例]`
+>   - 中译：税收提供了政府的大部分收入。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/revenue
+> - Government revenues fell dramatically. `[例]`
+>   - 中译：政府收入大幅下降。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/revenue
 
 ---
 

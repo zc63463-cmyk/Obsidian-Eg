@@ -128,9 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The presidential candidate claims that he can cut the deficit in half within five years . `[例]`
+> - The presidential candidate claims that he can cut the deficit in half within five years. `[例]`
 > - The trade balance has been in deficit for the past five years. `[例]`
-> - With a budget deficit of nearly £26 billion , the state plans to slash spending on schools and police . `[例]`
+> - With a budget deficit of nearly £26 billion , the state plans to slash spending on schools and police. `[例]`
 
 
 ---

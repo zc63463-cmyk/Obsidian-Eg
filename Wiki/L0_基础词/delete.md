@@ -123,9 +123,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - They insisted that all expletives be deleted from the article . `[例]`
-> - Here is a list of possible answers . Please delete (= draw a line through some of them) as appropriate . `[例]`
-> - She accidentally deleted one of her computer files . `[例]`
+> - They insisted that all expletives be deleted from the article. `[例]`
+> - Here is a list of possible answers . Please delete (= draw a line through some of them) as appropriate. `[例]`
+> - She accidentally deleted one of her computer files. `[例]`
 
 
 ---

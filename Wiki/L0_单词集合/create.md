@@ -130,8 +130,14 @@ cre(=cres-, 增长，拉丁语 *crescere*) + -ate(动词后缀，使……)
 
 > [!example]- 语料
 > - The state L egislature recently · voted against a bill that would've made it illegal for towns to create legislation restricting short-term rentals. `[真题]`
-> - Issues arise, however, when developers attempt to create large-scale short-term rental facilities-de facto hotels--to bypass taxes and regulations. `[真题]`
+>   - 中译：州立法机关最近投票反对一项法案，该法案将使城镇制定限制短期租赁的立法成为非法。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
 > - The main disadvantage of using AI to respond to customers is that there are concerns about trusting pei:sonal interactions to machines , which could lead not only to the subsequent loss of interpersonal connections , but also to a decrease in marketing personnel. ( 47) Some believe that AI is negatively impacting on the marketer's role by reducing creativity and removing jobs, but they are aware that it is a way of reducing costs and creating new information. `[真题]`
+>   - 中译：使用人工智能响应客户的主要缺点是担心信任机器之间的人际互动，这不仅可能导致随后人际联系的丧失，还会导致营销人员的减少。 ( 47) 一些人认为人工智能通过减少创造力和减少工作岗位而对营销人员的角色产生负面影响，但他们意识到这是降低成本和创造新信息的一种方式。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - By allowing AI to develop content some brand marketers may find that they are losing control over the brand narrative. ( 48 ) Algorithms that are used to simulate human interactions are creating mmy of these concerns, especially as no-one is quite sure what the outcomes of using AI to interact with customers will be. `[真题]`
+>   - 中译：通过允许人工智能开发内容，一些品牌营销人员可能会发现他们正在失去对品牌叙事的控制。 ( 48 ) 用于模拟人类交互的算法正在引发这些担忧，特别是因为没有人完全确定使用人工智能与客户交互的结果会是什么。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
 
 ---
 

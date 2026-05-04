@@ -127,9 +127,9 @@ garage 源自法兰克语（日耳曼语系）*\*waron* "守卫、保护"，经�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She pulled the car into the garage and turned off the engine. `[语料库]`
-> - Many families hold garage sales to get rid of unwanted items. `[语料库]`
-> - Only 30 percent of Americans actually park their cars in the garage. `[新闻语料]`
+> - She pulled the car into the garage and turned off the engine. `[例]`
+> - Many families hold garage sales to get rid of unwanted items. `[例]`
+> - Only 30 percent of Americans actually park their cars in the garage. `[例]`
 
 
 ---

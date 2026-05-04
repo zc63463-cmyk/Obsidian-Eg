@@ -127,8 +127,8 @@ plent-（充足，拉丁语 *plenus* "满的"，与 [[plenty]] 同源）+ -i-（
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Strawberries are plentiful in the summer . `[例]`
-> - I took a plentiful supply of games to keep the children amused . `[例]`
+> - Strawberries are plentiful in the summer. `[例]`
+> - I took a plentiful supply of games to keep the children amused. `[例]`
 > - In those days jobs were plentiful. `[例]`
 
 

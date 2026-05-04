@@ -3,10 +3,8 @@ title: "specialization"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-25
-mastery: L0
 word_freq: 超纲词
 semantic_field: 社会专业
 prototype: 专业化，专门化
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**专业化**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **专业化**（社会层面）
@@ -67,7 +65,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > special（特别的/专门的）+ -ization（……化）→ 专门化。古代一个铁匠既能打铁又能做木工——什么都会。后来铁匠只做刀，木匠只做家具——这就是 specialization（专业化）。现代社会分工越来越细，specialization 越来越深。
@@ -89,7 +87,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[generalization]]：泛化，一般化（specialization 的精确反义：专业化↔一般化）
 > - [[versatility]]：多才多艺（specialization 的反义：专精↔多能）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,26 +118,19 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **labor specialization**：劳动分工专业化
 > - **academic specialization**：学术专业化
 > - **area of specialization**：专业方向
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - Specialization (= limiting study or work to one particular area ) usually doesn't occur until PhD level . `[例]`
+> [!example]- 语料
+> - Specialization (= limiting study or work to one particular area ) usually doesn't occur until PhD level. `[例]`
 > - The lawyer said that he was unable to help us because our case fell outside his specialization. `[例]`
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-25 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

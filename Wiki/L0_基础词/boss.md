@@ -126,9 +126,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She was the boss of a large international company . `[例]`
-> - I started up my own business and now I'm my own boss. `[例]`
-> - Who's the boss in your house ? `[例]`
+> - I'll ask my boss if I can have the day off. `[例]`
+>   - 中译：我会问老板是否可以请一天假。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/boss
+> - I like being my own boss (= working for myself and making my own decisions). `[例]`
+>   - 中译：我喜欢自己当老板（= 为自己工作并自己做决定）。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/boss
+> - Who's the boss (= who's in control) in this house? `[例]`
+>   - 中译：谁是这个房子里的老大（=谁在控制）？
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/boss
 
 
 ---

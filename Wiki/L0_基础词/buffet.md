@@ -126,9 +126,15 @@ buffet（源自古法语 *buffeter*，击打，与 *buffe* 打击有关，与 [[
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Are you having a sit-down meal or a buffet at the wedding ? `[例]`
-> - The little boat was buffeted mercilessly by the waves . `[例]`
-> - Will it be a buffet or a sit-down meal ? `[例]`
+> - The strong winds buffeted the ship. `[例]`
+>   - 中译：强风猛烈地冲击着船。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/buffet
+> - On the grounds of an old hacienda, find a regional food buffet , a refreshing cenote, a thrilling zip-line course in the jungle, and trails for hiking and biking around the verdant estate. `[例]`
+>   - 中译：在一座古老庄园的场地上，您可以找到当地美食自助餐、清爽的天然井、丛林中惊心动魄的滑索路线，以及围绕青翠庄园的远足和骑自行车小径。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/buffet
+> - Adding a little bit of milk or stock helps to loosen the sauce slightly and keeps the dish from drying out when held warm on a buffet. `[例]`
+>   - 中译：添加一点牛奶或高汤有助于稍微松开酱汁，并防止菜肴在自助餐中保温时变干。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/buffet
 
 
 ---

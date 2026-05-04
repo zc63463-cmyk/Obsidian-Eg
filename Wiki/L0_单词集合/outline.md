@@ -124,10 +124,15 @@ out(外面) + line(线条) → "外面的线条"
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The report outlines the main challenges facing the education system." `[真题]`
-> - "Before writing the essay, it is advisable to make a brief outline of your main arguments." `[真题]`
-> - "The President outlined his agenda for the next term." `[COCA-ACAD]`
-> - "This chapter outlines the main financial reports included in the annual report and accounts of a business." `[COCA-ACAD]`
+> - She drew the outline of the boat and then coloured it in. `[例]`
+>   - 中译：她画出了船的轮廓，然后给它上色。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/outline
+> - The mountain was visible only in outline as the light faded. `[例]`
+>   - 中译：随着光线逐渐暗淡，山只露出轮廓。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/outline
+> - Underneath the hospital blankets I could see the outline of her poor wasted body. `[例]`
+>   - 中译：在医院的毯子下面，我可以看到她可怜消瘦的身体的轮廓。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/outline
 
 ---
 

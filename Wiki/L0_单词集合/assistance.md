@@ -123,10 +123,15 @@ as-(=ad-，朝向) + [[st-sta-stat|sist]](=st-，站立) + -ance(名词后缀，
 ## 真题/语料关联
 
 > [!example]- 语料
-> - If you need further assistance, please call 85555555 or send emails to library@abc.edu.cn. `[真题]`
-> - The government provides financial assistance to low-income families. `[COCA-NEWS]`
-> - The project was completed with the assistance of experts from various fields. `[COCA-ACAD]`
-> - The company offered technical assistance to the developing country to improve its infrastructure. `[例]`
+> - The company needs more financial assistance from the government. `[例]`
+>   - 中译：该公司需要政府更多的财政援助。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/assistance
+> - The tow truck driver gave assistance to the stranded motorist. `[例]`
+>   - 中译：拖车司机对被困司机进行了救助。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/assistance
+> - Can I be of any assistance (= can I help ) , madam? `[例]`
+>   - 中译：女士，我可以帮忙吗？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/assistance
 
 ---
 

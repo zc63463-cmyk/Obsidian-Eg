@@ -3,10 +3,8 @@ title: "unknowable"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-25
-mastery: L0
 word_freq: 超纲词
 semantic_field: 理性世界
 prototype: 不可知的（无法被认识的）
@@ -43,7 +41,7 @@ un-(不，否定前缀) + [[know]](知道/认识) + -able(可被...的)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**不可知的**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **不可知的**（认知层面）
@@ -64,7 +62,7 @@ un-(不，否定前缀) + [[know]](知道/认识) + -able(可被...的)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +73,7 @@ un-(不，否定前缀) + [[know]](知道/认识) + -able(可被...的)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > know（知道）+ un-（不）+ -able → 不可知的。The future is unknowable.（未来是不可知的。）unknowable 比 uncertain 更极端——uncertain 是"不确定"，unknowable 是"根本不可能知道"。
@@ -87,7 +85,7 @@ un-(不，否定前缀) + [[know]](知道/认识) + -able(可被...的)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ un-(不，否定前缀) + [[know]](知道/认识) + -able(可被...的)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[knowable]]：可知的
 > - [[understandable]]：可以理解的
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,7 +116,7 @@ un-(不，否定前缀) + [[know]](知道/认识) + -able(可被...的)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **the unknowable future**：不可知的未来
 > - **fundamentally unknowable**：本质上不可知的
 > - **unknowable mysteries**：不可知的奥秘
@@ -126,19 +124,12 @@ un-(不，否定前缀) + [[know]](知道/认识) + -able(可被...的)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - A God whose nature is unknown and unknowable. `[例]`
 > - The truth in this story seems to be elusive and unknowable , and this circles back to your earlier question about what kind of assumptions are made about people with names like Saïd or Tamerlan. `[例]`
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-25 | **复习次数**：0 | **当前等级**：L0
-
----
-
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

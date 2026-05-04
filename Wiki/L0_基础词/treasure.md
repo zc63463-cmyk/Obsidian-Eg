@@ -134,7 +134,7 @@ treasure 源自古法语 *tresor*，来自拉丁语 *thesaurus*（宝库，仓�
 
 > [!example]- 语料
 > - Stories about pirates often include a search for buried treasure. `[例]`
-> - When they opened up the tomb they found treasure beyond their wildest dreams . `[例]`
+> - When they opened up the tomb they found treasure beyond their wildest dreams. `[例]`
 > - At the time , the painting was considered one of the world's greatest art treasures. `[例]`
 
 

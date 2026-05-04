@@ -129,9 +129,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The twins look alike , but they differ in temperament . `[例]`
-> - His views differ considerably from those of his parents . `[例]`
-> - The findings of the various studies differ significantly . `[例]`
+> - The twins look alike , but they differ in temperament. `[例]`
+>   - 中译：双胞胎外表相似，但气质不同。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/differ
+> - His views differ considerably from those of his parents. `[例]`
+>   - 中译：他的观点与他父母的观点有很大不同。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/differ
+> - The findings of the various studies differ significantly. `[例]`
+>   - 中译：各种研究的结果差异很大。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/differ
 
 ---
 

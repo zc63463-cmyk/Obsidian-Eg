@@ -128,8 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The new regulations have created a tangle of bureaucratic red tape that businesses find difficult to navigate."（新规定造成了一堆企业难以应对的官僚繁文缛节。——考研阅读政策话题相关表达）
-> - "She found herself tangled in a web of lies that she could no longer control."（她发现自己陷入了一张无法再控制的谎言网中。——考研翻译文学话题相关表达）
+> - She pulled the tangle of wires out of the box. `[例]`
+> - Her hair was in a tangle. `[例]`
+> - I tangled the cables and don’t know which is which. `[例]`
 
 
 ---

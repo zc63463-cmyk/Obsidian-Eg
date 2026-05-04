@@ -138,10 +138,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - He is unlikely to succeed in getting his bill through Congress , however worthy it is. `[例]`
-> - Every year she makes a large donation to a worthy cause . `[例]`
-> - Two points in this report are especially worthy of notice . `[例]`
-> - It was a worthy cause , and we were glad to make a contribution . `[例]`
+> - Very few of his ideas are worthy of further attention. `[例]`
+>   - 中译：他的想法中很少有值得进一步关注的。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/worthy
+> - A number of the report's findings are worthy of note. `[例]`
+>   - 中译：报告中的一些调查结果值得注意。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/worthy
+> - No composer was considered worthy of the name until he had written an opera. `[例]`
+>   - 中译：没有一位作曲家在写出一部歌剧之前被认为是名副其实的。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/worthy
 
 ---
 

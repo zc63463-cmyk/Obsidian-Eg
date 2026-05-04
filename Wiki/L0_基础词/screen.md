@@ -143,9 +143,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "With so much focus on children's use of screens, it's easy for parents to forget about their own screen use." `[真题]`
-> - "Medical officials will be screening all passengers arriving from affected areas." `[语料库]`
-> - "It is now possible to screen babies for diabetes." `[语料库]`
+> - With so much focus on children's use of screens, it's easy for parents to forget about their own screen use. `[真题]`
+> - Medical officials will be screening all passengers arriving from affected areas. `[例]`
+> - It is now possible to screen babies for diabetes. `[例]`
 
 
 ---

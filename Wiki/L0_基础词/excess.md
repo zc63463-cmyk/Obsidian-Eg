@@ -130,8 +130,8 @@ ex-(出，超出) + [[ced-cess|cess]](走) → 走出去超过 → 超出的部�
 
 > [!example]- 语料
 > - An excess of enthusiasm is not always a good thing. `[例]`
-> - They both eat to excess (= too much) . `[例]`
-> - There will be an increase in tax for those earning in excess of (= more than) twice the national average wage . `[例]`
+> - They both eat to excess (= too much). `[例]`
+> - There will be an increase in tax for those earning in excess of (= more than) twice the national average wage. `[例]`
 
 
 ---

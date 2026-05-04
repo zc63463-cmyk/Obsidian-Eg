@@ -136,7 +136,7 @@ empty 源自古英语 *æmettig*（空闲的，未被占用的），与拉丁语
 
 > [!example]- 语料
 > - If it's their vacation home anyway, and it's just empty, why c:an't you make money off it?" Hom said. `[真题]`
-> - Shall I take the empty bottles for recycling ? `[例]`
+> - Shall I take the empty bottles for recycling? `[例]`
 > - The train was empty (= there were no passengers ) by the time it reached London. `[例]`
 
 

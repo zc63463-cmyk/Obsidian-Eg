@@ -132,7 +132,7 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She injured her spine in a riding accident . `[例]`
+> - She injured her spine in a riding accident. `[例]`
 > - The Apennine mountains form the spine (= central row of mountains ) of Italy. `[例]`
 > - Be careful of the cactus spines. `[例]`
 

@@ -130,7 +130,7 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The probable cause of death was heart failure . `[例]`
+> - The probable cause of death was heart failure. `[例]`
 > - It is highly probable that at least a significant portion of these stars will have planets that are Earth-like. `[例]`
 > - An election in June seems increasingly probable. `[例]`
 

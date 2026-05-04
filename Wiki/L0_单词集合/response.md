@@ -130,9 +130,15 @@ re-(回/再) + spons(=spond, 承诺，拉丁语过去分词 *responsus*) = respo
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The agency was heavily criticised for its tardy response to the hurricane." `[真题]`
-> - "The group staged a protest in response to the war." `[COCA-ACAD]`
-> - "Her response to their decision was to quit." `[COCA-ACAD]`
+> - Responses to our advertisement have been disappointing. `[例]`
+>   - 中译：对我们广告的反应令人失望。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/response
+> - Her proposals met with an enthusiastic response. `[例]`
+>   - 中译：她的建议得到了热烈的响应。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/response
+> - I looked in her face for some response, but she just stared at me blankly. `[例]`
+>   - 中译：我看着她的脸，想做出什么反应，但她只是茫然地看着我。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/response
 
 
 ---

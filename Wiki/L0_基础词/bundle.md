@@ -127,9 +127,15 @@ bundle 源自中古荷兰语 *bondel*，是 *bond*（捆）的小词，源自 *b
 ## 真题/语料关联
 
 > [!example]- 语料
-> - A bundle of sticks. `[例]`
-> - She was bundled into the back of the car . `[例]`
-> - He bundled his clothes into the washing machine . `[例]`
+> - She held her little bundle (= her baby) tightly in her arms. `[例]`
+>   - 中译：她把她的小包裹（=她的孩子）紧紧地抱在怀里。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bundle
+> - He wasn't exactly a bundle of laughs (= a happy person to be with) last night. `[例]`
+>   - 中译：昨晚他并不是一个充满欢笑的人（=一个快乐的人）。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bundle
+> - That car must have cost a bundle. `[例]`
+>   - 中译：那辆车肯定花了一大笔钱。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bundle
 
 
 ---

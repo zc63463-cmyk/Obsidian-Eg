@@ -134,9 +134,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - For example, AI can be used to analyse what type of advertising content or copy would be appropriate to 'speak' to a specific target customer group by revealing information about trends and preferences through the analysis of big data. ( 46) AI can also be used to identify the lifestyle choices of customers regarding their hobbies, favourite celebrities, music choices, and fashions to provide unique content in marketing messages put out through social media. `[真题]`
-> - Each person's genetic code is unique except in the case of identical twins . `[例]`
-> - I'd recognize your handwriting anywhere - it's unique. `[例]`
+> - Everyone's fingerprints are unique. `[例]`
+>   - 中译：每个人的指纹都是独一无二的。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/unique
+> - Each item has a unique 6-digit code. `[例]`
+>   - 中译：每件商品都有一个唯一的 6 位数代码。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/unique
+> - Her lawyer said the case was unique in French law. `[例]`
+>   - 中译：她的律师表示，此案在法国法律中是独一无二的。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/unique
 
 ---
 

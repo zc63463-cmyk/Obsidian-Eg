@@ -128,9 +128,9 @@ e-(=ex-, 出) + voc/vok(呼唤，声音) + -e
 ## 真题/语料关联
 
 > [!example]- 语料
-> - That smell always evokes memories of my old school . `[例]`
+> - That smell always evokes memories of my old school. `[例]`
 > - A detergent designed to evoke the fresh smell of summer meadows. `[例]`
-> - The smell of chalk always evokes memories of my school days . `[例]`
+> - The smell of chalk always evokes memories of my school days. `[例]`
 
 
 ---

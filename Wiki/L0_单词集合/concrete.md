@@ -140,9 +140,15 @@ con-(一起) + crete(生长、凝结) = concrete（一起生长凝结 → 固化
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "We need concrete evidence to support this theory rather than mere speculation."（我们需要具体的证据来支持这一理论，而不是纯粹的猜测。）——考研高频表达
-> - "Could you give me a concrete example of how this policy would work in practice?"（你能给我一个具体的例子说明这项政策在实践中如何运作吗？）——考研高频表达
-> - "The government must translate its promises into concrete actions."（政府必须将承诺转化为具体行动。）——考研高频表达
+> - The bomb shelter has concrete walls that are three metres thick. `[例]`
+>   - 中译：防空洞有三米厚的混凝土墙。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/concrete
+> - The foundation of the house is built from rubble overlaid with concrete. `[例]`
+>   - 中译：房子的地基是用碎石建造的，上面覆盖着混凝土。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/concrete
+> - A row of reinforced concrete pillars supports the bridge. `[例]`
+>   - 中译：一排钢筋混凝土柱支撑着这座桥。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/concrete
 
 ---
 

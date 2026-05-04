@@ -125,7 +125,7 @@ review_count: 0
 
 > [!example]- 语料
 > - His memoir offers us a fascinating glimpse of a bygone era. `[例]`
-> - They had worked for peace during the long era of conflict . `[例]`
+> - They had worked for peace during the long era of conflict. `[例]`
 > - The fall of the Berlin wall marked the end of an era. `[例]`
 
 

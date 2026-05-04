@@ -130,7 +130,7 @@ review_count: 0
 
 > [!example]- 语料
 > - I'm going to Japan." "Lucky you! `[例]`
-> - The lucky winner will be able to choose from three different holidays . `[例]`
+> - The lucky winner will be able to choose from three different holidays. `[例]`
 > - They're lucky to have such a nice office to work in. `[例]`
 
 

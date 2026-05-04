@@ -134,9 +134,15 @@ vit/viv(生命，活) + -al(形容词后缀，表示"与...有关的")
 ## 真题/语料关联
 
 > [!example]- 语料
-> - A strong opposition is vital to a healthy democracy . `[例]`
-> - She had found out some information of vital importance . `[例]`
-> - It's absolutely vital that you do exactly as I say. `[例]`
+> - Patience and a cool head are vital for investors. `[例]`
+>   - 中译：耐心和冷静的头脑对于投资者来说至关重要。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/vital
+> - Good financial accounts are vital to the success of any enterprise. `[例]`
+>   - 中译：良好的财务账目对于任何企业的成功都至关重要。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/vital
+> - Reading is of vital importance in language learning. `[例]`
+>   - 中译：阅读对于语言学习至关重要。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/vital
 ---
 
 

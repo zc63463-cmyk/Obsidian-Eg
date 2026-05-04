@@ -134,9 +134,15 @@ com-(加强/一起) + [[press]](按压) = compress（用力压到一起）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The course compresses two years of material into a single intensive semester." `[例]`
-> - "The ability to compress complex information into a brief summary is a valuable skill." `[例]`
-> - "The software can compress large video files without significant loss of quality." `[COCA-ACAD]`
+> - Firmly compress the soil in the pot so that the plant is secure. `[例]`
+>   - 中译：用力压紧盆中的土壤，使植物牢固。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/compress
+> - The course compresses two years ' training into six intensive months. `[例]`
+>   - 中译：该课程将两年的培训压缩为六个月的强化培训。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/compress
+> - I managed to compress ten pages of notes into four paragraphs. `[例]`
+>   - 中译：我设法将十页笔记压缩成四段。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/compress
 
 ---
 

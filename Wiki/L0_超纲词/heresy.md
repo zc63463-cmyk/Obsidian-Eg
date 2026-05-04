@@ -3,10 +3,8 @@ title: "heresy"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 社会习俗
 prototype: 异端邪说（违背正统信仰的学说）
@@ -42,7 +40,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**异端邪说**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **异端邪说**（宗教层面）
@@ -63,7 +61,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -73,7 +71,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > heresy 源自希腊语 hairesis（选择）。在宗教时代，"自己选择"相信什么而不是接受教会正统 = 异端。记住：her（她）+ esy（联想 easy）→ 她轻易地选择了不同的信仰 → 她成了异端。或者更直接：heresy = 异端 = 不被允许的"选择"。
@@ -85,7 +83,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -97,13 +95,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[orthodoxy]]：正统学说（异端↔正统）
 > - [[dogma]]：教条（异端↔教条）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -114,7 +112,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **religious heresy**：宗教异端
 > - **be accused of heresy**：被指控为异端
 > - **political/intellectual heresy**：政治/思想异端
@@ -122,19 +120,12 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - Radical remarks like this amount to heresy for most members of the Republican party . `[例]`
-> - She committed the heresy of playing a Lady Gaga song on a classical music station . `[例]`
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
+> [!example]- 语料
+> - Radical remarks like this amount to heresy for most members of the Republican party. `[例]`
+> - She committed the heresy of playing a Lady Gaga song on a classical music station. `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -143,9 +143,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - It was a real slap in the face when they didn't invite me to the wedding. ` `[语料库]`
-> - He slapped me on the back and said "Good job!" ` `[语料库]`
-> - Harsh words can sting more than a slap across the face. ` `[语料库]`
+> - She gave her son a slap for behaving badly. `[例]`
+> - It was a real slap in the face for him when she refused to go out to dinner with him. `[例]`
+> - The police officer gave Minna a slap on the wrist for not wearing her seat belt. `[例]`
 
 
 ---

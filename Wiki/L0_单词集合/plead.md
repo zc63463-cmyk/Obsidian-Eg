@@ -127,10 +127,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - He pleaded guilty to the charges in court. `[真题]`
-> - She pleaded with him to change his mind. `[COCA-ACAD]`
-> - The organization pleaded with the government to provide more funding for education. `[COCA-ACAD]`
-> - He pleaded ignorance of the law when questioned by the investigators. `[COCA-NEWS]`
+> - She appeared on television to plead with the kidnappers. `[例]`
+>   - 中译：她出现在电视上向绑匪求情。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/plead
+> - Give us more time ," they pleaded. `[例]`
+>   - 中译：请给我们更多时间，”他们恳求道。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/plead
+> - Her voice was breaking with emotion as she pleaded for her child's return. `[例]`
+>   - 中译：当她恳求孩子回来时，她的声音因激动而破碎。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/plead
 
 ---
 

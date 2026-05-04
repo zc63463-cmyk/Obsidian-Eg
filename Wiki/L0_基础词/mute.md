@@ -136,8 +136,8 @@ mut-(沉默，拉丁语 *mutus*) + -e
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The president has remained mute about plans to curtail the number of immigrants . `[例]`
-> - I gazed at her in mute admiration . `[例]`
+> - The president has remained mute about plans to curtail the number of immigrants. `[例]`
+> - I gazed at her in mute admiration. `[例]`
 > - He was playing his trumpet with a mute. `[例]`
 
 

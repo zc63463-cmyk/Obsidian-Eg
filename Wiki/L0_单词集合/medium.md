@@ -141,10 +141,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Television remains a powerful medium for spreading information to a mass audience. `` `[COCA-ACAD]` ``
-> - Money serves as a medium of exchange in modern economies. `` `[真题]` ``
-> - We need to find a happy medium between speed and accuracy. `` `[COCA-ACAD]` ``
-> - She prefers medium-sized cities to large metropolises. `` `[COCA-ACAD]` ``
+> - My hairdryer has three settings - high, medium and low. `[例]`
+>   - 中译：我的吹风机有三种档位：高、中、低。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/medium
+> - I take a medium size in clothes. `[例]`
+>   - 中译：我穿中号的衣服。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/medium
+> - He earns a medium amount of money. `[例]`
+>   - 中译：他的收入中等。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/medium
 
 ---
 

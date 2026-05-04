@@ -3,10 +3,8 @@ title: "netball"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-25
-mastery: L0
 word_freq: 超纲词
 semantic_field: 社会习俗
 prototype: 无板篮球（一种主要在英联邦国家流行的团队球类运动）
@@ -43,7 +41,7 @@ net（网）+ ball（球）
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**投球入网的运动**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **投球入网的运动**（运动方式层面）
@@ -62,7 +60,7 @@ net（网）+ ball（球）
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -72,7 +70,7 @@ net（网）+ ball（球）
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > net（网）+ ball（球）= netball（无板篮球）。想象一群运动员在球场上传球，最终把球投进一个没有篮板的网里——这就是 netball。它主要在英联邦国家流行，类似篮球但不能运球。名字就是字面意思：net + ball。
@@ -84,7 +82,7 @@ net（网）+ ball（球）
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -95,12 +93,12 @@ net（网）+ ball（球）
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - 无精确反义词（netball 是特定运动项目名称）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -111,7 +109,7 @@ net（网）+ ball（球）
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **play netball**：打无板篮球
 > - **netball team/match**：无板球队/比赛
 > - **netball court**：无板篮球场
@@ -119,19 +117,12 @@ net（网）+ ball（球）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - `` `[例]` `` Netball is one of the most popular team sports among women in Australia and New Zealand. [C]
-> - `` `[例]` `` She has been playing netball since she was ten. [C]
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-25 | **复习次数**：0 | **当前等级**：L0
-
----
+> [!example]- 语料
+> - In December 2023 World Netball (WN) has launched the Rules of Netball 2024 Edition, along with free educational rules resources. `[例]`
+> - To ensure that all members of the Netball Family are educated on the new rules of netball, WN, in collaboration with NETFIT, have created educational resources, including videos and PDFs, detailing these changes. `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

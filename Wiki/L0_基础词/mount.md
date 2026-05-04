@@ -135,9 +135,9 @@ mount 源自拉丁语 *mons/mont-*（山），与 [[st-sta-stat]]（站立）词
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The children's excitement is mounting as Christmas gets nearer . `[例]`
+> - The children's excitement is mounting as Christmas gets nearer. `[例]`
 > - She mounted her horse and rode off. `[例]`
-> - He mounted the platform and began to speak to the assembled crowd . `[例]`
+> - He mounted the platform and began to speak to the assembled crowd. `[例]`
 
 
 ---

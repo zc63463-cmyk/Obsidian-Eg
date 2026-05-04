@@ -142,10 +142,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "fall ill"（生病）——考研阅读/翻译高频搭配
-> - "the ill effects of pollution"（污染的不良影响）——考研阅读环境类话题
-> - "ill at ease"（不安的）——考研阅读心理/社交类话题
-> - "ill will toward others"（对他人的恶意）——考研阅读常见搭配
+> - He's been ill with meningitis. `[例]`
+>   - 中译：他患有脑膜炎。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/ill
+> - He was admitted to hospital yesterday after being taken ill (= becoming ill). `[例]`
+>   - 中译：他昨天生病后入院。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/ill
+> - He is critically (= very badly ) ill in hospital. `[例]`
+>   - 中译：他在医院病重（=非常严重）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/ill
 
 ---
 

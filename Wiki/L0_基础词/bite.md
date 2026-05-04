@@ -134,9 +134,15 @@ bite(咬/叮，古英语 *bītan*)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - He bites his fingernails . `[例]`
-> - The fish aren't biting today. `[例]`
-> - Higher mortgage rates are beginning to bite. `[例]`
+> - Does your dog bite? `[例]`
+>   - 中译：你的狗咬人吗？
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bite
+> - Stop biting your nails! `[例]`
+>   - 中译：别再咬指甲了！
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bite
+> - Most European spiders don't bite. `[例]`
+>   - 中译：大多数欧洲蜘蛛不咬人。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bite
 
 
 ---

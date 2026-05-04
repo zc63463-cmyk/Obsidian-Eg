@@ -124,10 +124,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - We must not let the burning torch of socialism go out. `[COCA-FIC]`
-> - The debate between capitalism and socialism has shaped political discourse for centuries. `[真题]`
-> - Many European countries adopted elements of socialism in their welfare systems after World War II. `[真题]`
-> - Meanwhile we turn our eyes from a blight on our national life that socialism was invented to remedy. `[COCA-NEWS]`
+> - Equality is one of the pillars of socialism. `[例]`
+>   - 中译：平等是社会主义的支柱之一。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/socialism
+> - It was the famous speech in which he proclaimed that socialism was dead. `[例]`
+>   - 中译：这是他宣布社会主义已死的著名演讲。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/socialism
+> - We must not let the burning torch of socialism go out. `[例]`
+>   - 中译：我们决不能让社会主义的火炬熄灭。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/socialism
 
 
 ---

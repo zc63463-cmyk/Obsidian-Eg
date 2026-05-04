@@ -124,9 +124,9 @@ ortho-(正确的，希腊语 *orthos*) + dox(意见，希腊语 *doxa*，源自 
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He challenged the orthodox views on education and proposed a radically different approach." `[COCA-ACAD]`
-> - "Many of these ideas are now being incorporated into orthodox medical treatment." `[COCA-ACAD]`
-> - "Orthodox medicine rejects alternative therapies that lack rigorous scientific evidence." `[COCA-ACAD]`
+> - He challenged the orthodox views on education and proposed a radically different approach. `[COCA-ACAD]`
+> - Many of these ideas are now being incorporated into orthodox medical treatment. `[COCA-ACAD]`
+> - Orthodox medicine rejects alternative therapies that lack rigorous scientific evidence. `[COCA-ACAD]`
 
 
 ---

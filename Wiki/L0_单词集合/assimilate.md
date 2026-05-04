@@ -124,10 +124,15 @@ as-(=ad-，朝向、加强) + simul-(相似) + -ate(动词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - People who are or become assimilated in a society become similar to others by learning and adopting the culture and customs of that society. `[真题]`
-> - Immigrants often struggle to assimilate into a new culture while preserving their own identity. `[COCA-ACAD]`
-> - It takes time for students to assimilate new information and apply it effectively. `[COCA-ACAD]`
-> - The body assimilates nutrients from food through the digestive system. `[例]`
+> - The European Union should remain flexible enough to assimilate more countries quickly. `[例]`
+>   - 中译：欧盟应该保持足够的灵活性，以便迅速同化更多国家。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/assimilate
+> - You shouldn't expect immigrants to assimilate into an alien culture immediately. `[例]`
+>   - 中译：你不应该期望移民立即融入外来文化。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/assimilate
+> - It's hard to assimilate so much information. `[例]`
+>   - 中译：吸收这么多信息很困难。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/assimilate
 
 ---
 

@@ -126,9 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - I've always been prone to headaches . `[例]`
-> - The photograph showed a man lying prone on the pavement , a puddle of blood around his head . `[例]`
-> - How many people do you need to prone a patient ? `[例]`
+> - I've always been prone to headaches. `[例]`
+> - The photograph showed a man lying prone on the pavement , a puddle of blood around his head. `[例]`
+> - How many people do you need to prone a patient? `[例]`
 
 
 ---

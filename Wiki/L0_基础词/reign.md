@@ -134,10 +134,9 @@ reign 源自古法语 *reign*，拉丁语 *regnum*（王国，统治），词根
 ## 真题/语料关联
 
 > [!example]- 语料
-> - When public opinion is particularly polarised, as it was following the end of the Franco regime, monarchs can rise above 'mere' politics and 'embody' a spirit of national unity. `[真题]`
-> - Queen Victoria reigned over Britain from 1837 to 1901. `[权威词典]`
-> - Chaos reigned in the classroom after the teacher left. `[权威词典]`
-> - Peace would then reign over the world. `[权威词典]`
+> - Queen Victoria reigned over Britain from 1837 to 1901. `[例]`
+> - Chaos reigned in the classroom after the teacher left. `[例]`
+> - Peace would then reign over the world. `[例]`
 
 
 ---

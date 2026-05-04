@@ -132,9 +132,9 @@ e-(=ex-, 向外) + [[ject]](投掷，拉丁语 *jacere* 的过去分词 *jectus*
 ## 真题/语料关联
 
 > [!example]- 语料
-> - When endangered, octopuses eject an inky substance, which is used as a screen. `[语料库]`
-> - A number of fans had been ejected from the bar for causing trouble. `[语料库]`
-> - The pilot had to eject from his burning plane when the engines cut out. `[语料库]`
+> - When endangered, octopuses eject an inky substance, which is used as a screen. `[例]`
+> - A number of fans had been ejected from the bar for causing trouble. `[例]`
+> - The pilot had to eject from his burning plane when the engines cut out. `[例]`
 
 
 ---

@@ -128,9 +128,15 @@ blade 源自古英语 *blæd*（叶子，草叶），源自原始日耳曼语 *\
 ## 真题/语料关联
 
 > [!example]- 语料
-> - A packet of razor blades. `[例]`
-> - A blade of grass. `[例]`
-> - The blades, made from lightweight carbon fibre , store kinetic energy in a similar fashion to a spring and allow the athlete to run and jump . `[例]`
+> - The machine comes with a plastic guard over the blade to protect the operator. `[例]`
+>   - 中译：该机器在刀片上配有塑料防护罩，以保护操作员。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/blade
+> - Not a blade of grass stirred. `[例]`
+>   - 中译：连一根草叶都没有动静。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/blade
+> - Artificial Grass Artificial grass looks just like real grass, even down to its shaggy cut and blades of differing shapes and colors. `[例]`
+>   - 中译：人造草 人造草看起来就像真草一样，甚至连其毛茸茸的切口和不同形状和颜色的叶片也是如此。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/blade
 
 
 ---

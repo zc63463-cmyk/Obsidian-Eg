@@ -118,9 +118,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Processed meats such as sausages and bacon have been linked to an increased risk of certain diseases." `[COCA-NEWS]`
-> - "Bangers and mash is a common British dish consisting of sausages and mashed potatoes." `[COCA-ACAD]`
-> - "He cooked pork sausages on the grill until they were brown and crispy." `[例]`
+> - Processed meats such as sausages and bacon have been linked to an increased risk of certain diseases. `[COCA-NEWS]`
+> - Bangers and mash is a common British dish consisting of sausages and mashed potatoes. `[COCA-ACAD]`
+> - He cooked pork sausages on the grill until they were brown and crispy. `[例]`
 
 
 ---

@@ -137,9 +137,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Music has always been his passion." `` `[COCA-ACAD]` ``
-> - "Her performance is full of passion and originality." `` `[COCA-ACAD]` ``
-> - "He had a passion for academic excellence that came from his competitive spirit." `` `[真题]` ``
+> - Big-name PRH authors may suffer a bit, but it's those mid-list authors, who normally rely on Waterstones staff's passion for promoting books by lesser-known writers, who will be praying for an end to the dispute. `[真题]`
+>   - 中译：知名公关作家可能会受到一些影响，但那些通常依靠 Waterstones 工作人员推销不太知名作家的书籍的中等作家将祈祷争端结束。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - Football arouses a good deal of passion among its fans. `[例]`
+>   - 中译：足球在球迷中激起了极大的热情。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/passion
+> - At school , his early interest in music developed into an abiding passion. `[例]`
+>   - 中译：在学校里，他早期对音乐的兴趣发展成为持久的热情。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/passion
 
 ---
 

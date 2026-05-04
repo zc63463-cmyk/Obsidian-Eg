@@ -123,9 +123,15 @@ e-/em-(出，向外) + min(突出，源自拉丁语 *eminere*) + ent(形容词�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Many **eminent** scientists from around the world have contributed to this volume. `` `[COCA-ACAD]` ``
-> - Darwin's nemesis was the **eminent** physicist Lord Kelvin, and the weapon used against him was the age of the Earth. `` `[COCA-ACAD]` ``
-> - He is regarded as the most **eminent** criminal psychologist in Britain. `` `[COCA-NEWS]` ``
+> - The commission consisted of fifteen eminent political figures. `[例]`
+>   - 中译：该委员会由十五位杰出政治人物组成。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/eminent
+> - This shows eminent good sense. `[例]`
+>   - 中译：这显示出卓越的判断力。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/eminent
+> - The trend discerned by Wilde a century ago, of course, has only accelerated in recent years, as the line between trashy celebrity exposés and serious biographies of eminent artists, statesmen and thinkers has grown increasingly blurred. `[例]`
+>   - 中译：当然，王尔德在一个世纪前就发现的趋势在最近几年才有所加速，因为垃圾名人曝光与杰出艺术家、政治家和思想家的严肃传记之间的界限变得越来越模糊。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/eminent
 
 ---
 

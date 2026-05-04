@@ -123,9 +123,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - A car engine needs to be well lubricated with oil . `[例]`
-> - Applying a few drops of oil on a key will clean and lubricate the moving parts of the lock , extending its life . `[例]`
-> - Disconnect the ignition and rely on the starter motor to turn the engine several times so that oil can lubricate the moving parts . `[例]`
+> - A car engine needs to be well lubricated with oil. `[例]`
+> - Applying a few drops of oil on a key will clean and lubricate the moving parts of the lock , extending its life. `[例]`
+> - Disconnect the ignition and rely on the starter motor to turn the engine several times so that oil can lubricate the moving parts. `[例]`
 
 
 ---

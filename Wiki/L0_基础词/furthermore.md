@@ -119,9 +119,9 @@ further（更进一步）+ more（更多）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The internet has revolutionized communication. Furthermore, it has transformed the way we access information." `[真题]`
-> - "Furthermore, earlier marriage reinforces this trend, because graduates will be spending a greater proportion of their childbearing years in marriage." `[语料库]`
-> - "The majority of Americans increased their wealth in the past decade. Furthermore, the gains were substantial." `[语料库]`
+> - The internet has revolutionized communication. Furthermore, it has transformed the way we access information. `[真题]`
+> - Furthermore, earlier marriage reinforces this trend, because graduates will be spending a greater proportion of their childbearing years in marriage. `[例]`
+> - The majority of Americans increased their wealth in the past decade. Furthermore, the gains were substantial. `[例]`
 
 
 ---

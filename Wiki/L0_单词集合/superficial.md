@@ -126,9 +126,15 @@ super-（在上方，建议创建词根笔记 [[super]]）+ fac（表面/做，[
 ## 真题/语料关联
 
 > [!example]- 语料
-> - He's fun to be with, but he's very superficial. `[例]`
 > - The book shows only a superficial understanding of the historical context. `[例]`
-> - I thought that article was written at a very superficial level . `[例]`
+>   - 中译：这本书仅展示了对历史背景的粗浅了解。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/superficial
+> - When you first meet her, she gives a superficial impression of warmth and friendliness. `[例]`
+>   - 中译：当你第一次见到她时，她给人的表面印象是热情和友善。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/superficial
+> - The movie bears a fairly superficial resemblance to the original novel. `[例]`
+>   - 中译：这部电影与原著小说有相当表面的相似之处。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/superficial
 
 
 ---

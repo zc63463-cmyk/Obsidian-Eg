@@ -124,9 +124,15 @@ ac-(=ad-，向) + com-(共同) + pan(=panis，面包) + -y(名词/动词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Children under 12 must be **accompanied** by an adult.（12岁以下儿童须由成人陪同。）
-> - Economic growth is often **accompanied** by environmental degradation.（经济增长往往伴随着环境恶化。）
-> - She **accompanied** the singer on the guitar.（她用吉他为歌手伴奏。）
+> - The course books are accompanied by four CDs. `[例]`
+>   - 中译：课程书籍附有四张 CD。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/accompany
+> - Depression is almost always accompanied by insomnia. `[例]`
+>   - 中译：抑郁症几乎总是伴随着失眠。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/accompany
+> - The salmon was accompanied by (= served with) a fresh green salad. `[例]`
+>   - 中译：三文鱼配上新鲜的绿色沙拉。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/accompany
 
 ---
 

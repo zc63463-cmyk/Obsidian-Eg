@@ -127,10 +127,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The smartphone market has become increasingly saturated, making it difficult for new entrants to gain a significant market share." `[真题]`
-> - "Modern society is saturated with information, yet people often find it harder than ever to distinguish fact from fiction." `[真题]`
-> - "The heavy rain will saturate the ground." `[权威语料]`
-> - "The media coverage was saturated with speculation about the event." `[权威语料]`
+> - The smartphone market has become increasingly saturated, making it difficult for new entrants to gain a significant market share. `[真题]`
+> - Modern society is saturated with information, yet people often find it harder than ever to distinguish fact from fiction. `[真题]`
+> - The heavy rain will saturate the ground. `[例]`
+> - The media coverage was saturated with speculation about the event. `[例]`
 
 
 ---

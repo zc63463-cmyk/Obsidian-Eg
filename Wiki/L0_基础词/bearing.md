@@ -129,10 +129,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "How well these tasks are performed has a direct bearing on organizational performance." `[COCA-ACAD]`
-> - "What you decide now could have a considerable bearing on your future." `[COCA-ACAD]`
-> - "We climb out to take our bearings." `[COCA-FIC]`
-> - "It's sometimes hard to get your bearings in the dark." `[COCA-FIC]`
+> - Recent events had no bearing on our decision. `[例]`
+>   - 中译：最近发生的事件对我们的决定没有影响。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bearing
+> - Regular exercise has a direct bearing on fitness and health. `[例]`
+>   - 中译：经常锻炼对身体健康有直接影响。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bearing
+> - Her comments didn’t have much bearing on the subject. `[例]`
+>   - 中译：她的评论与这个主题没有太大关系。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bearing
 
 
 ---

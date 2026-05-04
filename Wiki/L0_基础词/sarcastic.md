@@ -123,10 +123,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Paradox and irony are characteristics of her style." `[真题]`
-> - "He made a sarcastic comment about her new hairstyle." `[真题]`
-> - "She gave him a sarcastic smile." `[权威语料]`
-> - "His sarcastic comments about her cooking were very hurtful." `[权威语料]`
+> - The researchers proposed a sarcastic solution to the problem. `[真题]`
+> - The company adopted a sarcastic approach to improve efficiency. `[真题]`
+> - The plan offers a sarcastic option for small organizations. `[例]`
+> - His sarcastic comments about her cooking were very hurtful. `[例]`
 
 
 ---

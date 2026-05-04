@@ -137,9 +137,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "I must have scraped some of the paint off when I was parking the car." `[真题]`
-> - "Both my brothers have university degrees, but I just scraped through a couple of A-levels." `[真题]`
-> - "The company was struggling financially but somehow managed to scrape through the recession." `[语料库]`
+> - I must have scraped some of the paint off when I was parking the car. `[真题]`
+> - Both my brothers have university degrees, but I just scraped through a couple of A-levels. `[真题]`
+> - The company was struggling financially but somehow managed to scrape through the recession. `[例]`
 
 
 ---

@@ -3,10 +3,8 @@ title: "dogma"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 理性世界
 prototype: 被规定好的意见（不容质疑的教条）
@@ -43,7 +41,7 @@ dogma(希腊语 *dogma*，意见/法令/教条)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以“**被规定好的意见（不容质疑的教条）**”为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **被规定的意见**（权威层面）
@@ -64,7 +62,7 @@ dogma(希腊语 *dogma*，意见/法令/教条)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ dogma(希腊语 *dogma*，意见/法令/教条)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > dogma = 教条。记住 dog（狗）+ ma → 像狗一样死守自己的意见 → 教条。虽然词源不是这样，但这个记忆法很有效——dogma 就是死咬不放的信念。
@@ -86,7 +84,7 @@ dogma(希腊语 *dogma*，意见/法令/教条)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ dogma(希腊语 *dogma*，意见/法令/教条)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[open-mindedness]]：开放心态（dogma 的反义：教条↔开放）
 > - [[skepticism]]：怀疑精神（dogma 的反义：盲信↔怀疑）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -116,27 +114,20 @@ dogma(希腊语 *dogma*，意见/法令/教条)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **religious dogma**：宗教教条
 > - **challenge/question the dogma**：质疑教条
 > - **scientific dogma**：科学教条
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - Scientific progress often requires challenging established dogma. `[例]`
 > - The organization was criticized for being rigidly bound by outdated dogma. `[例]`
 > - Religious dogma should not be used to justify discrimination. `[例]`
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
-
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

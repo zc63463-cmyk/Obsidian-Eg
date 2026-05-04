@@ -135,9 +135,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - If this government win the next election , I'm leaving the country . `[例]`
-> - Everyone likes winning an argument . `[例]`
-> - She would do anything to win his love . `[例]`
+> - She loves to win an argument. `[例]`
+>   - 中译：她喜欢赢得争论。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/win
+> - How many states did the Republicans win? `[例]`
+>   - 中译：共和党赢得了多少个州？
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/win
+> - Everyone who takes part wins a small prize. `[例]`
+>   - 中译：每个参与的人都会赢得一份小奖品。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/win
 
 ---
 

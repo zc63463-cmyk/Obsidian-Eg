@@ -139,8 +139,14 @@ not-（=notare，标记，知道，来自拉丁语 *notare*，to mark/to note）
 
 > [!example]- 语料
 > - He left a note to say he would be home late. `[例]`
+>   - 中译：他留下了一张纸条说他会晚点回家。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/note
 > - There's a note on the door saying when the shop will open again. `[例]`
-> - The wind blew my notes all over the room . `[例]`
+>   - 中译：门上贴了一张纸条，写着商店什么时候重新开门。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/note
+> - The wind blew my notes all over the room. `[例]`
+>   - 中译：风把我的笔记吹得到处都是。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/note
 
 ---
 

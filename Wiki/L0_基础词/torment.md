@@ -125,7 +125,7 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The family said they had endured years of torment and abuse at the hands of their neighbours . `[例]`
+> - The family said they had endured years of torment and abuse at the hands of their neighbours. `[例]`
 > - Waiting for the result of the medical tests was sheer torment. `[例]`
 > - He spent the night in torment, trying to decide what was the best thing to do. `[例]`
 

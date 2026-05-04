@@ -129,10 +129,15 @@ intro-（向内，进入）+ [[tract|duc]]（=ducere，引导，来自拉丁语 
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The introduction of new working practices has dramatically improved productivity." `[COCA-ACAD]`
-> - "The introduction sets out the background and methodology of the research and repeats some of the important caveats about qualitative attitude research." `[COCA-ACAD]`
-> - "The introduction of the euro was a landmark in European economic history." `[COCA-ACAD]`
-> - "This book provides a comprehensive introduction to his writings." `[COCA-ACAD]`
+> - The introduction of new working practices has dramatically improved productivity. `[例]`
+>   - 中译：新工作方式的引入极大地提高了生产力。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/introduction
+> - Within a year of its introduction, questions began to emerge about the safety of the drug. `[例]`
+>   - 中译：推出后一年内，有关该药物安全性的问题开始出现。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/introduction
+> - The introduction of the tube into the artery is a very delicate procedure. `[例]`
+>   - 中译：将管子引入动脉是一个非常精细的过程。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/introduction
 
 ---
 

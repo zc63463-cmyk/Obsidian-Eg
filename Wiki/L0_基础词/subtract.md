@@ -125,9 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - If you subtract 7 from 15, you get 8 as the result. `[真题]`
 > - The new tax law will subtract a significant amount from our yearly income. `[真题]`
 > - We need to subtract the cost of materials before calculating the final profit margin. `[真题]`
+> - Four subtracted from ten equals six. `[例]`
 
 
 ---

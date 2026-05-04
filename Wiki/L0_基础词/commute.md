@@ -125,9 +125,15 @@ com-(=con-, 共同/一起) + [[mut-mutat|mut-]](改变，交换，拉丁语 *mut
 ## 真题/语料关联
 
 > [!example]- 语料
-> - It's exhausting commuting from Brighton to London every day . `[例]`
-> - People used to believe that you could commute base metals into gold . `[例]`
-> - Her sentence was commuted from death to life imprisonment . `[例]`
+> - She commutes from Oxford to London every day. `[例]`
+>   - 中译：她每天从牛津到伦敦。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/commute
+> - She commutes from Sunset Park to Manhattan each morning. `[例]`
+>   - 中译：她每天早上从日落公园到曼哈顿。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/commute
+> - He spent that year commuting between New York and Chicago. `[例]`
+>   - 中译：那一年他往返于纽约和芝加哥之间。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/commute
 
 
 ---

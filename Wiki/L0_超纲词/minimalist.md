@@ -3,10 +3,8 @@ title: "minimalist"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 人本世界
 prototype: 追求极简的人或风格
@@ -44,7 +42,7 @@ minim(最小，拉丁语 *minimus*) + -al(形容词后缀) + -ist(人/主义)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**追求极简**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **追求极简**（理念层面）
@@ -65,7 +63,7 @@ minim(最小，拉丁语 *minimus*) + -al(形容词后缀) + -ist(人/主义)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ minim(最小，拉丁语 *minimus*) + -al(形容词后缀) + -ist(人/主义)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > minimal（最小的）+ -ist（人）= minimalist（极简主义者）。Apple 的设计就是 minimalist 的代表——干净的界面、简单的线条、没有多余的装饰。minimalist 不是"穷"，而是"精准"——每一件东西都有存在的理由。
@@ -88,7 +86,7 @@ minim(最小，拉丁语 *minimus*) + -al(形容词后缀) + -ist(人/主义)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +98,13 @@ minim(最小，拉丁语 *minimus*) + -al(形容词后缀) + -ist(人/主义)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[maximalist]]：极繁主义者（minimalist 的精确反义：极简↔极繁）
 > - [[extravagant]]：奢华的（minimalist 的反义：极简↔奢华）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,26 +117,19 @@ minim(最小，拉丁语 *minimus*) + -al(形容词后缀) + -ist(人/主义)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **minimalist design/lifestyle**：极简设计/极简生活方式
 > - **a minimalist approach**：极简的方法
 > - **minimalist aesthetic**：极简美学
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - The set for the ballet is minimalist - white walls and a chair . `[例]`
+> [!example]- 语料
+> - The set for the ballet is minimalist - white walls and a chair. `[例]`
 > - The party's minimalist approach to economic policy. `[例]`
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

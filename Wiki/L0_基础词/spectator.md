@@ -133,7 +133,7 @@ review_count: 0
 > [!example]- 语料
 > - They won 4–0 in front of over 40,000 cheering spectators. `[例]`
 > - The stadium was packed with cheering spectators. `[例]`
-> - A few incredulous spectators watched as Paterson, ranked 23rd in the world , beat the champion . `[例]`
+> - A few incredulous spectators watched as Paterson, ranked 23rd in the world , beat the champion. `[例]`
 
 
 ---

@@ -137,9 +137,15 @@ sub-(在下面) + 建议创建词根笔记 [[st/sta]](站立) + -ant(名词/形�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The findings show a substantial difference between the opinions of men and women. `[例]`
-> - She inherited a substantial fortune from her grandmother . `[例]`
-> - The first draft of his novel needed a substantial amount of rewriting . `[例]`
+> - Substantial numbers of people support the reforms. `[例]`
+>   - 中译：大量民众支持改革。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/substantial
+> - There are substantial differences between the two groups. `[例]`
+>   - 中译：两组之间存在显着差异。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/substantial
+> - Their share of the software market is substantial. `[例]`
+>   - 中译：他们在软件市场上的份额很大。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/substantial
 
 ---
 

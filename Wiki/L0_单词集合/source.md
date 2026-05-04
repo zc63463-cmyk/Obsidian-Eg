@@ -126,10 +126,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - The Internet has become a major source of information for students and researchers. `[真题]`
-> > - The journalist refused to reveal the identity of her source. `[真题]`
-> > - Customer complaints are a very important source of information for improving service quality. `[COCA-ACAD]`
-> > - Money is often a source of tension and disagreements in young married couples. `[COCA-ACAD]`
+> - Oranges are a good source of vitamin C. `[例]`
+>   - 中译：橙子是维生素C的良好来源。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/source
+> - Experts are trying to track down the source of the contamination in the water supply. `[例]`
+>   - 中译：专家们正在努力追查供水中的污染源。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/source
+> - We walked up the river to its source in the hills. `[例]`
+>   - 中译：我们沿着河向山上的源头走去。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/source
 
 ---
 

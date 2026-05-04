@@ -126,8 +126,14 @@ psych(灵魂、心灵) + -ology(名词后缀，表示"…学")
 
 > [!example]- 语料
 > - She studied psychology at Harvard. `[例]`
-> - It is a movie that describes the Vietnam War experience , examining the psychology of the soldier . `[例]`
-> - She studied behavioural psychology at college . `[例]`
+>   - 中译：她在哈佛大学学习心理学。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/psychology
+> - It is a movie that describes the Vietnam War experience , examining the psychology of the soldier. `[例]`
+>   - 中译：这是一部描述越南战争经历、审视士兵心理的电影。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/psychology
+> - She studied behavioural psychology at college. `[例]`
+>   - 中译：她在大学学习行为心理学。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/psychology
 
 ---
 

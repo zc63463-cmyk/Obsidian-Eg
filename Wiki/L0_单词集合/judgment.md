@@ -129,10 +129,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The court granted a judgment in favor of the plaintiffs." `[COCA-ACAD]`
-> - "It's not something I can give you rules for—you'll have to use your judgment." `[COCA-ACAD]`
-> - "The accident was caused by an error of judgment on the part of the pilot." `[COCA-ACAD]`
-> - "It is very hard, but it's worth it, in my judgment." `[COCA-ACAD]`
+> - He has shown good judgment with this decision. `[例]`
+>   - 中译：他的这个决定表现出了良好的判断力。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/judgment
+> - The speech demonstrates sound judgment. `[例]`
+>   - 中译：演讲展现了正确的判断力。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/judgment
+> - This is a man who has shown poor judgment over and over again. `[例]`
+>   - 中译：这是一个一再表现出错误判断力的人。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/judgment
 
 ---
 

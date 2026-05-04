@@ -127,9 +127,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She felt she had been discriminated against because of her age . `[例]`
-> - In order to increase the number of female representatives , the selection committee decided to discriminate in favour of women for three years . `[例]`
-> - Police dogs can discriminate between the different smells . `[例]`
+> - She felt she had been discriminated against because of her age. `[例]`
+>   - 中译：她觉得自己因为年龄而受到歧视。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/discriminate
+> - In order to increase the number of female representatives , the selection committee decided to discriminate in favour of women for three years. `[例]`
+>   - 中译：为了增加女性代表的数量，选委会决定对女性实行三年歧视。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/discriminate
+> - Police dogs can discriminate between the different smells. `[例]`
+>   - 中译：警犬可以区分不同的气味。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/discriminate
 
 ---
 

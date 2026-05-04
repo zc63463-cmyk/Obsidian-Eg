@@ -124,9 +124,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The accident victims mostly had injuries to their lower limbs (= legs ) . `[例]`
-> - These vessels supply blood to the head , neck , and upper limbs (= arms ) . `[例]`
-> - An 18-year-old student at California State University died yesterday when she was struck by a falling limb from a large oak tree . `[例]`
+> - The accident victims mostly had injuries to their lower limbs (= legs ). `[例]`
+> - These vessels supply blood to the head , neck , and upper limbs (= arms ). `[例]`
+> - An 18-year-old student at California State University died yesterday when she was struck by a falling limb from a large oak tree. `[例]`
 
 
 ---

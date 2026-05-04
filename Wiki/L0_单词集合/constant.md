@@ -124,9 +124,15 @@ con-（一起）+ [[sta|sta-]]（站立）+ -nt（形容词后缀）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The world is in a state of constant change, and it is necessary to keep up with the latest developments." `[真题]`
-> - "He lived in constant fear of being discovered." `[真题]`
-> - "The speed of light is a constant in physics." `[COCA-ACAD]`
+> - He's in constant trouble with the police. `[例]`
+>   - 中译：他经常与警察发生冲突。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/constant
+> - I can't concentrate with Ann's constant chatter. `[例]`
+>   - 中译：安不停地喋喋不休，我无法集中注意力。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/constant
+> - I have to combat this constant desire to eat chocolate. `[例]`
+>   - 中译：我必须克服这种持续不断的吃巧克力的欲望。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/constant
 
 ---
 

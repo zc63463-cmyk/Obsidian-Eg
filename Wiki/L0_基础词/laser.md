@@ -127,8 +127,8 @@ LASER = **L**ight **A**mplification by **S**timulated **E**mission of **R**adiat
 
 > [!example]- 语料
 > - Doctors destroyed the tumor with a laser. `[例]`
-> - It shines a laser beam on to the surface of the disc to read the pattern of the bumps . `[例]`
-> - Our team are engaged in the research of laser technology . `[例]`
+> - It shines a laser beam on to the surface of the disc to read the pattern of the bumps. `[例]`
+> - Our team are engaged in the research of laser technology. `[例]`
 
 
 ---

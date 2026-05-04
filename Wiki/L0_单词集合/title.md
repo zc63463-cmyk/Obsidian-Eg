@@ -138,9 +138,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - We are not boycotting PRH titles but we are doing our utmost to ensure that availability for customers remains good despite the lower overall levels of stock. `[真题]`
-> - The scientific community measures the quality of those papers in a number of ways, including the perceived quality of the journal ( as reflected by the title's impact factor) and the number of citations a specific paper accumulates. `[真题]`
-> - The title of Evelyn Waugh's first novel was "Decline and Fall". `[例]`
+> - What's title of her new book? `[例]`
+>   - 中译：她的新书的书名是什么？
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/title
+> - Some of his song titles and lyrics have also attracted criticism. `[例]`
+>   - 中译：他的一些歌名和歌词也招致了批评。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/title
+> - His poems were published under the title of ‘Love and Reason’. `[例]`
+>   - 中译：他的诗作以《爱与理性》为题出版。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/title
 
 ---
 

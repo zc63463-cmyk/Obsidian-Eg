@@ -133,9 +133,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Given equivalent retest correlations, the effect size is increased by larger differences in raw scores and decreased by larger variance." `[真题]`
-> - "The mere mention of John had touched a very raw nerve indeed." `[真题]`
-> - "The researchers collected raw data from the experiment." `[真题]`
+> - Given equivalent retest correlations, the effect size is increased by larger differences in raw scores and decreased by larger variance. `[真题]`
+> - The mere mention of John had touched a very raw nerve indeed. `[真题]`
+> - The researchers collected raw data from the experiment. `[真题]`
 
 
 ---

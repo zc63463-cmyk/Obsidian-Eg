@@ -128,9 +128,9 @@ per-（通过，[[per]]）+ fume（烟，拉丁语 *fumus*）
 
 > [!example]- 语料
 > - The air was thick with the perfume of jasmine. `[真题]`
-> - She spritzed a floral perfume on her wrists before leaving the house. `[语料库]`
-> - A delicate perfume lingered in the empty room long after she had gone. `[文学]`
-> - The room was filled with the scent of jasmine perfume. `[语料库]`
+> - She spritzed a floral perfume on her wrists before leaving the house. `[例]`
+> - A delicate perfume lingered in the empty room long after she had gone. `[例]`
+> - The room was filled with the scent of jasmine perfume. `[例]`
 
 
 ---

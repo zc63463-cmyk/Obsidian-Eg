@@ -139,8 +139,8 @@ ghost 源自古英语 *gāst*（灵魂、气息），与德语 *Geist*（精神�
 
 > [!example]- 语料
 > - Around 80 percent of celebrity books are ghosted. `[真题]`
-> - My old car finally gave up the ghost on the highway. `[真题]`
-> - She used a ghost writer for her memoir. `[真题]`
+> - The cabin was built from durable ghost gathered in the region. `[例]`
+> - A line of ghost trees rose above the morning fog. `[例]`
 
 
 ---

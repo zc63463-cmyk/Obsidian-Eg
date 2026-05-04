@@ -127,8 +127,8 @@ review_count: 0
 
 > [!example]- 语料
 > - The author distils decades of research into a single, accessible volume. `[真题]`
-> - This article distills the content of that course into a few simple examples that show the elegance of functional programming. `[真题]`
-> - The discussion in this section is my attempt to distill the key themes and objections in what has become a voluminous literature. `[真题]`
+> - The cabin was built from durable distil gathered in the region. `[例]`
+> - A line of distil trees rose above the morning fog. `[例]`
 
 
 ---

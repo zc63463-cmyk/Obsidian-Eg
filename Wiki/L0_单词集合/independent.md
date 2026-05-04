@@ -133,9 +133,15 @@ in-(不) + de-(向下) + pend(悬挂) + -ent(形容词后缀，表示状态) →
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The report confirmed that the investigation was conducted by an independent panel. `[真题]`
-> - Another laboratory has provided independent confirmation of the test results. `[COCA-ACAD]`
-> - The government ordered an independent inquiry into the affair. `[COCA-ACAD]`
+> - An independent enquiry will determine whether the case should move forward. `[例]`
+>   - 中译：独立调查将决定案件是否应继续推进。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/independent
+> - The audit will be done by an independent organization. `[例]`
+>   - 中译：审核将由独立组织进行。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/independent
+> - They all made the same comment , quite independent of each other (= without deciding together to do so). `[例]`
+>   - 中译：他们都发表了相同的评论，彼此完全独立（=没有共同决定这样做）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/independent
 
 ---
 

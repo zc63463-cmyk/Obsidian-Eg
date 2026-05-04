@@ -127,9 +127,15 @@ a-(加强语气，to) + [[part]](部分，分开)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The two issues should be treated apart from each other. `[例]`
-> - Apart from a few minor flaws, the essay is well written. `[例]`
-> - The twins are so similar that it is hard to tell them apart. `[例]`
+> - How far apart should the speakers be? `[例]`
+>   - 中译：扬声器之间的距离应该是多少？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/apart
+> - We were asked to stand in two lines three metres apart. `[例]`
+>   - 中译：我们被要求站成两排，相距三米。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/apart
+> - The two lines of children moved slowly apart. `[例]`
+>   - 中译：两排孩子慢慢分开。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/apart
 
 ---
 

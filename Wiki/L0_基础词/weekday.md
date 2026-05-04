@@ -117,10 +117,8 @@ week(周) + day(天)
 
 > [!example]- 语料
 > - The museum is open on weekdays from 9 a.m. to 5 p.m. `[真题]`
-> - She scheduled her doctor's appointments for weekday mornings to avoid the crowds. `[外刊]`
-> - The weekday lunch rush at the restaurant was always busy with office workers. `[外刊]`
-> - The entrance fee is $2 on weekdays or $1 on the weekends. `[真题]`
-> - A one-way weekday adult train ticket will be $3.50. `[真题]`
+> - She scheduled her doctor's appointments for weekday mornings to avoid the crowds. `[例]`
+> - The weekday lunch rush at the restaurant was always busy with office workers. `[例]`
 
 
 ---

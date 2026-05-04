@@ -119,9 +119,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The most unique feature of Little Gasparilla Island is that there is no bridge connecting the island to the mainland." `[COCA-NEWS]`
-> - "Many young people from rural areas migrate to the mainland in search of better job opportunities and higher wages." `[COCA-ACAD]`
-> - "The bridge connecting the island to the mainland was completed after five years of construction." `[例]`
+> - The most unique feature of Little Gasparilla Island is that there is no bridge connecting the island to the mainland. `[COCA-NEWS]`
+> - Many young people from rural areas migrate to the mainland in search of better job opportunities and higher wages. `[COCA-ACAD]`
+> - The bridge connecting the island to the mainland was completed after five years of construction. `[例]`
 
 
 ---

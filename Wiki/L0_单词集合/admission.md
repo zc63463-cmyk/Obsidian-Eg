@@ -123,8 +123,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Admission to top universities has become increasingly competitive in recent years."（近年来，进入顶尖大学的竞争日益激烈。）——考研高频表达
-> - "His admission of guilt surprised everyone who had believed in his innocence."（他认罪令所有相信他无辜的人感到惊讶。）——考研高频表达
+> - Her silence was taken as an admission of guilt. `[例]`
+>   - 中译：她的沉默被视为认罪。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/admission
+> - By his own admission (= as he has said) , he has achieved little since he took over the company. `[例]`
+>   - 中译：据他自己承认（=正如他所说），自从他接管公司以来，他几乎没有取得什么成就。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/admission
+> - I felt he would see my giving up now as an admission that I was wrong. `[例]`
+>   - 中译：我觉得他会认为我现在放弃就等于承认我错了。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/admission
 
 
 ---

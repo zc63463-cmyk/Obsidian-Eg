@@ -134,10 +134,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - `The network will be down for an hour for routine maintenance.` `[COCA-ACAD]`
-> - `The new ships, propelled by gas turbines, require less maintenance than older, steam-driven ones.` `[COCA-ACAD]`
-> - `The magazine offers tips on cutting your house maintenance costs.` `[COCA-NEWS]`
-> - `There are thorough maintenance checks on each plane before takeoff.` `[COCA-NEWS]`
+> - Old houses need a lot of maintenance. `[例]`
+>   - 中译：老房子需要大量的维护。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/maintenance
+> - There are thorough maintenance checks on each plane before take-off. `[例]`
+>   - 中译：每架飞机在起飞前都会进行彻底的维护检查。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/maintenance
+> - The magazine offers tips on cutting your house maintenance costs. `[例]`
+>   - 中译：该杂志提供了降低房屋维护成本的技巧。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/maintenance
 
 ---
 

@@ -131,11 +131,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The things that bring the greatest joy carry the greatest potential for loss and disappointment. `[真题]`
-> - We will lose a vital part of what has made humanity as a whole so successful as a species. `[真题]`
-> - She lost her job when the company moved its operations to another state. `[COCA-NEWS]`
-> - The government had lost all credibility after the series of policy failures. `[COCA-NEWS]`
-> - He lost his temper during the meeting and stormed out of the room. `[COCA-FIC]`
+> - Big publishers will lose their dominance. `[真题]`
+>   - 中译：大型出版商将失去主导地位。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - By allowing AI to develop content some brand marketers may find that they are losing control over the brand narrative. ( 48 ) Algorithms that are used to simulate human interactions are creating mmy of these concerns, especially as no-one is quite sure what the outcomes of using AI to interact with customers will be. `[真题]`
+>   - 中译：通过允许人工智能开发内容，一些品牌营销人员可能会发现他们正在失去对品牌叙事的控制。 ( 48 ) 用于模拟人类交互的算法正在引发这些担忧，特别是因为没有人完全确定使用人工智能与客户交互的结果会是什么。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - He's always losing his car keys. `[例]`
+>   - 中译：他总是丢车钥匙。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/lose
 
 ---
 

@@ -126,9 +126,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - One of the properties of copper is that it conducts heat and electricity very well. `[COCA-ACAD]`
-> - Brass is an alloy of copper and zinc. `[COCA-ACAD]`
-> - A kind lady stopped, took a copper coin from her purse and dropped it into the cap. `[COCA-FIC]`
+> - I only paid a few coppers for it. `[例]`
+>   - 中译：我只付了几个铜板。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/copper
+> - Apparently, her dad's a copper. `[例]`
+>   - 中译：显然，她的父亲是个铜人。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/copper
+> - There are a couple of coppers waiting outside. `[例]`
+>   - 中译：外面已经有几个警察在等着了。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/copper
 
 
 ---

@@ -136,9 +136,15 @@ clip 源自古英语 *clyppan*（拥抱、夹紧），与 clamp（夹钳）同�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The wires were fastened together with a plastic clip. `[例]`
-> - We set off at a good clip, but we gradually slowed down. `[例]`
-> - That hedge needs a clip. `[例]`
+> - Here is a clip from her latest movie. `[例]`
+>   - 中译：这是她最新电影的剪辑。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/clip
+> - He gave the hedge a clip. `[例]`
+>   - 中译：他给树篱剪了一个夹子。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/clip
+> - She gave him a clip round the ear for being cheeky. `[例]`
+>   - 中译：她因为他厚脸皮而打了他的耳朵。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/clip
 
 
 ---

@@ -128,10 +128,15 @@ enter-(在内) + prise(抓住)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The American economic system is organized around a basically private-enterprise, market-oriented economy in which consumers largely determine what shall be produced." `[真题]`
-> - "When he purchased the company it was a thriving commercial enterprise." `[COCA-ACAD]`
-> - "Few relationships are as critical to the business enterprise itself as the relationship to government." `[COCA-ACAD]`
-> - "Moving the drilling rig offshore was a costly enterprise." `[COCA]`
+> - Don't forget this is a commercial enterprise - we're here to make money. `[例]`
+>   - 中译：别忘了这是一家商业企业——我们是来赚钱的。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/enterprise
+> - Those were the years of private enterprise (= businesses being run privately , rather than by the government ) , when lots of small businesses were started. `[例]`
+>   - 中译：那是私营企业（=企业由私人经营，而不是由政府经营）的年代，许多小企业开始兴起。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/enterprise
+> - Her latest enterprise (= plan ) is to climb Mount Everest. `[例]`
+>   - 中译：她最新的事业（=计划）是攀登珠穆朗玛峰。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/enterprise
 
 ---
 

@@ -127,9 +127,15 @@ norm-（来自拉丁语 *norma*，木匠的角尺，标准，来自印欧语系 
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Europe's varied cultural , political and ethical norms. `[例]`
-> - One child per family is fast becoming the norm in some countries . `[例]`
+> - One child per family is fast becoming the norm in some countries. `[例]`
+>   - 中译：在一些国家，每个家庭生一个孩子正在迅速成为常态。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/norm
 > - Illness has become the norm for her. `[例]`
+>   - 中译：生病对她来说已经成了家常便饭。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/norm
+> - These standards generally exceed the accepted industry norms. `[例]`
+>   - 中译：这些标准普遍超出了公认的行业规范。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/norm
 
 ---
 

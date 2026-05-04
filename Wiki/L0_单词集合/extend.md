@@ -129,8 +129,15 @@ ex-(=out, 向外) + [[tend-tens|tend]](=伸展，拉丁语 *tendere*)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "How we read a given text also depends to some extent on our particular interest in reading it."（我们如何阅读一个既定的文本，在某种程度上也取决于我们阅读它的特定兴趣。——2015年考研英语一新题型）
-> - "Even employment protection laws, if they do not put the jobs of ordinary workers at risk, limit firms' productivity to the extent that they restrict the owners' ability to fire underperforming managers."（即使就业保护法不会使普通员工的岗位处于危险之中，但只要其在某种程度上限制企业所有者解雇表现不佳的经理，这些法律就限制了企业的生产率。——考研英语真题）
+> - We have plans to extend our house (= to make it bigger ). `[例]`
+>   - 中译：我们计划扩建我们的房子（=让它变得更大）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/extend
+> - The government has produced a series of leaflets designed to extend (= increase ) public awareness of the dangers of AIDS. `[例]`
+>   - 中译：政府制作了一系列传单，旨在提高（=提高）公众对艾滋病危险的认识。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/extend
+> - We're planning to extend our publishing of children's books (= increase it). `[例]`
+>   - 中译：我们计划扩大儿童读物的出版范围（=增加）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/extend
 
 ---
 

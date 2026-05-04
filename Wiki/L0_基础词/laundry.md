@@ -128,7 +128,7 @@ laund（洗涤，源自古法语 *lavandier*，洗衣人，最终来自拉丁语
 > [!example]- 语料
 > - I've got to do (= wash ) my laundry. `[例]`
 > - Piles of dirty laundry. `[例]`
-> - Evidence of the bank serving as a money laundry in the bailout scandal has been identified . `[例]`
+> - Evidence of the bank serving as a money laundry in the bailout scandal has been identified. `[例]`
 
 
 ---

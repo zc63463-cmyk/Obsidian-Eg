@@ -140,10 +140,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Our house is worth £200,000. `[例]`
-> - Heroin worth about $5 million was seized . `[例]`
-> - She must be worth at least half a million. `[例]`
-> - Four days ' car hire costs £150, which is well worth it for the freedom it gives you. `[例]`
+> - How much is this painting worth? `[例]`
+>   - 中译：这幅画值多少钱？
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/worth
+> - If you answer this question correctly, it's worth five points. `[例]`
+>   - 中译：如果你正确回答这个问题，就得五分。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/worth
+> - This order is potentially worth millions of pounds to the company. `[例]`
+>   - 中译：该订单对该公司来说可能价值数百万英镑。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/worth
 
 ---
 

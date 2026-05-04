@@ -124,8 +124,8 @@ review_count: 0
 
 > [!example]- 语料
 > - He had taken an oath and would not break it. `[例]`
-> - Medieval knights took an oath of allegiance to their lord . `[例]`
-> - They had to publicly pledge an oath of loyalty to the government . `[例]`
+> - Medieval knights took an oath of allegiance to their lord. `[例]`
+> - They had to publicly pledge an oath of loyalty to the government. `[例]`
 
 
 ---

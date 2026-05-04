@@ -121,8 +121,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He dropped a hint that he might be considering resignation."（他暗示自己可能正在考虑辞职。）——考研高频表达
-> - "There was a hint of irony in her voice when she said that."（她说那句话时语气中带着一丝讽刺。）——考研高频表达
+> - He's dropped (= given) several hints to the boss that he'll quit if he doesn't get a promotion. `[例]`
+>   - 中译：他向老板多次暗示，如果他得不到升职，他就会辞职。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/hint
+> - Margaret dropped (= gave) a hint that she'd like to come to the party. `[例]`
+>   - 中译：玛格丽特暗示（=给出）她想参加聚会。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/hint
+> - Did she give you any hints about where she was going? `[例]`
+>   - 中译：她有没有给你任何关于她要去哪里的暗示？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/hint
 
 ---
 

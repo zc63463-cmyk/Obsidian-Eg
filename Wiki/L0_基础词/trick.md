@@ -131,9 +131,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She played a really nasty trick on me - she put syrup in my shampoo bottle ! `[例]`
+> - She played a really nasty trick on me - she put syrup in my shampoo bottle! `[例]`
 > - My niece was showing me all the tricks that she's learned to do with her new magic set. `[例]`
-> - It's trick photography - she's supposed to look like she's walking on water . `[例]`
+> - It's trick photography - she's supposed to look like she's walking on water. `[例]`
 
 
 ---

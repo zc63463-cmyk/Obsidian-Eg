@@ -126,9 +126,15 @@ con-(=completely，完全地) + fid(=trust，信任) + -ent(形容词后缀，�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Team-building skills are in short supply: only 21% of executives feel confident in their ability to build cross-functional teams. `[真题]`
-> - The researchers are confident that the new drug will prove effective in clinical trials. `[真题]`
-> - She is confident of winning the championship this season. `[COCA-ACAD]`
+> - He was very confident of victory. `[例]`
+>   - 中译：他对胜利非常有信心。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/confident
+> - They are confident of getting the needed votes. `[例]`
+>   - 中译：他们有信心获得所需的选票。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/confident
+> - Be a bit more confident in yourself! `[例]`
+>   - 中译：对自己更有信心一点！
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/confident
 
 ---
 

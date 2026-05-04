@@ -132,9 +132,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - There was an abrupt change in her attitude towards me when she heard that I was Alan's boyfriend . `[例]`
-> - The car juddered and came to an abrupt halt in the middle of the road . `[例]`
-> - The road ended in an abrupt (= sudden and very steep ) slope down to the sea . `[例]`
+> - He indicated Isabel with an abrupt movement of his head. `[例]`
+>   - 中译：他突然摇头示意伊莎贝尔。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/abrupt
+> - She was very abrupt with me in our meeting. `[例]`
+>   - 中译：在我们的会面中，她对我非常唐突。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/abrupt
+> - There was an abrupt change in the weather. `[例]`
+>   - 中译：天气突然发生了变化。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/abrupt
 
 
 ---

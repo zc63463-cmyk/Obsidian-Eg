@@ -122,8 +122,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Folk wisdom has it that early birds catch the worm.（民间智慧说，早起的鸟儿有虫吃。）
-> - The folk singer drew a large crowd at the festival.（这位民谣歌手在音乐节上吸引了大量观众。）
+> - Ordinary folk can't afford cars like that. `[例]`
+>   - 中译：普通老百姓买不起这样的车。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/folk
+> - There are a lot of old folk living in this town. `[例]`
+>   - 中译：这个镇上住着很多老人。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/folk
+> - All right , folks, dinner's ready! `[例]`
+>   - 中译：好了，各位，晚餐准备好了！
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/folk
 
 ---
 

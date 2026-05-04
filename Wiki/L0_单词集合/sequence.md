@@ -121,10 +121,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> 1. The exact sequence of events remains uncertain. `[真题]`
-> 2. Experts suggest that speech stages are reached in a fixed sequence. `[真题]`
-> 3. A sequence of events since last spring made a showdown over these issues almost inevitable. `[COCA-ACAD]`
-> 4. The project is nothing less than mapping every gene sequence in the human body. `[COCA-ACAD]`
+> - The first chapter describes the strange sequence of events that led to his death. `[例]`
+>   - 中译：第一章描述了导致他死亡的一系列奇怪的事件。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/sequence
+> - Is there a particular sequence in which you have to perform these tasks? `[例]`
+>   - 中译：执行这些任务是否有特定的顺序？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/sequence
+> - For the sake of convenience the photographs are shown in chronological sequence (= in the order in which they were taken). `[例]`
+>   - 中译：为了方便起见，照片按时间顺序显示（=按照拍摄顺序）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/sequence
 
 ---
 

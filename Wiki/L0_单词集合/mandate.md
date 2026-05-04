@@ -135,11 +135,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The President and his supporters are almost certain to read this vote as a mandate for continued economic reform. `[COCA-NEWS]`
-> - The president secured the Congressional mandate to go to war by three votes. `[COCA-ACAD]`
-> - The court mandated that the company pay compensation to the affected workers. `[COCA-ACAD]`
-> - The government gave the police a mandate to reduce crime in the city. `[COCA-NEWS]`
-> - The new law stipulates that sixty per cent of all constitutionally mandated state funding must be allocated to primary education. `[COCA-ACAD]`
+> - The bill requires every rental host to register with the state , mandates they carry insurance , and opens the potential for local taxes on top of a new state levy. `[真题]`
+>   - 中译：该法案要求每个租赁房东向州政府注册，强制他们购买保险，并在新的州征税基础上开辟了征收地方税的可能性。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - At the forthcoming elections , the government will be seeking a fresh mandate from the people. `[例]`
+>   - 中译：在即将举行的选举中，政府将寻求人民的新授权。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/mandate
+> - The president secured the Congressional mandate to go to war by three votes. `[例]`
+>   - 中译：总统以三票的优势获得了国会发动战争的授权。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/mandate
 
 ---
 

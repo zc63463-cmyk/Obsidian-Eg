@@ -3,10 +3,8 @@ title: "improper"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 社会习俗
 prototype: 不合适的、不正确的
@@ -43,7 +41,7 @@ im-(=in-, 不) + [[propri|proper]](适当的/自己的) + -ar(形容词后缀)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以“**不合适的、不正确的**”为统筹中心，沿社会路径向外扩展：
 >
 1. **不在适当位置上**（社会规范层面）
@@ -65,7 +63,7 @@ im-(=in-, 不) + [[propri|proper]](适当的/自己的) + -ar(形容词后缀)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 |------|------|----------|
@@ -75,7 +73,7 @@ im-(=in-, 不) + [[propri|proper]](适当的/自己的) + -ar(形容词后缀)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > im（不）+ proper（适当的/自己的）→ 不合适的。proper 是“放在正确位置上的”，improper 就是“放错位置的”——行为放错位置叫不恰当，用词放错位置叫不正确。
@@ -84,7 +82,7 @@ im-(=in-, 不) + [[propri|proper]](适当的/自己的) + -ar(形容词后缀)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 |------|------------|---------|---------|---------|
@@ -97,13 +95,13 @@ im-(=in-, 不) + [[propri|proper]](适当的/自己的) + -ar(形容词后缀)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[proper]]：适当的（improper 的精确反义：不合适↔适当）
 - [[appropriate]]：恰当的
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 |--------|---------|------|---------|
@@ -117,26 +115,19 @@ im-(=in-, 不) + [[propri|proper]](适当的/自己的) + -ar(形容词后缀)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **improper behavior/conduct**：不当行为
 - **improper use**：不当使用
 - **improper disposal**：不当处理
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - It is improper to discuss salary during a job interview. `[例]`
 > - The report criticized the improper disposal of hazardous waste by the factory. `[例]`
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
-
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

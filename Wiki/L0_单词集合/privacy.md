@@ -134,8 +134,14 @@ priv(个人/单独) + -acy(名词后缀，表状态/性质) = privacy（个人�
 
 > [!example]- 语料
 > - The new law is designed to protect people's privacy. `[例]`
+>   - 中译：新法律旨在保护人们的隐私。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/privacy
 > - I hate sharing a bedroom - I never get any privacy. `[例]`
-> - A fence would give us more privacy in the backyard . `[例]`
+>   - 中译：我讨厌共用一间卧室——我从来没有任何隐私。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/privacy
+> - You can close this curtain to give you a little more privacy. `[例]`
+>   - 中译：您可以拉上窗帘，为您提供更多隐私。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/privacy
 ---
 
 

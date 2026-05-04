@@ -123,7 +123,15 @@ a-(=ad-, 向，对) + gree(=grat, 感激，令人愉悦) + -able(可被……的
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The management and the union agreed on a new contract that was agreeable to both sides.（管理层和工会就一项双方都能接受的新合同达成了一致。）
+> - We spent a most agreeable evening by the river. `[例]`
+>   - 中译：我们在河边度过了一个最愉快的夜晚。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/agreeable
+> - The talks are aimed at finding a mutually agreeable solution. `[例]`
+>   - 中译：会谈的目的是找到双方都同意的解决方案。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/agreeable
+> - We need to find a compromise that is agreeable to both sides of the party. `[例]`
+>   - 中译：我们需要找到一个双方都同意的妥协方案。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/agreeable
 
 ---
 

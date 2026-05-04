@@ -137,8 +137,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The whole office was in a state of disorder. `[例]`
-> - The opposition party have been in such disorder for so long that they pose no real threat to the present government . `[例]`
+>   - 中译：整个办公室一片混乱。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/disorder
+> - The opposition party have been in such disorder for so long that they pose no real threat to the present government. `[例]`
+>   - 中译：反对党长期处于混乱状态，对现政府没有构成真正的威胁。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/disorder
 > - She was born with a rare blood disorder. `[例]`
+>   - 中译：她出生时患有一种罕见的血液疾病。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/disorder
 ---
 
 

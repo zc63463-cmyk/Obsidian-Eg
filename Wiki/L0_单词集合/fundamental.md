@@ -127,8 +127,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Freedom of speech is a fundamental right in a democratic society."（言论自由是民主社会的一项基本权利。）——考研高频表达
-> - "There are fundamental differences between the two approaches to education."（这两种教育方法之间存在根本性的差异。）——考研高频表达
+> - We need to make fundamental changes to the way in which we treat our environment. `[例]`
+>   - 中译：我们需要从根本上改变我们对待环境的方式。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/fundamental
+> - It's one of the fundamental differences between men and women. `[例]`
+>   - 中译：这是男性和女性之间的根本差异之一。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/fundamental
+> - The school is based on the fundamental principle that all children should reach their full potential. `[例]`
+>   - 中译：学校的基本原则是所有儿童都应充分发挥潜力。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/fundamental
 
 ---
 

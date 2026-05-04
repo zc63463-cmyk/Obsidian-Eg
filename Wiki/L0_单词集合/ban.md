@@ -126,9 +126,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The government banned the use of certain chemicals in agricultural production. `[COCA-ACAD]`
-> - A ban on smoking in public places was introduced to protect public health. `[COCA-ACAD]`
-> - He was banned from driving for two years after the accident. `[例]`
+> - The film was banned (= the government prevented it from being shown ) in several countries. `[例]`
+>   - 中译：这部电影在几个国家被禁（=政府阻止上映）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/ban
+> - She was banned from driv ing for two years. `[例]`
+>   - 中译：她被禁止开车两年。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/ban
+> - The council plans to ban circuses with performing animals. `[例]`
+>   - 中译：该委员会计划禁止马戏团表演动物。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/ban
 
 ---
 

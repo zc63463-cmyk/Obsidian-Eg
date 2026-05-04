@@ -125,7 +125,7 @@ huge（源自中古英语 *huge*，可能来自古诺尔斯语 *hugr*（思想�
 
 > [!example]- 语料
 > - The costs involved in building a spacecraft are huge. `[例]`
-> - A huge number of people attended . `[例]`
+> - A huge number of people attended. `[例]`
 > - His last three movies have all been huge successes. `[例]`
 
 

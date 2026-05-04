@@ -136,10 +136,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She was showered with awards for her outstanding contribution. `[COCA-ACAD]`
-> - A sudden shower forced us to take shelter. `[例]`
-> - She shook the bottle violently and showered us with champagne. `[COCA-ACAD]`
-> - I heard a massive explosion, and seconds later fragments of glass were showering down on us. `[COCA-ACAD]`
+> - The shower is broken - you'll have to have a bath. `[例]`
+>   - 中译：淋浴坏了——你得洗个澡。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/shower
+> - Many British homes have a shower attachment fixed to the bath taps. `[例]`
+>   - 中译：许多英国家庭的浴缸水龙头上都装有淋浴装置。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/shower
+> - Where can I find a shower curtain that doesn't go mouldy at the bottom? `[例]`
+>   - 中译：哪里可以找到底部不会发霉的浴帘？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/shower
 
 ---
 

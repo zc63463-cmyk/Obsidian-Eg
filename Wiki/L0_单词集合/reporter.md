@@ -116,9 +116,15 @@ re-(回) + [[port|port]](携带) + -er(人) → 把信息带回来的人 → 记
 ## 真题/语料关联
 
 > [!example]- 语料
-> - `[真题]` The reporter asked the politician several tough questions during the press conference.
-> - `[真题]` The idea that the journalist must understand the law more profoundly than an ordinary citizen rests on an understanding of the established conventions and special responsibilities of the news media.
-> - `[COCA-ACAD]` The reporters' personal interpretations hold no place in the exposition of facts.
+> - She bluffed the doorman into thinking that she was a reporter. `[例]`
+>   - 中译：她欺骗门卫，让他以为她是记者。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/reporter
+> - Now we're going live to our reporter in Washington for up-to-the-minute news on the crisis. `[例]`
+>   - 中译：现在我们将向华盛顿的记者直播有关这场危机的最新消息。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/reporter
+> - A large crowd of reporters collected outside the prime minister's house. `[例]`
+>   - 中译：一大群记者聚集在总理官邸外。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/reporter
 
 
 ---

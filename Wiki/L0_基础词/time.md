@@ -140,7 +140,7 @@ review_count: 0
 > [!example]- 语料
 > - For this reason, caravanserais were strategically placed 9 they could be reached in a day's travel time. `[真题]`
 > - Without enough affordable housing in southern New Hampshire towns, "employers are having a hard time attracting employees, and workers are having a hard time finding a place to live, " Taylor said. `[真题]`
-> - He wants to spend more time with his family . `[例]`
+> - He wants to spend more time with his family. `[例]`
 
 
 ---

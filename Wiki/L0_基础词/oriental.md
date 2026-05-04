@@ -131,9 +131,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Oriental art, with its emphasis on harmony and balance, has profoundly influenced Western aesthetics since the 19th century." `[COCA-ACAD]`
-> - "The museum houses an impressive collection of Oriental ceramics, including rare porcelain from the Ming Dynasty." `[COCA-ACAD]`
-> - "She studied Oriental languages at the university and became fluent in Mandarin and Japanese." `[COCA-ACAD]`
+> - Oriental art, with its emphasis on harmony and balance, has profoundly influenced Western aesthetics since the 19th century. `[COCA-ACAD]`
+> - The museum houses an impressive collection of Oriental ceramics, including rare porcelain from the Ming Dynasty. `[COCA-ACAD]`
+> - She studied Oriental languages at the university and became fluent in Mandarin and Japanese. `[COCA-ACAD]`
 
 
 ---

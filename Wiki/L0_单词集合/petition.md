@@ -124,9 +124,15 @@ pet(=seek/strive，寻求/追求) + -ition(名词后缀，表动作/状态)（�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - More than 30,000 people have signed an online petition to keep them in charge. `[COCA-ACAD]`
-> - They plan to petition the governor to increase funding for the project. `[COCA-ACAD]`
-> - She's filing a petition for divorce. `[COCA-ACAD]`
+> - I signed a petition against the proposed closure of the local hospital today. `[例]`
+>   - 中译：我今天签署了一份反对关闭当地医院的请愿书。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/petition
+> - She's filing a petition for divorce. `[例]`
+>   - 中译：她正在提出离婚申请。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/petition
+> - I think we should petition the government to increase the grant for the project. `[例]`
+>   - 中译：我认为我们应该请求政府增加该项目的拨款。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/petition
 
 ---
 

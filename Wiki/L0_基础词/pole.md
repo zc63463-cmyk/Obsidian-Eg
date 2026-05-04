@@ -128,8 +128,8 @@ review_count: 0
 
 > [!example]- 语料
 > - A flag fluttered from a 40-foot pole. `[例]`
-> - On uphill stretches , adjustable walking poles can transfer some of your weight to the upper body . `[例]`
-> - A hiking pole helps you to keep your balance on uneven terrain . `[例]`
+> - On uphill stretches , adjustable walking poles can transfer some of your weight to the upper body. `[例]`
+> - A hiking pole helps you to keep your balance on uneven terrain. `[例]`
 
 
 ---

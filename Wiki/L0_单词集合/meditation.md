@@ -132,10 +132,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Mindfulness meditation has been shown to reduce stress and improve emotional well-being. `` `[COCA-ACAD]` ``
-> - She practices meditation every morning as part of her daily routine. `` `[COCA-ACAD]` ``
-> - Marcus Aurelius' Meditations remains one of the greatest works of Stoic philosophy. `` `[真题]` ``
-> - After years of meditation, he achieved a state of inner peace. `` `[例]` ``
+> - Let us spend a few moments in quiet meditation. `[例]`
+>   - 中译：让我们花一些时间进行安静的冥想。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/meditation
+> - The book is a meditation on the morality of art. `[例]`
+>   - 中译：这本书是对艺术道德的沉思。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/meditation
+> - He was deep in meditation and didn't see me come in. `[例]`
+>   - 中译：他正在沉思，没有看到我进来。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/meditation
 
 ---
 

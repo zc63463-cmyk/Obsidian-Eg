@@ -137,9 +137,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The tumour had shrunk to the size of a pea." `[牛津词典]`
-> - "The market for their products is shrinking." `[牛津词典]`
-> - "Treatment can shrink a tumour." `[朗文词典]`
+> - The market for their products is shrinking. `[例]`
+> - Treatment can shrink a tumour. `[例]`
+> - Your sweater will shrink if you wash it at too high a temperature. `[例]`
 
 
 ---

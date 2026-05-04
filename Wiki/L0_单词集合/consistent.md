@@ -122,9 +122,15 @@ con-（一起）+ [[sist|sist-]]（站立）+ -ent（形容词后缀）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The results are consistent with previous findings in the field." `[真题]`
-> - "He has been consistent in his opposition to the new policy." `[真题]`
-> - "Consistent exercise is essential for maintaining good health." `[COCA-ACAD]`
+> - There has been a consistent improvement in her attitude. `[例]`
+>   - 中译：她的态度不断得到改善。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/consistent
+> - Her work is sometimes good, but the problem is she's not consistent. `[例]`
+>   - 中译：她的工作有时不错，但问题是她不稳定。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/consistent
+> - There has been a consistent increase in burglaries round here. `[例]`
+>   - 中译：这里的入室盗窃案持续增加。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/consistent
 
 ---
 

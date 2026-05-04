@@ -126,10 +126,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The sun was hot, and there were no trees to offer us shade. `[真题]`
-> - There are many shades of opinion on this issue, making it difficult to reach a consensus. `[真题]`
-> - The children played in the shade of a large beach umbrella. `[COCA-ACAD]`
-> - The word has many shades of meaning depending on the context in which it is used. `[COCA-ACAD]`
+> - The sun was hot , and there were no trees to offer us shade. `[例]`
+>   - 中译：太阳很毒辣，没有树木可以给我们遮荫。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/shade
+> - The lamps all had matching purple shades. `[例]`
+>   - 中译：这些灯都有相配的紫色色调。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/shade
+> - A good artist can produce a very realistic effect using only light and shade. `[例]`
+>   - 中译：优秀的艺术家仅使用光和影就能产生非常逼真的效果。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/shade
 
 
 ---

@@ -3,10 +3,8 @@ title: "beacon"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 社会习俗
 prototype: 烽火，信号火（山顶或塔上的引导之火）
@@ -46,7 +44,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**烽火/信号火（黑暗中的引导之光）**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **烽火/信号火**（物理层面，古英语时期）
@@ -68,7 +66,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -79,7 +77,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 古代英国的海岸线上，每隔几英里就有一座高塔，塔顶在夜间燃起熊熊大火。远航的水手在茫茫大海上看到这团火光，就知道——陆地就在那个方向。这就是 beacon。千年来，beacon 从山顶的烽火变成灯塔的电光，但它的使命从未改变：在黑暗中为迷途者照亮方向。所以当人们说"She is a beacon of hope"时，他们是在说：她就像黑暗中的灯塔，照亮了所有人的路。
@@ -91,7 +89,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,13 +102,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[obstacle]]：障碍（beacon 的功能反义：引导↔阻碍）
 > - [[darkness]]：黑暗（beacon 的环境反义：照亮黑暗↔黑暗本身）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +118,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a beacon of hope**：希望的灯塔/希望的象征
   - The new treatment offers a beacon of hope for patients with rare diseases.（这种新疗法为罕见病患者提供了希望的灯塔。）
 > - **beacon light**：信标灯，灯塔
@@ -130,19 +128,12 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - The university has long been a beacon of academic excellence and intellectual freedom. `[例]`
 > - In the darkness of the Great Depression, Roosevelt's fireside chats served as a beacon of reassurance. `[例]`
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
-
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -129,9 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The president granted a pardon to the convicted man before leaving office." `[真题]`
-> - "Pardon me for interrupting, but I have an urgent message." `[真题]`
-> - "I beg your pardon, but I believe you are mistaken." `[Cambridge Corpus]`
+> - The president granted a pardon to the convicted man before leaving office. `[真题]`
+> - Pardon me for interrupting, but I have an urgent message. `[真题]`
+> - I beg your pardon, but I believe you are mistaken. `[例]`
 
 
 ---

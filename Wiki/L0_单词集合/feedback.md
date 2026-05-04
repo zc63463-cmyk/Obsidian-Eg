@@ -122,8 +122,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Customer **feedback** is essential for improving product quality.（客户反馈对于提高产品质量至关重要。）
-> - The research team collected **feedback** from over 500 participants.（研究团队收集了500多名参与者的反馈。）
+> - Have you had any feedback from customers about the new soap? `[例]`
+>   - 中译：您有顾客对新肥皂的反馈吗？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/feedback
+> - There was a lot of positive feedback which was very encouraging. `[例]`
+>   - 中译：有很多积极的反馈，非常令人鼓舞。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/feedback
+> - We are always grateful to receive feedback from our listeners. `[例]`
+>   - 中译：我们总是很高兴收到听众的反馈。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/feedback
 
 ---
 

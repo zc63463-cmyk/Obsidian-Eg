@@ -128,9 +128,15 @@ vis/vid(看) + -ual(形容词后缀，表示"与...有关的")
 ## 真题/语料关联
 
 > [!example]- 语料
-> - As an effective Washington operator, Hayden sensed that he could capitalize on the expedition's stunning visuals. `[真题]`
-> - The wildlife programme has some stunning visuals. `[例]`
-> - Using both words and visuals makes it easier for students to focus on and improve their writing methods . `[例]`
+> - The building makes a tremendous visual impact. `[例]`
+>   - 中译：这座建筑给人以巨大的视觉冲击力。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/visual
+> - I have a very good visual memory. `[例]`
+>   - 中译：我有很好的视觉记忆力。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/visual
+> - A reader creates visual images of the characters in a novel. `[例]`
+>   - 中译：读者创造小说中人物的视觉形象。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/visual
 ---
 
 

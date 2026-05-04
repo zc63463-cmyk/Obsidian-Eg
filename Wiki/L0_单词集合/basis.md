@@ -135,9 +135,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The conclusion was drawn on the basis of extensive research data. `[例]`
-> - These findings form the basis of our discussion today. `[例]`
-> - She exercises on a regular basis to maintain her health. `[例]`
+> - This document will form the basis for our discussion. `[例]`
+>   - 中译：本文件将构成我们讨论的基础。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/basis
+> - Decisions were often made on the basis of (= using) incorrect information. `[例]`
+>   - 中译：决策常常是根据（=使用）不正确的信息做出的。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/basis
+> - Their proposals have no proven scientific basis. `[例]`
+>   - 中译：他们的建议没有经过证实的科学依据。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/basis
 
 ---
 

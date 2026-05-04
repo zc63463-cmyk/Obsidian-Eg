@@ -137,8 +137,8 @@ fame 源自古法语 fame，来自拉丁语 *fāma*（谈论、传闻、名声�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She moved to London in search of fame and fortune . `[例]`
-> - The town's fame rests on its beautiful cathedral . `[例]`
+> - She moved to London in search of fame and fortune. `[例]`
+> - The town's fame rests on its beautiful cathedral. `[例]`
 > - She came to the city seeking fortune and fame. `[例]`
 
 

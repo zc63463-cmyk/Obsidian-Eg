@@ -129,8 +129,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Consumers should guard against fraudulent online schemes.（消费者应防范网络欺诈。）
-> - The prison guards were charged with negligence.（监狱看守被指控玩忽职守。）
+> - There are guards posted (= standing and watching ) at every entrance. `[例]`
+>   - 中译：每个入口处都有警卫驻守（=站着看守）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/guard
+> - Prison guards managed to prevent more than 50 prisoners from escaping. `[例]`
+>   - 中译：狱警成功阻止了50多名囚犯越狱。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/guard
+> - Armed guards are posted around the site. `[例]`
+>   - 中译：现场周围设有武装警卫。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/guard
 
 ---
 

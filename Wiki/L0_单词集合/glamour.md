@@ -136,9 +136,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Hollywood suggests glamour, a place where the young teenagers could, with a bit of luck, fulfill their dreams."（好莱坞意味着魅力，如果走运的话，小青年们可以在那里实现他们的梦想）——考研阅读真题
-> - "the glamour of city life"（城市生活的魅力）——考研阅读常见话题
-> - "a glamorous career in journalism"（新闻业令人向往的职业）——考研阅读常见搭配
+> - Who can resist the glamour of Hollywood? `[例]`
+>   - 中译：谁能抗拒好莱坞的魅力？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/glamour
+> - Compared to the extravagance and glamour of last winter's clothes , this season's collection look simple , almost workaday. `[例]`
+>   - 中译：与去年冬季服装的奢华和魅力相比，这一季的服装看起来很简单，几乎是日常的。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/glamour
+> - Modern luxury ships are a pale imitation of the glamour and style of the early ocean liners. `[例]`
+>   - 中译：现代豪华船舶是对早期远洋客轮的魅力和风格的苍白模仿。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/glamour
 
 ---
 

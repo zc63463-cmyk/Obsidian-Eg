@@ -138,9 +138,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The farmers sheared the sheep before winter set in." `[真题]`
-> - "Images from the scene show the roof of the bus sheared off." `[真题]`
-> - "Competitors have six minutes to shear four sheep." `[真题]`
+> - The farmers sheared the sheep before winter set in. `[真题]`
+> - Images from the scene show the roof of the bus sheared off. `[真题]`
+> - Competitors have six minutes to shear four sheep. `[真题]`
 
 
 ---

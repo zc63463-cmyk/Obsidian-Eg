@@ -135,9 +135,9 @@ re-（反对，再次）+ bel（战争，=bellum，拉丁语"战争"）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The people rebelled against the harsh new government. ` `[真题]`
-> - Jacob rebelled against his parents' plans for him and left school at the age of 16. ` `[真题]`
-> - The rebels seized control of the national radio headquarters. ` `[真题]`
+> - The rebels took over the capital and set up a new government. `[例]`
+> - He was a rebel when he was a teenager and dyed his hair pink. `[例]`
+> - The rebel troops have launched a coordinated attack on government soldiers. `[例]`
 
 
 ---

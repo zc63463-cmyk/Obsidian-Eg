@@ -138,9 +138,9 @@ patri(父亲/保护者) + rol(轮转) → 保护者来回轮转 → 巡逻
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The army regularly patrol along the border." `[真题]`
-> - "Prison officers continued to patrol the grounds within the jail." `[真题]`
-> - "Every police car and foot patrol in the area is on full alert." `[真题]`
+> - Prison officers continued to patrol the grounds within the jail. `[真题]`
+> - Every police car and foot patrol in the area is on full alert. `[真题]`
+> - The whole town is patrolled by police because of the possibility of riots. `[例]`
 
 
 ---

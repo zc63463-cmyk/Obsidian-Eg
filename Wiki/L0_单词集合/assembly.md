@@ -124,10 +124,15 @@ as-(=ad-，朝向) + [[sem/sim]](相同，一起) + -bly(名词后缀，来自 [
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The right to freedom of assembly is guaranteed by the constitution. `[真题]`
-> - The factory introduced a new assembly line to increase production efficiency. `[COCA-ACAD]`
-> - The UN General Assembly meets annually in New York to address global issues. `[COCA-NEWS]`
-> - Freedom of assembly is considered a fundamental human right in most democratic nations. `[例]`
+> - She has been tipped as a future member of the Welsh Assembly. `[例]`
+>   - 中译：她被认为是威尔士议会未来的成员。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/assembly
+> - The Senate and the Assembly put aside political differences to pass the aid package. `[例]`
+>   - 中译：参众两院搁置政治分歧，通过了援助计划。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/assembly
+> - All pupils are expected to attend school assembly. `[例]`
+>   - 中译：所有学生都应参加学校集会。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/assembly
 
 ---
 

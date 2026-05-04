@@ -130,10 +130,15 @@ memor(记忆，memory) + -ial(与……有关的，形容词/名词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The Lincoln Memorial in Washington, D.C. is one of the most visited landmarks in the United States. `` `[真题]` ``
-> - A memorial service was held for the victims of the disaster. `` `[COCA-ACAD]` ``
-> - A memorial fund has been established in her name to support young artists. `` `[COCA-ACAD]` ``
-> - The war memorial was erected to honor the soldiers who died in battle. `` `[COCA-ACAD]` ``
+> - Local people paid for a small war memorial to be built in honour of the men from their town who died in battle. `[例]`
+>   - 中译：当地人出资建造了一座小型战争纪念碑，以纪念镇上在战斗中阵亡的人们。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/memorial
+> - The statue was erected as a memorial to those who died in the war. `[例]`
+>   - 中译：这座雕像是为了纪念在战争中死去的人们而竖立的。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/memorial
+> - His family is planning a public memorial, to be held in September. `[例]`
+>   - 中译：他的家人正计划于九月举行公众追悼会。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/memorial
 
 ---
 

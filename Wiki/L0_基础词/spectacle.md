@@ -131,7 +131,7 @@ review_count: 0
 
 > [!example]- 语料
 > - It was a strange spectacle to see the two former enemies shaking hands and slapping each other on the back. `[例]`
-> - We witnessed the extraordinary spectacle of an elderly lady climbing a tree to rescue her cat . `[例]`
+> - We witnessed the extraordinary spectacle of an elderly lady climbing a tree to rescue her cat. `[例]`
 > - The carnival was a magnificent spectacle. `[例]`
 
 

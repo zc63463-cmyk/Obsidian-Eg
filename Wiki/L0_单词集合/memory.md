@@ -133,10 +133,15 @@ memor(记忆，mind) + -y(名词后缀，表状态/能力)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Research has shown that regular exercise can improve memory and cognitive function in older adults. `` `[COCA-ACAD]` ``
-> - The computer's memory needs to be upgraded to run the new software. `` `[COCA-ACAD]` ``
-> - Sleep plays a crucial role in consolidating long-term memory. `` `[真题]` ``
-> - A scholarship was established in memory of the late professor. `` `[COCA-ACAD]` ``
+> - He has a really good memory for faces. `[例]`
+>   - 中译：他对面孔的记忆力真好。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/memory
+> - I have such a bad memory - I couldn't remember the address. `[例]`
+>   - 中译：我记性太差了——我不记得地址了。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/memory
+> - After the accident he suffered from memory loss. `[例]`
+>   - 中译：事故发生后，他失去了记忆。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/memory
 
 ---
 

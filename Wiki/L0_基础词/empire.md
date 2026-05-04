@@ -129,8 +129,8 @@ em-（变体形式，源自拉丁语 *in-* 的加强形式）+ [[per]]（准备�
 
 > [!example]- 语料
 > - In the space of just ten years , her company has grown from one small retail outlet to a multi-million-dollar empire. `[例]`
-> - Entrepreneur Rocco Forte built his empire from budget hotels and motorway services . `[例]`
-> - Besides running a fashion empire, he also functioned as director of no less than three banks . `[例]`
+> - Entrepreneur Rocco Forte built his empire from budget hotels and motorway services. `[例]`
+> - Besides running a fashion empire, he also functioned as director of no less than three banks. `[例]`
 
 
 ---

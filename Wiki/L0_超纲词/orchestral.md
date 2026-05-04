@@ -3,10 +3,8 @@ title: "orchestral"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-25
-mastery: L0
 word_freq: 超纲词
 semantic_field: 社会习俗
 prototype: 管弦乐的
@@ -43,7 +41,7 @@ orchestra(管弦乐队) + -al(=……的，形容词后缀)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**管弦乐的**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **管弦乐的**（音乐层面）
@@ -62,7 +60,7 @@ orchestra(管弦乐队) + -al(=……的，形容词后缀)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -72,7 +70,7 @@ orchestra(管弦乐队) + -al(=……的，形容词后缀)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > orchestra（管弦乐队）+ al（……的）→ 管弦乐的。去音乐厅听交响乐，那就是 orchestral music（管弦乐）。orchestral arrangement 是把一首流行歌改编成管弦乐版本。
@@ -84,7 +82,7 @@ orchestra(管弦乐队) + -al(=……的，形容词后缀)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -95,13 +93,13 @@ orchestra(管弦乐队) + -al(=……的，形容词后缀)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[solo]]：独奏的（orchestral 的反义：管弦乐↔独奏）
 > - [[chamber]]：室内乐的
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -112,27 +110,20 @@ orchestra(管弦乐队) + -al(=……的，形容词后缀)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **orchestral music**：管弦乐
 > - **orchestral performance**：管弦乐演出
 > - **orchestral arrangement**：管弦乐编曲
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - `[例]` The orchestra delivered a stunning orchestral performance of Beethoven's Ninth Symphony.
-> - `[例]` The composer created an orchestral arrangement of several popular folk songs for the festival.
-> - `[例]` The concert hall was specifically designed to enhance the acoustics of orchestral music.
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-25 | **复习次数**：0 | **当前等级**：L0
-
----
+> [!example]- 语料
+> - The researchers proposed a orchestral solution to the problem. `[例]`
+> - The company adopted a orchestral approach to improve efficiency. `[例]`
+> - The plan offers a orchestral option for small organizations. `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

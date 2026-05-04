@@ -130,9 +130,15 @@ phil(爱) + soph(智慧) + -y(名词后缀，表示"…的学问/状态")
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - Her degree is in philosophy and religion. `[真题]`
-> > - Natural philosophy was supposed to lead to moral virtue, to modesty and religious reverence. `[COCA-ACAD]`
-> > - My life philosophy is to relish what you have, but always strive to better yourself. `[COCA-NEWS]`
+> - René Descartes is regarded as the founder of modern philosophy. `[例]`
+>   - 中译：勒内·笛卡尔被认为是现代哲学的创始人。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/philosophy
+> - Live now, pay later - that's my philosophy of life! `[例]`
+>   - 中译：现在生活，以后付款——这就是我的人生哲学！
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/philosophy
+> - His tutor encouraged him to read widely in philosophy. `[例]`
+>   - 中译：他的导师鼓励他广泛阅读哲学。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/philosophy
 
 ---
 

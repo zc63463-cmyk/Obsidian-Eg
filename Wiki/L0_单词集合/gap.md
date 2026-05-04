@@ -139,9 +139,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The generation gap between parents and children has widened."（父母与子女之间的代沟扩大了）——考研阅读常见话题，社会类
-> - "narrowing the gap between rich and poor"（缩小贫富差距）——经济/社会政策类阅读
-> - "fill a gap in the research"（填补研究空白）——学术类阅读语境
+> - The children squeezed through a gap in the wall. `[例]`
+>   - 中译：孩子们从墙上的一个缝隙里挤了进去。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/gap
+> - She has a small gap between her front teeth. `[例]`
+>   - 中译：她的门牙之间有一个小缝隙。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/gap
+> - If you are a defender , it helps to keep the gap small so as to limit the places your opponent can go. `[例]`
+>   - 中译：如果你是防守者，则有助于保持较小的差距，以限制对手可以去的地方。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/gap
 
 ---
 

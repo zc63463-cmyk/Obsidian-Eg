@@ -123,9 +123,9 @@ ignite 源自拉丁语 *ignis* "火"。*ignis* 是原始印欧语 *\*egni-* 的�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The fuel spontaneously ignites because of the high temperature and pressure . `[例]`
-> - The proposed restrictions have ignited a storm of protest . `[例]`
-> - The forest fire began when a spark from a campfire ignited some dry grass nearby . `[例]`
+> - The fuel spontaneously ignites because of the high temperature and pressure. `[例]`
+> - The proposed restrictions have ignited a storm of protest. `[例]`
+> - The forest fire began when a spark from a campfire ignited some dry grass nearby. `[例]`
 
 
 ---

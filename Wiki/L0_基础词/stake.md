@@ -128,9 +128,9 @@ stake 源自古英语 *staca*（尖桩、柱子），与 [[st-sta-stat|st-/sta-/
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Employers have a stake in the training of their staff . `[例]`
-> - She spent two weeks in Las Vegas playing high-stakes blackjack at the casinos . `[例]`
-> - The team is playing for enormous stakes - the chance to play in the final . `[例]`
+> - Employers have a stake in the training of their staff. `[例]`
+> - She spent two weeks in Las Vegas playing high-stakes blackjack at the casinos. `[例]`
+> - The team is playing for enormous stakes - the chance to play in the final. `[例]`
 
 
 ---

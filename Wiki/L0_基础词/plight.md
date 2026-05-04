@@ -128,9 +128,9 @@ plight 源自古英语 *pliht*（危险、承诺），可能与 *plecgan*（使�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Few of us can be unmoved by the plight of the refugees . `[例]`
-> - What could be more romantic than plighting your troth on a deserted beach ? `[例]`
-> - My problems aren’t much compared with the plight of the storm victims . `[例]`
+> - Few of us can be unmoved by the plight of the refugees. `[例]`
+> - What could be more romantic than plighting your troth on a deserted beach? `[例]`
+> - My problems aren’t much compared with the plight of the storm victims. `[例]`
 
 
 ---

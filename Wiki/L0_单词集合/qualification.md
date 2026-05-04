@@ -137,9 +137,14 @@ review_count: 0
 
 > [!example]- 语料
 > - You'll never get a good job if you don't have any qualifications. `[例]`
-> - Some nursing experience is a necessary qualification for this job . `[例]`
-> - One of the qualifications you need to work here is a sense of humour ! `[例]`
-> - The win earned them qualification for the World Cup finals . `[例]`
+>   - 中译：如果你没有任何资格，你永远找不到好工作。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/qualification
+> - Some nursing experience is a necessary qualification for this job. `[例]`
+>   - 中译：一些护理经验是这项工作的必要资格。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/qualification
+> - One of the qualifications you need to work here is a sense of humour! `[例]`
+>   - 中译：在这里工作需要的资格之一就是幽默感！
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/qualification
 
 ---
 

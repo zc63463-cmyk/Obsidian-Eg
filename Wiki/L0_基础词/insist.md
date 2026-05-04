@@ -131,7 +131,7 @@ review_count: 0
 > - She insisted on seeing her lawyer. `[真题]`
 > - Jacksonians insisted that, like the common schools and the press, political parties were critical agencies of political learning. `[真题]`
 > - The government has always insisted that this was not the case. `[真题]`
-> - Despite their waning interest in genuine political reform, donors have continued to insist on nominally democratic systems. `[语料库]`
+> - Despite their waning interest in genuine political reform, donors have continued to insist on nominally democratic systems. `[例]`
 
 
 ---

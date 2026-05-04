@@ -129,10 +129,10 @@ in-(=into, 进入) + flat(=blow, 吹，拉丁语 *flare*) + -ion(名词后缀) �
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "This year's rise, an average of 2.7 per cent, may be a fraction lower than last year's, but it is still well above the official Consumer Price Index (CPI) measure of inflation." `[真题]`
-> - "During the decade before the economic crisis, spending on legal services in America grew twice as fast as inflation." `[真题]`
-> - "The bank is introducing new measures to curb inflation." `[COCA-NEWS]`
-> - "Wage increases must be in line with inflation." `[COCA-ACAD]`
+> - This year's rise, an average of 2.7 per cent, may be a fraction lower than last year's, but it is still well above the official Consumer Price Index (CPI) measure of inflation. `[真题]`
+> - During the decade before the economic crisis, spending on legal services in America grew twice as fast as inflation. `[真题]`
+> - The bank is introducing new measures to curb inflation. `[COCA-NEWS]`
+> - Wage increases must be in line with inflation. `[COCA-ACAD]`
 
 
 ---

@@ -132,9 +132,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The prisoners were regularly lashed with electric cable . `[例]`
-> - The sound of the rain lashing against the windows was deafening . `[例]`
-> - I've lashed your suitcase to the roof rack . `[例]`
+> - The prisoners were regularly lashed with electric cable. `[例]`
+> - The sound of the rain lashing against the windows was deafening. `[例]`
+> - I've lashed your suitcase to the roof rack. `[例]`
 
 
 ---

@@ -125,9 +125,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The report documents the staggering amount of domestic violence against women. `[例]`
-> - The storm turned out to be one of unexpected violence. `[例]`
-> - She was concerned about the amount of violence on television . `[例]`
+> - Police do not think this killing was a random act of violence. `[例]`
+>   - 中译：警方认为这起杀戮并非随机的暴力行为。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/violence
+> - He condemned the protesters' use of violence against the police. `[例]`
+>   - 中译：他谴责抗议者对警察使用暴力。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/violence
+> - Our organization works with victims of violence. `[例]`
+>   - 中译：我们的组织与暴力受害者合作。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/violence
 
 ---
 

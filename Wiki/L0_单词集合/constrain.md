@@ -121,9 +121,15 @@ con-（一起）+ [[strain|strain-]]（拉紧，束缚）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Financial constraints have forced the university to cut several research programs." `[真题]`
-> - "The evidence is constrained by the limited availability of reliable data." `[真题]`
-> - "Growth is constrained by a lack of investment in infrastructure." `[COCA-ACAD]`
+> - The country's progress was constrained by a leader who refused to look forward. `[例]`
+>   - 中译：该国的进步受到一位拒绝向前看的领导人的限制。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/constrain
+> - Rising energy costs are constraining consumer and business spending. `[例]`
+>   - 中译：不断上涨的能源成本限制了消费者和企业支出。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/constrain
+> - The evidence was so compelling that he felt constrained to accept it. `[例]`
+>   - 中译：证据是如此令人信服，以至于他觉得不得不接受。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/constrain
 
 ---
 

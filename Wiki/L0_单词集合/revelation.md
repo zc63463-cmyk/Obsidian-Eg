@@ -122,10 +122,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - His wife divorced him after the revelation that he was having an affair. `[COCA-ACAD]`
-> - Shocking revelations about their private life appeared in the papers. `[COCA-NEWS]`
-> - Allen's contribution was to take an assumption we all share and reveal its erroneous nature. `[真题]`
-> - The revelation that the company had been hiding financial losses shocked investors. `[COCA-NEWS]`
+> - His wife divorced him after the revelation that he was having an affair. `[例]`
+>   - 中译：他的妻子在他有外遇的消息曝光后与他离婚。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/revelation
+> - Shocking revelations about their private life appeared in the papers. `[例]`
+>   - 中译：报纸上刊登了有关他们私生活的令人震惊的报道。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/revelation
+> - The first planet discovered around an ordinary star was a strange and unexpected revelation. `[例]`
+>   - 中译：在普通恒星周围发现的第一颗行星是一个奇怪且意想不到的启示。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/revelation
 
 ---
 

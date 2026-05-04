@@ -137,9 +137,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - From her slow , deliberate speech I guessed she must be drunk . `[例]`
-> - The jury took five days to deliberate on the case . `[例]`
-> - The committee has deliberated the question at great length . `[例]`
+> - From her slow , deliberate speech I guessed she must be drunk. `[例]`
+>   - 中译：从她缓慢而从容的讲话中我猜她一定是喝醉了。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/deliberate
+> - Can you pick out the three deliberate mistakes in this paragraph? `[例]`
+>   - 中译：你能找出这一段中的三个故意错误吗？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/deliberate
+> - I don't think his name was left off the list by accident - I think it was deliberate. `[例]`
+>   - 中译：我不认为他的名字被从名单中剔除是偶然的——我认为这是故意的。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/deliberate
 
 ---
 

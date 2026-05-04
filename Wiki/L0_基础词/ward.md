@@ -138,10 +138,10 @@ ward（古英语 *weard*，看管、守卫，与 guard 同源）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The emergency wards are full of casualties from the crash." `[权威语料]`
-> - "She works in the cancer ward." `[权威语料]`
-> - "They were wards of the state." `[权威语料]`
-> - "She put up her hands to ward him off." `[权威语料]`
+> - The emergency wards are full of casualties from the crash. `[例]`
+> - She works in the cancer ward. `[例]`
+> - They were wards of the state. `[例]`
+> - She put up her hands to ward him off. `[例]`
 
 
 ---

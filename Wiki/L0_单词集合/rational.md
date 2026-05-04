@@ -121,10 +121,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Often in the space of a couple of hours, a rational decision can be formed and agreed to. `[COCA]`
-> - Rational choice theory implicitly assumes that conflicts of desires can always be resolved in this sense. `[COCA-ACAD]`
-> - Humans are not always rational when it comes to financial decisions. `[COCA]`
-> - On the one hand, my rational adult self understands that this is the end. `[COCA]`
+> - He was too upset to be rational. `[例]`
+>   - 中译：他太沮丧了，无法理性。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/rational
+> - These objects are valuable , and protecting them is a rational act. `[例]`
+>   - 中译：这些物品很有价值，保护它们是一种理性的行为。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/rational
+> - There must be some rational explanation for what happened. `[例]`
+>   - 中译：所发生的事情必须有一些合理的解释。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/rational
 
 ---
 

@@ -136,9 +136,9 @@ simul-(相似，同一，拉丁语 *simulare*) + -ate(动词后缀，使动)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "By linking directly to our nervous system, computers could pick up what we feel and, hopefully, simulate feeling too so that we can start to develop full sensory environments." `[真题]`
-> - "Smoke was used to simulate steam coming from a smashed radiator." `[真题]`
-> - "The navy's maneuvers were designed to simulate an enemy invasion of the island." `[朗文词典]`
+> - By linking directly to our nervous system, computers could pick up what we feel and, hopefully, simulate feeling too so that we can start to develop full sensory environments. `[真题]`
+> - Smoke was used to simulate steam coming from a smashed radiator. `[真题]`
+> - The navy's maneuvers were designed to simulate an enemy invasion of the island. `[例]`
 
 
 ---

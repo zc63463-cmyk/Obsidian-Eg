@@ -133,9 +133,15 @@ turn 为日耳曼语族本族词，源自拉丁语 [[ver-vert|torquere/tornus]]�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - One of the turning points in public support for land conservation efforts-and recognizing the magnificence of the Yellowstone region in particular-came in the form of vivid photographs. `[真题]`
-> - The wheels started to turn. `[例]`
-> - Turn the steering wheel as quickly as you can. `[例]`
+> - The wheels of the car began to turn. `[例]`
+>   - 中译：汽车的轮子开始转动。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/turn
+> - The blades of the helicopter were turning slowly. `[例]`
+>   - 中译：直升机的桨叶正在缓慢转动。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/turn
+> - I turned the knob and pushed the door open. `[例]`
+>   - 中译：我转动旋钮，推开了门。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/turn
 
 ---
 

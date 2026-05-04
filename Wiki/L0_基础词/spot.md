@@ -136,7 +136,7 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - He had a spot of grease on his tie . `[例]`
+> - He had a spot of grease on his tie. `[例]`
 > - I wore that skirt with the green spots. `[例]`
 > - Teenagers often suffer a lot from spots. `[例]`
 

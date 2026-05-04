@@ -122,10 +122,15 @@ per-(彻底/完全) + -ish(动词后缀，表"走向…状态")
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Most of the butterflies perish in the first frosts of autumn. `[真题]`
-> - All the buildings perished in the great fire. `[真题]`
-> - Without this assistance, thousands of refugees would perish from hunger and neglect. `[COCA-ACAD]`
-> - Many ancient languages have perished over time. `[COCA-ACAD]`
+> - Three hundred people perished in the earthquake. `[例]`
+>   - 中译：三百人在地震中丧生。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/perish
+> - He believes that Europe must create closer ties or it will perish. `[例]`
+>   - 中译：他认为欧洲必须建立更紧密的联系，否则就会灭亡。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/perish
+> - Sunlight has caused the rubber to perish. `[例]`
+>   - 中译：阳光导致橡胶腐烂。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/perish
 
 ---
 

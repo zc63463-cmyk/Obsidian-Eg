@@ -3,10 +3,8 @@ title: "ethical"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 理性世界
 prototype: 伦理的（与道德原则相关的）
@@ -43,7 +41,7 @@ ethic（伦理，源自希腊语 *ethos*，"品格/习俗"）+ -al(形容词后�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**伦理的（与道德原则相关的）**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **品格/习俗**（文化层面）
@@ -64,7 +62,7 @@ ethic（伦理，源自希腊语 *ethos*，"品格/习俗"）+ -al(形容词后�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ ethic（伦理，源自希腊语 *ethos*，"品格/习俗"）+ -al(形容词后�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 希腊语 ethos（品格/习俗）→ ethic（伦理）→ ethical（伦理的）。一个人的 ethos（品格）决定了他是否 ethical（合乎道德的）。医生不泄露病人隐私——这是 ethical behavior（合乎道德的行为）。
@@ -89,7 +87,7 @@ ethic（伦理，源自希腊语 *ethos*，"品格/习俗"）+ -al(形容词后�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ ethic（伦理，源自希腊语 *ethos*，"品格/习俗"）+ -al(形容词后�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[unethical]]：不道德的（合乎道德↔不道德）
 > - [[immoral]]：不道德的（道德↔不道德）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +118,7 @@ ethic（伦理，源自希腊语 *ethos*，"品格/习俗"）+ -al(形容词后�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **ethical issues**：伦理问题
 > - **ethical standards**：道德标准
 > - **ethical behavior**：合乎道德的行为
@@ -128,19 +126,12 @@ ethic（伦理，源自希腊语 *ethos*，"品格/习俗"）+ -al(形容词后�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - The committee raised serious ethical concerns about the use of personal data without informed consent. `[例]`
 > - Medical professionals are bound by ethical standards that require them to prioritize patient welfare above all else. `[例]`
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
-
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

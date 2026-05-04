@@ -134,9 +134,9 @@ imper(命令，拉丁语 *imperare*，= *im-* 入 + *parare* 准备) + -ative(�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The president said it was imperative that the release of all hostages be secured . `[例]`
-> - It's imperative to act now before the problem gets really serious . `[例]`
-> - The rule that there must be a subject applies only to declarative and interrogative clauses , and not to imperative clauses . `[例]`
+> - The president said it was imperative that the release of all hostages be secured. `[例]`
+> - It's imperative to act now before the problem gets really serious. `[例]`
+> - The rule that there must be a subject applies only to declarative and interrogative clauses , and not to imperative clauses. `[例]`
 
 
 ---

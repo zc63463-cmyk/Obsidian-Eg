@@ -122,9 +122,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Studies show that if a working environment is pleasant , productivity increases . `[例]`
-> - Productivity in the steel industry improved by five percent last year . `[例]`
-> - A pleasant working environment increases productivity. `[例]`
+> - Studies show that if a working environment is pleasant , productivity increases. `[例]`
+>   - 中译：研究表明，如果工作环境愉快，生产力就会提高。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/productivity
+> - Productivity in the steel industry improved by five percent last year. `[例]`
+>   - 中译：去年钢铁行业的生产率提高了百分之五。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/productivity
+> - The introduction of new working practices has dramatically improved productivity. `[例]`
+>   - 中译：新工作实践的引入极大地提高了生产力。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/productivity
 
 
 ---

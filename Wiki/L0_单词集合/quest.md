@@ -136,9 +136,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "the quest for knowledge"（对知识的追求）——考研阅读常见，描述学术探索精神
-> - "in quest of a better understanding"（为了寻求更好的理解）——考研翻译/阅读中学术类话题
-> - "a lifelong quest"（毕生的追求）——文学/传记类文本中常见表达
+> - Nothing will stop them in their quest for truth. `[例]`
+>   - 中译：没有什么能阻止他们追求真理。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/quest
+> - She does aerobics four times a week in her quest to achieve the perfect body. `[例]`
+>   - 中译：她每周做四次有氧运动，以追求完美的身材。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/quest
+> - In his quest for physical perfection , he spends hours in the gym. `[例]`
+>   - 中译：为了追求完美的身体，他在健身房里度过了几个小时。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/quest
 
 ---
 

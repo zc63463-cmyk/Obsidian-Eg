@@ -121,8 +121,15 @@ pre-（前缀，"在...之前"）+ [[ced-cess]]（词根，"走"）+ -ent（名�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The legal issues in the case are obscure: whereas the Supreme Court has ruled that states do have some regulatory authority over nuclear power, legal scholars say that the Vermont case will offer a precedent-setting test of how far those powers extend."（此案件中的法律问题还不清楚：尽管最高法院规定各州确实对核能拥有一定的监管权力，但法律学者表示佛蒙特州的案件将为这些权力延伸多远提供一个开创先例的测试。）——2012年考研英语阅读Text2
-> - "This decision creates a dangerous precedent for future cases."（这个决定为未来的案件开创了一个危险的先例。）——考研高频表达
+> - There are several precedents for promoting people who don't have formal qualifications. `[例]`
+>   - 中译：提拔没有正式资格的人有几个先例。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/precedent
+> - Some politicians fear that agreeing to the concession would set a dangerous precedent. `[例]`
+>   - 中译：一些政界人士担心，同意这一让步将开创一个危险的先例。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/precedent
+> - Would it be breaking with precedent for the bride to make a speech? `[例]`
+>   - 中译：新娘发表讲话是否会打破先例？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/precedent
 
 ---
 

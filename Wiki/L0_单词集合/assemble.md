@@ -123,10 +123,15 @@ as-(=ad-，朝向，到) + [[sem/sim]](相同，一起) → "到一起"
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The students assembled in the hall for the graduation ceremony. [考研-阅读]
-> - It takes about two hours to assemble the furniture. [考研-阅读]
-> - A team of engineers was assembled to design the new bridge. `[COCA-ACAD]`
-> - Workers assemble cars on the production line in the factory. `[例]`
+> - We assembled in the meeting room after lunch. `[例]`
+>   - 中译：午饭后我们在会议室集合。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/assemble
+> - At the staff meeting , the manager told the assembled company (= everyone there) that no one would lose their job. `[例]`
+>   - 中译：在员工大会上，经理告诉聚集的公司（=在场的每个人），没有人会失去工作。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/assemble
+> - Within hours of the tragedy happening , an emergency rescue team had been assembled. `[例]`
+>   - 中译：悲剧发生后数小时内，一支紧急救援队就已集结。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/assemble
 
 ---
 

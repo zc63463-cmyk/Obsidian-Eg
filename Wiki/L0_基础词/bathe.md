@@ -127,10 +127,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "I bathed my feet in salt water." `[COCA-FIC]`
-> - "In the afternoon the sun bathes the city in shades of pink and gold." `[COCA-FIC]`
-> - "I was led to a small room bathed in soft red light." `[COCA-FIC]`
-> - "Children suffering from the illness had bathed in sea water contaminated by sewage." `[COCA-ACAD]`
+> - Bathe the wound and apply a clean dressing. `[例]`
+>   - 中译：清洗伤口并敷上干净的敷料。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bathe
+> - His arm was bathed and the wound was dressed. `[例]`
+>   - 中译：他的手臂被清洗了，伤口也被包扎好了。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bathe
+> - Have you bathed the baby yet? `[例]`
+>   - 中译：你给宝宝洗澡了吗？
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bathe
 
 
 ---

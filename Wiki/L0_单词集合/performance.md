@@ -125,10 +125,15 @@ per-(彻底) + form(形式) + -ance(名词后缀，表状态/行为)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She was fired for poor job performance. `[COCA]`
-> - Employees are given an annual performance assessment and evaluation. `[COCA-ACAD]`
-> - The gas additive improves engine performance significantly. `[COCA-ACAD]`
-> - The company's performance in the third quarter exceeded all expectations. `[COCA-NEWS]`
+> - He was an experienced player who was always seeking to improve his performance. `[例]`
+>   - 中译：他是一位经验丰富的球员，总是寻求提高自己的表现。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/performance
+> - High- performance cars (= those that are fast , powerful , and easy to control ) are the most expensive. `[例]`
+>   - 中译：高性能汽车（即速度快、动力强劲且易于控制的汽车）是最昂贵的。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/performance
+> - This was a very impressive performance by the young player , who scored 14 points within the first ten minutes. `[例]`
+>   - 中译：这位年轻球员的表现非常令人印象深刻，他在前十分钟内就得到了14分。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/performance
 
 ---
 

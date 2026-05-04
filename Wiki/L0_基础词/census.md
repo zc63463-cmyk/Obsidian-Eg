@@ -129,9 +129,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - We have a census in this country every ten years . `[例]`
-> - She was stopped in her car for a traffic census. `[例]`
-> - According to the state census, 89.6% of eligible Hispanics voters were registered . `[例]`
+> - A national census is taken every ten years. `[例]`
+>   - 中译：每十年进行一次全国人口普查。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/census
+> - According to the latest census , the racial makeup of the town has changed dramatically in the last 50 years. `[例]`
+>   - 中译：根据最新的人口普查，该镇的种族构成在过去 50 年里发生了巨大的变化。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/census
+> - After the 1970 census , southern lawmakers seeking to dilute the electoral power of Black voters who’d gained the franchise in the 1960s decided to split Black-majority areas into districts where they would be outvoted by conservative whites. `[例]`
+>   - 中译：1970 年人口普查后，南方立法者试图削弱在 1960 年代获得选举权的黑人选民的选举权，决定将黑人占多数的地区划分为几个选区，在这些选区中，保守派白人的投票率将超过这些选区。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/census
 
 
 ---

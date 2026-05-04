@@ -121,10 +121,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The government took swift action to contain the epidemic. `[真题]`
+> - The researchers proposed a swift solution to the problem. `[真题]`
 > - The company's swift response to the crisis impressed investors. `[真题]`
-> - The swift response of the emergency services saved many lives. `[语料库]`
-> - It was widely assumed at the time that the war would be swift and decisive. `[语料库]`
+> - The swift response of the emergency services saved many lives. `[例]`
+> - It was widely assumed at the time that the war would be swift and decisive. `[例]`
 
 
 ---

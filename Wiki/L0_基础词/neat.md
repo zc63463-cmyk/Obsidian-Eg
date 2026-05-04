@@ -132,8 +132,8 @@ review_count: 0
 
 > [!example]- 语料
 > - Your house is always so neat - how do you manage it? `[例]`
-> - She likes everything neat and tidy . `[例]`
-> - You have such neat handwriting . `[例]`
+> - She likes everything neat and tidy. `[例]`
+> - You have such neat handwriting. `[例]`
 
 
 ---

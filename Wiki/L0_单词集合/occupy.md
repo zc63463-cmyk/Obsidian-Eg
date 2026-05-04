@@ -141,10 +141,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - On long journeys I occupy myself with solving maths puzzles . `[例]`
-> - I drew some sketches in my notepad to occupy myself while I waited for Harold's train . `[例]`
-> - Nationalist forces now occupy more than 70% of the country . `[例]`
-> - The new plant will occupy a 185-acre site . `[例]`
+> - The rest of the time was occupied with writing a report. `[例]`
+>   - 中译：剩下的时间就忙着写报告了。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/occupy
+> - The house hasn't been occupied (= lived in) by anyone for a few months. `[例]`
+>   - 中译：这所房子已经几个月没有人占用（=居住）了。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/occupy
+> - A large picture of the battle of Waterloo occupied the space above the fireplace. `[例]`
+>   - 中译：壁炉上方的空间里挂着一张滑铁卢战役的大幅照片。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/occupy
 
 ---
 

@@ -123,9 +123,9 @@ tri-（三，前缀）+ angle（角）→ 三个角 → 三角形。tri- 源自�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Which earrings did you buy in the end - the triangles or the circles ? `[例]`
+> - Which earrings did you buy in the end - the triangles or the circles? `[例]`
 > - Her earrings were in the shape of triangles. `[例]`
-> - A triangle is a shape with three sides . `[例]`
+> - A triangle is a shape with three sides. `[例]`
 
 
 ---

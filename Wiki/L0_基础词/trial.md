@@ -129,9 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Trial by jury is a fundamental right . `[例]`
-> - It was a very complicated trial that went on for months . `[例]`
-> - They're doing clinical trials on a new drug . `[例]`
+> - Trial by jury is a fundamental right. `[例]`
+> - It was a very complicated trial that went on for months. `[例]`
+> - They're doing clinical trials on a new drug. `[例]`
 
 
 ---

@@ -123,9 +123,15 @@ border（边缘/边界，古法语 bord）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The two countries share a long border. `[真题]`
-> - The village borders on the forest. `[真题]`
-> - His behavior borders on rudeness. `[例]`
+> - Were you stopped at the border? `[例]`
+>   - 中译：你在边境被拦住了吗？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/border
+> - The train crosses the border between France and Spain. `[例]`
+>   - 中译：火车穿过法国和西班牙之间的边境。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/border
+> - The two countries have had frequent border disputes. `[例]`
+>   - 中译：两国边界争端频繁。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/border
 
 ---
 

@@ -130,9 +130,15 @@ not-（=notare，标记，知道，来自拉丁语 *notare*，to mark/to know）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The show's director rejects the notion that seeing violence on television has a harmful effect on children . `[例]`
-> - I have only a vague notion of what she does for a living . `[例]`
-> - There's a fabric store there that sells notions. `[例]`
+> - The show's director rejects the notion that seeing violence on television has a harmful effect on children. `[例]`
+>   - 中译：该节目的导演否认在电视上看到暴力行为会对儿童产生有害影响的观点。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/notion
+> - I have only a vague notion of what she does for a living. `[例]`
+>   - 中译：我对她靠什么谋生只有一个模糊的概念。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/notion
+> - He has some fanciful notion about converting one room of his apartment into a gallery. `[例]`
+>   - 中译：他有一些奇思妙想，想把他公寓的一个房间改造成画廊。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/notion
 
 ---
 

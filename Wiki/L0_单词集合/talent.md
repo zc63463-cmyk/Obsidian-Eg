@@ -135,10 +135,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Her talent for music showed at an early age . `[例]`
-> - His artistic talents were wasted in his boring job . `[例]`
-> - She is a real talent, a fine writer with a gift for wordplay and a knack for description . `[例]`
-> - They believe the young player is a rare talent, who will go on to have great success . `[例]`
+> - The festival showcases the talent of young musicians. `[例]`
+>   - 中译：该音乐节展示了年轻音乐家的才华。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/talent
+> - The team is known for nurturing raw talent. `[例]`
+>   - 中译：该团队以培养人才而闻名。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/talent
+> - She displayed her talent for comedy at the event. `[例]`
+>   - 中译：她在活动中展现了自己的喜剧天赋。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/talent
 
 ---
 

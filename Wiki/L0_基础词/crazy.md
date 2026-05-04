@@ -127,9 +127,15 @@ craz-(碎裂，源自古诺斯语 *krasa* "shatter") + -y(形容词后缀，表�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - It is crazy to think he will ever change his mind about the decision. `[真题]`
-> - Work is driving me crazy at the moment with all these deadlines. `[真题]`
-> - When he came on stage the audience went crazy and cheered for minutes. `[真题]`
+> - Are you crazy? We could get killed doing that. `[例]`
+>   - 中译：你疯了？这样做我们可能会被杀。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/crazy
+> - I'd never do anything like that. That's just crazy. `[例]`
+>   - 中译：我绝不会做那样的事。这太疯狂了。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/crazy
+> - Love makes you do crazy things ,’ she said. `[例]`
+>   - 中译：爱会让你做出疯狂的事情，”她说。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/crazy
 
 
 ---

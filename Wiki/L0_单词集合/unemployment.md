@@ -132,9 +132,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The unemployment rate was 4 percent in October . `[例]`
-> - In the hardest hit areas , unemployment stands at around 14%. `[例]`
-> - Youth unemployment among those between 16 and 19 remains high. `[例]`
+> - It was a time of mass unemployment. `[例]`
+>   - 中译：那是一个大规模失业的时期。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/unemployment
+> - The point is that this type of economics causes unemployment. `[例]`
+>   - 中译：关键是这种经济学会导致失业。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/unemployment
+> - He applied for unemployment insurance and was approved. `[例]`
+>   - 中译：他申请了失业保险并获得批准。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/unemployment
 
 ---
 

@@ -142,10 +142,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It's very easy to fall into the habit of smoking, but extremely difficult to stop."（养成吸烟的习惯很容易，但戒掉却极其困难。）——考研阅读/翻译，健康话题
-> - "Many people add salt to their food out of habit, without even tasting it first."（许多人出于习惯在食物中加盐，甚至都没先尝一下味道。）——考研阅读，生活方式话题
-> - "a survey on eating habits in the U.K."（一项关于英国人饮食习惯的调查。）——考研阅读常见搭配
-> - "He has an endearing habit of licking his lips when he's nervous."（他紧张时有个可爱的习惯——舔嘴唇。）——文学类文本
+> - He has an annoying habit of arriving just when we are having our meal. `[例]`
+>   - 中译：他有一个恼人的习惯，就是在我们吃饭的时候就到了。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/habit
+> - I always buy the same brand of toothpaste out of (= because of) habit. `[例]`
+>   - 中译：我总是出于（=因为）习惯而购买同一品牌的牙膏。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/habit
+> - I'm trying not to get into (= start ) the habit of always having biscuits with my coffee. `[例]`
+>   - 中译：我正在努力不养成（=开始）总是在喝咖啡时吃饼干的习惯。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/habit
 
 ---
 

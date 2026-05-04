@@ -131,10 +131,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Technology is shaping the way we communicate and interact with each other. `[真题]`
-> - The economic downturn has shaped public opinion on government spending. `[真题]`
-> - The reconstruction work is beginning clearly to take shape. `[COCA-ACAD]`
-> - Education plays a crucial role in shaping a child's future. `[COCA-ACAD]`
+> - Clay can be moulded into almost any shape. `[例]`
+>   - 中译：粘土几乎可以被塑造成任何形状。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/shape
+> - These bricks are all different shapes. `[例]`
+>   - 中译：这些砖块形状各异。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/shape
+> - Kim's birthday cake was in the shape of a train. `[例]`
+>   - 中译：金的生日蛋糕是火车形状的。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/shape
 
 ---
 

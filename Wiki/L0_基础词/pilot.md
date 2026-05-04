@@ -131,9 +131,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - If you'd seen the pilot, you'd know why they decided not to make a complete series of programmes ! `[例]`
-> - If the pilot scheme is successful , many more homes will be offered the new television service . `[例]`
-> - She piloted the aircraft to safety after one of the engines failed . `[例]`
+> - If you'd seen the pilot, you'd know why they decided not to make a complete series of programmes! `[例]`
+> - If the pilot scheme is successful , many more homes will be offered the new television service. `[例]`
+> - She piloted the aircraft to safety after one of the engines failed. `[例]`
 
 
 ---

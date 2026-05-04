@@ -134,9 +134,15 @@ pro-(向前) + mise(发送，来自mittere的变体) + -e
 ## 真题/语料关联
 
 > [!example]- 语料
-> - He promised faithfully to call me every week . `[例]`
-> - The government have promised that they'll reduce taxes . `[例]`
+> - He promised faithfully to call me every week. `[例]`
+>   - 中译：他忠实地答应每周给我打电话。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/promise
+> - The government have promised that they'll reduce taxes. `[例]`
+>   - 中译：政府已承诺将减税。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/promise
 > - I'll look for some while I'm at the shops but I'm not promising anything. `[例]`
+>   - 中译：我会在商店里寻找一些，但我不承诺任何事情。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/promise
 
 
 ---

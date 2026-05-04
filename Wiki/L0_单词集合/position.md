@@ -128,9 +128,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The company is in a strong position to compete in the global market. `[COCA-ACAD]`
-> - Next week we will be in a much better position to comment on the results. `[COCA-ACAD]`
-> - The government's position on immigration policy has evolved over time. `[COCA-ACAD]`
+> - Well, I've found our position on the map if you want to see where we are. `[例]`
+>   - 中译：好吧，如果你想看看我们在哪里，我已经在地图上找到了我们的位置。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/position
+> - You've moved the furniture around - the sofa is in a different position. `[例]`
+>   - 中译：您已经移动了家具 - 沙发处于不同的位置。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/position
+> - I didn't know you played hockey - what position do you play? `[例]`
+>   - 中译：我不知道你打曲棍球——你打什么位置？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/position
 
 ---
 

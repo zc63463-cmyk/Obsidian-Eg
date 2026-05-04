@@ -128,7 +128,7 @@ day(天/白天) + light(光)
 > [!example]- 语料
 > - The colours look much better in daylight. `[例]`
 > - The space is daylighted and there are also LED lights for night use. `[例]`
-> - The district recently daylighted a creek by digging up a stretch that had been buried beneath a school . `[例]`
+> - The district recently daylighted a creek by digging up a stretch that had been buried beneath a school. `[例]`
 
 
 ---

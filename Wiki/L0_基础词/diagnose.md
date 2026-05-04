@@ -119,9 +119,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The specialist diagnosed cancer . `[例]`
-> - His condition was diagnosed as some type of blood disorder . `[例]`
-> - She was diagnosed with diabetes . `[例]`
+> - The specialist diagnosed cancer. `[例]`
+> - His condition was diagnosed as some type of blood disorder. `[例]`
+> - She was diagnosed with diabetes. `[例]`
 
 
 ---

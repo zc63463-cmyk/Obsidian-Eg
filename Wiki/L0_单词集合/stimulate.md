@@ -133,9 +133,15 @@ stim(=sting, 刺) + -ul(小) + -ate(动词后缀，使动) → 用小刺去刺 �
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The government plans to cut taxes in order to stimulate the economy . `[例]`
-> - The show was intended to stimulate and amuse . `[例]`
-> - Good teachers should ask questions that stimulate students to think . `[例]`
+> - The exhibition has stimulated interest in her work. `[例]`
+>   - 中译：这次展览激发了人们对她的作品的兴趣。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/stimulate
+> - The article can be used to stimulate discussion among students. `[例]`
+>   - 中译：这篇文章可以用来激发学生之间的讨论。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/stimulate
+> - Parents should give children books that stimulate them. `[例]`
+>   - 中译：父母应该给孩子一些能够刺激他们的书籍。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/stimulate
 ---
 
 

@@ -131,9 +131,15 @@ bomb 源自希腊语 *bombos*（轰鸣声），模仿爆炸的声音。与 [[bol
 ## 真题/语料关联
 
 > [!example]- 语料
-> - During the war , the enemy dropped a huge number of bombs on the city . `[例]`
-> - A 100-pound bomb exploded in a market today, injuring three people . `[例]`
-> - The terrorists had planted a bomb near the police station . `[例]`
+> - Hundreds of bombs were dropped on the city. `[例]`
+>   - 中译：数百枚炸弹投向这座城市。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bomb
+> - That dress must have cost a bomb! `[例]`
+>   - 中译：那件衣服肯定值重磅炸弹！
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bomb
+> - Some company directors make an absolute bomb. `[例]`
+>   - 中译：有些公司董事绝对是个炸弹。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bomb
 
 
 ---

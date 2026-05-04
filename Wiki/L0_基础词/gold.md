@@ -127,9 +127,9 @@ gold 为基础词汇，无词根词缀拆分。源自古英语 *gold*，原始�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "I struck gold," says Redmon, who E-mailed his resume to the employer and won a position as in-house counsel for a company. `[真题]`
+> - I struck gold," says Redmon, who E-mailed his resume to the employer and won a position as in-house counsel for a company. `[真题]`
 > - In Manhattan, there's a new gold rush happening in the $4 million to $10 million range, predominantly fed by Wall Street bonuses. `[真题]`
-> - Basing the value of money on the price of gold is called the "gold standard." `[权威词典]`
+> - Basing the value of money on the price of gold is called the "gold standard. `[例]`
 
 
 ---

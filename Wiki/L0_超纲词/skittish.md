@@ -3,10 +3,8 @@ title: "skittish"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-25
-mastery: L0
 word_freq: 超纲词
 semantic_field: 人体动作
 prototype: 容易受惊的，神经质的
@@ -43,7 +41,7 @@ skittish（源自 skittles"撞柱游戏"，木柱被击中后四处弹跳 → �
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**容易受惊的**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **容易受惊跳开的**（动物层面）
@@ -67,7 +65,7 @@ skittish（源自 skittles"撞柱游戏"，木柱被击中后四处弹跳 → �
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ skittish（源自 skittles"撞柱游戏"，木柱被击中后四处弹跳 → �
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > skittish 源于撞柱游戏——木柱被球击中后四处弹跳。一匹 skittish 的马，听到一点声音就突然跳开。一个 skittish 的投资者，看到一点坏消息就立刻抛售股票。skittish market 就像受惊的马群一样不可预测。
@@ -89,7 +87,7 @@ skittish（源自 skittles"撞柱游戏"，木柱被击中后四处弹跳 → �
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +100,13 @@ skittish（源自 skittles"撞柱游戏"，木柱被击中后四处弹跳 → �
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[calm]]：平静的（skittish 的反义：受惊↔平静）
 > - [[steady]]：稳定的（skittish 的反义：不稳定↔稳定）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,26 +117,19 @@ skittish（源自 skittles"撞柱游戏"，木柱被击中后四处弹跳 → �
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a skittish horse/market**：易惊的马/不稳定的市场
 > - **skittish investors**：神经质的投资者
 > - **skittish behaviour**：易变的行为
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - My horse is very skittish, so I have to keep him away from traffic . `[例]`
-> - Investors are skittish about the impact of an economic downturn . `[例]`
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-25 | **复习次数**：0 | **当前等级**：L0
-
----
+> [!example]- 语料
+> - My horse is very skittish, so I have to keep him away from traffic. `[例]`
+> - Investors are skittish about the impact of an economic downturn. `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

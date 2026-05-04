@@ -128,9 +128,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The committee approved the proposal after a thorough discussion of its potential benefits and risks. `[例]`
-> - Not everyone approves of the government's approach to handling the economic crisis. `[例]`
-> - Congress approved the bill by a narrow margin. `[例]`
+> - She doesn't approve of my friends. `[例]`
+>   - 中译：她不同意我的朋友。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/approve
+> - He doesn't approve of smoking. `[例]`
+>   - 中译：他不赞成吸烟。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/approve
+> - I thoroughly approve of what the government is doing. `[例]`
+>   - 中译：我完全赞同政府的做法。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/approve
 ---
 
 

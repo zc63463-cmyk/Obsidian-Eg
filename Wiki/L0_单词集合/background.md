@@ -136,9 +136,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Economic growth must be analyzed against the background of globalization. `[COCA-ACAD]`
-> - Students from diverse cultural backgrounds bring different perspectives to the classroom. `[COCA-ACAD]`
-> - Background information is essential for understanding the context of any historical event. `[例]`
+> - The little figure that you can just see in the background of the photograph is me. `[例]`
+>   - 中译：你在照片背景中看到的那个小人物就是我。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/background
+> - The artist himself did not paint the backgrounds to his pictures - they were done by his pupils. `[例]`
+>   - 中译：艺术家本人并未为他的画作绘制背景——这些背景是由他的学生完成的。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/background
+> - He has photographed her against lots of different backgrounds. `[例]`
+>   - 中译：他在许多不同的背景下给她拍照。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/background
 
 ---
 

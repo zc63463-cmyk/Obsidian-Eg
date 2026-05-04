@@ -128,8 +128,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "A formal education provides individuals with essential knowledge and skills for their future careers."（正规教育为个人提供未来职业所需的基本知识和技能。）——考研高频表达
-> - "The two countries established formal diplomatic relations after decades of hostility."（两国在数十年的敌对之后建立了正式外交关系。）——考研高频表达
+> - I am the formal leader of the project but the everyday management is in the hands of my assistant. `[例]`
+>   - 中译：我是该项目的正式领导，但日常管理由我的助手负责。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/formal
+> - They wanted to make a formal complaint about their doctor. `[例]`
+>   - 中译：他们想对他们的医生提出正式投诉。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/formal
+> - The US lodged a formal protest against the arrest of the foreign reporters. `[例]`
+>   - 中译：美方对逮捕外国记者提出正式抗议。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/formal
 
 
 ---

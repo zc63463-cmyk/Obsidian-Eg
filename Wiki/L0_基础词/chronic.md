@@ -137,9 +137,15 @@ chron-（时间，希腊语 *khronos*）+ -ic（形容词后缀，表示"……�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The study looks at adults with chronic conditions such as asthma and diabetes . `[例]`
-> - His research showed that eating more plant-based foods helps you avoid chronic diseases . `[例]`
-> - Exercise can be important in treating chronic pain . `[例]`
+> - The film was just chronic. `[例]`
+>   - 中译：这部电影只是慢性的。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/chronic
+> - He suffers from chronic arthritis. `[例]`
+>   - 中译：他患有慢性关节炎。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/chronic
+> - Inflation has become a chronic condition in the economy. `[例]`
+>   - 中译：通货膨胀已成为经济的一个长期问题。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/chronic
 
 
 ---

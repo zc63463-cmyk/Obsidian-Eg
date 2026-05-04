@@ -136,11 +136,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - We need to do a better job of managing our natural resources. `[COCA-ACAD]`
-> - There is a lack of confidence in the government's ability to manage the economy. `[COCA-NEWS]`
-> - She managed to finish the project ahead of schedule. `[COCA-ACAD]`
-> - I only just managed to finish on time. `[COCA-ACAD]`
-> - The business is managed by the owner's daughter. `[COCA-MAG]`
+> - Did you manage to get any bread? `[例]`
+>   - 中译：你买到面包了吗？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/manage
+> - I only just managed to finish on time. `[例]`
+>   - 中译：我只是勉强按时完成。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/manage
+> - A small dog had somehow managed to survive the fire. `[例]`
+>   - 中译：一只小狗不知何故在火灾中幸存下来。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/manage
 
 ---
 

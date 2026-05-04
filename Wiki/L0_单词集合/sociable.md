@@ -125,10 +125,15 @@ soci（同伴、结交）+ -able（可以被……的）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - He was an extremely sociable man throughout the time that we knew him. `[COCA-FIC]`
-> - The new employee's sociable nature made it easy for her to fit in with the team. `[COCA-FIC]`
-> - She is a sociable person who enjoys meeting new people and attending social events. `[真题]`
-> - People who are more sociable tend to have stronger professional networks and better career prospects. `[真题]`
+> - Rob's very sociable - he likes parties. `[例]`
+>   - 中译：罗布非常善于交际——他喜欢聚会。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/sociable
+> - I had a headache and I wasn't feeling very sociable. `[例]`
+>   - 中译：我头疼，感觉不太擅长社交。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/sociable
+> - The event promises to provide a relaxed and sociable atmosphere where fans can mingle with stars. `[例]`
+>   - 中译：该活动承诺营造轻松、社交的氛围，让粉丝与明星交流。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/sociable
 
 
 ---

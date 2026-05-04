@@ -140,9 +140,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - That's why Hayden's expedition aimed to produce a fuller understanding of the Yellowstone River region, from its hot springs and waterfalls to its variety of flora and fauna. `[真题]`
-> - My understanding of the agreement (= what I think it means ) is that they will pay $50,000 over two years . `[例]`
-> - The Supreme Court has radically revised previous understandings of the Constitution. `[例]`
+> - Students will gain a broad understanding of the workings of Parliament. `[例]`
+>   - 中译：学生将对议会的运作有广泛的了解。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/understanding
+> - Unions said her comments showed a complete lack of understanding of what the civil service does. `[例]`
+>   - 中译：工会表示，她的言论表明她完全不了解公务员的职责。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/understanding
+> - She possesses a thorough understanding of the nature of the threat we are faced with. `[例]`
+>   - 中译：她对我们面临的威胁的性质有透彻的了解。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/understanding
 
 ---
 

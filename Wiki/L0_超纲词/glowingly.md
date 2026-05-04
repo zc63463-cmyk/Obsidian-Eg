@@ -3,10 +3,8 @@ title: "glowingly"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 抽象关系
 prototype: 发光地（以发光的方式）
@@ -43,7 +41,7 @@ glow(发光，古英语 *glowan*) + -ing(构成现在分词/形容词) + -ly(副
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**发光地**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **发光地**（物理层面）
@@ -64,7 +62,7 @@ glow(发光，古英语 *glowan*) + -ing(构成现在分词/形容词) + -ly(副
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ glow(发光，古英语 *glowan*) + -ing(构成现在分词/形容词) + -ly(副
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > glow（发光）→ glowingly（发光地）。想象一个人谈论自己热爱的事业时，脸上"发光"——那就是 speak glowingly of（热情洋溢地谈论）。发光不只是物理现象，更是内心的热情溢于言表。
@@ -88,7 +86,7 @@ glow(发光，古英语 *glowan*) + -ing(构成现在分词/形容词) + -ly(副
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ glow(发光，古英语 *glowan*) + -ing(构成现在分词/形容词) + -ly(副
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[coldly]]：冷淡地（glowingly 的反义：热情洋溢↔冷淡）
 > - [[gloomily]]：阴沉地（glowingly 的反义：发光↔阴暗）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,26 +117,19 @@ glow(发光，古英语 *glowan*) + -ing(构成现在分词/形容词) + -ly(副
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **speak glowingly of/about**：热情洋溢地谈论/评价
 > - **glowingly praise**：热情洋溢地赞美
 > - **glowingly review**：给予高度评价
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - Engineers speak glowingly of the device . `[例]`
-> - She talked glowingly about the potential of African countries . `[例]`
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
+> [!example]- 语料
+> - Engineers speak glowingly of the device. `[例]`
+> - She talked glowingly about the potential of African countries. `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

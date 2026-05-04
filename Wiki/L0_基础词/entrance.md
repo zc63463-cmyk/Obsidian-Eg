@@ -130,8 +130,8 @@ review_count: 0
 
 > [!example]- 语料
 > - There are two entrances - one at the front and one around the back. `[例]`
-> - He makes a spectacular entrance in act two draped in a gold sheet . `[例]`
-> - I noticed her entrance because she slipped and fell in the doorway . `[例]`
+> - He makes a spectacular entrance in act two draped in a gold sheet. `[例]`
+> - I noticed her entrance because she slipped and fell in the doorway. `[例]`
 
 
 ---

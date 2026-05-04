@@ -120,8 +120,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The lawyer's primary responsibility is to protect the interests of his clients."（律师的首要责任是保护客户的利益。）——考研高频表达
-> - "The company has lost several major clients due to its poor customer service."（由于客户服务差，该公司已经失去了几个大客户。）——考研高频表达
+> - Mr Black has been a client of this firm for many years. `[例]`
+>   - 中译：布莱克先生多年来一直是这家公司的客户。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/client
+> - We always aim to give our clients personal attention. `[例]`
+>   - 中译：我们始终致力于为客户提供个人关注。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/client
+> - She used cognitive therapy on her client to try to inhibit those negative thoughts which were damaging his self-esteem. `[例]`
+>   - 中译：她对她的客户使用认知疗法，试图抑制那些损害他自尊的消极想法。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/client
 
 
 ---

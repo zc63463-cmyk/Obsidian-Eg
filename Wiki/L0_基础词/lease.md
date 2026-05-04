@@ -132,9 +132,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The building's 60 units are currently leased to students of the university . `[例]`
+> - The building's 60 units are currently leased to students of the university. `[例]`
 > - He has the house on a long lease. `[例]`
-> - We signed a three-year lease when we moved into the house . `[例]`
+> - We signed a three-year lease when we moved into the house. `[例]`
 
 
 ---

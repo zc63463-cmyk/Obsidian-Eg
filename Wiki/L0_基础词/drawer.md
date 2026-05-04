@@ -121,7 +121,7 @@ review_count: 0
 > [!example]- 语料
 > - My other hand is fishing through a drawer in search of a rubber band. `[真题]`
 > - She opened her desk drawer and took out the book. `[真题]`
-> - I found this old letter in his drawer. `[真题]`
+> - A line of drawer trees rose above the morning fog. `[例]`
 
 
 ---

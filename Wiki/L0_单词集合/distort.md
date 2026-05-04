@@ -136,10 +136,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The media should report news accurately rather than distort the facts to attract public attention. `[真题]`
-> - Social media can create a distorted view of reality by amplifying extreme opinions. `[真题]`
-> - The article distorted the truth about the incident. `[COCA-NEWS]`
-> - The funhouse mirror distorted her reflection, making her look taller and thinner. `[COCA-FIC]`
+> - The map distorted Greenland to appear four times its actual size. `[例]`
+>   - 中译：该地图扭曲了格陵兰岛，使其看起来是实际大小的四倍。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/distort
+> - With this form of editing you can distort the shape of an object or piece of text. `[例]`
+>   - 中译：通过这种形式的编辑，您可以扭曲对象或文本片段的形状。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/distort
+> - Her face was distorted by anger. `[例]`
+>   - 中译：她的脸因愤怒而扭曲。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/distort
 ---
 
 

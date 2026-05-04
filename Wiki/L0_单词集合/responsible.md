@@ -128,10 +128,15 @@ re-(回/再) + spons(=spond, 承诺) + -ible(形容词后缀，表"可……的"
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The ability to guard customer data is the key to market value, which the board is responsible for on behalf of shareholders." `[真题]`
-> - "To serve as responsible stewards of the planet, we must press forward on deeper atmospheric and oceanic research." `[真题]`
-> - "The central government is responsible for moving grain from surplus to deficit states for public distribution purposes." `[COCA-ACAD]`
-> - "She is a very responsible worker." `[COCA]`
+> - Paul is directly responsible for the efficient running of the office. `[例]`
+>   - 中译：保罗直接负责办公室的高效运作。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/responsible
+> - Her department is responsible for oversee ing the councils. `[例]`
+>   - 中译：她所在的部门负责监督议会。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/responsible
+> - The city council is responsible for keeping the streets clean. `[例]`
+>   - 中译：市议会负责保持街道清洁。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/responsible
 
 
 ---

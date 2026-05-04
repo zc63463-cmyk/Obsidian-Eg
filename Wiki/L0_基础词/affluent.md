@@ -138,9 +138,15 @@ af-(=ad-, 向，朝向) + [[flu|flu-]](流动，拉丁语 *fluere*) + -ent(形�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The store will benefit from its base of affluent customers to whom various other products will be sold in due course . `[例]`
-> - Some have argued that ethical food is a sign of an affluent society with a lot of time . `[例]`
 > - The store catered to a mostly affluent clientele that was relatively price insensitive, so we could afford to pay our suppliers a premium for the very best fish. The shop also developed a significant wholesale business, and soon the great and the good of London gastronomy were flocking to our door. `[例]`
+>   - 中译：这家商店迎合了大多数对价格相对不敏感的富裕客户，因此我们有能力向供应商支付最好的鱼的溢价。该店还发展了重要的批发业务，很快伦敦美食界的名流纷纷涌入我们家。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/affluent
+> - A recent crop of books and articles give voice to this complaint. They happen to be written by journalists who are also well-educated and affluent mothers, but when it comes to parental discontent they are not alone. `[例]`
+>   - 中译：最近的一系列书籍和文章表达了这种抱怨。这些文章的作者恰好都是受过良好教育且富裕的母亲，但当谈到父母的不满时，她们并不孤单。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/affluent
+> - The Bay Area, which encompasses the cities of San Francisco, Oakland, and San Jose, as well as surrounding areas, is one of the nation's most affluent regions: More than 40% of the area's residents have annual household income of at least $75,000, versus only 25% in the country's other top 50 markets, according to Scarborough Research. `[例]`
+>   - 中译：湾区包括旧金山、奥克兰和圣何塞等城市以及周边地区，是美国最富裕的地区之一：根据斯卡伯勒研究公司的数据，该地区超过 40% 的居民家庭年收入至少为 75,000 美元，而美国其他 50 个最大市场的这一比例仅为 25%。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/affluent
 
 
 ---

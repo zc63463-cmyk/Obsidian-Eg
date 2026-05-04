@@ -118,8 +118,14 @@ v. ①==**鄙视；蔑视**==；
 
 > [!example]- 语料
 > - The two groups despise each other. `[例]`
-> - She despised him for the way he treated her sister . `[例]`
-> - He despised himself for being such a coward . `[例]`
+>   - 中译：两个群体互相鄙视。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/despise
+> - She despised him for the way he treated her sister. `[例]`
+>   - 中译：她因他对待她妹妹的方式而鄙视他。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/despise
+> - He despised himself for being such a coward. `[例]`
+>   - 中译：他鄙视自己是这样一个胆小鬼。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/despise
 - He despised himself for his weakness.（他因自己的软弱而鄙视自己。）
 - She despised people who were cruel to animals.（她鄙视那些虐待动物的人。）
 

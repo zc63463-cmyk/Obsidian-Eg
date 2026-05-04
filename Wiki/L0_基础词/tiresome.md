@@ -126,9 +126,9 @@ tire（[[tire|疲劳]]）+ -some（形容词后缀，"令人……的"）→ 令
 ## 真题/语料关联
 
 > [!example]- 语料
-> - I find it very tiresome doing the same job day after day . `[例]`
+> - I find it very tiresome doing the same job day after day. `[例]`
 > - He has the tiresome habit of finishing your sentences for you. `[例]`
-> - It’s getting a little tiresome, listening to you complain . `[例]`
+> - It’s getting a little tiresome, listening to you complain. `[例]`
 
 
 ---

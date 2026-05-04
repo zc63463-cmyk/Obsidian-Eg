@@ -131,9 +131,15 @@ e-（=ex-，出，向外）+ 建议创建词根笔记 [[stim]]（=aestimare，�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - We estimate that either eliminating a substantial labour-rights concern or increasing corporate giving by about 20% results in fines that generally are 40% lower than the typical punishment. `[真题]`
-> - He estimates that current oil reserves are 20 percent lower than they were a year ago. `[COCA-NEWS]`
-> - The cost of the project has been estimated at about ten million dollars. `[COCA-ACAD]`
+> - Government sources estimate a long-term 50 percent increase in rail fares. `[例]`
+>   - 中译：政府消息人士估计，铁路票价长期将上涨 50%。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/estimate
+> - They estimate (that) the journey will take at least two weeks. `[例]`
+>   - 中译：他们估计这趟旅程至少需要两周时间。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/estimate
+> - It was difficult to estimate how many trees had been destroyed. `[例]`
+>   - 中译：很难估计有多少棵树被毁。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/estimate
 
 ---
 

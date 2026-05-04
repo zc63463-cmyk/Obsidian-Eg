@@ -125,9 +125,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Coke is used in the production of steel . `[例]`
-> - We watched a video showing the various stages in the production of glass . `[例]`
-> - The company's new model will be going into production early next year . `[例]`
+> - Coke is used in the production of steel. `[例]`
+>   - 中译：焦炭用于钢铁生产。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/production
+> - We watched a video showing the various stages in the production of glass. `[例]`
+>   - 中译：我们观看了一段视频，展示了玻璃生产的各个阶段。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/production
+> - The company's new model will be going into production early next year. `[例]`
+>   - 中译：该公司的新型号将于明年初投入生产。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/production
 
 
 ---

@@ -127,8 +127,8 @@ illegal = il-（= [[in-]]/[[im-]]，否定前缀，在 l 前变为 il-）+ legal
 
 > [!example]- 语料
 > - The state L egislature recently · voted against a bill that would've made it illegal for towns to create legislation restricting short-term rentals. `[真题]`
-> - The bill mentioned in Paragraph 2 was intended to __ _ A. curb short-term rental speculation B. ensure the supply of cheap housing C. punish illegal dealings in housing D. allow a free short-term rental market 28. `[真题]`
-> - A campaign to stop the illegal sale of cigarettes to children under 16. `[例]`
+> - The company adopted a illegal approach to improve efficiency. `[真题]`
+> - The plan offers a illegal option for small organizations. `[例]`
 
 
 ---

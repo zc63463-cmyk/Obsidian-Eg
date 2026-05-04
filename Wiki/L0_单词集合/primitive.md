@@ -133,8 +133,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Primitive races colonized these islands 2,000 years ago. `[例]`
+>   - 中译：2000 年前，原始种族就在这些岛屿上建立了殖民地。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/primitive
 > - The spiny anteater is a mammal , although a very primitive one. `[例]`
-> - Early settlers had to cope with very primitive living conditions . `[例]`
+>   - 中译：刺食蚁兽是一种哺乳动物，尽管是一种非常原始的哺乳动物。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/primitive
+> - Early settlers had to cope with very primitive living conditions. `[例]`
+>   - 中译：早期的定居者不得不应对非常原始的生活条件。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/primitive
 
 ---
 

@@ -131,9 +131,15 @@ blush(脸红/羞愧，中古英语 *blusshen*)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - I always blush when I speak in public . `[例]`
-> - You would never wear a shade of blush that doesn't work with your skin tone . `[例]`
-> - The soft , neutral colours of blush and beige pair perfectly together. `[例]`
+> - She blushed furiously at the memory of the conversation. `[例]`
+>   - 中译：想起刚才的谈话，她脸红了。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/blush
+> - He blushed scarlet at the thought. `[例]`
+>   - 中译：想到这里，他脸红了。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/blush
+> - I blush to think of how I behaved the last time we met. `[例]`
+>   - 中译：想起我们上次见面时我的表现，我脸红了。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/blush
 
 
 ---

@@ -128,7 +128,9 @@ groan（源自古英语 *granian*，日耳曼语系，与 grunt 同源，拟声�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The students groaned when the teacher assigned another essay.（老师又布置了一篇作文时，学生们发出了抱怨的呻吟——考研阅读常见场景）
+> - We could hear the groans of the wounded soldiers. `[例]`
+> - He looked at the piles of dirty dishes and gave a groan of dismay. `[例]`
+> - The rescuers could hear the groans of someone trapped in the rubble. `[例]`
 
 
 ---

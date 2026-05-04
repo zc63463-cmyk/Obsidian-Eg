@@ -126,8 +126,15 @@ pre-(在……前面) + [[ced-cess|ess]](存在/在) + -ence(名词后缀，表�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Roberts found that the presence of an audience facilitates what you already know how to do."（罗伯茨发现，观众在场会促进你已掌握的技能的发挥。）——考研高频表达
-> - "When does the presence of an audience facilitate your performance according to Roberts?"（根据罗伯茨的观点，观众在场何时会促进你的表现？）——考研高频表达
+> - She was overawed by the presence of so many people. `[例]`
+>   - 中译：她被这么多人吓到了。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/presence
+> - The presence of pollen in the atmosphere causes hay fever in some people. `[例]`
+>   - 中译：大气中存在的花粉会导致一些人花粉热。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/presence
+> - He's usually quite polite in my presence. `[例]`
+>   - 中译：他通常在我面前很有礼貌。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/presence
 ---
 
 

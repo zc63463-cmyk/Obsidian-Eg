@@ -131,9 +131,15 @@ inter-(在…之间，between) + act(行动，做)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The researchers' argument stems from a simple observation about social influence — with the exception of a few celebrities like Oprah Winfrey — whose outsize presence is primarily a function of media, not interpersonal influence — even the most influential members of a population simply don't interact with that many others. `[真题]`
-> - In it, a mother is asked to interact with her child in a normal way before putting on a blank expression and not giving them any visual social feedback. `[真题]`
-> - Parents, teachers, and other adults are a good source of social support for children, but it is among other children that kids learn how to interact with each other. `[COCA-ACAD]`
+> - By allowing AI to develop content some brand marketers may find that they are losing control over the brand narrative. ( 48 ) Algorithms that are used to simulate human interactions are creating mmy of these concerns, especially as no-one is quite sure what the outcomes of using AI to interact with customers will be. `[真题]`
+>   - 中译：通过允许人工智能开发内容，一些品牌营销人员可能会发现他们正在失去对品牌叙事的控制。 ( 48 ) 用于模拟人类交互的算法正在引发这些担忧，特别是因为没有人完全确定使用人工智能与客户交互的结果会是什么。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - Dominique's teacher says that she interacts well with the other children. `[例]`
+>   - 中译：多米尼克的老师说她与其他孩子相处得很好。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/interact
+> - It's interesting at parties to see how people interact socially. `[例]`
+>   - 中译：在聚会上观察人们如何进行社交互动很有趣。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/interact
 
 ---
 

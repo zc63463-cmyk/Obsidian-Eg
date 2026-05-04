@@ -129,8 +129,9 @@ whip 源自古英语 *wīp*（鞭子、抽打），与中古低地德语 *wippen
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Populist politicians often whip up public anger and fear to gain support, exploiting economic insecurity and social divisions for their own political advantage."（民粹主义政客经常煽动公众的愤怒和恐惧来获取支持，利用经济不安全和社会分裂来谋取自己的政治优势——考研阅读政治话题相关表达）
-> - "The chef whipped up a delicious three-course meal in less than an hour, demonstrating remarkable culinary skill and efficiency."（厨师在不到一小时内迅速做出了一顿美味的三道菜晚餐，展现了非凡的烹饪技巧和效率——考研阅读文化话题相关表达）
+> - She lashed the horses mercilessly with her long whip. `[例]`
+> - The lion-tamer cracked his whip. `[例]`
+> - Hargreaves is the MP who got into trouble with his party's chief whip for opposing the tax reform. `[例]`
 
 
 ---

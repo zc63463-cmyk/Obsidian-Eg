@@ -130,7 +130,7 @@ review_count: 0
 > [!example]- 语料
 > - My brother is an officer in the Navy. `[例]`
 > - Gabriel joined the navy in 1997. `[例]`
-> - He was wearing a navy sweater . `[例]`
+> - He was wearing a navy sweater. `[例]`
 
 
 ---

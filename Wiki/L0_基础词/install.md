@@ -127,7 +127,7 @@ in-(进入) + stall(摊位/固定位置，源自古高地日耳曼语 *stal* "�
 > - They're planning to install a new drainage system. `[真题]`
 > - The opposition candidate was installed as president. `[真题]`
 > - A hidden camera had been installed in the room. `[真题]`
-> - She had installed herself and her daughter in a villa. `[语料库]`
+> - She had installed herself and her daughter in a villa. `[例]`
 
 
 ---

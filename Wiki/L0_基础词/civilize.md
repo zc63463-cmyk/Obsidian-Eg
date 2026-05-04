@@ -127,9 +127,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The Romans set out to civilize the Ancient Britons . `[例]`
-> - I like to think I had a civilizing effect on my younger brothers . `[例]`
-> - Dedicated teachers labored under difficult conditions to civilize frontier society . `[例]`
+> - She believes the arts have an important civilizing influence. `[例]`
+>   - 中译：她相信艺术具有重要的文明影响力。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/civilize
+> - Her parents hoped that boarding school might civilize her some. `[例]`
+>   - 中译：她的父母希望寄宿学校能让她文明一些。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/civilize
+> - He is credited with civilizing the treatment of people with mental illnesses. `[例]`
+>   - 中译：他因文明对待精神疾病患者而受到赞誉。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/civilize
 
 
 ---

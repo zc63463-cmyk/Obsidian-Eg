@@ -3,10 +3,8 @@ title: "outlive"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-25
-mastery: L0
 word_freq: 超纲词
 semantic_field: 人本世界
 prototype: 活得比……长
@@ -43,7 +41,7 @@ out-(超出) + live(活/生存)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**活得比……长**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **活得比……长**（生命/时间层面）
@@ -66,7 +64,7 @@ out-(超出) + live(活/生存)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ out-(超出) + live(活/生存)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > out（超出）+ live（活）→ 活得比……长 → 熬过。海龟 outlive 大多数动物——活得更久。一种技术 outlive 了自己的有用期——虽然还"活着"但已经没用了。一个人 outlive 了一场大病——熬过了疾病。
@@ -88,7 +86,7 @@ out-(超出) + live(活/生存)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,12 +97,12 @@ out-(超出) + live(活/生存)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[predecease]]：先于……死亡（outlive 的精确反义：比……活得长↔比……先死）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -114,26 +112,19 @@ out-(超出) + live(活/生存)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **outlive one's usefulness**：不再有用
 > - **outlive the crisis**：熬过危机
 > - **outlive one's contemporaries**：比同时代的人活得长
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - `[例]` He outlived his wife by ten years and spent his remaining days in their countryside cottage.
-> - `[例]` Some traditions outlive the generations that created them and continue to shape modern society.
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-25 | **复习次数**：0 | **当前等级**：L0
-
----
+> [!example]- 语料
+> - He outlived all of his brothers. `[例]`
+> - At 90, I’ve outlived most of my friends. `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

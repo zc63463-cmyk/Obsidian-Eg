@@ -131,9 +131,9 @@ redund-(=overflow，溢出，拉丁语 *redundare*) + -ant(形容词后缀，表
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "In time it should help restrain costs by eliminating redundant tests, preventing drug interactions, and helping doctors find the best treatments." `[真题]`
-> - "My husband was made redundant last year." `[真题]`
-> - "There's a lot of redundant information that you could cut out here." `[真题]`
+> - In time it should help restrain costs by eliminating redundant tests, preventing drug interactions, and helping doctors find the best treatments. `[真题]`
+> - My husband was made redundant last year. `[真题]`
+> - There's a lot of redundant information that you could cut out here. `[真题]`
 
 
 ---

@@ -132,9 +132,15 @@ bin(容器/箱子，古英语 *binne*)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - He read the letter quickly, then tossed it into the bin. `[COCA-NEWS]`
-> - The government decided to bin the controversial proposal after widespread public opposition. `[COCA-NEWS]`
-> - Shall I bin these old shoes? `[BNC-SPOKEN]`
+> - Grey bins will be emptied weekly. `[例]`
+>   - 中译：灰色垃圾箱每周都会清空。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bin
+> - Many councils now have fortnightly bin collections. `[例]`
+>   - 中译：许多议会现在每两周收集一次垃圾箱。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bin
+> - All their toys are kept in plastic storage bins under the bed. `[例]`
+>   - 中译：他们所有的玩具都放在床下的塑料储物箱里。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bin
 
 
 ---

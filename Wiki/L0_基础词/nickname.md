@@ -123,8 +123,8 @@ nick（附加的/额外的，源自古英语 *ekename* → *nekename*，因冠�
 
 > [!example]- 语料
 > - We always use the nickname Bee for our daughter Elizabeth. `[例]`
-> - Darwin" was the nickname he was given at high school , because of his interest in science . `[例]`
-> - The campsite has been nicknamed " tent city " by visiting reporters . `[例]`
+> - Darwin" was the nickname he was given at high school , because of his interest in science. `[例]`
+> - The campsite has been nicknamed " tent city " by visiting reporters. `[例]`
 
 
 ---

@@ -16,6 +16,15 @@ import sys
 from pathlib import Path
 from typing import Dict, List, Tuple
 
+SCRIPT_DIR = Path(__file__).resolve().parent
+if str(SCRIPT_DIR) not in sys.path:
+    sys.path.insert(0, str(SCRIPT_DIR))
+
+from common_alignment_rules import (
+    keep_if_contains_word,
+    looks_like_full_sentence,
+    required_corpus_count,
+)
 from manual_review_registry import get_scopes
 
 
@@ -23,17 +32,11 @@ REPO = Path("/workspace/Obsidian-Eg")
 REPORT = Path("/data/user/work/manual_review_validate_report.json")
 BAD_TXT = Path("/data/user/work/manual_review_validate_bad.txt")
 
-TAG_RE = re.compile(r"`\[((?:例|真题|考研-[^\]]+))\]`\s*$")
+TAG_RE = re.compile(r"`\[(?:例|真题|考研-[^\]]+|COCA(?:-[^\]]+)?|BNC(?:-[^\]]+)?)\]`\s*$")
 PLACEHOLDER_RE = re.compile(
     r"(please provide an example sentence using the word\b|i learned the word\b|nosource)",
     flags=re.I,
 )
-AUXILIARIES = {
-    "am", "is", "are", "was", "were", "be", "been", "being",
-    "do", "does", "did",
-    "have", "has", "had",
-    "can", "could", "may", "might", "must", "shall", "should", "will", "would",
-}
 
 
 def read_text(path: Path) -> str:
@@ -44,54 +47,6 @@ def read_text(path: Path) -> str:
 def extract_word_freq(text: str) -> str:
     m = re.search(r"^word_freq:\s*(.+?)\s*$", text, flags=re.M)
     return (m.group(1).strip() if m else "").strip('"').strip("'")
-
-
-def required_corpus_count(word_freq: str) -> int:
-    return 2 if word_freq == "超纲词" else 3
-
-
-def keep_if_contains_word(word: str, s: str) -> bool:
-    w = word.lower().strip()
-    if not w:
-        return False
-    last = w[-1]
-    consonants = "bcdfghjklmnpqrstvwxyz"
-    forms = [w, w + "s", w + "es"]
-    if w.endswith("e"):
-        forms += [w + "d", w[:-1] + "ing"]
-    else:
-        forms += [w + "ed", w + "ing"]
-    if last in consonants and not w.endswith("e"):
-        forms += [w + last + "ed", w + last + "ing"]
-    if "-" in w:
-        forms += [w.replace("-", " "), w.replace("-", "")]
-    alts = [re.escape(x) for x in dict.fromkeys(forms)]
-    pat = re.compile(rf"\b(?:{'|'.join(alts)})\b", flags=re.I)
-    return bool(pat.search(s))
-
-
-def looks_like_full_sentence(s: str) -> bool:
-    s = s.strip()
-    if len(s) < 12 or len(s.split()) < 4:
-        return False
-    if not s or s[-1] not in ".?!":
-        return False
-    if not s[0].isalpha() or not s[0].isupper():
-        return False
-    if "/" in s:
-        return False
-    lowered = re.sub(r"[^a-zA-Z'\- ]+", " ", s).lower()
-    words = [w for w in lowered.split() if w]
-    if len(words) < 4:
-        return False
-    if any(w in AUXILIARIES for w in words):
-        return True
-    for w in words:
-        if w.endswith(("ed", "ing")) and len(w) > 4:
-            return True
-        if w.endswith("s") and len(w) > 3 and w not in {"this", "thus"}:
-            return True
-    return False
 
 
 def corpus_entries(text: str) -> List[str]:

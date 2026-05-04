@@ -140,9 +140,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - However D. stock up on D. implied D. although D. series Read the following four texts. `[真题]`
-> - We are not boycotting PRH titles but we are doing our utmost to ensure that availability for customers remains good despite the lower overall levels of stock. `[真题]`
-> - Their stock is underestimated. `[真题]`
+> - We have a fast turnover of stock. `[例]`
+>   - 中译：我们的库存周转速度很快。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/stock
+> - That particular model is not currently in stock. `[例]`
+>   - 中译：该特定型号目前没有库存。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/stock
+> - It is important to carry out regular stock checks. `[例]`
+>   - 中译：定期进行库存检查很重要。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/stock
 
 ---
 

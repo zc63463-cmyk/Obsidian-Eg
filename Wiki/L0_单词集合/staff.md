@@ -125,9 +125,15 @@ staff 源自古英语 *stæf*（棍、杖），与 [[st-sta-stat|sta]](站立) �
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Big-name PRH authors may suffer a bit, but it's those mid-list authors, who normally rely on Waterstones staff's passion for promoting books by lesser-known writers, who will be praying for an end to the dispute. `[真题]`
-> - The publishing industry talks about diversity in terms of authors and staff but it also needs a plurality of ways of delivering intellectual contact, choice and different voices. `[真题]`
-> - Waterstones staff hesitate to promote big-name authors' books. `[真题]`
+> - The hospital staff cared for me so well. `[例]`
+>   - 中译：医院的工作人员对我照顾得很好。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/staff
+> - There are 12 full-time researchers plus technicians and other support staff. `[例]`
+>   - 中译：有12名全职研究人员加上技术人员和其他支持人员。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/staff
+> - He joined the editorial staff in 2018. `[例]`
+>   - 中译：他于2018年加入编辑团队。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/staff
 
 ---
 

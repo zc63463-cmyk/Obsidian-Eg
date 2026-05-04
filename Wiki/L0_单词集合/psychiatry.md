@@ -123,8 +123,15 @@ psych(灵魂、心灵) + -iatry(医学后缀，表示"治疗")
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Psychiatry is a branch of medicine that deals with mental disorders."（精神病学是医学的一个分支，专门研究精神障碍。）——考研高频表达
-> - "He decided to specialize in psychiatry after completing his medical degree."（在完成医学学位后，他决定专攻精神病学。）——考研高频表达
+> - The fundamental processes governing brain health — genetics, neural and synaptic plasticity, and neuroinflammation — do not respect the arbitrary boundaries drawn between neurology and psychiatry. `[例]`
+>   - 中译：控制大脑健康的基本过程——遗传学、神经和突触可塑性以及神经炎症——不尊重神经病学和精神病学之间划定的任意界限。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/psychiatry
+> - By 1955, when Sol graduated from high school, psychiatry had split almost perfectly into two camps. `[例]`
+>   - 中译：1955 年，索尔高中毕业时，精神病学几乎完全分裂为两个阵营。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/psychiatry
+> - Charles went on to graduate from Columbia University's College of Physicians and Surgeons in 2016, earning his Doctor of Medicine with a specialization in psychiatry. `[例]`
+>   - 中译：查尔斯于 2016 年从哥伦比亚大学内科和外科医生学院毕业，获得了精神病学专业的医学博士学位。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/psychiatry
 
 ---
 

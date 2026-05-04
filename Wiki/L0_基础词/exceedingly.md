@@ -120,8 +120,8 @@ ex-(出，超出) + [[ced-cess|ceed]](走) + -ing(现在分词) + -ly(副词后�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - He was clever , handsome , and exceedingly rich . `[例]`
-> - He is exceedingly rich . `[例]`
+> - He was clever , handsome , and exceedingly rich. `[例]`
+> - He is exceedingly rich. `[例]`
 > - The weather was exceedingly cold. `[例]`
 
 

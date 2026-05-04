@@ -139,9 +139,15 @@ age 源自拉丁语 *aevum*（时间、时代、寿命），与拉丁语 *aetas*
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Another issue is that, while climate change is well integrated into some subjects and at some ages-·such as earth and space sciences in high schools-it is not as well represented in curricula for younger children and in subjects that are more widely taught, such as biology and chemistry. `[真题]`
-> - Do you know the age of that building ? `[例]`
-> - What age (= how old ) is your brother ? `[例]`
+> - He started playing the piano at an early age. `[例]`
+>   - 中译：他很小就开始弹钢琴。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/age
+> - At your age I had already started work. `[例]`
+>   - 中译：在你这个年纪我已经开始工作了。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/age
+> - Children can start school from the age of four. `[例]`
+>   - 中译：孩子们从四岁起就可以开始上学。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/age
 
 
 ---

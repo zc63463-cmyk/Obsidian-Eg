@@ -129,7 +129,7 @@ review_count: 0
 > [!example]- 语料
 > - I felt a few drops of rain , so I put my umbrella up. `[例]`
 > - He runs a group of companies under the umbrella of Universal Foods. `[例]`
-> - The Organization of Islamic Conference is an umbrella organization representing 57 Muslim nations . `[例]`
+> - The Organization of Islamic Conference is an umbrella organization representing 57 Muslim nations. `[例]`
 
 
 ---

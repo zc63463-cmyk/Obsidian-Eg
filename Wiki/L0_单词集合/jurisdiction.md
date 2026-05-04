@@ -130,10 +130,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The court has jurisdiction over most criminal offenses." `[COCA-ACAD]`
-> - "His attorney claimed the court lacked jurisdiction in this matter." `[COCA-ACAD]`
-> - "Narrow neighborhood streets common at mid-century are now illegal in most jurisdictions." `[COCA-ACAD]`
-> - "There are no easy solutions to the problem of privacy and legal jurisdiction." `[COCA-ACAD]`
+> - The court has no jurisdiction over cases of this kind. `[例]`
+>   - 中译：法院对此类案件没有管辖权。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/jurisdiction
+> - The government argued that the court had no jurisdiction in the matter , but the court ruled that it did. `[例]`
+>   - 中译：政府辩称法院对此事没有管辖权，但法院裁定有管辖权。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/jurisdiction
+> - School admissions are not under our jurisdiction. `[例]`
+>   - 中译：学校招生不归我们管辖。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/jurisdiction
 
 ---
 

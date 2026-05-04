@@ -120,9 +120,15 @@ contro-(=contra-，对立、相反) + [[ver-vert|vers]](=vertere，转) + -ial(�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The ethical judgments of the Supreme Court have become an important issue recently. `[真题]`
-> - The new policy has been the subject of considerable controversial debate. `[COCA-ACAD]`
-> - Genetic engineering remains one of the most controversial topics in modern science. `[例]`
+> - The book was very controversial. `[例]`
+>   - 中译：这本书引起了很大争议。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/controversial
+> - They hold widely divergent opinions on controversial issues like abortion. `[例]`
+>   - 中译：他们对堕胎等有争议的问题持有截然不同的观点。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/controversial
+> - Eugenics was the central , and most controversial, part of his social philosophy. `[例]`
+>   - 中译：优生学是他的社会哲学的核心部分，也是最具争议性的部分。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/controversial
 
 ---
 

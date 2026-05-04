@@ -133,9 +133,9 @@ flare 源自古英语 *flær*（摇曳的光），与拉丁语 *flagrare*（燃�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The flame above the oil well flared up into the dark sky . `[例]`
-> - New fires flared and people were told to leave their homes . `[例]`
-> - Violence flared up again last night . `[例]`
+> - The flame above the oil well flared up into the dark sky. `[例]`
+> - New fires flared and people were told to leave their homes. `[例]`
+> - Violence flared up again last night. `[例]`
 
 
 ---

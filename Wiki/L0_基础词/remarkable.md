@@ -127,9 +127,9 @@ re-(再) + [[mark|mark-]](标记) + -able(可以被……的)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "This very remarkable achievement shows that students have no problems with absorbing, mastering, and utilizing very large volumes of new and complex material." `[真题]`
-> - "Remarkable progress has been achieved in developing environmental awareness in the business community." `[真题]`
-> - "It is remarkable how quickly technology has transformed our daily lives." `[语料库]`
+> - This very remarkable achievement shows that students have no problems with absorbing, mastering, and utilizing very large volumes of new and complex material. `[真题]`
+> - Remarkable progress has been achieved in developing environmental awareness in the business community. `[真题]`
+> - It is remarkable how quickly technology has transformed our daily lives. `[例]`
 
 
 ---

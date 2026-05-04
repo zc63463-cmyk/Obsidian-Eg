@@ -128,7 +128,7 @@ insight 是一个复合词，由 **in-**（进入、在...之中）+ **sight**�
 > [!example]- 语料
 > - The results provide interesting insights into the responses of the students to the experiment itself. `[真题]`
 > - One way to gain insight into these issues is to view them through the work of some of the main protagonists. `[真题]`
-> - Our findings offer insights into whether and how the major structural changes during recent decades have affected older adults. `[语料库]`
+> - Our findings offer insights into whether and how the major structural changes during recent decades have affected older adults. `[例]`
 
 
 ---

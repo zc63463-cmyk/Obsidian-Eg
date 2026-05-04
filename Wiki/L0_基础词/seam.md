@@ -134,9 +134,9 @@ seam（源自古英语 *sēam*，"接缝"，与 [[second]]/[[section]]/[[segment
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Her dress had split along the seam." `[真题]`
-> - "The situation is now beginning to burst at the seams." `[真题]`
-> - "The average UK coal seam is one metre thick." `[语料库]`
+> - Her dress had split along the seam. `[真题]`
+> - The situation is now beginning to burst at the seams. `[真题]`
+> - The average UK coal seam is one metre thick. `[例]`
 
 
 ---

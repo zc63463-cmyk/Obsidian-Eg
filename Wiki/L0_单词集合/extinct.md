@@ -127,8 +127,15 @@ ex-(出，离开) + [[stinct|sting/stinct]](刺，使停止) → 火被扑灭 �
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "There is concern that the giant panda will soon become extinct."（人们担心大熊猫很快就会灭绝。）——考研高频表达
-> - "Many species became extinct as a result of human activities such as deforestation and pollution."（许多物种因砍伐森林和污染等人类活动而灭绝。）——考研高频表达
+> - There is concern that the giant panda will soon become extinct. `[例]`
+>   - 中译：人们担心大熊猫很快就会灭绝。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/extinct
+> - Many tribes became extinct when they came into contact with Western illnesses. `[例]`
+>   - 中译：许多部落在接触到西方疾病后就灭绝了。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/extinct
+> - A lot of trades have become extinct because of the development of technology. `[例]`
+>   - 中译：由于技术的发展，许多行业已经灭绝。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/extinct
 
 ---
 

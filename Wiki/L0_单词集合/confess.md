@@ -134,9 +134,15 @@ con-(完全/一起) + fess(说、承认) = confess（完全说出来 → 坦白/
 ## 真题/语料关联
 
 > [!example]- 语料
-> - He confessed to stealing the money from the company's account. `[真题]`
-> - I must confess that I was surprised by the result of the experiment. `[真题]`
-> - The suspect confessed his guilt to the police after hours of interrogation. `[COCA-ACAD]`
+> - She confessed to her husband that she had sold her wedding ring. `[例]`
+>   - 中译：她向丈夫承认她已经卖掉了结婚戒指。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/confess
+> - He has confessed to the murder. `[例]`
+>   - 中译：他已承认谋杀罪。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/confess
+> - I have to confess (that) when I first met Reece I didn't think he was very bright. `[例]`
+>   - 中译：我必须承认，当我第一次见到里斯时，我并不认为他很聪明。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/confess
 
 ---
 

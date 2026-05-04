@@ -136,9 +136,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Failure is the mother of success."（失败是成功之母）——经典谚语，考研写作可用
-> - "The failure of the bank caused a panic."（银行倒闭引发了恐慌）——经济类阅读高频搭配
-> - "His failure to attend the meeting was noted."（他未能出席会议被记录在案）——正式/法律语境
+> - The meeting was a complete failure. `[例]`
+>   - 中译：这次会议彻底失败了。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/failure
+> - Now she finally had to admit that the project had been a total failure. `[例]`
+>   - 中译：现在她终于不得不承认这个计划彻底失败了。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/failure
+> - I'm a bit of a failure at making (= I cannot make) cakes. `[例]`
+>   - 中译：我做蛋糕有点失败（=我不会做）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/failure
 
 ---
 

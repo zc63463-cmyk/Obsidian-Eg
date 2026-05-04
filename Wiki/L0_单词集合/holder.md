@@ -123,8 +123,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The holder of the office is responsible for implementing the new policy."（该职位的担任者负责实施新政策。）——考研高频表达
-> - "Degree holders are more likely to find employment than those without qualifications."（学位持有者比没有学历的人更容易找到工作。）——考研高频表达
+> - The contender faces a world championship fight against the title holder. `[例]`
+>   - 中译：竞争者将面临与冠军卫冕者的世界冠军之战。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/holder
+> - The 100 metres was won by the world record holder. `[例]`
+>   - 中译：100米比赛由世界纪录保持者夺得。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/holder
+> - The franchise holder pays an annual fee for the franchise. `[例]`
+>   - 中译：特许经营权持有人为特许经营权支付年费。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/holder
 
 ---
 

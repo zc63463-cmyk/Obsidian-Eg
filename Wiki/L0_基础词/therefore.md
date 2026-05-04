@@ -128,9 +128,9 @@ there(那个) + fore(前面，before 的变体)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Therefore, it is important to study humans in all their richness and diversity in a calm, systematic manner." `[真题]`
-> - "Doctors are short of time to listen and therefore tend to prescribe drugs whenever they can." `[词典]`
-> - "We are a moral, ethical people and therefore we do not approve of their activities." `[词典]`
+> - Therefore, it is important to study humans in all their richness and diversity in a calm, systematic manner. `[真题]`
+> - Doctors are short of time to listen and therefore tend to prescribe drugs whenever they can. `[例]`
+> - We are a moral, ethical people and therefore we do not approve of their activities. `[例]`
 
 
 ---

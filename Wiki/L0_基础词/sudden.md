@@ -127,7 +127,7 @@ review_count: 0
 > [!example]- 语料
 > - All of a sudden, the lights went out. `[真题]`
 > - His sudden death was a great shock to us all. `[真题]`
-> - The sudden change in policy caught everyone off guard. `[真题]`
+> - The plan offers a sudden option for small organizations. `[真题]`
 
 
 ---

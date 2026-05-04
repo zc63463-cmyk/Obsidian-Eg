@@ -136,9 +136,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Ask me again tomorrow . I'll have to give it some thought. `[例]`
-> - Let me have your thoughts on that report by Friday . `[例]`
-> - He's the author of a book on the history of European thought. `[例]`
+> - I couldn't bear the thought of waiting any longer. `[例]`
+>   - 中译：我不忍心再等下去。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/thought
+> - The very thought of it makes me feel sick. `[例]`
+>   - 中译：一想到它就让我感到恶心。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/thought
+> - I don't like the thought of you walking home alone. `[例]`
+>   - 中译：我不喜欢你独自走回家的想法。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/thought
 
 ---
 

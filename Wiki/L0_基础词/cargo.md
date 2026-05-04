@@ -124,9 +124,15 @@ cargo 源自西班牙语 *cargar*（装载），最终来自拉丁语 *carricare
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The ship was carrying a cargo of wood . `[例]`
-> - The department inspects cargo coming into Hawaii. `[例]`
-> - TCL Carriers Ltd was the operator of the vessel on which the cargo was carried . `[例]`
+> - The ship was carrying a cargo of crude oil. `[例]`
+>   - 中译：这艘船载有一批原油。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/cargo
+> - Blue Origin New Glenn carrying Blue Moon Mark 1 (MK1), a single-launch, lunar cargo lander that remains on the surface. `[例]`
+>   - 中译：蓝色起源新格伦运载着蓝月马克 1 (MK1)，这是一个留在月球表面的单次发射月球货运着陆器。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/cargo
+> - Its extortion network alone extended from western to central Mexico, directly affecting both individuals and companies involved in transportation, fuel and commercial cargo. `[例]`
+>   - 中译：仅其敲诈勒索网络就从墨西哥西部延伸到中部，直接影响涉及运输、燃料和商业货物的个人和公司。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/cargo
 
 
 ---

@@ -124,9 +124,9 @@ rit(=rite, 仪式，拉丁语 *ritus* "宗教仪式") + -ual(形容词/名词后
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The lady of the house performs the sacred ritual of lighting two candles." `[真题]`
-> - "The daily ritual of mealtimes brings the family together." `[真题]`
-> - "He went through the ritual of lighting his cigar." `[真题]`
+> - The lady of the house performs the sacred ritual of lighting two candles. `[真题]`
+> - The daily ritual of mealtimes brings the family together. `[真题]`
+> - He went through the ritual of lighting his cigar. `[真题]`
 
 
 ---

@@ -129,9 +129,15 @@ ad-(=to, 朝向，见 [[ad]]) + or(=说话，拉丁语 *os/oris* 嘴→*orare* �
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She has one son and she adores him. `[例]`
-> - Don't you just adore lying in a hot bath ? `[例]`
-> - Let us adore God for all his works . `[例]`
+> - It's obvious that she adores him. `[例]`
+>   - 中译：看得出来，她很崇拜他。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/adore
+> - Don’t you just adore that dress! `[例]`
+>   - 中译：你不就是喜欢那件衣服吗！
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/adore
+> - She adores working with children. `[例]`
+>   - 中译：她喜欢和孩子们一起工作。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/adore
 
 
 ---

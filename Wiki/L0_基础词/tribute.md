@@ -128,9 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Tributes have been pouring in from all over the world for the famous actor who died yesterday . `[例]`
-> - Floral tributes (= flowers given to show respect for someone who has died ) piled up at the scene of the accident . `[例]`
-> - The minister paid tribute to the men who had fought the blaze . `[例]`
+> - Tributes have been pouring in from all over the world for the famous actor who died yesterday. `[例]`
+> - Floral tributes (= flowers given to show respect for someone who has died ) piled up at the scene of the accident. `[例]`
+> - The minister paid tribute to the men who had fought the blaze. `[例]`
 
 
 ---

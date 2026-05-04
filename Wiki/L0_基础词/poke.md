@@ -127,9 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Two kids were poking a stick into the drain . `[例]`
-> - Cathy poked her head round the door to say hello . `[例]`
-> - The first green shoots are poking up through the soil . `[例]`
+> - Two kids were poking a stick into the drain. `[例]`
+> - Cathy poked her head round the door to say hello. `[例]`
+> - The first green shoots are poking up through the soil. `[例]`
 
 
 ---

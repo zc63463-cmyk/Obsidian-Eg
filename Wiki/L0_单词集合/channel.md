@@ -136,9 +136,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "through official channels"（通过官方渠道）——考研阅读/翻译常见搭配
-> - "channel one's energy into"（将精力引导到……）——写作/阅读常见搭配
-> - "distribution channels"（分销渠道）——商业/经济类阅读高频表达
+> - She turned to another channel to watch football. `[例]`
+>   - 中译：她转向另一个频道看足球比赛。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/channel
+> - Millions tune into our channel every morning to hear the local news. `[例]`
+>   - 中译：每天早上都有数百万人收看我们的频道来收听当地新闻。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/channel
+> - Pilots are supposed to monitor one of two emergency radio channels in case they need to communicate with fighter interceptors. `[例]`
+>   - 中译：飞行员应该监视两个紧急无线电频道之一，以防需要与战斗机拦截机进行通信。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/channel
 
 ---
 

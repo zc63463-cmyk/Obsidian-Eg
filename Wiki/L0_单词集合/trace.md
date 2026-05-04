@@ -138,9 +138,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The police are trying to trace the mother of a newborn baby found abandoned outside a hospital . `[例]`
-> - Attempts to trace the whereabouts of a man seen leaving the scene of the crime have so far been unsuccessful . `[例]`
-> - Their missing daughter was finally traced to (= found in) Manchester. `[例]`
+> - We finally traced him to an address in Chicago. `[例]`
+>   - 中译：我们终于找到了他在芝加哥的一个地址。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/trace
+> - I have been unable to trace the letter you mentioned. `[例]`
+>   - 中译：我一直无法追踪到你提到的那封信。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/trace
+> - She could trace her family tree back to the 16th century. `[例]`
+>   - 中译：她的家谱可以追溯到16世纪。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/trace
 
 ---
 

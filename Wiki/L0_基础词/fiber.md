@@ -135,8 +135,8 @@ fiber 源自拉丁语 *fibra*（细丝、纤维），为拉丁语借词，无可
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Police detectives found cloth fibers at the crime scene that matched those from the coat the suspect was wearing . `[例]`
-> - He lacked the moral fiber to be president . `[例]`
+> - Police detectives found cloth fibers at the crime scene that matched those from the coat the suspect was wearing. `[例]`
+> - He lacked the moral fiber to be president. `[例]`
 > - Doctors recommend a diet of fruits , vegetables , and grains that are high in fiber. `[例]`
 
 

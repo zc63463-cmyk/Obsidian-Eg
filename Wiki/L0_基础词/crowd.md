@@ -133,7 +133,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - 暂无真题关联记录，待补充。
+> - He pushed his way through the crowd. `[例]`
+>   - 中译：他挤过人群。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/crowd
+> - A small crowd had gathered outside the church. `[例]`
+>   - 中译：一小群人聚集在教堂外。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/crowd
+> - Police had to break up the crowd. `[例]`
+>   - 中译：警察不得不驱散人群。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/crowd
 
 
 ---

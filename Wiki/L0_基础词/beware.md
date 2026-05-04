@@ -122,9 +122,15 @@ be-（使/保持）+ ware（谨慎的，警觉的，古英语 *wær*，原始日
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Beware salespeople who promise offers that seem too good to be true. `[COCA-NEWS]`
-> - We should beware of thinking that the involvement of banks made the system quicker. `[COCA-ACAD]`
-> - Beware of the dog. `[例]`
+> - Motorists have been warned to beware of icy roads. `[例]`
+>   - 中译：驾车者已被警告要小心结冰的道路。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/beware
+> - Beware of saying anything that might reveal where you live. `[例]`
+>   - 中译：谨防说出任何可能泄露您居住地的内容。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/beware
+> - It's a great place for swimming, but beware dangerous currents. `[例]`
+>   - 中译：这是游泳的好地方，但要小心危险的水流。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/beware
 
 
 ---

@@ -126,7 +126,7 @@ ex-(出，彻底) + act(做，驱动) → exactus(做到极致的)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The exact distance is 1.838 metres . `[例]`
+> - The exact distance is 1.838 metres. `[例]`
 > - The exact time of the accident was 2.43 p.m. `[例]`
 > - I still owe you £7, don't I?" "Actually, it's £7.30 to be exact. `[例]`
 

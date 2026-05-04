@@ -139,9 +139,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The government **abandoned** the project after months of failed attempts. `[例]`
-> - She danced with wild **abandon**, as if no one was watching. `[例]`
-> - Many elderly people feel **abandoned** by their families. `[例]`
+> - We had to abandon the car. `[例]`
+>   - 中译：我们不得不弃车。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/abandon
+> - By the time the rebel troops arrived , the village had already been abandoned. `[例]`
+>   - 中译：当叛军到达时，村庄已被废弃。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/abandon
+> - As a baby he was abandoned by his mother. `[例]`
+>   - 中译：当他还是个婴儿时，他就被母亲抛弃了。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/abandon
 
 ---
 

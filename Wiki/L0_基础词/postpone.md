@@ -128,9 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - They decided to postpone their holiday until next year . `[例]`
-> - We've had to postpone go ing to France because the children are ill . `[例]`
-> - The trip has been postponed twice . `[例]`
+> - They decided to postpone their holiday until next year. `[例]`
+> - We've had to postpone go ing to France because the children are ill. `[例]`
+> - The trip has been postponed twice. `[例]`
 
 
 ---

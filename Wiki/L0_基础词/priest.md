@@ -126,7 +126,7 @@ review_count: 0
 
 > [!example]- 语料
 > - Father O'Dooley was ordained a priest in 1949. `[例]`
-> - There is still a ban on women priests in the Catholic Church . `[例]`
+> - There is still a ban on women priests in the Catholic Church. `[例]`
 > - The ordination of women priests. `[例]`
 
 

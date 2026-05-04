@@ -128,10 +128,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The original purpose of the research was to investigate the effects of pollution on health." `[真题]`
-> - "She is one of the most original thinkers in the field of linguistics." `[真题]`
-> - "My original statement has been completely distorted by the media." `[COCA-ACAD]`
-> - "Researchers tried many times to replicate the original experiment." `[COCA-ACAD]`
+> - Is this the original fireplace? `[例]`
+>   - 中译：这是原来的壁炉吗？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/original
+> - The gardens have recently been restored to their original glory. `[例]`
+>   - 中译：花园最近已恢复原来的辉煌。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/original
+> - We agreed to look afresh at her original proposal. `[例]`
+>   - 中译：我们同意重新审视她最初的提议。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/original
 
 ---
 

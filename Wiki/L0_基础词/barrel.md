@@ -127,10 +127,15 @@ barrel 源自古法语 *baril*（桶），可能来自拉丁语 *barra*（横杆
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Since OPEC agreed to supply-cuts in March, the price of crude oil has jumped to almost $26 a barrel, up from less than $10 last December." `[真题]`
-> - "They drank a whole barrel of beer at the party." `[COCA-FIC]`
-> - "Oil prices fell to $9 a barrel." `[COCA-NEWS]`
-> - "The car barrelled down the road at an alarming speed." `[例]`
+> - They filled the barrels with cider. `[例]`
+>   - 中译：他们在桶里装满了苹果酒。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/barrel
+> - The art of barrel-making is an ancient skill. `[例]`
+>   - 中译：制桶艺术是一门古老的技艺。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/barrel
+> - They got through two barrels of beer. `[例]`
+>   - 中译：他们喝完了两桶啤酒。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/barrel
 
 
 ---

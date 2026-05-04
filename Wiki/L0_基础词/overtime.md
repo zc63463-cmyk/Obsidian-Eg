@@ -128,10 +128,9 @@ over-(超过) + time(时间)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Many employees are required to work overtime without extra compensation. ` [真题]`
-> - He earns a decent salary, including overtime pay for extra hours worked. ` [语料库]`
-> - The game went into overtime and the home team finally won by two points. ` [语料库]`
-> - They are doing overtime to get the project done before the deadline. ` [真题]`
+> - Everyone is on overtime (= being paid extra for working after the usual time ) this weekend. `[例]`
+> - If the game ends in a tie , overtime will be played. `[例]`
+> - They lost to the Bears in overtime. `[例]`
 
 
 ---

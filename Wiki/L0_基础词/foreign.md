@@ -128,9 +128,9 @@ for-(=outside, 在外面) + -eign(=land, 土地，源自拉丁语 *agere* 的变
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Spain was the first foreign country she had visited . `[例]`
-> - Do you speak any foreign languages ? `[例]`
-> - His work provided him with the opportunity for a lot of foreign travel . `[例]`
+> - Spain was the first foreign country she had visited. `[例]`
+> - Do you speak any foreign languages? `[例]`
+> - His work provided him with the opportunity for a lot of foreign travel. `[例]`
 
 
 ---

@@ -134,7 +134,7 @@ sail 源自古英语 *segl*，与古日耳曼语系同源，可能最终来自�
 
 > [!example]- 语料
 > - At once he began to shorten sail, to invest only in the soundest securities, and to convert all his weaker ones into cash. `[真题]`
-> - Two years ago he became the youngest person to sail across the Atlantic. `[外刊]`
+> - Two years ago he became the youngest person to sail across the Atlantic. `[例]`
 > - They honored us in many ways and when we were ready to sail, they furnished us with the supplies we needed. `[真题]`
 
 

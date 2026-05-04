@@ -124,9 +124,15 @@ optim(最好的，拉丁语 optimus) + -um(中性名词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - A mixture of selected funds is an optimum choice for future security and return on investment . `[例]`
-> - For optimum flavor , prepare just before serving . `[例]`
+> - A mixture of selected funds is an optimum choice for future security and return on investment. `[例]`
+>   - 中译：精选基金的混合是未来安全和投资回报的最佳选择。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/optimum
+> - For optimum flavor , prepare just before serving. `[例]`
+>   - 中译：为了获得最佳风味，请在食用前准备。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/optimum
 > - The figures show investment below the optimum level in the UK. `[例]`
+>   - 中译：数据显示英国的投资低于最佳水平。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/optimum
 
 ---
 

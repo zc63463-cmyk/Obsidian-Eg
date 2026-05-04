@@ -140,9 +140,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - I think he's a little weary after his long journey . `[例]`
-> - Here, sit down and rest your weary legs . `[例]`
-> - She looked at me with a weary expression as if to say "This again? `[例]`
+> - Any chance of a drink? This weary traveller is about to collapse from thirst. `[例]`
+>   - 中译：有机会喝一杯吗？这位疲惫的旅行者快要渴倒了。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/weary
+> - He gave a long, weary sigh. `[例]`
+>   - 中译：他长长地、疲倦地叹了口气。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/weary
+> - Students soon grow weary of listening to a parade of historical facts. `[例]`
+>   - 中译：学生们很快就会厌倦听一大堆历史事实。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/weary
 
 ---
 

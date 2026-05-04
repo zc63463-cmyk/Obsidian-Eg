@@ -135,9 +135,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She has terminal cancer . `[例]`
-> - She claims that the shipbuilding industry is in terminal decline . `[例]`
-> - He has nothing to do all day and is suffering from terminal boredom . `[例]`
+> - A second terminal was opened last year. `[例]`
+>   - 中译：第二个航站楼于去年开业。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/terminal
+> - Internet terminals have been installed at most libraries. `[例]`
+>   - 中译：大多数图书馆都安装了互联网终端。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/terminal
+> - She was diagnosed with terminal cancer. `[例]`
+>   - 中译：她被诊断出患有晚期癌症。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/terminal
 
 ---
 

@@ -135,9 +135,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The management's decision to ignore the safety warnings demonstrated a remarkable lapse of judgment . `[例]`
+> - The management's decision to ignore the safety warnings demonstrated a remarkable lapse of judgment. `[例]`
 > - After a lapse of six months we met up again. `[例]`
-> - Her memory lapses have become more frequent in the last year . `[例]`
+> - Her memory lapses have become more frequent in the last year. `[例]`
 
 
 ---

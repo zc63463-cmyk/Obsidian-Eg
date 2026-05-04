@@ -136,10 +136,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The best solution is often to keep it simple. `[COCA-ACAD]`
-> - It is a simple fact that education changes lives. `[COCA-ACAD]`
-> - The solution to the problem turned out to be surprisingly simple. `[COCA-ACAD]`
-> - The decision was motivated by greed, pure and simple. `[COCA-ACAD]`
+> - The instructions were written in simple English. `[例]`
+>   - 中译：说明书是用简单的英语写的。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/simple
+> - The scheme is simple and cheap to operate. `[例]`
+>   - 中译：该方案简单、操作成本低。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/simple
+> - It's a simple dish to prepare , consisting mainly of rice and vegetables. `[例]`
+>   - 中译：这是一道简单的菜肴，主要由米饭和蔬菜组成。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/simple
 
 
 ---

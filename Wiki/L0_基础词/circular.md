@@ -127,9 +127,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Circulars and other junk mail go straight in the bin . `[例]`
-> - One man built a circular barn for his cows . `[例]`
-> - The circular area is used for parking . `[例]`
+> - He had round unblinking eyes and a perfectly circular head. `[例]`
+>   - 中译：他有一双一眨不眨的圆眼睛和一个完美的圆形头。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/circular
+> - The crater was two miles across and roughly circular. `[例]`
+>   - 中译：陨石坑宽两英里，大致呈圆形。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/circular
+> - Using small circular movements, massage the muscles on either side of the spine. `[例]`
+>   - 中译：通过小幅度的圆周运动，按摩脊柱两侧的肌肉。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/circular
 
 
 ---

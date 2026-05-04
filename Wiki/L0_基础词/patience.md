@@ -140,9 +140,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Investors need to have patience. The economy will improve soon." `[真题]`
-> - "She treated her students with great patience and humor." `[真题]`
-> - "The team continues to play poorly, and many fans are starting to lose patience." `[真题]`
+> - Investors need to have patience. The economy will improve soon. `[真题]`
+> - She treated her students with great patience and humor. `[真题]`
+> - The team continues to play poorly, and many fans are starting to lose patience. `[真题]`
 
 
 ---

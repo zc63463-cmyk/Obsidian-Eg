@@ -121,10 +121,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - You need to be realistic about the amount you can do in a day. `[COCA]`
-> - We felt we had a realistic chance of beating England. `[COCA]`
-> - Her expectations for the project were realistic, considering the time and resources available. `[COCA]`
-> - I don't think they have a realistic chance of winning. `[COCA]`
+> - Let's be realistic ( about this) - I just can't afford to pay that much money. `[例]`
+>   - 中译：让我们现实点（对此）——我只是付不起那么多钱。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/realistic
+> - The special effects were so realistic. `[例]`
+>   - 中译：特效非常逼真。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/realistic
+> - Manufacturers and shops circumnavigate gun laws by providing realistic models which are unable to discharge missiles. `[例]`
+>   - 中译：制造商和商店通过提供无法发射导弹的逼真模型来规避枪支法。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/realistic
 
 ---
 

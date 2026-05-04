@@ -127,9 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "This may mean that the public's attention is fragmented across many different media outlets." `[真题]`
-> - "It may be said that the measure of the worth of any social institution is its effect in enlarging and improving experience." `[真题]`
-> - "The cause of the accident may never be discovered." `[语料库]`
+> - This may mean that the public's attention is fragmented across many different media outlets. `[真题]`
+> - It may be said that the measure of the worth of any social institution is its effect in enlarging and improving experience. `[真题]`
+> - The cause of the accident may never be discovered. `[例]`
 
 
 ---

@@ -126,9 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The researchers defined the parameters of the study carefully before collecting data. `[语料库]`
-> - We need to work within the parameters set by the budget. `[语料库]`
-> - The company owns 76 parcels of industrial land in 23 states, each governed by strict environmental parameters. `[外刊]`
+> - The researchers defined the parameters of the study carefully before collecting data. `[例]`
+> - We need to work within the parameters set by the budget. `[例]`
+> - The company owns 76 parcels of industrial land in 23 states, each governed by strict environmental parameters. `[例]`
 
 
 ---

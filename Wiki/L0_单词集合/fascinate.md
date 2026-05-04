@@ -136,9 +136,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Children are fascinated by the natural world."（孩子们对自然界着迷）——考研阅读常见语境，描述教育、心理话题
-> - "The findings of the study are fascinating."（这项研究的结果令人着迷）——学术类阅读中评价研究价值
-> - "She was fascinated with the idea of exploring space."（她对探索太空的想法着迷）——科技类话题
+> - Science has always fascinated me. `[例]`
+>   - 中译：科学一直让我着迷。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/fascinate
+> - Anything to do with planes and flying fascinates him. `[例]`
+>   - 中译：任何与飞机和飞行有关的事物都让他着迷。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/fascinate
+> - Anything to do with airplanes and flying fascinates him. `[例]`
+>   - 中译：任何与飞机和飞行有关的事物都令他着迷。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/fascinate
 
 ---
 

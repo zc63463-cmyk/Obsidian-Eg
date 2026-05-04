@@ -143,10 +143,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The children crawled through an opening in the fence . `[例]`
-> - The official opening of the new school will take place next month . `[例]`
-> - Preparations are under way for the store's grand opening on Thursday . `[例]`
-> - The opening of the novel is amazing . `[例]`
+> - The children crawled through an opening in the fence. `[例]`
+>   - 中译：孩子们从栅栏的开口处爬过去。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/opening
+> - There was a small opening on the side of the box. `[例]`
+>   - 中译：盒子侧面有一个小开口。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/opening
+> - Tear along the dotted line to create an opening. `[例]`
+>   - 中译：沿着虚线撕开以形成开口。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/opening
 
 ---
 

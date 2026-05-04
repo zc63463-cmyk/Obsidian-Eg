@@ -126,8 +126,8 @@ review_count: 0
 
 > [!example]- 语料
 > - Millennials face the paradox of being the least formal generation yet the most conscious of style and personal branding. `[真题]`
-> - The great paradox of our time is that many of us are busy and bored at the same time. `[外刊]`
-> - It is a paradox that such a rich country should have so many poor people living in it. `[语料库]`
+> - The great paradox of our time is that many of us are busy and bored at the same time. `[例]`
+> - It is a paradox that such a rich country should have so many poor people living in it. `[例]`
 
 
 ---

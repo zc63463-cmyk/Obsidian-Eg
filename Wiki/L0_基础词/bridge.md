@@ -129,9 +129,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - AI can also provide a bridge between the need of the brand to communicate emotionally with the customer and identifying their rapidly changing needs. `[真题]`
-> - We drove across the bridge. `[例]`
-> - Part-time work can provide a bridge between staying at home and working full-time . `[例]`
+> - We crossed the bridge over the River Windrush. `[例]`
+>   - 中译：我们跨过温德拉什河上的桥。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bridge
+> - The river was spanned by a railway bridge. `[例]`
+>   - 中译：这条河上有一座铁路桥。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bridge
+> - The plan includes a pedestrian bridge connecting the arena with the convention centre. `[例]`
+>   - 中译：该计划包括一座连接竞技场和会议中心的人行天桥。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bridge
 
 
 ---

@@ -124,7 +124,7 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Students are expected to be quiet and obedient in the classroom . `[例]`
+> - Students are expected to be quiet and obedient in the classroom. `[例]`
 > - An obedient dog is much easier to train and can be a reliable companion for its owner. `[例]`
 > - He was always obedient to his father's wishes. `[例]`
 

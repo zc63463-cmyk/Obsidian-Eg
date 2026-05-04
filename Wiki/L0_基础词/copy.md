@@ -133,9 +133,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - This painting is only a copy — the original hangs in the Louvre. `[COCA-FIC]`
-> - The library has copies of all the national and local newspapers. `[COCA-ACAD]`
-> - Four million copies of the book were sold in the first year. `[COCA-NEWS]`
+> - The thieves replaced the original painting with a copy. `[例]`
+>   - 中译：窃贼用复制品替换了原画。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/copy
+> - He made careful copies of all the documents he found in the library. `[例]`
+>   - 中译：他仔细复印了在图书馆找到的所有文件。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/copy
+> - The book sold 20 000 copies within two weeks. `[例]`
+>   - 中译：这本书在两周内就售出了 20 000 册。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/copy
 
 
 ---

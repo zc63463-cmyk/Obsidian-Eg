@@ -125,9 +125,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She started as a cashier making $6.50 an hour , then moved up to customer service manager , making $7.65 an hour . `[例]`
-> - She was once dismissed from her job as head cashier with a supermarket chain on suspicion of embezzlement . `[例]`
-> - Among the auditor's concerns about the company were errors by the cashier's office . `[例]`
+> - He was cashiered from the army. `[例]`
+>   - 中译：他被军队开除。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/cashier
+> - Earlier, Erskine had been cashiered from the army after being declared insane. `[例]`
+>   - 中译：早些时候，厄斯金因被宣布精神失常而被军队开除。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/cashier
+> - While a flurry of bankruptcies did cashier a number of retail outlets, with Rite Aid and Joann leading the pack, the bankruptcy rate so far this year is much slower than last year at the same time, making the current trend that much more remarkable. `[例]`
+>   - 中译：虽然一连串的破产潮导致许多零售店破产，其中以 Rite Aid 和 Joann 为首，但今年迄今为止的破产率比去年同期要慢得多，这使得当前的趋势更加引人注目。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/cashier
 
 
 ---

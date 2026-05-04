@@ -135,10 +135,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The recent decline of the stock market does not necessarily signify the start of a recession. `[COCA-ACAD]`
-> - Fever accompanied by a runny nose usually signifies a cold. `[COCA-ACAD]`
-> - The U.N. flag was raised at the airport to signify that control had passed into its hands. `[COCA-ACAD]`
-> - Whether he agrees or not does not signify. `[COCA-ACAD]`
+> - Nobody really knows what the marks on the ancient stones signify. `[例]`
+>   - 中译：没有人真正知道古代石头上的标记意味着什么。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/signify
+> - The number 30 on a road sign signifies that the speed limit is 30 miles an hour. `[例]`
+>   - 中译：路标上的数字 30 表示限速为每小时 30 英里。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/signify
+> - She signified her agreement by nodding her head. `[例]`
+>   - 中译：她点点头，表示同意。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/signify
 
 ---
 

@@ -130,10 +130,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He is a junior member of the research team." `[真题]`
-> - "Our daughter is an honor student, taking three AP classes in her junior year." `[剑桥词典]`
-> - "She is a junior member of the marketing team, so she's still learning the ropes." `[IELTS语料]`
-> - "The junior partner at the law firm works closely with senior attorneys to gain experience." `[通用语料]`
+> - He is a junior member of the research team. `[真题]`
+> - Our daughter is an honor student, taking three AP classes in her junior year. `[例]`
+> - She is a junior member of the marketing team, so she's still learning the ropes. `[例]`
+> - The junior partner at the law firm works closely with senior attorneys to gain experience. `[例]`
 
 
 ---

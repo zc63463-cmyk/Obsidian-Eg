@@ -125,9 +125,9 @@ dig 为日耳曼语源基础词（古英语 *dīcan*），无可拆分的词根�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Digging (in) the garden is good exercise . `[例]`
+> - Digging (in) the garden is good exercise. `[例]`
 > - The dog was digging a hole to hide its bone in. `[例]`
-> - To dig, the player must anticipate the spike and be prepared to quickly dive in any direction . `[例]`
+> - To dig, the player must anticipate the spike and be prepared to quickly dive in any direction. `[例]`
 
 
 ---

@@ -135,9 +135,15 @@ child（儿童）+ -hood（表示状态、时期的后缀，源自古英语 *-ha
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She had an unhappy childhood. `[例]`
-> - Childhood is not always a happy time . `[例]`
-> - She spent most of her childhood on a farm in Texas. `[例]`
+> - She had a happy childhood. `[例]`
+>   - 中译：她有一个幸福的童年。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/childhood
+> - His interest in farming developed during his childhood in Shropshire. `[例]`
+>   - 中译：他对农业的兴趣是在什罗普郡度过的童年时期产生的。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/childhood
+> - We have known each other since childhood. `[例]`
+>   - 中译：我们从小就认识。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/childhood
 
 
 ---

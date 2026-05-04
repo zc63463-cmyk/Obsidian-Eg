@@ -123,9 +123,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - His friends were deeply shocked and saddened by the tragic news of his death . `[例]`
-> - The bomb explosion resulted in a tragic loss of life . `[例]`
-> - It is tragic that the theatre has had to close . `[例]`
+> - His friends were deeply shocked and saddened by the tragic news of his death. `[例]`
+> - The bomb explosion resulted in a tragic loss of life. `[例]`
+> - It is tragic that the theatre has had to close. `[例]`
 
 
 ---

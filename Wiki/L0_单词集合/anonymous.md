@@ -121,8 +121,15 @@ an-(无，没有) + [[onym]](名字) + -ous(形容词后缀，充满...的)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The donation was made by an anonymous benefactor."（这笔捐款是由一位匿名捐赠者提供的。）——考研高频表达
-> - "The author of the report wishes to remain anonymous."（该报告的作者希望保持匿名。）——考研高频表达
+> - The money was donated by an anonymous benefactor. `[例]`
+>   - 中译：这笔钱是由一位匿名捐助者捐赠的。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/anonymous
+> - Police said an anonymous caller warned that a bomb was about to go off. `[例]`
+>   - 中译：警方称，一位匿名来电者警告称，炸弹即将爆炸。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/anonymous
+> - An attempt to implant an embryo using an egg from an anonymous woman donor was unsuccessful. `[例]`
+>   - 中译：使用匿名女性捐献者的卵子植入胚胎的尝试没有成功。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/anonymous
 
 ---
 

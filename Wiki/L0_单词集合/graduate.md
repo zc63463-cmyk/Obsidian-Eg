@@ -130,7 +130,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The number of students graduating with student loan debt has reached an all-time high.（背负学生贷款债务毕业的学生数量已达到历史最高水平。）
+> - Chris is a physics graduate. `[例]`
+>   - 中译：克里斯是一名物理学毕业生。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/graduate
+> - She's a recent graduate of Yale. `[例]`
+>   - 中译：她是耶鲁大学刚毕业的学生。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/graduate
+> - We would prefer to fill the post with a recent graduate. `[例]`
+>   - 中译：我们更愿意由应届毕业生来填补这个职位。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/graduate
 
 ---
 

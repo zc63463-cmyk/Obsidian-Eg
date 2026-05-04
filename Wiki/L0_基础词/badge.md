@@ -130,9 +130,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "For many veterans, their military medals serve as badges of honor that remind them of their service and sacrifice." `[例]`
-> - "All employees are required to wear their identification badges at all times while on the company premises." [COCA]
-> - "Some people take their ignorance about popular culture as a badge of intellectual prowess." [COCA]
+> - She wore a badge saying ‘Vote for Coates’. `[例]`
+>   - 中译：她戴着一枚徽章，上面写着“投票给科茨”。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/badge
+> - All employees have to wear name badges. `[例]`
+>   - 中译：所有员工都必须佩戴名牌。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/badge
+> - He pulled out a badge and said he was a cop. `[例]`
+>   - 中译：他拿出徽章并说他是一名警察。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/badge
 
 
 ---

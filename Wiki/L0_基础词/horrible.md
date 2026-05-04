@@ -127,8 +127,8 @@ horrible（中古英语，源自古法语 *horrible*，源自拉丁语 *horribil
 ## 真题/语料关联
 
 > [!example]- 语料
-> - He's got a horrible cold . `[例]`
-> - What's that horrible smell ? `[例]`
+> - He's got a horrible cold. `[例]`
+> - What's that horrible smell? `[例]`
 > - That was a horrible thing to say! `[例]`
 
 

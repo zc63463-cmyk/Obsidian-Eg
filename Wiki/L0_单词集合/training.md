@@ -124,9 +124,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Earlier this week Dan revealed that he's in training for the London marathon . `[例]`
-> - His experience as a teacher was good training for parenthood . `[例]`
-> - The study investigates the impact of biased training data on generative AI performance . `[例]`
+> - Few candidates had received any training in management. `[例]`
+>   - 中译：很少有候选人接受过管理方面的培训。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/training
+> - She has some training in dealing with children with emotional problems. `[例]`
+>   - 中译：她接受过一些处理有情绪问题的儿童的培训。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/training
+> - The company failed to provide adequate training for staff. `[例]`
+>   - 中译：该公司未能为员工提供足够的培训。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/training
 
 ---
 

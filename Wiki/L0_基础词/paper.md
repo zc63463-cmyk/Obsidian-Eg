@@ -135,7 +135,7 @@ review_count: 0
 
 > [!example]- 语料
 > - He wrote his name down on a piece of paper and handed it to the receptionist. `[真题]`
-> - The researchers have published a paper in the journal Nature. `[外刊]`
+> - The researchers have published a paper in the journal Nature. `[例]`
 > - On paper, the plan looks perfect, but in practice it has many flaws. `[真题]`
 
 

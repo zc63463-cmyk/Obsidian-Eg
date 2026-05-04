@@ -124,10 +124,10 @@ man(人，人类) + kind(种类) → mankind(人类的种类 → 人类)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "I believe that war is one of the major evils facing mankind." `[COCA-ACAD]`
-> - "He worked for the benefit of all mankind." `[COCA-ACAD]`
-> - "The present generation has an awesome responsibility for the future of mankind." `[COCA-ACAD]`
-> - "Up until a few decades ago, our visions of the future were largely — though by no means uniformly — glowingly positive. Science and technology would cure all the ills of humanity, leading to lives of fulfillment and opportunity for all mankind." `[真题]`
+> - I believe that war is one of the major evils facing mankind. `[COCA-ACAD]`
+> - He worked for the benefit of all mankind. `[COCA-ACAD]`
+> - The present generation has an awesome responsibility for the future of mankind. `[COCA-ACAD]`
+> - Up until a few decades ago, our visions of the future were largely — though by no means uniformly — glowingly positive. Science and technology would cure all the ills of humanity, leading to lives of fulfillment and opportunity for all mankind. `[真题]`
 
 
 ---

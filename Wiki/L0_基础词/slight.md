@@ -150,9 +150,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She had a slight headache . `[例]`
+> - She had a slight headache. `[例]`
 > - Like most long-distance runners she is very slight. `[例]`
-> - It's a slight but enjoyable tale . `[例]`
+> - It's a slight but enjoyable tale. `[例]`
 
 
 ---

@@ -134,10 +134,15 @@ di-(分开，转向) + vers(转) + -ion(名词后缀) = diversion（转向别处
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Sports provide him with a welcome diversion from the pressures of his job." `[COCA-ACAD]`
-> - "The diversion of water from the river into the reservoir has caused environmental concerns." `[COCA-ACAD]`
-> - "A smoke bomb created a diversion while the robbery took place." `[COCA-ACAD]`
-> - "Small diversions of river water for irrigation have been practiced for centuries." `[COCA-ACAD]`
+> - Traffic diversions will be kept to a minimum throughout the festival. `[例]`
+>   - 中译：整个节日期间，交通改道将保持在最低限度。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/diversion
+> - Shoplifters often work in pairs , with one creating a diversion to distract the staff while the other steals the goods. `[例]`
+>   - 中译：商店扒手通常两人一组，其中一人制造转移注意力以分散员工的注意力，而另一人则偷窃货物。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/diversion
+> - Reading is a pleasant diversion. `[例]`
+>   - 中译：读书是一种愉快的消遣。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/diversion
 
 ---
 

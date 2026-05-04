@@ -127,7 +127,7 @@ review_count: 0
 
 > [!example]- 语料
 > - Their customers remain loyal. `[真题]`
-> - She has been one of the prime minister's most loyal supporters . `[例]`
+> - She has been one of the prime minister's most loyal supporters. `[例]`
 > - When all her other friends deserted her, Steve remained loyal. `[例]`
 
 

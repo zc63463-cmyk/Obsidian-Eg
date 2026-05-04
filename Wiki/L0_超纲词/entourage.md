@@ -3,10 +3,8 @@ title: "entourage"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 社会习俗
 prototype: 随行人员（围绕在重要人物身边的人）
@@ -43,7 +41,7 @@ en-(在……周围) + tour(转/环绕) + -age(名词后缀，表示集合)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**随行人员（围绕在重要人物身边的人）**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **在周围转**（空间层面）
@@ -64,7 +62,7 @@ en-(在……周围) + tour(转/环绕) + -age(名词后缀，表示集合)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ en-(在……周围) + tour(转/环绕) + -age(名词后缀，表示集合)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > en（在周围）+ tour（转）+ age（集合）→ entourage。法语借词。想象一位明星走进酒店，身边总有一群保镖、助理、经纪人跟着——这群人就是 the celebrity's entourage。
@@ -86,7 +84,7 @@ en-(在……周围) + tour(转/环绕) + -age(名词后缀，表示集合)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -98,12 +96,12 @@ en-(在……周围) + tour(转/环绕) + -age(名词后缀，表示集合)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - 无精确反义词
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -115,26 +113,19 @@ en-(在……周围) + tour(转/环绕) + -age(名词后缀，表示集合)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **the president's entourage**：总统的随行人员
 > - **a celebrity entourage**：名人的随从
 > - **travel with one's entourage**：带着随行人员出行
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - The president arrived at the summit accompanied by a large entourage of advisors and security personnel. `[例]`
 > - She always travels with her entourage, including a personal stylist, a makeup artist, and two bodyguards. `[例]`
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
-
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -131,9 +131,9 @@ entire 源自古法语 *entier*，来自拉丁语 *integer*（完整的、未被
 ## 真题/语料关联
 
 > [!example]- 语料
-> - They got an entire set of silver cutlery as a wedding present . `[例]`
+> - They got an entire set of silver cutlery as a wedding present. `[例]`
 > - He read the entire book on the flight to Buenos Aires. `[例]`
-> - Her entire family gathered for their annual reunion . `[例]`
+> - Her entire family gathered for their annual reunion. `[例]`
 
 
 ---

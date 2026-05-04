@@ -124,9 +124,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - His lawyers have decided not to proceed with the case . `[例]`
-> - Preparations for the festival are now proceeding smoothly . `[例]`
-> - She sat down and proceeded to tell me about her skiing holiday . `[例]`
+> - His lawyers have decided not to proceed with the case. `[例]`
+>   - 中译：他的律师决定不再审理此案。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/proceed
+> - Preparations for the festival are now proceeding smoothly. `[例]`
+>   - 中译：目前，节日筹备工作进展顺利。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/proceed
+> - She sat down and proceeded to tell me about her skiing holiday. `[例]`
+>   - 中译：她坐下来，开始向我讲述她的滑雪假期。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/proceed
 
 ---
 

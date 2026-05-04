@@ -134,8 +134,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - "Climate change affects every region of the world, but developing countries are particularly vulnerable."（气候变化影响着世界每个地区，但发展中国家尤其脆弱。）——考研阅读真题
-> - "The new law will affect how companies handle personal data."（新法律将影响公司处理个人数据的方式。）——考研高频表达
+> - Both buildings were badly affected by the fire. `[例]`
+>   - 中译：两座建筑都受到火灾的严重影响。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/affect
+> - The divorce affected every aspect of her life. `[例]`
+>   - 中译：离婚影响了她生活的方方面面。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/affect
+> - It's a disease that affects mainly older people. `[例]`
+>   - 中译：这是一种主要影响老年人的疾病。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/affect
 
 ---
 

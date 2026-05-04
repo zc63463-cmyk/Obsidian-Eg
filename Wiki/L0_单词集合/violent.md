@@ -127,9 +127,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - He yells a lot but I don't think he's ever been physically violent towards her. `[例]`
-> - The more violent scenes in the film were cut when it was shown on television . `[例]`
-> - Her family is still trying to come to terms with her violent death (= death caused suddenly and unexpectedly by the use of physical force , especially murder ) . `[例]`
+> - Students were involved in violent clashes with the police. `[例]`
+>   - 中译：学生与警方发生暴力冲突。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/violent
+> - The crowd suddenly turned violent. `[例]`
+>   - 中译：人群顿时变得暴力起来。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/violent
+> - Was he ever violent towards you? `[例]`
+>   - 中译：他对你有暴力行为吗？
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/violent
 
 ---
 

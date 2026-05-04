@@ -137,9 +137,15 @@ cheat 词源不确定，可能源自中古英语 *chet*（没收物、战利品�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Any athlete caught cheating will be disqualified from the competition . `[例]`
-> - He cheats at cards . `[例]`
-> - I suspect he cheats on his taxes (= avoids paying as much tax as he should) . `[例]`
+> - She is accused of attempting to cheat the taxman. `[例]`
+>   - 中译：她被指控试图欺骗税务员。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/cheat
+> - We will crack down on people who try to cheat the system. `[例]`
+>   - 中译：我们将严厉打击那些试图欺骗系统的人。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/cheat
+> - Many people feel cheated by the election process. `[例]`
+>   - 中译：许多人感觉选举过程被欺骗了。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/cheat
 
 
 ---

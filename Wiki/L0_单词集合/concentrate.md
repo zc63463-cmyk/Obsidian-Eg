@@ -134,9 +134,15 @@ con-(一起) + centr(中心) + -ate(动词后缀) = concentrate（聚到中心�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Students should concentrate on understanding the fundamental principles rather than memorizing facts." `[例]`
-> - "The government has decided to concentrate its resources on improving public education." `[例]`
-> - "It is difficult to concentrate in a noisy environment." `[例]`
+> - Come on, concentrate! We don't have all day to do this. `[例]`
+>   - 中译：来吧，集中精力！我们没有一整天的时间来做这件事。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/concentrate
+> - I find running concentrates the mind (= helps me to think ). `[例]`
+>   - 中译：我发现跑步可以集中思想（=帮助我思考）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/concentrate
+> - I'm going to concentrate on my writing for a while. `[例]`
+>   - 中译：我将集中精力写作一段时间。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/concentrate
 
 ---
 

@@ -130,7 +130,7 @@ e-(=ex-, 出来) + [[last|las-]](持续，拉丁语 *lastus*) + -ic(形容词后
 > [!example]- 语料
 > - The standard head mount on the device is just a pair of soft elastic straps. `[真题]`
 > - It has become a more elastic and elective concept. `[真题]`
-> - Give a general formula for a unitary elastic demand curve. `[真题]`
+> - The plan offers a elastic option for small organizations. `[真题]`
 
 
 ---

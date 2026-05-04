@@ -129,9 +129,15 @@ ap-（=ad-，向，朝向）+ 建议创建词根笔记 [[par]]（pear，出现�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The industry has changed greatly with the appearance of new technologies. `[例]`
-> - It was his first public appearance since the election. `[例]`
-> - We should not judge people by their appearance. `[例]`
+> - She will be making a public appearance, signing copies of her latest novel. `[例]`
+>   - 中译：她将公开露面，并签署她最新小说的副本。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/appearance
+> - This was the defendant's third court appearance for the same offence. `[例]`
+>   - 中译：这是被告因同一罪行第三次出庭。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/appearance
+> - Top footballers make regular appearances on TV. `[例]`
+>   - 中译：顶级足球运动员经常出现在电视上。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/appearance
 ---
 
 

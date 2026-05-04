@@ -135,9 +135,15 @@ ap-（=ad-，向，朝向）+ 建议创建词根笔记 [[plic]]（折叠，施�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - You can apply for a scholarship online. `[真题]`
-> - The findings of this research can be applied to other fields of study. `[例]`
-> - This regulation applies to all employees regardless of their position. `[例]`
+> - We've applied for a grant to get funding for the project. `[例]`
+>   - 中译：我们已经申请了一笔赠款来为该项目提供资金。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/apply
+> - Please apply in writing to the address below. `[例]`
+>   - 中译：请以书面形式向以下地址提出申请。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/apply
+> - By the time I saw the job advertised it was already too late to apply. `[例]`
+>   - 中译：当我看到招聘广告时，已经来不及申请了。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/apply
 
 ---
 

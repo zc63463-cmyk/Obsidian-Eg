@@ -123,8 +123,8 @@ handbook = [[hand]]（手）+ [[book]]（书）。这是一个典型的复合词
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The student handbook gives details of all courses . `[例]`
-> - The student handbook describes all the campus activities . `[例]`
+> - The student handbook gives details of all courses. `[例]`
+> - The student handbook describes all the campus activities. `[例]`
 > - A study skills handbook sets out to train the students in all these areas. `[例]`
 
 

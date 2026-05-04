@@ -126,10 +126,15 @@ com-(一起) + [[put|put-]](计算，思考，拉丁语 *putare* "计算、认�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The government uses the household survey to compute the monthly unemployment rate. ` [COCA-NEWS]`
-> - Net asset value is computed at the close of regular trading on the New York Stock Exchange. ` [COCA-ACAD]`
-> - We were required to compute the answers without using a calculator. ` [COCA-FIC]`
-> - The firm declined to discuss the deal or say how the figure was computed. ` [例]`
+> - The losses were computed at £5 million. `[例]`
+>   - 中译：损失经计算为 500 万英镑。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/compute
+> - These measurements can be used to compute the average size. `[例]`
+>   - 中译：这些测量结果可用于计算平均尺寸。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/compute
+> - The costs of chips are rising as tech giants shell out billions on computing power. `[例]`
+>   - 中译：随着科技巨头在计算能力上投入数十亿美元，芯片的成本正在上升。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/compute
 
 
 ---

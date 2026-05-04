@@ -125,9 +125,15 @@ in-（前缀，含义"向内"）+ come（动词，含义"来"）+ 无后缀
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Rising income inequality has become a major concern in many developed countries. `[COCA-ACAD]`
-> - Disposable income is the amount of money that households have available for spending and saving after direct taxes. `[COCA-ACAD]`
-> - The government needs to increase the disposable income of low-income families. `[COCA-NEWS]`
+> - Average incomes have risen by 4.5 percent over the past year. `[例]`
+>   - 中译：去年平均收入增长了4.5%。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/income
+> - More help is needed for people on low incomes. `[例]`
+>   - 中译：低收入人群需要更多帮助。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/income
+> - I haven't had much income from my stocks and shares this year. `[例]`
+>   - 中译：今年我的股票和股票收入不多。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/income
 
 ---
 

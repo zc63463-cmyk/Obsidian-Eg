@@ -140,9 +140,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - A vast audience watched the broadcast . `[例]`
-> - The amount of detail the book contains is vast. `[例]`
-> - The vast majority of children attend state schools . `[例]`
+> - In the vast majority of cases, this should not be a problem. `[例]`
+>   - 中译：在绝大多数情况下，这应该不是问题。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/vast
+> - They sell a vast array of products. `[例]`
+>   - 中译：他们销售各种各样的产品。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/vast
+> - At dusk bats appear in vast numbers. `[例]`
+>   - 中译：黄昏时分，蝙蝠大量出现。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/vast
 
 ---
 

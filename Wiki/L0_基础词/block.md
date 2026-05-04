@@ -130,9 +130,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The museum is just six blocks away. `[例]`
-> - He lives just around the block. `[例]`
-> - He placed his neck on the block and the executioner released the blade . `[例]`
+> - The houses are made of concrete blocks with tin roofs. `[例]`
+>   - 中译：这些房子是用混凝土块建造的，有铁皮屋顶。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/block
+> - The wall was made from massive blocks of stone. `[例]`
+>   - 中译：这堵墙是由大块石头砌成的。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/block
+> - She lives in a modern apartment block. `[例]`
+>   - 中译：她住在一栋现代化的公寓楼里。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/block
 
 
 ---

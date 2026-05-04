@@ -132,9 +132,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - I feel a little uneasy about asking her to do me such a big favour . `[例]`
-> - Who can predict how long this uneasy peace between the two countries will last? `[例]`
-> - She has a slightly uneasy relationship with her mother-in-law . `[例]`
+> - She had an uneasy feeling that something terrible was going to happen. `[例]`
+>   - 中译：她有一种不安的感觉，预感有什么可怕的事情要发生。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/uneasy
+> - He was beginning to feel distinctly uneasy about their visit. `[例]`
+>   - 中译：他开始对他们的来访感到明显不安。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/uneasy
+> - She felt uneasy about leaving the children with them. `[例]`
+>   - 中译：她对把孩子们留在身边感到不安。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/uneasy
 
 ---
 

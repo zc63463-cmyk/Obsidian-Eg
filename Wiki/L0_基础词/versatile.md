@@ -129,10 +129,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He's a very versatile young actor who's as happy in highbrow dramas as he is in TV comedies." `[权威语料]`
-> - "Eggs are easy to cook and are an extremely versatile food." `[权威语料]`
-> - "Never before has computing been so versatile." `[权威语料]`
-> - "She stands out for her incredible versatility as an actor." `[权威语料]`
+> - He's a very versatile young actor who's as happy in highbrow dramas as he is in TV comedies. `[例]`
+> - Eggs are easy to cook and are an extremely versatile food. `[例]`
+> - Never before has computing been so versatile. `[例]`
+> - The researchers proposed a versatile solution to the problem. `[例]`
 
 
 ---

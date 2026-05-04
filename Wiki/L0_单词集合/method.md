@@ -124,9 +124,15 @@ meta-(之后/沿着/超越) + [[medi|hodos]](道路/方式) → 沿着道路走�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The scientific method is the foundation of modern research."（科学方法是现代研究的基础。）——考研高频表达
-> - "The school has adopted a new teaching method that emphasizes student participation."（学校采用了一种强调学生参与的新教学方法。）——考研高频表达
-> - "There is method in his madness — his seemingly chaotic approach actually follows a clear logic."（他的疯狂中有条理——他看似混乱的方法实际上遵循着清晰的逻辑。）——考研高频表达
+> - Travelling by train is still one of the safest methods of transport. `[例]`
+>   - 中译：乘火车旅行仍然是最安全的交通方式之一。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/method
+> - The new teaching methods encourage children to think for themselves. `[例]`
+>   - 中译：新的教学方法鼓励孩子们独立思考。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/method
+> - That method hasn't worked , so let's try your way. `[例]`
+>   - 中译：这个方法行不通，我们试试你的方法吧。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/method
 
 ---
 

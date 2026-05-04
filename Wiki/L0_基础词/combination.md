@@ -129,9 +129,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - A. ruins B. debt C. fashion Section Il Reading Comprehension Part A Directions: D. equipped D. permanently D. combination D. connect D. along with D. evaluation D. reduced D. opposed D. in case D. meeting D. `[真题]`
-> - Strawberries and cream - a perfect combination. `[例]`
-> - A combination of tiredness and boredom caused me to fall asleep . `[例]`
+> - The tragedy was due to a combination of factors. `[例]`
+>   - 中译：这场悲剧是由多种因素造成的。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/combination
+> - They recommend reducing expenditure, increasing taxes, or a combination of the two. `[例]`
+>   - 中译：他们建议减少支出、增加税收或两者结合。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/combination
+> - His treatment was a combination of surgery, radiation and drugs. `[例]`
+>   - 中译：他的治疗结合了手术、放射和药物。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/combination
 
 
 ---

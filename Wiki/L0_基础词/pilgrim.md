@@ -122,9 +122,9 @@ pilgrim(朝圣者，源自拉丁语 *peregrinus* "外来的，旅行的")
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Around two million pilgrims visit Mecca every year. `[词典]`
-> - Their family goes back to the time of the Pilgrim Fathers. `[语料库]`
-> - This is said to be the spiritual home for many Angolans, drawing over 2 million pilgrims every year. `[语料库]`
+> - Around two million pilgrims visit Mecca every year. `[例]`
+> - Their family goes back to the time of the Pilgrim Fathers. `[例]`
+> - This is said to be the spiritual home for many Angolans, drawing over 2 million pilgrims every year. `[例]`
 
 
 ---

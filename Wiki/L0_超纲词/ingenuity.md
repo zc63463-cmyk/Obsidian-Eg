@@ -3,10 +3,8 @@ title: "ingenuity"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 理性世界
 prototype: 独创性（心灵手巧、善于发明创造的品质）
@@ -43,7 +41,7 @@ in-(在内) + [[gen|gen-]](产生，创造) + -u- + -ity(名词后缀)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**独创性**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **独创性**（智力层面）
@@ -64,7 +62,7 @@ in-(在内) + [[gen|gen-]](产生，创造) + -u- + -ity(名词后缀)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ in-(在内) + [[gen|gen-]](产生，创造) + -u- + -ity(名词后缀)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > in（在内）+ gen（产生）→ 内在产生的才能 → 独创性。engine（引擎）和 ingenuity 同源——引擎就是"产生力量的装置"，ingenuity 就是"产生创意的才能"。一个能用纸板做出机器人的孩子——full of ingenuity。
@@ -86,7 +84,7 @@ in-(在内) + [[gen|gen-]](产生，创造) + -u- + -ity(名词后缀)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -98,13 +96,13 @@ in-(在内) + [[gen|gen-]](产生，创造) + -u- + -ity(名词后缀)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[dullness]]：迟钝，笨拙
 > - [[unoriginality]]：缺乏独创性
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -115,26 +113,19 @@ in-(在内) + [[gen|gen-]](产生，创造) + -u- + -ity(名词后缀)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **show/demonstrate ingenuity**：展现独创性
 > - **remarkable ingenuity**：非凡的独创性
 > - **technical ingenuity**：技术独创性
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - The engineer showed remarkable ingenuity in solving the complex problem. `[例]`
 > - The ingenuity of the design impressed everyone at the exhibition. `[例]`
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
-
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

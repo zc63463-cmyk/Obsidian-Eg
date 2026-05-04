@@ -132,9 +132,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - There are reports of widespread flooding in northern France. `[例]`
-> - Malnutrition in the region is widespread - affecting up to 78 percent of children under five years old . `[例]`
-> - The campaign has received widespread support . `[例]`
+> - The storm caused widespread damage. `[例]`
+>   - 中译：风暴造成了大范围的破坏。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/widespread
+> - The plan received widespread support throughout the country. `[例]`
+>   - 中译：该计划得到了全国各地的广泛支持。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/widespread
+> - There is widespread public interest in the election. `[例]`
+>   - 中译：公众对这次选举普遍感兴趣。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/widespread
 
 ---
 

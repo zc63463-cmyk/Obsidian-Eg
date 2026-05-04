@@ -128,7 +128,7 @@ ex-（向外）+ plod/plaus（拍手声/发出巨响）+ -sion（名词后缀）
 > [!example]- 语料
 > - The fire was thought to have been caused by a gas explosion. `[例]`
 > - The explosion (= the intentional exploding ) of nuclear devices in the Bikini Atoll was stopped in 1958. `[例]`
-> - There was an explosion of applause from the audience at the end of the performance . `[例]`
+> - There was an explosion of applause from the audience at the end of the performance. `[例]`
 
 ---
 

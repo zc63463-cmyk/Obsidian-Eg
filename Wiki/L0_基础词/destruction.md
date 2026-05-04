@@ -125,8 +125,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Many people are very concerned about the destruction of the rainforests . `[例]`
-> - Unusually high winds left a trail of destruction over the area . `[例]`
+> - Many people are very concerned about the destruction of the rainforests. `[例]`
+> - Unusually high winds left a trail of destruction over the area. `[例]`
 > - Weapons of mass destruction (= those which kill or hurt large numbers of people ). `[例]`
 
 

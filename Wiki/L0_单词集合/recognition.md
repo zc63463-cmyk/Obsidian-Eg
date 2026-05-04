@@ -122,9 +122,15 @@ re-（再/重新）+ cogn/gn（[[id-ident]] 认知/知道）+ -ition（名词后
 ## 真题/语料关联
 
 > [!example]- 语料
-> - International recognition of the new government remains uncertain due to ongoing political instability. `[真题]`
-> - Facial recognition technology has raised significant concerns about privacy and civil liberties. `[真题]`
-> - The city has changed beyond recognition. `[COCA-ACAD]`
+> - It's a new country , hoping for diplomatic recognition from the international community. `[例]`
+>   - 中译：这是一个新国家，希望得到国际社会的外交承认。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/recognition
+> - There's a growing recognition that this country can no longer afford to be a nuclear power. `[例]`
+>   - 中译：人们越来越认识到这个国家不能再成为一个核国家。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/recognition
+> - Ella complained that the company never gave her any recognition for her work. `[例]`
+>   - 中译：艾拉抱怨公司从未对她的工作给予任何认可。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/recognition
 
 
 ---

@@ -126,9 +126,15 @@ at-(=ad-, 向) + [[tend-tens|tent]](伸展) + -ion(名词后缀，表状态/结�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She turned her attention back to the road again." `[真题]`
-> - "He tried to attract the waiter's attention." `[真题]`
-> - "The new policy has drawn considerable public attention to environmental issues." `[例]`
+> - Children tend to have a short attention span (= They cannot pay attention for long ). `[例]`
+>   - 中译：孩子们的注意力往往很短（=他们不能长时间集中注意力）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/attention
+> - They're organizing a campaign to draw people's attention to the environmentally harmful effects of using their cars. `[例]`
+>   - 中译：他们正在组织一场活动，以提请人们注意使用汽车对环境造成的有害影响。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/attention
+> - After an hour , my attention started to wander (= I stopped taking notice ). `[例]`
+>   - 中译：一个小时后，我的注意力开始走神（=我不再注意）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/attention
 
 ---
 

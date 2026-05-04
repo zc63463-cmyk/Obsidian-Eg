@@ -133,10 +133,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "A powerful and corrupt elite has bled this country dry." `[COCA-ACAD]`
-> - "Balancing elite athletics with college-level academics was not easy at first." `[COCA-ACAD]`
-> - "Brazil's political and business elite seem prepared to accept the election results." `[COCA-ACAD]`
-> - "Elite search and rescue teams were on the scene." `[COCA-NEWS]`
+> - A powerful and corrupt elite has bled this country dry. `[例]`
+>   - 中译：强大而腐败的精英已经榨干了这个国家的血。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/elite
+> - His research ought to have secured him a place in academia's elite. `[例]`
+>   - 中译：他的研究应该让他在学术界精英中占有一席之地。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/elite
+> - Brazil's political and business elite seem prepared to accept the election results. `[例]`
+>   - 中译：巴西政界和商界精英似乎准备接受选举结果。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/elite
 
 ---
 

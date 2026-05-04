@@ -127,9 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Like so many people , he's motivated by greed . `[例]`
-> - He is genuinely motivated by a desire to help people . `[例]`
-> - Teaching is all about motivating people to learn . `[例]`
+> - Like so many people , he's motivated by greed. `[例]`
+> - He is genuinely motivated by a desire to help people. `[例]`
+> - Teaching is all about motivating people to learn. `[例]`
 
 
 ---

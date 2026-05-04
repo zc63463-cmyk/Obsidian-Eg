@@ -132,9 +132,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The cohesive power of shared suffering. `[例]`
-> - Well-structured sentences illustrating the use of cohesive markers such as ‘nevertheless’ and ‘however. `[例]`
 > - Their tribe is a small but cohesive group. `[例]`
+>   - 中译：他们的部落是一个虽小但有凝聚力的群体。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/cohesive
+> - Religion can be used as a cohesive social force. `[例]`
+>   - 中译：宗教可以作为一种有凝聚力的社会力量。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/cohesive
+> - Not only are the two businesses running out of space at their current locations, but the idea was always to make Yetee Station and Superjumbo into a single, cohesive thing, said Mike Mancuso. `[例]`
+>   - 中译：迈克·曼库索 (Mike Mancuso) 表示，这两家公司不仅目前的办公地点已经不够空间，而且他们的想法始终是将 Yetee Station 和 Superjumbo 打造成一个单一的、有凝聚力的东西。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/cohesive
 
 
 ---

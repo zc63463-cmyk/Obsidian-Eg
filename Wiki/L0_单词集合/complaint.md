@@ -126,9 +126,15 @@ com-(加强/一起) + plain(悲叹) + -t(名词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The company received numerous complaints about the delayed delivery. `[COCA-NEWS]`
-> - His main complaint was that the hotel did not match the description online. `[COCA-MAG]`
-> - Back pain is a common complaint among office workers. `[COCA-ACAD]`
+> - We've received a complaint from one of our listeners about offensive language. `[例]`
+>   - 中译：我们收到了一位听众关于冒犯性语言的投诉。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/complaint
+> - I've made a complaint (= formally complained ) to the police about the noise. `[例]`
+>   - 中译：我已就噪音问题向警方投诉（=正式投诉）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/complaint
+> - We've had complaints that you've been playing your radio too loud. `[例]`
+>   - 中译：我们收到投诉称您播放收音机的声音太大。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/complaint
 
 ---
 

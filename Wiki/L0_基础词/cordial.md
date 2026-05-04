@@ -133,9 +133,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The two sides have maintained a cordial relationship over the years. `[真题]`
-> - You are cordially invited to attend the annual parish meeting. `[真题]`
-> - Our hosts greeted us at the airport with a cordial welcome and a hearty hug. `[真题]`
+> - Their government has maintained cordial relations with the UK. `[例]`
+>   - 中译：他们的政府与英国保​​持着友好关系。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/cordial
+> - The talks took place in a cordial atmosphere. `[例]`
+>   - 中译：会谈在亲切的气氛中进行。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/cordial
+> - Though its chairman, Charles Obi, was cordial to him, the others made it clear that they didn't want him. `[例]`
+>   - 中译：尽管其主席查尔斯·奥比（Charles Obi）对他很友善，但其他人明确表示他们不想要他。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/cordial
 
 
 ---

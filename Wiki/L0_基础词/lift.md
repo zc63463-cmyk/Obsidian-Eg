@@ -132,9 +132,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Could you help me lift this table , please ? `[例]`
+> - Could you help me lift this table , please? `[例]`
 > - Could you lift your chair a little- I've got my coat caught under it. `[例]`
-> - I lifted it up and looked underneath . `[例]`
+> - I lifted it up and looked underneath. `[例]`
 
 
 ---

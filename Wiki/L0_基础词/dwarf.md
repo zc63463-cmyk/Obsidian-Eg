@@ -130,10 +130,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The old cathedral dwarfs all the modern buildings around it." `[真题]`
-> - "Pluto was reclassified as a dwarf planet in 2006." `[真题]`
-> - "The small house was dwarfed by the massive skyscrapers surrounding it." `[真题]`
-> - "Only 10% of the ocean floor is properly mapped, and mountain ranges and canyons dwarf even the largest warship." `[真题]`
+> - The old cathedral dwarfs all the modern buildings around it. `[真题]`
+> - Pluto was reclassified as a dwarf planet in 2006. `[真题]`
+> - The small house was dwarfed by the massive skyscrapers surrounding it. `[真题]`
+> - Only 10% of the ocean floor is properly mapped, and mountain ranges and canyons dwarf even the largest warship. `[真题]`
 
 
 ---

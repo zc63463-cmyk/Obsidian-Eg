@@ -135,8 +135,8 @@ hook（古英语 *hōc* "钩子"，源自原始日耳曼语 *\*hōkaz*，与德�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - There were four coat hooks next to the door . `[例]`
-> - Standard picture hooks won't hold a heavy mirror . `[例]`
+> - There were four coat hooks next to the door. `[例]`
+> - Standard picture hooks won't hold a heavy mirror. `[例]`
 > - We pulled the little boat towards us with a boat hook. `[例]`
 
 

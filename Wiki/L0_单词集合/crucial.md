@@ -120,9 +120,15 @@ cruc(十字，交叉) + -ial(与...有关的)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Her work has been crucial to the project's success . `[例]`
-> - It is crucial that the problem is tackled immediately . `[例]`
-> - The behavior of the oceans is a crucial aspect of global warming . `[例]`
+> - Her work has been crucial to the project's success. `[例]`
+>   - 中译：她的工作对该项目的成功至关重要。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/crucial
+> - It is crucial that the problem is tackled immediately. `[例]`
+>   - 中译：立即解决问题至关重要。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/crucial
+> - Price will be a crucial factor in the success of this new product. `[例]`
+>   - 中译：价格将是这一新产品成功的关键因素。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/crucial
 
 ---
 

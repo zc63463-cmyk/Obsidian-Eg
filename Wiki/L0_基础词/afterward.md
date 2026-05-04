@@ -132,9 +132,15 @@ after(在……之后) + -ward(方向后缀，表"向……方向"，与 [[ver-v
 ## 真题/语料关联
 
 > [!example]- 语料
-> - They separated , and soon afterward Jane left the country . `[例]`
-> - We had tea , and afterward we sat in the garden for a while. `[例]`
-> - They separated , and shortly afterward Jerry left the country . `[例]`
+> - They were also evacuated soon afterward , and the event canceled, to be rescheduled. `[例]`
+>   - 中译：不久之后他们也被疏散，活动也被取消，并重新安排。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/afterward
+> - The new can come afterward , when the air has cleared and the moon is unfolding again. `[例]`
+>   - 中译：当空气变得清澈、月亮再次展开时，新的事物就会到来。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/afterward
+> - Bearded with arm tattoos, Van Dyke said little during the nearly hourlong hearing, during which he was appointed a federal public defender who declined to comment afterward. `[例]`
+>   - 中译：手臂上有纹身的范戴克在近一个小时的听证会上几乎没有说什么，在听证会上他被任命为联邦公设辩护人，但随后拒绝发表评论。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/afterward
 
 
 ---

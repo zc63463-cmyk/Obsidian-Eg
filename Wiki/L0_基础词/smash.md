@@ -133,8 +133,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Rioters ran through the city , smashing windows and looting shops . `[例]`
-> - Several boats were smashed against the rocks during the storm . `[例]`
+> - Rioters ran through the city , smashing windows and looting shops. `[例]`
+> - Several boats were smashed against the rocks during the storm. `[例]`
 > - He tried to smash the door down to get to me. `[例]`
 
 

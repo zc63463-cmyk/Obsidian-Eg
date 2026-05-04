@@ -128,9 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "That reminds me of the old saw about being careful about what you wish for." `[LDOCE]`
-> - "Their versatility means a circular saw is not always needed." `[COCA-ACAD]`
-> - "In sum, their experience reverses the old saw about immigration and prosperity." `[COCA-ACAD]`
+> - That reminds me of the old saw about being careful about what you wish for. `[例]`
+> - Their versatility means a circular saw is not always needed. `[COCA-ACAD]`
+> - In sum, their experience reverses the old saw about immigration and prosperity. `[COCA-ACAD]`
 
 
 ---

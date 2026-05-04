@@ -125,10 +125,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "I was never really happy there, although the people were kindness itself." `[通用语料]`
-> - "Even in jail, my fellow inmates treated me with kindness." `[通用语料]`
-> - "But they were not necessarily treated with kindness or respect—force was often used to impose man's will." `[文学语料]`
-> - "He loves horses and animals, and insists that they be treated with kindness and gentleness." `[通用语料]`
+> - I was never really happy there, although the people were kindness itself. `[例]`
+> - Even in jail, my fellow inmates treated me with kindness. `[例]`
+> - But they were not necessarily treated with kindness or respect—force was often used to impose man's will. `[例]`
+> - He loves horses and animals, and insists that they be treated with kindness and gentleness. `[例]`
 
 
 ---

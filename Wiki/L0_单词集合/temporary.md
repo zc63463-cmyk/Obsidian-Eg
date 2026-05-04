@@ -131,9 +131,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The ceasefire will only provide a temporary solution to the crisis . `[例]`
-> - Renting space in another office building is only a temporary measure . `[例]`
-> - According to the report , over 6% of the labour force are working on a temporary basis . `[例]`
+> - They had to move into temporary accommodation. `[例]`
+>   - 中译：他们不得不搬进临时住所。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/temporary
+> - Volunteers built temporary shelters for the survivors. `[例]`
+>   - 中译：志愿者为幸存者搭建了临时避难所。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/temporary
+> - More than half the staff are temporary. `[例]`
+>   - 中译：一半以上的员工都是临时工。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/temporary
 
 ---
 

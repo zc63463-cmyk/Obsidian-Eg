@@ -129,9 +129,15 @@ cape 源自拉丁语 *cappa*（斗篷、头巾），与"海角"的 cape 可能�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She caped for his rival in a social media post , leading to an exchange of insults . `[例]`
-> - The singer has been caping for the environment for years now. `[例]`
-> - The former world champion caped up for the young player after she was attacked in the media . `[例]`
+> - He strode out of the room, his black cape flowing behind him. `[例]`
+>   - 中译：他大步走出房间，黑色斗篷在身后飘扬。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/cape
+> - Becoming Batman Almost every piece of a Batsuit — the cape and cowl, boots, belt, and body armor — has to be custom made to the person’s measurements. `[例]`
+>   - 中译：成为蝙蝠侠几乎每一件蝙蝠服——斗篷和兜帽、靴子、腰带和防弹衣——都必须根据人的尺寸定制。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/cape
+> - Antiheroes teach us, in the simplest of terms, that not all heroes wear capes. `[例]`
+>   - 中译：用最简单的话来说，反英雄告诉我们，并非所有英雄都穿着斗篷。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/cape
 
 
 ---

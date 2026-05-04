@@ -130,8 +130,8 @@ review_count: 0
 
 > [!example]- 语料
 > - A lot of trees were blown down in the recent storms. `[例]`
-> - They're still cleaning up the storm damage . `[例]`
-> - There was a storm of protest when the new tax was announced . `[例]`
+> - They're still cleaning up the storm damage. `[例]`
+> - There was a storm of protest when the new tax was announced. `[例]`
 
 
 ---

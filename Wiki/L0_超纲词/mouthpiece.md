@@ -3,10 +3,8 @@ title: "mouthpiece"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 物品工具
 prototype: 代替他人发声的人或物
@@ -43,7 +41,7 @@ mouth(嘴) + piece(部件/片)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**代替他人发声**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **代替他人发声**（功能层面）
@@ -64,7 +62,7 @@ mouth(嘴) + piece(部件/片)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ mouth(嘴) + piece(部件/片)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > mouth（嘴）+ piece（部件）= mouthpiece（嘴的部件）。单簧管的吹口是 mouthpiece，电话的话筒是 mouthpiece。引申义：替别人"发声"的人就是 mouthpiece——政府的 mouthpiece 就是官方发言人，企业的 mouthpiece 就是公关部门。
@@ -86,7 +84,7 @@ mouth(嘴) + piece(部件/片)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -98,12 +96,12 @@ mouth(嘴) + piece(部件/片)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - 无精确反义词（功能名词，无直接反义）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -113,26 +111,19 @@ mouth(嘴) + piece(部件/片)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a government/party mouthpiece**：政府/政党喉舌
 > - **act as a mouthpiece for**：充当……的代言人
 > - **become a mouthpiece**：成为喉舌
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - This newspaper is just a Republican mouthpiece. `[例]`
 > - I could see the referee talking into his mouthpiece. `[例]`
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
-
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

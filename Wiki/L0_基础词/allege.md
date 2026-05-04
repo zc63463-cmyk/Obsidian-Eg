@@ -126,9 +126,15 @@ al-(=ad-, to，向) + [[leg|lect-leg]]（说，拉丁语 *lex* 法律/词）+ -e
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The two men allege (that) the police forced them to make false confessions . `[例]`
-> - She is alleged to have been at the centre of an international drug ring . `[例]`
-> - It was alleged that Johnson had struck Mr Rahim on the head . `[例]`
+> - The prosecution alleges (that) she was driving carelessly. `[例]`
+>   - 中译：检方指控她驾驶不小心。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/allege
+> - It is alleged that he mistreated the prisoners. `[例]`
+>   - 中译：据称他虐待囚犯。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/allege
+> - He is alleged to have mistreated the prisoners. `[例]`
+>   - 中译：据称他虐待囚犯。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/allege
 
 
 ---

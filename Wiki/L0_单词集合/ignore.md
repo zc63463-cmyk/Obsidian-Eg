@@ -137,9 +137,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "We cannot afford to ignore this problem."（我们承担不起忽视这个问题的代价）——考研阅读/写作高频句式
-> - "ignore the advice of experts"（忽视专家的建议）——考研阅读常见搭配
-> - "The government ignored the public's concern."（政府无视公众的关切）——考研阅读社会类话题
+> - She can be really irritating but I try to ignore her. `[例]`
+>   - 中译：她可能真的很烦人，但我试着忽略她。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/ignore
+> - Safety regulations are being ignored by company managers in the drive to increase profits. `[例]`
+>   - 中译：公司管理者为了增加利润而忽视了安全法规。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/ignore
+> - How can the government ignore the wishes of the majority? `[例]`
+>   - 中译：政府怎能无视大多数人的意愿？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/ignore
 
 ---
 

@@ -126,9 +126,15 @@ triumph 源自拉丁语 *triumphus*（凯旋式），可能源自希腊语 *thri
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The book celebrates the hostages ' remarkable triumph over appalling adversity . `[例]`
-> - The eradication of smallpox by vaccination was one of medicine's greatest triumphs. `[例]`
-> - The signing of the agreement was a personal triumph for the prime minister . `[例]`
+> - It was a personal triumph over her old rival. `[例]`
+>   - 中译：这是她个人对老对手的胜利。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/triumph
+> - The winning team returned home in triumph. `[例]`
+>   - 中译：获胜队凯旋回家。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/triumph
+> - This was her moment of triumph. `[例]`
+>   - 中译：这是她胜利的时刻。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/triumph
 
 
 ---

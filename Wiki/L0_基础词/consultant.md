@@ -126,9 +126,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The former general now serves as a consultant to the Pentagon." `[COCA-NEWS]`
-> - "In her role as a business consultant she travels all over the country." `[COCA-NEWS]`
-> - "She was previously a senior partner at management consultant McKinsey." `[COCA-NEWS]`
+> - She is clearly being coached by image consultants. `[例]`
+>   - 中译：她显然正在接受形象顾问的指导。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/consultant
+> - He was happy to act as a consultant to the company. `[例]`
+>   - 中译：他很高兴担任该公司的顾问。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/consultant
+> - They've hired a computer consultant to assess how the company can upgrade its system. `[例]`
+>   - 中译：他们聘请了一名计算机顾问来评估公司如何升级其系统。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/consultant
 
 
 ---

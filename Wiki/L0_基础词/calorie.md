@@ -125,9 +125,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - There are about 50 calories in an apple . `[例]`
-> - The diet has no restrictions and no calorie counting . `[例]`
-> - He found calorie counting the best way of losing weight . `[例]`
+> - A fried egg contains about 100 calories—about the same as you would burn off if you ran a mile. `[例]`
+>   - 中译：一个煎鸡蛋大约含有 100 卡路里热量——大约相当于你跑一英里消耗的热量。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/calorie
+> - No sugar for me, thanks—I'm counting my calories. `[例]`
+>   - 中译：我不吃糖，谢谢——我正在计算我的卡路里。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/calorie
+> - The brothers in podcasting, partners in Por Osos Vodka and real-life besties are back to burn calories the old-fashioned way. `[例]`
+>   - 中译：播客中的兄弟、Por Osos 伏特加的合作伙伴以及现实生活中的好朋友们又回到了以老式方式燃烧卡路里的时代。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/calorie
 
 
 ---

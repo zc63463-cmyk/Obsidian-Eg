@@ -3,10 +3,8 @@ title: "unintentional"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-25
-mastery: L0
 word_freq: 超纲词
 semantic_field: 人本世界
 prototype: 非故意的（没有意图的）
@@ -43,7 +41,7 @@ un-(不，否定前缀) + in-(=toward, 向) + [[tend-tens|tend]](伸展/倾向) 
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**非故意的**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **非故意的**（意图层面）
@@ -64,7 +62,7 @@ un-(不，否定前缀) + in-(=toward, 向) + [[tend-tens|tend]](伸展/倾向) 
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ un-(不，否定前缀) + in-(=toward, 向) + [[tend-tens|tend]](伸展/倾向) 
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > intend（打算）+ un-（不）+ -tion + -al → 不是故意的。intend = in（向）+ tend（倾向）→ 心里倾向做某事。unintentional 就是"心里没那个倾向"。The error was unintentional.（这个错误是无意的。）unintentional humor 就是"不是故意好笑但很好笑"。
@@ -88,7 +86,7 @@ un-(不，否定前缀) + in-(=toward, 向) + [[tend-tens|tend]](伸展/倾向) 
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +98,13 @@ un-(不，否定前缀) + in-(=toward, 向) + [[tend-tens|tend]](伸展/倾向) 
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[intentional]]：故意的，有意的
 > - [[deliberate]]：蓄意的，故意的
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +118,7 @@ un-(不，否定前缀) + in-(=toward, 向) + [[tend-tens|tend]](伸展/倾向) 
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **unintentional mistake/error**：无意的错误
 > - **unintentional consequence**：无意造成的后果
 > - **unintentional insult**：无意的冒犯
@@ -128,19 +126,12 @@ un-(不，否定前缀) + in-(=toward, 向) + [[tend-tens|tend]](伸展/倾向) 
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - Perhaps I misled you, but it was quite unintentional (= I did not mean to) . `[例]`
+> [!example]- 语料
+> - Perhaps I misled you, but it was quite unintentional (= I did not mean to). `[例]`
 > - An unintentional insult that nevertheless was very hurtful. `[例]`
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-25 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

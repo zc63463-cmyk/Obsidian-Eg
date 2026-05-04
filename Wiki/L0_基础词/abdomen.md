@@ -124,8 +124,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Patients reported pain in the lower chest or upper abdomen. `[例]`
-> - Showed us a tiny tattoo on her abdomen , right next to her belly button. `[例]`
-> - Dykeman said Pedro-Francisco told him she is forced to climb up to a third-level bunk despite immense pain extending from the right side of her abdomen to her back. `[例]`
+>   - 中译：患者报告下胸部或上腹部疼痛。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/abdomen
+> - The second victim was hospitalized in stable condition after being stabbed multiple times in the abdomen , police said. `[例]`
+>   - 中译：警方称，第二名受害者腹部被刺多刀，目前已入院治疗，情况稳定。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/abdomen
+> - Feeling for a lump is nearly impossible, since the pancreas is buried deep in the abdomen. `[例]`
+>   - 中译：摸到肿块几乎是不可能的，因为胰腺深埋在腹部。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/abdomen
 
 
 ---

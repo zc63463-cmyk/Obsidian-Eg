@@ -129,10 +129,10 @@ juven-（年轻，拉丁语 *iuvenis*）+ -ile（形容词后缀，属于……�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Many theories concerning the causes of juvenile delinquency focus either on the individual or on society as the major contributing influence." `[真题]`
-> - "Juvenile crimes make up 25 percent of all police cases." `[剑桥词典]`
-> - "There is a high rate of juvenile delinquency in this area." `[通用语料]`
-> - "The boy's case was adjudged in the juvenile court." `[通用语料]`
+> - Many theories concerning the causes of juvenile delinquency focus either on the individual or on society as the major contributing influence. `[真题]`
+> - Juvenile crimes make up 25 percent of all police cases. `[例]`
+> - There is a high rate of juvenile delinquency in this area. `[例]`
+> - The boy's case was adjudged in the juvenile court. `[例]`
 
 
 ---

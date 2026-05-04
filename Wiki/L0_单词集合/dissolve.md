@@ -133,10 +133,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - A social revolution is needed to dissolve the legacy of colonialism. `[真题]`
-> - They decided to dissolve their business partnership. `[真题]`
-> - The monarch had the power to dissolve parliament. `[COCA-ACAD]`
-> - Sugar dissolves easily in hot water. `[COCA-ACAD]`
+> - Dissolve two spoons of powder in warm water. `[例]`
+>   - 中译：将两勺粉末溶解在温水中。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/dissolve
+> - Nitric acid will dissolve most animal tissue. `[例]`
+>   - 中译：硝酸会溶解大多数动物组织。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/dissolve
+> - Pour the powder into the solution and stir it gently until the powder has dissolved. `[例]`
+>   - 中译：将粉末倒入溶液中并轻轻搅拌直至粉末溶解。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/dissolve
 ---
 
 

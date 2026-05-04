@@ -132,10 +132,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "They've been engaged in a legal battle with the council for several months." `[COCA-NEWS]`
-> - "She has fought a constant battle with depression throughout her career." `[COCA-FIC]`
-> - "During the war, he saw many of his comrades fall in battle." `[COCA-FIC]`
-> - "The group was formed to battle prejudice." `[COCA-NEWS]`
+> - Napoleon was defeated at the Battle of Waterloo. `[例]`
+>   - 中译：拿破仑在滑铁卢战役中战败。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/battle
+> - His father had been killed in battle. `[例]`
+>   - 中译：他的父亲在战斗中阵亡。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/battle
+> - Hundreds of protesters fought running battles with the police. `[例]`
+>   - 中译：数百名抗议者与警方发生持续冲突。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/battle
 
 
 ---

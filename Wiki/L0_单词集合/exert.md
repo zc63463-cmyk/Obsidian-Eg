@@ -133,8 +133,15 @@ ex-(向外) + [[sert]](放置、结合) = exert（向外放置→施加力量）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Parents exert a profound influence on their children's development."（父母对子女的发展施加深远的影响。）——考研高频表达
-> - "The government should exert more effort to reduce pollution."（政府应该更加努力减少污染。）——考研高频表达
+> - If you were to exert your influence they might change their decision. `[例]`
+>   - 中译：如果你发挥你的影响力，他们可能会改变他们的决定。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/exert
+> - Some managers exert considerable pressure on their staff to work extra hours without being paid. `[例]`
+>   - 中译：一些经理对员工施加相当大的压力，要求他们加班而不领取报酬。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/exert
+> - I was too tired to exert myself. `[例]`
+>   - 中译：我太累了，无法努力。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/exert
 
 ---
 

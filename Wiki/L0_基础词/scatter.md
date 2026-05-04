@@ -133,10 +133,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Scattered around the globe are more than 100 small regions of isolated volcanic activity known to geologists as hot spots." `[真题]`
-> - "The crowd scattered in all directions when the police arrived." `[真题]`
-> - "Her ashes were scattered at sea." `[语料库]`
-> - "Debris from the aircraft was scattered over a large area." `[语料库]`
+> - Scattered around the globe are more than 100 small regions of isolated volcanic activity known to geologists as hot spots. `[真题]`
+> - The crowd scattered in all directions when the police arrived. `[真题]`
+> - Her ashes were scattered at sea. `[例]`
+> - Debris from the aircraft was scattered over a large area. `[例]`
 
 
 ---

@@ -123,7 +123,7 @@ review_count: 0
 
 > [!example]- 语料
 > - The mayor is a puppet who does what business leaders tell him to. `[例]`
-> - The occupying forces set up a puppet government . `[例]`
+> - The occupying forces set up a puppet government. `[例]`
 > - The king was a mere puppet of the mayor. `[例]`
 
 

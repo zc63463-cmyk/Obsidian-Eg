@@ -123,8 +123,15 @@ neg(否定/不) + otium(休闲/空闲) + -ate(动词后缀) → "没有空闲"�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Some use them to gather information on compensation to arm themselves when negotiating for a raise."（有些人利用这些网站收集薪酬信息，以便在协商加薪时为自己提供筹码。）——2004年考研英语一阅读Text1
-> - "Despite the deep antipathies between them, the two sides have managed to negotiate an agreement."（尽管双方之间存在深刻对立，但他们还是设法协商达成了一项协议。）——考研高频表达
+> - Literary agencies are getting bigger to have the clout to negotiate better terms with publishers, publishers consolidating to deal with Amazon, " . says Lownie. `[真题]`
+>   - 中译：文学代理机构规模不断扩大，拥有与出版商谈判更好条款的影响力，出版商正在整合以与亚马逊打交道，”洛尼说。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - The government has refused to negotiate with the strikers. `[例]`
+>   - 中译：政府拒绝与罢工者谈判。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/negotiate
+> - I'm negotiating for a new contract. `[例]`
+>   - 中译：我正在就一份新合同进行谈判。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/negotiate
 
 ---
 

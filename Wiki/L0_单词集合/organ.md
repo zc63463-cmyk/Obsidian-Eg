@@ -127,9 +127,15 @@ organ(工具/器械/器官，源自希腊语 organon "工具、器械")
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Electronic organs are much smaller and cheaper than pipe organs. `[例]`
-> - The newspaper Pravda was the official organ of the Communist Party in the Soviet Union . `[例]`
-> - The monthly journal was once the official organ of the Communist party . `[例]`
+> - He sustained injuries to his arms , legs and several internal organs. `[例]`
+>   - 中译：他的手臂、腿部和多个内脏均受伤。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/organ
+> - Your ears , eyes , tongue , nose and skin are your sense organs. `[例]`
+>   - 中译：你的耳朵、眼睛、舌头、鼻子和皮肤是你的感觉器官。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/organ
+> - Transplantation of organs from living donors raises ethical issues. `[例]`
+>   - 中译：活体捐献者的器官移植引发了伦理问题。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/organ
 
 ---
 

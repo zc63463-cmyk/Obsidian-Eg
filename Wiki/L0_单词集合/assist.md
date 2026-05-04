@@ -126,10 +126,15 @@ as-(=ad-，朝向) + [[serv|sist]](=st-，站立) → 站在某人旁边
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The fund will assist poor students in completing their education. `[真题]`
-> - Technology can assist doctors in making more accurate diagnoses. `[COCA-ACAD]`
-> - She assisted the professor in conducting the experiment and analyzing the data. `[COCA-ACAD]`
-> - The police assisted in the investigation of the case and identified the suspect. `[例]`
+> - The crude technique required educated guesses on exposure times, and involved heavy, awkward equipment-several men had to assist in its transportation. `[真题]`
+>   - 中译：这种粗糙的技术需要对曝光时间进行有根据的猜测，并且涉及笨重、笨拙的设备——需要几个人协助运输。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - You will be expected to assist the editor with the selection of illustrations for the book. `[例]`
+>   - 中译：您需要协助编辑为本书选择插图。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/assist
+> - The army arrived to assist in the search. `[例]`
+>   - 中译：军队赶到协助搜寻。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/assist
 
 ---
 

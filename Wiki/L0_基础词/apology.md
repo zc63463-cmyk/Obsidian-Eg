@@ -125,9 +125,15 @@ apo-(离开/远离) + [[log-logy|log]](说话，词根 [[lect-leg|leg-/log-]]) +
 ## 真题/语料关联
 
 > [!example]- 语料
-> - I have an apology to make to you - I'm afraid I opened your letter by mistake . `[例]`
-> - He's demanding a full apology from the newspaper for making untrue allegations about his personal life . `[例]`
-> - She complained to the company and they sent her a written apology. `[例]`
+> - We should like to offer our apologies for the delay to your flight today. `[例]`
+>   - 中译：对于您今天的航班延误，我们深表歉意。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/apology
+> - We received a letter of apology. `[例]`
+>   - 中译：我们收到了一封道歉信。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/apology
+> - The meeting started with apologies (= the names of people who said they could not go to the meeting). `[例]`
+>   - 中译：会议以道歉开始（=表示无法参加会议的人员姓名）。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/apology
 
 
 ---

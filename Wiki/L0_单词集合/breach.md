@@ -128,8 +128,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - "The company was sued for breach of contract."（这家公司因违约被起诉。）——考研阅读真题
-> - "The hacker's breach of the security system exposed millions of user accounts."（黑客对安全系统的入侵暴露了数百万用户账户。）——考研高频表达
+> - They felt that our discussions with other companies constituted a breach of our agreement. `[例]`
+>   - 中译：他们认为我们与其他公司的讨论违反了我们的协议。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/breach
+> - He was sued for breach of contract. `[例]`
+>   - 中译：他因违反合同而被起诉。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/breach
+> - There have been ten serious security breaches (= breaks in the security system ) at the airport already this year. `[例]`
+>   - 中译：今年机场已经发生了十起严重的安全漏洞（=安全系统崩溃）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/breach
 
 ---
 

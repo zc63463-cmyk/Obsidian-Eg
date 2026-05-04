@@ -125,9 +125,15 @@ com-(完全，共同) + [[prehend/prehens]](抓住，握住) → "完全抓住"
 ## 真题/语料关联
 
 > [!example]- 语料
-> - It is difficult to comprehend the full extent of the damage caused by the earthquake. `[COCA-NEWS]`
-> - She could not comprehend why anyone would want to hurt her. `[COCA-FIC]`
-> - The course covers a wide range of topics that students may struggle to comprehend. `[COCA-ACAD]`
+> - I'll never comprehend wh y she did what she did. `[例]`
+>   - 中译：我永远无法理解她为什么这么做。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/comprehend
+> - I don't think he fully comprehends that she won't be here to help him. `[例]`
+>   - 中译：我认为他没有完全理解她不会来这里帮助他。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/comprehend
+> - If you don’t comprehend something, don’t be afraid to seem dumb , just speak out. `[例]`
+>   - 中译：如果你不明白某件事，不要害怕显得愚蠢，只要说出来。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/comprehend
 
 ---
 

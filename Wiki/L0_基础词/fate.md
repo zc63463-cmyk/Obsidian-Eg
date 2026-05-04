@@ -137,8 +137,8 @@ fat-/fate(说/预言，拉丁语 *fari*，说)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - His fate is now in the hands of the jury . `[例]`
-> - The disciples were terrified that they would suffer the same fate as Jesus . `[例]`
+> - His fate is now in the hands of the jury. `[例]`
+> - The disciples were terrified that they would suffer the same fate as Jesus. `[例]`
 > - Parents in children's stories often meet a harsh fate. `[例]`
 
 

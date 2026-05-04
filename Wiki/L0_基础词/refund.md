@@ -127,8 +127,8 @@ re-(回，向后) + [[fund|fund]](资金，来自拉丁语 *fundus* 底部/基�
 > [!example]- 语料
 > - We claimed a refund from the shopkeeper, but he refused. `[真题]`
 > - We will refund your money to you after you apply for it if you are not entirely satisfied. `[真题]`
-> - Dissatisfied customers can return the product for a full refund. `[权威词典]`
-> - You're entitled to a full refund if you change your mind. `[权威词典]`
+> - Dissatisfied customers can return the product for a full refund. `[例]`
+> - You're entitled to a full refund if you change your mind. `[例]`
 
 
 ---

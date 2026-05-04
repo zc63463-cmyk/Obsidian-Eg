@@ -123,9 +123,15 @@ crit(判断，区分) + -ic(做...的人)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Her critics say she is leading the party to disaster . `[例]`
-> - He's his own worst critic (= he judges himself severely ) . `[例]`
+> - Her critics say she is leading the party to disaster. `[例]`
+>   - 中译：她的批评者称她正在带领该党走向灾难。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/critic
+> - He's his own worst critic (= he judges himself severely ). `[例]`
+>   - 中译：他是他自己最严厉的批评家（=他严厉地评判自己）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/critic
 > - The play has been well received by the critics. `[例]`
+>   - 中译：该剧受到评论家的好评。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/critic
 
 ---
 

@@ -126,10 +126,9 @@ over-(超过) + take(拿/取)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - China overtook Japan as the world's second-largest economy in 2010. ` [真题]`
-> - He pulled out to overtake the van on the motorway. ` [语料库]`
-> - She was overtaken by a sense of impending doom after hearing the bad news. ` [语料库]`
-> - Our U.S. sales have now overtaken our sales in Europe for the first time. ` [真题]`
+> - The hikers rested under a towering overtake near the coastal trail. `[例]`
+> - The cabin was built from durable overtake gathered in the region. `[例]`
+> - A line of overtake trees rose above the morning fog. `[例]`
 
 
 ---

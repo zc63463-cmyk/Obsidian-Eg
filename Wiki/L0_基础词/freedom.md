@@ -132,8 +132,8 @@ review_count: 0
 
 > [!example]- 语料
 > - In college, you have the freedom to do what you want. `[COCA-SPOKEN]`
-> - We demand freedom from injustice and persecution. `[COCA-ACAD]`
 > - Children are allowed much more freedom these days. `[COCA-NEWS]`
+> - Says Dan Quinn, senior communications strategist at the Texas Freedom Network, a non-profit group that monitors public education. `[真题]`
 
 ---
 

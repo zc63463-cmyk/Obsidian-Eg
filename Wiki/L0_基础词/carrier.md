@@ -130,9 +130,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - You can transfer your existing mobile phone number to a new carrier. `[例]`
-> - Only your carrier limits the number of characters you can receive in text messages . `[例]`
-> - People are willing to change phone carriers in order to save a few dollars . `[例]`
+> - The airline is the nation's largest carrier. `[例]`
+>   - 中译：该航空公司是全国最大的航空公司。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/carrier
+> - Mosquitoes can be carriers of malaria. `[例]`
+>   - 中译：蚊子可能是疟疾的携带者。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/carrier
+> - The carrier failed to secure a financial lifeline to continue operating, ending the discount air travel pioneer’s time in the sky, costing some 17,000 jobs and thousands of cheap flights in the market. `[例]`
+>   - 中译：该航空公司未能获得继续运营的财务生命线，结束了这家折扣航空旅行先驱的天空时代，导致约 17,000 个工作岗位和市场上数千个廉价航班损失。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/carrier
 
 
 ---

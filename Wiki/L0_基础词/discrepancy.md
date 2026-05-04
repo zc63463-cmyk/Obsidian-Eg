@@ -121,9 +121,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - There were discrepancies between their accounts of the accident. `[真题]`
-> - A balance sheet review uncovered discrepancies totalling €30 million. `[真题]`
 > - The report highlighted a notable discrepancy between the projected sales figures and the actual results. `[真题]`
+> - There is some discrepancy between the two accounts. `[例]`
+> - The committee is reportedly unhappy about the discrepancy in numbers. `[例]`
 
 
 ---

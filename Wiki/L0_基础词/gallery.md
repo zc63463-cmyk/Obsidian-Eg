@@ -134,9 +134,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Imagine being able to remember every painting, on every wall, in every gallery space, between nearly 40 countries, he says. `[四级阅读]`
-> - Franca Falletti, director of the Accademia Gallery in Florence where the statue is housed, said the cleaning would be finished by late May. `[六级阅读]`
-> - The National Portrait Gallery has reopened after its major refurbishment. `[Cambridge]`
+> - Imagine being able to remember every painting, on every wall, in every gallery space, between nearly 40 countries, he says. `[例]`
+> - Franca Falletti, director of the Accademia Gallery in Florence where the statue is housed, said the cleaning would be finished by late May. `[例]`
+> - The National Portrait Gallery has reopened after its major refurbishment. `[例]`
 
 
 ---

@@ -133,9 +133,15 @@ con-(一起) + [[fer]](带来、承受) = confer（一起带来 → 商议/授�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The university conferred an honorary degree on the distinguished scientist. `[真题]`
-> - The manager conferred with her team before making the final decision. `[真题]`
-> - The constitution confers certain rights upon all citizens. `[COCA-ACAD]`
+> - An honorary doctorate was conferred on him by Columbia University. `[例]`
+>   - 中译：哥伦比亚大学授予他荣誉博士学位。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/confer
+> - The US Constitution confers certain powers on the president. `[例]`
+>   - 中译：美国宪法赋予总统某些权力。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/confer
+> - They were in constant contact , conferring about every aspect of the construction project. `[例]`
+>   - 中译：他们经常保持联系，就建设项目的各个方面进行协商。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/confer
 
 ---
 

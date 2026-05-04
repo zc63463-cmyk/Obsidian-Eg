@@ -124,8 +124,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Deep-sea divers carry cylinders of oxygen on their backs . `[例]`
-> - The league's rule does not allow you to interfere with a player's cylinder when they are trying to make a play . `[例]`
+> - Deep-sea divers carry cylinders of oxygen on their backs. `[例]`
+> - The league's rule does not allow you to interfere with a player's cylinder when they are trying to make a play. `[例]`
 > - A player is not allowed to interfere with a shot that is still in the cylinder. `[例]`
 
 

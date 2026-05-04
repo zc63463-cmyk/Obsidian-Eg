@@ -126,9 +126,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The police said that this was one of the most vicious attacks they'd ever seen . `[例]`
-> - He gave her a vicious look . `[例]`
-> - A large collection of vicious medieval torture instruments. `[例]`
+> - She has a vicious temper. `[例]`
+>   - 中译：她脾气很恶毒。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/vicious
+> - Police described the robbery as particularly vicious. `[例]`
+>   - 中译：警方称这起抢劫案性质特别恶劣。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/vicious
+> - She wrote me a vicious letter. `[例]`
+>   - 中译：她给我写了一封恶毒的信。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/vicious
 
 
 ---

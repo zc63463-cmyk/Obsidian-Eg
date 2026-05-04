@@ -130,9 +130,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - He burst into the room , red-faced and out of breath (= unable to breathe comfortably because of tiredness or excitement ) . `[例]`
-> - She was dizzy and short of breath (= unable to breathe in enough air ) . `[例]`
-> - Her breath smelled of garlic . `[例]`
+> - She was very short of breath (= had difficulty breathing). `[例]`
+>   - 中译：她呼吸急促（=呼吸困难）。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/breath
+> - Patients develop a cough and shortness of breath. `[例]`
+>   - 中译：患者出现咳嗽和呼吸急促。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/breath
+> - There was a sharp intake of breath in the courtroom. `[例]`
+>   - 中译：法庭上，顿时倒吸一口冷气。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/breath
 
 
 ---

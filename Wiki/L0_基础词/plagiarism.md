@@ -125,8 +125,8 @@ review_count: 0
 
 > [!example]- 语料
 > - She's been accused of plagiarism. `[例]`
-> - The techniques for detecting plagiarism are becoming increasingly advanced . `[例]`
-> - The university decided to fire a professor for committing plagiarism and falsifying data . `[例]`
+> - The techniques for detecting plagiarism are becoming increasingly advanced. `[例]`
+> - The university decided to fire a professor for committing plagiarism and falsifying data. `[例]`
 
 
 ---

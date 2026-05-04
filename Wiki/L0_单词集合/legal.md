@@ -137,10 +137,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Everyone has the legal right to a fair trial." `[COCA-ACAD]`
-> - "The amount of alcohol in his blood exceeded the legal limit." `[COCA-ACAD]`
-> - "She is considering legal action against the dental surgery." `[COCA-NEWS]`
-> - "You should seek formal legal advice to establish your position." `[COCA-NEWS]`
+> - I don't believe that the legal protection would have happened in the timeframe that it did without those images, " says Hansen, journalist and author of Prophets and Moguls, Rangers and Rogues, Bison and Bears: 100 Years of the National Park Service. `[真题]`
+>   - 中译：我认为如果没有这些图像，法律保护不会在这样的时间内发生，”记者兼《先知与大亨、流浪者与盗贼、野牛与熊：国家公园管理局 100 年》一书的作者汉森说道。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - Is abortion legal in your country? `[例]`
+>   - 中译：堕胎在你们国家合法吗？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/legal
+> - You have a legal obligation to ensure your child receives a proper education. `[例]`
+>   - 中译：您有法律义务确保您的孩子接受适当的教育。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/legal
 
 ---
 

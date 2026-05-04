@@ -131,9 +131,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The package had been badly crushed in the post . `[例]`
-> - Add three cloves of crushed garlic . `[例]`
-> - His arm was badly crushed in the car accident . `[例]`
+> - The car was completely crushed under the truck. `[例]`
+>   - 中译：汽车完全被压在卡车下面。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/crush
+> - Several people were crushed to death in the accident. `[例]`
+>   - 中译：事故中有多人被压死。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/crush
+> - Add two cloves of crushed garlic. `[例]`
+>   - 中译：添加两瓣压碎的大蒜。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/crush
 
 
 ---

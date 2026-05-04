@@ -127,9 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Research forms the predominant part of my job . `[例]`
-> - Dancers have a predominant role in this performance . `[例]`
-> - Women have a predominant role as health care professionals . `[例]`
+> - Research forms the predominant part of my job. `[例]`
+> - Dancers have a predominant role in this performance. `[例]`
+> - Women have a predominant role as health care professionals. `[例]`
 
 
 ---

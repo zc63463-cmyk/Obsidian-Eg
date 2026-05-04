@@ -122,10 +122,15 @@ re-(回) + [[fute|fute]](打击) → 打回去 → 驳斥
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The evidence refutes the claim that the company was aware of the product's defects before it was released. `[真题]`
-> - Critics have attempted to refute the theory, but their arguments have been largely unconvincing. `[真题]`
-> - The study's findings refute the commonly held belief that sugar causes hyperactivity in children. `[COCA-ACAD]`
-> - There is a glorious simplicity to her arguments that makes them hard to refute. `[COCA-ACAD]`
+> - Are you refuting the evidence? `[例]`
+>   - 中译：你在反驳证据吗？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/refute
+> - She refutes any suggestion that she behaved unprofessionally. `[例]`
+>   - 中译：她驳斥了任何有关她行为不专业的说法。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/refute
+> - But for every study that shows acid rain is damaging frogs, another one refutes it. `[例]`
+>   - 中译：但每一项研究表明酸雨正在损害青蛙，另一项研究就会反驳它。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/refute
 
 ---
 

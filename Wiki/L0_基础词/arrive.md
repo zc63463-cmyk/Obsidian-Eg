@@ -126,10 +126,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - It was dark by the time we arrived at the station. `[COCA-SPOKEN]`
-> - We arrived in Prague later that day. `[COCA-FIC]`
-> - After months of negotiation, the two parties finally arrived at an agreement. `[例]`
-> - What time does the train usually arrive? `[COCA-SPOKEN]`
+> - I was pleased to hear you arrived home safely. `[例]`
+>   - 中译：我很高兴听到你安全回家。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/arrive
+> - The train arrived at the station 20 minutes late. `[例]`
+>   - 中译：火车晚点了20分钟到达车站。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/arrive
+> - By the time I arrived on the scene , it was all over. `[例]`
+>   - 中译：当我到达现场时，一切都结束了。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/arrive
 
 
 ---

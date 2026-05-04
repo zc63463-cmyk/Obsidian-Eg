@@ -135,9 +135,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - I felt terrible last night but I feel fine this morning . `[例]`
-> - The apartments are very small , which is fine for one person . `[例]`
-> - Are you all right ?" "Everything's just fine, thanks . `[例]`
+> - I felt terrible last night but I feel fine this morning. `[例]`
+> - The apartments are very small , which is fine for one person. `[例]`
+> - Are you all right ?" "Everything's just fine, thanks. `[例]`
 
 
 ---

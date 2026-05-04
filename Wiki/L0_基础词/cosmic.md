@@ -126,10 +126,15 @@ cosm(宇宙，希腊语 *kosmos*，"秩序、世界") + -ic(形容词后缀，�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Supernova explosions release tremendous amounts of cosmic rays, as well as other elements. `[语料库]`
-> - The AU is a cosmic measuring rod, and the basis of how we scale the Universe today. `[语料库]`
-> - Climate change is a threat of cosmic proportions. `[真题]`
-> - The discovery of cosmic microwave background radiation confirmed the Big Bang theory. `[语料库]`
+> - Do you believe in a cosmic plan? `[例]`
+>   - 中译：你相信宇宙计划吗？
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/cosmic
+> - This was disaster on a cosmic scale. `[例]`
+>   - 中译：这是宇宙规模的灾难。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/cosmic
+> - The discovery caused a cosmic shift in people's views of the world. `[例]`
+>   - 中译：这一发现引起了人们世界观的巨大转变。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/cosmic
 
 
 ---

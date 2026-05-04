@@ -128,10 +128,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - He was too polite to point out her mistake. `[COCA-ACAD]`
-> - It is not considered polite to ask someone how much they earn. `[COCA-ACAD]`
-> - She sent me a polite letter thanking me for my invitation. `[COCA-ACAD]`
-> - Certain words are vulgar and not acceptable in polite society. `[COCA-FIC]`
+> - She sent me a polite letter thanking me for my invitation. `[例]`
+>   - 中译：她给我写了一封礼貌的信，感谢我的邀请。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/polite
+> - He was too polite to point out my mistake. `[例]`
+>   - 中译：他很有礼貌，没有指出我的错误。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/polite
+> - Sex never used to be discussed in polite society. `[例]`
+>   - 中译：上流社会从来不讨论性。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/polite
 
 ---
 

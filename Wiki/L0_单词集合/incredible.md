@@ -127,9 +127,15 @@ in-(不，not) + cred(相信，believe) + -ible(可被……的，able to be)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - We have put an incredible amount of work into this project. `[COCA-ACAD]`
-> - The movie tells an incredible story of survival. `[COCA-ACAD]`
-> - Contrastive rhetoric has had incredible staying power as an analytical framework for the study of second language writing. `[COCA-ACAD]`
+> - The latest missiles can be fired with incredible accuracy. `[例]`
+>   - 中译：最新的导弹可以以令人难以置信的精度发射。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/incredible
+> - It is incredible that the case received so little attention. `[例]`
+>   - 中译：令人难以置信的是，此案竟然没有受到如此多的关注。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/incredible
+> - It seems incredible that no one foresaw the crisis. `[例]`
+>   - 中译：没有人预见到这场危机，这似乎令人难以置信。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/incredible
 
 ---
 

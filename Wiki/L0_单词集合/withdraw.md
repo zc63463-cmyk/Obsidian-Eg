@@ -136,9 +136,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - This credit card allows you to withdraw up to £200 a day from ATMs . `[例]`
-> - She had to withdraw from the competition because of a leg injury . `[例]`
-> - Democrats threatened to withdraw (= stop giving) their support of the tax bill . `[例]`
+> - With this account, you can withdraw up to £300 a day. `[例]`
+>   - 中译：使用此帐户，您每天最多可以提取 300 英镑。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/withdraw
+> - Government troops were forced to withdraw. `[例]`
+>   - 中译：政府军被迫撤退。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/withdraw
+> - In 2016 Britain voted to withdraw from the EU. `[例]`
+>   - 中译：2016年，英国投票决定退出欧盟。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/withdraw
 
 ---
 

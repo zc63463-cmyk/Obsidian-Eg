@@ -134,8 +134,14 @@ review_count: 0
 
 > [!example]- 语料
 > - You need to be more decisive. `[例]`
-> - These results could prove decisive in establishing the criminal's identity . `[例]`
-> - In an emergency , decisive action is called for. `[例]`
+>   - 中译：你需要更加果断。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/decisive
+> - These results could prove decisive in establishing the criminal's identity. `[例]`
+>   - 中译：这些结果对于确定罪犯的身份可能具有决定性作用。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/decisive
+> - This decisive defeat puts them out of contention for this year's championship finals. `[例]`
+>   - 中译：这场决定性的失利让他们失去了今年总冠军决赛的争夺。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/decisive
 
 ---
 

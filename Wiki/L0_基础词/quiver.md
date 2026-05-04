@@ -132,10 +132,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The father's voice quivered as he remembered his son. `[Huffington Post]`
-> - Her voice, which had been previously smooth and clear, now quivered and quaked with every sentence. `[CNN]`
-> - The leaves on the tree quivered in the wind. `[文学语料]`
-> - I felt a quiver of panic. `[Collins语料库]`
+> - The father's voice quivered as he remembered his son. `[例]`
+> - Her voice, which had been previously smooth and clear, now quivered and quaked with every sentence. `[例]`
+> - The leaves on the tree quivered in the wind. `[例]`
 
 
 ---

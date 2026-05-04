@@ -127,9 +127,15 @@ con-(=completely，完全地) + fid(=trust，信任) + -ent(形容词后缀) + -
 ## 真题/语料关联
 
 > [!example]- 语料
-> - All patient information must be kept strictly confidential. `[真题]`
-> - The confidential report was leaked to the press, causing a political scandal. `[真题]`
-> - Please ensure that this document remains confidential at all times. `[COCA-ACAD]`
+> - All information will be treated as strictly confidential. `[例]`
+>   - 中译：所有信息都将被严格保密。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/confidential
+> - A person's medical records are confidential. `[例]`
+>   - 中译：一个人的医疗记录是保密的。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/confidential
+> - We have certain reasons for our decision , which have to remain confidential. `[例]`
+>   - 中译：我们的决定有一定的理由，但必须保密。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/confidential
 
 ---
 

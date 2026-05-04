@@ -141,9 +141,15 @@ con-(一起) + [[tract]](拉扯) = contract（拉到一起）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The company won a contract worth millions of dollars to build the new bridge. `[COCA-ACAD]`
-> - Economic growth contracted sharply in the fourth quarter. `[COCA-ACAD]`
-> - He contracted a serious illness while traveling abroad and was hospitalized immediately. `[例]`
+> - They could take legal action against you if you break (the terms of) the contract. `[例]`
+>   - 中译：如果您违反合同（条款），他们可能会对您采取法律行动。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/contract
+> - My solicitor is drawing up (= writing) a contract. `[例]`
+>   - 中译：我的律师正在起草（=撰写）一份合同。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/contract
+> - They're the firm of architects who won the contract to design the Museum of Fine Art extension. `[例]`
+>   - 中译：他们是赢得美术博物馆扩建工程合同的建筑师公司。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/contract
 
 ---
 

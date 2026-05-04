@@ -123,10 +123,10 @@ re-(回/靠近) + [[proach-prox|proach]](接近，[[proach-prox]])
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He's still reproaching himself for the accident." `[COCA-ACAD]`
-> - "Her conduct had always been beyond reproach." `[COCA-ACAD]`
-> - "He was the only politician who was beyond reproach." `[COCA-NEWS]`
-> - "He glanced at her with reproach." `[BNC-SPOKEN]`
+> - He's still reproaching himself for the accident. `[COCA-ACAD]`
+> - Her conduct had always been beyond reproach. `[COCA-ACAD]`
+> - He was the only politician who was beyond reproach. `[COCA-NEWS]`
+> - He glanced at her with reproach. `[BNC-SPOKEN]`
 
 
 ---

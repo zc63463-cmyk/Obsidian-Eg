@@ -133,9 +133,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Now, with record-high home prices and historically low inventory, there's an increased urgency in such regulation, particularly among those who worry that developers will come in and buy up swaths of housing to flip for a fortune on the short-term rental market. `[真题]`
-> - A lot of workers are servicing the tourist industry , and the tourism industry is serviced by those people coming in short term, " Castle said, " and so it's a cyclical effect. `[真题]`
-> - It comes at a time . when authors are already worried about the consequences of the proposed merger between PRH and another big publisher , Simon & Schuster-the reduction in the number of unaligned UK publishers is likely to lead to fewer bidding wars,, lower advances, and more conformity in . terms of what is published. `[真题]`
+> - He left and said he was never coming back. `[例]`
+>   - 中译：他离开了，并说他再也不会回来了。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/come
+> - She comes to work by bus. `[例]`
+>   - 中译：她乘公共汽车来上班。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/come
+> - My son is coming home soon. `[例]`
+>   - 中译：我儿子很快就要回家了。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/come
 
 
 ---

@@ -3,10 +3,8 @@ title: "unpredictable"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-25
-mastery: L0
 word_freq: 超纲词
 semantic_field: 抽象关系
 prototype: 无法提前说出的（无法预言的）
@@ -43,7 +41,7 @@ un-(不，否定) + [[prec-pre|pre]]-(提前) + [[dict]](说) + -able(可以被.
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**无法提前说出的**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **无法提前说出的**（认知层面）
@@ -64,7 +62,7 @@ un-(不，否定) + [[prec-pre|pre]]-(提前) + [[dict]](说) + -able(可以被.
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ un-(不，否定) + [[prec-pre|pre]]-(提前) + [[dict]](说) + -able(可以被.
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > pre（提前）+ dict（说）= predict（预言）。加上 un- 和 -able → 无法被提前说出来的 → 不可预测的。股市的走势就是 unpredictable——没有人能提前说准明天涨还是跌。
@@ -86,7 +84,7 @@ un-(不，否定) + [[prec-pre|pre]]-(提前) + [[dict]](说) + -able(可以被.
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ un-(不，否定) + [[prec-pre|pre]]-(提前) + [[dict]](说) + -able(可以被.
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[predictable]]：可预测的（unpredictable 的精确反义：不可预测↔可预测）
 > - [[certain]]：确定的（unpredictable 的反义：不确定↔确定）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,7 +116,7 @@ un-(不，否定) + [[prec-pre|pre]]-(提前) + [[dict]](说) + -able(可以被.
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **unpredictable weather**：变幻莫测的天气
 > - **unpredictable results**：不可预测的结果
 > - **highly unpredictable**：高度不可预测的
@@ -126,19 +124,12 @@ un-(不，否定) + [[prec-pre|pre]]-(提前) + [[dict]](说) + -able(可以被.
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - The weather there can be unpredictable - one minute it's blue skies and the next minute it's pouring rain . `[例]`
-> - The hours in this job are very unpredictable - you sometimes have to work late at very short notice . `[例]`
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-25 | **复习次数**：0 | **当前等级**：L0
-
----
+> [!example]- 语料
+> - The weather there can be unpredictable - one minute it's blue skies and the next minute it's pouring rain. `[例]`
+> - The hours in this job are very unpredictable - you sometimes have to work late at very short notice. `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

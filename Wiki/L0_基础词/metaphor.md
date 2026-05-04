@@ -124,10 +124,9 @@ meta-（越过、超越）+ phor/pherein（携带、搬运）。来自希腊语 
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "All the world's a stage, and all the men and women merely players." `[真题]`
-> - "The journey of life is a common metaphor in literature." `[真题]`
-> - "Time is a metaphor for change in many philosophical traditions." `[真题]`
-> - "In this extended metaphor, the house represents the narrator's deteriorating mental state." `[真题]`
+> - The journey of life is a common metaphor in literature. `[真题]`
+> - Time is a metaphor for change in many philosophical traditions. `[真题]`
+> - In this extended metaphor, the house represents the narrator's deteriorating mental state. `[真题]`
 
 
 ---

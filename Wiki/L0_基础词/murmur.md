@@ -128,7 +128,7 @@ review_count: 0
 > [!example]- 语料
 > - I love you," she murmured. `[例]`
 > - He was murmuring to himself. `[例]`
-> - He murmured sweet nothings (= romantic talk ) in her ear . `[例]`
+> - He murmured sweet nothings (= romantic talk ) in her ear. `[例]`
 
 
 ---

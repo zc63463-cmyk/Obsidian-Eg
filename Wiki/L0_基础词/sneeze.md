@@ -126,7 +126,7 @@ sneeze 源自古英语 *fnēosan*（打喷嚏），与中古英语 *snesen* 同�
 
 > [!example]- 语料
 > - Cats make him sneeze - I think he's allergic to them. `[例]`
-> - He has all the classic symptoms of a cold - the coughs and sneezes and the sore throat . `[例]`
+> - He has all the classic symptoms of a cold - the coughs and sneezes and the sore throat. `[例]`
 > - I don’t know why, but I couldn’t stop sneezing. `[例]`
 
 

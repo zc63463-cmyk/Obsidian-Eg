@@ -122,9 +122,15 @@ re-(加强语气) + joic/joy(喜悦、快乐)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - `Everyone rejoiced at the news of his safe return.` [COCA-ACAD]
-> - `The global community has joined together in rejoicing at the rescue of the miners.` [COCA-NEWS]
-> - `We should not rejoice too soon — the challenges ahead are still formidable.` [COCA-ACAD]
+> - Everyone rejoiced at the news of his safe return. `[例]`
+>   - 中译：大家都为他安全归来的消息而高兴。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/rejoice
+> - She rejoiced in her good fortune. `[例]`
+>   - 中译：她为自己的好运而庆幸。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/rejoice
+> - I rejoiced to see that she had made such a quick recovery. `[例]`
+>   - 中译：看到她恢复得这么快，我很高兴。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/rejoice
 ---
 
 

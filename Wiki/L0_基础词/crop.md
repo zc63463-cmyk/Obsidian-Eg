@@ -132,11 +132,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The drought caused a fall in this year's corn crop. `[真题]`
-> - The teachers got ready for a new crop of students. `[真题]`
-> - Season 3 will take place in Thailand and follow a new crop of hotel guests. `[真题]`
-> - His name crops up frequently as a potential candidate. `[真题]`
-> - The judges will select the best from this year's crop of first novels. `[真题]`
+> - Sugar cane is an important crop on the island. `[例]`
+>   - 中译：甘蔗是岛上的重要农作物。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/crop
+> - What are the benefits of growing GM crops? `[例]`
+>   - 中译：种植转基因作物有什么好处？
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/crop
+> - The crops are regularly sprayed with pesticides. `[例]`
+>   - 中译：农作物定期喷洒农药。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/crop
 
 
 ---

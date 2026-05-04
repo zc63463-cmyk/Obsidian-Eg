@@ -119,9 +119,15 @@ pre-（前缀，"在...之前"）+ caution（谨慎；小心）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "By comparison, the earlier building orders, regulations and codes did not go beyond some basic controls and general precautions against the danger of fire." `[真题]`
-> - "Unless precautions are taken, humans could act as vectors for a range of dangerous pathogens." `[COCA-ACAD]`
-> - "Save your work often as a precaution against computer failure." `[COCA]`
+> - Many people have been stockpiling food as a precaution against shortages. `[例]`
+>   - 中译：许多人一直在储存食物，以预防短缺。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/precaution
+> - They failed to take the necessary precautions to avoid infection. `[例]`
+>   - 中译：他们没有采取必要的预防措施来避免感染。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/precaution
+> - If you're going to have sex , make sure you take precautions. `[例]`
+>   - 中译：如果您要发生性行为，请务必采取预防措施。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/precaution
 
 ---
 

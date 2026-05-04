@@ -130,9 +130,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The rights give holders the opportunity to purchase additional equity interests in the company at a big discount . `[例]`
+> - The rights give holders the opportunity to purchase additional equity interests in the company at a big discount. `[例]`
 > - A society based on equity and social justice. `[例]`
-> - How much equity do you have in your home ? `[例]`
+> - How much equity do you have in your home? `[例]`
 
 
 ---

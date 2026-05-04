@@ -127,10 +127,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The precious metal is seen as a safe haven when times are tough." `[真题]`
-> - "The museum is heavily guarded and all visitors have to pass through metal detectors." `[真题]`
-> - "He once banned heavy metal music and its fans were arrested." `[真题]`
-> - "The scent of burning metal assailed his nostrils." `[真题]`
+> - The precious metal is seen as a safe haven when times are tough. `[真题]`
+> - The museum is heavily guarded and all visitors have to pass through metal detectors. `[真题]`
+> - He once banned heavy metal music and its fans were arrested. `[真题]`
+> - The scent of burning metal assailed his nostrils. `[真题]`
 
 
 ---

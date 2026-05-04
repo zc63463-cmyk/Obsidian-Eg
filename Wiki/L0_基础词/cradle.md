@@ -128,9 +128,15 @@ cradle（源自古英语 *cradol*，可能与古高地日耳曼语 *kratto* 篮�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Greece was the cradle of western civilization. `[语料库]`
-> - Athens is often regarded as the cradle of democracy. `[语料库]`
-> - Fossil records indicate that Africa was the cradle of early human evolution. `[语料库]`
+> - She rocked the baby to sleep in its cradle. `[例]`
+>   - 中译：她摇晃婴儿，让他在摇篮里睡着。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/cradle
+> - She placed the phone back on its cradle. `[例]`
+>   - 中译：她把电话放回支架上。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/cradle
+> - A number of ships were resting in their cradles in the shipyard. `[例]`
+>   - 中译：许多船只停泊在造船厂的摇篮里。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/cradle
 
 
 ---

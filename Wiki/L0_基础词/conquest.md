@@ -128,8 +128,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The Norman Conquest of 1066 had a profound and lasting impact on the English language."（1066年的诺曼征服对英语语言产生了深远而持久的影响——考研阅读历史话题高频表达）
-> - "The empire's conquests stretched across three continents."（帝国的征服领土横跨三大洲——考研阅读历史话题常见表达）
+> - I'm just one of his many conquests. `[例]`
+>   - 中译：我只是他众多征服者之一。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/conquest
+> - She was one of his many conquests. `[例]`
+>   - 中译：她是他众多征服者之一。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/conquest
+> - Painted over by the joy that came when her teammates rushed the court to celebrate her conquest. `[例]`
+>   - 中译：当她的队友冲上球场庆祝她的胜利时，她的喜悦笼罩在她的脸上。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/conquest
 
 
 ---

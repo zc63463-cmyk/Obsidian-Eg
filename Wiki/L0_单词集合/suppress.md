@@ -130,9 +130,15 @@ sup-(=sub-，从下方) + press(压) → 从下方压住 → 压制
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The Hungarian uprising in 1956 was suppressed by the Soviet Union . `[例]`
-> - His feelings of resentment have been suppressed for years . `[例]`
-> - The British government tried to suppress the book because of the information it contained about the security services . `[例]`
+> - The rebellion was brutally suppressed. `[例]`
+>   - 中译：叛乱被残酷镇压。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/suppress
+> - The police were accused of suppressing vital evidence. `[例]`
+>   - 中译：警方被指控隐瞒重要证据。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/suppress
+> - This information had been deliberately suppressed. `[例]`
+>   - 中译：该信息已被刻意压制。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/suppress
 
 ---
 

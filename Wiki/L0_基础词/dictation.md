@@ -120,9 +120,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Our French dictation lasted half an hour . `[例]`
+> - Our French dictation lasted half an hour. `[例]`
 > - Can we get someone from the agency who takes dictation? `[例]`
-> - An assistant will take your dictation over the phone and send a fax or email to your recipient . `[例]`
+> - An assistant will take your dictation over the phone and send a fax or email to your recipient. `[例]`
 
 
 ---

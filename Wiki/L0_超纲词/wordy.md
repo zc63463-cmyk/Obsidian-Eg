@@ -3,10 +3,8 @@ title: "wordy"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-25
-mastery: L0
 word_freq: 超纲词
 semantic_field: 理性世界
 prototype: 充满词语的
@@ -43,7 +41,7 @@ word（词语，古英语 *word*）+ -y（充满……的，形容词后缀）
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**充满词语的**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **充满词语的**（物理层面）
@@ -64,7 +62,7 @@ word（词语，古英语 *word*）+ -y（充满……的，形容词后缀）
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ word（词语，古英语 *word*）+ -y（充满……的，形容词后缀）
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > word（词语）+ -y（充满）= wordy（充满词语的→啰嗦的）。想象你的老师批改作文时写下："Too wordy! Cut the fluff!"——你的文章词太多了，像注了水的猪肉，需要把多余的 word 去掉。好的文章是 concise（简洁的），而不是 wordy（啰嗦的）。
@@ -86,7 +84,7 @@ word（词语，古英语 *word*）+ -y（充满……的，形容词后缀）
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,14 +97,14 @@ word（词语，古英语 *word*）+ -y（充满……的，形容词后缀）
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[concise]]：简洁的（wordy 的精确反义：啰嗦↔简洁）
 > - [[terse]]：简练的（wordy 的反义：冗长↔简练）
 > - [[succinct]]：简明的（wordy 的反义：啰嗦↔简明）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,7 +116,7 @@ word（词语，古英语 *word*）+ -y（充满……的，形容词后缀）
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a wordy essay**：一篇冗长的文章
 > - **wordy explanations**：啰嗦的解释
 > - **avoid being wordy**：避免啰嗦
@@ -126,19 +124,12 @@ word（词语，古英语 *word*）+ -y（充满……的，形容词后缀）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - As usual she gave a reply which was wordy and didn't answer the question . `[例]`
-> - Your memo is too wordy – make it short and to the point . `[例]`
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-25 | **复习次数**：0 | **当前等级**：L0
-
----
+> [!example]- 语料
+> - As usual she gave a reply which was wordy and didn't answer the question. `[例]`
+> - Your memo is too wordy – make it short and to the point. `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

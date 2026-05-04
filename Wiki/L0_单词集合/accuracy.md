@@ -122,8 +122,15 @@ ac-(=ad-，朝向、加强) + cur-(关心、注意) + -acy(名词后缀，表状
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The accuracy of the data is crucial for the validity of the research findings."（数据的准确性对于研究结论的有效性至关重要。）——考研高频表达
-> - "Scientists are constantly improving the accuracy of their measurements."（科学家们不断提高测量的精度。）——考研高频表达
+> - Patricia has checked the reports and can vouch for the accuracy of the information. `[例]`
+>   - 中译：帕特里夏已经检查了报告并可以保证信息的准确性。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/accuracy
+> - Experience is needed to use the machine with accuracy. `[例]`
+>   - 中译：准确使用机器需要经验。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/accuracy
+> - The computer will calculate your position with pinpoint accuracy. `[例]`
+>   - 中译：计算机将精确计算您的位置。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/accuracy
 
 ---
 

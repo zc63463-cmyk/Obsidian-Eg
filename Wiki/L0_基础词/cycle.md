@@ -131,9 +131,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Cycles cannot be taken on this train . `[例]`
-> - A thousand people took part in the region's biggest-ever cycle race . `[例]`
-> - They are trapped in a cycle of violence . `[例]`
+> - Cycles cannot be taken on this train. `[例]`
+> - A thousand people took part in the region's biggest-ever cycle race. `[例]`
+> - They are trapped in a cycle of violence. `[例]`
 
 
 ---

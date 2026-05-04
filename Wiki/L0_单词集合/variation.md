@@ -140,9 +140,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Unemployment rates among white-collar workers show much less regional variation than corresponding rates among blue-collar workers . `[例]`
-> - The medical tests showed some variation in the baby's heart rate . `[例]`
-> - Global temperature variations over the last 140 years. `[例]`
+> - The dial records very slight variations in pressure. `[例]`
+>   - 中译：表盘记录了非常轻微的压力变化。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/variation
+> - Currency exchange rates are always subject to variation. `[例]`
+>   - 中译：货币汇率总是会发生变化。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/variation
+> - This soup is a spicy variation on a traditional favourite. `[例]`
+>   - 中译：这道汤是传统汤的辛辣变种。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/variation
 
 ---
 

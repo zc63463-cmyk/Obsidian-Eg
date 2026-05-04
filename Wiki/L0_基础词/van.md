@@ -125,10 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The raiders machine-gunned everyone in the bank before escaping in a van." `[Cambridge]`
-> - "On election day they drove around town in a van with a loudspeaker on the roof." `[Oxford]`
-> - "Domestic law enforcement could disguise the vehicle as a delivery van and use it to scan cars in, say, a stadium parking lot." `[COCA-NEWS]`
-> - "The van drivers refused to cross the picket line." `[Cambridge]`
+> - The raiders machine-gunned everyone in the bank before escaping in a van. `[例]`
+> - Domestic law enforcement could disguise the vehicle as a delivery van and use it to scan cars in, say, a stadium parking lot. `[COCA-NEWS]`
+> - The van drivers refused to cross the picket line. `[例]`
 
 
 ---

@@ -125,8 +125,8 @@ review_count: 0
 
 > [!example]- 语料
 > - The traffic got slower and slower until it was stationary. `[例]`
-> - The rate of inflation has been stationary for several months . `[例]`
-> - House prices have been stationary for months . `[例]`
+> - The rate of inflation has been stationary for several months. `[例]`
+> - House prices have been stationary for months. `[例]`
 
 
 ---

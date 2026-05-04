@@ -125,9 +125,15 @@ chaos 源自希腊语 *khaos*（混沌、虚空），原指宇宙形成之前万
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Snow and ice have caused chaos on the roads . `[例]`
-> - We muddled up the name labels and chaos ensued (= resulted ) . `[例]`
-> - Repairs to the major highway this summer will bring chaos to commuters . `[例]`
+> - Heavy snow has caused total chaos on the roads. `[例]`
+>   - 中译：大雪导致道路完全混乱。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/chaos
+> - The house was in chaos after the party. `[例]`
+>   - 中译：聚会结束后，家里一片混乱。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/chaos
+> - The loss of electricity caused chaos throughout the city. `[例]`
+>   - 中译：停电导致整个城市陷入混乱。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/chaos
 
 
 ---

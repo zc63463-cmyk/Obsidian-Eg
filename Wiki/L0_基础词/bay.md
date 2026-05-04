@@ -128,10 +128,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He managed to keep his illness at bay through regular exercise." `[COCA-FIC]`
-> - "The city is located on the shores of a beautiful bay." `[COCA-FIC]`
-> - "A sightseeing tour of the city is included to help you get your bearings." `[COCA-NEWS]`
-> - "She hits the sauna three times a week, followed by an ice bath." `[COCA-NEWS]`
+> - He was riding a big bay. `[例]`
+>   - 中译：他正在一个大海湾上骑行。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bay
+> - I'm trying to keep my creditors at bay. `[例]`
+>   - 中译：我正在努力阻止我的债权人。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bay
+> - Charlotte bit her lip to hold the tears at bay. `[例]`
+>   - 中译：夏洛特咬住嘴唇，忍住泪水。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bay
 
 
 ---

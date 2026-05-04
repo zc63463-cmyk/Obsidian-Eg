@@ -123,9 +123,15 @@ pessim(最坏的，源自拉丁语 pessimus "最差的") + -ist(…的人) + -ic
 ## 真题/语料关联
 
 > [!example]- 语料
-> - In the last seven years, Americans have grown more pessimistic about the power of education to lead to success. `[真题]`
-> - The doctors are pessimistic about his chances of recovery. `[COCA-ACAD]`
-> - The pessimistic view is that the economic blowups are still to come. `[COCA-ACAD]`
+> - The tone of the meeting was very pessimistic. `[例]`
+>   - 中译：会议的基调非常悲观。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/pessimistic
+> - The doctors are pessimistic (= not hopeful ) about his chances of recovery. `[例]`
+>   - 中译：医生们对他康复的机会感到悲观（=不抱希望）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/pessimistic
+> - They appeared surprisingly pessimistic about their chances of winning. `[例]`
+>   - 中译：他们对获胜的机会显得出人意料的悲观。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pessimistic
 
 ---
 

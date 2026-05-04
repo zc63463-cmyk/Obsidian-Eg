@@ -125,9 +125,9 @@ extra-(超出) + ordinary(普通的，[[ordinary]])
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Her voice had an extraordinary hypnotic quality . `[例]`
-> - He presided over an extraordinary meeting of the country's leading clergy . `[例]`
-> - Being chairman gave him an extraordinary sense of power . `[例]`
+> - Her voice had an extraordinary hypnotic quality. `[例]`
+> - He presided over an extraordinary meeting of the country's leading clergy. `[例]`
+> - Being chairman gave him an extraordinary sense of power. `[例]`
 
 
 ---

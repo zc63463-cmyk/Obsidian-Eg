@@ -129,9 +129,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - I have tentative plans to take a trip to Seattle in July . `[例]`
-> - We have tentative plans to go to Hawaii in February . `[例]`
-> - The car company and the union reached a tentative agreement . `[例]`
+> - Her English is correct but tentative. `[例]`
+>   - 中译：她的英语是正确的，但只是暂时的。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/tentative
+> - I'm taking the first tentative steps towards fitness. `[例]`
+>   - 中译：我正在迈出健身的第一步。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/tentative
+> - In the winter, retirees from the Midwest fill the trailer parks. They are known with tentative affection as snowbirds. `[例]`
+>   - 中译：冬天，拖车公园里挤满了来自中西部的退休人员。人们暂且将它们称为“雪鸟”。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/tentative
 
 ---
 

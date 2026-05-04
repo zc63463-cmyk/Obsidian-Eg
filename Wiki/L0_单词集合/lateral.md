@@ -136,10 +136,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Lateral thinking involves approaching problems from new angles." `[COCA-ACAD]`
-> - "Supportive friends and a bit of lateral thinking meant I always found a way to travel like everyone else my age." `[COCA]`
-> - "The two countries signed a bilateral trade agreement." `[COCA]`
-> - "The company announced a unilateral decision to cut costs." `[COCA]`
+> - Trim the lateral shoots of the flower (= the ones that grow sideways from the main stem of a plant ). `[例]`
+>   - 中译：修剪花的侧枝（=从植物主茎侧面生长的枝条）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/lateral
+> - The bird spread its wings for lateral stability. `[例]`
+>   - 中译：鸟张开翅膀以保持横向稳定性。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/lateral
+> - Designers added more storage space , with lateral expansion of the rear compartment. `[例]`
+>   - 中译：设计师增加了更多的储物空间，并横向扩展了后车厢。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/lateral
 
 ---
 

@@ -143,9 +143,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Reading and writing are two different skills that need to be developed through practice. `[外刊]`
+> - Reading and writing are two different skills that need to be developed through practice. `[例]`
 > - Many jobs today require computer skills and the ability to work with digital tools. `[真题]`
-> - He was valued for his skill in raising money for the organisation. `[外刊]`
+> - He was valued for his skill in raising money for the organisation. `[例]`
 
 
 ---

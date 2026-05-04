@@ -3,10 +3,8 @@ title: "watershed"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-25
-mastery: L0
 word_freq: 超纲词
 semantic_field: 自然物理
 prototype: 分水岭（山脊的最高点，水由此流向两侧）
@@ -43,7 +41,7 @@ water（水）+ shed（分开/流走），复合词，无拉丁/希腊词根可�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**分水岭**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **分水岭**（地理层面）
@@ -65,7 +63,7 @@ water（水）+ shed（分开/流走），复合词，无拉丁/希腊词根可�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +73,7 @@ water（水）+ shed（分开/流走），复合词，无拉丁/希腊词根可�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **词拆分记忆**（优先）：
 > water（水）+ shed（分开/脱落）= watershed（分水岭）。想象一座山，山顶上水往两边流——一边流向长江，一边流向黄河。这个山顶就是 watershed。人生也有 watershed moment——从此以后一切都不一样了。
@@ -87,7 +85,7 @@ water（水）+ shed（分开/流走），复合词，无拉丁/希腊词根可�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +98,13 @@ water（水）+ shed（分开/流走），复合词，无拉丁/希腊词根可�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - watershed 无精确反义词，其核心概念是"分割点"
 > - [[continuity]]：连续性（watershed 的反义：分割↔连续）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,7 +115,7 @@ water（水）+ shed（分开/流走），复合词，无拉丁/希腊词根可�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a watershed moment/event**：转折时刻/转折事件
 > - **a watershed in history**：历史的分水岭
 > - **mark a watershed**：标志着一个转折点
@@ -125,19 +123,12 @@ water（水）+ shed（分开/流走），复合词，无拉丁/希腊词根可�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - The year 1969 was a watershed in her life - she changed her career and remarried . `[例]`
-> - The discovery of penicillin was a watershed in the history of medicine . `[例]`
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-25 | **复习次数**：0 | **当前等级**：L0
-
----
+> [!example]- 语料
+> - The year 1969 was a watershed in her life - she changed her career and remarried. `[例]`
+> - The discovery of penicillin was a watershed in the history of medicine. `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

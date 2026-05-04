@@ -125,10 +125,15 @@ dur(持续，坚硬) + -able(能够...的)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Mass-produced clothing, like fast food, fills a hunger and need, yet is non-durable and wasteful." `[真题]`
-> - "But without advancing development and anti-poverty goals, we will not create durable peace." `[COCA-ACAD]`
-> - "Only then will anything durable come of debates such as this one today." `[COCA-ACAD]`
-> - "And judging by their orders of durable goods, businesses may be scaling back spending." `[COCA-ACAD]`
+> - The machines have to be made of durable materials. `[例]`
+>   - 中译：这些机器必须由耐用的材料制成。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/durable
+> - The trays are made from cedar , which is light and durable. `[例]`
+>   - 中译：托盘由雪松制成，轻便耐用。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/durable
+> - The resolution calls for a durable peace settlement. `[例]`
+>   - 中译：该决议呼吁达成持久和平解决方案。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/durable
 
 ---
 

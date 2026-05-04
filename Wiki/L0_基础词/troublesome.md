@@ -123,7 +123,7 @@ review_count: 0
 
 > [!example]- 语料
 > - Her hip has been troublesome for quite a while, and she'll probably need surgery on it. `[例]`
-> - The negotiations have proven more troublesome than any of us expected . `[例]`
+> - The negotiations have proven more troublesome than any of us expected. `[例]`
 > - The troublesome fact is that we haven’t gotten much done. `[例]`
 
 

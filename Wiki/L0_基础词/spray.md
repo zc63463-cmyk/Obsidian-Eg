@@ -129,9 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Farmers use a lot of chemical sprays on crops . `[例]`
-> - All the wedding guests wore sprays of carnations . `[例]`
-> - She sprayed her self with perfume . `[例]`
+> - Farmers use a lot of chemical sprays on crops. `[例]`
+> - All the wedding guests wore sprays of carnations. `[例]`
+> - She sprayed her self with perfume. `[例]`
 
 
 ---

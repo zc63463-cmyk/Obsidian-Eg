@@ -129,7 +129,7 @@ somewhat 是一个复合词，由 **some**（某个、一些）+ **what**（什�
 
 > [!example]- 语料
 > - Therefore , unless customer:; are prepared to sign release agreements , the use of AI may become somewhat restricted in the future. `[真题]`
-> - The resort has changed somewhat over the last few years . `[例]`
+> - The resort has changed somewhat over the last few years. `[例]`
 > - She's somewhat more confident than she used to be. `[例]`
 
 

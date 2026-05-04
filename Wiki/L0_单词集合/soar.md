@@ -119,10 +119,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - There are already acute shortages of imported goods and soaring inflation for basic foodstuffs. `[COCA-NEWS]`
-> - But infections have soared in recent weeks. `[COCA-NEWS]`
-> - The price of housing has soared in recent years, making it difficult for young people to afford a home. `[真题]`
-> - The number of internet users has soared since the widespread adoption of smartphones. `[真题]`
+> - All night long fireworks soared into the sky. `[例]`
+>   - 中译：整夜烟花腾空而起。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/soar
+> - Temperatures will soar over the weekend , say the weather forecasters. `[例]`
+>   - 中译：天气预报员说，周末气温将会飙升。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/soar
+> - House prices soared a further 20 percent. `[例]`
+>   - 中译：房价又飙升了20%。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/soar
 
 
 ---

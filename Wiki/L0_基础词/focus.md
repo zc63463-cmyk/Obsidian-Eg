@@ -131,8 +131,8 @@ review_count: 0
 
 > [!example]- 语料
 > - Such debates reflect fierce discussions across the US and around the world , as researchers , policymakers , teachers and students step up demands for a greater focus on teaching about the facts of climate change in schools. `[真题]`
-> - I think Dave likes to be the focus of attention . `[例]`
-> - The main focus of interest at the fashion show was Christian Lacroix's outrageous evening wear . `[例]`
+> - I think Dave likes to be the focus of attention. `[例]`
+> - The main focus of interest at the fashion show was Christian Lacroix's outrageous evening wear. `[例]`
 
 
 ---

@@ -140,9 +140,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - I was dazzled by the sunlight . `[例]`
-> - I was dazzled by his charm and good looks . `[例]`
-> - He was dazzled by Rome’s architectural treasures . `[例]`
+> - I was dazzled by the sunlight. `[例]`
+>   - 中译：我被阳光照得眼花缭乱。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/dazzle
+> - I was dazzled by his charm and good looks. `[例]`
+>   - 中译：我被他的魅力和英俊的外表迷住了。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/dazzle
+> - He was dazzled by Rome’s architectural treasures. `[例]`
+>   - 中译：罗马的建筑瑰宝让他眼花缭乱。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/dazzle
 
 ---
 

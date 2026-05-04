@@ -133,8 +133,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Traditional ways of life fulfilled both economic and spiritual needs . `[例]`
-> - Religion focuses on the spiritual side of life . `[例]`
+> - Traditional ways of life fulfilled both economic and spiritual needs. `[例]`
+> - Religion focuses on the spiritual side of life. `[例]`
 > - It was a spiritual communion that he found with her. `[例]`
 
 

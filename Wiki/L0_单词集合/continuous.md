@@ -132,9 +132,15 @@ con-(=together, 一直) + [[tin]](=hold/keep, 保持) + -uous(形容词后缀) �
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The continuous development of technology has brought about profound changes in our daily lives. `[COCA-ACAD]`
-> - Continuous assessment of student progress is considered more effective than a single final examination. `[COCA-ACAD]`
-> - The continuous line of traffic stretched for miles along the highway. `[例]`
+> - She is in continuous pain. `[例]`
+>   - 中译：她处于持续的痛苦之中。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/continuous
+> - My computer makes a continuous low buzzing noise. `[例]`
+>   - 中译：我的电脑发出持续低沉的嗡嗡声。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/continuous
+> - A continuous whiteline (= line without spaces ) in the middle of the road means no overtaking. `[例]`
+>   - 中译：道路中间的连续白线（= 没有空格的线）意味着禁止超车。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/continuous
 ---
 
 

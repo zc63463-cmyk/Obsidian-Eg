@@ -147,9 +147,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Beauty is only skin deep. ` `[语料库]`
-> - This government has an unhappy knack of slipping on banana skins. ` `[语料库]`
-> - Polar bears have black skin under their white fur. ` `[语料库]`
+> - Babies have soft skins. `[例]`
+> - Native Americans used to trade skins. `[例]`
+> - She has a very clear skin. `[例]`
 
 
 ---

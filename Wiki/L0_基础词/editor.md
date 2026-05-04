@@ -130,9 +130,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The editor of the newspaper resigned after it was revealed that the paper had published fabricated stories. `[语料库]`
-> - She has worked as a senior editor at a major publishing house for over twenty years. `[语料库]`
-> - Introducing the Guardian's editor-in-chief, Jarvis says Alan Rusbridger is the best newspaper editor in the world. `[语料库]`
+> - The editor of the newspaper resigned after it was revealed that the paper had published fabricated stories. `[例]`
+> - She has worked as a senior editor at a major publishing house for over twenty years. `[例]`
+> - Introducing the Guardian's editor-in-chief, Jarvis says Alan Rusbridger is the best newspaper editor in the world. `[例]`
 
 
 ---

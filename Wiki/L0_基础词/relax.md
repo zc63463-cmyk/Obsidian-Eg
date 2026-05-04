@@ -131,8 +131,8 @@ re-(=back，回) + [[lat|lax/laxus]](松的，拉丁语 *laxus*，宽松的)
 
 > [!example]- 语料
 > - Studies dating back to the 1930s indicate that laughter relaxes muscles, decreasing muscle tone for up to 45 minutes after the laugh dies down. `[真题]`
-> - Two weeks after the police relaxed security at the airports, there was a bomb attack. `[权威语料]`
-> - A good massage will relax your tired muscles. `[权威语料]`
+> - Two weeks after the police relaxed security at the airports, there was a bomb attack. `[例]`
+> - A good massage will relax your tired muscles. `[例]`
 
 
 ---

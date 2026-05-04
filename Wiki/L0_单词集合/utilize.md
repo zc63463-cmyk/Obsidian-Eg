@@ -132,9 +132,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The vitamins come in a form that is easily utilized by the body . `[例]`
-> - The library’s great collection allowed me to utilize many rare sources . `[例]`
-> - The investment strategy is utilized by experienced multinationals . `[例]`
+> - The Romans were the first to utilize concrete as a building material. `[例]`
+>   - 中译：罗马人是第一个使用混凝土作为建筑材料的人。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/utilize
+> - The resources at our disposal could have been better utilized. `[例]`
+>   - 中译：我们可以利用的资源可以得到更好的利用。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/utilize
+> - Vitamin C helps the body utilize the iron present in your body. `[例]`
+>   - 中译：维生素 C 有助于身体利用体内存在的铁。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/utilize
 
 ---
 

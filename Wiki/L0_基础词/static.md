@@ -129,9 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Oil prices have remained static for the last few months . `[例]`
-> - It is a static website that presents brief and standard advice on stopping smoking . `[例]`
-> - Like a printed book , a static web document can be several years old . `[例]`
+> - Oil prices have remained static for the last few months. `[例]`
+> - It is a static website that presents brief and standard advice on stopping smoking. `[例]`
+> - Like a printed book , a static web document can be several years old. `[例]`
 
 
 ---

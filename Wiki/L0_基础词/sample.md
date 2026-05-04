@@ -127,10 +127,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The researchers collected blood samples from 500 participants to test for the virus." `[真题]`
-> - "The survey was based on a representative sample of the population." `[真题]`
-> - "Samples of the water contained pesticide." `[权威语料]`
-> - "They took a blood sample to test for hepatitis." `[权威语料]`
+> - The researchers collected blood samples from 500 participants to test for the virus. `[真题]`
+> - The survey was based on a representative sample of the population. `[真题]`
+> - Samples of the water contained pesticide. `[例]`
+> - They took a blood sample to test for hepatitis. `[例]`
 
 
 ---

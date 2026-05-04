@@ -142,9 +142,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The proper procedures for renting out spare houses. `[真题]`
-> - Spare sheets and blankets. `[例]`
-> - Do you have a spare pen ? `[例]`
+> - I'd love to have a break, but I can't spare the time just now. `[例]`
+>   - 中译：我很想休息一下，但现在抽不出时间。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/spare_2
+> - Could you spare one of your staff to help us out? `[例]`
+>   - 中译：你能抽调一名员工来帮我们吗？
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/spare_2
+> - Surely you can spare me a few minutes? `[例]`
+>   - 中译：你总能抽几分钟给我吧？
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/spare_2
 
 ---
 

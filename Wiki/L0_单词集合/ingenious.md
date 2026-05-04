@@ -124,10 +124,15 @@ in-(在内) + [[gen]](产生/创造) + -ious(形容词后缀，充满……的)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "They are a simple but ingenious way to provide an environmentally friendly alternative to plastic shopping bags." `[COCA-ACAD]`
-> - "The ingenious design of the new building maximizes natural light and energy efficiency." `[COCA-ACAD]`
-> - "He was an ingenious inventor who held numerous patents for his creations." `[COCA-ACAD]`
-> - "The engineer came up with an ingenious solution to the problem." `[COCA-ACAD]`
+> - Johnny is so ingenious - he can make the most remarkable sculptures from the most ordinary materials. `[例]`
+>   - 中译：约翰尼真是太聪明了——他能用最普通的材料制作出最非凡的雕塑。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/ingenious
+> - She devised an ingenious solution to the problem. `[例]`
+>   - 中译：她想出了一个巧妙的办法来解决这个问题。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/ingenious
+> - His plots are always very ingenious. `[例]`
+>   - 中译：他的情节总是非常巧妙。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ingenious
 ---
 
 

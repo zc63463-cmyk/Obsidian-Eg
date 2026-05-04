@@ -134,9 +134,15 @@ crack（拟声词，模拟硬物破裂时发出的"咔嚓"声，中古英语 *cr
 ## 真题/语料关联
 
 > [!example]- 语料
-> - They cracked the code and read the secret message. `[语料库]`
-> - Some young executives crack under the pressure of having to meet tough sales targets every month. `[语料库]`
-> - He has finally cracked the system after years of painstaking research. `[语料库]`
+> - The ice cracked as I stepped onto it. `[例]`
+>   - 中译：当我踏上冰面时，冰面裂开了。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/crack
+> - He has cracked a bone in his arm. `[例]`
+>   - 中译：他手臂上的一块骨头骨折了。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/crack
+> - A chunk of the cliff had cracked off in a storm. `[例]`
+>   - 中译：一块悬崖在暴风雨中崩裂了。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/crack
 
 
 ---

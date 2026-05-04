@@ -123,9 +123,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Her latest book is a humorous look at teenage life . `[例]`
-> - I suppose the play is quite humorous, but it is let down by the actors ' weak performances . `[例]`
-> - He told one or two humorous stories about his years as a policeman . `[例]`
+> - Her latest book is a humorous look at teenage life. `[例]`
+> - I suppose the play is quite humorous, but it is let down by the actors ' weak performances. `[例]`
+> - He told one or two humorous stories about his years as a policeman. `[例]`
 
 
 ---

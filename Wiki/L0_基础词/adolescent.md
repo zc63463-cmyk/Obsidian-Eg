@@ -132,9 +132,15 @@ ad-(=to, 向……方向，见 [[ad]]) + olesc(成长，拉丁语 *alescere*，*
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The two adolescent boys made their mother very tired . `[例]`
-> - I teach in a middle school , because I like young adolescents . `[例]`
-> - He looked uncomfortable , like a self-conscious adolescent who's gone to the wrong party . `[例]`
+> - Stop acting like an adolescent! `[例]`
+>   - 中译：别再表现得像个青少年了！
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/adolescent
+> - Their children are now adolescents. `[例]`
+>   - 中译：他们的孩子现在已经是青少年了。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/adolescent
+> - As an adolescent , he was diagnosed with dyslexia and struggled through school. `[例]`
+>   - 中译：青少年时期，他被诊断患有阅读障碍，并在学校里挣扎。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/adolescent
 
 
 ---

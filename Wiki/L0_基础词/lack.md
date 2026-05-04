@@ -129,9 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Texas is reluctant to rewrite its science textbooks D. environmental teaching in some states lacks supervision 24. `[真题]`
-> - Her only problem is a lack of confidence . `[例]`
-> - He just lacks a little confidence . `[例]`
+> - Her only problem is a lack of confidence. `[例]`
+> - He just lacks a little confidence. `[例]`
+> - What we lack in this house is space to store things. `[例]`
 
 
 ---

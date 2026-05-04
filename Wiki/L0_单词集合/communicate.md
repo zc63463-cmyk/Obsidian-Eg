@@ -135,8 +135,15 @@ com-(共同) + muni(服务/公共) + -cate(动词后缀，使动)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Do we live in a gigantic 'zoo' observed by our 'keepers,' but having no communication with them?"（我们是否生活在一个巨大的"动物园"里，被我们的"看守者"观察着，却与他们没有任何交流？）——1987年考研英语真题
-> - "In fact, these commutes were reportedly more enjoyable compared with those without communication."（事实上，据报道，与没有交流的情况相比，这些通勤过程更加愉快。）——考研高频表达
+> - AI can also provide a bridge between the need of the brand to communicate emotionally with the customer and identifying their rapidly changing needs. `[真题]`
+>   - 中译：人工智能还可以在品牌与客户进行情感沟通的需求和识别他们快速变化的需求之间架起一座桥梁。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - We can now communicate instantly with people on the other side of the world. `[例]`
+>   - 中译：我们现在可以与世界另一端的人们即时交流。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/communicate
+> - Unable to speak a word of the language , he communicated with (= using) his hands. `[例]`
+>   - 中译：他无法说该语言的一个字，只能用手进行交流。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/communicate
 
 
 ---

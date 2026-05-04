@@ -132,8 +132,8 @@ trem(颤抖，拉丁语 *tremere*) + -end(名词后缀) + -ous(形容词后缀�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - They were making a tremendous amount of noise last night . `[例]`
-> - She's been a tremendous (= very great ) help to me over the last few months . `[例]`
+> - They were making a tremendous amount of noise last night. `[例]`
+> - She's been a tremendous (= very great ) help to me over the last few months. `[例]`
 > - You won ? That's tremendous! `[例]`
 
 

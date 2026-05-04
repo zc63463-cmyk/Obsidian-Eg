@@ -135,8 +135,8 @@ fantastic 源自中世纪拉丁语 *fantasticus*，来自晚期拉丁语 *phanta
 ## 真题/语料关联
 
 > [!example]- 语料
-> - You look fantastic in that dress . `[例]`
-> - We had a fantastic time . `[例]`
+> - You look fantastic in that dress. `[例]`
+> - We had a fantastic time. `[例]`
 > - You're doing a fantastic job and we're really proud of you. `[例]`
 
 

@@ -125,10 +125,15 @@ in-(进入/在……上) + [[it]](走/行走) + -ial(形容词后缀，与……
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The initial results of the experiment were disappointing." `[真题]`
-> - "Her initial reaction was to say no, but she eventually agreed to help." `[COCA-ACAD]`
-> - "The project is only in the initial phase as yet, but it's looking quite promising." `[COCA-ACAD]`
-> - "Throughout this work, it is supposed that in the initial state the two surfaces are not in contact." `[COCA-ACAD]`
+> - My initial surprise was soon replaced by delight. `[例]`
+>   - 中译：我最初的惊讶很快就被喜悦所取代。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/initial
+> - Initial reports say that seven people have died , though this has not yet been confirmed. `[例]`
+>   - 中译：初步报告称已有七人死亡，但这一消息尚未得到证实。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/initial
+> - The initial earthquake was followed by a series of aftershocks. `[例]`
+>   - 中译：最初的地震之后发生了一系列余震。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/initial
 ---
 
 

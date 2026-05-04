@@ -122,10 +122,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The novel explores the beast within human nature." `[COCA-FIC]`
-> - "They are a beastly people with a beastly religion." `[COCA-ACAD]`
-> - "The H6 is a beast of a job to repair." `[COCA-SPOKEN]`
-> - "The worry we always have is that there will be a really infectious and beastly bug that comes along." `[COCA-NEWS]`
+> - The beast in her wanted to destroy his house. `[例]`
+>   - 中译：她体内的野兽想要毁掉他的房子。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/beast
+> - The maths exam was a real beast. `[例]`
+>   - 中译：数学考试真是一场野兽。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/beast
+> - His new guitar is a very expensive beast. `[例]`
+>   - 中译：他的新吉他非常昂贵。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/beast
 
 
 ---

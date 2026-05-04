@@ -127,10 +127,15 @@ dom-(=domus，房屋、家) + -estic(形容词后缀，表示"与……有关的
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The prime minister's globetrotting has led to accusations that he is ignoring domestic problems." `[COCA-ACAD]`
-> - "The domestic market is still depressed, but demand abroad is picking up." `[COCA-ACAD]`
-> - "The reduction of crime levels is the centerpiece of the president's domestic policies." `[COCA-ACAD]`
-> - "The company hopes to attract both foreign and domestic investors." `[COCA-ACAD]`
+> - Domestic opinion had turned against the war. `[例]`
+>   - 中译：国内舆论已经转向反对战争。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/domestic
+> - The prime minister's globetrotting has led to accusations that he is ignoring domestic problems. `[例]`
+>   - 中译：首相的环球旅行导致人们指责他忽视国内问题。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/domestic
+> - The domestic market is still depressed , but demand abroad is picking up. `[例]`
+>   - 中译：国内市场依然低迷，但国外需求正在回升。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/domestic
 
 
 ---

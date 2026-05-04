@@ -126,8 +126,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The government has promised to uphold the principles of democracy. `[例]`
+>   - 中译：政府承诺维护民主原则。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/democracy
+> - Few of the Western democracies still have a royal family. `[例]`
+>   - 中译：西方民主国家中很少有仍然拥有王室的。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/democracy
 > - This is not how the media should behave in a democracy. `[例]`
-> - The school functions as a democracy, with students and staff members given equal votes on most decisions . `[例]`
+>   - 中译：这不是民主国家媒体应该有的行为方式。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/democracy
 
 ---
 

@@ -121,8 +121,8 @@ not(不) + with(与) + stand(站立，[[st-sta-stat]]) + -ing(现在分词)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Notwithstanding some members ' objections , I think we must go ahead with the plan . `[例]`
-> - Injuries notwithstanding, the team won the semifinal . `[例]`
+> - Notwithstanding some members ' objections , I think we must go ahead with the plan. `[例]`
+> - Injuries notwithstanding, the team won the semifinal. `[例]`
 > - Injuries notwithstanding, this season has been a disappointment to me. `[例]`
 
 

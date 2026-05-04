@@ -129,9 +129,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - It appears that the situation is improving gradually. `[例]`
-> - New evidence has appeared that challenges the existing theory. `[例]`
-> - She appears to have forgotten about the meeting. `[例]`
+> - He suddenly appeared in the doorway. `[例]`
+>   - 中译：他突然出现在门口。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/appear
+> - We'd been in the house a month when dark stains started appearing on the wall. `[例]`
+>   - 中译：我们在房子里呆了一个月，墙上开始出现深色污渍。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/appear
+> - His name appears in the film credits for lighting. `[例]`
+>   - 中译：他的名字出现在电影的灯光制作人员名单中。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/appear
 
 ---
 

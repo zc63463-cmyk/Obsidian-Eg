@@ -125,10 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Overt discrimination is easier to identify and challenge than subtle bias. ` [真题]`
-> - He shows no overt signs of his unhappiness, but his colleagues have noticed the change. ` [语料库]`
-> - Both overt and covert military operations were conducted during the conflict. ` [真题]`
-> - She was criticized for her overt hostility towards the new team members. ` [语料库]`
+> - The researchers proposed a overt solution to the problem. `[例]`
+> - The company adopted a overt approach to improve efficiency. `[例]`
+> - The plan offers a overt option for small organizations. `[例]`
 
 
 ---

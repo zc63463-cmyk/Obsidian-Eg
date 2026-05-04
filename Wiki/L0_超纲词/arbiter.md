@@ -3,10 +3,8 @@ title: "arbiter"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 社会习俗
 prototype: 仲裁者（有权做出最终决定的人）
@@ -43,7 +41,7 @@ arbitr(见证，观察，拉丁语 *arbiter*) + -er(人)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**仲裁者（到场观察并做出裁决的人）**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **仲裁者**（法律/争端层面）
@@ -64,7 +62,7 @@ arbitr(见证，观察，拉丁语 *arbiter*) + -er(人)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ arbitr(见证，观察，拉丁语 *arbiter*) + -er(人)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > arbiter 来自拉丁语，原义是"旁观者、见证人"。在罗马法庭上，arbiter 是被请来做最终裁决的人。后来引申为任何领域有最终决定权的人——arbiter of taste（品味的裁决者=品味权威）。arbitrary（任意的）也来自同一个词根——仲裁者想怎么判就怎么判→任意的。
@@ -86,7 +84,7 @@ arbitr(见证，观察，拉丁语 *arbiter*) + -er(人)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ arbitr(见证，观察，拉丁语 *arbiter*) + -er(人)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[litigant]]：诉讼当事人（arbiter 的反义：裁决者↔被裁决者）
 > - [[contestant]]：参赛者（arbiter 在竞赛语境中的反义：裁判↔参赛者）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,7 +116,7 @@ arbitr(见证，观察，拉丁语 *arbiter*) + -er(人)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **arbiter of disputes**：争端仲裁者
 > - **arbiter of taste/fashion**：品味/时尚的权威
 > - **final arbiter**：最终裁决者
@@ -126,19 +124,12 @@ arbitr(见证，观察，拉丁语 *arbiter*) + -er(人)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - The Supreme Court is the final arbiter of constitutional questions.`[例]`
-> - Paris has long been considered the arbiter of fashion.`[例]`
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
+> [!example]- 语料
+> - The Supreme Court is the final arbiter of constitutional questions. `[例]`
+> - Paris has long been considered the arbiter of fashion. `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

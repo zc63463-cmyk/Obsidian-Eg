@@ -128,10 +128,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "If you make aggression pay, this becomes the law of the jungle." `[真题]`
-> - "The concrete jungles could be in many ways improved if an attempt was made to plant some trees in the middle of these urban constituencies." `[剑桥词典]`
-> - "A helicopter landed in a clearing in the jungle." `[柯林斯词典]`
-> - "It is a soulless concrete jungle of a place." `[柯林斯词典]`
+> - If you make aggression pay, this becomes the law of the jungle. `[真题]`
+> - The concrete jungles could be in many ways improved if an attempt was made to plant some trees in the middle of these urban constituencies. `[例]`
+> - A helicopter landed in a clearing in the jungle. `[例]`
+> - It is a soulless concrete jungle of a place. `[例]`
 
 
 ---

@@ -127,9 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Cuckoos are famous for laying their eggs in the nests of other birds . `[例]`
-> - The alligators build their nests out of grass near the water's edge . `[例]`
-> - The diplomats have been sent home because their embassy has become a nest of spies . `[例]`
+> - Cuckoos are famous for laying their eggs in the nests of other birds. `[例]`
+> - The alligators build their nests out of grass near the water's edge. `[例]`
+> - The diplomats have been sent home because their embassy has become a nest of spies. `[例]`
 
 
 ---

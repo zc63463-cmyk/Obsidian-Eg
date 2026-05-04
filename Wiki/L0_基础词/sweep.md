@@ -124,9 +124,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - A fire swept through the store on Tuesday night. `[新闻]`
-> - The hurricane swept across Japan, leaving a trail of destruction. `[新闻]`
-> - The National Party swept into power with a majority of almost 200. `[学术]`
+> - When I arrived he was sweeping the leaves from the driveway. `[例]`
+> - A 1970s fashion revival is sweeping Europe. `[例]`
+> - American minesweepers are sweeping the Arabian Sea. `[例]`
 
 
 ---

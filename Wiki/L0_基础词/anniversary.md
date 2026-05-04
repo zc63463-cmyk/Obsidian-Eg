@@ -118,9 +118,15 @@ ann-(=annus, 年，拉丁语) + [[ver-vert|vers]](转，拉丁语 *vertere*) + -
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Last year marked the 150th anniversary of a series · of Yellowstone photographs by the r1enowned landscape photographer William • Henry Jackson. `[真题]`
-> - We always celebrate our wedding anniversary with dinner in an expensive restaurant . `[例]`
-> - Tomorrow is the 30th anniversary of the revolution . `[例]`
+> - The company is celebrating its 100-year anniversary this year. `[例]`
+>   - 中译：该公司今年庆祝成立 100 周年。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/anniversary
+> - Public events will be held to commemorate the anniversary of the end of the Second World War. `[例]`
+>   - 中译：将举行公共活动来纪念第二次世界大战结束周年纪念日。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/anniversary
+> - They held celebrations to mark the anniversary of Mozart's death. `[例]`
+>   - 中译：他们举行庆祝活动纪念莫扎特逝世一周年。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/anniversary
 
 
 ---

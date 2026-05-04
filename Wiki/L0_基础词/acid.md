@@ -134,9 +134,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Vinegar is an acid. `[例]`
-> - When she spoke her tone was acid. `[例]`
-> - Basic rocks with no quartz tend to be dark-coloured, while acid rocks are much lighter . `[例]`
+> - The acid burned a hole in her coat. `[例]`
+>   - 中译：酸液在她的外套上烧出了一个洞。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/acid
+> - Stomach acids can break down the poison. `[例]`
+>   - 中译：胃酸可以分解毒物。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/acid
+> - You will need a special chemical to neutralize the acid. `[例]`
+>   - 中译：您将需要一种特殊的化学品来中和酸。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/acid
 
 
 ---

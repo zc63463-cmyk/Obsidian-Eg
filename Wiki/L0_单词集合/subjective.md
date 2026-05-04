@@ -122,9 +122,15 @@ sub-(在……之下) + [[ject]](投掷) + -ive(形容词后缀，表倾向/特�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - I think my husband is the most handsome man in the world , but I realize my judgment is rather subjective. `[例]`
-> - More specific and less subjective criteria should be used in selecting people for promotion within the company . `[例]`
-> - Whether something is objectionable is a subjective question . `[例]`
+> - Everyone's opinion is bound to be subjective. `[例]`
+>   - 中译：每个人的意见必然是主观的。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/subjective
+> - Art is never a commodity. Commodities are identical units of sure value—bushels of wheat, say—whose price fluctuates from time to time and place to place. Art works are one-of-a-kind … items, materially worthless, which have in common that a price is asked for them. Their value is entirely subjective. `[例]`
+>   - 中译：艺术从来都不是商品。商品是具有确定价值的相同单位（例如，一蒲式耳小麦），其价格会随着时间和地点的不同而波动。艺术品是独一无二的……物品，在物质上毫无价值，但它们的共同点是需要定价。它们的价值完全是主观的。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/subjective
+> - Our perception of loudness is subjective , but sound has an intensity, independent of our hearing, that is measured in decibels (dB). `[例]`
+>   - 中译：我们对响度的感知是主观的，但声音的强度与我们的听力无关，以分贝 (dB) 为单位。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/subjective
 
 ---
 

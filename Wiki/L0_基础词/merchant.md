@@ -127,10 +127,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "They have a long tradition of working in the British Merchant Navy and sending monies back home." `[真题]`
-> - "If you're a merchant interested in Google Wallet for your store or you want to sell items online, you'll need to sign up for a seller account." `[真题]`
-> - "The merchant exported silk and spices to Europe in the Middle Ages." `[真题]`
-> - "Online merchants are competing fiercely for customers in the global marketplace." `[真题]`
+> - They have a long tradition of working in the British Merchant Navy and sending monies back home. `[真题]`
+> - If you're a merchant interested in Google Wallet for your store or you want to sell items online, you'll need to sign up for a seller account. `[真题]`
+> - The merchant exported silk and spices to Europe in the Middle Ages. `[真题]`
+> - Online merchants are competing fiercely for customers in the global marketplace. `[真题]`
 
 
 ---

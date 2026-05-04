@@ -3,10 +3,8 @@ title: "halve"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 抽象关系
 prototype: 把东西分成两半
@@ -42,7 +40,7 @@ half(一半) + -e(动词后缀，使动化)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**把东西分成两半**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **把东西分成两半**（物理层面）
@@ -63,7 +61,7 @@ half(一半) + -e(动词后缀，使动化)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ half(一半) + -e(动词后缀，使动化)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > half（一半）的动词形式就是 halve。你把一个蛋糕 half，就是 halve it。你把预算从100万减到50万，就是 halve the budget。记住：half 是名词"一半"，halve 是动词"使之成为一半"。
@@ -86,7 +84,7 @@ half(一半) + -e(动词后缀，使动化)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ half(一半) + -e(动词后缀，使动化)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[double]]：加倍（减半↔加倍）
 > - [[multiply]]：乘以（减半↔乘以）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,7 +115,7 @@ half(一半) + -e(动词后缀，使动化)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **halve the budget/cost**：将预算/成本减半
 > - **halve the risk**：将风险减半
 > - **halve the time**：将时间缩短一半
@@ -125,19 +123,12 @@ half(一半) + -e(动词后缀，使动化)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - In the past eight years , the elephant population in Africa has been halved. `[例]`
-> - The potatoes will cook more quickly if you halve them before you put them in the oven . `[例]`
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
+> - The potatoes will cook more quickly if you halve them before you put them in the oven. `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

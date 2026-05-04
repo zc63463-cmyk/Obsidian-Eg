@@ -126,7 +126,7 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - In the distance , we could see a herd of elephants lumbering across the plain . `[例]`
+> - In the distance , we could see a herd of elephants lumbering across the plain. `[例]`
 > - A noisy , old , pickup truck lumbered past. `[例]`
 > - A lumber room (= for storing lumber in). `[例]`
 

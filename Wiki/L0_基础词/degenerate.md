@@ -133,8 +133,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - What was intended as a peaceful demonstration rapidly degenerated into violence . `[例]`
-> - Educational standards are degenerating year by year because of a lack of funds . `[例]`
+> - What was intended as a peaceful demonstration rapidly degenerated into violence. `[例]`
+> - Educational standards are degenerating year by year because of a lack of funds. `[例]`
 > - A degenerate circle is one with radius zero. `[例]`
 
 

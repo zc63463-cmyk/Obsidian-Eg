@@ -121,9 +121,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The department was swamped with job applications after posting the vacancy online. `[新闻]`
-> - The sea level rose and swamped the coastal villages. `[学术]`
-> - In summer visitors swamp the island, causing overcrowding. `[通用]`
+> - The department was swamped with job applications after posting the vacancy online. `[例]`
+> - The sea level rose and swamped the coastal villages. `[例]`
+> - In summer visitors swamp the island, causing overcrowding. `[例]`
 
 
 ---

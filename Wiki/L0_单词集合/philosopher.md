@@ -124,9 +124,15 @@ phil(爱) + soph(智慧) + -er(做…的人)
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - Have philosophers not offered us profound advice on practical questions such as how to live and what to value? `[真题]`
-> > - There came a time when philosophers of science decided that they really had to know a lot of current science from the inside. `[COCA-ACAD]`
-> > - To paraphrase one of the great philosophers: we think, therefore we are. `[COCA-NEWS]`
+> - Plato was a Greek philosopher. `[例]`
+>   - 中译：柏拉图是希腊哲学家。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/philosopher
+> - Existentialism was really an umbrella term to lump together the works of several philosophers and writers. `[例]`
+>   - 中译：存在主义实际上是一个涵盖性术语，将几位哲学家和作家的作品集中在一起。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/philosopher
+> - We studied the writings of the Greek philosopher Aristotle. `[例]`
+>   - 中译：我们研究了希腊哲学家亚里士多德的著作。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/philosopher
 
 ---
 

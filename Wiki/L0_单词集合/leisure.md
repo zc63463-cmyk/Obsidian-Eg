@@ -133,10 +133,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Most people now enjoy shorter working hours and more leisure time." `[COCA-ACAD]`
-> - "What we do in our leisure hours determines what we are." `[COCA-ACAD]`
-> - "Hugely wealthy, he enjoyed a life of leisure." `[COCA-ACAD]`
-> - "The leisure industry is booming." `[COCA-NEWS]`
+> - The balance between work and leisure is changing. `[例]`
+>   - 中译：工作与休闲之间的平衡正在发生变化。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/leisure
+> - Popular leisure activities included reading , going to movies , and talking with friends. `[例]`
+>   - 中译：流行的休闲活动包括阅读、看电影和与朋友聊天。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/leisure
+> - Most people only have a limited amount of leisure time. `[例]`
+>   - 中译：大多数人只有有限的闲暇时间。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/leisure
 
 ---
 

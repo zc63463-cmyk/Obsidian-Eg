@@ -133,9 +133,15 @@ in-（= into/toward，向/朝向）+ [[dic]](说/指出) + -ate（动词后缀�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Research indicates that sleep deprivation can impair cognitive function. `[COCA-ACAD]`
-> - The survey results indicate a growing dissatisfaction with the current system. `[COCA-ACAD]`
-> - Both of these subscales are scored so that high scores indicate greater psychological well-being and vitality. `[COCA-ACAD]`
+> - Exploratory investigations have indicated large amounts of oil below the sea bed. `[例]`
+>   - 中译：勘探调查表明海床以下存在大量石油。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/indicate
+> - Please indicate which free gift you would like to receive. `[例]`
+>   - 中译：请注明您想收到哪件免费礼物。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/indicate
+> - She indicated to me (that) she didn't want me to say anything. `[例]`
+>   - 中译：她向我表示她不想让我说什么。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/indicate
 
 ---
 

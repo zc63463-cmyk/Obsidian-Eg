@@ -3,10 +3,8 @@ title: "knuckle"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 人体动作
 prototype: 手指关节（弯曲手指时突出的骨头）
@@ -44,7 +42,7 @@ knuckle（源自中古英语 *knokel*，与 knuckle/knock 同源，与"敲击"�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**手指关节**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **手指关节**（身体部位层面）
@@ -67,7 +65,7 @@ knuckle（源自中古英语 *knokel*，与 knuckle/knock 同源，与"敲击"�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ knuckle（源自中古英语 *knokel*，与 knuckle/knock 同源，与"敲击"�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > knuckle 是手指的关节。knuckle down 原意是弯下指关节（像握拳一样），引申为"埋头苦干"。想象一个拳击手弯下指关节准备出拳——那种专注和力量感就是 knuckle down 的感觉。
@@ -90,7 +88,7 @@ knuckle（源自中古英语 *knokel*，与 knuckle/knock 同源，与"敲击"�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,12 +99,12 @@ knuckle（源自中古英语 *knokel*，与 knuckle/knock 同源，与"敲击"�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - knuckle 作为身体部位无直接反义词
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,7 +115,7 @@ knuckle（源自中古英语 *knokel*，与 knuckle/knock 同源，与"敲击"�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **knuckle down (to)**：埋头苦干，开始努力
 > - **rap someone's knuckles**：斥责，警告
 > - **white knuckles**：因紧张而指关节发白
@@ -125,19 +123,12 @@ knuckle（源自中古英语 *knokel*，与 knuckle/knock 同源，与"敲击"�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - If you want to pass the exam, you will have to knuckle down and study. `[例]`
 > - The teacher rapped his knuckles for talking in class. `[例]`
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
-
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

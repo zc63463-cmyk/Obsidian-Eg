@@ -127,10 +127,15 @@ li(源自lig，捆绑) + -able(可被…的)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "If we lose the case, we may be liable for the costs of the whole trial." `[COCA-ACAD]`
-> - "The law holds parents liable if a child does not attend school." `[COCA-ACAD]`
-> - "We're all liable to make mistakes when we're tired." `[COCA-ACAD]`
-> - "Offenders are liable to fines of up to $500." `[COCA-ACAD]`
+> - The law holds parents liable if a child does not attend school. `[例]`
+>   - 中译：如果孩子不上学，法律规定家长承担责任。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/liable
+> - If we lose the case we may be liable for (= have to pay ) the costs of the whole trial. `[例]`
+>   - 中译：如果我们败诉，我们可能需要承担（=必须支付）整个审判的费用。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/liable
+> - The areas of town near the river are liable to flooding (= are often flooded ). `[例]`
+>   - 中译：靠近河流的城镇地区容易发生洪水（=经常被洪水淹没）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/liable
 
 ---
 

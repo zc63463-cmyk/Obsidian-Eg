@@ -119,9 +119,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She was taken hostage by the gunmen . `[例]`
-> - He was freed after being held hostage for twelve hours . `[例]`
-> - The terrorists have seized 20 hostages and are threatening to kill one a day unless their demands are met . `[例]`
+> - She was taken hostage by the gunmen. `[例]`
+> - He was freed after being held hostage for twelve hours. `[例]`
+> - The terrorists have seized 20 hostages and are threatening to kill one a day unless their demands are met. `[例]`
 
 
 ---

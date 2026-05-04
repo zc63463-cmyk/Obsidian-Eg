@@ -128,9 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Many important historical documents were destroyed when the library was bombed . `[例]`
-> - She specializes in historical novels set in 18th-century England . `[例]`
-> - The table compares historical exchange rates for five different currencies . `[例]`
+> - Many important historical documents were destroyed when the library was bombed. `[例]`
+> - She specializes in historical novels set in 18th-century England. `[例]`
+> - The table compares historical exchange rates for five different currencies. `[例]`
 
 
 ---

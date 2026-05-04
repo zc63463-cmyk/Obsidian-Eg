@@ -131,10 +131,15 @@ in-（向内，深入）+ vestig（=vestigium，足迹，痕迹，来自拉丁�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Scotland Yard have been called in to investigate the murder." `[COCA-ACAD]`
-> - "Detectives are currently investigating possible links between the murders." `[COCA-ACAD]`
-> - "The study investigates the relationship between diet and health in older adults." `[COCA-ACAD]`
-> - "The government is currently investigating what caused the piece to blow off from the plane." `[COCA-NEWS]`
+> - Police are investigating allegations of corruption involving senior executives. `[例]`
+>   - 中译：警方正在调查涉及高级管理人员的腐败指控。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/investigate
+> - We are of course investigating how an error like this could have occurred. `[例]`
+>   - 中译：我们当然正在调查这样的错误是如何发生的。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/investigate
+> - Investigating further , we discovered that Carol was the person who took the call. `[例]`
+>   - 中译：经过进一步调查，我们发现卡罗尔就是接电话的人。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/investigate
 
 ---
 

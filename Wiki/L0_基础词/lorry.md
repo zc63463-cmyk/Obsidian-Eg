@@ -116,9 +116,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The stock is delivered by lorry from the huge warehouses . `[例]`
-> - The lorry chugged up the hill . `[例]`
-> - The accident was clearly the lorry driver's fault . `[例]`
+> - The stock is delivered by lorry from the huge warehouses. `[例]`
+> - The lorry chugged up the hill. `[例]`
+> - The accident was clearly the lorry driver's fault. `[例]`
 
 
 ---

@@ -125,9 +125,9 @@ do-(=don-, 给予，PIE词根 *deh-/*do-) + -n- + -ate(动词后缀，使动)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Many people are willing to donate their organs after death." `[真题]`
-> - "The company donated a large sum of money to the local charity." `[真题]`
-> - "If you are able to donate blood, you should do it." `[真题]`
+> - Many people are willing to donate their organs after death. `[真题]`
+> - The company donated a large sum of money to the local charity. `[真题]`
+> - If you are able to donate blood, you should do it. `[真题]`
 
 
 ---

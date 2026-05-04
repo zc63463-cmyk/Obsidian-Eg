@@ -136,9 +136,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The judge will pass sentence tomorrow after looking at the report. ` `[真题]`
-> - The Supreme Court is expected to uphold the death sentence. ` `[真题]`
-> - The offences carry a maximum sentence of 10 years. ` `[真题]`
+> - He's very impatient and always interrupts me mid-sentence. `[例]`
+> - Your conclusion is good, but the final sentence is too long and complicated. `[例]`
+> - Bob ' is the subject of the sentence ' Bob threw the ball '. `[例]`
 
 
 ---

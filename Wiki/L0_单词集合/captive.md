@@ -132,8 +132,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The captive soldiers were released after the peace agreement."（被俘的士兵在和平协议签订后获释。）——新闻/历史类阅读语境
-> - "Airlines have a captive audience during flights."（航空公司在飞行期间拥有一个受控制的受众。）——商业/媒体类阅读语境
+> - When the town was recaptured , we found soldiers who had been captives for several years. `[例]`
+>   - 中译：当城镇被收复时，我们发现了被俘虏了好几年的士兵。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/captive
+> - The terrorists were holding several diplomats captive. `[例]`
+>   - 中译：恐怖分子扣押了几名外交官。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/captive
+> - Wildlife officials say double fences would help prevent the spread of disease between wild and captive animals. `[例]`
+>   - 中译：野生动物官员表示，双层围栏将有助于防止疾病在野生动物和圈养动物之间传播。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/captive
 
 ---
 

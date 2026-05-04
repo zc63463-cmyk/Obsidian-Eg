@@ -132,10 +132,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The spring evening was warm, and the scent of flowers filled the air." `[语料库]`
-> - "The delicious scent of freshly baked bread was wafting from the kitchen." `[语料库]`
-> - "The home side increased the pressure on them as they scent weakness." `[语料库]`
-> - "The dogs were on the scent of the missing child and tracked him through the forest." `[真题]`
+> - The spring evening was warm, and the scent of flowers filled the air. `[例]`
+> - The delicious scent of freshly baked bread was wafting from the kitchen. `[例]`
+> - The home side increased the pressure on them as they scent weakness. `[例]`
+> - The dogs were on the scent of the missing child and tracked him through the forest. `[真题]`
 
 
 ---

@@ -129,7 +129,7 @@ review_count: 0
 
 > [!example]- 语料
 > - The satellite is now in a stable orbit. `[例]`
-> - Once in space , the spacecraft will go into orbit around Earth . `[例]`
+> - Once in space , the spacecraft will go into orbit around Earth. `[例]`
 > - A dental infection involving the upper teeth can easily spread itself into the orbit. `[例]`
 
 

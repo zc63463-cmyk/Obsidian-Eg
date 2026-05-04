@@ -138,8 +138,8 @@ review_count: 0
 
 > [!example]- 语料
 > - Those toilets smell foul! `[例]`
-> - Why are you in such a foul mood this morning ? `[例]`
-> - I've had a foul day at work . `[例]`
+> - Why are you in such a foul mood this morning? `[例]`
+> - I've had a foul day at work. `[例]`
 
 
 ---

@@ -129,9 +129,15 @@ con-(=together，一起) + figur(=shape/form，形状) + -ation(名词后缀，�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The configuration of the computer system has been optimized for faster data processing. `[COCA-ACAD]`
-> - The political configuration of Europe changed dramatically after World War II. `[COCA-ACAD]`
-> - The software requires a specific system configuration to run properly. `[例]`
+> - We tried the furniture in different configurations to see which fit best. `[例]`
+>   - 中译：我们尝试了不同配置的家具，看看哪种最合适。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/configuration
+> - The two-lane configuration of the road leads to congestion. `[例]`
+>   - 中译：道路的双车道配置导致拥堵。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/configuration
+> - When you press the spacebar, a message appears informing you that "Set-up is inspecting your hardware configuration". `[例]`
+>   - 中译：当您按空格键时，会出现一条消息，通知您“安装程序正在检查您的硬件配置”。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/configuration
 
 ---
 

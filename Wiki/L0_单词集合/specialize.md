@@ -124,9 +124,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She hired a lawyer who specializes in divorce cases . `[例]`
-> - I enjoy working in general medicine , but I hope to be able to specialize in the future . `[例]`
-> - A restaurant that specializes in seafood. `[例]`
+> - Many students prefer not to specialize too soon. `[例]`
+>   - 中译：许多学生更愿意不要过早专门化。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/specialize
+> - He specialized in criminal law. `[例]`
+>   - 中译：他专攻刑法。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/specialize
+> - The shop specializes in hand-made chocolates. `[例]`
+>   - 中译：这家商店专营手工巧克力。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/specialize
 
 ---
 

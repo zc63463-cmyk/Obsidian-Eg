@@ -124,9 +124,9 @@ pillar(柱子，源自拉丁语 *pila* "柱子，堆")
 ## 真题/语料关联
 
 > [!example]- 语料
-> - A row of reinforced concrete pillars supports the bridge . `[例]`
-> - Mrs Maple is a pillar of the local church . `[例]`
-> - He’s a pillar of the Dallas business community . `[例]`
+> - A row of reinforced concrete pillars supports the bridge. `[例]`
+> - Mrs Maple is a pillar of the local church. `[例]`
+> - He’s a pillar of the Dallas business community. `[例]`
 
 
 ---

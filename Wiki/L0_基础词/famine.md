@@ -131,7 +131,7 @@ famine 源自古法语 famine（饥饿、饥荒），来自通俗拉丁语 *\*fa
 > [!example]- 语料
 > - Another crop failure could result in widespread famine. `[例]`
 > - There were reports of refugees dying of famine. `[例]`
-> - Thousands of people emigrated during the Irish potato famine of 1845–46. `[例]`
+> - Widespread famine was reported in the region. `[例]`
 
 
 ---

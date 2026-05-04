@@ -132,7 +132,7 @@ review_count: 0
 > [!example]- 语料
 > - The pump is powered by a small electric motor. `[例]`
 > - Our washing machine needs a new motor. `[例]`
-> - A car stood by the curb , its motor (= engine ) running . `[例]`
+> - A car stood by the curb , its motor (= engine ) running. `[例]`
 
 
 ---

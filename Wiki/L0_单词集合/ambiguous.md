@@ -125,9 +125,15 @@ ambi-(两个、两边) + ig/ag(驱动、走) + -uous(形容词后缀) → 被两
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The author's ambiguous attitude makes readers confused about his real intention."（作者模棱两可的态度使读者对其真实意图感到困惑。）——考研高频表达
-> - "The law contains several ambiguous provisions that could lead to different interpretations."（该法律包含几项模棱两可的条款，可能导致不同的解释。）——考研高频表达
-> - "His ambiguous response to the question suggested that he was hiding something."（他对问题的含糊回答暗示他在隐瞒什么。）——考研高频表达
+> - His reply to my question was somewhat ambiguous. `[例]`
+>   - 中译：他对我的问题的回答有些模棱两可。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/ambiguous
+> - The wording of the agreement is ambiguous. `[例]`
+>   - 中译：协议的措辞含糊不清。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/ambiguous
+> - The government has been ambiguous on this issue. `[例]`
+>   - 中译：政府在这个问题上一直模棱两可。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/ambiguous
 
 ---
 

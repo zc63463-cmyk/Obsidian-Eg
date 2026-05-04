@@ -131,7 +131,7 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The cheese has a strong odor . `[例]`
+> - The cheese has a strong odor. `[例]`
 > - This deodorant prevents bad odor from occurring. `[例]`
 > - That flight had twice aborted takeoff and declared an emergency due to an odor onboard that was sickening flight attendants. `[例]`
 

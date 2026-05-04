@@ -125,10 +125,10 @@ re-(再次) + [[prec-pre|pre]]-(在前面) + [[sens-sent|sent]](存在) + -ative
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The firm has representatives in every major city." `[COCA-NEWS]`
-> - "A good political poll is based on a representative sampling of voters." `[COCA-ACAD]`
-> - "Is this poem representative of his work?" `[BNC-SPOKEN]`
-> - "Representative democracy allows citizens to elect officials to make decisions on their behalf." `[COCA-ACAD]`
+> - The firm has representatives in every major city. `[COCA-NEWS]`
+> - A good political poll is based on a representative sampling of voters. `[COCA-ACAD]`
+> - Is this poem representative of his work? `[BNC-SPOKEN]`
+> - Representative democracy allows citizens to elect officials to make decisions on their behalf. `[COCA-ACAD]`
 
 
 ---

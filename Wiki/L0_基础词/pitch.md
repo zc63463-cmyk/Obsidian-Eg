@@ -137,7 +137,7 @@ review_count: 0
 
 > [!example]- 语料
 > - Supporters invaded (= ran onto) the pitch. `[例]`
-> - If you teach children and adults in the same class , it's difficult to get the pitch (= level of difficulty or interest ) right . `[例]`
+> - If you teach children and adults in the same class , it's difficult to get the pitch (= level of difficulty or interest ) right. `[例]`
 > - That June , the pitch of the local anti-pipeline campaign was turned up. `[例]`
 
 

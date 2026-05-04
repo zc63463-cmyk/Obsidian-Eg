@@ -125,9 +125,9 @@ ham 源自古英语 *hamm*，原指"膝盖后弯、腿的弯曲部分"，与古�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - They had some dreadful old ham in the main part . `[例]`
-> - His critics wrote him off as a ham actor . `[例]`
-> - A radio ham picked up their signal and called the coastguard . `[例]`
+> - They had some dreadful old ham in the main part. `[例]`
+> - His critics wrote him off as a ham actor. `[例]`
+> - A radio ham picked up their signal and called the coastguard. `[例]`
 
 
 ---

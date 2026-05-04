@@ -125,10 +125,15 @@ at-（=ad-，向、朝向）+ [[tend-tens|tend]]（伸展，拉丁语 *tendere*�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Technology brings attendant risks that must be carefully managed. `[COCA-ACAD]`
-> - Kim, 31, is a flight attendant for Delta Air Lines. `[COCA-NEWS]`
-> - He was working as a car-park attendant when the incident occurred. `[BNC-SPOKEN]`
-> - The new policy has a number of attendant problems that need to be addressed. `[例]`
+> - Pool attendants kept a constant watch on the swimmers. `[例]`
+>   - 中译：泳池服务员时刻注视着游泳者。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/attendant
+> - She let the parking attendant park her car. `[例]`
+>   - 中译：她让停车服务员把车停好。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/attendant
+> - The town is trying to deal with the population boom and the attendant increase in traffic. `[例]`
+>   - 中译：该镇正在努力应对人口激增和随之而来的交通量增加的问题。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/attendant
 
 
 ---

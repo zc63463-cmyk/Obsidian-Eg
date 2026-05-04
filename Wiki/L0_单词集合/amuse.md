@@ -134,8 +134,15 @@ a-(使) + 建议创建词根笔记 [[mus/muse]](沉思，娱乐) = 使人沉思/
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The children were amused by the clown's funny tricks and colorful costumes."（孩子们被小丑滑稽的把戏和色彩鲜艳的服装逗乐了。）——考研高频表达
-> - "She amused herself by reading novels during the long train journey."（她在漫长的火车旅途中以读小说来消遣。）——考研高频表达
+> - I've brought an article from yesterday's paper that I thought might amuse you. `[例]`
+>   - 中译：我带来了昨天报纸上的一篇文章，我认为您可能会觉得有趣。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/amuse
+> - I think it amuses him to see people make fools of themselves. `[例]`
+>   - 中译：我认为看到人们愚弄自己会让他感到很有趣。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/amuse
+> - Apparently these stories are meant to amuse. `[例]`
+>   - 中译：显然这些故事是为了娱乐。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/amuse
 ---
 
 

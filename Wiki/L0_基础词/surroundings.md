@@ -122,9 +122,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - We spent the afternoon relaxing in the beautiful surroundings of my parents' home. `[文学]`
-> - Animals living in their natural surroundings exhibit more diverse behaviors. `[学术]`
-> - He was happy to be at home again in his usual surroundings. `[通用]`
+> - We spent the afternoon relaxing in the beautiful surroundings of my parents' home. `[例]`
+> - Animals living in their natural surroundings exhibit more diverse behaviors. `[例]`
+> - He was happy to be at home again in his usual surroundings. `[例]`
 
 
 ---

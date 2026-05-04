@@ -3,10 +3,8 @@ title: "playwright"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-25
-mastery: L0
 word_freq: 超纲词
 semantic_field: 社会专业
 prototype: 写剧本的人
@@ -43,7 +41,7 @@ play（戏剧）+ wright（工匠/制造者）
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**写剧本的人**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **戏剧创作者**（社会层面）
@@ -62,7 +60,7 @@ play（戏剧）+ wright（工匠/制造者）
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -72,7 +70,7 @@ play（戏剧）+ wright（工匠/制造者）
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > play（戏剧）+ wright（工匠）→ playwright。wright 是"工匠"——造船的是 shipwright，造车轮的是 wheelwright，造戏剧的就是 playwright。莎士比亚、契诃夫、贝克特都是伟大的 playwright。playwright 不是 playwrite（不是"写"），而是"工匠"——强调的是手艺和技艺。
@@ -84,7 +82,7 @@ play（戏剧）+ wright（工匠/制造者）
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -96,12 +94,12 @@ play（戏剧）+ wright（工匠/制造者）
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - （无明显反义词，playwright 是特定职业称谓）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -113,7 +111,7 @@ play（戏剧）+ wright（工匠/制造者）
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **contemporary playwright**：当代剧作家
 > - **renowned/famous playwright**：著名的剧作家
 > - **playwright's work**：剧作家的作品
@@ -121,19 +119,12 @@ play（戏剧）+ wright（工匠/制造者）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - Which playwright wrote ‘Doctor Faustus’? `[例]`
 > - Macy is a close collaborator of Pulitzer Prize-winning playwright David Mamet. `[例]`
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-25 | **复习次数**：0 | **当前等级**：L0
-
----
-
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

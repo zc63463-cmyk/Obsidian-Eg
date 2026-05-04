@@ -125,8 +125,8 @@ review_count: 0
 
 > [!example]- 语料
 > - He's such a mug, he believes everything she tells him. `[例]`
-> - He was mugged in broad daylight . `[例]`
-> - Who knocked over that mug of coffee ? `[例]`
+> - He was mugged in broad daylight. `[例]`
+> - Who knocked over that mug of coffee? `[例]`
 
 
 ---

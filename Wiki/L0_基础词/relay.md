@@ -135,7 +135,7 @@ re-(=again，再) + lay(放置，古英语 *lecgan*)
 > [!example]- 语料
 > - TV pictures of the war were relayed around the world by satellite. `[真题]`
 > - I was told the news first and then I relayed it to the others. `[真题]`
-> - Our relay team is training for next weekend's race. `[权威语料]`
+> - Our relay team is training for next weekend's race. `[例]`
 
 
 ---

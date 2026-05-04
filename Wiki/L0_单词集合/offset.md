@@ -139,9 +139,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The extra cost of travelling to work is offset by the lower price of houses here. `[例]`
-> - He keeps his petrol receipts because petrol is one of the expenses that he can offset against tax (= can show to the government as being a business cost , and so not pay tax ) . `[例]`
-> - We offset all our long-haul flights . `[例]`
-> - The extra cost of commuting to work from the suburbs is offset by cheaper rents . `[例]`
+>   - 中译：上班的额外费用被这里较低的房价所抵消。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/offset
+> - He keeps his petrol receipts because petrol is one of the expenses that he can offset against tax (= can show to the government as being a business cost , and so not pay tax ). `[例]`
+>   - 中译：他保留了汽油收据，因为汽油是他可以抵消税款的支出之一（=可以向政府证明是商业成本，因此不需要纳税）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/offset
+> - We offset all our long-haul flights. `[例]`
+>   - 中译：我们抵消了所有长途航班。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/offset
 
 ---
 

@@ -127,9 +127,9 @@ pill(药丸，源自拉丁语 *pilula* "小球")
 ## 真题/语料关联
 
 > [!example]- 语料
-> - I couldn't go to sleep so I took a sleeping pill. `[语料库]`
-> - She had been on the pill for three years. `[语料库]`
-> - Take one pill three times a day, unless you are told otherwise by a doctor. `[词典]`
+> - I couldn't go to sleep so I took a sleeping pill. `[例]`
+> - She had been on the pill for three years. `[例]`
+> - Take one pill three times a day, unless you are told otherwise by a doctor. `[例]`
 
 
 ---

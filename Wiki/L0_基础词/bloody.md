@@ -126,9 +126,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - I've had a bloody awful week . `[例]`
-> - It's a bloody disgrace that some war widows don't get a decent pension . `[例]`
-> - Don't be a bloody idiot ! `[例]`
+> - He hit me and gave me a bloody nose. `[例]`
+>   - 中译：他打了我，把我的鼻子打出血了。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/bloody
+> - He hit me and bloodied my nose. `[例]`
+>   - 中译：他打了我，我的鼻子流血了。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/bloody
+> - The Koh-i-Noor then spent 70 years in Afghanistan, where it was passed around by leaders who won bloody battles against one another. `[例]`
+>   - 中译：随后，光之山在阿富汗度过了 70 年，由相互浴血奋战的领导人传承。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/bloody
 
 
 ---

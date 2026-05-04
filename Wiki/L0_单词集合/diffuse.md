@@ -137,9 +137,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Television is a powerful means of diffusing knowledge . `[例]`
-> - Oxygen diffuses from the lungs into the bloodstream . `[例]`
-> - The drop of red dye diffused slowly in the water . `[例]`
+> - Television is a powerful means of diffusing knowledge. `[例]`
+>   - 中译：电视是传播知识的有力手段。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/diffuse
+> - Oxygen diffuses from the lungs into the bloodstream. `[例]`
+>   - 中译：氧气从肺部扩散到血液中。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/diffuse
+> - The drop of red dye diffused slowly in the water. `[例]`
+>   - 中译：那滴红色染料在水中缓缓扩散。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/diffuse
 
 ---
 

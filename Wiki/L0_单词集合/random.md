@@ -137,10 +137,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The survey used a random sample of two thousand people across England and Wales." `[COCA-ACAD]`
-> - "The winning entry will be selected at random by computer." `[COCA-ACAD]`
-> - "This was an entirely random and shocking attack on a group of friends." `[COCA-NEWS]`
-> - "A random sample of doctors from around the country were selected for the study." `[COCA-ACAD]`
+> - I just saw Billy wearing a top hat - he's so random! `[例]`
+>   - 中译：我刚刚看到比利戴着一顶礼帽——他太随意了！
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/random
+> - Some random guy walked in. `[例]`
+>   - 中译：某个随意的家伙走了进来。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/random
+> - The winning entry will be the first correct answer drawn at random. `[例]`
+>   - 中译：获胜条目将是随机抽出的第一个正确答案。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/random
 
 ---
 

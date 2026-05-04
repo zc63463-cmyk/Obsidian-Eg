@@ -134,7 +134,7 @@ re-(=back，回) + [[lev|lieve]](轻，拉丁语 *levare*，举起/减轻)
 > [!example]- 语料
 > - On July 29th they were relieved, at least temporarily. `[真题]`
 > - The Government acted quickly to relieve the widespread distress caused by the earthquake. `[真题]`
-> - She was given morphine to relieve the pain. `[权威语料]`
+> - She was given morphine to relieve the pain. `[例]`
 
 
 ---

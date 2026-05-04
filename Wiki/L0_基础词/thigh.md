@@ -123,8 +123,8 @@ thigh 为日耳曼语系原生词（古英语 *þēoh*，与古高地日耳曼�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Barkley suffered a strained thigh muscle late in the preseason . `[例]`
-> - My thighs ached terribly after the climb . `[例]`
+> - Barkley suffered a strained thigh muscle late in the preseason. `[例]`
+> - My thighs ached terribly after the climb. `[例]`
 > - Squeezing their thighs into pants that are too tight to compress the cellulite. `[例]`
 
 

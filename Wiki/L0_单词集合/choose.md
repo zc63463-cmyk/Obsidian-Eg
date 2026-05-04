@@ -125,8 +125,15 @@ choos-/chois-(品尝、辨别，与 [[choice]] 同源)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Young people often choose to pursue further education abroad."（年轻人经常选择去国外深造。）——考研高频表达
-> - "We cannot choose but face the reality of the situation."（我们不得不面对现实的处境。）——考研高频表达
+> - Choose the best word ( s) for each numbered blank and mark A, B , C or D on th� ANSWER SHEET. ( 10 points) Caravanserais were roadside inns that were built along the Silk Road in areas including China, North Africa and the Middle East. `[真题]`
+>   - 中译：为每个编号的空白处选择最好的单词，并在答题卡上标记 A、B、C 或 D。 ( 10 分) 商队旅馆是沿着丝绸之路沿线建造的路边旅馆，分布于中国、北非和中东等地区。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - Answer the questions after each text by .choosing A, B , C or D. `[真题]`
+>   - 中译：选择 A、B、C 或 D，回答每篇课文后的问题。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - For questions 41-45, you are required to reorganize these paragraphs into a coherent text by choosing from the list A-H and filHng them into the numbered boxes. `[真题]`
+>   - 中译：对于问题 41-45，您需要从列表 A-H 中进行选择并将其填入编号框中，从而将这些段落重新组织成连贯的文本。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
 
 ---
 

@@ -122,8 +122,15 @@ ne-(否定前缀，"不") + cess(走/退让) + -ity(名词后缀，表示抽象�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The report stresses the necessity of eating plenty of fresh fruit and vegetables."（报告强调了多吃新鲜水果和蔬菜的必要性。）——考研高频表达
-> - "With a personal fortune of sixty million dollars, she certainly doesn't work out of necessity."（拥有六千万美元的个人财富，她当然不是出于需要而工作。）——考研高频表达
+> - The necessity to stop developers from evading taxes. `[真题]`
+>   - 中译：有必要阻止开发商逃税。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - You can come early if you want to, but there's no necessity for it. `[例]`
+>   - 中译：如果你愿意的话可以早点来，但没有必要。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/necessity
+> - Is there any necessity to reply to her letter? `[例]`
+>   - 中译：有必要回她的信吗？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/necessity
 
 ---
 

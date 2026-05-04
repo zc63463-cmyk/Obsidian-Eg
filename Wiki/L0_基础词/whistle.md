@@ -129,8 +129,9 @@ whistle 源自古英语 *hwistlian*（吹口哨、发出嘶嘶声），属于日
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The whistle-blower revealed that the company had been systematically falsifying environmental test results, putting public health at serious risk for years."（举报者揭露该公司多年来一直系统性地伪造环境检测结果，将公众健康置于严重风险之中——考研阅读社会法律话题相关表达）
-> - "The cold wind whistled through the narrow streets of the old city, carrying with it the scent of winter and the promise of snow."（寒风在古城狭窄的街道间呼啸而过，带着冬天的气息和下雪的征兆——考研阅读文学话题相关表达）
+> - He whistled as he worked. `[例]`
+> - On the days when she wore a skirt the men on the building site would whistle at her. `[例]`
+> - Someone was whistling Beatles tunes outside my window. `[例]`
 
 
 ---

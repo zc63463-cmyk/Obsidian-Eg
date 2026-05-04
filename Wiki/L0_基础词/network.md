@@ -129,7 +129,7 @@ review_count: 0
 > [!example]- 语料
 > - The term caravan was used to _4_ groups of people who travelled together across the ancient network for safety reasons , 5 merchants, travellers or pillgrims. `[真题]`
 > - Says Dan Quinn, senior communications strategist at the Texas Freedom Network, a non-profit group that monitors public education. `[真题]`
-> - Beneath the city lies a labyrinthine network of tunnels . `[例]`
+> - Beneath the city lies a labyrinthine network of tunnels. `[例]`
 
 
 ---

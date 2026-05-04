@@ -134,8 +134,15 @@ com-(完全，加强) + mand(命令，委托，[[mand]]变体)
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - "A good leader should have a clear command of the situation."（一位优秀的领导者应该对局势有清晰的掌控。）——考研阅读真题
-> - "She has an excellent command of both spoken and written English."（她的英语口语和书面语都掌握得非常好。）——考研高频表达
+> - You will run forward at (= when you hear ) my command. `[例]`
+>   - 中译：你将在（=当你听到）我的命令时向前跑。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/command
+> - He hated being in the army because he had to obey commands. `[例]`
+>   - 中译：他讨厌在军队里，因为他必须服从命令。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/command
+> - At that time , a Roman consul had command over two legions , or roughly 12,000 soldiers. `[例]`
+>   - 中译：当时，一名罗马执政官指挥着两个军团，即大约 12,000 名士兵。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/command
 
 ---
 

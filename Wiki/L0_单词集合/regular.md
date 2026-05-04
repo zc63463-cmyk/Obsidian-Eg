@@ -127,9 +127,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - `A mixed system means that high-speed trains must travel on the regular tracks on certain routes or when passing through large cities.` [真题]
-> - `Regular exercise is essential for maintaining good health.` [COCA-ACAD]
-> - `She's one of our regular customers and comes in every Tuesday.` [COCA-MAG]
+> - Professional athletes make regular appearances on TV. `[例]`
+>   - 中译：职业运动员经常出现在电视上。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/regular
+> - She goes to her doctor for regular check-ups. `[例]`
+>   - 中译：她定期去看医生进行检查。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/regular
+> - He paid regular amounts of money to a charity. `[例]`
+>   - 中译：他定期向慈善机构捐款。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/regular
 
 ---
 

@@ -132,8 +132,15 @@ con-(一起) + curr(跑) + -ent(形容词后缀) = concurrent（一起跑的 →
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The two events were concurrent with each other, making it difficult for investigators to determine which was the cause."（这两个事件同时发生，使得调查人员难以确定哪个是原因。）——考研高频表达
-> - "Concurrent jurisdiction means that both state and federal courts have the authority to hear the case."（共同管辖权意味着州法院和联邦法院都有权审理此案。）——考研高频表达
+> - The judge imposed concurrent sentences totalling 14 years for the attacks on the girls. `[例]`
+>   - 中译：法官对袭击女孩的行为判处共 14 年徒刑。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/concurrent
+> - He’s serving two concurrent 10-year sentences. `[例]`
+>   - 中译：他同时服两项 10 年徒刑。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/concurrent
+> - Delivery of the goods and payment of the price are concurrent conditions , and must therefore occur at the same time. `[例]`
+>   - 中译：交货和支付价款是并发条件，因此必须同时发生。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/concurrent
 
 ---
 

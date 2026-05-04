@@ -139,10 +139,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Lesser-known PRH writers become the target of criticism. `[真题]`
-> - In fact, a listing in Scopus seems to be a criterion to be targeted in this type of citation manipulation. `[真题]`
-> - For example, AI can be used to analyse what type of advertising content or copy would be appropriate to 'speak' to a specific target customer group by revealing information about trends and preferences through the analysis of big data. ( 46) AI can also be used to identify the lifestyle choices of customers regarding their hobbies, favourite celebrities, music choices, and fashions to provide unique content in marketing messages put out through social media. `[真题]`
-> - Not only can AI help to create the marketing content, but it can also provide a non-intrusive way of delivering the content to the target cm,tomers. `[真题]`
+> - The firm is on track to achieve its growth target for the year. `[例]`
+>   - 中译：该公司有望实现今年的增长目标。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/target
+> - The university will reach its target of 5 000 students next September. `[例]`
+>   - 中译：该大学将于明年 9 月达到 5000 名学生的目标。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/target
+> - The department has missed its sales target for the third month running. `[例]`
+>   - 中译：该部门连续第三个月未能实现销售目标。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/target
 
 ---
 

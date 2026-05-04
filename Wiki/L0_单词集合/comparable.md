@@ -125,7 +125,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The two studies produced results that were not directly comparable due to differences in methodology.（由于方法论的差异，这两项研究产生的结果无法直接比较。）
+> - The girls are of comparable ages. `[例]`
+>   - 中译：女孩们的年龄相当。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/comparable
+> - The two experiences aren't comparable. `[例]`
+>   - 中译：两种体验没有可比性。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/comparable
+> - A comparable house in the south of the city would cost twice as much. `[例]`
+>   - 中译：位于城市南部的类似房屋的价格是其两倍。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/comparable
 
 ---
 

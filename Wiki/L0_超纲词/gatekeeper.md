@@ -3,10 +3,8 @@ title: "gatekeeper"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 社会专业
 prototype: 守门人（控制通道入口的人）
@@ -45,7 +43,7 @@ gate（门，大门）+ keeper（看守者，来自 keep + -er）
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**守门人（控制通道入口的人）**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **守门人**（物理层面）
@@ -66,7 +64,7 @@ gate（门，大门）+ keeper（看守者，来自 keep + -er）
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ gate（门，大门）+ keeper（看守者，来自 keep + -er）
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > gate（大门）+ keeper（看守者）= gatekeeper。想象一个中世纪城堡的守门人，他站在城门前，决定谁可以进入城堡。在现代世界里，媒体编辑是"信息的守门人"，决定哪些新闻可以发表；期刊审稿人是"学术的守门人"，决定哪些论文可以发表。他们都是 gatekeeper。
@@ -89,7 +87,7 @@ gate（门，大门）+ keeper（看守者，来自 keep + -er）
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ gate（门，大门）+ keeper（看守者，来自 keep + -er）
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[facilitator]]：促进者（gatekeeper 控制进入，facilitator 促进进入）
 > - [[entrant]]：进入者（gatekeeper 是控制进入的人，entrant 是被允许进入的人）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,7 +119,7 @@ gate（门，大门）+ keeper（看守者，来自 keep + -er）
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **gatekeeper role**：把关角色
 >   - The editor plays a crucial gatekeeper role in the publishing process.
 > - **act as a gatekeeper**：充当把关人
@@ -131,19 +129,12 @@ gate（门，大门）+ keeper（看守者，来自 keep + -er）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - The editor plays a crucial gatekeeper role in the publishing process. `[例]`
 > - Primary care physicians act as gatekeepers to specialist services. `[例]`
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
-
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

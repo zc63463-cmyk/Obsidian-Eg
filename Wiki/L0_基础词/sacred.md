@@ -127,9 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Freedom of speech is considered a sacred right in democratic societies. `[外刊]`
-> - We have a sacred duty to find out the truth. `[外刊]`
-> - The burial site is sacred ground. `[外刊]`
+> - Freedom of speech is considered a sacred right in democratic societies. `[例]`
+> - We have a sacred duty to find out the truth. `[例]`
+> - The burial site is sacred ground. `[例]`
 
 
 ---

@@ -132,9 +132,9 @@ flesh(肉/肉体，古英语 *flǣsc*)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Vegetarians don't eat animal flesh (= meat ) . `[例]`
-> - The flesh of the fruit is white . `[例]`
-> - Mosquitoes will find any bit of exposed flesh, however small . `[例]`
+> - Vegetarians don't eat animal flesh (= meat ). `[例]`
+> - The flesh of the fruit is white. `[例]`
+> - Mosquitoes will find any bit of exposed flesh, however small. `[例]`
 
 
 ---

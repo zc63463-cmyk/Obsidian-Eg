@@ -138,10 +138,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Good leadership is essential for the success of any organization." `[COCA-ACAD]`
-> - "Under her leadership, the company grew rapidly." `[COCA]`
-> - "The research highlights the importance of leadership in education." `[COCA-ACAD]`
-> - "Our research identified several clear priorities that lead to better performance." `[COCA-ACAD]`
+> - What the company lacks is leadership. `[例]`
+>   - 中译：公司缺少的是领导力。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/leadership
+> - The group flourished under her firm leadership. `[例]`
+>   - 中译：在她的坚定领导下，该团体蓬勃发展。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/leadership
+> - R&M gained market leadership (= sold more goods than other companies ) by selling products that were of superior quality. `[例]`
+>   - 中译：R&M 通过销售优质的产品获得了市场领导地位（= 销售的商品比其他公司多）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/leadership
 
 ---
 

@@ -132,8 +132,15 @@ pre-(在前面/预先) + [[dict]](说) → 在事情发生前说出 → 预测
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It is difficult to predict what the long-term effects of climate change will be on coastal cities."（很难预测气候变化的长期影响对沿海城市会是什么。）——考研高频表达
-> - "Economists predict that the unemployment rate will continue to decline in the coming year."（经济学家预测失业率将在来年继续下降。）——考研高频表达
+> - It's still not possible to accurately predict the occurrence of earthquakes. `[例]`
+>   - 中译：目前还无法准确预测地震的发生。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/predict
+> - Who could have predicted that within ten years he'd be in charge of the whole company? `[例]`
+>   - 中译：谁能想到十年之内他会掌管整个公司？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/predict
+> - The hurricane is predicted to reach the coast tomorrow morning. `[例]`
+>   - 中译：预计飓风将于明天早上抵达海岸。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/predict
 ---
 
 

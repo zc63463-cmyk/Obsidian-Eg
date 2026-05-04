@@ -135,10 +135,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It's a two-hour train journey from York to London." `[COCA-ACAD]`
-> - "The correspondent, as observer, occupies a mediating position in these reports, inviting the reader to join him in his journey of discovery." `[COCA-ACAD]`
-> - "There is clearly a long journey ahead, but this book shows the way." `[COCA-ACAD]`
-> - "In addition to the cost of the tolls, people have to make a lengthy journey to access health care, especially cancer treatment." `[COCA-ACAD]`
+> - I love going on long journeys. `[例]`
+>   - 中译：我喜欢长途旅行。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/journey
+> - We broke our journey (= stopped for a short time ) in Jacksonville before travelling on to Miami the next day. `[例]`
+>   - 中译：我们在杰克逊维尔中断了旅程（=短暂停留），然后第二天前往迈阿密。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/journey
+> - Have a safe journey! `[例]`
+>   - 中译：祝您旅途平安！
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/journey
 
 ---
 

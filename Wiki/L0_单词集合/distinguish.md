@@ -122,10 +122,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - No clear-cut distinction can be drawn between professionals and amateurs in science. `[真题]`
-> - Her excellent performance in the competition distinguished her from other candidates. `[真题]`
-> - It is important to distinguish between correlation and causation in scientific research. `[真题]`
-> - She distinguished herself by her coolness and bravery during the crisis. `[COCA-ACAD]`
+> - He's colour-blind and can't distinguish (the difference ) between red and green easily. `[例]`
+>   - 中译：他是色盲，无法轻易区分红色和绿色。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/distinguish
+> - I sometimes have difficulty distinguishing Spanish from Portuguese. `[例]`
+>   - 中译：我有时很难区分西班牙语和葡萄牙语。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/distinguish
+> - It's important to distinguish between business and pleasure. `[例]`
+>   - 中译：区分商务和休闲很重要。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/distinguish
 ---
 
 

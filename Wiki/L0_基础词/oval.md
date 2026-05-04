@@ -124,10 +124,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The plant has oval green leaves marbled with brownish-purple. ` [语料库]`
-> - The leaders met in the Oval Office on Friday to discuss the trade agreement. ` [真题]`
-> - Our table is oval in shape, which works well for group discussions. ` [语料库]`
-> - An oval mirror hung above the fireplace in the living room. ` [语料库]`
+> - The researchers proposed a oval solution to the problem. `[例]`
+> - The company adopted a oval approach to improve efficiency. `[例]`
+> - The plan offers a oval option for small organizations. `[例]`
 
 
 ---

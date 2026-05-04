@@ -137,9 +137,15 @@ at-(=ad-, 去/向) + tach/tang(接触/钉，拉丁语 *tangere*) → 去接触 �
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "A survey of news stories in 1996 reveals that the anti-science tag has been attached to many other groups as well, from authorities who advocated the elimination of the last remaining stocks of smallpox virus to Republicans who advocated decreased funding for basic research." `[真题]`
-> - "They just want Ottawa to fork over additional billions with few, if any, strings attached." `[真题]`
-> - "She has become deeply attached to the small village where she grew up." `[例]`
+> - I attached a photo to my application form. `[例]`
+>   - 中译：我在申请表上附上了一张照片。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/attach
+> - In the UK, packets of cigarettes come with a government health warning attached to them (= on them). `[例]`
+>   - 中译：在英国，香烟包装上贴有政府健康警告（=在其上）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/attach
+> - I attach (= am sending , usually with a letter ) a copy of our latest report. `[例]`
+>   - 中译：我附上（=正在发送，通常通过信件）我们最新报告的副本。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/attach
 
 
 ---

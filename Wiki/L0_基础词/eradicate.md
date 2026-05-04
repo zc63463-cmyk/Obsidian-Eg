@@ -125,9 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The government claims to be doing all it can to eradicate corruption . `[例]`
+> - The government claims to be doing all it can to eradicate corruption. `[例]`
 > - The disease that once claimed millions of lives has now been eradicated. `[例]`
-> - A new vaccine eradicated polio . `[例]`
+> - A new vaccine eradicated polio. `[例]`
 
 
 ---

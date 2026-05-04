@@ -136,8 +136,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The management did not seem to consider office safety a priority. `[例]`
-> - Repairing the plumbing is a priority task (= more important than other jobs ) . `[例]`
-> - Banks normally give priority to large businesses when deciding on loans (= they deal with them first because they consider them most important ) . `[例]`
+>   - 中译：管理层似乎并未将办公室安全视为优先事项。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/priority
+> - Repairing the plumbing is a priority task (= more important than other jobs ). `[例]`
+>   - 中译：修理管道是一项优先任务（=比其他工作更重要）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/priority
+> - Banks normally give priority to large businesses when deciding on loans (= they deal with them first because they consider them most important ). `[例]`
+>   - 中译：银行在决定贷款时通常会优先考虑大型企业（=他们首先处理大型企业，因为他们认为大型企业最重要）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/priority
 ---
 
 

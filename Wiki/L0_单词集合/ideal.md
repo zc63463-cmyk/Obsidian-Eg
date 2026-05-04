@@ -137,10 +137,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The conditions were far from ideal."（条件远非理想）——常见表达
-> - "In an ideal world, there would be no poverty."（在理想世界中，不会有贫困）——论述/写作常用
-> - "She is the ideal candidate for the job."（她是这份工作的理想人选）——常见搭配
-> - "shared ideals and basic beliefs"（共同的理想和基本信念）——社会/政治话题
+> - She's the ideal candidate (= exactly the right type of person ) for the job. `[例]`
+>   - 中译：她是这项工作的理想人选（=完全合适的人选）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/ideal
+> - The television also comes in a compact 36 cm screen size , ideal for bedroom or kitchen use. `[例]`
+>   - 中译：该电视还配备紧凑的 36 厘米屏幕尺寸，非常适合卧室或厨房使用。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/ideal
+> - It's the ideal opportunity to meet people. `[例]`
+>   - 中译：这是结识朋友的理想机会。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/ideal
 
 ---
 

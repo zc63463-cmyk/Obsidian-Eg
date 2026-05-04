@@ -123,7 +123,7 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - I burned my tongue on some soup last night . `[例]`
+> - I burned my tongue on some soup last night. `[例]`
 > - Immigrants struggling to learn a foreign tongue. `[例]`
 > - She is a prolific writer with critical views and a sharp (= severe and critical ) tongue. `[例]`
 

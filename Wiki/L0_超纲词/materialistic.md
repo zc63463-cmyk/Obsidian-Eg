@@ -3,10 +3,8 @@ title: "materialistic"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 理性世界
 prototype: 物质主义的（追求物质财富的）
@@ -43,7 +41,7 @@ material（物质）+ -ist（人）+ -ic（形容词后缀，……的）→ 物
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**物质主义的**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **物质主义的**（价值观层面）
@@ -64,7 +62,7 @@ material（物质）+ -ist（人）+ -ic（形容词后缀，……的）→ 物
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ material（物质）+ -ist（人）+ -ic（形容词后缀，……的）→ 物
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **词拆分记忆**：
 > material（物质）+ -istic（……主义的）→ 物质主义的。In a materialistic society, people are judged by what they own rather than who they are.（在物质主义的社会中，人们以拥有的东西而非本身来被评判。）
@@ -85,7 +83,7 @@ material（物质）+ -ist（人）+ -ic（形容词后缀，……的）→ 物
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -97,13 +95,13 @@ material（物质）+ -ist（人）+ -ic（形容词后缀，……的）→ 物
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[spiritual]]：精神的，灵性的（物质↔精神）
 > - [[idealistic]]：理想主义的（物质主义↔理想主义）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -115,26 +113,19 @@ material（物质）+ -ist（人）+ -ic（形容词后缀，……的）→ 物
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a materialistic society**：物质主义的社会
 > - **materialistic values**：物质主义的价值观
 > - **become increasingly materialistic**：变得越来越物质主义
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - `[例]` Critics argue that modern Western culture has become increasingly materialistic, placing greater value on possessions than on relationships. [C]
-> - `[例]` She rejected her family's materialistic lifestyle and chose to live a simple life devoted to community service. [C]
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
+> [!example]- 语料
+> - The researchers proposed a materialistic solution to the problem. `[例]`
+> - The company adopted a materialistic approach to improve efficiency. `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

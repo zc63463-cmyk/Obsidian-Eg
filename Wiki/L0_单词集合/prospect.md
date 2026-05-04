@@ -133,9 +133,15 @@ pro-(向前) + [[spec-spect|spec-/spect-]](看，拉丁语 *specere*，过去分
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Is there any prospect of the weather improving ? `[例]`
-> - There seems little prospect of an end to the dispute . `[例]`
-> - There's not much prospect that this war will be over soon . `[例]`
+> - Is there any prospect of the weather improving? `[例]`
+>   - 中译：天气有好转的迹象吗？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/prospect
+> - There seems little prospect of an end to the dispute. `[例]`
+>   - 中译：这场争端似乎没有结束的希望。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/prospect
+> - There's not much prospect that this war will be over soon. `[例]`
+>   - 中译：这场战争很快结束的可能性不大。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/prospect
 
 
 ---

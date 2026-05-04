@@ -127,9 +127,15 @@ com-(完全) + ply(折叠、弯折) → 完全弯折 → 顺从
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Companies that do not comply with data protection laws may face heavy fines. `[COCA-ACAD]`
-> - Patients are more likely to comply with treatment if they understand its benefits. `[COCA-ACAD]`
-> - All employees must comply with the company's safety regulations. `[例]`
+> - To comply with PRH's requirement. `[真题]`
+>   - 中译：遵守公屋的要求。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - He's been ordered to have the dog destroyed because it's dangerous , but he refuses to comply. `[例]`
+>   - 中译：他被命令销毁这只狗，因为它很危险，但他拒绝服从。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/comply
+> - There are serious penalties for failure to comply with the regulations. `[例]`
+>   - 中译：不遵守规定将受到严厉处罚。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/comply
 
 ---
 

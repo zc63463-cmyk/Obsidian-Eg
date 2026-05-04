@@ -128,10 +128,9 @@ over-(度过/经过) + night(夜晚)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The novel made her famous overnight and she received numerous interview requests. ` [真题]`
-> - He stayed overnight at a hotel near the airport before his early morning flight. ` [语料库]`
-> - The internet has turned many ordinary people into overnight celebrities. ` [真题]`
-> - It takes a very long time to become an overnight success. ` [语料库]`
+> - You can stay overnight if you want to. `[例]`
+> - Don't forget to pack an overnight bag (= a bag for things that you need when you stay away from home for a night ). `[例]`
+> - Several of the injured were detained overnight in hospital. `[例]`
 
 
 ---

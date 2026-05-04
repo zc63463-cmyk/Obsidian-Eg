@@ -127,9 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "I owe my brother $50." `[真题]`
-> - "He owed his survival to his strength as a swimmer." `[真题]`
-> - "I owe it to him to explain what's happened." `[真题]`
+> - I owe it to him to explain what's happened. `[真题]`
+> - I owe you a drink for helping me move. `[例]`
+> - It's just struck me that I still owe you for the concert tickets. `[例]`
 
 
 ---

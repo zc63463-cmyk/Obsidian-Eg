@@ -134,8 +134,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Modern technology has transformed the way we communicate, work, and entertain ourselves."（现代技术改变了我们交流、工作和娱乐的方式。）——考研高频表达
-> - "The museum houses an impressive collection of modern art from around the world."（这座博物馆收藏了来自世界各地的令人印象深刻的现代艺术作品。）——考研高频表达
+> - We're in the very modern-looking building opposite the station. `[例]`
+>   - 中译：我们住在车站对面一栋看起来非常现代的建筑里。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/modern
+> - My grandpa's attitudes are very modern, considering his age. `[例]`
+>   - 中译：考虑到我爷爷的年龄，他的态度非常现代。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/modern
+> - One by one the old buildings in the city have been demolished and replaced with modern tower blocks. `[例]`
+>   - 中译：城里的旧建筑一一被拆除，取而代之的是现代化的高楼大厦。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/modern
 ---
 
 

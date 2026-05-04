@@ -130,9 +130,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Drugs are so readily available, they become part of the day-to-day routine." `[真题]`
-> - "He readily agreed to all our suggestions." `[真题]`
-> - "It was readily apparent how much more prosperous this town was than others." `[真题]`
+> - Drugs are so readily available, they become part of the day-to-day routine. `[真题]`
+> - He readily agreed to all our suggestions. `[真题]`
+> - It was readily apparent how much more prosperous this town was than others. `[真题]`
 
 
 ---

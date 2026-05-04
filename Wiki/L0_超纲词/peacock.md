@@ -3,10 +3,8 @@ title: "peacock"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-25
-mastery: L0
 word_freq: 超纲词
 semantic_field: 自然物理
 prototype: 雄孔雀（以华丽的尾羽著称）
@@ -44,7 +42,7 @@ pea（源自拉丁语 *pavo*，孔雀）+ cock（公鸡/雄鸟）
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**雄孔雀（以华丽尾羽著称）**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **孔雀**（自然层面）
@@ -67,7 +65,7 @@ pea（源自拉丁语 *pavo*，孔雀）+ cock（公鸡/雄鸟）
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ pea（源自拉丁语 *pavo*，孔雀）+ cock（公鸡/雄鸟）
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > peacock 就是孔雀。雄孔雀开屏时展开五颜六色的大尾巴，骄傲地走来走去——这就是 peacock 的核心意象。当你看到一个人穿着名牌到处招摇，你可以说他's peacocking'——像孔雀开屏一样炫耀。
@@ -90,7 +88,7 @@ pea（源自拉丁语 *pavo*，孔雀）+ cock（公鸡/雄鸟）
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +100,13 @@ pea（源自拉丁语 *pavo*，孔雀）+ cock（公鸡/雄鸟）
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[modest]]：谦虚的（peacock 的反义：炫耀↔谦虚）
 > - [[humble]]：谦逊的（peacock 的反义：招摇↔谦逊）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,7 +117,7 @@ pea（源自拉丁语 *pavo*，孔雀）+ cock（公鸡/雄鸟）
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **peacock feathers**：孔雀羽毛
 > - **peacock around**：到处炫耀
 > - **as proud as a peacock**：像孔雀一样骄傲
@@ -127,19 +125,12 @@ pea（源自拉丁语 *pavo*，孔雀）+ cock（公鸡/雄鸟）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - `[例]` He spent the entire evening peacocking in front of the guests.
-> - `[例]` The peacock fanned its magnificent tail feathers in the garden.
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-25 | **复习次数**：0 | **当前等级**：L0
-
----
+> [!example]- 语料
+> - The hikers rested under a towering peacock near the coastal trail. `[例]`
+> - The cabin was built from durable peacock gathered in the region. `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

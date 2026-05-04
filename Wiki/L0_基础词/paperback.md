@@ -123,9 +123,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - First published in hardback in 2003, the book is now available in paperback. `[外刊]`
-> - The paperback edition will be useful supplementary reading in classrooms. `[外刊]`
-> - I like to carry around paperback books because they are lighter and easier to transport than hardcovers. `[语料库]`
+> - First published in hardback in 2003, the book is now available in paperback. `[例]`
+> - The paperback edition will be useful supplementary reading in classrooms. `[例]`
+> - I like to carry around paperback books because they are lighter and easier to transport than hardcovers. `[例]`
 
 
 ---

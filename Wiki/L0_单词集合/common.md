@@ -136,8 +136,15 @@ com-(共同) + mon(公共的/服务)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It is a common misconception that learning a language is just about memorizing vocabulary."（学习一门语言只是记忆词汇，这是一种常见的误解。）——考研高频表达
-> - "They have found that common sense is not so common after all."（他们发现，常识终究并不那么普遍。）——考研高频表达
+> - It's quite common to see couples who dress alike. `[例]`
+>   - 中译：情侣穿着相似是很常见的。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/common
+> - Smith" is a very common name in Britain. `[例]`
+>   - 中译：“史密斯”在英国是一个很常见的名字。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/common
+> - His communications were characterized by a lack of common courtesy. `[例]`
+>   - 中译：他的交流缺乏普遍的礼貌。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/common
 
 
 ---

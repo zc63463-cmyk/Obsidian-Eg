@@ -142,9 +142,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Students gain valuable experience through internships."（学生通过实习获得宝贵经验）——考研阅读常见搭配，描述教育、职业话题
-> - "The country has gained an advantage in international trade."（该国在国际贸易中获得了优势）——经济类阅读
-> - "gain ground in the competition"（在竞争中取得进展）——商业/政治类语境
+> - The mayor has gained a lot of support from the teacher's union. `[例]`
+>   - 中译：市长得到了教师工会的大力支持。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/gain
+> - What do you hope to gain from the course? `[例]`
+>   - 中译：你希望从课程中获得什么？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/gain
+> - Alternative medicine has only just started to gain respectability in our society. `[例]`
+>   - 中译：替代医学才刚刚开始在我们的社会中获得尊重。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/gain
 
 ---
 

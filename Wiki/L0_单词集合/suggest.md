@@ -123,9 +123,15 @@ sug-（sub- 在 g 前的同化：从下方）+ gest（带来，[[fer|fer]] 的�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - I suggested an Italian restaurant near the station for the party . `[例]`
-> - Might I suggest a white wine with your salmon , sir ? `[例]`
-> - I suggest (that) we wait a while before we make any firm decisions . `[例]`
+> - I'd like to suggest a different explanation for the company's decline. `[例]`
+>   - 中译：我想对公司的衰落提出不同的解释。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/suggest
+> - The designer is known for suggesting innovative ideas to her clients. `[例]`
+>   - 中译：这位设计师以向客户提出创新想法而闻名。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/suggest
+> - He thought long and hard, but no answer suggested itself. `[例]`
+>   - 中译：他苦苦思索了很久，但没有给出答案。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/suggest
 
 
 ---

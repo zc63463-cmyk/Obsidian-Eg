@@ -127,9 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Our latest machine can pump a hundred gallons a minute . `[例]`
-> - The new wine is pumped into storage tanks . `[例]`
-> - She was pumping me for details of the new project . `[例]`
+> - Our latest machine can pump a hundred gallons a minute. `[例]`
+> - The new wine is pumped into storage tanks. `[例]`
+> - She was pumping me for details of the new project. `[例]`
 
 
 ---

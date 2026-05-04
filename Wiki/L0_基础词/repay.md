@@ -129,9 +129,9 @@ re-（[[re-|回，反向]]）+ pay（付钱）→ 付回去 → **偿还**
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Students often struggle to repay their student loans after graduation." `[真题]`
-> - "How can I ever repay you for all your kindness?" `[语料库]`
-> - "Your mortgage will be repaid over 25 years." `[语料库]`
+> - Students often struggle to repay their student loans after graduation. `[真题]`
+> - How can I ever repay you for all your kindness? `[例]`
+> - He had to sell his car to repay the bank loan. `[例]`
 
 
 ---

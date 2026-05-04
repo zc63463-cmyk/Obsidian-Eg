@@ -132,9 +132,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The place was packed, and guests were being turned away." `[真题]`
-> - "Cigarettes typically come in packs of 20." `[真题]`
-> - "All the children's relatives and friends were packed into the tiny theatre." `[真题]`
+> - The place was packed, and guests were being turned away. `[真题]`
+> - All the children's relatives and friends were packed into the tiny theatre. `[真题]`
+> - We're leaving early tomorrow morning , so you'd better pack (= put clothes and other possessions into suitcases or bags ) tonight. `[例]`
 
 
 ---

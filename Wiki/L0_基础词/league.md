@@ -132,9 +132,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Who do you think will win the league championship this year ? `[例]`
-> - Liverpool were top of the Football League that year . `[例]`
-> - The team rose to the top of the league last year , and hopes to repeat the feat this year . `[例]`
+> - Who do you think will win the league championship this year? `[例]`
+> - Liverpool were top of the Football League that year. `[例]`
+> - The team rose to the top of the league last year , and hopes to repeat the feat this year. `[例]`
 
 
 ---

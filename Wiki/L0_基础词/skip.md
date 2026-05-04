@@ -143,9 +143,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - I sometimes skip breakfast to get to work earlier. ` `[真题]`
-> - She skipped over the difficult parts while reading the textbook. ` `[真题]`
-> - He skipped the meeting without telling anyone. ` `[语料库]`
+> - She watched her little granddaughter skip down the path. `[例]`
+> - The lambs were skipping about in the field. `[例]`
+> - Sports players often train by skipping. `[例]`
 
 
 ---

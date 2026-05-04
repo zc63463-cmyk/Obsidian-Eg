@@ -125,10 +125,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Even the very phrase jobseeker's allowance is about redefining the unemployed as a jobseeker who had no fundamental right to a benefit he or she has earned through making national insurance contributions." `[真题]`
-> - "With the risks obvious and growing, a prudent people would take out an insurance policy now." `[真题]`
-> - "Households are stockpiling groceries as insurance against price rises." `[COCA-ACAD]`
-> - "It is a legal requirement for drivers to have car insurance." `[COCA-ACAD]`
+> - The bill requires every rental host to register with the state , mandates they carry insurance , and opens the potential for local taxes on top of a new state levy. `[真题]`
+>   - 中译：该法案要求每个租赁房东向州政府注册，强制他们购买保险，并在新的州征税基础上开辟了征收地方税的可能性。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - The insurance doesn't cover you for (= include ) household items. `[例]`
+>   - 中译：该保险不承保（= 包括）家居用品。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/insurance
+> - In the past 10 years , natural disasters caused £105 billion in insurance claims. `[例]`
+>   - 中译：过去10年中，自然灾害造成的保险索赔金额达1050亿英镑。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/insurance
 
 
 ---

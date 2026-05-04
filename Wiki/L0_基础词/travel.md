@@ -131,8 +131,8 @@ review_count: 0
 
 > [!example]- 语料
 > - The term caravan was used to _4_ groups of people who travelled together across the ancient network for safety reasons , 5 merchants, travellers or pillgrims. `[真题]`
-> - Between school and university , she spent a year travelling, mostly in Africa and Asia . `[例]`
-> - From the 10th century onwards, as merchant and travel routes became more developed, the _6 __ of the caravanserais increased and they served as a safe place for people to :rest at night. `[真题]`
+> - Between school and university , she spent a year travelling, mostly in Africa and Asia. `[例]`
+> - For this reason, caravanserais were strategically placed 9 they could be reached in a day's travel time. `[真题]`
 
 
 ---

@@ -130,9 +130,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The crude technique required educated guesses on exposure times, and involved heavy, awkward equipment-several men had to assist in its transportation. `[真题]`
-> - Our initial crude calculations show that we made a profit this month . `[例]`
-> - The MP's speech was dismissed by her opponents as crude electioneering . `[例]`
+> - We adjusted crude effects for age, education, height and weight. `[例]`
+>   - 中译：我们调整了年龄、教育程度、身高和体重的粗略影响。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/crude
+> - In crude terms , a heart attack is a plumbing problem in blood vessels around the heart. `[例]`
+>   - 中译：简而言之，心脏病发作是心脏周围血管的管道问题。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/crude
+> - They built a crude shelter out of branches. `[例]`
+>   - 中译：他们用树枝搭建了一个简陋的庇护所。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/crude
 
 
 ---

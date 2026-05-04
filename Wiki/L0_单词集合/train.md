@@ -127,9 +127,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - We decided to take a train journey together. `[例]`
-> - The architect is best known for designing the city's train station . `[例]`
-> - Did you come by train? `[例]`
+> - I like travelling by train. `[例]`
+>   - 中译：我喜欢乘火车旅行。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/train
+> - He boarded the train in Kansas City. `[例]`
+>   - 中译：他在堪萨斯城登上了火车。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/train
+> - You have to change trains at Reading. `[例]`
+>   - 中译：您必须在雷丁换车。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/train
 
 ---
 

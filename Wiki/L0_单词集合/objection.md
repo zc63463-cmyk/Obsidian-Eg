@@ -139,10 +139,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Her objection to the plan is based on incorrect facts . `[例]`
-> - There have never been any serious objections against female monarchs . `[例]`
-> - A couple of people raised objections to the proposal . `[例]`
-> - No one voiced any objections during the meeting . `[例]`
+> - Her objection to the plan is based on incorrect facts. `[例]`
+>   - 中译：她对该计划的反对是基于不正确的事实。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/objection
+> - There have never been any serious objections against female monarchs. `[例]`
+>   - 中译：从来没有人对女性君主提出过任何严重的反对意见。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/objection
+> - A couple of people raised objections to the proposal. `[例]`
+>   - 中译：有几个人对该提议提出了反对意见。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/objection
 
 ---
 

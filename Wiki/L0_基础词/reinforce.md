@@ -136,7 +136,7 @@ re-(再，反复) + in-(进入) + [[force|forc-/fort-]](力量，拉丁语 *fort
 > [!example]- 语料
 > - But the ruling reinforces the need for citizens and their elected representatives, not the courts, to ensure equality of access to government. `[真题]`
 > - Indeed, this period of economic weakness may reinforce class divides, and decrease opportunities to cross them — especially for young people. `[真题]`
-> - The bad weather forecast only reinforces our decision to leave early tomorrow. `[权威语料]`
+> - The bad weather forecast only reinforces our decision to leave early tomorrow. `[例]`
 
 
 ---

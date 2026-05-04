@@ -120,9 +120,15 @@ dis-(移除) + [[cover|cover]](覆盖) + -y(名词后缀，表状态/结果) →
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Who is credited with the discovery of electricity ? `[例]`
-> - The discovery of a body in the undergrowth started a murder enquiry . `[例]`
-> - Among the thousands of documents Litt was able to obtain in discovery from the city was a memo written by a councilman's aide in response to one resident's complaint . `[例]`
+> - Who is credited with the discovery of electricity? `[例]`
+>   - 中译：谁因发现电而受到赞誉？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/discovery
+> - Leonardo made many scientific discoveries. `[例]`
+>   - 中译：列奥纳多做出了许多科学发现。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/discovery
+> - The discovery of a body in the undergrowth started a murder enquiry. `[例]`
+>   - 中译：在灌木丛中发现一具尸体，开始了谋杀案调查。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/discovery
 
 ---
 

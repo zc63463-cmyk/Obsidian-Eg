@@ -132,9 +132,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Caravanserais served as an informal 10 point for the various people who travelled the Silk Road. _.!l_ , these structures became important centers for cultural 12 and interaction, with travellers sharing their cultures, ideas and beliefs, 13 taking knowledge with them, greatly _l!_ the development of several civilisations. `[真题]`
-> - The structure of this protein is particularly complex . `[例]`
-> - They have a very old-fashioned management structure. `[例]`
+> - Bees have a complex social structure. `[例]`
+>   - 中译：蜜蜂有复杂的社会结构。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/structure
+> - She used sand and rocks to build elaborate structures on the beach. `[例]`
+>   - 中译：她用沙子和岩石在海滩上建造了精致的结构。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/structure
+> - Your essay needs (a) structure. `[例]`
+>   - 中译：你的论文需要（a）结构。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/structure
 
 ---
 

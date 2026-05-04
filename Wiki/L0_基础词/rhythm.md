@@ -126,9 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Disruption of circadian rhythms can lead to various health problems including sleep disorders. ` [真题]`
-> - The rhythm of modern life has been dramatically accelerated by technology and social media. ` [真题]`
-> - In adults, alertness is lowest in the early morning and highest in the early evening, following the temperature circadian rhythm. ` [真题]`
+> - He beat out a jazz rhythm on the drums. `[例]`
+> - She was lulled to sleep by the gentle rhythm of the boat in the water. `[例]`
+> - She hit the ball so hard that her opponent had no chance to establish any rhythm in her game. `[例]`
 
 
 ---

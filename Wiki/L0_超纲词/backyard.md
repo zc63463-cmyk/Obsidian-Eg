@@ -3,10 +3,8 @@ title: "backyard"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 自然物理
 prototype: 房屋后面的院子
@@ -46,7 +44,7 @@ back-(后面) + yard(院子，围栏围起的空地)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**房屋后面的院子**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **房屋后面的院子**（物理层面）
@@ -68,7 +66,7 @@ back-(后面) + yard(院子，围栏围起的空地)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -79,7 +77,7 @@ back-(后面) + yard(院子，围栏围起的空地)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 美国人的 backyard 是一块神奇的土地——夏天 BBQ，孩子荡秋千，狗在草地上跑。back（后面）+ yard（院子），就是"房子后面的院子"。当人们说"问题就在我们自己的 backyard"，意思是问题就在家门口——别光盯着远处，先看看自家后院。
@@ -91,7 +89,7 @@ back-(后面) + yard(院子，围栏围起的空地)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,13 +102,13 @@ back-(后面) + yard(院子，围栏围起的空地)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[frontyard]]：前院（backyard 的空间反义：后院↔前院）
 > - [[foreign]]：外国的，外部的（backyard 的空间反义：自家附近↔外部/外国）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +118,7 @@ back-(后面) + yard(院子，围栏围起的空地)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **in one's own backyard**：在自家后院；在自己家门口
   - We should address the problems in our own backyard before criticizing others.（我们应该先解决自家门口的问题，再去批评别人。）
 > - **right in your backyard**：就在你家门口
@@ -130,19 +128,12 @@ back-(后面) + yard(院子，围栏围起的空地)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - Environmental pollution is not just a distant problem—it is happening right in our own backyard.`[例]`
-> - The invention was developed by a backyard inventor with no formal training.`[例]`
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
+> [!example]- 语料
+> - Environmental pollution is not just a distant problem—it is happening right in our own backyard. `[例]`
+> - The invention was developed by a backyard inventor with no formal training. `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

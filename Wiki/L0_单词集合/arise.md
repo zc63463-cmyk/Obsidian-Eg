@@ -127,10 +127,15 @@ a-（向上，加强语气，ad- 在 r 前的同化形式）+ rise（升起，�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Problems arose when the company tried to expand into new markets. `[考研-阅读]`
-> - Accidents arise from carelessness. `[考研-阅读]`
-> - New opportunities will arise as the technology continues to evolve. `[COCA-ACAD]`
-> - A serious dispute arose between the two countries over trade policy. `[例]`
+> - If the opportunity arises, I'd love to go to China. `[例]`
+>   - 中译：如果有机会，我很想去中国。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/arise
+> - Problems arise when the payment is late. `[例]`
+>   - 中译：当付款延迟时就会出现问题。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/arise
+> - He died of complications arising from heart surgery. `[例]`
+>   - 中译：他死于心脏手术引起的并发症。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/arise
 ---
 
 

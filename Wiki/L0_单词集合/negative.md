@@ -127,8 +127,15 @@ neg(否定/否认) + -ative(形容词后缀，"具有…性质的")
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The negative effects of air pollution on public health are well documented."（空气污染对公共健康的负面影响已有充分的记录。）——考研高频表达
-> - "The media tends to focus on negative news rather than positive developments."（媒体倾向于关注负面新闻而非积极的发展。）——考研高频表达
+> - We received a negative answer to our request. `[例]`
+>   - 中译：我们的请求得到了否定的答复。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/negative
+> - I've never seen him in my life " is a negative sentence. `[例]`
+>   - 中译：我一生中从未见过他”是一个否定句。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/negative
+> - Don't" and "do not" are negative forms of "do". `[例]`
+>   - 中译：Don't”和“do not”是“do”的否定形式。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/negative
 
 ---
 

@@ -124,9 +124,15 @@ over-(在……上面) + look(看)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It risks overlooking a nation's diversity of gifts, culture, and traditions." `` `[真题]` ``
-> - "It is easy to overlook the significance of this change." `` `[COCA-ACAD]` ``
-> - "He seems to have overlooked one important fact." `` `[COCA-ACAD]` ``
+> - Our hotel room overlooked the harbour. `[例]`
+>   - 中译：我们的酒店房间可以俯瞰海港。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/overlook
+> - The house is surrounded by trees , so it's not overlooked at all (= it cannot be seen from any other buildings ). `[例]`
+>   - 中译：房子被树木包围，所以根本不会被忽视（=从任何其他建筑物都看不到它）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/overlook
+> - Our balcony overlooks the river. `[例]`
+>   - 中译：我们的阳台可以俯瞰河流。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/overlook
 ---
 
 

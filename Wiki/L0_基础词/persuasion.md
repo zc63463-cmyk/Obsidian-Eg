@@ -131,8 +131,8 @@ review_count: 0
 > [!example]- 语料
 > - Participating in these meetings gives children an understanding of democratic decision making and helps them develop their skills of argument and persuasion. `[真题]`
 > - Relying on ethical persuasion rather than law to address the misuse of body ideals may be the best step. `[真题]`
-> - After some persuasion, Clifford allowed her to go. `[语料库]`
-> - I wasn't intending to sell, but I'm open to persuasion. `[语料库]`
+> - After some persuasion, Clifford allowed her to go. `[例]`
+> - I wasn't intending to sell, but I'm open to persuasion. `[例]`
 
 
 ---

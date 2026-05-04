@@ -132,9 +132,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She did much better in the second part of the exam. `[COCA-ACAD]`
-> - The organization was established to better conditions for the disabled. `[COCA-NEWS]`
-> - I like this jacket much better than the brown one. `[例]`
+> - We're hoping for better weather tomorrow. `[例]`
+>   - 中译：我们希望明天有更好的天气。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/better
+> - Her work is getting better and better. `[例]`
+>   - 中译：她的工作越来越好。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/better
+> - He is in a much better mood than usual. `[例]`
+>   - 中译：他的心情比平时好很多。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/better
 
 
 ---

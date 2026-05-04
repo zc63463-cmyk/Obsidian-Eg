@@ -128,8 +128,8 @@ review_count: 0
 
 > [!example]- 语料
 > - His gang have been engaged in a bloody feud with a rival crime lord. `[例]`
-> - Several alleged drug lords are to be put on trial . `[例]`
-> - He likes to lord it over his little sister . `[例]`
+> - Several alleged drug lords are to be put on trial. `[例]`
+> - He likes to lord it over his little sister. `[例]`
 
 
 ---

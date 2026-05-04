@@ -125,9 +125,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - He's good at devising language games that you can play with students in class . `[例]`
+> - He's good at devising language games that you can play with students in class. `[例]`
+>   - 中译：他擅长设计可以在课堂上与学生一起玩的语言游戏。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/devise
 > - The cartoon characters Snoopy and Charlie Brown were devised by Charles M. Schultz. `[例]`
-> - He devised a new way to treat mental depression . `[例]`
+>   - 中译：卡通人物史努比和查理布朗是由查尔斯·舒尔茨设计的。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/devise
+> - Clinton and Zedillo ordered their respective Cabinets to devise a common counter-drug strategy. `[例]`
+>   - 中译：克林顿和塞迪略命令各自的内阁制定共同的禁毒战略。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/devise
 
 ---
 

@@ -133,10 +133,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "finite natural resources"（有限的自然资源）——考研阅读环保/经济类话题高频搭配
-> - "the earth's resources are finite"（地球资源是有限的）——环保类阅读常见表达
-> - "a finite number of possibilities"（有限数量的可能性）——科学/哲学类阅读常见搭配
-> - "finite and infinite"（有限与无限）——哲学/数学类阅读常见对比
+> - The funds available for the health service are finite and we cannot afford to waste money. `[例]`
+>   - 中译：可用于卫生服务的资金是有限的，我们不能浪费金钱。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/finite
+> - We only have a finite amount of time to complete this task - we can't continue indefinitely. `[例]`
+>   - 中译：我们只有有限的时间来完成这项任务——我们不能无限期地继续下去。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/finite
+> - In the following sentence "go" is finite: "I often go to the cinema. `[例]`
+>   - 中译：在下面的句子中，“go”是有限的：“我经常去电影院。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/finite
 
 ---
 

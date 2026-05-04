@@ -126,8 +126,8 @@ lyr(里拉琴，希腊语 *lyra*) + -ic(形容词/名词后缀，与……相关
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Paul Simon wrote the lyrics for most of his songs . `[例]`
-> - He is known more as a novelist than as a lyric poet . `[例]`
+> - Paul Simon wrote the lyrics for most of his songs. `[例]`
+> - He is known more as a novelist than as a lyric poet. `[例]`
 > - The most obvious difference between the genres is that narrative poems tell a story and lyric poems don’t. `[例]`
 
 

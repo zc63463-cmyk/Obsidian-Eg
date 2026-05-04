@@ -135,10 +135,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It seems that the troops deliberately violated the ceasefire agreement." `[权威语料]`
-> - "The doctor has been accused of violating professional ethics." `[权威语料]`
-> - "The laws also endanger women's health, and violate privacy rights and the Equal Protection clause of the constitution." `[权威语料]`
-> - "This speech may violate the law, rules a federal judge." `[权威语料]`
+> - It seems that the troops deliberately violated the ceasefire agreement. `[例]`
+> - The doctor has been accused of violating professional ethics. `[例]`
+> - The laws also endanger women's health, and violate privacy rights and the Equal Protection clause of the constitution. `[例]`
+> - This speech may violate the law, rules a federal judge. `[例]`
 
 
 ---

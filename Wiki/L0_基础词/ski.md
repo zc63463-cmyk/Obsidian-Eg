@@ -142,9 +142,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - We used to ski before noon and then take a long lunch at the lodge. `[外刊]`
-> - The ski resort offers a variety of services including snowmaking equipment for the slopes. `[外刊]`
-> - There are some nice gentle slopes that beginners can easily ski down. `[外刊]`
+> - The ski resort offers a variety of services including snowmaking equipment for the slopes. `[例]`
+> - There are some nice gentle slopes that beginners can easily ski down. `[例]`
+> - How wide are your skis? `[例]`
 
 
 ---

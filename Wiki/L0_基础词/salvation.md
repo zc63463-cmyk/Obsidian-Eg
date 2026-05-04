@@ -131,9 +131,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - It is striking that postal firms — once seen as obsolete because of the emergence of the internet — are now finding salvation from it. `[外刊]`
-> - Education was seen as the salvation of the poor. `[外刊]`
-> - The Lord himself is my strength and my defense; he has become my salvation. `[外刊]`
+> - It is striking that postal firms — once seen as obsolete because of the emergence of the internet — are now finding salvation from it. `[例]`
+> - Education was seen as the salvation of the poor. `[例]`
+> - The Lord himself is my strength and my defense; he has become my salvation. `[例]`
 
 
 ---

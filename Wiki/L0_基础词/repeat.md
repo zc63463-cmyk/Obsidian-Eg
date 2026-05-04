@@ -135,9 +135,9 @@ re-（[[re-|再，重新]]）+ pet（[[pet|寻求，追求]]，拉丁语 *petere
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Those who do not remember the past are condemned to repeat it." `[真题]`
-> - "Are we doomed to repeat the mistakes of the past?" `[语料库]`
-> - "Could you repeat that, please? I didn't catch what you said." `[语料库]`
+> - Those who do not remember the past are condemned to repeat it. `[真题]`
+> - Are we doomed to repeat the mistakes of the past? `[例]`
+> - Could you repeat that, please? I didn't catch what you said. `[例]`
 
 
 ---

@@ -130,8 +130,15 @@ angu(狭窄、窒息) + -ish(名词/动词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The families of the victims endured years of anguish while waiting for justice."（受害者家属在等待正义的过程中忍受了多年的痛苦。）——考研高频表达
-> - "She was in anguish over the decision that would affect her entire family."（她对将影响整个家庭的决定感到极度痛苦。）——考研高频表达
+> - His anguish at the outcome of the court case was very clear. `[例]`
+>   - 中译：他对法庭案件结果的痛苦是非常明显的。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/anguish
+> - Somehow we deal with the anguish of serious illness. `[例]`
+>   - 中译：我们以某种方式应对重病带来的痛苦。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/anguish
+> - He groaned in anguish. `[例]`
+>   - 中译：他痛苦地呻吟着。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/anguish
 
 ---
 

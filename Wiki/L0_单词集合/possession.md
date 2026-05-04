@@ -126,9 +126,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The possession of a valid passport is required for international travel. `[COCA-ACAD]`
-> - Police found a large quantity of drugs in his possession. `[COCA-ACAD]`
-> - He had sold all his possessions and left the country. `[COCA-ACAD]`
+> - The possession of large amounts of money does not ensure happiness. `[例]`
+>   - 中译：拥有大量金钱并不能保证幸福。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/possession
+> - I have in my possession a letter which may be of interest to you. `[例]`
+>   - 中译：我手上有一封信，您可能会感兴趣。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/possession
+> - He was found in possession of explosives. `[例]`
+>   - 中译：他被发现藏有爆炸物。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/possession
 
 ---
 

@@ -133,10 +133,9 @@ instruct（15世纪，源自拉丁语 *instructus*，*instruere* 的过去分词
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The lawyer instructed his client not to answer any questions without his presence. ` [真题]`
-> - The teacher instructed the students to check their answers carefully before submitting. ` [真题]`
-> - She was instructed to submit the report by the end of the week. ` [语料库]`
-> - Public universities are required to instruct students to obey a code of conduct against bullying. ` [语料库]`
+> - The police have been instructed to patrol the building and surrounding area. `[例]`
+> - The prime minister's family have been instructed not to discuss his past life with the press. `[例]`
+> - The minister was instructed to accept the advice of senior civil servants. `[例]`
 
 
 ---

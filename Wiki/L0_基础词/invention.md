@@ -125,8 +125,8 @@ in-(进入) + [[ven-vent|ven]](来，拉丁语 *venire*) + -tion(名词后缀，
 
 > [!example]- 语料
 > - The invention of the internet has revolutionized the way we communicate. `[真题]`
-> - The spinning wheel was a Chinese invention that changed textile production. `[语料库]`
-> - The story was certainly a favourite one, but it was undoubtedly pure invention. `[外刊]`
+> - The spinning wheel was a Chinese invention that changed textile production. `[例]`
+> - The story was certainly a favourite one, but it was undoubtedly pure invention. `[例]`
 
 
 ---

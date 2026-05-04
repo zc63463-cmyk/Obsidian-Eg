@@ -126,9 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Compared with Castle, Taylor is more likely :'to support __ _ A. further investment in local tourism B. an increase in affordable housing C. strict management of real estate agents D. a favorable policy for short-term workers 29. `[真题]`
-> - It's a typical country estate with a large house for the owner , farm buildings , and estate workers ' houses . `[例]`
+> - It's a typical country estate with a large house for the owner , farm buildings , and estate workers ' houses. `[例]`
 > - They moved into a four-bedroom house on a new estate. `[例]`
+> - The estate for sale includes two miles of river frontage. `[例]`
 
 
 ---

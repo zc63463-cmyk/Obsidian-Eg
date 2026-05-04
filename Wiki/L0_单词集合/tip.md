@@ -140,9 +140,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The table tipped, and all our drinks fell on the floor . `[例]`
-> - If you put too many books on one end of the shelf , it'll tip up. `[例]`
-> - The baby tipped the scales at 3.75 kg. `[例]`
+> - Here are my top tips for interview success. `[例]`
+>   - 中译：以下是我面试成功的重要秘诀。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/tip
+> - The blog offered various beauty tips. `[例]`
+>   - 中译：该博客提供了各种美容秘诀。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/tip
+> - His money tips and tricks could save a typical family up to £6 000 a year. `[例]`
+>   - 中译：他的理财秘诀和窍门可以为一个普通家庭每年节省高达 6000 英镑。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/tip
 
 ---
 

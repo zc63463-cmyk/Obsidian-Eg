@@ -130,9 +130,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Psychological problems very often underlie apparently physical disorders . `[例]`
-> - More fundamental economic problems may underlie last week’s stock market slide . `[例]`
 > - These ideas underlie much of his work. `[例]`
+>   - 中译：这些想法是他大部分工作的基础。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/underlie
+> - It is a principle that underlies all the party's policies. `[例]`
+>   - 中译：这是党的一切政策的基础原则。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/underlie
+> - A tile floor underlies the rug. `[例]`
+>   - 中译：地毯下面铺着瓷砖地板。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/underlie
 
 ---
 

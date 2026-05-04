@@ -141,10 +141,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - He was charged with driving at 75 mph in a 55 mph zone. `[例]`
-> - This stretch of coast has been designated a danger zone. `[例]`
-> - The UN Security Council has established a no-fly zone (= one where aircraft are not permitted to fly ) . `[例]`
-> - They have been working on playing zone when it is too difficult to cover a fast opponent one one one. `[例]`
+> - They have called for a 100-mile buffer zone (= protected area) around the island to protect the seals. `[例]`
+>   - 中译：他们呼吁在岛屿周围建立 100 英里的缓冲区（=保护区）来保护海豹。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/zone
+> - When the needle enters the red zone the engine is too hot. `[例]`
+>   - 中译：当指针进入红色区域时，发动机过热。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/zone
+> - When I'm in the zone, writing is the most satisfying thing in the world. `[例]`
+>   - 中译：当我处于专注状态时，写作是世界上最令人满意的事情。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/zone
 
 ---
 

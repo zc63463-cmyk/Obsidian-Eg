@@ -129,8 +129,15 @@ com-(共同，一起) + bat(打击、战斗)
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - "The government has launched a new initiative to combat climate change."（政府启动了一项应对气候变化的新计划。）——考研阅读真题
-> - "Police are using new technology to combat cybercrime."（警方正在使用新技术来打击网络犯罪。）——考研高频表达
+> - There was fierce combat between the two sides. `[例]`
+>   - 中译：双方展开了激烈的战斗。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/combat
+> - No one knew how many troops had died in combat. `[例]`
+>   - 中译：没有人知道有多少士兵在战斗中阵亡。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/combat
+> - The soldiers were engaged in hand-to-hand combat. `[例]`
+>   - 中译：士兵们正在进行肉搏战。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/combat
 
 ---
 

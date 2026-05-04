@@ -135,9 +135,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - I do have a vague memory of meeting her many years ago. `[例]`
-> - The patient had complained of vague pains and backache . `[例]`
-> - Through the mist I could just make out a vague figure . `[例]`
+> - They had only a vague idea where the place was. `[例]`
+>   - 中译：他们只知道这个地方在哪里。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/vague
+> - She's a little vague about her plans for next year. `[例]`
+>   - 中译：她对明年的计划有点模糊。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/vague
+> - The politicians made vague promises about tax cuts. `[例]`
+>   - 中译：政客们对减税做出了模糊的承诺。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/vague
 
 ---
 

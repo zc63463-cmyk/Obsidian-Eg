@@ -128,7 +128,7 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The house has four bedrooms , so it's pretty big . `[例]`
+> - The house has four bedrooms , so it's pretty big. `[例]`
 > - I'm pretty sure it was her. `[例]`
 > - I've pretty much finished here. `[例]`
 

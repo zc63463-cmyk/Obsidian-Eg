@@ -127,8 +127,15 @@ pre-(在前面) + miss/mittere(送、放出) + -e
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The argument is based on the premise that all individuals are equal before the law."（这一论点建立在所有人在法律面前人人平等的前提之上。）——考研高频表达
-> - "The research project is based on the premise that early childhood experiences have a lasting impact on adult behavior."（该项目的研究前提是童年早期的经历对成年后的行为有持久影响。）——考研高频表达
+> - They had started with the premise that all men are created equal. `[例]`
+>   - 中译：他们的出发点是人人生而平等。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/premise
+> - The research project is based on the premise stated earlier. `[例]`
+>   - 中译：该研究项目是基于前面所述的前提。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/premise
+> - We should start from the premise that circumstances might change. `[例]`
+>   - 中译：我们应该从情况可能发生变化的前提出发。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/premise
 ---
 
 

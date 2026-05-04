@@ -127,9 +127,15 @@ cancer 源自拉丁语 *cancer*（螃蟹、蟹），因为古希腊医生发现�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - It was a secondary cancer. `[例]`
-> - Drug abuse is a cancer that is destroying our society . `[例]`
-> - Praesepe is a faint cluster of stars in the constellation of Cancer. `[例]`
+> - Most skin cancers are completely curable. `[例]`
+>   - 中译：大多数皮肤癌是完全可以治愈的。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/cancer
+> - The cancer has spread to his stomach. `[例]`
+>   - 中译：癌症已经扩散到他的胃。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/cancer
+> - The drug can lower the risk of breast cancer. `[例]`
+>   - 中译：该药可以降低患乳腺癌的风险。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/cancer
 
 
 ---

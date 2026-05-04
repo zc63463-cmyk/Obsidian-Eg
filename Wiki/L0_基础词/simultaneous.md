@@ -130,9 +130,9 @@ simul-(同一，同时，拉丁语 *simul*) + -taneous(属于……时间的，�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Some hypotheses fail to account for simultaneous extinctions on land and in the seas." `[真题]`
-> - "With simultaneous interpreting, you start translating almost as soon as the other person starts speaking." `[真题]`
-> - "The report will be broadcast in Russian with simultaneous English translation." `[剑桥词典]`
+> - Some hypotheses fail to account for simultaneous extinctions on land and in the seas. `[真题]`
+> - With simultaneous interpreting, you start translating almost as soon as the other person starts speaking. `[真题]`
+> - The report will be broadcast in Russian with simultaneous English translation. `[例]`
 
 
 ---

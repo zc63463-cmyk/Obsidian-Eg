@@ -127,8 +127,15 @@ ex-(向外) + [[ag|agger]](驱动/堆积) + -ate(动词后缀) → 向外堆到�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Critics argue that the media tend to exaggerate the risks associated with new technologies."（批评者认为媒体倾向于夸大与新技术相关的风险。）——考研高频表达
-> - "The extent of the damage was greatly exaggerated in the initial news reports."（最初的新闻报道极大地夸大了损失程度。）——考研高频表达
+> - She exaggerates the existing panic. `[真题]`
+>   - 中译：她夸大了现有的恐慌。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - The threat of attack has been greatly exaggerated. `[例]`
+>   - 中译：攻击的威胁被过分夸大了。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/exaggerate
+> - I'm not exaggerating - it was the worst meal I've ever eaten in my life. `[例]`
+>   - 中译：我并不夸张——这是我一生中吃过的最糟糕的一餐。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/exaggerate
 ---
 
 

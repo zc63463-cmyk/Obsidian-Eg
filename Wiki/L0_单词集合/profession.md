@@ -122,9 +122,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - He left the teaching profession in 1965 to start his own business . `[例]`
+> - He left the teaching profession in 1965 to start his own business. `[例]`
+>   - 中译：1965年，他离开教师行业，开始自己创业。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/profession
 > - The report notes that 40 percent of lawyers entering the profession are women. `[例]`
-> - Teaching as a profession is very underpaid . `[例]`
+>   - 中译：报告指出，进入该行业的律师中有 40% 是女性。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/profession
+> - Teaching as a profession is very underpaid. `[例]`
+>   - 中译：教学作为一种职业，报酬非常低。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/profession
 
 
 ---

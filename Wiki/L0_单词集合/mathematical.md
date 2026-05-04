@@ -134,11 +134,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - They recorded the changes with mathematical precision. `[COCA-ACAD]`
-> - The team has only a mathematical chance of making the play-offs. `[COCA-NEWS]`
-> - Paulino's team used mathematical models from origami design to program these motions. `[COCA-ACAD]`
-> - Every schoolboy knows that it is possible to be unsure about a mathematical truth. `[COCA-ACAD]`
-> - The whole trip was planned with mathematical precision. `[COCA-FIC]`
+> - The researchers used a mathematical formula to calculate the total population number. `[例]`
+>   - 中译：研究人员使用数学公式来计算总人口数。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/mathematical
+> - It was a mathematical problem that he could not solve. `[例]`
+>   - 中译：这是一个他无法解决的数学问题。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/mathematical
+> - Maxwell devised the mathematical equations that explain the forces of electricity and magnetism. `[例]`
+>   - 中译：麦克斯韦设计了解释电力和磁力的数学方程。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/mathematical
 
 ---
 

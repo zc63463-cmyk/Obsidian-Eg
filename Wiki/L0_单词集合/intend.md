@@ -128,9 +128,15 @@ in-(=into/toward, 向内/朝向) + [[tend-tens|tend]](=伸展，拉丁语 *tende
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The course is intended for intermediate-level students. `[COCA-ACAD]`
-> - They intend to invest directly in shares. `[COCA-ACAD]`
-> - I had intended to go for a run, but now I just can't face it. `[COCA-ACAD]`
+> - Somehow I offended him, which wasn't what I'd intended. `[例]`
+>   - 中译：不知怎的，我冒犯了他，这不是我的本意。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/intend
+> - I don't think she intended me to hear the remark. `[例]`
+>   - 中译：我不认为她想让我听到这句话。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/intend
+> - The course is intended for intermediate-level students. `[例]`
+>   - 中译：该课程面向中级学生。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/intend
 
 ---
 

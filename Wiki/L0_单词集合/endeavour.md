@@ -129,10 +129,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Crossing the North Pole on foot was an amazing feat of human endeavour. `[COCA-ACAD]`
-> - I will endeavour to do my best for my country. `[COCA-ACAD]`
-> - In spite of our best endeavours, it has proven impossible to contact her. `[COCA-ACAD]`
-> - Any form of scientific endeavour must attempt to transcend its time and place. `[例]`
+> - Engineers are endeavouring to locate the source of the problem. `[例]`
+>   - 中译：工程师们正在努力找出问题的根源。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/endeavour
+> - In spite of our best endeavours, it has proven impossible to contact her. `[例]`
+>   - 中译：尽管我们尽了最大努力，但事实证明还是无法联系到她。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/endeavour
+> - Crossing the North Pole on foot was an amazing feat of human endeavour. `[例]`
+>   - 中译：徒步穿越北极是人类的一项惊人壮举。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/endeavour
 
 ---
 

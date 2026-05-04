@@ -124,9 +124,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - They started washing up, so that was our cue to leave the party . `[例]`
-> - I was just wondering where Sarah was, when, right on cue, she came in. `[例]`
-> - She watched his lips carefully and took her cue from him. `[例]`
+> - Jon's arrival was a cue for more champagne. `[例]`
+>   - 中译：乔恩的到来暗示我们要喝更多的香槟。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/cue
+> - I think that's my cue to explain why I'm here. `[例]`
+>   - 中译：我想这是我解释为什么我在这里的暗示。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/cue
+> - She stood in the wings and waited for her cue to go on. `[例]`
+>   - 中译：她站在侧翼等待她的提示继续。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/cue
 
 
 ---

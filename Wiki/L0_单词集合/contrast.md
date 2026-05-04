@@ -138,9 +138,15 @@ contra-(反，对立) + st(站立) = contrast（对立而立）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - In contrast to his predecessor, the new CEO is more willing to take risks. `[COCA-ACAD]`
-> - By contrast, the European approach emphasizes regulation and oversight. `[COCA-ACAD]`
-> - There is a sharp contrast between the two economic policies. `[例]`
+> - I like the contrast of the white trousers with the black jacket. `[例]`
+>   - 中译：我喜欢白色裤子与黑色夹克的对比。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/contrast
+> - The antique furnishing provides an unusual contrast to the modernity of the building. `[例]`
+>   - 中译：古董家具与现代建筑形成鲜明对比。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/contrast
+> - There's a marked contrast between his character and hers. `[例]`
+>   - 中译：他的性格和她的性格形成了鲜明的对比。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/contrast
 
 ---
 

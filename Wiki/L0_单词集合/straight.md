@@ -131,9 +131,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She has straight blonde hair . `[例]`
-> - Skirts this summer are long and straight. `[例]`
-> - Can't you see it? - it's straight ahead (of you)! `[例]`
+> - Keep straight on for two miles. `[例]`
+>   - 中译：继续直行两英里。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/straight
+> - He was too tired to walk straight. `[例]`
+>   - 中译：他太累了，无法直走。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/straight
+> - She looked me straight in the eye. `[例]`
+>   - 中译：她直视着我的眼睛。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/straight
 ---
 
 

@@ -126,9 +126,15 @@ any(任何) + way(方式/路径)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - If it's their vacation home anyway, and it's just empty, why c:an't you make money off it?" Hom said. `[真题]`
-> - Of course I don't mind taking you home - I'm going that way anyway. `[例]`
-> - I thought you said everyone had left ." "Well, some of them have anyway. `[例]`
+> - It's too expensive and anyway the colour doesn't suit you. `[例]`
+>   - 中译：太贵了，而且颜色也不适合你。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/anyway
+> - It's too late now, anyway. `[例]`
+>   - 中译：无论如何，现在已经太晚了。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/anyway
+> - It's going to happen anyway, so we won't object to it. `[例]`
+>   - 中译：无论如何，这都会发生，所以我们不会反对。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/anyway
 
 
 ---

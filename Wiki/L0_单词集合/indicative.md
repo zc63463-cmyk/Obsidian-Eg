@@ -126,10 +126,15 @@ in-（= into/toward，向/朝向）+ [[dic]](说/指出) + -ative（形容词后
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Past performance is not indicative of future results. `` `[COCA]` ``
-> - The results are indicative of a broader trend in the industry. `` `[COCA-ACAD]` ``
-> - His lack of enthusiasm was indicative of his true feelings. `` `[COCA]` ``
-> - The indicative mood is used to make statements of fact. `` `[COCA-ACAD]` ``
+> - Resumption of the talks is indicative of an improving relationship between the countries. `[例]`
+>   - 中译：恢复会谈标志着两国关系的改善。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/indicative
+> - In the sentence "We walked home " the verb " walked " is in the indicative. `[例]`
+>   - 中译：在“我们步行回家”这句话中，动词“步行”是陈述语气。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/indicative
+> - Resumption of the talks is indicative of an improved relationship between the countries. `[例]`
+>   - 中译：恢复会谈标志着两国关系的改善。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/indicative
 
 ---
 

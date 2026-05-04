@@ -127,9 +127,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The doctor told me to breathe in and hold it for three seconds . `[例]`
-> - Breathing in just a small amount of the gas can cause serious damage . `[例]`
-> - The man at the next table was breathing out smoke through his nostrils . `[例]`
+> - He breathed deeply before speaking again. `[例]`
+>   - 中译：他深呼吸了一口气，才再次开口。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/breathe
+> - The air was so cold we could hardly breathe. `[例]`
+>   - 中译：空气很冷，我们几乎无法呼吸。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/breathe
+> - She was beginning to breathe more easily. `[例]`
+>   - 中译：她的呼吸开始变得更加顺畅。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/breathe
 
 
 ---

@@ -124,9 +124,15 @@ com-(一起) + [[pan|pan-]](面包，拉丁语 *panis*) + -ion(名词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The dog has been her constant companion these past ten years . `[例]`
-> - I've still got one of the candlesticks but I've lost its companion. `[例]`
-> - The Music Lover's Companion. `[例]`
+> - Geoff was my companion on the journey. `[例]`
+>   - 中译：杰夫是我旅途中的同伴。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/companion
+> - Fear was the hostages' constant companion. `[例]`
+>   - 中译：恐惧始终伴随着人质。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/companion
+> - She was a charming dinner companion. `[例]`
+>   - 中译：她是一位迷人的晚餐伴侣。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/companion
 
 
 ---

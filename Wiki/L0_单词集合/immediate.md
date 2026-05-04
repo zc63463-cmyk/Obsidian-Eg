@@ -130,9 +130,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The new policy had an immediate impact on housing prices. `[COCA-NEWS]`
-> - We must take immediate action to address the environmental crisis. `[COCA-ACAD]`
-> - Only immediate family members were allowed to visit the patient. `[COCA-NEWS]`
+> - We must make an immediate response. `[例]`
+>   - 中译：我们必须立即做出反应。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/immediate
+> - Dioxin is a poison that takes immediate effect. `[例]`
+>   - 中译：二恶英是一种立即生效的毒物。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/immediate
+> - The workers will be made redundant with immediate effect. `[例]`
+>   - 中译：这些工人将立即被裁员。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/immediate
 
 ---
 

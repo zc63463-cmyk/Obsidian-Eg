@@ -125,9 +125,15 @@ over-（在……上方/越过）+ come（来，到达）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She overcame numerous obstacles to achieve her goal of becoming a doctor." `[COCA-ACAD]`
-> - "Two school friends have died after being overcome by leaking gas fumes in holiday accommodation." `[COCA-NEWS]`
-> - "There are many technical challenges to overcome, but the team believes it will succeed." `[COCA-ACAD]`
+> - Eventually she managed to overcome her shyness in class. `[例]`
+>   - 中译：最终她在课堂上克服了害羞的心理。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/overcome
+> - Their resolute opposition to new working methods was difficult to overcome. `[例]`
+>   - 中译：他们对新工作方法的坚决反对很难克服。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/overcome
+> - The plan was designed to help women and minorities overcome discrimination in the workplace. `[例]`
+>   - 中译：该计划旨在帮助妇女和少数族裔克服工作场所的歧视。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/overcome
 
 ---
 

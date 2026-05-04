@@ -3,10 +3,8 @@ title: "mindlessly"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 人本世界
 prototype: 不动脑筋地做某事
@@ -43,7 +41,7 @@ mind(心智/头脑) + -less(没有) + -ly(副词后缀)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**不动脑筋地**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **不动脑筋地**（行为层面）
@@ -64,7 +62,7 @@ mind(心智/头脑) + -less(没有) + -ly(副词后缀)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ mind(心智/头脑) + -less(没有) + -ly(副词后缀)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > mind（脑子）+ -less（没有）= mindless（没脑子的），加 -ly 变副词。mindlessly eat popcorn 就是看电影时不知不觉把一桶爆米花吃完了——你的脑子在看电影，手在自动吃。mindlessly conform 就是别人说什么你就信什么，不用脑子想。
@@ -86,7 +84,7 @@ mind(心智/头脑) + -less(没有) + -ly(副词后缀)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ mind(心智/头脑) + -less(没有) + -ly(副词后缀)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[mindfully]]：正念地，用心地（mindlessly 的精确反义：不假思索↔用心关注）
 > - [[thoughtfully]]：深思熟虑地（mindlessly 的反义：不假思索↔深思熟虑）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,7 +116,7 @@ mind(心智/头脑) + -less(没有) + -ly(副词后缀)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **mindlessly follow**：盲目跟随
 > - **mindlessly scroll**：无意识地刷手机
 > - **mindlessly repeat**：机械地重复
@@ -126,19 +124,12 @@ mind(心智/头脑) + -less(没有) + -ly(副词后缀)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - Some children started mindlessly hurling stones at passing vehicles . `[例]`
-> - It was mindlessly dull work . `[例]`
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
+> [!example]- 语料
+> - Some children started mindlessly hurling stones at passing vehicles. `[例]`
+> - It was mindlessly dull work. `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

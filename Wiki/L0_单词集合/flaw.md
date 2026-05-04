@@ -119,8 +119,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The fatal flaw of the security program is that passengers must pay a high fee to enroll."（该安检项目的致命缺陷是乘客必须支付高额费用才能注册。）——考研真题
-> - "The author pointed out lots of flaws in his seemingly perfect essay."（作者指出了他那篇看似完美的文章中的许多瑕疵。）——考研高频表达
+> - I returned the material because it had a flaw in it. `[例]`
+>   - 中译：我退回了材料，因为它有缺陷。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/flaw
+> - There's a fatal flaw in your reasoning. `[例]`
+>   - 中译：你的推理有一个致命的缺陷。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/flaw
+> - This report is full of flaws. `[例]`
+>   - 中译：这份报告漏洞百出。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/flaw
 
 ---
 

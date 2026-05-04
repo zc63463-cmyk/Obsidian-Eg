@@ -125,9 +125,15 @@ con-(=com-, 完全/彻底) + [[vinc-vict|vinc]](=conquer, 征服，拉丁语 *vi
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Incidents such as this convinced the administrators that they no longer controlled the mills. `[COCA-ACAD]`
-> - There is much here that is useful, and it is hard not to be convinced by the central message. `[COCA-ACAD]`
-> - I hope this will convince you to change your mind. `[COCA-MAG]`
+> - Are the prime minister's assurances enough to convince the public? `[例]`
+>   - 中译：首相的保证足以说服公众吗？
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/convince
+> - I'd be very surprised if this argument convinces anybody. `[例]`
+>   - 中译：如果这个论点能说服任何人，我会感到非常惊讶。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/convince
+> - She has managed to convince even the sceptics. `[例]`
+>   - 中译：她甚至成功说服了怀疑论者。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/convince
 
 
 ---

@@ -119,7 +119,7 @@ review_count: 0
 > [!example]- 语料
 > - Mary was always the perfect hostess. `[例]`
 > - Many thanks to our host and hostess for such a wonderful evening. `[例]`
-> - We were greeted by our hostess . `[例]`
+> - We were greeted by our hostess. `[例]`
 
 
 ---

@@ -134,9 +134,15 @@ allow（允许）+ -ance（名词后缀，表示状态/行为）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The perks of the job include a company pension and a generous travel allowance. `[例]`
-> - I couldn't have managed at college if I hadn't had an allowance from my parents . `[例]`
-> - We should make allowance for bad weather and have plenty of umbrellas available . `[例]`
+> - Do you get an allowance for clothing? `[例]`
+>   - 中译：你有服装津贴吗？
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/allowance
+> - Roman soldiers received a salt allowance, called salarium, the origin of the word salary. `[例]`
+>   - 中译：罗马士兵领取盐津贴，称为salarium，是“salary”一词的由来。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/allowance
+> - The recommended daily allowance of vitamin C is 60–90 milligrams. `[例]`
+>   - 中译：维生素 C 的每日推荐摄入量为 60-90 毫克。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/allowance
 
 
 ---

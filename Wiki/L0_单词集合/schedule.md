@@ -138,10 +138,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The project will be completed on schedule this summer. `[COCA-ACAD]`
-> - The new bridge has been finished two years ahead of schedule. `[COCA-ACAD]`
-> - Managers need to know whether work is proceeding on schedule. `[COCA-ACAD]`
-> - Filming began on schedule. `[COCA-ACAD]`
+> - Everything went according to schedule (= as had been planned ). `[例]`
+>   - 中译：一切都按计划进行（=按计划进行）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/schedule
+> - The class schedule is available on the website. `[例]`
+>   - 中译：课程表可在网站上找到。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/schedule
+> - We expect the building work to be completed ahead of schedule. `[例]`
+>   - 中译：我们预计建筑工程将提前完成。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/schedule
 
 ---
 

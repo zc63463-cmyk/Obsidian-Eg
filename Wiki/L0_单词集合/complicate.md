@@ -125,9 +125,15 @@ com-(共同/一起) + plic(折叠、编织) + -ate(动词后缀，表"使动")
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The issue is further complicated by the fact that different countries have different regulations. `[COCA-ACAD]`
-> - Technological advances have both simplified and complicated our lives. `[例]`
-> - Don't complicate matters by introducing new variables at this stage. `[例]`
+> - It will only complicate the situation if we invite his old girlfriend as well. `[例]`
+>   - 中译：如果我们把他的旧女友也请来的话，只会让情况变得更加复杂。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/complicate
+> - The rescue operation has been complicated by bad weather. `[例]`
+>   - 中译：由于恶劣天气，救援行动变得更加复杂。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/complicate
+> - These new rules have complicated the tax system even further. `[例]`
+>   - 中译：这些新规定使税收制度变得更加复杂。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/complicate
 
 ---
 

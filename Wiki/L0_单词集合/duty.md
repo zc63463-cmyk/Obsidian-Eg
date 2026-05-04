@@ -124,10 +124,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It is the duty of the government to protect the rights of its citizens." `[COCA-ACAD]`
-> - "It is my duty as a police officer to protect and serve the community." `[COCA-ACAD]`
-> - "The legislature has been charged with the duty of determining their rights." `[COCA-ACAD]`
-> - "He felt a sense of duty to take care of his aging parents." `[COCA-ACAD]`
+> - Specify the duties and requirements of the job. `[真题]`
+>   - 中译：明确工作的职责和要求。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - The duty of the agency is to act in the best interests of the child. `[例]`
+>   - 中译：该机构的职责是为了儿童的最大利益行事。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/duty
+> - I felt it was my duty to tell them the truth. `[例]`
+>   - 中译：我觉得我有责任告诉他们真相。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/duty
 
 ---
 

@@ -123,9 +123,9 @@ plat-(平坦，来自法语 *plat*) + [[form|form]](形状，形式)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The next train for Aberdeen will depart from platform 9. `[例]`
 > - The whole audience stood up and applauded as the party's new leader mounted the platform. `[例]`
-> - This brilliant young violinist has appeared on concert platforms all round the world . `[例]`
+> - This brilliant young violinist has appeared on concert platforms all round the world. `[例]`
+> - An elderly lady stood up and said she had a question for the platform. `[例]`
 
 
 ---

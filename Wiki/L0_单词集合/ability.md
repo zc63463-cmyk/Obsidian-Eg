@@ -134,9 +134,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "the ability to communicate effectively"（有效沟通的能力）——考研写作和阅读中极高频搭配
-> - "have the ability to adapt to change"（有适应变化的能力）——社会/科技类话题中常见
-> - "beyond one's ability"（超出某人的能力范围）——教育类阅读语境
+> - PRH declined to comment on the issue , but a spokesperson for W aterstones told me : " W aterstones are currently operating with reduced credit terms from PRH, the only publisher in the UK to place any limitations on our ability to trade. `[真题]`
+>   - 中译：PRH 拒绝就此事发表评论，但 Waterstones 的一位发言人告诉我：“Waterstones 目前正在以 PRH 降低的信贷条件运营，PRH 是英国唯一一家对我们的交易能力施加任何限制的出版商。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - There's no doubting her ability. `[例]`
+>   - 中译：她的能力是毋庸置疑的。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/ability
+> - She had the ability to explain things clearly and concisely. `[例]`
+>   - 中译：她有能力清晰简洁地解释事情。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/ability
 
 ---
 

@@ -130,9 +130,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - His arguments were based on faulty reasoning . `[例]`
-> - The company recalled over 500,000 cars last year because of a faulty connection in their new model . `[例]`
-> - The verdict was based on faulty reasoning on the part of the jury . `[例]`
+> - His arguments were based on faulty reasoning. `[例]`
+> - The company recalled over 500,000 cars last year because of a faulty connection in their new model. `[例]`
+> - The verdict was based on faulty reasoning on the part of the jury. `[例]`
 
 
 ---

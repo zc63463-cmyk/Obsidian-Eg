@@ -127,9 +127,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "questionnaires were distributed to 500 participants"（向500名参与者分发了问卷）——考研阅读中研究方法类文章常见
-> - "data collected through questionnaires"（通过问卷收集的数据）——考研翻译/阅读中学术类话题
-> - "design a questionnaire to assess public opinion"（设计问卷以评估公众意见）——考研写作中可用的学术表达
+> - Visitors to the country have been asked to fill in a detailed questionnaire. `[例]`
+>   - 中译：该国的游客被要求填写一份详细的调查问卷。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/questionnaire
+> - All manufacturing companies registered as exporters were asked to complete a questionnaire about their exports. `[例]`
+>   - 中译：所有注册为出口商的制造公司都被要求填写一份有关其出口的调查问卷。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/questionnaire
+> - The study is based on the responses of 302 employers to an online questionnaire. `[例]`
+>   - 中译：该研究基于 302 名雇主对在线调查问卷的答复。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/questionnaire
 
 ---
 

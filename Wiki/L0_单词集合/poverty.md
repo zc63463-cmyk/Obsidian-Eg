@@ -122,9 +122,15 @@ pov/pauper(贫穷) + -erty(名词后缀，表示状态)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Millions of people around the world still live in extreme poverty." `` `[COCA-ACAD]` ``
-> - "Education is widely regarded as the most effective way to escape poverty." `` `[COCA-ACAD]` ``
-> - "He emigrated to Australia to escape the grinding poverty of his birthplace." `` `[COCA]` ``
+> - He emigrated to Australia to escape the grinding (= very great ) poverty of his birthplace. `[例]`
+>   - 中译：他移民到澳大利亚是为了逃离出生地的极度贫困。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/poverty
+> - Helping to alleviate poverty in developing countries also helps to reduce environmental destruction. `[例]`
+>   - 中译：帮助发展中国家减轻贫困也有助于减少环境破坏。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/poverty
+> - There is a disappointing poverty of creativity in their work. `[例]`
+>   - 中译：他们的工作缺乏创造力，令人失望。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/poverty
 
 ---
 

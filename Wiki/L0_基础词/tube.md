@@ -128,8 +128,8 @@ tube 源自拉丁语 *tubus*（管子、管道），词源不明。可能与拉�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Gases produced in the reaction pass through this tube and can then be collected . `[例]`
-> - What's on the tube this weekend ? `[例]`
+> - Gases produced in the reaction pass through this tube and can then be collected. `[例]`
+> - What's on the tube this weekend? `[例]`
 > - She lay in the hospital , tubes going in and out of her. `[例]`
 
 

@@ -128,8 +128,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - "Many families cannot afford to send their children to college."（许多家庭负担不起送孩子上大学的费用。）——考研阅读真题
-> - "The government can no longer afford to ignore the problem of climate change."（政府再也承受不起忽视气候变化问题的代价了。）——考研高频表达
+> - I don't know how he can afford a new car on his salary. `[例]`
+>   - 中译：我不知道他的薪水怎么买得起一辆新车。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/afford
+> - The hut afforded little protection from the elements. `[例]`
+>   - 中译：小屋几乎没有提供任何保护。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/afford
+> - Her seat afforded her an uninterrupted view of the stage. `[例]`
+>   - 中译：她的座位使她能够一览无遗地看到舞台。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/afford
 
 ---
 

@@ -128,9 +128,9 @@ loan 源自古诺斯语 *lān*（借），与 lend 同源。
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She's trying to get a £50,000 loan to start her own business . `[例]`
-> - She had to take out a short-term loan to cover the costs . `[例]`
-> - We could apply for a loan to buy a car . `[例]`
+> - She's trying to get a £50,000 loan to start her own business. `[例]`
+> - She had to take out a short-term loan to cover the costs. `[例]`
+> - We could apply for a loan to buy a car. `[例]`
 
 
 ---

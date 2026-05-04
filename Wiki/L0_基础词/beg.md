@@ -125,9 +125,15 @@ beg 为日耳曼语源词，无可拆分的词根词缀结构。
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Such behaviour is regarded as 'all too human,' with the underlying assumption that other animals would not be capable of this finely developed sense of grievance." `[真题]`
-> - "Needless to say, this reply begs the question." `[COCA-ACAD]`
-> - "He begged her to stay, but she simply laughed and put her bags in the car." `[COCA-FIC]`
+> - Now you have to beg and plead. `[例]`
+>   - 中译：现在你必须乞求和恳求。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/beg
+> - He wants to see them beg for mercy. `[例]`
+>   - 中译：他要看到他们求饶。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/beg
+> - They begged him for help. `[例]`
+>   - 中译：他们向他求助。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/beg
 
 
 ---

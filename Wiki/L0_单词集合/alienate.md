@@ -125,7 +125,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The government's austerity measures have alienated large segments of the population.（政府的紧缩措施使广大民众感到疏远。）
+> - All these changes to the newspaper have alienated its traditional readers. `[例]`
+>   - 中译：报纸的所有这些变化都疏远了它的传统读者。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/alienate
+> - Disagreements can alienate teenagers from their families. `[例]`
+>   - 中译：意见分歧会使青少年与家人疏远。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/alienate
+> - All these changes to the newspaper have alienated its old readers. `[例]`
+>   - 中译：报纸的所有这些变化都疏远了它的老读者。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/alienate
 
 ---
 

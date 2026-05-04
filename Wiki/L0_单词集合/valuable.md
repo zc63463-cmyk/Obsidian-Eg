@@ -140,9 +140,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - These antiques are extremely valuable. `[例]`
-> - This is losing valuable business for the company . `[例]`
-> - He was able to provide the police with some valuable information . `[例]`
+> - My home is my most valuable asset. `[例]`
+>   - 中译：我的家是我最宝贵的资产。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/valuable
+> - She claims hospitals waste valuable resources by admitting patients days before surgery. `[例]`
+>   - 中译：她声称医院在手术前几天收治病人浪费了宝贵的资源。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/valuable
+> - Luckily, nothing valuable was stolen. `[例]`
+>   - 中译：幸运的是，没有什么值钱的东西被盗。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/valuable
 
 ---
 

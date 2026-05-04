@@ -137,10 +137,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Grids using even larger voltages are now being constructed, but will probably make only a `marginal` improvement in costs. `[COCA-ACAD]`
-> - The `marginal` cost of oil production in many Persian Gulf states is roughly $20 per barrel. `[COCA-ACAD]`
-> - Thus, `marginal` cost pricing preserves efficiency in the irrigation sector. `[COCA-ACAD]`
-> - The report suggests there has been only a `marginal` improvement in living standards. `[真题]`
+> - The report suggests that there has only been a marginal improvement in women's pay over the past few years. `[例]`
+>   - 中译：报告显示，过去几年来，女性的工资仅略有提高。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/marginal
+> - Marginal gain is the idea that small , incremental improvements can lead to significant overall gains. `[例]`
+>   - 中译：边际收益是指小的、渐进的改进可以带来显着的整体收益。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/marginal
+> - Asked whether any one of his marginal gains had been crucial , Brailsford said: "Not really. It's an amalgamation of everything that we do. `[例]`
+>   - 中译：当被问及他的任何一项边际收益是否至关重要时，布雷斯福德说：“并非如此。这是我们所做的一切的结合。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/marginal
 
 ---
 

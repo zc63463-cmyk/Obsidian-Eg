@@ -3,10 +3,8 @@ title: "stuck"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-25
-mastery: L0
 word_freq: 超纲词
 semantic_field: 人体动作
 prototype: 卡住了（动不了的状态）
@@ -43,7 +41,7 @@ stick（粘住）的过去分词形式 stuck
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**卡住了（动不了的状态）**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **卡住了**（物理层面）
@@ -66,7 +64,7 @@ stick（粘住）的过去分词形式 stuck
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ stick（粘住）的过去分词形式 stuck
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > stick（粘住）→ stuck（被粘住了）。车 stuck in traffic（堵在路上），电梯 stuck between floors（卡在楼层之间），I'm stuck on this math problem（这道数学题把我卡住了）。stuck 的画面就是——你想动，但动不了。
@@ -88,7 +86,7 @@ stick（粘住）的过去分词形式 stuck
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +98,13 @@ stick（粘住）的过去分词形式 stuck
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[free]]：自由的（stuck 的反义：卡住↔自由）
 > - [[unstuck]]：脱开的（stuck 的反义：卡住↔脱开）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,7 +115,7 @@ stick（粘住）的过去分词形式 stuck
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **stuck in traffic**：堵在路上
 > - **get stuck**：卡住
 > - **be stuck on sth.**：被某事难住
@@ -125,19 +123,12 @@ stick（粘住）的过去分词形式 stuck
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - This door seems to be stuck - can you help me push it open ? `[例]`
-> - Seven of us were stuck in the lift for over an hour . `[例]`
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-25 | **复习次数**：0 | **当前等级**：L0
-
----
+> [!example]- 语料
+> - This door seems to be stuck - can you help me push it open? `[例]`
+> - Seven of us were stuck in the lift for over an hour. `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

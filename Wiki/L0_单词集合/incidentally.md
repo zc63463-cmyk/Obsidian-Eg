@@ -129,9 +129,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Incidentally, I happened to meet him at the conference. `[COCA-FIC]`
-> - The information was discovered incidentally during the investigation. `[COCA-ACAD]`
-> - She lost her keys and, incidentally, her phone at the park. `[COCA-FIC]`
+> - We had a marvellous meal at that restaurant you recommended - incidentally, I must give you the number of a similar one I know. `[例]`
+>   - 中译：我们在你推荐的那家餐厅吃了一顿美味的饭——顺便说一句，我必须告诉你我知道的一家类似餐厅的电话号码。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/incidentally
+> - Incidentally, I wanted to have a word with you about your travel expenses. `[例]`
+>   - 中译：顺便说一句，我想和你谈谈你的旅行费用。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/incidentally
+> - Ain’t” was mentioned only incidentally in an article about nonstandard words. `[例]`
+>   - 中译：Ain’t”只是在一篇关于非标准词的文章中偶然提到的。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/incidentally
 
 ---
 

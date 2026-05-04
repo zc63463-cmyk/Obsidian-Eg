@@ -132,9 +132,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Each brick also varies slightly in tone, texture and size." `[真题]`
-> - "This artificial fabric has the texture of silk." `[词典]`
-> - "The bread has a crumbly texture." `[词典]`
+> - Each brick also varies slightly in tone, texture and size. `[真题]`
+> - This artificial fabric has the texture of silk. `[例]`
+> - The bread has a crumbly texture. `[例]`
 
 
 ---

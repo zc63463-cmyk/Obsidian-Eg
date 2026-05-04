@@ -132,9 +132,15 @@ craft（源自古英语 *cræft*，力量、体力、技能，原始日耳曼语
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Many delegates were willing to craft a compromise after weeks of negotiation. `[真题]`
-> - The author extracts the maximum from every carefully crafted scene in this witty tale. `[真题]`
-> - The windows would probably have been crafted in the latter part of the Middle Ages. `[真题]`
+> - He knew how to win by craft and diplomacy what he could not gain by force. `[例]`
+>   - 中译：他知道如何通过技巧和外交赢得他无法通过武力获得的东西。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/craft
+> - Hundreds of small craft bobbed around the liner as it steamed into the harbour. `[例]`
+>   - 中译：当客轮驶入港口时，数百艘小型船只在客轮周围上下浮动。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/craft
+> - The furniture is crafted from bamboo. `[例]`
+>   - 中译：家具是用竹子制成的。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/craft
 
 
 ---

@@ -3,10 +3,8 @@ title: "accrue"
 tags:
   - 学习/英语/词汇
   - 语义场/资本经济
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 资本经济
 prototype: 向着增长（自然积累增加）
@@ -43,7 +41,7 @@ ac-(=ad-, 朝向) + crue(=cresc，增长，拉丁语 *crescere*)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**向着增长**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **向着增长**（过程层面）
@@ -66,7 +64,7 @@ ac-(=ad-, 朝向) + crue(=cresc，增长，拉丁语 *crescere*)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ ac-(=ad-, 朝向) + crue(=cresc，增长，拉丁语 *crescere*)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > ac（朝向）+ crue（增长，如 increase 中的 crease/cresc）→ 向着增长。你的存款每天 accrue 利息，你的经验每年 accrue 知识。accrue 强调的是"自然而然地增长"，不是一次性获得。
@@ -88,7 +86,7 @@ ac-(=ad-, 朝向) + crue(=cresc，增长，拉丁语 *crescere*)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +98,13 @@ ac-(=ad-, 朝向) + crue(=cresc，增长，拉丁语 *crescere*)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[diminish]]：减少，缩小
 > - [[depreciate]]：贬值（accrue 的金融反义）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,7 +115,7 @@ ac-(=ad-, 朝向) + crue(=cresc，增长，拉丁语 *crescere*)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **accrued interest**：应计利息
 > - **accrue to**：归因于，积累给
 > - **accrue from**：从……中获得/积累
@@ -125,20 +123,13 @@ ac-(=ad-, 朝向) + crue(=cresc，增长，拉丁语 *crescere*)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - Interest accrues on a daily basis on most savings accounts. `[例]`
 > - Benefits accruing from the new policy will be distributed to all employees over the next fiscal year. `[例]`
 > - Vacation days accrue gradually as employees continue working for the organization. `[例]`
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
-
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

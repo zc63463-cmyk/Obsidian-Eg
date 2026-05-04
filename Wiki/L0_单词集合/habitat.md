@@ -130,9 +130,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The destruction of natural habitats threatens many species with extinction."（天然栖息地的破坏使许多物种面临灭绝威胁）——考研阅读环保类高频话题
-> - "Polar bears' natural habitat is the Arctic ice."（北极熊的天然栖息地是北极冰原）——科普类阅读语境
-> - "The city provides a rich habitat for artists and writers."（这座城市为艺术家和作家提供了丰富的生存土壤）——文化类阅读引申用法
+> - With so many areas of woodland being cut down, a lot of wildlife is losing its natural habitat. `[例]`
+>   - 中译：由于大量林地被砍伐，许多野生动物正在失去自然栖息地。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/habitat
+> - The panda's natural habitat is the bamboo forest. `[例]`
+>   - 中译：大熊猫的自然栖息地是竹林。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/habitat
+> - The marshes provide a rich habitat for water plants. `[例]`
+>   - 中译：沼泽为水生植物提供了丰富的栖息地。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/habitat
 
 ---
 

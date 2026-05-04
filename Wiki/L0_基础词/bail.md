@@ -131,10 +131,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The plane's engine failed and the pilot was forced to bail out. [COCA]
-> - She keeps running up huge debts and asking friends to bail her out. [COCA]
-> - The responsibility for dealing with young people on remand rests with the local authorities, except where they are bailed or are remanded to prison custody. [COCA]
-> - The government was forced to bail out several major banks during the financial crisis to prevent a complete collapse of the banking system. `[例]`
+> - Can anyone put up bail for you? `[例]`
+>   - 中译：有人可以为你保释吗？
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bail
+> - She was released on £2 000 bail. `[例]`
+>   - 中译：她以 2000 英镑的保释金获释。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bail
+> - Bail was set at $1 million. `[例]`
+>   - 中译：保释金定为100万美元。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bail
 
 
 ---

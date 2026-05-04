@@ -128,8 +128,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The accountant certified the accuracy of the financial statements."（会计师证明了财务报表的准确性）——商务/法律类阅读语境
-> - "She is a certified yoga instructor with over ten years of experience."（她是一位拥有十多年经验的持证瑜伽教练）——人物介绍类语境
+> - I hereby certify (that) the above information is true and accurate. `[例]`
+>   - 中译：本人特此证明上述信息真实准确。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/certify
+> - The man was certified (as) dead on arrival at the hospital. `[例]`
+>   - 中译：该男子抵达医院后被证实死亡。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/certify
+> - The meat has been certified (as) fit for human consumption. `[例]`
+>   - 中译：该肉已被证明适合人类食用。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/certify
 
 ---
 

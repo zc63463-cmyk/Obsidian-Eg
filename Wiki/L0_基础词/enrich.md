@@ -125,9 +125,9 @@ en-(使动前缀，使…成为) + rich(富有) → 使富有
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Fertilizer helps to enrich the soil . `[例]`
+> - Fertilizer helps to enrich the soil. `[例]`
 > - My life was greatly enriched by knowing her. `[例]`
-> - He claimed that the large stores were enriching themselves at the expense of their customers . `[例]`
+> - He claimed that the large stores were enriching themselves at the expense of their customers. `[例]`
 
 
 ---

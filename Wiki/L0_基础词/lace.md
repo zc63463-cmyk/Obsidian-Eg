@@ -130,9 +130,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She was wearing a pretty lace dress . `[例]`
-> - In Burano, the days of ladies making lace on the doorsteps of their brightly coloured houses is all but history . `[例]`
-> - The gown is trimmed with lace and sequins . `[例]`
+> - She was wearing a pretty lace dress. `[例]`
+> - In Burano, the days of ladies making lace on the doorsteps of their brightly coloured houses is all but history. `[例]`
+> - The gown is trimmed with lace and sequins. `[例]`
 
 
 ---

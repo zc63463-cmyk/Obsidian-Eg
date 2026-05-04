@@ -125,8 +125,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - One official dismissed the ceasefire as a mere propaganda exercise . `[例]`
-> - The report is just a political propaganda tool . `[例]`
+> - One official dismissed the ceasefire as a mere propaganda exercise. `[例]`
+> - The report is just a political propaganda tool. `[例]`
 > - In the cyber attack , the home pages of official websites were replaced with anti-government propaganda. `[例]`
 
 

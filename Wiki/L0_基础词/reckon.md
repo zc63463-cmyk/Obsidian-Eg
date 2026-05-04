@@ -130,10 +130,10 @@ reck（计算，源自古英语 *recan*，计算/考虑）+ -on（动词后缀�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - While alternative estimates of the damage from carbon emissions differ, and it is especially hard to reckon the likely costs of possible catastrophic climate events, most estimates suggest substantial negative effects. `[2017年6月六级阅读]`
-> - She was widely reckoned to be the best actress of her generation after winning three consecutive Academy Awards. `[牛津词典]`
-> - We'll have to leave early, I reckon, if we want to beat the traffic and arrive on time. `[剑桥词典]`
-> - The trade unions proved to be a political force to be reckoned with during the national labour negotiations. `[BBC语料]`
+> - While alternative estimates of the damage from carbon emissions differ, and it is especially hard to reckon the likely costs of possible catastrophic climate events, most estimates suggest substantial negative effects. `[例]`
+> - She was widely reckoned to be the best actress of her generation after winning three consecutive Academy Awards. `[例]`
+> - We'll have to leave early, I reckon, if we want to beat the traffic and arrive on time. `[例]`
+> - The trade unions proved to be a political force to be reckoned with during the national labour negotiations. `[例]`
 
 
 ---

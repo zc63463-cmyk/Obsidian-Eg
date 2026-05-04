@@ -143,8 +143,8 @@ re-(再，回) + gest-/ger-(带来，携带，拉丁语 *gerere*) + -er(名词/�
 > [!example]- 语料
 > - Only if the jobless arrive at the jobcentre with a CV, register for online job search, and start looking for work will they be eligible for benefit. `[真题]`
 > - The phrase 'to sign on' most probably means to register for an allowance from the government. `[真题]`
-> - Within two weeks of arrival all foreigners had to register with the local police. `[权威词典]`
-> - Students have to register for the new course by the end of April. `[权威词典]`
+> - Within two weeks of arrival all foreigners had to register with the local police. `[例]`
+> - Students have to register for the new course by the end of April. `[例]`
 
 
 ---

@@ -125,8 +125,8 @@ feat 源自拉丁语 *factum*（做出来的事），与 [[fac]](做)同源，�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The Eiffel Tower is a remarkable feat of engineering . `[例]`
-> - She performed remarkable feats of organization for the company . `[例]`
+> - The Eiffel Tower is a remarkable feat of engineering. `[例]`
+> - She performed remarkable feats of organization for the company. `[例]`
 > - Getting the house painted was quite a feat. `[例]`
 
 

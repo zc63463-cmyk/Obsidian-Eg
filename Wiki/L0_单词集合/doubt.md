@@ -127,10 +127,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The worthy residents of Stratford doubt that the theatre adds a penny to their revenue." `[真题]`
-> - "No doubt we will remember a 20th century way of life beyond comprehension for its ugliness." `[真题]`
-> - "I doubt whether western democracies have fully grasped this." `[COCA-ACAD]`
-> - "There can be little doubt that smoking is bad for your health." `[COCA-ACAD]`
+> - I'm having doubts about his ability to do the job. `[例]`
+>   - 中译：我对他完成这项工作的能力表示怀疑。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/doubt
+> - If there's any doubt about the rocket's engines , we ought to cancel the launch. `[例]`
+>   - 中译：如果对火箭的发动机有任何疑问，我们就应该取消发射。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/doubt
+> - The company's actions have cast doubt over its ability to rescue the loss-making business. `[例]`
+>   - 中译：该公司的行为让人对其挽救亏损业务的能力产生怀疑。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/doubt
 
 ---
 

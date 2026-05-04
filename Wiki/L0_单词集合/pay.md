@@ -143,9 +143,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "We need to pay particular attention to the details of the proposal." `` `[COCA-ACAD]` ``
-> - "That is too high a price to pay for economic growth." `` `[COCA-ACAD]` ``
-> - "The introduction of new technology may pay off in the long run." `` `[真题]` ``
+> - How much did you pay for the tickets? `[例]`
+>   - 中译：你买了多少钱的门票？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/pay
+> - I pay my taxes. `[例]`
+>   - 中译：我缴税。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/pay
+> - Would you prefer to pay by cash? `[例]`
+>   - 中译：您愿意用现金支付吗？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/pay
 
 ---
 

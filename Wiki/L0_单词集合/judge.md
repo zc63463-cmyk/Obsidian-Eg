@@ -135,10 +135,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It's difficult to judge whether the new system really is an improvement." `[COCA-ACAD]`
-> - "If you are accused of a crime you have the right to be judged by a jury of your peers." `[COCA-ACAD]`
-> - "The meeting was judged to have been a success." `[COCA-ACAD]`
-> - "The Michigan Supreme Court is the state's highest judicial body." `[COCA-NEWS]`
+> - The judge reminded the witness that she was under oath. `[例]`
+>   - 中译：法官提醒证人她已宣誓。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/judge
+> - The judge will pronounce sentence on the defendant this afternoon. `[例]`
+>   - 中译：法官将于今天下午对被告宣判。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/judge
+> - In Britain , judges wear white wigs in court. `[例]`
+>   - 中译：在英国，法官在法庭上戴白色假发。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/judge
 
 ---
 

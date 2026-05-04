@@ -128,8 +128,15 @@ con-(完全) + [[ced|ced-cess]](退让，拉丁语 *cedere*) + -sion(名词后�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The company made several concessions to the workers' union."（公司向工会做出了多项让步——商业语境高频）
-> - "The government granted oil concessions to foreign companies."（政府向外国公司授予石油特许权）
+> - The firm will be forced to make concessions if it wants to avoid a strike. `[例]`
+>   - 中译：如果公司想避免罢工，就将被迫做出让步。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/concession
+> - Military support was offered in return for the concession of territory. `[例]`
+>   - 中译：提供军事支持以换取领土让步。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/concession
+> - They may grant tax concessions to encourage foreign investors. `[例]`
+>   - 中译：他们可能会给予税收优惠以鼓励外国投资者。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/concession
 
 
 ---

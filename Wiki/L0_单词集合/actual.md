@@ -120,6 +120,15 @@ act(行动/事实) + -ual(形容词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
+> - We had estimated about 300 visitors , but the actual number was much higher. `[例]`
+>   - 中译：我们预计参观者人数约为 300 人，但实际人数要高得多。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/actual
+> - The exams are in July , but the actual results (= the results themselves) don't appear until September. `[例]`
+>   - 中译：考试在七月，但实际成绩（=成绩本身）要到九月才会出现。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/actual
+> - I thought she was Portuguese , but in actual fact she's Brazilian. `[例]`
+>   - 中译：我以为她是葡萄牙人，但实际上她是巴西人。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/actual
 - The actual cost was much higher than estimated.（实际成本比预估的高得多。）
 - The actual number of casualties is still unknown.（实际的伤亡人数仍然未知。）
 

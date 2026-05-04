@@ -3,10 +3,8 @@ title: "jobseeker"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 社会专业
 prototype: 寻找工作的人
@@ -43,7 +41,7 @@ job(工作) + seek(寻找) + -er(人)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**寻找工作的人**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **寻找工作的人**（角色层面）
@@ -64,7 +62,7 @@ job(工作) + seek(寻找) + -er(人)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ job(工作) + seek(寻找) + -er(人)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > job（工作）+ seek（寻找）+ er（人）→ 求职者。seeker 是寻找者，jobseeker 是专门寻找工作的人。就像 a sunseeker 追逐阳光，a jobseeker 追逐工作机会。
@@ -86,7 +84,7 @@ job(工作) + seek(寻找) + -er(人)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -98,13 +96,13 @@ job(工作) + seek(寻找) + -er(人)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[employer]]：雇主（jobseeker 的反义：求职者↔招聘者）
 > - [[employee]]：雇员（jobseeker 的目标身份：求职者↔在职者）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -115,7 +113,7 @@ job(工作) + seek(寻找) + -er(人)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **jobseeker's allowance**：求职者津贴
 > - **registered jobseekers**：登记在册的求职者
 > - **first-time jobseeker**：初次求职者
@@ -123,19 +121,12 @@ job(工作) + seek(寻找) + -er(人)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - Jobseekers are entitled to a weekly allowance from the government. `[例]`
 > - The online platform connects jobseekers with potential employers. `[例]`
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
-
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

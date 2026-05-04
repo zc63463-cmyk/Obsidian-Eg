@@ -124,7 +124,7 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - It 's such a nuisance hav ing to rewrite those letters . `[例]`
+> - It 's such a nuisance hav ing to rewrite those letters. `[例]`
 > - I hate to be a nuisance, but could you help me? `[例]`
 > - Local residents claimed that the noise was causing a public nuisance. `[例]`
 

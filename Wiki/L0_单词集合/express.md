@@ -134,8 +134,15 @@ ex-(=out, 向外) + press(=压，挤压，拉丁语 *premere*)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He points out that he always experienced much difficulty in expressing himself clearly and concisely."（他指出自己在清晰简洁地表达自己方面总是感到很困难。——2008年考研英语一翻译）
-> - "He advocated freedom of thought and of personal expression."（他倡导思想自由和个人言论自由。——2014年考研英语一翻译）
+> - She expresses self-contradictory views. `[真题]`
+>   - 中译：她表达了自相矛盾的观点。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - Her eyes expressed deep sadness. `[例]`
+>   - 中译：她的眼神里流露出深深的悲伤。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/express
+> - I would like to express my thanks for your kindness. `[例]`
+>   - 中译：我谨对您的好意表示感谢。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/express
 
 ---
 

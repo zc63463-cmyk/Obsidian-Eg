@@ -124,7 +124,7 @@ troop 源自法语 *troupe*，古法语 *trope, trupe*（一群、一队），�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Traditionally, United Nations troops have been deployed only in a peacekeeping role . `[例]`
+> - Traditionally, United Nations troops have been deployed only in a peacekeeping role. `[例]`
 > - The King's Troop of the Royal Horse Artillery. `[例]`
 > - My brother joined the local Boy Scout troop. `[例]`
 

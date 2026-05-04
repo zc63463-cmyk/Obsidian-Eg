@@ -3,10 +3,8 @@ title: "irrigation"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 自然物理
 prototype: 引水浇灌（把水引到田地里浇灌庄稼）
@@ -43,7 +41,7 @@ irrig(浇水，拉丁语 *irrigare* 浇水) + -ation(名词后缀，表动作/�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**引水浇灌**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **引水浇灌**（物理动作层面）
@@ -64,7 +62,7 @@ irrig(浇水，拉丁语 *irrigare* 浇水) + -ation(名词后缀，表动作/�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +73,7 @@ irrig(浇水，拉丁语 *irrigare* 浇水) + -ation(名词后缀，表动作/�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > irrig（浇水）+ -ation（名词）→ 引水浇灌 → 灌溉。中国古代的都江堰就是一个伟大的 irrigation project（灌溉工程），把岷江的水引到成都平原。现代农民用 sprinkler irrigation（喷灌）给庄稼浇水。irrigation 就是"引水到田"。
@@ -87,7 +85,7 @@ irrig(浇水，拉丁语 *irrigare* 浇水) + -ation(名词后缀，表动作/�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ irrig(浇水，拉丁语 *irrigare* 浇水) + -ation(名词后缀，表动作/�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[drainage]]：排水（灌溉↔排水，引水进来↔把水排走）
 > - [[drought]]：干旱（灌溉↔缺水干旱）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -116,7 +114,7 @@ irrig(浇水，拉丁语 *irrigare* 浇水) + -ation(名词后缀，表动作/�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **irrigation system**：灌溉系统
 > - **irrigation canal**：灌溉渠
 > - **irrigation project**：灌溉工程
@@ -125,19 +123,12 @@ irrig(浇水，拉丁语 *irrigare* 浇水) + -ation(名词后缀，表动作/�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - The development of irrigation systems was crucial to the growth of ancient civilizations. `[例]`
 > - Modern drip irrigation technology has significantly reduced water waste in agriculture. `[例]`
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
-
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

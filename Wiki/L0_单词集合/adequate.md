@@ -120,8 +120,15 @@ ad-(=to, toward, 向、朝) + [[equ]](=equal, 相等) + -ate(形容词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Many developing countries lack adequate healthcare facilities to serve their growing populations."（许多发展中国家缺乏足够的医疗设施来服务其不断增长的人口。）——考研高频表达
-> - "An adequate understanding of the problem is essential before proposing any solutions."（在提出任何解决方案之前，对问题的充分理解是至关重要的。）——考研高频表达
+> - It's not a big salary but it's adequate for our needs. `[例]`
+>   - 中译：虽然工资不高，但足以满足我们的需要。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/adequate
+> - The council's provision for the elderly is barely adequate (= is not enough). `[例]`
+>   - 中译：委员会为老年人提供的经费勉强够用（=不够）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/adequate
+> - Have we got adequate food for 20 guests? `[例]`
+>   - 中译：我们有足够20位客人吃的食物吗？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/adequate
 
 
 ---

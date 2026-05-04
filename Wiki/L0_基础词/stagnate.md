@@ -125,7 +125,7 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The electronics industry is showing signs of stagnating after 15 years of growth . `[例]`
+> - The electronics industry is showing signs of stagnating after 15 years of growth. `[例]`
 > - My music career had stagnated. `[例]`
 > - For now, the strong currents mean water is relatively clean but when the levels subside the water will stagnate. `[例]`
 

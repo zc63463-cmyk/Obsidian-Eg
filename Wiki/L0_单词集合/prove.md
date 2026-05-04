@@ -148,10 +148,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The bill proved largely popular and sailed through Congress with large majorities in favor. `[真题]`
-> - The operation proved a complete success . `[例]`
-> - The dispute over the song rights proved impossible to resolve . `[例]`
-> - The new treatment has proved to be a disaster . `[例]`
-> - I wish he'd stop trying to prove himself all the time . `[例]`
+>   - 中译：事实证明，该法案很受欢迎，并以绝大多数人的支持顺利通过了国会。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - The operation proved a complete success. `[例]`
+>   - 中译：事实证明，手术取得了圆满成功。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/prove
+> - The dispute over the song rights proved impossible to resolve. `[例]`
+>   - 中译：歌曲版权之争最终无法解决。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/prove
 
 ---
 

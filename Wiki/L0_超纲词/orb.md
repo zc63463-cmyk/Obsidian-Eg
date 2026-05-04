@@ -3,10 +3,8 @@ title: "orb"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-25
-mastery: L0
 word_freq: 超纲词
 semantic_field: 自然物理
 prototype: 球体
@@ -44,7 +42,7 @@ orb(=ball/circle, 球/圆) 源自拉丁语 *orbis*（圆、球、轨道）
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**球体**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **球体**（形状层面）
@@ -67,7 +65,7 @@ orb(=ball/circle, 球/圆) 源自拉丁语 *orbis*（圆、球、轨道）
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ orb(=ball/circle, 球/圆) 源自拉丁语 *orbis*（圆、球、轨道）
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > orb 就是"球"——拉丁语 *orbis*。太阳是 a blazing orb（炽热的球体），月亮是 the silvery orb（银色的球体）。卫星 orb around the Earth（围绕地球转圈）——沿着球的轨道转。
@@ -90,7 +88,7 @@ orb(=ball/circle, 球/圆) 源自拉丁语 *orbis*（圆、球、轨道）
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,12 +100,12 @@ orb(=ball/circle, 球/圆) 源自拉丁语 *orbis*（圆、球、轨道）
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - 无精确反义词（形状名词）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,27 +116,20 @@ orb(=ball/circle, 球/圆) 源自拉丁语 *orbis*（圆、球、轨道）
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **the blazing orb**：炽热的球体（指太阳）
 > - **orb around**：围绕……盘旋
 > - **the silvery orb**：银色的球体（指月亮）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - `[例]` The blazing orb of the sun sank slowly below the horizon, painting the sky in shades of crimson.
-> - `[例]` Moths orb around the porch light in a hypnotic spiral throughout the evening.
-> - `[例]` The ancient temple was crowned with a golden orb that gleamed in the midday sun.
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-25 | **复习次数**：0 | **当前等级**：L0
-
----
+> [!example]- 语料
+> - The hikers rested under a towering orb near the coastal trail. `[例]`
+> - The cabin was built from durable orb gathered in the region. `[例]`
+> - A line of orb trees rose above the morning fog. `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

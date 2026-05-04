@@ -128,10 +128,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - These numbers clearly demonstrate the size of the economic problem facing the country . `[例]`
-> - Research has demonstrated that babies can recognize their mother's voice very soon after birth . `[例]`
-> - These problems demonstrate the importance of strategic planning . `[例]`
-> - He got a job demonstrating kitchen equipment in a department store . `[例]`
+> - These numbers clearly demonstrate the size of the economic problem facing the country. `[例]`
+>   - 中译：这些数字清楚地表明了该国面临的经济问题的严重程度。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/demonstrate
+> - Research has demonstrated that babies can recognize their mother's voice very soon after birth. `[例]`
+>   - 中译：研究表明，婴儿出生后很快就能识别母亲的声音。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/demonstrate
+> - These problems demonstrate the importance of strategic planning. `[例]`
+>   - 中译：这些问题说明了战略规划的重要性。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/demonstrate
 
 ---
 

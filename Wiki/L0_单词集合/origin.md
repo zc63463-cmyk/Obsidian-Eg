@@ -123,10 +123,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The origin of the universe remains one of the greatest mysteries in science." `[真题]`
-> - "Her unhappy childhood was the origin of her problems later in life." `[COCA-ACAD]`
-> - "There is no cholesterol at all in any foods of plant origin." `[COCA-ACAD]`
-> - "The origins of human language remain a matter of considerable debate." `[COCA-ACAD]`
+> - It's a book about the origin of the universe. `[例]`
+>   - 中译：这是一本关于宇宙起源的书。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/origin
+> - Her unhappy childhood was the origin of her problems later in life. `[例]`
+>   - 中译：她不幸的童年是她日后生活问题的根源。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/origin
+> - The story has obscure origins (= no one knows how it started ). `[例]`
+>   - 中译：这个故事的起源不明（=没有人知道它是如何开始的）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/origin
 
 ---
 

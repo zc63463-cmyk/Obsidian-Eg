@@ -131,10 +131,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The Frick is an art gallery in New York. `[COCA-NEWS]`
-> - Can television and pop music really be considered art? `[COCA-ACAD]`
-> - Drama is an art that is traditionally performed in a theatre. `[COCA-ACAD]`
-> - He never learned the art of saying "Thank you." `[COCA-FIC]`
+> - Can we call television art? `[例]`
+>   - 中译：我们可以称之为电视艺术吗？
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/art
+> - Her performance displayed great art. `[例]`
+>   - 中译：她的表演展现了伟大的艺术。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/art
+> - It's a very beautiful piece of art. `[例]`
+>   - 中译：这是一件非常美丽的艺术品。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/art
 
 
 ---

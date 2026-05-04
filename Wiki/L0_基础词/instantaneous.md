@@ -119,10 +119,9 @@ in-(靠近) + [[st-sta-stat|st]](站立，拉丁语 *stare*) + -ant(形容词后
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The invention of the telegraph made nearly instantaneous communication possible across continents. ` [真题]`
-> - TV has conditioned us to expect instantaneous answers to difficult questions. ` [语料库]`
-> - The explosion caused instantaneous destruction of the entire building. ` [语料库]`
-> - In calculus, the derivative represents the instantaneous rate of change of a function. ` [语料库]`
+> - The researchers proposed a instantaneous solution to the problem. `[例]`
+> - The company adopted a instantaneous approach to improve efficiency. `[例]`
+> - The plan offers a instantaneous option for small organizations. `[例]`
 
 
 ---

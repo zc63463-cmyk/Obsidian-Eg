@@ -131,7 +131,6 @@ review_count: 0
 > [!example]- 语料
 > - The temperature dropped to minus twenty degrees overnight. `[真题]`
 > - We need to weigh the pluses and minuses before making a decision. `[真题]`
-> - What is 57 minus 39? `[真题]`
 > - That will be $1,500, minus the deposit of $150 that you already paid. `[真题]`
 
 

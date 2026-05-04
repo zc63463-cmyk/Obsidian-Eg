@@ -126,8 +126,15 @@ chip（源自古英语 cipp"小木片"，拟声词，模仿切削声）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The company has developed a new computer chip that is faster and more energy-efficient."（该公司研发了一种更快、更节能的新型电脑芯片。）——考研高频表达
-> - "He had a chip on his shoulder about not being promoted."（他因为没有被晋升而心怀不满。）——考研高频表达
+> - She bought two bags of chips with the drinks. `[例]`
+>   - 中译：她随饮料买了两袋薯条。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/chip
+> - You can't just sit in front of the TV eating chips all day. `[例]`
+>   - 中译：你不能整天坐在电视机前吃薯条。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/chip
+> - Every meal starts with a basket of crisp , thin banana chips. `[例]`
+>   - 中译：每顿饭都以一篮又脆又薄的香蕉片开始。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/chip
 
 ---
 

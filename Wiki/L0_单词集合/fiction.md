@@ -134,9 +134,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "science fiction"（科幻小说）——考研阅读中科技/文化类话题的常见搭配
-> - "fact or fiction"（事实还是虚构）——考研阅读中区分真实与虚假的常见表达
-> - "the foundation of his fiction"（他小说的基础）——考研阅读真题例句（2017年），描述作家创作素材
+> - The book is a work of fiction and not intended as a historical account. `[例]`
+>   - 中译：这本书是一部虚构作品，无意作为历史记录。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/fiction
+> - At work she kept up the fiction that she had a university degree. `[例]`
+>   - 中译：在工作中，她一直谎称自己拥有大学学位。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/fiction
+> - When he's telling you something, you never know what's fact and what's fiction. `[例]`
+>   - 中译：当他告诉你一些事情时，你永远不知道什么是事实，什么是虚构的。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/fiction
 
 ---
 

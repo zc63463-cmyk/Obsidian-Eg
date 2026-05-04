@@ -125,9 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - They walked along the mountain ridge, enjoying the breathtaking view on both sides. ` [真题]`
-> - The Mid-Atlantic Ridge is one of the most significant geological features on Earth. ` [真题]`
-> - We hiked along the ridge and set up camp just below the summit before sunset. ` [真题]`
+> - The hikers rested under a towering ridge near the coastal trail. `[例]`
+> - The cabin was built from durable ridge gathered in the region. `[例]`
+> - A line of ridge trees rose above the morning fog. `[例]`
 
 
 ---

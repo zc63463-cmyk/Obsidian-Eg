@@ -131,9 +131,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - On every street corner there were traders hawking their wares . `[例]`
-> - She was hawking flowers at the parking lot exit . `[例]`
-> - The hawks on the committee are worried that 6 per cent growth could trigger inflation . `[例]`
+> - On every street corner there were traders hawking their wares. `[例]`
+> - She was hawking flowers at the parking lot exit. `[例]`
+> - The hawks on the committee are worried that 6 per cent growth could trigger inflation. `[例]`
 
 
 ---

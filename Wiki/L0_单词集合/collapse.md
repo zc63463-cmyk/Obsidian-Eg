@@ -132,8 +132,15 @@ col-(共同，一起，[[com]]变体) + lapse(滑落、滑倒)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Integrity had collapsed, she argued, because of a collective acceptance that the only 'sorting mechanism' in society should be profit and the market."（她认为，道德已经沦丧，因为人们普遍接受社会唯一的"分类机制"应该是利益和市场。）——考研阅读
-> - "A string of accidents, including the partial collapse of a cooling tower in 2007 and the discovery of an underground pipe system leakage, raised serious concerns about nuclear safety."（一系列事故，包括2007年一座冷却塔的部分坍塌和地下管道系统泄漏的发现，引发了人们对核安全的严重担忧。）——考研阅读
+> - Thousands of buildings collapsed in the earthquake. `[例]`
+>   - 中译：数以千计的建筑物在地震中倒塌。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/collapse
+> - The chair collapsed under her weight. `[例]`
+>   - 中译：椅子在她的重量下倒塌了。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/collapse
+> - He thought his whole world had collapsed when his wife died. `[例]`
+>   - 中译：当他妻子去世时，他认为他的整个世界都崩溃了。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/collapse
 
 
 ---

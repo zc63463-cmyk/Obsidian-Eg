@@ -134,10 +134,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He has wholeheartedly embraced life in south Louisiana." `[COCA-NEWS]`
-> - "The word 'culture' embraces both artistic and sociological aspects of a society." `[COCA-ACAD]`
-> - "While he has broadly embraced change, one area remains untouched." `[COCA-NEWS]`
-> - "Phoebe ran to embrace her mother." `[COCA-FIC]`
+> - He leaned over to embrace the child. `[例]`
+>   - 中译：他俯身去拥抱孩子。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/embrace
+> - This was an opportunity that he would embrace. `[例]`
+>   - 中译：这是一个他会抓住的机会。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/embrace
+> - We are always eager to embrace the latest technology. `[例]`
+>   - 中译：我们总是渴望拥抱最新的技术。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/embrace
 
 ---
 

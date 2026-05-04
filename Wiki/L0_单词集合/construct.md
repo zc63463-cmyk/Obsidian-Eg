@@ -125,9 +125,15 @@ con-（一起）+ [[struct|struct-]]（建造）+ -（动词后缀）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The researchers constructed a theoretical framework to explain the phenomenon." `[真题]`
-> - "The bridge was constructed using advanced engineering techniques." `[真题]`
-> - "Social reality is not simply given but is actively constructed by individuals and groups." `[COCA-ACAD]`
+> - The walls are constructed of concrete. `[例]`
+>   - 中译：墙壁是用混凝土建造的。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/construct
+> - Students need the ability to construct a logical argument. `[例]`
+>   - 中译：学生需要具备构建逻辑论证的能力。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/construct
+> - Police officers are trying to construct the timescale of events leading up to the murder. `[例]`
+>   - 中译：警方正在努力确定导致谋杀的事件的时间表。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/construct
 
 ---
 

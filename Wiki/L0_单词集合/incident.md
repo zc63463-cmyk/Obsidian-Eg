@@ -134,9 +134,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The train arrived without incident. `[COCA-FIC]`
-> - This may well not be an isolated incident so we are sending a message to all branches. `[COCA-NEWS]`
-> - The cause of the incident is still under further investigation. `[COCA-NEWS]`
+> - A youth was seriously injured in a shooting incident on Saturday night. `[例]`
+>   - 中译：周六晚上，一名青少年在枪击事件中受重伤。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/incident
+> - Despite fears of violence , the demonstration passed off without incident. `[例]`
+>   - 中译：尽管担心发生暴力事件，示威活动还是平安结束了。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/incident
+> - I'm trying not to let my judgment be coloured by that one incident. `[例]`
+>   - 中译：我努力不让我的判断因这一事件而受到影响。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/incident
 
 ---
 

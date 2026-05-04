@@ -127,9 +127,15 @@ bizarre 源自法语 *bizarre*，其词源有争议。主流说法认为它来�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - That party was too bizarre for me! `[例]`
-> - The duck-billed platypus is a truly bizarre creature . `[例]`
-> - The whole bizarre evening had an unreal quality to it. `[例]`
+> - Upset over a bizarre technical foul in Game 2, Booker unloaded on the refs, particularly James Williams. `[例]`
+>   - 中译：布克对第二场比赛中的一次奇怪的技术犯规感到不满，他向裁判发泄了不满，尤其是詹姆斯·威廉姆斯。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/bizarre
+> - The Celebration tour — on Tuesday in a bizarre , NSFW video featuring a dinner-party game of truth or dare with guests Amy Schumer, Jack Black and Lil Wayne, among others. `[例]`
+>   - 中译：庆典巡演——周二，在一段奇怪的 NSFW 视频中，视频中与艾米·舒默、杰克·布莱克和利尔·韦恩等嘉宾进行了一场真心话大冒险的晚宴游戏。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/bizarre
+> - But last Thursday, Jackson had to be ready for the bizarre. `[例]`
+>   - 中译：但上周四，杰克逊必须为奇怪的事情做好准备。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/bizarre
 
 
 ---

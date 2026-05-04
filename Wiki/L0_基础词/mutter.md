@@ -126,7 +126,7 @@ mut-(沉默/含糊，拉丁语 *muttare* "低声说") + -ter(动词后缀)
 > [!example]- 语料
 > - Stop muttering and speak up! `[例]`
 > - He was muttering to himself. `[例]`
-> - Laurence muttered something about his wife and left . `[例]`
+> - Laurence muttered something about his wife and left. `[例]`
 
 
 ---

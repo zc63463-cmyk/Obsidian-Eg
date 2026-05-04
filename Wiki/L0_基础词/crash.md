@@ -133,9 +133,15 @@ crash（拟声词，模拟猛烈撞击时发出的"哗啦/砰"声，可能受 [[
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The application crashed while he was saving his work, causing him to lose unsaved data. `[真题]`
-> - The 1929 stock market crash caused widespread panic and led to the Great Depression. `[真题]`
-> - Economists warned of a potential crash in housing prices if interest rates continue to rise. `[真题]`
+> - A man has been arrested in connection with a fatal crash on the M4 motorway. `[例]`
+>   - 中译：一名男子因与 M4 高速公路上发生的致命车祸有关而被捕。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/crash
+> - It is not clear what caused the crash. `[例]`
+>   - 中译：目前尚不清楚坠机原因。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/crash
+> - A girl was killed yesterday in a crash involving a stolen car. `[例]`
+>   - 中译：昨天，一名女孩在一辆被盗汽车的车祸中丧生。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/crash
 
 
 ---

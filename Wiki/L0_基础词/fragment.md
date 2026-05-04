@@ -131,9 +131,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The road was covered with fragments of glass from the shattered window . `[例]`
-> - Literary scholars are piecing together her last unpublished novel from fragments of a recently discovered manuscript . `[例]`
-> - The satellite will fragment and burn up as it falls through the earth's atmosphere . `[例]`
+> - The road was covered with fragments of glass from the shattered window. `[例]`
+> - Literary scholars are piecing together her last unpublished novel from fragments of a recently discovered manuscript. `[例]`
+> - The satellite will fragment and burn up as it falls through the earth's atmosphere. `[例]`
 
 
 ---

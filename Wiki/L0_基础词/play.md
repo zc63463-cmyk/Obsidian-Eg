@@ -131,8 +131,8 @@ play 源自古英语 *plegan*（运动、活动），与 [[plate]]/[[platform]] 
 
 > [!example]- 语料
 > - Still, the decision was largely accepted-and Jackson's photos played a key role in the fight to protect the area. `[真题]`
-> - The children spent the afternoon playing with their new toys . `[例]`
-> - My daughter used to play with the kids next door . `[例]`
+> - The children spent the afternoon playing with their new toys. `[例]`
+> - My daughter used to play with the kids next door. `[例]`
 
 
 ---

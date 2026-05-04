@@ -127,10 +127,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The bank announced that it was to merge with another of the high street banks." `[真题]`
-> - "They decided to merge the two companies into one." `[真题]`
-> - "Like a chameleon, he could merge unobtrusively into the background." `[真题]`
-> - "Night and day begin to merge as the sun sets." `[真题]`
+> - The bank announced that it was to merge with another of the high street banks. `[真题]`
+> - They decided to merge the two companies into one. `[真题]`
+> - Like a chameleon, he could merge unobtrusively into the background. `[真题]`
+> - Night and day begin to merge as the sun sets. `[真题]`
 
 
 ---

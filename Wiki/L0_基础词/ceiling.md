@@ -133,9 +133,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The kitchen ceiling needs painting . `[例]`
-> - There is a 10% ceiling on rent increases . `[例]`
-> - Before the bidding started he had set himself a ceiling price beyond which he would not go. `[例]`
+> - The walls and ceiling were painted white. `[例]`
+>   - 中译：墙壁和天花板被漆成白色。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ceiling
+> - A large chandelier hangs from the ceiling. `[例]`
+>   - 中译：天花板上悬挂着一盏大吊灯。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ceiling
+> - The ceiling of her room was low. `[例]`
+>   - 中译：她房间的天花板很低。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ceiling
 
 
 ---

@@ -123,8 +123,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - He tilted his chair backwards and put his feet up on his desk . `[例]`
-> - Anna looked up at him with her head tilted to one side . `[例]`
+> - He tilted his chair backwards and put his feet up on his desk. `[例]`
+> - Anna looked up at him with her head tilted to one side. `[例]`
 > - The front seats of the car tilt. `[例]`
 
 

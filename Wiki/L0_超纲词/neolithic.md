@@ -3,10 +3,8 @@ title: "neolithic"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-25
-mastery: L0
 word_freq: 超纲词
 semantic_field: 自然物理
 prototype: 新石器的（使用磨制石器的时代）
@@ -44,7 +42,7 @@ neo-(=new, 新) + [[lith]](=lith-, 石头，希腊语 *lithos*) + -ic(形容词�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**新石器的**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **新石器的**（工具材质层面）
@@ -65,7 +63,7 @@ neo-(=new, 新) + [[lith]](=lith-, 石头，希腊语 *lithos*) + -ic(形容词�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ neo-(=new, 新) + [[lith]](=lith-, 石头，希腊语 *lithos*) + -ic(形容词�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > neo-（新）+ lith（石头）= neolithic（新石器的）。新石器时代是人类文明的转折点——人们开始磨制石器、种植庄稼、建造房屋。neolithic revolution 就是这场从游牧到定居的伟大变革。记住 lith = 石头——lithium（锂，石头般的元素），monolith（巨石）。
@@ -88,7 +86,7 @@ neo-(=new, 新) + [[lith]](=lith-, 石头，希腊语 *lithos*) + -ic(形容词�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,12 +98,12 @@ neo-(=new, 新) + [[lith]](=lith-, 石头，希腊语 *lithos*) + -ic(形容词�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[paleolithic]]：旧石器时代的（neolithic 的反义：新石器时代↔旧石器时代）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -116,7 +114,7 @@ neo-(=new, 新) + [[lith]](=lith-, 石头，希腊语 *lithos*) + -ic(形容词�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **neolithic period/age**：新石器时代
 > - **neolithic revolution**：新石器革命（农业革命）
 > - **neolithic site**：新石器时代遗址
@@ -124,19 +122,12 @@ neo-(=new, 新) + [[lith]](=lith-, 石头，希腊语 *lithos*) + -ic(形容词�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - The neolithic period is sometimes called the new stone age . `[例]`
+> [!example]- 语料
+> - The neolithic period is sometimes called the new stone age. `[例]`
 > - Neolithic settlements have been discovered across Europe and Asia. `[例]`
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-25 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

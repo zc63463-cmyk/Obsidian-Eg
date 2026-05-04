@@ -134,9 +134,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The tyranny of the monarchy lies in its spiritual rather than its temporal power : it tyrannizes the imagination . `[例]`
-> - The drug reduces spatial and temporal awareness . `[例]`
-> - This book will appeal to anyone interested in temporal reference in child language . `[例]`
+> - Although spiritual leader of millions of people, the Pope has no temporal power. `[例]`
+>   - 中译：尽管教皇是数百万人的精神领袖，但他没有世俗权力。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/temporal
+> - The struggle of the dispersed Tibetan people is made all the more newsworthy by the nonviolent emphasis of their spiritual and temporal leader, the Nobel Peace laureate Dalai Lama, who lives in exile in Dharamsala, India. `[例]`
+>   - 中译：流亡在印度达兰萨拉的诺贝尔和平奖获得者达赖喇嘛，是流亡在外的西藏人民的精神领袖和世俗领袖，他对非暴力的强调使他们的斗争变得更加具有新闻价值。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/temporal
+> - By eschewing history and politics, The Last Train From Madrid leeches war of its particular temporal context, providing an eight-year-old with his first glimpse of war as eternal anonymous suffering. `[例]`
+>   - 中译：通过避开历史和政治，《马德里末班车》将战争从其特定的时间背景中汲取出来，让一个八岁的孩子第一次看到战争是永恒的匿名痛苦。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/temporal
 
 ---
 

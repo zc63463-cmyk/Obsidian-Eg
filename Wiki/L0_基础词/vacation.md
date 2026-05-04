@@ -127,10 +127,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "My wife and I were on vacation in California." `[COCA-SPOKEN]`
-> - "Workers are entitled to five weeks of paid vacation each year." `[COCA-NEWS]`
-> - "She said that she plans to take a long vacation before deciding where she will work next." `[COCA-MAG]`
-> - "The year is divided into two sessions or terms separated by the winter vacation." `[COCA-ACAD]`
+> - My wife and I were on vacation in California. `[COCA-SPOKEN]`
+> - Workers are entitled to five weeks of paid vacation each year. `[COCA-NEWS]`
+> - She said that she plans to take a long vacation before deciding where she will work next. `[COCA-MAG]`
+> - The year is divided into two sessions or terms separated by the winter vacation. `[COCA-ACAD]`
 
 
 ---

@@ -141,9 +141,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The plan is to lay (= build ) the foundations for the new apartments in October . `[例]`
+> - The plan is to lay (= build ) the foundations for the new apartments in October. `[例]`
 > - I was so tired that at one point , I was laying down on the floor ," he said. `[例]`
-> - My dog just lays there all day in the sun . `[例]`
+> - My dog just lays there all day in the sun. `[例]`
 
 
 ---

@@ -129,9 +129,15 @@ brain(日耳曼语源，与古英语 brægen 同源)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Research has shown that the human brain continues to develop well into a person's twenties. `[真题]`
-> - The brain drain from developing countries to developed nations remains a serious problem. `[真题]`
-> - She racked her brains trying to come up with a solution. `[例]`
+> - Doctors tried desperately to reduce the swelling in her brain. `[例]`
+>   - 中译：医生拼命试图减轻她大脑的肿胀。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/brain
+> - Marie has an amazing brain (= is very intelligent ). `[例]`
+>   - 中译：玛丽有一个惊人的大脑（=非常聪明）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/brain
+> - The poor child inherited his mother's brains and his father's looks. `[例]`
+>   - 中译：这个可怜的孩子继承了母亲的大脑和父亲的容貌。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/brain
 
 
 ---

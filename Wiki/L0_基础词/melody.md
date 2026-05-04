@@ -131,9 +131,9 @@ mel(=melos, 歌/曲调，希腊语 *melos*) + -ody(=aoidē, 唱/歌，希腊语 
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He sang a few old melodies." `[COCA-ACAD]`
-> - "The second movement begins with an ostinato on harp and the flutes, which eventually develops into a beautiful melody that forms a basis for the development of the movement." `[COCA-ACAD]`
-> - "But at the same time, we're all suckers for a beautiful melody, you know?" `[BNC-SPOKEN]`
+> - The second movement begins with an ostinato on harp and the flutes, which eventually develops into a beautiful melody that forms a basis for the development of the movement. `[COCA-ACAD]`
+> - But at the same time, we're all suckers for a beautiful melody, you know? `[BNC-SPOKEN]`
+> - His songs are always strong on melody. `[例]`
 
 
 ---

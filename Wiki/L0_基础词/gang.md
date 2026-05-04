@@ -129,9 +129,9 @@ gang 为基础词汇，无词根词缀拆分。源自古英语 *gang*（行进�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The gang was known for its involvement in drug trafficking and violent crimes. `[语料库]`
-> - Don't let them gang up on you; stand your ground. `[Collins]`
-> - There were always gangs of kids hanging around the mall. `[Longman]`
+> - The gang was known for its involvement in drug trafficking and violent crimes. `[例]`
+> - There were always gangs of kids hanging around the mall. `[例]`
+> - Fights among rival gangs account for most murders in the city. `[例]`
 
 
 ---

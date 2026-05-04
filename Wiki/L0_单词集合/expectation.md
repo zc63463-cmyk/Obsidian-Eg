@@ -126,8 +126,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "We shouldn't expect it to be everyone's priority — or even most people's."（我们不应指望它成为每个人的首要任务——甚至大多数人的。）——2019考研英语二阅读
-> - "The results fell short of expectations, disappointing investors."（结果低于预期，令投资者失望。）——考研高频表达
+> - The holiday lived up to all our expectations (= was as good as we were expecting ). `[例]`
+>   - 中译：这个假期没有辜负我们所有的期望（=和我们期望的一样好）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/expectation
+> - I've heard she's a stellar manager so I have high expectations (= I believe she will do a good job ). `[例]`
+>   - 中译：我听说她是一位出色的经理，所以我有很高的期望（=我相信她会做得很好）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/expectation
+> - What are your expectations for this job? `[例]`
+>   - 中译：您对这份工作有什么期望？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/expectation
 
 ---
 

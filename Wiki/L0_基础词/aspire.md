@@ -126,9 +126,15 @@ a-(=ad-, 向) + spir(e)(呼吸，拉丁语 *spirare*)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Many young people aspire to become entrepreneurs. `[COCA-ACAD]`
-> - She aspired to a career in medicine from an early age. `[COCA-NEWS]`
-> - As a child, he aspired to be a great writer. `[COCA-ACAD]`
+> - She aspired to a scientific career. `[例]`
+>   - 中译：她渴望从事科学事业。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/aspire
+> - He aspired to be their next leader. `[例]`
+>   - 中译：他渴望成为他们的下一任领导人。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/aspire
+> - These aspiring writers could submit their manuscript to the Scott Meredith Literary Agency—for a fee. `[例]`
+>   - 中译：这些有抱负的作家可以将他们的手稿提交给斯科特·梅雷迪思文学社——需付费。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/aspire
 
 
 ---

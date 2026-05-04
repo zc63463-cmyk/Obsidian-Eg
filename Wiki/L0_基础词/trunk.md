@@ -130,8 +130,8 @@ trunk 源自拉丁语 *truncus*（树干、躯干），可能来自 PIE *\*terə
 
 > [!example]- 语料
 > - The statue shows the head , trunk, and arms of an old man. `[例]`
-> - I always keep a blanket and a toolkit in the trunk for emergencies . `[例]`
-> - Stolen goods were found in the trunk of her car . `[例]`
+> - I always keep a blanket and a toolkit in the trunk for emergencies. `[例]`
+> - Stolen goods were found in the trunk of her car. `[例]`
 
 
 ---

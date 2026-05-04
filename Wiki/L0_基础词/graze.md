@@ -134,8 +134,9 @@ graze 源自古英语 *grasian*（吃草），与 grass（草）同源，属日�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Families graze on high-cholesterol take-aways and microwaved ready-meals."（家庭零星吃着高胆固醇的外卖和微波炉速食——考研相关语料）
-> - "He was lucky, the bullet just grazed his leg."（他很幸运，子弹只是擦伤了他的腿——剑桥词典例句）
+> - The hikers rested under a towering graze near the coastal trail. `[例]`
+> - The cabin was built from durable graze gathered in the region. `[例]`
+> - A line of graze trees rose above the morning fog. `[例]`
 
 
 ---

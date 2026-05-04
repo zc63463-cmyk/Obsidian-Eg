@@ -128,10 +128,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The target audience is mostly men aged 28 to 35. `[COCA-NEWS]`
-> - The audience was cheering and shouting throughout the concert. `[BNC-SPOKEN]`
-> - The show attracted a large television audience during its final season. `[COCA-NEWS]`
-> - The Pope granted an audience to the delegation from South America. `[例]`
+> - The debate was televised in front of a live audience. `[例]`
+>   - 中译：辩论在现场观众面前进行了电视转播。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/audience
+> - Audience members voted on their favorite presentations. `[例]`
+>   - 中译：观众对他们最喜欢的演讲进行了投票。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/audience
+> - We encourage audience participation during our show. `[例]`
+>   - 中译：我们鼓励观众参与我们的演出。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/audience
 
 
 ---

@@ -124,9 +124,15 @@ out(向外) + put(放/放置) → "向外放出"
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It is therefore likely that employment and output will continue to increase in coming months." `` `[COCA-ACAD]` ``
-> - "Consumer spending accounts for two-thirds of the nation's economic output." `` `[COCA-ACAD]` ``
-> - "Supply chain pressures look like they will be a constraining factor on factory output." `` `[COCA-NEWS]` ``
+> - Last year manufacturing output fell by 14 percent. `[例]`
+>   - 中译：去年制造业产值下降了14%。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/output
+> - Artists see their creative output as the core of their lives. `[例]`
+>   - 中译：艺术家将他们的创意输出视为他们生活的核心。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/output
+> - The output from the printer is almost photo quality. `[例]`
+>   - 中译：打印机的输出几乎达到照片质量。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/output
 
 ---
 

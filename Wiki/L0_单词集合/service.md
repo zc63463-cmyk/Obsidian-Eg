@@ -130,9 +130,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - `During the decade before the economic crisis, spending on legal services in America grew twice as fast as inflation.` `[真题]`
-> - `She has devoted her life to public service.` `[COCA-ACAD]`
-> - `The plane has been kept in service far longer than originally intended.` `[COCA-ACAD]`
+> - A lot of workers are servicing the tourist industry , and the tourism industry is serviced by those people coming in short term, " Castle said, " and so it's a cyclical effect. `[真题]`
+>   - 中译：许多工人正在为旅游业提供服务，而旅游业又是由那些短期到来的人提供服务的，”卡斯尔说，“所以这是一种周期性效应。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - Boston took things even further, requiring renters to register with the city's Inspectional Services Department. `[真题]`
+>   - 中译：波士顿的做法更进一步，要求租房者向该市的检查服务部门登记。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - Recently, another expression of this predatory behavior has emerged: so-called support service consultancies that provide language and other editorial support to individual authors and to journals sometimes advise contributors to add a number of citations to their articles. `[真题]`
+>   - 中译：最近，这种掠夺行为的另一种表现形式出现了：所谓的支持服务咨询公司为个人作者和期刊提供语言和其他编辑支持，有时会建议撰稿人在他们的文章中添加大量引用。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
 
 ---
 

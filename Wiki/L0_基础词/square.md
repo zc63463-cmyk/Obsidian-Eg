@@ -136,7 +136,7 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - It's a square-shaped room . `[例]`
+> - It's a square-shaped room. `[例]`
 > - When cooled , cut the chocolate brownies into squares. `[例]`
 > - She moved her castle forward three squares. `[例]`
 

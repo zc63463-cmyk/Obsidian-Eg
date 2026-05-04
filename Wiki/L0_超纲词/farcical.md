@@ -3,10 +3,8 @@ title: "farcical"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 社会习俗
 prototype: 滑稽可笑的（像闹剧一样荒唐）
@@ -43,7 +41,7 @@ farc(=farce, 闹剧/填塞，拉丁语 *farcire*，填塞) + -ical(形容词后�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**滑稽可笑的**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **滑稽可笑的**（戏剧/行为层面）
@@ -64,7 +62,7 @@ farc(=farce, 闹剧/填塞，拉丁语 *farcire*，填塞) + -ical(形容词后�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +73,7 @@ farc(=farce, 闹剧/填塞，拉丁语 *farcire*，填塞) + -ical(形容词后�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 拉丁语 farcire 意为"填塞"。做香肠要"填塞"肉末，中世纪戏剧在正剧幕间也要"填塞"滑稽短剧来活跃气氛。这些"填充物"就是 farce（闹剧），farcical 就是"闹剧般的"。一场 farcical trial 就是一场像闹剧一样荒唐的审判——让人哭笑不得。
@@ -87,7 +85,7 @@ farc(=farce, 闹剧/填塞，拉丁语 *farcire*，填塞) + -ical(形容词后�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +98,13 @@ farc(=farce, 闹剧/填塞，拉丁语 *farcire*，填塞) + -ical(形容词后�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[serious]]：严肃的（farcical↔serious：闹剧般的↔严肃认真的）
 > - [[solemn]]：庄严的（farcical↔solemn：滑稽可笑↔庄严肃穆）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,7 +115,7 @@ farc(=farce, 闹剧/填塞，拉丁语 *farcire*，填塞) + -ical(形容词后�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a farcical situation**：荒唐可笑的局面
 > - **a farcical trial**：一场闹剧般的审判
 > - **farcical proceedings**：荒唐的程序
@@ -125,19 +123,12 @@ farc(=farce, 闹剧/填塞，拉丁语 *farcire*，填塞) + -ical(形容词后�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - The trial was a farcical spectacle that made a mockery of justice. `[例]`
 > - The negotiations became farcical when neither side was willing to compromise. `[例]`
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
-
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

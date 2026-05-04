@@ -3,10 +3,8 @@ title: "processor"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-25
-mastery: L0
 word_freq: 超纲词
 semantic_field: 物品工具
 prototype: 处理的人/机器（处理信息或数据）
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**处理信息/数据的人或机器**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **处理者**（功能层面）
@@ -64,7 +62,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > process（处理）+ -or（做……的人/物）= processor。电脑里最核心的芯片就是 processor（CPU）——它处理所有计算任务。厨房里的 food processor 是食品加工机。processor 就是"处理者"。
@@ -86,7 +84,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,12 +97,12 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - processor 无精确反义词，其语义场为信息处理
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -116,26 +114,19 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **processor speed**：处理器速度
 > - **dual-core/multi-core processor**：双核/多核处理器
 > - **word processor**：文字处理软件
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - To maximize performance , users will require a 1GHz processor and 1GB of RAM . `[例]`
-> - The nation's largest processor of meat and poultry has said it will stop using gas technology to keep products looking fresh . `[例]`
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-25 | **复习次数**：0 | **当前等级**：L0
-
----
+> [!example]- 语料
+> - To maximize performance , users will require a 1GHz processor and 1GB of RAM. `[例]`
+> - The nation's largest processor of meat and poultry has said it will stop using gas technology to keep products looking fresh. `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

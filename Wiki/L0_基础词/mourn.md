@@ -122,9 +122,9 @@ mourn 源自古英语 *murnan*（悲伤，哀悼），与拉丁语 *memoria*（�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She was still mourning for her brother . `[例]`
-> - They mourned the passing of an older , simpler way of life (= felt sad because it had stopped existing ) . `[例]`
-> - Frank is mourning the death of his father . `[例]`
+> - She was still mourning for her brother. `[例]`
+> - They mourned the passing of an older , simpler way of life (= felt sad because it had stopped existing ). `[例]`
+> - Frank is mourning the death of his father. `[例]`
 
 
 ---

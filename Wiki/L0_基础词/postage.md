@@ -126,7 +126,7 @@ review_count: 0
 
 > [!example]- 语料
 > - Please enclose £15.99, plus £2 for postage. `[例]`
-> - We have reduced postage costs by nearly $24,000 as a result of the direct deposit option . `[例]`
+> - We have reduced postage costs by nearly $24,000 as a result of the direct deposit option. `[例]`
 > - An increase in postage rates. `[例]`
 
 

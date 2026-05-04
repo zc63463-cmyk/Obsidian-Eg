@@ -123,9 +123,9 @@ stare 源自古英语 *starian*（凝视），与 [[st-sta-stat|st-/sta-/stat-]]
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Don't stare at people like that - it's rude . `[例]`
+> - Don't stare at people like that - it's rude. `[例]`
 > - Chuck sat quietly for hours staring into the distance , thinking of what might have been. `[例]`
-> - During the press conference , each boxer tried to stare the other down (= force the other to look away by continual staring) . `[例]`
+> - During the press conference , each boxer tried to stare the other down (= force the other to look away by continual staring). `[例]`
 
 
 ---

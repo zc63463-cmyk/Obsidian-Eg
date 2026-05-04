@@ -130,9 +130,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "There could be many mechanisms working together that drive us in choosing genetically similar friends rather than 'functional kinship' of being friends with benefits!" `[真题]`
-> - "She's actually kind of insecure, and her rudeness is just a defence mechanism." `[语料库]`
-> - "Play is a biological mechanism for acquiring and honing mental and physical skills." `[语料库]`
+> - There could be many mechanisms working together that drive us in choosing genetically similar friends rather than 'functional kinship' of being friends with benefits! `[真题]`
+> - She's actually kind of insecure, and her rudeness is just a defence mechanism. `[例]`
+> - Play is a biological mechanism for acquiring and honing mental and physical skills. `[例]`
 
 
 ---

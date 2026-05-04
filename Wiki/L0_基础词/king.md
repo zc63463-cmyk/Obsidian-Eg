@@ -128,7 +128,7 @@ review_count: 0
 > [!example]- 语料
 > - The lion is the king of the jungle. `[例]`
 > - The kings and queens of England. `[例]`
-> - The lion is often called the king of the jungle . `[例]`
+> - The lion is often called the king of the jungle. `[例]`
 
 
 ---

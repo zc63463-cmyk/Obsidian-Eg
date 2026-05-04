@@ -132,8 +132,8 @@ review_count: 0
 
 > [!example]- 语料
 > - One of the good things about teaching young children is their enthusiasm. `[例]`
-> - One of his greatest enthusiasms was yoga . `[例]`
-> - I find that I’m losing my enthusiasm for the game . `[例]`
+> - One of his greatest enthusiasms was yoga. `[例]`
+> - I find that I’m losing my enthusiasm for the game. `[例]`
 
 
 ---

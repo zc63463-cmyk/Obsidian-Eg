@@ -130,9 +130,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "A passerby later saw him lying in a pool of blood on the sidewalk and called 911." `[CBS Local]`
-> - "The robbery was witnessed by several passersby." `[LDOCE Corpus]`
-> - "Curious passersby gathered to see what was happening." `[ESL Buzz]`
+> - A passerby saw the accident and stopped to help. `[例]`
+> - The child was located in the middle of the road by a passerby who contacted PSP. `[例]`
+> - Detectives said a passerby found the 60-year-old man partially sitting in a wheelchair that was overturned. `[例]`
 
 
 ---

@@ -129,9 +129,9 @@ ex-（向外）+ pel（推，驱赶）→ 向外推 → 驱逐。pel 源自拉�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The new government has expelled all foreign diplomats . `[例]`
-> - My brother was expelled from school for bad behaviour . `[例]`
-> - She took a deep breath , then expelled the air in short blasts . `[例]`
+> - The new government has expelled all foreign diplomats. `[例]`
+> - My brother was expelled from school for bad behaviour. `[例]`
+> - She took a deep breath , then expelled the air in short blasts. `[例]`
 
 ---
 

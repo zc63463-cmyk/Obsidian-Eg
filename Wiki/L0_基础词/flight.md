@@ -140,8 +140,8 @@ flight(飞行/逃跑，古英语 *flyht*)
 
 > [!example]- 语料
 > - How was your flight? `[例]`
-> - All flights to New York today are delayed because of bad weather . `[例]`
-> - My flight was cancelled . `[例]`
+> - All flights to New York today are delayed because of bad weather. `[例]`
+> - My flight was cancelled. `[例]`
 
 
 ---

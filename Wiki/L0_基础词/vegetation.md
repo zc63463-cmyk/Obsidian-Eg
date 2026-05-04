@@ -129,10 +129,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The risk of infection can be substantially reduced by avoiding habitats with high tick density, such as wooded areas with luxuriant undergrowth and dense vegetation." `[Cambridge]`
-> - "As we drove towards the desert, the vegetation became sparse." `[Oxford]`
-> - "Removal of the natural vegetation has resulted in a loss of nutrients in the soil." `[Oxford]`
-> - "Most parts of the alluvial plain are cultivated and covered by dense vegetation." `[Cambridge]`
+> - The risk of infection can be substantially reduced by avoiding habitats with high tick density, such as wooded areas with luxuriant undergrowth and dense vegetation. `[例]`
+> - As we drove towards the desert, the vegetation became sparse. `[例]`
+> - Removal of the natural vegetation has resulted in a loss of nutrients in the soil. `[例]`
+> - Most parts of the alluvial plain are cultivated and covered by dense vegetation. `[例]`
 
 
 ---

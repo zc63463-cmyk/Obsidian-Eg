@@ -142,10 +142,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The bank has scrapped its plans for a property division." `[语料库]`
-> - "Not a scrap of evidence was found to support the claim." `[真题]`
-> - "The car would have cost so much to repair that I decided to scrap it." `[语料库]`
-> - "He obtained every scrap of information available." `[语料库]`
+> - The bank has scrapped its plans for a property division. `[例]`
+> - Not a scrap of evidence was found to support the claim. `[真题]`
+> - The car would have cost so much to repair that I decided to scrap it. `[例]`
+> - He obtained every scrap of information available. `[例]`
 
 
 ---

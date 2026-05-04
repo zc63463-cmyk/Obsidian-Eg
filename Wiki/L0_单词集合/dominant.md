@@ -124,10 +124,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "English has become the dominant language of international communication." `[真题]`
-> - "This country remains a dominant force in scientific research." `[COCA-ACAD]`
-> - "The company's competitors say it abuses its dominant position to prevent them from expanding." `[COCA-ACAD]`
-> - "Pyrite is the dominant sulphide mineral." `[COCA-ACAD]`
+> - Unemployment will be a dominant issue at the next election. `[例]`
+>   - 中译：失业问题将成为下次选举的主要问题。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/dominant
+> - The company's competitors say it abuses its dominant position to prevent them from expanding. `[例]`
+>   - 中译：该公司的竞争对手称，该公司滥用其主导地位来阻止他们扩张。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/dominant
+> - This country remains a dominant force in scientific research. `[例]`
+>   - 中译：这个国家仍然是科学研究的主导力量。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/dominant
 
 ---
 

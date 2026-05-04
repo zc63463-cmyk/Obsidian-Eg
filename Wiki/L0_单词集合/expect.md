@@ -128,8 +128,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "We shouldn't expect it to be everyone's priority — or even most people's."（我们不应指望它成为每个人的首要任务——甚至大多数人的。）——2019考研英语二阅读
-> - "Shareholders expect returns on investments in pharmaceutical and biotechnologic companies."（股东期望在制药和生物技术公司的投资获得回报。）——考研高频表达
+> - We are expecting a lot of applicants for the job. `[例]`
+>   - 中译：我们预计会有很多人申请这份工作。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/expect
+> - I expect (that) he'd have left anyway. `[例]`
+>   - 中译：我预计他无论如何都会离开。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/expect
+> - The financial performance of the business is fully expected (= almost certain ) to improve. `[例]`
+>   - 中译：企业的财务业绩完全有望（=几乎肯定）得到改善。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/expect
 
 ---
 

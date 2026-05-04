@@ -132,10 +132,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - A recent opinion poll shows that public support for the policy is declining. `[真题]`
-> - The latest opinion poll puts the Democrats in the lead. `[COCA-NEWS]`
-> - More than 70 per cent of those polled said that they approved of his record as president. `[COCA-NEWS]`
-> - Voters are due to go to the polls on Sunday to elect a new president. `[COCA-NEWS]`
+> - The latest opinion poll puts the Democrats in the lead. `[例]`
+>   - 中译：最新的民意调查显示民主党处于领先地位。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/poll
+> - The TV stations agreed not to announce the projected winner until after the polls closed. `[例]`
+>   - 中译：电视台同意在投票结束之前不宣布预计的获胜者。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/poll
+> - Thousands of people made their way to the polls to register their vote. `[例]`
+>   - 中译：数千人前往投票站登记投票。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/poll
 
 ---
 

@@ -134,10 +134,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - His business thrived in the years before the war . `[例]`
-> - She seems to thrive on stress . `[例]`
-> - She seems to thrive on hard work . `[例]`
-> - Industries such as water , telecoms , and insurance have been thriving. `[例]`
+> - New businesses thrive in this area. `[例]`
+>   - 中译：新企业在该地区蓬勃发展。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/thrive
+> - These animals rarely thrive in captivity. `[例]`
+>   - 中译：这些动物在圈养条件下很少能茁壮成长。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/thrive
+> - Be honest about what’s workable, and let creativity thrive within boundaries. `[例]`
+>   - 中译：诚实地对待可行的事情，让创造力在界限内蓬勃发展。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/thrive
 
 ---
 

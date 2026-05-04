@@ -137,9 +137,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - How can we defend our homeland if we don't have an army ? `[例]`
-> - White blood cells help defend the body against infection . `[例]`
-> - Scientists have examined how healthy lungs defend against asthma attacks . `[例]`
+> - How can we defend our homeland if we don't have an army? `[例]`
+>   - 中译：如果我们没有军队，如何保卫我们的祖国？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/defend
+> - White blood cells help defend the body against infection. `[例]`
+>   - 中译：白细胞有助于保护身体免受感染。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/defend
+> - Scientists have examined how healthy lungs defend against asthma attacks. `[例]`
+>   - 中译：科学家们研究了健康的肺部如何抵御哮喘发作。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/defend
 
 ---
 

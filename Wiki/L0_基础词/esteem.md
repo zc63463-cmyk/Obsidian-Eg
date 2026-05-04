@@ -126,7 +126,7 @@ e-(=ex-, 出) + stime(=[[st-sta-stat|st-]]/estimate, 估计，源自拉丁语 *a
 ## 真题/语料关联
 
 > [!example]- 语料
-> - There has been a drop in public esteem for teachers . `[例]`
+> - There has been a drop in public esteem for teachers. `[例]`
 > - Because of their achievements they were held in (= given) esteem. `[例]`
 > - Be assured that I hold you in high esteem. `[例]`
 

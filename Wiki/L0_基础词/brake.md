@@ -125,9 +125,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She had no brakes on her bicycle . `[例]`
-> - The driver suddenly put on his brakes. `[例]`
-> - I slammed on (= quickly used) the brakes, but it was too late. `[例]`
+> - High interest rates are a brake on the economy. `[例]`
+>   - 中译：高利率是经济的刹车。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/brake
+> - The need to earn some money put the brakes on my wilder ambitions. `[例]`
+>   - 中译：赚钱的需要抑制了我的野心。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/brake
+> - High interest rates will act as a brake on the economy. `[例]`
+>   - 中译：高利率将成为经济的刹车。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/brake
 
 
 ---

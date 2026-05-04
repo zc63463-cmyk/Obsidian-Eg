@@ -125,9 +125,9 @@ short(短的，不够) + -age(名词后缀，表状态/结果)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "American farmers have been complaining of labor shortages for several years." `[真题]`
-> - "Water shortages and droughts will become more common as global climatic changes accelerate." `[真题]`
-> - "The country is facing a severe shortage of medical supplies." `[真题]`
+> - American farmers have been complaining of labor shortages for several years. `[真题]`
+> - Water shortages and droughts will become more common as global climatic changes accelerate. `[真题]`
+> - The country is facing a severe shortage of medical supplies. `[真题]`
 
 
 ---

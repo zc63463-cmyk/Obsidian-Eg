@@ -133,8 +133,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Trust your gut feeling when making important decisions."（在做重要决定时，相信你的直觉。）
-> - "It takes guts to stand up and speak the truth."（站起来说出真相需要勇气。）
+> - Meat stays in the gut longer than vegetable matter. `[例]`
+> - In the normal , healthy person the gut flora is a balanced community of different organisms. `[例]`
+> - He was a man of about 55 with long grey hair and a huge gut. `[例]`
 
 
 ---

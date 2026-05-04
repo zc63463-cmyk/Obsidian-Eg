@@ -126,9 +126,15 @@ audit(听，拉丁语 *auditus*，*audire* 的过去分词) + -orium(拉丁语�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - That night, the auditorium filled with about 1,000 people. `[COCA-NEWS]`
-> - The two strongest pieces take place in the main auditorium. `[COCA-NEWS]`
-> - The school has two well-appointed auditoriums on campus. `[例]`
+> - The auditorium seats over a thousand people. `[例]`
+>   - 中译：礼堂可容纳千余人。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/auditorium
+> - You will be taken on a guided tour of the theatre, including the stage, auditorium and backstage areas. `[例]`
+>   - 中译：您将在导游的带领下参观剧院，包括舞台、礼堂和后台区域。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/auditorium
+> - He stood at the back of the packed auditorium. `[例]`
+>   - 中译：他站在挤满人的礼堂的后面。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/auditorium
 
 
 ---

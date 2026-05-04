@@ -137,8 +137,8 @@ fare(旅行) + well(好，安好)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - We said our sad farewells and got on the bus . `[例]`
-> - Hundreds of mourners were there to bid a sad farewell to the star . `[例]`
+> - We said our sad farewells and got on the bus. `[例]`
+> - Hundreds of mourners were there to bid a sad farewell to the star. `[例]`
 > - A large crowd turned out to bid him farewell. `[例]`
 
 

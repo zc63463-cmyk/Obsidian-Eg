@@ -128,8 +128,15 @@ e-(=ex-, 向外) + [[volv|vol]](滚动) → 向外滚动、展开
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "However, whether such a sense of fairness evolved independently in capuchins and humans, or whether it stems from the common ancestor, is yet to be investigated."（然而，这种公平感是在僧帽猴和人类身上各自独立演化而成，还是源自共同祖先，还有待研究。）——2005年考研真题
-> - "The English language has evolved significantly over the centuries, borrowing words from many other languages."（英语几个世纪以来发生了显著演变，从许多其他语言中借用了词汇。）——考研高频表达
+> - Did humans evolve from apes? `[例]`
+>   - 中译：人类是由猿类进化而来的吗？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/evolve
+> - The company has evolved over the years into a multi-million dollar organization. `[例]`
+>   - 中译：多年来，该公司已发展成为一家价值数百万美元的组织。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/evolve
+> - Bacteria are evolving resistance to antibiotics. `[例]`
+>   - 中译：细菌正在进化出对抗生素的耐药性。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/evolve
 ---
 
 

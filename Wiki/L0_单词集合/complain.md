@@ -126,9 +126,15 @@ com-(加强/一起) + plain(悲叹、哀号)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Residents have repeatedly complained about the lack of parking spaces. `[COCA-NEWS]`
-> - If you are not satisfied with the product, you can complain to the consumer protection agency. `[COCA-MAG]`
-> - He complained that he was underpaid. `[例]`
+> - Lots of people have complained about the noise. `[例]`
+>   - 中译：很多人都抱怨噪音。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/complain
+> - He complained that his boss was useless and he had too much work. `[例]`
+>   - 中译：他抱怨他的老板没用，他的工作太多了。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/complain
+> - If the service was so bad , why didn't you complain to the manager? `[例]`
+>   - 中译：如果服务这么差，你为什么不向经理投诉呢？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/complain
 
 ---
 

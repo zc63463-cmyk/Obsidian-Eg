@@ -131,8 +131,15 @@ hum-/homo-(=人，泥土) + -an(形容词后缀) + -ity(名词后缀，表示性
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The environmental impact of these policies affects all of humanity."（这些政策对环境的影响波及全人类。——剑桥词典例句）
-> - "The General was accused of committing crimes against humanity."（该将军被指控犯有反人类罪。——剑桥词典例句）
+> - The massacre was a crime against humanity. `[例]`
+>   - 中译：大屠杀是反人类罪。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/humanity
+> - Bombing civilians is a crime against humanity. `[例]`
+>   - 中译：轰炸平民是反人类罪。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/humanity
+> - The environmental impact of these policies affects all of humanity. `[例]`
+>   - 中译：这些政策对环境的影响影响到全人类。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/humanity
 
 ---
 

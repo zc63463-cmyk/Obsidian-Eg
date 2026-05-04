@@ -129,9 +129,15 @@ ap-（=ad-，向，朝向）+ 建议创建词根笔记 [[plic]]（折叠，施�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The wise teachings of ancient Greek thinkers are timeless, and are applicable to contemporary life. `[例]`
-> - What is learned is rarely applicable in life. `[例]`
-> - This regulation is applicable to all employees within the organization. `[例]`
+> - This part of the law is only applicable to companies employing more than five people. `[例]`
+>   - 中译：这部分法律仅适用于雇用五人以上的公司。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/applicable
+> - The new qualifications are applicable to all European countries. `[例]`
+>   - 中译：新的资格适用于所有欧洲国家。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/applicable
+> - The company will help with moving expenses where applicable. `[例]`
+>   - 中译：如果适用，公司将帮助支付搬家费用。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/applicable
 ---
 
 

@@ -131,9 +131,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - When confronted with evidence of wrongdoing, the company had no choice but to acknowledge the problem. `[COCA-ACAD]`
-> - The government must confront the challenges of income inequality and social mobility. `[COCA-ACAD]`
-> - Many small businesses are confronted with the dilemma of rising costs and declining revenues. `[例]`
+> - As she left the court , she was confronted by angry crowds who tried to block her way. `[例]`
+>   - 中译：当她离开法庭时，她遇到了试图挡住她去路的愤怒人群。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/confront
+> - It's an issue we'll have to confront at some point , no matter how unpleasant it is. `[例]`
+>   - 中译：这是我们在某个时刻必须面对的一个问题，无论它有多么令人不快。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/confront
+> - She was confronted by a man wielding a knife. `[例]`
+>   - 中译：她遇到了一名持刀男子。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/confront
 ---
 
 

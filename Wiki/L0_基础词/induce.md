@@ -127,9 +127,9 @@ in-(向内，进入，[[in]]) + [[duc-duct|duc-]](引导，拉丁语 *ducere*)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - They induced her to take the job by promising editorial freedom . `[例]`
-> - Nothing could induce me (= I definitely cannot be persuaded ) to climb a mountain . `[例]`
-> - Pills for seasickness often induce drowsiness . `[例]`
+> - They induced her to take the job by promising editorial freedom. `[例]`
+> - Nothing could induce me (= I definitely cannot be persuaded ) to climb a mountain. `[例]`
+> - Pills for seasickness often induce drowsiness. `[例]`
 
 
 ---

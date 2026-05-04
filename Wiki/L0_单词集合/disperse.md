@@ -135,8 +135,14 @@ review_count: 0
 
 > [!example]- 语料
 > - When the rain came down the crowds started to disperse. `[例]`
-> - Police dispersed the crowd that had gathered . `[例]`
-> - It took several hours for the crowd to disperse. `[例]`
+>   - 中译：雨一落下，人群就开始散去。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/disperse
+> - Police dispersed the crowd that had gathered. `[例]`
+>   - 中译：警察驱散了聚集的人群。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/disperse
+> - Outside the church , the congregation shook hands with the vicar and began to disperse. `[例]`
+>   - 中译：教堂外，会众与牧师握手后开始散去。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/disperse
 ---
 
 

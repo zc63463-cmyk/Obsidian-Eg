@@ -129,9 +129,9 @@ thea-(=see, watch，看，希腊语 *theasthai*) + -tre(=place，地方，名词
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The company's productions show the new face of 21st century Chinese theatre." `[真题]`
-> - "The cinema, the theatre, all that was very exciting with new things coming out." `[真题]`
-> - "The Pacific region became a major theatre of war during World War II." `[语料库]`
+> - The company's productions show the new face of 21st century Chinese theatre. `[真题]`
+> - The cinema, the theatre, all that was very exciting with new things coming out. `[真题]`
+> - The Pacific region became a major theatre of war during World War II. `[例]`
 
 
 ---

@@ -136,9 +136,15 @@ blow(吹/吹气，古英语 *blāwan*)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The wind was blowing harder every minute . `[例]`
-> - Remember to wash your hands after you blow your nose . `[例]`
-> - Losing his job was a severe blow to his confidence . `[例]`
+> - You're not blowing hard enough! `[例]`
+>   - 中译：你吹得还不够猛烈！
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/blow
+> - The policeman asked me to blow into the breathalyser. `[例]`
+>   - 中译：警察让我对着酒精检测器吹气。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/blow
+> - The birds were singing and a warm wind was blowing. `[例]`
+>   - 中译：鸟儿在歌唱，温暖的风吹过。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/blow
 
 
 ---

@@ -139,9 +139,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - He was sitting alone by a window with a weird contraption on the table in front of him. `[例]`
-> - Her boyfriend's a bit weird but she's nice . `[例]`
-> - That's weird - I thought I left my keys on the table but they're not there. `[例]`
+> - I had a really weird dream last night. `[例]`
+>   - 中译：昨晚我做了一个非常奇怪的梦。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/weird
+> - She's a really weird girl. `[例]`
+>   - 中译：她真是一个奇怪的女孩。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/weird
+> - He's got some weird ideas. `[例]`
+>   - 中译：他有一些奇怪的想法。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/weird
 
 ---
 

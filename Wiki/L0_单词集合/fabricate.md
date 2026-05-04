@@ -129,9 +129,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The evidence was entirely fabricated."（证据完全是捏造的）——考研阅读/翻译常见搭配，法律与新闻语境
-> - "He fabricated an excuse for being late."（他为迟到编造了一个借口）——日常与学术写作语境
-> - "The components are precision-fabricated."（这些零件是精密制造的）——科技类阅读语境
+> - He was late, so he fabricated an excuse to avoid trouble. `[例]`
+>   - 中译：他迟到了，所以他编造了一个借口来避免麻烦。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/fabricate
+> - He claims that the police fabricated evidence against him. `[例]`
+>   - 中译：他声称警方捏造了对他不利的证据。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/fabricate
+> - The company fabricates and sells steel. `[例]`
+>   - 中译：该公司生产和销售钢材。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/fabricate
 
 ---
 

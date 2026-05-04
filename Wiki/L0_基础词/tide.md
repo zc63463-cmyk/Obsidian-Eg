@@ -125,9 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - We must look for ways of stemming (= stopping ) the rising tide of protest . `[例]`
-> - The tide of public opinion is turning against the president . `[例]`
-> - Most people are completely clueless about tide directions and weather conditions . `[例]`
+> - We must look for ways of stemming (= stopping ) the rising tide of protest. `[例]`
+> - The tide of public opinion is turning against the president. `[例]`
+> - Most people are completely clueless about tide directions and weather conditions. `[例]`
 
 
 ---

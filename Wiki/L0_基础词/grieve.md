@@ -127,8 +127,9 @@ grieve 源自拉丁语 *gravis*（重的），通过古法语 *grever* 演变而
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He is really grieving over the loss of something beautiful more than useful."（他真的为那些美好多于实用的事物的消逝感到悲痛——2016考研英语词汇例句）
-> - "It grieved her to leave."（她要走了，心里很难过——剑桥词典例句）
+> - He is still grieving for his wife. `[例]`
+> - She plays a woman grieving over the loss of her teenage son. `[例]`
+> - It grieves me to see all this food going to waste. `[例]`
 
 
 ---

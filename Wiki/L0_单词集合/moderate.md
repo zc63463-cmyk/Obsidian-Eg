@@ -136,8 +136,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Moderate exercise has been shown to reduce the risk of heart disease and improve mental health."（适度运动已被证明可以降低心脏病风险并改善心理健康。）——考研高频表达
-> - "The government should take moderate measures to control inflation without stifling economic growth."（政府应采取适度措施控制通货膨胀，同时不抑制经济增长。）——考研高频表达
+> - The cabin is of moderate size - just right for a small family. `[例]`
+>   - 中译：小屋大小适中，适合小家庭入住。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/moderate
+> - He's a moderate drinker. `[例]`
+>   - 中译：他是一个适度饮酒的人。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/moderate
+> - Imposing sanctions is a moderate action when you consider that the alternative is military intervention. `[例]`
+>   - 中译：当考虑到替代方案是军事干预时，实施制裁是一种温和的行动。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/moderate
 ---
 
 

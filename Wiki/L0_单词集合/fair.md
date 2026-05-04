@@ -148,9 +148,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "fair competition is essential for a healthy market."（公平竞争对健康的市场至关重要）——考研写作/阅读高频搭配，经济类话题
-> - "a fair chance of success"（相当大的成功机会）——考研阅读常见搭配
-> - "Is it fair to blame technology for unemployment?"（把失业归咎于科技公平吗？）——社会类话题常见设问
+> - Why should I have to do all the cleaning ? It's not fair! `[例]`
+>   - 中译：为什么我必须做所有的清洁工作？这不公平！
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/fair
+> - It's not fair on Joe (= it is not right ) to make him do all the work! `[例]`
+>   - 中译：让他做所有的工作对乔来说是不公平的（=这是不对的）！
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/fair
+> - It's not fair that she's allowed to go and I'm not! `[例]`
+>   - 中译：她被允许去而我却不能，这不公平！
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/fair
 
 ---
 

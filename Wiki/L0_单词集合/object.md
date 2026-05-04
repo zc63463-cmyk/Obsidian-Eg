@@ -143,10 +143,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - A collection of precious objects. `[例]`
-> - Several people reported seeing a strange object in the sky . `[例]`
-> - In the sentence "I like ice cream ", " ice cream " is the object of the verb "like". `[例]`
-> - The object of their expedition was to discover the source of the River Nile. `[例]`
+> - Several people reported seeing a strange object in the sky. `[例]`
+>   - 中译：有几个人报告说在天空中看到了一个奇怪的物体。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/object
+> - A new baby will automatically curl its fingers round any object it touches. `[例]`
+>   - 中译：新生儿会自动将手指卷曲在其接触到的任何物体上。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/object
+> - Look, there's a strange object in the sky! `[例]`
+>   - 中译：看，天上有一个奇怪的物体！
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/object
 
 ---
 

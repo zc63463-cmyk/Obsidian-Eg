@@ -132,9 +132,9 @@ sheep(羊) + herd(=herd，牧群，看管)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She carefully shepherded the children across the street." `[真题]`
-> - "They shepherded the bill through Congress." `[真题]`
-> - "The tour guides shepherded the rest of the group onto the bus." `[真题]`
+> - She carefully shepherded the children across the street. `[真题]`
+> - They shepherded the bill through Congress. `[真题]`
+> - The tour guides shepherded the rest of the group onto the bus. `[真题]`
 
 
 ---

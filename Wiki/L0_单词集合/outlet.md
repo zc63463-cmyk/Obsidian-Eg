@@ -122,10 +122,15 @@ out(向外) + let(让/允许) → "让…向外流出"
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Young people need a creative outlet for their energy and emotions." `[真题]`
-> - "The internet has become an important outlet for public opinion." `[真题]`
-> - "They had few outlets for their creative or intellectual urges." `[COCA-ACAD]`
-> - "Technology has provided many new outlets for amateur writers and artists to share their work with a global audience." `[COCA-ACAD]`
+> - The advent of electronic publishing and authors' need to find outlets for their papers resulted in thousands of new journals. `[真题]`
+>   - 中译：电子出版的出现和作者需要为其论文寻找出路，催生了数以千计的新期刊。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - Her work provided no outlet for her energies and talents. `[例]`
+>   - 中译：她的工作没有为她的精力和才能提供出口。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/outlet
+> - Writing poetry was his only form of emotional outlet. `[例]`
+>   - 中译：写诗是他唯一的情感宣泄方式。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/outlet
 
 ---
 

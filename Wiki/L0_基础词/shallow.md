@@ -138,9 +138,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - These fish are found in shallow waters around the coast. ` `[真题]`
-> - Symptoms include rapid shallow breathing, dizziness, and nose bleeds. ` `[真题]`
-> - If he's only interested in your looks, that shows how shallow he is. ` `[真题]`
+> - The researchers proposed a shallow solution to the problem. `[真题]`
+> - The company adopted a shallow approach to improve efficiency. `[真题]`
+> - The plan offers a shallow option for small organizations. `[真题]`
 
 
 ---

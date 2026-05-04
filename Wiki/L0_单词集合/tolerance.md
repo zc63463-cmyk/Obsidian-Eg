@@ -126,9 +126,15 @@ toler-(忍受) + -ance(名词后缀，表状态)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - This period in history is not noted for its religious tolerance. `[例]`
-> - Parts that are made to tolerances of a thousandth of an inch. `[例]`
-> - There is zero tolerance of violence at this school – if you’re caught fighting , you’ll be suspended . `[例]`
+> - She had no tolerance for jokes of any kind. `[例]`
+>   - 中译：她不能容忍任何形式的笑话。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/tolerance
+> - Tolerance to alcohol decreases with age. `[例]`
+>   - 中译：对酒精的耐受性随着年龄的增长而降低。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/tolerance
+> - They were working to a tolerance of 0.0001 of a centimetre. `[例]`
+>   - 中译：他们的工作误差为 0.0001 厘米。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/tolerance
 
 ---
 

@@ -118,9 +118,15 @@ burglar 源自中世纪拉丁语 *burgator*，*burgare*（破门而入），*bur
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The burglar had taken a laptop on which highly sensitive information was stored . `[例]`
-> - It was brave of you to chase after the burglar. `[例]`
-> - No household security devices will protect you against the determined burglar. `[例]`
+> - Burglars broke into the gallery and stole dozens of priceless paintings. `[例]`
+>   - 中译：窃贼闯入画廊并偷走了数十幅无价的画作。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/burglar
+> - Members of the group included database hackers, organizers, target identifiers, callers and residential burglars who targeted hardware virtual currency wallets, which store cryptocurrency, prosecutors said. `[例]`
+>   - 中译：检察官表示，该组织的成员包括数据库黑客、组织者、目标标识符、呼叫者和住宅窃贼，他们的目标是存储加密货币的硬件虚拟货币钱包。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/burglar
+> - The analogy floating around is a burglar who can walk into any building, find every hidden weakness, unlock every door, and empty every safe. `[例]`
+>   - 中译：流传甚广的比喻是，窃贼可以走进任何建筑物，找到每一个隐藏的弱点，打开每扇门，并清空每一个保险箱。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/burglar
 
 
 ---

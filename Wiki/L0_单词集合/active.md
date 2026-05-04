@@ -124,6 +124,15 @@ act(行动) + -ive(形容词后缀，倾向…)
 ## 真题/语料关联
 
 > [!example]- 语料
+> - He is 90 years old , but remains active in the local community. `[例]`
+>   - 中译：他已经 90 岁了，但仍然活跃在当地社区。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/active
+> - The goal of our organization is to make sure that people stay active. `[例]`
+>   - 中译：我们组织的目标是确保人们保持活跃。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/active
+> - You have to try to keep active as you grow older. `[例]`
+>   - 中译：随着年龄的增长，你必须努力保持活跃。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/active
 - Active participation is encouraged in all classes.（所有课程都鼓励积极参与。）
 - The volcano is still active.（这座火山仍然活跃。）
 

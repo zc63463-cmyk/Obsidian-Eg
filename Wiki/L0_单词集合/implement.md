@@ -125,10 +125,15 @@ im-(=in，进入) + [[fac]](=make/do，做) + -ment(名词后缀，表结果/工
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The government has promised to implement new measures to reduce pollution. `[真题]`
-> - The determination of policy is not your business — your job is to implement it. `[COCA-ACAD]`
-> - Local councils will be given some leeway as to how they implement the legislation. `[COCA-ACAD]`
-> - Very few parties in government ever want to implement major political reform. `[COCA-ACAD]`
+> - The changes to the national health system will be implemented next year. `[例]`
+>   - 中译：国家卫生系统的改革将于明年实施。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/implement
+> - The determination of policy is not your business - your job is to implement it. `[例]`
+>   - 中译：政策的制定不是你的事——你的工作是执行它。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/implement
+> - Local councils will be given some leeway as to how they implement the legislation. `[例]`
+>   - 中译：地方议会在如何实施立法方面将有一定的余地。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/implement
 
 ---
 

@@ -125,9 +125,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - He had so much pressure on him in his job that eventually he just couldn't cope. `[COCA-FIC]`
-> - It must be really hard to cope with four children under 5. `[COCA-FIC]`
-> - The hospitals do not have enough money to cope with the numbers of patients. `[COCA-NEWS]`
+> - I got to the stage where I wasn't coping any more. `[例]`
+>   - 中译：我已经到了无法应对的阶段。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/cope
+> - He wasn't able to cope with the stresses and strains of the job. `[例]`
+>   - 中译：他无法应对工作的压力和压力。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/cope
+> - Desert plants are adapted to cope with extreme heat. `[例]`
+>   - 中译：沙漠植物适应极端炎热的环境。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/cope
 
 
 ---

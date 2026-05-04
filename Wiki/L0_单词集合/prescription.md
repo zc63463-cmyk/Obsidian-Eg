@@ -123,8 +123,15 @@ pre-(在……之前) + [[scrib-script|script]](写) + -ion(名词后缀，动�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "George Annas, chair of the health law department at Boston University, maintains that, as long as a doctor prescribes a drug for a legitimate medical purpose, the doctor has done nothing illegal."（波士顿大学卫生法系主任乔治·安纳斯认为，只要医生出于合法的医疗目的开药，就没有做任何违法的事。）——2002年阅读4
-> - "The law prescribes strict standards for food safety."（法律对食品安全规定了严格的标准。）——2016年阅读Text3
+> - The doctor wrote her a prescription for sedatives. `[例]`
+>   - 中译：医生给她开了镇静剂的处方。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/prescription
+> - The doctor should give you a repeat prescription (= another piece of paper allowing more of the same medicine to be given, often without the person seeing the doctor again). `[例]`
+>   - 中译：医生应该给您重复开处方（=另一张纸，允许给予更多相同的药物，通常不需要患者再次去看医生）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/prescription
+> - These drugs are only available on prescription (= with a prescription from a doctor ). `[例]`
+>   - 中译：这些药物只能凭处方购买（= 凭医生处方）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/prescription
 ---
 
 

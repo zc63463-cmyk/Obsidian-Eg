@@ -3,10 +3,8 @@ title: "stakeholder"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-25
-mastery: L0
 word_freq: 超纲词
 semantic_field: 社会专业
 prototype: 利益相关者
@@ -43,7 +41,7 @@ stake(赌注/利害关系) + hold(持有) + -er(人)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**利益相关者**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **持有赌注的人**（赌博层面）
@@ -65,7 +63,7 @@ stake(赌注/利害关系) + hold(持有) + -er(人)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +73,7 @@ stake(赌注/利害关系) + hold(持有) + -er(人)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > stake（赌注/利害关系）+ holder（持有者）→ 持有赌注的人。在赌场里，你把100块钱押在桌上——你就是 stakeholder。在公司里，股东投了钱、员工投了时间、客户投了信任——他们都是 stakeholders。stakeholder 就是"有利益在里面"的人。
@@ -87,7 +85,7 @@ stake(赌注/利害关系) + hold(持有) + -er(人)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +98,13 @@ stake(赌注/利害关系) + hold(持有) + -er(人)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[bystander]]：旁观者（stakeholder 的精确反义：利益相关者↔旁观者）
 > - [[outsider]]：局外人（stakeholder 的反义：局内人↔局外人）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,26 +115,19 @@ stake(赌注/利害关系) + hold(持有) + -er(人)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **key stakeholders**：关键利益相关者
 > - **stakeholder engagement**：利益相关者参与
 > - **stakeholder management**：利益相关者管理
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - Corporate executives need to think about the whole business and how it creates value for customers and stakeholders. `[例]`
 > - The bill faces opposition from a number of key stakeholders , including the California Chamber of Commerce. `[例]`
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-25 | **复习次数**：0 | **当前等级**：L0
-
----
-
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

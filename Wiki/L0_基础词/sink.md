@@ -144,7 +144,7 @@ sink 源自古英语 *sincan*，原始日耳曼语 *senkan*，意为"使下沉"
 > [!example]- 语料
 > - The foundations of the building are starting to sink into the ground. `[真题]`
 > - Researchers also point to the time sink that is involved in preparing data for others to view. `[真题]`
-> - With a sinking heart, she signed the papers to sell the house. `[外刊]`
+> - With a sinking heart, she signed the papers to sell the house. `[例]`
 
 
 ---

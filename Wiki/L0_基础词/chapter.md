@@ -129,9 +129,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Read Chapter 10 before class tomorrow . `[例]`
-> - The period before the revolution is an interesting chapter in British history . `[例]`
-> - That chapter of my life closed when I had a serious riding accident . `[例]`
+> - He devotes an entire chapter to this topic. `[例]`
+>   - 中译：他用了整整一章来讨论这个主题。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/chapter
+> - There is a useful summary at the end of the chapter. `[例]`
+>   - 中译：本章末尾有一个有用的总结。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/chapter
+> - Have you read the chapter on the legal system? `[例]`
+>   - 中译：你读过关于法律制度的章节吗？
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/chapter
 
 
 ---

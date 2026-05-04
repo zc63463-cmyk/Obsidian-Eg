@@ -123,9 +123,15 @@ coalition = co-(=com-, 共同、一起) + alit(=alere, 滋养、生长) + -ion(�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - We are at a crisis level on the supply of rental housing , " said Nick Taylor, executive director of the Workforce Housing Coalition of the Greater Seacoast. `[真题]`
-> - The coalition immediately decided to cut capital spending . `[例]`
-> - Government by coalition has its own peculiar set of problems . `[例]`
+> - The two parties have formed a coalition. `[例]`
+>   - 中译：两党已组成联合政府。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/coalition
+> - The two parties governed in coalition for four years. `[例]`
+>   - 中译：两党联合执政四年。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/coalition
+> - They didn't rule out coalition with the Social Democrats. `[例]`
+>   - 中译：他们不排除与社会民主党结盟。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/coalition
 
 
 ---

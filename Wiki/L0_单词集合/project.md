@@ -134,8 +134,14 @@ pro-(向前) + [[ject|ject]](投/抛) + -e
 
 > [!example]- 语料
 > - Smith's research project on campus sports activities. `[真题]`
-> - The Kings Cross housing project. `[例]`
-> - Her latest project is a film based on the life of a 19th-century music hall star . `[例]`
+>   - 中译：史密斯关于校园体育活动的研究项目。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - Her latest project is a film based on the life of a 19th-century music hall star. `[例]`
+>   - 中译：她的最新项目是一部根据 19 世纪音乐厅明星的生活改编的电影。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/project
+> - My next project is decorating the kitchen. `[例]`
+>   - 中译：我的下一个项目是装饰厨房。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/project
 
 
 ---

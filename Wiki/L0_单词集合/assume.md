@@ -127,10 +127,15 @@ as-(=ad-，朝向) + sume-(=sumere，拿取)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - We can't assume he is guilty without solid evidence. `[真题]`
-> - Allen's contribution was to take an assumption we all share — that because we are not robots we therefore control our thoughts — and reveal its erroneous nature. `[真题]`
-> - The manager assumed full responsibility for the failure and resigned from his position. `[COCA-NEWS]`
-> - It is reasonable to assume that the situation will improve in the coming months. `[例]`
+> - We mustn't assume the suspects ' guilt. `[例]`
+>   - 中译：我们决不能假定嫌疑人有罪。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/assume
+> - I assumed (that) you knew each other because you went to the same school. `[例]`
+>   - 中译：我以为你们认识是因为你们上的是同一所学校。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/assume
+> - Let's assume that they're coming and make plans on that basis. `[例]`
+>   - 中译：我们假设他们来了，并在此基础上制定计划。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/assume
 
 ---
 

@@ -131,8 +131,8 @@ review_count: 0
 
 > [!example]- 语料
 > - His hand was injured when he got it caught in the machinery. `[例]`
-> - Some of the older machinery breaks down frequently . `[例]`
-> - They use modern farm machinery, such as combine harvesters . `[例]`
+> - Some of the older machinery breaks down frequently. `[例]`
+> - They use modern farm machinery, such as combine harvesters. `[例]`
 
 
 ---

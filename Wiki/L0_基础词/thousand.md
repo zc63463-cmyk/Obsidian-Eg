@@ -129,7 +129,7 @@ thousand 为日耳曼语系原生词（古英语 *þūsend*），源自原始日
 > [!example]- 语料
 > - The advent of electronic publishing and authors' need to find outlets for their papers resulted in thousands of new journals. `[真题]`
 > - The population of the village is about three thousand. `[例]`
-> - The damage will cost thousands of dollars to repair . `[例]`
+> - The damage will cost thousands of dollars to repair. `[例]`
 
 
 ---

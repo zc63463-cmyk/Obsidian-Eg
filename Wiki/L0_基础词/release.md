@@ -136,7 +136,7 @@ re-(=back，回) + lease(松开，拉丁语 *laxare*，与 [[relax]] 中的 lax 
 > [!example]- 语料
 > - Just three weeks before the Court's ruling on physician-assisted suicide, the National Academy of Science (NAS) released a two-volume report. `[真题]`
 > - Quicker turnarounds mean less wasted inventory, more frequent release, and more profit. `[真题]`
-> - Police have released a picture of the man they want to question. `[权威语料]`
+> - Police have released a picture of the man they want to question. `[例]`
 
 
 ---

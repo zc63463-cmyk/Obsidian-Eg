@@ -122,9 +122,15 @@ con-(共同、一起) + [[ver-vert|verge]](=vertere，转) → 共同转向一�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Studies of brain activation bring converging evidence on reading processes and provide neuroanatomical correlates of reading problems. `` `[COCA-ACAD]` ``
-> - The experimental and analytic results demonstrated that by increasing the number of labelers the system converged more quickly. `` `[COCA-ACAD]` ``
-> - The two rivers converge on the plain to form a single waterway. `` `[例]` ``
+> - The paths all converge at the main gate of the park. `[例]`
+>   - 中译：所有的小路都在公园的正门汇合。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/converge
+> - Due to roadworks , three lanes of traffic have to converge into two. `[例]`
+>   - 中译：由于道路施工，三车道交通必须汇合为两车道。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/converge
+> - Ambulances, police cars , and fire engines all converged on the scene. `[例]`
+>   - 中译：救护车、警车、消防车都聚集到了现场。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/converge
 
 
 ---

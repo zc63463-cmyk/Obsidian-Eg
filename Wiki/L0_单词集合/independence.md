@@ -129,9 +129,15 @@ in-(不) + de-(向下) + pend(悬挂) + -ence(名词后缀) → 不向下悬挂�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The country gained its independence from colonial rule in 1960. `[真题]`
-> - The Federal Reserve's independence from the White House has long been enshrined in the law. `[COCA-ACAD]`
-> - The loss of the commons was, for women, a loss of independence. `[COCA-ACAD]`
+> - He fought for his country's independence from British rule. `[例]`
+>   - 中译：他为自己的国家摆脱英国统治而独立而奋斗。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/independence
+> - The country declared independence in 1952. `[例]`
+>   - 中译：该国于1952年宣布独立。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/independence
+> - Mexico gained its independence from Spain in 1821. `[例]`
+>   - 中译：墨西哥于 1821 年脱离西班牙独立。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/independence
 
 ---
 

@@ -127,9 +127,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Silent and pale , she clutched onto her mother's hand . `[例]`
-> - Clutching the money to his chest , he hurried to the bank . `[例]`
-> - He collapsed , clutching his stomach . `[例]`
+> - He clutched the child to him. `[例]`
+>   - 中译：他把孩子抱在怀里。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/clutch
+> - She stood there, the flowers still clutched in her hand. `[例]`
+>   - 中译：她站在那里，手里还握着花。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/clutch
+> - I clutched on to the chair for support. `[例]`
+>   - 中译：我紧紧抓住椅子以寻求支撑。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/clutch
 
 
 ---

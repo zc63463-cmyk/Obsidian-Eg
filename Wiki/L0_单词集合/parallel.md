@@ -139,11 +139,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "There are interesting parallels between the two cases." `` `[COCA-ACAD]` ``
-> - "The two processes run in parallel." `` `[COCA-ACAD]` ``
-> - "The road is parallel to the river." `` `[COCA-FICT]` ``
-> - "The author drew a parallel between the characters in the two novels." `` `[COCA-ACAD]` ``
-> - "This tradition has no parallel in our culture." `` `[COCA-ACAD]` ``
+> - Draw a pair of parallel lines. `[例]`
+>   - 中译：画一对平行线。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/parallel
+> - Hills Road is parallel to Mill Road. `[例]`
+>   - 中译：Hills Road 与 Mill Road 平行。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/parallel
+> - The two roads are parallel. `[例]`
+>   - 中译：两条路是平行的。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/parallel
 
 ---
 

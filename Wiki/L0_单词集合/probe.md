@@ -125,9 +125,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The interviewer probed deep into her private life . `[例]`
-> - Detectives questioned him for hours , probing for any inconsistencies in his story . `[例]`
-> - The article probes (= tries to describe and explain ) the mysteries of nationalism in modern Europe . `[例]`
+> - The interviewer probed deep into her private life. `[例]`
+>   - 中译：采访者深入探究了她的私生活。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/probe
+> - Detectives questioned him for hours , probing for any inconsistencies in his story. `[例]`
+>   - 中译：侦探们审问了他几个小时，探究他的故事中是否有任何不一致的地方。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/probe
+> - The article probes (= tries to describe and explain ) the mysteries of nationalism in modern Europe. `[例]`
+>   - 中译：这篇文章探讨（=试图描述和解释）现代欧洲民族主义的奥秘。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/probe
 
 ---
 

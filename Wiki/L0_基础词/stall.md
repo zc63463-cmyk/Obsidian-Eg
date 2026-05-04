@@ -127,8 +127,8 @@ stall 源自古英语 *steall*（站立的地方，畜栏），与 [[st-sta-stat
 ## 真题/语料关联
 
 > [!example]- 语料
-> - In the village market , the stalls are piled high with local vegetables . `[例]`
-> - There was one bathroom with a shower stall in the corner . `[例]`
+> - In the village market , the stalls are piled high with local vegetables. `[例]`
+> - There was one bathroom with a shower stall in the corner. `[例]`
 > - Members of the public were invited to sit in the choir stalls. `[例]`
 
 

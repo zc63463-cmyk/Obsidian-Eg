@@ -124,8 +124,14 @@ organ(器官/工具) + -ize(动词后缀，使动"使…化") + -ation(名词后
 
 > [!example]- 语料
 > - The article was about international aid organizations. `[例]`
-> - Labor organizations have contributed heavily to the Democratic campaigns . `[例]`
-> - An organization by subject rather than by date seems to make sense . `[例]`
+>   - 中译：这篇文章是关于国际援助组织的。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/organization
+> - The company has evolved over the years into a multi-million dollar organization. `[例]`
+>   - 中译：多年来，该公司已发展成为一家价值数百万美元的组织。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/organization
+> - Because the organization is a charitable enterprise it is free from tax worldwide. `[例]`
+>   - 中译：由于该组织是一家慈善企业，因此在全球范围内免税。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/organization
 
 ---
 

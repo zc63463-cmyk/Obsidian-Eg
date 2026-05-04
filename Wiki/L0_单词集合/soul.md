@@ -125,10 +125,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Brevity is the soul of wit. `[真题]`
-> - He devoted himself heart and soul to the cause of education. `[真题]`
-> - The education expands the mind, the medicine heals the body, and the arts nourish the soul. `[COCA-ACAD]`
-> - She's one of those people who puts their heart and soul into their work. `[COCA-ACAD]`
+> - She suffered greatly while she was alive , so let us hope her soul is now at peace. `[例]`
+>   - 中译：她生前遭受了巨大的痛苦，所以让我们希望她的灵魂现在安息。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/soul
+> - She's one of those people who puts their heart and soul into their work. `[例]`
+>   - 中译：她是那些全身心投入工作的人之一。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/soul
+> - The priest said he was endangering his immortal soul. `[例]`
+>   - 中译：牧师说他正在危及他不朽的灵魂。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/soul
 
 
 ---

@@ -128,9 +128,9 @@ ex-(= [[de|ex-]]，向外) + hibit(持有，拉丁语 *habere*，与 [[habit]] �
 ## 真题/语料关联
 
 > [!example]- 语料
-> - He frequently exhibits at the art gallery . `[例]`
-> - In the summer the academy will exhibit several prints that are rarely seen . `[例]`
-> - He exhibited great self-control considering her rudeness . `[例]`
+> - He frequently exhibits at the art gallery. `[例]`
+> - In the summer the academy will exhibit several prints that are rarely seen. `[例]`
+> - He exhibited great self-control considering her rudeness. `[例]`
 
 
 ---

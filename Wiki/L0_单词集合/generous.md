@@ -133,9 +133,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "a generous donation to charity"（对慈善事业的慷慨捐赠）——考研阅读常见搭配
-> - "a generous amount of time"（大量的时间）——考研阅读常见搭配
-> - "it was generous of her to forgive him"（她宽恕他真是宽宏大量）——考研阅读常见句式
+> - It was generous of you to lend me the money. `[例]`
+>   - 中译：你借钱给我真是太慷慨了。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/generous
+> - It was very generous of them to take the time to help. `[例]`
+>   - 中译：他们花时间提供帮助真是太慷慨了。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/generous
+> - She's been very generous with her time. `[例]`
+>   - 中译：她对自己的时间非常慷慨。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/generous
 
 ---
 

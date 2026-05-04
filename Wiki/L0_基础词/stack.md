@@ -128,8 +128,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - He chose a cartoon from the stack of DVDs on the shelf . `[例]`
-> - Don't worry , we've got stacks of time . `[例]`
+> - He chose a cartoon from the stack of DVDs on the shelf. `[例]`
+> - Don't worry , we've got stacks of time. `[例]`
 > - What's the best way to find a book in the stacks? `[例]`
 
 

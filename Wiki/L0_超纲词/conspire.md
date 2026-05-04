@@ -3,10 +3,8 @@ title: "conspire"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 人本世界
 prototype: 一起呼吸（密谋策划）
@@ -43,7 +41,7 @@ con-（一起）+ [[spir]]（呼吸，拉丁语 *spirare*）
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**一起呼吸（密谋策划）**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **一起呼吸**（物理接近层面）
@@ -64,7 +62,7 @@ con-（一起）+ [[spir]]（呼吸，拉丁语 *spirare*）
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ con-（一起）+ [[spir]]（呼吸，拉丁语 *spirare*）
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **词根记忆**（优先）：
 > con（一起）+ spir（呼吸）→ 一起呼吸 → 密谋。spir 词根家族：inspire（注入呼吸→激励）、respire（反复呼吸→呼吸）、conspire（一起呼吸→密谋）。密谋的人凑在一起低声商量，就像"一起呼吸"。
@@ -83,7 +81,7 @@ con-（一起）+ [[spir]]（呼吸，拉丁语 *spirare*）
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -96,12 +94,12 @@ con-（一起）+ [[spir]]（呼吸，拉丁语 *spirare*）
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[reveal]]：揭露（conspire 的反义：密谋↔揭露）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -114,26 +112,19 @@ con-（一起）+ [[spir]]（呼吸，拉丁语 *spirare*）
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **conspire against**：密谋反对
 > - **conspire to do**：密谋做某事
 > - **events conspired to**：事件共同导致……
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - As girls , the sisters used to conspire with each other against their brother . `[例]`
+> [!example]- 语料
+> - As girls , the sisters used to conspire with each other against their brother. `[例]`
 > - Citation cartels, where journals, authors, and institutions conspire to inflate citation numbers , have existed for a long time. `[真题]`
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

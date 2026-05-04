@@ -134,10 +134,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The theme of loss runs through most of his novels . `[例]`
-> - Theme and variations for violin and piano. `[例]`
-> - The theme of Thrace did not include the region in the immediate neighbourhood of Constantinople. `[例]`
-> - During much of the history of the Byzantine Empire, its provinces were military districts called themes. `[例]`
+> - Births are a recurring theme in Leigh's work. `[例]`
+>   - 中译：出生是李作品中反复出现的主题。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/theme
+> - Hot temperatures were a common theme over the past couple of weeks. `[例]`
+>   - 中译：过去几周，高温是一个常见的主题。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/theme
+> - The stories are all variations on the theme of unhappy marriage. `[例]`
+>   - 中译：这些故事都是以不幸婚姻为主题的变体。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/theme
 
 ---
 

@@ -3,10 +3,8 @@ title: "elitism"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 社会习俗
 prototype: 精英主义（认为精英应该统治社会的观念）
@@ -43,7 +41,7 @@ elite（精英，源自法语 *elite*，"被选出的"）+ -ism(主义/学说)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**精英主义（认为精英应该统治社会的观念）**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **被选出的人**（选择层面）
@@ -64,7 +62,7 @@ elite（精英，源自法语 *elite*，"被选出的"）+ -ism(主义/学说)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ elite（精英，源自法语 *elite*，"被选出的"）+ -ism(主义/学说)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > elite（精英）+ ism（主义）→ elitism（精英主义）。elite 源自法语"被选出的"——社会中被选出的一小群人就是精英。认为只有这些人才配管理社会——这就是 elitism。
@@ -88,7 +86,7 @@ elite（精英，源自法语 *elite*，"被选出的"）+ -ism(主义/学说)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +98,13 @@ elite（精英，源自法语 *elite*，"被选出的"）+ -ism(主义/学说)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[egalitarianism]]：平等主义（精英主义↔平等主义）
 > - [[populism]]：民粹主义（精英统治↔民众统治）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,7 +116,7 @@ elite（精英，源自法语 *elite*，"被选出的"）+ -ism(主义/学说)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **intellectual elitism**：知识精英主义
 > - **cultural elitism**：文化精英主义
 > - **accused of elitism**：被指责为精英主义
@@ -126,19 +124,12 @@ elite（精英，源自法语 *elite*，"被选出的"）+ -ism(主义/学说)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - Critics accused the university of intellectual elitism after it raised its admission requirements significantly. `[例]`
 > - The party's policies were widely criticised as promoting cultural elitism and excluding ordinary citizens. `[例]`
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
-
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

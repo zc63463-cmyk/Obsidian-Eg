@@ -132,10 +132,15 @@ archi-（首席的）+ tect（建造者）+ -ure（名词后缀，表示行为/�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - It had a great influence upon American architecture. `[真题]`
-> - The "Case Study Houses" commissioned from talented modern architects by California Arts & Architecture magazine between 1945 and 1962 were yet another homegrown influence on the "less is more" trend. `[考研-阅读]`
-> - The architecture of the human brain is remarkably complex and still not fully understood. `[例]`
-> - Software architecture determines how easily a system can be maintained and scaled. `[例]`
+> - I studied architecture at Milan's Polytechnic Institute and graduated in 2010. `[例]`
+>   - 中译：我在米兰理工学院学习建筑学，并于 2010 年毕业。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/architecture
+> - For her designs , she was inspired by classical Greek and Roman architecture. `[例]`
+>   - 中译：她的设计灵感来自古典希腊和罗马建筑。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/architecture
+> - Modernist architecture tries to conquer nature instead of working with it. `[例]`
+>   - 中译：现代主义建筑试图征服自然，而不是与自然合作。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/architecture
 ---
 
 

@@ -125,10 +125,15 @@ en-(使动) + tail(限制/割，同源 tailor 裁缝) → 使被限制 → 使�
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - "The new regulations will entail significant costs for small businesses." `[真题]`
-> > - "Many students are reluctant to embark on full-time programmes because they entail a career break." `[COCA-ACAD]`
-> > - "The job entailed being on call twenty-four hours a day." `[COCA-ACAD]`
-> > - "Discourse is a social as well as an intellectual activity; it entails interaction between minds." `[COCA-ACAD]`
+> - Such a large investment inevitably entails some risk. `[例]`
+>   - 中译：如此大的投资必然会带来一定的风险。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/entail
+> - Repairing the roof will entail spend ing a lot of money. `[例]`
+>   - 中译：修理屋顶需要花费很多钱。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/entail
+> - Any investment entails risk. `[例]`
+>   - 中译：任何投资都会带来风险。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/entail
 
 ---
 

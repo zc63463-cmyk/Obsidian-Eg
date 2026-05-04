@@ -128,8 +128,15 @@ nerv-(神经，拉丁语 *nervus*，腱/弦)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Neuroscientists, experts who study the nervous system, are increasingly showing that there's actually a lot that can be done."（神经科学家，研究神经系统的专家，越来越多地表明实际上可以做很多事情。——2014年考研英语一完形填空）
-> - "Good writing most often occurs when you are in hot pursuit of an idea rather than in a nervous search for errors."（良好的写作往往发生在你热切追求一个想法的时候，而不是在紧张地寻找错误的时候。——2008年考研英语一新题型）
+> - Some conditions , such as diabetes , can cause nerve damage. `[例]`
+>   - 中译：某些疾病，例如糖尿病，可能会导致神经损伤。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/nerve
+> - A neurotransmitter is a chemical that nerve cells use to communicate with each other and with muscles. `[例]`
+>   - 中译：神经递质是一种化学物质，神经细胞用它来相互交流以及与肌肉交流。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/nerve
+> - The newspaper article touched a raw nerve - people still resent the closure of the local school. `[例]`
+>   - 中译：报纸上的这篇文章触动了人们的神经——人们仍然对当地学校的关闭感到不满。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/nerve
 
 ---
 

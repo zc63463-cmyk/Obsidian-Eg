@@ -137,9 +137,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Meanwhile the debate on European political and monetary union continues . `[例]`
-> - She believes that the union (= marriage ) of man and woman in holy matrimony is for ever . `[例]`
-> - The breathing exercises are designed to help forge a union of body , mind and spirit . `[例]`
+> - I've joined the union. `[例]`
+>   - 中译：我已经加入工会了。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/union
+> - Teachers' unions in England are demanding the same improvements as in Scotland. `[例]`
+>   - 中译：英格兰的教师工会要求进行与苏格兰相同的改进。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/union
+> - Do you belong to a union? `[例]`
+>   - 中译：您属于工会吗？
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/union
 
 ---
 

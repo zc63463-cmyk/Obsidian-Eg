@@ -3,10 +3,8 @@ title: "automate"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 社会专业
 prototype: 使自动运行（让机器自己行动）
@@ -44,7 +42,7 @@ auto-(自己) + mat(思考/行动，希腊语 *matos*，表示"意愿的") + -e(
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**使自动运行**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **使自动运行**（技术层面）
@@ -65,7 +63,7 @@ auto-(自己) + mat(思考/行动，希腊语 *matos*，表示"意愿的") + -e(
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ auto-(自己) + mat(思考/行动，希腊语 *matos*，表示"意愿的") + -e(
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > automate = auto（自己）+ mate（=mat，意愿/行动）+ ate（使）→ 使按自己的意愿行动 → 自动化。和 automatic（自动的）、automation（自动化）同源。auto- 前缀家族：autonomy（自治=自己管理）、autobiography（自传=自己写自己）、autograph（亲笔签名=自己写）。automate 就是让机器"自治"。
@@ -88,7 +86,7 @@ auto-(自己) + mat(思考/行动，希腊语 *matos*，表示"意愿的") + -e(
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +98,13 @@ auto-(自己) + mat(思考/行动，希腊语 *matos*，表示"意愿的") + -e(
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[manual]]：手工的（automate 的反义：自动的↔手工的）
 > - [[manually]]：手动地（automate 的反义：自动地↔手动地）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,7 +116,7 @@ auto-(自己) + mat(思考/行动，希腊语 *matos*，表示"意愿的") + -e(
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **automate the process/system**：使流程/系统自动化
 > - **automated production**：自动化生产
 > - **fully automated**：全自动的
@@ -126,19 +124,12 @@ auto-(自己) + mat(思考/行动，希腊语 *matos*，表示"意愿的") + -e(
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - Many companies have automated their customer service using AI chatbots. `[例]`
 > - The automated assembly line can produce 1,000 units per hour. `[例]`
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
-
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

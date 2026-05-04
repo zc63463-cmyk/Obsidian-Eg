@@ -124,8 +124,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - I hate dining alone . `[例]`
-> - We dined by candlelight . `[例]`
+> - I hate dining alone. `[例]`
+> - We dined by candlelight. `[例]`
 > - He once dined with the president of France. `[例]`
 
 

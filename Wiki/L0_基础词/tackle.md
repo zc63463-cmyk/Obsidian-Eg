@@ -130,7 +130,7 @@ review_count: 0
 > [!example]- 语料
 > - The government has pledged to tackle the growing problem of homelessness. `[真题]`
 > - The new initiative aims to tackle the root causes of poverty rather than merely treating its symptoms. `[真题]`
-> - The manifesto includes tough measures to tackle road congestion and environmental pollution. `[语料库]`
+> - The manifesto includes tough measures to tackle road congestion and environmental pollution. `[例]`
 
 
 ---

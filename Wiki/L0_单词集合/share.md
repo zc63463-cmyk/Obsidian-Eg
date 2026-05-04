@@ -130,10 +130,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - If all humans share common origins, it seems reasonable to suppose that cultural diversity could also be traced to more constrained beginnings. `[真题]`
-> - Companies should share the responsibility for environmental protection. `[真题]`
-> - The company has increased its market share significantly over the past decade. `[COCA-ACAD]`
-> - She shared her experience with the audience in a compelling presentation. `[COCA-ACAD]`
+> - Caravanserais served as an informal 10 point for the various people who travelled the Silk Road. _.!l_ , these structures became important centers for cultural 12 and interaction, with travellers sharing their cultures, ideas and beliefs, 13 taking knowledge with them, greatly _l!_ the development of several civilisations. `[真题]`
+>   - 中译：商队旅馆是丝绸之路上各路人士的非正式休息点。 _.!l_ ，这些建筑成为重要的文化 12 和互动中心，旅行者分享他们的文化、想法和信仰， 13 带走知识，极大地 _l!_ 多个文明的发展。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - In addition to the entourage of scientists, the team also included artists: Painter Thomas Moran and photographer William Henry Jackson were charged with capturing this astounding natural beauty and sharing it with the world. `[真题]`
+>   - 中译：除了科学家随行人员外，该团队还包括艺术家：画家托马斯·莫兰和摄影师威廉·亨利·杰克逊，他们负责捕捉这令人惊叹的自然美景并与世界分享。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - For AI to be successful, data needs to be accessible, but the use of personal data is becoming more regulated and the automated sharing of data is becoming more difficult. ( 49 ) If customers are not willing to share data, AI will be starved of essential information and will not be able to function effectively or employ machine learning to improve its marketing content and communication. `[真题]`
+>   - 中译：人工智能要取得成功，数据需要可访问，但个人数据的使用变得更加规范，数据的自动共享也变得更加困难。 ( 49 ) 如果客户不愿意共享数据，人工智能将缺乏必要的信息，将无法有效运作或利用机器学习来改进其营销内容和沟通。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
 
 ---
 

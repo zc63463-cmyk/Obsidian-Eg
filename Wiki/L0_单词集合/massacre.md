@@ -133,11 +133,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The perpetrators of the massacre must be brought to justice as war criminals. `[COCA-ACAD]`
-> - Guerrilla troops are thought to have massacred the entire village. `[COCA-NEWS]`
-> - The manager resigned after the team's 7-2 massacre in the final. `[COCA-NEWS]`
-> - The massacre was a crime against humanity. `[COCA-ACAD]`
-> - The Boston Massacre was a key event leading to the Revolution. `[COCA-ACAD]`
+> - He ordered the massacre of 2,000 women and children. `[例]`
+>   - 中译：他下令屠杀2000名妇女和儿童。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/massacre
+> - The manager resigned after the team's 7–2 massacre in the final. `[例]`
+>   - 中译：球队在决赛中以 7-2 惨败后，主教练辞职了。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/massacre
+> - Of course , she was using the term 'massacre' in the figurative sense. `[例]`
+>   - 中译：当然，她用的是比喻意义上的“屠杀”这个词。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/massacre
 
 ---
 

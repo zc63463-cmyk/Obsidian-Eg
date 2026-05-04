@@ -140,9 +140,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The temperature went down sharply last night." `[真题]`
-> - "She turned down the job offer because of the low salary." `[真题]`
-> - "The car broke down on the highway, so we had to call for a tow truck." `[真题]`
+> - The hikers rested under a towering down near the coastal trail. `[例]`
+> - She turned down the job offer because of the low salary. `[真题]`
+> - The car broke down on the highway, so we had to call for a tow truck. `[真题]`
 
 
 ---

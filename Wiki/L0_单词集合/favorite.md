@@ -130,10 +130,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "What is your favorite type of music?"（你最喜欢什么类型的音乐？）——日常交际
-> - "Reading is my favorite way to relax."（阅读是我最喜欢的放松方式）——生活话题
-> - "The restaurant is a favorite among local residents."（这家餐厅是当地居民的最爱）——社会话题
-> - "She was the teacher's favorite student."（她是老师最喜欢的学生）——教育话题，注意可作名词
+> - This is one of my favorite restaurants. `[例]`
+>   - 中译：这是我最喜欢的餐厅之一。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/favorite
+> - Those gold earrings are my favorites. `[例]`
+>   - 中译：那些金耳环是我的最爱。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/favorite
+> - The Chicago Bears are 10-point favorites over the Rams in the Super Bowl. `[例]`
+>   - 中译：芝加哥熊队在超级碗比赛中领先公羊队 10 分。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/favorite
 
 ---
 

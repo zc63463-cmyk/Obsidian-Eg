@@ -120,10 +120,15 @@ re-(回) + [[place|place]](位置) → 放回原位 → 替代
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The report also advocates greater study of foreign languages, international affairs and the expansion of study abroad programs. `[真题]`
-> - Tourism has replaced agriculture as the nation's main industry. `[COCA-ACAD]`
-> - The factory replaced most of its workers with robots. `[COCA-ACAD]`
-> - Science advances by replacing old theories with new ones that make better predictions. `[COCA-ACAD]`
+> - The factory replaced most of its workers with robots. `[例]`
+>   - 中译：工厂用机器人取代了大部分工人。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/replace
+> - Tourism has replaced agriculture as the nation's main industry. `[例]`
+>   - 中译：旅游业已取代农业成为国家的主要产业。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/replace
+> - I promised to replace the plate that I'd dropped. `[例]`
+>   - 中译：我答应更换掉掉的盘子。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/replace
 
 ---
 

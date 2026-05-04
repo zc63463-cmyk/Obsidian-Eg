@@ -129,9 +129,15 @@ trans-(跨越、转移) + [[plant]](种植)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The plants should be grown indoors until spring , when they can be transplanted outside . `[例]`
-> - He had a heart transplant (= doctors gave him a different, healthier heart instead of his old one) . `[例]`
-> - His body accepted the transplant. `[例]`
+> - Surgeons have successfully transplanted a liver into a four-year-old boy. `[例]`
+>   - 中译：外科医生成功将肝脏移植到一名四岁男孩体内。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/transplant
+> - Patients often reject transplanted organs. `[例]`
+>   - 中译：患者常常排斥移植的器官。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/transplant
+> - Organs are transplanted from donors into patients who need them. `[例]`
+>   - 中译：器官从捐赠者那里移植到需要它们的患者体内。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/transplant
 
 ---
 

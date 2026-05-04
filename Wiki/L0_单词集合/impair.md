@@ -123,10 +123,15 @@ im-(=in，进入，加强) + pair(=worse，更坏)（建议创建词根笔记 [[
 ## 真题/语料关联
 
 > [!example]- 语料
-> - There are a number of factors which can directly impair memory. `[COCA-ACAD]`
-> - Lack of sleep can significantly impair your ability to concentrate. `[真题]`
-> - Alcohol impairs judgment and slows reaction times. `[真题]`
-> - His memory was so impaired by age that he often forgot where he was. `[COCA-ACAD]`
+> - A recurring knee injury may have impaired his chances of winning the tournament. `[例]`
+>   - 中译：反复出现的膝伤可能削弱了他赢得比赛的机会。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/impair
+> - Lack of sleep impaired her ability to think clearly. `[例]`
+>   - 中译：睡眠不足削弱了她清晰思考的能力。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/impair
+> - His age impaired his chances of finding a new job. `[例]`
+>   - 中译：他的年龄削弱了他找到新工作的机会。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/impair
 
 ---
 

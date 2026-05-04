@@ -117,10 +117,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Natural selection is one of the fundamental mechanisms of evolution proposed by Charles Darwin. `[真题]`
-> - The selection process for the scholarship is extremely competitive, with thousands of applicants each year. `[COCA-ACAD]`
-> - The store offers a wide selection of wines from various regions around the world. `[COCA-ACAD]`
-> - The editor's selection of short stories provides a comprehensive overview of contemporary fiction. `[COCA-ACAD]`
+> - Success is achieved by the careful selection of projects. `[例]`
+>   - 中译：成功是通过仔细选择项目来实现的。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/selection
+> - The coach made her selection (= chose who she wanted ) for the team. `[例]`
+>   - 中译：教练为球队做出了选择（=选择了她想要的人）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/selection
+> - Most schools would have a good selection of these books in their libraries. `[例]`
+>   - 中译：大多数学校的图书馆都会有精选的这些书籍。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/selection
 
 ---
 

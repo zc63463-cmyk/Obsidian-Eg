@@ -127,8 +127,9 @@ tap 作为"轻叩"可能来自原始日耳曼语 *\*tappōn*（轻拍），拟�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The company has vast untapped reserves of natural gas that could be developed in the future."（该公司拥有大量尚未开发的天然气储量，未来可以开发。——考研阅读能源话题高频表达）
-> - "The government was accused of tapping the phones of journalists and political opponents."（政府被指控窃听记者和政治对手的电话。——考研阅读政治话题相关表达）
+> - I could hear him tapping his fingers on the desk. `[例]`
+> - The branches tapped against the window. `[例]`
+> - I was tapping my feet (= hitting the floor gently with my feet ) to the music. `[例]`
 
 
 ---

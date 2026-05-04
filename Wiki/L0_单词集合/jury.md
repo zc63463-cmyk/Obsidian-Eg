@@ -129,10 +129,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The jury found the defendant not guilty." `[COCA-NEWS]`
-> - "She was selected to serve on a jury for a murder trial." `[COCA-NEWS]`
-> - "The jury's original award of $15.5 million in damages had already been reduced." `[COCA-NEWS]`
-> - "The common law and jury system became the heart of British justice." `[COCA-ACAD]`
+> - Police officers aren't usually allowed to serve on a jury. `[例]`
+>   - 中译：警察通常不允许担任陪审团成员。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/jury
+> - The jury delivered a verdict of not guilty. `[例]`
+>   - 中译：陪审团作出无罪判决。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/jury
+> - The members of the jury left the court with a police escort. `[例]`
+>   - 中译：陪审团成员在警察的护送下离开法庭。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/jury
 
 ---
 

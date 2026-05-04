@@ -126,9 +126,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - You won't have any problems with the entrance test - it's an absolute breeze. `[例]`
-> - She just breezed in as if she'd only been away a day instead of a year . `[例]`
-> - The celebrity breezed through the lobby . `[例]`
+> - A light breeze was blowing. `[例]`
+>   - 中译：一阵微风吹过。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/breeze
+> - The flowers were gently swaying in the breeze. `[例]`
+>   - 中译：花朵在微风中轻轻摇曳。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/breeze
+> - It was a breeze. `[例]`
+>   - 中译：这是一件轻而易举的事。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/breeze
 
 
 ---

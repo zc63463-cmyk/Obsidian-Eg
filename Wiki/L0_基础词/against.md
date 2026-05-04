@@ -137,9 +137,15 @@ a-(=on-, 在……上) + gainst(=gain, 对着，古英语 *gegn*，与 [[gain]] 
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The state L egislature recently · voted against a bill that would've made it illegal for towns to create legislation restricting short-term rentals. `[真题]`
-> - He loved the feel of her soft hair against his skin . `[例]`
-> - The rain beat against her face as she struggled through the wind . `[例]`
+> - We're playing against the league champions next week. `[例]`
+>   - 中译：下周我们将对阵联赛冠军。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/against
+> - We were rowing against the current. `[例]`
+>   - 中译：我们逆流划船。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/against
+> - That's against the law. `[例]`
+>   - 中译：这是违法的。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/against
 
 
 ---

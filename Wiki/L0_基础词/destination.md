@@ -124,7 +124,7 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - We arrived at our destination tired and hungry . `[例]`
+> - We arrived at our destination tired and hungry. `[例]`
 > - His letter never reached its destination. `[例]`
 > - The Caribbean is a popular holiday destination. `[例]`
 

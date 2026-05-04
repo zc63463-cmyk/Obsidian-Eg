@@ -119,7 +119,7 @@ review_count: 0
 > [!example]- 语料
 > - A map of the world showing lines of latitude and longitude. `[例]`
 > - Calculating the longitudes of different places. `[例]`
-> - The regions are on roughly the same longitude . `[例]`
+> - The regions are on roughly the same longitude. `[例]`
 
 
 ---

@@ -132,9 +132,9 @@ medic(=medicus, 医治，拉丁语 *medicus*) + -ine(名词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The Supreme Court's decision on physician-assisted suicide carry important implications for how medicine seeks to relieve dying patients of pain and suffering." `[真题]`
-> - "This medicine is for external use only and should not be taken internally." `[COCA-ACAD]`
-> - "The little boy was stamping his foot and refusing to take his medicine." `[BNC-SPOKEN]`
+> - The Supreme Court's decision on physician-assisted suicide carry important implications for how medicine seeks to relieve dying patients of pain and suffering. `[真题]`
+> - This medicine is for external use only and should not be taken internally. `[COCA-ACAD]`
+> - The little boy was stamping his foot and refusing to take his medicine. `[BNC-SPOKEN]`
 
 
 ---

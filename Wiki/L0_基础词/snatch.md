@@ -134,8 +134,8 @@ snatch 与 [[snap]] 同源，均来自中古荷兰语/低地德语 *snappen*（�
 
 > [!example]- 语料
 > - He snatched the photos out of my hand before I had a chance to look at them. `[例]`
-> - The six-year-old girl was snatched from a playground and her body was found two days later . `[例]`
-> - She had her purse snatched (= stolen ) while she was shopping . `[例]`
+> - The six-year-old girl was snatched from a playground and her body was found two days later. `[例]`
+> - She had her purse snatched (= stolen ) while she was shopping. `[例]`
 
 
 ---

@@ -139,9 +139,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It is a mistake to identify economic growth with social progress."（考研英语——把经济增长与社会进步等同起来是错误的）
-> - "Researchers have identified several factors that contribute to climate change."（CET-6——研究人员已确定导致气候变化的几个因素）
-> - "The witness was unable to identify the suspect from a lineup."（IELTS——目击者无法从一排人中辨认出嫌疑人）
+> - It has the capability to identify suspicious citations. `[真题]`
+>   - 中译：它具有识别可疑引用的能力。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - For example, AI can be used to analyse what type of advertising content or copy would be appropriate to 'speak' to a specific target customer group by revealing information about trends and preferences through the analysis of big data. ( 46) AI can also be used to identify the lifestyle choices of customers regarding their hobbies, favourite celebrities, music choices, and fashions to provide unique content in marketing messages put out through social media. `[真题]`
+>   - 中译：例如，人工智能可以通过大数据分析揭示有关趋势和偏好的信息，从而分析哪种类型的广告内容或文案适合与特定目标客户群“对话”。 ( 46) 人工智能还可以用于识别客户的生活方式选择，包括他们的爱好、最喜欢的名人、音乐选择和时尚，以便在通过社交媒体发布的营销信息中提供独特的内容。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - AI can also provide a bridge between the need of the brand to communicate emotionally with the customer and identifying their rapidly changing needs. `[真题]`
+>   - 中译：人工智能还可以在品牌与客户进行情感沟通的需求和识别他们快速变化的需求之间架起一座桥梁。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
 
 ---
 

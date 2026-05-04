@@ -137,9 +137,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - A week before, about 150,000 people held a peace march. `[真题]`
 > - In an unprecedented rallying cry, we are calling on 400 to join the march honouring their comrades. `[真题]`
 > - Last week barristers held a silent march, with some of the city's judges voicing their concerns to the media. `[真题]`
+> - That March, President Ulysses S. `[真题]`
 
 
 ---

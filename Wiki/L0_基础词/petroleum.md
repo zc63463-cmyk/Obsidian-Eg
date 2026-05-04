@@ -123,7 +123,7 @@ petr-/petro-(石头，岩石，希腊语 *petra*) + oleum(油，拉丁语)
 > [!example]- 语料
 > - And although you don't read about this much, the United States is also a large exporter of oil products, selling about 2 million barrels of petroleum products per day to about 90 countries. `[真题]`
 > - In addition, other factors are putting downward pressure on oil prices: change in the strategic behavior of the Organization of Petroleum Exporting Countries, the projected increase in Iranian exports, the scaling-down of global demand. `[真题]`
-> - Nearly all oil and gas produced on the Norwegian shelf is exported, and combined, oil and gas exceeds half of the total value of Norwegian exports of goods. `[学术]`
+> - Petrol and diesel are produced from petroleum. `[例]`
 
 
 ---

@@ -141,8 +141,8 @@ hand 为基础词汇，词源不确定。原始日耳曼语 *\*handuz*。hand �
 
 > [!example]- 语料
 > - All their toys are made by hand. `[例]`
-> - I delivered her invitation by hand (= not using the postal service ) . `[例]`
-> - Get your hands off (= stop touching ) my bike ! `[例]`
+> - I delivered her invitation by hand (= not using the postal service ). `[例]`
+> - Get your hands off (= stop touching ) my bike! `[例]`
 
 
 ---

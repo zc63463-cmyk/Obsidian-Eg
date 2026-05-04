@@ -128,9 +128,9 @@ ex-(出、向外) + cause(原因、理由，拉丁语 *causa*) → 把原因说�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Please excuse me for arriving late - the bus was delayed . `[例]`
-> - Nothing can excuse that sort of behaviour . `[例]`
-> - No amount of financial recompense can excuse the way in which the company carried out its policy . `[例]`
+> - Please excuse me for arriving late - the bus was delayed. `[例]`
+> - Nothing can excuse that sort of behaviour. `[例]`
+> - No amount of financial recompense can excuse the way in which the company carried out its policy. `[例]`
 
 
 ---

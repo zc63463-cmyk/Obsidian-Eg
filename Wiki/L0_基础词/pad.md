@@ -131,9 +131,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The company was accused of padding its expense reports to claim reimbursement for costs that were never actually incurred." `[真题]`
-> - "The space agency successfully launched the satellite from the newly constructed launch pad at the coastal facility." `[真题]`
-> - "He took a map and a bottle of water out of his pack." `[真题]`
+> - The company was accused of padding its expense reports to claim reimbursement for costs that were never actually incurred. `[真题]`
+> - The space agency successfully launched the satellite from the newly constructed launch pad at the coastal facility. `[真题]`
+> - Soccer players often wear shin pads to protect their legs. `[例]`
 
 
 ---

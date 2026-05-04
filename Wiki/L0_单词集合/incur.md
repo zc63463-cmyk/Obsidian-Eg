@@ -123,9 +123,15 @@ in-(进入，into) + cur(跑，run)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Companies incur additional costs in dealing with non-paying customers. `[COCA-ACAD]`
-> - The client will remain liable for any loss incurred by the contractor. `[COCA-ACAD]`
-> - Those trusts transferred at least $7.9 billion to family members, an amount that would otherwise have incurred gift taxes of $2.8 billion. `[COCA-ACAD]`
+> - She liked her boss and did not want to incur his anger. `[例]`
+>   - 中译：她喜欢她的老板，不想惹他生气。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/incur
+> - The play has incurred the wrath of both audiences and critics. `[例]`
+>   - 中译：该剧引起了观众和评论家的愤怒。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/incur
+> - The university had to incur significant costs in the course of the investigation. `[例]`
+>   - 中译：该大学在调查过程中不得不承担大量费用。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/incur
 
 ---
 

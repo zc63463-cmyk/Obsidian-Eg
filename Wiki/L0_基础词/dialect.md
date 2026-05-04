@@ -118,7 +118,7 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The various regional dialects are still spoken locally . `[例]`
+> - The various regional dialects are still spoken locally. `[例]`
 > - The poem is written in northern dialect. `[例]`
 > - The author uses dialect in his writing. `[例]`
 

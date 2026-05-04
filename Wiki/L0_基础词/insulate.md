@@ -131,10 +131,9 @@ insulate（1530年代，源自晚期拉丁语 *insulatus* "使变成像岛屿一
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Children should not be insulated from the realities of life. ` [真题]`
-> - To save energy, it is important to insulate your home properly. ` [真题]`
-> - The company aims to insulate its products against market fluctuations. ` [语料库]`
-> - They used foam to insulate the pipes and prevent freezing during winter. ` [语料库]`
+> - You can insulate a house against heat loss by having the windows double-glazed. `[例]`
+> - Be sure to insulate pipes from summer heat and winter cold. `[例]`
+> - There are tax incentives to encourage people to insulate their homes. `[例]`
 
 
 ---

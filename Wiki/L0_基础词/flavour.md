@@ -132,9 +132,9 @@ flavour 源自古法语 *flaor*（气味、香味），可能来自通俗拉丁�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Add a little salt to bring out the flavour of the herbs . `[例]`
-> - My fish was delicious but Charles' beef had almost no flavour (= did not taste of anything) . `[例]`
-> - This wine has a light , fruity flavour (= the taste of fruit ) . `[例]`
+> - Add a little salt to bring out the flavour of the herbs. `[例]`
+> - My fish was delicious but Charles' beef had almost no flavour (= did not taste of anything). `[例]`
+> - This wine has a light , fruity flavour (= the taste of fruit ). `[例]`
 
 
 ---

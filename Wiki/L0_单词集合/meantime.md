@@ -129,9 +129,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - In the meantime, the company will use two loans to help keep the lights on. `` `[COCA-ACAD]` ``
-> - The doctor will see you again next week; in the meantime, you must rest as much as possible. `` `[COCA-ACAD]` ``
-> - They've arranged to have another meeting in two weeks, and in the meantime the problem is getting worse. `` `[真题]` ``
+> - In the meantime, PRH authors have been the losers. `[真题]`
+>   - 中译：与此同时，公屋作者一直是输家。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - Your computer won't arrive till Thursday . In the meantime, you can use Jude's. `[例]`
+>   - 中译：你的电脑要到星期四才能送达。与此同时，你可以使用Jude's。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/meantime
+> - In the meantime, the shares will continue to trade on the open market. `[例]`
+>   - 中译：与此同时，股票将继续在公开市场上交易。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/meantime
 
 ---
 

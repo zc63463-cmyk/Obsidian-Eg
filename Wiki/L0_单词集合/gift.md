@@ -135,9 +135,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "a gift for languages"（语言天赋）——考研阅读常见搭配
-> - "gifted children"（有天赋的孩子）——考研阅读常见搭配，教育话题
-> - "nature's gift to humanity"（大自然赐予人类的礼物）——考研阅读常见表达
+> - The guests all arrived bearing (= bringing ) gifts. `[例]`
+>   - 中译：客人们都带着礼物抵达。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/gift
+> - That goal was a gift! `[例]`
+>   - 中译：这个进球是一份礼物！
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/gift
+> - Thanks to a large gift from an anonymous donor , the charity was able to continue its work. `[例]`
+>   - 中译：感谢一位匿名捐助者的大笔捐款，该慈善机构得以继续开展工作。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/gift
 
 ---
 

@@ -121,9 +121,15 @@ trigger 源自荷兰语 *trekker*（拉扯的人/物），原指枪的扳机。
 ## 真题/语料关联
 
 > [!example]- 语料
-> - It's not clear who actually pulled the trigger. `[例]`
-> - There are fears that the incident may be a trigger for more violence in the capital . `[例]`
-> - A trigger is something that sets off a flashback , transporting the person back to the traumatic event . `[例]`
+> - Nuts can trigger off a violent allergic reaction. `[例]`
+>   - 中译：坚果会引发剧烈的过敏反应。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/trigger
+> - The incident triggered protests across the country. `[例]`
+>   - 中译：该事件引发全国各地抗议。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/trigger
+> - Sometimes, the slightest things trigger me because they remind me of my mum. `[例]`
+>   - 中译：有时，最细微的事情都会触动我，因为它们让我想起了我的妈妈。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/trigger
 
 
 ---

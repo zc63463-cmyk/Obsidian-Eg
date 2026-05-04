@@ -121,9 +121,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "A mutual defence pact was signed, along with a trade and development pact." `[真题]`
-> - "Mexico is in its fourth month of negotiations on a free-trade pact with the US." `[真题]`
-> - "The two opposition parties cannot agree on an electoral pact between themselves." `[真题]`
+> - A mutual defence pact was signed, along with a trade and development pact. `[真题]`
+> - Mexico is in its fourth month of negotiations on a free-trade pact with the US. `[真题]`
+> - The two opposition parties cannot agree on an electoral pact between themselves. `[真题]`
 
 
 ---

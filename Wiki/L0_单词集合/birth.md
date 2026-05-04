@@ -127,9 +127,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The Renaissance gave **birth** to a new era of scientific discovery. `[真题]`
-> - By **birth**, she is a British citizen. `[真题]`
-> - The **birth** rate has been declining in many developed countries. `[真题]`
+> - The birth of predatory journals wasn't far behind. `[真题]`
+>   - 中译：掠夺性期刊的诞生也紧随其后。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - It was a difficult birth. `[例]`
+>   - 中译：这是一次艰难的出生。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/birth
+> - He weighed eight pounds at birth. `[例]`
+>   - 中译：他出生时体重八磅。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/birth
 
 ---
 

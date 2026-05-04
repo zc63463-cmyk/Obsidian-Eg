@@ -120,10 +120,9 @@ re-(=res，事物/事务，拉丁语 *res*) + public(公众的，公共的)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "This tiny republic depends on the export of tobacco." `[COCA-NEWS]`
-> - "In 1918, Austria became a republic." `[COCA-ACAD]`
-> - "They have declared themselves an independent democratic republic." `[COCA-ACAD]`
-> - "There have been protests in the former Soviet republic of Georgia." `[COCA-NEWS]`
+> - This tiny republic depends on the export of tobacco. `[COCA-NEWS]`
+> - They have declared themselves an independent democratic republic. `[COCA-ACAD]`
+> - There have been protests in the former Soviet republic of Georgia. `[COCA-NEWS]`
 
 
 ---

@@ -3,10 +3,8 @@ title: "perpetuate"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-25
-mastery: L0
 word_freq: 超纲词
 semantic_field: 抽象关系
 prototype: 使某事物持续存在
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**使某事物持续存在**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **使持续**（时间层面）
@@ -62,7 +60,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -72,7 +70,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > per（始终）+ pet（持续追求）→ perpetuate。当媒体不断重复某种刻板印象，它就是在 perpetuate stereotypes。当制度让贫富差距继续扩大，它就是在 perpetuate inequality。perpetuate 就是"让不该继续的东西继续下去"。
@@ -84,7 +82,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -96,13 +94,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[eliminate]]：消除（perpetuate 的反义：使持续↔消除）
 > - [[end]]：结束（perpetuate 的反义：使永存↔结束）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -114,7 +112,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **perpetuate a myth/stereotype**：使迷思/刻板印象持续存在
 > - **perpetuate inequality**：使不平等持续
 > - **perpetuate a cycle of**：使……的循环持续
@@ -122,19 +120,12 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - `[例]` The media often perpetuates stereotypes about certain ethnic groups.
-> - `[例]` Outdated policies perpetuate the cycle of poverty in many communities.
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-25 | **复习次数**：0 | **当前等级**：L0
-
----
+> [!example]- 语料
+> - Increasing the supply of weapons will only perpetuate the violence and anarchy. `[例]`
+> - The aim of the association is to perpetuate the skills of traditional furniture design. `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

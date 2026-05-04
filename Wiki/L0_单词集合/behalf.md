@@ -127,9 +127,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - On behalf of the entire committee, I would like to express our gratitude for your continued support. `[COCA-ACAD]`
-> - The lawyer acted on behalf of the defendant throughout the trial. `[例]`
-> - On behalf of all the employees, we request a formal review of the new workplace policy. `[例]`
+> - On behalf of the entire company , I would like to thank you for all your work. `[例]`
+>   - 中译：我谨代表整个公司感谢您所做的一切工作。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/behalf
+> - Unfortunately, George cannot be with us today so I am pleased to accept this award on his behalf. `[例]`
+>   - 中译：不幸的是，乔治今天不能和我们在一起，所以我很高兴代表他接受这个奖项。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/behalf
+> - She wasn't able to be present , so I signed the letter in her behalf. `[例]`
+>   - 中译：她不能到场，所以我代表她在信上签了字。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/behalf
 
 ---
 

@@ -128,7 +128,7 @@ review_count: 0
 
 > [!example]- 语料
 > - Well, you could try to look a little more enthusiastic! `[例]`
-> - They were tired , but not any less enthusiastic on that account . `[例]`
+> - They were tired , but not any less enthusiastic on that account. `[例]`
 > - I don't think they liked my idea . At any rate , they weren't very enthusiastic about it. `[例]`
 
 

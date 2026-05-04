@@ -129,8 +129,8 @@ review_count: 0
 
 > [!example]- 语料
 > - I just lay in the sun for a week and did nothing - it was heaven. `[例]`
-> - We stared up at the heavens trying to see the comet . `[例]`
-> - It was heaven lying there in the sunshine listening to the birds sing . `[例]`
+> - We stared up at the heavens trying to see the comet. `[例]`
+> - It was heaven lying there in the sunshine listening to the birds sing. `[例]`
 
 
 ---

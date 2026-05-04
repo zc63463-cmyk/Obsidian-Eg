@@ -128,10 +128,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "You begin to infer a context for the text, for instance, by making decisions about what kind of speech event is involved." `[真题]`
-> - "The value of data depends on our skill in drawing inferences from it." `[COCA-ACAD]`
-> - "If he is guilty then, by inference, so is his partner." `[COCA-ACAD]`
-> - "There are certain inferences we can draw about the origins of language." `[COCA-ACAD]`
+> - They were warned to expect a heavy air attack and by inference many casualties. `[例]`
+>   - 中译：他们被警告预计会发生猛烈空袭，并推断会有许多人员伤亡。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/inference
+> - His change of mind was recent and sudden , the inference being that someone had persuaded him. `[例]`
+>   - 中译：他最近突然改变了主意，推断是有人说服了他。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/inference
+> - The clear inference is that the universe is expanding. `[例]`
+>   - 中译：明确的推论是宇宙正在膨胀。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/inference
 ---
 
 

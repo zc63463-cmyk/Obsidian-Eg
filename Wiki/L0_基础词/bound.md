@@ -135,9 +135,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - You're bound to forget people's names occasionally . `[例]`
-> - You're bound to feel nervous about your interview . `[例]`
-> - It was bound to happen sooner or later . `[例]`
+> - There are bound to be changes when the new system is introduced. `[例]`
+>   - 中译：新系统推出后，必然会有一些变化。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bound
+> - It's bound to be sunny again tomorrow. `[例]`
+>   - 中译：明天一定又是晴天了。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bound
+> - You've done so much work—you're bound to pass the exam. `[例]`
+>   - 中译：你已经做了很多工作——你一定会通过考试。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bound
 
 
 ---

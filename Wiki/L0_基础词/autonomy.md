@@ -127,9 +127,15 @@ auto-(自己) + nom(法律/规则，来自希腊语 *nomos*) + -y(名词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The region was granted autonomy in 1997. `[例]`
-> - Universities should have greater autonomy in deciding their curricula. `[例]`
-> - District officials had rebuffed a proposal to grant greater autonomy to local schools. `[COCA-NEWS]`
+> - The Catalans take the matter of their language very seriously; it is an outward indication of their autonomy , of their distinction from the rest of Spain. `[例]`
+>   - 中译：加泰罗尼亚人非常重视他们的语言问题。这是他们自治的外在表现，表明他们与西班牙其他地区的区别。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/autonomy
+> - The term empire implies more than simple cultural dominance or preeminent military power. It applies to states that use force to occupy and control a group of other states or regions. The conquered states, robbed of autonomy and political independence, become colonies, provinces, or territories of the imperial power. Taxes are levied, laws are imposed, soldiers are conscripted, governors are installed—all without the consent of the subjugated state. `[例]`
+>   - 中译：帝国一词不仅仅意味着简单的文化统治或卓越的军事力量。它适用于使用武力占领和控制一组其他国家或地区的国家。被征服的国家被剥夺了自治权和政治独立，成为帝国主义的殖民地、省份或领土。征税、制定法律、征兵、任命州长——所有这些都没有经过被征服国家的同意。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/autonomy
+> - The social payoff of the new knowledge would be new technology, then new industries and new jobs. Compton got nowhere with the administration, partly because he was an anti-New Dealer, partly because the government was unwilling to grant scientists the autonomy that they claimed, and partly because his program represented a trickle-down approach to economic recovery. `[例]`
+>   - 中译：新知识的社会回报将是新技术，然后是新产业和新就业机会。康普顿在政府中一事无成，部分原因是他反对新政，部分原因是政府不愿意给予科学家他们声称的自主权，部分原因是他的计划代表了一种滴流式的经济复苏方法。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/autonomy
 
 
 ---

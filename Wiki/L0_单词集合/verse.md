@@ -137,9 +137,15 @@ vers（转，turn）+ -e（名词/动词后缀）= 翻转→一行行文字
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Each verse was sung as a solo and then everyone joined in on the chorus . `[例]`
-> - She has a talent for writing humorous verse. `[例]`
-> - We’ll sing only the first and last verses. `[例]`
+> - Most of the play is written in verse, but some of it is in prose. `[例]`
+>   - 中译：该剧大部分是用诗歌写成的，但也有一些是用散文写的。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/verse
+> - She always read a few verses from the Bible before going to bed. `[例]`
+>   - 中译：她总是在睡觉前读几节圣经。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/verse
+> - I can't give chapter and verse, but that's the rough outline of our legal position. `[例]`
+>   - 中译：我无法给出具体章节，但这就是我们法律立场的粗略轮廓。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/verse
 
 ---
 

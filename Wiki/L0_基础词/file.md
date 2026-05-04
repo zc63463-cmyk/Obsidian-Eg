@@ -142,8 +142,8 @@ file 源自拉丁语 *filum*（线、丝），原指用线把文件串起来保�
 
 > [!example]- 语料
 > - You'll find it in the files under "C". `[例]`
-> - We keep your records on file for five years . `[例]`
-> - The police have opened a file on local burglaries . `[例]`
+> - We keep your records on file for five years. `[例]`
+> - The police have opened a file on local burglaries. `[例]`
 
 
 ---

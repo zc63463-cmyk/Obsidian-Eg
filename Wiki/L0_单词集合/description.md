@@ -122,9 +122,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Your paper contains too much description, and not enough discussion of the issues . `[例]`
-> - Boats of every description were entering the harbour . `[例]`
+> - Your paper contains too much description, and not enough discussion of the issues. `[例]`
+>   - 中译：您的论文包含太多描述，而对问题的讨论不够。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/description
+> - Boats of every description were entering the harbour. `[例]`
+>   - 中译：各种各样的船只正在驶入港口。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/description
 > - Her beauty is beyond description. `[例]`
+>   - 中译：她的美丽无法形容。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/description
 
 ---
 

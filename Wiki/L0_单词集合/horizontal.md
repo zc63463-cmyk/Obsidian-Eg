@@ -126,8 +126,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The horizontal transfer of genes between species is more common than previously thought."（物种之间的基因水平转移比以前认为的更为普遍。）——考研高频表达
-> - "The company has a horizontal organizational structure that encourages collaboration across departments."（该公司采用扁平化的组织结构，鼓励跨部门合作。）——考研高频表达
+> - Draw a horizontal line across the bottom of the page. `[例]`
+>   - 中译：在页面底部画一条水平线。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/horizontal
+> - Keep the patient horizontal with the feet slightly raised. `[例]`
+>   - 中译：保持患者水平，双脚稍微抬起。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/horizontal
+> - On this graph , time is on the horizontal X-axis , and distance is on the vertical Y-axis. `[例]`
+>   - 中译：在此图表中，时间位于水平 X 轴，距离位于垂直 Y 轴。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/horizontal
 ---
 
 

@@ -3,10 +3,8 @@ title: "appease"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 社会习俗
 prototype: 使平静、安抚（通过满足要求来平息怒气）
@@ -43,7 +41,7 @@ ap-(=ad-, 向，加强) + pease(=peace, 和平)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**使平静、安抚**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **使平静、安抚**（情绪层面）
@@ -64,7 +62,7 @@ ap-(=ad-, 向，加强) + pease(=peace, 和平)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ ap-(=ad-, 向，加强) + pease(=peace, 和平)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > appease 就像把一个愤怒的人引向和平（peace）。你给他想要的东西，让他不再生气。历史课上学的"appeasement policy"（绥靖政策）——英国首相张伯伦对希特勒的让步，就是典型的 appease：给侵略者土地，希望换来和平，结果适得其反。
@@ -86,7 +84,7 @@ ap-(=ad-, 向，加强) + pease(=peace, 和平)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +98,13 @@ ap-(=ad-, 向，加强) + pease(=peace, 和平)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[provoke]]：激怒，挑衅（appease 的精确反义：安抚↔激怒）
 > - [[antagonize]]：引起敌意（appease 的反义：平息敌意↔引起敌意）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -116,26 +114,19 @@ ap-(=ad-, 向，加强) + pease(=peace, 和平)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **appease one's anger/fears**：平息某人的怒气/恐惧
 > - **appease the aggressor**：姑息侵略者
 > - **appeasement policy**：绥靖政策
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - The policy of appeasement before World War II proved to be a fatal mistake. `[例]`
+> [!example]- 语料
 > - Nothing could appease the crying child. `[例]`
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
+> - He was a crucial ally who the country needed to appease. `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

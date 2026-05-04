@@ -132,9 +132,15 @@ bolt 源自古英语 *bolt*（箭、飞镖），后指"螺栓"（因为形状像
 ## 真题/语料关联
 
 > [!example]- 语料
-> - I closed the window and drew the bolt (= slid the bolt across ) . `[例]`
-> - The house next to ours was struck by a bolt of lightning . `[例]`
-> - The thief tried to make a bolt for the exit . `[例]`
+> - The documentary focuses on the real nuts and bolts of the film-making process. `[例]`
+>   - 中译：这部纪录片重点关注电影制作过程的真正细节。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bolt
+> - She sat bolt upright , staring straight ahead. `[例]`
+>   - 中译：她坐得笔直，眼睛直视前方。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/bolt
+> - This adorable cloud pillow shows Harry’s iconic lightning bolt scar and is a seriously cute addition to any fan’s collection of memorabilia. `[例]`
+>   - 中译：这款可爱的云枕展示了哈利标志性的闪电伤疤，是任何粉丝纪念品收藏中的一个非常可爱的补充。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/bolt
 
 
 ---

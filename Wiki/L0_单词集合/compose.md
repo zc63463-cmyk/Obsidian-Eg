@@ -127,9 +127,15 @@ com-(共同，一起) + [[pon/pos]](放置) + -e → "放在一起"
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Water is composed of hydrogen and oxygen. `[COCA-ACAD]`
-> - She composed a letter of complaint to the management. `[例]`
-> - He took a deep breath to compose himself before delivering the speech. `[COCA-FIC]`
+> - Prokofiev started composing at the age of five. `[例]`
+>   - 中译：普罗科菲耶夫五岁开始作曲。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/compose
+> - The music was specially composed for the film. `[例]`
+>   - 中译：音乐是专门为这部电影创作的。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/compose
+> - He composed this poem for his wife. `[例]`
+>   - 中译：他为他的妻子写了这首诗。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/compose
 
 ---
 

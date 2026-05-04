@@ -133,10 +133,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - An elegant idea, plan, or solution is clever but simple, and therefore attractive. `[COCA-ACAD]`
-> - She wore an elegant dove-grey jacket. `[COCA-ACAD]`
-> - She has got the most elegant writing style. `[COCA-ACAD]`
-> - The elegant solution to the problem saved the company time and money. `[COCA-ACAD]`
+> - She's got the most elegant writing style. `[例]`
+>   - 中译：她有最优雅的写作风格。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/elegant
+> - He assumed an elegant pose beside the fireplace. `[例]`
+>   - 中译：他在壁炉旁摆出了优雅的姿势。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/elegant
+> - This is a fine building of elegant proportions. `[例]`
+>   - 中译：这是一座比例优雅的精美建筑。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/elegant
 
 ---
 

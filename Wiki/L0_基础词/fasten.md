@@ -139,7 +139,7 @@ fast(牢固的) + -en(使动后缀，使...变得...)
 > [!example]- 语料
 > - Make sure your seat belt is securely fastened. `[例]`
 > - This shirt fastens at the back. `[例]`
-> - I fastened the sticker to the windscreen . `[例]`
+> - I fastened the sticker to the windscreen. `[例]`
 
 
 ---

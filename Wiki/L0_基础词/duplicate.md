@@ -133,10 +133,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Please fill out the form in duplicate." `[真题]`
-> - "Scientists tried to duplicate the results of the experiment." `[真题]`
-> - "I lost the original form so they sent me a duplicate." `[真题]`
-> - "I only have one house key, but I'll have a duplicate made for when you visit." `[真题]`
+> - Scientists tried to duplicate the results of the experiment. `[真题]`
+> - I only have one house key, but I'll have a duplicate made for when you visit. `[真题]`
+> - The documents had been duplicated. `[例]`
 
 
 ---

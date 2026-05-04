@@ -139,9 +139,15 @@ con-(一起/加强) + [[ced-cess|clud/clus]](关闭) = conclude（关到一起 �
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The researchers concluded that the drug was effective in treating the disease."（研究人员得出结论：该药物对治疗这种疾病有效。）——考研高频表达
-> - "To conclude, education plays a vital role in the sustainable development of any society."（总之，教育在任何社会的可持续发展中都起着至关重要的作用。）——考研高频表达
-> - "Having examined all the evidence, the jury concluded that the defendant was not guilty."（审查了所有证据后，陪审团得出结论：被告无罪。）——考研高频表达
+> - That fall, t hey concluded the survey in Fort Bridger , Wyoming. `[真题]`
+>   - 中译：那年秋天，他们结束了在怀俄明州布里杰堡的调查。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - She concluded the speech by remind ing us of our responsibility. `[例]`
+>   - 中译：她在演讲结束时提醒我们我们的责任。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/conclude
+> - Before I conclude, I'd like to thank you all for coming. `[例]`
+>   - 中译：在结束之前，我要感谢大家的到来。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/conclude
 
 ---
 

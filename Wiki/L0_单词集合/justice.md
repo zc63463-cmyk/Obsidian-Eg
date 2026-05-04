@@ -141,10 +141,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The criminals were finally brought to justice." `[COCA-NEWS]`
-> - "Social justice requires equal opportunities for all citizens." `[COCA-ACAD]`
-> - "The role of the courts is to dispense justice fairly to everyone." `[COCA-ACAD]`
-> - "The president is expected to name a new Supreme Court justice within the next few days." `[COCA-NEWS]`
+> - There's no justice in the world when people can be made to suffer like that. `[例]`
+>   - 中译：当人们遭受这样的痛苦时，世界上就没有正义可言。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/justice
+> - The winner has been disqualified for cheating , so justice has been done (= a fair situation has been achieved ). `[例]`
+>   - 中译：获胜者因作弊而被取消资格，因此正义得到了伸张（=实现了公平的局面）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/justice
+> - What poetic justice that Collins has to go to court to plead to be allowed to die , just like his innocent victims pleaded to be allowed to live. `[例]`
+>   - 中译：柯林斯必须上法庭请求允许其死亡，就像他的无辜受害者请求允许其生存一样，这是多么富有诗意的正义啊。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/justice
 
 ---
 

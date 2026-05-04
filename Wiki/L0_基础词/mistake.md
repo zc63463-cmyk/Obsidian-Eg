@@ -131,8 +131,8 @@ mis-(=bad/wrong, 错误地) + take(拿，取)
 
 > [!example]- 语料
 > - I made the mistake of giving him my address. `[真题]`
-> - I took your bag instead of mine by mistake. `[真题]`
-> - I thought he was her husband — I must have misunderstood. `[真题]`
+> - I'm not blaming you - we all make mistakes. `[例]`
+> - It was a mistake for us to come here tonight. `[例]`
 
 
 ---

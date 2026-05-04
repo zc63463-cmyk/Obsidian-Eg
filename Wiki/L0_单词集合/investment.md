@@ -131,10 +131,15 @@ in-（向内，进入）+ [[vest|vest]]（=vestire，穿衣，来自拉丁语 *v
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Transient investors, who demand high quarterly profits from companies, can hinder a firm's efforts to invest in long-term research." `[真题]`
-> - "The government wanted an inflow of foreign investment." `[COCA-ACAD]`
-> - "There's been a significant investment of time and energy in order to make the project a success." `[COCA-ACAD]`
-> - "The company made a substantial investment in research and development to stay competitive." `[COCA-ACAD]`
+> - The government wanted an inflow of foreign investment. `[例]`
+>   - 中译：政府希望外国投资流入。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/investment
+> - Stocks are regarded as good long-term investments. `[例]`
+>   - 中译：股票被视为良好的长期投资。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/investment
+> - There's been a significant investment of time and energy in order to make the project a success. `[例]`
+>   - 中译：为了使该项目取得成功，我们投入了大量的时间和精力。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/investment
 
 ---
 

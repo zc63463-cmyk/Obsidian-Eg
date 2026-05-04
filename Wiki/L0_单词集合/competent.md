@@ -127,9 +127,15 @@ com-(共同) + pet(追求、寻求) + -ent(形容词后缀，表"具有……性
 ## 真题/语料关联
 
 > [!example]- 语料
-> - A competent engineer should be able to solve this problem. `[COCA-ACAD]`
-> - The report shows that the company is not competent to carry out the task. `[COCA-NEWS]`
-> - She is competent to handle the project on her own. `[例]`
+> - I wouldn't say he was brilliant but he is competent at his job. `[例]`
+>   - 中译：我不会说他很聪明，但他能胜任他的工作。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/competent
+> - She has shown herself to be a highly competent manager. `[例]`
+>   - 中译：她已经证明自己是一位非常有能力的经理。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/competent
+> - She's extremely competent and industrious - an asset to the department. `[例]`
+>   - 中译：她非常能干而且勤奋——是该部门的资产。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/competent
 
 ---
 

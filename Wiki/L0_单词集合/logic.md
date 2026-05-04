@@ -130,10 +130,15 @@ log(说话/推理/词，源自希腊语 logos) + -ic(名词/形容词后缀) →
 ## 真题/语料关联
 
 > [!example]- 语料
-> - There is no logic in the decision to reduce staff when orders are the highest they have been for years. `[COCA-ACAD]`
-> - The internal logic of her argument is undeniable and has convinced many skeptics. `[COCA-ACAD]`
-> - If prices go up, wages will go up too — that is just basic economic logic. `[COCA-NEWS]`
-> - I couldn't see the logic behind the decision to close the school despite strong community opposition. `[COCA-NEWS]`
+> - If prices go up, wages will go up too - that's just logic. `[例]`
+>   - 中译：如果物价上涨，工资也会上涨——这是逻辑。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/logic
+> - There's no logic in the decision to reduce staff when orders are the highest they have been for years. `[例]`
+>   - 中译：当订单达到多年来最高水平时，裁员的决定是不合逻辑的。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/logic
+> - The internal logic of her argument is undeniable. `[例]`
+>   - 中译：她的论点的内在逻辑是不可否认的。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/logic
 
 ---
 

@@ -116,9 +116,15 @@ sue 源自古法语 *suir*（跟随），与拉丁语 *sequi*（跟随）同源�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - He was so furious about the accusations in the letter that he threatened to sue. `[例]`
-> - She sued the paper for (= in order to get) damages after they wrongly described her as a prostitute . `[例]`
-> - She is suing her husband for (= in order to get a) divorce . `[例]`
+> - They threatened to sue if the work was not completed. `[例]`
+>   - 中译：他们威胁说，如果工程未完成，他们将提起诉讼。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sue
+> - He threatened to sue the company for negligence. `[例]`
+>   - 中译：他威胁要起诉该公司的疏忽行为。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sue
+> - The water authority was successfully sued over his illness. `[例]`
+>   - 中译：水务局因他的疾病而被成功起诉。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sue
 
 
 ---

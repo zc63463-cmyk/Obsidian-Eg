@@ -125,9 +125,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Just follow the signs to Bradford - it's very straightforward. `[例]`
-> - Roz is straightforward and lets you know what she's thinking . `[例]`
-> - The doctor explained the operation in straightforward English . `[例]`
+> - It's a relatively straightforward process. `[例]`
+>   - 中译：这是一个相对简单的过程。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/straightforward
+> - It's quite straightforward to get here. `[例]`
+>   - 中译：到达这里非常简单。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/straightforward
+> - She's nice: very straightforward and easy to get on with. `[例]`
+>   - 中译：她人很好：很直率，很容易相处。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/straightforward
 ---
 
 

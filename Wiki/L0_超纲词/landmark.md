@@ -3,10 +3,8 @@ title: "landmark"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 物品工具
 prototype: 标记土地边界的标志物
@@ -44,7 +42,7 @@ land(土地) + [[mark|mark]](标记)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**标记土地边界的标志物**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **标记土地的标志物**（空间层面）
@@ -67,7 +65,7 @@ land(土地) + [[mark|mark]](标记)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ land(土地) + [[mark|mark]](标记)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > land（土地）+ mark（标记）→ landmark（地标）。古代人在土地上立一块石头作为 mark，标记边界——这就是最初的 landmark。后来，城市中的标志性建筑也被称为 landmark（如埃菲尔铁塔）。再后来，历史上具有重大意义的事件或决定也被称为 landmark——因为它们像地标一样标记了历史进程。
@@ -90,7 +88,7 @@ land(土地) + [[mark|mark]](标记)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,12 +100,12 @@ land(土地) + [[mark|mark]](标记)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - landmark 作为标志物无直接反义词
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,7 +116,7 @@ land(土地) + [[mark|mark]](标记)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a landmark decision**：具有里程碑意义的决定
 > - **a historic landmark**：历史地标
 > - **a landmark study**：里程碑式的研究
@@ -126,19 +124,12 @@ land(土地) + [[mark|mark]](标记)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - The Supreme Court's ruling was a landmark decision in civil rights history. `[例]`
 > - The Colosseum is one of Rome's most famous landmarks. `[例]`
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
-
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

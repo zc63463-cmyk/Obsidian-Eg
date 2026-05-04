@@ -122,10 +122,15 @@ lucr-(利润，拉丁语 *lucrum*，获利) + -ative(形容词后缀，"有…�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - `There's always a constant fear of falling behind everyone else on the socially perpetuated "race to the finish line," whether that be toward graduate school, medical school or a lucrative career.` `[真题]`
-> - `As a News Feature article in Nature discusses, a string of lucrative awards for researchers have joined the Nobel Prizes in recent years.` `[真题]`
-> - `Keen to preserve his artistic integrity, he refused several lucrative Hollywood offers.` `[COCA-ACAD]`
-> - `Catering is a very lucrative business if you succeed in it.` `[COCA-ACAD]`
+> - The merger proved to be very lucrative for both companies. `[例]`
+>   - 中译：事实证明，这次合并对两家公司来说都是非常有利可图的。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/lucrative
+> - Keen to preserve his artistic integrity , he refused several lucrative Hollywood offers. `[例]`
+>   - 中译：为了保持自己的艺术完整性，他拒绝了好莱坞的几项利润丰厚的邀请。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/lucrative
+> - A series of impressive manoeuvres by the chairman had secured a lucrative contract for the company. `[例]`
+>   - 中译：董事长采取的一系列令人印象深刻的举措为公司赢得了一份利润丰厚的合同。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/lucrative
 
 ---
 

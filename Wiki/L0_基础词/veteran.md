@@ -137,10 +137,10 @@ vet-(=vetus, 老的，拉丁语 *vetus*) + -er(比较级) + -an(名词/形容词
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He is a veteran parliamentarian whose views enjoy widespread respect." `[真题]`
-> - "Women appear to be way ahead in at least one undesirable category... according to Dr. Yehuda, chief psychiatrist at New York's Veteran's Administration Hospital." `[真题]`
-> - "In addition to having served in World War II, he was a veteran of the Korean War." `[权威语料]`
-> - "She is a veteran teacher who has dedicated thirty years to the classroom." `[权威语料]`
+> - He is a veteran parliamentarian whose views enjoy widespread respect. `[真题]`
+> - Women appear to be way ahead in at least one undesirable category... according to Dr. Yehuda, chief psychiatrist at New York's Veteran's Administration Hospital. `[真题]`
+> - In addition to having served in World War II, he was a veteran of the Korean War. `[例]`
+> - She is a veteran teacher who has dedicated thirty years to the classroom. `[例]`
 
 
 ---

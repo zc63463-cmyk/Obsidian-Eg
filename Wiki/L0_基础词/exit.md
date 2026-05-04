@@ -133,8 +133,8 @@ ex-(= [[de|ex-]]，向外) + it(走，拉丁语 *ire*，与 [[exile]] 同源)
 
 > [!example]- 语料
 > - We headed for the nearest exit. `[例]`
-> - The fire exit (= the door you can escape through if there is a fire ) is located at the back of the building . `[例]`
-> - Please ensure that emergency exits are kept clear at all times . `[例]`
+> - The fire exit (= the door you can escape through if there is a fire ) is located at the back of the building. `[例]`
+> - Please ensure that emergency exits are kept clear at all times. `[例]`
 
 
 ---

@@ -125,9 +125,15 @@ spoil 源自古英语 *spolian*（掠夺），与拉丁语 *spolium*（战利品
 ## 真题/语料关联
 
 > [!example]- 语料
-> - He tried not to let the bad news spoil his evening . `[例]`
-> - The oil spill has spoiled the whole beautiful coastline . `[例]`
-> - I haven't seen the film , so don't spoil it for me by telling me what happens . `[例]`
+> - Don't let him spoil your evening. `[例]`
+>   - 中译：别让他毁了你的晚上。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/spoil
+> - The tall buildings have spoiled the view. `[例]`
+>   - 中译：这些高楼破坏了景致。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/spoil
+> - She spoils those kids of hers. `[例]`
+>   - 中译：她太惯着自己的那些孩子了。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/spoil
 
 ---
 

@@ -128,9 +128,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He was in awe of her; she held him spellbound." [COCA]
-> - "I am still awed by his courage." [COCA]
-> - "She gazed in awe at the great stones." [COCA]
+> - He speaks of her with awe. `[例]`
+>   - 中译：他满怀敬畏地谈论她。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/awe
+> - It's magnificent,’ she whispered in awe. `[例]`
+>   - 中译：太棒了，”她敬畏地低声说道。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/awe
+> - While Diana was in awe of her grandfather, she adored her grandmother. `[例]`
+>   - 中译：戴安娜敬畏她的祖父，同时也崇拜她的祖母。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/awe
 
 
 ---

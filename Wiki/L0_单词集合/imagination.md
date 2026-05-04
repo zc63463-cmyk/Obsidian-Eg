@@ -137,10 +137,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Imagination is more important than knowledge. `[真题]`
-> - For some reason, the story captured the imagination of the public. `[COCA-ACAD]`
-> - Antonia is a woman with a vivid imagination. `[COCA-ACAD]`
-> - The Government approach displays a lack of imagination. `[COCA-ACAD]`
+> - My younger son has a very vivid (= active ) imagination. `[例]`
+>   - 中译：我的小儿子有非常生动（=活跃）的想象力。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/imagination
+> - I can never make up stories - I have absolutely no imagination. `[例]`
+>   - 中译：我永远不会编故事——我完全没有想象力。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/imagination
+> - I wanted to choose iconic images that captured people's imaginations (= made them very interested ). `[例]`
+>   - 中译：我想选择能够激发人们想象力（=让他们非常感兴趣）的标志性图像。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/imagination
 
 ---
 

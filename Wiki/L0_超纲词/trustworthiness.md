@@ -3,10 +3,8 @@ title: "trustworthiness"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-25
-mastery: L0
 word_freq: 超纲词
 semantic_field: 社会习俗
 prototype: 值得被信任的品质
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**值得被信任的品质**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **值得被信任的品质**（社会评价层面）
@@ -65,7 +63,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +73,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > trust（信任）+ worth（价值）+ -ness（状态）→ 你的"信任价值"有多高？一个 trustworthiness 高的人，就像一座金库——把秘密、金钱、重任放进去，你睡得着觉。trustworthiness 就是这座金库的"信用评级"。
@@ -87,7 +85,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +98,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[untrustworthiness]]：不可信赖性（直接反义：值得信任↔不值得信任）
 > - [[deceitfulness]]：欺骗性（道德层面反义：诚实正直↔善于欺骗）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +118,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **assess/evaluate the trustworthiness of**：评估……的可信度
   - It is crucial to assess the trustworthiness of online information sources.
 > - **a person's trustworthiness**：一个人的可信赖性
@@ -132,19 +130,12 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - Many people said honesty and trustworthiness were the qualities that most influenced how they voted . `[例]`
-> - Those actions have led you to doubt his trustworthiness and integrity . `[例]`
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-25 | **复习次数**：0 | **当前等级**：L0
-
----
+> [!example]- 语料
+> - Many people said honesty and trustworthiness were the qualities that most influenced how they voted. `[例]`
+> - Those actions have led you to doubt his trustworthiness and integrity. `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

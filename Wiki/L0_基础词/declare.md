@@ -132,7 +132,7 @@ review_count: 0
 > [!example]- 语料
 > - They declared their support for the proposal. `[例]`
 > - The court declared that strike action was illegal. `[例]`
-> - She declared (that) it was the best chocolate cake she had ever tasted . `[例]`
+> - She declared (that) it was the best chocolate cake she had ever tasted. `[例]`
 
 
 ---

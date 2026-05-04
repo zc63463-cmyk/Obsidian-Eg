@@ -128,9 +128,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The flood waters fell , depositing mud over the whole area . `[例]`
-> - The bus deposited me miles from anywhere . `[例]`
-> - The cuckoo deposits her eggs in other birds ' nests . `[例]`
+> - The flood waters fell , depositing mud over the whole area. `[例]`
+>   - 中译：洪水倾泻而下，整个地区都被淤泥覆盖。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/deposit
+> - The bus deposited me miles from anywhere. `[例]`
+>   - 中译：巴士让我从任何地方都可以到达几英里。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/deposit
+> - The cuckoo deposits her eggs in other birds ' nests. `[例]`
+>   - 中译：杜鹃把蛋产在其他鸟的巢里。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/deposit
 
 ---
 

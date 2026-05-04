@@ -128,9 +128,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - As a young actress , she resisted the temptation to move to Hollywood . `[例]`
-> - He knew it was wrong to steal , but the money just lying there was too great a temptation. `[例]`
-> - Ice cream is always a real temptation for me. `[例]`
+> - Don't put temptation in his way by offering him cookies. `[例]`
+>   - 中译：不要通过向他提供饼干来诱惑他。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/temptation
+> - An expensive bicycle is a temptation to thieves. `[例]`
+>   - 中译：昂贵的自行车对小偷来说是一种诱惑。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/temptation
+> - Money is always a temptation. `[例]`
+>   - 中译：金钱永远是一种诱惑。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/temptation
 
 ---
 

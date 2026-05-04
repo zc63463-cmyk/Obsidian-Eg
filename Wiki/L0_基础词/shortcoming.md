@@ -125,9 +125,9 @@ short(短的，不够) + coming(到来，名词化)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Like any political system, it has its shortcomings." `[真题]`
-> - "Despite his shortcomings with computers, he was still an excellent colleague." `[真题]`
-> - "We must acknowledge the shortcomings of the current education system and work to improve them." `[真题]`
+> - Like any political system, it has its shortcomings. `[真题]`
+> - Despite his shortcomings with computers, he was still an excellent colleague. `[真题]`
+> - We must acknowledge the shortcomings of the current education system and work to improve them. `[真题]`
 
 
 ---

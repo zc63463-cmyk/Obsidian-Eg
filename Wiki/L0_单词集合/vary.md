@@ -142,9 +142,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - We have tried several different approaches , with varying degrees of success . `[例]`
-> - Some people give a regular monthly donation while others vary the amount they give. `[例]`
-> - The value of stocks will vary from month to month . `[例]`
+> - New techniques were introduced with varying degrees of success. `[例]`
+>   - 中译：新技术的引入取得了不同程度的成功。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/vary
+> - Estimates of how many civilians were killed varied widely. `[例]`
+>   - 中译：对有多少平民被杀的估计存在很大差异。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/vary
+> - Class size varies greatly. `[例]`
+>   - 中译：班级规模差异很大。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/vary
 
 ---
 

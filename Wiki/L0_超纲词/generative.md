@@ -3,10 +3,8 @@ title: "generative"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 理性世界
 prototype: 有生成能力的（能够产生新事物的）
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**有生成能力的（能够产生新事物）**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **有生成能力的**（抽象能力层面）
@@ -66,7 +64,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > generative 来自 generate（产生），而 generate 的核心是 [[gen-/-gener-/-gign-|gen-]]（产生、种类）。想象一个魔法盒子，你放进去一个想法，它能"产生"出无数个新想法——这个盒子就是 generative 的。今天最火的 generative AI 就是这样一个魔法盒子：你输入一段文字描述，它就能"产生"出一幅全新的画。
@@ -89,7 +87,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[unproductive]]：无生产力的（generative 是有生成能力的，unproductive 是没有产出的）
 > - [[destructive]]：破坏性的（generative 是创造的，destructive 是毁灭的）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,7 +121,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **generative AI**：生成式人工智能
   - Generative AI has transformed the way we create content.
 > - **generative grammar**：生成语法（乔姆斯基语言学理论）
@@ -135,19 +133,12 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - Analysts say the business is strongly cash generative and has a solid business model . `[例]`
+> [!example]- 语料
+> - Analysts say the business is strongly cash generative and has a solid business model. `[例]`
 > - The generative process just speeds up the play and directs it to often find more interesting designs and potentially to solve difficult problems. `[例]`
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

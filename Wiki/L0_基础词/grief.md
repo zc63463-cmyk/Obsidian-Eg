@@ -129,8 +129,9 @@ grief 源自拉丁语 *gravis*（重的），与 [[grav]]（重力）同源。gr
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He is really grieving over the loss of something beautiful more than useful."（他真的为那些美好多于实用的事物的消逝感到悲痛——2016考研英语词汇例句）
-> - "Huge crowds followed the funeral procession in a public demonstration of grief."（大批人群跟随着送葬队伍，公开表达他们的悲痛——剑桥词典例句）
+> - Her grief at her son's death was terrible. `[例]`
+> - Newspapers should not intrude on people's private grief. `[例]`
+> - She describes the anxieties and griefs caused by war. `[例]`
 
 
 ---

@@ -132,10 +132,10 @@ germ 源自拉丁语 *germen*（芽、种子），与 [[gen-|gen/gent]]（出生
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He asked whether there were not electrical means for pasteurizing milk, for getting rid of the germs in milk." `[真题]`
-> - "The hands are the most important means of the transfer of dangerous germs to food." `[真题]`
-> - "He found the germ of an idea in an old newspaper." `[权威语料]`
-> - "Chlorine is widely used to kill germs in swimming pools and water treatment systems." `[权威语料]`
+> - He asked whether there were not electrical means for pasteurizing milk, for getting rid of the germs in milk. `[真题]`
+> - The hands are the most important means of the transfer of dangerous germs to food. `[真题]`
+> - A line of germ trees rose above the morning fog. `[例]`
+> - Chlorine is widely used to kill germs in swimming pools and water treatment systems. `[例]`
 
 
 ---

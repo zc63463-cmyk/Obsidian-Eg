@@ -121,9 +121,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - `Emerging from the 1980 census is the picture of a nation developing more and more regional competition, as population growth in the Northeast and Midwest reaches a near standstill.` [真题]
-> - `This development has enthroned the South as America's most densely populated region for the first time in the history of the nation's head counting.` [真题]
-> - `The factory supplies doses for domestic demand as well as for export across the region.` [COCA-NEWS]
+> - One of the turning points in public support for land conservation efforts-and recognizing the magnificence of the Yellowstone region in particular-came in the form of vivid photographs. `[真题]`
+>   - 中译：公众支持土地保护工作的转折点之一——尤其是认识到黄石地区的壮丽——以生动的照片的形式出现。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - That's why Hayden's expedition aimed to produce a fuller understanding of the Yellowstone River region, from its hot springs and waterfalls to its variety of flora and fauna. `[真题]`
+>   - 中译：这就是为什么海登的探险旨在更全面地了解黄石河地区，从温泉和瀑布到各种动植物群。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - There's a shortage of cheap housing in the region. `[例]`
+>   - 中译：该地区缺乏廉价住房。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/region
 
 ---
 

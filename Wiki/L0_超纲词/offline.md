@@ -3,10 +3,8 @@ title: "offline"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-25
-mastery: L0
 word_freq: 超纲词
 semantic_field: 物品工具
 prototype: 离开线的（断开连接的）
@@ -43,7 +41,7 @@ off-(离开/脱离) + line(线/连线)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**离开线的**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **离开线的**（物理层面）
@@ -64,7 +62,7 @@ off-(离开/脱离) + line(线/连线)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +73,7 @@ off-(离开/脱离) + line(线/连线)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > off（离开）+ line（线）→ 离开网络连线 → 离线的。你的手机开了飞行模式，就是 offline。你下载了视频在没网的时候看，叫 offline viewing（离线观看）。
@@ -87,7 +85,7 @@ off-(离开/脱离) + line(线/连线)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -98,12 +96,12 @@ off-(离开/脱离) + line(线/连线)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[online]]：在线的（offline 的精确反义：离线↔在线）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -113,7 +111,7 @@ off-(离开/脱离) + line(线/连线)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **work offline**：离线工作
 > - **offline mode**：离线模式
 > - **offline access**：离线访问
@@ -121,19 +119,12 @@ off-(离开/脱离) + line(线/连线)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - `[例]` You can work offline and sync your changes when you reconnect.
-> - `[例]` The system went offline for scheduled maintenance last night.
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-25 | **复习次数**：0 | **当前等级**：L0
-
----
+> [!example]- 语料
+> - The researchers proposed a offline solution to the problem. `[例]`
+> - The company adopted a offline approach to improve efficiency. `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

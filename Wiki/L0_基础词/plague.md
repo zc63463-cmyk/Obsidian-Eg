@@ -128,9 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Financial problems have been plaguing their new business partners . `[例]`
-> - My shoulder's been plaguing me all week . `[例]`
-> - The children plagued him with questions all through lunch . `[例]`
+> - Financial problems have been plaguing their new business partners. `[例]`
+> - My shoulder's been plaguing me all week. `[例]`
+> - The children plagued him with questions all through lunch. `[例]`
 
 
 ---

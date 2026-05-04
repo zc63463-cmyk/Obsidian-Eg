@@ -124,9 +124,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Have a look at the cluster of galaxies in this photograph . `[例]`
-> - There was a cluster of fans around him, asking for autographs . `[例]`
-> - People clustered around the noticeboard to read the exam results . `[例]`
+> - The telescope is focused on a dense cluster of stars at the edge of the galaxy. `[例]`
+>   - 中译：该望远镜聚焦于银河系边缘的密集星团。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/cluster
+> - The plant bears its flowers in clusters. `[例]`
+>   - 中译：这种植物的花朵成簇。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/cluster
+> - A small cluster of people had gathered at the scene of the accident. `[例]`
+>   - 中译：事故现场聚集了一小群人。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/cluster
 
 
 ---

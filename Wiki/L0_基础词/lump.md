@@ -127,8 +127,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - It was winter and we were down to our last lumps of coal . `[例]`
-> - You don't want lumps in the sauce . `[例]`
+> - It was winter and we were down to our last lumps of coal. `[例]`
+> - You don't want lumps in the sauce. `[例]`
 > - I'll be getting the insurance money in two lumps. `[例]`
 
 

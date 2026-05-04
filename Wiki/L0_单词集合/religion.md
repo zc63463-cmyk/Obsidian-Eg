@@ -127,9 +127,15 @@ re-(反复) + lig(绑/收集) + -ion(名词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - On the issue of freedom of religion and the position of the Church, there was less agreement among the leadership. `[真题]`
-> - Most leaders sought to maintain Catholicism as the official religion of the new states. `[真题]`
-> - The Constitution of the United States guarantees its citizens the right to freedom of religion. `[COCA-ACAD]`
+> - Football is a religion for these people. `[例]`
+>   - 中译：足球对这些人来说是一种宗教。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/religion
+> - It seems to me that a lot of evil deeds are done in the name of religion. `[例]`
+>   - 中译：在我看来，很多恶行都是以宗教的名义进行的。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/religion
+> - What do you think is the role of religion in the modern world? `[例]`
+>   - 中译：您认为宗教在现代世界中的作用是什么？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/religion
 ---
 
 

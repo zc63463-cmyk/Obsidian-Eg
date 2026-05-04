@@ -126,9 +126,9 @@ rhet-(说话/言辞) + -or(名词后缀) + -ic(与……有关的)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Her speech was just empty rhetoric that lacked any concrete proposals for reform. ` [真题]`
-> - He has toned down his rhetoric of late as the election approaches. ` [真题]`
-> - I was swayed by her rhetoric into donating all my savings to the charity. ` [真题]`
+> - How far the president will be able to translate his campaign rhetoric into action remains to be seen. `[例]`
+> - I was swayed by her rhetoric into donating all my savings to the charity. `[例]`
+> - In reply to the question , he just produced a lot of empty (= meaningless ) rhetoric. `[例]`
 
 
 ---

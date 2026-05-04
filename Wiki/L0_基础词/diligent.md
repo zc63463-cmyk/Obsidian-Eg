@@ -128,9 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Leo is very diligent about his work . `[例]`
-> - Their lawyer was extremely diligent in preparing their case . `[例]`
-> - The discovery was made after years of diligent research . `[例]`
+> - Leo is very diligent about his work. `[例]`
+> - Their lawyer was extremely diligent in preparing their case. `[例]`
+> - The discovery was made after years of diligent research. `[例]`
 
 
 ---

@@ -126,9 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The invention of the smartphone caused a paradigm shift in communication. `[外刊]`
-> - A paradigm shift is urgently needed in the coastal and marine tourism sector, with innovative approaches to achieve sustainable and regenerative development. `[外刊]`
-> - Purdue is the paradigm for the rest of the conference right now. `[外刊]`
+> - The invention of the smartphone caused a paradigm shift in communication. `[例]`
+> - A paradigm shift is urgently needed in the coastal and marine tourism sector, with innovative approaches to achieve sustainable and regenerative development. `[例]`
+> - Purdue is the paradigm for the rest of the conference right now. `[例]`
 
 
 ---

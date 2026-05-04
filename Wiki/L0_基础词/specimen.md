@@ -132,7 +132,7 @@ review_count: 0
 > [!example]- 语料
 > - He has a collection of rare insect specimens. `[例]`
 > - Museums will pay large amounts of money for good dinosaur fossil specimens. `[例]`
-> - Astronauts brought back specimens of moon rock . `[例]`
+> - Astronauts brought back specimens of moon rock. `[例]`
 
 
 ---

@@ -123,9 +123,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Choose the best word ( s) for each numbered blank and mark A, B , C or D on th� ANSWER SHEET. ( 10 points) Caravanserais were roadside inns that were built along the Silk Road in areas including China, North Africa and the Middle East. `[真题]`
-> - They were typically _1_ outside the walls of a city or village and were usually funded by governments or 2 This word " Caravanserais" is 3 a of the Persian word " karv:an" , which means a group of ltravellers or a caravan , and " seray " , a palace or enclosed building. `[真题]`
-> - From the 10th century onwards, as merchant and travel routes became more developed, the _6 __ of the caravanserais increased and they served as a safe place for people to :rest at night. `[真题]`
+> - Do it slowly and carefully. `[例]`
+>   - 中译：慢慢地、小心地做。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/and
+> - Can he read and write? `[例]`
+>   - 中译：他能读和写吗？
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/and
+> - I'll come and see you soon. `[例]`
+>   - 中译：我很快就会来看你。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/and
 
 
 ---

@@ -132,9 +132,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - They threatened the shopkeeper with a gun . `[例]`
-> - They threatened to kill him unless he did as they asked . `[例]`
-> - Changing patterns of agriculture are threatening the countryside . `[例]`
+> - They broke my windows and threatened me. `[例]`
+>   - 中译：他们打破了我的窗户并威胁我。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/threaten
+> - People have even threatened his life. `[例]`
+>   - 中译：人们甚至威胁他的生命。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/threaten
+> - The attacker threatened them with a gun. `[例]`
+>   - 中译：袭击者用枪威胁他们。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/threaten
 
 ---
 

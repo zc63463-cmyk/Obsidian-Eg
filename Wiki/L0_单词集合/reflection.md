@@ -130,10 +130,15 @@ re-(回、再) + flect/flex(弯、折) + -ion(名词后缀，表动作或结果)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The report is a reflection of the growing concern among the public about environmental issues. `[真题]`
-> - Upon reflection, she realized that her initial judgment of the situation was too hasty. `[真题]`
-> - The statistics are a reflection of the ability for an individual to meet the criteria. `[COCA-ACAD]`
-> - After days of reflection she decided to write back. `[COCA-ACAD]`
+> - In Greek mythology , Narcissus fell in love with his own reflection in a pool of water. `[例]`
+>   - 中译：在希腊神话中，那喀索斯爱上了自己在池水中的倒影。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/reflection
+> - She was looking at her reflection in the mirror. `[例]`
+>   - 中译：她正在看着镜子里的自己。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/reflection
+> - She could see her reflection in the water , shimmering in the moonlight. `[例]`
+>   - 中译：她可以看到自己在水中的倒影，在月光下闪闪发光。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/reflection
 ---
 
 

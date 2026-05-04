@@ -143,10 +143,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The architect showed us a rough sketch of the new building. `[真题]`
-> - Let me sketch out the main points of the proposal. `[COCA-ACAD]`
-> - Holford sketched a 10-year programme for rebuilding the city. `[COCA-ACAD]`
-> - She quickly sketched a portrait of her friend during lunch. `[COCA-FICT]`
+> - My mother made a ( pencil ) sketch of my brother reading a book. `[例]`
+>   - 中译：我妈妈用铅笔画了一幅我弟弟读书的草图。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/sketch
+> - The builder did a rough sketch of how the new stairs would look. `[例]`
+>   - 中译：建筑商绘制了新楼梯外观的粗略草图。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/sketch
+> - She did a quick sketch of her father reading the paper. `[例]`
+>   - 中译：她快速画了一幅她父亲读报纸的情景。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/sketch
 
 ---
 

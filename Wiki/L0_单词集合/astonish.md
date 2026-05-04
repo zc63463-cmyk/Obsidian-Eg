@@ -127,9 +127,15 @@ a-(=ex-, 出/外) + [[ton|ton]](雷) + -ish(动词后缀，使…) → 如同被
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The ending of the novel will astonish you." `[例]`
-> - "It would be astonishing if a president would knowingly surrender so completely his ability to make foreign policy." `[COCA-ACAD]`
-> - "The results of the experiment astonished even the most experienced researchers." `[例]`
+> - I was astonished by how much she'd grown. `[例]`
+>   - 中译：我对她的成长感到惊讶。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/astonish
+> - What astonished me was that he didn't seem to mind. `[例]`
+>   - 中译：令我惊讶的是，他似乎并不介意。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/astonish
+> - Her writing shows astonishing depth. `[例]`
+>   - 中译：她的写作显示出惊人的深度。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/astonish
 
 
 ---

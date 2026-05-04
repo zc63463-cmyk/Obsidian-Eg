@@ -129,7 +129,7 @@ review_count: 0
 > [!example]- 语料
 > - He's making a model car from a kit. `[例]`
 > - They were wearing football kit. `[例]`
-> - A torch is an important piece of kit on backpacking trips . `[例]`
+> - A torch is an important piece of kit on backpacking trips. `[例]`
 
 
 ---

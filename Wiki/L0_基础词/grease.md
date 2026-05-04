@@ -136,8 +136,9 @@ grease 源自古拉丁语 *crassus*（厚的、肥的），经由古法语 *gres
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Grease two sturdy baking sheets and heat the oven to 400 degrees."（在两块结实的烤板上抹些油，把烤炉加热到400度——常见搭配用法）
-> - "The floor was covered in grease and filth."（地板上满是油垢和污物——常见搭配用法）
+> - The dinner plates were thick with grease. `[例]`
+> - You'll have to put some grease on those ball bearings. `[例]`
+> - Grease the tins well before adding the cake mixture. `[例]`
 
 
 ---

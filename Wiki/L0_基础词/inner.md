@@ -127,8 +127,8 @@ in-(在里面) + -ner(比较级后缀，"更……的")
 
 > [!example]- 语料
 > - The inner workings of the human mind remain one of the greatest mysteries. `[真题]`
-> - He found inner peace through meditation. `[真题]`
-> - Violent crime is rife in our inner cities. `[权威语料]`
+> - The company adopted a inner approach to improve efficiency. `[真题]`
+> - Violent crime is rife in our inner cities. `[例]`
 
 
 ---

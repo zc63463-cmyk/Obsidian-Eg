@@ -125,9 +125,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The police have provided experts to counsel local people affected by the tragedy . `[例]`
-> - My job involves counselling unemployed people on how to find work . `[例]`
-> - She often has to counsel students about issues in their personal lives . `[例]`
+> - The police have provided experts to counsel local people affected by the tragedy. `[例]`
+>   - 中译：警方已派遣专家为受悲剧影响的当地民众提供咨询。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/counsel
+> - My job involves counselling unemployed people on how to find work. `[例]`
+>   - 中译：我的工作包括为失业者提供如何找工作的咨询。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/counsel
+> - She often has to counsel students about issues in their personal lives. `[例]`
+>   - 中译：她经常需要就个人生活中的问题向学生提供咨询。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/counsel
 
 
 ---

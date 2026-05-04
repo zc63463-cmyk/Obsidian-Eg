@@ -132,10 +132,15 @@ ment(=memor，心智/记忆，mind) + -al(与……有关的，形容词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The pandemic has had a significant impact on people's mental health. `[真题]`
-> - Regular physical exercise has been shown to have positive effects on mental well-being. `[COCA-ACAD]`
-> - Depression is one of the most common forms of mental illness. `[COCA-ACAD]`
-> - The task requires considerable mental effort and concentration. `[COCA-ACAD]`
+> - A doctor was asked about the prisoner's mental state. `[例]`
+>   - 中译：医生被问及囚犯的精神状态。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/mental
+> - Long-distance running is about mental strength as well as physical fitness. `[例]`
+>   - 中译：长跑不仅考验身体素质，更考验精神力量。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/mental
+> - She had a mental picture (= a picture in her mind ) of how the house would look when they finished redecorating it. `[例]`
+>   - 中译：她脑子里有一幅他们重新装修完房子后的样子。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/mental
 
 ---
 

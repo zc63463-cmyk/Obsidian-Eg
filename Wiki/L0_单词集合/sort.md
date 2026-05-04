@@ -127,10 +127,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The movie appeals to all sorts of people. `[COCA-FIC]`
-> - They've been having all sorts of problems. `[COCA-SPOKEN]`
-> - There is a new sort of technology emerging that could transform the way we work. `[真题]`
-> - The government needs to sort out the housing crisis before it gets worse. `[真题]`
+> - I'm going to have a salad of some sort. `[例]`
+>   - 中译：我要吃一份沙拉之类的。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/sort
+> - What sort of shoes will I need? `[例]`
+>   - 中译：我需要什么样的鞋子？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/sort
+> - We saw all sorts (= many types ) of animals in the park. `[例]`
+>   - 中译：我们在公园里看到了各种各样（=很多类型）的动物。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/sort
 
 
 ---

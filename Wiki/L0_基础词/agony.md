@@ -129,9 +129,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She lay there screaming in agony. `[例]`
-> - I was in an agony of suspense . `[例]`
-> - It must be agony for them to say goodbye . `[例]`
+> - Jack collapsed in agony on the floor. `[例]`
+>   - 中译：杰克痛苦地倒在地板上。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/agony
+> - She waited in an agony of suspense. `[例]`
+>   - 中译：她在悬而未决的痛苦中等待着。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/agony
+> - It was agony not knowing where the children were. `[例]`
+>   - 中译：不知道孩子们在哪里真是痛苦。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/agony
 
 
 ---

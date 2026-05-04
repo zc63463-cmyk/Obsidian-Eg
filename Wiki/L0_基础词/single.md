@@ -147,7 +147,7 @@ single 源自古法语 *sengle*，拉丁语 *singulus*（单一的），与 simu
 > [!example]- 语料
 > - There is no single solution to the problem of climate change. `[真题]`
 > - She was singled out for special training because of her outstanding performance. `[真题]`
-> - Many of the children at the school come from single parent families. `[外刊]`
+> - Many of the children at the school come from single parent families. `[例]`
 
 
 ---

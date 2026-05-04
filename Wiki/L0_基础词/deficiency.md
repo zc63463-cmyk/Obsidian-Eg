@@ -128,9 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The blood tests revealed a deficiency in certain key minerals and vitamins . `[例]`
-> - As the game went on, the team's deficiency was obvious . `[例]`
-> - They are not permitted to borrow additional funds as long as any deficiency exists in the capital reserve fund . `[例]`
+> - The blood tests revealed a deficiency in certain key minerals and vitamins. `[例]`
+> - As the game went on, the team's deficiency was obvious. `[例]`
+> - They are not permitted to borrow additional funds as long as any deficiency exists in the capital reserve fund. `[例]`
 
 
 ---

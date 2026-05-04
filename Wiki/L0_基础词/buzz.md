@@ -130,9 +130,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - I can hear an insect buzzing. `[例]`
-> - My phone buzzed at five in the morning and woke me. `[例]`
-> - I buzzed him but there was no answer . `[例]`
+> - Bees buzzed lazily among the flowers. `[例]`
+>   - 中译：蜜蜂在花丛中慵懒地嗡嗡作响。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/buzz
+> - The doorbell buzzed loudly. `[例]`
+>   - 中译：门铃响得很响。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/buzz
+> - My ears were buzzing (= were filled with a continuous sound). `[例]`
+>   - 中译：我的耳朵嗡嗡作响（=充满连续的声音）。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/buzz
 
 
 ---

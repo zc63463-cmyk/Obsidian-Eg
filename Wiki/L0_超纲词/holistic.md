@@ -3,10 +3,8 @@ title: "holistic"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 理性世界
 prototype: 整体的，全盘的（把事物看作一个完整整体）
@@ -42,7 +40,7 @@ hol(=whole, 整体) + -ist(人/主义) + -ic(形容词后缀)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**整体的，全盘的**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **整体的**（认知层面）
@@ -63,7 +61,7 @@ hol(=whole, 整体) + -ist(人/主义) + -ic(形容词后缀)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ hol(=whole, 整体) + -ist(人/主义) + -ic(形容词后缀)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > hol（整体）+ istic（的）= holistic = 整体的。记住：holistic 就是"看整个"，不要只看部分。holistic approach = 从整体出发的方法。holistic medicine = 不只治头痛，而是治疗整个人的整体医学。反义词是 analytic（分析的——把整体拆成部分）。
@@ -86,7 +84,7 @@ hol(=whole, 整体) + -ist(人/主义) + -ic(形容词后缀)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -98,14 +96,14 @@ hol(=whole, 整体) + -ist(人/主义) + -ic(形容词后缀)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[analytic]]：分析的（整体↔分析）
 > - [[reductionist]]：还原论的（整体论↔还原论）
 > - [[partial]]：局部的（整体↔局部）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,7 +115,7 @@ hol(=whole, 整体) + -ist(人/主义) + -ic(形容词后缀)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **holistic approach**：整体方法
 > - **holistic view/perspective**：整体视角
 > - **holistic medicine/treatment**：整体医学/治疗
@@ -125,19 +123,12 @@ hol(=whole, 整体) + -ist(人/主义) + -ic(形容词后缀)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - My doctor takes a holistic approach to disease . `[例]`
-> - Ecological problems usually require holistic solutions . `[例]`
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
+> [!example]- 语料
+> - My doctor takes a holistic approach to disease. `[例]`
+> - Ecological problems usually require holistic solutions. `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

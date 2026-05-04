@@ -125,9 +125,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - In order to turn the deserts into fertile and productive land , engineers built an 800-mile canal . `[例]`
-> - He had an amazingly productive five years in which he managed to write four novels . `[例]`
-> - We had a very productive meeting - I felt we solved lots of problems . `[例]`
+> - In order to turn the deserts into fertile and productive land , engineers built an 800-mile canal. `[例]`
+>   - 中译：为了把沙漠变成肥沃多产的土地，工程师们修建了一条800英里长的运河。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/productive
+> - He had an amazingly productive five years in which he managed to write four novels. `[例]`
+>   - 中译：他度过了令人惊讶的多产的五年，其中他写出了四本小说。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/productive
+> - We had a very productive meeting - I felt we solved lots of problems. `[例]`
+>   - 中译：我们的会议非常富有成效——我觉得我们解决了很多问题。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/productive
 
 
 ---

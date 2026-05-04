@@ -139,9 +139,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The cells of a honeycomb. `[例]`
-> - The fission of the cell could be inhibited with certain chemicals . `[例]`
-> - DNA is stored in the nucleus of a cell. `[例]`
+> - Cells divide and form new cells. `[例]`
+>   - 中译：细胞分裂并形成新细胞。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/cell
+> - The suspect was in the police station's holding cell overnight. `[例]`
+>   - 中译：嫌疑人在警察局的拘留室过夜。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/cell
+> - Neill is now advocating for the treatment, CAR T- cell therapy, to be rolled out across his native Australia. `[例]`
+>   - 中译：Neill 现在正在倡导将 CAR T 细胞疗法推广到他的祖国澳大利亚。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/cell
 
 
 ---

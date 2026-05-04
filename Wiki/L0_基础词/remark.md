@@ -131,7 +131,7 @@ review_count: 0
 > [!example]- 语料
 > - The professor remarked that the results were consistent with previous findings. `[真题]`
 > - She made a passing remark about the need for reform. `[真题]`
-> - I was just remarking on how well you two normally get on with each other. `[权威语料]`
+> - I was just remarking on how well you two normally get on with each other. `[例]`
 
 
 ---

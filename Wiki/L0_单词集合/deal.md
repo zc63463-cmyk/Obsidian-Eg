@@ -145,9 +145,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Literary agencies are getting bigger to have the clout to negotiate better terms with publishers, publishers consolidating to deal with Amazon, " . says Lownie. `[真题]`
+>   - 中译：文学代理机构规模不断扩大，拥有与出版商谈判更好条款的影响力，出版商正在整合以与亚马逊打交道，”洛尼说。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
 > - What should an author do to deal with citation manipulators? `[真题]`
+>   - 中译：作者应该如何应对引用操纵者？
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
 > - The unions and management have made a two-year pay and productivity deal. `[例]`
-> - Do you think the government should try to strike a deal with the terrorists ? `[例]`
+>   - 中译：工会和管理层达成了为期两年的薪资和生产力协议。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/deal
 
 ---
 

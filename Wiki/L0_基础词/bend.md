@@ -128,9 +128,15 @@ bend（日耳曼语族原始词，与 bind "绑"同源，原始印欧语 *bhend-
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The branches bent in the wind." `[真题]`
-> - "They refused to bend to the hijackers' demands." `[真题]`
-> - "I bent down and picked up the coins lying on the road." `[COCA-FIC]`
+> - The doctor told me to avoid bending and stretching. `[例]`
+>   - 中译：医生告诉我要避免弯腰和伸展。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bend
+> - Slowly bend from the waist and bring your head down to your knees. `[例]`
+>   - 中译：慢慢地从腰部开始弯曲，将头降至膝盖处。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bend
+> - Bend your knees , keeping your back straight. `[例]`
+>   - 中译：弯曲膝盖，保持背部挺直。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bend
 
 
 ---

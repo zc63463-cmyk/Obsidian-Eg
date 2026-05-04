@@ -134,9 +134,15 @@ al-(=ad-, to，向) + ly（=lig，绑，拉丁语 *ligare*）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - During the First World War, Turkey was an ally of Germany. `[例]`
-> - She is known to be a longtime ally of the chancellor . `[例]`
-> - He is generally considered to be the prime minister's closest political ally. `[例]`
+> - Portugal is a traditional ally of England. `[例]`
+>   - 中译：葡萄牙是英格兰的传统盟友。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ally
+> - His sister was his ally against their grandparents. `[例]`
+>   - 中译：他的妹妹是他对抗祖父母的盟友。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ally
+> - Fran has been an ally to First Nations people her whole life. `[例]`
+>   - 中译：弗兰一生都是原住民的盟友。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ally
 
 
 ---

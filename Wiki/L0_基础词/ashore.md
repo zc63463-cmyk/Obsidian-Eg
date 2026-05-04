@@ -123,9 +123,15 @@ a-(=on, 在……上) + shore(岸)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The crew went ashore for supplies after weeks at sea. `[COCA-NEWS]`
-> - Debris from the crashed plane was washed ashore by the tide. `[COCA-NEWS]`
-> - He managed to swim ashore but could find no trace of his family. `[COCA-NEWS]`
+> - A dead dolphin was found washed ashore on the beach. `[例]`
+>   - 中译：海滩上发现了一只死去的海豚。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ashore
+> - The cruise included several days ashore. `[例]`
+>   - 中译：这次巡游包括上岸几天。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ashore
+> - We docked our boat and went ashore to visit the island. `[例]`
+>   - 中译：我们把船靠岸，上岸游览小岛。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/ashore
 
 
 ---

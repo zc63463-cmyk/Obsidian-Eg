@@ -125,10 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The Central Bank intervened in the currency markets today to try to stabilize the exchange rate. ` `[真题]`
-> - The military had to intervene to restore order. ` `[语料库]`
-> - Twenty years intervened between their first and last meetings. ` `[语料库]`
-> - Parents need to intervene when sibling rivalry becomes physical. ` `[语料库]`
+> - The Central Bank intervened in the currency markets today to try to stabilize the exchange rate. `[例]`
+> - The minister intervened personally to stop the museum from being closed. `[例]`
+> - There is increasing demand for the United Nations to intervene in trouble spots throughout the world. `[例]`
 
 
 ---

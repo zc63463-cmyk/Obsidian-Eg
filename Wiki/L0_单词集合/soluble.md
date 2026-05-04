@@ -122,10 +122,15 @@ solu（松开、释放）+ -ble（可以被……的）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Oats contain a healthy soluble fibre which helps to lower harmful cholesterol in the blood. `[COCA-ACAD]`
-> - Sodium cyanide is also highly soluble in water and it can react vigorously to produce the gas hydrogen cyanide. `[COCA-ACAD]`
-> - The substance is soluble in water but not in alcohol. `[真题]`
-> - Many environmental problems are soluble if we take collective action. `[真题]`
+> - Sugar is soluble in water. `[例]`
+>   - 中译：糖易溶于水。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/soluble
+> - Glucose is soluble in water. `[例]`
+>   - 中译：葡萄糖可溶于水。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/soluble
+> - The disulphate was easily soluble in water. `[例]`
+>   - 中译：二硫酸盐易溶于水。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/soluble
 
 
 ---

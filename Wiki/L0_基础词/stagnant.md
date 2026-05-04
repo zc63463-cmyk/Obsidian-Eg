@@ -126,8 +126,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Hot, stagnant air filled the subway . `[例]`
-> - Jobs become scarce in a stagnant economy . `[例]`
+> - Hot, stagnant air filled the subway. `[例]`
+> - Jobs become scarce in a stagnant economy. `[例]`
 > - Recently, the company's sales have been declining or stagnant. `[例]`
 
 

@@ -125,8 +125,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She came out of the closet and openly discussed her sexual orientation."（她公开出柜，坦率地讨论了自己的性取向。）——考研高频表达
-> - "He is a closet environmentalist who secretly supports green initiatives."（他是一个暗中的环保主义者，暗中支持绿色倡议。）——考研高频表达
+> - The ban could lead to trans service members staying in the closet even when it is dangerous for their mental health. `[例]`
+>   - 中译：这项禁令可能会导致跨性别服役人员不敢出柜，即使这对他们的心理健康有害。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/closet
+> - The story revolves around Jason and Peter, who are in love but are both in the closet. `[例]`
+>   - 中译：故事围绕杰森和彼得展开，他们相爱却都出柜了。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/closet
+> - He is openly gay now, but didn't come out of the closet until a few years ago. `[例]`
+>   - 中译：他现在是公开的同性恋，但直到几年前才出柜。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/closet
 
 
 ---

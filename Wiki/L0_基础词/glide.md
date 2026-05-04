@@ -130,9 +130,9 @@ glide 源自古英语 *glidan*，与 gleam（闪光）、glint（闪烁）同源
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The swans glided over the surface of the lake." `[语料库]`
-> - "We watched the skiers glide down the slope." `[语料库]`
-> - "The pilot glided the plane to a safe landing after the engine failed." `[语料库]`
+> - The swans glided over the surface of the lake. `[例]`
+> - We watched the skiers glide down the slope. `[例]`
+> - The pilot glided the plane to a safe landing after the engine failed. `[例]`
 
 
 ---

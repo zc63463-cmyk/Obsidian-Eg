@@ -131,9 +131,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She wore the key on a cord around her neck. `[COCA-FIC]`
-> - The disease strikes when nerve cells in the brain and spinal cord stop working. `[COCA-NEWS]`
-> - To open a box, pull on the cord, and it easily rips the tape at the box's seam. `[COCA-NEWS]`
+> - Disconnect the power cord when the appliance is not in use. `[例]`
+>   - 中译：不使用设备时，请断开电源线。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/cord
+> - The baby was still attached to its mother by the cord. `[例]`
+>   - 中译：婴儿仍然通过绳索与母亲相连。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/cord
+> - They used cords to tie the tent to the trees. `[例]`
+>   - 中译：他们用绳子把帐篷绑在树上。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/cord
 
 
 ---

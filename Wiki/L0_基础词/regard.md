@@ -144,7 +144,7 @@ re-(再，反复) + gard(看，守护，日耳曼语系)
 > - He is regarded as a tenacious and persistent interviewer. `[真题]`
 > - I have nothing to say with regard to your complaints. `[真题]`
 > - A recent study of public opinion shows that in modern Britain people regard themselves socially different. `[真题]`
-> - Her parents always regarded her as the smartest of their children. `[权威词典]`
+> - Her parents always regarded her as the smartest of their children. `[例]`
 
 
 ---

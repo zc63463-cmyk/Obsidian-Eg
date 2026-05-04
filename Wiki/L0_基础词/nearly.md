@@ -127,7 +127,7 @@ near（近的）+ -ly（副词后缀，表示"以……方式"）
 
 > [!example]- 语料
 > - Over nearly four months , dozens of men made their way on horseback into Montana and traversed along the Yellowstone River and around Yellowstone Lake. `[真题]`
-> - It's been nearly three months since my last haircut . `[例]`
+> - It's been nearly three months since my last haircut. `[例]`
 > - I've nearly finished that book you lent me. `[例]`
 
 

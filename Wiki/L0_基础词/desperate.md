@@ -129,9 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The situation is desperate - we have no food , very little water and no medical supplies . `[例]`
-> - The earthquake survivors are in desperate need of help . `[例]`
-> - He has a desperate desire to succeed . `[例]`
+> - The situation is desperate - we have no food , very little water and no medical supplies. `[例]`
+> - The earthquake survivors are in desperate need of help. `[例]`
+> - He has a desperate desire to succeed. `[例]`
 
 
 ---

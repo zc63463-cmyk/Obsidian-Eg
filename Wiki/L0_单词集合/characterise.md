@@ -128,9 +128,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "characterized by rapid change"（以快速变化为特征）——考研阅读/翻译高频搭配
-> - "characterize the period as..."（将这一时期描述为……）——学术类阅读常见搭配
-> - "a society characterized by diversity"（一个以多样性为特征的社会）——社科类写作常用表达
+> - Bright colours and bold strokes characterize his early paintings. `[例]`
+>   - 中译：明亮的色彩和大胆的笔触是他早期绘画的特点。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/characterize
+> - In her essay , she characterizes the whole era as a period of radical change. `[例]`
+>   - 中译：在她的文章中，她将整个时代描述为一个剧烈变革的时期。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/characterize
+> - The current system is characterized by obsolete technology. `[例]`
+>   - 中译：当前系统的特点是技术陈旧。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/characterize
 
 ---
 

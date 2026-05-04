@@ -126,8 +126,15 @@ ac-(=ad-，朝向) + cus-(诉讼、指控) + -e
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He was accused of stealing confidential information from the company."（他被指控从公司窃取机密信息。）——考研高频表达
-> - "The opposition accused the government of failing to address the issue of inequality."（反对党指责政府未能解决不平等问题。）——考研高频表达
+> - It wasn't my fault ." "Don't worry , I'm not accusing you. `[例]`
+>   - 中译：这不是我的错。” “别担心，我不是在指责你。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/accuse
+> - Are you accusing me of lying? `[例]`
+>   - 中译：你是在指责我撒谎吗？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/accuse
+> - The surgeon was accused of negligence. `[例]`
+>   - 中译：外科医生被指控玩忽职守。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/accuse
 
 ---
 

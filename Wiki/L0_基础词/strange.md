@@ -129,7 +129,7 @@ review_count: 0
 > [!example]- 语料
 > - He has some very strange ideas about women! `[例]`
 > - I had a strange feeling that we'd met before. `[例]`
-> - It's strange that tourists almost never visit this village . `[例]`
+> - It's strange that tourists almost never visit this village. `[例]`
 
 
 ---

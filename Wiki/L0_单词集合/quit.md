@@ -142,9 +142,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "quit their jobs to start their own businesses"（辞职创业）——考研阅读常见，描述职业选择
-> - "quit smoking"（戒烟）——考研翻译/阅读中健康类话题常见搭配
-> - "never quit"（永不放弃）——励志类文本中高频表达
+> - Would you quit your job if you inherited lots of money? `[例]`
+>   - 中译：如果你继承了很多钱，你会辞职吗？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/quit
+> - I'm going to quit smok ing. `[例]`
+>   - 中译：我要戒烟了。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/quit
+> - Press Q to quit the program. `[例]`
+>   - 中译：按 Q 退出程序。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/quit
 
 ---
 

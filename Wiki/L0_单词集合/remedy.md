@@ -132,10 +132,15 @@ re-(again) + 建议创建词根笔记 [[re/rem]](to heal/治愈) + -y(名词后�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The best remedy for grief is hard work. `[真题]`
-> - Government advisers have requested the drug's removal from the market for safety reasons, as there is no effective remedy for the side effects. `[COCA-ACAD]`
-> - Women helping women is a key remedy to this problem. `[COCA-ACAD]`
-> - Something must be done to remedy the problem before it escalates further. `[COCA-ACAD]`
+> - The best remedy for grief is hard work. `[例]`
+>   - 中译：治愈悲伤最好的方法就是努力工作。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/remedy
+> - We have exhausted all possible legal remedies for this injustice. `[例]`
+>   - 中译：对于这种不公正现象，我们已用尽所有可能的法律补救措施。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/remedy
+> - You can buy most cold remedies over the counter. `[例]`
+>   - 中译：您可以在柜台购买大多数感冒药。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/remedy
 
 ---
 

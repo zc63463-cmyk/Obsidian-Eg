@@ -126,9 +126,15 @@ con-(=com-, 完全/彻底) + [[vinc-vict|vict]](=conquer, 征服，拉丁语 *vi
 ## 真题/语料关联
 
 > [!example]- 语料
-> - He was able to say with conviction that he had changed. `[COCA-FIC]`
-> - The students possess the conviction that they can make a difference to their community. `[COCA-ACAD]`
-> - It was a reasonable explanation, but his voice lacked conviction. `[COCA-FIC]`
+> - He plans to appeal against his conviction. `[例]`
+>   - 中译：他计划对他的定罪提出上诉。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/conviction
+> - She has six previous convictions for theft. `[例]`
+>   - 中译：她此前曾因盗窃被定罪六次。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/conviction
+> - She was motivated by deep religious conviction. `[例]`
+>   - 中译：她的动力来自于深厚的宗教信仰。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/conviction
 
 
 ---

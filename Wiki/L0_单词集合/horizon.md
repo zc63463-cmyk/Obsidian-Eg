@@ -125,8 +125,15 @@ horizon 源自希腊语 horizōn（kyklos），意为"界定圆"，horizōn 意�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "According to the new school of scientists, technology is an overlooked force in expanding the horizons of scientific knowledge."（新学派科学家们认为，在拓展科学知识的范围方面，技术是一种被忽视的力量。）——1994年翻译
-> - "She wanted to travel to broaden her horizons."（她想旅行，以开阔眼界。）——考研高频表达
+> - We could see a row of camels silhouetted on the horizon. `[例]`
+>   - 中译：我们可以看到地平线上有一排骆驼的轮廓。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/horizon
+> - Do you think those are rain clouds on the horizon? `[例]`
+>   - 中译：你认为那些是地平线上的雨云吗？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/horizon
+> - Here, too, the threat of unemployment has been looming on the horizon. `[例]`
+>   - 中译：在这里，失业的威胁也已经迫在眉睫。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/horizon
 ---
 
 

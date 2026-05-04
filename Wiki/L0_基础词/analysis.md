@@ -131,9 +131,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - For example, AI can be used to analyse what type of advertising content or copy would be appropriate to 'speak' to a specific target customer group by revealing information about trends and preferences through the analysis of big data. ( 46) AI can also be used to identify the lifestyle choices of customers regarding their hobbies, favourite celebrities, music choices, and fashions to provide unique content in marketing messages put out through social media. `[真题]`
-> - Our financial experts conducted an independent analysis of the investment plan's performance . `[例]`
-> - I was interested in Clare's analysis of the situation . `[例]`
+> - Further analysis revealed significant regional variations in the results. `[例]`
+>   - 中译：进一步的分析显示结果存在显着的区域差异。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/analysis
+> - We made the decision based on our analysis of the situation. `[例]`
+>   - 中译：我们根据对情况的分析做出了决定。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/analysis
+> - The blood samples are sent to the laboratory for analysis. `[例]`
+>   - 中译：血液样本被送往实验室进行分析。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/analysis
 
 
 ---

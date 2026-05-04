@@ -127,9 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - On one of the clinic's walls is a mosaic depicting a woman and child wearing traditional clothing . `[例]`
-> - Mosaic is an ancient art form which can be used to brighten up a corner of your garden . `[例]`
-> - The " island " of Venice is actually a mosaic of 118 tiny islands . `[例]`
+> - On one of the clinic's walls is a mosaic depicting a woman and child wearing traditional clothing. `[例]`
+> - Mosaic is an ancient art form which can be used to brighten up a corner of your garden. `[例]`
+> - The " island " of Venice is actually a mosaic of 118 tiny islands. `[例]`
 
 
 ---

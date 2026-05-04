@@ -138,7 +138,7 @@ pin 源自古英语 *pinn*（钉子、销子），可能源自拉丁语 *pinna*�
 > [!example]- 语料
 > - I'll keep the trouser patch in place with pins while I sew it on. `[例]`
 > - Doctors inserted a metal pin in his leg to hold the bones together. `[例]`
-> - Two pins were left standing but they were far apart . `[例]`
+> - Two pins were left standing but they were far apart. `[例]`
 
 
 ---

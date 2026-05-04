@@ -131,11 +131,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The strike has virtually paralysed the island." `` `[COCA-NEWS]` ``
-> - "She stood there, paralysed with fear." `` `[COCA-FICT]` ``
-> - "He was suddenly paralysed by fear." `` `[COCA-FICT]` ``
-> - "The airport is still paralysed by the strike." `` `[COCA-NEWS]` ``
-> - "The disease paralysed his left side." `` `[COCA-ACAD]` ``
+> - The drug paralyses the nerves so that there is no feeling or movement in the legs. `[例]`
+>   - 中译：这种药物麻痹神经，使腿部没有感觉或运动。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/paralyse
+> - A sudden snowstorm paralysed the city. `[例]`
+>   - 中译：一场突如其来的暴风雪使这座城市陷入瘫痪。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/paralyse
+> - The accident left him paralysed from the waist down. `[例]`
+>   - 中译：这次事故使他腰部以下瘫痪。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/paralyse
 
 ---
 

@@ -128,9 +128,15 @@ organ(器官/工具) + -ic(形容词后缀，表"…的")
 ## 真题/语料关联
 
 > [!example]- 语料
-> - A quarter of the contents of an average family's dustbin is organic matter . `[例]`
-> - Our policies are organic. They change as situations change . `[例]`
-> - His television career was an organic development from the endless sketches he used to enact with his best friend from school . `[例]`
+> - Cheap organic food is still difficult to come by. `[例]`
+>   - 中译：廉价的有机食品仍然很难买到。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/organic
+> - These organic olives are packaged in recycled glass containers. `[例]`
+>   - 中译：这些有机橄榄被包装在回收的玻璃容器中。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/organic
+> - Supermarkets have recognized the increasing popularity of organic food. `[例]`
+>   - 中译：超市已经认识到有机食品越来越受欢迎。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/organic
 
 ---
 

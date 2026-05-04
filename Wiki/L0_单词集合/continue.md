@@ -135,9 +135,15 @@ con-(=together, 一直) + [[tin]](=hold/keep, 保持) → 一直保持→继续�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Despite the economic downturn, the company continued to invest heavily in research and development. `[COCA-ACAD]`
-> - The debate over whether university education should be free continues to attract public attention. `[COCA-ACAD]`
-> - Please continue with your work and ignore the interruption. `[例]`
+> - It's said that as the boat went down the band continued to play. `[例]`
+>   - 中译：据说船沉下去时乐队还在继续演奏。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/continue
+> - If she continues drink ing like that, I'll have to carry her home. `[例]`
+>   - 中译：如果她再这样喝酒，我就得背她回家了。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/continue
+> - Do you intend to continue (with) your studies? `[例]`
+>   - 中译：您打算继续学习吗？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/continue
 ---
 
 

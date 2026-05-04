@@ -131,7 +131,7 @@ review_count: 0
 
 > [!example]- 语料
 > - We thumbed a lift to London. `[例]`
-> - He has thumbed his nose at authority all his life . `[例]`
+> - He has thumbed his nose at authority all his life. `[例]`
 > - How did you cut your thumb? `[例]`
 
 

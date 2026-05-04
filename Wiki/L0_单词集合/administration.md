@@ -123,8 +123,15 @@ ad-(=to, toward, 向、朝) + [[ministr]](=serve, minister, 服务、协助) + -
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The administration of the university is responsible for student welfare."（大学行政部门负责学生的福利。）——考研高频表达
-> - "The new administration has promised to reform the healthcare system."（新政府已承诺改革医疗体系。）——考研高频表达
+> - Teachers complain that more of their time is taken up with administration than with teaching. `[例]`
+>   - 中译：教师们抱怨说，他们花在管理上的时间比花在教学上的时间还要多。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/administration
+> - Reputable charities spend the lion's share of donations on aid and a tiny fraction on administration. `[例]`
+>   - 中译：信誉良好的慈善机构将大部分捐款用于援助，一小部分用于行政管理。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/administration
+> - Eastern Slavonia was temporarily put under U.N. administration. `[例]`
+>   - 中译：东斯拉沃尼亚暂时置于联合国管理之下。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/administration
 
 ---
 

@@ -133,9 +133,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She's trying to build up a portfolio of work to show during job interviews . `[例]`
+> - She's trying to build up a portfolio of work to show during job interviews. `[例]`
 > - The prime minister offered her the foreign affairs portfolio. `[例]`
-> - He knows that life will not be simple when he takes up his post as minister without portfolio in the cabinet . `[例]`
+> - He knows that life will not be simple when he takes up his post as minister without portfolio in the cabinet. `[例]`
 
 
 ---

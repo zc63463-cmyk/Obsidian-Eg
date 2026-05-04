@@ -131,9 +131,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - For questions 41-45, you are required to reorganize these paragraphs into a coherent text by choosing from the list A-H and filHng them into the numbered boxes. `[真题]`
-> - When she calmed down, she was more coherent (= able to speak clearly and be understood ) . `[例]`
-> - The president has not presented a coherent plan for dealing with it. `[例]`
+> - She only became coherent again two hours after the attack. `[例]`
+>   - 中译：袭击发生两小时后，她才恢复了理智。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/coherent
+> - You're not being very coherent. `[例]`
+>   - 中译：你说话不太连贯。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/coherent
+> - He is without a political agenda as he is without a coherent moral sensibility. `[例]`
+>   - 中译：他没有政治议程，就像他没有连贯的道德敏感性一样。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/coherent
 
 
 ---

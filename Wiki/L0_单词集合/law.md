@@ -139,10 +139,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "No one is above the law." `[COCA]`
-> - "The bill will become law at the beginning of the year." `[COCA-ACAD]`
-> - "Schools are required by law to provide a safe learning environment." `[COCA-ACAD]`
-> - "She has proposed a new law to protect people from being evicted unfairly." `[COCA]`
+> - Grant signed an act into law that established Yellowstone as the world's first national park. `[真题]`
+>   - 中译：格兰特签署了一项法律，将黄石公园确立为世界上第一个国家公园。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - There are laws against drinking in the street. `[例]`
+>   - 中译：有法律禁止在街上喝酒。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/law
+> - The laws governing the possession of firearms are being reviewed. `[例]`
+>   - 中译：目前正在审查有关拥有枪支的法律。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/law
 
 ---
 

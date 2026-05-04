@@ -130,9 +130,15 @@ archi-（首席的，主要的）+ [[fac]]（tect，建造者，与 fac "制造"
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The American-born architect Robert Venturi concluded that if simplicity is done badly, the result is soulless design. `[考研-阅读]`
-> - Wang Shu, a 49-year-old Chinese architect, won the 2012 Pritzker Architecture Prize. `[例]`
-> - She is widely regarded as the architect of the country's economic reform. `[例]`
+> - Bevan was the architect of the British National Health Service. `[例]`
+>   - 中译：贝文是英国国家医疗服务体系的设计师。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/architect
+> - After years of study , Tim is now a fully-fledged architect. `[例]`
+>   - 中译：经过多年的学习，蒂姆现在是一名成熟的建筑师。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/architect
+> - The architect has quoted £10,000 to build an extension. `[例]`
+>   - 中译：建筑师报价为 10,000 英镑来建造扩建工程。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/architect
 ---
 
 

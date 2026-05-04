@@ -3,10 +3,8 @@ title: "proliferate"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-25
-mastery: L0
 word_freq: 超纲词
 semantic_field: 自然物理
 prototype: 繁殖增生（像细胞一样快速增多）
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**像细胞一样快速繁殖**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **快速繁殖**（生物层面）
@@ -64,7 +62,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > proliferate 来自"产生后代"（proles + ferre）。想象一个细胞分裂成两个，两个变成四个——proliferate。核武器 proliferate 就是核扩散——越来越多国家拥有核武器。社交媒体时代，假新闻 proliferate——假新闻爆炸式扩散。
@@ -86,7 +84,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +98,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[diminish]]：减少（proliferate 的反义：激增↔减少）
 - [[decline]]：下降（proliferate 的反义）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,25 +115,19 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **nuclear proliferation**：核扩散
 > - **proliferate rapidly**：快速激增
 > - **proliferating number of**：日益增多的
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - "The proliferation of social media platforms has fundamentally changed how people communicate."（社交媒体平台的激增从根本上改变了人们的沟通方式。）
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-25 | **复习次数**：0 | **当前等级**：L0
-
----
+> [!example]- 语料
+> - The hikers rested under a towering proliferate near the coastal trail. `[例]`
+> - The cabin was built from durable proliferate gathered in the region. `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

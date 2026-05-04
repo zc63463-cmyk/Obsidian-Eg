@@ -127,9 +127,15 @@ ap-（=ad-，向，朝向）+ point（点，来自拉丁语 *punctum*）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The president appointed a new committee to investigate the scandal. `[例]`
-> - She was appointed as the head of the research department last month. `[例]`
-> - They appointed Friday as the deadline for submitting the report. `[例]`
+> - We've appointed three new teachers this year. `[例]`
+>   - 中译：今年我们任命了三名新老师。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/appoint
+> - He's just been appointed (as) director of the publishing division. `[例]`
+>   - 中译：他刚刚被任命为​​出版部总监。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/appoint
+> - A commission has just been appointed to investigate fraud claims. `[例]`
+>   - 中译：刚刚任命了一个委员会来调查欺诈指控。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/appoint
 
 ---
 

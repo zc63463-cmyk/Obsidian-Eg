@@ -133,10 +133,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Regular physical exercise has been shown to be beneficial to both physical and mental health. `[COCA-ACAD]`
-> - The two nations reached a mutually beneficial agreement on trade and environmental cooperation. `[COCA-ACAD]`
-> - A balanced diet is highly beneficial for maintaining a healthy immune system. `[例]`
-> - The beneficial effects of early childhood education programs extend well into adulthood. `[例]`
+> - A stay in the country will be beneficial to his health. `[例]`
+>   - 中译：留在国内对他的健康有益。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/beneficial
+> - The psychiatric team decided that it would not be beneficial to keep her in hospital. `[例]`
+>   - 中译：精神科小组认为将她留在医院没有什么好处。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/beneficial
+> - Breast-feeding is extremely beneficial to the health of newborn babies. `[例]`
+>   - 中译：母乳喂养对新生婴儿的健康极其有益。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/beneficial
 
 ---
 

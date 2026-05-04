@@ -128,10 +128,15 @@ peri-(周围/环绕) + od(道路/走，与 [[ced-cess]] 行走同源)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The company experienced rapid growth over a short period of time. `[COCA-ACAD]`
-> - During the period of economic recession, unemployment rates soared dramatically. `[COCA-ACAD]`
-> - The country is going through a difficult period of transition. `[COCA-NEWS]`
-> - Neanderthals also became extinct during this period. `[COCA-ACAD]`
+> - Her work means that she spends long periods away from home. `[例]`
+>   - 中译：她的工作意味着她要长时间离开家。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/period
+> - Unemployment in the first half of the year was 2.5 percent lower than in the same period the year before. `[例]`
+>   - 中译：上半年失业率比去年同期下降2.5%。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/period
+> - In a period of two years , there have been five sets of redundancies. `[例]`
+>   - 中译：两年内，已经进行了五次裁员。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/period
 
 ---
 

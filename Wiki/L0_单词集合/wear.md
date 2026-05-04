@@ -144,10 +144,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Tracey is wearing a simple black dress . `[例]`
-> - What are you wearing to Caroline's wedding ? `[例]`
-> - Some musicians don't like to wear rings when they're playing . `[例]`
-> - He wears glasses for reading . `[例]`
+> - He was wearing a new suit. `[例]`
+>   - 中译：他穿着一套新西装。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/wear
+> - Do I have to wear a tie? `[例]`
+>   - 中译：我必须打领带吗？
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/wear
+> - Was she wearing a seat belt? `[例]`
+>   - 中译：她系安全带了吗？
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/wear
 
 ---
 

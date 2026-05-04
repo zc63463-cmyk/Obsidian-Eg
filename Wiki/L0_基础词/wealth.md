@@ -128,9 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "If ambition is to be well regarded, the rewards of ambition — wealth, distinction, control over one's destiny — must be deemed worthy of the sacrifices made on ambition's behalf." `[真题]`
-> - "The current account balance influences the national wealth and the capital stock of the economy." `[真题]`
-> - "She has a wealth of experience in teaching young children." `[真题]`
+> - If ambition is to be well regarded, the rewards of ambition — wealth, distinction, control over one's destiny — must be deemed worthy of the sacrifices made on ambition's behalf. `[真题]`
+> - The current account balance influences the national wealth and the capital stock of the economy. `[真题]`
+> - She has a wealth of experience in teaching young children. `[真题]`
 
 
 ---

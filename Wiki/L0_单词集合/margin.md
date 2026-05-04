@@ -137,10 +137,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - There is no `margin` for error -- it has got to work the first time. `[COCA-ACAD]`
-> - The poll had a `margin` of error of plus or minus 4%. `[COCA-ACAD]`
-> - The company's profit `margins` have been shrinking steadily over the past decade. `[COCA-ACAD]`
-> - She won the election by a narrow `margin`. `[真题]`
+> - The poll shows that the government is leading by the narrowest of margins. `[例]`
+>   - 中译：民意调查显示，政府以微弱优势领先。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/margin
+> - The election was won by the very narrow margin of only 185 votes. `[例]`
+>   - 中译：这次选举仅以 185 票的微弱优势获胜。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/margin
+> - The Democrats are ahead by a very narrow margin. `[例]`
+>   - 中译：民主党以微弱优势领先。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/margin
 
 ---
 

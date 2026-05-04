@@ -129,8 +129,8 @@ pray(祈祷/恳求，拉丁语 *precari*)
 
 > [!example]- 语料
 > - Big-name PRH authors may suffer a bit, but it's those mid-list authors, who normally rely on Waterstones staff's passion for promoting books by lesser-known writers, who will be praying for an end to the dispute. `[真题]`
-> - She knelt and prayed silently . `[例]`
-> - Let us pray for the victims of this terrible disaster . `[例]`
+> - She knelt and prayed silently. `[例]`
+> - Let us pray for the victims of this terrible disaster. `[例]`
 
 
 ---

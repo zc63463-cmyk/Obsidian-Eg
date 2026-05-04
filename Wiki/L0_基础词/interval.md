@@ -127,10 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Buses run at regular intervals throughout the day. ` `[真题]`
-> - The gardeners planted the trees at regular intervals along the path. ` `[语料库]`
-> - There was a short interval between the two meetings. ` `[真题]`
-> - Boats depart at regular intervals throughout the day and into the early evening. ` `[语料库]`
+> - During peak hours , the bus will run at 10-minute intervals. `[例]`
+> - The tests should be repeated at six-week intervals. `[例]`
+> - In the event of fire , the alarm will sound at intervals of 15 seconds. `[例]`
 
 
 ---

@@ -133,7 +133,7 @@ re-(=back，回) + [[lev|lief/lieve]](轻，拉丁语 *levare*，举起/减轻)
 > [!example]- 语料
 > - To the anxious travelers the sight of the American shore brought almost inexpressible relief. `[真题]`
 > - Some have breathed sighs of relief, others, including churches, right-to-life groups and the Australian Medical Association, bitterly attacked the bill. `[真题]`
-> - The news of his safety was a great relief to his family. `[权威语料]`
+> - The news of his safety was a great relief to his family. `[例]`
 
 
 ---

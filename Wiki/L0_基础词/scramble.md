@@ -140,10 +140,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "More than three million fans are expected to scramble for tickets." `[真题]`
-> - "People are scrambling to buy property before prices rise even further." `[语料库]`
-> - "We scrambled up the hill." `[语料库]`
-> - "A fight broke out in the crowd, causing people to scramble for the exits." `[语料库]`
+> - More than three million fans are expected to scramble for tickets. `[真题]`
+> - People are scrambling to buy property before prices rise even further. `[例]`
+> - We scrambled up the hill. `[例]`
+> - A fight broke out in the crowd, causing people to scramble for the exits. `[例]`
 
 
 ---

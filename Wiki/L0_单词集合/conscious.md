@@ -137,9 +137,15 @@ con-(=together, 完全/共同) + [[sci]](=know, 知道) + -ous(形容词后缀) 
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Consumers are becoming increasingly conscious of the environmental impact of their purchasing decisions." `[真题]`
-> - "She made a conscious effort to improve her communication skills before the job interview." `[真题]`
-> - "He was barely conscious after the accident and could not remember what had happened." `[COCA-ACAD]`
+> - My tooth doesn't exactly hurt , but I'm conscious of it (= I can feel it) all the time. `[例]`
+>   - 中译：我的牙齿并没有完全痛，但我一直能意识到它（=我能感觉到它）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/conscious
+> - He's still conscious but he's very badly injured. `[例]`
+>   - 中译：他还有意识，但伤势很重。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/conscious
+> - She's out of the operating theatre , but she's not fully conscious yet. `[例]`
+>   - 中译：她已经出了手术室，但意识还没有完全清醒。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/conscious
 ---
 
 

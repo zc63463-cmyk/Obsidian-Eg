@@ -135,10 +135,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "One of the main reasons I came to England was to study the language." `[COCA-SPOKEN]`
-> - "In the main, the government's economic policies have been effective in reducing unemployment rates." `[COCA-ACAD]`
-> - "Our main aim is to improve the company's productivity." `[COCA-ACAD]`
-> - "The main reason for the decline in traditional bookstores is the rapid growth of online shopping and e-books." `[例]`
+> - One of the main reasons I came to England was to study the language. `[COCA-SPOKEN]`
+> - In the main, the government's economic policies have been effective in reducing unemployment rates. `[COCA-ACAD]`
+> - Our main aim is to improve the company's productivity. `[COCA-ACAD]`
+> - The main reason for the decline in traditional bookstores is the rapid growth of online shopping and e-books. `[例]`
 
 
 ---

@@ -140,9 +140,15 @@ set ← 古英语 settan（使坐、放置）← 原始日耳曼语 *satjan（�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - `The government has set strict limits on carbon emissions.` `[真题]`
-> - `A clear set of rules and regulations is essential for any organization.` `[COCA-ACAD]`
-> - `The code prohibits child labor and sets out standards for time off and safe working conditions.` `[COCA-ACAD]`
+> - Glenn Branch, the centre's deputy director, cautions that setting state-level science standards is only one limited benchmark in a country that decentralises decisions to local school bo.ards. `[真题]`
+>   - 中译：该中心副主任格伦·布兰奇（Glenn Branch）警告说，在一个将决策权力下放给地方学校董事会的国家，制定国家级科学标准只是一个有限的基准。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - He set a vase of flowers on the table. `[例]`
+>   - 中译：他把一瓶鲜花放在桌子上。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/set
+> - The campsite is set in the middle of a pine forest. `[例]`
+>   - 中译：露营地坐落在一片松树林中。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/set
 
 ---
 

@@ -127,7 +127,7 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Our splendid weather ended with a terrible storm . `[例]`
+> - Our splendid weather ended with a terrible storm. `[例]`
 > - The splendid old opera house was torn down. `[例]`
 > - The hotel stands in splendid isolation , surrounded by moorland. `[例]`
 

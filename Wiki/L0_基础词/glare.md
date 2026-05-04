@@ -130,9 +130,9 @@ gl-（光/视觉词根，印欧语系 *ghel-* "发光"）+ -are（动词后缀�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Living in a glare of our making, we have cut ourselves off from our evolutionary and cultural heritage—the light of the stars and the rhythms of day and night." `[真题]`
-> - "The most glaring flaw of the social cure as it's presented here is that it doesn't work very well for very long." `[真题]`
-> - "He glared at me for a few seconds and nodded, the fierce expression still on his face." `[真题]`
+> - Living in a glare of our making, we have cut ourselves off from our evolutionary and cultural heritage—the light of the stars and the rhythms of day and night. `[真题]`
+> - The most glaring flaw of the social cure as it's presented here is that it doesn't work very well for very long. `[真题]`
+> - He glared at me for a few seconds and nodded, the fierce expression still on his face. `[真题]`
 
 
 ---

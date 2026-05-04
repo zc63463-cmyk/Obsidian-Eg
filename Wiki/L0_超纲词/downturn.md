@@ -3,10 +3,8 @@ title: "downturn"
 tags:
   - 学习/英语/词汇
   - 语义场/资本经济
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 资本经济
 prototype: 向下转（经济/趋势向坏的方向转变）
@@ -43,7 +41,7 @@ down-(向下) + turn(转向) → 向下转 → 衰退
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以“**向下转（经济/趋势向坏的方向转变）**”为统筹中心，沿时间路径向外扩展：
 >
 > 1. **向下转**（方向层面）
@@ -64,7 +62,7 @@ down-(向下) + turn(转向) → 向下转 → 衰退
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ down-(向下) + turn(转向) → 向下转 → 衰退
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > down（向下）+ turn（转）→ 向下转 → 衰退。upturn 是向上转（好转），downturn 是向下转（衰退）。经济 downturn = 经济衰退。
@@ -86,7 +84,7 @@ down-(向下) + turn(转向) → 向下转 → 衰退
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,14 +97,14 @@ down-(向下) + turn(转向) → 向下转 → 衰退
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[upturn]]：好转，上升（downturn 的反义：衰退↔好转）
 > - [[recovery]]：复苏（downturn 的反义：衰退↔复苏）
 > - [[boom]]：繁荣（downturn 的反义：衰退↔繁荣）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -115,27 +113,20 @@ down-(向下) + turn(转向) → 向下转 → 衰退
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **economic downturn**：经济衰退
 > - **market downturn**：市场低迷
 > - **during the downturn**：在衰退期间
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - Many businesses struggled to survive the economic downturn. `[例]`
 > - The housing market downturn led to a sharp decline in property prices. `[例]`
 > - Small businesses are particularly vulnerable during a market downturn. `[例]`
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
-
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

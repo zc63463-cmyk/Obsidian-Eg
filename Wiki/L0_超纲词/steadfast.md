@@ -3,10 +3,8 @@ title: "steadfast"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-25
-mastery: L0
 word_freq: 超纲词
 semantic_field: 人本世界
 prototype: 站得稳稳的（不动摇）
@@ -43,7 +41,7 @@ stead（位置，站立处）+ fast（牢固的，快的→此处取"牢固"义�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**站得稳稳的（不动摇）**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **站得稳稳的**（物理层面）
@@ -64,7 +62,7 @@ stead（位置，站立处）+ fast（牢固的，快的→此处取"牢固"义�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ stead（位置，站立处）+ fast（牢固的，快的→此处取"牢固"义�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > stead（站立处）+ fast（牢牢地）= steadfast。想象一棵大树在暴风雨中 steadfast——根牢牢扎在土里，枝叶虽摇但主干不动。人也是一样，steadfast in faith（信仰坚定），steadfast in love（爱情忠贞）。
@@ -86,7 +84,7 @@ stead（位置，站立处）+ fast（牢固的，快的→此处取"牢固"义�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ stead（位置，站立处）+ fast（牢固的，快的→此处取"牢固"义�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[wavering]]：动摇的（steadfast 的反义：坚定↔动摇）
 > - [[fickle]]：善变的（steadfast 的反义：忠实↔善变）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -116,7 +114,7 @@ stead（位置，站立处）+ fast（牢固的，快的→此处取"牢固"义�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **steadfast in one's belief/commitment**：信念/承诺坚定
 > - **steadfast friend**：忠实的朋友
 > - **steadfast loyalty**：坚定不移的忠诚
@@ -124,19 +122,12 @@ stead（位置，站立处）+ fast（牢固的，快的→此处取"牢固"义�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - The group remained steadfast in its support for the new system , even when it was criticized in the newspapers . `[例]`
+> [!example]- 语料
+> - The group remained steadfast in its support for the new system , even when it was criticized in the newspapers. `[例]`
 > - He remained steadfast in his determination to bring the killers to justice. `[例]`
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-25 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -124,10 +124,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "No sane person would make such a reckless decision." `[真题]`
-> - "She struggled to keep her sanity during the long period of isolation." `[真题]`
-> - "He seems perfectly sane to me." `[权威语料]`
-> - "Leaving was the only sane option she had." `[权威语料]`
+> - No sane person would make such a reckless decision. `[真题]`
+> - The company adopted a sane approach to improve efficiency. `[真题]`
+> - He seems perfectly sane to me. `[例]`
+> - Leaving was the only sane option she had. `[例]`
 
 
 ---

@@ -139,9 +139,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - My way of thinking might be different from yours, but it's equally valid. `[例]`
-> - My passport is valid for another two years . `[例]`
-> - The money was gone, and the only valid conclusion was that someone had stolen it. `[例]`
+> - Do you have a valid passport? `[例]`
+>   - 中译：您有有效护照吗？
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/valid
+> - He bought a bus pass valid for one month. `[例]`
+>   - 中译：他买了一张有效期为一个月的公共汽车通行证。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/valid
+> - They have a valid claim to compensation. `[例]`
+>   - 中译：他们有有效的赔偿要求。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/valid
 
 ---
 

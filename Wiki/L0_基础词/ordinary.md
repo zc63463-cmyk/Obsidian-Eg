@@ -133,8 +133,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Readers of the magazine said they wanted more stories about ordinary people and fewer stories about the rich and famous . `[例]`
-> - Her last concert appearance was no ordinary (= a very special ) performance . `[例]`
+> - Readers of the magazine said they wanted more stories about ordinary people and fewer stories about the rich and famous. `[例]`
+> - Her last concert appearance was no ordinary (= a very special ) performance. `[例]`
 > - If we hadn't seen the TV programme , we would have carried on giving money to the charity in the ordinary way. `[例]`
 
 

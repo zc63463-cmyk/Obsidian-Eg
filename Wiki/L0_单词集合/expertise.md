@@ -122,8 +122,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "And the scientist in Boston will be able to call on the expertise of the scientist in Shanghai, and all of it in a matter of seconds."（在波士顿的科学家将能够借助上海科学家的专业知识，而这一切只需几秒钟——考研高频表达）
-> - "We need to tap the expertise of the people we already have."（我们需要利用我们现有人员的专业知识——考研高频表达）
+> - We admired the expertise with which he prepared the meal. `[例]`
+>   - 中译：我们钦佩他准备饭菜的专业知识。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/expertise
+> - I have no expertise in sewing. `[例]`
+>   - 中译：我没有缝纫方面的专业知识。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/expertise
+> - She has considerable expertise in French history. `[例]`
+>   - 中译：她在法国历史方面拥有丰富的专业知识。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/expertise
 
 
 ---

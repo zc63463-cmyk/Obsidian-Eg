@@ -129,10 +129,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She has not yet articulated her vision of why she wants to be governor. `[COCA-NEWS]`
-> - She is the most articulate and self-possessed member of her family. `[COCA-FIC]`
-> - You need to articulate clearly what you are trying to achieve. `[COCA-ACAD]`
-> - The president has been accused of failing to articulate an overall vision in foreign affairs. `[COCA-NEWS]`
+> - She struggled to articulate her thoughts. `[例]`
+>   - 中译：她努力表达自己的想法。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/articulate
+> - It is the school’s duty to articulate its practices to parents. `[例]`
+>   - 中译：学校有责任向家长阐明其做法。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/articulate
+> - He was too weak to articulate properly. `[例]`
+>   - 中译：他太虚弱了，无法正确表达。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/articulate
 
 
 ---

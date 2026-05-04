@@ -119,9 +119,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - The parents made an emotional plea to their child's kidnappers. `[真题]`
-> > - The jury rejected his plea of insanity. `[COCA-NEWS]`
-> > - Three of the charges were dismissed in exchange for his guilty plea. `[COCA-NEWS]`
+> - The president has made an emotional plea for the killing to stop. `[例]`
+>   - 中译：总统激动地请求停止杀戮。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/plea
+> - Relatives of the dead made an impassioned plea for the bodies to be flown back to this country. `[例]`
+>   - 中译：死者亲属热切请求将尸体运回本国。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/plea
+> - The child's mother made a passionate plea for help. `[例]`
+>   - 中译：孩子的母亲热情地请求帮助。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/plea
 
 ---
 

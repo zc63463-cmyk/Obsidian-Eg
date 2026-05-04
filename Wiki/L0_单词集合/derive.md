@@ -122,9 +122,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The institute derives all its money from foreign investments . `[例]`
+> - The institute derives all its money from foreign investments. `[例]`
+>   - 中译：该研究所的所有资金均来自外国投资。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/derive
 > - The English word " olive " is derived from the Latin word "oliva". `[例]`
+>   - 中译：英语单词“olive”源自拉丁语单词“oliva”。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/derive
 > - Arabic lexicographers derive the word from kafara , " cover ". `[例]`
+>   - 中译：阿拉伯语词典编纂者将这个词源自kafara，意为“覆盖”。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/derive
 
 ---
 

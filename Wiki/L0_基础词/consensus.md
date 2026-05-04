@@ -126,8 +126,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "There is a growing consensus among scientists that climate change is primarily driven by human activities, particularly the burning of fossil fuels."（科学家之间日益达成共识，认为气候变化主要由人类活动驱动，尤其是化石燃料的燃烧——考研阅读环境话题相关表达）
-> - "After weeks of negotiation, the committee was finally able to reach a consensus on the proposed reforms to the education system."（经过数周的谈判，委员会终于在 proposed 教育体系改革方案上达成了共识——考研阅读教育话题相关表达）
+> - She is skilled at achieving consensus on sensitive issues. `[例]`
+>   - 中译：她擅长在敏感问题上达成共识。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/consensus
+> - There is a growing consensus of opinion on this issue. `[例]`
+>   - 中译：在这个问题上，人们的意见越来越一致。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/consensus
+> - There now exists a broad political consensus in favour of economic reform. `[例]`
+>   - 中译：现在存在支持经济改革的广泛政治共识。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/consensus
 
 
 ---

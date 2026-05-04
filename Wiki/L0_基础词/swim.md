@@ -124,8 +124,7 @@ review_count: 0
 > [!example]- 语料
 > - The numbers made my head swim. `[真题]`
 > - He learned to swim at the age of five. `[真题]`
-> - All these complicated instructions make my head swim. `[语料库]`
-> - On his first day, they gave him the project and left him to sink or swim. `[语料库]`
+> - All these complicated instructions make my head swim. `[例]`
 
 
 ---

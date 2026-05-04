@@ -121,9 +121,9 @@ jewellery = jewel（宝石）+ -lery（集合名词后缀，表示"……的集�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She wore a beautiful piece of jewellery on her wedding day." ` `[真题]`
-> - "The thief stole all the jewellery from the store." ` `[真题]`
-> - "They have started to deal in manufacturing and trading of imitation jewellery." ` `[语料库]`
+> - Thieves broke into her home and stole her jewellery box. `[例]`
+> - Women used to go out wearing gold jewellery and make-up , but no longer do so. `[例]`
+> - I took a course and learned to make silver jewellery. `[例]`
 
 
 ---

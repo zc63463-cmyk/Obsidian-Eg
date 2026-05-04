@@ -123,7 +123,7 @@ feud(封地，拉丁语 *feudum*) + -al(形容词后缀，表示"与……有关
 ## 真题/语料关联
 
 > [!example]- 语料
-> - In the feudal system , the king was at the top and the peasants were at the bottom . `[例]`
+> - In the feudal system , the king was at the top and the peasants were at the bottom. `[例]`
 > - Poison Ruïn have always seen more similarities than differences, especially for the people at the bottom of the feudal system. `[例]`
 > - Some accuse the family of gentrifying the town, or treating it like a kind of feudal society. `[例]`
 

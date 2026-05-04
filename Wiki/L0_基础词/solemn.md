@@ -131,7 +131,7 @@ review_count: 0
 > [!example]- 语料
 > - Everyone looked very solemn. `[例]`
 > - I'd made a solemn promise and I was determined to keep it. `[例]`
-> - He looked stern and solemn, and rarely spoke . `[例]`
+> - He looked stern and solemn, and rarely spoke. `[例]`
 
 
 ---

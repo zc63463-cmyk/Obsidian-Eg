@@ -134,8 +134,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Leading opponents of the proposed cuts in defence spending will meet later today. `[例]`
-> - In the second game , her opponent hurt her leg and had to retire . `[例]`
-> - Opponents of the project fear it will attract undesirables . `[例]`
+>   - 中译：拟议削减国防开支的主要反对者将于今天晚些时候举行会议。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/opponent
+> - In the second game , her opponent hurt her leg and had to retire. `[例]`
+>   - 中译：第二局，对手腿部受伤，不得不退赛。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/opponent
+> - She had a decided advantage over her opponent. `[例]`
+>   - 中译：她比对手有决定性的优势。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/opponent
 
 ---
 

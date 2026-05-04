@@ -124,9 +124,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - `The government has introduced new laws to regulate the sale of firearms.` [COCA-ACAD]
-> - `The switch is used to regulate the speed at which the machine operates.` [COCA-ACAD]
-> - `Congress has the power to regulate interstate commerce.` [COCA-ACAD]
+> - I think the question is, shouldn't a dev,eloper who's really building a hotel, but disguising it as not a hotel, be treated and taxed and regulated like a hotel?" Hom said. `[真题]`
+>   - 中译：我认为问题是，一个真正在建造酒店但又把它伪装成不是酒店的开发商，难道不应该像酒店一样受到对待、征税和监管吗？”霍姆说。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - For AI to be successful, data needs to be accessible, but the use of personal data is becoming more regulated and the automated sharing of data is becoming more difficult. ( 49 ) If customers are not willing to share data, AI will be starved of essential information and will not be able to function effectively or employ machine learning to improve its marketing content and communication. `[真题]`
+>   - 中译：人工智能要取得成功，数据需要可访问，但个人数据的使用变得更加规范，数据的自动共享也变得更加困难。 ( 49 ) 如果客户不愿意共享数据，人工智能将缺乏必要的信息，将无法有效运作或利用机器学习来改进其营销内容和沟通。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - You can regulate the temperature in the house by adjusting the thermostat. `[例]`
+>   - 中译：您可以通过调节恒温器来调节房屋内的温度。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/regulate
 
 ---
 

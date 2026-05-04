@@ -139,11 +139,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She hopes to qualify ( as a lawyer ) at the end of the year . `[例]`
-> - She doesn't qualify for maternity leave because she hasn't been in her job long enough. `[例]`
-> - To qualify for the competition you need to be over 18. `[例]`
-> - Nigeria was the first team to qualify for the World Cup. `[例]`
-> - England has to win tonight's qualifying match to advance to the next round of the competition . `[例]`
+> - She hopes to qualify ( as a lawyer ) at the end of the year. `[例]`
+>   - 中译：她希望在今年年底获得（律师）资格。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/qualify
+> - This course qualifies you to teach in any secondary school. `[例]`
+>   - 中译：本课程使您有资格在任何中学任教。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/qualify
+> - He qualified as a vet last year. `[例]`
+>   - 中译：他去年获得了兽医资格。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/qualify
 
 ---
 

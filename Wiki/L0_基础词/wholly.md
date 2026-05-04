@@ -121,7 +121,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The company is a wholly owned subsidiary of the parent group."（该公司是母集团的全资子公司。）
+> - I wasn't wholly convinced by her explanation. `[例]`
+> - That's a wholly different issue. `[例]`
+> - He was wholly unprepared for what he saw. `[例]`
 
 
 ---

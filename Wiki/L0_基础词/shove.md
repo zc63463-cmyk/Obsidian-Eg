@@ -133,9 +133,9 @@ shove（日耳曼语族原始词，与 shove/push 同源）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Reporters pushed and shoved as they tried to get close to the princess." `[剑桥词典]`
-> - "Just wait your turn — there's no need to shove." `[牛津词典]`
-> - "The police had to shove angry spectators out of the way as they led the murderer into the courthouse." `[外刊语料]`
+> - Reporters pushed and shoved as they tried to get close to the princess. `[例]`
+> - Just wait your turn — there's no need to shove. `[例]`
+> - The police had to shove angry spectators out of the way as they led the murderer into the courthouse. `[例]`
 
 
 ---

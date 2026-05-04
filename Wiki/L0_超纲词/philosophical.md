@@ -3,10 +3,8 @@ title: "philosophical"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-25
-mastery: L0
 word_freq: 超纲词
 semantic_field: 理性世界
 prototype: 与哲学相关的
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**与哲学相关的**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **哲学领域**（学术层面）
@@ -64,7 +62,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > philosophy（哲学=爱智慧）→ philosophical（哲学的）。philosophical question 就是"人生的意义是什么"这类问题。当你说 "I'm philosophical about it" 时，你的意思是"我看开了"——用哲学家的态度面对。philosophical 就是"像哲学家一样的"——无论是思考问题还是面对生活。
@@ -86,7 +84,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -98,13 +96,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[practical]]：实际的（philosophical"哲学的"的反义：理论↔实际）
 > - [[emotional]]：情绪化的（philosophical"达观的"的反义：理性↔情绪化）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -116,7 +114,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **philosophical question/debate**：哲学问题/辩论
 > - **philosophical about**：对……持达观态度
 > - **philosophical approach**：哲学方法
@@ -124,19 +122,12 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - Pragmatism is a philosophical theory . `[例]`
+> [!example]- 语料
+> - Pragmatism is a philosophical theory. `[例]`
 > - You just have to be philosophical about losing some games , because you can’t win them all. `[例]`
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-25 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

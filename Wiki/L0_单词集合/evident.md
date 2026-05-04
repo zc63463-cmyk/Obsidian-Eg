@@ -127,8 +127,15 @@ e-(向外) + [[vid|vid]](看) + -ent(形容词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It is evident that climate change poses a serious threat to human survival."（显而易见，气候变化对人类生存构成了严重威胁。）——考研高频表达
-> - "The evidence is evident that the policy has failed to achieve its intended goals."（证据清楚地表明，该政策未能实现其预期目标。）——考研高频表达
+> - The full extent of the damage only became evident the following morning. `[例]`
+>   - 中译：直到第二天早上，损坏的全部程度才变得明显。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/evident
+> - From the smell it was evident that the drains had been blocked for several days. `[例]`
+>   - 中译：从气味来看，下水道已经堵塞好几天了。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/evident
+> - Harry's courage during his illness was evident to everyone. `[例]`
+>   - 中译：哈里在生病期间的勇气是有目共睹的。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/evident
 
 ---
 

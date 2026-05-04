@@ -129,10 +129,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The number of students enrolled in online courses has doubled in the past five years." `[真题]`
-> - "The report found that the risk of heart disease doubles for people who smoke regularly." `[真题]`
-> - "Last year she suffered the double blow of losing her father and discovering that she had cancer." `[COCA-ACAD]`
-> - "Allow the loaves to rise until just about double in size." `[COCA-ACAD]`
+> - I ordered a double espresso (= two standard amounts in one cup ). `[例]`
+>   - 中译：我点了一杯双份浓缩咖啡（= 一杯两个标准量）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/double
+> - Go through the double doors and turn left. `[例]`
+>   - 中译：穿过双门并向左转。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/double
+> - The word " cool " has a double "o" in the middle. `[例]`
+>   - 中译：“cool”这个词中间有一个双“o”。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/double
 
 ---
 

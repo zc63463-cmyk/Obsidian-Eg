@@ -135,8 +135,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The discovery of the new element broke fresh ground in the field of chemistry."（这一新元素的发现开创了化学领域的新局面。）——考研高频表达
-> - "It is important to take regular breaks to maintain productivity and mental health."（定期休息对于保持生产力和心理健康很重要。）——考研高频表达
+> - Charles is always breaking things. `[例]`
+>   - 中译：查尔斯总是破坏东西。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/break
+> - We heard the sound of breaking glass. `[例]`
+>   - 中译：我们听到玻璃破碎的声音。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/break
+> - His mother scolded him for breaking her favourite vase. `[例]`
+>   - 中译：他母亲责备他打碎了她最喜欢的花瓶。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/break
 
 
 ---

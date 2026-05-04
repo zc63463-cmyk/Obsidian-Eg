@@ -125,9 +125,15 @@ com-(一起，词根 [[com]]) + oed(歌，来自希腊语 *ōidē*，与 ode 颂
 ## 真题/语料关联
 
 > [!example]- 语料
-> - His latest movie is described as a " romantic comedy". `[例]`
-> - The vicar's forgetting his lines in the middle of the speech provided some good comedy. `[例]`
-> - The novel is both a tender memoir and a comedy of manners . `[例]`
+> - He moved to Los Angeles to write comedy. `[例]`
+>   - 中译：他搬到洛杉矶写喜剧。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/comedy
+> - She went on to star in a hit comedy series. `[例]`
+>   - 中译：她继续主演一部热门喜剧系列剧。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/comedy
+> - His TV comedy shows ran during the 70s and 80s. `[例]`
+>   - 中译：他的电视喜剧节目在 70 年代和 80 年代播出。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/comedy
 
 
 ---

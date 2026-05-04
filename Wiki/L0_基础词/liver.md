@@ -119,8 +119,8 @@ review_count: 0
 
 > [!example]- 语料
 > - Symptoms of the disease include an enlarged spleen or liver. `[例]`
-> - Just the smell of liver cooking makes me gag . `[例]`
-> - It started off as cancer of the liver but it spread to other areas of the body . `[例]`
+> - Just the smell of liver cooking makes me gag. `[例]`
+> - It started off as cancer of the liver but it spread to other areas of the body. `[例]`
 
 
 ---

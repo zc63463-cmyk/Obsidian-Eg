@@ -138,10 +138,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "fight against racial discrimination"（与种族歧视作斗争）——考研阅读高频搭配，社会正义类话题
-> - "fight for equal rights"（为平等权利而奋斗）——政治/社会类阅读常见表达
-> - "fight a losing battle"（打一场注定失败的仗）——考研翻译/阅读常见习语
-> - "the fight against climate change"（应对气候变化的斗争）——环保类话题高频搭配
+> - Still, the decision was largely accepted-and Jackson's photos played a key role in the fight to protect the area. `[真题]`
+>   - 中译：尽管如此，这个决定还是被广泛接受了——杰克逊的照片在保护该地区的斗争中发挥了关键作用。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - There were children fighting in the playground. `[例]`
+>   - 中译：操场上有孩子们打架。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/fight
+> - He was spotted fighting with a photographer outside a nightclub. `[例]`
+>   - 中译：有人发现他在一家夜总会外与一名摄影师打架。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/fight
 
 ---
 

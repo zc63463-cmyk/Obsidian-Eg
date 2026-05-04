@@ -139,10 +139,15 @@ divid(分) + -ion(名词后缀，表示动作或结果) = division（分开的�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Economic, political and religious divisions still plague the country." `[COCA-ACAD]`
-> - "The division of labor is a key concept in economics." `[COCA-ACAD]`
-> - "People are tired of conflict and division." `[COCA-ACAD]`
-> - "These are the growth divisions of the company." `[COCA-ACAD]`
+> - The team plays in one of the lower divisions. `[例]`
+>   - 中译：该队在低级别联赛之一进行比赛。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/division
+> - The electronics division was split off into a freestanding company. `[例]`
+>   - 中译：电子部门被拆分为一家独立的公司。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/division
+> - He's just been appointed as director of the publishing division. `[例]`
+>   - 中译：他刚刚被任命为​​出版部总监。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/division
 
 ---
 

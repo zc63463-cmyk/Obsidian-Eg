@@ -121,9 +121,9 @@ funer-(=funus, 死亡/葬礼，拉丁语) + -al(名词/形容词后缀，"与…
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Thousands attended the funeral of the former president." `[真题]`
-> - "Seeing the body and attending the funeral are a way of saying goodbye and accepting the reality and finality of the death." `[语料库]`
-> - "The differences between a state funeral and a ceremonial funeral are largely symbolic." `[语料库]`
+> - Thousands attended the funeral of the former president. `[真题]`
+> - Seeing the body and attending the funeral are a way of saying goodbye and accepting the reality and finality of the death. `[例]`
+> - The differences between a state funeral and a ceremonial funeral are largely symbolic. `[例]`
 
 
 ---

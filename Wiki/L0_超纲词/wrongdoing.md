@@ -3,10 +3,8 @@ title: "wrongdoing"
 tags:
   - 学习/英语/词汇
   - 语义场/政治法律
-  - 掌握/L0
 aliases: []
 date: 2026-04-25
-mastery: L0
 word_freq: 超纲词
 semantic_field: 政治法律
 prototype: 做错的事
@@ -43,7 +41,7 @@ wrong（错误的，不正当的，古英语 *wrang*）+ doing（做，古英语
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**做错的事**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **做错的事**（行为层面）
@@ -64,7 +62,7 @@ wrong（错误的，不正当的，古英语 *wrang*）+ doing（做，古英语
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ wrong（错误的，不正当的，古英语 *wrang*）+ doing（做，古英语
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > wrong（错的）+ doing（做）= wrongdoing（做错的事）。想象一个天平——左边是 right doing（做正确的事），右边是 wrong doing（做错误的事）。当一位记者揭露了某公司的财务造假，他就是在 expose wrongdoing。这个词的构成如此直白，以至于你只需要记住：wrong（错）+ doing（做）= 做错了的事。
@@ -86,7 +84,7 @@ wrong（错误的，不正当的，古英语 *wrang*）+ doing（做，古英语
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,14 +97,14 @@ wrong（错误的，不正当的，古英语 *wrang*）+ doing（做，古英语
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[rightdoing]]：正确的行为（wrongdoing 的精确反义，但较少使用）
 > - [[virtue]]：美德，善行（wrongdoing 的反义：恶行↔善行）
 > - [[justice]]：正义（wrongdoing 的反义：不义↔正义）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,7 +116,7 @@ wrong（错误的，不正当的，古英语 *wrang*）+ doing（做，古英语
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **corporate wrongdoing**：企业不法行为
 > - **financial wrongdoing**：财务违法行为
 > - **expose wrongdoing**：揭露不法行为
@@ -127,19 +125,12 @@ wrong（错误的，不正当的，古英语 *wrang*）+ doing（做，古英语
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - She has strenuously denied any criminal wrongdoing. `[例]`
 > - Investigators found no evidence of wrongdoing. `[例]`
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-25 | **复习次数**：0 | **当前等级**：L0
-
----
-
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

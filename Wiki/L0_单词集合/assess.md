@@ -122,10 +122,15 @@ ad-(在旁边，同化为 as-) + [[sess|sess]](坐) → 坐在旁边观察 → �
 ## 真题/语料关联
 
 > [!example]- 语料
-> - It is difficult to assess the full impact of the new policy on the economy. `[真题]`
-> - According to research from Princeton University, people assess your competence, trustworthiness, and likeability in just a tenth of a second, solely based on the way you look. `[COCA-ACAD]`
-> - The damage caused by the storm was assessed at over two million dollars. `[COCA-NEWS]`
-> - Teachers use various methods to assess students' learning progress throughout the semester. `[例]`
+> - The insurers will need to assess the flood damage. `[例]`
+>   - 中译：保险公司需要评估洪水损失。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/assess
+> - Exams are not the only means of assessing a student's ability. `[例]`
+>   - 中译：考试并不是评估学生能力的唯一手段。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/assess
+> - It's too early to assess the long-term consequences of the two countries ' union. `[例]`
+>   - 中译：现在评估两国联盟的长期后果还为时过早。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/assess
 
 
 ---

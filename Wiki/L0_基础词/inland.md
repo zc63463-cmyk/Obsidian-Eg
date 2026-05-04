@@ -131,7 +131,7 @@ inland = in-(=into, 向内) + land(=land, 陆地)
 > [!example]- 语料
 > - Sea winds that blow inland from the west are warmed by a current of warm water that flows through the Pacific Ocean. `[真题]`
 > - The government has invested heavily in developing inland transport infrastructure to connect remote areas with major cities. `[真题]`
-> - Smaller ice shelves lose the ability to block inland glaciers from reaching the sea. `[权威语料]`
+> - Smaller ice shelves lose the ability to block inland glaciers from reaching the sea. `[例]`
 
 
 ---

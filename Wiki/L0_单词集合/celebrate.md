@@ -132,10 +132,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "People across the country gathered to celebrate the national holiday."（全国各地的人们聚集在一起庆祝国庆节）——节日话题
-> - "The novel celebrates the courage of ordinary people in extraordinary times."（这部小说赞美了非凡时期普通人的勇气）——文学话题
-> - "The couple celebrated their 50th wedding anniversary with a grand party."（这对夫妇举办了一场盛大的派对来庆祝他们的金婚纪念日）——生活话题
-> - "Her achievements are widely celebrated in the scientific community."（她的成就在科学界广受赞誉）——学术话题
+> - We always celebrate our wedding anniversary by going out to dinner. `[例]`
+>   - 中译：我们总是出去吃饭来庆祝结婚纪念日。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/celebrate
+> - If this plan works , we'll celebrate in style (= in a special way). `[例]`
+>   - 中译：如果这个计划成功，我们将以一种特殊的方式（=以一种特殊的方式）庆祝。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/celebrate
+> - We always celebrate our wedding anniversary with a bottle of champagne. `[例]`
+>   - 中译：我们总是用一瓶香槟来庆祝结婚纪念日。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/celebrate
 
 ---
 

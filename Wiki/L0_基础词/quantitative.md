@@ -125,9 +125,9 @@ quant（多少，拉丁语 *quantus*）+ -itative（形容词后缀，表示"与
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The study combines quantitative and qualitative methods to provide a comprehensive analysis. ` `[COCA-ACAD]` `
-> - A quantitative analysis of the data showed no significant difference between the two groups. ` `[COCA-ACAD]` `
-> - Much quantitative research is descriptive and seeks empirical generalisation. ` `[COCA-ACAD]` `
+> - The researchers proposed a quantitative solution to the problem. `[例]`
+> - The company adopted a quantitative approach to improve efficiency. `[例]`
+> - The plan offers a quantitative option for small organizations. `[例]`
 
 
 ---

@@ -131,9 +131,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The tunnel goes right underneath the city . `[例]`
-> - Underneath that shy exterior , she's actually a very warm person . `[例]`
-> - He was wearing a garish T-shirt underneath his shirt . `[例]`
+> - The tunnel goes right underneath the city. `[例]`
+> - Underneath that shy exterior , she's actually a very warm person. `[例]`
+> - He was wearing a garish T-shirt underneath his shirt. `[例]`
 
 
 ---

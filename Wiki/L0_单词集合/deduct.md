@@ -130,10 +130,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The player had points deducted from his score for arguing with the referee . `[例]`
-> - Money is deducted from your account each time your car passes through the toll booths . `[例]`
-> - Employers deduct the tax from employee salaries . `[例]`
-> - The company deducts $31.93 each week from my salary for health insurance . `[例]`
+> - The player had points deducted from his score for arguing with the referee. `[例]`
+>   - 中译：该球员因与裁判发生争执而被扣分。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/deduct
+> - Money is deducted from your account each time your car passes through the toll booths. `[例]`
+>   - 中译：每次您的汽车经过收费站时，都会从您的帐户中扣除费用。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/deduct
+> - Employers deduct the tax from employee salaries. `[例]`
+>   - 中译：雇主从雇员工资中扣除税款。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/deduct
 
 ---
 

@@ -131,10 +131,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - We'll buy you some shorts this weekend, but meanwhile you'll just have to wear your long pants. `` `[COCA-ACAD]` ``
-> - Meanwhile, the number of uninsured Americans has continued to rise. `` `[真题]` ``
-> - She stopped to take one last snapshot; meanwhile, back at the camp, cook had dinner ready and waiting. `` `[COCA-ACAD]` ``
-> - Meanwhile, critics argue that the policy could have unintended consequences. `` `[例]` ``
+> - Carl's starting college in September . Meanwhile, he's travelling around Europe. `[例]`
+>   - 中译：卡尔九月份开始上大学。与此同时，他正在欧洲各地旅行。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/meanwhile
+> - We'll buy you some shorts at the weekend , but meanwhile you'll just have to wear your long trousers. `[例]`
+>   - 中译：周末我们会给你买一些短裤，但同时你只需要穿长裤即可。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/meanwhile
+> - The boys are still getting the mats out so, meanwhile, let's do some warm-up exercises. `[例]`
+>   - 中译：孩子们还在收拾垫子，所以我们同时做一些热身运动。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/meanwhile
 
 ---
 

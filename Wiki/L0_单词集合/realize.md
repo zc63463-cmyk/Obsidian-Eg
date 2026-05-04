@@ -124,9 +124,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Many people do not realize the extent of the problem until it is too late. `[真题]`
-> - She realized that she had made a terrible mistake. `[真题]`
-> - He finally realized the scope of the problem. `[COCA-ACAD]`
+> - They didn't realize the danger they were in. `[例]`
+>   - 中译：他们没有意识到自己正处于危险之中。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/realize
+> - Do you realize (that) this is the third time you've forgotten ?" she said angrily. `[例]`
+>   - 中译：你知道这已经是你第三次忘记了吗？”她生气地说。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/realize
+> - I realize how difficult it's going to be, but we must try. `[例]`
+>   - 中译：我知道这将是多么困难，但我们必须尝试。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/realize
 
 ---
 

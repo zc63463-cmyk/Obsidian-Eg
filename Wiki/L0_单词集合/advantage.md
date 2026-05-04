@@ -129,8 +129,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - "The new technology gives the company a significant competitive advantage."（新技术使公司获得了显著的竞争优势。）——考研阅读真题
-> - "Taking advantage of every opportunity to learn is essential for career development."（利用每一个学习机会对职业发展至关重要。）——考研高频表达
+> - The advantage of booking tickets in advance is that you get better seats. `[例]`
+>   - 中译：提前订票的好处是可以获得更好的座位。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/advantage
+> - Despite the twin advantages of wealth and beauty , she did not have a happy life. `[例]`
+>   - 中译：尽管拥有财富和美貌的双重优势，她的生活却并不幸福。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/advantage
+> - It would be to your advantage (= it would improve the situation for you) to agree to his demands. `[例]`
+>   - 中译：同意他的要求对你有利（=这会改善你的情况）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/advantage
 
 ---
 

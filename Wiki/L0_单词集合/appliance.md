@@ -127,9 +127,15 @@ ap-（=ad-，向，朝向）+ 建议创建词根笔记 [[plic]]（折叠，施�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The kitchen is equipped with modern appliances. `[例]`
-> - These advances were the result of the intellectual appliance of science. `[例]`
-> - The store sells a wide range of household appliances at affordable prices. `[例]`
+> - We stock a wide range of domestic appliances, including fridges , freezers and dishwashers. `[例]`
+>   - 中译：我们备有各种家用电器，包括冰箱、冰柜和洗碗机。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/appliance
+> - We recommend that an engineer services your gas appliance annually. `[例]`
+>   - 中译：我们建议工程师每年为您的燃气设备提供维修服务。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/appliance
+> - Don't plug in an electrical appliance with wet hands - you could get an electric shock. `[例]`
+>   - 中译：不要用湿手插入电器——你可能会触电。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/appliance
 ---
 
 

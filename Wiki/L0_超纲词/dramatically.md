@@ -3,10 +3,8 @@ title: "dramatically"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 抽象关系
 prototype: 戏剧性地（像戏剧一样引人注目地变化）
@@ -43,7 +41,7 @@ drama（戏剧，源自希腊语 *drama*，"行动/表演"）+ -tic（形容词�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**戏剧性地（像戏剧一样引人注目地变化）**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **戏剧性地**（表演层面）
@@ -62,7 +60,7 @@ drama（戏剧，源自希腊语 *drama*，"行动/表演"）+ -tic（形容词�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ drama（戏剧，源自希腊语 *drama*，"行动/表演"）+ -tic（形容词�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > drama（戏剧）→ dramatically（戏剧性地）。想象一部电影里主角的命运突然大逆转——这种变化就是 changed dramatically。戏剧的特点就是变化剧烈、引人注目。
@@ -86,7 +84,7 @@ drama（戏剧，源自希腊语 *drama*，"行动/表演"）+ -tic（形容词�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ drama（戏剧，源自希腊语 *drama*，"行动/表演"）+ -tic（形容词�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[gradually]]：逐渐地（显著↔渐进）
 > - [[slightly]]：稍微地（剧烈↔轻微）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,7 +115,7 @@ drama（戏剧，源自希腊语 *drama*，"行动/表演"）+ -tic（形容词�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **change dramatically**：发生巨大变化
 > - **improve dramatically**：显著改善
 > - **increase/decrease dramatically**：急剧增加/减少
@@ -125,20 +123,13 @@ drama（戏剧，源自希腊语 *drama*，"行动/表演"）+ -tic（形容词�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - The company's profits improved dramatically after the new strategy was implemented. `[例]`
 > - Technology has changed dramatically over the past two decades. `[例]`
 > - The patient's condition deteriorated dramatically overnight. `[例]`
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
-
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

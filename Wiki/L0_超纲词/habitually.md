@@ -3,10 +3,8 @@ title: "habitually"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 人本世界
 prototype: 持有某种习惯（反复做某事的状态）
@@ -43,7 +41,7 @@ habit(=have/hold, 持有) + -ual(形容词后缀) + -ly(副词后缀)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**持有某种习惯**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **持有某种习惯**（行为层面）
@@ -62,7 +60,7 @@ habit(=have/hold, 持有) + -ual(形容词后缀) + -ly(副词后缀)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ habit(=have/hold, 持有) + -ual(形容词后缀) + -ly(副词后缀)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > [[hab]] 词根意为"拥有"。habit 是你"拥有"的行为模式，habitual 是"拥有习惯的"状态，habitually 就是"习惯性地"——你拥有什么习惯，就习惯性地做什么事。
@@ -86,7 +84,7 @@ habit(=have/hold, 持有) + -ual(形容词后缀) + -ly(副词后缀)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -98,13 +96,13 @@ habit(=have/hold, 持有) + -ual(形容词后缀) + -ly(副词后缀)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[occasionally]]：偶尔地（习惯性↔偶尔性）
 > - [[sporadically]]：零星地，断断续续地（习惯性↔不规律性）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,7 +117,7 @@ habit(=have/hold, 持有) + -ual(形容词后缀) + -ly(副词后缀)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **habitually late**：习惯性迟到
 > - **habitually lie**：习惯性说谎
 > - **habitually violent offenders**：惯常暴力犯罪者
@@ -127,19 +125,12 @@ habit(=have/hold, 持有) + -ual(形容词后缀) + -ly(副词后缀)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - There is something wrong with anyone who is so habitually rude . `[例]`
+> [!example]- 语料
+> - There is something wrong with anyone who is so habitually rude. `[例]`
 > - There were schools where more than half the students were habitually late. `[例]`
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

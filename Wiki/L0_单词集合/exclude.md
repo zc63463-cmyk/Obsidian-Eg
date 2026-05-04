@@ -132,8 +132,15 @@ ex-(向外，出) + clud/clus(关闭，关上)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "We should not exclude the possibility of negotiation."（我们不应该排除谈判的可能性。）——考研高频表达
-> - "She gets very upset if I exclude her from anything."（如果有什么事我将她排除在外，她就会非常难过。）——考研高频表达
+> - Women are still excluded from the club. `[例]`
+>   - 中译：女性仍然被排除在俱乐部之外。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/exclude
+> - Microbes must, as far as possible , be excluded from the room during an operation. `[例]`
+>   - 中译：手术期间必须尽可能将微生物排除在房间之外。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/exclude
+> - Tom has been excluded from school (= he is not allowed to go to school ) for bad behaviour. `[例]`
+>   - 中译：汤姆因行为不良而被学校开除（=他不被允许去上学）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/exclude
 ---
 
 

@@ -147,10 +147,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The publishing industry talks about diversity in terms of authors and staff but it also needs a plurality of ways of delivering intellectual contact, choice and different voices. `[真题]`
-> - The scientific community measures the quality of those papers in a number of ways, including the perceived quality of the journal ( as reflected by the title's impact factor) and the number of citations a specific paper accumulates. `[真题]`
-> - Over nearly four months , dozens of men made their way on horseback into Montana and traversed along the Yellowstone River and around Yellowstone Lake. `[真题]`
-> - Perhaps most importantly, the images provided documentary evidence that later made its way to government officials. `[真题]`
+> - I prefer to do things the easy way. `[例]`
+>   - 中译：我更喜欢以简单的方式做事。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/way
+> - I love him and I think he feels the same way. `[例]`
+>   - 中译：我爱他，我想他也有同样的感觉。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/way
+> - I'm sure we can find a way to make this work. `[例]`
+>   - 中译：我确信我们能够找到一种方法来实现这项工作。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/way
 
 ---
 

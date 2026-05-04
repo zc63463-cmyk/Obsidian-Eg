@@ -3,10 +3,8 @@ title: "expectancy"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 抽象关系
 prototype: 期待的状态（期望某事发生的心理状态）
@@ -43,7 +41,7 @@ ex-(向外/向前) + [[spect|spect]](看) + -ancy(名词后缀，表示状态/�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**期待的状态（期望某事发生的心理状态）**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **向前看**（视觉层面）
@@ -64,7 +62,7 @@ ex-(向外/向前) + [[spect|spect]](看) + -ancy(名词后缀，表示状态/�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ ex-(向外/向前) + [[spect|spect]](看) + -ancy(名词后缀，表示状态/�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > ex（向前）+ spect（看）+ ancy → expectancy。spect 是"看"的词根——inspect（检查=向内看）、respect（尊重=反复看）、spectator（观众=看的人）。expectancy 就是"向前看"——期待未来会发生什么。life expectancy 就是"向前看"能活多久——预期寿命。
@@ -88,7 +86,7 @@ ex-(向外/向前) + [[spect|spect]](看) + -ancy(名词后缀，表示状态/�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -98,12 +96,12 @@ ex-(向外/向前) + [[spect|spect]](看) + -ancy(名词后缀，表示状态/�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[disappointment]]：失望（期待↔失望）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -115,26 +113,19 @@ ex-(向外/向前) + [[spect|spect]](看) + -ancy(名词后缀，表示状态/�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **life expectancy**：预期寿命
 > - **public expectancy**：公众期望
 > - **expectancy of success**：对成功的期望
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - Life expectancy in Japan has risen steadily over the past few decades due to advances in healthcare. `[例]`
 > - The public's expectancy of a quick economic recovery proved to be overly optimistic. `[例]`
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
-
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

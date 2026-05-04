@@ -135,9 +135,9 @@ re-（反对，再次）+ bel（战争，=bellum）+ -ion（名词后缀，表�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The army was brought in to crush the rebellion. ` `[真题]`
-> - The government has brutally crushed the rebellion. ` `[真题]`
-> - Recent election losses have led to open rebellion among some party members, who are calling for a complete change of leadership. ` `[真题]`
+> - The government has brutally crushed the rebellion. `[例]`
+> - Many students were in rebellion against the older generation. `[例]`
+> - Some members are in rebellion against proposed cuts in spending. `[例]`
 
 
 ---

@@ -136,9 +136,15 @@ vers（转，turn）+ -ion（名词后缀，表示动作结果）= 翻转后的�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The official version of events is that the police were attacked and were just trying to defend themselves. `[例]`
-> - You can make a reduced fat version of the cheesecake by using cottage cheese instead of cream cheese . `[例]`
-> - An English-language version of the book is planned for next year . `[例]`
+> - There are two versions of the game, a long one and a short one. `[例]`
+>   - 中译：游戏有两个版本，长版和短版。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/version
+> - This amended version of the bill went to the Senate. `[例]`
+>   - 中译：该法案的修订版本已提交参议院。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/version
+> - I've only played the version for PC. `[例]`
+>   - 中译：我只玩过PC版。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/version
 
 ---
 

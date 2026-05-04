@@ -139,10 +139,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - If you have not signed a contract , you are under no obligation to (= it is not necessary to) pay them any money . `[例]`
-> - We have a moral obligation to protect the environment. `[例]`
-> - You have a legal obligation to (= the law says you must) ensure your child receives an education . `[例]`
+> - If you have not signed a contract , you are under no obligation to (= it is not necessary to) pay them any money. `[例]`
+>   - 中译：如果您尚未签署合同，则您没有义务（=没有必要）向他们支付任何款项。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/obligation
+> - You have a legal obligation to (= the law says you must) ensure your child receives an education. `[例]`
+>   - 中译：您有法律义务（=法律规定您必须）确保您的孩子接受教育。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/obligation
 > - I don't have time to do his work for him - I have too many obligations as it is. `[例]`
+>   - 中译：我没有时间为他做他的工作——我有太多的义务。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/obligation
 
 ---
 

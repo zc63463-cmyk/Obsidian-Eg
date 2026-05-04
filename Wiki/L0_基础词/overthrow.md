@@ -125,10 +125,9 @@ over-(翻转/越过) + throw(扔/抛)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The revolution led to the overthrow of the monarchy and the establishment of a republic. ` [真题]`
-> - He was overthrown by the military in a coup and sentenced to prison for corruption. ` [语料库]`
-> - A year later, the military overthrew the government and established a brutal dictatorship. ` [真题]`
-> - Should a ruler become a tyrant, he could be overthrown by force. ` [语料库]`
+> - He allegedly plotted to overthrow the government. `[例]`
+> - The overthrow of the dictatorship occurred in 1922. `[例]`
+> - In a game where power demands absolute loyalty, can the don stay in control, or will the family rise up and overthrow them? `[例]`
 
 
 ---

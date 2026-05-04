@@ -124,9 +124,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The pesticides used on many farms are polluting the water supply . `[例]`
-> - We won't invest in any company that pollutes the environment . `[例]`
-> - Many complain that broadcasters pollute the airwaves with sensationalism and sleaze . `[例]`
+> - The pesticides used on many farms are polluting the water supply. `[例]`
+> - We won't invest in any company that pollutes the environment. `[例]`
+> - Many complain that broadcasters pollute the airwaves with sensationalism and sleaze. `[例]`
 
 
 ---

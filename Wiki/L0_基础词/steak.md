@@ -121,9 +121,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Shall we have steak for dinner ? `[例]`
-> - The mains include hearty cauliflower steaks with roasted red peppers and salsa . `[例]`
-> - Mushroom steaks make a fitting part of a winter vegetarian feast . `[例]`
+> - Shall we have steak for dinner? `[例]`
+> - The mains include hearty cauliflower steaks with roasted red peppers and salsa. `[例]`
+> - Mushroom steaks make a fitting part of a winter vegetarian feast. `[例]`
 
 
 ---

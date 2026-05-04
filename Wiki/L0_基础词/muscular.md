@@ -124,7 +124,7 @@ muscul(=muscle，肌肉) + -ar(形容词后缀，表示"与……有关的")
 
 > [!example]- 语料
 > - He wished he was more muscular. `[例]`
-> - It was a muscular, hard-hitting documentary . `[例]`
+> - It was a muscular, hard-hitting documentary. `[例]`
 > - He was tall, lean and muscular. `[例]`
 
 

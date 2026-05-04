@@ -134,8 +134,8 @@ review_count: 0
 
 > [!example]- 语料
 > - They'd dug a shallow pit and left the bodies in it. `[例]`
-> - These pits in my skin are from when I had chickenpox . `[例]`
-> - The coal-mining industry wants new pits to be opened . `[例]`
+> - These pits in my skin are from when I had chickenpox. `[例]`
+> - The coal-mining industry wants new pits to be opened. `[例]`
 
 
 ---

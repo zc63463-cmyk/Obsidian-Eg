@@ -131,9 +131,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She felt a great sense of pride as she watched him accept the award . `[例]`
-> - He felt such pride walking his little daughter down the street . `[例]`
-> - She has too much pride to accept any help . `[例]`
+> - She felt a great sense of pride as she watched him accept the award. `[例]`
+> - He felt such pride walking his little daughter down the street. `[例]`
+> - She has too much pride to accept any help. `[例]`
 
 
 ---

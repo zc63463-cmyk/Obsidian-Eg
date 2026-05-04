@@ -126,9 +126,15 @@ phen(显现) + -omen(名词后缀，表示"…的事物") + -on(希腊语中性�
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - There's evidence to suggest that child abuse is not just a recent phenomenon. `[真题]`
-> > - The rapid advancement of technology is a phenomenon that has transformed how we communicate. `[COCA-ACAD]`
-> > - Gravity is a natural phenomenon. `[COCA-ACAD]`
+> - Gravity is a natural phenomenon. `[例]`
+>   - 中译：重力是一种自然现象。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/phenomenon
+> - There's evidence to suggest that child abuse is not just a recent phenomenon. `[例]`
+>   - 中译：有证据表明，虐待儿童不仅仅是最近才出现的现象。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/phenomenon
+> - Johnson (op. cit., page 53) calls this phenomenon 'the principle of minimal effort '. `[例]`
+>   - 中译：约翰逊（前引书，第 53 页）将这种现象称为“最小努力原则”。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/phenomenon
 
 ---
 

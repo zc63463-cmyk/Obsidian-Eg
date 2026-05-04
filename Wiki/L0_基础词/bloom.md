@@ -133,9 +133,15 @@ bloom(花/开花，古诺斯语 *blóm*)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - These flowers will bloom all through the summer . `[例]`
-> - Rimbaud's poetic genius bloomed early. `[例]`
-> - If I were you, I'd visit in April or May when all the flowers are in bloom. `[例]`
+> - The plant produced a single white bloom. `[例]`
+>   - 中译：该植物开出一朵白色的花朵。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bloom
+> - The roses were in full bloom. `[例]`
+>   - 中译：玫瑰花正盛开。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bloom
+> - He loved watching the garden come into bloom. `[例]`
+>   - 中译：他喜欢看花园里鲜花盛开。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bloom
 
 
 ---

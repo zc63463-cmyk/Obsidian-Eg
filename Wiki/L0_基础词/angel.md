@@ -123,9 +123,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - According to the Bible , an angel told Mary that she would have God's son , Jesus . `[例]`
-> - Be an angel and help me with this. `[例]`
-> - What's the matter , angel? `[例]`
+> - John is no angel , believe me (= he does not behave well). `[例]`
+>   - 中译：约翰不是天使，相信我（=他表现得不好）。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/angel
+> - Mary’s children are little angels. `[例]`
+>   - 中译：玛丽的孩子们都是小天使。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/angel
+> - I could hardly see Lisa in the role of ministering angel. `[例]`
+>   - 中译：我几乎看不到丽莎担任侍奉天使的角色。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/angel
 
 
 ---

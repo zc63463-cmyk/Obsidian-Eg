@@ -124,9 +124,9 @@ laugh（笑）+ -ter（名词后缀，表示动作的结果/状态）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She roared with laughter (= laughed very loudly ) . `[例]`
+> - She roared with laughter (= laughed very loudly ). `[例]`
 > - As we approached the hall we could hear the sound of laughter. `[例]`
-> - Laughter from the living room kept me awake past midnight . `[例]`
+> - Laughter from the living room kept me awake past midnight. `[例]`
 
 
 ---

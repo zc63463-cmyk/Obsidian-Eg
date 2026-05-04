@@ -132,9 +132,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The recent pattern of weather deviates from the norm for this time of year . `[例]`
-> - The path follows the river closely , occasionally deviating around a clump of trees . `[例]`
-> - He never deviated from his strict vegetarian diet . `[例]`
+> - The recent pattern of weather deviates from the norm for this time of year. `[例]`
+> - The path follows the river closely , occasionally deviating around a clump of trees. `[例]`
+> - He never deviated from his strict vegetarian diet. `[例]`
 
 
 ---

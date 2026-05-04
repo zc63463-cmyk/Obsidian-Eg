@@ -133,8 +133,14 @@ review_count: 0
 
 > [!example]- 语料
 > - What is the definition of " mood "? `[例]`
-> - The legal definition of what is and what is not pornography is very unsatisfactory . `[例]`
-> - Psychology is by definition an inexact science . `[例]`
+>   - 中译：“心情”的定义是什么？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/definition
+> - The legal definition of what is and what is not pornography is very unsatisfactory. `[例]`
+>   - 中译：关于什么是色情、什么不是色情的法律定义非常不令人满意。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/definition
+> - Psychology is by definition an inexact science. `[例]`
+>   - 中译：从定义上来说，心理学是一门不精确的科学。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/definition
 
 ---
 

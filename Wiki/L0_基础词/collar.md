@@ -130,9 +130,15 @@ collar 源自拉丁语 *collum*（脖子），经由古法语 *colier* 进入英
 ## 真题/语料关联
 
 > [!example]- 语料
-> - A dress with a big collar. `[例]`
-> - I grabbed the dog by the collar and dragged it out of the room . `[例]`
-> - The bird has grey feathers with a lighter collar. `[例]`
+> - I turned up my collar against the wind (= to keep warm). `[例]`
+>   - 中译：我把衣领竖起来挡风（=保暖）。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/collar
+> - He always wears a collar and tie for work. `[例]`
+>   - 中译：他上班时总是穿有领子、打领带。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/collar
+> - The dog slipped its collar and ran off. `[例]`
+>   - 中译：狗松开项圈就跑了。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/collar
 
 
 ---

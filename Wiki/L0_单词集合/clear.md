@@ -126,6 +126,15 @@ clear（清澈/清楚，拉丁语 clarus）
 ## 真题/语料关联
 
 > [!example]- 语料
+> - Our new television has a very clear picture. `[例]`
+>   - 中译：我们的新电视图像非常清晰。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/clear
+> - I will not tolerate this behaviour any longer . Do I make myself clear? `[例]`
+>   - 中译：我不会再容忍这种行为了。我说清楚了吗？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/clear
+> - It's written in clear, comprehensible English. `[例]`
+>   - 中译：它是用清晰易懂的英语写成的。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/clear
 - It is clear that the policy needs reform.（很明显，这项政策需要改革。）
 - Please clear your desk before you leave.（离开前请清理你的桌面。）
 

@@ -125,7 +125,7 @@ night（夜晚）+ mare（魔女/恶魔，古英语 *mære*，"在梦中压迫�
 
 > [!example]- 语料
 > - I shouldn't have watched that movie - it'll give me nightmares. `[例]`
-> - The whole journey was a nightmare - we lost our luggage and both flights were delayed . `[例]`
+> - The whole journey was a nightmare - we lost our luggage and both flights were delayed. `[例]`
 > - Being trapped underwater is my worst nightmare. `[例]`
 
 

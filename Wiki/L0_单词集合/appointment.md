@@ -132,9 +132,15 @@ ap-（=ad-，向，朝向）+ point（点）+ -ment（名词后缀，表行为�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The doctor's appointment has been rescheduled to next Thursday. `[例]`
-> - She was disappointed about missing her appointment with the career counselor. `[例]`
-> - The appointment of John as CEO was announced at the board meeting. `[例]`
+> - I have a dental appointment tomorrow morning. `[例]`
+>   - 中译：我明天早上有个牙科预约。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/appointment
+> - They have to travel to Fort William for a medical appointment. `[例]`
+>   - 中译：他们必须前往威廉堡进行医疗预约。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/appointment
+> - I'd like to make an appointment with Dr Evans, please. `[例]`
+>   - 中译：我想和埃文斯医生预约一下。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/appointment
 
 ---
 

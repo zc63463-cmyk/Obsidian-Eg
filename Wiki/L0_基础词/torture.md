@@ -130,9 +130,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Half of the prisoners died after torture and starvation . `[例]`
+> - Half of the prisoners died after torture and starvation. `[例]`
 > - He revealed the secret under torture. `[例]`
-> - The rush-hour traffic was sheer torture as usual . `[例]`
+> - The rush-hour traffic was sheer torture as usual. `[例]`
 
 
 ---

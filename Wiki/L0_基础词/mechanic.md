@@ -120,9 +120,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Her brother's dream was to open his own mechanic shop in Nicaragua." `[语料库]`
-> - "He had extreme difficulty sleeping, and missed the final exams in his apprenticeship as a vehicle mechanic." `[语料库]`
-> - "The mechanic installed new brakes on the car." `[语料库]`
+> - Her brother's dream was to open his own mechanic shop in Nicaragua. `[例]`
+> - He had extreme difficulty sleeping, and missed the final exams in his apprenticeship as a vehicle mechanic. `[例]`
+> - The mechanic installed new brakes on the car. `[例]`
 
 
 ---

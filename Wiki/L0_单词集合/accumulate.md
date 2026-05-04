@@ -126,8 +126,15 @@ ac-(=ad-，朝向、加强) + cumul-(堆积) + -ate(动词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Wealth does not accumulate overnight; it requires patience and discipline."（财富不是一夜之间积累的，它需要耐心和自律。）——考研高频表达
-> - "Over the years, he has accumulated a vast amount of knowledge in his field."（多年来，他在自己的领域积累了大量的知识。）——考研高频表达
+> - The scientific community measures the quality of those papers in a number of ways, including the perceived quality of the journal ( as reflected by the title's impact factor) and the number of citations a specific paper accumulates. `[真题]`
+>   - 中译：科学界通过多种方式衡量这些论文的质量，包括期刊的感知质量（如标题的影响因子所反映）和特定论文累积的引用次数。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - As people accumulate more wealth , they tend to spend a greater proportion of their incomes. `[例]`
+>   - 中译：随着人们积累更多的财富，他们往往会花掉收入中更大的比例。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/accumulate
+> - The company said the debt was accumulated during its acquisition of nine individual businesses. `[例]`
+>   - 中译：该公司表示，债务是在收购九家个体企业时积累的。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/accumulate
 
 ---
 

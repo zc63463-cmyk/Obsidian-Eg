@@ -131,9 +131,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Though Native Americans ( and later miners and fur trappers) had long recognized the area's riches, most Americans did not. `[真题]`
-> - She hasn't called, even though she said she would. `[例]`
-> - They're coming next week , though I don't know which day . `[例]`
+> - Anne was fond of Tim, though he often annoyed her. `[例]`
+>   - 中译：安妮很喜欢蒂姆，尽管他经常惹恼她。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/though
+> - Though she gave no sign, I was sure she had seen me. `[例]`
+>   - 中译：虽然她没有任何迹象，但我确信她已经看到了我。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/though
+> - His clothes, though old and worn, looked clean and of good quality. `[例]`
+>   - 中译：他的衣服虽然又旧又旧，但看起来很干净，质量也很好。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/though
 
 ---
 

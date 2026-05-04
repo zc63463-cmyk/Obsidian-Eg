@@ -123,9 +123,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - We need to get more teachers into the classrooms where they're most needed , namely in high poverty areas . `[例]`
-> - I learned an important lesson when I lost my job , namely that nothing is a hundred percent guaranteed . `[例]`
-> - He suggested that these so-called contributions are something else , namely taxes . `[例]`
+> - We need to get more teachers into the classrooms where they're most needed , namely in high poverty areas. `[例]`
+> - I learned an important lesson when I lost my job , namely that nothing is a hundred percent guaranteed. `[例]`
+> - He suggested that these so-called contributions are something else , namely taxes. `[例]`
 
 
 ---

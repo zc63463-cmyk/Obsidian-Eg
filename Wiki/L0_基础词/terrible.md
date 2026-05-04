@@ -131,9 +131,9 @@ terr-（恐惧，拉丁语 *terrere*，使害怕）+ -ible（可被……的）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "This project is a terrible waste of money." `[真题]`
-> - "I had a terrible headache, but even so I went to the concert." `[真题]`
-> - "Traffic was held up by a terrible accident." `[真题]`
+> - This project is a terrible waste of money. `[真题]`
+> - I had a terrible headache, but even so I went to the concert. `[真题]`
+> - Traffic was held up by a terrible accident. `[真题]`
 
 
 ---

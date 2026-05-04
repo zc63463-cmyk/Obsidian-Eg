@@ -3,10 +3,8 @@ title: "stickiness"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-25
-mastery: L0
 word_freq: 超纲词
 semantic_field: 自然物理
 prototype: 粘住不走的特性（粘性）
@@ -43,7 +41,7 @@ stick（粘住）+ -i- + -ness（名词后缀，表示性质/状态）
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**粘住不走的特性**"为统筹中心，沿具身路径向外扩展：
 >
 > 1. **粘住不走的特性**（物理层面）
@@ -64,7 +62,7 @@ stick（粘住）+ -i- + -ness（名词后缀，表示性质/状态）
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ stick（粘住）+ -i- + -ness（名词后缀，表示性质/状态）
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > stick（粘住）+ -ness（性质）= stickiness。蜂蜜倒进锅里，stickiness 让它粘满每一面。社交媒体的 stickiness 让你刷了一个小时还停不下来——"粘"在屏幕上。
@@ -86,7 +84,7 @@ stick（粘住）+ -i- + -ness（名词后缀，表示性质/状态）
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -98,13 +96,13 @@ stick（粘住）+ -i- + -ness（名词后缀，表示性质/状态）
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[slipperiness]]：滑性（stickiness 的反义：粘↔滑）
 > - [[non-stickiness]]：不粘性（stickiness 的反义：粘性↔不粘性）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -115,7 +113,7 @@ stick（粘住）+ -i- + -ness（名词后缀，表示性质/状态）
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **the stickiness of**：……的粘性
 > - **user stickiness**：用户粘性
 > - **website stickiness**：网站粘性
@@ -123,19 +121,12 @@ stick（粘住）+ -i- + -ness（名词后缀，表示性质/状态）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - The company is using multimedia to increase the stickiness of visits to its Oxford Street store . `[例]`
-> - These sociologists emphasize the stickiness of organizational change . `[例]`
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-25 | **复习次数**：0 | **当前等级**：L0
-
----
+> [!example]- 语料
+> - The company is using multimedia to increase the stickiness of visits to its Oxford Street store. `[例]`
+> - These sociologists emphasize the stickiness of organizational change. `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

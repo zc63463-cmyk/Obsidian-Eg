@@ -132,7 +132,7 @@ review_count: 0
 > [!example]- 语料
 > - The war memorial was erected in 1950. `[例]`
 > - The soldiers had erected barricades to protect themselves. `[例]`
-> - They erected a marquee to accommodate 500 wedding guests . `[例]`
+> - They erected a marquee to accommodate 500 wedding guests. `[例]`
 
 
 ---

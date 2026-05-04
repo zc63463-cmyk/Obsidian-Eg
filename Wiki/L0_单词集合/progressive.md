@@ -132,9 +132,15 @@ pro-(向前) + gress(走/步) + -ive(倾向/性质的)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - There's been a progressive decline in the standard of living over the past few years . `[例]`
-> - Alzheimer's disease is a progressive brain condition . `[例]`
-> - He was diagnosed with syringomyelia, a disease of the spinal cord that results in progressive weakening of the body . `[例]`
+> - There's been a progressive decline in the standard of living over the past few years. `[例]`
+>   - 中译：过去几年里，生活水平逐渐下降。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/progressive
+> - Summerhill school is noted for its progressive policies. `[例]`
+>   - 中译：夏山学校以其进步的政策而闻名。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/progressive
+> - The last few months have seen the progressive meltdown of the country's political system. `[例]`
+>   - 中译：过去几个月，该国政治体系逐渐崩溃。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/progressive
 
 ---
 

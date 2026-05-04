@@ -131,9 +131,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - He throws mainly fastballs with the occasional curve. `[例]`
-> - He fired his unhittable curve, and struck out the final batter . `[例]`
-> - He threw his boss a curve when he told her that he was resigning . `[例]`
+> - The pattern was made up of straight lines and curves. `[例]`
+>   - 中译：该图案由直线和曲线组成。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/curve
+> - He admired the delicate curve of her ear. `[例]`
+>   - 中译：他欣赏她耳朵那精致的曲线。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/curve
+> - The program automatically plots the curve on a graph. `[例]`
+>   - 中译：程序自动在图表上绘制曲线。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/curve
 
 
 ---

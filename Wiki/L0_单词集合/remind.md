@@ -126,10 +126,15 @@ re-(back/again) + 建议创建词根笔记 [[re/rem]](mind/心) + (无后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - In the West, before mass communication and literacy, the most powerful mass medium was the church, which reminded worshippers that their souls were in danger and that they would someday be meat for worms. `[真题]`
-> - The terrorist attack painfully reminded the Americans that they are vulnerable even at home. `[COCA-ACAD]`
-> - She concluded the speech by reminding us of our responsibility. `[COCA-ACAD]`
-> - Passengers are reminded to take all their personal belongings with them when they leave the plane. `[COCA-ACAD]`
+> - Could you remind Paul about dinner on Saturday? `[例]`
+>   - 中译：你能提醒保罗周六的晚餐吗？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/remind
+> - I called Jane and reminded her (that) the conference had been cancelled. `[例]`
+>   - 中译：我打电话给简并提醒她会议已取消。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/remind
+> - Do remind me because I'm likely to forget. `[例]`
+>   - 中译：请提醒我，因为我很可能会忘记。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/remind
 
 ---
 

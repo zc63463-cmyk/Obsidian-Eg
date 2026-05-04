@@ -127,10 +127,10 @@ infra-(=below/beneath, 在……下面/低于) + red(=red, 红色) → 低于红
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Infrared radiation is similar to light but has a longer wavelength, so we cannot see it without special equipment." `[真题]`
-> - "Searching with infrared scanners for weapons and artillery." `[真题]`
-> - "Most of this warming is in the form of infrared radiation which the earth gives off and the atmosphere absorbs." `[COCA-ACAD]`
-> - "The three elements monitor infrared light that bounces off objects in front of the camera, allowing it to detect depth." `[COCA-NEWS]`
+> - Infrared radiation is similar to light but has a longer wavelength, so we cannot see it without special equipment. `[真题]`
+> - Searching with infrared scanners for weapons and artillery. `[真题]`
+> - Most of this warming is in the form of infrared radiation which the earth gives off and the atmosphere absorbs. `[COCA-ACAD]`
+> - The three elements monitor infrared light that bounces off objects in front of the camera, allowing it to detect depth. `[COCA-NEWS]`
 
 
 ---

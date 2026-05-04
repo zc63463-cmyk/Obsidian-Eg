@@ -134,9 +134,15 @@ ver（词语、说话） + -bal（形容词后缀，...的）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Airport officials received a stream of verbal abuse from angry passengers whose flights had been delayed . `[例]`
-> - It can sometimes be difficult to give a verbal description of things like colours and sounds . `[例]`
-> - In cases where the child is verbal, the best way to gather information is to simply ask questions . `[例]`
+> - The job applicant must have good verbal skills. `[例]`
+>   - 中译：求职者必须具有良好的口头表达能力。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/verbal
+> - He scored well on the verbal section of the test. `[例]`
+>   - 中译：他在测试的言语部分取得了很好的成绩。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/verbal
+> - They had a verbal exchange. `[例]`
+>   - 中译：他们进行了口头交流。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/verbal
 
 ---
 

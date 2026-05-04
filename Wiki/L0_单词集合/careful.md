@@ -129,9 +129,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Be careful not to break the vase."（小心不要打碎花瓶。）——日常/指令类阅读语境
-> - "She is very careful with her money and never wastes anything."（她对钱非常仔细，从不浪费。）——生活/消费类阅读语境
-> - "After careful consideration, I decided to accept the offer."（经过仔细考虑后，我决定接受这个提议。）——商业/决策类阅读语境
+> - Michael is a very careful worker. `[例]`
+>   - 中译：迈克尔是一个非常细心的工人。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/careful
+> - After careful consideration of your proposal , I regret to say that we are unable to accept it. `[例]`
+>   - 中译：经过仔细考虑你的建议，我很遗憾地表示我们无法接受。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/careful
+> - Be careful with the glasses. `[例]`
+>   - 中译：小心戴眼镜。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/careful
 
 ---
 

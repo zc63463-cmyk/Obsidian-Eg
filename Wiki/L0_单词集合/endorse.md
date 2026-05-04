@@ -131,10 +131,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The 15 members of the council at the time unanimously endorsed the agreement. `[COCA-ACAD]`
-> - The twins endorsed a line of household cleaning products. `[COCA-ACAD]`
-> - Both parties are required to endorse the back of the bank draft before it is honored by the bank. `[COCA-ACAD]`
-> - King was not a partisan and never endorsed any political candidate. `[例]`
+> - The Council is expected to endorse the committee's recommendations. `[例]`
+>   - 中译：预计理事会将批准委员会的建议。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/endorse
+> - I fully endorse (= agree with) everything the Chairperson has said. `[例]`
+>   - 中译：我完全赞同（=同意）主席所说的一切。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/endorse
+> - I certainly don't endorse her views. `[例]`
+>   - 中译：我当然不赞同她的观点。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/endorse
 
 ---
 

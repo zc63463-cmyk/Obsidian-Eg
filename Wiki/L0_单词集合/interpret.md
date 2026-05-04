@@ -130,9 +130,15 @@ inter-(在…之间，between) + pret(传递/传达，拉丁语 *praes*，与 [[
 ## 真题/语料关联
 
 > [!example]- 语料
-> - One could interpret much of the work of Beethoven by saying that suffering is inevitable, but the courage to fight it renders life worth living. `[真题]`
-> - The casual friendliness of many Americans should be interpreted neither as superficial nor as artificial, but as the result of a historically developed cultural tradition. `[真题]`
-> - The evidence is difficult to interpret. `[COCA-ACAD]`
+> - In your essay , you should 1) describe the picture briefly, 2 ) interpret the implied meaning , and 3) give your comments. `[真题]`
+>   - 中译：在你的文章中，你应该1）简要描述图片，2）解释隐含的含义，3）给出你的评论。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - It's difficult to interpret these statistics without knowing how they were obtained. `[例]`
+>   - 中译：如果不知道这些统计数据是如何获得的，就很难解释它们。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/interpret
+> - A jury should not interpret the silence of a defendant as a sign of guilt. `[例]`
+>   - 中译：陪审团不应将被告的沉默解释为有罪的表现。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/interpret
 
 ---
 

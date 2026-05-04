@@ -125,10 +125,15 @@ re-(向后/加强) + [[salire|salt/sali/sult]](跳) → result（跳出来的 �
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The result reflects a modest rightward shift in public opinion." `[真题]`
-> - "Many motor accidents are the result of unthinkingly mixing speed and alcohol." `[真题]`
-> - "This move will inevitably result in the loss of a lot of jobs." `[COCA-ACAD]`
-> - "About 87 percent of lung cancers are thought to result from smoking." `[COCA-ACAD]`
+> - As a result D. status D. in line with D. pioneering D. competed D. `[真题]`
+>   - 中译：结果 D. 地位 D. 符合 D. 开拓性 D. 竞争 D.
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - The advent of electronic publishing and authors' need to find outlets for their papers resulted in thousands of new journals. `[真题]`
+>   - 中译：电子出版的出现和作者需要为其论文寻找出路，催生了数以千计的新期刊。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - Throughout the trip , Jackson juggled multiple cameras and plate sizes using the " collodion process" that required him to coat the plates with a chemical mixture , then expose them and develop the resulting images with a portable darkroom. `[真题]`
+>   - 中译：在整个旅程中，杰克逊使用“火棉胶工艺”处理多个相机和印版尺寸，该工艺要求他在印版上涂上化学混合物，然后将它们曝光并用便携式暗室冲洗所得图像。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
 
 ---
 

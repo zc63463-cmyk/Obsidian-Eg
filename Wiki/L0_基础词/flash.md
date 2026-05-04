@@ -137,8 +137,8 @@ flash 源自中古英语 *flashen*（突然发光），可能是拟声词，模�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Stop flashing that light in my eyes ! `[例]`
-> - The lightning flashed and distant thunder rolled . `[例]`
+> - Stop flashing that light in my eyes! `[例]`
+> - The lightning flashed and distant thunder rolled. `[例]`
 > - You'd better slow down, that car was flashing its lights at you. `[例]`
 
 

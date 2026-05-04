@@ -126,9 +126,15 @@ con-(共同/一起) + [[duct|duct/duc]](引导) → 引导大家一起做
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The university decided to conduct an investigation into the allegations. `[真题]`
-> - The way a company conducts its business reflects its values and ethics. `[COCA-ACAD]`
-> - Copper conducts electricity more efficiently than most other metals. `[COCA-ACAD]`
+> - Jackson snapped them on a late 19th-century expedition through the Yellowstone Basin that was conducted by the · head of the U. `[真题]`
+>   - 中译：杰克逊在 19 世纪末美国总统领导的黄石盆地探险队中拍下了他们的照片。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - We are conducting a survey to find out what our customers think of their local bus service. `[例]`
+>   - 中译：我们正在进行一项调查，以了解客户对其当地巴士服务的看法。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/conduct
+> - The experiments were conducted by scientists in New York. `[例]`
+>   - 中译：这些实验是由纽约的科学家进行的。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/conduct
 
 ---
 

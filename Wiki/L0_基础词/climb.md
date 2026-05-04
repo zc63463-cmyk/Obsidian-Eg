@@ -132,9 +132,15 @@ climb 源自古英语 *climban*，与 clemban（攀爬）同源，属日耳曼�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The plane climbed quickly to a height of 30,000 feet . `[例]`
-> - As it leaves the village , the road climbs steeply up the mountain . `[例]`
-> - The sun climbed higher in the sky . `[例]`
+> - She climbed up the stairs. `[例]`
+>   - 中译：她爬上楼梯。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/climb
+> - They climbed the steps to the front door. `[例]`
+>   - 中译：他们爬上台阶来到前门。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/climb
+> - The car slowly climbed the hill. `[例]`
+>   - 中译：车子慢慢地爬上了山坡。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/climb
 
 
 ---

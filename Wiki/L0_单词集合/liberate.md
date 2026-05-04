@@ -127,9 +127,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "They are fighting to liberate their country from foreign occupation." `[COCA-ACAD]`
-> - "Laptop computers could liberate workers from their desks." `[COCA-NEWS]`
-> - "Education should liberate the mind from prejudice and ignorance." `[例]`
+> - They said they sent troops in to liberate the people from a dictator. `[例]`
+>   - 中译：他们说他们派军队去把人民从独裁者手中解放出来。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/liberate
+> - An anti-terror squad killed the hijackers and liberated the hostages. `[例]`
+>   - 中译：反恐小组击毙了劫机者并解救了人质。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/liberate
+> - They are fighting to liberate their homeland. `[例]`
+>   - 中译：他们正在为解放祖国而奋斗。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/liberate
 
 ---
 

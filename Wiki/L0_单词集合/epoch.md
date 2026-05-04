@@ -120,9 +120,15 @@ epi-(在…之上) + echein(保持/停止，来自希腊语 epechein) → 在时
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The invention of the printing press marked the beginning of a new epoch in human civilization. `[真题]`
-> - The development of the steam engine marked an important epoch in the history of industry. `[COCA-ACAD]`
-> - The president said that his country was moving into a new epoch, which would be one of lasting peace. `[COCA-ACAD]`
+> - The president said that his country was moving into a new epoch, which would be one of lasting peace. `[例]`
+>   - 中译：总统说，他的国家正在进入一个新时代，这将是一个持久和平的时代。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/epoch
+> - Scientists discovered remains of woolly mammoths and mastodons believed to be from the Pleistocene epoch, more than 10,000 years ago. `[例]`
+>   - 中译：科学家们发现了猛犸象和乳齿象的遗骸，据信来自一万多年前的更新世。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/epoch
+> - What marks our epoch," he says, "is the movement of people around the world. `[例]`
+>   - 中译：我们这个时代的标志，”他说，“是世界各地人们的流动。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/epoch
 
 ---
 

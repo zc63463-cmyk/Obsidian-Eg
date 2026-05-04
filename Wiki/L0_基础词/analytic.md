@@ -128,9 +128,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - New analytic techniques in biology are allowing scientists to study the cell in more detail . `[例]`
-> - The analytic methods we developed for this project will be useful for our future work . `[例]`
-> - This book is one of the masterpieces of analytic philosophy . `[例]`
+> - That is the analytic failure at the center of this moment. `[例]`
+>   - 中译：这就是此时此刻中心的分析失败。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/analytic
+> - Consider, too, the new, favorite analytic stat of big plays that’s overtaking turnovers in some circles as the best predictor of wins and losses. `[例]`
+>   - 中译：还要考虑一下新的、最受欢迎的重大比赛分析统计数据，它在某些圈子里取代了失误，成为输赢的最佳预测指标。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/analytic
+> - There are analytic programs of every shape and variety to see what players are worth to their teams, to your team. `[例]`
+>   - 中译：有各种各样的分析程序可以了解球员对他们的球队和您的球队的价值。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/analytic
 
 
 ---

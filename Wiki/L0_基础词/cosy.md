@@ -127,10 +127,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - It's that kind of feeling that makes it cosy, makes it good to live here. `[语料库]`
-> - When they have gone we can have a cosy chat to ourselves. `[语料库]`
-> - The restaurant had a cosy atmosphere with warm lighting and inviting chairs. `[真题]`
-> - My room is my sanctuary; although it's compact, it's cosy and meticulously organized. `[真题]`
+> - I felt warm and cosy sitting by the fire. `[例]`
+>   - 中译：坐在火边我感到温暖和舒适。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/cosy
+> - We stopped in a cosy little cafe for a cup of tea. `[例]`
+>   - 中译：我们在一家舒适的小咖啡馆停下来喝杯茶。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/cosy
+> - The firm has a cosy relationship with the Ministry of Defence. `[例]`
+>   - 中译：该公司与国防部有着密切的关系。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/cosy
 
 
 ---

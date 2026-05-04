@@ -131,7 +131,7 @@ review_count: 0
 > [!example]- 语料
 > - Airborne troops were dropped by parachute behind enemy lines. `[真题]`
 > - As a result, they have lost the parachute they once had in times of financial setback — a back-up earner (usually Mom) who could go into the workforce if the primary earner got laid off or fell sick. `[真题]`
-> - I negotiated a large golden parachute when I joined the company. `[外刊]`
+> - I negotiated a large golden parachute when I joined the company. `[例]`
 
 
 ---

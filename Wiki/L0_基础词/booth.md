@@ -124,9 +124,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - There was a line of people waiting for the phone booth. `[例]`
-> - If we get separated , let’s meet at the information booth. `[例]`
-> - At the booth, the marketing executive told me about the toys and gadgets his company sells . `[例]`
+> - The stalls and booths were doing a brisk trade. `[例]`
+>   - 中译：摊位、摊位生意兴隆。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/booth
+> - Sportsnet has announced that Bob Cole will return to the broadcast booth for his final season of calling National Hockey League games. `[例]`
+>   - 中译：Sportsnet 宣布鲍勃·科尔将重返转播台，参加他主持国家冰球联盟比赛的最后一个赛季。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/booth
+> - A local sheep farmer has a booth at the county fair and is selling wool yarn. `[例]`
+>   - 中译：当地一位养羊户在县集市上设有摊位，正在出售毛纱。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/booth
 
 
 ---

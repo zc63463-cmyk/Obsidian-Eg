@@ -132,10 +132,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The Chicago school of economics has had a profound influence on government policy." `[真题]`
-> - "Children must attend school between the ages of 6 and 16 by law." `[真题]`
-> - "There are two schools of thought about how this illness should be treated." `[语料库]`
-> - "He belongs to the school of thought that says competition can be very stimulating for children." `[语料库]`
+> - The Chicago school of economics has had a profound influence on government policy. `[真题]`
+> - Children must attend school between the ages of 6 and 16 by law. `[真题]`
+> - There are two schools of thought about how this illness should be treated. `[例]`
+> - He belongs to the school of thought that says competition can be very stimulating for children. `[例]`
 
 
 ---

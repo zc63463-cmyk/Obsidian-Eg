@@ -124,9 +124,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Integrity had collapsed, she argued, because of a collective acceptance that the only sorting mechanism in society should be profit and the market. `[真题]`
-> - This type of integrity requires well-enforced laws in government transparency, such as records of official meetings, rules on lobbying. `[真题]`
-> - I would never do anything to compromise the integrity of the company. `[COCA-ACAD]`
+> - No one doubted that the president was a man of the highest integrity. `[例]`
+>   - 中译：没有人怀疑总统是一位最正直的人。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/integrity
+> - Keen to preserve his artistic integrity, he refused several lucrative Hollywood offers. `[例]`
+>   - 中译：为了保持自己的艺术完整性，他拒绝了好莱坞的几项利润丰厚的邀请。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/integrity
+> - Lord Fletcher, said the Bishop, was a man of unimpeachable integrity and character. `[例]`
+>   - 中译：主教说，弗莱彻勋爵是一个正直和品格无可挑剔的人。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/integrity
 
 
 ---

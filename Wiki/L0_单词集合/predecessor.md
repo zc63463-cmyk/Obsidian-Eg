@@ -122,8 +122,15 @@ pre-(在前面) + de-(离开) + [[cess/ced]](走) + -or(人)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The new president promised to build upon the achievements of her predecessor while addressing the shortcomings of previous policies."（新总统承诺将在前任成就的基础上继续发展，同时解决以往政策的不足。）——考研高频表达
-> - "The latest version of the software is significantly more powerful than its predecessor."（最新版本的软件比其前身功能强大得多。）——考研高频表达
+> - My predecessor worked in this job for twelve years. `[例]`
+>   - 中译：我的前任在这个岗位上工作了十二年。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/predecessor
+> - The latest Ferrari is not only faster than its predecessors but also more comfortable. `[例]`
+>   - 中译：最新的法拉利不仅比其前辈更快，而且更舒适。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/predecessor
+> - Each new leader would blame his predecessor for all the evils of the past. `[例]`
+>   - 中译：每一位新领导人都会将过去的所有罪恶归咎于他的前任。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/predecessor
 ---
 
 

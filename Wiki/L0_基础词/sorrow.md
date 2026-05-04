@@ -126,9 +126,9 @@ sorrow（悲伤，基础词汇，源自古英语 *sorg*，PIE *\*swergh-*）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The sorrow she felt at the death of her husband was almost too much to bear . `[例]`
-> - He expressed sorrow over the suffering inflicted during the war . `[例]`
-> - The sorrows of her earlier years gave way to joy in later life . `[例]`
+> - The sorrow she felt at the death of her husband was almost too much to bear. `[例]`
+> - He expressed sorrow over the suffering inflicted during the war. `[例]`
+> - The sorrows of her earlier years gave way to joy in later life. `[例]`
 
 
 ---

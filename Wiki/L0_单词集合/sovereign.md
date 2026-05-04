@@ -128,10 +128,15 @@ super-（在……之上）+ sovereign/reign（建议创建词根笔记 [[sovere
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - A small but vocal group of Hawaiians and environmentalists have long viewed their presence as disrespect for sacred land and a painful reminder of the occupation of what was once a sovereign nation. `[真题]`
-> > - Countries that still think foreign investment is an invasion of their sovereignty might well study the history of infrastructure in the United States. `[真题]`
-> > - Generally there was a belief that the new nations should be sovereign and independent states, large enough to be economically viable and integrated by a common set of laws. `[真题]`
-> > - We must respect the rights of sovereign states to conduct their own affairs. `[COCA-ACAD]`
+> - Sovereign power is said to lie with the people in some countries , and with a ruler in others. `[例]`
+>   - 中译：据称，在一些国家，主权属于人民，而在另一些国家，主权则属于统治者。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/sovereign
+> - We must respect the rights of sovereign states to conduct their own affairs. `[例]`
+>   - 中译：我们必须尊重主权国家处理自己事务的权利。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/sovereign
+> - The raid was condemned as an unprovoked attack on a sovereign nation. `[例]`
+>   - 中译：这次袭击被谴责为对一个主权国家的无端攻击。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/sovereign
 
 ---
 

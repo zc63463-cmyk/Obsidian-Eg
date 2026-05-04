@@ -130,9 +130,15 @@ plaus(鼓掌/赞同，同源 applause 鼓掌) + -ible(可以...的) → 值得�
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - This story is plausible but wrong. `[真题]`
-> > - The uncertainty of timber prices could be one plausible reason why leaseholders are delaying the planting of their leases. `[COCA-ACAD]`
-> > - Is there any plausible reason for this? `[COCA-NEWS]`
+> - Her story sounded perfectly plausible. `[例]`
+>   - 中译：她的故事听起来完全合理。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/plausible
+> - The only plausible explanation is that he forgot. `[例]`
+>   - 中译：唯一合理的解释是他忘记了。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/plausible
+> - She was a plausible liar. `[例]`
+>   - 中译：她是一个看似合理的骗子。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/plausible
 
 ---
 

@@ -121,9 +121,15 @@ to-(朝向) + gether(聚集，源自古英语 gaderian)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The term caravan was used to _4_ groups of people who travelled together across the ancient network for safety reasons , 5 merchants, travellers or pillgrims. `[真题]`
-> - Small publishers ought to stick together. `[真题]`
-> - We worked together on a project a couple of years back. `[例]`
+> - Get all the ingredients together before you start cooking. `[例]`
+>   - 中译：在开始烹饪之前，将所有原料放在一起。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/together
+> - Do you want to get together (= meet) again next week? `[例]`
+>   - 中译：你想下周再次相聚吗？
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/together
+> - Together they climbed the dark stairs. `[例]`
+>   - 中译：他们一起爬上黑暗的楼梯。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/together
 
 ---
 

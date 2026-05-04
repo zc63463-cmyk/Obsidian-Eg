@@ -3,10 +3,8 @@ title: "airflow"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 自然物理
 prototype: 空气的流动
@@ -43,7 +41,7 @@ air(空气) + flow(流动)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**空气的流动**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **空气的流动**（物理层面）
@@ -64,7 +62,7 @@ air(空气) + flow(流动)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ air(空气) + flow(流动)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > air（空气）+ flow（流动）= airflow（气流）。飞机机翼上方的 airflow 产生升力。房间里的 airflow 影响舒适度。这个词不需要复杂记忆——空气在流动就是 airflow。
@@ -86,7 +84,7 @@ air(空气) + flow(流动)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -98,13 +96,13 @@ air(空气) + flow(流动)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[stagnation]]：停滞（气流的反义）
 > - [[stillness]]：静止
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -115,27 +113,20 @@ air(空气) + flow(流动)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **improve/increase airflow**：改善/增加通风
 > - **airflow around**：……周围的气流
 > - **restrict airflow**：限制气流
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - Proper airflow is essential for maintaining indoor air quality. `[例]`
 > - The engineer studied the airflow around the aircraft wing to reduce drag. `[例]`
 > - Opening windows on opposite sides of the room improves natural airflow. `[例]`
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
-
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

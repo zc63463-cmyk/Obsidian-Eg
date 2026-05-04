@@ -119,9 +119,15 @@ super-（在上方，建议创建词根笔记 [[super]]）+ -b（拉丁语形容
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The team's superb athleticism compensated for their lack of international experience . `[例]`
-> - He is a superb dancer . `[例]`
-> - Taylor scored a superb goal at the end of the first half . `[例]`
+> - The car's in superb condition. `[例]`
+>   - 中译：这辆车状况极佳。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/superb
+> - His performance was absolutely superb. `[例]`
+>   - 中译：他的表现绝对是一流的。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/superb
+> - The performance was absolutely superb. `[例]`
+>   - 中译：表演绝对是一流的。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/superb
 
 
 ---

@@ -136,9 +136,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The UN Security Council met in emergency session to discuss the crisis. ` `[真题]`
-> - The parliamentary session is due to end on 27 May. ` `[真题]`
-> - The 21-year-old runner twisted his ankle in a training session last Friday. ` `[真题]`
+> - The parliamentary session is due to end on 27 May. `[例]`
+> - The UN Security Council met in emergency session to discuss the crisis. `[例]`
+> - The 21-year-old runner twisted his ankle in a training session last Friday. `[例]`
 
 
 ---

@@ -130,10 +130,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The quota of four tickets per person had been reduced to two. `[Collins语料库]`
-> - The bill would force employers to adopt a quota system when recruiting workers. `[Collins语料库]`
-> - Employees at warehouses across the country have reported working long hours and being expected to meet intense quotas. `[The Guardian]`
-> - Companies are given an annual quota by the government but this is set below their requirement so they always need more. `[Times/Collins语料库]`
+> - The quota of four tickets per person had been reduced to two. `[例]`
+> - The bill would force employers to adopt a quota system when recruiting workers. `[例]`
+> - Employees at warehouses across the country have reported working long hours and being expected to meet intense quotas. `[例]`
+> - Companies are given an annual quota by the government but this is set below their requirement so they always need more. `[例]`
 
 
 ---

@@ -130,8 +130,8 @@ flee(逃跑，古英语 *flēon*)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Every year thousands of people flee the big cities in search of the rural idyll . `[例]`
-> - War, famine and oppression have forced people in the region to flee from their homes . `[例]`
+> - Every year thousands of people flee the big cities in search of the rural idyll. `[例]`
+> - War, famine and oppression have forced people in the region to flee from their homes. `[例]`
 > - He was caught trying to flee the country. `[例]`
 
 

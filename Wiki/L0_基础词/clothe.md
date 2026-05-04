@@ -126,9 +126,15 @@ cloth（布料）+ -e（动词化后缀，古英语 *clāþian*）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - It costs a lot to feed and clothe five children . `[例]`
-> - They have eight kids to feed and clothe. `[例]`
 > - They clothe their children in the latest fashions. `[例]`
+>   - 中译：他们给孩子穿最流行的衣服。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/clothe
+> - Climbing plants clothed the courtyard walls. `[例]`
+>   - 中译：庭院的墙壁上长满了攀缘植物。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/clothe
+> - The long hours of immersion in cold water and the strain of swimming fully clothed through turbulent waves toward the tantalizingly near shoreline must have drained the last bit of endurance from him. `[例]`
+>   - 中译：长时间浸泡在冷水中，以及在汹涌的海浪中穿着衣服游向近乎诱人的海岸线，一定耗尽了他最后一点耐力。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/clothe
 
 
 ---

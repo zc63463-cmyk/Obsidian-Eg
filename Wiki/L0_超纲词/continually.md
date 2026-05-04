@@ -3,10 +3,8 @@ title: "continually"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 抽象关系
 prototype: 不断地（可能有间断）
@@ -43,7 +41,7 @@ con-(一起) + [[tend-tens|tin-/ten-]](保持/持有) + -u- + -al(形容词) + -
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**不断地延续**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **不断地延续**（时间层面）
@@ -64,7 +62,7 @@ con-(一起) + [[tend-tens|tin-/ten-]](保持/持有) + -u- + -al(形容词) + -
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ con-(一起) + [[tend-tens|tin-/ten-]](保持/持有) + -u- + -al(形容词) + -
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > continue（继续）→ continual（不断的）→ continually（不断地）。记忆关键：continually = 频繁但有间断。比如手机 continually vibrating（不断震动——但中间有停顿），而 continuously running water（水一直流——不停）。continual 有个"al"像"all"——几乎 all the time 但不是 all the time。
@@ -88,7 +86,7 @@ con-(一起) + [[tend-tens|tin-/ten-]](保持/持有) + -u- + -al(形容词) + -
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -101,13 +99,13 @@ con-(一起) + [[tend-tens|tin-/ten-]](保持/持有) + -u- + -al(形容词) + -
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[occasionally]]：偶尔地（continually 的反义：不断↔偶尔）
 > - [[intermittently]]：间歇地（continually 的反义：持续↔间歇）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,7 +119,7 @@ con-(一起) + [[tend-tens|tin-/ten-]](保持/持有) + -u- + -al(形容词) + -
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **continually improve**：不断改进
 > - **continually change**：不断变化
 > - **continually evolving**：不断演进
@@ -129,19 +127,12 @@ con-(一起) + [[tend-tens|tin-/ten-]](保持/持有) + -u- + -al(形容词) + -
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - The teacher was angry because a student continually interrupted him during the lesson . `[例]`
-> - Fans could be ejected from matches if they continually refuse to obey the rules . `[例]`
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
+> [!example]- 语料
+> - The teacher was angry because a student continually interrupted him during the lesson. `[例]`
+> - Fans could be ejected from matches if they continually refuse to obey the rules. `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

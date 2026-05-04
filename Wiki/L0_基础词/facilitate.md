@@ -131,9 +131,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The new ramp will facilitate the entry of wheelchairs . `[例]`
-> - The current structure does not facilitate efficient work flow . `[例]`
-> - To facilitate learning , each class is no larger than 30 students . `[例]`
+> - The new ramp will facilitate the entry of wheelchairs. `[例]`
+> - The current structure does not facilitate efficient work flow. `[例]`
+> - To facilitate learning , each class is no larger than 30 students. `[例]`
 
 
 ---

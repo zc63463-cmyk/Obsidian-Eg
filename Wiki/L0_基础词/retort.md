@@ -131,7 +131,7 @@ re-(向后/回) + tort(=torquere, 扭/拧)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Of course not," he retorted angrily when accused of the charge. `[真题]`
+> - Of course not," he retorted angrily when accused of the charge. `[真题]`
 > - She had a quick retort ready for every criticism directed at her during the debate. `[真题]`
 > - Republicans retorted that the amendment was necessary to balance the budget. `[真题]`
 

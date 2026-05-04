@@ -130,8 +130,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The breakdown of negotiations between the two parties led to a prolonged conflict."（两党之间谈判的破裂导致了长期的冲突。）——考研高频表达
-> - "She suffered a nervous breakdown after years of excessive workload."（经过多年过度工作后，她精神崩溃了。）——考研高频表达
+> - I had a breakdown (= my car stopped working ) in the middle of the road. `[例]`
+>   - 中译：我在路中间发生了故障（=我的车停止工作）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/breakdown
+> - Both sides blamed each other for the breakdown of talks. `[例]`
+>   - 中译：双方都互相指责对方导致谈判破裂。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/breakdown
+> - The breakdown in negotiations will be seen as a step backwards. `[例]`
+>   - 中译：谈判的破裂将被视为倒退。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/breakdown
 
 
 ---

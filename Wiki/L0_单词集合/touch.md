@@ -129,9 +129,15 @@ touch(源自古法语 tochier / toccier，意为"敲打、触碰")
 ## 真题/语料关联
 
 > [!example]- 语料
-> - That paint is wet - don't touch (it). `[例]`
-> - He touched the girl on the arm to get her attention . `[例]`
-> - The boy touched the worm with (= using, in his hand ) a twig . `[例]`
+> - Don't touch that plate—it's hot! `[例]`
+>   - 中译：别碰那个盘子——它很烫！
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/touch
+> - I touched him lightly on the arm. `[例]`
+>   - 中译：我轻轻碰触他的手臂。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/touch
+> - He has hardly touched the ball all game. `[例]`
+>   - 中译：他整场比赛几乎没有碰过球。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/touch
 
 
 ---

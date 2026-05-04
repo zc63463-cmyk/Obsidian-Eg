@@ -131,9 +131,15 @@ vol/volu(滚，卷) + -ume(名词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Which of these bottles do you think has a greater volume? `[例]`
-> - It's the sheer volume of traffic in the city that is causing the problems . `[例]`
-> - Could you turn the volume down, please , I'm trying to sleep . `[例]`
+> - How do you measure the volume of a gas? `[例]`
+>   - 中译：如何测量气体的体积？
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/volume
+> - In the experiment, lighted candles were put under jars of different volumes. `[例]`
+>   - 中译：在实验中，点燃的蜡烛被放置在不同体积的罐子下。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/volume
+> - Patients showed an improvement in lung volume. `[例]`
+>   - 中译：患者的肺容量有所改善。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/volume
 ---
 
 

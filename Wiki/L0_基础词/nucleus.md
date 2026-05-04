@@ -126,9 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - DNA is stored in the nucleus of a cell . `[例]`
-> - These three players will form the nucleus of a revised and stronger team . `[例]`
-> - These two people will form the nucleus of a new management team to promote sales in South America . `[例]`
+> - DNA is stored in the nucleus of a cell. `[例]`
+> - These three players will form the nucleus of a revised and stronger team. `[例]`
+> - These two people will form the nucleus of a new management team to promote sales in South America. `[例]`
 
 
 ---

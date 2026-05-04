@@ -135,9 +135,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Peaches have delicate skins which are easily bruised . `[例]`
-> - Delicate plants need to be kept in a greenhouse during the winter . `[例]`
-> - Molly's health has always been delicate (= she gets sick easily ) . `[例]`
+> - Peaches have delicate skins which are easily bruised. `[例]`
+>   - 中译：桃子的皮很脆弱，很容易碰伤。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/delicate
+> - Delicate plants need to be kept in a greenhouse during the winter. `[例]`
+>   - 中译：娇嫩的植物在冬季需要保存在温室中。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/delicate
+> - Molly's health has always been delicate (= she gets sick easily ). `[例]`
+>   - 中译：莫莉的健康状况一直很脆弱（=她很容易生病）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/delicate
 
 ---
 

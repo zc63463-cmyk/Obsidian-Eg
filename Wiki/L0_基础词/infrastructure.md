@@ -127,10 +127,10 @@ infra-(=below/beneath, 在……下面) + structure(=building/framework, 结构/
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "When the government talks about infrastructure contributing to the economy, the focus is usually on roads, railways, broadband and energy." `[真题]`
-> - "Years of civil war have wrecked the country's infrastructure and destroyed its social fabric." `[真题]`
-> - "The war has badly damaged the country's infrastructure." `[COCA-NEWS]`
-> - "It is a long-term task to rebuild the infrastructure of a war-torn country such as Angola." `[COCA-ACAD]`
+> - When the government talks about infrastructure contributing to the economy, the focus is usually on roads, railways, broadband and energy. `[真题]`
+> - Years of civil war have wrecked the country's infrastructure and destroyed its social fabric. `[真题]`
+> - The war has badly damaged the country's infrastructure. `[COCA-NEWS]`
+> - It is a long-term task to rebuild the infrastructure of a war-torn country such as Angola. `[COCA-ACAD]`
 
 
 ---

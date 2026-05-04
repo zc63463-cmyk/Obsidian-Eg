@@ -137,8 +137,8 @@ review_count: 0
 
 > [!example]- 语料
 > - She's been dead for 20 years now. `[例]`
-> - The motorcyclist was dead on arrival at the hospital . `[例]`
-> - He was shot dead (= killed by shooting ) outside his home . `[例]`
+> - The motorcyclist was dead on arrival at the hospital. `[例]`
+> - He was shot dead (= killed by shooting ) outside his home. `[例]`
 
 
 ---

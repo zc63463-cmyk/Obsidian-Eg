@@ -3,10 +3,8 @@ title: "billboard"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 物品工具
 prototype: 用于张贴广告的大型户外板
@@ -43,7 +41,7 @@ bill（账单/海报）+ board（板）
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**用于张贴广告的大型户外板**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **用于张贴广告的大型户外板**（物理层面）
@@ -64,7 +62,7 @@ bill（账单/海报）+ board（板）
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ bill（账单/海报）+ board（板）
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > bill（海报/账单）+ board（木板）→ 把海报钉在木板上 → 广告牌。想象高速公路旁竖立着巨大的木板，上面贴满了五颜六色的广告，那就是 billboard。
@@ -86,7 +84,7 @@ bill（账单/海报）+ board（板）
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,12 +97,12 @@ bill（账单/海报）+ board（板）
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - 无精确反义词（具体物品名词通常无反义对应）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -115,7 +113,7 @@ bill（账单/海报）+ board（板）
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **billboard advertising**：广告牌广告
 > - **a huge billboard**：一块巨大的广告牌
 > - **electronic/digital billboard**：电子/数字广告牌
@@ -123,19 +121,12 @@ bill（账单/海报）+ board（板）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - The company rented a giant billboard along the highway to promote its new product line. `[例]`
 > - Digital billboards have become increasingly common in major cities around the world. `[例]`
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
-
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

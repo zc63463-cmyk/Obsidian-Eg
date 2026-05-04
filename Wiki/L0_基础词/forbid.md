@@ -123,9 +123,9 @@ for-(=outside, 在外面) + [[bid|bann/bid]](命令，禁止，源自古英语 *
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The law forbids the sale of cigarettes to people under the age of 16. `[例]`
 > - You can’t forbid me to go. `[例]`
-> - Diplomatic etiquette forbids calling for the death of a national leader . `[例]`
+> - Diplomatic etiquette forbids calling for the death of a national leader. `[例]`
+> - She does a lot of work for charities , but her modesty forbids her from talking about it. `[例]`
 
 
 ---

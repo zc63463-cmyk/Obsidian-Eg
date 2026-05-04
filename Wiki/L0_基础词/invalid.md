@@ -129,8 +129,8 @@ in-(=not, 不) + [[val|val]](=强，拉丁语 *valere* "强壮") + -[[id-ident|i
 
 > [!example]- 语料
 > - The contract was declared invalid because it had not been properly signed. `[真题]`
-> - His argument is based on invalid assumptions. `[语料库]`
-> - Any passport that has expired is considered invalid. `[外刊]`
+> - His argument is based on invalid assumptions. `[例]`
+> - Any passport that has expired is considered invalid. `[例]`
 
 
 ---

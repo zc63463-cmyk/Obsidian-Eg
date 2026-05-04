@@ -123,9 +123,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The door handles were made of brass. `[例]`
-> - The brass seems to me to be too loud in this recording . `[例]`
-> - The church has several beautiful medieval brasses. `[例]`
+> - She marched in here, bold as brass, and demanded a pay rise. `[例]`
+>   - 中译：她像黄铜一样大胆地走进这里，要求加薪。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/brass
+> - I didn't think he would have the brass neck to do that. `[例]`
+>   - 中译：我不认为他有胆量能做到这一点。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/brass
+> - The girls' outdoor track team has grabbed the brass ring seven times. `[例]`
+>   - 中译：女子户外田径队已七次夺得铜环。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/brass
 
 
 ---

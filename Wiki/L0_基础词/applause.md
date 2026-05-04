@@ -121,9 +121,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - His speech met with (= received ) loud applause. `[例]`
-> - So let's have a round of applause, please , for (= please applaud ) a very talented young lady who is going to sing for us. `[例]`
-> - So let's hear some applause for these talented young performers . `[例]`
+> - Give her a big round of applause! `[例]`
+>   - 中译：给她热烈的掌声！
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/applause
+> - The audience broke into rapturous applause. `[例]`
+>   - 中译：观众爆发出热烈的掌声。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/applause
+> - The announcement was greeted with applause and cheers. `[例]`
+>   - 中译：这一消息得到了热烈的掌声和欢呼。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/applause
 
 
 ---

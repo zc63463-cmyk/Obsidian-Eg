@@ -121,10 +121,15 @@ im-(=in，进入) + press(=press，按压) + -ive(形容词后缀，表"有…�
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - `The early settlers of Massachusetts Bay included men of impressive education and influence in England.` `[真题]`
-> > - `To be sure, he performs an impressive variety of interesting compositions.` `[真题]`
-> > - `He has an impressive record of 63 wins from 71 fights.` `[COCA-ACAD]`
-> > - `The Giants winning streak remained unbroken for an impressive 19 games.` `[COCA-ACAD]`
+> - That was an impressive performance from such a young tennis player. `[例]`
+>   - 中译：对于这样一位年轻的网球运动员来说，这是令人印象深刻的表现。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/impressive
+> - There are some very impressive buildings in the town. `[例]`
+>   - 中译：镇上有一些非常令人印象深刻的建筑。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/impressive
+> - She's a very impressive public speaker. `[例]`
+>   - 中译：她是一位令人印象深刻的公共演说家。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/impressive
 
 ---
 

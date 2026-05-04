@@ -141,8 +141,15 @@ ex-(向外) + [[haust]](抽取) = exhaust（向外抽干→耗尽）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The report exhausts all possible explanations for the phenomenon."（这份报告穷尽了对该现象所有可能的解释。）——考研高频表达
-> - "We have exhausted all available options to solve the problem."（我们已经穷尽了所有可用的选项来解决这个问题。）——考研高频表达
+> - The long journey exhausted the children. `[例]`
+>   - 中译：长途旅行使孩子们筋疲力尽。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/exhaust
+> - I've exhausted myself with all that cleaning. `[例]`
+>   - 中译：这么多的清洁工作我已经筋疲力尽了。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/exhaust
+> - Our plan was to exhaust the children at the park , so that they would sleep in the car. `[例]`
+>   - 中译：我们的计划是让孩子们在公园里筋疲力尽，这样他们就可以在车里睡觉了。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/exhaust
 
 ---
 

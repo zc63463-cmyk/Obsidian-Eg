@@ -127,9 +127,15 @@ co-（=com-，共同，一起）+ oper（工作，拉丁语 *operari*）+ -ative
 ## 真题/语料关联
 
 > [!example]- 语料
-> - He was an extremely cooperative witness. `[COCA-NEWS]`
-> - Local officials have been very cooperative on working together for a solution. `[COCA-NEWS]`
-> - Awareness of cultural variation and bias and cooperative efforts to develop and administer culturally appropriate assessment tools are the foundation of effective, valid treatment programmes. `[COCA-ACAD]`
+> - Cooperative activity is essential to effective community work. `[例]`
+>   - 中译：合作活动对于有效的社区工作至关重要。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/cooperative
+> - The documentary was a cooperative effort by film-makers from five countries. `[例]`
+>   - 中译：这部纪录片是来自五个国家的电影制作人的合作成果。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/cooperative
+> - This is a cooperative venture with the University of Copenhagen. `[例]`
+>   - 中译：这是与哥本哈根大学的合作项目。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/cooperative
 
 
 ---

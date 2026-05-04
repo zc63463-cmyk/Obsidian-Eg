@@ -125,9 +125,15 @@ be-（加强语气）+ neath（=near, 在……附近/下面，日耳曼语族�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "They thought she had married beneath her." `[真题]`
-> - "The water is some 20 to 30 meters beneath the ground." `[真题]`
-> - "Jaime hid the letter beneath a pile of papers." `[COCA-FIC]`
+> - They found the body buried beneath a pile of leaves. `[例]`
+>   - 中译：他们发现尸体埋在一堆树叶下。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/beneath
+> - The boat sank beneath the waves. `[例]`
+>   - 中译：船沉入海浪之下。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/beneath
+> - He considers such jobs beneath him. `[例]`
+>   - 中译：他认为这样的工作对他来说是低下的。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/beneath
 
 
 ---

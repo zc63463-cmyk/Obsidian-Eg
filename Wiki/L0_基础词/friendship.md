@@ -126,10 +126,9 @@ friend(朋友) + -ship(表示关系、状态的后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - I value her friendship above anything else because she has always been there for me. ` [真题]`
-> - Over time, their acquaintance developed into a lasting friendship that endured for decades. ` [真题]`
-> - The friendship between the two nations has lasted for centuries through wars and peace. ` [语料]`
-> - In every friendship there has to be some give-and-take to maintain a healthy relationship. ` [语料]`
+> - Their friendship goes back to when they were at school together. `[例]`
+> - He does not find it easy to form friendships. `[例]`
+> - From that meeting , they forged a lifelong friendship. `[例]`
 
 
 ---

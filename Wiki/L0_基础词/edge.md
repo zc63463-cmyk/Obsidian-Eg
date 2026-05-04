@@ -135,8 +135,8 @@ edge 源自古英语 *ecg*（刀刃，边缘），与古高地德语 *ekka*（�
 > [!example]- 语料
 > - ZEH communities are the leading edge of technologies that might someday create houses that produce as much energy as they consume. `[真题]`
 > - The rounded edges, cool glass, smooth and unknowable as a pebble. `[真题]`
-> - Being the leader of the fight against climate change provides a competitive edge. `[语料库]`
-> - Incumbents generally have a financial edge over their rivals. `[语料库]`
+> - Being the leader of the fight against climate change provides a competitive edge. `[例]`
+> - Incumbents generally have a financial edge over their rivals. `[例]`
 
 
 ---

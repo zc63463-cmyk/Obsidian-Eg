@@ -120,10 +120,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - While the bacon cooks, add 2 quarts of water and the salt to a medium-size pot and bring to a boil. `[NPR/Cambridge语料库]`
-> - Salivary glands churn out about a quart of spit each day. `[New York Times/Merriam-Webster语料库]`
-> - Bring a non-reactive saucepan with a quart of water to a boil and add a pinch of salt and the garlic. `[NPR/Cambridge语料库]`
-> - Maple syrup quarts are $27, pints are $16, and half-pints are $10. `[Hartford Courant/Merriam-Webster语料库]`
+> - While the bacon cooks, add 2 quarts of water and the salt to a medium-size pot and bring to a boil. `[例]`
+> - Salivary glands churn out about a quart of spit each day. `[例]`
+> - Bring a non-reactive saucepan with a quart of water to a boil and add a pinch of salt and the garlic. `[例]`
 
 
 ---

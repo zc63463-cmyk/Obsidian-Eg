@@ -127,9 +127,15 @@ pro-(向前) + [[fer|fer→带来]](带来) + -it(名词后缀) + -able(可被�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Over the years it has developed into a highly profitable business . `[例]`
+> - Over the years it has developed into a highly profitable business. `[例]`
+>   - 中译：多年来，它已发展成为一项高利润的业务。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/profitable
 > - The company had to eliminate 200 jobs to stay profitable. `[例]`
-> - I made profitable use of my time , mixing with a lot of different people and practising my Spanish . `[例]`
+>   - 中译：该公司不得不裁员 200 人才能保持盈利。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/profitable
+> - I made profitable use of my time , mixing with a lot of different people and practising my Spanish. `[例]`
+>   - 中译：我充分利用了自己的时间，与很多不同的人交往并练习了西班牙语。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/profitable
 
 
 ---

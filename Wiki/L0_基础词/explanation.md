@@ -128,7 +128,7 @@ ex-（完全/向外）+ plan（平坦/清楚）+ -ation（名词后缀）→ 完
 
 > [!example]- 语料
 > - This is a good explanation of the difference between " affect " and " effect ". `[例]`
-> - Could you give me a quick explanation of how it works ? `[例]`
+> - Could you give me a quick explanation of how it works? `[例]`
 > - What was her explanation for why she was late? `[例]`
 
 ---

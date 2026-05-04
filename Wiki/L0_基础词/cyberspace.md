@@ -129,9 +129,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - You can find the answer to almost any question in cyberspace. `[例]`
-> - A group of knitters has banded together in cyberspace to offer free patterns . `[例]`
-> - It is not surprising that more of cyberspace is being devoted to helping consumers buy green . `[例]`
+> - Many more business functions will move into cyberspace. `[例]`
+>   - 中译：更多的业务功能将转移到网络空间。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/cyberspace
+> - We send e-mails through cyberspace. `[例]`
+>   - 中译：我们通过网络空间发送电子邮件。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/cyberspace
+> - Consumers are increasingly turning to cyberspace for guidance about health and medicine, yet a growing number of sites offer unreliable information, new research shows. `[例]`
+>   - 中译：新的研究显示，消费者越来越多地转向网络空间寻求健康和医学方面的指导，但越来越多的网站提供不可靠的信息。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/cyberspace
 
 
 ---

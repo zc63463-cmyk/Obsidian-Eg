@@ -124,9 +124,15 @@ con-(=com-, 完全/彻底) + [[vinc-vict|vict]](=conquer/convince, 征服/说服
 ## 真题/语料关联
 
 > [!example]- 语料
-> - There might not have been enough evidence to convict him. `[COCA-ACAD]`
-> - If convicted, the man in question could face up to three years in prison. `[COCA-NEWS]`
-> - Those convicted could face life in prison. `[COCA-NEWS]`
+> - He was convicted of fraud. `[例]`
+>   - 中译：他被判犯有欺诈罪。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/convict
+> - There is sufficient evidence to convict. `[例]`
+>   - 中译：有足够的证据可以定罪。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/convict
+> - He was convicted in federal court. `[例]`
+>   - 中译：他在联邦法院被定罪。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/convict
 
 
 ---

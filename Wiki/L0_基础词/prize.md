@@ -139,7 +139,7 @@ review_count: 0
 > [!example]- 语料
 > - The critics ' prize for best film was won by Marc Abbott for "Belly Laugh". `[例]`
 > - The first (= main ) prize is a week for two in Miami. `[例]`
-> - The prize money for winning Wimbledon has been increased by 12.5 per cent . `[例]`
+> - The prize money for winning Wimbledon has been increased by 12.5 per cent. `[例]`
 
 
 ---

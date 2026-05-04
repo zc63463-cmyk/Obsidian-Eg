@@ -126,9 +126,15 @@ ex-（出，向外）+ 建议创建词根笔记 [[ess]]（=agere，做，驱动�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The essay discusses the impact of globalization on local cultures. `[真题]`
-> - Your assignment is to write a 500-word essay on one of Shakespeare's sonnets. `[COCA-ACAD]`
-> - The book is a collection of his previously unpublished essays on a variety of topics. `[COCA-ACAD]`
+> - Directions: Write an essay of 160-200 words based on the picture below. `[真题]`
+>   - 中译：说明：根据下图写一篇160-200字的文章。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - In your essay , you should 1) describe the picture briefly, 2 ) interpret the implied meaning , and 3) give your comments. `[真题]`
+>   - 中译：在你的文章中，你应该1）简要描述图片，2）解释隐含的含义，3）给出你的评论。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - For homework I want you to write an essay on endangered species. `[例]`
+>   - 中译：作为家庭作业，我希望你写一篇关于濒危物种的文章。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/essay
 
 ---
 

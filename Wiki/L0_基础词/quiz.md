@@ -131,10 +131,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - When quizzed on it, these individuals often report that they felt no sense of moving their arm voluntarily. `[Cambridge语料库]`
-> - The teacher ran a mock quiz complete with cash prizes for his pupils. `[Cambridge语料库]`
-> - There are quizzes held in some schools, and the children who take part in them go home and try out the questions on their parents. `[Hansard/Cambridge语料库]`
-> - She quizzed him on vocabulary words before the exam. `[Collins语料库]`
+> - When quizzed on it, these individuals often report that they felt no sense of moving their arm voluntarily. `[例]`
+> - The teacher ran a mock quiz complete with cash prizes for his pupils. `[例]`
+> - She quizzed him on vocabulary words before the exam. `[例]`
 
 
 ---

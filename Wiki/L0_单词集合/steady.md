@@ -139,9 +139,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The procession moved through the streets at a steady pace . `[例]`
-> - Orders for new ships are rising , after several years of steady decline . `[例]`
-> - Progress has been slow but steady. `[例]`
+> - We've had five years of steady economic growth. `[例]`
+>   - 中译：我们已经经历了五年经济稳定增长。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/steady
+> - The last decade has seen a steady decline in the number of birds nesting here. `[例]`
+>   - 中译：过去十年来，在这里筑巢的鸟类数量稳步下降。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/steady
+> - There has been a gradual but steady increase in prices. `[例]`
+>   - 中译：价格逐渐但稳定地上涨。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/steady
 
 ---
 

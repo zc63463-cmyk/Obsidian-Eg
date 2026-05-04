@@ -119,10 +119,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The resultant damage from the earthquake was estimated at billions of dollars." `[真题]`
-> - "The resultant flow of ideas is an important dimension of the process in which policy is made." `[真题]`
-> - "We deplore the use of force and the resultant loss of life." `[COCA-ACAD]`
-> - "The resultant changes in regional species composition have many consequences for human health." `[COCA-ACAD]`
+> - She deserves credit for the increase in sales and the resultant increase in profit. `[例]`
+>   - 中译：她的销售额增长和由此带来的利润增长值得赞扬。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/resultant
+> - This pace of growth means that every new generation of AI comes with an order-of-magnitude increase in energy, water demand and the resultant CO2 impact. `[例]`
+>   - 中译：这种增长速度意味着每一代新一代人工智能都会带来能源、水需求以及由此产生的二氧化碳影响的数量级增长。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/resultant
+> - The resultant pollution from the Canadian blazes spread across Wisconsin, Illinois, Indiana and Ohio and even reached as far as Pennsylvania, Oklahoma and Mississippi, according to the report. `[例]`
+>   - 中译：报告称，加拿大大火造成的污染蔓延到威斯康星州、伊利诺伊州、印第安纳州和俄亥俄州，甚至远至宾夕法尼亚州、俄克拉荷马州和密西西比州。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/resultant
 
 ---
 

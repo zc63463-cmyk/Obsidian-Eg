@@ -130,11 +130,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The crisp fall air smelled of pine and wood smoke, and colorful leaves glowed against a sky just beginning to cloud. `[真题]`
-> - In a large ovenproof skillet, cook bacon over moderate heat until crisp, about 10 minutes. `[真题]`
-> - The general's voice was crisp and clear as he addressed the meeting. `[真题]`
-> - The sound from the new speakers is very crisp. `[真题]`
-> - Two pints of lager and a packet of crisps, please. `[真题]`
+> - Bake until the pastry is golden and crisp. `[例]`
+>   - 中译：烘烤直至糕点金黄酥脆。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/crisp
+> - When fried, the bacon rind becomes crisp and brown. `[例]`
+>   - 中译：油炸后，培根皮变得酥脆并呈棕色。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/crisp
+> - The sheets looked clean and crisp. `[例]`
+>   - 中译：床单看起来干净整洁。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/crisp
 
 
 ---

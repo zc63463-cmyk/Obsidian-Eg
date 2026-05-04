@@ -121,9 +121,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The forest fire reduced the entire village to ashes. `[COCA-NEWS]`
-> - Volcanic ash from the eruption disrupted air travel across Europe. `[COCA-NEWS]`
-> - She flicked ash out of the window carelessly. `[BNC-SPOKEN]`
+> - She flicked ash out of the window carelessly. `[例]`
+>   - 中译：她漫不经心地把烟灰弹到了窗外。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ash
+> - The town was reduced to ashes in the fighting. `[例]`
+>   - 中译：这座城镇在战斗中化为灰烬。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ash
+> - The fire had died to cold ashes. `[例]`
+>   - 中译：火已经熄灭，化为冰冷的灰烬。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ash
 
 
 ---

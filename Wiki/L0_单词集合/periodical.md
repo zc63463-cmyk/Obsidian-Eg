@@ -121,10 +121,15 @@ peri-(周围/环绕) + od(道路) + -ical(形容词后缀，表"…性质的")
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The library subscribes to a wide range of academic periodicals. `[真题]`
-> - He continued his academic work, writing essays for periodicals. `[COCA-ACAD]`
-> - The library has a large collection of scholarly periodicals. `[COCA-ACAD]`
-> - Periodicals and magazines were also circulated widely among the public. `[COCA-ACAD]`
+> - She has written for several legal periodicals. `[例]`
+>   - 中译：她曾为多家法律期刊撰稿。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/periodical
+> - The library subscribes to a number of periodicals dealing with the arts and sciences. `[例]`
+>   - 中译：图书馆订阅了许多涉及艺术和科学的期刊。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/periodical
+> - It is a small publishing company specializing in periodicals for professionals in the field of transportation. `[例]`
+>   - 中译：它是一家小型出版公司，专门为交通领域的专业人士出版期刊。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/periodical
 
 ---
 

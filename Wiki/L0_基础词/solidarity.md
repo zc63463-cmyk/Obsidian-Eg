@@ -125,7 +125,7 @@ review_count: 0
 
 > [!example]- 语料
 > - The situation raises important questions about solidarity among member states of the UN. `[例]`
-> - The purpose of the speech was to show solidarity with the country's leaders . `[例]`
+> - The purpose of the speech was to show solidarity with the country's leaders. `[例]`
 > - Hundreds of supporters gathered to show solidarity for the three men. `[例]`
 
 

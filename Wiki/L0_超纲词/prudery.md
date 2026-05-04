@@ -3,10 +3,8 @@ title: "prudery"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-25
-mastery: L0
 word_freq: 超纲词
 semantic_field: 社会习俗
 prototype: 过分谨慎的道德洁癖
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**过分谨慎的道德洁癖**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **过分谨慎的道德洁癖**（行为态度层面）
@@ -64,7 +62,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > prude（假道学的人）是 prudent（谨慎的）的极端化。谨慎是美德，但谨慎到对一切敏感话题都大惊小怪，就变成了 prudery——维多利亚时代的人看到桌腿都要用布遮起来，这就是 prudery 的极致。
@@ -86,7 +84,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[liberalism]]：自由主义（prudery 的反义：过度保守↔思想开放）
 > - [[permissiveness]]：放任，宽容（prudery 的反义：过度拘谨↔过度放任）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,26 +115,19 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **Victorian prudery**：维多利亚式的假道学（经典搭配，指19世纪英国社会的过度保守风气）
 > - **sexual prudery**：性方面的过度保守
 > - **mock/praise prudery**：嘲笑/赞扬过分拘谨
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - The phallus could be intended as a way of poking fun at his prudery. `[例]`
 > - Such prudery regarding artistic depictions of the nude has no place on a college campus. `[例]`
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-25 | **复习次数**：0 | **当前等级**：L0
-
----
-
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

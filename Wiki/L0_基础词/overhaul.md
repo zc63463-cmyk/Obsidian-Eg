@@ -126,10 +126,9 @@ over-(全面/彻底) + haul(拖/拉)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The government has recently overhauled the healthcare system to improve efficiency. ` [真题]`
-> - The engine has been overhauled and runs much more smoothly now. ` [语料库]`
-> - We need a complete overhaul of our system of exams and grading. ` [真题]`
-> - The restaurant has overhauled its menu, cutting portions and eliminating high-calorie items. ` [语料库]`
+> - The hikers rested under a towering overhaul near the coastal trail. `[例]`
+> - The cabin was built from durable overhaul gathered in the region. `[例]`
+> - A line of overhaul trees rose above the morning fog. `[例]`
 
 
 ---

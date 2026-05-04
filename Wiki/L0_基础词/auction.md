@@ -125,10 +125,15 @@ auc-(=aug-, 增加，拉丁语 *augere* 的过去分词词干 *auctus*) + -tion(
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She bought the desk at an auction. `[COCA-NEWS]`
-> - The famous auction house sold the rare painting for millions of dollars. `[COCA-NEWS]`
-> - The government auctioned off the seized property to the highest bidder. `[COCA-NEWS]`
-> - They decided to put the old estate up for auction after the owner passed away. `[例]`
+> - A classic Rolls-Royce fetched (= was sold for) £25 000 at auction. `[例]`
+>   - 中译：一辆经典的劳斯莱斯在拍卖会上以 25,000 英镑的价格售出（= 售出）。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/auction
+> - The house is up for auction (= will be sold at an auction). `[例]`
+>   - 中译：房子即将拍卖（= 将在拍卖会上出售）。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/auction
+> - He made several bids at the auction. `[例]`
+>   - 中译：他在拍卖会上多次出价。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/auction
 
 
 ---

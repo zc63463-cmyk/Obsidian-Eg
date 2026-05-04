@@ -124,9 +124,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Jobs are scarce these days." `[Collins]`
-> - "Clean water is scarce in many developing countries." `[COCA-ACAD]`
-> - "Good seats for the concert were scarce, so we arrived early." `[例]`
+> - Jobs are scarce these days. `[例]`
+> - Clean water is scarce in many developing countries. `[COCA-ACAD]`
+> - Good seats for the concert were scarce, so we arrived early. `[例]`
 
 
 ---

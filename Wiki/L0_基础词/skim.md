@@ -145,9 +145,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - He didn't have time to read the report word for word, so he just skimmed it quickly. ` `[真题]`
-> - If you skim through the play too quickly, you'll forget the plot. ` `[真题]`
-> - A seagull skimmed the surface of the water, barely touching it. ` `[语料库]`
+> - We watched a child skimming stones across the lake. `[例]`
+> - We've only skimmed the surface of (= considered a small part of) the problem. `[例]`
+> - Strain the cooking liquid and skim off the fat. `[例]`
 
 
 ---

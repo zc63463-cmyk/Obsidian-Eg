@@ -125,9 +125,9 @@ quant（多少，拉丁语 *quantus*）+ -ify（使动后缀，"使成为"）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - It's difficult to quantify how many people will have to pay higher taxes. ` `[COCA-NEWS]` `
-> - He said it was too early to quantify the total financial impact of the hurricanes. ` `[COCA-NEWS]` `
-> - The damage caused to the tourist industry is difficult to quantify. ` `[COCA-ACAD]` `
+> - It's difficult to quantify how many people will be affected by the change. `[例]`
+> - It’s difficult to quantify how many people will have to pay higher taxes. `[例]`
+> - The economic costs of IT complexity are hard to quantify. `[例]`
 
 
 ---

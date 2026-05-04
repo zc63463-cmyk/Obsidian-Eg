@@ -135,9 +135,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - I can testify to the foregoing since I was actually present when it happened . `[例]`
-> - These monuments testify to the prosperity of the country and the richness of its culture . `[例]`
-> - Managing people is not easy , as many new managers can testify. `[例]`
+> - She refused to testify against her husband. `[例]`
+>   - 中译：她拒绝出庭指证她的丈夫。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/testify
+> - There are several witnesses who will testify for the defence. `[例]`
+>   - 中译：有几名证人将为辩方作证。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/testify
+> - He was summoned to testify before a grand jury about his role in the affair. `[例]`
+>   - 中译：他被传唤到大陪审团面前就他在这起事件中所扮演的角色作证。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/testify
 
 ---
 

@@ -128,7 +128,15 @@ heal（源自古英语 haelan"使完整、治愈"，与 whole"完整的"同源�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Time heals all wounds, but the process of emotional recovery can be long and difficult.（时间能治愈一切创伤，但情感恢复的过程可能漫长而艰难。）
+> - Brain injuries take a long time to heal. `[例]`
+>   - 中译：脑损伤需要很长时间才能治愈。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/heal
+> - The wounds were gradually healing up. `[例]`
+>   - 中译：伤口正在逐渐愈合。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/heal
+> - The plaster cast helps to heal the broken bone. `[例]`
+>   - 中译：石膏有助于愈合断骨。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/heal
 
 ---
 

@@ -127,7 +127,7 @@ loaf 源自古英语 *hlāf*（面包），与 [[life|life]]（生命）同源�
 > [!example]- 语料
 > - I made an apple cake and it was so nice I ate the whole loaf myself! `[例]`
 > - It has classics like chilli and meat loaf. `[例]`
-> - We ate nut loaf topped with gravy and served with buttered peas . `[例]`
+> - We ate nut loaf topped with gravy and served with buttered peas. `[例]`
 
 
 ---

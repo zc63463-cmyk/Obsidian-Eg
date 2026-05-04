@@ -138,9 +138,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - That's why Hayden's expedition aimed to produce a fuller understanding of the Yellowstone River region, from its hot springs and waterfalls to its variety of flora and fauna. `[真题]`
-> - She explained the whole idea again, but I still didn't understand. `[例]`
-> - Is there anyone here who understands Arabic ? `[例]`
+> - Can you understand French? `[例]`
+>   - 中译：你能听懂法语吗？
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/understand
+> - Do you understand the instructions? `[例]`
+>   - 中译：您明白说明吗？
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/understand
+> - She didn't understand the form she was signing. `[例]`
+>   - 中译：她不明白她签署的表格。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/understand
 
 ---
 

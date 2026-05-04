@@ -133,9 +133,9 @@ ten-(=ten-/tin-/tain-, 持有，拉丁语 *tenere*) + -ant(名词后缀，表示
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Tenants are complaining that vital repairs are not being done." `[真题]`
-> - "They had exclusive possession of the property as tenants." `[真题]`
-> - "The landlord once suggested that a relative of his would be prepared to swap property with the tenants." `[真题]`
+> - Tenants are complaining that vital repairs are not being done. `[真题]`
+> - They had exclusive possession of the property as tenants. `[真题]`
+> - The landlord once suggested that a relative of his would be prepared to swap property with the tenants. `[真题]`
 
 
 ---

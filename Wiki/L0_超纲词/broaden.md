@@ -3,10 +3,8 @@ title: "broaden"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 抽象关系
 prototype: 使变宽
@@ -43,7 +41,7 @@ broad(宽的) + -en(动词后缀，使……变得)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**使变宽**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **使变宽**（物理动作层面）
@@ -64,7 +62,7 @@ broad(宽的) + -en(动词后缀，使……变得)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ broad(宽的) + -en(动词后缀，使……变得)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > broad（宽的）+ en（使变得）→ broaden（使变宽）。broaden your horizons（拓宽你的视野）——让你的视野像路一样变宽。travel broadens the mind（旅行拓宽心胸）。
@@ -86,7 +84,7 @@ broad(宽的) + -en(动词后缀，使……变得)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -98,12 +96,12 @@ broad(宽的) + -en(动词后缀，使……变得)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[narrow]]：变窄（拓宽↔变窄）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -115,7 +113,7 @@ broad(宽的) + -en(动词后缀，使……变得)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **broaden one's horizons**：拓宽视野
 > - **broaden knowledge**：拓宽知识面
 > - **broaden the scope**：扩大范围
@@ -123,19 +121,12 @@ broad(宽的) + -en(动词后缀，使……变得)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - Studying abroad can significantly broaden your horizons and deepen your understanding of different cultures. `[例]`
 > - The university decided to broaden the scope of its research program to include environmental sustainability. `[例]`
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
-
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

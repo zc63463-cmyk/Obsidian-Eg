@@ -134,9 +134,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The nation came to a standstill in a two-minute silence, signalled by deafening air-raid sirens. `[外刊]`
-> - The siren song of the open road has always tempted young adventurers to leave home and explore the unknown. `[外刊]`
-> - Just then, she heard the loud blaring sound of an ambulance siren as it screamed by her vehicle. `[外刊]`
+> - The nation came to a standstill in a two-minute silence, signalled by deafening air-raid sirens. `[例]`
+> - The siren song of the open road has always tempted young adventurers to leave home and explore the unknown. `[例]`
+> - Just then, she heard the loud blaring sound of an ambulance siren as it screamed by her vehicle. `[例]`
 
 
 ---

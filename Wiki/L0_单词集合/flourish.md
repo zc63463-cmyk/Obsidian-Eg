@@ -125,8 +125,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The arts flourished during the Renaissance period."（文艺复兴时期艺术蓬勃发展。）——考研高频表达
-> - "Small businesses can flourish if they adapt to changing market conditions."（如果小企业能适应不断变化的市场条件，就能蓬勃发展。）——考研高频表达
+> - My tomatoes are flourishing this summer - it must be the warm weather. `[例]`
+>   - 中译：今年夏天我的西红柿开花了——一定是天气暖和了。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/flourish
+> - Watercolour painting began to flourish in Britain around 1750. `[例]`
+>   - 中译：1750年左右，水彩画在英国开始盛行。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/flourish
+> - She came in smiling , flourishing her exam results. `[例]`
+>   - 中译：她微笑着进来，夸奖她的考试成绩。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/flourish
 
 ---
 

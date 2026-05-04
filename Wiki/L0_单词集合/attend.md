@@ -128,9 +128,15 @@ at-(=ad-, 向、朝向) + [[tend-tens|tend]](伸展、倾向)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "I have more pressing things to attend to." `[真题]`
-> - "The first step, as Erik Brynjolfsson and Andrew McAfee argue in The Second Machine Age, should be rethinking education and job training." `[真题]`
-> - "All students are expected to attend the commencement ceremony on Friday." `[例]`
+> - Over two hundred people attended the funeral. `[例]`
+>   - 中译：超过两百人参加了葬礼。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/attend
+> - The meeting is on the fifth and we're hoping everyone will attend. `[例]`
+>   - 中译：会议定于五号举行，希望大家都能参加。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/attend
+> - Which school do your children attend? `[例]`
+>   - 中译：您的孩子在哪所学校就读？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/attend
 
 ---
 

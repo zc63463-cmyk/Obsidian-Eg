@@ -137,9 +137,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It is generally accepted that education is the key to success."（人们普遍认为教育是成功的关键。）——考研写作/翻译经典句型
-> - "accept responsibility for the mistake"（为错误承担责任）——管理、伦理类阅读
-> - "She accepted the job offer without hesitation."（她毫不犹豫地接受了工作邀请。）——叙事类文本
+> - Still, the decision was largely accepted-and Jackson's photos played a key role in the fight to protect the area. `[真题]`
+>   - 中译：尽管如此，这个决定还是被广泛接受了——杰克逊的照片在保护该地区的斗争中发挥了关键作用。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - Do you accept credit cards? `[例]`
+>   - 中译：你们收信用卡吗 ？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/accept
+> - She was in Mumbai to accept an award for her latest novel. `[例]`
+>   - 中译：她在孟买接受她最新小说的奖项。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/accept
 
 ---
 

@@ -139,9 +139,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The two of them seem unable to control their sexual urges. `[例]`
-> - The urge to steal is very strong in some of these young men. `[例]`
-> - Lawyers will urge the parents to take further legal action . `[例]`
+> - If you ever get the chance to visit this place, I strongly urge you to do so. `[例]`
+>   - 中译：如果您有机会参观这个地方，我强烈建议您这样做。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/urge
+> - Police are urging anyone who saw the accident to contact them immediately. `[例]`
+>   - 中译：警方敦促任何看到这起事故的人立即与他们联系。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/urge
+> - She urged him to stay. `[例]`
+>   - 中译：她力劝他留下来。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/urge
 
 ---
 

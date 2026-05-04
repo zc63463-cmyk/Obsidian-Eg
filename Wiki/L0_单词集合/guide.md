@@ -122,8 +122,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Parents should guide their children in making important life decisions rather than making decisions for them."（父母应指导孩子做出重要的人生决定，而不是替他们做决定。）——考研高频表达
-> - "The principles of fairness and justice should guide the formulation of public policy."（公平和正义的原则应指导公共政策的制定。）——考研高频表达
+> - An avid birder, he bought a guide to North American birds before his trip to Canada. `[例]`
+>   - 中译：作为一名狂热的观鸟者，他在前往加拿大之前购买了一本北美鸟类指南。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/guide
+> - We recommend you buy a reputable guide to Spain before travelling there. `[例]`
+>   - 中译：我们建议您在前往西班牙之前购买一份信誉良好的西班牙指南。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/guide
+> - All major travel guides agree on a five-star rating system. `[例]`
+>   - 中译：所有主要旅游指南都同意五星级评级系统。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/guide
 
 
 ---

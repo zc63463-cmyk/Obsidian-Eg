@@ -141,9 +141,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It's time to reinvent the formula for how work is conducted, since we are still relying on a very 20th century notion of work, a scripted approach." `[真题]`
-> - "Jenny's writing a film script." `[真题]`
-> - "They gave me the script and I only had five lines." `[语料库]`
+> - It's time to reinvent the formula for how work is conducted, since we are still relying on a very 20th century notion of work, a scripted approach. `[真题]`
+> - Jenny's writing a film script. `[真题]`
+> - They gave me the script and I only had five lines. `[例]`
 
 
 ---

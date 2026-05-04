@@ -124,9 +124,9 @@ dos(=dot-, 给予，希腊语 dosis "给予"，PIE词根 *deh-/*do-) + -e
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "A single dose of the vaccine can provide protection against the virus." `[真题]`
-> - "Never exceed the recommended dose of painkillers." `[真题]`
-> - "My doctor prescribed a daily dose of antibiotics to treat my infection." `[真题]`
+> - A single dose of the vaccine can provide protection against the virus. `[真题]`
+> - Never exceed the recommended dose of painkillers. `[真题]`
+> - My doctor prescribed a daily dose of antibiotics to treat my infection. `[真题]`
 
 
 ---

@@ -124,9 +124,9 @@ rip（撕开，可能来自 PIE词根 *reub-/*reup- "撕/抓取"，北日耳曼�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The explosion ripped through the hotel." `[真题]`
-> - "He ripped the phone from her hand." `[真题]`
-> - "A violent streak of pain ripped through her whole body." `[真题]`
+> - The explosion ripped through the hotel. `[真题]`
+> - He ripped the phone from her hand. `[真题]`
+> - A violent streak of pain ripped through her whole body. `[真题]`
 
 
 ---

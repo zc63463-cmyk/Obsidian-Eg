@@ -126,9 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - He's got a great sense of humour (= he is very able to see things as funny ) . `[例]`
-> - I must say I find his schoolboy (= childish ) humour rather tiresome . `[例]`
-> - She was in a bad humour and gave him short answers . `[例]`
+> - He's got a great sense of humour (= he is very able to see things as funny ). `[例]`
+> - I must say I find his schoolboy (= childish ) humour rather tiresome. `[例]`
+> - She was in a bad humour and gave him short answers. `[例]`
 
 
 ---

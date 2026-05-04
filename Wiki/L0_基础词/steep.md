@@ -131,7 +131,7 @@ review_count: 0
 
 > [!example]- 语料
 > - It's a steep climb to the top of the mountain , but the view is worth it. `[例]`
-> - They are having to face very steep taxes . `[例]`
+> - They are having to face very steep taxes. `[例]`
 > - We enjoyed our meal at the restaurant , but the bill was a bit steep. `[例]`
 
 

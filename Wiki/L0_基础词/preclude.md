@@ -126,9 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - His contract precludes him from discussing his work with anyone outside the company . `[例]`
-> - The fact that your application was not successful this time does not preclude the possibility of you applying again next time . `[例]`
-> - Although your application was not accepted , it doesn’t preclude the possibility of your applying again later . `[例]`
+> - His contract precludes him from discussing his work with anyone outside the company. `[例]`
+> - The fact that your application was not successful this time does not preclude the possibility of you applying again next time. `[例]`
+> - Although your application was not accepted , it doesn’t preclude the possibility of your applying again later. `[例]`
 
 
 ---

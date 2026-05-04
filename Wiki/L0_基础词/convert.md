@@ -128,9 +128,15 @@ con-(=com-, 共同/完全) + [[ver-vert|vert]](=turn, 转，拉丁语 *vertere*)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The hotel is going to be converted into a nursing home. `[COCA-NEWS]`
-> - What rate will I get if I convert my dollars into euros? `[COCA-ACAD]`
-> - By converting the loft, they were able to have two extra bedrooms. `[COCA-NEWS]`
+> - They took just nine months to convert the building. `[例]`
+>   - 中译：他们只花了九个月的时间就改造了这座建筑。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/convert
+> - You need to ensure that you've converted the data properly. `[例]`
+>   - 中译：您需要确保已正确转换数据。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/convert
+> - The pub is a converted warehouse. `[例]`
+>   - 中译：酒吧是由仓库改建而成。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/convert
 
 
 ---

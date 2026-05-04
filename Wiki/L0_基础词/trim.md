@@ -130,8 +130,8 @@ review_count: 0
 
 > [!example]- 语料
 > - My hair needs trimming. `[例]`
-> - Trim off the leafy ends of the vegetable before cooking . `[例]`
-> - They're trying to trim their costs , so staff who leave are not being replaced . `[例]`
+> - Trim off the leafy ends of the vegetable before cooking. `[例]`
+> - They're trying to trim their costs , so staff who leave are not being replaced. `[例]`
 
 
 ---

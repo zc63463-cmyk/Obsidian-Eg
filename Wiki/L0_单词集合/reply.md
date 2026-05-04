@@ -118,10 +118,15 @@ re-(回) + [[ply|ply]](折叠) → 折回来 → 回应
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Subscribers can customize the information they want to receive and proceed directly to a company's website. `[真题]`
-> - I am writing in reply to your letter of May 20th regarding the position of marketing assistant. `[真题]`
-> - She replied to the accusation with a stack of documents proving her innocence. `[COCA-ACAD]`
-> - He said in reply that the question was unfair. `[COCA-ACAD]`
+> - Where are you going?" I asked . "Home," he replied. `[例]`
+>   - 中译：你要去哪里？”我问。“回家。”他回答道。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/reply
+> - I replied that it was twelve o'clock. `[例]`
+>   - 中译：我回答说已经十二点了。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/reply
+> - I try to reply to letters the day I receive them. `[例]`
+>   - 中译：我会尽量在收到信件的当天回复它们。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/reply
 
 ---
 

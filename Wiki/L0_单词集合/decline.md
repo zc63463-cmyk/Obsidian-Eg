@@ -135,8 +135,14 @@ review_count: 0
 
 > [!example]- 语料
 > - PRH declined to comment on the issue , but a spokesperson for W aterstones told me : " W aterstones are currently operating with reduced credit terms from PRH, the only publisher in the UK to place any limitations on our ability to trade. `[真题]`
-> - His interest in the project declined after his wife died . `[例]`
-> - The party's popularity has declined in the opinion polls . `[例]`
+>   - 中译：PRH 拒绝就此事发表评论，但 Waterstones 的一位发言人告诉我：“Waterstones 目前正在以 PRH 降低的信贷条件运营，PRH 是英国唯一一家对我们的交易能力施加任何限制的出版商。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - His interest in the project declined after his wife died. `[例]`
+>   - 中译：妻子去世后，他对该项目的兴趣下降了。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/decline
+> - The party's popularity has declined in the opinion polls. `[例]`
+>   - 中译：在民意调查中该党的支持率有所下降。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/decline
 
 ---
 

@@ -121,9 +121,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The colour red is used to denote passion or danger . `[例]`
-> - His angry tone denoted extreme displeasure . `[例]`
+> - The colour red is used to denote passion or danger. `[例]`
+>   - 中译：红色用来表示热情或危险。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/denote
+> - His angry tone denoted extreme displeasure. `[例]`
+>   - 中译：他的语气愤怒，透露着极度的不悦。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/denote
 > - A very high temperature often denotes a serious illness. `[例]`
+>   - 中译：非常高的体温通常表示患有严重的疾病。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/denote
 
 ---
 

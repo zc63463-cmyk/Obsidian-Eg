@@ -128,8 +128,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The alarm emits infrared rays which are used to detect any intruder . `[例]`
-> - The machine emits a high-pitched sound when you press the button . `[例]`
+> - The alarm emits infrared rays which are used to detect any intruder. `[例]`
+> - The machine emits a high-pitched sound when you press the button. `[例]`
 > - The alarm emits a high-pitched sound if anyone tries to break in. `[例]`
 
 

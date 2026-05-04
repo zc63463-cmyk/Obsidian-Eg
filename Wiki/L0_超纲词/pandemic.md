@@ -3,10 +3,8 @@ title: "pandemic"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-25
-mastery: L0
 word_freq: 超纲词
 semantic_field: 社会专业
 prototype: 遍及所有人的疾病
@@ -44,7 +42,7 @@ pan-(全部，所有，希腊语 *pas*, *pan*) + [[dem]](人民，希腊语 *dem
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**遍及所有人的疾病**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **遍及所有人的疾病**（疾病传播范围层面）
@@ -66,7 +64,7 @@ pan-(全部，所有，希腊语 *pas*, *pan*) + [[dem]](人民，希腊语 *dem
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ pan-(全部，所有，希腊语 *pas*, *pan*) + [[dem]](人民，希腊语 *dem
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 希腊语 *pan*（全部）+ *demos*（人民）= 遍及所有人。想象一种病毒从一个小村庄开始传播，越过城市、越过国界，最终蔓延到全世界每一个人——这就是 pandemic（大流行病）。记住 pan = 全部（如 panorama 全景、Panasonic 松下），dem = 人民（如 democracy 民主），合起来就是"全民的疾病"。
@@ -89,7 +87,7 @@ pan-(全部，所有，希腊语 *pas*, *pan*) + [[dem]](人民，希腊语 *dem
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +100,13 @@ pan-(全部，所有，希腊语 *pas*, *pan*) + [[dem]](人民，希腊语 *dem
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[endemic]]：地方性的（pandemic 的反义：全球大流行↔局限于特定地区）
 > - [[contained]]：受控的（pandemic 的反义：广泛蔓延↔被控制住）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +118,7 @@ pan-(全部，所有，希腊语 *pas*, *pan*) + [[dem]](人民，希腊语 *dem
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a global pandemic**：全球大流行病
 > - **the COVID-19 pandemic**：新冠大流行
 > - **pandemic preparedness**：大流行病防范
@@ -129,19 +127,12 @@ pan-(全部，所有，希腊语 *pas*, *pan*) + [[dem]](人民，希腊语 *dem
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - `[例]` The World Health Organization declared the COVID-19 outbreak a pandemic in March 2020.
-> - `[例]` The 1918 flu pandemic killed an estimated 50 million people worldwide.
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-25 | **复习次数**：0 | **当前等级**：L0
-
----
+> [!example]- 语料
+> - The researchers proposed a pandemic solution to the problem. `[例]`
+> - The company adopted a pandemic approach to improve efficiency. `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

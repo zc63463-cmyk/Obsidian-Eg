@@ -125,9 +125,15 @@ bud（源自中古英语 *budde*，可能与古法语 *boter*（突出、膨胀�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - It was springtime and the fruit trees were in bud. `[例]`
-> - The unusually cold winter has caused many plants to bud late this year . `[例]`
-> - In early spring the trees begin to bud. `[例]`
+> - The tree is in bud already. `[例]`
+>   - 中译：这棵树已经含苞待放了。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bud
+> - Listen, bud, enough of the wisecracks, OK? `[例]`
+>   - 中译：听着，伙计，俏皮话讲够了，好吗？
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bud
+> - The bush has plenty of buds but no flowers yet. `[例]`
+>   - 中译：灌木丛有很多花蕾，但还没有开花。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/bud
 
 
 ---

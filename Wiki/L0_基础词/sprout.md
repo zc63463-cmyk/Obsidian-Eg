@@ -130,8 +130,8 @@ review_count: 0
 
 > [!example]- 语料
 > - It takes about three days for the seeds to sprout. `[例]`
-> - Your hair is sticking up - it looks like you're sprouting horns ! `[例]`
-> - New factories have sprouted up everywhere . `[例]`
+> - Your hair is sticking up - it looks like you're sprouting horns! `[例]`
+> - New factories have sprouted up everywhere. `[例]`
 
 
 ---

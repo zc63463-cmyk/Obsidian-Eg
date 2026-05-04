@@ -3,10 +3,8 @@ title: "heatstroke"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 人体动作
 prototype: 中暑（因高温导致身体过热的疾病）
@@ -42,7 +40,7 @@ heat(高温) + stroke(打击/发作) → 复合词
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**高温对身体造成的打击**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **高温对身体造成的打击**（医学层面）
@@ -61,7 +59,7 @@ heat(高温) + stroke(打击/发作) → 复合词
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -71,7 +69,7 @@ heat(高温) + stroke(打击/发作) → 复合词
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > heat（热）+ stroke（打击）= heatstroke = 热打击 = 中暑。想象你在烈日下暴晒，突然感觉天旋地转——高温对你的身体发起了一次"打击"，这就是中暑。stroke 本身就有"发作"的意思（如 sunstroke 日射病），heatstroke 就是高温引起的发作。
@@ -83,7 +81,7 @@ heat(高温) + stroke(打击/发作) → 复合词
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -95,13 +93,13 @@ heat(高温) + stroke(打击/发作) → 复合词
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[hypothermia]]：体温过低（中暑↔失温）
 > - [[frostbite]]：冻伤（中暑↔冻伤）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -112,7 +110,7 @@ heat(高温) + stroke(打击/发作) → 复合词
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **suffer from heatstroke**：患中暑
 > - **heatstroke warning**：中暑预警
 > - **prevent heatstroke**：预防中暑
@@ -120,19 +118,12 @@ heat(高温) + stroke(打击/发作) → 复合词
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - With temperatures soaring above 40 degrees Celsius, authorities issued heatstroke warnings across the region. `[例]`；
-> - Elderly people and young children are particularly vulnerable to heatstroke during heatwaves. `[例]`；
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
+> [!example]- 语料
+> - Officials have reported at least one heatstroke death and urged residents to practice heat safety. `[例]`
+> - With temperatures reaching triple digits before spring begins, officials are closing popular routes to prevent heatstroke. `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

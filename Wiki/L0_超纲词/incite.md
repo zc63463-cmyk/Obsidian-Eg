@@ -3,10 +3,8 @@ title: "incite"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 人本世界
 prototype: 煽动、激起（情绪或行为）
@@ -43,7 +41,7 @@ in-(=in-, 加强) + cite(激起，拉丁语 *citare*=唤起、刺激)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以“**煽动、激起（情绪或行为）**”为统筹中心，沿具身路径向外扩展：
 >
 1. **激起、煽动**（情感层面）
@@ -63,7 +61,7 @@ in-(=in-, 加强) + cite(激起，拉丁语 *citare*=唤起、刺激)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 |------|------|----------|
@@ -73,7 +71,7 @@ in-(=in-, 加强) + cite(激起，拉丁语 *citare*=唤起、刺激)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > in（加强）+ cite（激起）→ 煽动、激起。incite violence 就是煽动暴力——像往火堆里浇油，让火烧得更旺。
@@ -82,7 +80,7 @@ in-(=in-, 加强) + cite(激起，拉丁语 *citare*=唤起、刺激)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 |------|------------|---------|---------|---------|
@@ -96,14 +94,14 @@ in-(=in-, 加强) + cite(激起，拉丁语 *citare*=唤起、刺激)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[suppress]]：镇压（煽动↔镇压）
 - [[pacify]]：安抚（激起↔安抚）
 - [[discourage]]：打消
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 |--------|---------|------|---------|
@@ -117,26 +115,19 @@ in-(=in-, 加强) + cite(激起，拉丁语 *citare*=唤起、刺激)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **incite violence/rebellion**：煽动暴力/叛乱
 - **incite someone to do something**：煽动某人做某事
 - **incite hatred**：煽动仇恨
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - She incited racial hatred by distributing anti-Semitic leaflets . `[例]`
-> - She was expelled for inciting her classmates to rebel against their teachers . `[例]`
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
+> [!example]- 语料
+> - She incited racial hatred by distributing anti-Semitic leaflets. `[例]`
+> - She was expelled for inciting her classmates to rebel against their teachers. `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

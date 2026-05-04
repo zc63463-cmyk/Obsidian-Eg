@@ -128,7 +128,7 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The change in the exchange rate provided a timely boost to the company's falling profits . `[例]`
+> - The change in the exchange rate provided a timely boost to the company's falling profits. `[例]`
 > - A nasty incident was prevented by the timely arrival of the police. `[例]`
 > - This has been a timely reminder to us all. `[例]`
 

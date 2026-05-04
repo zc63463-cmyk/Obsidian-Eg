@@ -141,8 +141,8 @@ review_count: 0
 
 > [!example]- 语料
 > - It's not my fault she didn't come! `[例]`
-> - She believes it was the doctor's fault that Peter died . `[例]`
-> - The fault was with the organizers , who failed to make the necessary arrangements for dealing with so many people . `[例]`
+> - She believes it was the doctor's fault that Peter died. `[例]`
+> - The fault was with the organizers , who failed to make the necessary arrangements for dealing with so many people. `[例]`
 
 
 ---

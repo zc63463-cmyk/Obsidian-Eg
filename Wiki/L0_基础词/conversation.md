@@ -125,9 +125,15 @@ con-(=com-, 共同/一起) + [[ver-vert|vers]](=turn, 转，[[ver-vert]]) + -ati
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She had a strange conversation with the man who moved in upstairs. `[COCA-FIC]`
-> - It's impossible to hold a conversation with all this noise going on! `[COCA-FIC]`
-> - He's a talkative guy, and I struck up a conversation with him. `[COCA-FIC]`
+> - The main topic of conversation was the likely outcome of the election. `[例]`
+>   - 中译：谈话的主要话题是选举的可能结果。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/conversation
+> - I tried to make conversation (= to speak in order to appear polite). `[例]`
+>   - 中译：我试图进行对话（=说话以显得有礼貌）。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/conversation
+> - I had a long conversation with her the other day. `[例]`
+>   - 中译：前几天我和她聊了很长时间。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/conversation
 
 
 ---

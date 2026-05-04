@@ -125,9 +125,15 @@ boast（源自中古英语 bosten，拟声词或与"膨胀"有关）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The city boasts a population of over ten million. `[真题]`
-> - He is always boasting about his achievements. `[真题]`
-> - The school boasts an excellent reputation in science education. `[例]`
+> - He didn't talk about his exam results in case people thought he was boasting. `[例]`
+>   - 中译：他没有谈论他的考试成绩，以免人们认为他在吹牛。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/boast
+> - Parents enjoy boasting about their children's achievements. `[例]`
+>   - 中译：父母喜欢吹嘘孩子的成就。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/boast
+> - They boasted that they had never lost a single game. `[例]`
+>   - 中译：他们夸口说自己从未输过一场比赛。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/boast
 
 ---
 

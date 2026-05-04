@@ -133,9 +133,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Lack of education is a serious handicap in finding a job."（缺乏教育是找工作的严重障碍）——考研阅读社会类话题
-> - "He was handicapped by his poor eyesight."（他因视力不好而行动不便）——生活/医学类语境
-> - "Not speaking the local language was a real handicap."（不会说当地语言是一个真正的障碍）——文化/社会类语境
+> - I found that not having a car was quite a handicap while on holiday. `[例]`
+>   - 中译：我发现在度假时没有车是一个很大的障碍。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/handicap
+> - Handicaps give people with different abilities an equal chance of winning. `[例]`
+>   - 中译：让分让不同能力的人都有平等的获胜机会。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/handicap
+> - My current golf handicap is nine. `[例]`
+>   - 中译：我目前的高尔夫差点是九。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/handicap
 
 ---
 

@@ -129,7 +129,15 @@ govern（源自拉丁语 gubernare"掌舵、管理"，最终来自希腊语 kybe
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The principle of equality before the law governs all judicial proceedings.（法律面前人人平等的原则支配着所有司法程序。）
+> - The country has been governed by military regimes. `[例]`
+>   - 中译：该国一直由军事政权统治。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/govern
+> - A president needs popular support in order to govern effectively. `[例]`
+>   - 中译：总统需要民众的支持才能有效执政。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/govern
+> - We are governed, in Lord Hailsham's famous phrase, by an ' elective dictatorship '. `[例]`
+>   - 中译：用海尔沙姆勋爵的名言来说，我们受到“选举独裁”的统治。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/govern
 
 ---
 

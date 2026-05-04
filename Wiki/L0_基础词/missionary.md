@@ -126,9 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She spoke about her new project with missionary zeal. `[真题]`
 > - My father was a missionary from a little town in South Africa. `[真题]`
 > - American Presbyterian missionary efforts in Iran began in 1834 and focused on education. `[真题]`
+> - He did missionary work for the Presbyterian Church in Alaska. `[例]`
 
 
 ---

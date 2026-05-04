@@ -130,9 +130,15 @@ re-(back) + 建议创建词根笔记 [[re/rem]](to stay/停留) + -s(复数名�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Archaeologists discovered ancient remains dating back to 2000 BC. `[COCA-ACAD]`
-> - Human remains were found at the construction site. `[COCA-ACAD]`
-> - The remains of the castle still stand on the hill. `[COCA-ACAD]`
+> - We are not boycotting PRH titles but we are doing our utmost to ensure that availability for customers remains good despite the lower overall levels of stock. `[真题]`
+>   - 中译：我们并不是抵制公屋产权，但我们正在尽最大努力确保尽管总体库存水平较低，但客户的可用性仍然良好。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - The remains of lunch were still on the table. `[例]`
+>   - 中译：剩下的午餐还在桌子上。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/remains
+> - We visited the remains of a 12th century monastery. `[例]`
+>   - 中译：我们参观了一座12世纪修道院的遗迹。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/remains
 
 ---
 

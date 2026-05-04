@@ -3,10 +3,8 @@ title: "idealize"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 人本世界
 prototype: 将某人/某事看作比实际更完美
@@ -43,7 +41,7 @@ ideal(理想) + -ize(使动后缀，使……化)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以“**将某人/某事看作比实际更完美**”为统筹中心，沿抽象路径向外扩展：
 >
 1. **使某人/某事变得理想化**（认知加工层面）
@@ -63,7 +61,7 @@ ideal(理想) + -ize(使动后缀，使……化)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 |------|------|----------|
@@ -73,7 +71,7 @@ ideal(理想) + -ize(使动后缀，使……化)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > ideal（理想）+ ize（使动）→ 使事物变得理想化。我们总是 idealize 童年，因为记忆会自动美化过去。
@@ -82,7 +80,7 @@ ideal(理想) + -ize(使动后缀，使……化)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 |------|------------|---------|---------|---------|
@@ -95,13 +93,13 @@ ideal(理想) + -ize(使动后缀，使……化)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[demonize]]：妖魔化（idealize 的精确反义：理想化↔妖魔化）
 - [[realize]]：认识到现实
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 |--------|---------|------|---------|
@@ -114,27 +112,19 @@ ideal(理想) + -ize(使动后缀，使……化)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **idealize the past**：将过去理想化
 - **idealize someone/something**：将某人/某事理想化
 - **tend to idealize**：倾向于理想化
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - People tend to idealize their childhood memories, forgetting the difficulties they once faced. `[例]`
-> - Classical Greek sculpture sought to idealize the human form rather than depict it realistically. `[例]`
 > - She had idealized her mentor for years before discovering his flaws. `[例]`
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

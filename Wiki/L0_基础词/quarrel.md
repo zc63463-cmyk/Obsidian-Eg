@@ -125,10 +125,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - They had a bitter quarrel about some money three years ago and they haven't spoken to each other since. `[Cambridge语料库]`
-> - We heard our neighbors quarreling about money. `[Cambridge语料库]`
-> - We have no quarrel with the people of Spain or of any other country. `[Collins语料库]`
-> - When the eldest brother died, soon after the father, the other three quarrelled over the inheritance. `[Cambridge语料库]`
+> - They had a bitter quarrel about some money three years ago and they haven't spoken to each other since. `[例]`
+> - We heard our neighbors quarreling about money. `[例]`
+> - We have no quarrel with the people of Spain or of any other country. `[例]`
+> - When the eldest brother died, soon after the father, the other three quarrelled over the inheritance. `[例]`
 
 
 ---

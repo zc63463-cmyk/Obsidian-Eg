@@ -133,9 +133,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The first section provides the theoretical motivation for examining the impact of political institutions on women's education." `[真题]`
-> - "Section II of the examination focuses on reading comprehension skills." `[真题]`
-> - "The report is divided into four sections, each dealing with a different aspect of the problem." `[真题]`
+> - The first section provides the theoretical motivation for examining the impact of political institutions on women's education. `[真题]`
+> - Section II of the examination focuses on reading comprehension skills. `[真题]`
+> - The report is divided into four sections, each dealing with a different aspect of the problem. `[真题]`
 
 
 ---

@@ -3,10 +3,8 @@ title: "frugal"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 人本世界
 prototype: 节俭的（节约使用资源的）
@@ -43,7 +41,7 @@ fru(=frux, 果实，拉丁语 *frux/frugis*) + -gal(形容词后缀，有…特�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**节俭的**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **节俭的**（消费行为层面）
@@ -64,7 +62,7 @@ fru(=frux, 果实，拉丁语 *frux/frugis*) + -gal(形容词后缀，有…特�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +73,7 @@ fru(=frux, 果实，拉丁语 *frux/frugis*) + -gal(形容词后缀，有…特�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 拉丁语 frux/frugis 意为"果实、收成"。frugal 就是"珍惜果实的人"——不浪费劳动成果。frugal 和 fruit（水果）同源，记住：珍惜 fruit 的人就是 frugal。a frugal meal 就是一顿简单的饭菜——不求奢华，只求够吃。
@@ -87,7 +85,7 @@ fru(=frux, 果实，拉丁语 *frux/frugis*) + -gal(形容词后缀，有…特�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +98,13 @@ fru(=frux, 果实，拉丁语 *frux/frugis*) + -gal(形容词后缀，有…特�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[extravagant]]：奢侈的（frugal↔extravagant：节俭的↔奢侈的）
 > - [[wasteful]]：浪费的（frugal↔wasteful：节约的↔浪费的）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,7 +116,7 @@ fru(=frux, 果实，拉丁语 *frux/frugis*) + -gal(形容词后缀，有…特�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a frugal lifestyle**：节俭的生活方式
 > - **a frugal meal**：一顿简朴的饭菜
 > - **frugal living**：简朴的生活
@@ -126,19 +124,12 @@ fru(=frux, 果实，拉丁语 *frux/frugis*) + -gal(形容词后缀，有…特�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - Lungren, a fiscal conservative when it comes to spending taxpayers ’ money , is frugal in his personal life as well. `[例]`
 > - He built up his savings by being very frugal. `[例]`
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
-
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

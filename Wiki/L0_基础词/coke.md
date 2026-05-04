@@ -127,8 +127,14 @@ coke 作为"焦炭"的含义源自 *coal*（煤）的方言变体，最初拼写
 
 > [!example]- 语料
 > - Prosecutors contended that Jay recruited Jordan and Washington to sell coke for him in Baltimore, but the deal went sour when the rapper’s drug connection had bad blood with Washington and threatened to kill him. `[例]`
-> - Some community members and advocacy groups hoped air quality would improve after the coke plant was sold. `[例]`
+>   - 中译：检察官声称，杰伊招募乔丹和华盛顿在巴尔的摩为他出售可乐，但当说唱歌手的毒品关系与华盛顿不和并威胁要杀死他时，这笔交易就变坏了。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/coke
 > - Over time, the operation consolidated under U.S. Steel’s Great Lakes Works, while coking plants, iron works and other heavy industries layered on to the dense landscape of pipes, coal piles, rail lines and smokestacks. `[例]`
+>   - 中译：随着时间的推移，该业务在美国钢铁公司的五大湖工厂下得到巩固，而焦化厂、炼铁厂和其他重工业则分布在管道、煤堆、铁路线和烟囱的密集景观上。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/coke
+> - This is the place where iconic musicians have checked in, coked up, wrote music, broke the rules, and bonded for decades. `[例]`
+>   - 中译：几十年来，标志性音乐家在这里驻足、吸毒、创作音乐、打破规则并建立联系。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/coke
 
 
 ---

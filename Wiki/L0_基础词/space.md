@@ -133,7 +133,7 @@ space（空间，源自拉丁语 *spatium* "空间、距离"，词源不确定�
 > [!example]- 语料
 > - Another issue is that, while climate change is well integrated into some subjects and at some ages-·such as earth and space sciences in high schools-it is not as well represented in curricula for younger children and in subjects that are more widely taught, such as biology and chemistry. `[真题]`
 > - The trade magazine The Bookseller reported that Waterstones branch managers were being told to remove PRH books from prominent areas such as tables , display spaces and windows, and were " quietly retiring them to their relevant sections". `[真题]`
-> - Is there any space for my clothes in that cupboard ? `[例]`
+> - Is there any space for my clothes in that cupboard? `[例]`
 
 
 ---

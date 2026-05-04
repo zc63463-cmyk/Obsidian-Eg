@@ -137,7 +137,7 @@ review_count: 0
 
 > [!example]- 语料
 > - Within Australia she was a national hero. `[例]`
-> - He became an accidental hero when he unknowingly thwarted a robbery . `[例]`
+> - He became an accidental hero when he unknowingly thwarted a robbery. `[例]`
 > - Graham says he'll take my parents to the airport at four o'clock in the morning - what a hero! `[例]`
 
 

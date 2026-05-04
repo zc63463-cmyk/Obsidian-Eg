@@ -131,10 +131,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The government needs to adopt a sound economic policy to sustain growth. `[真题]`
-> - It is sound advice to diversify your investment portfolio. `[真题]`
-> - She used sound reasoning in making the decision. `[COCA-ACAD]`
-> - It was a sound approach to investing money. `[COCA-ACAD]`
+> - What millions of Texas kids leam in their public schools is determined too often by the political ideology of partisan board members , rather than facts and sound scholarship. `[真题]`
+>   - 中译：数以百万计的德克萨斯州孩子在公立学校学习的内容往往是由党派董事会成员的政治意识形态决定的，而不是事实和良好的学术成果。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - They could hear the sound of a bell tolling in the distance. `[例]`
+>   - 中译：他们听见远处传来钟声。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/sound
+> - She stood completely still, not making a sound. `[例]`
+>   - 中译：她静静地站着，没有发出任何声音。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/sound
 
 
 ---

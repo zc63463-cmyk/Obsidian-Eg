@@ -128,8 +128,15 @@ code 源自拉丁语 codex（树干、木板、法典书），codex 原指在木
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "All employees are expected to comply with the company's code of conduct."（所有员工都应遵守公司的行为准则。）——考研高频表达
-> - "Scientists have cracked the genetic code, opening new possibilities for treating diseases."（科学家已经破解了遗传密码，为治疗疾病开辟了新的可能性。）——考研高频表达
+> - The message was written in code. `[例]`
+>   - 中译：该消息是用代码编写的。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/code
+> - She managed to decipher the code. `[例]`
+>   - 中译：她成功破译了密码。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/code
+> - The agencies fear they will be unable to crack (= succeed in understanding ) the codes to eavesdrop on spies and criminals. `[例]`
+>   - 中译：这些机构担心他们将无法破解（=成功理解）窃听间谍和犯罪分子的密码。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/code
 
 
 ---

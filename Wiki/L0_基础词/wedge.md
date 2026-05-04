@@ -132,7 +132,7 @@ review_count: 0
 > [!example]- 语料
 > - I shut the shed door and wedged it with a log of wood. `[真题]`
 > - She wedged herself into the passenger seat. `[真题]`
-> - I don't want to drive a wedge between the two of you. `[真题]`
+> - Push a wedge under the door to keep it open while we're carrying the boxes in. `[例]`
 
 
 ---

@@ -118,9 +118,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The diameter measures twice the radius . `[例]`
+> - The diameter measures twice the radius. `[例]`
 > - The pond is six feet in diameter. `[例]`
-> - We need a pipe with a diameter of about six inches . `[例]`
+> - We need a pipe with a diameter of about six inches. `[例]`
 
 
 ---

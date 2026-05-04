@@ -125,9 +125,9 @@ illuminate = il-（= in-，加强/向，在 l 前变为 il-）+ lumin-（光）+
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The streets were illuminated with strings of coloured lights . `[例]`
+> - The streets were illuminated with strings of coloured lights. `[例]`
 > - An article which illuminates the issues at stake. `[例]`
-> - The buildings were illuminated at night . `[例]`
+> - The buildings were illuminated at night. `[例]`
 
 
 ---

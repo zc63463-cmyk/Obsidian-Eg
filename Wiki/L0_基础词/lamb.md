@@ -129,8 +129,8 @@ review_count: 0
 
 > [!example]- 语料
 > - Lambs gambolling about in the fields. `[例]`
-> - She bought a side of lamb from the butcher's shop . `[例]`
-> - We saw a lamb being born . `[例]`
+> - She bought a side of lamb from the butcher's shop. `[例]`
+> - We saw a lamb being born. `[例]`
 
 
 ---

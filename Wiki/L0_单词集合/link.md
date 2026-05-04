@@ -131,9 +131,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "There is a direct link between smoking and lung cancer." `[COCA-ACAD]`
-> - "The study further strengthens the evidence linking smoking with early death." `[COCA-NEWS]`
-> - "These projects will provide vital links between companies and universities." `[COCA-NEWS]`
+> - There's a direct link between diet and heart disease. `[例]`
+>   - 中译：饮食与心脏病之间有直接联系。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/link
+> - Their links with Mexico are still strong. `[例]`
+>   - 中译：他们与墨西哥的联系仍然很牢固。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/link
+> - This research confirms the link between aggression and alcohol. `[例]`
+>   - 中译：这项研究证实了攻击行为和酒精之间的联系。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/link
 
 ---
 

@@ -128,7 +128,7 @@ review_count: 0
 
 > [!example]- 语料
 > - A brass door knob. `[例]`
-> - Put a knob of butter in the frying pan . `[例]`
+> - Put a knob of butter in the frying pan. `[例]`
 > - Don't be such a knob. `[例]`
 
 

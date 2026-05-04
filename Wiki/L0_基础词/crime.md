@@ -128,9 +128,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She was put in prison for a crime she did not commit. `[真题]`
-> - The massacre was a crime against humanity that shocked the entire world. `[真题]`
-> - It is a crime to waste so much food when millions of people are starving. `[真题]`
+> - This month's figures show an increase in violent crime. `[例]`
+>   - 中译：本月的数据显示暴力犯罪有所增加。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/crime
+> - There needs to be a partnership between police and public in the fight against crime. `[例]`
+>   - 中译：警察和公众之间需要建立伙伴关系来打击犯罪。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/crime
+> - Stores spend more and more on crime prevention every year. `[例]`
+>   - 中译：商店在预防犯罪方面的支出每年都在增加。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/crime
 
 
 ---

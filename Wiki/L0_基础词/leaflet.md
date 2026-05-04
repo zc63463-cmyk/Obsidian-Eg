@@ -130,7 +130,7 @@ review_count: 0
 > [!example]- 语料
 > - Demonstrators handed out leaflets to passers-by. `[例]`
 > - A leaflet about the new bus services came through the door today. `[例]`
-> - Leaflet drops at churches , barbers , community centres and other places where people gather also are part of any successful get-out-the-vote effort . `[例]`
+> - Leaflet drops at churches , barbers , community centres and other places where people gather also are part of any successful get-out-the-vote effort. `[例]`
 
 
 ---

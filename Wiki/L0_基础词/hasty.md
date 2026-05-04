@@ -129,8 +129,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - He warned against making hasty decisions . `[例]`
-> - Now, let's not leap to any hasty conclusions . `[例]`
+> - He warned against making hasty decisions. `[例]`
+> - Now, let's not leap to any hasty conclusions. `[例]`
 > - I think perhaps we were a little hasty in judging him. `[例]`
 
 

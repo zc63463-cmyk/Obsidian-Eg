@@ -121,8 +121,15 @@ more(更多) + over(在……之上) = moreover（在更多之上→此外，而
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The policy is environmentally friendly. Moreover, it creates thousands of jobs."（这项政策对环境友好。此外，它还创造了数千个就业岗位。）——考研高频表达
-> - "Moreover, even if humans were not the primary cause, we still have a moral obligation to address the problem."（此外，即使人类不是主要原因，我们仍有道德义务来解决这个问题。）——考研高频表达
+> - The whole report is badly written. Moreover, it's inaccurate. `[例]`
+>   - 中译：整个报告写得很糟糕。而且，这是不准确的。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/moreover
+> - Politically, moreover, he faces a split in his party. `[例]`
+>   - 中译：此外，在政治上，他面临着党内的分裂。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/moreover
+> - He enjoys selling and, moreover, is good at it. `[例]`
+>   - 中译：他喜欢销售，而且擅长销售。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/moreover
 
 ---
 

@@ -126,9 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Two officers responded to the call at 282 Main Street . `[例]`
+> - Two officers responded to the call at 282 Main Street. `[例]`
 > - Do you know how fast you were driving , ma'am?" "No, officer. `[例]`
-> - Mike’s father was an officer in the US Marines . `[例]`
+> - Mike’s father was an officer in the US Marines. `[例]`
 
 
 ---

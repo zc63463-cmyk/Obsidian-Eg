@@ -132,9 +132,9 @@ pearl（古英语 *pearl*，源自拉丁语 *perna*，意为"腿骨"，后演变
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She was wearing her pearls." `[真题]`
-> - "Thank you for those pearls of wisdom." `[真题]`
-> - "Students eager to catch pearls of wisdom from the professor's lips." `[真题]`
+> - She was wearing her pearls. `[真题]`
+> - Thank you for those pearls of wisdom. `[真题]`
+> - Students eager to catch pearls of wisdom from the professor's lips. `[真题]`
 
 
 ---

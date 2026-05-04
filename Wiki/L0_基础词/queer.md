@@ -128,10 +128,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - What a queer thing to say! `[Cambridge语料库]`
-> - I'm feeling rather queer, may I sit down? `[Cambridge语料库]`
-> - The endless and numberless avenues of bewildering pine woods gave him a queer feeling that he was driving through the countless corridors of a dream. `[Merriam-Webster语料库]`
-> - I had a queer feeling that something bad was about to happen. `[Britannica语料库]`
+> - What a queer thing to say! `[例]`
+> - I'm feeling rather queer, may I sit down? `[例]`
+> - The endless and numberless avenues of bewildering pine woods gave him a queer feeling that he was driving through the countless corridors of a dream. `[例]`
+> - I had a queer feeling that something bad was about to happen. `[例]`
 
 
 ---

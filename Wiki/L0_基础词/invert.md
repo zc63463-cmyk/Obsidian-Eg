@@ -126,8 +126,8 @@ in-(=intensive，加强语气) + [[ver-vert|vert]](转，拉丁语 *vertere*，�
 
 > [!example]- 语料
 > - The artist inverted the traditional composition to create a striking visual effect. `[真题]`
-> - Participants are required to repeat the digits in the order presented or to invert the order. `[语料库]`
-> - Place the cake on a plate and invert the mould carefully. `[外刊]`
+> - Participants are required to repeat the digits in the order presented or to invert the order. `[例]`
+> - In some languages , the word order in questions is inverted (= the verb comes before the subject of the sentence ). `[例]`
 
 
 ---

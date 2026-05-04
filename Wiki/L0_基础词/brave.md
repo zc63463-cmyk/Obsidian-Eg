@@ -127,9 +127,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - It was a brave decision to quit her job and start her own business . `[例]`
-> - She was very brave to learn to ski at 50. `[例]`
-> - Of the three organizations criticized , only one was brave enough to face the press . `[例]`
+> - Desperation had made me brave. `[例]`
+>   - 中译：绝望让我变得勇敢。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/brave
+> - She has been incredibly brave. `[例]`
+>   - 中译：她非常勇敢。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/brave
+> - She took the brave decision to start her own business. `[例]`
+>   - 中译：她做出了勇敢的决定，开始自己创业。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/brave
 
 
 ---

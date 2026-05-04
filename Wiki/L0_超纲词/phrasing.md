@@ -3,10 +3,8 @@ title: "phrasing"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-25
-mastery: L0
 word_freq: 超纲词
 semantic_field: 理性世界
 prototype: 词语的表达方式
@@ -43,7 +41,7 @@ phrase（短语/措辞）+ -ing（动名词后缀，表行为/结果）
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**词语的表达方式**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **表达方式**（语言层面）
@@ -64,7 +62,7 @@ phrase（短语/措辞）+ -ing（动名词后缀，表行为/结果）
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ phrase（短语/措辞）+ -ing（动名词后缀，表行为/结果）
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > phrase（短语）→ phrasing（措辞方式）。外交官最擅长 phrasing——同一件事，不同的 phrasing 可以避免冲突或引发战争。"We have concerns" 和 "We strongly oppose" 意思相近，但 phrasing 完全不同。phrasing 就是"你怎么说"。
@@ -86,7 +84,7 @@ phrase（短语/措辞）+ -ing（动名词后缀，表行为/结果）
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -98,12 +96,12 @@ phrase（短语/措辞）+ -ing（动名词后缀，表行为/结果）
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - （无明显反义词，phrasing 是中性概念）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -114,7 +112,7 @@ phrase（短语/措辞）+ -ing（动名词后缀，表行为/结果）
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **careful phrasing**：谨慎的措辞
 > - **awkward phrasing**：笨拙的措辞
 > - **diplomatic phrasing**：外交措辞
@@ -122,19 +120,12 @@ phrase（短语/措辞）+ -ing（动名词后缀，表行为/结果）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - The phrasing of the contract is ambiguous . `[例]`
-> - Her phrasing, as ever , is faultless . `[例]`
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-25 | **复习次数**：0 | **当前等级**：L0
-
----
+> [!example]- 语料
+> - The phrasing of the contract is ambiguous. `[例]`
+> - Her phrasing, as ever , is faultless. `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

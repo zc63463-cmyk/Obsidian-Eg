@@ -139,10 +139,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Let me illustrate this point with an example. `[真题]`
-> - The graph illustrates the increase in sales over the past year. `[COCA-ACAD]`
-> - This case illustrates the importance of education. `[COCA-ACAD]`
-> - Halvorsen and Palmquist gave specific examples from the literature to illustrate the point. `[COCA-ACAD]`
+> - The lecturer illustrated his point with a diagram on the blackboard. `[例]`
+>   - 中译：讲师用黑板上的图表说明了他的观点。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/illustrate
+> - This latest conflict further illustrates the weakness of the UN. `[例]`
+>   - 中译：最近的这场冲突进一步说明了联合国的弱点。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/illustrate
+> - The exhibition will illustrate how life evolved from water. `[例]`
+>   - 中译：该展览将展示生命是如何从水进化而来的。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/illustrate
 
 ---
 

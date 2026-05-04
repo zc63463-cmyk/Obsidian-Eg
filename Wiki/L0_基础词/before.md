@@ -129,9 +129,15 @@ be-(=by, 在……旁边/在) + fore(前面)。fore 源自原始日耳曼语，�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Before it was legalized, the industry was largely underground." `[真题]`
-> - "Not before time, the government has recognized the problem." `[COCA-NEWS]`
-> - "Please knock before entering." `[COCA-SPOKEN]`
+> - She's lived there since before the war. `[例]`
+>   - 中译：她从战前就住在那里。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/before
+> - He arrived before me. `[例]`
+>   - 中译：他比我先到。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/before
+> - She became a lawyer as her father had before her. `[例]`
+>   - 中译：她像她父亲一样成为了一名律师。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/before
 
 
 ---

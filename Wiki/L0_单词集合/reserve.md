@@ -137,9 +137,15 @@ re-(向后) + [[serv|serv→保持]](保持/守卫) + -e
 ## 真题/语料关联
 
 > [!example]- 语料
-> - `[真题]` It is wise to reserve judgment until all the facts are known.
-> - `[真题]` Some scholars conclude that a government with finite resources should simply stop paying for medical care that sustains life beyond a certain age.
-> - `[COCA-ACAD]` The Gulf has sixty-five per cent of the world's oil reserves.
+> - I reserve Mondays for tidying my desk and answering letters. `[例]`
+>   - 中译：我预留周一来整理办公桌和回信。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/reserve
+> - These seats are reserved for the elderly and women with babies. `[例]`
+>   - 中译：这些座位是为老人和带婴儿的妇女保留的。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/reserve
+> - I reserve judgment on this issue (= I won't give an opinion on it now) until we have more information. `[例]`
+>   - 中译：在我们获得更多信息之前，我保留对这个问题的判断（=我现在不会对此发表意见）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/reserve
 
 
 ---

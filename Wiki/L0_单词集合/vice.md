@@ -129,9 +129,15 @@ vice 源自拉丁语 vitium（缺陷、过错、恶习），与 [[id-ident]] 同
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Greed, pride , envy , and lust are considered to be vices. `[例]`
-> - My one real vice (= bad habit ) is chocolate . `[例]`
-> - The chief of police said that he was committed to wiping out vice in the city . `[例]`
+> - At the door were two plain-clothes detectives from the vice squad. `[例]`
+>   - 中译：门口站着两名刑警队的便衣刑警。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/vice
+> - The bright 21-year-old turned to a secret life of vice after getting bored with her studies at college. `[例]`
+>   - 中译：这位聪明的 21 岁女孩在厌倦了大学学习后开始了秘密的恶习生活。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/vice
+> - The film ended most satisfactorily: vice punished and virtue rewarded. `[例]`
+>   - 中译：影片的结局最为圆满：恶行受到惩罚，美德得到回报。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/vice
 
 
 ---

@@ -128,7 +128,7 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - He was one of the entrepreneurs of the 80s who made their money in property . `[例]`
+> - He was one of the entrepreneurs of the 80s who made their money in property. `[例]`
 > - A creative entrepreneur, he was continually dreaming up new projects. `[例]`
 > - A recent MBA graduate and budding entrepreneur. `[例]`
 

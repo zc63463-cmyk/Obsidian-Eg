@@ -125,9 +125,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - There should be tougher discipline in schools . `[例]`
-> - I don't have enough ( self ) discipline to save money . `[例]`
-> - Maintaining classroom discipline (= control of the students ) is the first task of every teacher . `[例]`
+> - There should be tougher discipline in schools. `[例]`
+>   - 中译：学校应该有更严格的纪律。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/discipline
+> - I don't have enough ( self ) discipline to save money. `[例]`
+>   - 中译：我没有足够的自律来省钱。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/discipline
+> - Maintaining classroom discipline (= control of the students ) is the first task of every teacher. `[例]`
+>   - 中译：维持课堂纪律（=控制学生）是每个老师的首要任务。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/discipline
 
 ---
 

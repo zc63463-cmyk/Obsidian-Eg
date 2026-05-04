@@ -131,8 +131,8 @@ review_count: 0
 > [!example]- 语料
 > - These restaurants draw inspiration from the world's finest cuisines and are among the finest dining venues in the country. `[真题]`
 > - His memoirs were the inspiration behind the movie. `[真题]`
-> - She coped, she said, by drawing inspiration from her blind grandmother, who had raised four children. `[语料库]`
-> - A problem of this size cannot be tackled by last-moment inspirations or piecemeal palliatives. `[语料库]`
+> - She coped, she said, by drawing inspiration from her blind grandmother, who had raised four children. `[例]`
+> - A problem of this size cannot be tackled by last-moment inspirations or piecemeal palliatives. `[例]`
 
 
 ---

@@ -125,9 +125,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Economic pressures have compelled many small businesses to close down permanently. `[COCA-ACAD]`
-> - The evidence compelled the jury to change their verdict. `[COCA-NEWS]`
-> - I felt compelled to speak out against the injustice. `[COCA-MAG]`
+> - As a schoolboy he was compelled to wear shorts even in winter. `[例]`
+>   - 中译：作为一名学生，即使在冬天，他也被迫穿短裤。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/compel
+> - The new circumstances compelled a change in policy. `[例]`
+>   - 中译：新形势迫使政策发生变化。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/compel
+> - Over the years her work has compelled universal admiration and trust. `[例]`
+>   - 中译：多年来，她的工作赢得了普遍的钦佩和信任。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/compel
 
 ---
 

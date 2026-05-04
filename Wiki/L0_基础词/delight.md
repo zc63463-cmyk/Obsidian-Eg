@@ -133,8 +133,8 @@ review_count: 0
 
 > [!example]- 语料
 > - Her face had a look of pure delight. `[例]`
-> - The children squealed in delight when they saw all the presents under the Christmas tree . `[例]`
-> - His delight at seeing her again was obvious . `[例]`
+> - The children squealed in delight when they saw all the presents under the Christmas tree. `[例]`
+> - His delight at seeing her again was obvious. `[例]`
 
 
 ---

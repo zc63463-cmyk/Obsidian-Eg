@@ -119,8 +119,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The sense of guilt can be a powerful motivator for people to change their behavior."（内疚感可以成为人们改变行为的强大动力。）——考研高频表达
-> - "He was consumed by guilt after realizing the harm his actions had caused to others."（在意识到自己的行为给他人造成的伤害后，他被内疚感所吞噬。）——考研高频表达
+> - He suffered such feelings of guilt over leaving his children. `[例]`
+>   - 中译：他因离开孩子而感到内疚。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/guilt
+> - She remembered with a pang of guilt that she hadn't called her mother. `[例]`
+>   - 中译：她想起自己没有给妈妈打电话，心里感到一阵内疚。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/guilt
+> - A sense of guilt was deeply embedded in my conscience. `[例]`
+>   - 中译：一种愧疚感深深地扎在我的良心里。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/guilt
 
 
 ---

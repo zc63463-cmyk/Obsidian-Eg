@@ -124,9 +124,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - These diseases are more prevalent among young children . `[例]`
+> - These diseases are more prevalent among young children. `[例]`
 > - Trees are dying in areas where acid rain is most prevalent. `[例]`
-> - Drought conditions have been prevalent across the area for several years . `[例]`
+> - Drought conditions have been prevalent across the area for several years. `[例]`
 
 
 ---

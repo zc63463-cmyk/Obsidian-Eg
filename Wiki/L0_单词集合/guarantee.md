@@ -122,8 +122,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The government cannot guarantee that the policy will solve all the problems.（政府不能保证该政策将解决所有问题。）
-> - The new law guarantees equal rights for all citizens regardless of gender.（新法律保证所有公民不论性别享有平等权利。）
+> - The system costs £99.95 including shipping and handling and a twelve-month guarantee. `[例]`
+>   - 中译：该系统的成本为 99.95 英镑，包括运输和处理以及 12 个月的保修。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/guarantee
+> - The TV comes with a two-year guarantee. `[例]`
+>   - 中译：该电视享有两年保修。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/guarantee
+> - They have no guarantee of a job at the end of the training. `[例]`
+>   - 中译：他们无法保证培训结束后能找到工作。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/guarantee
 
 ---
 

@@ -127,9 +127,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Another issue is that, while climate change is well integrated into some subjects and at some ages-·such as earth and space sciences in high schools-it is not as well represented in curricula for younger children and in subjects that are more widely taught, such as biology and chemistry. `[真题]`
-> - The book deals with the reproductive biology of the buffalo . `[例]`
-> - She studied biology at university . `[例]`
+> - She's a professor of biology at Stanford. `[例]`
+>   - 中译：她是斯坦福大学的生物学教授。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/biology
+> - How far is human nature determined by biology? `[例]`
+>   - 中译：人性在多大程度上是由生物学决定的？
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/biology
+> - This Was About Fairness, Not Identity From the beginning, USA Powerlifting has argued that its policy is rooted in biology , not gender identity. `[例]`
+>   - 中译：这是关于公平，而不是身份 从一开始，美国举重就认为其政策植根于生物学，而不是性别认同。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/biology
 
 
 ---

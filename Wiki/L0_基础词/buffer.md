@@ -126,9 +126,15 @@ buffer（源自动词 *buff*（撞击、弹起），或来自古法语 *buffe*�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - If an event starts at 5 p.m., I'll usually be there by 4:45, having allowed a buffer for unforeseen delays . `[例]`
-> - The broker acts as a buffer between the buyer and seller . `[例]`
-> - Banks hold capital as a buffer to protect depositors against losing their savings . `[例]`
+> - Support from family and friends acts as a buffer against stress. `[例]`
+>   - 中译：家人和朋友的支持可以缓解压力。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/buffer
+> - She often had to act as a buffer between father and son. `[例]`
+>   - 中译：她经常不得不充当父子之间的缓冲者。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/buffer
+> - The organization acts as a buffer between the management and the union. `[例]`
+>   - 中译：该组织充当管理层和工会之间的缓冲者。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/buffer
 
 
 ---

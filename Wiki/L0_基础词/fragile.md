@@ -129,8 +129,8 @@ review_count: 0
 
 > [!example]- 语料
 > - Be careful with that vase - it's very fragile. `[例]`
-> - Some of the more fragile items are kept in a locked case . `[例]`
-> - The assassination could end the fragile peace agreement that was signed last month . `[例]`
+> - Some of the more fragile items are kept in a locked case. `[例]`
+> - The assassination could end the fragile peace agreement that was signed last month. `[例]`
 
 
 ---

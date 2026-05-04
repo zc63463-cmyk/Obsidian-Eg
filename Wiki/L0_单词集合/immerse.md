@@ -128,9 +128,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She immersed herself wholly in her work. `[COCA-ACAD]`
-> - Immerse the fabric completely in the dye. `[COCA-ACAD]`
-> - Most small business owners completely immerse themselves in their business. `[COCA-NEWS]`
+> - She got some books out of the library and immersed herself in Jewish history and culture. `[例]`
+>   - 中译：她从图书馆借了一些书，沉浸在犹太历史和文化中。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/immerse
+> - The shells should be immersed in boiling water for two minutes. `[例]`
+>   - 中译：贝壳应浸入沸水中两分钟。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/immerse
+> - She immersed herself wholly in her work. `[例]`
+>   - 中译：她全身心地投入到工作中。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/immerse
 
 ---
 

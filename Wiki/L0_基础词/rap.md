@@ -133,9 +133,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Mary Ann turned and rapped on Charlie's door." `[真题]`
-> - "Rap music has become one of the most influential genres in popular culture." `[真题]`
-> - "He claimed he was given a bum rap by the press." `[真题]`
+> - Mary Ann turned and rapped on Charlie's door. `[真题]`
+> - Rap music has become one of the most influential genres in popular culture. `[真题]`
+> - He claimed he was given a bum rap by the press. `[真题]`
 
 
 ---

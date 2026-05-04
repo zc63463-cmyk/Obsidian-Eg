@@ -121,9 +121,15 @@ re-(回) + lat/latus(携带、带来) + -ive(形容词后缀) + -ity(名词后�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Einstein's theory of relativity fundamentally changed our understanding of space and time. `[COCA-ACAD]`
-> - The concept of cultural relativity suggests that moral standards vary across different societies. `[COCA-ACAD]`
-> - Within a few years, the discoveries of quantum mechanics and the theory of relativity changed physics utterly. `[COCA-ACAD]`
+> - In 1916-17, de Sitter published three papers exploring relativity ’s possibilities. `[例]`
+>   - 中译：1916-17 年，德西特发表了三篇论文，探讨相对论的可能性。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/relativity
+> - In Project Hail Mary, Rocky’s species has not discovered relativity , leading them to overestimate the amount of fuel the trip to Tau Ceti would require. `[例]`
+>   - 中译：在万福玛丽计划中，洛基的种族还没有发现相对论，导致他们高估了前往鲸鱼座钛星之旅所需的燃料量。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/relativity
+> - In fact, the mathematics underpinning Albert Einstein's theories of relativity offer up possibilities via the likes of wormholes and curved spacetime that might allow someone — or more likely something — to make a journey back into the past. `[例]`
+>   - 中译：事实上，支撑阿尔伯特·爱因斯坦相对论的数学通过虫洞和弯曲时空等提供了可能性，这些可能性可能会让某人——或者更可能是某物——回到过去。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/relativity
 ---
 
 

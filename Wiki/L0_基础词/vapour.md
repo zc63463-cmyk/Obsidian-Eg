@@ -129,10 +129,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The hollow glass tank contains hot mercury vapour." `[Cambridge]`
-> - "Poisonous vapours burst out of the factory during the accident." `[Cambridge]`
-> - "Warm air is able to hold more water vapour than cold air." `[Cambridge]`
-> - "During the evening, the water vapour condensed on the internal components of the wall panel when the ambient air temperature dropped." `[Cambridge]`
+> - The hollow glass tank contains hot mercury vapour. `[例]`
+> - Poisonous vapours burst out of the factory during the accident. `[例]`
+> - Warm air is able to hold more water vapour than cold air. `[例]`
+> - During the evening, the water vapour condensed on the internal components of the wall panel when the ambient air temperature dropped. `[例]`
 
 
 ---

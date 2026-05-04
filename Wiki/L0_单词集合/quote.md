@@ -138,9 +138,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "quoted as saying"（据...说）——考研阅读极常见，引述观点的标准表达
-> - "to quote a famous saying"（引用一句名言）——考研写作中常用开头方式
-> - "quote from the original text"（引用原文）——考研翻译中学术类话题
+> - He's always quoting from the Bible. `[例]`
+>   - 中译：他总是引用圣经。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/quote
+> - If they're flexible , we're flexible ," the official was quoted as saying. `[例]`
+>   - 中译：如果他们灵活，我们也会灵活。”该官员表示。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/quote
+> - She worked , to quote her daughter , "as if there were no tomorrow ". `[例]`
+>   - 中译：用她女儿的话来说，她工作得“好像没有明天”。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/quote
 
 ---
 

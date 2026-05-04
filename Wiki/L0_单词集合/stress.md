@@ -126,9 +126,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - In Paragraph 1, the weather in Texas is mentioned to ___ A. forecast a policy shift in Texas schools B. stress the consequences of climate change C .. indjcate the atmosphere at the board meeting D. draw the public's attention to energy shortages · 22. `[真题]`
-> - People under a lot of stress may experience headaches , minor pains , and sleeping difficulties . `[例]`
-> - Yoga is a very effective technique for combating stress. `[例]`
+> - Things can easily go wrong when people are under stress. `[例]`
+>   - 中译：当人们处于压力之下时，事情很容易出错。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/stress
+> - The incident has caused enormous stress and anxiety to my family. `[例]`
+>   - 中译：该事件给我的家人带来了巨大的压力和焦虑。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/stress
+> - We all sometimes struggle with the stresses and strains of daily life. `[例]`
+>   - 中译：我们有时都会与日常生活的压力和压力作斗争。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/stress
 
 ---
 

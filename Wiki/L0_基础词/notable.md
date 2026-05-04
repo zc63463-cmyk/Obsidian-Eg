@@ -132,7 +132,7 @@ not(知道/注意，拉丁语 *notus*，[[notare* "标记"]]) + -able(形容词�
 
 > [!example]- 语料
 > - A notable collection of rare plants. `[例]`
-> - Getting both sides to agree was a notable achievement . `[例]`
+> - Getting both sides to agree was a notable achievement. `[例]`
 > - This attractive building is particularly notable for its woodland setting. `[例]`
 
 

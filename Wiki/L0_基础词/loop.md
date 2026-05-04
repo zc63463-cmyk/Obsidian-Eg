@@ -131,7 +131,7 @@ review_count: 0
 > [!example]- 语料
 > - Tie the ends of the rope together in a loop. `[例]`
 > - The building is set within a loop of the River Wye. `[例]`
-> - For light , we had candles in jam jars hanging on loops of string . `[例]`
+> - For light , we had candles in jam jars hanging on loops of string. `[例]`
 
 
 ---

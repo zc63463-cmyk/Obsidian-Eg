@@ -132,7 +132,7 @@ re-(=intensive，加强) + lish(=lic-，味道，拉丁语 *licere*，令人愉�
 > [!example]- 语料
 > - Whether it's a sports team or a presidential campaign, everybody relishes having the big momentum, because it makes them harder to stop or change direction. `[真题]`
 > - I don't relish telling her that her son has been arrested. `[真题]`
-> - He relishes the chance to play Hamlet. `[权威语料]`
+> - He relishes the chance to play Hamlet. `[例]`
 
 
 ---

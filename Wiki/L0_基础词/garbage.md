@@ -130,9 +130,9 @@ garbage 为基础词汇，词源不明。可能来自盎格鲁法语，与厨房
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The garbage collection system in this city needs urgent reform. `[语料库]`
-> - In the age of information overload, much of what we consume online is garbage. `[语料库]`
-> - As the old saying goes, garbage in, garbage out. `[习语]`
+> - The garbage collection system in this city needs urgent reform. `[例]`
+> - In the age of information overload, much of what we consume online is garbage. `[例]`
+> - As the old saying goes, garbage in, garbage out. `[例]`
 
 
 ---

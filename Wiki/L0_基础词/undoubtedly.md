@@ -123,9 +123,9 @@ un-(不，否定前缀) + [[doubt|doubt]](怀疑) + -ed(形容词后缀) + -ly(�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She was undoubtedly the best candidate . `[例]`
-> - Undoubtedly, stress has contributed to her health problems . `[例]`
-> - It is undoubtedly one of the best movies of the year . `[例]`
+> - She was undoubtedly the best candidate. `[例]`
+> - Undoubtedly, stress has contributed to her health problems. `[例]`
+> - It is undoubtedly one of the best movies of the year. `[例]`
 
 
 ---

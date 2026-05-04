@@ -129,8 +129,8 @@ injury = injure + -y(名词后缀，表示状态或结果)
 
 > [!example]- 语料
 > - The researchers found that people who suffered a brain injury were more likely to experience cognitive decline in later years. `[真题]`
-> - Workplace injuries have declined significantly since the introduction of stricter safety regulations. `[真题]`
-> - She fell and suffered an injury to her arm. `[权威语料]`
+> - She fell and suffered an injury to her arm. `[例]`
+> - They were lucky to escape injury. `[例]`
 
 
 ---

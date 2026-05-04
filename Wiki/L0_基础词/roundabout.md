@@ -125,7 +125,7 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The taxi driver took a roundabout route to the hotel to avoid the heavy traffic. `[真题]`
+> - The researchers proposed a roundabout solution to the problem. `[真题]`
 > - She told him the news in a roundabout way, not wanting to hurt his feelings directly. `[真题]`
 > - The car stalled at the roundabout and caused a long tailback during rush hour. `[真题]`
 

@@ -135,9 +135,9 @@ seize（源自拉丁语 *saciare*，"占有，夺取"，与 [[second]]/[[section
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She was eager to seize any opportunity that was offered." `[真题]`
-> - "Customs agents last year seized $14 million in counterfeit electronics goods at the nation's ports." `[真题]`
-> - "In most states the police can seize property they suspect has been used in a crime." `[真题]`
+> - She was eager to seize any opportunity that was offered. `[真题]`
+> - Customs agents last year seized $14 million in counterfeit electronics goods at the nation's ports. `[真题]`
+> - In most states the police can seize property they suspect has been used in a crime. `[真题]`
 
 
 ---

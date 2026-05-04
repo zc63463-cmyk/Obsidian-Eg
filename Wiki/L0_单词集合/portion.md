@@ -132,9 +132,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - A large portion of the population lives below the poverty line. `[COCA-ACAD]`
-> - A considerable portion of the city was flooded after the storm. `[COCA-ACAD]`
-> - They decided to give away a portion of their income to charity. `[COCA-ACAD]`
+> - The portions are very generous in this restaurant. `[例]`
+>   - 中译：这家餐厅的分量非常足。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/portion
+> - She donated a sizeable portion of her riches to children's charities. `[例]`
+>   - 中译：她将相当一部分财富捐给了儿童慈善机构。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/portion
+> - A good rule of thumb is that a portion of rice is two and a half handfuls. `[例]`
+>   - 中译：一个好的经验法则是，一份米饭是两把半。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/portion
 
 ---
 

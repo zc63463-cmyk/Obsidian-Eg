@@ -3,10 +3,8 @@ title: "excavation"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 物品工具
 prototype: 挖掘（从地下挖出东西的动作）
@@ -43,7 +41,7 @@ ex-(出来/向外) + cav(洞/空) + -ation(名词后缀，表示动作/结果)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**挖掘（从地下挖出东西的动作）**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **从洞里挖出来**（物理层面）
@@ -66,7 +64,7 @@ ex-(出来/向外) + cav(洞/空) + -ation(名词后缀，表示动作/结果)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ ex-(出来/向外) + cav(洞/空) + -ation(名词后缀，表示动作/结果)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > ex（出来）+ cav（洞）+ ation → excavation。cav 就是"洞"——cave（洞穴）、cavity（腔洞）。excavation 就是从洞穴/地下把东西"挖出来"——考古学家做的事。
@@ -89,7 +87,7 @@ ex-(出来/向外) + cav(洞/空) + -ation(名词后缀，表示动作/结果)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ ex-(出来/向外) + cav(洞/空) + -ation(名词后缀，表示动作/结果)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[burial]]：埋葬（发掘↔埋葬）
 - [[filling]]：填埋（挖掘↔填埋）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,26 +116,19 @@ ex-(出来/向外) + cav(洞/空) + -ation(名词后缀，表示动作/结果)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **archaeological excavation**：考古发掘
 > - **excavation site**：发掘现场
 > - **excavation work**：挖掘工作
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - The archaeological excavation at the site revealed ancient Roman artifacts. `[例]`
 > - Excavation work on the new subway line has been temporarily suspended due to the discovery of historical remains. `[例]`
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
-
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

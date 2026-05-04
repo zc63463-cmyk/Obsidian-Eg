@@ -141,10 +141,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - What weight can this lorry safely carry ? `[例]`
-> - There was a slight decrease in his weight after a week of dieting . `[例]`
-> - Try not to lift heavy weights. `[例]`
-> - I lift weights twice a week at the gym . `[例]`
+> - It is about 76 kilos in weight. `[例]`
+>   - 中译：重量约为76公斤。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/weight
+> - Bananas are sold by weight. `[例]`
+>   - 中译：香蕉按重量出售。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/weight
+> - In the wild, this fish can reach a weight of 5lbs. `[例]`
+>   - 中译：在野外，这种鱼的重量可达 5 磅。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/weight
 
 ---
 

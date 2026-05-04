@@ -138,10 +138,9 @@ walk（古英语 *wealcan*，日耳曼语族原始词，意为"滚动、移动"�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "For an hour or so she would walk up and down between the stalls looking at everything, buying here and there." `[真题]`
-> - "When you find yourself well off a trail, but not in a completely unfamiliar area, you have to answer two questions." `[真题]`
-> - "People from all walks of life attended the meeting." `[权威语料]`
-> - "The station is just a five-minute walk from the house." `[权威语料]`
+> - For an hour or so she would walk up and down between the stalls looking at everything, buying here and there. `[真题]`
+> - People from all walks of life attended the meeting. `[例]`
+> - The station is just a five-minute walk from the house. `[例]`
 
 
 ---

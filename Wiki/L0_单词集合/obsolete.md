@@ -127,9 +127,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Gas lamps became obsolete when electric lighting was invented . `[例]`
-> - Typewriters have been rendered obsolete by computers . `[例]`
+> - Gas lamps became obsolete when electric lighting was invented. `[例]`
+>   - 中译：当电灯发明后，煤气灯就被淘汰了。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/obsolete
+> - Typewriters have been rendered obsolete by computers. `[例]`
+>   - 中译：打字机已被计算机淘汰。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/obsolete
 > - Payment by cheque will soon be obsolete. `[例]`
+>   - 中译：通过支票付款很快就会过时。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/obsolete
 
 ---
 

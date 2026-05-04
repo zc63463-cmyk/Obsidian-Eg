@@ -130,8 +130,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The problem ils rampant in Scopus, a citation database, which includes a high number of the new "international" journals. `[真题]`
-> - We're linked to the online database at our head office . `[例]`
-> - The group now has a database of 3,000 members . `[例]`
+>   - 中译：这个问题在 Scopus 中很严重，这是一个引文数据库，其中包含大量新的“国际”期刊。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - We're linked to the online database at our head office. `[例]`
+>   - 中译：我们与总部的在线数据库相连。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/database
+> - You have to enter a password to access the database. `[例]`
+>   - 中译：您必须输入密码才能访问数据库。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/database
 
 ---
 

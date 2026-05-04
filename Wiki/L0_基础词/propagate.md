@@ -129,9 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Most house plants can be propagated from stem cuttings . `[例]`
+> - Most house plants can be propagated from stem cuttings. `[例]`
 > - Plants need certain conditions to propagate. `[例]`
-> - The female crab needs to be saved to propagate the species . `[例]`
+> - The female crab needs to be saved to propagate the species. `[例]`
 
 
 ---

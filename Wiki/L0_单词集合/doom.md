@@ -126,10 +126,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The company seemed doomed to failure from the very beginning." `[真题]`
-> - "Those who do not learn from history are doomed to repeat it." `[COCA-ACAD]`
-> - "Their resistance was heroic but it was, ultimately doomed." `[COCA-ACAD]`
-> - "The worst has been living each day with a sense of doom." `[COCA-ACAD]`
+> - The newspapers are always full of doom and gloom (= bad news and unhappiness ) these days. `[例]`
+>   - 中译：这些天报纸上总是充满了厄运和忧郁（=坏消息和不幸）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/doom
+> - Are we doomed to repeat the mistakes of the past? `[例]`
+>   - 中译：难道我们注定要重蹈过去的覆辙吗？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/doom
+> - Mounting debts doomed the factory to closure. `[例]`
+>   - 中译：不断增加的债务注定了工厂的倒闭。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/doom
 
 ---
 

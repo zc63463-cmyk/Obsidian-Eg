@@ -133,7 +133,7 @@ ex-(出) + [[tract|tract-]](拉，拖) → 向外拉出
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The oil which is extracted from olives is used for cooking . `[例]`
+> - The oil which is extracted from olives is used for cooking. `[例]`
 > - The tooth was eventually extracted. `[例]`
 > - After much persuasion they managed to extract the information from him. `[例]`
 

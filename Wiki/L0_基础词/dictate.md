@@ -129,9 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The UN will dictate the terms of troop withdrawal from the region . `[例]`
-> - He disagrees with the government dictating what children are taught in schools . `[例]`
-> - The rules dictate that only running shoes must be worn on the track . `[例]`
+> - The UN will dictate the terms of troop withdrawal from the region. `[例]`
+> - He disagrees with the government dictating what children are taught in schools. `[例]`
+> - The rules dictate that only running shoes must be worn on the track. `[例]`
 
 
 ---

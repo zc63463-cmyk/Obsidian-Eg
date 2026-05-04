@@ -119,8 +119,15 @@ pre-（前缀，"在...之前"）+ [[ced-cess]]（词根，"走"）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "A short introduction will precede the main lecture."（一段简短的介绍将在主要讲座之前进行。）——考研高频表达
-> - "Economic decline often precedes social unrest."（经济衰退往往先于社会动荡出现。）——考研高频表达
+> - Kofi Annan preceded Ban Ki-moon as the Secretary-General of the UN. `[例]`
+>   - 中译：科菲·安南在潘基文之前担任联合国秘书长。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/precede
+> - It would be helpful if you were to precede the report with an introduction. `[例]`
+>   - 中译：如果您在报告之前进行介绍，将会很有帮助。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/precede
+> - This evening's talk will be preceded by a brief introduction from Mr Appleby. `[例]`
+>   - 中译：在今晚的演讲之前，艾波比先生将进行简短的介绍。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/precede
 
 ---
 

@@ -123,10 +123,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Local residents have reacted angrily to the news. `[COCA]`
-> - The market reacted positively to last week's news of the new bid. `[COCA]`
-> - The government reacted by increasing taxation. `[COCA]`
-> - The firefighters reacted quickly when they heard the alarm. `[COCA]`
+> - She slapped him and called him names , but he didn't react. `[例]`
+>   - 中译：她打了他一巴掌，辱骂他，但他没有反应。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/react
+> - The judge reacted angrily to the suggestion that it hadn't been a fair trial. `[例]`
+>   - 中译：法官对这不是一次公平审判的说法感到愤怒。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/react
+> - Many people react ( badly ) to (= are made ill by) penicillin. `[例]`
+>   - 中译：许多人对青霉素反应（严重）（=生病）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/react
 
 ---
 

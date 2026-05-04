@@ -134,9 +134,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - If you are not happy with your purchase , please return it to one of our stores for a refund . `[例]`
-> - His clothing range is on display in all the big stores in London. `[例]`
-> - Increasing competition may force the company to close stores this year . `[例]`
+> - It's available at London's three biggest stores. `[例]`
+>   - 中译：它在伦敦三大商店有售。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/store
+> - I'm going to the store. `[例]`
+>   - 中译：我要去商店。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/store
+> - His father opened a small grocery store. `[例]`
+>   - 中译：他的父亲开了一家小杂货店。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/store
 
 ---
 

@@ -127,7 +127,7 @@ review_count: 0
 > [!example]- 语料
 > - The doctor prescribed two tablets to be taken three times a day after meals. `[真题]`
 > - Ancient clay tablets found in Mesopotamia contain some of the earliest known written records. `[真题]`
-> - Take two tablets three times a day for three months. `[语料库]`
+> - Take two tablets three times a day for three months. `[例]`
 
 
 ---

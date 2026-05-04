@@ -130,9 +130,9 @@ re-(反复/回) + volve(=volvere, 滚/转)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The discussion revolved around the question of how to allocate resources fairly among departments. ` [真题]`
-> - Her life revolves around her children, and she rarely has time for herself. ` [真题]`
-> - The Earth revolves around the Sun once every 365 days. ` [真题]`
+> - The hikers rested under a towering revolve near the coastal trail. `[例]`
+> - The cabin was built from durable revolve gathered in the region. `[例]`
+> - A line of revolve trees rose above the morning fog. `[例]`
 
 
 ---

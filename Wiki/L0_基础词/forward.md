@@ -137,9 +137,9 @@ fore-(=before, 在前面) + -ward(=weard, 朝……方向，古英语后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She leaned forward to whisper something in my ear . `[例]`
-> - The player launched the ball forward in the hope of catching the defenders off guard . `[例]`
-> - The army pushed forward in the direction of the enemy camp . `[例]`
+> - She leaned forward to whisper something in my ear. `[例]`
+> - The player launched the ball forward in the hope of catching the defenders off guard. `[例]`
+> - The army pushed forward in the direction of the enemy camp. `[例]`
 
 
 ---

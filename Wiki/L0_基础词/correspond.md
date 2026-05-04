@@ -129,9 +129,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The witness's statements correspond with the available evidence. `[真题]`
-> - In some countries, the role of president corresponds to that of prime minister. `[真题]`
-> - They started to correspond two years ago. `[真题]`
+> - Your account and hers do not correspond. `[例]`
+>   - 中译：你的账号和她的不对应。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/correspond
+> - Your account of events does not correspond with hers. `[例]`
+>   - 中译：你对事件的描述与她的不符。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/correspond
+> - The written record of the conversation doesn't correspond to (= is different from) what was actually said. `[例]`
+>   - 中译：谈话的书面记录与实际所说的内容不符（=不同）。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/correspond
 
 
 ---

@@ -132,9 +132,9 @@ gl-（光/视觉词根，印欧语系 *ghel-* "发光"）+ -ance（名词后缀�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He glanced up from his book as I passed." `[真题]`
-> - "I only had time to glance through the newspaper headlines." `[真题]`
-> - "The sunlight glanced off the surface of the lake." `[词典]`
+> - He glanced up from his book as I passed. `[真题]`
+> - I only had time to glance through the newspaper headlines. `[真题]`
+> - The sunlight glanced off the surface of the lake. `[例]`
 
 
 ---

@@ -126,10 +126,15 @@ at-（=ad-，向）+ [[tract|tract]]（拉）+ -ive（形容词后缀，"有…�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The company offered an attractive salary package to recruit top talent. `[COCA-NEWS]`
-> - Their pricing strategy makes their service more attractive to customers. `[COCA-ACAD]`
-> - The painting is very attractive and draws many viewers. `[COCA-ACAD]`
-> - The shop window was decorated with attractive displays for the holiday season. `[例]`
+> - Your new glasses are very attractive. `[例]`
+>   - 中译：你的新眼镜很有吸引力。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/attractive
+> - Antique furniture is used to make an attractive contrast with a modern setting. `[例]`
+>   - 中译：古董家具与现代环境形成鲜明对比。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/attractive
+> - That's one of the less attractive aspects of her personality. `[例]`
+>   - 中译：这是她性格中不太有吸引力的方面之一。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/attractive
 
 
 ---

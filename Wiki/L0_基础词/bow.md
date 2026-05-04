@@ -129,9 +129,15 @@ bow 源自古英语 *bōgan*（弯曲），与 bend（弯曲）同源，来自 P
 ## 真题/语料关联
 
 > [!example]- 语料
-> - They bowed to the Queen. `[例]`
-> - We bowed our heads in prayer . `[例]`
-> - He stood at the back, head bowed in silent contemplation . `[例]`
+> - The film was the top film over this past weekend after bowing on the platform Friday. `[例]`
+>   - 中译：这部电影是上周末在平台上上映的最佳影片。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/bow
+> - Charles placed an arrangement of flowers on a parapet before the couple silently bowed their heads in a moment of reflection. `[例]`
+>   - 中译：查尔斯在栏杆上放了一束鲜花，然后这对夫妇默默地低下头沉思了一会儿。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/bow
+> - Making his Broadway bow is the latest high-profile accomplishment from Battle. `[例]`
+>   - 中译：百老汇演出是巴特尔最新的备受瞩目的成就。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/bow
 
 
 ---

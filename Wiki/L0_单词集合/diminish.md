@@ -125,9 +125,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - I don't want to diminish her achievements , but she did have a lot of help . `[例]`
-> - These memories will not be diminished by time . `[例]`
-> - What he did has seriously diminished him in many people's eyes . `[例]`
+> - I don't want to diminish her achievements , but she did have a lot of help. `[例]`
+>   - 中译：我不想贬低她的成就，但她确实得到了很多帮助。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/diminish
+> - These memories will not be diminished by time. `[例]`
+>   - 中译：这些记忆不会随着时间的流逝而消失。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/diminish
+> - What he did has seriously diminished him in many people's eyes. `[例]`
+>   - 中译：他的所作所为严重削弱了他在很多人眼中的形象。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/diminish
 
 ---
 

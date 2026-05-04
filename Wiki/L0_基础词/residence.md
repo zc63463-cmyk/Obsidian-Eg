@@ -131,9 +131,9 @@ re-(前缀：再/回) + sid(坐，[[st-sta-stat]]的变体) + -ence(名词后缀
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She took up residence in Canada. `[真题]`
 > - Number Ten Downing Street is the British prime minister's official residence. `[真题]`
 > - Jeff has permanent residence in Canada, but is still a US citizen. `[真题]`
+> - The Queen is in residence at the Palace this week. `[例]`
 
 
 ---

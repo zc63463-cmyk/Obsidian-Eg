@@ -126,9 +126,15 @@ ap-(=ad-, 向，朝向) + peal(=call, 呼叫)。与 [[peal]]（钟声）、[[cal
 ## 真题/语料关联
 
 > [!example]- 语料
-> - They're launching (= starting ) an appeal to raise money for famine victims . `[例]`
-> - The police have issued an appeal to the public to stay away from the area over the weekend . `[例]`
-> - She has lodged (= made) an appeal against the severity of the fine . `[例]`
+> - He made an emotional appeal to voters. `[例]`
+>   - 中译：他向选民发出了情感上的呼吁。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/appeal
+> - Police are making a fresh appeal to the public for any information that may help them. `[例]`
+>   - 中译：警方再次呼吁公众提供任何可能对他们有帮助的信息。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/appeal
+> - There was a look of silent appeal on his face. `[例]`
+>   - 中译：他的脸上浮现出无声恳求的神色。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/appeal
 
 
 ---

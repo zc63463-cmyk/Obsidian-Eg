@@ -131,10 +131,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Most people do not even know their fourth cousins but somehow manage to select as friends the people who resemble our kin." `[真题]`
-> - "However, the Mesozoic is best known as the age of reptiles, when dinosaurs and their kin dominated the continents." `[通用语料]`
-> - "The driver's name was being withheld until police could notify next of kin." `[新闻语料]`
-> - "The honor guard will fold and present a flag to the next of kin." `[通用语料]`
+> - Most people do not even know their fourth cousins but somehow manage to select as friends the people who resemble our kin. `[真题]`
+> - However, the Mesozoic is best known as the age of reptiles, when dinosaurs and their kin dominated the continents. `[例]`
+> - The driver's name was being withheld until police could notify next of kin. `[例]`
+> - The honor guard will fold and present a flag to the next of kin. `[例]`
 
 
 ---

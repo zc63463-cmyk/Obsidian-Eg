@@ -128,8 +128,15 @@ brand(源自古英语 brand，意为"燃烧的、火焰")
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Brand loyalty is one of the most important factors in consumer behavior."（品牌忠诚度是消费者行为中最重要的因素之一。）——考研高频表达
-> - "The company has invested heavily in building its brand image in international markets."（公司在国际市场上大力投资建设品牌形象。）——考研高频表达
+> - AI can also provide a bridge between the need of the brand to communicate emotionally with the customer and identifying their rapidly changing needs. `[真题]`
+>   - 中译：人工智能还可以在品牌与客户进行情感沟通的需求和识别他们快速变化的需求之间架起一座桥梁。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - By allowing AI to develop content some brand marketers may find that they are losing control over the brand narrative. ( 48 ) Algorithms that are used to simulate human interactions are creating mmy of these concerns, especially as no-one is quite sure what the outcomes of using AI to interact with customers will be. `[真题]`
+>   - 中译：通过允许人工智能开发内容，一些品牌营销人员可能会发现他们正在失去对品牌叙事的控制。 ( 48 ) 用于模拟人类交互的算法正在引发这些担忧，特别是因为没有人完全确定使用人工智能与客户交互的结果会是什么。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - She has worked on ad campaigns for well-known brands. `[例]`
+>   - 中译：她曾为知名品牌从事广告活动。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/brand
 
 
 ---

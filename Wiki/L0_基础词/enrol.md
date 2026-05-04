@@ -124,8 +124,8 @@ en-(=in-, 进入/在内) + roll(名册/卷轴) → 写入名册
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Is it too late to enrol at the college ? `[例]`
-> - He is enrolled as a part-time student . `[例]`
+> - Is it too late to enrol at the college? `[例]`
+> - He is enrolled as a part-time student. `[例]`
 > - Under the new rules , employees could be enrolled in a company-sponsored retirement program unless they opt out of it. `[例]`
 
 

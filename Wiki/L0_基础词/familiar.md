@@ -135,7 +135,7 @@ familiar 源自拉丁语 *familiaris*（家庭的、私人的、属于家庭的�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - There were one or two familiar faces (= people I knew ) . `[例]`
+> - There were one or two familiar faces (= people I knew ). `[例]`
 > - The house looked strangely familiar, though she knew she'd never been there before. `[例]`
 > - The street was familiar to me. `[例]`
 

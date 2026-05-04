@@ -132,9 +132,15 @@ broad（源自古英语 *brād*，宽的，与德语 *breit* 同源，原始日�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - We walked down a broad avenue lined with trees . `[例]`
-> - He flashed a broad grin at us. `[例]`
-> - My brother is very broad- shouldered . `[例]`
+> - He's got broad shoulders. `[例]`
+>   - 中译：他有宽阔的肩膀。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/broad
+> - He is tall, broad and muscular. `[例]`
+>   - 中译：他身材高大、宽阔、肌肉发达。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/broad
+> - The wardrobe stands one metre broad and two metres high. `[例]`
+>   - 中译：衣柜宽一米，高两米。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/broad
 
 
 ---

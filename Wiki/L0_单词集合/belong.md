@@ -131,10 +131,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The manuscript belongs to a private collector who acquired it at an auction in 2005. `[COCA-ACAD]`
-> - A strong sense of belonging is essential for students' mental health and academic engagement. `[COCA-ACAD]`
-> - These documents belong in the national archives, not in a personal storage unit. `[例]`
-> - She has always felt that she belongs with people who share her passion for environmental conservation. `[例]`
+> - This table belongs in the sitting room. `[例]`
+>   - 中译：这张桌子属于客厅。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/belong
+> - Where do these spoons belong? `[例]`
+>   - 中译：这些勺子属于哪里？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/belong
+> - These papers belong with the others. `[例]`
+>   - 中译：这些文件属于其他文件。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/belong
 
 ---
 

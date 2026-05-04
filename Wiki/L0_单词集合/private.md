@@ -139,9 +139,15 @@ priv(个人/单独) + -ate(形容词后缀，具有……性质的) = private（
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She has a small office that is used for private discussions . `[例]`
-> - I caught him looking through my private papers . `[例]`
+> - She has a small office that is used for private discussions. `[例]`
+>   - 中译：她有一间小办公室，用于私人讨论。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/private
+> - I caught him looking through my private papers. `[例]`
+>   - 中译：我发现他在翻看我的私人文件。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/private
 > - The sign on the gate said "Private Property - No Trespassing! `[例]`
+>   - 中译：大门上的牌子上写着“私人财产——禁止侵入！”
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/private
 ---
 
 

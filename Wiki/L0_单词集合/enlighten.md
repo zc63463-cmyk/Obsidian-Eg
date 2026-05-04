@@ -135,9 +135,15 @@ en-(使动前缀，"使…进入…状态") + light(光) + -en(动词后缀，�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The parent who requests a label does not ask to be enlightened, but to test and reinforce the child's lexicon." `[COCA-ACAD]`
-> - "All the great politicians of the time came to lecture and enlighten us as to the possible benefits that Independence would bring." `[COCA-ACAD]`
-> - "I don't understand what's going on; can someone please enlighten me?" `[COCA]`
+> - Should the function of children's television be to entertain or to enlighten? `[例]`
+>   - 中译：儿童电视的功能应该是娱乐还是启蒙？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/enlighten
+> - I don't understand this. Could you enlighten me? `[例]`
+>   - 中译：我不明白这一点。你能启发我吗？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/enlighten
+> - The show is meant to both enlighten and entertain. `[例]`
+>   - 中译：该节目旨在启发和娱乐。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/enlighten
 ---
 
 

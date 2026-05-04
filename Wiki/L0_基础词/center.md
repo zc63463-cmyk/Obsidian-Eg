@@ -139,9 +139,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Caravanserais served as an informal 10 point for the various people who travelled the Silk Road. _.!l_ , these structures became important centers for cultural 12 and interaction, with travellers sharing their cultures, ideas and beliefs, 13 taking knowledge with them, greatly _l!_ the development of several civilisations. `[真题]`
-> - A study last year by the National Center for Science Education, a non­ profit group of scientists and teachers, looking at how state public schools across the country address climate change in science classes, gave barely half of US states a grade B + or higher. `[真题]`
-> - The Kennedy Center for the Performing Arts. `[例]`
+> - He walked to the center of the circle. `[例]`
+>   - 中译：他走到了圆圈的中心。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/center
+> - There was a long table in the center of the room. `[例]`
+>   - 中译：房间中央摆着一张长桌。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/center
+> - The statue is in the very center of the temple. `[例]`
+>   - 中译：这座雕像位于寺庙的正中央。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/center
 
 
 ---

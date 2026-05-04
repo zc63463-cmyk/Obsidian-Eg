@@ -133,9 +133,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The earth spins on its axis . `[例]`
+> - The earth spins on its axis. `[例]`
 > - The roulette players silently watched the wheel spin around. `[例]`
-> - Spin the ball (= make it turn around and around as you throw it) and it will change direction when it hits the ground . `[例]`
+> - Spin the ball (= make it turn around and around as you throw it) and it will change direction when it hits the ground. `[例]`
 
 
 ---

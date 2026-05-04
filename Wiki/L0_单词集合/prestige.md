@@ -127,8 +127,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "In those days, empirical work enjoyed less prestige."（那时候，实证研究的声望较低。）——考研高频表达
-> - "The university has gained international prestige for its research excellence."（这所大学因其卓越的研究而获得了国际声望。）——考研高频表达
+> - The carc;ers of scientists and the reputation of their institutions depend on the number and prestige of the papers they produce , but even more so on the citations attracted by these papers. `[真题]`
+>   - 中译：科学家的职业生涯及其机构的声誉取决于他们发表的论文的数量和声望，但更取决于这些论文所吸引的引用。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - The company has gained international prestige. `[例]`
+>   - 中译：该公司已赢得国际声誉。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/prestige
+> - Many people are attracted by the prestige of working for a top company. `[例]`
+>   - 中译：许多人被在顶级公司工作的声望所吸引。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/prestige
 ---
 
 

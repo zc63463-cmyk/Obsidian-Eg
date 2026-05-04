@@ -3,10 +3,8 @@ title: "horticultural"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 自然物理
 prototype: 园艺的（horti- 园 + culture 耕作）
@@ -45,7 +43,7 @@ horti-(=garden, 花园，拉丁语 *hortus*) + cult(=cultivate, 耕作) + -ur(e)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**花园耕作的**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **花园耕作的**（字面层面）
@@ -64,7 +62,7 @@ horti-(=garden, 花园，拉丁语 *hortus*) + cult(=cultivate, 耕作) + -ur(e)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ horti-(=garden, 花园，拉丁语 *hortus*) + cult(=cultivate, 耕作) + -ur(e)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > horticultural = horti（花园）+ culture（耕作）+ al（形容词）= 园艺的。记住 agriculture（农业）= agri（田地）+ culture（耕作），那么 horticulture（园艺）= horti（花园）+ culture（耕作）。田地里耕作是农业，花园里耕作是园艺。Chelsea Flower Show 就是一个著名的 horticultural show。
@@ -88,7 +86,7 @@ horti-(=garden, 花园，拉丁语 *hortus*) + cult(=cultivate, 耕作) + -ur(e)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,12 +98,12 @@ horti-(=garden, 花园，拉丁语 *hortus*) + cult(=cultivate, 耕作) + -ur(e)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[industrial]]：工业的（horticultural 的反义：园艺的↔工业的）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -116,26 +114,19 @@ horti-(=garden, 花园，拉丁语 *hortus*) + cult(=cultivate, 耕作) + -ur(e)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **horticultural society**：园艺学会/协会
 > - **horticultural show**：园艺展览
 > - **horticultural products**：园艺产品
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - He is a professor of horticultural science . `[例]`
-> - She visits many gardening shows and horticultural industry functions . `[例]`
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
+> [!example]- 语料
+> - He is a professor of horticultural science. `[例]`
+> - She visits many gardening shows and horticultural industry functions. `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

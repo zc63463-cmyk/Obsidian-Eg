@@ -129,9 +129,9 @@ flood（源自古英语 *flōd*，与 flow 同源，原始印欧语 *pleu-* "流
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Our washing machine broke down yesterday and flooded the kitchen . `[例]`
-> - The whole town flooded when the river burst its banks . `[例]`
-> - Several families living by the river were flooded out (= forced to leave their houses because they became covered with water ) . `[例]`
+> - Our washing machine broke down yesterday and flooded the kitchen. `[例]`
+> - The whole town flooded when the river burst its banks. `[例]`
+> - Several families living by the river were flooded out (= forced to leave their houses because they became covered with water ). `[例]`
 
 
 ---

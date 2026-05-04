@@ -132,9 +132,15 @@ con-(共同，一起) + [[serv|serv]](保持，保存) + -ative(形容词后缀�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Generally there was a belief that the new nations should be sovereign and independent states." `[真题]`
-> - "Hague initiated a series of reforms of the Conservative Republican Party." `[真题]`
-> - "A conservative estimate suggests that the project will cost at least ten million dollars." `[COCA-ACAD]`
+> - Older people tend to be more conservative and a bit suspicious of anything new. `[例]`
+>   - 中译：老年人往往更加保守，对任何新事物都有些怀疑。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/conservative
+> - He's a very conservative dresser - he always looks like he's wearing his father's clothes! `[例]`
+>   - 中译：他是一个非常保守的着装者——他看起来总是像穿着他父亲的衣服！
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/conservative
+> - He has a very conservative approach to management. `[例]`
+>   - 中译：他的管理方法非常保守。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/conservative
 ---
 
 

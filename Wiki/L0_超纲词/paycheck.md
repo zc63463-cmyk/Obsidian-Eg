@@ -3,10 +3,8 @@ title: "paycheck"
 tags:
   - 学习/英语/词汇
   - 语义场/资本经济
-  - 掌握/L0
 aliases: []
 date: 2026-04-25
-mastery: L0
 word_freq: 超纲词
 semantic_field: 资本经济
 prototype: 工资支票
@@ -43,7 +41,7 @@ pay（支付）+ check（支票）
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**工资支票**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **工资支票**（物理层面）
@@ -64,7 +62,7 @@ pay（支付）+ check（支票）
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ pay（支付）+ check（支票）
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > pay（支付）+ check（支票）→ paycheck。每个月发工资那天，你拿到一张 paycheck——这就是你的劳动回报。a fat paycheck 是高薪，live paycheck to paycheck 是月光族。paycheck 就是"你的付出换来的那张纸"。
@@ -86,7 +84,7 @@ pay（支付）+ check（支票）
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -98,13 +96,13 @@ pay（支付）+ check（支票）
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[bill]]：账单（paycheck 的反义：收入↔支出）
 > - [[expense]]：费用，开支（paycheck 的反义：收入↔开支）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -115,7 +113,7 @@ pay（支付）+ check（支票）
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **live paycheck to paycheck**：月光族，靠工资度日
 > - **a fat paycheck**：丰厚的薪水
 > - **collect/receive a paycheck**：领取工资
@@ -123,19 +121,12 @@ pay（支付）+ check（支票）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - `[例]` Many families are living paycheck to paycheck, struggling to cover basic expenses.
-> - `[例]` She left her stable job for a career that offered a bigger paycheck.
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-25 | **复习次数**：0 | **当前等级**：L0
-
----
+> [!example]- 语料
+> - It's easy to go on expensive holidays when you have a paycheck the size of hers. `[例]`
+> - About four out of ten households live paycheck to paycheck (= have almost no money left by the time they receive their next paycheck). `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

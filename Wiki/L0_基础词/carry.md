@@ -138,9 +138,15 @@ carry 源自古法语 *carier*（用车运输），来自拉丁语 *carricare*�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The bill requires every rental host to register with the state , mandates they carry insurance , and opens the potential for local taxes on top of a new state levy. `[真题]`
-> - Would you like me to carry your bag for you? `[例]`
-> - These books are too heavy for me to carry. `[例]`
+> - He was carrying a large bag. `[例]`
+>   - 中译：他背着一个大包。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/carry
+> - The plane was carrying 122 passengers and five crew. `[例]`
+>   - 中译：这架飞机载有 122 名乘客和 5 名机组人员。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/carry
+> - She carried her baby in her arms. `[例]`
+>   - 中译：她怀里抱着她的孩子。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/carry
 
 
 ---

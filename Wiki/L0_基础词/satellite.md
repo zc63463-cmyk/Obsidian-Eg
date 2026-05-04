@@ -128,10 +128,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The country launched a new communications satellite into orbit." `[真题]`
-> - "During the Cold War, Eastern European countries were often seen as Soviet satellite states." `[真题]`
-> - "Italy became a satellite state of Germany by the end of the 1930s." `[权威语料]`
-> - "Meanwhile the weather bureau was studying the latest meteorological photographs which had been transmitted by satellite." `[权威语料]`
+> - The country launched a new communications satellite into orbit. `[真题]`
+> - During the Cold War, Eastern European countries were often seen as Soviet satellite states. `[真题]`
+> - A line of satellite trees rose above the morning fog. `[例]`
+> - Meanwhile the weather bureau was studying the latest meteorological photographs which had been transmitted by satellite. `[例]`
 
 
 ---

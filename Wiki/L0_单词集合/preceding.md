@@ -115,8 +115,15 @@ pre-（前缀，"在...之前"）+ [[ced-cess]]（词根，"走"）+ -ing（形�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The preceding chapters have laid the groundwork for understanding this complex issue."（前面的章节为理解这个复杂问题奠定了基础。）——考研高频表达
-> - "As was mentioned in the preceding section, the results are consistent with previous findings."（如前一节所述，结果与之前的发现一致。）——考研高频表达
+> - The paintings are a development of ideas she explored in the preceding decade. `[例]`
+>   - 中译：这些画作是她在过去十年中探索的想法的发展。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/preceding
+> - In conclusion , I hope the preceding arguments have convinced you of the need for action. `[例]`
+>   - 中译：总之，我希望前面的论点能够让您相信采取行动的必要性。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/preceding
+> - See the preceding chapter. `[例]`
+>   - 中译：参见前一章。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/preceding
 
 ---
 

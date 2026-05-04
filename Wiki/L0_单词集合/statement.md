@@ -133,9 +133,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Which of the following statements best represents Lownie's view? `[真题]`
-> - The government is expected to issue a statement about the investigation to the press . `[例]`
-> - He produced a signed statement from the prisoner . `[例]`
+> - Are the following statements true or false? `[例]`
+>   - 中译：以下陈述是真是假？
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/statement
+> - The article contained several false statements. `[例]`
+>   - 中译：这篇文章包含多项虚假陈述。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/statement
+> - He made a rather misleading statement. `[例]`
+>   - 中译：他发表了一个颇具误导性的言论。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/statement
 
 ---
 

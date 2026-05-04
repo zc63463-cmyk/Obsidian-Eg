@@ -127,7 +127,7 @@ stereo-(立体的/固定的，希腊语 *stereos* 坚硬的) + type(印/类型�
 > [!example]- 语料
 > - The characters in the book are just stereotypes. `[例]`
 > - The study claims that British advertising stereotypes women. `[例]`
-> - We tried not to give the children sexually stereotyped toys . `[例]`
+> - We tried not to give the children sexually stereotyped toys. `[例]`
 
 
 ---

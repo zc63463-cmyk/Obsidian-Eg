@@ -3,10 +3,8 @@ title: "mechanistic"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 理性世界
 prototype: 机械论的（用机械原理解释一切）
@@ -43,7 +41,7 @@ mechan（机械，希腊语 *mēkhanē*）+ -ist（……主义者）+ -ic（形
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**机械论的**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **机械论的**（哲学/科学层面）
@@ -64,7 +62,7 @@ mechan（机械，希腊语 *mēkhanē*）+ -ist（……主义者）+ -ic（形
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ mechan（机械，希腊语 *mēkhanē*）+ -ist（……主义者）+ -ic（形
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **词拆分记忆**：
 > mechan（机械）+ -istic → 机械论的。mechanistic thinking（机械式思维）就是把人当机器——只看输入输出，不考虑情感和创造力。就像工厂流水线上的机器人，mechanistic 地重复同一个动作。
@@ -85,7 +83,7 @@ mechan（机械，希腊语 *mēkhanē*）+ -ist（……主义者）+ -ic（形
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -97,13 +95,13 @@ mechan（机械，希腊语 *mēkhanē*）+ -ist（……主义者）+ -ic（形
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[organic]]：有机的（机械↔有机）
 > - [[holistic]]：整体的（机械式还原↔整体论）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -115,7 +113,7 @@ mechan（机械，希腊语 *mēkhanē*）+ -ist（……主义者）+ -ic（形
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **mechanistic model**：机械论模型
 > - **mechanistic approach**：机械式方法
 > - **mechanistic thinking**：机械式思维
@@ -123,19 +121,12 @@ mechan（机械，希腊语 *mēkhanē*）+ -ist（……主义者）+ -ic（形
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - According to mechanistic views of behaviour , human action can be explained in terms of cause and effect . `[例]`
+> [!example]- 语料
+> - According to mechanistic views of behaviour , human action can be explained in terms of cause and effect. `[例]`
 > - The mechanistic philosophy that compares the brain to a computer. `[例]`
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

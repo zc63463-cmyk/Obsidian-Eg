@@ -130,7 +130,6 @@ review_count: 0
 > [!example]- 语料
 > - The veteran detective winked at his young partner, signaling that they should not reveal what they had just discovered to the suspect. `[真题]`
 > - In the age of social media, news can spread across the globe in a wink, making it increasingly difficult for governments to control the flow of information. `[真题]`
-> - I didn't sleep a wink last night because of the noise from the construction site next door. `[真题]`
 > - The stars winked in the clear night sky like diamonds scattered on black velvet. `[真题]`
 
 

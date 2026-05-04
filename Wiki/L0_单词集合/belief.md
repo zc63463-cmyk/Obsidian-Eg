@@ -132,10 +132,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Her belief in freedom of speech was unwavering, even in the face of intense political pressure. `[COCA-ACAD]`
-> - The difficulty of the task was beyond belief, yet the team managed to complete it on schedule. `[例]`
-> - He acted in the belief that the evidence would ultimately support his theory. `[COCA-ACAD]`
-> - Religious beliefs should be respected as a fundamental aspect of individual identity. `[例]`
+> - Caravanserais served as an informal 10 point for the various people who travelled the Silk Road. _.!l_ , these structures became important centers for cultural 12 and interaction, with travellers sharing their cultures, ideas and beliefs, 13 taking knowledge with them, greatly _l!_ the development of several civilisations. `[真题]`
+>   - 中译：商队旅馆是丝绸之路上各路人士的非正式休息点。 _.!l_ ，这些建筑成为重要的文化 12 和互动中心，旅行者分享他们的文化、想法和信仰， 13 带走知识，极大地 _l!_ 多个文明的发展。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - His belief in God gave him hope during difficult times. `[例]`
+>   - 中译：他对上帝的信仰在困难时期给了他希望。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/belief
+> - Recent scandals have shaken many people's belief in (= caused people to have doubts about) politicians. `[例]`
+>   - 中译：最近的丑闻动摇了许多人对政客的信念（=引起人们对政客的怀疑）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/belief
 
 ---
 

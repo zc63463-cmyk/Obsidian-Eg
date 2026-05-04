@@ -125,8 +125,8 @@ pro-(向前/公开) + [[sign|nounce]](=nunciare, 报告/说)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - How do you pronounce your surname ? `[例]`
-> - How do you pronounce your last name ? `[例]`
+> - How do you pronounce your surname? `[例]`
+> - How do you pronounce your last name? `[例]`
 > - She pronounced his name so badly he didn't even recognize it. `[例]`
 
 

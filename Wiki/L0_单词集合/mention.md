@@ -130,8 +130,15 @@ ment(=memor，心智/记忆，mind) + -ion(名词后缀，表动作/结果)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The author mentions several factors that contribute to climate change in her latest book.（作者在其新书中提到了导致气候变化的几个因素。）
-> - It is worth mentioning that the results are consistent with previous findings.（值得一提的是，这些结果与先前的研究发现一致。）
+> - I'll mention your ideas to Jacinta. `[例]`
+>   - 中译：我会把你的想法告诉杰辛塔。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/mention
+> - Did she mention me in her letter? `[例]`
+>   - 中译：她在信中提到我了吗？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/mention
+> - I promised never to mention the incident again. `[例]`
+>   - 中译：我答应不再提起这件事。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/mention
 
 ---
 

@@ -130,10 +130,10 @@ schol-（=school，源自希腊语 *skholē* 闲暇/学校）+ -ar（名词后�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She is a distinguished scholar in the field of Renaissance literature and has published numerous books on Shakespeare." `[真题]`
-> - "He was a King's scholar at Eton College." `[语料库]`
-> - "Biblical scholars have long debated the meaning of this passage." `[语料库]`
-> - "He is a scholar, a genuinely learned man." `[语料库]`
+> - She is a distinguished scholar in the field of Renaissance literature and has published numerous books on Shakespeare. `[真题]`
+> - He was a King's scholar at Eton College. `[例]`
+> - Biblical scholars have long debated the meaning of this passage. `[例]`
+> - He is a scholar, a genuinely learned man. `[例]`
 
 
 ---

@@ -129,9 +129,15 @@ bug（源自中古英语 *bugge*，指恐怖的幽灵/怪物，后来指小虫�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - I had a stomach bug last week . `[例]`
-> - There's a bug going around (= an illness that many people are getting) . `[例]`
-> - A bug caused the company's computer system to crash . `[例]`
+> - There's a bug crawling up your arm. `[例]`
+>   - 中译：有一只虫子爬上你的手臂。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bug
+> - There's a stomach bug going round (= people are catching it from each other). `[例]`
+>   - 中译：胃病正在流行（=人们互相传染）。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bug
+> - I picked up a bug in the office. `[例]`
+>   - 中译：我在办公室发现了一个窃听器。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bug
 
 
 ---

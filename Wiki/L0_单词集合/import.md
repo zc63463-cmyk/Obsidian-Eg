@@ -125,10 +125,15 @@ im-(=in，进入) + port(=carry，运送)（建议创建词根笔记 [[port]]）
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - `The country has to import most of its raw materials.` `[真题]`
-> > - `About 90 percent of the coffee beans in the US are imported.` `[COCA-ACAD]`
-> > - `Cheap imports have destroyed the home-grown apparel manufacturing sector.` `[COCA-ACAD]`
-> > - `All the meat is imported from France.` `[COCA-ACAD]`
+> - We import a large number of cars from Japan. `[例]`
+>   - 中译：我们从日本进口大量汽车。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/import
+> - Jazz is an American modification of musical conventions imported from Europe. `[例]`
+>   - 中译：爵士乐是从欧洲引进的音乐惯例的美国改良版。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/import
+> - In some countries , importing drugs is a capital offence. `[例]`
+>   - 中译：在一些国家，进口毒品是死罪。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/import
 
 ---
 

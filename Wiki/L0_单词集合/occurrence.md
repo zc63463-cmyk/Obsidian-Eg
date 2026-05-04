@@ -131,10 +131,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Street-fights are an everyday occurrence in this area of the city . `[例]`
-> - The study compares the occurrence of heart disease in various countries . `[例]`
-> - Break-ins are an everyday occurrence in this neighborhood . `[例]`
-> - The tests can detect the occurrence of certain cancers . `[例]`
+> - Street-fights are an everyday occurrence in this area of the city. `[例]`
+>   - 中译：在这个城市的这个地区，巷战每天都会发生。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/occurrence
+> - Death was an everyday occurrence during the Civil War. `[例]`
+>   - 中译：在内战期间，死亡是家常便饭。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/occurrence
+> - It's still not possible to accurately predict the occurrence of earthquakes. `[例]`
+>   - 中译：目前还无法准确预测地震的发生。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/occurrence
 
 ---
 

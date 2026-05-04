@@ -128,8 +128,8 @@ in-(在……上/靠近) + [[st-sta-stat|st]](站立，拉丁语 *stare*) + -anc
 > [!example]- 语料
 > - Murder, petty theft and tax evasion, for instance, all have different motives and consequences. `[真题]`
 > - They have decided not to oppose the decision in this instance. `[真题]`
-> - Burials, for instance, are underneath platforms, within the limits of the dwellings. `[语料库]`
-> - Scholars have found, for instance, surprising links between Taylor and a number of literary figures. `[语料库]`
+> - Burials, for instance, are underneath platforms, within the limits of the dwellings. `[例]`
+> - Scholars have found, for instance, surprising links between Taylor and a number of literary figures. `[例]`
 
 
 ---

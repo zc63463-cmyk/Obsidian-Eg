@@ -3,10 +3,8 @@ title: "nonverbal"
 tags:
   - 学习/英语/词汇
   - 语义场/人体动作
-  - 掌握/L0
 aliases: []
 date: 2026-04-25
-mastery: L0
 word_freq: 超纲词
 semantic_field: 人体动作
 prototype: 非语言的（不使用语言的）
@@ -43,7 +41,7 @@ non-(不，否定前缀) + [[ver-vert|verb]](=ver-, 词/话语，拉丁语 *verb
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**非语言的**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **非语言的**（交流方式层面）
@@ -62,7 +60,7 @@ non-(不，否定前缀) + [[ver-vert|verb]](=ver-, 词/话语，拉丁语 *verb
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -72,7 +70,7 @@ non-(不，否定前缀) + [[ver-vert|verb]](=ver-, 词/话语，拉丁语 *verb
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > non-（不）+ verbal（语言的）= nonverbal（非语言的）。verbal 是"用语言的"，nonverbal 就是"不用语言的"。你说话是 verbal communication，你微笑、点头、皱眉就是 nonverbal communication。心理学研究表明，人际交流中 nonverbal cues 占了很大比重——有时候你的身体比你的嘴巴更诚实。
@@ -84,7 +82,7 @@ non-(不，否定前缀) + [[ver-vert|verb]](=ver-, 词/话语，拉丁语 *verb
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -95,12 +93,12 @@ non-(不，否定前缀) + [[ver-vert|verb]](=ver-, 词/话语，拉丁语 *verb
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[verbal]]：语言的，口头的（nonverbal 的精确反义：非语言的↔语言的）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -111,7 +109,7 @@ non-(不，否定前缀) + [[ver-vert|verb]](=ver-, 词/话语，拉丁语 *verb
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **nonverbal communication**：非语言交流（高频搭配）
 > - **nonverbal cues/signals**：非语言线索/信号
 > - **nonverbal behavior**：非语言行为
@@ -119,19 +117,12 @@ non-(不，否定前缀) + [[ver-vert|verb]](=ver-, 词/话语，拉丁语 *verb
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - `[例]` Research shows that nonverbal communication accounts for a significant portion of human interaction.
-> - `[例]` Her nonverbal cues — crossed arms and a furrowed brow — suggested she was not pleased.
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-25 | **复习次数**：0 | **当前等级**：L0
-
----
+> [!example]- 语料
+> - The researchers proposed a nonverbal solution to the problem. `[例]`
+> - The company adopted a nonverbal approach to improve efficiency. `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

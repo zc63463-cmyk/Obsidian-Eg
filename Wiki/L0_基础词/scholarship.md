@@ -129,10 +129,9 @@ schol-（=school，源自希腊语 *skholē* 闲暇/学校）+ -ar（名词后�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She was awarded a full scholarship to study at Oxford University." `[真题]`
-> - "He won a scholarship to Cambridge." `[语料库]`
-> - "Her scholarship awards helped her complete her college education." `[语料库]`
-> - "His latest book demonstrates the depth of his scholarship and his mastery of the subject." `[真题]`
+> - She was awarded a full scholarship to study at Oxford University. `[真题]`
+> - Her scholarship awards helped her complete her college education. `[例]`
+> - His latest book demonstrates the depth of his scholarship and his mastery of the subject. `[真题]`
 
 
 ---

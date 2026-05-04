@@ -134,8 +134,15 @@ ex-(向外) + [[ist]](站立) + -ence(名词后缀，表状态) = existence（�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Most religions posit the existence of life after death."（大多数宗教都假定人死后生命仍存在。）——考研高频表达
-> - "I was unaware of his existence until today."（直到今天我才知道有他这么个人。）——考研高频表达
+> - Modern cosmology believes the universe to have come into existence about 15 billion years ago. `[例]`
+>   - 中译：现代宇宙学认为，宇宙大约在 150 亿年前就已经存在。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/existence
+> - The theatre company that they started is still in existence today. `[例]`
+>   - 中译：他们创办的剧院公司至今仍然存在。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/existence
+> - She has a miserable existence living with him. `[例]`
+>   - 中译：她和他一起过着悲惨的生活。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/existence
 
 ---
 

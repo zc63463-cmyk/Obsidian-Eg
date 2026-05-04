@@ -130,9 +130,9 @@ theft 源自古英语 *þēofþ*（偷窃），与 [[thieve]]（偷窃）同源�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Unfortunately, we have had several thefts in the building recently." `[词典]`
-> - "They are at an increased risk of identity theft." `[真题]`
-> - "Theft was by far the most common offense." `[期刊]`
+> - Unfortunately, we have had several thefts in the building recently. `[例]`
+> - They are at an increased risk of identity theft. `[真题]`
+> - Theft was by far the most common offense. `[例]`
 
 
 ---

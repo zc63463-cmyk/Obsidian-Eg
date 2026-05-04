@@ -122,9 +122,15 @@ memor(记忆，memory) + -o(名词后缀，缩略形式)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The manager sent a memo to all employees about the new policy. `` `[COCA-ACAD]` ``
-> - An internal memo revealed the company's plans for restructuring. `` `[COCA-ACAD]` ``
-> - The chairman circulated a memorandum to member states to reconvene the meeting. `` `[真题]` ``
+> - Did you get my memo about the meeting? `[例]`
+>   - 中译：你收到我关于这次会议的备忘录了吗？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/memo
+> - This memo is for internal consumption only. `[例]`
+>   - 中译：本备忘录仅供内部使用。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/memo
+> - Please read this memo carefully and hand it on (to your colleagues ). `[例]`
+>   - 中译：请仔细阅读本备忘录并将其交给（给您的同事）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/memo
 
 ---
 

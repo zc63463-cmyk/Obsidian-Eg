@@ -130,9 +130,15 @@ broad(广泛，古英语 *brād*) + cast(投掷，播撒，古诺尔斯语 *kast
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The tennis championship is broadcast live to several different countries . `[例]`
-> - The ceremony was broadcast on the internet . `[例]`
-> - I'm leaving but please don't broadcast the fact . `[例]`
+> - The concert will be broadcast live (= at the same time as it takes place) tomorrow evening. `[例]`
+>   - 中译：音乐会将于明天晚上进行现场直播（=与演出同时进行）。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/broadcast
+> - Most of the programmes are broadcast in English. `[例]`
+>   - 中译：大多数节目都用英语播出。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/broadcast
+> - They began broadcasting in 1922. `[例]`
+>   - 中译：他们于 1922 年开始广播。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/broadcast
 
 
 ---

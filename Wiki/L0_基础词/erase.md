@@ -127,8 +127,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - It's in pencil so you can just erase anything that's wrong . `[例]`
-> - A virus erased my hard disk . `[例]`
+> - It's in pencil so you can just erase anything that's wrong. `[例]`
+> - A virus erased my hard disk. `[例]`
 > - He is determined to erase the memory of a disappointing debut two years ago. `[例]`
 
 

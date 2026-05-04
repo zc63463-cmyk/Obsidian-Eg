@@ -127,9 +127,15 @@ con-(共同) + [[tract|trol]](=rotulus，小滚轮/登记册) → 对照登记�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The stationmasters thus retained manual control over this pool of reservations whilst supporting automation of the larger set of reservations. `[真题]`
-> - The government should exercise tighter control over the financial sector. `[COCA-ACAD]`
-> - The fire quickly got out of control and spread to neighboring buildings. `[例]`
+> - Its home prices are under strict control. `[真题]`
+>   - 中译：其房价受到严格控制。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - By allowing AI to develop content some brand marketers may find that they are losing control over the brand narrative. ( 48 ) Algorithms that are used to simulate human interactions are creating mmy of these concerns, especially as no-one is quite sure what the outcomes of using AI to interact with customers will be. `[真题]`
+>   - 中译：通过允许人工智能开发内容，一些品牌营销人员可能会发现他们正在失去对品牌叙事的控制。 ( 48 ) 用于模拟人类交互的算法正在引发这些担忧，特别是因为没有人完全确定使用人工智能与客户交互的结果会是什么。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - You're going to have to learn to control your temper. `[例]`
+>   - 中译：你必须学会​​控制自己的脾气。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/control
 
 ---
 

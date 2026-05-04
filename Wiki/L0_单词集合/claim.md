@@ -122,6 +122,15 @@ claim（大声呼喊→声称，拉丁语 clamare）
 ## 真题/语料关联
 
 > [!example]- 语料
+> - The company claims (that) it is not responsible for the pollution in the river. `[例]`
+>   - 中译：该公司声称它对河流的污染不负有责任。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/claim
+> - He claims to have met the president , but I don't believe him. `[例]`
+>   - 中译：他声称见过总统，但我不相信他。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/claim
+> - All parties have claimed success in yesterday's elections. `[例]`
+>   - 中译：所有政党都声称在昨天的选举中取得了成功。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/claim
 - The company claims that its product is the best on the market.（该公司声称其产品是市场上最好的。）
 - You can claim a refund if the product is defective.（如果产品有缺陷，你可以申请退款。）
 

@@ -128,9 +128,9 @@ e-(=ex-, 出/超越) + [[ess-essence|tern]](=term, 时间/界限，源自拉丁�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The company is engaged in the eternal search for a product that will lead the market . `[例]`
-> - Will you two never stop your eternal arguing ! `[例]`
-> - She's an eternal optimist (= she always expects that the best will happen) . `[例]`
+> - The company is engaged in the eternal search for a product that will lead the market. `[例]`
+> - Will you two never stop your eternal arguing! `[例]`
+> - She's an eternal optimist (= she always expects that the best will happen). `[例]`
 
 
 ---

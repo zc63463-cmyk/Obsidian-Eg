@@ -3,10 +3,8 @@ title: "metaphysical"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 理性世界
 prototype: 超越物理层面的、形而上的
@@ -43,7 +41,7 @@ meta-(超越，在……之后，希腊语) + phys(自然/物理，希腊语 *ph
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**超越物理层面**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **超越物理层面**（哲学层面）
@@ -64,7 +62,7 @@ meta-(超越，在……之后，希腊语) + phys(自然/物理，希腊语 *ph
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ meta-(超越，在……之后，希腊语) + phys(自然/物理，希腊语 *ph
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > meta（超越）+ physics（物理学）= metaphysical（形而上学的）。Aristotle 写完物理学后，接着写"物理学之后的东西"——关于存在、灵魂、上帝的问题。编书的人把这部分叫 ta meta ta physika（物理学之后），后来就成了 metaphysics。所以 metaphysical 就是"超越物理的"。
@@ -86,7 +84,7 @@ meta-(超越，在……之后，希腊语) + phys(自然/物理，希腊语 *ph
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ meta-(超越，在……之后，希腊语) + phys(自然/物理，希腊语 *ph
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[physical]]：物理的，身体的（metaphysical 的精确反义：超越物理↔物理层面）
 > - [[empirical]]：经验主义的（metaphysical 的反义：形而上↔基于经验）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -116,26 +114,19 @@ meta-(超越，在……之后，希腊语) + phys(自然/物理，希腊语 *ph
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **metaphysical questions**：形而上学的问题
 > - **metaphysical debate**：形而上学辩论
 > - **metaphysical philosophy**：形而上学哲学
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - Most teenagers ask themselves metaphysical questions such as "What is love ?" and "What is death ? `[例]`
-> - He is practical and not given to metaphysical speculation . `[例]`
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
+> [!example]- 语料
+> - Most teenagers ask themselves metaphysical questions such as "What is love ?" and "What is death? `[例]`
+> - He is practical and not given to metaphysical speculation. `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

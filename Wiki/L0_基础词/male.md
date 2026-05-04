@@ -138,10 +138,10 @@ male 源自拉丁语 *masculus*（男性的），与拉丁语 *mas*（男性）�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "IT is very much a male-dominated industry." `[COCA-NEWS]`
-> - "Europe's top corporate-governance positions remain overwhelmingly male." `[真题]`
-> - "The patients in this study consisted of 30 males and 25 females." `[COCA-ACAD]`
-> - "There are about 105 males born for every 100 females, but this ratio drops to near balance at the age of maturity." `[真题]`
+> - IT is very much a male-dominated industry. `[COCA-NEWS]`
+> - Europe's top corporate-governance positions remain overwhelmingly male. `[真题]`
+> - The patients in this study consisted of 30 males and 25 females. `[COCA-ACAD]`
+> - There are about 105 males born for every 100 females, but this ratio drops to near balance at the age of maturity. `[真题]`
 
 
 ---

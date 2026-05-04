@@ -130,9 +130,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - He stood at the bottom of the stairs and called up to me. `[例]`
-> - The manager of the hotel started at the bottom (= in one of the least important jobs ) 30 years ago, as a porter . `[例]`
-> - The plankton similarly builds tiny shells out of the carbon which at the end of the plankton's life sink to the bottom of the ocean . `[例]`
+> - Footnotes are given at the bottom of each page. `[例]`
+>   - 中译：脚注位于每页底部。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bottom
+> - The book I want is right at the bottom (= of the pile). `[例]`
+>   - 中译：我想要的书就在书堆的底部（=）。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bottom
+> - The wind blew through gaps at the top and bottom of the door. `[例]`
+>   - 中译：风从门的顶部和底部的缝隙吹进来。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bottom
 
 
 ---

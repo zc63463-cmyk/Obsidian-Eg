@@ -121,9 +121,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Many buildings were put to the torch (= burned intentionally ) during the riots . `[例]`
-> - If you have a cook's torch, use it to caramelize the sugar until it melts and goes brown . `[例]`
-> - Rescue workers were using acetylene torches to cut through railings . `[例]`
+> - Many buildings were put to the torch (= burned intentionally ) during the riots. `[例]`
+> - If you have a cook's torch, use it to caramelize the sugar until it melts and goes brown. `[例]`
+> - Rescue workers were using acetylene torches to cut through railings. `[例]`
 
 
 ---

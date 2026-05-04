@@ -132,9 +132,9 @@ oc-(=ob-, 朝向/在……前) + [[cad-cas-cid|cas]](=fall, 落下) + -ion(名�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - We met on several occasions to discuss the issue . `[例]`
+> - We met on several occasions to discuss the issue. `[例]`
 > - I've heard him be rude to her on a number of occasions. `[例]`
-> - I seem to remember that on that occasion he was with his wife . `[例]`
+> - I seem to remember that on that occasion he was with his wife. `[例]`
 
 
 ---

@@ -130,7 +130,7 @@ review_count: 0
 
 > [!example]- 语料
 > - If you have a fever you should drink plenty of fluids. `[例]`
-> - His piano playing was beautifully fluid, adding grace to every song he played . `[例]`
+> - His piano playing was beautifully fluid, adding grace to every song he played. `[例]`
 > - The military situation is still very fluid. `[例]`
 
 

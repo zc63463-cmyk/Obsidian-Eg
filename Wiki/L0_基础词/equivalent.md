@@ -127,9 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She's doing the equivalent job in the new company but for more money . `[例]`
+> - She's doing the equivalent job in the new company but for more money. `[例]`
 > - Is $50 equivalent to about £30? `[例]`
-> - There is no English equivalent for " bon appetit" so we have adopted the French expression . `[例]`
+> - There is no English equivalent for " bon appetit" so we have adopted the French expression. `[例]`
 
 
 ---

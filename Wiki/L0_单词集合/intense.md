@@ -131,9 +131,15 @@ in-(=intens-, 加强，向内) + [[tend-tens|tens-/tend-]](伸展→拉紧)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Yet moments like this one are just the kind of intense absorption and pleasure adults spend the rest of their lives seeking. `[真题]`
-> - There is intense competition for the top jobs. `[COCA-ACAD]`
-> - His business affairs have been under intense scrutiny. `[COCA-ACAD]`
+> - He was young and intense, and silly , too. `[例]`
+>   - 中译：他年轻而热情，也很愚蠢。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/intense
+> - We were all suffering in the intense heat. `[例]`
+>   - 中译：我们都在酷暑中受苦。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/intense
+> - They watched with intense interest. `[例]`
+>   - 中译：他们饶有兴趣地观看着。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/intense
 
 ---
 

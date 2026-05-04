@@ -121,8 +121,15 @@ pre-（前缀，"在...之前"）+ [[cert]]（词根，"确定/确切"；此处 
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The precise cause of the disease is still unknown to scientists."（这种疾病的精确原因对科学家来说仍然未知。）——考研高频表达
-> - "The researcher was unable to give a precise figure for the number of people affected."（研究人员无法给出受影响人数的精确数字。）——考研高频表达
+> - The bunker's precise location is a closely guarded secret. `[例]`
+>   - 中译：地堡的精确位置是一个严格保守的秘密。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/precise
+> - He caught me at the precise moment that I fainted. `[例]`
+>   - 中译：他在我晕倒的那一刻抓住了我。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/precise
+> - There was a good turnout for the meeting - twelve of us to be precise. `[例]`
+>   - 中译：这次会议的出席人数很高——准确地说，我们有十二个人。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/precise
 
 ---
 

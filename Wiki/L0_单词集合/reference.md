@@ -127,10 +127,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Critics also argue that commercial genetic testing is only as good as the reference collections to which a sample is compared. `[真题]`
-> - The author makes frequent reference to historical events to support his argument. `[真题]`
-> - There is no direct reference to her own childhood in the novel. `[COCA-ACAD]`
-> - She listed her former teacher as a reference when she applied for the job. `[COCA-ACAD]`
+> - Knowing what had happened , I avoided making any reference to (= mentioning ) weddings. `[例]`
+>   - 中译：知道发生了什么事后，我避免提及任何婚礼。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/reference
+> - I am writing with reference to (= in connection with) your letter of 15 March. `[例]`
+>   - 中译：我写信是参考您 3 月 15 日的信。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/reference
+> - I think it should be an option ," she said in reference to (= in connection with) sanctions. `[例]`
+>   - 中译：我认为这应该是一个选择，”她在谈到制裁时说道。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/reference
 
 ---
 

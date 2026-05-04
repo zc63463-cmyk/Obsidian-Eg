@@ -126,9 +126,9 @@ numer(=number, 数字，拉丁语 *numerus*) + -ous(形容词后缀，"充满…
 ## 真题/语料关联
 
 > [!example]- 语料
-> - We have discussed these plans on numerous occasions . `[例]`
+> - We have discussed these plans on numerous occasions. `[例]`
 > - Retailers of this type , once rare , are now numerous. `[例]`
-> - She is the author of three books and numerous articles . `[例]`
+> - She is the author of three books and numerous articles. `[例]`
 
 
 ---

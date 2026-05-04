@@ -124,9 +124,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The glowing cloud was an optical effect . `[例]`
-> - Her eye tests revealed that she has no optical defects . `[例]`
-> - There are specialized optical aids which can help visually impaired people . `[例]`
+> - The glowing cloud was an optical effect. `[例]`
+> - Her eye tests revealed that she has no optical defects. `[例]`
+> - There are specialized optical aids which can help visually impaired people. `[例]`
 
 
 ---

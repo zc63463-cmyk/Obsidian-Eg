@@ -3,10 +3,8 @@ title: "workplace"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-25
-mastery: L0
 word_freq: 超纲词
 semantic_field: 社会专业
 prototype: 工作的场所
@@ -43,7 +41,7 @@ work（工作，古英语 *weorc*）+ place（地方，拉丁语 *platea* 通过
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**工作的场所**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **工作的场所**（物理层面）
@@ -64,7 +62,7 @@ work（工作，古英语 *weorc*）+ place（地方，拉丁语 *platea* 通过
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ work（工作，古英语 *weorc*）+ place（地方，拉丁语 *platea* 通过
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > work（工作）+ place（地方）= workplace（工作场所）。想象一个时间线：你早上8点离开 home（家），来到 workplace（工作场所），下午6点再回到 home。workplace 是你白天待的地方，有你的工位、你的同事、你的咖啡杯。它不仅是一个 place，更是一个充满社会规则的"微型社会"。
@@ -86,7 +84,7 @@ work（工作，古英语 *weorc*）+ place（地方，拉丁语 *platea* 通过
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ work（工作，古英语 *weorc*）+ place（地方，拉丁语 *platea* 通过
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[home]]：家（workplace 的反义：工作场所↔生活场所）
 > - [[school]]：学校（workplace 在学习语境下的反义：工作场所↔学习场所）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,7 +115,7 @@ work（工作，古英语 *weorc*）+ place（地方，拉丁语 *platea* 通过
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **workplace safety**：工作场所安全
 > - **workplace culture**：职场文化
 > - **workplace diversity**：职场多样性
@@ -126,19 +124,12 @@ work（工作，古英语 *weorc*）+ place（地方，拉丁语 *platea* 通过
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - The survey asks workers about facilities in their workplace. `[例]`
-> - There can be no doubt that health and safety standards in the workplace have increased significantly since the introduction of the law . `[例]`
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-25 | **复习次数**：0 | **当前等级**：L0
-
----
+> - There can be no doubt that health and safety standards in the workplace have increased significantly since the introduction of the law. `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

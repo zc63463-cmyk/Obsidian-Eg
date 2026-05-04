@@ -136,8 +136,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Their thesis—that a relatively modest intervention could have a big impact—was based on the view that first-generation students may be most lacking not in potential but in practical knowledge."（他们的论点——即一项相对适度的干预可能产生重大影响——基于这样一种观点：第一代大学生最缺乏的可能不是潜力，而是实用知识。）——2015年考研真题
-> - "Despite his modest background, he went on to become one of the most influential scientists of his generation."（尽管出身卑微，他后来成为他那一代最具影响力的科学家之一。）——考研高频表达
+> - They live in a fairly modest house , considering their wealth. `[例]`
+>   - 中译：考虑到他们的财富，他们住在一所相当简陋的房子里。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/modest
+> - The party made modest gains in the elections , but nothing like the huge gains that were predicted. `[例]`
+>   - 中译：该党在选举中取得了一定的进展，但远没有达到预期的巨大进展。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/modest
+> - There was a modest rise in high-street spending last month. `[例]`
+>   - 中译：上个月大街消费略有增长。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/modest
 ---
 
 

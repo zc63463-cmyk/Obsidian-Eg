@@ -138,9 +138,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - That's why Hayden's expedition aimed to produce a fuller understanding of the Yellowstone River region, from its hot springs and waterfalls to its variety of flora and fauna. `[真题]`
-> - When planning meals , you need to think about variety and taste as well as nutritional value . `[例]`
-> - Sexual reproduction serves to create genetic variety. `[例]`
+> - There is a wide variety of patterns to choose from. `[例]`
+>   - 中译：有多种图案可供选择。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/variety
+> - He resigned for a variety of reasons. `[例]`
+>   - 中译：他因种种原因辞职了。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/variety
+> - This tool can be used in a variety of ways. `[例]`
+>   - 中译：该工具可以通过多种方式使用。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/variety
 
 ---
 

@@ -135,11 +135,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - It was achieved with minimum fuss and maximum efficiency. `[COCA-NEWS]`
-> - I need the maximum amount of information you can give me. `[COCA-FIC]`
-> - The law provides for a maximum of two years in prison. `[COCA-ACAD]`
-> - Under planning law the maximum height for a fence or hedge is two metres. `[COCA-NEWS]`
-> - Their interest is in selling you the maximum amount of storage. `[COCA-NEWS]`
+> - The bomb was designed to cause the maximum amount of damage. `[例]`
+>   - 中译：该炸弹的设计目的是造成最大程度的伤害。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/maximum
+> - The maximum penalty for the offence is a $1000 fine. `[例]`
+>   - 中译：该违法行为的最高处罚是 1000 美元罚款。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/maximum
+> - The maximum load for this elevator is eight persons. `[例]`
+>   - 中译：该电梯的最大载重量为八人。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/maximum
 
 ---
 

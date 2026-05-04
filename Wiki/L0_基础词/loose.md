@@ -131,7 +131,7 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - There were some loose wires hanging out of the wall . `[例]`
+> - There were some loose wires hanging out of the wall. `[例]`
 > - The nails in the wall had worked themselves loose. `[例]`
 > - The prisoners were so thin that their skin hung loose. `[例]`
 

@@ -132,8 +132,14 @@ pro-(向前) + posit(放置，拉丁语 *ponere* 的过去分词 *positus*) + -i
 
 > [!example]- 语料
 > - He wrote to me last week regarding a business proposition he thought might interest me. `[例]`
+>   - 中译：他上周写信给我，谈到了他认为我可能感兴趣的一个商业提议。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/proposition
 > - They were debating the proposition that "All people are created equal ". `[例]`
-> - Pythagoras's theorem is the mathematical proposition that in any right-angled triangle , the square on the hypotenuse is equal to the sum of the squares on the other two sides . `[例]`
+>   - 中译：他们正在辩论“人人生而平等”的命题。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/proposition
+> - Pythagoras's theorem is the mathematical proposition that in any right-angled triangle , the square on the hypotenuse is equal to the sum of the squares on the other two sides. `[例]`
+>   - 中译：毕达哥拉斯定理是这样一个数学命题：在任何直角三角形中，斜边的平方等于另外两条边的平方和。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/proposition
 
 
 ---

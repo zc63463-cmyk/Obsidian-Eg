@@ -132,9 +132,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The UN mediated between the two warring nations to broker a ceasefire. `` `[COCA-ACAD]` ``
-> - A neutral third party was called in to mediate the dispute between the union and management. `` `[真题]` ``
-> - The government mediated a settlement between the workers and management. `` `[COCA-ACAD]` ``
+> - Negotiators were called in to mediate between the two sides. `[例]`
+>   - 中译：谈判人员被召集来在双方之间进行调解。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/mediate
+> - The two envoys have succeeded in mediating an end to the war. `[例]`
+>   - 中译：两位特使成功地通过调解结束了战争。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/mediate
+> - Senior government officials backed down on threats to halt oil production when the US offered to mediate in the dispute. `[例]`
+>   - 中译：当美国提出调解争端时，政府高级官员放弃了停止石油生产的威胁。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/mediate
 
 ---
 

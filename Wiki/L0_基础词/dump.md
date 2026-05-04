@@ -133,10 +133,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The company was accused of dumping cheap steel on the European market." `[真题]`
-> - "She dumped him after finding out he had been lying." `[真题]`
-> - "Toxic chemicals continue to be dumped into the river." `[真题]`
-> - "He's got no right to keep dumping his problems on me." `[真题]`
+> - The company was accused of dumping cheap steel on the European market. `[真题]`
+> - She dumped him after finding out he had been lying. `[真题]`
+> - Toxic chemicals continue to be dumped into the river. `[真题]`
+> - He's got no right to keep dumping his problems on me. `[真题]`
 
 
 ---

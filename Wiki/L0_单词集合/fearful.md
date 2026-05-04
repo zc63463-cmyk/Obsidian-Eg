@@ -128,8 +128,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Many residents are **fearful** of the potential health risks posed by the nuclear plant.（许多居民对核电站可能带来的健康风险感到担忧。）
-> - The government took **fearful** measures to contain the spread of the disease.（政府采取了严厉的措施来控制疾病的传播。）
+> - I am fearful he will injure himself one of these days. `[例]`
+>   - 中译：我担心有一天他会弄伤自己。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/fearful
+> - He hesitated before calling her, fearful of what she might say. `[例]`
+>   - 中译：他在给她打电话之前犹豫了一下，担心她会说什么。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/fearful
+> - She's fearful that she may lose custody of her children. `[例]`
+>   - 中译：她担心自己可能会失去孩子的监护权。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/fearful
 
 ---
 

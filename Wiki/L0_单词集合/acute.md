@@ -124,6 +124,15 @@ acu(=sharp, 尖锐) + -te(形容词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
+> - The problem of poverty is particularly acute in rural areas. `[例]`
+>   - 中译：农村地区的贫困问题尤为突出。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/acute
+> - There's an acute accent on the e in " café ". `[例]`
+>   - 中译：“café”中的 e 有重音。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/acute
+> - The area has an acute water shortage. `[例]`
+>   - 中译：该地区严重缺水。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/acute
 - The patient is suffering from acute pain.（患者正在遭受急性疼痛。）
 - He has an acute awareness of the problems.（他对这些问题有敏锐的认识。）
 

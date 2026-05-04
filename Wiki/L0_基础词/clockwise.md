@@ -127,8 +127,14 @@ clock（时钟）+ -wise（表示方向/方式的副词后缀，源自古英语 
 
 > [!example]- 语料
 > - In our picture, clockwise from top left, are James Brown, Helen Taylor and Holly Jones. `[例]`
+>   - 中译：在我们的照片中，从左上角顺时针方向依次是詹姆斯·布朗、海伦·泰勒和霍莉·琼斯。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/clockwise
 > - The collision also caused the Chevrolet to rotate clockwise before resting. `[例]`
+>   - 中译：碰撞还导致雪佛兰在休息前顺时针旋转。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/clockwise
 > - His Dallara chassis began to rotate clockwise before landing on the right-side wheels and made nearly seven rotations before coming to a stop upside down against the tire barrier. `[例]`
+>   - 中译：他的达拉拉底盘开始顺时针旋转，然后落在右侧车轮上，并旋转了近七圈，然后倒挂在轮胎障碍物上停下来。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/clockwise
 
 
 ---

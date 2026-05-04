@@ -121,9 +121,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Although she had been ill for a long time , it still came as a shock when she eventually died . `[例]`
+> - Although she had been ill for a long time , it still came as a shock when she eventually died. `[例]`
 > - It might take him ages but he'll do it eventually. `[例]`
-> - I found it hard to follow what the teacher was saying, and eventually I lost concentration . `[例]`
+> - I found it hard to follow what the teacher was saying, and eventually I lost concentration. `[例]`
 
 
 ---

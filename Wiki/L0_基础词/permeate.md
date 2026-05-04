@@ -127,10 +127,10 @@ per-（完全，贯穿，[[per]]）+ me（通过，拉丁语 *meare*）+ -ate（
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Dissatisfaction with the government seems to have permeated every section of society. `[语料库]`
-> - A foul smell of stale beer permeated the whole building. `[语料库]`
-> - The smell of baking bread permeated the kitchen. `[语料库]`
-> - A feeling of anxiety permeated the office as we rushed to meet the deadline. `[语料库]`
+> - Dissatisfaction with the government seems to have permeated every section of society. `[例]`
+> - A foul smell of stale beer permeated the whole building. `[例]`
+> - The smell of baking bread permeated the kitchen. `[例]`
+> - A feeling of anxiety permeated the office as we rushed to meet the deadline. `[例]`
 
 
 ---

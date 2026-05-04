@@ -129,9 +129,9 @@ in-(=into, 进入) + [[fac|fect]](=do/make, 做，拉丁语 *facere* 的过去�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - A mosquito can infect humans with several diseases . `[例]`
+> - A mosquito can infect humans with several diseases. `[例]`
 > - The ward was full of children infected with TB. `[例]`
-> - Viruses must infect other organisms in order to survive . `[例]`
+> - Viruses must infect other organisms in order to survive. `[例]`
 
 
 ---

@@ -124,7 +124,7 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The delicious smell of freshly made coffee came from the kitchen . `[例]`
+> - The delicious smell of freshly made coffee came from the kitchen. `[例]`
 > - This wine is delicious. `[例]`
 > - I have some delicious gossip to tell you. `[例]`
 

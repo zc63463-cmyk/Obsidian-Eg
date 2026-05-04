@@ -137,10 +137,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Modern technology is amazing , isn't it? `[例]`
-> - What this country needs is a long-term policy for investment in science and technology. `[例]`
-> - The fast pace of technology presents enormous implications for sustainable business development . `[例]`
-> - All our products are backed up by cutting-edge technology . `[例]`
+> - This technology enables computers to read handwriting. `[例]`
+>   - 中译：这项技术使计算机能够读取手写内容。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/technology
+> - The scheme provides access to advanced computer technology in the classroom. `[例]`
+>   - 中译：该计划提供在课堂上接触先进计算机技术的机会。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/technology
+> - The company has invested in the latest technology. `[例]`
+>   - 中译：该公司投资了最新技术。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/technology
 
 ---
 

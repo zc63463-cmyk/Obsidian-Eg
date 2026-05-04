@@ -3,10 +3,8 @@ title: "passer-by"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-25
-mastery: L0
 word_freq: 超纲词
 semantic_field: 人本世界
 prototype: 从旁边经过的人
@@ -43,7 +41,7 @@ pass（经过）+ -er（人）+ by（旁边）
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**从旁边经过的人**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **经过的人**（空间层面）
@@ -62,7 +60,7 @@ pass（经过）+ -er（人）+ by（旁边）
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -72,7 +70,7 @@ pass（经过）+ -er（人）+ by（旁边）
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > pass by（路过）→ passer-by 就是"路过的人"。想象你在街边摔倒，一个 passer-by 停下来扶你——他只是路过，却选择停下来。这就是 passer-by：一个从你身边经过的陌生人。
@@ -84,7 +82,7 @@ pass（经过）+ -er（人）+ by（旁边）
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -96,12 +94,12 @@ pass（经过）+ -er（人）+ by（旁边）
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[participant]]：参与者（passer-by 的反义：路过不参与↔参与其中）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -112,7 +110,7 @@ pass（经过）+ -er（人）+ by（旁边）
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a passer-by**：一个过路人
 > - **passers-by**：过路人（复数）
 > - **ask a passer-by for directions**：向路人问路
@@ -120,19 +118,12 @@ pass（经过）+ -er（人）+ by（旁边）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - `[例]` A passer-by called the police after witnessing the accident.
-> - `[例]` The charity relies on donations from passers-by.
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-25 | **复习次数**：0 | **当前等级**：L0
-
----
+> [!example]- 语料
+> - The gunmen opened fire , killing a policeman and a passer-by. `[例]`
+> - A passerby saw the accident and stopped to help. `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

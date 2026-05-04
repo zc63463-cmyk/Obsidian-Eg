@@ -125,7 +125,7 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Could you help me fasten this strap around my suitcase ? `[例]`
+> - Could you help me fasten this strap around my suitcase? `[例]`
 > - They repair watches , and stock a large selection of watch straps. `[例]`
 > - She wore a pair of blue high heels with ankle straps. `[例]`
 

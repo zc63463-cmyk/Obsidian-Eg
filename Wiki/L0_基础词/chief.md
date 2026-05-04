@@ -138,9 +138,15 @@ chief 源自拉丁语 *caput*（头），经由古法语 *chef* 演变而来。�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The chief problem we have in the area now is the spread of disease . `[例]`
-> - The weather was our chief reason for coming here. `[例]`
-> - A new chief of the security forces has just been appointed . `[例]`
+> - He became the chief architect of the Treaty of Paris. `[例]`
+>   - 中译：他成为《巴黎条约》的总设计师。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/chief
+> - She cites the economy as her chief concern. `[例]`
+>   - 中译：她认为经济是她最关心的问题。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/chief
+> - Chief among his challenges is the impact that current reforms could have on small businesses. `[例]`
+>   - 中译：他面临的主要挑战是当前的改革可能对小企业产生的影响。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/chief
 
 
 ---

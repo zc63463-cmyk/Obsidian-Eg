@@ -128,10 +128,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Dr. Myers and Dr. Worm argue that their work gives a correct baseline, which future management efforts must take into account. [考研-2006-阅读Text3]
-> - The argument seemed to have considerable merit. [考研-阅读]
-> - The researchers presented a compelling argument in favour of the new hypothesis. `[COCA-ACAD]`
-> - She had a heated argument with her colleague about the budget proposal. `[例]`
+> - A decision was finally made after some heated argument. `[例]`
+>   - 中译：经过一番激烈的争论后，最终做出了决定。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/argument
+> - The children had an argument over what game to play. `[例]`
+>   - 中译：孩子们为玩什么游戏发生了争执。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/argument
+> - They had to go to court to settle the argument. `[例]`
+>   - 中译：他们不得不上法庭来解决争端。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/argument
 ---
 
 

@@ -129,8 +129,8 @@ review_count: 0
 
 > [!example]- 语料
 > - The cotton harvest is a small fraction of what it once was. `[例]`
-> - Although sexual and violent crimes have increased by 13 percent , they remain only a tiny fraction of the total number of crimes committed each year . `[例]`
-> - They can produce it at a fraction of the cost of (= much more cheaply than) traditional methods . `[例]`
+> - Although sexual and violent crimes have increased by 13 percent , they remain only a tiny fraction of the total number of crimes committed each year. `[例]`
+> - They can produce it at a fraction of the cost of (= much more cheaply than) traditional methods. `[例]`
 
 
 ---

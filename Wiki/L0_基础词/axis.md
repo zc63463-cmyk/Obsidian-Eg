@@ -130,9 +130,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Earth rotates around an axis that passes through its poles." `[COCA-ACAD]`
-> - "The vertical axis represents time, and the horizontal axis represents distance." `[例]`
-> - "The earth's axis is tilted at an angle of approximately 23.5 degrees." `[COCA-ACAD]`
+> - Mars takes longer to revolve on its axis than the Earth. `[例]`
+>   - 中译：火星绕地轴旋转的时间比地球长。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/axis
+> - The real wage is measured along the horizontal axis and the quantity of labour is measured along the vertical axis. `[例]`
+>   - 中译：横轴衡量实际工资，纵轴衡量劳动数量。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/axis
+> - The main road is on a north-south axis. `[例]`
+>   - 中译：主要道路位于南北轴线上。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/axis
 
 
 ---

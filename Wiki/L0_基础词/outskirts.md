@@ -123,9 +123,9 @@ out-(向外) + skirt(边缘/裙边) + -s(复数)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The factory is located on the outskirts of New Delhi, where land is cheaper and more available." `[COCA-NEWS]`
-> - "Her parents lived in a big house on the outskirts of Manchester, away from the noise of the city centre." `[BNC-FICT]`
-> - "There are plans to build a new shopping mall on the outskirts of town." `[COCA-NEWS]`
+> - The factory is located on the outskirts of New Delhi, where land is cheaper and more available. `[COCA-NEWS]`
+> - Her parents lived in a big house on the outskirts of Manchester, away from the noise of the city centre. `[BNC-FICT]`
+> - There are plans to build a new shopping mall on the outskirts of town. `[COCA-NEWS]`
 
 
 ---

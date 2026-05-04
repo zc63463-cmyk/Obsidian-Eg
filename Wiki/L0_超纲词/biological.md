@@ -3,10 +3,8 @@ title: "biological"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 自然物理
 prototype: 与生命有关的
@@ -43,7 +41,7 @@ bio-(生命) + [[log-logy|log]](学科/说话) + -ical(形容词后缀)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**与生命有关的**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **与生命有关的**（属性层面）
@@ -64,7 +62,7 @@ bio-(生命) + [[log-logy|log]](学科/说话) + -ical(形容词后缀)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ bio-(生命) + [[log-logy|log]](学科/说话) + -ical(形容词后缀)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > bio（生命）+ logy（学科）→ biology（生物学）→ biological（生物学的）。一切与生命有关的——从生物多样性到生物钟，都是 biological。
@@ -86,7 +84,7 @@ bio-(生命) + [[log-logy|log]](学科/说话) + -ical(形容词后缀)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -98,13 +96,13 @@ bio-(生命) + [[log-logy|log]](学科/说话) + -ical(形容词后缀)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[chemical]]：化学的（生物的↔化学的）
 > - [[artificial]]：人工的（生物的↔人工的）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,7 +115,7 @@ bio-(生命) + [[log-logy|log]](学科/说话) + -ical(形容词后缀)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **biological diversity**：生物多样性
 > - **biological clock**：生物钟
 > - **biological process**：生物过程
@@ -126,19 +124,12 @@ bio-(生命) + [[log-logy|log]](学科/说话) + -ical(形容词后缀)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - The rapid loss of biological diversity poses a serious threat to the stability of global ecosystems. `[例]`
 > - Scientists have discovered that disruptions to the biological clock can significantly affect human health and behavior. `[例]`
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
-
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

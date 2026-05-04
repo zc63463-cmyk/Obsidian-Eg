@@ -129,8 +129,8 @@ review_count: 0
 
 > [!example]- 语料
 > - Even our schools are where we send our children to get a practical education — not to pursue knowledge for the sake of knowledge. `[真题]`
-> - For the sake of our future, and for the sake of all our children, let's end all wars. `[外刊]`
-> - Please do it for her sake. `[外刊]`
+> - For the sake of our future, and for the sake of all our children, let's end all wars. `[例]`
+> - Please do it for her sake. `[例]`
 
 
 ---

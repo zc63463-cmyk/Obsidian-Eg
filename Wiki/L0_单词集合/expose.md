@@ -128,8 +128,15 @@ ex-(向外) + pos(放置，拉丁语 *ponere* 的过去分词 *positus*)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "You shouldn't expose the soldiers to unnecessary risks."（你不应该让士兵们冒不必要的危险。——2008年考研英语阅读Text1，expose sb to 的经典真题）
-> - "Unless renewables become cheap enough that substantial carbon deposits are left underground for a very long time, if not forever, the planet will likely be exposed to potentially catastrophic climate risks."（除非可再生能源变得足够便宜，使得大量碳沉积物能在地下保存非常长的时间，否则地球可能会暴露于潜在的灾难性气候风险中。——六级2017年6月阅读，expose to 高频例句）
+> - Throughout the trip , Jackson juggled multiple cameras and plate sizes using the " collodion process" that required him to coat the plates with a chemical mixture , then expose them and develop the resulting images with a portable darkroom. `[真题]`
+>   - 中译：在整个旅程中，杰克逊使用“火棉胶工艺”处理多个相机和印版尺寸，该工艺要求他在印版上涂上化学混合物，然后将它们曝光并用便携式暗室冲洗所得图像。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - The plaster on the walls has been removed to expose the original bricks underneath. `[例]`
+>   - 中译：墙上的灰泥已被拆除，露出下面原来的砖块。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/expose
+> - He damaged his leg so badly in the accident that the bone was exposed. `[例]`
+>   - 中译：事故中他的腿严重受伤，骨头都暴露了。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/expose
 
 ---
 

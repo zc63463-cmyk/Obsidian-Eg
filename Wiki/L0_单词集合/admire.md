@@ -121,8 +121,15 @@ ad-(=to, toward, 向、朝) + mir(=wonder, marvel, 惊奇、惊叹)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "I admire her courage in speaking out against injustice despite the risks involved."（我钦佩她冒着风险挺身反对不公的勇气。）——考研高频表达
-> - "The ancient civilization is widely admired for its remarkable achievements in art and architecture."（这个古代文明因其艺术和建筑方面的卓越成就而受到广泛赞赏。）——考研高频表达
+> - We stood for a few moments , admiring the view. `[例]`
+>   - 中译：我们站了一会儿，欣赏着这里的景色。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/admire
+> - I was just admiring your jacket , Delia. `[例]`
+>   - 中译：我只是欣赏你的夹克，迪莉娅。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/admire
+> - I admired him for his determination. `[例]`
+>   - 中译：我钦佩他的决心。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/admire
 
 
 ---

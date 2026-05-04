@@ -129,7 +129,7 @@ ne-(=neither, 两者都不) + uter(=either, 两者之一) + -al(形容词后缀)
 > [!example]- 语料
 > - If there's an argument between my daughter and her mother , it's important that I remain neutral. `[例]`
 > - Switzerland was neutral during the war. `[例]`
-> - The peace conference would have to be held in a neutral country . `[例]`
+> - The peace conference would have to be held in a neutral country. `[例]`
 
 
 ---

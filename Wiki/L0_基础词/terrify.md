@@ -129,9 +129,9 @@ terr-（恐惧，拉丁语 *terrere*，使害怕）+ -ify（使动后缀，= mak
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Flying terrifies her." `[真题]`
-> - "The thought of being stuck underground terrified him." `[真题]`
-> - "He terrified employees at the bank into handing over cash." `[真题]`
+> - His looks are enough to terrify anyone. `[例]`
+> - Stop it! You’re terrifying the children! `[例]`
+> - Directed by Lee Sang-min, the film stars Kim Hye-yoon and Lee Jong-won as a road-view camera crew that encounters terrifying supernatural events at a remote reservoir. `[例]`
 
 
 ---

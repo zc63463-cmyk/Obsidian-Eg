@@ -130,7 +130,7 @@ stiff 源自古英语 *stif*（僵硬的），与 [[st-sta-stat]]（站立）词
 ## 真题/语料关联
 
 > [!example]- 语料
-> - His clothes were stiff with dried mud . `[例]`
+> - His clothes were stiff with dried mud. `[例]`
 > - This hair spray has made my hair stiff. `[例]`
 > - The handle on this door is rather stiff. `[例]`
 

@@ -125,8 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "They exchanged warm greetings before starting the meeting."（他们在开始会议前互致热情的问候）
-> - "Please accept my sincere greetings on this special occasion."（请接受我在这个特殊场合的诚挚问候）
+> - They briskly exchanged greetings before starting the session. `[例]`
+> - He nodded his head in greeting. `[例]`
+> - He extended his hand as a greeting. `[例]`
 
 
 ---

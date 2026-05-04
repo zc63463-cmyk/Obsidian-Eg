@@ -126,9 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Pasta with tomato sauce is one of the most popular dishes in Italian cuisine." `[COCA-ACAD]`
-> - "What are all the things that go in the pot to make the special sauce?" `[COCA-SPOKEN]`
-> - "He poured a rich chocolate sauce over the ice cream." `[LDOCE]`
+> - Pasta with tomato sauce is one of the most popular dishes in Italian cuisine. `[COCA-ACAD]`
+> - What are all the things that go in the pot to make the special sauce? `[COCA-SPOKEN]`
+> - He poured a rich chocolate sauce over the ice cream. `[例]`
 
 
 ---

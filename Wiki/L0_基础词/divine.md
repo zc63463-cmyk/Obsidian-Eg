@@ -124,9 +124,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "In the past, many monarchs believed in the divine right of kings and ruled their nations with absolute authority." `[真题]`
-> - "Instead of trying to change the situation, they simply pray for divine intervention." `[真题]`
-> - "She divined that something was wrong from the look on his face." `[真题]`
+> - In the past, many monarchs believed in the divine right of kings and ruled their nations with absolute authority. `[真题]`
+> - Instead of trying to change the situation, they simply pray for divine intervention. `[真题]`
+> - She divined that something was wrong from the look on his face. `[真题]`
 
 
 ---

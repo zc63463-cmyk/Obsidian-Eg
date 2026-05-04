@@ -128,9 +128,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - There were several important items on the agenda. `[例]`
-> - The question of security is high on the agenda for this afternoon's meeting . `[例]`
-> - Women's rights have been put back on the agenda (= are being discussed publicly again) . `[例]`
+> - We have a very full agenda of issues to discuss. `[例]`
+>   - 中译：我们有非常完整的议程要讨论。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/agenda
+> - The next item on the agenda is the publicity budget. `[例]`
+>   - 中译：议程上的下一个项目是宣传预算。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/agenda
+> - In our company, quality is high on the agenda. `[例]`
+>   - 中译：在我们公司，质量是重中之重。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/agenda
 
 
 ---

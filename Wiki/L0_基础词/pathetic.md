@@ -139,9 +139,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "And Mr Trump's grasp of the technicalities was pathetic." `[The Economist]`
-> - "It was pathetic to watch her condition deteriorate." `[Cambridge Corpus]`
-> - "She made a pathetic attempt to smile." `[Oxford Learners]`
+> - And Mr Trump's grasp of the technicalities was pathetic. `[例]`
+> - It was pathetic to watch her condition deteriorate. `[例]`
+> - The plan offers a pathetic option for small organizations. `[例]`
 
 
 ---

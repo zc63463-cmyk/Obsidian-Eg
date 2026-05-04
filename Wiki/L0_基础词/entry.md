@@ -129,9 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - A flock of sheep blocked our entry to the farm . `[例]`
-> - I can't go down that street - there's a "No entry" sign . `[例]`
-> - The actress's entry into the world of politics surprised most people . `[例]`
+> - A flock of sheep blocked our entry to the farm. `[例]`
+> - I can't go down that street - there's a "No entry" sign. `[例]`
+> - The actress's entry into the world of politics surprised most people. `[例]`
 
 
 ---

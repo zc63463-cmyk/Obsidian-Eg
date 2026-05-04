@@ -134,9 +134,15 @@ ver（真实，true）+ -ify（使动后缀，make）= 使成为真实的
 ## 真题/语料关联
 
 > [!example]- 语料
-> - States must verify applicants ' citizenship status . `[例]`
-> - Regulators used data supplied by the casinos to verify that the amounts were accurate . `[例]`
 > - We have no way of verifying his story. `[例]`
+>   - 中译：我们无法证实他的说法。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/verify
+> - Please verify that there is sufficient memory available before loading the program. `[例]`
+>   - 中译：加载程序之前请确认有足够的可用内存。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/verify
+> - Please verify that your password was entered correctly. `[例]`
+>   - 中译：请验证您输入的密码是否正确。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/verify
 
 ---
 

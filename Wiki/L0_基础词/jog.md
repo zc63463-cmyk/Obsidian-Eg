@@ -130,9 +130,9 @@ jog 源自中古英语 *joggen*，拟声词，模仿轻推或颠簸时发出的�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Laughter does produce short-term changes in the function of the heart and its blood vessels, boosting heart rate and oxygen consumption. But because hard laughter is difficult to sustain, a good laugh is unlikely to have measurable benefits the way, say, walking or jogging does." ` `[真题]`
-> - "I go for a jog every morning before breakfast to stay fit." ` `[语料库]`
-> - "Let me jog your memory — we met at the conference last year." ` `[语料库]`
+> - What do you do to keep fit ?" "I jog and go swimming. `[例]`
+> - He was walking at a very quick pace and I had to jog to keep up with him. `[例]`
+> - A man rushed past and jogged her elbow , making her drop the bag. `[例]`
 
 
 ---

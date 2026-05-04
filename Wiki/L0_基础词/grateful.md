@@ -129,10 +129,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "After the earthquake we felt grateful to be alive." `[剑桥词典]`
-> - "I'm just grateful that I'm not still working for him." `[剑桥词典]`
-> - "If you could get that report finished by Thursday, I'd be very grateful." `[剑桥词典]`
-> - "She looks forward to getting well and is grateful for the support of her family and friends." `[CNN]`
+> - After the earthquake we felt grateful to be alive. `[例]`
+> - I'm just grateful that I'm not still working for him. `[例]`
+> - If you could get that report finished by Thursday, I'd be very grateful. `[例]`
+> - She looks forward to getting well and is grateful for the support of her family and friends. `[例]`
 
 
 ---

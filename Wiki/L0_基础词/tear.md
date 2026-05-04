@@ -139,8 +139,8 @@ tear（古英语 *teran*，意为"撕裂、撕碎"，源自原始日耳曼语 *t
 
 > [!example]- 语料
 > - Tears, be they of sorrow, anger, or joy, typically make Americans feel uncomfortable and embarrassed. `[真题]`
-> - The tornado tore apart homes, splintered trees, and rocketed loose limbs into nearby houses. `[真题]`
-> - The old dance hall was torn down so that they could develop the land into luxury flats. `[真题]`
+> - You have to be very careful with books this old because the paper tears very easily. `[例]`
+> - She tried to tear a small piece off the edge. `[例]`
 
 
 ---

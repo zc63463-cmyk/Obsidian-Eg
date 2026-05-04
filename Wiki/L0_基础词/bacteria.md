@@ -128,9 +128,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The discovery of penicillin revolutionized the treatment of bacterial infections, saving countless lives." `[COCA-ACAD]`
-> - "Harmful bacteria in contaminated food can cause serious illness." `[COCA-ACAD]`
-> - "Bacteria live almost everywhere, including in soil, water, and the human body." `[COCA-ACAD]`
+> - Neither chilling nor freezing kills all bacteria. `[例]`
+>   - 中译：冷藏或冷冻都不能杀死所有细菌。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bacteria
+> - Food that is contaminated with bacteria may not look or smell bad. `[例]`
+>   - 中译：被细菌污染的食物可能看起来或闻起来并不难闻。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bacteria
+> - The spots can become infected with bacteria. `[例]`
+>   - 中译：这些斑点可能会被细菌感染。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bacteria
 
 
 ---

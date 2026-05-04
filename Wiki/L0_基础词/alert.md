@@ -135,9 +135,15 @@ alert 源自意大利语短语 *all'erta*（在岗哨上/在陡坡上），*erta
 ## 真题/语料关联
 
 > [!example]- 语料
-> - I'm not feeling very alert today - not enough sleep last night ! `[例]`
-> - A couple of alert readers posted comments on the website pointing out the mistake . `[例]`
-> - Parents should be alert to sudden changes in children's behaviour . `[例]`
+> - Neighbours quickly alerted the emergency services. `[例]`
+>   - 中译：邻居们很快向紧急服务部门发出了警报。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/alert
+> - Alerted by a noise downstairs, he sat up and turned on the light. `[例]`
+>   - 中译：听到楼下有响动，他坐了起来，打开了灯。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/alert
+> - The coastguard were alerted that a yacht had run into difficulties. `[例]`
+>   - 中译：海岸警卫队接到警报称一艘游艇遇到了困难。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/alert
 
 
 ---

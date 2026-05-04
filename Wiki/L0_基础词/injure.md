@@ -132,7 +132,7 @@ injure 源自拉丁语 *injurius*（不公正的），由 in-(=not, 不) + jus(=
 > [!example]- 语料
 > - He threw a blanket over the injured man and called for an ambulance immediately. `[真题]`
 > - The study found that children who are exposed to violent media are more likely to injure others or themselves. `[真题]`
-> - At least 12 people were killed and dozens injured in the attacks. `[权威语料]`
+> - At least 12 people were killed and dozens injured in the attacks. `[例]`
 
 
 ---

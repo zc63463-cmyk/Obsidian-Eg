@@ -117,9 +117,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Chris deserves our special thanks for all his efforts . `[例]`
-> - They certainly deserved to win that game . `[例]`
-> - These charities deserve your support . `[例]`
+> - Chris deserves our special thanks for all his efforts. `[例]`
+>   - 中译：克里斯的所有努力值得我们特别感谢。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/deserve
+> - They certainly deserved to win that game. `[例]`
+>   - 中译：他们当然应该赢得那场比赛。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/deserve
+> - The proposals that you have put forward deserve serious consideration. `[例]`
+>   - 中译：你提出的建议值得认真考虑。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/deserve
 
 ---
 

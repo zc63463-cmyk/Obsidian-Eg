@@ -130,10 +130,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She was passionate about dance as a child, and her father encouraged her to study ballet when she was 9 or 10. [COCA]
-> - By the age of 15 he had already composed his first ballet. [COCA]
-> - Natalie is, without a doubt, the star student in this year's ballet class. [COCA]
-> - She has slogged her way through ballet classes since the age of six, dreaming of one day performing on the grand stage. `[例]`
+> - She wants to be a ballet dancer. `[例]`
+>   - 中译：她想成为一名芭蕾舞演员。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ballet
+> - Swan Lake’ is one of the great classical ballets. `[例]`
+>   - 中译：《天鹅湖》是最伟大的古典芭蕾舞剧之一。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ballet
+> - She does tap dancing and ballet. `[例]`
+>   - 中译：她跳踢踏舞和芭蕾舞。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/ballet
 
 
 ---

@@ -128,10 +128,15 @@ com-(一起) + [[pos|pos-pon-posit]](放置，拉丁语 *ponere*) + -ite(形容�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The main character in her latest novel is a composite of several public figures of that era. ` [COCA-ACAD]`
-> - The bodies of these racing cars are moulded from the same composite that is used for making aircraft. ` [COCA-ACAD]`
-> - Scientists have put together a composite picture of what the earth's crust is like. ` [COCA-ACAD]`
-> - The above composite image captures some of that beauty. ` [COCA-NEWS]`
+> - He spotted a man who resembled the police composite. `[例]`
+>   - 中译：他发现了一名与警察组合相似的男子。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/composite
+> - It is powered by electric servo motors and built using a combination of aluminum alloy and composite materials. `[例]`
+>   - 中译：它由电动伺服电机提供动力，并采用铝合金和复合材料的组合制成。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/composite
+> - The broader Nasdaq composite index, which is mostly made up of tech companies, declined 1%. `[例]`
+>   - 中译：主要由科技公司组成的纳斯达克综合指数下跌 1%。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/composite
 
 
 ---

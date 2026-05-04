@@ -130,9 +130,15 @@ at-(=ad-, 朝向) + [[tempt-tent|tempt]](尝试、试探)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "What they found, in attempting to model thought, is that the human brain's roughly one hundred billion nerve cells are much more talented—and human perception far more complicated—than previously imagined." `[真题]`
-> - "Despite attempts by the Church to strong-arm this new generation of logicians and rationalists, more explanations for how the universe functioned were being made and at a rate that the people could no longer ignore." `[真题]`
-> - "The prisoner attempted to escape from the facility but was quickly apprehended by guards." `[例]`
+> - He attempted to escape through a window. `[例]`
+>   - 中译：他试图从窗户逃走。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/attempt
+> - He attempted a joke , but no one laughed. `[例]`
+>   - 中译：他试图开个玩笑，但没有人笑。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/attempt
+> - There's no point in even attempting an explanation - he'll never listen. `[例]`
+>   - 中译：甚至尝试解释也没有意义——他永远不会听。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/attempt
 
 ---
 

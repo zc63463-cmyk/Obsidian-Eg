@@ -118,9 +118,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The Australian team soon demonstrated their superiority over the opposition . `[例]`
-> - Her sense of superiority makes her very unpopular . `[例]`
-> - Advertisements are designed to show the superiority of one product over its competitors . `[例]`
+> - We should make use of our superiority in numbers. `[例]`
+>   - 中译：我们应该利用我们的人数优势。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/superiority
+> - His success has given him a false sense of superiority. `[例]`
+>   - 中译：他的成功给了他一种错误的优越感。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/superiority
+> - There are those who once thought that the superiority of machines would cause a crisis for chess—and for humanity. `[例]`
+>   - 中译：有些人曾经认为机器的优越性会给国际象棋和人类带来危机。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/superiority
 
 
 ---

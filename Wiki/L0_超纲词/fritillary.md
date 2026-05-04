@@ -3,10 +3,8 @@ title: "fritillary"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 自然物理
 prototype: 棋盘格花纹的（像骰子盒一样的格子图案）
@@ -43,7 +41,7 @@ fritill(=fritillus, 骰子盒，拉丁语) + -ary(与…有关的)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**棋盘格花纹**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **棋盘格花纹**（视觉图案层面）
@@ -64,7 +62,7 @@ fritill(=fritillus, 骰子盒，拉丁语) + -ary(与…有关的)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ fritill(=fritillus, 骰子盒，拉丁语) + -ary(与…有关的)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 拉丁语 fritillus 是"骰子盒"。贝母（Fritillaria）的花瓣上有像骰子盒一样的棋盘格花纹，因此得名。后来人们发现一种蝴蝶的翅膀也有类似的格子花纹，就叫它 fritillary butterfly（豹纹蝶）。记住：fritillary = 骰子盒花纹 = 棋盘格花纹的动植物。
@@ -86,7 +84,7 @@ fritill(=fritillus, 骰子盒，拉丁语) + -ary(与…有关的)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -98,12 +96,12 @@ fritill(=fritillus, 骰子盒，拉丁语) + -ary(与…有关的)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > （无直接反义词，为特定物种名称）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -113,26 +111,19 @@ fritill(=fritillus, 骰子盒，拉丁语) + -ary(与…有关的)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **fritillary butterfly**：豹纹蝶
 > - **Fritillaria**：贝母属（植物学）
 > - **checkered fritillary**：棋盘格豹纹蝶
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - For the lover of subtle , early greens there is no better plant than the fritillary. `[例]`
-> - The beach is seven miles of sand with sea lavender , dark green fritillary butterflies , and peregrine falcons . `[例]`
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
+> - The beach is seven miles of sand with sea lavender , dark green fritillary butterflies , and peregrine falcons. `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

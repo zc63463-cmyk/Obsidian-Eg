@@ -122,10 +122,15 @@ sen-（老的，来自拉丁语 senex）+ -ior（比较级后缀，"更..."）
 ## 真题/语料关联
 
 > [!example]- 语料
-> 1. Senior citizens are entitled to various benefits, including discounted public transportation and healthcare services. `[真题]`
-> 2. She was promoted to a senior management position after ten years of dedicated service. `[真题]`
-> 3. Criticism has been levelled at senior figures in the industry for their failure to address safety concerns. `[COCA-ACAD]`
-> 4. The more senior students are given some extra responsibilities within the department. `[COCA-ACAD]`
+> - Says Dan Quinn, senior communications strategist at the Texas Freedom Network, a non-profit group that monitors public education. `[真题]`
+>   - 中译：德克萨斯自由网络 (Texas Freedom Network) 的高级传播策略师丹·奎恩 (Dan Quinn) 说道，该网络是一个监测公共教育的非营利组织。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - She's senior to me, so I have to do what she tells me. `[例]`
+>   - 中译：她比我年长，所以我必须按照她的吩咐去做。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/senior
+> - The Dragons head coach praised his senior players in the 23-16 win. `[例]`
+>   - 中译：龙之队主教练赞扬了他的资深球员以23-16获胜。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/senior
 
 
 ---

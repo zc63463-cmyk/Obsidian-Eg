@@ -122,10 +122,15 @@ com-(一起) + [[part|par-]](部分，拉丁语 *pars*) + -ment(名词后缀，�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She folded her coat and put it in the overhead luggage compartment. ` [COCA-FIC]`
-> - The next day she found the chain in her glove compartment. ` [COCA-NEWS]`
-> - The batteries are safely enclosed in a watertight compartment. ` [例]`
-> - On the way home we shared our first-class compartment with a group of businessmen. ` [例]`
+> - The desk has a secret compartment. `[例]`
+>   - 中译：桌子上有一个秘密隔间。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/compartment
+> - There is a handy storage compartment beneath the oven. `[例]`
+>   - 中译：烤箱下方有一个方便的储藏室。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/compartment
+> - He found an empty first-class compartment. `[例]`
+>   - 中译：他找到了一个空的头等舱。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/compartment
 
 
 ---

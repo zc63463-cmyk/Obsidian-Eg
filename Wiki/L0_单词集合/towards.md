@@ -135,9 +135,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - This is all part of a wider change towards concentration of power and cartels. `[真题]`
-> - She stood up and walked towards him. `[例]`
-> - He leaned towards his wife and whispered , "Can we go home soon ? `[例]`
+> - They were heading towards the German border. `[例]`
+>   - 中译：他们正前往德国边境。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/towards
+> - She had her back towards me. `[例]`
+>   - 中译：她背对着我。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/towards
+> - This is a first step towards political union. `[例]`
+>   - 中译：这是迈向政治联盟的第一步。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/towards
 
 ---
 

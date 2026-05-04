@@ -133,8 +133,14 @@ review_count: 0
 
 > [!example]- 语料
 > - You can detach the hood if you prefer the coat without it. `[例]`
-> - Detach the lower part of the form from this letter and return it to the above address . `[例]`
-> - Detach the lower half of the form and return it to the above address . `[例]`
+>   - 中译：如果您喜欢不带兜帽的外套，则可以将其拆下。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/detach
+> - Detach the lower part of the form from this letter and return it to the above address. `[例]`
+>   - 中译：撕下这封信的表格下半部分并将其寄回上述地址。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/detach
+> - Detach the lower half of the form and return it to the above address. `[例]`
+>   - 中译：撕下表格的下半部分并将其返回到上述地址。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/detach
 
 
 ---

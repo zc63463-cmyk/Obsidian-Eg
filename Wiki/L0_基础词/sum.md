@@ -130,7 +130,7 @@ review_count: 0
 > [!example]- 语料
 > - To sum up, the evidence suggests that climate change is accelerating. `[真题]`
 > - He donated a large sum of money to the orphanage. `[真题]`
-> - The sum of 13 and 8 is 21. `[真题]`
+> - Huge sums of money are spent on national defence. `[例]`
 
 
 ---

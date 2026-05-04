@@ -137,10 +137,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The purpose of the report is to inform the public about the potential risks of the new technology." `[COCA-ACAD]`
-> - "Patients should be fully informed about the risks and benefits of any medical procedure before giving their consent." `[COCA-ACAD]`
-> - "Scientific research should inform policy decisions on climate change." `[COCA-ACAD]`
-> - "A well-informed citizen is essential for a healthy democracy." `[COCA-ACAD]`
+> - The name of the dead man will not be released until his relatives have been informed. `[例]`
+>   - 中译：在通知死者亲属之前，死者的姓名不会被公布。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/inform
+> - Why wasn't I informed about this earlier? `[例]`
+>   - 中译：为什么我没有早点得知此事？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/inform
+> - Walters was not properly informed of the reasons for her arrest. `[例]`
+>   - 中译：沃尔特斯没有被正确告知她被捕的原因。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/inform
 ---
 
 

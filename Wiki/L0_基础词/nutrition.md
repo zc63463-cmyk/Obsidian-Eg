@@ -126,7 +126,7 @@ nutr(=nourish, 滋养/养育，拉丁语 *nutrire*) + -ition(名词后缀，表�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Good nutrition is essential if patients are to make a quick recovery . `[例]`
+> - Good nutrition is essential if patients are to make a quick recovery. `[例]`
 > - She's a professor of nutrition at Columbia University. `[例]`
 > - Nutrition information is now provided on the back of most food products. `[例]`
 

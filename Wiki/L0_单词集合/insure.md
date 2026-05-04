@@ -124,10 +124,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The principle of British welfare is no longer that you can insure yourself against the risk of unemployment and receive unconditional payments if the disaster happens." `[真题]`
-> - "Almost all of the interior detail is of cast iron or plaster; the use of wood was minimized to insure fire safety." `[真题]`
-> - "We insured our house against fire and flood damage." `[COCA-ACAD]`
-> - "One goal of federal policy is to insure young adults against deprivation." `[COCA-ACAD]`
+> - The house is insured for two million dollars. `[例]`
+>   - 中译：这所房子投保了两百万美元。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/insure
+> - All our household goods are insured against accidental damage. `[例]`
+>   - 中译：我们所有的家居用品都有意外损坏保险。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/insure
+> - I'm not insured to drive his car. `[例]`
+>   - 中译：我没有保险可以开他的车。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/insure
 
 
 ---

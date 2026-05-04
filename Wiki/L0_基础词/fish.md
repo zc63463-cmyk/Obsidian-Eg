@@ -127,8 +127,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - He's a bit of an odd fish, but I think he's basically sound . `[例]`
-> - She fished in her tool box for the right screwdriver . `[例]`
+> - He's a bit of an odd fish, but I think he's basically sound. `[例]`
+> - She fished in her tool box for the right screwdriver. `[例]`
 > - She was always fishing, hoping I'd say something about Sarah. `[例]`
 
 

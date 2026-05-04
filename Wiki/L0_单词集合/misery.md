@@ -122,8 +122,15 @@ miser(痛苦/可怜) + -y(名词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The report documents the misery of people living in extreme poverty."（报告记录了生活在极端贫困中的人们的苦难。）——考研高频表达
-> - "The war caused widespread misery and destruction across the country."（战争在全国范围内造成了广泛的苦难和破坏。）——考研高频表达
+> - We have witnessed the most appalling scenes of human misery. `[例]`
+>   - 中译：我们目睹了人类苦难中最令人震惊的场景。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/misery
+> - Ten years of marriage to him have made her life a misery. `[例]`
+>   - 中译：与他十年的婚姻，让她的生活变得痛苦。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/misery
+> - He looked happy for a brief while, before relapsing into silent misery. `[例]`
+>   - 中译：他短暂地看起来很高兴，然后又陷入沉默的痛苦之中。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/misery
 
 ---
 

@@ -135,10 +135,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The president does not want to answer any theoretical questions . `[例]`
-> - The threat of climate change is no longer merely theoretical. `[例]`
 > - The first year provides students with a sound theoretical basis for later study. `[例]`
+>   - 中译：第一年为学生以后的学习打下良好的理论基础。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/theoretical
 > - It's a theoretical possibility. `[例]`
+>   - 中译：这是理论上的可能性。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/theoretical
+> - On a theoretical level, hiring more people seems logical. `[例]`
+>   - 中译：从理论上讲，雇用更多人似乎是合乎逻辑的。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/theoretical
 
 ---
 

@@ -124,9 +124,15 @@ crit(判断) + -ic(与...有关的) + -ize(使...，做...)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The government is being widely criticized in the media for failing to limit air pollution . `[例]`
+> - The government is being widely criticized in the media for failing to limit air pollution. `[例]`
+>   - 中译：政府因未能控制空气污染而受到媒体的广泛批评。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/criticize
 > - We'll get nowhere if all you can do is criticize. `[例]`
-> - We're a group of artists who meet to discuss ideas and criticize each other's work . `[例]`
+>   - 中译：如果你只能批评，我们将一事无成。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/criticize
+> - We're a group of artists who meet to discuss ideas and criticize each other's work. `[例]`
+>   - 中译：我们是一群艺术家，他们聚在一起讨论想法并批评彼此的作品。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/criticize
 
 ---
 

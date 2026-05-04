@@ -127,9 +127,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - `The company did suffer a setback in 2008.` `[COCA-NEWS]`
-> - `The clinical trial suffered a setback due to regulatory issues.` `[COCA-ACAD]`
-> - `After a series of setbacks, she finally completed her degree.` `[COCA-NEWS]`
+> - Democrats suffered a serious setback in yesterday’s election , losing all three contested seats. `[例]`
+>   - 中译：民主党在昨天的选举中遭遇严重挫折，失去了全部三个竞争席位。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/setback
+> - He suffered a setback yesterday in his attempts to take a stake in the mobile phone company. `[例]`
+>   - 中译：昨天他在试图入股这家移动电话公司的过程中遭遇了挫折。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/setback
+> - The new rule was a setback to smaller cable operators thinking of selling to other companies. `[例]`
+>   - 中译：新规则对考虑向其他公司出售产品的小型有线电视运营商来说是一个挫折。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/setback
 
 ---
 

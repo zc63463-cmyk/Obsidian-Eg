@@ -129,8 +129,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The nation faces unprecedented challenges in the twenty-first century."（这个国家在二十一世纪面临着前所未有的挑战。）——考研高频表达
-> - "Education is the foundation upon which a nation builds its future."（教育是一个国家构建未来的基础。）——考研高频表达
+> - Our great nation was built upon a foundation of law and order. `[例]`
+>   - 中译：我们伟大的国家建立在法律和秩序的基础上。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/nation
+> - Practically the whole nation watched the ceremony on television. `[例]`
+>   - 中译：几乎全国人民都通过电视观看了仪式。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/nation
+> - Two of the three nations of Great Britain - Scotland and Wales - were granted self-government , with England still being controlled from Westminster. `[例]`
+>   - 中译：大不列颠三个国家中的两个——苏格兰和威尔士——获得了自治权，而英格兰仍受威斯敏斯特的控制。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/nation
 
 ---
 

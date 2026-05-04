@@ -129,9 +129,9 @@ nomin-（名字，拉丁语 *nomen*）+ -al（形容词后缀，"与……有关
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She's the nominal head of our college - the real work is done by her deputy . `[例]`
-> - For a nominal fee , they will deliver orders to customers ' homes . `[例]`
-> - There is a nominal fee for the workshop . `[例]`
+> - She's the nominal head of our college - the real work is done by her deputy. `[例]`
+> - For a nominal fee , they will deliver orders to customers ' homes. `[例]`
+> - There is a nominal fee for the workshop. `[例]`
 
 
 ---

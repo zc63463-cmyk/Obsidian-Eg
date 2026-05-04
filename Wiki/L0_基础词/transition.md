@@ -128,8 +128,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The health-care system is in transition at the moment . `[例]`
-> - There will be an interim government to oversee the transition to democracy . `[例]`
+> - The health-care system is in transition at the moment. `[例]`
+> - There will be an interim government to oversee the transition to democracy. `[例]`
 > - She began her transition from male to female almost seven years ago. `[例]`
 
 

@@ -127,9 +127,9 @@ un-(否定/反转，古英语 *un-*，与 [[de]] 反转义相近) + do(做，古
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Can someone help me to undo my seat belt ? `[例]`
-> - It's very difficult to undo the damage that's caused by inadequate parenting in a child's early years . `[例]`
-> - It’s difficult to undo the damage caused by a father who abandons his child . `[例]`
+> - Can someone help me to undo my seat belt? `[例]`
+> - It's very difficult to undo the damage that's caused by inadequate parenting in a child's early years. `[例]`
+> - It’s difficult to undo the damage caused by a father who abandons his child. `[例]`
 
 
 ---

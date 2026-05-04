@@ -124,8 +124,15 @@ ad-(=to, toward, 向、朝) + opt(=choose, select, 选择)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Many countries have adopted measures to reduce carbon emissions in response to climate change. `[例]`
-> - They decided to adopt a child from the orphanage after years of trying. `[例]`
+> - They've adopted a baby girl. `[例]`
+>   - 中译：他们收养了一个女婴。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/adopt
+> - She had the child adopted (= she gave her baby to someone else to take care of). `[例]`
+>   - 中译：她收养了孩子（=她把孩子交给别人照顾）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/adopt
+> - They have no children of their own, but they're hoping to adopt. `[例]`
+>   - 中译：他们没有自己的孩子，但希望收养。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/adopt
 
 
 ---

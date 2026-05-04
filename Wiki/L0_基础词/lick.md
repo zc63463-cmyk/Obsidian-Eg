@@ -129,9 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - He licked the chocolate off his fingers . `[例]`
-> - She licked the stamps and stuck them on the parcel . `[例]`
-> - Within a few seconds flames were licking at the curtains . `[例]`
+> - He licked the chocolate off his fingers. `[例]`
+> - She licked the stamps and stuck them on the parcel. `[例]`
+> - Within a few seconds flames were licking at the curtains. `[例]`
 
 
 ---

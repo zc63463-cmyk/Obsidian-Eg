@@ -131,10 +131,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Honesty is a vital element of her success. `[COCA-ACAD]`
-> - Trust is a key element in any successful relationship. `[COCA-ACAD]`
-> - Nurses are an essential element of our health care system. `[COCA-ACAD]`
-> - Carbon is an essential element in organic chemistry, forming the backbone of life on Earth. `[COCA-ACAD]`
+> - List the elements that make up a perfect dinner party. `[例]`
+>   - 中译：列出构成完美晚宴的要素。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/element
+> - The movie had all the elements of a good thriller. `[例]`
+>   - 中译：这部电影具备了一部优秀惊悚片的所有要素。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/element
+> - We weren't even taught the elements of (= basic information about) physics at school. `[例]`
+>   - 中译：我们在学校甚至没有学过物理的要素（=基本信息）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/element
 
 ---
 

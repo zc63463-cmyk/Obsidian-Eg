@@ -130,10 +130,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The name is prominently displayed on the label." `[COCA-ACAD]`
-> - "You should read the warning label before you take any medicine." `[COCA-ACAD]`
-> - "Some people describe him as selfish, but he doesn't deserve that label." `[COCA]`
-> - "Once you give people labels, it's hard to see them as individuals." `[COCA]`
+> - Remember to put some address labels on the suitcases. `[例]`
+>   - 中译：记得在行李箱上贴上一些地址标签。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/label
+> - Washing instructions should be on the label. `[例]`
+>   - 中译：标签上应有洗涤说明。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/label
+> - He seems to be stuck with the label of " troublemaker ". `[例]`
+>   - 中译：他似乎被贴上了“麻烦制造者”的标签。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/label
 
 ---
 

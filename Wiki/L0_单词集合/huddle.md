@@ -128,8 +128,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The homeless people huddled together for warmth in the bitter cold."（无家可归的人在严寒中挤在一起取暖。）——考研高频表达
-> - "The team huddled to discuss their strategy before the final play."（球队聚在一起讨论最后一个回合的策略。）——考研高频表达
+> - Employees huddled around television sets at the company headquarters. `[例]`
+>   - 中译：在公司总部，员工们挤在电视机周围。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/huddle
+> - It was so cold that we huddled together for warmth. `[例]`
+>   - 中译：天太冷了，我们挤在一起取暖。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/huddle
+> - Sophie was so frightened by the noise of the fireworks that she huddled in a corner of the room. `[例]`
+>   - 中译：索菲被烟花的声音吓坏了，缩在房间的一个角落里。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/huddle
 
 ---
 

@@ -124,9 +124,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - After months of looking he finally found a job . `[例]`
-> - Finally, I'd like to thank everyone for coming this evening . `[例]`
-> - The plan hasn't been finally approved . `[例]`
+> - After months of looking he finally found a job. `[例]`
+> - Finally, I'd like to thank everyone for coming this evening. `[例]`
+> - The plan hasn't been finally approved. `[例]`
 
 
 ---

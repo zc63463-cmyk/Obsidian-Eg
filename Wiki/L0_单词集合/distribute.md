@@ -138,10 +138,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The government distributed food and medical supplies to the affected areas after the earthquake. `[真题]`
-> - Wealth is not evenly distributed among the population in many developing countries. `[真题]`
-> - The organization distributed relief supplies to flood victims across the region. `[COCA-NEWS]`
-> - These resources should be distributed more evenly across different departments. `[COCA-ACAD]`
+> - Branch points out that, even if a growing number of official guidelines and textbooks reflect scientific consensus on climate change , unofficial educational materials that convey mo:re slanted perspectives are being distributed to teachers. `[真题]`
+>   - 中译：布兰奇指出，尽管越来越多的官方指南和教科书反映了关于气候变化的科学共识，但传达更多倾斜观点的非官方教育材料正在分发给教师。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - He asked Jackson to print out large copies and distributed them, along with reproductions of Moran's paintings, to each member of Congress. `[真题]`
+>   - 中译：他要求杰克逊打印大量副本并将其与莫兰画作的复制品一起分发给每位国会议员。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - Several people were arrested for distributing racist leaflets to the spectators. `[例]`
+>   - 中译：数人因向观众散发种族主义传单而被捕。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/distribute
 ---
 
 

@@ -141,9 +141,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - British weather is perhaps at its most variable in the spring . `[例]`
-> - The variables in the equation are X, Y, and Z. `[例]`
-> - The data was analysed according to neighbourhoods , but other key variables like credit rating and marital status were ignored altogether . `[例]`
+> - With so many variables, it is difficult to calculate the cost. `[例]`
+>   - 中译：由于变量太多，成本很难计算。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/variable
+> - The temperature remained constant while pressure was a variable in the experiment. `[例]`
+>   - 中译：实验中温度保持恒定，而压力是一个变量。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/variable
+> - The winds were light and variable. `[例]`
+>   - 中译：风微弱且多变。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/variable
 
 ---
 

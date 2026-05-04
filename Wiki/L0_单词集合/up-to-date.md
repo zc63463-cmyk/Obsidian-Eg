@@ -130,9 +130,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - All up-to-date prices can be found on our website . `[例]`
-> - The quarterly meeting keeps staff up to date with developments in the company . `[例]`
-> - The company's new offices are bang up to date . `[例]`
+> - This technology is bang up to date (= completely modern). `[例]`
+>   - 中译：这项技术是最新的（=完全现代的）。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/up-to-date
+> - We'll have to bring our equipment up to date. `[例]`
+>   - 中译：我们必须更新我们的设备。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/up-to-date
+> - We are keeping up to date with the latest developments. `[例]`
+>   - 中译：我们正在了解最新进展。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/up-to-date
 
 ---
 

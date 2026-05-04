@@ -124,9 +124,15 @@ con-(=com-, 共同/充分) + trive(=turn/finder, 转/发现，与 [[ver-vert]] �
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She contrived to spend a few hours with him every Sunday evening. `[COCA-FIC]`
-> - The prisoners contrived a way to escape. `[COCA-NEWS]`
-> - The oil companies were accused of contriving a shortage of petrol to justify price increases. `[COCA-NEWS]`
+> - She contrived to spend a couple of hours with him every Sunday evening. `[例]`
+>   - 中译：她设法每周日晚上花几个小时和他在一起。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/contrive
+> - Somehow they contrived to live on her tiny income. `[例]`
+>   - 中译：他们设法靠她微薄的收入生活。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/contrive
+> - I decided to contrive a meeting between the two of them. `[例]`
+>   - 中译：我决定安排他们两人会面。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/contrive
 
 
 ---

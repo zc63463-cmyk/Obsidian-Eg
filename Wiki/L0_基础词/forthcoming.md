@@ -121,7 +121,7 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - We have just received the information about the forthcoming conference . `[例]`
+> - We have just received the information about the forthcoming conference. `[例]`
 > - I had difficulty getting any details . He wasn't very forthcoming. `[例]`
 > - No explanation for his absence was forthcoming. `[例]`
 

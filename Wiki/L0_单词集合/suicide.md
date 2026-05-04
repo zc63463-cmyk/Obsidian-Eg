@@ -119,9 +119,15 @@ sui-（自己，拉丁语 *suus*）+ cid（切/杀，建议创建词根笔记 [[
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She attempted suicide when she was a teenager . `[例]`
-> - The suicide rate among men between the ages of 16 and 25 has risen alarmingly . `[例]`
-> - Many suicides occur in prisons . `[例]`
+> - It would have been political suicide for him to challenge the allegations in court. `[例]`
+>   - 中译：对他来说，在法庭上质疑这些指控无异于政治自杀。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/suicide
+> - She had thoughts of suicide. `[例]`
+>   - 中译：她有自杀的念头。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/suicide
+> - Authorities have officially ruled the death a suicide. `[例]`
+>   - 中译：当局已正式裁定死亡为自杀。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/suicide
 
 
 ---

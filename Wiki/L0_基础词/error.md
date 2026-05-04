@@ -128,9 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - There are some serious errors and omissions in the book . `[例]`
+> - There are some serious errors and omissions in the book. `[例]`
 > - Your essay is full of spelling errors. `[例]`
-> - Human error has been blamed for the air crash . `[例]`
+> - Human error has been blamed for the air crash. `[例]`
 
 
 ---

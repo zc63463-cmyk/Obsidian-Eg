@@ -3,10 +3,8 @@ title: "ineffective"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 抽象关系
 prototype: 没有效果的（不能产生预期结果）
@@ -43,7 +41,7 @@ in-(不，否定) + [[ef-|ex-]](出) + [[fac|fac-]](做) + -tive(倾向/性质)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**没有效果的**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **没有效果的**（结果层面）
@@ -64,7 +62,7 @@ in-(不，否定) + [[ef-|ex-]](出) + [[fac|fac-]](做) + -tive(倾向/性质)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ in-(不，否定) + [[ef-|ex-]](出) + [[fac|fac-]](做) + -tive(倾向/性质)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > in（不）+ effective（有效的）→ 无效的。想象你用一把漏水的伞挡雨——完全 ineffective。effective 是"做出效果的"，ineffective 就是"做不出效果的"。
@@ -86,7 +84,7 @@ in-(不，否定) + [[ef-|ex-]](出) + [[fac|fac-]](做) + -tive(倾向/性质)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ in-(不，否定) + [[ef-|ex-]](出) + [[fac|fac-]](做) + -tive(倾向/性质)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[effective]]：有效的（ineffective 的精确反义）
 > - [[efficient]]：高效的（无效↔高效）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,7 +117,7 @@ in-(不，否定) + [[ef-|ex-]](出) + [[fac|fac-]](做) + -tive(倾向/性质)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **ineffective measures**：无效的措施
 > - **prove ineffective**：证明无效
 > - **render sth. ineffective**：使某事变得无效
@@ -127,20 +125,16 @@ in-(不，否定) + [[ef-|ex-]](出) + [[fac|fac-]](做) + -tive(倾向/性质)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - The government's attempts to control inflation proved largely ineffective. `[例]`
-> - Traditional teaching methods may be ineffective for students with different learning styles. `[例]`
-> - The new security measures were rendered ineffective by a series of technical failures. `[例]`
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
+> [!example]- 语料
+> - The new drug was ineffective. `[例]`
+>   - 中译：这种新药没有效果。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ineffective
+> - The law proved ineffective in dealing with the problem. `[例]`
+>   - 中译：这项法律在处理该问题上证明是无效的。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ineffective
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

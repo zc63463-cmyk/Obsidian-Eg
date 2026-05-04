@@ -120,9 +120,15 @@ re-（再/重新）+ cruit（来自拉丁语 crescere，生长，与 [[gen]] 同
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The company is recruiting graduates with strong analytical and communication skills. `[真题]`
-> - Many universities are struggling to recruit qualified faculty members in certain disciplines. `[真题]`
-> - College football coaches spend a lot of time recruiting high school athletes. `[COCA-ACAD]`
+> - Directions: Write a notice to recruit a student for Prof. `[真题]`
+>   - 中译：说明：写一份招募教授学生的通知。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - Charities such as Oxfam are always trying to recruit volunteers to help in their work. `[例]`
+>   - 中译：乐施会等慈善机构一直在努力招募志愿者来帮助他们的工作。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/recruit
+> - Even young boys are now being recruited into the army. `[例]`
+>   - 中译：现在甚至连小男孩也被征召入伍。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/recruit
 
 
 ---

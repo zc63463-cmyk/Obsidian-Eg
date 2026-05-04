@@ -125,9 +125,15 @@ co-（=com-，共同，一起）+ oper（工作，拉丁语 *operari*）+ -ate�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The two companies have cooperated in joint ventures for the past several years. `[COCA-NEWS]`
-> - The Spanish authorities cooperated with the British police in finding the terrorists. `[COCA-NEWS]`
-> - A spokesman said the company would cooperate fully with the regulatory authorities. `[COCA-NEWS]`
+> - The two groups agreed to cooperate with each other. `[例]`
+>   - 中译：两个小组同意相互合作。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/cooperate
+> - They had cooperated closely in the planning of the project. `[例]`
+>   - 中译：他们在该项目的规划过程中密切合作。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/cooperate
+> - Their captors told them they would be killed unless they cooperated. `[例]`
+>   - 中译：绑架者告诉他们，如果不合作，他们就会被杀。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/cooperate
 
 
 ---

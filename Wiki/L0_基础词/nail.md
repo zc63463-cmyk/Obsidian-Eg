@@ -135,9 +135,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - I stepped on a nail sticking out of the floorboards . `[例]`
+> - I stepped on a nail sticking out of the floorboards. `[例]`
 > - Stop biting your nails! `[例]`
-> - She had nailed a small shelf to the door . `[例]`
+> - She had nailed a small shelf to the door. `[例]`
 
 
 ---

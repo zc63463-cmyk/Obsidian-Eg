@@ -134,8 +134,8 @@ gas 由17世纪荷兰化学家 Jan Baptist van Helmont 从希腊语 *khaos*（�
 
 > [!example]- 语料
 > - The burning of fossil fuels has significantly increased greenhouse gas emissions. `[真题]`
-> - When the car ran out of gas on the highway, we had to walk to the nearest gas station. `[语料库]`
-> - Air is a mixture of gases, primarily nitrogen and oxygen. `[Oxford]`
+> - When the car ran out of gas on the highway, we had to walk to the nearest gas station. `[例]`
+> - Air is a mixture of gases, primarily nitrogen and oxygen. `[例]`
 
 
 ---

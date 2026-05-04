@@ -128,8 +128,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Unemployment and poverty may breed crime and social unrest."（失业和贫困可能滋生犯罪和社会动荡。）——考研阅读
-> - "A new breed of entrepreneurs is emerging in the digital economy."（数字经济中正在涌现新一代企业家。）——考研阅读
+> - His main income comes from breeding cattle. `[例]`
+>   - 中译：他的主要收入来自养牛。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/breed
+> - The blackbird , like most birds , breeds in the spring. `[例]`
+>   - 中译：像大多数鸟类一样，黑鸫在春天繁殖。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/breed
+> - While the animals are still immature , they do not breed. `[例]`
+>   - 中译：当这些动物尚未成熟时，它们不会繁殖。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/breed
 
 
 ---

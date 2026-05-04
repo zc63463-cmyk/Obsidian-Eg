@@ -130,10 +130,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - He has dedicated his life to scientific research . `[例]`
-> - The new president said she would dedicate herself to protecting the rights of the sick and the homeless . `[例]`
-> - The book is dedicated to the author's husband . `[例]`
-> - The church was dedicated on 1 March 1805 to the local Saint Jude. `[例]`
+> - He has dedicated his life to scientific research. `[例]`
+>   - 中译：他将一生奉献给了科学研究。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/dedicate
+> - The new president said she would dedicate herself to protecting the rights of the sick and the homeless. `[例]`
+>   - 中译：新总统表示，她将致力于保护病人和无家可归者的权利。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/dedicate
+> - He dedicated his life to freeing the world from famine and disease. `[例]`
+>   - 中译：他一生致力于使世界摆脱饥荒和疾病。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/dedicate
 
 ---
 

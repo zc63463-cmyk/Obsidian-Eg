@@ -132,9 +132,15 @@ ad-(=to, 朝向，见 [[ad]]) + [[ven-vent|vent]](=来，拉丁语 *venire*，�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - They went on an adventure hunting for treasure in the western hills . `[例]`
-> - She had some exciting adventures in Egypt. `[例]`
-> - Sam won't come - he's got no sense of adventure (= he does not enjoy dangerous or exciting situations ) . `[例]`
+> - Four members of our staff have embarked on the adventure of a lifetime. `[例]`
+>   - 中译：我们的四名员工开始了一生难忘的冒险。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/adventure
+> - They fly around in their rocket ship and go on exciting adventures. `[例]`
+>   - 中译：他们乘坐火箭飞船飞来飞去，进行激动人心的冒险。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/adventure
+> - When you're a child, life is one big adventure. `[例]`
+>   - 中译：当你还是个孩子的时候，生活就是一场大冒险。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/adventure
 
 
 ---

@@ -135,8 +135,14 @@ review_count: 0
 
 > [!example]- 语料
 > - First editions of these books are now almost impossible to obtain. `[例]`
-> - In the second experiment they obtained a very clear result . `[例]`
-> - Sugar is obtained by crushing and processing sugar cane . `[例]`
+>   - 中译：这些书的第一版现在几乎不可能获得。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/obtain
+> - In the second experiment they obtained a very clear result. `[例]`
+>   - 中译：在第二次实验中他们得到了非常明确的结果。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/obtain
+> - Sugar is obtained by crushing and processing sugar cane. `[例]`
+>   - 中译：糖是通过压榨和加工甘蔗获得的。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/obtain
 
 ---
 

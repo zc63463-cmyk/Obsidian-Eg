@@ -121,10 +121,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The museum's collection includes artifacts dating back to prehistoric times. `[COCA-ACAD]`
-> - The caves contained many prehistoric artifacts. `[COCA-ACAD]`
-> - The house displays a number of paintings of the poet, as well as his typewriter and other personal artifacts. `[COCA-FIC]`
-> - Researchers must distinguish genuine signals from experimental artifacts. `[COCA-ACAD]`
+> - The caves contained many prehistoric artifacts. `[例]`
+>   - 中译：洞穴里藏有许多史前文物。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/artifact
+> - The Costume Institute Benefit, commonly known as Met Gala, is a fundraiser for the museum's Costume Institute, which hosts a collection of over 33,000 fashion artifacts. `[例]`
+>   - 中译：服装学院慈善晚宴（俗称 Met Gala）是为博物馆服装学院举办的筹款活动，该学院收藏了超过 33,000 件时尚艺术品。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/artifact
+> - Across collectors, cultural institutions and design circles, perfume bottles are increasingly being recognized not as packaging, but as artifacts — objects that preserve history, identity and the visual language of their time. `[例]`
+>   - 中译：在收藏家、文化机构和设计界，香水瓶越来越不被视为包装，而是被视为文物——保存历史、身份和当时视觉语言的物品。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/artifact
 
 
 ---

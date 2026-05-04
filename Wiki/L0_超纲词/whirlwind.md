@@ -3,10 +3,8 @@ title: "whirlwind"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-25
-mastery: L0
 word_freq: 超纲词
 semantic_field: 自然物理
 prototype: 旋转的旋风
@@ -44,7 +42,7 @@ whirl（旋转）+ wind（风），复合词，无拉丁/希腊词根可拆分�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**旋转的旋风**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **旋转的旋风**（自然现象层面）
@@ -66,7 +64,7 @@ whirl（旋转）+ wind（风），复合词，无拉丁/希腊词根可拆分�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ whirl（旋转）+ wind（风），复合词，无拉丁/希腊词根可拆分�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **词拆分记忆**（优先）：
 > whirl（旋转）+ wind（风）= whirlwind（旋风）。想象你站在一片空旷的田野上，突然一阵风开始旋转，把你周围的落叶都卷到天上——这就是 whirlwind。whirlwind tour 就是在三天内逛完五个城市——像旋风一样快。
@@ -89,7 +87,7 @@ whirl（旋转）+ wind（风），复合词，无拉丁/希腊词根可拆分�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +100,13 @@ whirl（旋转）+ wind（风），复合词，无拉丁/希腊词根可拆分�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[calm]]：平静（whirlwind 的反义：旋风↔平静）
 > - [[stillness]]：静止（whirlwind 的反义：旋转运动↔静止不动）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,7 +117,7 @@ whirl（旋转）+ wind（风），复合词，无拉丁/希腊词根可拆分�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a whirlwind tour**：旋风式旅行（快速走访多个地方）
 > - **a whirlwind romance**：旋风式恋爱（快速发展的恋情）
 > - **a whirlwind of activity**：一阵繁忙的活动
@@ -127,19 +125,12 @@ whirl（旋转）+ wind（风），复合词，无拉丁/希腊词根可拆分�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - They married three months after they met - it was a real whirlwind romance . `[例]`
-> - The film created a whirlwind of controversy . `[例]`
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-25 | **复习次数**：0 | **当前等级**：L0
-
----
+> [!example]- 语料
+> - They married three months after they met - it was a real whirlwind romance. `[例]`
+> - The film created a whirlwind of controversy. `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

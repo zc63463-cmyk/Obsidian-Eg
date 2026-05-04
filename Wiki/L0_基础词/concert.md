@@ -130,10 +130,15 @@ con-(一起) + [[cert|cert]](确定，拉丁语 *certus* "确定的"，源自 *c
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The orchestra gave a concert in Miami in January. `[COCA-ACAD]`
-> - The two countries acted in concert to address the crisis. `[COCA-NEWS]`
-> - The time is nigh as well for concerted efforts to refine theory on resilience. `[COCA-ACAD]`
-> - She sang at a gala concert to celebrate the music of Stephen Sondheim. `[COCA-MAG]`
+> - The orchestra gave a concert in Miami in January. `[例]`
+>   - 中译：乐团一月份在迈阿密举办了一场音乐会。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/concert
+> - They also performed at a concert in Rome last month. `[例]`
+>   - 中译：他们上个月还在罗马的一场音乐会上表演。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/concert
+> - I got dragged along to concerts by bands I hated. `[例]`
+>   - 中译：我被我讨厌的乐队拉去听音乐会。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/concert
 
 
 ---

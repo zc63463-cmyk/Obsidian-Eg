@@ -135,9 +135,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The support service consultancies tend to __ _ A. recommend journals to their clients B. list citation patterns their clients C. ask authors to include extra citations D. advise contributors to cite each other 38. `[真题]`
-> - We tend to get cold winters and warm , dry summers in this part of the country . `[例]`
-> - He carefully tended his sunflower plants . `[例]`
+> - People tend to be happier if they are in a long-term relationship. `[例]`
+>   - 中译：如果人们处于长期关系中，他们往往会更快乐。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/tend
+> - When I'm tired, I tend to make mistakes. `[例]`
+>   - 中译：当我累的时候，我很容易犯错误。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/tend
+> - It tends to get very cold here in the winter. `[例]`
+>   - 中译：冬天这里往往会变得非常冷。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/tend
 
 ---
 

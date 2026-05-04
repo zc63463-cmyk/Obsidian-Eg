@@ -123,10 +123,15 @@ couch 源自古法语 *coucher*（躺下），与拉丁语 *collocare*（放置�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The response was couched in diplomatic language. `[真题]`
-> - I am particularly concerned about the fact that we seem to have become a nation of couch potatoes. `[语料库]`
-> - She in turn has become a couch potato, watching old movies and ordering take out. `[语料库]`
-> - His refusal was couched in polite but firm language. `[语料库]`
+> - He was sprawled on the living-room couch watching TV. `[例]`
+>   - 中译：他四肢伸开躺在客厅的沙发上看电视。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/couch
+> - He spends several hours a week on the therapist's couch. `[例]`
+>   - 中译：他每周在治疗师的沙发上度过几个小时。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/couch
+> - I'm trying to couch this delicately: I don't think we should date anymore. `[例]`
+>   - 中译：我试图微妙地表达这一点：我认为我们不应该再约会了。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/couch
 
 
 ---

@@ -126,10 +126,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Yet, dramatic instances of sudden forgetting can be seen to be adaptive." `[真题]`
-> - "As a physician, I know the most costly and dramatic measures may be ineffective and painful." `[真题]`
-> - "There has been a dramatic shift in public opinion toward peaceful negotiations." `[COCA-ACAD]`
-> - "The announcement had a dramatic effect on house prices." `[COCA-ACAD]`
+> - We watched scenes of the dramatic rescue on the news. `[例]`
+>   - 中译：我们在新闻中看到了戏剧性的救援场面。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/dramatic
+> - I'll never find another job !" "Don't be so dramatic! Of course you will! `[例]`
+>   - 中译：我再也找不到工作了！” “别这么戏剧化！你当然会的！
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/dramatic
+> - It may sound dramatic, but I felt like my life was over. `[例]`
+>   - 中译：这听起来可能很戏剧性，但我觉得我的生命已经结束了。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/dramatic
 
 
 ---

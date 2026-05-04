@@ -124,9 +124,15 @@ aur-(耳，拉丁语 *auris*) + -al(形容词后缀，表示"与...有关的")
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Adults tend to perform better on written rather than aural tasks. `[COCA-ACAD]`
-> - He became famous as an inventor of astonishing visual and aural effects. `[COCA-NEWS]`
-> - We revel in the peace until the drone starts up again or is replaced by the next aural annoyance. `[COCA-NEWS]`
+> - The fan-servicing formula is in full effect, with callbacks galore and the same generically zippy score that’s the aural equivalent of a Frappuccino. `[例]`
+>   - 中译：粉丝服务公式完全有效，有大量的回调和相同的普遍活泼的配乐，就像星冰乐的听觉效果一样。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/aural
+> - Distortion is baked in at the atomic level; no sounds emerge without first passing through swathes of low-grit aural sandpaper. `[例]`
+>   - 中译：畸变是在原子水平上进行的；如果不先穿过大片低粒度的听觉砂纸，就不会发出任何声音。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/aural
+> - The bwonnnngs on the soundtrack are an aural cliché now, but the whole delirious package still makes for one of the most thrilling movies of the 2010s. `[例]`
+>   - 中译：配乐中的 bwonnnngs 现在已经是陈词滥调了，但整个疯狂的组合仍然是 2010 年代最激动人心的电影之一。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/aural
 
 
 ---

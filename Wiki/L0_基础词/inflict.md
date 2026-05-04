@@ -133,10 +133,10 @@ in-(=on/upon, 在……上) + flict(=strike/beat, 打击，拉丁语 *fligere*) 
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The storm inflicted severe damage on the town." `[真题]`
-> - "He said he wanted to economise without inflicting damage, by rationing funding according to excellence." `[真题]`
-> - "Russian artillery fire inflicted heavy damage to the walls." `[COCA-NEWS]`
-> - "Both brothers allege that serious damage was inflicted on their reputations and businesses." `[BNC-NEWS]`
+> - The storm inflicted severe damage on the town. `[真题]`
+> - He said he wanted to economise without inflicting damage, by rationing funding according to excellence. `[真题]`
+> - Russian artillery fire inflicted heavy damage to the walls. `[COCA-NEWS]`
+> - Both brothers allege that serious damage was inflicted on their reputations and businesses. `[BNC-NEWS]`
 
 
 ---

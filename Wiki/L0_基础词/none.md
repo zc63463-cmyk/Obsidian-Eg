@@ -134,7 +134,7 @@ review_count: 0
 > [!example]- 语料
 > - I'd like some more cheese ." "I'm sorry there's none left ". `[例]`
 > - Do you have any idea how much this cost ?" "None at all. `[例]`
-> - It makes no sense , none whatsoever . `[例]`
+> - It makes no sense , none whatsoever. `[例]`
 
 
 ---

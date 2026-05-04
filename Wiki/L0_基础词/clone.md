@@ -131,9 +131,15 @@ clone 源自希腊语 *klōn*（嫩枝，幼枝），原指植物的扦插繁殖
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Most people saw her as just another blond-haired, red-lipped Marilyn Monroe clone. `[例]`
-> - Scientists have already cloned a sheep . `[例]`
-> - Experiments to try to clone human embryos have met with hostility from some sections of the public . `[例]`
+> - Caroline’s brothers grinned alongside her, clones of their father. `[例]`
+>   - 中译：卡罗琳的兄弟们在她身边微笑，他们都是父亲的克隆人。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/clone
+> - Once they found that the PC clones were just as good, companies saved a lot. `[例]`
+>   - 中译：一旦发现 PC 克隆版同样出色，公司就节省了大量资金。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/clone
+> - Do you think scientists should clone humans? `[例]`
+>   - 中译：你认为科学家应该克隆人类吗？
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/clone
 
 
 ---

@@ -126,9 +126,15 @@ per-(彻底/完全) + plex(编织/缠绕，与 plic 同源)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The idea arose because of the perplexing behavior of the women in the plant. `[真题]`
-> - Questions about the meaning of life have always perplexed humankind. `[COCA-ACAD]`
-> - The complexity of the issue continues to perplex researchers. `[COCA-ACAD]`
+> - The disease has continued to perplex doctors. `[例]`
+>   - 中译：这种疾病一直困扰着医生。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/perplex
+> - The symptoms of the disease have continued to perplex her doctors. `[例]`
+>   - 中译：这种疾病的症状继续困扰着她的医生。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/perplex
+> - Just when it appeared that interest rates were headed up, they fell , leaving some analysts clearly perplexed. `[例]`
+>   - 中译：就在利率看似上升时，利率却下降了，这让一些分析师显然感到困惑。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/perplex
 
 ---
 

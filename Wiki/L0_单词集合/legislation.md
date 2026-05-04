@@ -139,10 +139,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The government has promised to introduce legislation to limit fuel emissions from cars." `[COCA-NEWS]`
-> - "She introduced legislation for protecting the environment." `[COCA-ACAD]`
-> - "The government introduced legislation restricting trade union rights." `[COCA-NEWS]`
-> - "Certain animals are protected under state legislation." `[COCA-ACAD]`
+> - The state L egislature recently · voted against a bill that would've made it illegal for towns to create legislation restricting short-term rentals. `[真题]`
+>   - 中译：州立法机关最近投票反对一项法案，该法案将使城镇制定限制短期租赁的立法成为非法。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - In quick succession, the Senate and House passed legislation protecting Yell ow stone in early 1872. `[真题]`
+>   - 中译：1872 年初，参议院和众议院相继通过了保护黄石的立法。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - The government has promised to introduce legislation to limit fuel emissions from cars. `[例]`
+>   - 中译：政府已承诺出台立法限制汽车燃油排放。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/legislation
 
 ---
 

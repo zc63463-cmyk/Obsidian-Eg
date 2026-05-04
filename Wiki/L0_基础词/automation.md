@@ -126,9 +126,15 @@ auto-(自己) + mat(动，来自希腊语 *automatos*，"自我移动的") + -io
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The automation of manufacturing processes has significantly increased productivity. `[例]`
-> - Coal is still a force in the economy, but increased automation has cut the number of jobs it offers. `[COCA-NEWS]`
-> - The airline added automation to streamline flight operations. `[COCA-NEWS]`
+> - Automation meant the loss of many factory jobs. `[例]`
+>   - 中译：自动化意味着许多工厂失业。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/automation
+> - Business process automation provides consistent, measurable and repeatable services at lower costs. `[例]`
+>   - 中译：业务流程自动化以更低的成本提供一致、可衡量和可重复的服务。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/automation
+> - Analyzing the technical requirements of AI models needed to perform jobs at a human level, researchers found that AI automation would be economically viable in only 23% of roles where vision is a primary part of the work. `[例]`
+>   - 中译：研究人员分析了执行人类水平工作所需的人工智能模型的技术要求，发现人工智能自动化仅在 23% 的以视觉为主要工作部分的职位中具有经济可行性。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/automation
 
 
 ---

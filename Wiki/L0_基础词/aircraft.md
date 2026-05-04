@@ -132,9 +132,15 @@ air（空气，天空）+ craft（手艺，器物，船）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Captain Firth sat at the controls of the aircraft. `[例]`
-> - The airline is taking steps to ensure safety on its aircraft. `[例]`
-> - Please remember to take all your personal possessions with you when you leave the aircraft. `[例]`
+> - The aircraft was flown by a young American pilot. `[例]`
+>   - 中译：这架飞机由一位年轻的美国飞行员驾驶。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/aircraft
+> - The systems are built for jet aircraft. `[例]`
+>   - 中译：该系统是为喷气式飞机建造的。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/aircraft
+> - These upgrades improve dependability in critical systems such as propulsion and aircraft launch operations, both essential for sustained carrier missions. `[例]`
+>   - 中译：这些升级提高了推进和飞机发射操作等关键系统的可靠性，这对于持续的航母任务至关重要。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/aircraft
 
 
 ---

@@ -3,10 +3,8 @@ title: "assuage"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 人本世界
 prototype: 缓和（使变甜/变温和）
@@ -43,7 +41,7 @@ as-(=ad-, 向，加强) + suav(甜的，温和的，拉丁语 *suavis*) + -ge(�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**使变甜、变温和**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **使变温和**（感受层面）
@@ -64,7 +62,7 @@ as-(=ad-, 向，加强) + suav(甜的，温和的，拉丁语 *suavis*) + -ge(�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ as-(=ad-, 向，加强) + suav(甜的，温和的，拉丁语 *suavis*) + -ge(�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > assuage 来自拉丁语 *suavis*（甜的、令人愉快的），和 suave（温和的、文雅的）同源。assuage = 使变甜 = 缓和。想象你心爱的人去世了，朋友的一句温暖安慰让你的悲伤减轻了一点——那就是 assuage your grief。
@@ -86,7 +84,7 @@ as-(=ad-, 向，加强) + suav(甜的，温和的，拉丁语 *suavis*) + -ge(�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ as-(=ad-, 向，加强) + suav(甜的，温和的，拉丁语 *suavis*) + -ge(�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[intensify]]：加剧（assuage 的精确反义：缓和↔加剧）
 > - [[aggravate]]：加重（assuage 的反义：减轻↔加重）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -115,26 +113,19 @@ as-(=ad-, 向，加强) + suav(甜的，温和的，拉丁语 *suavis*) + -ge(�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **assuage grief/fear/guilt**：缓和悲伤/恐惧/内疚
 > - **assuage hunger/thirst**：缓解饥饿/口渴
 > - **assuage one's anger**：平息某人的怒气
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - Nothing could assuage her grief after the loss of her child. `[例]`
 > - The government introduced new policies to assuage public concerns about food safety. `[例]`
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
-
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

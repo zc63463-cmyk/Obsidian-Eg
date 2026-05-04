@@ -127,9 +127,9 @@ ex-（向外）+ plode（拍手声/发出巨响）→ 向外发出巨响 → 爆
 ## 真题/语料关联
 
 > [!example]- 语料
-> - A bomb exploded at one of the capital's busiest railway stations this morning . `[例]`
+> - A bomb exploded at one of the capital's busiest railway stations this morning. `[例]`
 > - He was driving so fast that his car tyre exploded. `[例]`
-> - What on earth do you think you're doing?" she exploded (= said angrily ) . `[例]`
+> - What on earth do you think you're doing?" she exploded (= said angrily ). `[例]`
 
 ---
 

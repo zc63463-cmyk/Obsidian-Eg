@@ -133,10 +133,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "At its best, the European project is remarkably liberal: built around a single market of 27 rich and poor countries, its internal borders are far more open to goods, capital and labour than any comparable trading area." `[真题]`
-> - "Independence is a central liberal value." `[COCA-ACAD]`
-> - "She is known to have liberal views on divorce and contraception." `[COCA-NEWS]`
-> - "But he says that he hopes to go home and put his liberal education into practice." `[COCA-NEWS]`
+> - Her parents were far more liberal than mine. `[例]`
+>   - 中译：她的父母比我的父母自由得多。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/liberal
+> - Espousal of such liberal ideas won't make her very popular around here. `[例]`
+>   - 中译：支持这种自由主义思想不会让她在这里很受欢迎。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/liberal
+> - Despite his apparent liberal views , he's really something of a puritan. `[例]`
+>   - 中译：尽管他的观点明显是自由主义的，但他实际上是一个清教徒。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/liberal
 
 ---
 

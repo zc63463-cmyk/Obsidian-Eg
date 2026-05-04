@@ -125,9 +125,15 @@ im-(=in，向内) + [[pul]]s(=drive/beat，驱动/跳动) + -e（建议创建词
 ## 真题/语料关联
 
 > [!example]- 语料
-> - He tends to act on impulse rather than rational thought. `[COCA-ACAD]`
-> - She bought the expensive dress on impulse and later regretted it. `[COCA-ACAD]`
-> - I resisted the impulse to laugh. `[COCA-FIC]`
+> - I had this sudden impulse to shout out "Nonsense!" in the middle of her speech. `[例]`
+>   - 中译：我突然有一种冲动，想大喊“胡说八道！”在她说话的中间。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/impulse
+> - I didn't know you were looking for some new shoes ." "Oh, I wasn't - I just bought them on impulse. `[例]`
+>   - 中译：我不知道你在找新鞋。” “哦，我没有——我只是一时冲动买了它们。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/impulse
+> - I had this impulse to dye my hair red. `[例]`
+>   - 中译：我有种想把头发染成红色的冲动。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/impulse
 
 ---
 

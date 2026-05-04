@@ -124,9 +124,9 @@ lat-（宽的，源自拉丁语 *latus*，宽的）+ -itude（名词后缀，表
 ## 真题/语料关联
 
 > [!example]- 语料
-> - At these latitudes the sun does not rise at all on winter days . `[例]`
-> - Courts can show a considerable degree of latitude when it comes to applying the law . `[例]`
-> - Judges now have considerable latitude in sentencing . `[例]`
+> - At these latitudes the sun does not rise at all on winter days. `[例]`
+> - Courts can show a considerable degree of latitude when it comes to applying the law. `[例]`
+> - Judges now have considerable latitude in sentencing. `[例]`
 
 
 ---

@@ -130,9 +130,15 @@ civ-(城市，公民，来自拉丁语 *civis*) + -il(形容词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Helicopters are mainly used for military rather than civil use. `[例]`
-> - After ten years of military dictatorship , the country now has a civil government . `[例]`
-> - We weren't married in church , but we had a civil ceremony in a registry office . `[例]`
+> - There were concerns that the economic reforms might lead to civil unrest. `[例]`
+>   - 中译：有人担心经济改革可能会导致内乱。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/civil
+> - They were married in a civil ceremony. `[例]`
+>   - 中译：他们以民事仪式结婚。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/civil
+> - We have called in the army to assist the civil authorities in rescue operations. `[例]`
+>   - 中译：我们已调集军队协助民政当局开展救援行动。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/civil
 
 
 ---

@@ -128,8 +128,15 @@ feed 源自古英语 *fēdan*（喂养），与 food（食物）同源。
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The new data will be **fed** into the computer system for analysis.（新数据将被输入计算机系统进行分析。）
-> - The mother bear **fed** her cubs before leading them out of the den.（母熊在带领幼熊离开洞穴前先喂养了它们。）
+> - I usually feed the neighbour's cat while she's away. `[例]`
+>   - 中译：我通常在邻居不在的时候喂她的猫。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/feed
+> - Let's feed the kids first and have our dinner after. `[例]`
+>   - 中译：我们先喂饱孩子们，然后再吃晚饭。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/feed
+> - Do you feed your chickens corn? `[例]`
+>   - 中译：你给你的鸡喂玉米吗？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/feed
 
 ---
 

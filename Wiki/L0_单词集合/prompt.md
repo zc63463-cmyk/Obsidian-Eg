@@ -136,9 +136,15 @@ pro-(向前) + mpt(拿/取，empt的变体)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The bishop's speech has prompted an angry response from both political parties . `[例]`
-> - Recent worries over the president's health have prompted speculation over his political future . `[例]`
+> - The bishop's speech has prompted an angry response from both political parties. `[例]`
+>   - 中译：主教的讲话引起了两个政党的愤怒反应。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/prompt
+> - Recent worries over the president's health have prompted speculation over his political future. `[例]`
+>   - 中译：最近对总统健康状况的担忧引发了人们对他政治前途的猜测。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/prompt
 > - What prompted you to say that? `[例]`
+>   - 中译：是什么促使你这么说？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/prompt
 
 
 ---

@@ -132,9 +132,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - It 's pretty unlikely (that) they'll turn up now - it's nearly ten o'clock. `[例]`
-> - He's an unlikely-looking doctor (= he is not what I expect a doctor to look like) . `[例]`
-> - The film's central character is an unlikely hero . `[例]`
+> - The project seemed unlikely to succeed. `[例]`
+>   - 中译：该项目似乎不太可能成功。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/unlikely
+> - Of course, such an event is very unlikely to happen. `[例]`
+>   - 中译：当然，这样的事件发生的可能性很小。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/unlikely
+> - It was highly unlikely that the gunshot wound was self-inflicted. `[例]`
+>   - 中译：枪伤不太可能是自己造成的。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/unlikely
 
 ---
 

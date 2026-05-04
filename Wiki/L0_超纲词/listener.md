@@ -3,10 +3,8 @@ title: "listener"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 人本世界
 prototype: 倾听的人（用耳朵关注声音的人）
@@ -42,7 +40,7 @@ listen（听）+ -er（名词后缀，"做……的人"）→ **倾听者，听�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**倾听的人**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **倾听的人**（社交层面）
@@ -63,7 +61,7 @@ listen（听）+ -er（名词后缀，"做……的人"）→ **倾听者，听�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ listen（听）+ -er（名词后缀，"做……的人"）→ **倾听者，听�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **词拆分记忆**：
 > listen（听）+ er（人）→ 听的人 → 倾听者。记住：a good listener is not just someone who hears, but someone who understands.（好的倾听者不只是听到，而是理解。）
@@ -86,7 +84,7 @@ listen（听）+ -er（名词后缀，"做……的人"）→ **倾听者，听�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ listen（听）+ -er（名词后缀，"做……的人"）→ **倾听者，听�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[speaker]]：说话者，演讲者（倾听 ↔ 说话，对话中的互补角色）
 > - [[talker]]：健谈者（listener ↔ talker，听 ↔ 说）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -116,7 +114,7 @@ listen（听）+ -er（名词后缀，"做……的人"）→ **倾听者，听�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a good listener**：一个好的倾听者
 > - **active listener**：积极的倾听者
 > - **radio listener**：广播听众
@@ -125,19 +123,12 @@ listen（听）+ -er（名词后缀，"做……的人"）→ **倾听者，听�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - Today on the show we'll be taking questions from listeners. `[例]`
-> - Millions of listeners tune in to his podcasts . `[例]`
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
+> - Millions of listeners tune in to his podcasts. `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

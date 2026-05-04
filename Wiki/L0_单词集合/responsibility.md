@@ -129,10 +129,15 @@ re-(回/再) + spons(=spond, 承诺) + -ibility(= -ible + -ity, "可……的性
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It's a self-examination that has, at various times, involved issues of responsibility, creative freedom and the corporate bottom line." `[真题]`
-> - "The responsibility for the latest wave of strikes rests on the unions." `[真题]`
-> - "We need to take responsibility for looking after our own health." `[COCA]`
-> - "The government's responsibility is to serve the public." `[COCA-ACAD]`
+> - It's her responsibility to ensure the project finishes on time. `[例]`
+>   - 中译：确保项目按时完成是她的责任。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/responsibility
+> - She takes her responsibilities as a nurse very seriously. `[例]`
+>   - 中译：她非常认真地对待护士的职责。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/responsibility
+> - Who has responsibility here? `[例]`
+>   - 中译：这里谁有责任？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/responsibility
 
 
 ---

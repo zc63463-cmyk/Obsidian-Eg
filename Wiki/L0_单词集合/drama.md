@@ -121,10 +121,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Shakespeare's lifetime was coincident with a period of extraordinary activity and achievement in the drama." `[真题]`
-> - "By the date of his birth Europe was witnessing the passing of the religious drama, and the creation of new forms under the incentive of classical tragedy and comedy." `[真题]`
-> - "His interest in drama began at a very young age." `[COCA-ACAD]`
-> - "She studied drama in college." `[COCA-ACAD]`
+> - She stars in a new 12-part drama about a woman recently released from prison. `[例]`
+>   - 中译：她主演了一部 12 集新剧，讲述一名刚出狱的女性的故事。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/drama
+> - Who are your favourite TV couples in comedy and drama? `[例]`
+>   - 中译：您最喜欢的喜剧和戏剧电视情侣是谁？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/drama
+> - The book was adapted into a BBC drama series. `[例]`
+>   - 中译：该书被改编成BBC连续剧。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/drama
 
 
 ---

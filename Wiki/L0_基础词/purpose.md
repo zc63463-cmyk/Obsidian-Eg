@@ -132,9 +132,9 @@ pur-(=pro-, 向前/在前，拉丁语 *pro-* 在 *pur-* 前的同化形式) + [[
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The purpose of the research is to try to find out more about the causes of the disease . `[例]`
+> - The purpose of the research is to try to find out more about the causes of the disease. `[例]`
 > - His only purpose in life seems to be to enjoy himself. `[例]`
-> - Letters whose sole purpose is to make a political point will not be published . `[例]`
+> - Letters whose sole purpose is to make a political point will not be published. `[例]`
 
 
 ---

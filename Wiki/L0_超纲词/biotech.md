@@ -3,10 +3,8 @@ title: "biotech"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 社会专业
 prototype: 生物技术
@@ -43,7 +41,7 @@ bio-(生命) + [[techn|techn]](技术/技艺)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**利用生物体或生物过程的技术**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **利用生物体或生物过程的技术**（技术层面）
@@ -64,7 +62,7 @@ bio-(生命) + [[techn|techn]](技术/技艺)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ bio-(生命) + [[techn|techn]](技术/技艺)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > bio（生物）+ tech（技术）= biotech（生物技术）。就像 IT 是 Information Technology 的缩写，biotech 就是 biotechnology 的缩写。用生物来制造药物、改良作物，都是 biotech。
@@ -86,7 +84,7 @@ bio-(生命) + [[techn|techn]](技术/技艺)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -98,12 +96,12 @@ bio-(生命) + [[techn|techn]](技术/技艺)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - 无精确反义词
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -114,7 +112,7 @@ bio-(生命) + [[techn|techn]](技术/技艺)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **biotech industry**：生物技术产业
 > - **biotech company/firm**：生物技术公司
 > - **biotech startup**：生物技术初创公司
@@ -122,19 +120,12 @@ bio-(生命) + [[techn|techn]](技术/技艺)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - The biotech industry has attracted billions of dollars in venture capital funding over the past decade. `[例]`
 > - Several biotech startups are racing to develop effective gene therapies for rare genetic disorders. `[例]`
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
-
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -124,9 +124,15 @@ be-（加强语气/在）+ side（边，侧面）→ 在旁边
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He sat beside her all night." `[真题]`
-> - "Your opinion is beside the point; we need facts." `[真题]`
-> - "Come and sit here beside me." `[COCA-SPOKEN]`
+> - My painting looks childish beside yours. `[例]`
+>   - 中译：我的画和你的画相比显得幼稚。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/beside
+> - Yes, I know it was an accident, but that's beside the point. `[例]`
+>   - 中译：是的，我知道这是一次意外，但这不是重点。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/beside
+> - They took my words out of context, but that’s beside the point. `[例]`
+>   - 中译：他们断章取义地理解了我的话，但这不是重点。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/beside
 
 
 ---

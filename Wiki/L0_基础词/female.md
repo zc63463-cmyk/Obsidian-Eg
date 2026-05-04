@@ -128,9 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She was voted the best female vocalist . `[例]`
-> - She was the school's first trans female athlete . `[例]`
-> - Female lions do not have manes . `[例]`
+> - She was voted the best female vocalist. `[例]`
+> - She was the school's first trans female athlete. `[例]`
+> - Female lions do not have manes. `[例]`
 
 
 ---

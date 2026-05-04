@@ -127,9 +127,15 @@ re-(反复/回) + li(绑) + -able(可以……的)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Machine learning often provides a more reliable form of statistics which makes data more valuable," says Winston. `[真题]`
-> - A reliable partner is essential for any successful collaboration. `[真题]`
-> - There are some difficulties with the collection of reliable data. `[COCA-ACAD]`
+> - Is your watch reliable? `[例]`
+>   - 中译：你的手表可靠吗？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/reliable
+> - Gideon is very reliable - if he says he'll do something, he'll do it. `[例]`
+>   - 中译：吉迪恩非常可靠——如果他说他会做某事，他就会做。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/reliable
+> - What is the most reliable method of contraception? `[例]`
+>   - 中译：最可靠的避孕方法是什么？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/reliable
 ---
 
 

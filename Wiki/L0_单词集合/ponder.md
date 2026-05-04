@@ -129,9 +129,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Scientists have long pondered the mysteries of the universe. `[COCA-ACAD]`
-> - The senator pondered the question for a moment before answering. `[COCA-ACAD]`
-> - We intend to ponder all the alternatives before acting. `[COCA-ACAD]`
+> - She ponders the reaction she’ll receive. `[例]`
+>   - 中译：她思考着她会收到的反应。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/ponder
+> - The back porch is a quiet place where I can ponder. `[例]`
+>   - 中译：后廊是一个安静的地方，可以让我思考。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/ponder
+> - She pondered over his words. `[例]`
+>   - 中译：她思考着他的话。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ponder
 
 ---
 

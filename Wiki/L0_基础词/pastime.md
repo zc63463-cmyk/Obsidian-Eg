@@ -135,9 +135,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "These days the Net, which has already re-made such everyday pastimes as buying books and sending mails, is reshaping Donovan's vocation as well." `[真题]`
-> - "Hockey is Canada's national pastime." `[Cambridge Corpus]`
-> - "Gardening is my mother's favourite pastime." `[LDOCE Corpus]`
+> - These days the Net, which has already re-made such everyday pastimes as buying books and sending mails, is reshaping Donovan's vocation as well. `[真题]`
+> - Hockey is Canada's national pastime. `[例]`
+> - Gardening is my mother's favourite pastime. `[例]`
 
 
 ---

@@ -129,9 +129,15 @@ spy 源自古法语 *espier*（观察、窥探），与拉丁语 *specere*（看
 ## 真题/语料关联
 
 > [!example]- 语料
-> - He was arrested for spying on missile sites . `[例]`
-> - I generally like to spy out restaurants before I go to eat in them. `[例]`
-> - His former colleagues have denounced him as a spy. `[例]`
+> - He was denounced as a foreign spy. `[例]`
+>   - 中译：他被指控为外国间谍。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/spy
+> - Video spy cameras are being used in public places. `[例]`
+>   - 中译：视频间谍摄像机正在公共场所使用。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/spy
+> - They were accused of spying for a foreign government. `[例]`
+>   - 中译：他们被指控为外国政府从事间谍活动。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/spy
 
 ---
 

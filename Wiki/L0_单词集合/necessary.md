@@ -122,8 +122,15 @@ ne-(否定前缀，"不") + cess(走/退让) + -ary(形容词后缀，"与…有
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It is necessary to take precautions to prevent the spread of the disease."（有必要采取预防措施来防止疾病的传播。）——考研高频表达
-> - "Sleep is necessary for the proper functioning of the brain."（睡眠对于大脑的正常运作是必不可少的。）——考研高频表达
+> - Scopus itself has all the data necessary to detect this malpractice. `[真题]`
+>   - 中译：Scopus 本身拥有检测这种不当行为所需的所有数据。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - He lacks the necessary skills for the job. `[例]`
+>   - 中译：他缺乏这项工作所需的技能。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/necessary
+> - I don't have much time so I won't be staying any longer than necessary. `[例]`
+>   - 中译：我没有太多时间，所以我不会停留太久。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/necessary
 
 ---
 

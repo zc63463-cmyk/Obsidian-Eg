@@ -119,9 +119,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - `[真题]` All tests require a potential candidate with whom to compare DNA.
-> - `[真题]` These issues all have root causes in human behavior: all require behavioral change and social innovations, as well as technological development.
-> - `[COCA-ACAD]` It is a legal requirement that you have insurance for your car.
+> - Hom said similar registration requirements could benefit struggling cities and towns , but " if we want to make a change in the housing market, the main one is we have to build a lot more. `[真题]`
+>   - 中译：霍姆表示，类似的登记要求可能会让陷入困境的城镇受益，但“如果我们想改变房地产市场，最主要的是我们必须建造更多。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - To comply with PRH's requirement. `[真题]`
+>   - 中译：遵守公屋的要求。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - Specify the duties and requirements of the job. `[真题]`
+>   - 中译：明确工作的职责和要求。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
 
 
 ---

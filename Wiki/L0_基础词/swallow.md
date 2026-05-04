@@ -125,8 +125,8 @@ review_count: 0
 > [!example]- 语料
 > - He had to swallow his pride and ask for help when he lost his job. `[真题]`
 > - The public found the government's explanation hard to swallow. `[真题]`
-> - Losing the championship was a bitter pill to swallow, but the team vowed to come back stronger next season. `[语料库]`
-> - She swallowed the bait and invested all her savings in the fraudulent scheme. `[语料库]`
+> - Losing the championship was a bitter pill to swallow, but the team vowed to come back stronger next season. `[例]`
+> - She swallowed the bait and invested all her savings in the fraudulent scheme. `[例]`
 
 
 ---

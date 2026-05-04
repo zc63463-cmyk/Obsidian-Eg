@@ -128,7 +128,7 @@ review_count: 0
 
 > [!example]- 语料
 > - A flame-smothering chemical foam. `[例]`
-> - He was having convulsions and foaming at the mouth . `[例]`
+> - He was having convulsions and foaming at the mouth. `[例]`
 > - The waves were high and capped with foam. `[例]`
 
 

@@ -133,9 +133,9 @@ trem(颤抖，拉丁语 *tremere*) + -ble(动词后缀，表示反复动作)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - I was trembling with fear , panicking that I had not made the right decision . `[例]`
-> - His voice trembled with emotion as he gave his speech . `[例]`
-> - His voice started to tremble, and I thought he was going to cry . `[例]`
+> - I was trembling with fear , panicking that I had not made the right decision. `[例]`
+> - His voice trembled with emotion as he gave his speech. `[例]`
+> - His voice started to tremble, and I thought he was going to cry. `[例]`
 
 
 ---

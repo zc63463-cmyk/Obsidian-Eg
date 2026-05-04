@@ -129,9 +129,9 @@ oc-(=ob-, 朝向) + [[cad-cas-cid|cas]](=fall, 落下) + -ion(名词后缀) + -a
 ## 真题/语料关联
 
 > [!example]- 语料
-> - I play the occasional game of tennis . `[例]`
-> - He has the occasional cigar after dinner . `[例]`
-> - His job requires occasional trips to the West Coast . `[例]`
+> - I play the occasional game of tennis. `[例]`
+> - He has the occasional cigar after dinner. `[例]`
+> - His job requires occasional trips to the West Coast. `[例]`
 
 
 ---

@@ -133,7 +133,7 @@ review_count: 0
 > [!example]- 语料
 > - She was very naive to believe that he'd stay with her. `[例]`
 > - They make the naive assumption that because it's popular it must be good. `[例]`
-> - It was a little naive of you to think that they would listen to your suggestions . `[例]`
+> - It was a little naive of you to think that they would listen to your suggestions. `[例]`
 
 
 ---

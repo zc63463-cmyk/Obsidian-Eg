@@ -129,8 +129,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The speech was liberally sprinkled with (= contained many) jokes about the incident . `[例]`
-> - Scatter sprinkles over the top of the cake and press on them gently so that they stick to the chocolate . `[例]`
+> - The speech was liberally sprinkled with (= contained many) jokes about the incident. `[例]`
+> - Scatter sprinkles over the top of the cake and press on them gently so that they stick to the chocolate. `[例]`
 > - We might get a sprinkle today. `[例]`
 
 

@@ -123,9 +123,15 @@ an-(=ad-, 向/朝向) + nounc(报告，拉丁语 *nuntiare*) + -e
 ## 真题/语料关联
 
 > [!example]- 语料
-> - They announced the death of their mother in the local paper . `[例]`
-> - She announced the winner of the competition to an excited audience . `[例]`
-> - The prime minister has announced that public spending will be increased next year . `[例]`
+> - He officially announced his intention to resign at today's press conference. `[例]`
+>   - 中译：他在今天的新闻发布会上正式宣布了辞职意向。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/announce
+> - They haven't formally announced their engagement yet. `[例]`
+>   - 中译：他们还没有正式宣布订婚。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/announce
+> - A ring at the doorbell announced Jack's arrival. `[例]`
+>   - 中译：门铃响了，宣告了杰克的到来。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/announce
 
 
 ---

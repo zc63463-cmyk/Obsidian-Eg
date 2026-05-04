@@ -126,8 +126,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The formation of good habits in childhood can have a lasting impact on one's life."（童年时期良好习惯的养成对一个人的一生有持久的影响。）——考研高频表达
-> - "The formation of stars and galaxies is one of the most fascinating topics in astrophysics."（恒星和星系的形成是天体物理学中最引人入胜的话题之一。）——考研高频表达
+> - There is a time for trying new formations and asking players to do slightly different things. `[例]`
+>   - 中译：有时会尝试新的阵型并要求球员做一些稍微不同的事情。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/formation
+> - The team was lined up in a punting formation. `[例]`
+>   - 中译：球队排成弃踢队形。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/formation
+> - His decision to change the team's formation for the final match was a masterstroke. `[例]`
+>   - 中译：他在决赛中改变球队阵型的决定是一个绝妙的决定。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/formation
 
 
 ---

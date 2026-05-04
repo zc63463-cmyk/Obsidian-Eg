@@ -123,9 +123,15 @@ air（空气）+ conditioning（调节，condition 的动名词形式）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - I wish my car had air conditioning . `[例]`
-> - All hotel rooms have air conditioning . `[例]`
-> - The coach has air conditioning and reclining seats . `[例]`
+> - Is the air conditioning on? `[例]`
+>   - 中译：空调开了吗？
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/air-conditioning
+> - I wish my car had air conditioning. `[例]`
+>   - 中译：我希望我的车有空调。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/air-conditioning
+> - The coach has air conditioning and reclining seats. `[例]`
+>   - 中译：客车配有空调和可躺式座椅。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/air-conditioning
 
 
 ---

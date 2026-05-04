@@ -128,7 +128,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The artist alternated between periods of intense creativity and long silences.（这位艺术家在强烈的创作期和漫长的沉寂期之间交替。）
+> - She alternated between cheerfulness and deep despair. `[例]`
+>   - 中译：她时而欢快，时而极度绝望。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/alternate
+> - He alternated working in the office with long tours overseas. `[例]`
+>   - 中译：他一边在办公室工作，一边长期出差海外。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/alternate
+> - In this type of mental illness , the usual pattern is bouts of depression alternating with elation. `[例]`
+>   - 中译：在这种类型的精神疾病中，通常的模式是抑郁与兴高采烈交替出现。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/alternate
 
 ---
 

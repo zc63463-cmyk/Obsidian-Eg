@@ -133,10 +133,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Scientists working under the banner 'Project Neurice' are seeking varieties of rice that can withstand the increasing salinity without losing the absorbency that makes European rice ideal for traditional Spanish and Italian dishes." `[真题]`
-> - "She ran for office under the banner of reform and change." `[COCA-NEWS]`
-> - "This has been a banner year for the construction industry." `[COCA-NEWS]`
-> - "The demonstrators walked along the street, carrying banners and shouting angrily." `[COCA-NEWS]`
+> - Protesters carried a banner reading ‘Save our Wildlife’. `[例]`
+>   - 中译：抗议者举着写有“拯救我们的野生动物”的横幅。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/banner
+> - They put up a website banner advising customers to order early. `[例]`
+>   - 中译：他们在网站上贴出了横幅，建议顾客尽早订购。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/banner
+> - A banner saying ‘To be continued…’ appeared on the screen. `[例]`
+>   - 中译：屏幕上出现了一条“未完待续……”的横幅。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/banner
 
 
 ---

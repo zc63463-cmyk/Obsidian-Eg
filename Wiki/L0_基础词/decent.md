@@ -131,9 +131,9 @@ dec-/decen-(恰当的，合适的，拉丁语 *decere*) + -ent(形容词后缀�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - I thought he was a decent person . `[例]`
-> - It was very decent (= kind ) of you to help . `[例]`
-> - It made quite a decent-sized (= large ) hole . `[例]`
+> - I thought he was a decent person. `[例]`
+> - It was very decent (= kind ) of you to help. `[例]`
+> - It made quite a decent-sized (= large ) hole. `[例]`
 
 
 ---

@@ -3,10 +3,8 @@ title: "short-termism"
 tags:
   - 学习/英语/词汇
   - 语义场/资本经济
-  - 掌握/L0
 aliases: []
 date: 2026-04-25
-mastery: L0
 word_freq: 超纲词
 semantic_field: 资本经济
 prototype: 只关注短期利益的心态
@@ -43,7 +41,7 @@ short(短的) + [[termin|term]](期限) + -ism(主义，思想体系)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**只关注短期利益的心态**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **只关注短期利益的心态**（时间层面）
@@ -65,7 +63,7 @@ short(短的) + [[termin|term]](期限) + -ism(主义，思想体系)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +73,7 @@ short(短的) + [[termin|term]](期限) + -ism(主义，思想体系)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > short（短）+ term（期限）+ -ism（主义）→ 短期主义。一个CEO为了今年拿到高额奖金，砍掉了公司未来五年的研发预算——这就是 short-termism。它就像一个人为了今天的美食把明天的口粮也吃了。
@@ -87,7 +85,7 @@ short(短的) + [[termin|term]](期限) + -ism(主义，思想体系)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ short(短的) + [[termin|term]](期限) + -ism(主义，思想体系)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[long-termism]]：长期主义（short-termism 的精确反义：短期主义↔长期主义）
 > - [[foresight]]：远见，前瞻性（short-termism 的反义：短视↔远见）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -116,7 +114,7 @@ short(短的) + [[termin|term]](期限) + -ism(主义，思想体系)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **corporate short-termism**：企业短期主义
 > - **political short-termism**：政治短期主义
 > - **the culture of short-termism**：短期主义文化
@@ -124,19 +122,12 @@ short(短的) + [[termin|term]](期限) + -ism(主义，思想体系)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - Corporate short-termism has led to underinvestment in research and development. `[例]`
-> - Some of Europe's entrepreneurs reveal an alarming level of short-termism in making their investment decisions . `[例]`
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-25 | **复习次数**：0 | **当前等级**：L0
-
----
+> - Some of Europe's entrepreneurs reveal an alarming level of short-termism in making their investment decisions. `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

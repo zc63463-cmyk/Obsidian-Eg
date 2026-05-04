@@ -3,10 +3,8 @@ title: "unrealistic"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-25
-mastery: L0
 word_freq: 超纲词
 semantic_field: 理性世界
 prototype: 不符合现实的
@@ -43,7 +41,7 @@ un-(不，否定) + real(真实的) + -ist(主义者) + -ic(形容词后缀)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**不符合现实的**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **不符合现实的**（认知层面）
@@ -64,7 +62,7 @@ un-(不，否定) + real(真实的) + -ist(主义者) + -ic(形容词后缀)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ un-(不，否定) + real(真实的) + -ist(主义者) + -ic(形容词后缀)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > real（真实）+ -istic（...的）+ un-（不）→ 不真实的 → 不切实际的。老板要求你一个人干三个人的活——这个要求就是 unrealistic。
@@ -86,7 +84,7 @@ un-(不，否定) + real(真实的) + -ist(主义者) + -ic(形容词后缀)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ un-(不，否定) + real(真实的) + -ist(主义者) + -ic(形容词后缀)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[realistic]]：现实的，切合实际的（unrealistic 的精确反义）
 > - [[practical]]：实际的，实用的（unrealistic 的反义：不切实际↔实际可行）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,7 +117,7 @@ un-(不，否定) + real(真实的) + -ist(主义者) + -ic(形容词后缀)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **unrealistic expectations**：不切实际的期望
 > - **unrealistic goals**：不现实的目标
 > - **highly unrealistic**：极不现实的
@@ -127,19 +125,12 @@ un-(不，否定) + real(真实的) + -ist(主义者) + -ic(形容词后缀)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - I think these sales forecasts are unrealistic, considering how slow sales are at present . `[例]`
-> - It's unrealistic to expect an answer before next week . `[例]`
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-25 | **复习次数**：0 | **当前等级**：L0
-
----
+> [!example]- 语料
+> - I think these sales forecasts are unrealistic, considering how slow sales are at present. `[例]`
+> - It's unrealistic to expect an answer before next week. `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

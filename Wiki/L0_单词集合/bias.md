@@ -128,9 +128,15 @@ bi-(=二，双) + -as(后缀，表状态)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The study was criticized for having a selection **bias**. `[真题]`
-> - Judges must be free from political **bias**. `[真题]`
-> - The media is often accused of being **biased** in its reporting. `[真题]`
+> - The senator has accused the media of bias. `[例]`
+>   - 中译：这位参议员指责媒体存在偏见。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/bias
+> - Reporters must be impartial and not show political bias. `[例]`
+>   - 中译：记者必须保持公正，不得表现出政治偏见。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/bias
+> - There was clear evidence of a strong bias against her. `[例]`
+>   - 中译：有明显证据表明对她存在强烈偏见。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/bias
 
 ---
 

@@ -127,8 +127,15 @@ e-(出) + vil(卑劣的)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The love of money is the root of all evil."（对金钱的贪爱是一切邪恶的根源。）——考研高频表达
-> - "Social media can be a force for good or evil, depending on how it is used."（社交媒体可以成为善的力量，也可以成为恶的力量，取决于如何使用它。）——考研高频表达
+> - These people are just evil. `[例]`
+>   - 中译：这些人只是邪恶的。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/evil
+> - The film was about an evil genius who wanted to control the world. `[例]`
+>   - 中译：这部电影讲述了一个想要控制世界的邪恶天才的故事。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/evil
+> - She was given a magic charm to ward off evil spirits. `[例]`
+>   - 中译：她被赋予了驱邪的魔咒。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/evil
 
 ---
 

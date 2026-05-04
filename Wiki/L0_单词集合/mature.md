@@ -140,11 +140,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She made a mature decision to postpone the wedding until her career was stable. `[COCA-FIC]`
-> - Mature economies tend to grow more slowly than developing ones. `[COCA-ACAD]`
-> - The bond matures in ten years, at which point the principal is repaid. `[COCA-ACAD]`
-> - Emotionally and intellectually mature individuals are better equipped to handle conflict. `[COCA-ACAD]`
-> - The cheese needs to mature for at least six months before it is ready to eat. `[COCA-NEWS]`
+> - He's very mature for his age. `[例]`
+>   - 中译：就他的年龄而言，他非常成熟。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/mature
+> - Upon mature reflection , we find the accused guilty. `[例]`
+>   - 中译：经过深思熟虑，我们认定被告有罪。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/mature
+> - The interview showed her as a self-assured and mature student. `[例]`
+>   - 中译：从采访中可以看出她是一个自信、成熟的学生。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/mature
 
 ---
 

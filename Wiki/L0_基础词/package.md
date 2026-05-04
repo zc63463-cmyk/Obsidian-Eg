@@ -128,9 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Congress is debating a $100 billion stimulus package that includes tax breaks for businesses." `[真题]`
-> - "The government has already announced a $586 billion economic stimulus package to help keep factories operating." `[真题]`
-> - "The company offers an attractive benefits package that includes health insurance, paid leave, and retirement plans." `[真题]`
+> - Congress is debating a $100 billion stimulus package that includes tax breaks for businesses. `[真题]`
+> - The government has already announced a $586 billion economic stimulus package to help keep factories operating. `[真题]`
+> - The company offers an attractive benefits package that includes health insurance, paid leave, and retirement plans. `[真题]`
 
 
 ---

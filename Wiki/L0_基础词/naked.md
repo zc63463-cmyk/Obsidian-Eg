@@ -132,9 +132,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - In my dream , I arrived at school and suddenly realized I was stark naked (= completely naked) . `[例]`
-> - He was naked to the waist (= not wearing clothes above his waist ) . `[例]`
-> - The children were half naked (= partly naked) . `[例]`
+> - In my dream , I arrived at school and suddenly realized I was stark naked (= completely naked). `[例]`
+> - He was naked to the waist (= not wearing clothes above his waist ). `[例]`
+> - The children were half naked (= partly naked). `[例]`
 
 
 ---

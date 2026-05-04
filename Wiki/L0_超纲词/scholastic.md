@@ -3,10 +3,8 @@ title: "scholastic"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-25
-mastery: L0
 word_freq: 超纲词
 semantic_field: 社会专业
 prototype: 与学校有关的
@@ -43,7 +41,7 @@ schol(学校，拉丁语 *schola*，源自希腊语 *skholē* 闲暇/学校) + -
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**与学校有关的**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **与学校有关的**（教育机构层面）
@@ -66,7 +64,7 @@ schol(学校，拉丁语 *schola*，源自希腊语 *skholē* 闲暇/学校) + -
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ schol(学校，拉丁语 *schola*，源自希腊语 *skholē* 闲暇/学校) + -
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > scholastic 来自希腊语 skholē（闲暇→学校）。古希腊人觉得只有不用干体力活的人才有"闲暇"去上学、做学问。所以 scholastic 的一切都和"学校"有关——学术成绩、经院哲学、学究式的讨论，都是"学校"的产物。
@@ -88,7 +86,7 @@ schol(学校，拉丁语 *schola*，源自希腊语 *skholē* 闲暇/学校) + -
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +98,13 @@ schol(学校，拉丁语 *schola*，源自希腊语 *skholē* 闲暇/学校) + -
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[practical]]：实践的（scholastic ↔ practical，学术理论↔实际操作）
 > - [[anti-intellectual]]：反智的（scholastic ↔ anti-intellectual，崇尚学术↔反对学术）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,7 +116,7 @@ schol(学校，拉丁语 *schola*，源自希腊语 *skholē* 闲暇/学校) + -
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **scholastic achievement/performance**：学业成绩/表现
 > - **scholastic ability**：学术能力
 > - **scholastic philosophy**：经院哲学
@@ -126,19 +124,12 @@ schol(学校，拉丁语 *schola*，源自希腊语 *skholē* 闲暇/学校) + -
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - Laura’s scholastic achievements won her acceptance into Harvard. `[例]`
 > - A college that gives a higher priority to scholastic endeavors than to athletic pursuits. `[例]`
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-25 | **复习次数**：0 | **当前等级**：L0
-
----
-
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

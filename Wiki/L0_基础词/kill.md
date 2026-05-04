@@ -134,10 +134,9 @@ kill 源自古英语 *cyllan*，与古诺斯语 *kolla*（打击）有关。无�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She adds, however, that 'to decide is to kill off all possibilities but one.'" `[真题]`
-> - "The opposition failed to kill the bill." `[真题]`
-> - "My feet are killing me after walking all day." `[通用语料]`
-> - "He lifted her and carried her to her bedroom, finding a spot on the bed that had avoided being shredded or covered with junk from her dressers." `[通用语料]`
+> - She adds, however, that 'to decide is to kill off all possibilities but one. `[真题]`
+> - The opposition failed to kill the bill. `[真题]`
+> - My feet are killing me after walking all day. `[例]`
 
 
 ---

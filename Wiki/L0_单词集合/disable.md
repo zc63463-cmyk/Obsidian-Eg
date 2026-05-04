@@ -124,9 +124,15 @@ dis-(剥夺/取消) + [[fac|able]](能够的) → 使不能
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She was disabled in the accident . `[例]`
-> - This weapons system will destroy or disable any incoming missile . `[例]`
-> - Disable the alarm system and then enter the building . `[例]`
+> - She was disabled in the accident. `[例]`
+>   - 中译：她在这次事故中致残。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/disable
+> - This weapons system will destroy or disable any incoming missile. `[例]`
+>   - 中译：该武器系统将摧毁或禁用任何来袭导弹。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/disable
+> - Disable the alarm system and then enter the building. `[例]`
+>   - 中译：关闭警报系统，然后进入大楼。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/disable
 
 ---
 

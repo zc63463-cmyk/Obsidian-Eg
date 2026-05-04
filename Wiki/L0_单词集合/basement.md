@@ -130,10 +130,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Water seeped into the basement after the heavy rain. `[COCA-FIC]`
-> - The basement of the social structure is often overlooked. `[例]`
-> - She rented a basement apartment to save money. `[例]`
-> - Old files and boxes were stored in the basement. `[例]`
+> - Our kitchenware department is in the basement. `[例]`
+>   - 中译：我们的厨具部位于地下室。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/basement
+> - The hardware department is in the basement. `[例]`
+>   - 中译：硬件部门在地下室。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/basement
+> - Kitchen goods are sold in the basement. `[例]`
+>   - 中译：厨房用品在地下室出售。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/basement
 
 ---
 

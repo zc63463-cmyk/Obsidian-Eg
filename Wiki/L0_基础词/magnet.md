@@ -126,10 +126,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The United States has always acted as a magnet for people seeking fame and fortune." `[COCA-NEWS]`
-> - "The city was a magnet for bohemians and left-wing radicals." `[COCA-NEWS]`
-> - "The ponds and bushes were magnets for a variety of wildlife." `[COCA-ACAD]`
-> - "The city has become a magnet for talented young professionals from across the country, drawn by its vibrant tech industry and high quality of life." `[例]`
+> - The United States has always acted as a magnet for people seeking fame and fortune. `[COCA-NEWS]`
+> - The city was a magnet for bohemians and left-wing radicals. `[COCA-NEWS]`
+> - The ponds and bushes were magnets for a variety of wildlife. `[COCA-ACAD]`
+> - The city has become a magnet for talented young professionals from across the country, drawn by its vibrant tech industry and high quality of life. `[例]`
 
 
 ---

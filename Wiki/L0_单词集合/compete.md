@@ -127,9 +127,15 @@ com-(共同) + pet(追求、寻求) + e
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The two universities are competing for top students. `[COCA-ACAD]`
-> - To compete in the global market, firms must innovate constantly. `[COCA-ACAD]`
-> - Small shops can't compete on price alone. `[例]`
+> - As a result D. status D. in line with D. pioneering D. competed D. `[真题]`
+>   - 中译：结果 D. 地位 D. 符合 D. 开拓性 D. 竞争 D.
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - It's difficult for a small shop to compete against the big supermarkets. `[例]`
+>   - 中译：小商店很难与大超市竞争。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/compete
+> - In the tournament , she was competing with the best players in the country. `[例]`
+>   - 中译：在比赛中，她与国内最好的选手竞争。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/compete
 
 ---
 

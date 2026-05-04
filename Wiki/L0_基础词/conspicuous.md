@@ -127,9 +127,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He tried not to look conspicuous and moved slowly along the back of the room." `[COCA-FICT]`
-> - "Many of the old portraits have been taken down or moved to a less conspicuous place." `[COCA-ACAD]`
-> - "The business was a conspicuous success." `[COCA-NEWS]`
+> - I felt very conspicuous in my new car. `[例]`
+>   - 中译：我觉得我的新车非常引人注目。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/conspicuous
+> - The notice must be posted in a conspicuous place on the premises. `[例]`
+>   - 中译：该通知必须张贴在场所的显着位置。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/conspicuous
+> - The event was a conspicuous success (= a very great one). `[例]`
+>   - 中译：这次活动取得了巨大的成功（=非常伟大的活动）。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/conspicuous
 
 
 ---

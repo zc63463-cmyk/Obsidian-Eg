@@ -123,10 +123,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He decided to beard the lion in his den and demand an explanation." `[COCA-FIC]`
-> - "The philosopher was known for his long white beard and piercing eyes." `[COCA-FIC]`
-> - "It can pick out particular characteristics of the people in the photo, including smiles and beards and eyeglasses." `[COCA-NEWS]`
-> - "The old man stroked his flowing beard thoughtfully." `[例]`
+> - He has decided to grow a beard and a moustache. `[例]`
+>   - 中译：他决定留起胡须和小胡子。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/beard
+> - Gonzalez is of Cuban descent, bald, with a brown beard and mustache. `[例]`
+>   - 中译：冈萨雷斯有古巴血统，秃头，留着棕色胡须。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/beard
+> - He is also said to be bald with a brown beard and mustache. `[例]`
+>   - 中译：据说他也是秃头，留着棕色的胡须。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/beard
 
 
 ---

@@ -136,9 +136,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "mental illness"（精神疾病）——考研阅读/翻译高频搭配，医学/社会类话题
-> - "suffer from serious illness"（患重病）——考研阅读常见搭配
-> - "the relationship between stress and illness"（压力与疾病的关系）——考研阅读健康类话题
+> - He died at home after a long illness. `[例]`
+>   - 中译：他在长期患病后在家中去世。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/illness
+> - She had five days off work due to illness. `[例]`
+>   - 中译：她因病请了五天假。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/illness
+> - We are lacking three members of staff due to illness. `[例]`
+>   - 中译：由于生病，我们缺少三名工作人员。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/illness
 
 ---
 

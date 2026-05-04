@@ -131,8 +131,8 @@ glue 源自古法语 *glu*，拉丁语 *gluten*（胶水），原始印欧语 *g
 > [!example]- 语料
 > - Apply it to one of the surfaces then clamp together until the glue sets. `[真题]`
 > - Benitez, a 5-9 junior point guard, is the glue on and off the court. `[真题]`
-> - Idealism was the glue that held our group together. `[权威语料]`
-> - They are all glued to the final episode. `[权威语料]`
+> - Idealism was the glue that held our group together. `[例]`
+> - They are all glued to the final episode. `[例]`
 
 
 ---

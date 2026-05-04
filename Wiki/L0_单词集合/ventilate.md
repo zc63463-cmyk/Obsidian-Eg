@@ -131,9 +131,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Ventilate the room well while applying the paint . `[例]`
-> - I work in a very poorly-ventilated building . `[例]`
-> - If her condition deteriorates , she will need to be ventilated and admitted to intensive care . `[例]`
+> - The bathroom is ventilated by means of an extractor fan. `[例]`
+>   - 中译：浴室通过排风扇进行通风。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ventilate
+> - The building is naturally ventilated. `[例]`
+>   - 中译：建筑物自然通风。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ventilate
+> - She opened the windows to ventilate the room. `[例]`
+>   - 中译：她打开窗户让房间通风。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/ventilate
 
 ---
 

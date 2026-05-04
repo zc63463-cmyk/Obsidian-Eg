@@ -134,9 +134,9 @@ then（古英语 *thænne*，源自日耳曼语族，与 that 同源，指示"�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She grew up in Zimbabwe, or Rhodesia as it then was." `[词典]`
-> - "First cook the onions, then add the mushrooms." `[词典]`
-> - "If you won't tell him, then I will." `[词典]`
+> - She grew up in Zimbabwe, or Rhodesia as it then was. `[例]`
+> - First cook the onions, then add the mushrooms. `[例]`
+> - If you won't tell him, then I will. `[例]`
 
 
 ---

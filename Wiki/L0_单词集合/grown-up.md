@@ -120,8 +120,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Their children have all grown up and left home now."（他们的孩子都已长大成人离开家了。）——考研高频表达
-> - "As a grown-up, you should take responsibility for your own actions."（作为一个成年人，你应该为自己的行为负责。）——考研高频表达
+> - He seems very grown up for a ten-year-old. `[例]`
+>   - 中译：对于一个十岁的孩子来说，他看起来已经很成熟了。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/grown-up
+> - This book is a bit too grown up for you (= you are too young to understand this book ). `[例]`
+>   - 中译：这本书对你来说有点太成熟了（=你还太小，无法理解这本书）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/grown-up
+> - She has two grown-up children who work in the family business. `[例]`
+>   - 中译：她有两个已成年的孩子，在家族企业工作。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/grown-up
 
 ---
 

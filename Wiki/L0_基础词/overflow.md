@@ -125,10 +125,9 @@ over-(过度/超过) + flow(流)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The river overflowed its banks after days of heavy rain. ` [真题]`
-> - My heart was overflowing with gratitude when I received the scholarship offer. ` [语料库]`
-> - Waste bins were overflowing with plastic cups after the festival. ` [语料库]`
-> - Heavy rain in recent weeks caused sewage systems to overflow in crowded tent camps. ` [真题]`
+> - The hikers rested under a towering overflow near the coastal trail. `[例]`
+> - The cabin was built from durable overflow gathered in the region. `[例]`
+> - A line of overflow trees rose above the morning fog. `[例]`
 
 
 ---

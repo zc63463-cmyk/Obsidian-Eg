@@ -131,9 +131,15 @@ arch-（首要的，统治的，与 architect 同源）+ -ive（名词后缀，�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The archives contain a wealth of historical documents that are invaluable to researchers. `[例]`
-> - She spent months going through the national archives. `[例]`
-> - All old emails are automatically archived after 90 days. `[例]`
+> - These old photographs should go in the family archives. `[例]`
+>   - 中译：这些老照片应该进入家庭档案。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/archive
+> - I've been studying village records in the local archive. `[例]`
+>   - 中译：我一直在研究当地档案馆中的村庄记录。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/archive
+> - This software helps firms archive and retrieve emails. `[例]`
+>   - 中译：该软件帮助公司归档和检索电子邮件。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/archive
 ---
 
 

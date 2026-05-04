@@ -132,9 +132,15 @@ censor(审查官，拉丁语 *censor*，负责评估人口和道德的罗马官�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Censorship of the press. `[例]`
-> - Civil libertarians say that the ruling amounts to censorship. `[例]`
-> - Artists and critics accused him of censorship. `[例]`
+> - The decree imposed strict censorship of the media. `[例]`
+>   - 中译：该法令对媒体实行严格审查。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/censorship
+> - The government has imposed strict censorship on the press. `[例]`
+>   - 中译：政府对新闻界实行严格的审查。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/censorship
+> - The comedian was subsequently taken off the air, sparking outcry and accusations of government censorship. `[例]`
+>   - 中译：这位喜剧演员随后被停播，引发了强烈抗议和对政府审查制度的指控。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/censorship
 
 
 ---

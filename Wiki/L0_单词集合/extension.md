@@ -127,8 +127,15 @@ ex-(=out, 向外) + [[tend-tens|tens]](=伸展，*tendere* 的过去分词 *tens
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "I've applied for an extension to my visa."（我已经申请将签证延期。——剑桥词典例句）
-> - "The planned extension to the motorway near London is going to cost over 4 million pounds."（伦敦附近高速公路的扩建计划将耗资超过400万英镑。——剑桥词典例句）
+> - The extension (= increasing ) of police powers in the province has been heavily criticized. `[例]`
+>   - 中译：该省警察权力的扩展（=增加）受到了严厉批评。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/extension
+> - The article is an extension of (= takes further ) the ideas Professor Fox developed in an earlier book. `[例]`
+>   - 中译：这篇文章是 Fox 教授在早期书中提出的思想的延伸（=进一步发展）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/extension
+> - They are hoping to get an extension of their loan (= to be given a longer period of time in which to pay it back). `[例]`
+>   - 中译：他们希望延长贷款期限（= 给予更长的偿还时间）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/extension
 
 ---
 

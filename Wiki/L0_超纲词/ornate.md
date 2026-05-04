@@ -3,10 +3,8 @@ title: "ornate"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-25
-mastery: L0
 word_freq: 超纲词
 semantic_field: 物品工具
 prototype: 装饰过的
@@ -43,7 +41,7 @@ orn(=adorn/decorate, 装饰) + -ate(=having the characteristics of, 具有……
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**装饰过的**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **装饰过的**（物理层面）
@@ -64,7 +62,7 @@ orn(=adorn/decorate, 装饰) + -ate(=having the characteristics of, 具有……
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ orn(=adorn/decorate, 装饰) + -ate(=having the characteristics of, 具有……
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > orn（装饰）+ ate（被……的）→ 被装饰过的 → 华丽的。欧洲教堂的 ornate architecture（华丽建筑）——到处都是雕刻和金箔。一篇文章用了太多华丽的词——ornate prose（辞藻华丽的散文），好看但可能不实用。
@@ -86,7 +84,7 @@ orn(=adorn/decorate, 装饰) + -ate(=having the characteristics of, 具有……
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -97,13 +95,13 @@ orn(=adorn/decorate, 装饰) + -ate(=having the characteristics of, 具有……
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[plain]]：朴素的（ornate 的精确反义：华丽↔朴素）
 > - [[simple]]：简单的
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -115,7 +113,7 @@ orn(=adorn/decorate, 装饰) + -ate(=having the characteristics of, 具有……
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **ornate architecture**：华丽的建筑
 > - **ornate furniture**：华丽的家具
 > - **ornate prose**：辞藻华丽的散文
@@ -123,20 +121,13 @@ orn(=adorn/decorate, 装饰) + -ate(=having the characteristics of, 具有……
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - `[例]` The cathedral features ornate architecture with intricate carvings and stained glass windows.
-> - `[例]` His ornate prose, though beautifully crafted, often obscured the underlying argument of the essay.
-> - `[例]` The antique desk was adorned with ornate brass fittings that had turned green with age.
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-25 | **复习次数**：0 | **当前等级**：L0
-
----
+> [!example]- 语料
+> - The researchers proposed a ornate solution to the problem. `[例]`
+> - The company adopted a ornate approach to improve efficiency. `[例]`
+> - The plan offers a ornate option for small organizations. `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

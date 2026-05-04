@@ -139,9 +139,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "calculate the impact of climate change"（计算气候变化的影响）——考研阅读科普类话题高频搭配
-> - "a calculated decision"（经过深思熟虑的决定）——考研翻译/阅读中描述决策过程
-> - "be calculated to appeal to young consumers"（旨在吸引年轻消费者）——商业类阅读语境
+> - The new tax system would be calculated on the value of property owned by an individual. `[例]`
+>   - 中译：新的税收制度将根据个人拥有的财产价值进行计算。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/calculate
+> - At some stage we need to calculate wh en the project will be finished. `[例]`
+>   - 中译：在某个阶段，我们需要计算项目何时完成。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/calculate
+> - He's calculated that it would take him two years to save up enough for a car. `[例]`
+>   - 中译：他算了一下，需要两年才能攒够买辆车的钱。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/calculate
 
 ---
 

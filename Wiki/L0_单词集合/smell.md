@@ -122,10 +122,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - I can smell trouble brewing in this situation. `[COCA-FIC]`
-> - When he offered the deal with no contract, I began to smell a rat. `[COCA-SPOKEN]`
-> - Something smells fishy about this deal — the terms seem too good to be true. `[真题]`
-> - The smell of pollution from nearby factories has become a serious health concern for local residents. `[真题]`
+> - My hands smell of onions. `[例]`
+>   - 中译：我的手有洋葱味。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/smell
+> - That cake smells good. `[例]`
+>   - 中译：那个蛋糕味道不错。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/smell
+> - There's something in the fridge that smells mouldy. `[例]`
+>   - 中译：冰箱里有东西发霉的味道。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/smell
 
 
 ---

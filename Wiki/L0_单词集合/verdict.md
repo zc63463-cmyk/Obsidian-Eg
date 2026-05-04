@@ -131,9 +131,15 @@ ver（真实，true）+ dict（说，speak）= 真实地说出
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Voters gave their verdict on the government's economic record last night by voting overwhelmingly for the opposition . `[例]`
-> - City planners think it’s a good idea to ban traffic from downtown streets , but the public’s verdict is that it’s a stupid idea . `[例]`
-> - We disagree with this jury's verdict. `[例]`
+> - Has the jury reached a verdict? `[例]`
+>   - 中译：陪审团做出裁决了吗？
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/verdict
+> - The jury returned a verdict (= gave a verdict ) of guilty. `[例]`
+>   - 中译：陪审团作出有罪判决（= 作出判决）。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/verdict
+> - The coroner recorded a verdict of accidental death. `[例]`
+>   - 中译：验尸官记录了意外死亡的判决。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/verdict
 
 ---
 

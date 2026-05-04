@@ -131,9 +131,15 @@ com-(一起，词根 [[com]]) + ic(形容词后缀，与……有关的)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Dad read the front page while the kids read the comics. `[例]`
-> - Modern Times" is a classic comedy starring Charlie Chaplin, the grandaddy of comic film actors . `[例]`
-> - The speech had several comic touches . `[例]`
+> - The play is both comic and tragic. `[例]`
+>   - 中译：这部剧既是喜剧又是悲剧。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/comic
+> - She can always be relied on to provide comic relief (= something to make you laugh) at a boring party. `[例]`
+>   - 中译：在无聊的聚会上，她总是可以提供喜剧缓解（=让你发笑的东西）。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/comic
+> - He wore a red nose and novelty glasses for comic effect. `[例]`
+>   - 中译：他戴着红鼻子和新奇的眼镜以产生喜剧效果。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/comic
 
 
 ---

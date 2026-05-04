@@ -134,9 +134,15 @@ all（全部）+ one（一个）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - He likes being alone in the house . `[例]`
-> - She decided to climb the mountain alone. `[例]`
-> - Do you like living alone? `[例]`
+> - Tom is not alone in finding Rick hard to work with. `[例]`
+>   - 中译：汤姆并不是唯一一个觉得瑞克很难共事的人。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/alone
+> - She waited until she was alone with him to speak. `[例]`
+>   - 中译：她等到只剩下自己和他在一起才开口说话。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/alone
+> - He was afraid of being alone with his thoughts. `[例]`
+>   - 中译：他害怕独自思考。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/alone
 
 
 ---

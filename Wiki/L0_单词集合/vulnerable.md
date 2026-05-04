@@ -123,9 +123,15 @@ vulner-(伤害) + -able(可以被……的)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - I felt very vulnerable, standing there without any clothes on. `[例]`
-> - It is on economic policy that the government is most vulnerable. `[例]`
-> - Tourists are more vulnerable to attack , because they do not know which areas of the city to avoid . `[例]`
+> - These offices are highly vulnerable to terrorist attack. `[例]`
+>   - 中译：这些办公室非常容易受到恐怖袭击。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/vulnerable
+> - Old people are particularly vulnerable to the flu. `[例]`
+>   - 中译：老年人特别容易感染流感。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/vulnerable
+> - She looked very vulnerable standing there on her own. `[例]`
+>   - 中译：她独自站在那里，看上去非常脆弱。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/vulnerable
 
 ---
 

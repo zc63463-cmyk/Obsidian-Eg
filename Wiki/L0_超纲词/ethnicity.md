@@ -3,10 +3,8 @@ title: "ethnicity"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 社会习俗
 prototype: 种族身份（属于某个种族或民族的状态）
@@ -43,7 +41,7 @@ ethn-(种族/民族，源自希腊语 *ethnos*，"民族/种族") + -ic(形容�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**种族身份（属于某个种族或民族的状态）**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **民族**（群体层面）
@@ -64,7 +62,7 @@ ethn-(种族/民族，源自希腊语 *ethnos*，"民族/种族") + -ic(形容�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -76,7 +74,7 @@ ethn-(种族/民族，源自希腊语 *ethnos*，"民族/种族") + -ic(形容�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > ethn（民族）+ icity（状态）→ ethnicity。希腊语 ethnos 就是"民族"——ethnic 是"民族的"，ethnicity 就是"民族身份"。填表时有一栏"Ethnicity"——就是问你的民族/种族归属。
@@ -88,7 +86,7 @@ ethn-(种族/民族，源自希腊语 *ethnos*，"民族/种族") + -ic(形容�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,12 +98,12 @@ ethn-(种族/民族，源自希腊语 *ethnos*，"民族/种族") + -ic(形容�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - 无精确反义词
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,26 +116,19 @@ ethn-(种族/民族，源自希腊语 *ethnos*，"民族/种族") + -ic(形容�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **of different ethnicity**：不同种族的
 > - **ethnicity and race**：种族和民族
 > - **ethnicity data**：种族数据
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - The study examined how students of different ethnicity performed across various school districts. `[例]`
 > - Census data on ethnicity and race provide critical insights into the changing demographics of the population. `[例]`
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
-
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -125,8 +125,8 @@ in-(进入) + [[ven-vent|ven]](来/找到，拉丁语 *venire*) + -tory(名词�
 
 > [!example]- 语料
 > - The company needs to improve its inventory management to reduce costs. `[真题]`
-> - We began taking inventory of the storeroom to make sure we had enough supplies. `[语料库]`
-> - Take inventory of your professional skills, accomplishments and experiences. `[外刊]`
+> - We began taking inventory of the storeroom to make sure we had enough supplies. `[例]`
+> - Take inventory of your professional skills, accomplishments and experiences. `[例]`
 
 
 ---

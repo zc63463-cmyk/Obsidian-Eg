@@ -136,9 +136,9 @@ sculp(=sculpt，雕刻，拉丁语 *sculpere*，与 [[scrape]]/[[scratch]] 同�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Those were the halcyon days of Athens (fifth century BC) when she produced her finest poetry and drama, architecture and sculpture." `[真题]`
-> - "In the 1960s, the Italian artist Piero Gilardi began to create hundreds of bright, colorful foam pieces." `[真题]`
-> - "Isamu Noguchi's Kouros is a statuesque assemblage of eight pink marble slabs joined in a delicate balance that evokes an ancient Greek figural sculpture type." `[语料库]`
+> - Those were the halcyon days of Athens (fifth century BC) when she produced her finest poetry and drama, architecture and sculpture. `[真题]`
+> - Isamu Noguchi's Kouros is a statuesque assemblage of eight pink marble slabs joined in a delicate balance that evokes an ancient Greek figural sculpture type. `[例]`
+> - Tom teaches sculpture at the local art school. `[例]`
 
 
 ---

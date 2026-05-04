@@ -134,9 +134,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "a giant leap for mankind"（人类的一大步）——考研阅读常见引用，科技话题
-> - "a giant of American literature"（美国文学巨匠）——考研阅读常见搭配，文化话题
-> - "giant tech corporations"（科技巨头公司）——考研阅读常见搭配，商业话题
+> - Dad terrified us with stories of a big , bad giant who ate little children. `[例]`
+>   - 中译：爸爸用一个坏巨人吃小孩子的故事来吓唬我们。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/giant
+> - In the pantomime of 'Jack and the Beanstalk', we just saw the giant's huge hand. `[例]`
+>   - 中译：在《杰克与魔豆》的哑剧中，我们刚刚看到了巨人那只巨大的手。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/giant
+> - Tales are told about an island inhabited by a race of giants, as tall as houses. `[例]`
+>   - 中译：传说有一座岛上居住着一群巨人，他们的身高如房屋那么高。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/giant
 
 ---
 

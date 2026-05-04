@@ -124,9 +124,15 @@ alpha（希腊语第一个字母）+ bet（=beta，希腊语第二个字母）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - On the road signs , the Greek place names have been transliterated into the Latin alphabet. `[例]`
-> - Z comes after Y in the alphabet. `[例]`
-> - The ninth letter of the alphabet is I. `[例]`
+> - Alpha is the first letter of the Greek alphabet. `[例]`
+>   - 中译：Alpha 是希腊字母表的第一个字母。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/alphabet
+> - The Roman alphabet begins with “A” and ends with “Z. `[例]`
+>   - 中译：罗马字母以“A”开头，以“Z”结尾。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/alphabet
+> - Some may complete high school, college or even graduate school, while others may never learn the alphabet. `[例]`
+>   - 中译：有些人可能完成高中、大学甚至研究生学业，而另一些人可能永远不会学习字母表。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/alphabet
 
 
 ---

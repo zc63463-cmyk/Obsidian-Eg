@@ -131,9 +131,15 @@ trans-（跨越，穿过）+ [[tract]]（拉扯，牵引）+ -ion（名词后缀
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Each transaction at the foreign exchange counter seems to take forever . `[例]`
-> - We need to monitor the transaction of smaller deals . `[例]`
-> - Users can now make financial transactions in euros . `[例]`
+> - Then in March, Nordstrom’s internal investigation team alerted police to a broader pattern of fraudulent transactions. `[例]`
+>   - 中译：然后在三月份，Nordstrom 的内部调查团队向警方发出了更广泛的欺诈交易模式的警报。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/transaction
+> - The Sun deal was the first control transaction in the W in five years when the Las Vegas Aces and Dream both traded hands in 2021. `[例]`
+>   - 中译：太阳队的交易是拉斯维加斯王牌队和梦想队在 2021 年双双易手时五年来西部地区的第一笔控制权交易。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/transaction
+> - Financial terms of the transaction were not revealed,. `[例]`
+>   - 中译：交易的财务条款并未透露。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/transaction
 ---
 
 

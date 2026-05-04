@@ -128,8 +128,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The current tax system is a mess that needs comprehensive reform."（当前的税收制度一团糟，需要全面改革。）——考研高频表达
-> - "The government's handling of the crisis has been described as a complete mess."（政府对危机的处理被形容为彻头彻尾的混乱。）——考研高频表达
+> - He makes a terrible mess when he's cooking. `[例]`
+>   - 中译：他做饭时把事情搞得一团糟。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/mess
+> - Jem's house is always in a mess. `[例]`
+>   - 中译：杰姆的房子总是一片狼藉。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/mess
+> - Go and clean up that mess in the kitchen. `[例]`
+>   - 中译：去清理厨房里的乱七八糟的东西。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/mess
 
 ---
 

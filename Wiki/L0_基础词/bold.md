@@ -130,9 +130,15 @@ bold 源自古英语 *beald*（大胆的、勇敢的），原始日耳曼语 *\*
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The newspaper took the bold step of publishing the names of the men involved . `[例]`
-> - The team made the bold move of trading its star player . `[例]`
-> - She was a bold and fearless climber . `[例]`
+> - It was a bold move on their part to open a business in France. `[例]`
+>   - 中译：对于他们来说，在法国开展业务是一个大胆的举动。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bold
+> - Few people have been bold enough to criticize the manager. `[例]`
+>   - 中译：很少有人敢于批评这位经理。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bold
+> - Highlight the important words in bold type. `[例]`
+>   - 中译：用粗体突出显示重要的单词。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bold
 
 
 ---

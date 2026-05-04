@@ -139,10 +139,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Her fans rallied behind her from the start." `[COCA-NEWS]`
-> - "The stock market rallied late in the day." `[COCA-NEWS]`
-> - "Assailed by the forces of darkness, civic-minded citizens rallied to defend their community." `[COCA-ACAD]`
-> - "The community will rally around the family in their time of need." `[COCA-NEWS]`
+> - The rally has been cancelled for the good of all concerned. `[例]`
+>   - 中译：为了所有有关方面的利益，这次集会被取消了。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/rally
+> - It was heartening to see so many people at the rally. `[例]`
+>   - 中译：看到这么多人参加集会真是令人振奋。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/rally
+> - The rally was organized by local trade union officials. `[例]`
+>   - 中译：这次集会是由当地工会官员组织的。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/rally
 
 ---
 

@@ -128,9 +128,15 @@ sup-(=sub-，从下方) + ple(填充，参见 [[lect-leg|ple/plet]]) + -ment(名
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The money I get from teaching eveningnight classes provides a supplement to my main income . `[例]`
-> - We paid a supplement (= an extra amount of money ) so that we could have a cabin on board the ship . `[例]`
-> - The doctor said she should be taking vitamin supplements. `[例]`
+> - Industrial sponsorship is a supplement to government funding. `[例]`
+>   - 中译：产业赞助是对政府资助的补充。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/supplement
+> - Our special supplement is packed with ideas for healthy hair. `[例]`
+>   - 中译：我们的特殊补充剂充满了健康头发的想法。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/supplement
+> - You can use these books as supplements to the basic English course. `[例]`
+>   - 中译：您可以使用这些书籍作为基础英语课程的补充。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/supplement
 
 ---
 

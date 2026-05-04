@@ -142,9 +142,9 @@ seal（源自拉丁语 *sigillum*，"小标记"，是 *signum*"标记"的指小�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The police sealed off the area after the explosion." `[真题]`
-> - "They signed and sealed the treaty, making it officially binding." `[真题]`
-> - "Following a bomb warning, police have sealed off the whole area." `[语料库]`
+> - The police sealed off the area after the explosion. `[真题]`
+> - They signed and sealed the treaty, making it officially binding. `[真题]`
+> - Following a bomb warning, police have sealed off the whole area. `[例]`
 
 
 ---

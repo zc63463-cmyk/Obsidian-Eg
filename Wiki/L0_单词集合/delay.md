@@ -134,9 +134,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - My plane was delayed by an hour . `[例]`
-> - Heavy snow delayed the start of the game . `[例]`
-> - I think we should delay decid ing about this until next year . `[例]`
+> - My plane was delayed by an hour. `[例]`
+>   - 中译：我的飞机晚点了一个小时。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/delay
+> - Heavy snow delayed the start of the game. `[例]`
+>   - 中译：大雪推迟了比赛的开始。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/delay
+> - I think we should delay decid ing about this until next year. `[例]`
+>   - 中译：我认为我们应该推迟到明年再做出决定。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/delay
 
 ---
 

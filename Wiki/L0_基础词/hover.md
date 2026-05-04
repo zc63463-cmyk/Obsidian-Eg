@@ -123,9 +123,9 @@ hover 源自中古英语 *hoveren*，可能与古英语 *hufe*（屋顶的屋檐
 ## 真题/语料关联
 
 > [!example]- 语料
-> - A hawk hovered in the sky , waiting to swoop down on its prey . `[例]`
-> - I heard the noise of a helicopter hovering overhead . `[例]`
-> - A waiter hovered at the table , ready to take our order . `[例]`
+> - A hawk hovered in the sky , waiting to swoop down on its prey. `[例]`
+> - I heard the noise of a helicopter hovering overhead. `[例]`
+> - A waiter hovered at the table , ready to take our order. `[例]`
 
 
 ---

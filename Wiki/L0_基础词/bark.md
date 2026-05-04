@@ -129,10 +129,15 @@ bark 源自古英语 *beorc*（树皮），与吠叫声的 *bark* 可能源自�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "My dog has a very loud bark." `[COCA-SPOKEN]`
-> - "They heard a dog barking outside." `[COCA-FIC]`
-> - "She can be a bit tetchy but her bark is worse than her bite." `[BNC-SPOKEN]`
-> - "Some officers bark out their orders." `[COCA-FIC]`
+> - The bark peels off in summer. `[例]`
+>   - 中译：夏天树皮剥落。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bark
+> - The people strip the bark and use it in medicines. `[例]`
+>   - 中译：人们剥去树皮并将其用作药物。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bark
+> - The dog gave a loud bark. `[例]`
+>   - 中译：狗大声吠叫。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bark
 
 
 ---

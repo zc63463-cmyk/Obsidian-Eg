@@ -131,9 +131,9 @@ se-(=apart，分开，与 [[se-]] 相关) + greg(=flock/herd，群，拉丁语 *
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The Population Registration Act of 1950 categorized and segregated the people of South Africa." `[真题]`
-> - "Black residents were segregated from white residents in the area." `[真题]`
-> - "At school the girls were segregated from the boys in the classroom." `[真题]`
+> - The Population Registration Act of 1950 categorized and segregated the people of South Africa. `[真题]`
+> - Black residents were segregated from white residents in the area. `[真题]`
+> - At school the girls were segregated from the boys in the classroom. `[真题]`
 
 
 ---

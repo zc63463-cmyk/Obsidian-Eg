@@ -137,9 +137,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "national character"（民族性格）——考研阅读/翻译高频搭配，描述文化差异
-> - "moral character"（道德品质）——伦理/教育类阅读常见搭配
-> - "build/develop character"（培养品格）——教育类写作常用表达
+> - Politeness is traditionally part of the British character. `[例]`
+>   - 中译：礼貌是英国传统性格的一部分。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/character
+> - It would be very out of character (= not typical ) of her to lie. `[例]`
+>   - 中译：撒谎是非常不符合她性格的（=不典型的）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/character
+> - His recent behaviour is very much in character (= typical ). `[例]`
+>   - 中译：他最近的行为非常符合他的性格（=典型）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/character
 
 ---
 

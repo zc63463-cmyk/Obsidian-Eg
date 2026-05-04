@@ -139,10 +139,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Configuration refers to the technical specifications , known as "tech specs " of the computers and it includes processor speed , the amount of RAM , etc. `[例]`
-> - He was worried that the tech rehearsal had been too brief - for example , the smoke machine wasn't working correctly . `[例]`
-> - The company produces an annual report on the state of European tech. `[例]`
-> - He worked for several years at one of the Silicon Valley tech giants . `[例]`
+> - This gadget is a great new piece of tech. `[例]`
+>   - 中译：这个小工具是一项伟大的新技术。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/tech
+> - He teaches at the local tech. `[例]`
+>   - 中译：他在当地科技公司任教。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/tech
+> - She's a lab tech at the university. `[例]`
+>   - 中译：她是大学的实验室技术人员。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/tech
 
 ---
 

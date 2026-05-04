@@ -121,9 +121,15 @@ bother（打扰/烦恼，词源不确定）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Sorry to bother you, but could you help me? `[真题]`
-> - It doesn't bother me that she's late. `[真题]`
-> - I didn't bother to reply to his email. `[例]`
+> - He hasn't even bothered to write. `[例]`
+>   - 中译：他甚至懒得写。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/bother
+> - You could have phoned us but you just didn't bother. `[例]`
+>   - 中译：您本可以给我们打电话，但您就是不打扰。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/bother
+> - Don't bother mak ing the bed - I'll do it later. `[例]`
+>   - 中译：不用费心整理床铺了——我稍后再做。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/bother
 
 ---
 

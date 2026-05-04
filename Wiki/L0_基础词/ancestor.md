@@ -124,9 +124,15 @@ an-(=ante-, 在前面) + cest(走，拉丁语 *cedere*) + -or(人)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - There were portraits of his ancestors on the walls of the room . `[例]`
-> - This wooden instrument is the ancestor of the modern metal flute . `[例]`
-> - He returned to Ecuador, where his mother’s ancestors lived . `[例]`
+> - His ancestors had come to America from Ireland. `[例]`
+>   - 中译：他的祖先从爱尔兰来到美国。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ancestor
+> - The ancestor of the modern bicycle was called a penny-farthing. `[例]`
+>   - 中译：现代自行车的鼻祖被称为“penny-farthing”。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ancestor
+> - My ancestors came to America during the 1800s. `[例]`
+>   - 中译：我的祖先在 1800 年代来到美国。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/ancestor
 
 
 ---

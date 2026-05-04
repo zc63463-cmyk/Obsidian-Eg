@@ -129,8 +129,8 @@ review_count: 0
 
 > [!example]- 语料
 > - She looks happy and well nourished. `[例]`
-> - This cream is supposed to help nourish your skin . `[例]`
-> - Lisa has long nourished the hope of becoming a famous writer . `[例]`
+> - This cream is supposed to help nourish your skin. `[例]`
+> - Lisa has long nourished the hope of becoming a famous writer. `[例]`
 
 
 ---

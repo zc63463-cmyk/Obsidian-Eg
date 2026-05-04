@@ -127,9 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It can be learned from the first paragraph that unions have enlarged their public-sector membership." `[真题]`
-> - "You have to apply for membership of the sports club." `[COCA-ACAD]`
-> - "Annual membership is twenty-five pounds." `[BNC-SPOKEN]`
+> - It can be learned from the first paragraph that unions have enlarged their public-sector membership. `[真题]`
+> - You have to apply for membership of the sports club. `[COCA-ACAD]`
+> - Annual membership is twenty-five pounds. `[BNC-SPOKEN]`
 
 
 ---

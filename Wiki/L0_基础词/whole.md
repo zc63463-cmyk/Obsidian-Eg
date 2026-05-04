@@ -129,8 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "On the whole, the economy has shown signs of recovery."（总的来说，经济已显示出复苏的迹象。）
-> - "We need to look at the problem as a whole."（我们需要从整体上看这个问题。）
+> - The researchers proposed a whole solution to the problem. `[例]`
+> - The company adopted a whole approach to improve efficiency. `[例]`
+> - The plan offers a whole option for small organizations. `[例]`
 
 
 ---

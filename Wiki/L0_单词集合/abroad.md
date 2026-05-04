@@ -124,9 +124,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She has never been abroad before."（她以前从未出过国）——考研阅读常见表达
-> - "The news soon spread abroad."（消息很快传遍了各地）——描述信息传播
-> - "He returned from abroad last week."（他上周从国外回来了）——描述归国
+> - We always go abroad in the summer. `[例]`
+>   - 中译：我们总是在夏天出国。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/abroad
+> - He's currently abroad on business. `[例]`
+>   - 中译：他目前在国外出差。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/abroad
+> - He wanted the best for his children - good schools , a nice house and trips abroad. `[例]`
+>   - 中译：他希望为他的孩子提供最好的东西——好的学校、漂亮的房子和出国旅行。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/abroad
 
 ---
 

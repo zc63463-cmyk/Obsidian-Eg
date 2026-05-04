@@ -141,8 +141,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She slipped on the ice . `[例]`
-> - Careful you don't slip - there's water on the floor . `[例]`
+> - She slipped on the ice. `[例]`
+> - Careful you don't slip - there's water on the floor. `[例]`
 > - The razor slipped while he was shaving and he cut himself. `[例]`
 
 

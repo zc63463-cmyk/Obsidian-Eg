@@ -132,9 +132,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - I can't untie the knot - it's too tight . `[例]`
-> - Alice's hair is always full of knots and tangles . `[例]`
-> - Knots of anxious people stood waiting in the hall . `[例]`
+> - I can't untie the knot - it's too tight. `[例]`
+> - Alice's hair is always full of knots and tangles. `[例]`
+> - Knots of anxious people stood waiting in the hall. `[例]`
 
 
 ---

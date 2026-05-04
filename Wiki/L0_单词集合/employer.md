@@ -125,9 +125,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - According to reports, the U.S. military is the largest **employer** in the country. `` `[COCA-NEWS]` ``
-> - He had been sent to Rome by his **employer**. `` `[COCA-FICT]` ``
-> - It is a privilege to work for such an excellent **employer**. `` `[COCA-ACAD]` ``
+> - Without enough affordable housing in southern New Hampshire towns, "employers are having a hard time attracting employees, and workers are having a hard time finding a place to live, " Taylor said. `[真题]`
+>   - 中译：泰勒说，新罕布什尔州南部城镇没有足够的经济适用房，“雇主很难吸引雇员，工人也很难找到住处”。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - She was fired after she was caught stealing from her employer. `[例]`
+>   - 中译：她因偷窃雇主物品而被解雇。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/employer
+> - He gets paid a good wage , because he works for a fair employer. `[例]`
+>   - 中译：他得到了不错的工资，因为他为一个公平的雇主工作。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/employer
 
 ---
 

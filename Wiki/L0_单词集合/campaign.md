@@ -136,9 +136,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "launch a national campaign against smoking"（发起全国性反吸烟运动）——考研阅读社会类话题高频搭配
-> - "presidential election campaign"（总统竞选活动）——考研阅读政治类话题常见表达
-> - "an advertising campaign aimed at young consumers"（针对年轻消费者的广告宣传活动）——商业类阅读语境
+> - The protests were part of their campaign against the proposed building development in the area. `[例]`
+>   - 中译：这些抗议活动是他们反对该地区拟议建筑开发活动的一部分。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/campaign
+> - The government have just launched (= begun ) their annual campaign to stop drunken driving. `[例]`
+>   - 中译：政府刚刚发起（=开始）他们的年度制止醉酒驾驶运动。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/campaign
+> - The ad agency created a controversial campaign featuring teenagers throwing red paint over public buildings. `[例]`
+>   - 中译：该广告公司发起了一项颇具争议的活动，其中青少年在公共建筑上泼洒红色油漆。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/campaign
 
 ---
 

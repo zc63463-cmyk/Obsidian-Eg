@@ -126,10 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Many employees derive greater satisfaction from meaningful work and recognition than from financial rewards alone." `[真题]`
-> - "The consumer protection law ensures that buyers can seek satisfaction from manufacturers for defective products." `[真题]`
-> - "I derive great satisfaction from their pleasure if I get my job right." `[权威语料]`
-> - "Employees may experience a twisted sense of satisfaction when a colleague fails to achieve a promotion." `[权威语料]`
+> - Many employees derive greater satisfaction from meaningful work and recognition than from financial rewards alone. `[真题]`
+> - The consumer protection law ensures that buyers can seek satisfaction from manufacturers for defective products. `[真题]`
+> - Employees may experience a twisted sense of satisfaction when a colleague fails to achieve a promotion. `[例]`
 
 
 ---

@@ -3,10 +3,8 @@ title: "taxation"
 tags:
   - 学习/英语/词汇
   - 语义场/资本经济
-  - 掌握/L0
 aliases: []
 date: 2026-04-25
-mastery: L0
 word_freq: 超纲词
 semantic_field: 资本经济
 prototype: 征税（政府向公民征收税款的行为）
@@ -43,7 +41,7 @@ tax（税）+ -ation（名词后缀，表示动作或状态）。
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**征税**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **征税**（行为层面）
@@ -64,7 +62,7 @@ tax（税）+ -ation（名词后缀，表示动作或状态）。
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +73,7 @@ tax（税）+ -ation（名词后缀，表示动作或状态）。
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > tax（税）+ -ation（名词后缀）= taxation（征税）。政府通过 taxation system（税收制度）向公民征税。heavy taxation（重税）让企业不堪重负。taxation 是国家运转的经济命脉。
@@ -87,7 +85,7 @@ tax（税）+ -ation（名词后缀，表示动作或状态）。
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +98,13 @@ tax（税）+ -ation（名词后缀，表示动作或状态）。
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[subsidy]]：补贴（taxation 的反义：征税↔补贴）
 > - [[exemption]]：免税（taxation 的反义：征税↔免税）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,7 +117,7 @@ tax（税）+ -ation（名词后缀，表示动作或状态）。
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **taxation system**：税收制度
 > - **taxation policy**：税收政策
 > - **heavy taxation**：重税
@@ -129,19 +127,12 @@ tax（税）+ -ation（名词后缀，表示动作或状态）。
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - The proposals restrict investors ' ability to shelter their assets from taxation. `[例]`
-> - Reform of the country's taxation system is high on the Government's economic agenda . `[例]`
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-25 | **复习次数**：0 | **当前等级**：L0
-
----
+> - Reform of the country's taxation system is high on the Government's economic agenda. `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

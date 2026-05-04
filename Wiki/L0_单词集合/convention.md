@@ -128,9 +128,15 @@ con-(共同、一起) + vent-(=venire，来) + -ion(名词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The BIO recently held a convention which included sessions to coach lawyers on the shifting landscape for patents. `[真题]`
-> - It takes more than a brief encounter on a bus to distinguish between courteous convention and individual interest. `[真题]`
-> - By convention, the bride wears white at the wedding ceremony. `[COCA-ACAD]`
+> - Where are they holding their party convention? `[例]`
+>   - 中译：他们在哪里召开党代会？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/convention
+> - She addressed hundreds of attendees at the International Reading Association's annual convention. `[例]`
+>   - 中译：她在国际阅读协会年度大会上向数百名与会者发表了讲话。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/convention
+> - Thousands of people were in town for the country's largest annual comic book convention. `[例]`
+>   - 中译：数千人聚集在城里参加全国最大的年度漫画大会。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/convention
 
 ---
 

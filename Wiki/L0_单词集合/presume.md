@@ -130,8 +130,15 @@ pre-(在……之前) + sume(拿取) + -e
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "We should not presume that all consumers share the same preference."（我们不该擅自认定所有消费者都拥有相同的偏好。）——2017年阅读Text2
-> - "He says medical licensing boards "must make it clear that painful deaths are presumptively ones that are incompetently managed and should result in license suspension.""（他说，行医资格理事会"必须明确表明——病人痛苦地死亡，可以推定是由于医生处理不力造成的，应该因此吊销其从医资格。"）——2002年阅读4
+> - I presume (that) they're not coming, since they haven't replied to the invitation. `[例]`
+>   - 中译：我推测他们不会来，因为他们还没有回复邀请。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/presume
+> - You are Dr Smith, I presume? `[例]`
+>   - 中译：我想你是史密斯博士吧？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/presume
+> - The boat's captain is missing , presumed dead (= it is believed that he is dead ). `[例]`
+>   - 中译：船长失踪，推测已死亡（= 据信他已经死了）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/presume
 ---
 
 

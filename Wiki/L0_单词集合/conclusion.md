@@ -136,9 +136,15 @@ con-(一起/加强) + [[ced-cess|clus]](关闭) + -ion(名词后缀) = conclusio
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "In conclusion, the evidence strongly supports the hypothesis that climate change is accelerating."（总之，证据有力地支持了气候变化正在加速这一假设。）——考研高频表达
-> - "They jumped to conclusions without examining all the available evidence."（他们没有核实所有可用的证据就草率下结论。）——考研高频表达
-> - "The committee reached the conclusion that further research was needed before any policy changes could be made."（委员会得出的结论是，在做出任何政策变更之前需要进一步的研究。）——考研高频表达
+> - Be careful not to introduce new ideas in the conclusion of your essay. `[例]`
+>   - 中译：注意不要在论文的结论中引入新的想法。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/conclusion
+> - In conclusion, I would like to thank our guest speaker. `[例]`
+>   - 中译：最后，我要感谢我们的演讲嘉宾。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/conclusion
+> - The conclusion of your essay is good, but the final sentence is too long and complicated. `[例]`
+>   - 中译：你论文的结论很好，但最后的句子太长太复杂。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/conclusion
 
 ---
 

@@ -133,9 +133,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - He held her in his arms (= held her closely ) . `[例]`
-> - She threw her arms around me and gave me a hug . `[例]`
-> - My arms ache from carrying this bag . `[例]`
+> - He escaped with only a broken arm. `[例]`
+>   - 中译：他逃脱时只断了一条手臂。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/arm
+> - Pearl wrapped her arms around her son and hugged him tightly. `[例]`
+>   - 中译：珀尔用双臂搂住儿子，紧紧地拥抱着他。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/arm
+> - She threw her arms around his neck. `[例]`
+>   - 中译：她伸出双臂搂住他的脖子。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/arm
 
 
 ---

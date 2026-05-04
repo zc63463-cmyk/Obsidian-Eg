@@ -131,9 +131,15 @@ in-(加强) + [[tend-tens|tens-/tend-]](伸展→拉紧) + -ity(名词后缀，�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Beethoven's habit of increasing the volume with an extreme intensity and then abruptly following it with a sudden soft passage was only rarely used by composers before him. `[真题]`
-> - Simone sings with emotional intensity. `[COCA-ACAD]`
-> - The light hit us with such intensity that we ducked. `[COCA-ACAD]`
+> - The explosion was of such intensity that it was heard five miles away. `[例]`
+>   - 中译：爆炸的强度如此之大，以至于五英里外都能听到。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/intensity
+> - The intensity of their relationship was causing problems. `[例]`
+>   - 中译：他们关系的紧张导致了问题。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/intensity
+> - Scientists use the instrument to measure the intensity of the light. `[例]`
+>   - 中译：科学家使用该仪器来测量光的强度。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/intensity
 
 ---
 

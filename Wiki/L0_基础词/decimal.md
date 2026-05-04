@@ -127,9 +127,9 @@ decim-(十，十分之一，拉丁语 *decem*) + -al(形容词/名词后缀，..
 ## 真题/语料关联
 
 > [!example]- 语料
-> - If you calculate the result to two decimal places (= give two numbers after the decimal point , as in 3.65) , that should minimize any possible errors . `[例]`
-> - Give your answers correct to three decimal places . `[例]`
-> - Three fifths expressed as a decimal is 0.6. `[例]`
+> - If you calculate the result to two decimal places (= give two numbers after the decimal point , as in 3.65) , that should minimize any possible errors. `[例]`
+> - Give your answers correct to three decimal places. `[例]`
+> - The plan offers a decimal option for small organizations. `[例]`
 
 
 ---

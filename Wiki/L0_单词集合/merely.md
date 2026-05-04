@@ -124,8 +124,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - "The report is merely a summary of existing research rather than a new study."（这份报告仅仅是对现有研究的总结，而不是一项新的研究。）——考研阅读真题
-> - "She was not merely talented — she was a genius."（她不仅仅是有才华——她是一个天才。）——考研高频表达
+> - I wasn't complaining , I merely said that I was tired. `[例]`
+>   - 中译：我没有抱怨，我只是说我累了。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/merely
+> - I didn't say that you had to go - I merely suggested that you might want to go. `[例]`
+>   - 中译：我并没有说你必须去——我只是建议你可能想去。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/merely
+> - The medicine won't cure her - it merely stops the pain. `[例]`
+>   - 中译：这药不能治愈她——它只能止痛。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/merely
 
 ---
 

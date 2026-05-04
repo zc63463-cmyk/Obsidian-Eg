@@ -137,10 +137,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The congresswoman said she was resigning, but refused to elaborate on her reasons for doing so. `[COCA-ACAD]`
-> - She was asked to say more about her earlier statements, but she declined to elaborate. `[COCA-ACAD]`
-> - The government has elaborate plans for economic reform. `[COCA-ACAD]`
-> - Could you elaborate on that point? `[COCA-ACAD]`
+> - You want a plain blouse to go with that skirt - nothing too elaborate. `[例]`
+>   - 中译：你想要一件朴素的衬衫来搭配那条裙子——不要太精致。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/elaborate
+> - They're making the most elaborate preparations for the wedding. `[例]`
+>   - 中译：他们正在为婚礼做最精心的准备。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/elaborate
+> - The dancers leading the procession were in colourful and elaborate costumes. `[例]`
+>   - 中译：引领游行队伍的舞者穿着色彩鲜艳、精美的服装。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/elaborate
 
 ---
 

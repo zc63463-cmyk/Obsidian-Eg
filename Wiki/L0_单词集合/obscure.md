@@ -142,9 +142,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Official policy has changed , for reasons that remain obscure. `[例]`
-> - His answers were obscure and confusing . `[例]`
-> - Two new skyscrapers had sprung up, obscuring the view from her window . `[例]`
-> - The sun was obscured by clouds . `[例]`
+>   - 中译：官方政策发生了变化，原因尚不清楚。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/obscure
+> - His answers were obscure and confusing. `[例]`
+>   - 中译：他的回答晦涩难懂。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/obscure
+> - Two new skyscrapers had sprung up, obscuring the view from her window. `[例]`
+>   - 中译：两座新的摩天大楼拔地而起，遮住了窗外的景色。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/obscure
 
 ---
 

@@ -128,10 +128,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "In the worst-case scenario, the company could go bankrupt within six months if no measures are taken." `[真题]`
-> - "The most likely scenario is that an investment firm buys the building." `[语料库]`
-> - "A doomsday scenario is not out of the question." `[语料库]`
-> - "The government has considered various possible scenarios." `[语料库]`
+> - In the worst-case scenario, the company could go bankrupt within six months if no measures are taken. `[真题]`
+> - The most likely scenario is that an investment firm buys the building. `[例]`
+> - A doomsday scenario is not out of the question. `[例]`
+> - The government has considered various possible scenarios. `[例]`
 
 
 ---

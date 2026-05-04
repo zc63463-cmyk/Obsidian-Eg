@@ -138,7 +138,7 @@ long 源自古英语 *lang*（长的），与 length 同源。
 > [!example]- 语料
 > - Citation cartels, where journals, authors, and institutions conspire to inflate citation numbers , have existed for a long time. `[真题]`
 > - Though Native Americans ( and later miners and fur trappers) had long recognized the area's riches, most Americans did not. `[真题]`
-> - I've been waiting a long time . `[例]`
+> - I've been waiting a long time. `[例]`
 
 
 ---

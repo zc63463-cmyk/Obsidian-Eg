@@ -137,10 +137,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The money will be used for teacher training schemes. `[COCA-ACAD]`
-> - The project is based on a successful pilot scheme in Glasgow. `[COCA-ACAD]`
-> - The government set up a new scheme to boost exports. `[COCA-ACAD]`
-> - There is a low-interest loan scheme for employees who have been with the company for over two years. `[COCA-ACAD]`
+> - There's a new scheme in our town for recycling plastic bottles. `[例]`
+>   - 中译：我们镇有一项回收塑料瓶的新计划。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/scheme
+> - Class sizes will increase under the new scheme. `[例]`
+>   - 中译：根据新计划，班级规模将会增加。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/scheme
+> - The scheme is simple and cheap to operate. `[例]`
+>   - 中译：该方案简单、操作成本低。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/scheme
 
 ---
 

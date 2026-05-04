@@ -129,8 +129,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The format of the examination has been changed to include more essay questions."（考试形式已经改变，增加了更多的论述题。）——考研高频表达
-> - "The data is available in both digital and print formats."（数据以数字和印刷两种格式提供。）——考研高频表达
+> - The meeting will have the usual format - introductory session , group work and then a time for reporting back. `[例]`
+>   - 中译：会议将采用通常的形式——介绍性会议、小组工作，然后是汇报时间。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/format
+> - You can use the device to scan the image and reproduce it on-screen in an electronic format. `[例]`
+>   - 中译：您可以使用该设备扫描图像并以电子格式将其复制在屏幕上。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/format
+> - The new format has unanimous support and could be introduced next season. `[例]`
+>   - 中译：新的赛制得到了一致支持，可能会在下赛季推出。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/format
 
 
 ---

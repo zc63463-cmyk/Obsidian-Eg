@@ -125,9 +125,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The police want to discuss these recent racist attacks with local people . `[例]`
-> - The later chapters discuss the effects on the environment . `[例]`
-> - We have been discussing the possibility of working together. `[例]`
+> - The police want to discuss these recent racist attacks with local people. `[例]`
+>   - 中译：警方希望与当地人讨论最近发生的这些种族主义袭击事件。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/discuss
+> - The later chapters discuss the effects on the environment. `[例]`
+>   - 中译：后面的章节讨论了对环境的影响。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/discuss
+> - Draft a proposal for the project and we can discuss it at the meeting. `[例]`
+>   - 中译：起草一个项目提案，我们可以在会议上讨论。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/discuss
 
 ---
 

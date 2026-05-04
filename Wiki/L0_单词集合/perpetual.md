@@ -124,10 +124,15 @@ per-(贯穿/始终) + pet(追求/奔向) + -ual(形容词后缀，表"…的")
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Such policies only perpetuate inequality in society. `[真题]`
-> - The country seems to be in a perpetual state of chaos. `[COCA-ACAD]`
-> - Government and parliament are in a state of perpetual conflict. `[COCA-ACAD]`
-> - The capital stock is derived by the perpetual inventory method. `[COCA-ACAD]`
+> - They lived in perpetual fear of being discovered. `[例]`
+>   - 中译：他们永远生活在害怕被发现的恐惧之中。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/perpetual
+> - He has hard, cold eyes and his mouth is set in a perpetual sneer. `[例]`
+>   - 中译：他目光冷酷，嘴角始终挂着冷笑。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/perpetual
+> - She resented his perpetual complaining about her cooking. `[例]`
+>   - 中译：她讨厌他总是抱怨她做饭。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/perpetual
 
 ---
 

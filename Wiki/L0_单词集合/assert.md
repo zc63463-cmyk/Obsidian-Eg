@@ -125,10 +125,15 @@ as-(=ad-，朝向，加强) + [[sert]](加入，放置) → "坚定地放置自�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - He asserted that he was innocent of all charges. `[真题]`
-> - Citizens should learn to assert their rights under the law. `[COCA-ACAD]`
-> - She had to assert herself to be taken seriously at work. `[COCA-MAG]`
-> - The report asserts that the company knowingly sold defective products. `[例]`
+> - I really must assert myself more in meetings. `[例]`
+>   - 中译：我确实必须在会议中更加坚持自己的立场。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/assert
+> - Don't be afraid to assert yourself and make your views clear. `[例]`
+>   - 中译：不要害怕坚持自己的观点并明确表达你的观点。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/assert
+> - Refusing to help with the housework was his way of asserting himself. `[例]`
+>   - 中译：拒绝帮忙做家务是他维护自己权利的方式。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/assert
 
 ---
 

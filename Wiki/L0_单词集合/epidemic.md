@@ -121,9 +121,15 @@ epi-(在…之上) + [[dem|demos]](人民) + -ic(形容词后缀，…的)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The obesity epidemic has become one of the most serious public health challenges of our time. `[真题]`
-> - Doctors are struggling to contain the epidemic. `[COCA-ACAD]`
-> - The opioid epidemic in the United States has led to a significant increase in overdose deaths. `[COCA-NEWS]`
+> - Poverty in this country has reached epidemic proportions. `[例]`
+>   - 中译：这个国家的贫困已经达到了流行病的程度。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/epidemic
+> - Crime and poverty are epidemic in the city. `[例]`
+>   - 中译：犯罪和贫困在这座城市十分普遍。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/epidemic
+> - An epidemic of measles broke out, and over 200 children died. `[例]`
+>   - 中译：麻疹疫情爆发，200多名儿童死亡。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/epidemic
 
 ---
 

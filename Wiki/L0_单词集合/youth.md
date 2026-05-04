@@ -140,9 +140,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - I was a fairly good football player in my youth. `[例]`
-> - The first volume is the author's account of his misspent youth in the bars of Dublin. `[例]`
-> - He looks like a man who's found the secret to eternal youth (= staying young ) . `[例]`
+> - He had been a talented musician in his youth. `[例]`
+>   - 中译：他年轻时曾是一位才华横溢的音乐家。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/youth
+> - She regrets that she spent her youth travelling and not studying. `[例]`
+>   - 中译：她很遗憾自己的青春时光花在旅行上而不是学习上。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/youth
+> - He joked that being good at cards was the sign of a misspent youth (= having wasted his time when he was young). `[例]`
+>   - 中译：他开玩笑说，打牌好是青春浪费的表现。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/youth
 
 ---
 

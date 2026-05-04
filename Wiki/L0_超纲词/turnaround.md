@@ -3,10 +3,8 @@ title: "turnaround"
 tags:
   - 学习/英语/词汇
   - 语义场/资本经济
-  - 掌握/L0
 aliases: []
 date: 2026-04-25
-mastery: L0
 word_freq: 超纲词
 semantic_field: 资本经济
 prototype: 转身（改变方向的动作）
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**转身（改变方向的动作）**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **转身**（物理动作层面）
@@ -67,7 +65,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > turn（转）+ around（过来）→ 想象一家濒临破产的工厂，所有人都以为它完了。新CEO上任，大刀阔斧改革——半年后，工厂从亏损一个亿变成盈利两千万。这就是 turnaround——企业"转过来了"。同样，你提交一份报告，要求24小时内 turnaround——24小时内"转一圈"回来。turnaround 就是"转过来"：方向转过来、时间转一圈、命运转过来。
@@ -90,7 +88,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[downturn]]：衰退，下降（经济/局势反义：好转↔恶化）
 > - [[deterioration]]：恶化，退化（状态反义：好转↔恶化）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -127,7 +125,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a dramatic/remarkable turnaround**：戏剧性的好转
   - The company achieved a remarkable turnaround under the new management.
 > - **turnaround time**：周转时间
@@ -141,19 +139,12 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - We'll have to improve the turnaround - three days is too long . `[例]`
-> - Turnaround time for each order is, on average , four days . `[例]`
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-25 | **复习次数**：0 | **当前等级**：L0
-
----
+> [!example]- 语料
+> - We'll have to improve the turnaround - three days is too long. `[例]`
+> - Turnaround time for each order is, on average , four days. `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

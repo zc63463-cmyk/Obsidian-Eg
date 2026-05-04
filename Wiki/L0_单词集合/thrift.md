@@ -134,9 +134,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The reverse of the old threepence coin , designed by Frances Madge Kitchener, showed a thrift plant . `[例]`
-> - These days , thrifts place most of their money into boring but safe mortgages . `[例]`
-> - I thrifted all my clothes for a year . `[例]`
+> - Teak outdoor furniture is an especially valuable thrift store find. `[例]`
+>   - 中译：柚木户外家具是旧货店里特别有价值的发现。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/thrift
+> - Instead, plan to drop the items off at your local nonprofit thrift store the same day. `[例]`
+>   - 中译：相反，计划在当天将物品送到当地的非营利性旧货店。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/thrift
+> - Ahead, an InStyle writer asked a group of It girls the best brands to thrift for online. `[例]`
+>   - 中译：前方，一位 InStyle 作家向一群 It girls 询问了最适合在网上省钱的品牌。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/thrift
 
 ---
 

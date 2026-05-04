@@ -130,9 +130,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "I was shivering with cold." `[真题]`
-> - "She shivered involuntarily as he approached her." `[真题]`
-> - "A shiver of cold ran through him when he stepped outside." `[真题]`
+> - I was shivering with cold. `[真题]`
+> - She shivered involuntarily as he approached her. `[真题]`
+> - A shiver of cold ran through him when he stepped outside. `[真题]`
 
 
 ---

@@ -130,8 +130,15 @@ com-(共同，一起) + bi(二，两) + -ne
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - "The study combines data from multiple sources to provide a comprehensive analysis."（该研究结合了来自多个来源的数据，提供了全面的分析。）——考研阅读真题
-> - "Students should combine theoretical knowledge with practical experience."（学生应该将理论知识与实践经验相结合。）——考研高频表达
+> - None of us has much money so let's combine what we've got. `[例]`
+>   - 中译：我们都没有多少钱，所以让我们结合我们所拥有的。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/combine
+> - Sickness, combined with (= together with) terrible weather , contrived to ruin the trip. `[例]`
+>   - 中译：疾病加上恶劣的天气，故意毁掉了这次旅行。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/combine
+> - The two countries combined against their common enemy. `[例]`
+>   - 中译：两国联合起来对抗共同的敌人。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/combine
 
 ---
 

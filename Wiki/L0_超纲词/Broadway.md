@@ -3,10 +3,8 @@ title: "Broadway"
 tags:
   - 学习/英语/词汇
   - 语义场/社会习俗
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 社会习俗
 prototype: 百老汇大街（纽约戏剧中心）
@@ -43,7 +41,7 @@ broad(宽的) + way(路)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**百老汇大街（纽约戏剧中心）**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **百老汇大街**（地理层面）
@@ -64,7 +62,7 @@ broad(宽的) + way(路)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ broad(宽的) + way(路)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > broad（宽的）+ way（路）→ Broadway（百老汇）。纽约曼哈顿的一条宽路，两旁聚集了无数剧院，成为美国戏剧和音乐剧的圣地。"on Broadway" 就是在百老汇演出，意味着登上了美国戏剧的最高舞台。
@@ -86,7 +84,7 @@ broad(宽的) + way(路)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -98,13 +96,13 @@ broad(宽的) + way(路)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[off-Broadway]]：外百老汇（商业戏剧↔实验戏剧）
 > - [[off-off-Broadway]]：外外百老汇（更小型的实验戏剧）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -114,7 +112,7 @@ broad(宽的) + way(路)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a Broadway show**：百老汇演出
 > - **Broadway musical**：百老汇音乐剧
 > - **on Broadway**：在百老汇上演
@@ -122,19 +120,12 @@ broad(宽的) + way(路)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - The new musical premiered on Broadway last month and received standing ovations. `[例]`
 > - She has been performing in Broadway productions for over two decades. `[例]`
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
-
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -126,7 +126,7 @@ handful = [[hand]]（手）+ [[full]]（满的）。手握满 = 一把。这是�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - He pulled out a handful of coins from his pocket . `[例]`
+> - He pulled out a handful of coins from his pocket. `[例]`
 > - She invited all her friends to her party , but only a handful of them turned up. `[例]`
 > - Her older son is fine but the little one is a bit of a handful. `[例]`
 

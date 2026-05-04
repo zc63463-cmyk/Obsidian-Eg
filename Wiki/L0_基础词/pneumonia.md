@@ -126,7 +126,7 @@ pneumon-(肺，希腊语 *pneumōn*) + -ia(疾病/状态后缀)
 
 > [!example]- 语料
 > - People who are bedridden can easily get pneumonia. `[例]`
-> - She'll catch pneumonia going out without a coat in this weather ! `[例]`
+> - She'll catch pneumonia going out without a coat in this weather! `[例]`
 > - Pneumococcal Adults 50 and older are now eligible for the pneumococcal vaccine, which protects against a bacterial infection that can cause pneumonia and other serious illnesses, Nadolne said. `[例]`
 
 

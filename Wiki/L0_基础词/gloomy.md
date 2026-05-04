@@ -131,9 +131,9 @@ gloom(阴暗) + -y(充满……的) → 充满阴暗的
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "But such gloominess is misplaced." `[真题]`
-> - "It was a wet and gloomy day." `[语料库]`
-> - "The economic situation of the western industrialized countries is gloomy." `[语料库]`
+> - The researchers proposed a gloomy solution to the problem. `[真题]`
+> - It was a wet and gloomy day. `[例]`
+> - The economic situation of the western industrialized countries is gloomy. `[例]`
 
 
 ---

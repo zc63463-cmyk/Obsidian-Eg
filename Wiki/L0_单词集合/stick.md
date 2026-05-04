@@ -133,9 +133,15 @@ stick 源自原始日耳曼语 *stik-（刺、戳），与 [[stim/sting]] 同源
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Small publishers ought to stick together. `[真题]`
-> - The old man was carrying a load of sticks. `[例]`
-> - Police said that the child had been beaten with a stick. `[例]`
+> - We used glue to stick the broken pieces together. `[例]`
+>   - 中译：我们用胶水把碎片粘在一起。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/stick
+> - Her wet clothes were sticking to her body. `[例]`
+>   - 中译：湿漉漉的衣服粘在身上。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/stick
+> - The glue's useless—the pieces just won't stick. `[例]`
+>   - 中译：胶水没用——碎片粘不牢。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/stick
 ---
 
 

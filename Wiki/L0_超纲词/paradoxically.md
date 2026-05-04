@@ -3,10 +3,8 @@ title: "paradoxically"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-25
-mastery: L0
 word_freq: 超纲词
 semantic_field: 理性世界
 prototype: 与预期相反地
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**与预期相反地**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **与预期相反地**（逻辑判断层面）
@@ -65,7 +63,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > 希腊语 *para*（旁边/相反）+ *doxa*（意见）= 与通常意见相反。想象你参加考试，越紧张越出错——paradoxically, the harder he tried, the worse he got. "矛盾的是，他越努力反而越糟。" paradoxically 就是"偏偏相反地"。
@@ -89,7 +87,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,14 +100,14 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[predictably]]：可预测地，不出所料地（paradoxically 的反义：与预期相反↔符合预期）
 > - [[logically]]：合乎逻辑地（paradoxically 的反义：矛盾地↔逻辑一致地）
 > - [[consistently]]：一致地（paradoxically 的反义：矛盾地↔始终如一地）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -121,26 +119,19 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **Paradoxically, ...**：矛盾的是，……（常用于句首，引出与预期相反的结果）
 > - **paradoxically enough**：矛盾的是（用于句末或句中强调）
 > - **behave paradoxically**：行为矛盾地
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - `[例]` Paradoxically, the more connected we are through technology, the more isolated we feel.
-> - `[例]` Paradoxically, economic growth does not always lead to improved living standards.
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-25 | **复习次数**：0 | **当前等级**：L0
-
----
+> [!example]- 语料
+> - The big thing in video equipment is, paradoxically, sound. `[例]`
+> - Paradoxically, the cleaner lakes have made it easier for foreign species to thrive. `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

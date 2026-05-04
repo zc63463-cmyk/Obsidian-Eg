@@ -126,9 +126,15 @@ bad（坏的）+ -ly（副词后缀，表示"以……的方式"）。bad 的词
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The country badly needs investment in infrastructure to support its growing population and expanding economy." [COCA]
-> - "The old building was badly damaged in the earthquake and had to be demolished for safety reasons." [COCA]
-> - "He badly needs help." [COCA]
+> - Things have been going badly. `[例]`
+>   - 中译：事情进展得很糟糕。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/badly
+> - I did badly (= was not successful) in my exams. `[例]`
+>   - 中译：我的考试成绩很差（=没有成功）。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/badly
+> - The kids took the dog's death very badly (= they were very unhappy). `[例]`
+>   - 中译：孩子们对狗的死感到非常难过（=他们非常不高兴）。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/badly
 
 
 ---

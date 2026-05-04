@@ -3,10 +3,8 @@ title: "thoughtless"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-25
-mastery: L0
 word_freq: 超纲词
 semantic_field: 人本世界
 prototype: 不考虑别人的（缺乏思考的）
@@ -43,7 +41,7 @@ thought（思考）+ -less（没有…的，否定后缀）。
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**不考虑别人的**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **不考虑别人的**（社交层面）
@@ -64,7 +62,7 @@ thought（思考）+ -less（没有…的，否定后缀）。
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +73,7 @@ thought（思考）+ -less（没有…的，否定后缀）。
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > thought（思考）+ -less（没有）= thoughtless（没有思考的）。你在别人面前说了一句 thoughtless remark（欠考虑的话），伤了别人的心——因为你"没有思考"别人的感受。
@@ -87,7 +85,7 @@ thought（思考）+ -less（没有…的，否定后缀）。
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -100,13 +98,13 @@ thought（思考）+ -less（没有…的，否定后缀）。
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[thoughtful]]：体贴的，深思熟虑的（thoughtless 的精确反义：不考虑↔体贴）
 > - [[considerate]]：顾及他人的（thoughtless 的反义：不顾及↔顾及）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,7 +117,7 @@ thought（思考）+ -less（没有…的，否定后缀）。
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **a thoughtless remark**：一句欠考虑的话
 > - **a thoughtless decision**：一个轻率的决定
 > - **thoughtless behavior**：不顾及他人的行为
@@ -127,19 +125,12 @@ thought（思考）+ -less（没有…的，否定后缀）。
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - It was thoughtless not to call and say you'd be late. `[例]`
 > - She's not intentionally unkind - she's just a little thoughtless sometimes. `[例]`
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-25 | **复习次数**：0 | **当前等级**：L0
-
----
-
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

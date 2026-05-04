@@ -132,9 +132,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - These measures are designed to deter an enemy attack . `[例]`
-> - High prices are deterring many young people from buying houses . `[例]`
-> - High prices are deterring a lot of young couples from buying houses . `[例]`
+> - These measures are designed to deter an enemy attack. `[例]`
+>   - 中译：这些措施旨在阻止敌人的攻击。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/deter
+> - High prices are deterring many young people from buying houses. `[例]`
+>   - 中译：高房价让很多年轻人望而却步。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/deter
+> - High prices are deterring a lot of young couples from buying houses. `[例]`
+>   - 中译：高房价让很多年轻夫妇望而却步。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/deter
 
 ---
 

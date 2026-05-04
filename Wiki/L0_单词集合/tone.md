@@ -128,9 +128,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - I tried to use a sympathetic tone of voice . `[例]`
-> - It wasn't so much what she said that annoyed me - it was her tone. `[例]`
-> - She recounted the story to me in shocked tones (= in a shocked voice ) . `[例]`
+> - There's not need to take that tone (= speak critically or rudely) with me—it's not my fault we're late. `[例]`
+>   - 中译：没必要对我采取这种语气（=批评或粗鲁地说话）——我们迟到不是我的错。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/tone
+> - The overall tone of the book is gently nostalgic. `[例]`
+>   - 中译：本书的整体基调是温和怀旧的。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/tone
+> - She set the tone for the meeting with a firm statement of company policy. `[例]`
+>   - 中译：她以坚定的公司政策声明为会议定下了基调。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/tone
 
 ---
 

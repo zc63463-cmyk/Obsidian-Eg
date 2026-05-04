@@ -127,9 +127,15 @@ opt(选择，源自拉丁语 optare "选择") + -ion(名词后缀，表动作或
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The best option would be to cancel the trip altogether . `[例]`
+> - The best option would be to cancel the trip altogether. `[例]`
+>   - 中译：最好的选择是完全取消这次旅行。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/option
 > - There are various options open to someone who is willing to work hard. `[例]`
-> - The publishers decided not to take up their option on the paperback version . `[例]`
+>   - 中译：对于愿意努力工作的人来说，有多种选择。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/option
+> - The publishers decided not to take up their option on the paperback version. `[例]`
+>   - 中译：出版商决定不接受平装本的选择。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/option
 
 ---
 

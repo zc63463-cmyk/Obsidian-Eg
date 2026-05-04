@@ -125,10 +125,15 @@ im-(=in，进入) + press(=press，按压) + -ion(名词后缀，表动作/结�
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - `The first impression is often the most lasting one.` `[真题]`
-> > - `She gave the impression of being confident and capable.` `[真题]`
-> > - `I was under the impression that the work had already been completed.` `[COCA-ACAD]`
-> > - `The soldiers scattered, under the impression that it was an enemy attack.` `[COCA-ACAD]`
+> - I didn't get much of an impression of the place because it was dark when we drove through it. `[例]`
+>   - 中译：我对这个地方没有太多印象，因为我们开车经过的时候天已经黑了。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/impression
+> - What was your impression of Charlotte's husband? `[例]`
+>   - 中译：你对夏洛特的丈夫印象如何？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/impression
+> - I don't tend to trust first impressions (= the opinion you form when you meet someone or see something for the first time ). `[例]`
+>   - 中译：我不倾向于相信第一印象（=当你第一次见到某人或看到某物时形成的看法）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/impression
 
 ---
 

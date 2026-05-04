@@ -130,9 +130,9 @@ deed 源自古英语 *dēd*（做、行为），是 do 的名词形式（do 的�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - It seems to me that a lot of evil deeds are done in the name of religion . `[例]`
+> - It seems to me that a lot of evil deeds are done in the name of religion. `[例]`
 > - She's always helping people and doing good deeds. `[例]`
-> - Whatever his motives , the deed did save a hundred thousand lives . `[例]`
+> - Whatever his motives , the deed did save a hundred thousand lives. `[例]`
 
 
 ---

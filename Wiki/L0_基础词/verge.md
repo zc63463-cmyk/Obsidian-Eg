@@ -129,10 +129,9 @@ verge（源自拉丁语 *virga*，"杆，枝条"，原指用杆标记的边界�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Carole was on the verge of tears." `[权威语料]`
-> - "A cynic might speculate that the UK is on the verge of disappearing into an endless fever of self-celebration in its desperation to reinvent itself for the post-Brexit world." `[真题]`
-> - "We stand on the verge of an innovation explosion, and at such a vital moment in our technological history, we don't need more skepticism." `[权威语料]`
-> - "The company was on the verge of bankruptcy when a new investor stepped in." `[权威语料]`
+> - Carole was on the verge of tears. `[例]`
+> - A cynic might speculate that the UK is on the verge of disappearing into an endless fever of self-celebration in its desperation to reinvent itself for the post-Brexit world. `[真题]`
+> - The company was on the verge of bankruptcy when a new investor stepped in. `[例]`
 
 
 ---

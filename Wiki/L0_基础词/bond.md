@@ -134,9 +134,15 @@ bond 源自古英语 *bindan*（捆绑），与 [[bind]]（绑）同源。原始
 ## 真题/语料关联
 
 > [!example]- 语料
-> - There has been a close bond between them ever since she saved him from drowning . `[例]`
-> - We entered into a solemn bond. `[例]`
-> - In societies with strong family bonds (= relationships ) , people tend to live longer . `[例]`
+> - A bond of friendship had been forged between them. `[例]`
+>   - 中译：他们之间结下了友谊的纽带。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bond
+> - The agreement strengthened the bonds between the two countries. `[例]`
+>   - 中译：该协议加强了两国之间的联系。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bond
+> - Informal language creates a bond between the members of the community. `[例]`
+>   - 中译：非正式语言在社区成员之间建立了联系。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bond
 
 
 ---

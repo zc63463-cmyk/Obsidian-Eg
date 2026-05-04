@@ -127,8 +127,8 @@ in-(=into, 进入) + vad(=走，拉丁语 *vadere* "走") + -ion(名词后缀，
 
 > [!example]- 语料
 > - The invasion of privacy by social media has raised widespread concern. `[真题]`
-> - The country suffered a series of foreign invasions throughout its history. `[语料库]`
-> - The singer described the photographs of her as an invasion of privacy. `[外刊]`
+> - The country suffered a series of foreign invasions throughout its history. `[例]`
+> - The singer described the photographs of her as an invasion of privacy. `[例]`
 
 
 ---

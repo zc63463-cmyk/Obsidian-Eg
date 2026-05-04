@@ -125,9 +125,15 @@ champagne 源自法语 *Champagne*，原为法国东北部地区名，该地区�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - We always celebrate our wedding anniversary with a bottle of champagne. `[例]`
-> - The champagne corks were popping (= bottles of champagne were opened ) when Guy got his new job . `[例]`
-> - The cool climate and chalky soil are ideal for producing champagne. `[例]`
+> - There are a number of fine champagnes (= types of champagne ) available at very reasonable prices. `[例]`
+>   - 中译：有许多优质香槟（= 香槟的类型），价格非常合理。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/champagne
+> - In contrast to typical airline food drowning in salt and sauces, the culinary offerings aboard Aero are a delight, with meals created in partnership with Erewhon, Spago, Parm, Sadelle’s and Flora Farms along with an open bar of top-shelf spirits and Veuve Clicquot champagne. `[例]`
+>   - 中译：与淹没在盐和酱汁中的典型航空食品不同，Aero 上的美食令人愉悦，餐食是与 Erewhon、Spago、Parm、Sadelle’s 和 Flora Farms 合作制作的，还有开放式酒吧，供应顶级烈酒和 Veuve Clicquot 香槟。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/champagne
+> - Three days later Melville visited Hawthorne for more champagne and a walk. `[例]`
+>   - 中译：三天后，梅尔维尔拜访了霍桑，喝了更多香槟并散步。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/champagne
 
 
 ---

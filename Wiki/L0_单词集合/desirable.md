@@ -121,9 +121,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Reducing class sizes in schools is a desirable aim . `[例]`
-> - It's regarded as a highly desirable job . `[例]`
-> - The house is in a very desirable area of the city . `[例]`
+> - Reducing class sizes in schools is a desirable aim. `[例]`
+>   - 中译：减少学校班级规模是一个理想的目标。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/desirable
+> - It's regarded as a highly desirable job. `[例]`
+>   - 中译：这被认为是一项非常理想的工作。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/desirable
+> - The house is in a very desirable area of the city. `[例]`
+>   - 中译：这所房子位于城市非常理想的地区。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/desirable
 
 ---
 

@@ -122,9 +122,15 @@ re-(反复) + [[quire|quire]](寻求，同源 quest) → 反复寻求 → 需要
 ## 真题/语料关联
 
 > [!example]- 语料
-> - `[真题]` Helping forests flourish as valuable carbon sinks long into the future may require reducing their capacity to absorb carbon now.
-> - `[真题]` All tests require a potential candidate with whom to compare DNA.
-> - `[COCA-ACAD]` The wearing of seat belts is required by law in most countries.
+> - The bill requires every rental host to register with the state , mandates they carry insurance , and opens the potential for local taxes on top of a new state levy. `[真题]`
+>   - 中译：该法案要求每个租赁房东向州政府注册，强制他们购买保险，并在新的州征税基础上开辟了征收地方税的可能性。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - Boston took things even further, requiring renters to register with the city's Inspectional Services Department. `[真题]`
+>   - 中译：波士顿的做法更进一步，要求租房者向该市的检查服务部门登记。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - For questions 41-45, you are required to reorganize these paragraphs into a coherent text by choosing from the list A-H and filHng them into the numbered boxes. `[真题]`
+>   - 中译：对于问题 41-45，您需要从列表 A-H 中进行选择并将其填入编号框中，从而将这些段落重新组织成连贯的文本。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
 
 
 ---

@@ -129,10 +129,10 @@ per-（始终，贯穿，[[per]]）+ man（停留，拉丁语 *manere*）+ -ent�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The accident left him with permanent brain damage. `[语料库]`
-> - They are now living together on a permanent basis. `[语料库]`
-> - She took up permanent residency abroad after years of working as a freelancer. `[语料库]`
-> - Mont Blanc has a permanent snow cap. `[语料库]`
+> - The researchers proposed a permanent solution to the problem. `[例]`
+> - They are now living together on a permanent basis. `[例]`
+> - She took up permanent residency abroad after years of working as a freelancer. `[例]`
+> - Mont Blanc has a permanent snow cap. `[例]`
 
 
 ---

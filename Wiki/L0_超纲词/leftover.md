@@ -3,10 +3,8 @@ title: "leftover"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 物品工具
 prototype: 留下来的东西（使用后剩余的）
@@ -44,7 +42,7 @@ left(leave的过去分词，留下) + over(越过/多余)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**留下来的东西**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **留下来的东西**（时间/使用层面）
@@ -67,7 +65,7 @@ left(leave的过去分词，留下) + over(越过/多余)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ left(leave的过去分词，留下) + over(越过/多余)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > left（留下的）+ over（多余的）→ leftover（剩余物）。想象一顿丰盛的晚餐后，桌上 left（留下）的 over（多余）食物——那就是 leftovers。这个词的构成极其直观：left over = 留下来的。
@@ -90,7 +88,7 @@ left(leave的过去分词，留下) + over(越过/多余)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +100,13 @@ left(leave的过去分词，留下) + over(越过/多余)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[fresh]]：新鲜的（leftover 的反义：剩余的↔新鲜的）
 > - [[original]]：原始的（leftover 的反义：遗留的↔原始的）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,7 +116,7 @@ left(leave的过去分词，留下) + over(越过/多余)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **leftovers**：剩菜（通常用复数）
 > - **leftover food**：剩余食物
 > - **leftover budget**：剩余预算
@@ -126,19 +124,12 @@ left(leave的过去分词，留下) + over(越过/多余)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - We had leftovers from last night's dinner for lunch today. `[例]`
 > - The leftover budget was allocated to the education department. `[例]`
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
-
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

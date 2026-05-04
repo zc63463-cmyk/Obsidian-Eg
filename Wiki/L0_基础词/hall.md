@@ -131,8 +131,9 @@ hall 源自原始日耳曼语 *\*hallō*（有屋顶的地方），原始印欧�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The lecture hall was packed with students eager to hear the renowned professor speak."（报告厅里挤满了渴望聆听著名教授演讲的学生。——考研相关语料，描述学术场景）
-> - "The city hall has decided to invest more in public infrastructure."（市政厅已决定加大对公共基础设施的投资。——考研英语真题相关话题，讨论城市治理）
+> - I left my bags in the hall. `[例]`
+> - There is a meeting room down the hall from my office. `[例]`
+> - She ran along the hall and knocked on her neighbour's door. `[例]`
 
 
 ---

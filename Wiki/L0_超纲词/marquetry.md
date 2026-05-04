@@ -3,10 +3,8 @@ title: "marquetry"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 物品工具
 prototype: 镶嵌细工（用不同材料拼成图案的装饰工艺）
@@ -43,7 +41,7 @@ marqu(e)t（标记/图案，源自 mark）+ -ry（名词后缀，表示技艺/�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**镶嵌细工**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **镶嵌细工**（工艺层面）
@@ -62,7 +60,7 @@ marqu(e)t（标记/图案，源自 mark）+ -ry（名词后缀，表示技艺/�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -72,7 +70,7 @@ marqu(e)t（标记/图案，源自 mark）+ -ry（名词后缀，表示技艺/�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **词拆分记忆**：
 > marquetry 听起来像"mark（标记）+ tree（树）"→ 在树木（木材）上标记出图案 → 镶木工艺。精美的 marquetry 家具上，不同颜色的木片拼出花朵和几何图案，就像在木头上"标记"出了艺术。
@@ -81,7 +79,7 @@ marqu(e)t（标记/图案，源自 mark）+ -ry（名词后缀，表示技艺/�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -93,12 +91,12 @@ marqu(e)t（标记/图案，源自 mark）+ -ry（名词后缀，表示技艺/�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - 无精确反义词（marquetry 是一种工艺名称，无直接反义）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -108,26 +106,19 @@ marqu(e)t（标记/图案，源自 mark）+ -ry（名词后缀，表示技艺/�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **marquetry furniture**：镶木家具
 > - **wood marquetry**：木制镶嵌工艺
 > - **a piece of marquetry**：一件镶嵌工艺品
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - `` `[例]` The antique desk was adorned with exquisite marquetry depicting scenes of the countryside.`` [C]
-> - `` `[例]` The desk is covered with intricate marquetry made from a wide variety of fine woods.`` [C]
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
+> [!example]- 语料
+> - The design highlights organic shapes, stone, and wood as well as raffia and marquetry. `[例]`
+> - His pieces include solid wood chairs with a deliberately rudimentary, almost minimal design, integrating ornamental elements such as marquetry panels or tin bas-reliefs into their backs, legs or seats. `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

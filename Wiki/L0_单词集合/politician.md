@@ -125,10 +125,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Politicians often make promises that they cannot keep. `[真题]`
-> - The politician was criticized for changing his position on the issue. `[COCA-NEWS]`
-> - Behind each career politician stands a regiment of dedicated voluntary party workers. `[COCA-ACAD]`
-> - She has spent most of her adult life as a career politician. `[COCA-ACAD]`
+> - She believed her job as a politician was to represent the views of her party and the people who voted for her. `[例]`
+>   - 中译：她认为，作为一名政治家，她的工作是代表她的政党和投票给她的人民的观点。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/politician
+> - Several politicians were accused of dispensing favours to people who voted for them. `[例]`
+>   - 中译：一些政客被指控向投票给他们的人提供好处。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/politician
+> - The media focus on politicians' private lives inevitably switches the attention away from the real issues. `[例]`
+>   - 中译：媒体对政客私生活的关注不可避免地转移了对真正问题的注意力。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/politician
 
 ---
 

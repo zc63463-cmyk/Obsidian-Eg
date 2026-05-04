@@ -120,9 +120,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The film is not suitable for children . `[例]`
-> - A conference was planned , but finding a suitable venue proved difficult . `[例]`
-> - Each room has books , toys , and games that are suitable to that particular age group . `[例]`
+> - This programme is not suitable for children. `[例]`
+>   - 中译：该计划不适合儿童。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/suitable
+> - The documentary is particularly suitable for classroom use. `[例]`
+>   - 中译：该纪录片特别适合课堂使用。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/suitable
+> - I don't have anything suitable to wear for the party. `[例]`
+>   - 中译：我没有适合参加聚会的衣服。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/suitable
 
 
 ---

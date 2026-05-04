@@ -138,9 +138,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Smoking does serious harm to your health."（吸烟严重损害健康）——考研阅读/翻译高频句式
-> - "The new policy will do more harm than good."（新政策弊大于利）——考研写作常用表达
-> - "mean no harm"（没有恶意）——考研阅读常见搭配
+> - It was not my intention to cause any harm. `[例]`
+>   - 中译：我无意造成任何伤害。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/harm
+> - Missing a meal once in a while never did anyone any harm. `[例]`
+>   - 中译：偶尔少吃一顿饭不会对任何人造成任何伤害。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/harm
+> - A mistake like that will do his credibility a lot of harm. `[例]`
+>   - 中译：这样的错误会对他的信誉造成很大损害。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/harm
 
 ---
 

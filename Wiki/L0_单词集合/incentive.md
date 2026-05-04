@@ -135,9 +135,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Tax incentives are sometimes effective in encouraging people to save money. `[COCA-ACAD]`
-> - These kids have no incentive to learn. `[COCA-ACAD]`
-> - Executives had a strong incentive to destroy papers they knew would incriminate them in court. `[COCA-NEWS]`
+> - Bonus payments provide an incentive to work harder. `[例]`
+>   - 中译：奖金可以激励人们更加努力地工作。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/incentive
+> - The state offers generous incentives for business investment. `[例]`
+>   - 中译：国家对商业投资提供慷慨的激励措施。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/incentive
+> - There is little incentive for people to leave their cars at home when public transport remains so expensive. `[例]`
+>   - 中译：当公共交通仍然如此昂贵时，人们几乎没有动力把汽车留在家里。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/incentive
 
 ---
 

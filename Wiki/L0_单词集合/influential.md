@@ -127,10 +127,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "These designers came to exert enormous influence on the course of American architecture, but none more so than Mies." `[真题]`
-> - "He remains one of the most influential people in our pharmaceutical industry." `[COCA-ACAD]`
-> - "Berlin has always been a hugely influential city for music." `[COCA-ACAD]`
-> - "His influential writing shaped the course of history." `[COCA-ACAD]`
+> - She wanted to work for a bigger and more influential (= powerful ) newspaper. `[例]`
+>   - 中译：她想为一家更大、更有影响力的报纸工作。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/influential
+> - Johnson was influential (= important ) in persuading the producers to put money into the film. `[例]`
+>   - 中译：约翰逊在说服制片人为这部电影投入资金方面发挥了影响力（=重要）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/influential
+> - He has his own ways of beating the system , making sure that he has good relationships with influential people. `[例]`
+>   - 中译：他有自己的方式来击败体制，确保他与有影响力的人保持良好的关系。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/influential
 ---
 
 

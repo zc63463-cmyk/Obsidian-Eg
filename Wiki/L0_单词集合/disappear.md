@@ -122,9 +122,15 @@ dis-(离开/取消) + [[cover|appear]](出现) → 不再出现
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The search was called off for the sailors who disappeared in the storm . `[例]`
+> - The search was called off for the sailors who disappeared in the storm. `[例]`
+>   - 中译：对在暴风雨中失踪的水手的搜寻工作被取消。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/disappear
 > - I can't find my keys anywhere - they've completely disappeared. `[例]`
-> - The sun disappeared behind a cloud . `[例]`
+>   - 中译：我在任何地方都找不到我的钥匙——它们完全消失了。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/disappear
+> - The sun disappeared behind a cloud. `[例]`
+>   - 中译：太阳消失在云层后面。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/disappear
 
 ---
 

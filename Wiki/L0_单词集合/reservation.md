@@ -130,9 +130,15 @@ re-(向后/再次) + [[serv|serv→保持]](保持/守卫) + -ation(名词后缀
 ## 真题/语料关联
 
 > [!example]- 语料
-> - `[真题]` Reservations and formal protests against this article are the most numerous from countries, from every region of the world.
-> - `[真题]` Seventeen thousand Indians live in Arizona on a reservation.
-> - `[COCA-ACAD]` Workers and employees shared deep reservations about the wisdom of the government's plans for the industry.
+> - Please confirm your reservation in writing by Friday. `[例]`
+>   - 中译：请在周五之前以书面形式确认您的预订。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/reservation
+> - His family lives on a reservation. `[例]`
+>   - 中译：他的家人住在保留地。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/reservation
+> - They are one of the few tribes whose reservation overlaps with their traditional lands. `[例]`
+>   - 中译：他们是保留地与传统土地重叠的少数部落之一。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/reservation
 
 
 ---

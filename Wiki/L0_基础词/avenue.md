@@ -126,9 +126,15 @@ a-(=ad-, 向，朝向) + [[ven-vent|ven]](来，来自拉丁语 *venire*) + -ue(
 ## 真题/语料关联
 
 > [!example]- 语料
-> - We must explore every avenue before giving up on the project. `[例]`
-> - The police say it was a complex investigation and they had to explore all avenues. `[COCA-NEWS]`
-> - Big data is opening up new avenues of understanding and activity for companies. `[COCA-NEWS]`
+> - Several avenues are open to us. `[例]`
+>   - 中译：有几条途径向我们开放。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/avenue
+> - We will explore every avenue until we find an answer. `[例]`
+>   - 中译：我们将探索每一条途径，直到找到答案。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/avenue
+> - He saw bankruptcy as the only avenue left open to him. `[例]`
+>   - 中译：他认为破产是他唯一的出路。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/avenue
 
 
 ---

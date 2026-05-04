@@ -129,8 +129,8 @@ exter-(=exterus, 在外面的) + -ior(比较级后缀，表示"更……的")
 ## 真题/语料关联
 
 > [!example]- 语料
-> - In some of the villages the exterior walls of the houses are painted pink . `[例]`
-> - Exterior to the main house there is a small building that could be used as an office or studio . `[例]`
+> - In some of the villages the exterior walls of the houses are painted pink. `[例]`
+> - Exterior to the main house there is a small building that could be used as an office or studio. `[例]`
 > - The Palace of Fontainebleau has a very grand exterior. `[例]`
 
 

@@ -3,10 +3,8 @@ title: "intellect"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 人本世界
 prototype: 智力（理解和思考的能力）
@@ -43,7 +41,7 @@ intel-(在…之间) + [[lect|lect-leg-]](选择，读取)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**智力**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **智力**（认知层面）
@@ -64,7 +62,7 @@ intel-(在…之间) + [[lect|lect-leg-]](选择，读取)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ intel-(在…之间) + [[lect|lect-leg-]](选择，读取)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > intel（在…之间）+ lect（选择）→ 在事物之间选择 → 智力。lect 词根和"读/选择"有关：lecture（讲座）、collect（收集=一起选）、select（选择）。intellect 就是在复杂的信息中做出正确选择的能力——这就是智力。intellectual 是"知识分子的"。
@@ -86,7 +84,7 @@ intel-(在…之间) + [[lect|lect-leg-]](选择，读取)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -98,13 +96,13 @@ intel-(在…之间) + [[lect|lect-leg-]](选择，读取)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[ignorance]]：无知（智力↔无知）
 > - [[stupidity]]：愚蠢
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -116,26 +114,19 @@ intel-(在…之间) + [[lect|lect-leg-]](选择，读取)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **sharp/brilliant intellect**：敏锐的/杰出的才智
 > - **a man/woman of intellect**：有才智的人
 > - **the intellect**：知识分子（总称）
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - She was respected for her sharp intellect and analytical skills. `[例]`
 > - The book appeals to both the intellect and the emotions. `[例]`
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
-
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -121,9 +121,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - `Crime is an increasingly serious problem in modern society.` `[COCA-ACAD]`
-> - `The story raises serious questions about our system of justice.` `[COCA-ACAD]`
-> - `He's been taken to the hospital where his condition is described as serious but stable.` `[COCA-NEWS]`
+> - There were no reports of serious injuries. `[例]`
+>   - 中译：目前还没有严重受伤的报告。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/serious
+> - The new tax regulations have landed some of the smaller companies in serious trouble. `[例]`
+>   - 中译：新的税收法规使一些规模较小的公司陷入了严重的麻烦。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/serious
+> - Drugs have become a serious problem in a lot of schools. `[例]`
+>   - 中译：毒品已成为许多学校的一个严重问题。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/serious
 
 ---
 

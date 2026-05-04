@@ -122,8 +122,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Employers are increasingly looking for workers who are flexible and adaptable."（雇主越来越看重灵活且适应能力强的员工。）——考研高频表达
-> - "The company offers flexible working hours to accommodate employees' needs."（公司提供弹性工作时间以满足员工的需求。）——考研高频表达
+> - My schedule is flexible - I could arrange to meet with you any day next week. `[例]`
+>   - 中译：我的日程安排很灵活——我可以安排下周的任何一天与您见面。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/flexible
+> - The European Union should remain flexible enough to assimilate more countries quickly. `[例]`
+>   - 中译：欧盟应该保持足够的灵活性，以便迅速同化更多国家。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/flexible
+> - If they're flexible, we're flexible", the official was quoted as saying. `[例]`
+>   - 中译：如果他们灵活，我们也灵活”，该官员表示。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/flexible
 
 ---
 

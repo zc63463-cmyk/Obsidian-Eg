@@ -128,8 +128,9 @@ grope（源自古英语 *grāpian* "抓握"，日耳曼语系，与 grip "抓住
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Scientists are still groping for an explanation of this phenomenon.（科学家仍在摸索这一现象的解释——考研翻译/阅读常见表达）
-> - We are groping our way toward a better understanding of the universe.（我们正在摸索着更好地理解宇宙——考研阅读高频句型）
+> - She groped for her glasses on the bedside table. `[例]`
+> - I had to grope my way up the dark stairs. `[例]`
+> - He groped me as I was going to the bar. `[例]`
 
 
 ---

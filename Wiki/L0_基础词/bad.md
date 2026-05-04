@@ -135,9 +135,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Smoking is bad for your health, increasing the risk of lung cancer and heart disease significantly." [COCA]
-> - "The economic situation went from bad to worse as unemployment rates continued to rise throughout the year." [COCA]
-> - "This meat has gone bad and should not be eaten." `[BNC-SPOKEN]`
+> - I have some bad news for you, I'm afraid. `[例]`
+>   - 中译：恐怕我有一些坏消息要告诉你。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bad
+> - I'm having a really bad day. `[例]`
+>   - 中译：我今天过得很糟糕。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bad
+> - Bad breath may be helped by regularly using mouthwash. `[例]`
+>   - 中译：定期使用漱口水可能有助于缓解口臭。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bad
 
 
 ---

@@ -126,10 +126,9 @@ in-(=into, 进入) + trigue(=tricae, 纠缠/困惑，拉丁语 *intricare*)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She was intrigued by the mystery of the ancient civilization. ` `[真题]`
-> - They will increasingly have to master the dark arts of political intrigue. ` `[语料库]`
-> - After hearing so much about him, I was intrigued to finally meet him in person. ` `[语料库]`
-> - The court was full of intrigue and betrayal. ` `[语料库]`
+> - Throughout history , people have been intrigued by the question of whether there is intelligent life elsewhere in the universe. `[例]`
+> - I was intrigued by his slow , deliberate way of talking and the serious look in his eyes. `[例]`
+> - She has written an intriguing account of growing up on a farm as one of ten children. `[例]`
 
 
 ---

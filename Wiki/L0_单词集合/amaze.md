@@ -122,9 +122,15 @@ a-(加强语气) + maze(迷惘、困惑) → 极度困惑 → 大为惊奇
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It amazes me how quickly technology has transformed our daily lives."（科技如此迅速地改变了我们的日常生活，这让我感到惊奇。）——考研高频表达
-> - "The audience was amazed by the performer's extraordinary talent."（观众被表演者非凡的才华所惊叹。）——考研高频表达
-> - "Scientists are amazed at the complexity of the human brain."（科学家们对人脑的复杂性感到惊叹。）——考研高频表达
+> - I was amazed by how well he looked. `[例]`
+>   - 中译：我对他的气色感到惊讶。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/amaze
+> - It amazes me that she's got the energy for all those parties. `[例]`
+>   - 中译：令我惊讶的是她有精力参加所有这些聚会。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/amaze
+> - It amazes me to think that Anna is now in charge of the company. `[例]`
+>   - 中译：想到安娜现在是公司的负责人，我感到很惊讶。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/amaze
 
 ---
 

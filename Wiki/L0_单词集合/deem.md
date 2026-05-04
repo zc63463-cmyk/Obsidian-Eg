@@ -124,9 +124,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The area has now been deemed safe . `[例]`
-> - We will provide help whenever you deem it appropriate . `[例]`
-> - Anyone not paying the registration fee by 31 March will be deemed to have withdrawn from the offer . `[例]`
+> - The area has now been deemed safe. `[例]`
+>   - 中译：该地区现已被认为是安全的。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/deem
+> - We will provide help whenever you deem it appropriate. `[例]`
+>   - 中译：只要您认为合适，我们就会提供帮助。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/deem
+> - Anyone not paying the registration fee by 31 March will be deemed to have withdrawn from the offer. `[例]`
+>   - 中译：3月31日前未缴纳报名费的，将被视为退出优惠。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/deem
 
 ---
 

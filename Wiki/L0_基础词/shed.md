@@ -140,9 +140,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The trees shed their leaves in the fall." `[真题]`
-> - "She shed no tears when she heard he was dead." `[真题]`
-> - "The candles shed a soft glow on her face." `[真题]`
+> - The trees shed their leaves in the fall. `[真题]`
+> - She shed no tears when she heard he was dead. `[真题]`
+> - The candles shed a soft glow on her face. `[真题]`
 
 
 ---

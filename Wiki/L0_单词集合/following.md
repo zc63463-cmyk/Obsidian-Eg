@@ -125,8 +125,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The following factors should be taken into consideration.（应考虑以下因素。）
-> - The stock market crashed, and in the following months, unemployment rose sharply.（股市崩盘，在随后的几个月里失业率急剧上升。）
+> - Se1:tion I Use of English Directions: Read the following text. `[真题]`
+>   - 中译：第一节：英语使用说明：阅读以下文字。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - However D. stock up on D. implied D. although D. series Read the following four texts. `[真题]`
+>   - 中译：然而 D. 储备 D. 暗示 D. 虽然 D. 系列 阅读以下四篇文章。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - Which of the following is true of New Englan�? ,, A. `[真题]`
+>   - 中译：以下哪项关于新英格兰的说法是正确的？ ,, A.
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
 
 ---
 

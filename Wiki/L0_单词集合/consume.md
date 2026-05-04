@@ -135,9 +135,15 @@ con-(完全，彻底) + sume/sumpt(拿，取)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The electricity industry consumes large amounts of fossil fuels." `[真题]`
-> - "Classically, overweight people underestimate the volume of food that they consume." `[真题]`
-> - "She was consumed with guilt after making the terrible mistake." `[COCA-ACAD]`
+> - Our high living standards cause our current population to consume 25 percent of the world's oil. `[例]`
+>   - 中译：我们的高生活水平导致我们目前的人口消耗了世界 25% 的石油。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/consume
+> - Most of their manufactured products are consumed domestically. `[例]`
+>   - 中译：他们的大部分制造产品在国内消费。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/consume
+> - The software consumes huge amounts of internet bandwidth. `[例]`
+>   - 中译：该软件消耗大量的互联网带宽。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/consume
 ---
 
 

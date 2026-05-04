@@ -122,9 +122,15 @@ ac-(=ad-，向，加强) + com-(共同) + [[mod]](=modus，方式，尺寸) + -a
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The hotel can **accommodate** up to 500 guests.（这家酒店最多可容纳500位客人。）
-> - We need to **accommodate** the special needs of disabled students.（我们需要考虑到残疾学生的特殊需求。）
-> - The new policy is designed to **accommodate** the interests of all parties.（新政策旨在兼顾各方利益。）
+> - New students may be accommodated in halls of residence. `[例]`
+>   - 中译：新生可以住在宿舍。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/accommodate
+> - There wasn't enough space to accommodate the files. `[例]`
+>   - 中译：没有足够的空间来容纳文件。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/accommodate
+> - We always try to accommodate (= help ) our clients with financial assistance if necessary. `[例]`
+>   - 中译：如有必要，我们总是尽力为我们的客户提供经济援助。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/accommodate
 
 ---
 

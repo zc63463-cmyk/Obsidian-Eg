@@ -126,10 +126,15 @@ com-(一起，加强) + [[puls|plic-plex]](驱使，拉丁语 *pellere* "推动�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - English is compulsory for all students, but art and music are optional. ` [COCA-ACAD]`
-> - They proposed making secondary education compulsory up to the age of 18. ` [COCA-NEWS]`
-> - He has just finished a stint of compulsory military service. ` [COCA-NEWS]`
-> - It is compulsory for all motorcyclists to wear helmets. ` [例]`
+> - English is a compulsory subject at this level. `[例]`
+>   - 中译：英语是该级别的必修科目。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/compulsory
+> - The strikers are protesting against the threat of compulsory redundancies. `[例]`
+>   - 中译：罢工者抗议强制裁员的威胁。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/compulsory
+> - It is compulsory for all motorcyclists to wear helmets. `[例]`
+>   - 中译：所有摩托车驾驶员都必须佩戴头盔。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/compulsory
 
 
 ---

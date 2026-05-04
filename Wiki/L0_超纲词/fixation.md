@@ -3,10 +3,8 @@ title: "fixation"
 tags:
   - 学习/英语/词汇
   - 语义场/人本世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 人本世界
 prototype: 固着（注意力或情感固定在某一点上无法转移）
@@ -43,7 +41,7 @@ fix(固定) + -ation(名词后缀，表示动作/状态/结果)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**固着**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **固着**（心理层面）
@@ -66,7 +64,7 @@ fix(固定) + -ation(名词后缀，表示动作/状态/结果)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -77,7 +75,7 @@ fix(固定) + -ation(名词后缀，表示动作/状态/结果)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > fix（固定）+ -ation（状态）= fixation。fix 是"使固定"，fixation 就是"被固定的状态"。物理上，nitrogen fixation 是把氮气"固定"成可用形式。心理上，fixation 是注意力被"钉"在某处——你放不下某件事，就是有了 fixation。弗洛伊德用这个词描述心理发展"卡"在某个阶段。
@@ -89,7 +87,7 @@ fix(固定) + -ation(名词后缀，表示动作/状态/结果)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -102,13 +100,13 @@ fix(固定) + -ation(名词后缀，表示动作/状态/结果)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[flexibility]]：灵活性（fixation↔flexibility：固着↔灵活）
 > - [[detachment]]：超然，超脱（fixation↔detachment：执着↔超脱）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -120,7 +118,7 @@ fix(固定) + -ation(名词后缀，表示动作/状态/结果)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **have a fixation on/with**：对…有执念
 > - **an unhealthy fixation**：不健康的痴迷
 > - **Freudian fixation**：弗洛伊德式心理固着
@@ -128,19 +126,12 @@ fix(固定) + -ation(名词后缀，表示动作/状态/结果)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - He has an unhealthy fixation on social media likes. `[例]`
 > - Freud believed that early childhood experiences could lead to fixations that affect adult behavior. `[例]`
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
-
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

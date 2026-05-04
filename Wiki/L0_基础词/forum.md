@@ -125,9 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - This international event provided a forum for exchanging information and opinions in the field . `[例]`
-> - The committee is a forum for dialogue between staff representatives in 16 countries . `[例]`
-> - We do not believe that the courts are the appropriate forum for such a discussion . `[例]`
+> - This international event provided a forum for exchanging information and opinions in the field. `[例]`
+> - The committee is a forum for dialogue between staff representatives in 16 countries. `[例]`
+> - We do not believe that the courts are the appropriate forum for such a discussion. `[例]`
 
 
 ---

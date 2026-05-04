@@ -126,8 +126,15 @@ pre-(在……前面) + sid(坐) + -e
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "What is harder to establish is whether the productivity revolution that businessmen assume they are presiding over is for real."（商人们自认为的他们所领导的生产力革命是否确有其事，这一点更加难以确定。）——1998年阅读Text2
-> - "The judge will preside over the trial."（法官将主持这次审判。）——考研高频表达
+> - Judge Langdale is to preside over the official enquiry into the case. `[例]`
+>   - 中译：兰代尔法官将主持对此案的正式调查。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/preside
+> - The vice president will preside at today’s meeting. `[例]`
+>   - 中译：副总统将主持今天的会议。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/preside
+> - The Chairman shall preside at meetings of the stockholders. `[例]`
+>   - 中译：股东会议由董事长主持。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/preside
 ---
 
 

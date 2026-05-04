@@ -132,9 +132,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The news of his death was splashed in headlines across all the newspapers . `[例]`
+> - The news of his death was splashed in headlines across all the newspapers. `[例]`
 > - She has grabbed the headlines by making public accusations of corruption within the government. `[例]`
-> - This was the front-page headline of the Sun newspaper after the election . `[例]`
+> - This was the front-page headline of the Sun newspaper after the election. `[例]`
 
 
 ---

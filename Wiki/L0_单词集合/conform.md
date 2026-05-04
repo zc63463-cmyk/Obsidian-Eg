@@ -132,9 +132,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Students are often pressured to conform to social norms rather than express their individuality. `[COCA-ACAD]`
-> - The building does not conform to the safety standards set by the local government. `[COCA-ACAD]`
-> - All products must conform to the safety standards set by the government. `[例]`
+> - At our school , you were required to conform, and there was no place for originality. `[例]`
+>   - 中译：在我们学校，你被要求顺从，没有独创性的地方。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/conform
+> - I tried to conform to their old-fashioned manners. `[例]`
+>   - 中译：我试图遵守他们老式的举止。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/conform
+> - Most adolescents have a very strong desire to conform with their peers. `[例]`
+>   - 中译：大多数青少年都有很强的与同龄人保持一致的愿望。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/conform
 ---
 
 

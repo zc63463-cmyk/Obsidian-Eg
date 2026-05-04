@@ -134,9 +134,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "These meetings are a complete waste of time." `[真题]`
-> - "The government needs to invest more in waste disposal and recycling facilities." `[真题]`
-> - "Detractors warn against a serious waste of resources and describe the proposal as obscure." `[真题]`
+> - These meetings are a complete waste of time. `[真题]`
+> - The government needs to invest more in waste disposal and recycling facilities. `[真题]`
+> - Detractors warn against a serious waste of resources and describe the proposal as obscure. `[真题]`
 
 
 ---

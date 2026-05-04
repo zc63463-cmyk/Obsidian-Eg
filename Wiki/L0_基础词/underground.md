@@ -133,9 +133,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The Communist Party was forced (to go) underground, and its leaders went into hiding . `[例]`
+> - The Communist Party was forced (to go) underground, and its leaders went into hiding. `[例]`
 > - They told us the stories of some of the main figures in the Underground Railroad. `[例]`
-> - In Britain and the USA in the 1970s, the underground was a powerful subversive force . `[例]`
+> - In Britain and the USA in the 1970s, the underground was a powerful subversive force. `[例]`
 
 
 ---

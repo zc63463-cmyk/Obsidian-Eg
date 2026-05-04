@@ -138,9 +138,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The players have a very strong team spirit (= loyalty to each other) . `[例]`
-> - We acted in a spirit of cooperation . `[例]`
-> - As soon as I left the house and drove away, my spirits soared . `[例]`
+> - The players have a very strong team spirit (= loyalty to each other). `[例]`
+> - We acted in a spirit of cooperation. `[例]`
+> - As soon as I left the house and drove away, my spirits soared. `[例]`
 
 
 ---

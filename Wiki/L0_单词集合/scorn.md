@@ -137,10 +137,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - For this was a disease that scorned all human frontiers. `[COCA-ACAD]`
-> - They are not a phenomenon to be understood, but objects of ridicule and scorn. `[COCA-ACAD]`
-> - The Disney press office has rightly poured scorn on these complaints. `[COCA-ACAD]`
-> - Hawker and his wife visited the sick each week and scorned their personal risk. `[COCA-ACAD]`
+> - She has nothing but scorn for the new generation of politicians. `[例]`
+>   - 中译：她对新一代政客只有蔑视。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/scorn
+> - So does he respect the press and media , or does he secretly scorn them? `[例]`
+>   - 中译：那么他是尊重新闻界还是媒体呢？还是暗自鄙视他们？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/scorn
+> - You scorned all my suggestions. `[例]`
+>   - 中译：你蔑视我所有的建议。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/scorn
 
 ---
 

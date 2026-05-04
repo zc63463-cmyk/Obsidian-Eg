@@ -126,9 +126,15 @@ be-（存在）+ -ing（现在分词/动名词后缀）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Being a man has always been dangerous." `[真题]`
-> - "If you feel awkward being humorous, you must practice so that it becomes more natural." `[真题]`
-> - "Such behaviour is regarded as 'all too human,' with the underlying assumption that other animals would not be capable of this finely developed sense of grievance." `[真题]`
+> - The Irish Free State came into being in 1922. `[例]`
+>   - 中译：1922年爱尔兰自由邦成立。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/being
+> - A new era was brought into being by the war. `[例]`
+>   - 中译：战争开启了一个新时代。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/being
+> - No living being deserves to be treated this way. `[例]`
+>   - 中译：没有任何生物值得受到这样的对待。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/being
 
 
 ---

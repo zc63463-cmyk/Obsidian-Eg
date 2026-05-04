@@ -131,10 +131,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The Netherlands has been reclaiming farmland from water for centuries through an intricate system of dikes and canals. `[通用地理类语料]`
-> - The good news for the industry was that investors did not seem to be in any hurry to reclaim their money. `[通用经济类语料]`
-> - You may be entitled to reclaim some of the tax you paid last year if you meet certain eligibility criteria. `[通用语料]`
-> - Many modern recycling programmes are designed to reclaim waste materials and convert them into usable products. `[通用环保语料]`
+> - The Netherlands has been reclaiming farmland from water for centuries through an intricate system of dikes and canals. `[例]`
+> - The good news for the industry was that investors did not seem to be in any hurry to reclaim their money. `[例]`
+> - You may be entitled to reclaim some of the tax you paid last year if you meet certain eligibility criteria. `[例]`
+> - Many modern recycling programmes are designed to reclaim waste materials and convert them into usable products. `[例]`
 
 
 ---

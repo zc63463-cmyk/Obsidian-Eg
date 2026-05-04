@@ -132,9 +132,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - They decorated the wedding car with ribbons and flowers . `[例]`
-> - We're going to decorate the kitchen next week . `[例]`
+> - They decorated the wedding car with ribbons and flowers. `[例]`
+>   - 中译：他们用丝带和鲜花装饰了婚车。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/decorate
+> - We're going to decorate the kitchen next week. `[例]`
+>   - 中译：下周我们要装饰厨房。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/decorate
 > - I hate the smell of paint when I'm decorating. `[例]`
+>   - 中译：我讨厌装修时的油漆味。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/decorate
 
 ---
 

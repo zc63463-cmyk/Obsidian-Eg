@@ -130,8 +130,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - "The commercial success of the product exceeded all expectations."（该产品的商业成功超出了所有人的预期。）——考研阅读真题
-> - "Television commercials aimed at children have been heavily criticized."（针对儿童的电视商业广告受到了严厉批评。）——考研高频表达
+> - The commercial future of the company looks very promising. `[例]`
+>   - 中译：该公司的商业前景看起来非常有前途。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/commercial
+> - All commercial fishing is prohibited , but managed sport fishing is allowed. `[例]`
+>   - 中译：禁止所有商业捕鱼，但允许有管理的游钓。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/commercial
+> - Some robotic research prototypes have generated commercial products. `[例]`
+>   - 中译：一些机器人研究原型已经产生了商业产品。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/commercial
 
 ---
 

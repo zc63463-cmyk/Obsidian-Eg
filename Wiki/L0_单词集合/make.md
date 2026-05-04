@@ -148,11 +148,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She made a decision to pursue a career in medicine. `[COCA-ACAD]`
-> - Technology has made it possible to work from anywhere. `[COCA-ACAD]`
-> - He makes a living by selling handmade crafts. `[COCA-MAG]`
-> - The discovery made a significant contribution to our understanding of the universe. `[COCA-ACAD]`
-> - Volunteering can make a difference in people's lives. `[COCA-ACAD]`
+> - If it's their vacation home anyway, and it's just empty, why c:an't you make money off it?" Hom said. `[真题]`
+>   - 中译：如果无论如何这是他们的度假屋，而且只是空着，为什么你不能从中赚钱呢？”霍姆说。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - Hom said similar registration requirements could benefit struggling cities and towns , but " if we want to make a change in the housing market, the main one is we have to build a lot more. `[真题]`
+>   - 中译：霍姆表示，类似的登记要求可能会让陷入困境的城镇受益，但“如果我们想改变房地产市场，最主要的是我们必须建造更多。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - Do you want me to make some coffee? `[例]`
+>   - 中译：你要我煮点咖啡吗？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/make
 
 ---
 

@@ -134,10 +134,15 @@ polish 无标准词根拆分。可能源自古法语 *poliss-*（打磨的，光
 ## 真题/语料关联
 
 > [!example]- 语料
-> - But the 47-year-old manicurist isn't cutting, filing or polishing as many nails as she'd like to, either. `[真题]`
-> - She spent weeks polishing her thesis before submitting it to the committee. `[COCA-ACAD]`
-> - He polished his shoes until they shone. `[COCA-FIC]`
-> - The delegation's proposals have been polished to ensure clarity and precision. `[COCA-ACAD]`
+> - Polish your shoes regularly to protect the leather. `[例]`
+>   - 中译：定期擦亮鞋子以保护皮革。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/polish
+> - I'll just give my shoes a quick polish. `[例]`
+>   - 中译：我会快速擦亮我的鞋子。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/polish
+> - It's a lively , good-hearted film but it lacks a little polish. `[例]`
+>   - 中译：这是一部活泼、善良的电影，但缺乏一点修饰。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/polish
 
 
 ---

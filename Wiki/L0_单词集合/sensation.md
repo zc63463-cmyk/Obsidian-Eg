@@ -118,10 +118,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> 1. The news caused an immediate sensation across the country. `[真题]`
-> 2. The patient experienced a burning sensation in his chest. `[真题]`
-> 3. I had the odd sensation that someone was following me. `[COCA-FICT]`
-> 4. The novel created a sensation when it was first published. `[COCA-ACAD]`
+> - I had no sensation of pain whatsoever. `[例]`
+>   - 中译：我没有任何疼痛的感觉。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/sensation
+> - The disease causes a loss of sensation in the fingers. `[例]`
+>   - 中译：这种疾病会导致手指失去知觉。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/sensation
+> - I had the odd sensation (that) someone was following me. `[例]`
+>   - 中译：我有一种奇怪的感觉，有人在跟踪我。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/sensation
 
 ---
 

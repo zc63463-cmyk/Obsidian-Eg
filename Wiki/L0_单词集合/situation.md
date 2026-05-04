@@ -139,10 +139,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The current economic situation is improving gradually. `[真题]`
-> - She found herself in a difficult situation after losing her job. `[COCA-FICT]`
-> - The objective economic situation did not provide many possibilities for public policy. `[COCA-ACAD]`
-> - We need to assess the situation before making a decision. `[COCA-NEWS]`
+> - Her news put me in a difficult situation. `[例]`
+>   - 中译：她的消息让我陷入了困境。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/situation
+> - Would you get involved in a fight ?" "It would depend on the situation. `[例]`
+>   - 中译：你会参与战斗吗？” “这要看情况。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/situation
+> - My sister has a good situation as a teacher in the local school. `[例]`
+>   - 中译：我姐姐在当地学校当老师，条件很好。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/situation
 
 ---
 

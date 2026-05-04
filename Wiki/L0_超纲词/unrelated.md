@@ -3,10 +3,8 @@ title: "unrelated"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-25
-mastery: L0
 word_freq: 超纲词
 semantic_field: 抽象关系
 prototype: 没有关联的（不相关的）
@@ -43,7 +41,7 @@ un-(不，否定) + re-(回/再) + [[lat]](拿/带→拉丁语 *latus*，*ferre*
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**没有关联的**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **没有关联的**（逻辑层面）
@@ -64,7 +62,7 @@ un-(不，否定) + re-(回/再) + [[lat]](拿/带→拉丁语 *latus*，*ferre*
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ un-(不，否定) + re-(回/再) + [[lat]](拿/带→拉丁语 *latus*，*ferre*
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > relate（关联）来自 re-（回）+ late（带）→ 带回到一起 → 建立联系。unrelated 就是没被带到一起的——两件完全不搭边的事，就像讨论量子力学时突然说起午饭吃什么。
@@ -86,7 +84,7 @@ un-(不，否定) + re-(回/再) + [[lat]](拿/带→拉丁语 *latus*，*ferre*
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ un-(不，否定) + re-(回/再) + [[lat]](拿/带→拉丁语 *latus*，*ferre*
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[related]]：相关的，有关系的（unrelated 的精确反义）
 > - [[connected]]：相连的，有联系的（unrelated 的反义）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -119,7 +117,7 @@ un-(不，否定) + re-(回/再) + [[lat]](拿/带→拉丁语 *latus*，*ferre*
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **unrelated to**：与……无关
 > - **completely unrelated**：完全不相关的
 > - **unrelated topics**：不相关的话题
@@ -127,19 +125,12 @@ un-(不，否定) + re-(回/再) + [[lat]](拿/带→拉丁语 *latus*，*ferre*
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - Police said his death was unrelated to the attack . `[例]`
-> - His answer was completely unrelated to my question . `[例]`
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-25 | **复习次数**：0 | **当前等级**：L0
-
----
+> [!example]- 语料
+> - Police said his death was unrelated to the attack. `[例]`
+> - His answer was completely unrelated to my question. `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

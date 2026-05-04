@@ -129,8 +129,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "There is no magic formula for success in business; it requires hard work and persistence."（商业成功没有万能公式，它需要努力工作和坚持不懈。）——考研高频表达
-> - "The researchers developed a new formula for calculating the risk of heart disease."（研究人员开发了一种计算心脏病风险的新公式。）——考研高频表达
+> - We have changed the formula of the washing powder. `[例]`
+>   - 中译：我们改变了洗衣粉的配方。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/formula
+> - There's no magic formula for success. `[例]`
+>   - 中译：成功没有神奇的公式。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/formula
+> - He developed a formula for calculating the area of a triangle. `[例]`
+>   - 中译：他开发了计算三角形面积的公式。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/formula
 
 
 ---

@@ -131,8 +131,15 @@ a-/in-(在) + 建议创建词根笔记 [[mong/mongo]](人群，混合) = 在人�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "There is a growing consensus among scientists that global warming is primarily caused by human activities."（科学家之间日益达成共识：全球变暖主要由人类活动引起。）——考研高频表达
-> - "The unemployment rate among young people remains significantly higher than the national average."（年轻人的失业率仍然明显高于全国平均水平。）——考研高频表达
+> - Among the 10 worst performers were some of the most populous states, including Texas , which was given the lowest grade ( F) and has a disproportionate influence because its textbooks are widely sold elsewhere. `[真题]`
+>   - 中译：表现最差的 10 个州是一些人口最多的州，其中包括得克萨斯州，该州的评分最低（F），并且由于其教科书在其他地方广泛销售而具有不成比例的影响力。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - Now, with record-high home prices and historically low inventory, there's an increased urgency in such regulation, particularly among those who worry that developers will come in and buy up swaths of housing to flip for a fortune on the short-term rental market. `[真题]`
+>   - 中译：现在，随着房价创历史新高，库存也创历史新低，此类监管的紧迫性越来越大，尤其是那些担心开发商会介入并购买大量住房并在短期租赁市场上转手大赚的人。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - It fosters competition among citation providers. `[真题]`
+>   - 中译：它促进了引文提供者之间的竞争。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
 ---
 
 

@@ -141,10 +141,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Darwin's theory of evolution. `[例]`
-> - He has a theory that the hole was caused by a meteorite . `[例]`
-> - In theory, the journey should take three hours , but in practice it usually takes four because of roadworks . `[例]`
-> - I have a theory (= an opinion ) about why everybody in the city is in such a hurry . `[例]`
+> - The theories were tested on a sample of the population. `[例]`
+>   - 中译：这些理论在人口样本中进行了检验。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/theory
+> - He developed a new theory about the cause of stomach ulcers. `[例]`
+>   - 中译：他提出了关于胃溃疡病因的新理论。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/theory
+> - She has written a book explaining the theory behind her art. `[例]`
+>   - 中译：她写了一本书解释她的艺术背后的理论。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/theory
 
 ---
 

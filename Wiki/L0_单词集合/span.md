@@ -140,9 +140,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Over a span of just three years , the new government has transformed the country's economic prospects . `[例]`
-> - Huge wings with a span of over a metre. `[例]`
+> - I worked with him over a span of six years. `[例]`
+>   - 中译：我和他共事了六年时间。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/span_2
+> - The project must be completed within a specific time span. `[例]`
+>   - 中译：这个项目必须在规定的时间跨度内完成。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/span_2
 > - The bridge crosses the river in a single span. `[例]`
+>   - 中译：这座桥以单孔跨越河流。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/span_2
 
 ---
 

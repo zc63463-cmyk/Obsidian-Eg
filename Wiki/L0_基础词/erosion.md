@@ -129,7 +129,7 @@ review_count: 0
 > [!example]- 语料
 > - The figures do not take account of environmental losses such as coastal erosion. `[例]`
 > - The landscape is marked by gullies and ravines formed by soil erosion. `[例]`
-> - The survey reveals a gradual erosion of the president's popularity and support . `[例]`
+> - The survey reveals a gradual erosion of the president's popularity and support. `[例]`
 
 
 ---

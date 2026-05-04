@@ -127,9 +127,15 @@ anger(愤怒) + -y(充满的/具有……的)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - I don't understand what he's angry about . `[例]`
-> - They feel angry that their complaints were ignored . `[例]`
-> - On her leg was an angry sore . `[例]`
+> - I started to get really angry and upset. `[例]`
+>   - 中译：我开始变得非常生气和不安。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/angry
+> - The players were attacked by an angry mob. `[例]`
+>   - 中译：球员们遭到了愤怒的暴民的袭击。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/angry
+> - The comments provoked an angry response from union leaders. `[例]`
+>   - 中译：这些言论引起了工会领导人的愤怒回应。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/angry
 
 
 ---

@@ -132,9 +132,15 @@ suc-(=sub-, 在下面/在后面) + [[ced-cess|ced]](走，拉丁语 *cedere*)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She's been trying to pass her driving test for six years and she's finally succeeded. `[例]`
-> - You need to be pretty tough to succeed in the property world . `[例]`
-> - The campaign has certainly succeeded in raising public awareness of the issue . `[例]`
+> - Whether we succeed or fail depends on ingenuity and luck. `[例]`
+>   - 中译：我们的成功或失败取决于聪明才智和运气。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/succeed
+> - He succeeded in getting a place at art school. `[例]`
+>   - 中译：他成功地进入了艺术学校。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/succeed
+> - I tried to discuss it with her but only succeeded in making her angry (= I failed and did the opposite of what I intended). `[例]`
+>   - 中译：我试图与她讨论这件事，但只成功地让她生气（=我失败了，做了与我的意图相反的事情）。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/succeed
 
 
 ---

@@ -133,7 +133,7 @@ fill 源自古英语 *fyllan*，与 full（满的）同源，原始日耳曼语 
 ## 真题/语料关联
 
 > [!example]- 语料
-> - I filled the bucket with water . `[例]`
+> - I filled the bucket with water. `[例]`
 > - I could hear the tank filling. `[例]`
 > - She filled most of her time watching TV. `[例]`
 

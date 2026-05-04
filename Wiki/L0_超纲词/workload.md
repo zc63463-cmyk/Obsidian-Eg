@@ -3,10 +3,8 @@ title: "workload"
 tags:
   - 学习/英语/词汇
   - 语义场/社会专业
-  - 掌握/L0
 aliases: []
 date: 2026-04-25
-mastery: L0
 word_freq: 超纲词
 semantic_field: 社会专业
 prototype: 工作的负荷量
@@ -43,7 +41,7 @@ work（工作，古英语 *weorc*）+ load（负荷，装载，古英语 *lād*�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**工作的负荷量**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **工作的负荷量**（物理隐喻层面）
@@ -64,7 +62,7 @@ work（工作，古英语 *weorc*）+ load（负荷，装载，古英语 *lād*�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ work（工作，古英语 *weorc*）+ load（负荷，装载，古英语 *lād*�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > work（工作）+ load（负荷）= workload（工作量）。想象一个快递员，他的电动车上堆满了包裹——这些包裹就是他的 load。如果今天有500个包裹，那就是 heavy workload；如果只有50个，那就是 light workload。我们每个人都是"工作的快递员"，每天扛着自己的 workload 奔跑。
@@ -86,7 +84,7 @@ work（工作，古英语 *weorc*）+ load（负荷，装载，古英语 *lād*�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,12 +97,12 @@ work（工作，古英语 *weorc*）+ load（负荷，装载，古英语 *lād*�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - workload 本身为中性词（可轻可重），无精确反义词。在"重"的语境下可与 [[leisure]]（闲暇）形成对比
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -116,7 +114,7 @@ work（工作，古英语 *weorc*）+ load（负荷，装载，古英语 *lād*�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **heavy workload**：繁重的工作量
 > - **light workload**：轻松的工作量
 > - **manage/balance workload**：管理工作量/平衡工作量
@@ -125,19 +123,12 @@ work（工作，古英语 *weorc*）+ load（负荷，装载，古英语 *lād*�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - Teachers are always complaining about their heavy workloads. `[例]`
-> - Students do find that their workload increases throughout the course . `[例]`
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-25 | **复习次数**：0 | **当前等级**：L0
-
----
+> - Students do find that their workload increases throughout the course. `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

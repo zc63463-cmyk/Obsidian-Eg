@@ -125,10 +125,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Facebook and Google, the two virtual giants, dominate digital advertising to the disadvantage of all other media and entertainment companies." `[真题]`
-> - "Kodak's decision to file for bankruptcy protection is a sad turning point for a leading American corporation that dominated the film market for decades." `[真题]`
-> - "The cathedral dominates the landscape for miles around." `[COCA-ACAD]`
-> - "The dispute is likely to dominate the news." `[COCA-ACAD]`
+> - He refuses to let others speak and dominates every meeting. `[例]`
+>   - 中译：他拒绝让别人发言，并且在每次会议上都占据主导地位。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/dominate
+> - They work as a group - no one person is allowed to dominate. `[例]`
+>   - 中译：他们作为一个团队工作——不允许任何人占主导地位。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/dominate
+> - It's astonishing to think that only a few years ago Communism dominated eastern Europe. `[例]`
+>   - 中译：仅仅几年前，共产主义还统治着东欧，这真是令人惊讶。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/dominate
 
 ---
 

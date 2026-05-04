@@ -132,9 +132,15 @@ con-(共同/一起) + [[tract]](to pull/拉扯) + -est(后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The election contest between the two candidates was one of the closest in the nation's history. `[COCA-ACAD]`
-> - Several groups have contested the government's decision to build the highway through the forest. `[COCA-ACAD]`
-> - She won first prize in the national speech contest. `[例]`
+> - She's won a lot of beauty contests. `[例]`
+>   - 中译：她赢得了很多选美比赛。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/contest
+> - The winner of tonight's talent contest will be decided by clapometer. `[例]`
+>   - 中译：今晚的才艺比赛的获胜者将通过拍拍器决出。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/contest
+> - Both sides played well - it was a very even contest. `[例]`
+>   - 中译：双方都打得很好——这是一场非常势均力敌的比赛。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/contest
 ---
 
 

@@ -128,10 +128,15 @@ re-(away/back) + 建议创建词根笔记 [[re/rem]](to move/移动) + -al(名�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The removal of trade barriers has stimulated economic growth. `[真题]`
-> - Government advisers have requested the drug's removal from the market for safety reasons. `[COCA-ACAD]`
-> - Allegations of abuse led to the removal of several children from their families. `[COCA-ACAD]`
-> - Surgical removal of the tumor might be necessary. `[COCA-ACAD]`
+> - Does your firm do removals? `[例]`
+>   - 中译：你们公司有做搬家的吗？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/removal
+> - The kidney plays a vital role in the removal of waste products from the blood. `[例]`
+>   - 中译：肾脏在清除血液中的废物方面起着至关重要的作用。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/removal
+> - The company charged him for the removal of the vehicle. `[例]`
+>   - 中译：该公司向他收取了移走车辆的费用。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/removal
 
 ---
 

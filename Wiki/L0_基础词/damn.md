@@ -138,7 +138,7 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Damn, I've spilled coffee down my blouse ! `[例]`
+> - Damn, I've spilled coffee down my blouse! `[例]`
 > - Damn, that tastes good. `[例]`
 > - I don't brag very often, but damn, I'm going to brag about this! `[例]`
 

@@ -139,10 +139,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She has a real temper. `[例]`
-> - He's got a really bad temper. `[例]`
-> - The children behaved so badly that I lost my temper. `[例]`
-> - I found it hard to keep my temper with so many things going wrong . `[例]`
+> - He must learn to control his temper. `[例]`
+>   - 中译：他必须学会控制自己的脾气。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/temper
+> - After an hour of waiting, tempers began to fray (= people began to get angry). `[例]`
+>   - 中译：经过一个小时的等待，脾气开始暴躁（=人们开始生气）。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/temper
+> - She says awful things when she's in a temper. `[例]`
+>   - 中译：她一生气就会说些难听的话。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/temper
 
 ---
 

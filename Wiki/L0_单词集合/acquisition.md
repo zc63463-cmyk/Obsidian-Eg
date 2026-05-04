@@ -120,6 +120,15 @@ ac-(=ad-, 向/去) + quis(=quaerere, 寻求) + -ition(名词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
+> - The acquisition of huge amounts of data has helped our research enormously. `[例]`
+>   - 中译：海量数据的获取对我们的研究有很大帮助。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/acquisition
+> - Their main methods of food acquisition were hunting and fishing. `[例]`
+>   - 中译：他们获取食物的主要方式是狩猎和捕鱼。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/acquisition
+> - Education is not merely about the acquisition of knowledge. `[例]`
+>   - 中译：教育不仅仅是获取知识。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/acquisition
 - The acquisition of the company was completed last month.（该公司收购已于上月完成。）
 - Second language acquisition research has made great progress.（第二语言习得研究取得了巨大进展。）
 

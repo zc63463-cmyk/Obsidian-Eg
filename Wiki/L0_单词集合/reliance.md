@@ -126,9 +126,15 @@ re-(反复/回) + li(绑) + -ance(名词后缀，表示状态)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - He wrote the paper with considerable reliance on the work of other scientists. `[COCA-ACAD]`
-> - Its heavy reliance on national oil companies has long been seen as a strength. `[COCA-ACAD]`
-> - The survey research also confirms the primary consequence of increasing reliance on state support. `[COCA-ACAD]`
+> - The region's reliance on tourism is unwise. `[例]`
+>   - 中译：该地区对旅游业的依赖是不明智的。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/reliance
+> - You place too much reliance on her ideas and expertise. `[例]`
+>   - 中译：你过于依赖她的想法和专业知识。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/reliance
+> - She said that there is too much reliance on meat in our diet. `[例]`
+>   - 中译：她说我们的饮食过于依赖肉类。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/reliance
 ---
 
 

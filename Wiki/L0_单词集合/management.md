@@ -137,11 +137,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Business improved under the management of new owners. `[COCA-ACAD]`
-> - Management and labor could not agree on the terms of the new contract. `[COCA-NEWS]`
-> - Effective time management is essential for academic success. `[COCA-ACAD]`
-> - She is responsible for the day-to-day management of the company. `[COCA-ACAD]`
-> - The project needs stronger management to meet its deadlines. `[COCA-ACAD]`
+> - The company has suffered from several years of bad management. `[例]`
+>   - 中译：该公司多年来一直遭受管理不善的困扰。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/management
+> - There is a need for stricter financial management. `[例]`
+>   - 中译：需要更加严格的财务管理。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/management
+> - I am the formal leader of the project but the everyday management is done by my assistant. `[例]`
+>   - 中译：我是该项目的正式领导，但日常管理由我的助手完成。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/management
 
 ---
 

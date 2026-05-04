@@ -127,9 +127,15 @@ centi-(百，百分之一) + metre(米，希腊语 *metron*，度量)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Bangkok is sinking at the rate of up to five centimetres (two inches ) a year , and the entire city may be below sea level by 2050. `[例]`
-> - The newspaper has increased the amount it charges per square centimetre of advertising space by 16%. `[例]`
-> - The shelves are three centimetres thick . `[例]`
+> - The shelves are three centimetres thick. `[例]`
+>   - 中译：架子有三厘米厚。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/centimetre
+> - There is a ten centimetre gap between the table and the wall. `[例]`
+>   - 中译：桌子和墙壁之间有十厘米的间隙。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/centimetre
+> - I need the measurements for the curtains in centimetres. `[例]`
+>   - 中译：我需要以厘米为单位的窗帘尺寸。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/centimetre
 
 
 ---

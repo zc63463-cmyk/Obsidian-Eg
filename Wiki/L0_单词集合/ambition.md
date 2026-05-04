@@ -126,9 +126,15 @@ ambi-(周围、四处) + -ition(名词后缀，来自 ire/it，走) → 四处�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Her lifelong ambition was to become a renowned scientist."（她毕生的追求是成为一名著名的科学家。）——2021考研英语阅读Text3
-> - "Political ambition can drive leaders to achieve great things, but it can also lead to corruption."（政治野心可以驱使领导人成就伟业，但也可能导致腐败。）——考研高频表达
-> - "He fulfilled his ambition of climbing Mount Everest before the age of thirty."（他在三十岁之前实现了攀登珠穆朗玛峰的抱负。）——考研高频表达
+> - I've always had a burning (= very great ) ambition to be a film director. `[例]`
+>   - 中译：我一直有成为一名电影导演的强烈（=非常伟大）野心。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/ambition
+> - He insisted that he had no political ambitions (= did not want to run for or hold a political office ). `[例]`
+>   - 中译：他坚称自己没有政治野心（=不想竞选或担任政治职务）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/ambition
+> - He has already achieved his main ambition in life - to become wealthy. `[例]`
+>   - 中译：他已经实现了人生的主要抱负——致富。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/ambition
 
 ---
 

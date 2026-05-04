@@ -125,8 +125,8 @@ smoke（烟）+ fog（雾）→ smog（烟雾）。20世纪初由英国人创造
 
 > [!example]- 语料
 > - Smog is a major problem in Athens. `[例]`
-> - As we flew into the airport , we could see a murky yellow smog hovering over the city . `[例]`
-> - A poisonous smog killed 20 people . `[例]`
+> - As we flew into the airport , we could see a murky yellow smog hovering over the city. `[例]`
+> - A poisonous smog killed 20 people. `[例]`
 
 
 ---

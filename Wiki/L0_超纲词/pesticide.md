@@ -3,10 +3,8 @@ title: "pesticide"
 tags:
   - 学习/英语/词汇
   - 语义场/物品工具
-  - 掌握/L0
 aliases: []
 date: 2026-04-25
-mastery: L0
 word_freq: 超纲词
 semantic_field: 物品工具
 prototype: 杀灭害虫的化学物质
@@ -42,7 +40,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**杀灭害虫的化学物质**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **杀虫物质**（物理层面）
@@ -61,7 +59,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -71,7 +69,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > pest（害虫）+ cide（杀）→ pesticide。就像 suicide 是"自杀"、homicide 是"杀人"，pesticide 就是"杀害虫"。农民用 pesticide 保护庄稼，但环保主义者担心 pesticide 会伤害蜜蜂和污染水源。
@@ -83,7 +81,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -95,13 +93,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[fertilizer]]：肥料（pesticide 的反义：消灭↔滋养）
 > - [[insect repellent]]：驱虫剂（pesticide 的反义：杀灭↔驱赶）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -113,7 +111,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **pesticide residue**：农药残留
 > - **organic pesticide**：有机农药
 > - **chemical pesticide**：化学农药
@@ -122,19 +120,12 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - `[例]` The study found pesticide residues on 70% of the fruit samples tested.
-> - `[例]` Many countries have imposed restrictions on the use of chemical pesticides.
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-25 | **复习次数**：0 | **当前等级**：L0
-
----
+> [!example]- 语料
+> - The pesticides that farmers spray on their crops kill pests , but they can also damage people's health. `[例]`
+> - Environmentalists called for cuts in pesticide use. `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

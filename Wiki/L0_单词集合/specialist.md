@@ -126,9 +126,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She's a specialist in modern French literature . `[例]`
-> - She's a specialist in childhood illnesses . `[例]`
-> - I've asked to be referred to a specialist about my back pain . `[例]`
+> - A specialist in Japanese history gave the lecture. `[例]`
+>   - 中译：一位日本史专家作了这场讲座。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/specialist_1
+> - You need to see a specialist. `[例]`
+>   - 中译：你需要去看专科医生。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/specialist_1
+> - I trained as a psychiatric specialist at the hospital. `[例]`
+>   - 中译：我曾在那家医院接受精神科专科医生培训。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/specialist_1
 
 ---
 

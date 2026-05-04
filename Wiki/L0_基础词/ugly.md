@@ -126,8 +126,8 @@ review_count: 0
 
 > [!example]- 语料
 > - I think a lot of modern architecture is very ugly. `[例]`
-> - He was a really unpleasant man and as ugly as sin (= very ugly) . `[例]`
-> - There were ugly scenes outside the stadium . `[例]`
+> - He was a really unpleasant man and as ugly as sin (= very ugly). `[例]`
+> - There were ugly scenes outside the stadium. `[例]`
 
 
 ---

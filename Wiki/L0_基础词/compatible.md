@@ -127,10 +127,15 @@ com-(一起) + [[pat|pat-]](承受/赞同，拉丁语 *pati*) + -ible(能够…�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The computer software isn't compatible with your operating system. ` [COCA-ACAD]`
-> - Such policies are not compatible with democratic government. ` [COCA-NEWS]`
-> - Their blood types are not compatible, so we cannot use his blood. ` [COCA-FIC]`
-> - An MP's job is just not compatible with family life, especially when the children are very young. ` [COCA-NEWS]`
+> - The new system will be compatible with existing equipment. `[例]`
+>   - 中译：新系统将与现有设备兼容。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/compatible
+> - Are measures to protect the environment compatible with economic growth? `[例]`
+>   - 中译：保护环境的措施是否与经济增长相协调？
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/compatible
+> - She found a compatible partner on an online dating site. `[例]`
+>   - 中译：她在一个在线约会网站上找到了一个兼容的伴侣。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/compatible
 
 
 ---

@@ -125,10 +125,15 @@ im-(=in，进入) + plic(=fold，折叠) + -ation(名词后缀，表动作/结�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The implications of this discovery for medical research are enormous. `[真题]`
-> - You need to consider the legal implications before you publish anything. `[COCA-ACAD]`
-> - The new policy has far-reaching implications for the education system. `[真题]`
-> - I resent the implication that I'm not trying hard enough. `[COCA-NEWS]`
+> - From what she said, the implication was that they were splitting up. `[例]`
+>   - 中译：从她的话里，暗示着他们要分手了。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/implication
+> - She accused the party and, by implication, its leader too. `[例]`
+>   - 中译：她指责该党，并暗示也指责其领导人。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/implication
+> - The company is cutting back its spending and I wonder what the implications will be for our department. `[例]`
+>   - 中译：该公司正在削减开支，我想知道这会对我们部门产生什么影响。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/implication
 
 ---
 

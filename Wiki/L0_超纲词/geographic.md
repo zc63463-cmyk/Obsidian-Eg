@@ -3,10 +3,8 @@ title: "geographic"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 自然物理
 prototype: 与地理有关的（与地球表面的地方和特征相关）
@@ -45,7 +43,7 @@ geo-（地球，来自希腊语 *gē* "地球"）+ graph（写/画/记录，来�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**与地理有关的（与地球表面相关）**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **与地理有关的**（学科层面）
@@ -66,7 +64,7 @@ geo-（地球，来自希腊语 *gē* "地球"）+ graph（写/画/记录，来�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ geo-（地球，来自希腊语 *gē* "地球"）+ graph（写/画/记录，来�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > geographic 的核心是 geo（地球）+ graph（写/画）→ "描写地球"的学问就是 geography，与之相关的就是 geographic。想象一张世界地图——上面画着山川、河流、国界——这张"画地球"的地图就是 geographic 的产物。geographic location 告诉你"在哪里"，geographic distribution 告诉你"分布在哪里"，geographic barrier 告诉你"什么地理因素阻挡了你"。
@@ -90,7 +88,7 @@ geo-（地球，来自希腊语 *gē* "地球"）+ graph（写/画/记录，来�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -104,12 +102,12 @@ geo-（地球，来自希腊语 *gē* "地球"）+ graph（写/画/记录，来�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - 此词为描述性形容词，无直接反义词。在特定语境中可与"非空间的/抽象的"概念形成对比
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,7 +121,7 @@ geo-（地球，来自希腊语 *gē* "地球"）+ graph（写/画/记录，来�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **geographic location**：地理位置
   - The geographic location of the city makes it a natural trade hub.
 > - **geographic distribution**：地理分布
@@ -137,19 +135,12 @@ geo-（地球，来自希腊语 *gē* "地球"）+ graph（写/画/记录，来�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - The geographic distribution of the species is strongly influenced by climate change. `[例]`
 > - Geographic barriers such as mountains and rivers have shaped the migration patterns of many animals. `[例]`
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
-
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -118,9 +118,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - An opportunity may thus be presented of determining the mass of one of the largest comets on record, which may not again occur. `[例]`
-> - Did not God do this very thing when he permitted the comet to strike the earth? `[例]`
-> - However, the Church of England still embraced the idea that comets and eclipses were evidence of God's wrath. `[例]`
+> - Though uncommon on our planet, exotic ice may exist in off-Earth environments, from cold and amorphous comet tails to the hot and crushing cores of icy planets. `[例]`
+>   - 中译：尽管在我们的星球上并不常见，但奇异的冰可能存在于地外环境中，从寒冷和无定形的彗尾到冰行星的炽热和破碎的核心。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/comet
+> - At the same time, ultraviolet radiation from the sun strips electrons from gas molecules in the comet 's coma — a process known as ionization. `[例]`
+>   - 中译：与此同时，来自太阳的紫外线辐射从彗发彗发中的气体分子中剥离电子——这一过程称为电离。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/comet
+> - In 2020, stargazers flocked to dark sky locations to view the cosmic traveler Neowise, a visible comet then 64 million miles from Earth, with a dusty tail extending more than a million miles. `[例]`
+>   - 中译：2020 年，观星者纷纷涌向黑暗的天空地点观看宇宙旅行者 Neowise，这是一颗可见的彗星，距离地球 6400 万英里，布满灰尘的彗尾延伸超过 100 万英里。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/comet
 
 
 ---

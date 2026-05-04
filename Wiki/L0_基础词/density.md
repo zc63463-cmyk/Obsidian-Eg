@@ -126,7 +126,7 @@ review_count: 0
 
 > [!example]- 语料
 > - The area has a high population density. `[例]`
-> - We were unable to move because of the density of the crowd . `[例]`
+> - We were unable to move because of the density of the crowd. `[例]`
 > - Lead has a high density. `[例]`
 
 

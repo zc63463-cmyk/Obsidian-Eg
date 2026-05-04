@@ -125,10 +125,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "In 1924 America's National Research Council sent two engineers to supervise a series of industrial experiments at a large telephone-parts factory." `[真题]`
-> - "By instituting these programs, we hope to improve our children's education." `[COCA-ACAD]`
-> - "They have instituted new policies to increase public safety." `[COCA-ACAD]`
-> - "The National Institutes of Health fund medical research in many areas." `[COCA-ACAD]`
+> - The institute derives all its money from foreign investments. `[例]`
+>   - 中译：该研究所的所有资金均来自外国投资。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/institute
+> - The institute will invest 5 million in the project. `[例]`
+>   - 中译：该项目将投资500万。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/institute
+> - The state of Michigan has endowed three institutes to do research for industry. `[例]`
+>   - 中译：密歇根州资助了三个研究所进行工业研究。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/institute
 
 
 ---

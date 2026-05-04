@@ -126,9 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The doctor confirmed that he had fractured two ribs in the accident and would need several weeks to recover. ` [真题]`
-> - He used to rib his younger brother about his shyness whenever they were with friends. ` [真题]`
-> - She felt a sharp pain in her rib cage after the fall and decided to go to the hospital immediately. ` [真题]`
+> - He cooked rib of lamb for Sunday lunch. `[例]`
+> - She elbowed me in the ribs before I could say anything. `[例]`
+> - Two of her ribs fractured when she was thrown from her horse. `[例]`
 
 
 ---

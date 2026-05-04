@@ -126,9 +126,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The house was bought by a young married couple. `[语料库]`
-> - In the past couple of years, things have been slowing down. `[语料库]`
-> - The couple met in 1989 when Julia worked as a law clerk at the firm where Ken worked. `[语料库]`
+> - I saw a couple of men get out. `[例]`
+>   - 中译：我看到有几个男人从里面出来。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/couple
+> - We went there a couple of years ago. `[例]`
+>   - 中译：几年前我们去过那里。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/couple
+> - I've seen her a couple of times before. `[例]`
+>   - 中译：我以前见过她几次。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/couple
 
 
 ---

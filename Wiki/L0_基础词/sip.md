@@ -129,9 +129,9 @@ sip 源自古英语 *sippian*，拟声词，模拟小口吸吮的声音
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She sipped her coffee while she watched the sun rise through the window. `[外刊]`
+> - She sipped her coffee while she watched the sun rise through the window. `[例]`
 > - He took a sip of bourbon and set the glass down on the counter. `[真题]`
-> - To regain her composure, she opened the wine bottle and took a slow sip. `[外刊]`
+> - To regain her composure, she opened the wine bottle and took a slow sip. `[例]`
 
 
 ---

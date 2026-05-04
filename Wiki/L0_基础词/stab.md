@@ -128,9 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She was stabbed several times in the chest . `[例]`
-> - He was jailed for 15 years for stabbing his wife to death . `[例]`
-> - As she spoke she stabbed the air with her finger . `[例]`
+> - She was stabbed several times in the chest. `[例]`
+> - He was jailed for 15 years for stabbing his wife to death. `[例]`
+> - As she spoke she stabbed the air with her finger. `[例]`
 
 
 ---

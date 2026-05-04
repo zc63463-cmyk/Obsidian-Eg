@@ -122,9 +122,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Lay the cloth flat across the table . `[例]`
-> - There's milk on the floor over there - could you get a cloth and mop it up? `[例]`
-> - The coarseness of the cloth irritated her skin . `[例]`
+> - His bandages had been made from strips of cloth. `[例]`
+>   - 中译：他的绷带是用布条制成的。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/cloth
+> - He gently cleaned her face with a wet cloth. `[例]`
+>   - 中译：他用湿布轻轻擦拭她的脸。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/cloth
+> - We wanted to buy a bigger house than this but it was a case of cutting our coat according to our cloth. `[例]`
+>   - 中译：我们想买比这更大的房子，但这是根据我们的布料剪裁我们的外套的情况。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/cloth
 
 
 ---

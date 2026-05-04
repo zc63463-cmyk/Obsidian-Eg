@@ -134,9 +134,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - It will take us some time to correct all the mistakes. `[真题]`
-> - Please correct your essay for punctuation errors. `[真题]`
-> - He corrects papers with a red pen. `[真题]`
+> - Do you have the correct time? `[例]`
+>   - 中译：你有正确的时间吗？
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/correct
+> - When asked to pick the correct meaning from four alternatives, students consistently chose the correct one. `[例]`
+>   - 中译：当被要求从四个选项中选出正确的含义时，学生们一致选择了正确的一个。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/correct
+> - Please check that these details are correct. `[例]`
+>   - 中译：请检查这些详细信息是否正确。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/correct
 
 
 ---

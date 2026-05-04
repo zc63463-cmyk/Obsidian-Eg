@@ -122,9 +122,9 @@ mus(=muse, 音乐/缪斯) + -ic(形容词后缀) + -ian(名词后缀，"……�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The concert features dancers and musicians of all nationalities . `[例]`
-> - The famous jazz musician, Duke Ellington, was a composer , arranger and pianist . `[例]`
-> - The restaurant was hopelessly mismanaged by a former rock musician with no business experience . `[例]`
+> - The concert features dancers and musicians of all nationalities. `[例]`
+> - The famous jazz musician, Duke Ellington, was a composer , arranger and pianist. `[例]`
+> - The restaurant was hopelessly mismanaged by a former rock musician with no business experience. `[例]`
 
 
 ---

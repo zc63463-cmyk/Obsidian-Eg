@@ -127,9 +127,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The president held an emergency meeting to discuss military strategy with the Pentagon yesterday . `[例]`
-> - Their marketing strategy for the product involves obtaining as much free publicity as possible . `[例]`
-> - Follow this strategy for avoiding minor mistakes . `[例]`
+> - We need to devise an effective long-term strategy. `[例]`
+>   - 中译：我们需要制定有效的长期战略。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/strategy
+> - It's all part of an overall strategy to gain promotion. `[例]`
+>   - 中译：这是获得晋升的总体策略的一部分。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/strategy
+> - Poor marketing strategy was blamed for the failure of the service to catch on. `[例]`
+>   - 中译：糟糕的营销策略被认为是该服务未能流行的原因。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/strategy
 ---
 
 

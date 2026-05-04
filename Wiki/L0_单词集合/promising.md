@@ -127,9 +127,15 @@ pro-(向前) + mise(发送) + -ing(分词形容词后缀，表"正在……的")
 ## 真题/语料关联
 
 > [!example]- 语料
-> - They won the award for the most promising new band of the year . `[例]`
+> - They won the award for the most promising new band of the year. `[例]`
+>   - 中译：他们获得了年度最有前途新乐队奖。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/promising
 > - How's your new venture going?" "It's looking quite promising. `[例]`
-> - It's a great restaurant but it doesn't look at all promising from the outside . `[例]`
+>   - 中译：你的新事业进展得怎么样了？” “看起来很有前途。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/promising
+> - It's a great restaurant but it doesn't look at all promising from the outside. `[例]`
+>   - 中译：这是一家很棒的餐厅，但从外面看起来并不乐观。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/promising
 
 
 ---

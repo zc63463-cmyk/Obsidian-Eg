@@ -136,9 +136,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Technology is becoming bigger and more aspirational, and penetrating almost every aspect of our lives. `[考研英语阅读]`
-> - The company has been successful in penetrating overseas markets this year. `[剑桥商务英语词典]`
-> - These fine particles penetrate deep into the lungs. `[牛津词典]`
+> - Technology is becoming bigger and more aspirational, and penetrating almost every aspect of our lives. `[例]`
+> - The company has been successful in penetrating overseas markets this year. `[例]`
+> - These fine particles penetrate deep into the lungs. `[例]`
 
 
 ---

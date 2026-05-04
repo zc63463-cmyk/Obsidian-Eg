@@ -125,9 +125,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - A healthy diet should include plenty of fresh vegetables, fruits, and salads. `[外刊]`
-> - I opted for tuna carpaccio with pepper and rocket salad from the a la carte menu. `[外刊]`
-> - There's fresh fruit salad for afters. `[外刊]`
+> - A healthy diet should include plenty of fresh vegetables, fruits, and salads. `[例]`
+> - I opted for tuna carpaccio with pepper and rocket salad from the a la carte menu. `[例]`
+> - There's fresh fruit salad for afters. `[例]`
 
 
 ---

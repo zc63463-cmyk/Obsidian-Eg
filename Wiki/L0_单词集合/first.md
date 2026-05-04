@@ -140,10 +140,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "first and foremost, we must consider..."（首先，我们必须考虑……）——考研写作/翻译高频表达
-> - "first impression is crucial"（第一印象至关重要）——心理学/社会类阅读常见表达
-> - "of the first importance"（头等重要的）——学术/政论类阅读常见搭配
-> - "at first glance"（乍一看）——考研阅读/翻译高频短语
+> - Red flags include a large number of citations to an article within the first year. `[真题]`
+>   - 中译：危险信号包括第一年内对某篇文章的大量引用。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - He captured the first-ever shots of iconic landmarks such as the Tetons, Old Faithful and the Colorado Rockies. `[真题]`
+>   - 中译：他首次拍摄了大提顿山、老忠实间歇泉和科罗拉多落基山脉等标志性地标的照片。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - Grant signed an act into law that established Yellowstone as the world's first national park. `[真题]`
+>   - 中译：格兰特签署了一项法律，将黄石公园确立为世界上第一个国家公园。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
 
 ---
 

@@ -133,10 +133,10 @@ re-（回，向后）+ cip（拿，=capere 的缩略形式）+ -e
 ## 真题/语料关联
 
 > [!example]- 语料
-> - I tried a new recipe for chocolate cake and it turned out wonderfully. `[牛津词典]`
-> - If you want the dish to turn out right, you should follow the recipe carefully. `[牛津词典]`
-> - To live every day to the full is a recipe for happiness. `[柯林斯语料库]`
-> - His reckless spending habits were a recipe for financial disaster. `[通用语料]`
+> - I tried a new recipe for chocolate cake and it turned out wonderfully. `[例]`
+> - If you want the dish to turn out right, you should follow the recipe carefully. `[例]`
+> - To live every day to the full is a recipe for happiness. `[例]`
+> - His reckless spending habits were a recipe for financial disaster. `[例]`
 
 
 ---

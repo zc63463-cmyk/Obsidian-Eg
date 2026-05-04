@@ -137,8 +137,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "What they found, in attempting to model thought, is that the human brain's roughly one hundred billion nerve cells are much more talented than previously imagined."（在试图模拟人类思维的过程中，他们发现人脑中约一千亿个神经细胞远比以前想象的更加出色。）——考研高频表达
-> - "The economic model predicts that the GDP growth rate will slow down in the next quarter."（经济模型预测下季度GDP增长率将放缓。）——考研高频表达
+> - The educational system was a model for those of many other countries. `[例]`
+>   - 中译：该教育体系是许多其他国家的典范。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/model
+> - The developer plans to build a model community on the site. `[例]`
+>   - 中译：开发商计划在该网站上建立一个样板社区。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/model
+> - They created an education system on the European model. `[例]`
+>   - 中译：他们按照欧洲模式创建了教育体系。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/model
 ---
 
 

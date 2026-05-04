@@ -122,7 +122,7 @@ in-(不，否定) + [[numer|numer-]](数字，数) + -able(可以被……的)
 > [!example]- 语料
 > - There are innumerable examples of how technology has transformed our daily lives. `[真题]`
 > - She has helped innumerable people through her charity work. `[真题]`
-> - The frictionless design of social media platforms has been the source of innumerable problems, including viral misinformation and ethnic violence abroad. `[权威语料]`
+> - The frictionless design of social media platforms has been the source of innumerable problems, including viral misinformation and ethnic violence abroad. `[例]`
 
 
 ---

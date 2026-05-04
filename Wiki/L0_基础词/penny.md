@@ -125,9 +125,9 @@ penny 源自古英语 *penning*，与古日耳曼语 *panning* 同源，原始�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - He has not a penny to his name. `[考研英语常见表达]`
-> - The new technology could save companies a pretty penny in operational costs. `[考研英语二2018阅读]`
-> - It didn't cost him a penny because it was covered by the state's healthcare program. `[Los Angeles Times]`
+> - He has not a penny to his name. `[例]`
+> - The new technology could save companies a pretty penny in operational costs. `[例]`
+> - It didn't cost him a penny because it was covered by the state's healthcare program. `[例]`
 
 
 ---

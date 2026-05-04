@@ -132,7 +132,6 @@ yard 有两个不同的词源：
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The shipyard, once the largest employer in the region, was forced to close due to declining demand for new vessels. `[真题]`
 > - Children in the neighborhood often gathered in the back yard to play games after school. `[真题]`
 > - The house sits on a quarter-acre lot with a beautifully landscaped front yard and a vegetable garden. `[真题]`
 > - The quarterback threw a spectacular 50-yard pass that led to the winning touchdown in the final seconds. `[真题]`

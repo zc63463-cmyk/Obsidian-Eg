@@ -132,9 +132,15 @@ con-(共同/一起) + [[text]](to weave/编织) + (无后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The meaning of a word can vary significantly depending on the context in which it is used. `[COCA-ACAD]`
-> - To fully understand the historical event, we must place it in its broader social and political context. `[COCA-ACAD]`
-> - His words were taken out of context and caused unnecessary controversy. `[例]`
+> - It is important to see all the fighting and bloodshed in his plays in historical context. `[例]`
+>   - 中译：重要的是要在历史背景下看待他戏剧中的所有战斗和流血。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/context
+> - This small battle is very important in the context of Scottish history. `[例]`
+>   - 中译：这场小战役在苏格兰历史上非常重要。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/context
+> - To understand this issue , it must first be situated in its context. `[例]`
+>   - 中译：要理解这个问题，首先必须将其置于其背景中。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/context
 ---
 
 

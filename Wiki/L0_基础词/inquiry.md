@@ -130,7 +130,7 @@ in-(向内，深入) + [[quir-quis|quir-/quis-]](追求，寻求) + -y(名词后
 > [!example]- 语料
 > - The government launched a public inquiry into the causes of the accident. `[真题]`
 > - The spirit of scientific inquiry drives progress. `[真题]`
-> - The police are pursuing a new line of inquiry. `[权威语料]`
+> - The police are pursuing a new line of inquiry. `[例]`
 
 
 ---

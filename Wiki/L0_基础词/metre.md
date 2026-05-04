@@ -127,7 +127,7 @@ review_count: 0
 > [!example]- 语料
 > - The race is 100 metres long. `[真题]`
 > - The room measures four metres by three. `[真题]`
-> - Shakespeare often wrote in iambic metre. `[真题]`
+> - The bomb shelter has concrete walls that are three metres thick. `[例]`
 
 
 ---

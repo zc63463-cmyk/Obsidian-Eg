@@ -131,9 +131,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Pat Hardy, who sympathises with the views of the energy sector, is resisting proposed changes 1to science standards for pre-teen pupils. `[真题]`
-> - Most scientists and experts sharply dispute Hardy's views. `[真题]`
-> - She expresses self-contradictory views. `[真题]`
+> - There were magnificent views of the surrounding countryside. `[例]`
+>   - 中译：周围乡村的壮丽景色尽收眼底。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/view
+> - Most rooms enjoy panoramic views of the ocean. `[例]`
+>   - 中译：大部分客房都享有海洋全景。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/view
+> - The view from the top of the tower was spectacular. `[例]`
+>   - 中译：从塔顶看到的景色非常壮观。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/view
 
 ---
 

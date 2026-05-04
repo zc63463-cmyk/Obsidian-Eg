@@ -138,9 +138,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - It's not surprising you feel weak if you haven't eaten properly for days . `[例]`
-> - He was a weak king surrounded by corrupt advisers . `[例]`
-> - Any evidence that exists to support the hypothesis is fairly weak. `[例]`
+> - She is still weak after her illness. `[例]`
+>   - 中译：病后她仍然很虚弱。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/weak
+> - His legs felt weak. `[例]`
+>   - 中译：他感到双腿发软。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/weak
+> - She suffered from a weak heart. `[例]`
+>   - 中译：她患有心脏虚弱的疾病。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/weak
 
 ---
 

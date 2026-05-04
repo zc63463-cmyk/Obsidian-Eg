@@ -131,10 +131,10 @@ vein（源自拉丁语 *vena*，"血管，矿脉"，与 [[veil]] 同源于印欧
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The essay begins with a personal anecdote and continues in a reflective vein, examining how childhood experiences shape adult perspectives." `[真题]`
-> - "The marble has beautiful veins running through it." `[权威语料]`
-> - "He continued in the same vein as last season but the players were different." `[权威语料]`
-> - "She spoke to him in a sarcastic vein that left no room for misunderstanding." `[权威语料]`
+> - The essay begins with a personal anecdote and continues in a reflective vein, examining how childhood experiences shape adult perspectives. `[真题]`
+> - The marble has beautiful veins running through it. `[例]`
+> - He continued in the same vein as last season but the players were different. `[例]`
+> - She spoke to him in a sarcastic vein that left no room for misunderstanding. `[例]`
 
 
 ---

@@ -132,8 +132,8 @@ review_count: 0
 
 > [!example]- 语料
 > - The bill proved largely popular and sailed through Congress with large majorities in favor. `[真题]`
-> - She's the most popular teacher in school . `[例]`
-> - That song was popular with people from my father's generation . `[例]`
+> - She's the most popular teacher in school. `[例]`
+> - That song was popular with people from my father's generation. `[例]`
 
 
 ---

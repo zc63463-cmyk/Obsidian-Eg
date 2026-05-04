@@ -3,10 +3,8 @@ title: "dominance"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 抽象关系
 prototype: 做主人（掌控/统治的地位）
@@ -43,7 +41,7 @@ domin-(domin-/dom-，主人/统治) + -ance(名词后缀) → 做主人的状态
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以“**做主人（掌控/统治的地位）**”为统筹中心，沿社会路径向外扩展：
 >
 > 1. **做主人**（角色层面）
@@ -64,7 +62,7 @@ domin-(domin-/dom-，主人/统治) + -ance(名词后缀) → 做主人的状态
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ domin-(domin-/dom-，主人/统治) + -ance(名词后缀) → 做主人的状态
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > domin（主人，同 domain 领域、dominate 支配）+ -ance → 做主人的状态 → 统治地位。domain 是领地，dominance 是在领地上做主人。
@@ -86,7 +84,7 @@ domin-(domin-/dom-，主人/统治) + -ance(名词后缀) → 做主人的状态
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -98,13 +96,13 @@ domin-(domin-/dom-，主人/统治) + -ance(名词后缀) → 做主人的状态
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[subordination]]：从属（dominance 的反义：支配↔从属）
 > - [[inferiority]]：劣势（dominance 的反义：优势↔劣势）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,27 +115,20 @@ domin-(domin-/dom-，主人/统治) + -ance(名词后缀) → 做主人的状态
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **market dominance**：市场优势/主导地位
 > - **achieve/gain dominance**：获得优势
 > - **cultural dominance**：文化主导
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - The company has achieved market dominance through aggressive expansion. `[例]`
 > - The team's dominance in the tournament was evident from their first match. `[例]`
 > - Cultural dominance of one group over another can lead to the erosion of minority traditions. `[例]`
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
-
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

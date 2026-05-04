@@ -133,9 +133,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He railed at the injustice of the system." `[COCA-FIC]`
-> - "The workers were transported to the factory by rail." `[COCA-ACAD]`
-> - "Goods can be shipped more cheaply by rail than by road." `[COCA-ACAD]`
+> - Environmentalists argue that more goods should be transported by rail. `[例]`
+>   - 中译：环保主义者认为应该通过铁路运输更多的货物。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/rail
+> - An inquiry was ordered into the recent rail disaster. `[例]`
+>   - 中译：已下令对最近发生的铁路灾难进行调查。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/rail
+> - Government sources estimate a long-term 50% increase in rail fares. `[例]`
+>   - 中译：政府消息人士估计，铁路票价长期将上涨 50%。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/rail
 
 ---
 

@@ -123,10 +123,10 @@ re-(再次，[[re]]) + pro-(向前) + [[duct|duc]](引导，[[duct]]) → produc
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The best ink-jet printers can reproduce photographs with amazing fidelity." `[COCA-NEWS]`
-> - "Most reptiles reproduce by laying eggs on land." `[COCA-ACAD]`
-> - "When viruses infect our bodies they rely on our cells to reproduce." `[COCA-ACAD]`
-> - "The study's findings could not be reproduced by other researchers." `[COCA-ACAD]`
+> - The best ink-jet printers can reproduce photographs with amazing fidelity. `[COCA-NEWS]`
+> - Most reptiles reproduce by laying eggs on land. `[COCA-ACAD]`
+> - When viruses infect our bodies they rely on our cells to reproduce. `[COCA-ACAD]`
+> - The study's findings could not be reproduced by other researchers. `[COCA-ACAD]`
 
 
 ---

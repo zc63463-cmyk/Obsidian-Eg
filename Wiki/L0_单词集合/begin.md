@@ -131,10 +131,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - To begin with, the evidence suggests that the policy has been largely ineffective. `[例]`
-> - The company began as a small family-owned business in the 1990s. `[例]`
-> - She began to realize that her assumptions about the project were fundamentally flawed. `[COCA-ACAD]`
-> - The government should begin by addressing the most urgent issues facing the nation. `[例]`
+> - What time does the concert begin? `[例]`
+>   - 中译：音乐会几点开始？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/begin
+> - The film they want to watch begins at seven. `[例]`
+>   - 中译：他们想看的电影七点开始。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/begin
+> - Stir the sauce gently until it begins to boil. `[例]`
+>   - 中译：轻轻搅拌酱汁直至开始沸腾。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/begin
 
 ---
 

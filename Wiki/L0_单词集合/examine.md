@@ -127,8 +127,15 @@ ex-(=ex-, 彻底) + [[ag|amin]](驱动/称量) → 彻底地称量、测试
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The committee will examine the proposal carefully before making a final decision."（委员会将在做出最终决定之前仔细审查该提案。）——考研高频表达
-> - "This study examines the relationship between social media use and mental health among adolescents."（本研究考察了青少年社交媒体使用与心理健康之间的关系。）——考研高频表达
+> - Forensic scientists are examining the wreckage for clues about the cause of the explosion. `[例]`
+>   - 中译：法医科学家正在检查残骸，寻找有关爆炸原因的线索。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/examine
+> - The council is to examine ways of reducing traffic in the city centre. `[例]`
+>   - 中译：该委员会将研究减少市中心交通的方法。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/examine
+> - The research examined the effects of alcohol on long-term memory. `[例]`
+>   - 中译：该研究调查了酒精对长期记忆的影响。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/examine
 ---
 
 

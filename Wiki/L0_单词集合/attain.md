@@ -129,9 +129,15 @@ at-(=ad-, 去/向) + tain(持有/达到，拉丁语 *tenere*, *tangere* 的延�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Students with high hope set themselves higher goals and know how to work to attain them." `[真题]`
-> - "India attained independence in 1947, after decades of struggle." `[COCA-ACAD]`
-> - "She attained the highest level of proficiency in both spoken and written English." `[例]`
+> - He has attained the highest grade in his music exams. `[例]`
+>   - 中译：他在音乐考试中取得了最高分。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/attain
+> - India attained independence in 1947, after decades of struggle. `[例]`
+>   - 中译：经过几十年的斗争，印度于 1947 年获得独立。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/attain
+> - You need financial security in order to attain emotional well-being. `[例]`
+>   - 中译：您需要经济保障才能获得情感幸福。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/attain
 
 
 ---

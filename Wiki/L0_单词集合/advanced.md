@@ -126,8 +126,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - "Advanced technology has made it possible to detect diseases at an early stage."（先进的技术使得在早期检测疾病成为可能。）——考研阅读真题
-> - "The country has one of the most advanced healthcare systems in the world."（这个国家拥有世界上最先进的医疗体系之一。）——考研高频表达
+> - This is the most advanced type of engine available. `[例]`
+>   - 中译：这是目前最先进的发动机类型。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/advanced
+> - We have made great progress in advanced technologies such as biotechnology and AI. `[例]`
+>   - 中译：我们在生物技术、人工智能等先进技术方面取得了长足进步。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/advanced
+> - This is a sturdy , reliable laptop for users who do not require a lot of advanced features. `[例]`
+>   - 中译：对于不需要大量高级功能的用户来说，这是一款坚固、可靠的笔记本电脑。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/advanced
 
 ---
 

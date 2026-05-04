@@ -135,11 +135,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The law has not kept pace with technology." `` `[COCA-ACAD]` ``
-> - "The pace of technological change is accelerating." `` `[COCA-ACAD]` ``
-> - "He paced up and down the room, deep in thought." `` `[COCA-FICT]` ``
-> - "Don't try to do everything at once — pace yourself." `` `[COCA-MAG]` ``
-> - "They simply can't keep pace with the competition." `` `[COCA-ACAD]` ``
+> - When she thought she heard someone following her, she quickened her pace. `[例]`
+>   - 中译：听到有人跟着她，她加快了脚步。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/pace
+> - Could you slow down - I can't keep pace with (= walk or run as fast as) you. `[例]`
+>   - 中译：你能慢点吗？我跟不上（=走或跑得和你一样快）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/pace
+> - She finished well off the pace (= a long way behind the winner of the race ) in fifth. `[例]`
+>   - 中译：她以第五名的成绩完赛（=远远落后于比赛获胜者）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/pace
 
 ---
 

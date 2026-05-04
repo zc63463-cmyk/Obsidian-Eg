@@ -3,10 +3,8 @@ title: "hominid"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 自然物理
 prototype: 人科动物（包括人类和类人猿的灵长类动物）
@@ -43,7 +41,7 @@ homin(=human/man, 人) + -[[id-ident|id]](名词后缀，表示"……科的动�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**人科动物**"为统筹中心，沿抽象路径向外扩展：
 >
 > 1. **人科动物**（生物学层面）
@@ -64,7 +62,7 @@ homin(=human/man, 人) + -[[id-ident|id]](名词后缀，表示"……科的动�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +73,7 @@ homin(=human/man, 人) + -[[id-ident|id]](名词后缀，表示"……科的动�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > homin（人，源自拉丁语 homo）+ -id（科的动物）= hominid = 人科动物。记住：hominid 是一个"家族"概念——包括我们人类、我们的祖先（如直立人），以及最近的亲戚（大猩猩、黑猩猩）。-id 后缀是生物学分类标准：felid（猫科）、canid（犬科）、hominid（人科）。
@@ -87,7 +85,7 @@ homin(=human/man, 人) + -[[id-ident|id]](名词后缀，表示"……科的动�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,12 +97,12 @@ homin(=human/man, 人) + -[[id-ident|id]](名词后缀，表示"……科的动�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - hominid 作为生物学分类名词，无精确反义词
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -116,7 +114,7 @@ homin(=human/man, 人) + -[[id-ident|id]](名词后缀，表示"……科的动�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **early hominids**：早期人科动物
 > - **hominid evolution**：人科动物进化
 > - **hominid fossil**：人科动物化石
@@ -124,20 +122,13 @@ homin(=human/man, 人) + -[[id-ident|id]](名词后缀，表示"……科的动�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - Fossil evidence suggests that early hominids walked upright nearly 4 million years ago. `[例]`
 > - The discovery of a new hominid species in Africa has reshaped our understanding of human evolution. `[例]`
 > - Recent studies of hominid fossils have provided new insights into the development of tool use among early human ancestors. `[例]`
 
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
-
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

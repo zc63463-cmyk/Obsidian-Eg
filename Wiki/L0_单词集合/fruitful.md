@@ -123,8 +123,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The fruitful collaboration between the two universities led to several groundbreaking discoveries."（两所大学之间的富有成果的合作促成了几项突破性的发现。）——考研高频表达
-> - "The negotiations proved fruitful, with both sides reaching a mutually beneficial agreement."（谈判证明是富有成果的，双方达成了互利协议。）——考研高频表达
+> - It was a most fruitful discussion , with both sides agreeing to adopt a common policy. `[例]`
+>   - 中译：这是一次富有成果的讨论，双方同意采取共同政策。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/fruitful
+> - He had a long and fruitful career as a research chemist. `[例]`
+>   - 中译：作为一名研究化学家，他有着漫长而卓有成效的职业生涯。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/fruitful
+> - Official manuals can be a potentially fruitful source of information. `[例]`
+>   - 中译：官方手册可能是一个潜在的、富有成效的信息来源。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fruitful
 
 ---
 

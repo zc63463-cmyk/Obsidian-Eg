@@ -123,8 +123,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - "The scandal has become a major political affair."（这桩丑闻已经成为一件重大的政治事件。）——考研阅读真题
-> - "The minister was forced to resign over his involvement in the financial affair."（部长因卷入金融事件而被迫辞职。）——考研高频表达
+> - As a leader , he's been criticized for his inexperience in foreign affairs. `[例]`
+>   - 中译：作为一名领导人，他因外交事务经验不足而受到批评。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/affair
+> - He's always interfering in (= trying to influence ) other people's affairs. `[例]`
+>   - 中译：他总是干涉（=试图影响）别人的事务。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/affair
+> - She organizes her financial affairs very efficiently. `[例]`
+>   - 中译：她非常有效率地组织她的财务事务。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/affair
 
 ---
 

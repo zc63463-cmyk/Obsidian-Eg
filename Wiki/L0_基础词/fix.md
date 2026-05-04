@@ -139,9 +139,9 @@ fix 源自拉丁语 *fixus*（固定的），是 *figere*（钉住、刺入、�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Shall we fix a time for our next meeting ? `[例]`
-> - I understand the rent is fixed at £750 a month . `[例]`
-> - We fixed the bookcase to the wall . `[例]`
+> - Shall we fix a time for our next meeting? `[例]`
+> - I understand the rent is fixed at £750 a month. `[例]`
+> - We fixed the bookcase to the wall. `[例]`
 
 
 ---

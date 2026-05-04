@@ -134,9 +134,15 @@ norm-（=norma，标准，来自拉丁语 *norma*，木匠的角尺）+ -al（�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - A normal working day. `[例]`
+> - Lively behaviour is normal for a four-year-old child. `[例]`
+>   - 中译：活泼的行为对于四岁的孩子来说是正常的。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/normal
 > - It 's normal for couples to argue now and then. `[例]`
-> - Lively behaviour is normal for a four-year-old child . `[例]`
+>   - 中译：夫妻间偶尔发生争吵是很正常的。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/normal
+> - They were selling the goods at half the normal cost. `[例]`
+>   - 中译：他们以正常成本一半的价格出售货物。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/normal
 
 ---
 

@@ -131,10 +131,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The relationship between politics and the media has become increasingly complex. `[真题]`
-> - She decided to enter politics after a career in law. `[COCA-NEWS]`
-> - I try not to get involved in office politics. `[COCA-ACAD]`
-> - Flynn retired from politics in 1986 after serving three terms in Parliament. `[COCA-ACAD]`
+> - Joe is very active in left-wing politics. `[例]`
+>   - 中译：乔在左翼政治中非常活跃。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/politics
+> - The group is campaigning to get more women into politics. `[例]`
+>   - 中译：该组织正在开展活动，争取让更多女性进入政坛。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/politics
+> - He is planning to retire from politics next year. `[例]`
+>   - 中译：他计划明年退出政坛。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/politics
 
 ---
 

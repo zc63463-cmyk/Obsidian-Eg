@@ -137,8 +137,8 @@ still 源自古英语 *stille*（安静的，静止的），与 [[st-sta-stat]]�
 
 > [!example]- 语料
 > - Still, the decision was largely accepted-and Jackson's photos played a key role in the fight to protect the area. `[真题]`
-> - I still haven't finished writing my essay . `[例]`
-> - There is still no news about the hostages . `[例]`
+> - I still haven't finished writing my essay. `[例]`
+> - There is still no news about the hostages. `[例]`
 
 
 ---

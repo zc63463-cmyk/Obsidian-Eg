@@ -135,9 +135,15 @@ sub-(在下/细密) + 建议创建词根笔记 [[tl/tela]](编织) = 编织得�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The room was painted a subtle shade of pink . `[例]`
-> - The play's message is perhaps too subtle to be understood by young children . `[例]`
-> - There is a subtle difference between these two plans . `[例]`
+> - There are subtle differences between the two versions. `[例]`
+>   - 中译：两个版本之间存在细微差别。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/subtle
+> - The fragrance is a subtle blend of jasmine and sandalwood. `[例]`
+>   - 中译：这款香水是茉莉花和檀香的微妙混合。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/subtle
+> - She's been dropping subtle hints about what she'd like as a present. `[例]`
+>   - 中译：她一直在微妙地暗示她想要什么礼物。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/subtle
 ---
 
 

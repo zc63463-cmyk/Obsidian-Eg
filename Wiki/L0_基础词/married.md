@@ -134,9 +134,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She spent most of her early married life avoiding her husband." `[语料库]`
-> - "They got married after she got pregnant." `[语料库]`
-> - "How long have you been married?" `[语料库]`
+> - She spent most of her early married life avoiding her husband. `[例]`
+> - They got married after she got pregnant. `[例]`
+> - How long have you been married? `[例]`
 
 
 ---

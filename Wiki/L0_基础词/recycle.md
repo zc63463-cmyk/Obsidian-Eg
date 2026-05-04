@@ -131,9 +131,9 @@ re-(=again，再，前缀 [[re-]]) + cycl(=circle，圆，循环，希腊语 *ky
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The materials from e-waste include iron, copper, gold, silver, and aluminum materials that could be reused, resold, salvaged, or recycled." `[真题]`
-> - "The bottles were being recycled into a lower-quality product." `[真题]`
-> - "We've always tried to turn the lights off and recycle, but we didn't even think about our energy use." `[真题]`
+> - The materials from e-waste include iron, copper, gold, silver, and aluminum materials that could be reused, resold, salvaged, or recycled. `[真题]`
+> - The bottles were being recycled into a lower-quality product. `[真题]`
+> - We've always tried to turn the lights off and recycle, but we didn't even think about our energy use. `[真题]`
 
 
 ---

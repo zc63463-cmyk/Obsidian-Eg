@@ -137,10 +137,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The bare minimum is not enough to pass the exam. `[真题]`
-> - Don't walk on the hot sand with bare feet. `[COCA-FIC]`
-> - The room was completely bare when we moved in. `[例]`
-> - He bared his soul to his closest friend. `[例]`
+> - There's no carpet in the room , just bare floorboards. `[例]`
+>   - 中译：房间里没有地毯，只有光秃秃的地板。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/bare
+> - She beat the flames out with her bare hands. `[例]`
+>   - 中译：她徒手扑灭了火焰。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/bare
+> - The silhouette of the bare tree on the hill was clear against the winter sky. `[例]`
+>   - 中译：山上那棵光秃秃的树的轮廓在冬日的天空下显得格外清晰。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/bare
 
 ---
 

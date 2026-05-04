@@ -128,9 +128,15 @@ proxim-(近，拉丁语 *proximus*，*prope* 的最高级) + -ate(形容词后�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The problem with climate change was that it seemed so much less proximate than terrorism . `[例]`
-> - The danger is greatest if the fireball is proximate to the target . `[例]`
+> - The problem with climate change was that it seemed so much less proximate than terrorism. `[例]`
+>   - 中译：气候变化的问题在于，它似乎远没有恐怖主义那么密切。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/proximate
+> - The danger is greatest if the fireball is proximate to the target. `[例]`
+>   - 中译：如果火球接近目标，则危险最大。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/proximate
 > - Insurance covers the proximate cause of a loss , for example , a rusty roof that lets rainwater in. `[例]`
+>   - 中译：保险承保造成损失的直接原因，例如屋顶生锈导致雨水渗入。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/proximate
 
 
 ---

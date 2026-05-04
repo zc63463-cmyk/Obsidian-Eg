@@ -124,9 +124,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Social distancing is very difficult and access to advanced health care is often limited." `[COCA-NEWS]`
-> - "Another advantage of trading through a company is limited liability status." `[COCA-NEWS]`
-> - "We had only limited resources to complete the project." `[例]`
+> - Glenn Branch, the centre's deputy director, cautions that setting state-level science standards is only one limited benchmark in a country that decentralises decisions to local school bo.ards. `[真题]`
+>   - 中译：该中心副主任格伦·布兰奇（Glenn Branch）警告说，在一个将决策权力下放给地方学校董事会的国家，制定国家级科学标准只是一个有限的基准。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - The choice is very limited. `[例]`
+>   - 中译：选择非常有限。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/limited
+> - Places on the bus are limited to 50 - so book early! `[例]`
+>   - 中译：巴士上的座位仅限 50 个 - 所以请尽早预订！
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/limited
 
 ---
 

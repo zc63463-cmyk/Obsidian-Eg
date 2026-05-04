@@ -131,9 +131,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Latisha loves the fable about the grasshopper and the ant . `[例]`
+> - Latisha loves the fable about the grasshopper and the ant. `[例]`
 > - A fable about busy ants. `[例]`
-> - The story that he won the battle single-handedly is a mere fable . `[例]`
+> - The story that he won the battle single-handedly is a mere fable. `[例]`
 
 
 ---

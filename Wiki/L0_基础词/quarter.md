@@ -134,11 +134,11 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - A quarter of America's public-sector workers have a university degree. `[2012考研英语一Text 4]`
-> - A quarter of this year's American grain harvest will be used to produce bio-fuel for cars. `[考研真题]`
-> - In the third quarter, CEO turnover was down 23%. `[考研阅读语料]`
-> - Under a quarter of people questioned said that they were happily married. `[Cambridge语料库]`
-> - Prices have fallen by a quarter since January. `[Collins语料库]`
+> - A quarter of America's public-sector workers have a university degree. `[例]`
+> - A quarter of this year's American grain harvest will be used to produce bio-fuel for cars. `[例]`
+> - In the third quarter, CEO turnover was down 23%. `[例]`
+> - Under a quarter of people questioned said that they were happily married. `[例]`
+> - Prices have fallen by a quarter since January. `[例]`
 
 
 ---

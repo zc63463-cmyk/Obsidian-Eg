@@ -131,8 +131,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - People who default on their mortgage repayments may have their home repossessed . `[例]`
-> - He moved into the next round after his opponent defaulted because of injury . `[例]`
+> - People who default on their mortgage repayments may have their home repossessed. `[例]`
+> - He moved into the next round after his opponent defaulted because of injury. `[例]`
 > - Unless something else is agreed , the default is to meet at the hotel at 7.00 p.m. `[例]`
 
 

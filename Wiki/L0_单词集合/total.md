@@ -128,9 +128,15 @@ total(源自拉丁语 totus = whole, entire, 整体、全部)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - At that time of day , cars with only one occupant accounted for almost 80 percent of the total. `[例]`
-> - A total of 21 horses were entered in the race . `[例]`
-> - We made $1,000 in total, over three days of trading . `[例]`
+> - The room was in total darkness. `[例]`
+>   - 中译：房间里一片漆黑。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/total
+> - They wanted a total ban on handguns. `[例]`
+>   - 中译：他们希望全面禁止手枪。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/total
+> - These comments indicate a total lack of understanding. `[例]`
+>   - 中译：这些评论表明完全缺乏理解。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/total
 
 
 ---

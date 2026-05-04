@@ -132,9 +132,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Dan's actually very nice , unlike his father . `[例]`
-> - It's unlike you to be quiet - is something wrong ? `[例]`
-> - Birds have two kinds of motion , which are quite unlike. `[例]`
+> - Music is quite unlike any other art form. `[例]`
+>   - 中译：音乐与任何其他艺术形式都截然不同。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/unlike
+> - The sound was not unlike that of birds singing. `[例]`
+>   - 中译：这声音与鸟儿的歌声没有什么不同。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/unlike
+> - Unlike most systems, this one is very easy to install. `[例]`
+>   - 中译：与大多数系统不同，这个系统非常容易安装。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/unlike
 
 ---
 

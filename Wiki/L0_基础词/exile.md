@@ -127,8 +127,8 @@ ex-(= [[de|ex-]]，向外) + il(e)(走/移动，拉丁语 *sulere*/\*ire*，与 
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The deposed leaders are currently in exile in the neighbouring country . `[例]`
-> - The monarch was exiled because of the coup . `[例]`
+> - The deposed leaders are currently in exile in the neighbouring country. `[例]`
+> - The monarch was exiled because of the coup. `[例]`
 > - Many Cuban exiles live in Florida. `[例]`
 
 

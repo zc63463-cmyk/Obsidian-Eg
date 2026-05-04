@@ -126,10 +126,10 @@ per-（完全，贯穿，[[per]]）+ miss（送，拉丁语 *mittere*）+ -ion�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - You will need permission from your parents to go on the trip. `[语料库]`
-> - Official permission has been granted for more building near the river. `[语料库]`
-> - The authorities have refused permission for the demonstration to take place. `[语料库]`
-> - Planning permission was refused for the proposed superstore. `[语料库]`
+> - You will need permission from your parents to go on the trip. `[例]`
+> - Official permission has been granted for more building near the river. `[例]`
+> - The authorities have refused permission for the demonstration to take place. `[例]`
+> - Planning permission was refused for the proposed superstore. `[例]`
 
 
 ---

@@ -133,9 +133,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Gene editing technology has revolutionized medical research."（基因编辑技术彻底改变了医学研究）——考研阅读常见话题，科技类
-> - "The gene responsible for the disease was identified."（导致该疾病的基因已被识别）——医学/科普类阅读
-> - "gene therapy offers hope for patients with rare diseases"（基因治疗为罕见病患者带来希望）——医学伦理类话题
+> - The illness is believed to be caused by a defective gene. `[例]`
+>   - 中译：这种疾病被认为是由缺陷基因引起的。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/gene
+> - The scientists identified a defective gene. `[例]`
+>   - 中译：科学家们发现了一个有缺陷的基因。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/gene
+> - A particular gene is responsible for the inheritance of eye colour. `[例]`
+>   - 中译：一个特定的基因负责眼睛颜色的遗传。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/gene
 
 ---
 

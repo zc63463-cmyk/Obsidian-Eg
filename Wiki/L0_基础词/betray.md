@@ -125,9 +125,15 @@ be-（加强/彻底）+ tray（交付，源自古法语 *trair*，拉丁语 *tra
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The president has been accused of betraying his election promises. `[COCA-NEWS]`
-> - She felt betrayed by her mother's lack of support. `[COCA-ACAD]`
-> - His face betrayed the anger he had tried so hard to conceal. `[例]`
+> - He was offered money to betray his colleagues. `[例]`
+>   - 中译：有人向他提供金钱来背叛他的同事。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/betray
+> - For years they had been betraying state secrets to Russia. `[例]`
+>   - 中译：多年来，他们一直向俄罗斯泄露国家机密。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/betray
+> - She felt betrayed when she found out the truth about him. `[例]`
+>   - 中译：当她发现他的真相时，她感到自己被背叛了。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/betray
 
 
 ---

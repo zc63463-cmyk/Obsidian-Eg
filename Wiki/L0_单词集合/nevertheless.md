@@ -117,8 +117,15 @@ never(从不) + the(那个) + less(更少) = "从未更少" → "尽管如此，
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Nevertheless, the word 'amateur' does carry a connotation that the person concerned is not fully integrated into the scientific community and, in particular, may not fully share its values."（然而，"业余"这个词的确有内涵意义：那就是相关人员没有完全融入科学界，而且，特别的是，他可能并不完全认同其价值观。——2000年考研英语一阅读Text 1）
-> - "Nevertheless, the affordable housing situation is desperate."（然而，负担得起的住房状况令人绝望。——2014年考研英语二阅读）
+> - I knew a lot about the subject already, but her talk was interesting nevertheless. `[例]`
+>   - 中译：我已经对这个主题了解很多，但她的演讲仍然很有趣。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/nevertheless
+> - The two rivals were nevertheless united by the freemasonry of the acting profession. `[例]`
+>   - 中译：尽管如此，这两个竞争对手还是因演艺界的共济会而团结在一起。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/nevertheless
+> - Much-maligned for their derivative style , the band are nevertheless enduringly popular. `[例]`
+>   - 中译：尽管他们的衍生风格饱受诟病，但该乐队却经久不衰。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/nevertheless
 
 ---
 

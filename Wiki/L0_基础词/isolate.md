@@ -130,8 +130,8 @@ isol(=insul-, 岛，拉丁语 *insula*) + -ate(动词后缀，使……)
 
 > [!example]- 语料
 > - Patients with infectious diseases should be isolated from the general population. `[真题]`
-> - No single factor can be studied in isolation; all variables are interconnected. `[真题]`
 > - They tried to isolate the cause of the problem through careful analysis. `[真题]`
+> - A high wall isolated the house from the rest of the village. `[例]`
 
 
 ---

@@ -127,9 +127,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He holds a bachelor of science in maths." `[BNC]`
-> - "He knew history and art and was a bachelor of science in maths." `[BNC]`
-> - "An eligible bachelor is a bachelor who is seen as a desirable husband." [COCA]
+> - He was 38, and a confirmed bachelor. `[例]`
+>   - 中译：他当时 38 岁，已经是一名单身汉。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bachelor
+> - By late October 2018, at age 25, she was being feted as the new ambassador for the Children’s Tumor Foundation, and was mere weeks away from earning a bachelor ’s degree in liberal studies from Arizona State University (having transferred from UNC Charlotte). `[例]`
+>   - 中译：2018 年 10 月下旬，25 岁​​的她被任命为儿童肿瘤基金会的新任大使，距离获得亚利桑那州立大学文科学士学位（从北卡罗来纳大学夏洛特分校转来）只有几周的时间。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/bachelor
+> - Joseph Ward's occupation was bachelor. `[例]`
+>   - 中译：约瑟夫·沃德的职业是单身汉。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/bachelor
 
 
 ---

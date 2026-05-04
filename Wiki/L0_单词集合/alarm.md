@@ -128,7 +128,15 @@ a-(=ad-, 向，对) + [[arm]](武器) → 呼吁拿起武器 → 警报
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The rapid spread of the virus has caused widespread alarm among the public.（病毒的迅速传播引起了公众的广泛恐慌。）
+> - He was almost home when the alarm sounded. `[例]`
+>   - 中译：当警报响起时，他快到家了。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/alarm
+> - They built fires that flashed the alarm from hilltop to hilltop. `[例]`
+>   - 中译：他们生火，从一个山顶到另一个山顶都发出警报。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/alarm
+> - A two-alarm fire has damaged a historic building. `[例]`
+>   - 中译：一场两级火灾损坏了一座历史建筑。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/alarm
 
 ---
 

@@ -3,10 +3,8 @@ title: "uneconomic"
 tags:
   - 学习/英语/词汇
   - 语义场/资本经济
-  - 掌握/L0
 aliases: []
 date: 2026-04-25
-mastery: L0
 word_freq: 超纲词
 semantic_field: 资本经济
 prototype: 不经济的（不划算的）
@@ -43,7 +41,7 @@ un-(不，否定前缀) + eco-(=oikos, 家/经济) + [[nom|nom]](管理/法则) 
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**不经济的**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **不经济的**（经济层面）
@@ -64,7 +62,7 @@ un-(不，否定前缀) + eco-(=oikos, 家/经济) + [[nom|nom]](管理/法则) 
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -75,7 +73,7 @@ un-(不，否定前缀) + eco-(=oikos, 家/经济) + [[nom|nom]](管理/法则) 
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > economic（经济的）+ un-（不）→ 不经济的。Running a car in central London is uneconomic.（在伦敦市中心开车是不划算的。）It would be uneconomic to repair the old machine.（修理这台旧机器不划算。）
@@ -87,7 +85,7 @@ un-(不，否定前缀) + eco-(=oikos, 家/经济) + [[nom|nom]](管理/法则) 
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ un-(不，否定前缀) + eco-(=oikos, 家/经济) + [[nom|nom]](管理/法则) 
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[economic]]：经济的，有利可图的
 > - [[profitable]]：盈利的
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -118,7 +116,7 @@ un-(不，否定前缀) + eco-(=oikos, 家/经济) + [[nom|nom]](管理/法则) 
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **uneconomic to do**：做……不划算
 > - **uneconomic business/venture**：不盈利的企业/项目
 > - **prove uneconomic**：证明是不划算的
@@ -126,19 +124,12 @@ un-(不，否定前缀) + eco-(=oikos, 家/经济) + [[nom|nom]](管理/法则) 
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
+> [!example]- 语料
 > - They closed the factory , saying it was uneconomic. `[例]`
-> - The price of oil dropped so low that it became uneconomic to drill . `[例]`
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-25 | **复习次数**：0 | **当前等级**：L0
-
----
+> - The price of oil dropped so low that it became uneconomic to drill. `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

@@ -123,9 +123,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - He bribed immigration officials and entered the country illegally . `[例]`
-> - They bribed the waiter to find them a better table . `[例]`
-> - He was accused of accepting bribes from wealthy businessmen . `[例]`
+> - It was alleged that he had taken bribes while in office. `[例]`
+>   - 中译：据称他在任职期间收受贿赂。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bribe
+> - She had been offered a $50 000 bribe to drop the charges. `[例]`
+>   - 中译：为了撤销指控，她收到了 5 万美元的贿赂。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bribe
+> - I offered the children a bribe for finishing their homework. `[例]`
+>   - 中译：我贿赂了孩子们，让他们完成作业。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/bribe
 
 
 ---

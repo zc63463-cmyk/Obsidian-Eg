@@ -137,10 +137,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Many Americans were leaving the farm for the promise of urban life . `[例]`
-> - Over 82% of Texans live in urban areas . `[例]`
-> - The high-speed train link is responsible for one of the biggest urban regeneration projects in the area . `[例]`
-> - The council is committed to a programme of urban regeneration . `[例]`
+> - The urban poor feel betrayed by everyone. `[例]`
+>   - 中译：城市贫民感到被所有人背叛。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/urban
+> - However, even modest equipment can produce stunning results under dark skies — and for those in urban areas, smart telescopes work wonders with nebulas. `[例]`
+>   - 中译：然而，即使是最普通的设备也能在黑暗的天空下产生令人惊叹的结果——对于城市地区的人们来说，智能望远镜可以在星云上创造奇迹。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/urban
+> - The zoo is partnering with Outward Bound Adventures, the oldest nonprofit in the nation dedicated to getting people from urban areas out into nature and into a workforce that has often excluded them. `[例]`
+>   - 中译：该动物园正在与美国历史最悠久的非营利组织 Outward Bound Adventures 合作，致力于让城市地区的人们走向大自然，并进入经常被排除在外的劳动力队伍。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/urban
 
 ---
 

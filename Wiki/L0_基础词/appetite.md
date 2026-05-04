@@ -122,9 +122,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - All that walking has given me an appetite. `[例]`
-> - I don't have much of an appetite (= I am not hungry ) . `[例]`
-> - I won't have any chocolate , thanks . It will spoil (= reduce ) my appetite. `[例]`
+> - He suffered from headaches and loss of appetite. `[例]`
+>   - 中译：他患有头痛和食欲不振。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/appetite
+> - The walk gave me a good appetite. `[例]`
+>   - 中译：散步让我胃口很好。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/appetite
+> - Don't spoil your appetite by eating between meals. `[例]`
+>   - 中译：不要在两餐之间吃东西破坏你的胃口。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/appetite
 
 
 ---

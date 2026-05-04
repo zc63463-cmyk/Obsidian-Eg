@@ -133,9 +133,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The potential benefits of the new technology are enormous. `[COCA-ACAD]`
-> - Every child has the potential to succeed if given the right opportunities. `[COCA-ACAD]`
-> - Denmark recognised the potential of wind energy early. `[COCA-ACAD]`
+> - At the end of 2018, Governor Charlie Baker of Massachusetts signed a bill to rein in those potential investor-buyers. `[真题]`
+>   - 中译：2018 年底，马萨诸塞州州长查理·贝克签署了一项法案，以控制这些潜在的投资者买家。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - The bill requires every rental host to register with the state , mandates they carry insurance , and opens the potential for local taxes on top of a new state levy. `[真题]`
+>   - 中译：该法案要求每个租赁房东向州政府注册，强制他们购买保险，并在新的州征税基础上开辟了征收地方税的可能性。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - A number of potential buyers have expressed interest in the company. `[例]`
+>   - 中译：一些潜在买家对该公司表示了兴趣。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/potential
 
 ---
 

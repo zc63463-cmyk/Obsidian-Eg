@@ -133,10 +133,9 @@ ward(看管，守卫) + robe(衣服，长袍)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He hung his suit in the wardrobe." `[权威语料]`
-> - "I need a new summer wardrobe." `[权威语料]`
-> - "She opened the wardrobe and took out a dark blue dress." `[权威语料]`
-> - "The bedroom has fitted wardrobes along one wall." `[权威语料]`
+> - She opened the wardrobe and took out a dark blue dress. `[例]`
+> - The bedroom has fitted wardrobes along one wall. `[例]`
+> - I need a new summer wardrobe (= new clothes for summer ). `[例]`
 
 
 ---

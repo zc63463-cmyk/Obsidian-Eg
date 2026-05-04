@@ -125,8 +125,8 @@ review_count: 0
 
 > [!example]- 语料
 > - And William Sahlman of the Harvard Business School believes that people will look back on this period as "a golden age" of business management in America. `[真题]`
-> - He's got a place at university which gives him a golden opportunity to do research in the subject which interests him. `[权威词典]`
-> - The golden rule of treating others as you would like to be treated is a fundamental principle in many cultures. `[权威词典]`
+> - He's got a place at university which gives him a golden opportunity to do research in the subject which interests him. `[例]`
+> - The golden rule of treating others as you would like to be treated is a fundamental principle in many cultures. `[例]`
 
 
 ---

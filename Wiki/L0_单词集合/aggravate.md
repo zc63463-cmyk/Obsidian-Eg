@@ -135,10 +135,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Smoking will aggravate your disease."（吸烟会加重你的疾病）——健康话题常见搭配
-> - "The lack of rain aggravated the already serious shortage of food."（干旱少雨加剧了本已严重的粮食短缺）——考研阅读，环境/社会话题
-> - "Pollution can aggravate asthma."（污染会使气喘加重）——医学/环境话题
-> - "I was aggravated by his rude words."（我被他的粗鲁言行激怒了）——日常语境
+> - Attempts to restrict parking in the city centre have further aggravated the problem of traffic congestion. `[例]`
+>   - 中译：市中心限制停车的尝试进一步加剧了交通拥堵问题。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/aggravate
+> - The treatment only aggravated the condition. `[例]`
+>   - 中译：治疗只会加重病情。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/aggravate
+> - Stop aggravating me, will you! `[例]`
+>   - 中译：别再激怒我了好吗！
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/aggravate
 
 ---
 

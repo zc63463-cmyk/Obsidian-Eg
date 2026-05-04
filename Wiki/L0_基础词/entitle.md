@@ -131,9 +131,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Being unemployed entitles you to free medical treatment . `[例]`
-> - The employer is entitled to ask for references . `[例]`
-> - Her latest novel , entitled "The Forgotten Sex", is out this week . `[例]`
+> - Being unemployed entitles you to free medical treatment. `[例]`
+> - The employer is entitled to ask for references. `[例]`
+> - Her latest novel , entitled "The Forgotten Sex", is out this week. `[例]`
 
 
 ---

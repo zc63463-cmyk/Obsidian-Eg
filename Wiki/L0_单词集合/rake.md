@@ -126,10 +126,15 @@ rake（耙子，日耳曼语源，与 rake "倾斜" 同源）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "I've raked through the cupboard but I can't find my blue mug." `[COCA-FIC]`
-> - "They rake through customer complaints for ideas for improving their products." `[COCA-ACAD]`
-> - "The searchlight raked the open ground around the prison." `[COCA-FIC]`
-> - "Every time we go out there and rake through a load, we turn over a piece of clothing and hope." `[COCA-NEWS]`
+> - The rows of seats are laid out with a very steep rake. `[例]`
+>   - 中译：一排排座位的倾斜度非常陡。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/rake
+> - He raked about in the drawer looking for his passport. `[例]`
+>   - 中译：他在抽屉里翻找他的护照。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/rake
+> - I've raked through the cupboard but I can't find my blue mug. `[例]`
+>   - 中译：我翻遍了橱柜，但找不到我的蓝色杯子。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/rake
 ---
 
 

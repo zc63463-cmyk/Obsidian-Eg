@@ -122,8 +122,8 @@ review_count: 0
 > [!example]- 语料
 > - The dove is a symbol of peace. `[真题]`
 > - The Eiffel Tower has become a symbol of Paris. `[真题]`
-> - The private jet is a symbol of wealth and social status. `[语料库]`
-> - Among young people, this brand of designer clothing is the ultimate status symbol. `[语料库]`
+> - The private jet is a symbol of wealth and social status. `[例]`
+> - Among young people, this brand of designer clothing is the ultimate status symbol. `[例]`
 
 
 ---

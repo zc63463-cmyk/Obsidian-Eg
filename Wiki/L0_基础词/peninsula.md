@@ -128,9 +128,9 @@ paene-(=almost, 几乎，拉丁语前缀) + insula(=island, 岛，拉丁语)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - In 1943, a German U-boat surreptitiously landed on the coast of Labrador, Canada's frigid north-eastern peninsula. `[《经济学人》]`
-> - Most South Korean men have to serve in the military for roughly two years because the Korean peninsula technically remains at war. `[Merriam-Webster]`
-> - There is a twelve-fold difference in precipitation across the peninsula. `[剑桥词典]`
+> - In 1943, a German U-boat surreptitiously landed on the coast of Labrador, Canada's frigid north-eastern peninsula. `[例]`
+> - Most South Korean men have to serve in the military for roughly two years because the Korean peninsula technically remains at war. `[例]`
+> - There is a twelve-fold difference in precipitation across the peninsula. `[例]`
 
 
 ---

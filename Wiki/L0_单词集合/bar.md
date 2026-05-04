@@ -139,10 +139,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - He was barred from entering the building. `[真题]`
-> - Lack of money is a major bar to higher education. `[真题]`
-> - Let's meet for a drink at the bar after work. [COCA-SPOK]
-> - She always keeps a bar of chocolate in her bag. `[例]`
+> - They noticed him going into the hotel bar. `[例]`
+>   - 中译：他们注意到他走进酒店的酒吧。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/bar
+> - She was working as a waitress in a cocktail bar. `[例]`
+>   - 中译：她在一家鸡尾酒吧担任女服务员。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/bar
+> - The fitness centre has two pools , a gym , a sauna , and a juice bar. `[例]`
+>   - 中译：健身中心设有两个游泳池、健身房、桑拿浴室和果汁吧。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/bar
 
 ---
 

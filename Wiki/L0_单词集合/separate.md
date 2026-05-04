@@ -125,10 +125,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> 1. One reason is that liberal-arts education and professional education should be kept separate, taught in different schools. `[真题]`
-> 2. The two issues should be treated as separate problems. `[真题]`
-> 3. The authorities say six civilians have been killed in two separate attacks. `[COCA-NEWS]`
-> 4. The main group separated into several smaller groups to cover more ground. `[COCA-ACAD]`
+> - The art department and the music department are in two separate buildings. `[例]`
+>   - 中译：艺术系和音乐系位于两栋独立的建筑内。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/separate
+> - I have my public life and my private life , and as far as possible I try to keep them separate. `[例]`
+>   - 中译：我有我的公共生活和我的私人生活，并且尽可能将它们分开。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/separate
+> - Three youths have been shot and killed in separate incidents this month. `[例]`
+>   - 中译：本月，三名年轻人在不同的事件中被枪杀。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/separate
 
 ---
 

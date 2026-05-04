@@ -133,9 +133,15 @@ com-(=con-, 一起) + [[pact|pact-/pact-]](紧压，拉丁语 *pangere* "固定�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - What a compact office ! How did you fit so much into so little space ? `[例]`
-> - They made a compact not to reveal any details . `[例]`
-> - Cars had compacted the snow until it was like ice . `[例]`
+> - The device is small and compact and weighs only 2.2lb. `[例]`
+>   - 中译：该设备小巧紧凑，重量仅为 2.2 磅。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/compact
+> - The grey clouds had become more compact and the sky suddenly grew dark. `[例]`
+>   - 中译：灰色的云层变得更加密实，天空突然暗了下来。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/compact
+> - He had a compact and muscular body. `[例]`
+>   - 中译：他的身体紧凑而肌肉发达。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/compact
 
 
 ---

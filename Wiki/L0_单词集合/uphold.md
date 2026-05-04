@@ -130,9 +130,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - As a police officer you are expected to uphold the law whether you agree with it or not. `[例]`
-> - The court is said to be upholding its decision . `[例]`
-> - When he took office he swore to uphold the laws of the land . `[例]`
+> - We have a duty to uphold the law. `[例]`
+>   - 中译：我们有责任维护法律。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/uphold
+> - The regime has been criticized for failing to uphold human rights. `[例]`
+>   - 中译：该政权因未能维护人权而受到批评。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/uphold
+> - We are determined to uphold the law. `[例]`
+>   - 中译：我们决心维护法律。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/uphold
 
 ---
 

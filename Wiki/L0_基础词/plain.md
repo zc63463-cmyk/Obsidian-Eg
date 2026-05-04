@@ -136,9 +136,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She wore a plain black dress . `[例]`
-> - We've chosen a plain carpet (= one without a pattern ) and patterned curtains . `[例]`
-> - He prefers plain food - nothing too fancy . `[例]`
+> - She wore a plain black dress. `[例]`
+> - We've chosen a plain carpet (= one without a pattern ) and patterned curtains. `[例]`
+> - He prefers plain food - nothing too fancy. `[例]`
 
 
 ---

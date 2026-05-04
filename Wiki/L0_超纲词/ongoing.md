@@ -3,10 +3,8 @@ title: "ongoing"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-25
-mastery: L0
 word_freq: 超纲词
 semantic_field: 抽象关系
 prototype: 正在进行的
@@ -43,7 +41,7 @@ on-(=continuing, 持续) + go(走) + -ing(进行时)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**正在进行的**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **正在进行的**（时间层面——从过去延续到现在）
@@ -64,7 +62,7 @@ on-(=continuing, 持续) + go(走) + -ing(进行时)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ on-(=continuing, 持续) + go(走) + -ing(进行时)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > on（持续）+ going（走）→ 一直在走 → 正在进行的。就像一场马拉松，你还在跑——ongoing。ongoing project 就是"还在进行中的项目"——还没完工。
@@ -86,7 +84,7 @@ on-(=continuing, 持续) + go(走) + -ing(进行时)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -98,13 +96,13 @@ on-(=continuing, 持续) + go(走) + -ing(进行时)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[completed]]：已完成的（ongoing 的精确反义：进行中↔已完成）
 > - [[finished]]：结束的
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -114,7 +112,7 @@ on-(=continuing, 持续) + go(走) + -ing(进行时)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **ongoing process**：正在进行的过程
 > - **ongoing research**：持续进行的研究
 > - **ongoing debate**：持续的争论
@@ -122,19 +120,12 @@ on-(=continuing, 持续) + go(走) + -ing(进行时)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - `[例]` The ongoing debate over climate change has intensified in recent years.
-> - `[例]` Police are conducting an ongoing investigation into the incident.
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-25 | **复习次数**：0 | **当前等级**：L0
-
----
+> [!example]- 语料
+> - The researchers proposed a ongoing solution to the problem. `[例]`
+> - The company adopted a ongoing approach to improve efficiency. `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

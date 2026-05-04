@@ -126,9 +126,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - I have to put aside my emotions ," he says, "and consider it from a professional standpoint. `[例]`
-> - He looks at things from a technological standpoint. `[例]`
-> - From a fundraising standpoint, he’s been very successful . `[例]`
+> - We must approach the problem from a different standpoint. `[例]`
+>   - 中译：我们必须从不同的角度来处理这个问题。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/standpoint
+> - He is writing from the standpoint of someone who knows what life is like in prison. `[例]`
+>   - 中译：他是从一个了解监狱生活的人的角度来写作的。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/standpoint
+> - From an economic standpoint , the policy is sound. `[例]`
+>   - 中译：从经济角度来看，政策是合理的。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/standpoint
 
 ---
 

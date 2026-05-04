@@ -131,9 +131,9 @@ therm-(=heat，热，希腊语 *therme*) + -al(形容词后缀，表示"与…�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He was found by a police helicopter using thermal imaging equipment." `[语料库]`
-> - "Volcanic activity has created thermal springs and boiling mud pools." `[百科]`
-> - "When coal is burned, chemical energy is transformed into thermal energy." `[词典]`
+> - He was found by a police helicopter using thermal imaging equipment. `[例]`
+> - Volcanic activity has created thermal springs and boiling mud pools. `[例]`
+> - When coal is burned, chemical energy is transformed into thermal energy. `[例]`
 
 
 ---

@@ -125,9 +125,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Scotland will be cloudy with wintry showers . `[例]`
-> - The beer was cloudy and dark . `[例]`
 > - The water looked cloudy and not fit to drink. `[例]`
+>   - 中译：水看起来浑浊，不适合饮用。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/cloudy
+> - Tomorrow will be cloudy and cold. `[例]`
+>   - 中译：明天多云，天气寒冷。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/cloudy
+> - Sunday will be partly cloudy with a slight chance of rain, mainly to the east. `[例]`
+>   - 中译：周日晴间多云，可能有小雨，主要是东部地区。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/cloudy
 
 
 ---

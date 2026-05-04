@@ -137,8 +137,8 @@ review_count: 0
 
 > [!example]- 语料
 > - Native plants and animals. `[例]`
-> - The industry was accused of having invested little in workers , plant, or infrastructure . `[例]`
-> - Two more car-assembly plants were closed by the strike . `[例]`
+> - The industry was accused of having invested little in workers , plant, or infrastructure. `[例]`
+> - Two more car-assembly plants were closed by the strike. `[例]`
 
 
 ---

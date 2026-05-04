@@ -129,9 +129,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - While veterans of previous expeditions wrote at length about stunning trail sights, these vivid photographs were another thing entirely. `[真题]`
-> - The dogs are trained to follow the trail left by the fox . `[例]`
-> - He left a trail of muddy footprints behind him. `[例]`
+> - The hounds were following the fox's trail. `[例]`
+>   - 中译：猎犬们正在追踪狐狸的踪迹。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/trail
+> - The police are still on the trail of the escaped prisoner. `[例]`
+>   - 中译：警方仍在追踪这名逃犯。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/trail
+> - Fortunately the trail was still warm (= clear and easy to follow). `[例]`
+>   - 中译：幸运的是，这条小路仍然温暖（=清晰且易于遵循）。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/trail
 
 ---
 

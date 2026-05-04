@@ -123,9 +123,9 @@ short(短的) + hand(手)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The term 'AI' has become a shorthand for any kind of automated technology." `[真题]`
-> - "Court reporters use shorthand to transcribe proceedings in real time." `[真题]`
-> - "Stereotype and cliche serve a purpose as a form of shorthand in everyday communication." `[真题]`
+> - The term 'AI' has become a shorthand for any kind of automated technology. `[真题]`
+> - Court reporters use shorthand to transcribe proceedings in real time. `[真题]`
+> - Their conversations were taken down in shorthand by a secretary. `[例]`
 
 
 ---

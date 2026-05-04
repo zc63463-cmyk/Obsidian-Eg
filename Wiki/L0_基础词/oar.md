@@ -123,7 +123,7 @@ review_count: 0
 
 > [!example]- 语料
 > - A pair of oars. `[例]`
-> - She dipped her oars into the water and pulled . `[例]`
+> - She dipped her oars into the water and pulled. `[例]`
 > - He pulled as hard as he could on the oars. `[例]`
 
 

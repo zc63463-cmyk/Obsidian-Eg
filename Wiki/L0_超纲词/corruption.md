@@ -3,10 +3,8 @@ title: "corruption"
 tags:
   - 学习/英语/词汇
   - 语义场/政治法律
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 政治法律
 prototype: 完全破碎/毁坏的状态
@@ -43,7 +41,7 @@ con-(=com-，完全/彻底) + [[rupt|rump-/rupt-]](断裂/打破) + -ion(名词�
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**完全破碎/毁坏的状态**"为统筹中心，沿社会路径向外扩展：
 >
 > 1. **完全破碎**（物理层面）
@@ -66,7 +64,7 @@ con-(=com-，完全/彻底) + [[rupt|rump-/rupt-]](断裂/打破) + -ion(名词�
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -78,7 +76,7 @@ con-(=com-，完全/彻底) + [[rupt|rump-/rupt-]](断裂/打破) + -ion(名词�
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > con（完全）+ rupt（断裂）→ corruption（腐败）。rupt 是"断裂"——interrupt（打断）、bankrupt（破产）、erupt（爆发）。corruption 就是一个人或系统从内部完全断裂——道德断裂叫腐败，制度断裂叫贪污。rupt 告诉你：这是彻底的碎裂。
@@ -90,7 +88,7 @@ con-(=com-，完全/彻底) + [[rupt|rump-/rupt-]](断裂/打破) + -ion(名词�
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -103,13 +101,13 @@ con-(=com-，完全/彻底) + [[rupt|rump-/rupt-]](断裂/打破) + -ion(名词�
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[integrity]]：正直，完整性（corruption 的精确反义：腐败↔正直，损坏↔完整）
 > - [[honesty]]：诚实（corruption 的反义：腐败↔诚实）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -123,7 +121,7 @@ con-(=com-，完全/彻底) + [[rupt|rump-/rupt-]](断裂/打破) + -ion(名词�
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **political corruption**：政治腐败
 > - **fight/combat corruption**：打击腐败
 > - **bribery and corruption**：贿赂与腐败
@@ -132,19 +130,12 @@ con-(=com-，完全/彻底) + [[rupt|rump-/rupt-]](断裂/打破) + -ion(名词�
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - The film is about a young police officer and his struggle to expose corruption in the force . `[例]`
-> - Political corruption is widespread throughout the country . `[例]`
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
+> [!example]- 语料
+> - The film is about a young police officer and his struggle to expose corruption in the force. `[例]`
+> - Political corruption is widespread throughout the country. `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

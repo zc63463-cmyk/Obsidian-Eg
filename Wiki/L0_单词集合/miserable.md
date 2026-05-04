@@ -121,8 +121,15 @@ miser(痛苦/可怜) + -able(形容词后缀，"可被…的" / "充满…的")
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The living conditions in the overcrowded refugee camp were miserable."（拥挤不堪的难民营中的生活条件十分悲惨。）——考研高频表达
-> - "She felt miserable after failing the exam for the second time."（第二次考试不及格后她感到非常痛苦。）——考研高频表达
+> - She's miserable living on her own. `[例]`
+>   - 中译：她一个人生活很痛苦。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/miserable
+> - What a miserable existence ! How could anyone live in such awful conditions? `[例]`
+>   - 中译：多么悲惨的存在啊！怎么会有人生活在如此恶劣的条件下呢？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/miserable
+> - She has a miserable existence living with him. `[例]`
+>   - 中译：她和他一起过着悲惨的生活。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/miserable
 
 ---
 

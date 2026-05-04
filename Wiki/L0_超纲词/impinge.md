@@ -3,10 +3,8 @@ title: "impinge"
 tags:
   - 学习/英语/词汇
   - 语义场/抽象关系
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 抽象关系
 prototype: 对……产生不良影响或侵犯
@@ -43,7 +41,7 @@ im-(=in-, 向内) + ping(e)(打击，拉丁语 *pingere*)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以“**对……产生不良影响或侵犯**”为统筹中心，沿空间路径向外扩展：
 >
 1. **撞击→侵犯**（物理→抽象层面）
@@ -64,7 +62,7 @@ im-(=in-, 向内) + ping(e)(打击，拉丁语 *pingere*)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 |------|------|----------|
@@ -74,7 +72,7 @@ im-(=in-, 向内) + ping(e)(打击，拉丁语 *pingere*)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > im（向内）+ ping（打击）→ 撞入 → 侵犯。你的自由 impinge on 他人的权利，就像你一拳打进了别人的空间。
@@ -83,7 +81,7 @@ im-(=in-, 向内) + ping(e)(打击，拉丁语 *pingere*)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 |------|------------|---------|---------|---------|
@@ -96,13 +94,13 @@ im-(=in-, 向内) + ping(e)(打击，拉丁语 *pingere*)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[respect]]：尊重（侵犯↔尊重）
 - [[withdraw]]：撤回
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 |--------|---------|------|---------|
@@ -112,26 +110,19 @@ im-(=in-, 向内) + ping(e)(打击，拉丁语 *pingere*)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **impinge on/upon**：侵犯；对……产生不良影响
 - **impinge on someone's rights**：侵犯某人的权利
 - **impinge on freedom**：侵犯自由
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - The government's spending limits will seriously impinge on the education budget . `[例]`
-> - The Supreme Court will decide if the new communications bill impinges on the Constitutional right to free speech . `[例]`
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
+> [!example]- 语料
+> - The government's spending limits will seriously impinge on the education budget. `[例]`
+> - The Supreme Court will decide if the new communications bill impinges on the Constitutional right to free speech. `[例]`
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

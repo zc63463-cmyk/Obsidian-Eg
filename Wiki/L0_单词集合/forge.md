@@ -123,8 +123,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The two nations have forged a close economic partnership over the past decade.（过去十年间，两国建立了紧密的经济伙伴关系。）
-> - He was arrested for forging documents to obtain a bank loan.（他因伪造文件获取银行贷款而被捕。）
+> - A number of forged works of art have been sold as genuine. `[例]`
+>   - 中译：许多伪造的艺术品已被当作真品出售。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/forge
+> - The accident forged a close bond between the two families. `[例]`
+>   - 中译：这次事故使两个家庭结下了紧密的纽带。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/forge
+> - She forged a new career for herself as a singer. `[例]`
+>   - 中译：她为自己开辟了新的歌手生涯。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/forge
 
 ---
 

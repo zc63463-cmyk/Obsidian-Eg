@@ -126,9 +126,9 @@ frown(整体词，源自古法语 *froignier*，皱眉)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "She frowned at me, clearly annoyed." `[真题]`
-> - "Being seen to be eccentric in the wrong way is frowned upon." `[语料库]`
-> - "The Puritans frowned on ostentation." `[语料库]`
+> - She frowned at me, clearly annoyed. `[真题]`
+> - Being seen to be eccentric in the wrong way is frowned upon. `[例]`
+> - The Puritans frowned on ostentation. `[例]`
 
 
 ---

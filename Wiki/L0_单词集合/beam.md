@@ -120,9 +120,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - A beam of sunlight pierced through the clouds. `[例]`
-> - The old bridge was supported by massive steel beams. `[例]`
-> - She beamed with joy when she received the acceptance letter. `[例]`
+> - The lighthouse cast a beam of light across the bay. `[例]`
+>   - 中译：灯塔将一束光投射到海湾上。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/beam
+> - We could just pick out the trail in the weak beam of the flashlight. `[例]`
+>   - 中译：我们只能在手电筒的微弱光束中辨认出踪迹。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/beam
+> - The rabbit stopped , mesmerized by the beam of the car's headlights. `[例]`
+>   - 中译：兔子停了下来，被汽车前灯的光束迷惑了。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/beam
 
 ---
 

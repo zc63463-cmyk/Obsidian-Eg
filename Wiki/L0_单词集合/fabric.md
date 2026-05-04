@@ -132,9 +132,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Technology is transforming the very fabric of society."（技术正在改变社会的根本结构）——科技社会类阅读高频表达
-> - "the social fabric of the community"（社区的社会结构）——社会学类话题
-> - "The scandal threatened to tear the fabric of the institution apart."（丑闻威胁要撕裂该机构的结构）——政治/机构类文本
+> - Linen is a coarse-grained fabric. `[例]`
+>   - 中译：亚麻是一种粗粒织物。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/fabric
+> - The fibres are woven into fabric. `[例]`
+>   - 中译：纤维被编织成织物。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/fabric
+> - This fabric is similar to wool , only cheaper. `[例]`
+>   - 中译：这种面料与羊毛类似，只是价格更便宜。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/fabric
 
 ---
 

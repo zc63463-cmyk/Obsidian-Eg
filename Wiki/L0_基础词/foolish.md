@@ -129,7 +129,7 @@ review_count: 0
 
 > [!example]- 语料
 > - That was a rather foolish thing to do. `[例]`
-> - She was afraid that she would look foolish if she refused . `[例]`
+> - She was afraid that she would look foolish if she refused. `[例]`
 > - It was foolish of them to pay so much. `[例]`
 
 

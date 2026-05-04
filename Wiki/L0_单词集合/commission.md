@@ -132,8 +132,15 @@ com-(共同，一起) + miss(发送，[[mit]]变体) + -ion(名词后缀，表�
 ## 真题/语料关联
 
 > [!example]- 语料
-> > - "The European Commission has proposed new regulations on data protection."（欧盟委员会提出了新的数据保护法规。）——考研阅读真题
-> - "He was commissioned to paint a portrait of the queen."（他受委托为女王画一幅肖像。）——考研高频表达
+> - The newspaper commissioned a series of articles on the worst excesses of the fashion industry. `[例]`
+>   - 中译：该报委托撰写了一系列有关时尚界最严重的过度行为的文章。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/commission
+> - She's commissioned an artist to paint her portrait. `[例]`
+>   - 中译：她委托一位艺术家为她画肖像。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/commission
+> - A set of stamps has been commissioned in commemoration of Independence Day. `[例]`
+>   - 中译：为纪念独立日而委托制作了一套邮票。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/commission
 
 ---
 

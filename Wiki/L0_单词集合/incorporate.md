@@ -123,9 +123,15 @@ in-(进入，into) + corpor(体，body) + -ate(动词后缀，使动)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - We need to incorporate new technology into our existing system. `[COCA-ACAD]`
-> - The new findings have been incorporated into the revised edition. `[COCA-ACAD]`
-> - The regular incorporation of organic material into garden soil improves its quality. `[COCA-ACAD]`
+> - The European Convention of Human Rights has been incorporated into Irish law. `[例]`
+>   - 中译：《欧洲人权公约》已被纳入爱尔兰法律。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/incorporate
+> - Suggestions from the survey are incorporated in the final design. `[例]`
+>   - 中译：调查提出的建议被纳入最终设计中。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/incorporate
+> - This aircraft incorporates several new safety features. `[例]`
+>   - 中译：该飞机采用了多项新的安全功能。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/incorporate
 
 ---
 

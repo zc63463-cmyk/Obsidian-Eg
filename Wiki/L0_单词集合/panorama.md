@@ -134,10 +134,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "From the top of the tower, we enjoyed a breathtaking panorama of the city." `` `[COCA-MAG]` ``
-> - "The book provides a panorama of European history." `` `[COCA-ACAD]` ``
-> - "The mountain's peak offers a breathtaking panorama of the valley." `` `[COCA-FICT]` ``
-> - "The investigation revealed a panorama of corruption and illegal dealings." `` `[COCA-NEWS]` ``
+> - From the hotel roof you can enjoy a panorama of the whole city. `[例]`
+>   - 中译：从酒店屋顶您可以欣赏到整个城市的全景。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/panorama
+> - A tunnel of tropical vegetation opens up into a panorama of mountains. `[例]`
+>   - 中译：一条热带植被隧道通向山脉全景。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/panorama
+> - A panorama of the planet Mars was named top science photo. `[例]`
+>   - 中译：一张火星全景被评为顶级科学照片。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/panorama
 
 ---
 

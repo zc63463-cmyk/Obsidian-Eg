@@ -133,9 +133,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The mixture hardens as it cools . `[例]`
-> - It is thought that high cholesterol levels in the blood can harden the arteries (= make them thicker and stiffer , causing disease ) . `[例]`
-> - Living in the desert hardened the recruits (= made them more strong and determined ) . `[例]`
+> - The mixture hardens as it cools. `[例]`
+> - It is thought that high cholesterol levels in the blood can harden the arteries (= make them thicker and stiffer , causing disease ). `[例]`
+> - Living in the desert hardened the recruits (= made them more strong and determined ). `[例]`
 
 
 ---

@@ -145,9 +145,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She denies the value of scientific work. `[真题]`
-> - She had already sold everything of value that she possessed . `[例]`
-> - What is the value of the prize ? `[例]`
+> - The value of the shares has continued to fall. `[例]`
+>   - 中译：股票价值持续下跌。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/value
+> - Don't leave anything of value in the car. `[例]`
+>   - 中译：不要将任何贵重物品留在车内。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/value
+> - Sports cars tend to hold their value well. `[例]`
+>   - 中译：跑车往往能很好地保值。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/value
 
 ---
 

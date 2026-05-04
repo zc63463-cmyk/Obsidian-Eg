@@ -138,9 +138,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The car has a number of special safety features . `[例]`
-> - Is there anything special that you'd like to do today? `[例]`
-> - Passengers should tell the airline in advance if they have any special dietary needs . `[例]`
+> - The school will only allow this in special circumstances. `[例]`
+>   - 中译：学校只会在特殊情况下允许这样做。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/special_1
+> - There is something special about this place. `[例]`
+>   - 中译：这个地方有一种特别之处。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/special_1
+> - This type of wood needs special treatment. `[例]`
+>   - 中译：这种木材需要特殊处理。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/special_1
 
 ---
 

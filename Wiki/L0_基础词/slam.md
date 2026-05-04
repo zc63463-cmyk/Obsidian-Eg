@@ -145,9 +145,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - He slammed the brakes on when a child ran in front of his car. ` `[语料库]`
-> - She slammed the door behind her and walked away. ` `[语料库]`
-> - The car behind me slammed into the back of me when I stopped suddenly. ` `[语料库]`
+> - He slammed the brakes on (= used them quickly and with force ) when a child ran in front of his car. `[例]`
+> - I had to stop suddenly , and the car behind me slammed into the back of me. `[例]`
+> - Although the reviewers slammed the play , the audience loved it. `[例]`
 
 
 ---

@@ -127,8 +127,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The country's gross domestic product grew by 3.2% last year.（该国国内生产总值去年增长了3.2%。）
-> - The gross income of the company exceeded expectations.（公司的总收入超出了预期。）
+> - A person's gross income is the money they earn before tax is deducted from it. `[例]`
+>   - 中译：一个人的总收入是扣除税款之前的收入。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/gross
+> - Once wrapped , the gross weight of the package is 2.1 kg. `[例]`
+>   - 中译：包装后，包装毛重为 2.1 公斤。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/gross
+> - She earns £30,000 a year gross. `[例]`
+>   - 中译：她的年收入为 30,000 英镑。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/gross
 
 ---
 

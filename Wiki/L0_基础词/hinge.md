@@ -123,7 +123,7 @@ hinge 词源与原始日耳曼语 *\*hanhan-*（悬挂）有关，与 hang（悬
 ## 真题/语料关联
 
 > [!example]- 语料
-> - We had to take the front door off its hinges to get our new sofa into the house . `[例]`
+> - We had to take the front door off its hinges to get our new sofa into the house. `[例]`
 > - The door had been pulled off its hinges. `[例]`
 > - The outcome of the game hinged on a single play. `[例]`
 

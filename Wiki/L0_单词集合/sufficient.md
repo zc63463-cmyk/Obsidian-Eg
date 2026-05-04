@@ -119,9 +119,15 @@ suf-（sub- 在 f 前的同化：在下方）+ [[fac|fac]]（做）+ -ent（形�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - This recipe should be sufficient for five people . `[例]`
-> - It was thought that he'd committed the crime but there wasn't sufficient evidence to convict him. `[例]`
-> - Would you like some more stew ?" "No thanks , I've had sufficient. `[例]`
+> - One dose should be sufficient. `[例]`
+>   - 中译：一剂就足够了。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sufficient
+> - These reasons are not sufficient to justify the ban. `[例]`
+>   - 中译：这些理由不足以证明该禁令的合理性。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sufficient
+> - Our budget is hardly sufficient to pay people, let alone buy any new equipment. `[例]`
+>   - 中译：我们的预算几乎不足以支付人员工资，更不用说购买任何新设备了。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sufficient
 
 
 ---

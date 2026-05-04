@@ -129,10 +129,9 @@ instruction（源自拉丁语 *instructio*，*instruere* 的名词形式。*in-*
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Please read the instructions carefully before operating the machine. ` [真题]`
-> - The teacher gave clear instructions for the assignment. ` [真题]`
-> - The tent comes with detailed instructions on how to put it up. ` [语料库]`
-> - Operating instructions for the phones are displayed in five languages. ` [语料库]`
+> - The police who broke into the house were only acting under instructions. `[例]`
+> - He claimed that his notes were destroyed on instructions from more senior staff. `[例]`
+> - He gave clear instructions to the bank that the box is not to be opened. `[例]`
 
 
 ---

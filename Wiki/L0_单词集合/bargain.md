@@ -126,10 +126,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The dress was a real bargain at half price. [COCA-SPOK]
-> - We bargained with the seller for a better deal. `[例]`
-> - They struck a bargain after hours of negotiation. `[真题]`
-> - I didn't bargain for this kind of weather in April. `[例]`
+> - This coat was half-price - a real bargain. `[例]`
+>   - 中译：这件外套半价——真是便宜。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/bargain
+> - They might have to wait until next year to get the best bargains. `[例]`
+>   - 中译：他们可能要等到明年才能买到最好的便宜货。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/bargain
+> - The sales had started and the bargain hunters (= people looking for things at a low price ) were out in force. `[例]`
+>   - 中译：促销活动已经开始，讨价还价的人（=寻找低价商品的人）蜂拥而至。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/bargain
 
 ---
 

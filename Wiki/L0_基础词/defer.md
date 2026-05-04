@@ -126,9 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - My bank has agreed to defer the repayments on my loan . `[例]`
-> - Can we defer mak ing a decision until next week ? `[例]`
-> - You can order the furniture now and defer payment until September . `[例]`
+> - My bank has agreed to defer the repayments on my loan. `[例]`
+> - Can we defer mak ing a decision until next week? `[例]`
+> - You can order the furniture now and defer payment until September. `[例]`
 
 
 ---

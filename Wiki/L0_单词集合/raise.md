@@ -143,10 +143,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The government needs to raise public awareness of environmental issues." `[COCA-ACAD]`
-> - "She raised the question of funding for the project." `[COCA-ACAD]`
-> - "The lawyer raised an objection in the court." `[COCA-NEWS]`
-> - "They raised the flag at dawn." `[COCA-NEWS]`
+> - Would all those in favour please raise their hands? `[例]`
+>   - 中译：请所有赞成的人都举手吗？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/raise
+> - He raised the window and leaned out. `[例]`
+>   - 中译：他打开车窗，探身出去。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/raise
+> - Mary Quant was the first fashion designer to raise hemlines. `[例]`
+>   - 中译：Mary Quant 是第一位提高裙摆的时装设计师。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/raise
 
 ---
 

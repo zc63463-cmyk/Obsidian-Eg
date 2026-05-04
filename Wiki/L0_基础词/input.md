@@ -129,7 +129,7 @@ in-(进入) + [[put|put-]](放置，放)
 > [!example]- 语料
 > - Students need more input from their teachers to improve their writing skills. `[真题]`
 > - The quality of the output depends on the quality of the input. `[真题]`
-> - Barley is one of the main inputs to the process of distillation. `[权威语料]`
+> - Barley is one of the main inputs to the process of distillation. `[例]`
 
 
 ---

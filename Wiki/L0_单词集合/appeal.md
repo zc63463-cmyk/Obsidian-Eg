@@ -127,9 +127,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - If the study of law is beginning to establish itself as part and parcel of a general education, its aims and methods should appeal directly to journalism educators. `[考研-2007-翻译]`
-> - The design appeals to young people. `[考研-2020-阅读]`
-> - The charity made an appeal for donations after the earthquake. `[例]`
+> - They're launching (= starting ) an appeal to raise money for famine victims. `[例]`
+>   - 中译：他们正在发起（=开始）呼吁为饥荒受害者筹集资金。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/appeal
+> - The police have issued an appeal to the public to stay away from the area over the weekend. `[例]`
+>   - 中译：警方已呼吁公众周末远离该地区。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/appeal
+> - No witnesses to the accident have come forward yet , despite the police's appeal. `[例]`
+>   - 中译：尽管警方提出上诉，但目前还没有事故目击者站出来。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/appeal
 
 ---
 

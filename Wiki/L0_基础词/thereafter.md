@@ -126,9 +126,9 @@ there(那里，那个) + after(之后)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He left the priesthood in 1970 and settled in the Washington area shortly thereafter." `[词典]`
-> - "The nature of their commitment changed as soon as they entered the war and several times thereafter." `[语料库]`
-> - "Delaying defense programs virtually guarantees their cost growth not only this year and next but every year thereafter." `[期刊]`
+> - He left the priesthood in 1970 and settled in the Washington area shortly thereafter. `[例]`
+> - The nature of their commitment changed as soon as they entered the war and several times thereafter. `[例]`
+> - Delaying defense programs virtually guarantees their cost growth not only this year and next but every year thereafter. `[例]`
 
 
 ---

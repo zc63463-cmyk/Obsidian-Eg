@@ -131,9 +131,15 @@ centi-(百，百分之一) + grad(级/步/度，拉丁语 *gradus*) + -e(连接�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - We measure the temperature in degrees centigrade. `[例]`
-> - Temperatures in centigrade and Fahrenheit. `[例]`
 > - The scientists found that planting trees in urban areas can lower pedestrian-height air temperature by up to 12 degrees centigrade (53.5 F). `[例]`
+>   - 中译：科学家发现，在城市地区植树可以将行人高度的气温降低高达 12 摄氏度（53.5 华氏度）。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/centigrade
+> - At the height of the fire, temperatures inside Bradford’s main stand peaked at around 900 degrees centigrade — the equivalent of a blast furnace. `[例]`
+>   - 中译：火势最猛烈时，布拉德福德主看台内的温度最高达到 900 摄氏度左右，相当于高炉的温度。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/centigrade
+> - This makes Earth freezing cold even during the summer, with farmland in Kansas cooling by about 20 degrees centigrade (about 40 degrees Fahrenheit), and other regions cooling almost twice as much. `[例]`
+>   - 中译：这使得地球即使在夏季也变得寒冷，堪萨斯州的农田降温约 20 摄氏度（约 40 华氏度），其他地区的降温幅度几乎是其两倍。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/centigrade
 
 
 ---

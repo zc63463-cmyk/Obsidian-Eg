@@ -121,9 +121,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The CEO issued a denial of the report that she is about to resign . `[例]`
-> - Officials did not believe the runner's denial that he had taken drugs . `[例]`
-> - His denial of responsibility for the accident was unconvincing . `[例]`
+> - The CEO issued a denial of the report that she is about to resign. `[例]`
+>   - 中译：该首席执行官否认了有关她即将辞职的报道。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/denial
+> - Officials did not believe the runner's denial that he had taken drugs. `[例]`
+>   - 中译：官员们并不相信这名跑步者否认吸毒的说法。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/denial
+> - His denial of responsibility for the accident was unconvincing. `[例]`
+>   - 中译：他否认对这起事故负责的说法缺乏说服力。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/denial
 
 ---
 

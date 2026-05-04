@@ -126,9 +126,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Keep your files in numerical order . `[例]`
-> - The UN forces have a numerical superiority over the rebels (= there are more of the UN forces ) . `[例]`
-> - The phone's voice-recognition system converts the sound into numerical data . `[例]`
+> - Keep your files in numerical order. `[例]`
+> - The UN forces have a numerical superiority over the rebels (= there are more of the UN forces ). `[例]`
+> - The phone's voice-recognition system converts the sound into numerical data. `[例]`
 
 
 ---

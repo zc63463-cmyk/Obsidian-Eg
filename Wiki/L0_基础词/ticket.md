@@ -130,7 +130,7 @@ tick（标记，与 [[tick]] 同源）+ -et（小，名词后缀）→ 小标记
 
 > [!example]- 语料
 > - In this election there will definitely be a woman on the Democratic ticket. `[例]`
-> - Only passengers who were ticketed on that particular flight will receive a refund . `[例]`
+> - Only passengers who were ticketed on that particular flight will receive a refund. `[例]`
 > - Bush and Cheney won re-election in 2004 against a Democratic ticket of John Kerry and John Edwards. `[例]`
 
 

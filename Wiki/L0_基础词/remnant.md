@@ -130,9 +130,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Many of the traditions are remnants of a time when most people worked on the land." `[真题]`
-> - "The museum is one of the last remnants of the 17th-century palace." `[语料库]`
-> - "Only remnants of the original forest remain after decades of deforestation and urban expansion." `[语料库]`
+> - Many of the traditions are remnants of a time when most people worked on the land. `[真题]`
+> - The museum is one of the last remnants of the 17th-century palace. `[例]`
+> - Only remnants of the original forest remain after decades of deforestation and urban expansion. `[例]`
 
 
 ---

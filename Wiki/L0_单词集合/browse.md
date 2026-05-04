@@ -129,10 +129,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "browse the Web for information"（在网上浏览信息）——考研阅读常见搭配
-> - "She browsed through the shelves for something interesting to read."（她浏览书架想找本有趣的书看）——常见文学/日常语境
-> - "You are welcome to come in and browse."（欢迎光临随便看看）——商业场景经典表达
-> - "I found the article while browsing through some old magazines."（我在翻阅旧杂志时发现了这篇文章）——阅读语境
+> - I was browsing through fashion magazines to find a new hairstyle. `[例]`
+>   - 中译：我正在浏览时尚杂志寻找新发型。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/browse
+> - Are you looking for anything in particular , sir ?" "No, I'm just browsing. `[例]`
+>   - 中译：先生，您在寻找什么特别的东西吗？” “没有，我只是浏览一下。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/browse
+> - The man at the station kiosk doesn't like people browsing through the magazines. `[例]`
+>   - 中译：车站售货亭的工作人员不喜欢人们浏览杂志。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/browse
 
 ---
 

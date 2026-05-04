@@ -121,8 +121,8 @@ review_count: 0
 > [!example]- 语料
 > - It's hard not to sympathize with the plight of single parents in today's world. `[真题]`
 > - I sympathize with your situation, but there is nothing I can do. `[真题]`
-> - Many citizens sympathized with the protesters' demands for fair wages. `[语料库]`
-> - Anyone who has ever waited in line at the Department of Motor Vehicles will sympathize with this dilemma. `[语料库]`
+> - Many citizens sympathized with the protesters' demands for fair wages. `[例]`
+> - Anyone who has ever waited in line at the Department of Motor Vehicles will sympathize with this dilemma. `[例]`
 
 
 ---

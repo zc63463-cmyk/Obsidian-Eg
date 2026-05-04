@@ -125,9 +125,15 @@ brace(源自拉丁语 bracchium = arm, 手臂)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The government must brace itself for a potential economic downturn. `[真题]`
-> - Residents were told to brace for impact as the hurricane approached the coastline. `[真题]`
-> - The company braced itself for a drop in profits. `[例]`
+> - He was recently fitted with a brace for his bad back. `[例]`
+>   - 中译：他最近因背部受伤而安装了支架。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/brace
+> - I had to wear a brace for my crooked teeth when I was a teenager. `[例]`
+>   - 中译：当我十几岁的时候，我不得不戴上矫正器来矫正我的歪牙。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/brace
+> - The photos don't show the heavy steel braces that meant he could walk despite this condition. `[例]`
+>   - 中译：照片中没有显示沉重的钢支架，这意味着他尽管处于这种情况下仍可以行走。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/brace
 
 
 ---

@@ -129,10 +129,10 @@ vicin（邻近的，拉丁语 *vicinus*，与 [[vis-vid]] 同源——"看得见
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The Chester Creek greenbelt trail had been closed off in the vicinity of the fire." `[权威语料]`
-> - "Unconfirmed images posted on social media purport to show recent explosions in the vicinity of the city's medieval citadel." `[权威语料]`
-> - "The Fed projects that inflation will sink to 2.4% next year, in the vicinity of its 2% target." `[权威语料]`
-> - "Anyone who happened to be in the vicinity could have been injured or killed." `[权威语料]`
+> - The Chester Creek greenbelt trail had been closed off in the vicinity of the fire. `[例]`
+> - Unconfirmed images posted on social media purport to show recent explosions in the vicinity of the city's medieval citadel. `[例]`
+> - The Fed projects that inflation will sink to 2.4% next year, in the vicinity of its 2% target. `[例]`
+> - Anyone who happened to be in the vicinity could have been injured or killed. `[例]`
 
 
 ---

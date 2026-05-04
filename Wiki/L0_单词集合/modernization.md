@@ -131,8 +131,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The modernization of the country's infrastructure has been a key priority for the government."（国家基础设施的现代化一直是政府的重点任务。）——考研高频表达
-> - "Rapid modernization has brought both economic prosperity and environmental challenges to the region."（快速的现代化给该地区带来了经济繁荣，也带来了环境挑战。）——考研高频表达
+> - The modernization of the 100-year-old sewage and water systems will cost millions of pounds. `[例]`
+>   - 中译：对已有 100 年历史的污水和供水系统进行现代化改造将花费数百万英镑。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/modernization
+> - The lab has undergone a major modernization program in recent years. `[例]`
+>   - 中译：近年来，该实验室经历了重大的现代化改造项目。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/modernization
+> - It is obvious that the railway system needs modernization. `[例]`
+>   - 中译：显然，铁路系统需要现代化。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/modernization
 ---
 
 

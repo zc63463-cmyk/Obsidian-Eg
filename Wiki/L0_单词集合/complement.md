@@ -130,9 +130,15 @@ com-(共同/完全) + [[ple]](填充、满) + -ment(名词后缀，表行为/结
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Research and teaching are not mutually exclusive; rather, they complement each other. `[COCA-ACAD]`
-> - The new building will complement the existing architecture of the campus. `[COCA-NEWS]`
-> - Wine is a perfect complement to a good meal. `[COCA-MAG]`
+> - Strawberries and cream complement each other perfectly. `[例]`
+>   - 中译：草莓和奶油相得益彰。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/complement
+> - The music complements her voice perfectly. `[例]`
+>   - 中译：音乐与她的声音完美互补。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/complement
+> - She used photographs to complement the text of the news story. `[例]`
+>   - 中译：她用照片来补充新闻报道的文字。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/complement
 
 ---
 

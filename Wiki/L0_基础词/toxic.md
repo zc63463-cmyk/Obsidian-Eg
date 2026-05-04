@@ -129,9 +129,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The tree's bark is toxic to insects . `[例]`
-> - Crop dusters can be used to disperse toxic substances . `[例]`
-> - The political environment has turned toxic in recent months . `[例]`
+> - The tree's bark is toxic to insects. `[例]`
+> - Crop dusters can be used to disperse toxic substances. `[例]`
+> - The political environment has turned toxic in recent months. `[例]`
 
 
 ---

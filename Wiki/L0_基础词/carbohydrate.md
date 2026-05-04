@@ -127,9 +127,15 @@ carbo-（碳，拉丁语 *carbo*）+ hydr-（水，希腊语 *hydro*）+ -ate（
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Whole grains are full of complex carbohydrates, vitamins , and minerals . `[例]`
-> - Eat your carbohydrates within two hours after your workout . `[例]`
-> - For example, rice is almost entirely carbohydrate, and butter is almost pure fat. `[例]`
+> - Nuts are high in carbohydrates. `[例]`
+>   - 中译：坚果富含碳水化合物。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/carbohydrate
+> - I’m trying to cut down on carbohydrates. `[例]`
+>   - 中译：我正在努力减少碳水化合物的摄入。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/carbohydrate
+> - Let’s say you are intrigued and want to try a lower carbohydrate intake. `[例]`
+>   - 中译：假设您很感兴趣并想尝试降低碳水化合物的摄入量。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/carbohydrate
 
 
 ---

@@ -137,9 +137,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "His success was due to sheer willpower." `[真题]`
-> - "It was sheer coincidence that we met." `[真题]`
-> - "Yet the sheer scale of what we are discovering about plastic in the ocean demands a solution." `[真题]`
+> - His success was due to sheer willpower. `[真题]`
+> - It was sheer coincidence that we met. `[真题]`
+> - Yet the sheer scale of what we are discovering about plastic in the ocean demands a solution. `[真题]`
 
 
 ---

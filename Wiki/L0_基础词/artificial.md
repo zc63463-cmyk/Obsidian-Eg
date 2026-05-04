@@ -131,10 +131,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Artificial intelligence is transforming the way we work and live. `[COCA-NEWS]`
-> - Their concern seemed artificial. `[COCA-FIC]`
-> - This dress is made of artificial fibers. `[COCA-SPOKEN]`
-> - Artificial intelligence is about making computers act more like humans. `[COCA-ACAD]`
+> - A job interview is a very artificial situation. `[例]`
+>   - 中译：工作面试是一种非常人为的情况。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/artificial
+> - This product contains no artificial colors natural substances are used. `[例]`
+>   - 中译：本产品不含人工色素，均使用天然物质。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/artificial
+> - The country's borders are artificial , and were set with no consideration for the various ethnic groups in the region. `[例]`
+>   - 中译：该国的边界是人为的，并且在设定时没有考虑到该地区的各个民族。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/artificial
 
 
 ---

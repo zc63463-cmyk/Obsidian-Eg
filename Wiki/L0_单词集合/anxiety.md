@@ -123,8 +123,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The uncertainty about the future has caused widespread anxiety among young people."（对未来的不确定性在年轻人中引起了广泛的焦虑。）——考研高频表达
-> - "Public anxiety about the spread of the disease continues to grow."（公众对疾病传播的焦虑持续加剧。）——考研高频表达
+> - That explains his anxiety over his health. `[例]`
+>   - 中译：这解释了他对自己健康状况的焦虑。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/anxiety
+> - Her son is a source of considerable anxiety. `[例]`
+>   - 中译：她的儿子是一个令人相当焦虑的人。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/anxiety
+> - I regret any anxiety or concern that I may, unwittingly , have caused. `[例]`
+>   - 中译：我对我可能无意中造成的任何焦虑或担忧感到遗憾。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/anxiety
 
 ---
 

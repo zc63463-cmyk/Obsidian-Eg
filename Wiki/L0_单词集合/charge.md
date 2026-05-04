@@ -134,10 +134,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - How much do you **charge** for a haircut?（理一次发你们收多少钱？）
-> - He was **charged** with fraud and sentenced to five years in prison.（他被指控犯有欺诈罪，被判处五年监禁。）
-> - The professor is in **charge** of the research project.（这位教授负责这个研究项目。）
-> - Please make sure your phone is fully **charged** before the exam.（请确保考试前手机已充满电。）
+> - In addition to the entourage of scientists, the team also included artists: Painter Thomas Moran and photographer William Henry Jackson were charged with capturing this astounding natural beauty and sharing it with the world. `[真题]`
+>   - 中译：除了科学家随行人员外，该团队还包括艺术家：画家托马斯·莫兰和摄影师威廉·亨利·杰克逊，他们负责捕捉这令人惊叹的自然美景并与世界分享。
+>   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+> - How much do you charge for a haircut and blow-dry? `[例]`
+>   - 中译：理发和吹头发要多少钱？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/charge
+> - Can I charge the company for petrol I use getting to work? `[例]`
+>   - 中译：我可以向公司收取我上班时使用的汽油费吗？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/charge
 
 ---
 

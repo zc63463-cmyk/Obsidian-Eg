@@ -121,8 +121,15 @@ pre-(在……之前/在前面) + [[ced-cess|ced]](走) + -ent(形容词后缀) 
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Presently, we are waiting for further instructions from headquarters."（目前，我们正在等待总部的进一步指示。）——考研高频表达
-> - "She will be here presently."（她马上就到。）——考研高频表达
+> - Of 200 boats , only 20 are presently operational. `[例]`
+>   - 中译：200 艘船中，目前只有 20 艘在运营。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/presently
+> - Three sites are presently under consideration for the new hotel. `[例]`
+>   - 中译：目前正在考虑在三个地点建造新酒店。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/presently
+> - The room was hot and presently her eyes grew heavy and she began to feel sleepy. `[例]`
+>   - 中译：房间里很热，很快她的眼皮就变得沉重，她开始感到困倦。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/presently
 ---
 
 

@@ -122,9 +122,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - I’m worried about his mental stability. `[例]`
-> - There are fears over the stability of the banking system . `[例]`
-> - Large pay awards for executives have been ruled out as the CEO struggles to restore stability at the troubled group . `[例]`
+> - Being back with their family should provide emotional stability for the children. `[例]`
+>   - 中译：回到家人身边应该可以让孩子们情绪稳定。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/stability
+> - The country is now enjoying a period of relative stability and prosperity. `[例]`
+>   - 中译：当前，国家正处于相对稳定和繁荣的时期。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/stability
+> - Test the platform for stability before using it. `[例]`
+>   - 中译：使用前测试平台的稳定性。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/stability
 
 ---
 

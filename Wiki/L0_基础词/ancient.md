@@ -125,9 +125,15 @@ anc-(=ante-, 在前面/在之前) + -ent(形容词后缀，表示"……的")
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The term caravan was used to _4_ groups of people who travelled together across the ancient network for safety reasons , 5 merchants, travellers or pillgrims. `[真题]`
-> - History, ancient and modern , has taught these people an intense distrust of their neighbours . `[例]`
-> - People have lived in this valley since ancient times . `[例]`
+> - Archaeologists are excavating the ruined temples of this ancient civilization. `[例]`
+>   - 中译：考古学家正在挖掘这个古老文明的神庙遗址。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ancient
+> - He's ancient—he must be at least fifty! `[例]`
+>   - 中译：他很老了——他至少有五十岁了！
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ancient
+> - The people in the village still observe the ancient customs of their ancestors. `[例]`
+>   - 中译：村里的人们仍然保留着祖先的古老习俗。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/ancient
 
 
 ---

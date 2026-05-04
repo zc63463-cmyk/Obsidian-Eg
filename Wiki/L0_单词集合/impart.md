@@ -121,10 +121,15 @@ im-(=in，进入，加强) + part(部分，分享)（建议创建词根笔记 [[
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Teachers not only impart knowledge but also inspire students to think critically. `[真题]`
-> - The training program aims to impart practical skills to participants. `[真题]`
-> - Traditionally, schools select a notable person to impart wisdom on their graduating class. `[COCA-NEWS]`
-> - The determination of policy is not your business — your job is to implement it. `[COCA-ACAD]`
+> - I was rather quiet as I didn't feel I had much wisdom to impart on the subject. `[例]`
+>   - 中译：我很安静，因为我觉得我在这个问题上没有太多智慧可以传授。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/impart
+> - Preservatives can impart colour and flavour to a product. `[例]`
+>   - 中译：防腐剂可以赋予产品颜色和风味。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/impart
+> - If the movie has any lesson to impart, it’s that parents shouldn’t aim for perfection. `[例]`
+>   - 中译：如果说这部电影有什么教训的话，那就是父母不应该追求完美。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/impart
 
 ---
 

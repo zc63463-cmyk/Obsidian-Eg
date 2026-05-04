@@ -131,8 +131,8 @@ hear(听) + -ing(名词后缀，表示动作/过程/结果) → 听的行为/过
 ## 真题/语料关联
 
 > [!example]- 语料
-> - A disciplinary hearing will examine charges of serious professional misconduct against three surgeons . `[例]`
-> - I think we should give him a hearing (= we should listen to what he wants to say) . `[例]`
+> - A disciplinary hearing will examine charges of serious professional misconduct against three surgeons. `[例]`
+> - I think we should give him a hearing (= we should listen to what he wants to say). `[例]`
 > - Did he give your complaints a sympathetic hearing? `[例]`
 
 

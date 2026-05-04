@@ -132,8 +132,8 @@ review_count: 0
 
 > [!example]- 语料
 > - Throughout the trip , Jackson juggled multiple cameras and plate sizes using the " collodion process" that required him to coat the plates with a chemical mixture , then expose them and develop the resulting images with a portable darkroom. `[真题]`
-> - They offer portable pensions , carried by employees from job to job . `[例]`
-> - Your phone number is portable if you decide to move to a different home or office . `[例]`
+> - They offer portable pensions , carried by employees from job to job. `[例]`
+> - Your phone number is portable if you decide to move to a different home or office. `[例]`
 
 
 ---

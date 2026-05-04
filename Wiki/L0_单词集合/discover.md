@@ -123,9 +123,15 @@ dis-(移除/打开) + [[cover|cover]](覆盖) → 移除覆盖
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Who actually discovered America ? `[例]`
-> - We searched all morning for the missing papers and finally discovered them in a drawer . `[例]`
-> - Scientists have discovered how to predict an earthquake . `[例]`
+> - Who actually discovered America? `[例]`
+>   - 中译：谁真正发现了美洲？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/discover
+> - We searched all morning for the missing papers and finally discovered them in a drawer. `[例]`
+>   - 中译：我们整个上午都在寻找丢失的文件，最后在抽屉里发现了它们。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/discover
+> - Scientists have discovered how to predict an earthquake. `[例]`
+>   - 中译：科学家们已经找到了预测地震的方法。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/discover
 
 ---
 

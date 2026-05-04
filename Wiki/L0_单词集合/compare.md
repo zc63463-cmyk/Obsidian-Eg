@@ -128,7 +128,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - When we compare the two approaches, the second one proves to be more cost-effective.（当我们比较这两种方法时，第二种被证明更具成本效益。）
+> - If you compare house prices in the two areas , it's quite amazing how different they are. `[例]`
+>   - 中译：如果你比较这两个地区的房价，你会发现它们的差异是多么惊人。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/compare
+> - That seems expensive - have you compared prices in other shops? `[例]`
+>   - 中译：看起来很贵——你比较过其他商店的价格吗？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/compare
+> - Compare some recent work with your older stuff and you'll see how much you've improved. `[例]`
+>   - 中译：将最近的一些工作与以前的工作进行比较，您就会看到自己进步了多少。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/compare
 
 ---
 

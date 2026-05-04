@@ -124,9 +124,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Vegetable prices fluctuate according to the season . `[例]`
-> - Her wages fluctuate between £150 and £200 a week . `[例]`
-> - Her weight fluctuates wildly . `[例]`
+> - Vegetable prices fluctuate according to the season. `[例]`
+> - Her wages fluctuate between £150 and £200 a week. `[例]`
+> - Her weight fluctuates wildly. `[例]`
 
 
 ---

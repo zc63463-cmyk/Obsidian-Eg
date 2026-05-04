@@ -123,9 +123,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The chairman called the meeting to order . `[例]`
-> - He was appointed chairman of the British Bankers' Association . `[例]`
-> - She has decided to step down as chairman next year . `[例]`
+> - The motion was carried on the casting vote of the chairman. `[例]`
+>   - 中译：该动议经主席投决定票获得通过。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/chairman
+> - He then served as chairman of the Civil Aviation Authority. `[例]`
+>   - 中译：随后，他担任民航局局长。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/chairman
+> - The chairman of the company presented the annual report. `[例]`
+>   - 中译：公司董事长宣读年度报告。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/chairman
 
 
 ---

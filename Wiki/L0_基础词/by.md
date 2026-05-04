@@ -136,9 +136,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - They were typically _1_ outside the walls of a city or village and were usually funded by governments or 2 This word " Caravanserais" is 3 a of the Persian word " karv:an" , which means a group of ltravellers or a caravan , and " seray " , a palace or enclosed building. `[真题]`
-> - Travellers on the Silk Road 7 possibility of being attacked by thieves or being 8 to extreme weather conditions. `[真题]`
-> - Answer the questions after each text by .choosing A, B , C or D. `[真题]`
+> - The house is heated by gas. `[例]`
+>   - 中译：房子是用煤气取暖的。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/by
+> - May I pay by credit card? `[例]`
+>   - 中译：我可以用信用卡付款吗？
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/by
+> - I will contact you by letter. `[例]`
+>   - 中译：我将通过信件与您联系。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/by
 
 
 ---

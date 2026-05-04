@@ -137,10 +137,15 @@ counter 可能源自拉丁语 *contra*（对面、反对），与 [[contra-count
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The findings run counter to the expectations of the researchers. `[真题]`
-> - Over-the-counter drugs are available without a prescription. `[真题]`
-> - A counter-argument to this hypothesis is that what is toxic to mammals is not necessarily toxic to invertebrates. `[语料库]`
-> - The prime minister is to meet his European counterparts to discuss the war against drugs. `[语料库]`
+> - I asked the woman behind the counter if they had any postcards. `[例]`
+>   - 中译：我问柜台后面的女士是否有明信片。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/counter
+> - He put his bags down on the kitchen counter. `[例]`
+>   - 中译：他把包放在厨房的柜台上。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/counter
+> - The kitchen had black marble counter tops. `[例]`
+>   - 中译：厨房有黑色大理石台面。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/counter
 
 
 ---

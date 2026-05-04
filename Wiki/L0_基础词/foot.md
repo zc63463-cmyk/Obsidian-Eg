@@ -134,8 +134,8 @@ review_count: 0
 
 > [!example]- 语料
 > - Are you going by bicycle or on foot? `[例]`
-> - A chair by the foot of her bed is piled with books . `[例]`
-> - There's a note explaining the quotation at the foot of the page . `[例]`
+> - A chair by the foot of her bed is piled with books. `[例]`
+> - There's a note explaining the quotation at the foot of the page. `[例]`
 
 
 ---

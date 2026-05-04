@@ -126,9 +126,15 @@ com-(共同，一起) + [[pon/pos]](放置) + -ent(名词/形容词后缀，表�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Each component of the system must be tested individually before assembly. `[COCA-ACAD]`
-> - Hard work and determination are essential components of success. `[COCA-MAG]`
-> - Trust is a key component of any successful relationship. `[例]`
+> - The factory supplies electrical components for cars. `[例]`
+>   - 中译：该工厂供应汽车电气元件。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/component
+> - The course has four main components: business law , finance , computing and management skills. `[例]`
+>   - 中译：该课程有四个主要组成部分：商法、金融、计算和管理技能。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/component
+> - Fresh fruit and vegetables are an essential component of a healthy diet. `[例]`
+>   - 中译：新鲜水果和蔬菜是健康饮食的重要组成部分。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/component
 
 ---
 

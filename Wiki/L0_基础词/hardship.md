@@ -131,7 +131,7 @@ review_count: 0
 > [!example]- 语料
 > - The 1930s were a time of high unemployment and economic hardship. `[例]`
 > - The price of cooking gas increased five-fold, worsening the economic hardship. `[例]`
-> - The Commission does not believe that the proposed rule change will pose an undue hardship on venture capital firms . `[例]`
+> - The Commission does not believe that the proposed rule change will pose an undue hardship on venture capital firms. `[例]`
 
 
 ---

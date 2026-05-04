@@ -127,9 +127,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Do you think those are rain clouds on the horizon ? `[例]`
-> - The sky was a perfect blue - not a cloud in sight . `[例]`
-> - Dark clouds massed on the horizon . `[例]`
+> - The cloud cover is quite dense today. `[例]`
+>   - 中译：今天的云层相当厚。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/cloud
+> - It was scorching and there wasn't a cloud in the sky. `[例]`
+>   - 中译：天气很热，天空没有一丝云彩。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/cloud
+> - The plane was flying in cloud most of the way. `[例]`
+>   - 中译：飞机大部分时间都在云中飞行。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/cloud
 
 
 ---

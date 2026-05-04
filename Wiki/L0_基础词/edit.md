@@ -127,9 +127,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Editing his journals for publication revealed to him how much he cared about what now seems trivial. `[语料库]`
-> - Students learn to edit their essays for grammar and punctuation. `[语料库]`
-> - He continued to edit the paper with great courage through the darkest years of the war. `[语料库]`
+> - Editing his journals for publication revealed to him how much he cared about what now seems trivial. `[例]`
+> - Students learn to edit their essays for grammar and punctuation. `[例]`
+> - He continued to edit the paper with great courage through the darkest years of the war. `[例]`
 
 
 ---

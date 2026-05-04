@@ -128,8 +128,8 @@ e-(=ex-, 出/离开) + vacu(=empty, 空，源自拉丁语 *vacuus*) + -ate(动�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The police evacuated the village shortly before the explosion . `[例]`
-> - A thousand people were evacuated from their homes following the floods . `[例]`
+> - The police evacuated the village shortly before the explosion. `[例]`
+> - A thousand people were evacuated from their homes following the floods. `[例]`
 > - When toxic fumes began to drift toward our homes , we were told to evacuate. `[例]`
 
 

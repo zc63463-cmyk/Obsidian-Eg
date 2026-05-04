@@ -131,8 +131,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - He is probably the best-known living architect . `[例]`
-> - The pyramids are a living monument to the skill of their builders . `[例]`
+> - He is probably the best-known living architect. `[例]`
+> - The pyramids are a living monument to the skill of their builders. `[例]`
 > - What do you do for a living? (= What is your job ?). `[例]`
 
 

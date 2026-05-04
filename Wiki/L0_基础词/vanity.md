@@ -131,10 +131,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He wants the job purely for reasons of vanity and ambition." `[Cambridge]`
-> - "The new bridge was quickly condemned as a pointless vanity project, intended to enhance the reputation of the mayor." `[Cambridge]`
-> - "Clearly, ambition and vanity played a huge part." `[Collins]`
-> - "Vanity is her chief fault." `[Oxford]`
+> - He wants the job purely for reasons of vanity and ambition. `[例]`
+> - The new bridge was quickly condemned as a pointless vanity project, intended to enhance the reputation of the mayor. `[例]`
+> - Clearly, ambition and vanity played a huge part. `[例]`
+> - Vanity is her chief fault. `[例]`
 
 
 ---

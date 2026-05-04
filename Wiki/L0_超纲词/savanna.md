@@ -3,10 +3,8 @@ title: "savanna"
 tags:
   - 学习/英语/词汇
   - 语义场/自然物理
-  - 掌握/L0
 aliases: []
 date: 2026-04-25
-mastery: L0
 word_freq: 超纲词
 semantic_field: 自然物理
 prototype: 树木稀疏的热带草原
@@ -43,7 +41,7 @@ review_count: 0
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**树木稀疏的热带草原**"为统筹中心，沿空间路径向外扩展：
 >
 > 1. **树木稀疏的热带草原**（地理景观层面）
@@ -62,7 +60,7 @@ review_count: 0
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -72,7 +70,7 @@ review_count: 0
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > savanna 来自加勒比原住民语言，描述的是"无树的平原"。想象《狮子王》里辛巴奔跑的那片广袤草原——远处一棵金合欢树的剪影映在夕阳下，那就是典型的非洲 savanna。
@@ -84,7 +82,7 @@ review_count: 0
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -97,13 +95,13 @@ review_count: 0
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[forest]]：森林（savanna ↔ forest，稀树草原↔密林）
 > - [[desert]]：沙漠（savanna ↔ desert，草原↔荒漠，两者都是极端景观）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -113,7 +111,7 @@ review_count: 0
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **African savanna**：非洲稀树草原
 > - **tropical savanna**：热带稀树草原
 > - **savanna ecosystem**：稀树草原生态系统
@@ -121,19 +119,12 @@ review_count: 0
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - They are working on ways to conserve the globally rare habitat of oak savanna . `[例]`
+> [!example]- 语料
+> - They are working on ways to conserve the globally rare habitat of oak savanna. `[例]`
 > - The bird is rarely seen in many areas because of the destruction of the oak savannas upon which it relies. `[例]`
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-25 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

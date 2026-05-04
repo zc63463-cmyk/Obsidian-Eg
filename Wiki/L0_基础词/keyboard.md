@@ -126,10 +126,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The invention of the computer keyboard revolutionized the way humans interact with machines, transforming communication and data processing." `[真题]`
-> - "Many young people today spend more time typing on a keyboard than writing by hand, which has raised concerns about the decline of handwriting skills." `[真题]`
-> - "The keyboard shortcut Ctrl+W closes the window." `[剑桥词典]`
-> - "My star and favourite person is Tuomas Holopainen of Nightwish keyboard." `[通用语料]`
+> - The invention of the computer keyboard revolutionized the way humans interact with machines, transforming communication and data processing. `[真题]`
+> - Many young people today spend more time typing on a keyboard than writing by hand, which has raised concerns about the decline of handwriting skills. `[真题]`
+> - The keyboard shortcut Ctrl+W closes the window. `[例]`
+> - My star and favourite person is Tuomas Holopainen of Nightwish keyboard. `[例]`
 
 
 ---

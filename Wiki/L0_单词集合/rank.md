@@ -141,11 +141,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - He rose to the rank of partner in the law firm. `[COCA]`
-> - She's not concerned about rank or wealth. `[COCA]`
-> - A magazine recently ranked the school as one of the best in the country. `[COCA]`
-> - Students who rank in the top third of their class have a better chance of being accepted to the college of their choice. `[COCA]`
-> - Mexico's soccer team is ranked 11th in the world. `[COCA]`
+> - He has just been promoted to the rank of captain. `[例]`
+>   - 中译：他刚刚晋升为上尉军衔。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/rank
+> - Ministers of cabinet rank receive a higher salary than other ministers. `[例]`
+>   - 中译：内阁级别部长的薪水高于其他部长。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/rank
+> - Having a large income is one of the advantages of rank (= high position ). `[例]`
+>   - 中译：拥有高收入是等级（=高职位）的优势之一。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/rank
 
 ---
 

@@ -123,10 +123,15 @@ engage(承诺/参与) + -ment(名词后缀)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Community engagement fosters a sense of belonging and shared responsibility. `[COCA-ACAD]`
-> - Student participation and engagement are essential for effective learning outcomes. `[COCA-ACAD]`
-> - Their engagement was announced in the newspaper. `[COCA-ACAD]`
-> - Employee engagement is crucial for organizational success. `[例]`
+> - They announced their engagement at the party on Saturday. `[例]`
+>   - 中译：他们在周六的聚会上宣布订婚。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/engagement
+> - He was known for his engagement with the problems of the most difficult students. `[例]`
+>   - 中译：他因致力于解决最困难学生的问题而闻名。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/engagement
+> - This article outlines the council's communication and public engagement strategy. `[例]`
+>   - 中译：本文概述了该委员会的沟通和公众参与策略。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/engagement
 
 ---
 

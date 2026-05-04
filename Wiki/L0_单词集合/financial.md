@@ -134,10 +134,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "the global financial crisis of 2008"（2008年全球金融危机）——考研阅读/翻译高频表达，经济类话题
-> - "financial aid for students"（学生经济资助）——教育类话题常见搭配
-> - "financial support from the government"（政府的资金支持）——政策类阅读常见表达
-> - "achieve financial independence"（实现经济独立）——社会/生活类话题高频搭配
+> - She organizes her financial affairs very efficiently. `[例]`
+>   - 中译：她非常有效率地组织她的财务事务。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/financial
+> - He steered the country through a financial crisis. `[例]`
+>   - 中译：他带领国家度过了金融危机。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/financial
+> - Is there any hope of getting financial support for the project? `[例]`
+>   - 中译：该项目是否有希望获得资金支持？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/financial
 
 ---
 

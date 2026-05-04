@@ -129,9 +129,15 @@ in-(加强) + [[tend-tens|tens-/tend-]](伸展→拉紧) + -ive(形容词后缀�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - However, the main forest burning started around 700 years ago, after what current archaeological evidence indicates was the most intensive stage of moa hunting. `[真题]`
-> - It concluded intensive treatment makes patients 45 per cent less likely to die, surviving a median of eight years longer. `[COCA-ACAD]`
-> - The course compresses two year's training into six intensive months. `[COCA-ACAD]`
+> - Intensive bombing had reduced the city to rubble. `[例]`
+>   - 中译：密集的轰炸将这座城市夷为废墟。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/intensive
+> - The course compresses two year's training into six intensive months. `[例]`
+>   - 中译：该课程将两年的培训压缩为六个月的强化训练。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/intensive
+> - The soil has been so heavily leached through intensive farming that it is no longer fertile. `[例]`
+>   - 中译：由于集约化耕作，土壤已被严重淋滤，不再肥沃。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/intensive
 
 ---
 

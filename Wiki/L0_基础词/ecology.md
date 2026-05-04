@@ -126,7 +126,7 @@ eco-(=oikos, 家/环境) + [[log-logy|-logy]](学科/研究)
 > [!example]- 语料
 > - The developments will extend further into the shore, so further destroying the river's ecology. `[真题]`
 > - Explaining the complex structure of tropical forests is one of the great challenges in ecology. `[真题]`
-> - The Black Sea is facing ecological catastrophe as a result of pollution. `[真题]`
+> - A line of ecology trees rose above the morning fog. `[例]`
 
 
 ---

@@ -140,9 +140,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - According to witnesses, the robbery was carried out by two teenage boys . `[例]`
-> - Police are appealing for witnesses to the accident to come forward . `[例]`
-> - She was witness to the tragic event . `[例]`
+> - He failed to interview a key witness. `[例]`
+>   - 中译：他未能采访关键证人。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/witness
+> - Police have appealed for witnesses to the accident. `[例]`
+>   - 中译：警方已呼吁提供这起事故的目击者。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/witness
+> - We have a witness to the killing. `[例]`
+>   - 中译：我们有凶杀案的目击者。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/witness
 
 ---
 

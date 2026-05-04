@@ -137,9 +137,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - On the island the people worshipped different gods . `[例]`
-> - The poll showed that over 40 percent of Americans worship on a weekly basis . `[例]`
-> - Her parents worship her. `[例]`
+> - The tradition of ancestor worship stretches back thousands of years. `[例]`
+>   - 中译：祭祖的传统可以追溯到几千年前。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/worship
+> - What she feels for him is akin to worship. `[例]`
+>   - 中译：她对他的感觉类似于崇拜。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/worship
+> - Many ancient cultures worshipped the sun and moon. `[例]`
+>   - 中译：许多古代文化崇拜太阳和月亮。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/worship
 
 ---
 

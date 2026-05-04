@@ -135,9 +135,9 @@ hip（臀部）源自古英语 *hype*，来自原始日耳曼语 *\*hupiz*，最
 ## 真题/语料关联
 
 > [!example]- 语料
-> - This exercise is designed to trim your hips and stomach . `[例]`
+> - This exercise is designed to trim your hips and stomach. `[例]`
 > - The skirt was a bit tight across the hips. `[例]`
-> - The bars in the old part of the town are frequented by hip young students . `[例]`
+> - The bars in the old part of the town are frequented by hip young students. `[例]`
 
 
 ---

@@ -129,9 +129,15 @@ con-(=together, 一直) + [[tin]](=hold/keep, 保持) + -ual(形容词后缀) �
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The continual noise from the construction site made it impossible for residents to sleep. `[COCA-ACAD]`
-> - In today's society, workers face continual pressure to update their skills and adapt to new technologies. `[COCA-ACAD]`
-> - The continual rain delayed the outdoor event for several hours. `[例]`
+> - I've had continual problems with this car ever since I bought it. `[例]`
+>   - 中译：自从我买了这辆车以来，我就一直遇到这个问题。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/continual
+> - I'm sorry - I can't work with these continual interruptions. `[例]`
+>   - 中译：抱歉，我无法忍受这些持续不断的干扰。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/continual
+> - His continual demands for sympathy became quite a strain on his friends. `[例]`
+>   - 中译：他不断地索取同情，这给他的朋友们带来了很大的压力。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/continual
 ---
 
 

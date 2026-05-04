@@ -127,10 +127,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Birds have the instinct to migrate south in winter." `[真题]`
-> - "All his instincts told him to stay near the car and wait for help." `[COCA-ACAD]`
-> - "Her first instinct was to run." `[COCA-ACAD]`
-> - "Children do not know by instinct the difference between right and wrong." `[COCA-ACAD]`
+> - All his instincts told him to stay near the car and wait for help. `[例]`
+>   - 中译：他所有的直觉都告诉他要留在车附近等待救援。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/instinct
+> - Her first instinct was to run. `[例]`
+>   - 中译：她的第一反应是逃跑。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/instinct
+> - My first instinct was to turn down the invitation. `[例]`
+>   - 中译：我的第一反应是拒绝这个邀请。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/instinct
 
 
 ---

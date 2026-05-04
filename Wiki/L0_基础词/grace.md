@@ -128,10 +128,10 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "His fall from grace in the 1980s, followed by his return to Apple in 1996 after a period in the wilderness, is an inspiration to any businessperson whose career has taken a turn for the worse." `[真题]`
-> - "She handled the difficult situation with grace and dignity." `[真题]`
-> - "By the grace of God, no one was seriously hurt." `[韦氏词典]`
-> - "He has shown remarkable grace during this crisis." `[韦氏词典]`
+> - His fall from grace in the 1980s, followed by his return to Apple in 1996 after a period in the wilderness, is an inspiration to any businessperson whose career has taken a turn for the worse. `[真题]`
+> - She handled the difficult situation with grace and dignity. `[真题]`
+> - By the grace of God, no one was seriously hurt. `[例]`
+> - He has shown remarkable grace during this crisis. `[例]`
 
 
 ---

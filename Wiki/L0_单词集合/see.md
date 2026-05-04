@@ -148,11 +148,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Many scholars see globalization as a double-edged sword that brings both opportunities and challenges. `[真题]`
-> - The committee will see to it that all safety regulations are strictly enforced. `[COCA-ACAD]`
-> - Researchers have seen significant changes in consumer behavior over the past decade. `[COCA-ACAD]`
-> - I see what you mean, but I think there is another way to approach this problem. `[COCA-ACAD]`
-> - She needs to see a doctor about that persistent cough. `[例]`
+> - Turn the light on so I can see. `[例]`
+>   - 中译：把灯打开以便我能看见。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/see
+> - I can see you! `[例]`
+>   - 中译：我能看见你！
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/see
+> - The teacher could see (that) the children had been fighting. `[例]`
+>   - 中译：老师看得出来孩子们一直在打架。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/see
 
 ---
 

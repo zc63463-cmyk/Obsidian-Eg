@@ -123,8 +123,15 @@ pre-(在……之前) + sume(拿取) + -ably(可以……地)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Presumably they can afford to buy an apartment, or they wouldn't be looking."（据推测他们买得起公寓，否则他们就不会在找了。）——考研高频表达
-> - "Presumably he just forgot to send the letter."（他大概只是忘了寄信。）——考研高频表达
+> - They can presumably afford to buy a bigger apartment. `[例]`
+>   - 中译：他们大概有能力购买更大的公寓。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/presumably
+> - Presumably they've decided to move back to Australia. `[例]`
+>   - 中译：想必他们已经决定搬回澳大利亚。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/presumably
+> - Presumably they can't afford a new car , or they'd have bought one by now. `[例]`
+>   - 中译：想必他们买不起新车，否则他们现在就已经买一辆了。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/presumably
 ---
 
 

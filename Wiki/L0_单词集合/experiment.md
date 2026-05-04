@@ -126,8 +126,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "In 1924 American National Research Council sent engineers to supervise a series of experiments at a telephone-parts factory called the Hawthorne Plant near Chicago."（1924年，美国国家研究委员会派遣工程师到芝加哥附近一家名为霍桑工厂的电话零件厂监督一系列实验。）——2010考研英语一完形
-> - "They carried out a series of experiments to test the theory."（他们进行了一系列实验来验证这个理论。）——考研高频表达
+> - Some people believe that experiments on animals should be banned. `[例]`
+>   - 中译：一些人认为应该禁止动物实验。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/experiment
+> - She went there as part of an experiment to learn more about the ways extreme cold affects the body. `[例]`
+>   - 中译：她去那里是为了更多地了解极端寒冷对身体影响的实验的一部分。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/experiment
+> - Scientists are conducting experiments to test the effectiveness of the new drug. `[例]`
+>   - 中译：科学家们正在进行实验来测试这种新药的有效性。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/experiment
 
 ---
 

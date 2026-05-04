@@ -129,8 +129,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The government was forced to adopt new economic policies to cope with the crisis.（政府被迫采取新的经济政策来应对危机。）
-> - The argument lacks force and fails to convince the audience.（这个论点缺乏说服力，未能说服听众。）
+> - The force of the wind had brought down a great many trees in the area. `[例]`
+>   - 中译：狂风吹倒了该地区许多树木。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/force
+> - She slapped his face with unexpected force. `[例]`
+>   - 中译：她用意想不到的力量打了他的脸。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/force
+> - Teachers aren't allowed to use force in the classroom. `[例]`
+>   - 中译：教师不得在课堂上使用武力。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/force
 
 ---
 

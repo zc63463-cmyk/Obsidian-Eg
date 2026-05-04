@@ -3,10 +3,8 @@ title: "foresight"
 tags:
   - 学习/英语/词汇
   - 语义场/理性世界
-  - 掌握/L0
 aliases: []
 date: 2026-04-24
-mastery: L0
 word_freq: 超纲词
 semantic_field: 理性世界
 prototype: 先见之明（提前预见未来的能力）
@@ -43,7 +41,7 @@ fore-(在前，提前) + sight(视力，视野)
 
 ## 词义链路
 
-> [!abstract]- 词义链路法 · L1
+> [!abstract]- 词义链路法
 > 以"**先见之明**"为统筹中心，沿时间路径向外扩展：
 >
 > 1. **先见之明**（认知能力层面）
@@ -64,7 +62,7 @@ fore-(在前，提前) + sight(视力，视野)
 
 ## 词性转换
 
-> [!note]- 词性-词义链接 · L1
+> [!note]- 词性-词义链接
 >
 > | 词性 | 释义 | 转换路径 |
 > |------|------|---------|
@@ -74,7 +72,7 @@ fore-(在前，提前) + sight(视力，视野)
 
 ## 记忆锚点
 
-> [!quote]- 记忆方式 · L1
+> [!quote]- 记忆方式
 >
 > **叙事化词源**（优先）：
 > fore（前面）+ sight（看）= foresight（先见之明）。hindsight（后见之明）是事后回头看，foresight 是事前向前看。一个有 foresight 的企业家会在市场变化前做好准备。lack of foresight 就是缺乏远见。记住：fore- = 前，sight = 看 → 向前看 = 先见之明。
@@ -86,7 +84,7 @@ fore-(在前，提前) + sight(视力，视野)
 
 ## 同义词辨析
 
-> [!note]- 同义词网络 · L2
+> [!note]- 同义词网络
 >
 > | 词 | 核心语义差异 | 方式特点 | 常见对象 | 情感色彩 |
 > |------|------------|---------|---------|---------|
@@ -99,13 +97,13 @@ fore-(在前，提前) + sight(视力，视野)
 
 ## 反义词
 
-> [!note]- 反义词 · L2
+> [!note]- 反义词
 > - [[hindsight]]：后见之明（foresight↔hindsight：先见之明↔事后诸葛亮）
 > - [[shortsightedness]]：短视（foresight↔shortsightedness：远见↔短视）
 
 ## 派生词链接
 
-> [!note]- 派生词族 · L2
+> [!note]- 派生词族
 >
 > | 派生词 | 构词分析 | 释义 | 链接关系 |
 > |--------|---------|------|---------|
@@ -117,7 +115,7 @@ fore-(在前，提前) + sight(视力，视野)
 
 ## 搭配与短语
 
-> [!example]- 搭配 · L3
+> [!example]- 搭配
 > - **have the foresight to do sth.**：有先见之明做某事
 > - **lack of foresight**：缺乏远见
 > - **strategic foresight**：战略前瞻性
@@ -125,19 +123,12 @@ fore-(在前，提前) + sight(视力，视野)
 
 ## 真题/语料关联
 
-> [!example]- 语料 · L3
-> - She'd had the foresight to sell her apartment just before the housing market collapsed . `[例]`
+> [!example]- 语料
+> - She'd had the foresight to sell her apartment just before the housing market collapsed. `[例]`
 > - She had the foresight to sell her house just before prices came down. `[例]`
-
-## 复习记录
-
-> [!note]- 复习追踪
-> **上次复习**：2026-04-24 | **复习次数**：0 | **当前等级**：L0
-
----
 
 ## 主动产出
 
-> [!success]- 内化标记 · L4
+> [!success]- 内化标记
 > **写作用例**：<自己在写作/翻译中使用该词的例句>
 > **翻译实践**：<翻译练习中的使用记录>

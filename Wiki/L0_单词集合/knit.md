@@ -139,10 +139,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "We are a very close-knit family." `[COCA-ACAD]`
-> - "The author creates several storylines, then gracefully knits them together by the end of the novel." `[COCA-ACAD]`
-> - "The bone hasn't knitted together properly." `[COCA-ACAD]`
-> - "Globally competitive firms knit together national competitive advantages to make things in the most cost-effective locations." `[COCA-ACAD]`
+> - She's busy knitting baby clothes. `[例]`
+>   - 中译：她正忙着织婴儿衣服。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/knit
+> - That's a groovy hat you're wearing , did you knit it yourself? `[例]`
+>   - 中译：你戴的这顶帽子很漂亮，是你自己织的吗？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/knit
+> - How many balls of wool did you need to knit that sweater? `[例]`
+>   - 中译：织那件毛衣需要多少毛球？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/knit
 
 ---
 

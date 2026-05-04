@@ -137,10 +137,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Those who take risks they regret later on are usually very aggressive."（那些事后后悔冒险的人通常非常好斗）——2011年12月六级阅读
-> - "They are aggressive."（他们具有攻击性）——2016年6月阅读原文
-> - "Far from the traditional image of a culture of aggressive masculinity..."（远非传统上充满攻击性阳刚之气的文化形象）——阅读真题，性别话题
-> - "aggressive traffic enforcement tactics"（激进的交通执法策略）——社会政策话题
+> - The stereotype is that men tend to be more aggressive than women. `[例]`
+>   - 中译：人们的刻板印象是，男性往往比女性更具攻击性。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/aggressive
+> - If I criticize him, he gets aggressive and starts shouting. `[例]`
+>   - 中译：如果我批评他，他就会变得咄咄逼人并开始大喊大叫。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/aggressive
+> - Aggressive behaviour will not be tolerated in the classroom. `[例]`
+>   - 中译：课堂上不会容忍攻击性行为。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/aggressive
 
 ---
 

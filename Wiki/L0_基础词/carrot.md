@@ -126,9 +126,15 @@ carrot 源自中古英语 *carotte*，借自古法语，最终源自拉丁语 *c
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The menu features standout starters like spiced carrot soup . `[例]`
-> - Don't throw your carrot tops away! They can make a delicious addition to a salad . `[例]`
-> - If they finished the construction ahead of schedule , they were offered the carrot of a bonus . `[例]`
+> - They are holding out a carrot of $120 million in economic aid. `[例]`
+>   - 中译：他们拿出了1.2亿美元的经济援助胡萝卜。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/carrot
+> - It's a big carrot he's dangling in front of Marler's nose. `[例]`
+>   - 中译：他在马勒鼻子前晃来晃去，是一根大胡萝卜。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/carrot
+> - The emphasis is on the carrot of incentive rather than the stick of taxes. `[例]`
+>   - 中译：重点是激励的胡萝卜而不是税收的大棒。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/carrot
 
 
 ---

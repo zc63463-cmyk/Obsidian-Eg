@@ -128,7 +128,7 @@ ex-(出、向外) + erc(围栏、圈禁，拉丁语 *arcere*) + -ise(动词后�
 
 > [!example]- 语料
 > - Swimming is my favourite form of exercise. `[例]`
-> - The doctor recommended that he get more exercise, at least three times a week , and try to also get more sleep . `[例]`
+> - The doctor recommended that he get more exercise, at least three times a week , and try to also get more sleep. `[例]`
 > - You really should take more exercise. `[例]`
 
 

@@ -121,11 +121,15 @@ in-(否定前缀，"不") + evit(避免) + -able(形容词后缀，"可被…的
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "One could interpret much of the work of Beethoven by saying that suffering is inevitable, but the courage to fight it renders life worth living." `[真题]`
-> - "It is hard to shove for attention among multi-billion-pound infrastructure projects, so it is inevitable that the attention is focused elsewhere." `[真题]`
-> - "The endless public appearances are an inevitable part of an election campaign." `[COCA-ACAD]`
-> - "When you're working such long hours, it's inevitable that your marriage will start to suffer." `[COCA-ACAD]`
-> - "With a father like his, a career in music was inevitable." `[COCA-ACAD]`
+> - Eventually the inevitable happened and he had a heart attack. `[例]`
+>   - 中译：最终不可避免的事情发生了，他心脏病发作了。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/inevitable
+> - Unfortunately, violence is the inevitable corollary of such a revolutionary change in society. `[例]`
+>   - 中译：不幸的是，暴力是这种社会革命性变革的必然结果。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/inevitable
+> - The eclipse of the ruling political party was inevitable. `[例]`
+>   - 中译：执政党的衰落是不可避免的。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/inevitable
 
 ---
 

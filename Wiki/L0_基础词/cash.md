@@ -127,9 +127,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Will you pay by credit card or in cash? `[例]`
-> - I'm a bit strapped for cash (= I do not have much money ) at the moment . `[例]`
-> - Do you have any cash on you? `[例]`
+> - How much cash do you have on you? `[例]`
+>   - 中译：你身上有多少现金？
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/cash
+> - Customers are offered a 10% discount if they pay cash. `[例]`
+>   - 中译：如果顾客支付现金，可享受 10% 的折扣。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/cash
+> - Payments can be made by card or in cash. `[例]`
+>   - 中译：可以通过卡或现金付款。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/cash
 
 
 ---

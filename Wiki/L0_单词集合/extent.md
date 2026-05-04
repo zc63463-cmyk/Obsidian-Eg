@@ -126,8 +126,15 @@ ex-(=out, 向外) + tent(=[[tend-tens|tend]]的过去分词形式，=伸展到�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "How we read a given text also depends to some extent on our particular interest in reading it."（我们如何阅读一个既定的文本，在某种程度上也取决于我们阅读它的特定兴趣。——2015年考研英语一新题型）
-> - "Even employment protection laws, if they do not put the jobs of ordinary workers at risk, limit firms' productivity to the extent that they restrict the owners' ability to fire underperforming managers."（即使就业保护法不会使普通员工的岗位处于危险之中，但只要其在某种程度上限制企业所有者解雇表现不佳的经理，这些法律就限制了企业的生产率。——考研英语真题）
+> - We don't yet know the extent of his injuries (= how bad his injuries are). `[例]`
+>   - 中译：我们还不知道他的伤势（=他的伤势有多严重）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/extent
+> - From the top of the Empire State Building, you can see the full extent of Manhattan (= the area it covers ). `[例]`
+>   - 中译：从帝国大厦的顶部，您可以看到曼哈顿的全貌（=它所覆盖的区域）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/extent
+> - Rosie's teacher was impressed by the extent of her knowledge (= how much she knew ). `[例]`
+>   - 中译：罗西的老师对她的知识广度（=她知道多少）印象深刻。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/extent
 
 ---
 

@@ -128,8 +128,8 @@ review_count: 0
 
 > [!example]- 语料
 > - Having a lot of people out of work places a large drain on the public purse. `[例]`
-> - The players in the golf tournament are competing for a purse of £525,000. `[例]`
-> - I don't approve of that kind of language ," she said, pursing her lips . `[例]`
+> - I don't approve of that kind of language ," she said, pursing her lips. `[例]`
+> - She tipped the contents of her purse out onto the table. `[例]`
 
 
 ---

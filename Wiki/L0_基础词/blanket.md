@@ -133,9 +133,15 @@ blanket = [[blank]](白色的、空白的) + -et(指小后缀，表示"小的")
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Man", as a blanket term for both men and women, is now considered sexist . `[例]`
-> - Outside the fields were blanketed in fog . `[例]`
-> - Fig. Congress was nearly buried under a blanket of criticism . `[例]`
+> - It’s cold tonight—can I have another blanket? `[例]`
+>   - 中译：今晚很冷，能给我再一条毯子吗？
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/blanket
+> - The baby was wrapped in a blanket. `[例]`
+>   - 中译：婴儿被裹在毯子里。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/blanket
+> - The trial was conducted under a blanket of secrecy. `[例]`
+>   - 中译：审判是在保密情况下进行的。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/blanket
 
 
 ---

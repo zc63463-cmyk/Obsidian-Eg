@@ -128,8 +128,8 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The train thundered past, shaking the whole house . `[例]`
-> - I couldn't hear what he was saying over the thunder of the waterfall . `[例]`
+> - The train thundered past, shaking the whole house. `[例]`
+> - I couldn't hear what he was saying over the thunder of the waterfall. `[例]`
 > - The sky grew dark and it started to thunder. `[例]`
 
 

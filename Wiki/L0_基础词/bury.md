@@ -125,9 +125,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The dog trotted off to bury its bone . `[例]`
-> - No-one should have to bury their child . `[例]`
-> - This was an attempt to bury the truth about the senator's death . `[例]`
+> - They killed her and buried her body. `[例]`
+>   - 中译：他们杀了她并埋葬了她的尸体。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bury
+> - He was buried in Highgate Cemetery. `[例]`
+>   - 中译：他被安葬在海格特公墓。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bury
+> - Their ambitions were finally dead and buried. `[例]`
+>   - 中译：他们的野心最终被埋葬了。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bury
 
 
 ---

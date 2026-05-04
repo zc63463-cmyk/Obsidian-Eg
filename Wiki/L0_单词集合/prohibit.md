@@ -128,9 +128,15 @@ pro-(在前) + [[hib|hib→持有]](持有/握住) + -it
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Motor vehicles are prohibited from driving in the town centre . `[例]`
+> - Motor vehicles are prohibited from driving in the town centre. `[例]`
+>   - 中译：禁止机动车在镇中心行驶。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/prohibit
 > - The government introduced a law prohibiting tobacco advertisements on TV. `[例]`
-> - Parking is strictly prohibited between these gates . `[例]`
+>   - 中译：政府出台了一项法律，禁止在电视上播放烟草广告。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/prohibit
+> - Parking is strictly prohibited between these gates. `[例]`
+>   - 中译：这些大门之间严禁停车。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/prohibit
 
 
 ---

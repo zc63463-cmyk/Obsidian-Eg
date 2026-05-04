@@ -131,9 +131,9 @@ filter 源自中世纪英语 *filtre*，借自古法语，最终来自拉丁语 
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Ozone is the earth's primary filter for ultraviolet radiation . `[例]`
-> - I like to experiment with different light filters on my camera . `[例]`
-> - You can apply filters to capture the most relevant data . `[例]`
+> - Ozone is the earth's primary filter for ultraviolet radiation. `[例]`
+> - I like to experiment with different light filters on my camera. `[例]`
+> - You can apply filters to capture the most relevant data. `[例]`
 
 
 ---

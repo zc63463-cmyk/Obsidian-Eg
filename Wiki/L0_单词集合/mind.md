@@ -132,9 +132,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Bear in mind that the results of this study may not be applicable to all situations."（请记住，本研究的结论可能不适用于所有情况。）——考研高频表达
-> - "Would you mind closing the window? It's rather cold in here."（你介意关上窗户吗？这里相当冷。）——考研高频表达
-> - "She changed her mind about pursuing a career in law and decided to study medicine instead."（她改变了从事法律职业的想法，转而决定学医。）——考研高频表达
+> - Her mind was full of what had happened the night before, and she just wasn't concentrating. `[例]`
+>   - 中译：她满脑子都是昨晚发生的事，注意力不集中。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/mind
+> - Of course I'm telling the truth - you have such a suspicious mind! `[例]`
+>   - 中译：我当然说的是实话——你的心思真是多疑啊！
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/mind
+> - I just said the first thing that came into my mind. `[例]`
+>   - 中译：我刚刚说出了我想到的第一句话。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/mind
 
 ---
 

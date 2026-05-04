@@ -137,9 +137,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "It is dangerous to generalize about people."（以偏概全地谈论人是危险的。）——考研阅读常见句式，警示过度概括
-> - "You cannot generalize about the effects of the drug from one or two cases."（不能根据一两个病例就概括该药物的效果。）——考研翻译/阅读，医学实验语境
-> - "Physicians are still debating whether to generalize the data on aspirin to women."（医生们仍在争论是否应将阿司匹林的数据推广到女性。）——学术研究语境
+> - You can't generalize about a continent as varied as Europe. `[例]`
+>   - 中译：你不能对欧洲这样一个多样化的大陆进行概括。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/generalize
+> - It's difficult to generalize, but most babies can say a few words by the age of 12 months. `[例]`
+>   - 中译：这很难一概而论，但大多数婴儿在 12 个月大时就可以说几句话了。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/generalize
+> - Dr Meyer warned against generalizing the results to populations not included in the study. `[例]`
+>   - 中译：迈耶博士警告不要将结果推广到未纳入研究的人群。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/generalize
 
 ---
 

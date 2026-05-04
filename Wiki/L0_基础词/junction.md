@@ -128,10 +128,9 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "He knew how the traffic congested at the junction of Seventh Avenue and Forty-second Street." `[真题]`
-> - "This junction is a well-known accident black spot." `[词典例句]`
-> - "They followed the river to its junction with the Ohio River." `[剑桥词典]`
-> - "Come off the motorway at junction 6." `[牛津词典]`
+> - He knew how the traffic congested at the junction of Seventh Avenue and Forty-second Street. `[真题]`
+> - This junction is a well-known accident black spot. `[例]`
+> - They followed the river to its junction with the Ohio River. `[例]`
 
 
 ---

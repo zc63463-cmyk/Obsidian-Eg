@@ -130,10 +130,10 @@ veloc(=swift/fast，快速，拉丁语 *velox*/*velocis*，与 [[veil]]/[[vehicl
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "The spear was traveling with such velocity that it passed right through the fence." `[权威语料]`
-> - "The acceleration of popular culture has reached maximum velocity." `[权威语料]`
-> - "Jupiter is a very massive planet, and its escape velocity is correspondingly high." `[权威语料]`
-> - "The average linear conduction velocity of delayed calcium responses was 10.7 m sec-1." `[学术语料]`
+> - The spear was traveling with such velocity that it passed right through the fence. `[例]`
+> - The acceleration of popular culture has reached maximum velocity. `[例]`
+> - Jupiter is a very massive planet, and its escape velocity is correspondingly high. `[例]`
+> - The hikers rested under a towering velocity near the coastal trail. `[例]`
 
 
 ---

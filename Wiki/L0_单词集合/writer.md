@@ -139,10 +139,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Big-name PRH authors may suffer a bit, but it's those mid-list authors, who normally rely on Waterstones staff's passion for promoting books by lesser-known writers, who will be praying for an end to the dispute. `[真题]`
-> - Sales of books by mid-list PRH writers fall off considerably. `[真题]`
-> - Lesser-known PRH writers become the target of criticism. `[真题]`
-> - She is a well-known writer of children's books . `[例]`
+> - Who's your favourite writer? `[例]`
+>   - 中译：你最喜欢的作家是谁？
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/writer
+> - I used to be a prolific letter writer. `[例]`
+>   - 中译：我曾经是一位多产的写信人。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/writer
+> - She is my favorite French writer. `[例]`
+>   - 中译：她是我最喜欢的法国作家。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/writer
 
 ---
 

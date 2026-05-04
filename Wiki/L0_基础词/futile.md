@@ -127,8 +127,8 @@ fut-(=fus-, 倾倒/泄漏，拉丁语 *fundere* 的过去分词 *futus*) + -ile(
 
 > [!example]- 语料
 > - All attempts to negotiate a settlement proved futile. `[真题]`
-> - It would be futile to resist the inevitable changes. `[语料库]`
-> - My efforts to go back to sleep proved futile. `[Longman]`
+> - It would be futile to resist the inevitable changes. `[例]`
+> - My efforts to go back to sleep proved futile. `[例]`
 
 
 ---

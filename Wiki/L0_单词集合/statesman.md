@@ -123,9 +123,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - He was a statesman who opened Hawaii to international relations . `[例]`
-> - He has confirmed his reputation as an elder statesman in the energy industry . `[例]`
-> - He was a soldier and statesman . `[例]`
+> - He was a soldier and statesman. `[例]`
+>   - 中译：他是一名军人和政治家。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/statesman
+> - Hart, however, made a wonderful senator, a model public servant and an inspiring statesman. `[例]`
+>   - 中译：然而，哈特却是一位出色的参议员、模范公务员和鼓舞人心的政治家。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/statesman
+> - Meanwhile, the Roman statesman , Lucullus, saw these gardens firsthand when on a diplomatic mission to what is now modern Turkey. `[例]`
+>   - 中译：与此同时，罗马政治家卢库勒斯在前往现在的土耳其执行外交任务时亲眼目睹了这些花园。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/statesman
 
 ---
 

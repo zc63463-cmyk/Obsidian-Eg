@@ -125,8 +125,8 @@ mis-(=wrong, 错误地) + [[understand]](理解)
 
 > [!example]- 语料
 > - Please don't misunderstand me — I'm not criticizing your work. `[真题]`
-> - I thought he was her husband — I must have misunderstood. `[真题]`
-> - Many mental health problems are widely misunderstood. `[真题]`
+> - If you think that these transport problems can be solved by building more roads , you completely misunderstand the nature of the problem. `[例]`
+> - Don't misunderstand me—I am grateful for all you've done. `[例]`
 
 
 ---

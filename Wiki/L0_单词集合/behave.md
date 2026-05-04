@@ -131,10 +131,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Children who behave well in the classroom tend to achieve better academic outcomes. `[COCA-ACAD]`
-> - The material behaves differently under extreme pressure, which challenges conventional engineering assumptions. `[COCA-ACAD]`
-> - Please behave yourselves during the museum visit. `[例]`
-> - How individuals behave towards strangers reveals a great deal about their cultural background. `[例]`
+> - Whenever there was a full moon he would start behaving strangely. `[例]`
+>   - 中译：每当满月的时候，他的行为就会开始变得奇怪。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/behave
+> - They behaved as if nothing had happened. `[例]`
+>   - 中译：他们表现得好像什么都没发生过一样。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/behave
+> - They learn how particles behave in solids , liquids , and gases. `[例]`
+>   - 中译：他们了解粒子在固体、液体和气体中的行为方式。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/behave
 
 ---
 

@@ -128,9 +128,15 @@ as-/ac-（=ad-，向……方向，加强语气）+ [[cert|cert-]]（确定，�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The police are trying to ascertain the cause of the accident. `[COCA-NEWS]`
-> - It is difficult to ascertain the exact number of people affected. `[COCA-ACAD]`
-> - I ascertained that no one could overhear us before I told Otto the news. `[COCA-ACAD]`
+> - It can be difficult to ascertain the facts. `[例]`
+>   - 中译：确定事实可能很困难。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ascertain
+> - I ascertained that the driver was not badly hurt. `[例]`
+>   - 中译：我确定司机伤势并不重。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ascertain
+> - It should be ascertained that the plans comply with the law. `[例]`
+>   - 中译：应确定该计划符合法律规定。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ascertain
 
 
 ---

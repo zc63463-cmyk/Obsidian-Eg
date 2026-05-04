@@ -137,9 +137,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Caravanserais served as an informal 10 point for the various people who travelled the Silk Road. _.!l_ , these structures became important centers for cultural 12 and interaction, with travellers sharing their cultures, ideas and beliefs, 13 taking knowledge with them, greatly _l!_ the development of several civilisations. `[真题]`
-> - We had various problems on our journey , including a flat tyre . `[例]`
-> - The author gave various reasons for having written the book . `[例]`
+> - We talked about jobs, family, football and various other things. `[例]`
+>   - 中译：我们谈论了工作、家庭、足球和其他各种事情。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/various
+> - Tents come in various shapes and sizes. `[例]`
+>   - 中译：帐篷有各种形状和尺寸。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/various
+> - She took the job for various reasons. `[例]`
+>   - 中译：她出于各种原因接受了这份工作。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/various
 
 ---
 

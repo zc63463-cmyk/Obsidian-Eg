@@ -135,9 +135,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - She advised us to look abroad for more lucrative business ventures. `[例]`
-> - There are many joint ventures between American and Japanese companies . `[例]`
-> - She rarely ventured outside , except when she went to stock up on groceries . `[例]`
+> - A disastrous business venture lost him thousands of dollars. `[例]`
+>   - 中译：一次灾难性的商业冒险让他损失了数千美元。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/venture
+> - We ventured out into the woods. `[例]`
+>   - 中译：我们冒险进入树林。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/venture
+> - He nervously ventured out onto the ice. `[例]`
+>   - 中译：他紧张地冒险走上冰面。
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/venture
 
 ---
 

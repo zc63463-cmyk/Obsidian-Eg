@@ -126,9 +126,15 @@ con-(=com-, 共同/一起) + [[ven-vent|ven]](=come, 来，拉丁语 *venire*) +
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The goods will be delivered at your convenience. `[COCA-ACAD]`
-> - Just for convenience, I'm going to live at my mother's place until my new apartment is ready. `[COCA-FIC]`
-> - In the digital era viewers can watch programmes at their convenience, not the scheduler's. `[COCA-NEWS]`
+> - We have provided seats for the convenience of our customers. `[例]`
+>   - 中译：为了方便顾客，我们提供了座位。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/convenience
+> - For (the sake of) convenience , the two groups have been treated as one in this report. `[例]`
+>   - 中译：为了方便起见，本报告中将这两个群体视为一个群体。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/convenience
+> - The position of the house combines quietness and convenience. `[例]`
+>   - 中译：房子的位置既安静又便利。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/convenience
 
 
 ---

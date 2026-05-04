@@ -125,9 +125,9 @@ pur(=pure，纯净的，源自拉丁语 *purus*) + -ify(动词后缀，表示"�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Plants help to purify the air . `[例]`
-> - One of the functions of the kidneys is to purify the blood . `[例]`
-> - One of the main teachings of Buddhism is that you should try to purify your mind . `[例]`
+> - Plants help to purify the air. `[例]`
+> - One of the functions of the kidneys is to purify the blood. `[例]`
+> - One of the main teachings of Buddhism is that you should try to purify your mind. `[例]`
 
 
 ---

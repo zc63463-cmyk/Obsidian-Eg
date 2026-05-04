@@ -119,6 +119,15 @@ ac-(=ad-, 向/去) + quir(=quaerere, 寻求) + -e
 ## 真题/语料关联
 
 > [!example]- 语料
+> - From humble beginnings he went on to acquire great wealth. `[例]`
+>   - 中译：他出身卑微，后来获得了巨大的财富。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/acquire
+> - I was wearing a newly acquired jacket. `[例]`
+>   - 中译：我穿着一件新买的夹克。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/acquire
+> - The museum will put the recently acquired Picasso on display this spring. `[例]`
+>   - 中译：该博物馆将于今年春天展出最近收购的毕加索的作品。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/acquire
 - Students acquire knowledge through various methods.（学生通过各种方法获取知识。）
 - The company plans to acquire a smaller rival.（公司计划收购一家较小的竞争对手。）
 

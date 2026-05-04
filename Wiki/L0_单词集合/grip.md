@@ -127,8 +127,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The country is struggling to come to grips with the economic recession.（该国正在努力应对经济衰退。）
-> - The documentary was so gripping that it held the audience's attention throughout.（这部纪录片如此引人入胜，全程都吸引着观众的注意力。）
+> - The baby gripped my finger with her tiny hand. `[例]`
+>   - 中译：宝宝用她的小手握住了我的手指。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/grip
+> - Old tyres won't grip (= stay on the surface of the road ) in the rain very well. `[例]`
+>   - 中译：旧轮胎在雨中不能很好地抓地（=留在路面上）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/grip
+> - I was terrified when he suddenly gripped my throat in his hands. `[例]`
+>   - 中译：当他突然用双手掐住我的喉咙时，我感到害怕。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/grip
 
 ---
 

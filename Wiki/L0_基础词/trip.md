@@ -131,8 +131,8 @@ trip "绊倒"源自古法语 *treper*（跳跃、踢），原始日耳曼语 *\*
 
 > [!example]- 语料
 > - Throughout the trip , Jackson juggled multiple cameras and plate sizes using the " collodion process" that required him to coat the plates with a chemical mixture , then expose them and develop the resulting images with a portable darkroom. `[真题]`
-> - The trip from York to Newcastle takes about an hour by train . `[例]`
-> - We're going on a trip to Norway this summer . `[例]`
+> - The trip from York to Newcastle takes about an hour by train. `[例]`
+> - We're going on a trip to Norway this summer. `[例]`
 
 
 ---

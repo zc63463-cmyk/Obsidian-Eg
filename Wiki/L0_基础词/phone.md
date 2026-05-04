@@ -129,8 +129,8 @@ phon-/phono-(声音，希腊语 *phōnē*) + -e(名词/动词后缀)
 
 > [!example]- 语料
 > - Mr Jobs was said by an engineer in the early years of Apple to emit a "reality distortion field", such were his powers of persuasion that he could convince anyone of almost anything, even on the phone. `[真题]`
-> - The phone rings and a voice says, "You have been selected for a special offer." `[语料库]`
-> - We talk on the phone every day. `[词典]`
+> - The phone rings and a voice says, "You have been selected for a special offer. `[例]`
+> - Could you answer the phone? `[例]`
 
 
 ---

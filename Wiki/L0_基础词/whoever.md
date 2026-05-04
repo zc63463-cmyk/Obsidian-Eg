@@ -129,8 +129,9 @@ who（谁）+ ever（曾经/永远）。who 源自古英语 *hwā*，ever 源自
 ## 真题/语料关联
 
 > [!example]- 语料
-> - "Whoever wins the election will face the enormous challenge of balancing economic growth with environmental protection in an era of rapid climate change."（无论谁赢得选举，都将面临在快速气候变化时代平衡经济增长与环境保护的巨大挑战——考研阅读政治话题相关表达）
-> - "The university should offer scholarships to whoever demonstrates exceptional academic ability, regardless of their family's financial background."（大学应该向任何展现出卓越学术能力的人提供奖学金，无论其家庭经济背景如何——考研阅读教育话题相关表达）
+> - Whoever uprooted that tree ought to be ashamed of themselves. `[例]`
+> - Could I speak to whoever is in charge of International Sales, please? `[例]`
+> - There's a reward for whoever finishes first. `[例]`
 
 
 ---

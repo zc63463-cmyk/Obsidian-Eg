@@ -133,9 +133,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - It is rare to see children openly defying their teachers . `[例]`
-> - The fact that aircraft don't fall out of the sky always seems to me to defy (= act against) the law of gravity . `[例]`
-> - A forest fire raging in southern California is defying (= is not changed by) all attempts to control it. `[例]`
+> - It is rare to see children openly defying their teachers. `[例]`
+>   - 中译：很少看到孩子们公开反抗老师。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/defy
+> - A few workers have defied the majority decision and gone into work despite the strike. `[例]`
+>   - 中译：一些工人不顾多数人的决定，不顾罢工继续工作。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/defy
+> - The fact that aircraft don't fall out of the sky always seems to me to defy (= act against) the law of gravity. `[例]`
+>   - 中译：在我看来，飞机不会从天上掉下来这一事实似乎总是违背（=违背）万有引力定律。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/defy
 
 ---
 
