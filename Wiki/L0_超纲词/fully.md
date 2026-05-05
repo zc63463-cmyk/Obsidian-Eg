@@ -126,7 +126,11 @@ full(满的，完全的) + -ly(副词后缀，…地)
 
 > [!example]- 语料
 > - Have you fully recovered from your illness? `[例]`
+>   - 中译：你的病完全康复了吗？
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fully
 > - I fully intended to call you last night. `[例]`
+>   - 中译：我昨晚确实打算给你打电话的。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/fully
 
 ## 主动产出
 

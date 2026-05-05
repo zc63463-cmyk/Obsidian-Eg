@@ -122,7 +122,11 @@ phrase（短语/措辞）+ -ing（动名词后缀，表行为/结果）
 
 > [!example]- 语料
 > - The phrasing of the contract is ambiguous. `[例]`
+>   - 中译：她的措辞非常优雅。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/phrasing
 > - Her phrasing, as ever , is faultless. `[例]`
+>   - 中译：请注意合同中的措辞。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/phrasing
 
 ## 主动产出
 

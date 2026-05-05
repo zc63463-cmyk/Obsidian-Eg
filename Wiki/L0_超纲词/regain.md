@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**重新获得，收复**==；②恢复（健康、意识等）；
+**v.** ①==**重新获得，收复**== `V N` [正面/通用]；②==**恢复（健康、意识等）**== `V N` [中性]；
 
 > [!tip] 原型义
 > **原型义**：重新获得（再次拿到失去的东西）
@@ -126,7 +126,11 @@ review_count: 0
 
 > [!example]- 语料
 > - The government has regained control of the capital from rebel forces. `[例]`
+>   - 中译：她花了数月时间才从疾病中恢复体力。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/regain
 > - The swimmers struggled to regain the shore. `[例]`
+>   - 中译：警方重新控制了局势。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/regain
 
 ## 主动产出
 

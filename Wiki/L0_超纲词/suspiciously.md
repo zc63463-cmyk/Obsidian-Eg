@@ -123,7 +123,11 @@ review_count: 0
 
 > [!example]- 语料
 > - He looked at her suspiciously. `[例]`
+>   - 中译：他可疑地在银行附近徘徊。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/suspiciously
 > - The children are suspiciously quiet (= are so quiet that they are probably doing something wrong ). `[例]`
+>   - 中译：她怀疑地看着那个陌生人。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/suspiciously
 
 ## 主动产出
 

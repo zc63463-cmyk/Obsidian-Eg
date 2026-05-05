@@ -128,7 +128,11 @@ review_count: 0
 
 > [!example]- 语料
 > - She has a nasty bruise on her shin. `[例]`
+>   - 中译：她不小心撞到了小腿，疼得直叫。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/shin
 > - Several of us shinned up lampposts so that we could see over the crowd. `[例]`
+>   - 中译：他用小腿踢了一下桌子。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/shin
 
 ## 主动产出
 

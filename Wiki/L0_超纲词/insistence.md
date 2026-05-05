@@ -123,7 +123,11 @@ in-(在…上) + [[st-sta-stat|st-/sta-/stat-]](站) + -ence(名词后缀)
 
 > [!example]- 语料
 > - At her insistence, the meeting was rescheduled. `[例]`
+>   - 中译：在她的坚持下，会议被重新安排了时间。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/insistence
 > - His insistence on perfection often delayed the project. `[例]`
+>   - 中译：他对完美的坚持常常导致项目延期。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/insistence
 
 ## 主动产出
 

@@ -126,7 +126,11 @@ arbitr(见证，观察，拉丁语 *arbiter*) + -er(人)
 
 > [!example]- 语料
 > - The Supreme Court is the final arbiter of constitutional questions. `[例]`
+>   - 中译：最高法院是宪法问题的最终裁决者。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/arbiter
 > - Paris has long been considered the arbiter of fashion. `[例]`
+>   - 中译：巴黎长期以来一直被视为时尚的权威。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/arbiter
 
 ## 主动产出
 

@@ -128,7 +128,11 @@ ethic（伦理，源自希腊语 *ethos*，"品格/习俗"）+ -al(形容词后�
 
 > [!example]- 语料
 > - The committee raised serious ethical concerns about the use of personal data without informed consent. `[例]`
+>   - 中译：医生必须遵守严格的职业道德准则。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/ethical
 > - Medical professionals are bound by ethical standards that require them to prioritize patient welfare above all else. `[例]`
+>   - 中译：这家公司承诺以合乎道德的方式采购原材料。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ethical
 
 ## 主动产出
 

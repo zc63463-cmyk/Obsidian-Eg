@@ -125,7 +125,11 @@ quick（快的）+ wit（智慧/机智）+ -t-(连接) + -ed(形容词后缀，�
 
 > [!example]- 语料
 > - The quick-witted child easily figured out the trick to making the toy work. `[例]`
+>   - 中译：她是一个机智敏捷的人，总能快速回应。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/quick-witted
 > - On April 24, Venus will conclude its journey through its sign of rulership, Taurus, and enter the flirtatious and quick-witted sign of Gemini, shifting our collective desire from slow and steady to witty and sparkling. `[例]`
+>   - 中译：他凭借机智的反应化解了尴尬的局面。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/quick-witted
 
 ## 主动产出
 

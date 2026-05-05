@@ -129,7 +129,11 @@ pan-(全部，所有，希腊语 *pas*, *pan*) + [[dem]](人民，希腊语 *dem
 
 > [!example]- 语料
 > - The researchers proposed a pandemic solution to the problem. `[例]`
+>   - 中译：新冠疫情是一场全球性的大流行病。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pandemic
 > - The company adopted a pandemic approach to improve efficiency. `[例]`
+>   - 中译：世界卫生组织宣布了流感大流行。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/pandemic
 
 ## 主动产出
 

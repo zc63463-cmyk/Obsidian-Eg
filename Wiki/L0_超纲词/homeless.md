@@ -126,7 +126,11 @@ home(家) + -less(没有……的) → 复合派生词
 
 > [!example]- 语料
 > - Accommodation needs to be found for thousands of homeless families. `[例]`
+>   - 中译：需要为数千个无家可归的家庭找到住所。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/homeless
 > - The homeless sometimes have to sleep in the streets. `[例]`
+>   - 中译：无家可归者有时不得不睡在街头。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/homeless
 
 ## 主动产出
 

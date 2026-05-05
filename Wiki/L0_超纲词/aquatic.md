@@ -128,7 +128,11 @@ aqu(水，拉丁语 *aqua*) + -atic(形容词后缀，表示"与……相关的"
 
 > [!example]- 语料
 > - Many aquatic species are threatened by water pollution. `[例]`
+>   - 中译：许多水生物种正受到水污染的威胁。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/aquatic
 > - The Olympic aquatic center was built for the swimming competitions. `[例]`
+>   - 中译：奥林匹克水上运动中心是为游泳比赛而建造的。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/aquatic
 
 ## 主动产出
 

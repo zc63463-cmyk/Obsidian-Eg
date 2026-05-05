@@ -125,7 +125,11 @@ review_count: 0
 
 > [!example]- 语料
 > - He was the loser in the titanic struggle to own the company. `[例]`
+>   - 中译：双方在谈判中进行了激烈的斗争。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/titanic
 > - A titanic figure in the world of business. `[例]`
+>   - 中译：泰坦尼克号的沉没是航海史上最著名的灾难之一。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/titanic
 
 ## 主动产出
 

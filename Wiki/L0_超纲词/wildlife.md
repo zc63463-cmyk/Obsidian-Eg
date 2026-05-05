@@ -125,7 +125,11 @@ wild（野生的，古英语 *wild*）+ life（生命，古英语 *līf*）
 
 > [!example]- 语料
 > - At the museum there was a diorama of local wildlife. `[例]`
+>   - 中译：这个保护区是野生动物的天堂。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/wildlife
 > - She left a large sum of money in her will to found a wildlife sanctuary. `[例]`
+>   - 中译：野生动物摄影师在非洲拍摄了许多精彩的照片。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/wildlife
 
 ## 主动产出
 

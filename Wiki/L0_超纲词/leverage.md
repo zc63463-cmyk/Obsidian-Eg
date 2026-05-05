@@ -130,7 +130,11 @@ review_count: 0
 
 > [!example]- 语料
 > - The company leveraged its brand reputation to expand into new markets. `[例]`
+>   - 中译：公司利用其品牌声誉拓展新市场。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/leverage
 > - High financial leverage can amplify both gains and losses. `[例]`
+>   - 中译：高金融杠杆既能放大收益，也能放大亏损。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/leverage
 
 ## 主动产出
 

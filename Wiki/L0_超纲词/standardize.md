@@ -125,7 +125,11 @@ review_count: 0
 
 > [!example]- 语料
 > - We standardize parts such as rear-view mirrors , so that one type will fit any model of car we make. `[例]`
+>   - 中译：公司决定统一所有部门的操作流程。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/standardize
 > - The profile summarizes key information about a product in a standardized format designed to make it easier to compare products. `[例]`
+>   - 中译：国际组织致力于标准化产品质量检测方法。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/standardize
 
 ## 主动产出
 

@@ -127,7 +127,11 @@ un-(不，否定前缀) + focus(焦点/集中) + -ed(形容词后缀，持有状
 
 > [!example]- 语料
 > - Bowman looked up at her, his gaze slightly unfocused. `[例]`
+>   - 中译：她感到注意力不集中，无法完成工作。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/unfocused
 > - The portrait looks more like an unfocused snapshot. `[例]`
+>   - 中译：这篇文章缺乏重点，内容散乱。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/unfocused
 
 ## 主动产出
 

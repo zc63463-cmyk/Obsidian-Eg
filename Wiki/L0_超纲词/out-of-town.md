@@ -120,7 +120,11 @@ out [[ob|of]](在……之外) + town(城镇)
 
 > [!example]- 语料
 > - The researchers proposed a out of town solution to the problem. `[例]`
+>   - 中译：我们周末去城外度了个短假。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/out-of-town
 > - The company adopted a out of town approach to improve efficiency. `[例]`
+>   - 中译：许多外地游客来参观这个博物馆。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/out-of-town
 
 ## 主动产出
 

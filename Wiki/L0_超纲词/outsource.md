@@ -119,7 +119,11 @@ out-(向外/外部) + [[sourc|source]](=来源/资源)
 
 > [!example]- 语料
 > - Unions are fighting a plan by the university to outsource all non-academic services. `[例]`
+>   - 中译：公司将生产外包给了海外工厂。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/outsource
 > - Some companies outsource to cheaper locations to cut costs. `[例]`
+>   - 中译：越来越多的企业选择外包IT服务。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/outsource
 
 ## 主动产出
 

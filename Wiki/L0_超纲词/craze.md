@@ -127,7 +127,11 @@ review_count: 0
 
 > [!example]- 语料
 > - Cycling shorts were the latest craze that year. `[例]`
+>   - 中译：骑行短裤是那年最新的流行风潮。
+>   - 来源：Collins | https://www.collinsdictionary.com/dictionary/english/craze
 > - The craze for health foods has become big business. `[例]`
+>   - 中译：健康食品的狂热已经成为一项大产业。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/craze
 
 ## 主动产出
 

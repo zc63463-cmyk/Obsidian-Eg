@@ -121,7 +121,11 @@ bio-(生命) + [[log-logy|log]](学科) + -ist(人)
 
 > [!example]- 语料
 > - The marine biologist devoted her career to studying the migration patterns of whales in the Pacific Ocean. `[例]`
+>   - 中译：这位海洋生物学家将毕生事业奉献给了太平洋鲸鱼迁徙模式的研究。
+>   - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/biologist
 > - Evolutionary biologists have long debated the mechanisms that drive speciation in isolated populations. `[例]`
+>   - 中译：进化生物学家长期以来一直在争论驱动隔离种群物种形成的机制。
+>   - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/biologist
 
 ## 主动产出
 

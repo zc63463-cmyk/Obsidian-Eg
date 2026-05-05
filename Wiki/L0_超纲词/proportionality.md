@@ -126,7 +126,11 @@ review_count: 0
 
 > [!example]- 语料
 > - The Court overturned a case on proportionality grounds. `[例]`
+>   - 中译：军事行动必须遵循比例原则。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/proportionality
 > - A major exception to the principle of proportionality relates to the sentencing of offenders for violent and sexual offences. `[例]`
+>   - 中译：刑法中的比例性原则要求刑罚与罪行相称。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/proportionality
 
 ## 主动产出
 

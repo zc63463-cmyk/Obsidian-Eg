@@ -125,7 +125,11 @@ knuckle（源自中古英语 *knokel*，与 knuckle/knock 同源，与"敲击"�
 
 > [!example]- 语料
 > - If you want to pass the exam, you will have to knuckle down and study. `[例]`
+>   - 中译：如果你想通过考试，就必须刻苦学习。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/knuckle
 > - The teacher rapped his knuckles for talking in class. `[例]`
+>   - 中译：老师因为他上课说话而敲了他的指关节。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/knuckle
 
 ## 主动产出
 

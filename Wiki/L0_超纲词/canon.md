@@ -127,7 +127,11 @@ review_count: 0
 
 > [!example]- 语料
 > - He has made it into the canon of English poetry. `[例]`
+>   - 中译：他已被纳入英国诗歌经典之列。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/canon
 > - She argues that the canon must be opened up to more non-European writers. `[例]`
+>   - 中译：她认为文学经典必须向更多非欧洲作家开放。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/canon
 
 ## 主动产出
 

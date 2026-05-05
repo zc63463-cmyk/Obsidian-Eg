@@ -121,6 +121,8 @@ mis-(错误) + use(使用)
 
 > [!example]- 语料
 > - She was accused of misusing company funds. `[例]`
+>   - 中译：她被指控挪用公司资金。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/misuse
 > - This new computer system is completely unnecessary and a misuse of taxpayers ' money. `[例]`
 
 ## 主动产出

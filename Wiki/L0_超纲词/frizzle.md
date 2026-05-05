@@ -124,7 +124,11 @@ review_count: 0
 
 > [!example]- 语料
 > - Put in the meat to frizzle and keep turning it until it is brown all over. `[例]`
+>   - 中译：把肉放进去嘶嘶煎炸，不停翻动直到表面全部变成棕色。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/frizzle
 > - Frizzle the vegetables in hot oil until crisp and slightly curly. `[例]`
+>   - 中译：在热油中将蔬菜嘶嘶煎炸，直到酥脆且微微卷曲。
+>   - 来源：Collins | https://www.collinsdictionary.com/dictionary/english/frizzle
 
 ## 主动产出
 

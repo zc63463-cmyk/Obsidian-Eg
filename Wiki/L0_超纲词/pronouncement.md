@@ -125,7 +125,11 @@ review_count: 0
 
 > [!example]- 语料
 > - The treasurer has been taking a more optimistic view of economic recovery in his recent public pronouncements. `[例]`
+>   - 中译：总统就经济问题发表了正式声明。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pronouncement
 > - She made an official pronouncement on changes in government policy. `[例]`
+>   - 中译：法官的裁决引起了广泛讨论。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/pronouncement
 
 ## 主动产出
 

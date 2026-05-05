@@ -121,7 +121,11 @@ review_count: 0
 
 > [!example]- 语料
 > - Thousands of bison once roamed the Great Plains before they were nearly hunted to extinction. `[例]`
+>   - 中译：在被猎杀至几乎灭绝之前，成千上万的野牛曾经在大平原上漫游。
+>   - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/bison
 > - Conservation efforts have helped restore the American bison population in several national parks. `[例]`
+>   - 中译：保护工作已帮助多个国家公园恢复了美洲野牛的种群数量。
+>   - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/bison
 
 ## 主动产出
 

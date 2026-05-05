@@ -115,7 +115,11 @@ marqu(e)t（标记/图案，源自 mark）+ -ry（名词后缀，表示技艺/�
 
 > [!example]- 语料
 > - The design highlights organic shapes, stone, and wood as well as raffia and marquetry. `[例]`
+>   - 中译：该设计突出了有机形状、石材和木材，以及拉菲亚草编和镶嵌细工。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/marquetry
 > - His pieces include solid wood chairs with a deliberately rudimentary, almost minimal design, integrating ornamental elements such as marquetry panels or tin bas-reliefs into their backs, legs or seats. `[例]`
+>   - 中译：他的作品包括实木椅子，采用刻意的原始、近乎极简的设计，将镶嵌细工面板或锡浮雕等装饰元素融入椅背、椅腿或座位中。
+>   - 来源：Collins | https://www.collinsdictionary.com/dictionary/english/marquetry
 
 ## 主动产出
 

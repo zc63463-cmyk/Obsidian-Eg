@@ -123,7 +123,11 @@ doubt(怀疑) + -less(没有) → 没有怀疑 → 无疑的
 
 > [!example]- 语料
 > - Doubtless, this decision will have far-reaching consequences. `[例]`
+>   - 中译：毫无疑问，她会准时到达的。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/doubtless
 > - She will doubtless face many challenges in her new role as department head. `[例]`
+>   - 中译：这无疑是一个艰难的决定。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/doubtless
 > - The team was doubtless aware of the risks before launching the project. `[例]`
 
 ## 主动产出

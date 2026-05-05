@@ -130,7 +130,11 @@ review_count: 0
 
 > [!example]- 语料
 > - The ancient Roman Empire gradually crumbled under the weight of internal conflicts and external invasions. `[例]`
+>   - 中译：古罗马帝国在内忧外患的重压下逐渐瓦解。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/crumble
 > - She crumbled the blue cheese over the salad just before serving. `[例]`
+>   - 中译：上菜前她把蓝纹奶酪弄碎撒在沙拉上。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/crumble
 
 ## 主动产出
 

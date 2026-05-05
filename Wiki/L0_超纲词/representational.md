@@ -127,7 +127,11 @@ re-(再次，反复) + [[press|present]](呈现，在场，*praesent-* 的过去
 
 > [!example]- 语料
 > - It is on pottery that representational art first appeared in ancient Greece. `[例]`
+>   - 中译：这幅画是具象艺术的一个经典范例。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/representational
 > - A representational system of government allows citizens to elect officials to make decisions on their behalf. `[例]`
+>   - 中译：儿童早期的绘画多为具象性的，而非抽象的。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/representational
 
 ## 主动产出
 

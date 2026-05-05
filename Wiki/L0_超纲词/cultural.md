@@ -129,7 +129,11 @@ review_count: 0
 
 > [!example]- 语料
 > - Caravanserais served as an informal 10 point for the various people who travelled the Silk Road. _.!l_ , these structures became important centers for cultural 12 and interaction, with travellers sharing their cultures, ideas and beliefs, 13 taking knowledge with them, greatly _l!_ the development of several civilisations. `[真题]`
+>   - 中译：商队旅馆作为丝绸之路上各种旅行者的非正式聚集点。此外，这些建筑成为文化交流和互动的重要中心，旅行者们分享他们的文化、思想和信仰，并带走知识，极大地促进了几大文明的发展。
+>   - 来源：考研真题 | https://www.oxfordlearnersdictionaries.com/definition/english/cultural
 > - The US is often accused of cultural imperialism. `[例]`
+>   - 中译：美国经常被指责推行文化帝国主义。
+>   - 来源：Collins | https://www.collinsdictionary.com/dictionary/english/cultural
 
 ## 主动产出
 

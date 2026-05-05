@@ -131,7 +131,11 @@ horr(=tremble/shudder, 颤抖/发抖) + -ify(动词后缀，使动化)
 
 > [!example]- 语料
 > - This news will horrify my parents. `[例]`
+>   - 中译：这个消息会让我的父母感到震惊。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/horrify
 > - We saw some horrifying pictures of the effects of the storm. `[例]`
+>   - 中译：我们看到了一些展示风暴影响的令人恐惧的照片。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/horrify
 
 ## 主动产出
 

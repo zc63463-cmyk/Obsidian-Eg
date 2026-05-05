@@ -128,7 +128,11 @@ grass(草) + roots(根) + -s(复数)
 
 > [!example]- 语料
 > - The feeling among the grassroots of the Party is that the leaders are not radical enough. `[例]`
+>   - 中译：党内基层的感觉是领导层不够激进。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/grassroots
 > - The party's leaders are in danger of losing touch with its grassroots. `[例]`
+>   - 中译：该党领导层有脱离基层的危险。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/grassroots
 
 ## 主动产出
 

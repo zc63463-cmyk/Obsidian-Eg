@@ -127,7 +127,11 @@ un-(不，否定) + re-(回/再) + [[lat]](拿/带→拉丁语 *latus*，*ferre*
 
 > [!example]- 语料
 > - Police said his death was unrelated to the attack. `[例]`
+>   - 中译：这两个事件之间没有任何关联。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/unrelated
 > - His answer was completely unrelated to my question. `[例]`
+>   - 中译：她提出了一个与讨论主题无关的问题。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/unrelated
 
 ## 主动产出
 

@@ -121,7 +121,11 @@ green(绿色/蔬菜) + grocer(杂货商，源自拉丁语 *grossārius* 批发�
 
 > [!example]- 语料
 > - The greengrocer had some lovely local asparagus on sale today. `[例]`
+>   - 中译：蔬菜水果店今天有一些很棒的本地芦笋在出售。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/greengrocer
 > - The greengrocer had a wide selection of seasonal fruits. `[例]`
+>   - 中译：这家蔬菜水果店有各种应季水果可供选择。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/greengrocer
 
 ## 主动产出
 

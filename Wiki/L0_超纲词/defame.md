@@ -119,7 +119,11 @@ review_count: 0
 
 > [!example]- 语料
 > - The politician was accused of defaming his opponent during the campaign. `[例]`
+>   - 中译：这位政治家被指控在竞选期间诽谤对手。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/defame
 > - It is illegal to defame someone's character in a public statement. `[例]`
+>   - 中译：在公开声明中诽谤他人品格是违法的。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/defame
 
 ## 主动产出
 

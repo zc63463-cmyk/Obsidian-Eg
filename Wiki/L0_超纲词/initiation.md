@@ -125,7 +125,11 @@ in-(向内，进入) + iti(开始，拉丁语 *ire* 去) + -ation(名词后缀)
 
 > [!example]- 语料
 > - The initiation of the research project was delayed due to funding issues. `[例]`
+>   - 中译：研究项目的启动因资金问题而被推迟。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/initiation
 > - The club's initiation ceremony was a memorable experience for all new members. `[例]`
+>   - 中译：俱乐部的入会仪式给所有新成员留下了难忘的经历。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/initiation
 
 ## 主动产出
 

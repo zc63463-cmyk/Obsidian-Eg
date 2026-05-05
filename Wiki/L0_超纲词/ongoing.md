@@ -122,7 +122,11 @@ on-(=continuing, 持续) + go(走) + -ing(进行时)
 
 > [!example]- 语料
 > - The researchers proposed a ongoing solution to the problem. `[例]`
+>   - 中译：谈判正在进行中。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/ongoing
 > - The company adopted a ongoing approach to improve efficiency. `[例]`
+>   - 中译：这个问题是一个持续的关注点。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ongoing
 
 ## 主动产出
 

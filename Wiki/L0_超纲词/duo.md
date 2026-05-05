@@ -124,7 +124,11 @@ review_count: 0
 
 > [!example]- 语料
 > - The comedy duo performed a hilarious sketch that had the entire audience laughing. `[例]`
+>   - 中译：这对二人组合在音乐界享有盛名。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/duo
 > - She formed a piano duo with her sister and they toured across Europe. `[例]`
+>   - 中译：她与搭档组成了一对出色的喜剧搭档。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/duo
 
 ## 主动产出
 

@@ -124,7 +124,11 @@ review_count: 0
 
 > [!example]- 语料
 > - The City of London is the hub of the UK's financial world. `[例]`
+>   - 中译：伦敦金融城是英国金融世界的中心。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hub
 > - The computer department is at the hub of the company's operations. `[例]`
+>   - 中译：计算机部门是公司运营的中心。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/hub
 
 ## 主动产出
 

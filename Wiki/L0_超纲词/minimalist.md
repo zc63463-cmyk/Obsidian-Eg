@@ -126,7 +126,11 @@ minim(最小，拉丁语 *minimus*) + -al(形容词后缀) + -ist(人/主义)
 
 > [!example]- 语料
 > - The set for the ballet is minimalist - white walls and a chair. `[例]`
+>   - 中译：芭蕾舞的布景是极简主义的——白墙和一把椅子。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/minimalist
 > - The party's minimalist approach to economic policy. `[例]`
+>   - 中译：该党对经济政策的极简主义方法。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/minimalist
 
 ## 主动产出
 

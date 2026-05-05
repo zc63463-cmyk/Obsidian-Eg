@@ -127,7 +127,11 @@ review_count: 0
 
 > [!example]- 语料
 > - I had a hunch that you'd be here. `[例]`
+>   - 中译：我有一种直觉你会在这里。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hunch
 > - He had a hunch that something bad was going to happen. `[例]`
+>   - 中译：他有一种预感，觉得要发生不好的事情了。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/hunch
 
 ## 主动产出
 

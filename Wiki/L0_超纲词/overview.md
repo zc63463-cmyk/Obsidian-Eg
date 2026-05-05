@@ -122,7 +122,11 @@ over-(在上面) + [[vis-vid|view]](=view, 看)
 
 > [!example]- 语料
 > - I'll give you a brief overview of what the job involves. `[例]`
+>   - 中译：本章提供了该主题的概述。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/overview
 > - The first section provides a general overview. `[例]`
+>   - 中译：报告的开头给出了项目的总体概览。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/overview
 
 ## 主动产出
 

@@ -129,7 +129,11 @@ review_count: 0
 
 > [!example]- 语料
 > - The Human Genome Project was completed in 2003 after thirteen years of work. `[例]`
+>   - 中译：人类基因组计划经过十三年的工作于2003年完成。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/genome
 > - Genome sequencing has become faster and cheaper with advances in technology. `[例]`
+>   - 中译：随着技术的进步，基因组测序变得更快更便宜。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/genome
 
 ## 主动产出
 

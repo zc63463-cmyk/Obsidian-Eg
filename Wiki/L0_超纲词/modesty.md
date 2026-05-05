@@ -127,6 +127,8 @@ review_count: 0
 > [!example]- 语料
 > - She does a lot of work for charities , but her modesty forbids her from talking about it. `[例]`
 > - In all modesty, we'd probably have lost the game if I hadn't been playing. `[例]`
+>   - 中译：实话实说，如果我没有上场，我们很可能就输了这场比赛。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/modesty
 
 ## 主动产出
 

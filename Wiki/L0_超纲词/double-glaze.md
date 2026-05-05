@@ -114,7 +114,11 @@ double(双倍的) + glaze(上釉/装玻璃) → 双层上釉 → 装双层玻璃
 
 > [!example]- 语料
 > - The house has been double-glazed to improve energy efficiency. `[例]`
+>   - 中译：所有窗户都安装了双层玻璃以提高隔热效果。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/double-glazing
 > - We plan to double-glaze all the windows before winter arrives. `[例]`
+>   - 中译：双层玻璃窗可以显著减少噪音污染。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/double-glazed
 > - Double-glazed windows significantly reduce noise pollution from the busy street outside. `[例]`
 
 ## 主动产出

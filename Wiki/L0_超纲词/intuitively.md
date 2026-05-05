@@ -126,7 +126,11 @@ review_count: 0
 
 > [!example]- 语料
 > - The concept is intuitively obvious once you see it in action. `[例]`
+>   - 中译：这个概念一旦你看到实际运作就变得直观易懂了。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/intuitively
 > - People can often intuitively grasp the meaning of a new word from context. `[例]`
+>   - 中译：人们通常能从上下文中直觉地理解新词的含义。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/intuitively
 
 ## 主动产出
 

@@ -130,7 +130,11 @@ review_count: 0
 
 > [!example]- 语料
 > - Do you like working in pastel? `[例]`
+>   - 中译：她用柔和的粉彩画了一幅春天的画。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pastel
 > - The show includes 85 paintings , pastels, and sculptures. `[例]`
+>   - 中译：房间的墙壁涂成了柔和的粉彩色。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/pastel
 
 ## 主动产出
 

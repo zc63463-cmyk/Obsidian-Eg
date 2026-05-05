@@ -120,7 +120,11 @@ review_count: 0
 
 > [!example]- 语料
 > - The prosecutor must prove beyond a reasonable doubt that the defendant is guilty. `[例]`
+>   - 中译：检察官必须证明被告有罪，且达到排除合理怀疑的程度。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/defendant
 > - The fine is the largest ever for a single defendant in a criminal antitrust case , officials said. `[例]`
+>   - 中译：官员表示，这是刑事反垄断案件中单个被告有史以来被处以的最大罚款。
+>   - 来源：Collins | https://www.collinsdictionary.com/dictionary/english/defendant
 
 ## 主动产出
 

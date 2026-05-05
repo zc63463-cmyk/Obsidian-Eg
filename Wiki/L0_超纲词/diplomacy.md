@@ -120,7 +120,11 @@ diploma(dipl-/diplo-，折叠/双折) + -cy(名词后缀) → 折叠的文件 �
 
 > [!example]- 语料
 > - Diplomacy played a crucial role in resolving the conflict. `[例]`
+>   - 中译：外交在解决冲突中发挥了关键作用。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/diplomacy
 > - She handled the difficult negotiation with great diplomacy and patience. `[例]`
+>   - 中译：她以极大的外交手腕和耐心处理了这场艰难的谈判。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/diplomacy
 
 ## 主动产出
 

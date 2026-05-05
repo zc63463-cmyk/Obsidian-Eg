@@ -125,7 +125,11 @@ citizen（公民）+ -ship（表示身份、资格的后缀）
 
 > [!example]- 语料
 > - He was granted Canadian citizenship. `[例]`
+>   - 中译：他获得了加拿大公民身份。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/citizenship
 > - He holds joint citizenship in Sweden and Peru. `[例]`
+>   - 中译：他拥有瑞典和秘鲁的双重国籍。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/citizenship
 
 ## 主动产出
 

@@ -119,7 +119,11 @@ miniatur(e)(小型，拉丁语 *minutus* 小的) + -ization(名词后缀，表�
 
 > [!example]- 语料
 > - The silicon chip is a classic example of the benefits of miniaturization. `[例]`
+>   - 中译：硅芯片是微型化优势的经典例子。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/miniaturization
 > - The trend towards miniaturization of digital devices has been going on for several years. `[例]`
+>   - 中译：数字设备微型化的趋势已经持续了好几年。
+>   - 来源：Collins | https://www.collinsdictionary.com/dictionary/english/miniaturization
 
 ## 主动产出
 

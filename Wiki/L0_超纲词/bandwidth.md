@@ -129,7 +129,11 @@ band(频段/带) + width(宽度)
 
 > [!example]- 语料
 > - The company lacks the bandwidth to take on additional projects this quarter. `[例]`
+>   - 中译：公司本季度没有足够的精力来承接额外的项目。
+>   - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/bandwidth
 > - As remote work becomes the norm, insufficient bandwidth has become a major barrier to productivity. `[例]`
+>   - 中译：随着远程办公成为常态，带宽不足已成为影响生产力的主要障碍。
+>   - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/bandwidth
 
 ## 主动产出
 

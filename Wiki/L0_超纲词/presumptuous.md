@@ -125,7 +125,11 @@ review_count: 0
 
 > [!example]- 语料
 > - It would be presumptuous of me to comment on the matter. `[例]`
+>   - 中译：你认为可以替我做决定，这太放肆了。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/presumptuous
 > - It would be presumptuous of me to speak for the others. `[例]`
+>   - 中译：未经允许就坐在别人的座位上是很冒失的。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/presumptuous
 
 ## 主动产出
 

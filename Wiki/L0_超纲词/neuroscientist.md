@@ -121,7 +121,11 @@ review_count: 0
 
 > [!example]- 语料
 > - Neuroscientists are able to record the firing of a single nerve cell. `[例]`
+>   - 中译：神经科学家能够记录单个神经细胞的放电活动。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/neuroscientist
 > - A team of neuroscientists is investigating the neural basis of consciousness. `[例]`
+>   - 中译：一个神经科学家团队正在研究意识的神经基础。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/neuroscientist
 
 ## 主动产出
 

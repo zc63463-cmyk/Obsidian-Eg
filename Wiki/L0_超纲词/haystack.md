@@ -116,8 +116,14 @@ hay(干草) + stack(堆) → 复合词
 
 > [!example]- 语料
 > - Finding the relevant information in this massive dataset is like looking for a needle in a haystack. `[例]`
+>   - 中译：在这个海量数据集中查找相关信息就像大海捞针。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/haystack
 > - The suspect was hiding somewhere in the countryside, and finding him would be like searching for a needle in a haystack. `[例]`
+>   - 中译：嫌疑人藏在乡下的某个地方，找到他就如同大海捞针。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/haystack
 > - With millions of files to search through, locating the missing document was like finding a needle in a haystack. `[例]`
+>   - 中译：要在数百万份文件中搜索，找到丢失的文件如同大海捞针。
+>   - 来源：Collins | https://www.collinsdictionary.com/dictionary/english/haystack
 
 ## 主动产出
 

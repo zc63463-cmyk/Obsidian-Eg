@@ -123,7 +123,11 @@ ocean(海洋) + -ic(=……的，形容词后缀)
 
 > [!example]- 语料
 > - The researchers proposed a oceanic solution to the problem. `[例]`
+>   - 中译：海洋环流对全球气候有着深远的影响。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/oceanic
 > - The company adopted a oceanic approach to improve efficiency. `[例]`
+>   - 中译：该地区拥有丰富的海洋生物多样性。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/oceanic
 
 ## 主动产出
 

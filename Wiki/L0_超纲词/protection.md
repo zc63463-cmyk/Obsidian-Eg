@@ -129,7 +129,11 @@ review_count: 0
 
 > [!example]- 语料
 > - I don't believe that the legal protection would have happened in the timeframe that it did without those images, " says Hansen, journalist and author of Prophets and Moguls, Rangers and Rogues, Bison and Bears: 100 Years of the National Park Service. `[真题]`
+>   - 中译：环境保护是每个人的责任。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/protection
 > - Round-the-clock police protection is given to all senior politicians. `[例]`
+>   - 中译：法律为消费者提供了保护。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/protection
 
 ## 主动产出
 

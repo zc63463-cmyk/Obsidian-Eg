@@ -123,7 +123,11 @@ self(自己) + interest(利益) + -ed(形容词后缀，表示"持有……状�
 
 > [!example]- 语料
 > - Classical economics assumes that humans are rational , self-interested individuals. `[例]`
+>   - 中译：政客们的行为往往是出于自身利益的。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/self-interested
 > - He violently denounced their callous and self-interested behaviour. `[例]`
+>   - 中译：自私自利的决策最终会损害所有人的利益。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/self-interested
 
 ## 主动产出
 

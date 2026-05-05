@@ -128,7 +128,11 @@ review_count: 0
 
 > [!example]- 语料
 > - My main preoccupation now is trying to keep life normal for the sake of my two boys. `[例]`
+>   - 中译：他对金钱的过分关注让他忽视了家庭。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/preoccupation
 > - Lately, his preoccupation with football had caused his marks at school to slip. `[例]`
+>   - 中译：健康问题成为她心中的首要牵挂。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/preoccupation
 
 ## 主动产出
 

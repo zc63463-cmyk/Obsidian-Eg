@@ -124,7 +124,11 @@ ex-(完全/向外) + acerb(苦涩/严厉) + -ate(动词后缀，使成为)
 
 > [!example]- 语料
 > - The prolonged drought has exacerbated food shortages in several regions of the country. `[例]`
+>   - 中译：干旱加剧了该地区的粮食短缺问题。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/exacerbate
 > - Raising interest rates during a recession could exacerbate unemployment and slow economic recovery. `[例]`
+>   - 中译：他的粗鲁言辞使局势进一步恶化。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/exacerbate
 
 ## 主动产出
 

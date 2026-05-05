@@ -124,7 +124,11 @@ sal(盐，拉丁语 *sal*) + -ine(形容词后缀，表示"与……有关的")
 
 > [!example]- 语料
 > - Wash the lenses in saline solution. `[例]`
+>   - 中译：医生给他注射了生理盐水。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/saline
 > - For kids, saline nasal rinses and sprays are a gentler starting point recommended by Johns Hopkins pediatric physicians before moving to antihistamines. `[例]`
+>   - 中译：这片盐碱地几乎无法种植任何作物。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/saline
 
 ## 主动产出
 

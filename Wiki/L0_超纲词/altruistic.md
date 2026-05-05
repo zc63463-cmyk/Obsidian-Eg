@@ -124,7 +124,11 @@ altr-(=alter, 其他，拉丁语 *alteri* "others") + -u- + -ist(人) + -ic(形�
 
 > [!example]- 语料
 > - Evolutionary biologists have long debated whether altruistic behavior can be explained by natural selection. `[例]`
+>   - 中译：进化生物学家长期以来一直在争论利他行为是否可以用自然选择来解释。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/altruistic
 > - Many people engage in altruistic acts without expecting any reward or recognition. `[例]`
+>   - 中译：许多人从事利他行为，并不期望任何回报或认可。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/altruistic
 
 ## 主动产出
 

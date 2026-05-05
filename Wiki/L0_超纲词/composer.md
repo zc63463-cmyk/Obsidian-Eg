@@ -122,7 +122,11 @@ com-（一起）+ [[pos-pon-posit]]（放置）+ -er（人）
 
 > [!example]- 语料
 > - The composer Strauss was once challenged to a duel. `[例]`
+>   - 中译：作曲家施特劳斯曾被人挑战决斗。
+>   - 来源：Collins | https://www.collinsdictionary.com/dictionary/english/composer
 > - The famous jazz musician , Duke Ellington, was a composer, arranger and pianist. `[例]`
+>   - 中译：著名爵士音乐家杜克·艾灵顿是一位作曲家、编曲家和钢琴家。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/composer
 
 ## 主动产出
 

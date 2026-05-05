@@ -124,7 +124,11 @@ review_count: 0
 
 > [!example]- 语料
 > - He complained that anyone who challenges an assumption about global warming gets branded a heretic. `[例]`
+>   - 中译：他抱怨说，任何质疑全球变暖假设的人都会被贴上异端分子的标签。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/heretic
 > - When he began to enunciate his views , Friedman was largely considered a heretic. `[例]`
+>   - 中译：当他开始阐述自己的观点时，弗里德曼在很大程度上被认为是一个异端。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/heretic
 
 ## 主动产出
 

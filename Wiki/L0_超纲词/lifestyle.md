@@ -122,7 +122,11 @@ life（生活）+ style（风格、方式）→ **生活方式**
 
 > [!example]- 语料
 > - A sedentary lifestyle has been linked to an increased risk of heart disease. `[例]`
+>   - 中译：久坐不动的生活方式与心脏病风险增加有关。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/lifestyle
 > - Many people are making lifestyle changes to reduce their carbon footprint. `[例]`
+>   - 中译：许多人正在改变生活方式以减少碳足迹。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lifestyle
 
 ## 主动产出
 

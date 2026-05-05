@@ -126,7 +126,11 @@ review_count: 0
 
 > [!example]- 语料
 > - A searing pain shot up her arm. `[例]`
+>   - 中译：厨师用高温快速煎烤牛排，锁住肉汁。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/searing
 > - The race took place in the searing heat. `[例]`
+>   - 中译：灼热的阳光烤炙着大地。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/searing
 
 ## 主动产出
 

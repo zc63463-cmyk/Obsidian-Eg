@@ -118,7 +118,11 @@ review_count: 0
 
 > [!example]- 语料
 > - The Mediterranean diet, rich in olive oil, fish, and vegetables, has been associated with a lower risk of heart disease. `[例]`
+>   - 中译：富含橄榄油、鱼类和蔬菜的地中海饮食，被认为与较低的心脏病风险有关。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/mediterranean
 > - Countries bordering the Mediterranean enjoy a mild climate with warm, dry summers and mild winters. `[例]`
+>   - 中译：地中海沿岸国家享有温和的气候，夏季温暖干燥，冬季温和。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/mediterranean
 
 ## 主动产出
 

@@ -121,6 +121,8 @@ review_count: 0
 
 > [!example]- 语料
 > - She is very maternal towards her employees. `[例]`
+>   - 中译：她对员工非常慈爱。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/maternal
 > - Her maternal grandmother (= mother's mother ) is still alive. `[例]`
 
 ## 主动产出

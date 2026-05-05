@@ -126,7 +126,11 @@ review_count: 0
 
 > [!example]- 语料
 > - It is unclear how to mitigate the effects of tourism on the island. `[例]`
+>   - 中译：目前尚不清楚如何减轻旅游业对该岛的影响。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/mitigate
 > - Getting a lot of sleep and drinking plenty of fluids can mitigate the effects of the flu. `[例]`
+>   - 中译：充足的睡眠和大量饮水可以缓解流感症状。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/mitigate
 
 ## 主动产出
 

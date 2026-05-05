@@ -131,7 +131,11 @@ con-(共同/一起) + [[tract|tract-/str-]](拉/拖) → constrict(压缩) → c
 
 > [!example]- 语料
 > - The constraints of politeness wouldn't allow her to say what she really thought about his cooking. `[例]`
+>   - 中译：出于礼貌的约束，她不能说出她对他厨艺的真实看法。
+>   - 来源：Collins | https://www.collinsdictionary.com/dictionary/english/constraint
 > - Financial constraints on the company are preventing them from employing new staff. `[例]`
+>   - 中译：公司的财务限制阻碍了他们招聘新员工。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/constraint
 
 ## 主动产出
 

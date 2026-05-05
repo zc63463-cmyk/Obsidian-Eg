@@ -125,7 +125,11 @@ stock（库存，储备）+ pile（堆）
 
 > [!example]- 语料
 > - They have a stockpile of weapons and ammunition that will last several months. `[例]`
+>   - 中译：政府囤积了大量医疗物资以应对紧急情况。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/stockpile
 > - The rebels have been stockpiling weapons. `[例]`
+>   - 中译：这个国家拥有庞大的核武器储备。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/stockpile
 
 ## 主动产出
 

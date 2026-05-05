@@ -122,7 +122,11 @@ paed-(=ped-, 儿童，希腊语 *pais*, *paidos*) + -iatr-(医治，希腊语 *i
 
 > [!example]- 语料
 > - She specializes in paediatrics. `[例]`
+>   - 中译：她在儿科领域工作了二十年。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/paediatrics
 > - The Department of Paediatrics delivers the speciality rotation training in Paediatrics for Year 5 students studying Medicine at Oxford. `[例]`
+>   - 中译：儿科专门研究儿童疾病的治疗。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/paediatrics
 
 ## 主动产出
 

@@ -127,7 +127,11 @@ thought（思考）+ -less（没有…的，否定后缀）。
 
 > [!example]- 语料
 > - It was thoughtless not to call and say you'd be late. `[例]`
+>   - 中译：他做了一个轻率的决定，让所有人都受到了影响。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/thoughtless
 > - She's not intentionally unkind - she's just a little thoughtless sometimes. `[例]`
+>   - 中译：她因为一句不经意的话伤害了朋友的感情。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/thoughtless
 
 ## 主动产出
 

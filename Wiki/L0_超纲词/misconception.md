@@ -125,7 +125,11 @@ mis-(错误) + con-(一起/完全) + [[cept|capt]](抓/取，拉丁语 *capere*)
 
 > [!example]- 语料
 > - We hope our work will help to change popular misconceptions about disabled people. `[例]`
+>   - 中译：我们希望我们的工作有助于改变公众对残疾人的普遍误解。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/misconception
 > - I'd like to clear up the common misconception that older workers don't know how to use technology. `[例]`
+>   - 中译：我想澄清一个普遍的误解，即年长员工不懂如何使用技术。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/misconception
 
 ## 主动产出
 

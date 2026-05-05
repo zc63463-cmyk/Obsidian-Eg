@@ -126,7 +126,11 @@ key(关键) + word(词)
 
 > [!example]- 语料
 > - Using the right keywords can significantly improve your search engine ranking. `[例]`
+>   - 中译：使用正确的关键词可以显著提高你的搜索引擎排名。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/keyword
 > - In programming, certain keywords are reserved and cannot be used as variable names. `[例]`
+>   - 中译：在编程中，某些关键词是保留的，不能用作变量名。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/keyword
 
 ## 主动产出
 

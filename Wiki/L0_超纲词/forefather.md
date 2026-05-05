@@ -123,7 +123,11 @@ fore-(在前，在前方) + father(父亲)
 
 > [!example]- 语料
 > - Our forefathers fought for equal justice under the law. `[例]`
+>   - 中译：我们的祖先为法律下的平等正义而战。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/forefather
 > - This land belongs to us and our forefathers. `[例]`
+>   - 中译：这片土地属于我们和我们的祖先。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/forefather
 
 ## 主动产出
 

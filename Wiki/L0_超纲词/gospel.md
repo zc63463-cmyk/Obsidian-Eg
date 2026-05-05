@@ -128,7 +128,11 @@ god(=good, 好) + spel(=spell, 消息/故事，古英语 *spel*)
 
 > [!example]- 语料
 > - The Gospel according to St Mark. `[例]`
+>   - 中译：《马可福音》。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/gospel
 > - The church's mission is to preach the gospel. `[例]`
+>   - 中译：教会的使命是传播福音。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/gospel
 
 ## 主动产出
 

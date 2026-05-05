@@ -122,8 +122,12 @@ cure(治愈) + all(所有) → cure-all(复合名词)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - There’s a danger in believing that the drug is a cure-all. `[例]`
+> - There's a danger in believing that the drug is a cure-all. `[例]`
+>   - 中译：认为这种药是万能药是有危险的。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/cure-all
 > - Raising a young person's self-esteem is not the cure-all that some people think. `[例]`
+>   - 中译：提高年轻人的自尊心并不是有些人认为的万能方法。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/cure-all
 
 ## 主动产出
 

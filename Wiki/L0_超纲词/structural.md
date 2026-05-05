@@ -125,7 +125,11 @@ review_count: 0
 
 > [!example]- 语料
 > - The political reforms have led to major structural changes in the economy. `[例]`
+>   - 中译：这栋建筑存在严重的结构性问题。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/structural
 > - Hundreds of houses in the typhoon's path suffered structural damage. `[例]`
+>   - 中译：经济需要进行结构性改革才能实现可持续增长。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/structural
 
 ## 主动产出
 

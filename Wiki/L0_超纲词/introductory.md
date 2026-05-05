@@ -130,7 +130,11 @@ review_count: 0
 
 > [!example]- 语料
 > - The professor's introductory remarks set the tone for the entire lecture. `[例]`
+>   - 中译：教授的开场致辞为整个讲座定下了基调。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/introductory
 > - Students are required to take an introductory course before advancing to specialized topics. `[例]`
+>   - 中译：学生在进入专业课题之前必须修读入门课程。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/introductory
 
 ## 主动产出
 

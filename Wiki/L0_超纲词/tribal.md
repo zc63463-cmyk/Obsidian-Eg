@@ -126,7 +126,11 @@ tribe（部落）+ -al（形容词后缀，…的）。tribe 源自拉丁语 *tr
 
 > [!example]- 语料
 > - The fierce tribal loyalty among football fans sometimes leads to violence. `[例]`
+>   - 中译：部落首领在仪式上穿着传统的服饰。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/tribal
 > - Around the fire , tribal elders chanted incantations. `[例]`
+>   - 中译：部落之间的冲突已经持续了数十年。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/tribal
 
 ## 主动产出
 

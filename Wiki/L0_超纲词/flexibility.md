@@ -127,7 +127,11 @@ flex(弯曲，拉丁语 *flectere*) + -ibil(-ible, 能…的) + -ity(名词后�
 
 > [!example]- 语料
 > - The company offers greater flexibility in working hours to attract talent. `[例]`
+>   - 中译：远程工作为员工提供了更大的灵活性。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/flexibility
 > - Flexibility is key to surviving in a rapidly changing market. `[例]`
+>   - 中译：瑜伽有助于提高身体的柔韧性。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/flexibility
 
 ## 主动产出
 

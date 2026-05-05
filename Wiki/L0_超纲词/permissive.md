@@ -125,7 +125,11 @@ review_count: 0
 
 > [!example]- 语料
 > - The researchers proposed a permissive solution to the problem. `[例]`
+>   - 中译：她的父母非常宽容，允许她做任何想做的事。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/permissive
 > - The company adopted a permissive approach to improve efficiency. `[例]`
+>   - 中译：社会对某些行为的规范变得更加宽松了。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/permissive
 
 ## 主动产出
 

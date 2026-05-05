@@ -123,7 +123,11 @@ professor（教授）+ -ship（名词后缀，表示身份/职位/状态）= 教
 
 > [!example]- 语料
 > - She was appointed to a professorship in Economics at Princeton. `[例]`
+>   - 中译：他被授予了剑桥大学的教授职位。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/professorship
 > - The Regius Professorship of Moral and Pastoral Theology was established by an Act of Parliament in 1840. `[例]`
+>   - 中译：她获得了终身教授职位。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/professorship
 
 ## 主动产出
 

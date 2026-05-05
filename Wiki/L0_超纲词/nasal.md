@@ -124,7 +124,11 @@ review_count: 0
 
 > [!example]- 语料
 > - She spoke in nasal tones. `[例]`
+>   - 中译：她用鼻音说话。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/nasal
 > - This medicine is supposed to relieve nasal congestion. `[例]`
+>   - 中译：这种药应该能缓解鼻塞。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/nasal
 
 ## 主动产出
 

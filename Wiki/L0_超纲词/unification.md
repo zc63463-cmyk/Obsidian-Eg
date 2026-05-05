@@ -126,7 +126,11 @@ review_count: 0
 
 > [!example]- 语料
 > - His party's long-term goal remained eventual unification. `[例]`
+>   - 中译：德国统一发生在1990年。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/unification
 > - Migrants have a right to citizenship and family unification. `[例]`
+>   - 中译：两国之间的统一进程面临着许多挑战。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/unification
 
 ## 主动产出
 

@@ -124,7 +124,11 @@ review_count: 0
 
 > [!example]- 语料
 > - The town finally succumbed last week after being pounded with heavy artillery for more than two months. `[例]`
+>   - 中译：他最终屈服于诱惑，又抽了一根烟。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/succumb
 > - I'm afraid I succumbed to temptation and had a piece of cheesecake. `[例]`
+>   - 中译：许多伤员因伤势过重而不治身亡。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/succumb
 
 ## 主动产出
 

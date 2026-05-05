@@ -124,7 +124,11 @@ review_count: 0
 
 > [!example]- 语料
 > - This disaster is a clear demonstration of the need for tighter controls. `[例]`
+>   - 中译：这场灾难清楚地证明需要加强管控。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/demonstration
 > - Let me give you a demonstration of how the camera works. `[例]`
+>   - 中译：让我给你演示一下这台相机怎么用。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/demonstration
 
 ## 主动产出
 

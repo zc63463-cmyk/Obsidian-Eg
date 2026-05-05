@@ -119,7 +119,11 @@ design-/sign-(标记/设计) + -er(人) → 做设计的人 → 设计师
 
 > [!example]- 语料
 > - She wore a designer dress to the gala. `[例]`
+>   - 中译：她穿了一件名牌礼服参加晚会。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/designer
 > - The company hired a renowned interior designer to remodel the office space. `[例]`
+>   - 中译：公司聘请了一位著名的室内设计师来重新装修办公空间。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/designer
 
 ## 主动产出
 

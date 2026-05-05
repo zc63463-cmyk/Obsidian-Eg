@@ -126,7 +126,11 @@ ac-(=ad-, 朝向) + [[cess|ced-/cess-]](走) + -ibil(-able，可被) + -ity(名�
 
 > [!example]- 语料
 > - The government has made significant efforts to improve the accessibility of public buildings for people with disabilities. `[例]`
+>   - 中译：政府已做出重大努力，改善公共建筑对残障人士的无障碍通行条件。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/accessibility
 > - Digital accessibility ensures that websites and applications can be used by people with visual or hearing impairments. `[例]`
+>   - 中译：数字无障碍确保网站和应用程序能够被视觉或听觉障碍人士使用。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/accessibility
 
 ## 主动产出
 

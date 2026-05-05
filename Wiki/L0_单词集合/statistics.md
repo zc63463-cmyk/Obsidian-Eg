@@ -131,8 +131,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The statistics show that, in general , women live longer than men. `[例]`
+>   - 中译：统计数据显示，总体而言，女性比男性寿命更长。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/statistics
 > - Statistics is a branch of mathematics dealing with the collection and study of numerical data. `[例]`
+>   - 中译：统计学是数学的一个分支，涉及数值数据的收集与研究。
+>   - 来源：Collins | https://www.collinsdictionary.com/dictionary/english/statistics
 > - The Bachelor of Science in Statistics and Data Science is a four-year degree that provides students with foundational training and marketable skills in statistics and data science. `[例]`
+>   - 中译：统计学与数据科学理学学士是一个四年制学位，为学生提供统计学和数据科学方面的基础培训和实用技能。
+>   - 来源：大学课程介绍 | https://stat.illinois.edu/undergraduate/bs-statistics-data-science
 
 ---
 

@@ -127,7 +127,11 @@ slug(蛞蝓，行动缓慢的软体动物) + -gish(形容词后缀)
 
 > [!example]- 语料
 > - A heavy lunch makes me sluggish in the afternoon. `[例]`
+>   - 中译：炎热的天气让人感到昏昏欲睡、行动迟缓。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sluggish
 > - Something is wrong with the car - the engine feels sluggish. `[例]`
+>   - 中译：经济复苏的步伐依然缓慢。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/sluggish
 
 ## 主动产出
 

@@ -122,7 +122,11 @@ review_count: 0
 
 > [!example]- 语料
 > - She was studiously vague about where she was going. `[例]`
+>   - 中译：他刻意回避了那个敏感话题。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/studiously
 > - The issue of the environment is studiously ignored by politicians. `[例]`
+>   - 中译：她认真地做着笔记，不漏掉任何一个细节。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/studiously
 
 ## 主动产出
 

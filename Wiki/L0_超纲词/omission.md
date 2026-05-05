@@ -121,7 +121,11 @@ review_count: 0
 
 > [!example]- 语料
 > - Measures to control child employment are a glaring (= very obvious ) omission from new legislation to protect children. `[例]`
+>   - 中译：这份报告中的遗漏导致了严重的误解。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/omission
 > - There are some serious errors and omissions in the book. `[例]`
+>   - 中译：遗漏关键细节可能是一种疏忽，也可能是故意的。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/omission
 
 ## 主动产出
 

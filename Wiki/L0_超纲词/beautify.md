@@ -131,7 +131,11 @@ beauty(美) + -fy(动词后缀，"使……化"/"使成为")
 
 > [!example]- 语料
 > - Community volunteers worked together to beautify the neighborhood by planting trees and cleaning up the park. `[例]`
+>   - 中译：社区志愿者们齐心协力，通过种树和清理公园来美化社区环境。
+>   - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/beautify
 > - The urban renewal project aims to beautify the downtown area while preserving its historic character. `[例]`
+>   - 中译：城市更新项目旨在美化市中心区域，同时保留其历史特色。
+>   - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/beautify
 
 ## 主动产出
 

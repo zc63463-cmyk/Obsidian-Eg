@@ -124,7 +124,11 @@ review_count: 0
 
 > [!example]- 语料
 > - The phallus could be intended as a way of poking fun at his prudery. `[例]`
+>   - 中译：她的过度拘谨使她无法欣赏现代艺术。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/prudery
 > - Such prudery regarding artistic depictions of the nude has no place on a college campus. `[例]`
+>   - 中译：维多利亚时代的假道学在当今看来很可笑。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/prudery
 
 ## 主动产出
 

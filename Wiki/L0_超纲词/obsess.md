@@ -123,7 +123,11 @@ review_count: 0
 
 > [!example]- 语料
 > - The whole relationship obsessed me for years. `[例]`
+>   - 中译：他痴迷于自己的外表。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/obsess
 > - She used to obsess about her weight. `[例]`
+>   - 中译：她一直在担心自己的健康。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/obsess
 
 ## 主动产出
 

@@ -128,7 +128,11 @@ review_count: 0
 
 > [!example]- 语料
 > - The article was dismissed as highly speculative. `[例]`
+>   - 中译：投资者对这只股票进行了投机性买入。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/speculative
 > - Bizarre and speculative theories. `[例]`
+>   - 中译：关于外星生命存在的理论仍然是推测性的。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/speculative
 
 ## 主动产出
 

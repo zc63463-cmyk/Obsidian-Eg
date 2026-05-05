@@ -125,7 +125,11 @@ in-(=in-, 向……方向) + clin(倾斜，拉丁语 *clinare*) + -ation(名词�
 
 > [!example]- 语料
 > - She has a strong inclination toward the sciences, particularly biology and chemistry. `[例]`
+>   - 中译：她对科学有强烈的倾向，尤其是生物学和化学。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/inclination
 > - Against his natural inclination, he agreed to take on the leadership role for the sake of the team. `[例]`
+>   - 中译：违背自己的天性，他为了团队同意承担领导角色。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/inclination
 
 ## 主动产出
 

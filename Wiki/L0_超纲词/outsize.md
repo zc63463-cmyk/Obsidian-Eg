@@ -122,7 +122,11 @@ out-(超出) + size(尺寸/大小)
 
 > [!example]- 语料
 > - The researchers proposed a outsize solution to the problem. `[例]`
+>   - 中译：她穿着一件超大号的外套。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/outsize
 > - The company adopted a outsize approach to improve efficiency. `[例]`
+>   - 中译：这家公司获得了超常的利润。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/outsize
 
 ## 主动产出
 

@@ -123,7 +123,11 @@ review_count: 0
 
 > [!example]- 语料
 > - Duck with sage and onion stuffing. `[例]`
+>   - 中译：这位年迈的智者给了年轻人许多人生建议。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sage
 > - The wise old sage nodded. `[例]`
+>   - 中译：鼠尾草是一种常用于烹饪的芳香草本植物。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/sage
 
 ## 主动产出
 

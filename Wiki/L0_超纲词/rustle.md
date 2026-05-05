@@ -127,7 +127,11 @@ rustle 为拟声词（onomatopoeia），模仿轻柔摩擦的声音，无明确�
 
 > [!example]- 语料
 > - The leaves rustled in the breeze. `[例]`
+>   - 中译：树叶在微风中沙沙作响。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rustle
 > - He rustled his papers (= noisily moved them about) to hide his embarrassment. `[例]`
+>   - 中译：他匆匆忙忙地弄来了一些食物。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/rustle
 
 ## 主动产出
 

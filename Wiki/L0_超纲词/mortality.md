@@ -127,7 +127,11 @@ mort(死亡，拉丁语 *mors*, *mortis*) + -al(形容词后缀) + -ity(名词�
 
 > [!example]- 语料
 > - Health Services publishes the national mortality rate annually. `[例]`
+>   - 中译：卫生服务部门每年公布全国死亡率。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/mortality
 > - Infant mortality is much higher in the poorest areas of the city. `[例]`
+>   - 中译：该市最贫困地区的婴儿死亡率要高得多。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/mortality
 
 ## 主动产出
 

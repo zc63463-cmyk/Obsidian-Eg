@@ -135,7 +135,11 @@ review_count: 0
 
 > [!example]- 语料
 > - Analysts say the business is strongly cash generative and has a solid business model. `[例]`
+>   - 中译：分析师表示，该企业的现金生成能力很强，拥有稳健的商业模式。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/generative
 > - The generative process just speeds up the play and directs it to often find more interesting designs and potentially to solve difficult problems. `[例]`
+>   - 中译：生成过程只是加速了演化过程，并引导它经常发现更有趣的设计，并有可能解决困难的问题。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/generative
 
 ## 主动产出
 

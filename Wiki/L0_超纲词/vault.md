@@ -126,7 +126,11 @@ vault 源自拉丁语 *volta*（拱形转弯），与 [[vis-vid|vis-/vid-]]（�
 
 > [!example]- 语料
 > - She entered the vault with an armed guard. `[例]`
+>   - 中译：银行的金库里存放着大量的黄金和现金。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/vault
 > - She was buried in the family vault. `[例]`
+>   - 中译：体操运动员以一个漂亮的 vault 完成了比赛。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/vault
 
 ## 主动产出
 

@@ -125,7 +125,11 @@ hard(坚硬的) + line(路线/立场) → 复合词
 
 > [!example]- 语料
 > - His hardline stance appears to have gained him greater popularity with the public. `[例]`
+>   - 中译：他的强硬立场似乎为他赢得了更高的公众支持率。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hardline
 > - He fears losing support in the election to hardline unionists who oppose power sharing. `[例]`
+>   - 中译：他担心在选举中输给反对权力分享的强硬派联合主义者。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/hardline
 
 ## 主动产出
 

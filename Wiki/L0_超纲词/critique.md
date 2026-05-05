@@ -130,7 +130,11 @@ review_count: 0
 
 > [!example]- 语料
 > - Students take turns critiquing each other's work. `[例]`
+>   - 中译：学生们轮流评论彼此的作品。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/critique
 > - She produced a detailed , page-by-page critique of the book. `[例]`
+>   - 中译：她对这本书进行了逐页的详细评论。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/critique
 
 ## 主动产出
 

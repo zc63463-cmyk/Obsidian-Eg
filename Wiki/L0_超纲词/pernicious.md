@@ -122,7 +122,11 @@ review_count: 0
 
 > [!example]- 语料
 > - The researchers proposed a pernicious solution to the problem. `[例]`
+>   - 中译：吸烟对健康有有害的影响。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pernicious
 > - The company adopted a pernicious approach to improve efficiency. `[例]`
+>   - 中译：种族主义的毒害影响渗透到了社会的各个层面。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/pernicious
 
 ## 主动产出
 

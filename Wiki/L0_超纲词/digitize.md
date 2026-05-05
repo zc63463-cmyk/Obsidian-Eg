@@ -117,7 +117,11 @@ digit-(digit-，手指/数字) + -ize(使变成...后缀) → 使变成数字 �
 
 > [!example]- 语料
 > - The library is working to digitize its entire collection. `[例]`
+>   - 中译：图书馆正在努力将其全部馆藏数字化。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/digitize
 > - Many museums have digitized their archives to make them accessible to researchers worldwide. `[例]`
+>   - 中译：许多博物馆已将其档案数字化，以便全球研究人员可以访问。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/digitize
 
 ## 主动产出
 

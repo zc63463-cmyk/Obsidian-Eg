@@ -122,7 +122,11 @@ strike（打，击打）+ -ing（形容词后缀）+ -ly（副词后缀）
 
 > [!example]- 语料
 > - Her latest novel is strikingly different from her earlier work. `[例]`
+>   - 中译：这两姐妹长得惊人地相似。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/strikingly
 > - Her husband is strikingly handsome. `[例]`
+>   - 中译：新设计与旧版本截然不同。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/strikingly
 
 ## 主动产出
 

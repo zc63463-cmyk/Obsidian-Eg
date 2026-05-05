@@ -122,7 +122,11 @@ a-(=ad-, 朝向) + mass(堆，大量)
 
 > [!example]- 语料
 > - Over decades, the company amassed a vast collection of artworks. `[例]`
+>   - 中译：几十年来，该公司积累了大量的艺术收藏品。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/amass
 > - She amassed a fortune through shrewd investments in the stock market. `[例]`
+>   - 中译：她通过在股票市场上的精明投资积累了大量财富。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/amass
 
 ## 主动产出
 

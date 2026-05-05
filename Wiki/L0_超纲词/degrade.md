@@ -124,7 +124,11 @@ review_count: 0
 
 > [!example]- 语料
 > - I will not degrade myself by begging for something that is mine by right. `[例]`
+>   - 中译：我不会通过乞求本属于我的东西来贬低自己。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/degrade
 > - Every day the environment is further degraded by toxic wastes. `[例]`
+>   - 中译：每天都有环境被有毒废物进一步破坏。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/degrade
 
 ## 主动产出
 

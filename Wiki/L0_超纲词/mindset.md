@@ -124,7 +124,11 @@ mind(心智/头脑) + set(设定/固定)
 
 > [!example]- 语料
 > - It's extraordinary how hard it is to change the mindset of the public and the press. `[例]`
+>   - 中译：改变公众和新闻界的思维方式有多么困难，这真是非同寻常。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/mindset
 > - American financiers have a very different mindset from ours. `[例]`
+>   - 中译：美国金融家的思维方式与我们截然不同。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/mindset
 
 ## 主动产出
 

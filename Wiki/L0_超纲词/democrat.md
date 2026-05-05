@@ -122,7 +122,11 @@ demo-(dem-/demo-，人民) + crat(统治/权力) → 人民统治 → 民主主�
 
 > [!example]- 语料
 > - Democrats traditionally support higher taxes , mostly levied against the wealthier segments of society. `[例]`
+>   - 中译：民主党人传统上支持较高的税收，主要针对社会中较富裕的群体。
+>   - 来源：Collins | https://www.collinsdictionary.com/dictionary/english/democrat
 > - The Democrats were outvoted , as usual. `[例]`
+>   - 中译：民主党人像往常一样在投票中落败。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/democrat
 
 ## 主动产出
 

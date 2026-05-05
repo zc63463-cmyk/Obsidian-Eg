@@ -121,7 +121,11 @@ con-（加强）+ [[ceit|ceiv-]]（抓住，取得，拉丁语 *capere*）+ -abl
 
 > [!example]- 语料
 > - She could conceivably have already left. `[例]`
+>   - 中译：她可能已经离开了。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/conceivably
 > - Conceivably, some brain cells could be damaged during this process. `[例]`
+>   - 中译：可以想象，在这个过程中一些脑细胞可能会受损。
+>   - 来源：Collins | https://www.collinsdictionary.com/dictionary/english/conceivably
 
 ## 主动产出
 

@@ -125,7 +125,11 @@ in-(向内) + take(拿，取)
 
 > [!example]- 语料
 > - Reducing your calorie intake can help with weight management. `[例]`
+>   - 中译：减少热量摄入有助于体重管理。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/intake
 > - The university has increased its annual intake of engineering students. `[例]`
+>   - 中译：该大学增加了工程学专业每年的招生人数。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/intake
 
 ## 主动产出
 

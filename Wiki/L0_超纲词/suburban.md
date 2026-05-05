@@ -124,7 +124,11 @@ review_count: 0
 
 > [!example]- 语料
 > - Many families prefer to live in suburban areas where housing is more affordable. `[例]`
+>   - 中译：他们搬到了郊区的一栋大房子里。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/suburban
 > - Suburban sprawl has led to increased traffic congestion and environmental degradation. `[例]`
+>   - 中译：郊区的生活节奏比城市慢得多。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/suburban
 
 ## 主动产出
 

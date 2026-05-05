@@ -125,7 +125,11 @@ in-(向内) + [[quis|quest-]](寻求，询问) + -it(动词) + -ive(倾向)
 
 > [!example]- 语料
 > - Children are naturally inquisitive and constantly ask questions about the world around them. `[例]`
+>   - 中译：孩子们天生好奇，不断询问周围世界的问题。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/inquisitive
 > - An inquisitive mind is essential for scientific research. `[例]`
+>   - 中译：好奇心是科学研究不可或缺的品质。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/inquisitive
 
 ## 主动产出
 

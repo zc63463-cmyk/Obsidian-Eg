@@ -128,7 +128,11 @@ review_count: 0
 
 > [!example]- 语料
 > - The blind parents of sighted children. `[例]`
+>   - 中译：有视力的游客可以欣赏壮丽的风景。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sighted
 > - Bodies were sighted , but fuel that could have been easily ignited and the natural terrain hampered rescue efforts to the point where even airboats were eventually prohibited from skimming the river of grass to help. `[例]`
+>   - 中译：有人目击到嫌疑人出现在犯罪现场附近。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/sighted
 
 ## 主动产出
 

@@ -122,7 +122,11 @@ meteor(大气现象/流星，希腊语 *meteōron* 高空中的东西) + -ologic
 
 > [!example]- 语料
 > - Accurate meteorological records began 100 years ago. `[例]`
+>   - 中译：精确的气象记录始于100年前。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/meteorological
 > - They used meteorological images in trying to predict weather patterns based on previous similar spatial patterns. `[例]`
+>   - 中译：他们利用气象图像，试图根据以前类似的空间模式来预测天气模式。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/meteorological
 
 ## 主动产出
 

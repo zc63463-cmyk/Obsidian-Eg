@@ -124,7 +124,11 @@ review_count: 0
 
 > [!example]- 语料
 > - You're presupposing that he'll have told her - but he may not have. `[例]`
+>   - 中译：这个理论预设了某些基本假设。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/presuppose
 > - Investigative journalism presupposes some level of investigation. `[例]`
+>   - 中译：成功需要预先假定有充分的准备。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/presuppose
 
 ## 主动产出
 

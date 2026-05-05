@@ -129,7 +129,11 @@ review_count: 0
 
 > [!example]- 语料
 > - Different scholars have offered different interpretations of the data. `[例]`
+>   - 中译：不同的学者对数据提出了不同的解释。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/interpretation
 > - The Constitution is subject to varying interpretations. `[例]`
+>   - 中译：宪法可以有各种不同的解释。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/interpretation
 
 ## 主动产出
 

@@ -127,7 +127,11 @@ retro-(向后，回顾) + [[fit|fit]](安装，适配，使合适)
 
 > [!example]- 语料
 > - A state program to retrofit engines with pollution controls has succeeded in reducing pollution from trains. `[例]`
+>   - 中译：这些旧建筑需要加装节能设备。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/retrofit
 > - Many hospitals are struggling to pay for the retrofits. `[例]`
+>   - 中译：他们对工厂进行了改造，以减少排放。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/retrofit
 
 ## 主动产出
 

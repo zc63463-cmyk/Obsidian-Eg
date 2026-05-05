@@ -125,7 +125,11 @@ print（打印/印刷）+ -er（人/机器）= 打印的人/机器→打印机/�
 
 > [!example]- 语料
 > - We are a commercial printer offering pre-press, printing , and bindery services. `[例]`
+>   - 中译：打印机坏了，我需要修一下。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/printer
 > - The book is now at the printers. `[例]`
+>   - 中译：他是一名印刷商，经营着一家小型印刷厂。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/printer
 
 ## 主动产出
 

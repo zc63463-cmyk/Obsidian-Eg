@@ -124,7 +124,11 @@ review_count: 0
 
 > [!example]- 语料
 > - Blood trickled out of the corner of his mouth. `[例]`
+>   - 中译：水从岩石缝隙中缓缓滴落。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/trickle
 > - Gradually people trickled back into the theatre for the second half. `[例]`
+>   - 中译：消息开始一点一点地传开。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/trickle
 
 ## 主动产出
 

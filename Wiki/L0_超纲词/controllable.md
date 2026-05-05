@@ -126,7 +126,11 @@ con-(共同) + [[tract|trol]](控制，源自 *contrarotulare*，"对照登记�
 
 > [!example]- 语料
 > - The colour and brightness of the screen are controllable. `[例]`
+>   - 中译：屏幕的颜色和亮度是可控的。
+>   - 来源：Collins | https://www.collinsdictionary.com/dictionary/english/controllable
 > - It is a disease that is easily controllable by vaccination or antibiotics. `[例]`
+>   - 中译：这是一种通过疫苗接种或抗生素很容易控制的疾病。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/controllable
 
 ## 主动产出
 

@@ -123,7 +123,11 @@ review_count: 0
 
 > [!example]- 语料
 > - Recordings of conversations are transcribed and entered into the database. `[例]`
+>   - 中译：她将采访录音转录成了文字稿。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/transcribe
 > - Transcribing the Ethiopian text into the English alphabet was their first task. `[例]`
+>   - 中译：音乐家将这首曲子从五线谱转录为简谱。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/transcribe
 
 ## 主动产出
 

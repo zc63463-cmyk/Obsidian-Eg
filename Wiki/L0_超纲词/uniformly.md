@@ -127,7 +127,11 @@ review_count: 0
 
 > [!example]- 语料
 > - Critics were uniformly enthusiastic about the production. `[例]`
+>   - 中译：所有学生都穿着统一的校服。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/uniformly
 > - The impact of interest rates is not felt uniformly across the country. `[例]`
+>   - 中译：专家们一致认为这个方案是可行的。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/uniformly
 
 ## 主动产出
 

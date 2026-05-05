@@ -126,7 +126,11 @@ review_count: 0
 
 > [!example]- 语料
 > - She prepared a hearty stew for dinner. `[例]`
+>   - 中译：她炖了一大锅牛肉蔬菜汤。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/stew
 > - You're not still stewing about what happened yesterday , are you? `[例]`
+>   - 中译：他一直在为考试的事焦虑不安。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/stew
 
 ## 主动产出
 

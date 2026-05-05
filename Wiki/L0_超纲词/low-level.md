@@ -128,6 +128,8 @@ low（低的）+ level（水平，层次）→ **低水平的，低级别的**
 > [!example]- 语料
 > - Its housing supply is at a very low level. `[真题]`
 > - She has a fairly low-level job in the company. `[例]`
+>   - 中译：她在公司里担任一个相当低级别的职位。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/low-level
 
 ## 主动产出
 

@@ -129,7 +129,11 @@ fit(适合的，健康的) + -ness(名词后缀，表示状态/性质)
 
 > [!example]- 语料
 > - Regular exercise is essential for maintaining physical fitness. `[例]`
+>   - 中译：定期锻炼对保持身体健康至关重要。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/fitness
 > - I'm trying to improve my fitness by cycling to work. `[例]`
+>   - 中译：她每周去三次健身房来保持体能。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fitness
 
 ## 主动产出
 

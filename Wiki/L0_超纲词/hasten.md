@@ -126,7 +126,11 @@ haste(匆忙，快速) + -en(动词后缀，使动化)
 
 > [!example]- 语料
 > - There is little doubt that poor medical treatment hastened her death. `[例]`
+>   - 中译：几乎毫无疑问，糟糕的医疗加速了她的死亡。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hasten
 > - These recent poor results have hastened the manager's departure. `[例]`
+>   - 中译：最近这些糟糕的成绩加速了经理的离职。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/hasten
 
 ## 主动产出
 

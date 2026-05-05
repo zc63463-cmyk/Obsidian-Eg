@@ -125,7 +125,11 @@ ac-(=ad-, 朝向) + [[clim|clin-]](倾斜，趋向) + -ation(名词后缀，表�
 
 > [!example]- 语料
 > - Athletes require a period of acclimation to high-altitude environments before competing in mountainous regions. `[例]`
+>   - 中译：运动员在山区比赛前，需要一段时间来适应高海拔环境。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/acclimation
 > - The plants underwent a gradual acclimation process before being transplanted to the outdoor garden. `[例]`
+>   - 中译：这些植物在移植到室外花园之前，经历了一个渐进的适应过程。
+>   - 来源：Collins | https://www.collinsdictionary.com/dictionary/english/acclimation
 
 ## 主动产出
 

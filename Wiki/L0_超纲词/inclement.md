@@ -120,7 +120,11 @@ in-(不) + clement(仁慈的/温和的，拉丁语 *clemens*)
 
 > [!example]- 语料
 > - The concert in the park was postponed because of the inclement weather. `[例]`
+>   - 中译：公园里的音乐会因恶劣天气而延期。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/inclement
 > - Walkers should be prepared for inclement weather. `[例]`
+>   - 中译：步行者应做好应对恶劣天气的准备。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/inclement
 
 ## 主动产出
 

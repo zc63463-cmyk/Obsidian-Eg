@@ -127,7 +127,11 @@ review_count: 0
 
 > [!example]- 语料
 > - The dove is symbolic of peace. `[例]`
+>   - 中译：白鸽是和平的象征。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/symbolic
 > - The skull at the bottom of the picture is symbolic of death. `[例]`
+>   - 中译：这次握手具有重大的象征意义。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/symbolic
 
 ## 主动产出
 

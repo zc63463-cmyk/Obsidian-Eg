@@ -120,7 +120,11 @@ fritill(=fritillus, 骰子盒，拉丁语) + -ary(与…有关的)
 
 > [!example]- 语料
 > - For the lover of subtle , early greens there is no better plant than the fritillary. `[例]`
+>   - 中译：对于喜欢淡雅早春绿色的爱好者来说，没有比贝母更好的植物了。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fritillary
 > - The beach is seven miles of sand with sea lavender , dark green fritillary butterflies , and peregrine falcons. `[例]`
+>   - 中译：这片海滩绵延七英里的沙滩，生长着海薰衣草，还有暗绿色豹纹蝶和游隼。
+>   - 来源：Collins | https://www.collinsdictionary.com/dictionary/english/fritillary
 
 ## 主动产出
 

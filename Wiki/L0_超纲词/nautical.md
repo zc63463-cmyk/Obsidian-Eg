@@ -123,7 +123,11 @@ review_count: 0
 
 > [!example]- 语料
 > - You're looking very nautical in your navy blue sweater. `[例]`
+>   - 中译：你穿那件藏青色毛衣看起来很有航海风格。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/nautical
 > - The town is proud of its nautical history. `[例]`
+>   - 中译：这个小镇以其航海历史为荣。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/nautical
 
 ## 主动产出
 

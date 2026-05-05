@@ -126,6 +126,8 @@ review_count: 0
 > [!example]- 语料
 > - The company is beginning to attract investors , most notably big Japanese banks. `[例]`
 > - The newspapers are notably biased. `[例]`
+>   - 中译：这些报纸明显有偏见。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/notably
 
 ## 主动产出
 

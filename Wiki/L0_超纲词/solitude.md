@@ -125,7 +125,11 @@ review_count: 0
 
 > [!example]- 语料
 > - After months of solitude at sea it felt strange to be in company. `[例]`
+>   - 中译：她享受在山间小屋中的独处时光。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/solitude
 > - It provides one with a chance to reflect on spiritual matters in solitude. `[例]`
+>   - 中译：长期的孤独让他变得沉默寡言。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/solitude
 
 ## 主动产出
 

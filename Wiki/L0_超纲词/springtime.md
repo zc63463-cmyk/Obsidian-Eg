@@ -121,7 +121,11 @@ spring(春天/弹簧/跳跃) + time(时间)
 
 > [!example]- 语料
 > - In (the) springtime the woods are full of bluebells. `[例]`
+>   - 中译：春天是万物复苏的季节。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/springtime
 > - Springtime is her favorite time of year. `[例]`
+>   - 中译：春天的花园里开满了五颜六色的花朵。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/springtime
 
 ## 主动产出
 

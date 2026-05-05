@@ -124,8 +124,14 @@ in-(向内/加强) + dict(说/宣布，拉丁语 *dicere*) + -ment(名词后缀)
 
 > [!example]- 语料
 > - The grand jury handed down an indictment against the former CEO on charges of fraud. `[例]`
+>   - 中译：大陪审团对前CEO提出欺诈起诉。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/indictment
 > - The report was seen as a damning indictment of the government's failure to address poverty. `[例]`
+>   - 中译：该报告被视为对政府未能解决贫困问题的严厉谴责。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/indictment
 > - He pleaded not guilty after the federal indictment was unsealed in court. `[例]`
+>   - 中译：联邦起诉书在法庭上拆封后，他答辩无罪。
+>   - 来源：Collins | https://www.collinsdictionary.com/dictionary/english/indictment
 
 ## 主动产出
 

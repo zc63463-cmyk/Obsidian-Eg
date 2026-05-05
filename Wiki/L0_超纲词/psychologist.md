@@ -124,7 +124,11 @@ review_count: 0
 
 > [!example]- 语料
 > - She spent 15 years as a clinical psychologist. `[例]`
+>   - 中译：她是一名儿童心理学家。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/psychologist
 > - Research psychologists normalize the results of their studies by comparing their subjects ' behaviour with that of the general public. `[例]`
+>   - 中译：心理学家研究了压力对行为的影响。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/psychologist
 
 ## 主动产出
 

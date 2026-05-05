@@ -124,7 +124,11 @@ review_count: 0
 
 > [!example]- 语料
 > - He himself was tried for sedition and sentenced to ten years in jail. `[例]`
+>   - 中译：他被指控犯有煽动叛乱罪。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sedition
 > - To be charged with sedition. `[例]`
+>   - 中译：政府通过了严厉的法律来打击煽动行为。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/sedition
 
 ## 主动产出
 

@@ -123,7 +123,11 @@ im-(=in-, 加强) + plore(哭泣，拉丁语 *plorare*=哭泣、哀号)
 
 > [!example]- 语料
 > - She implored her parents not to send her away to school. `[例]`
+>   - 中译：她恳求父母不要送她去寄宿学校。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/implore
 > - She clasped her hands , and glancing upward , seemed to implore divine assistance. `[例]`
+>   - 中译：她双手紧握，抬头仰望，似乎在祈求神助。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/implore
 
 ## 主动产出
 

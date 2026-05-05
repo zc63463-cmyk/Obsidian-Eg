@@ -126,7 +126,11 @@ review_count: 0
 
 > [!example]- 语料
 > - It's annoying that we can't travel until Thursday , but the upside is that tickets are cheaper then. `[例]`
+>   - 中译：每个困难都有其积极的一面。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/upside
 > - It’s too bad we can’t go until Thursday , but the upside is that we get to stay through the weekend. `[例]`
+>   - 中译：这项投资的好处是潜在的回报很高。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/upside
 
 ## 主动产出
 

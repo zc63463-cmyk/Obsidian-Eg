@@ -124,7 +124,11 @@ method(方法，希腊语 *methodos* 追求→途径) + -ology(学问/理论)
 
 > [!example]- 语料
 > - The methodology and findings of the research team have been criticized. `[例]`
+>   - 中译：该研究团队的方法论和研究结果受到了批评。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/methodology
 > - Recent changes in the methodology of language teaching. `[例]`
+>   - 中译：语言教学方法论的最新变化。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/methodology
 
 ## 主动产出
 

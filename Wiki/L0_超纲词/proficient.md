@@ -126,7 +126,11 @@ review_count: 0
 
 > [!example]- 语料
 > - She's proficient in two languages. `[例]`
+>   - 中译：她精通三种语言。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/proficient
 > - It takes a couple of years of regular driving before you become proficient at it. `[例]`
+>   - 中译：要成为熟练的钢琴演奏者需要多年的练习。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/proficient
 
 ## 主动产出
 

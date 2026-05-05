@@ -126,7 +126,11 @@ re-(回，向后) + [[strict|stringere]](拉紧，束缚，拉丁语 *stringere*
 
 > [!example]- 语料
 > - He is self-employed because he finds working for other people too restrictive. `[例]`
+>   - 中译：政府实施了严格的移民政策。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/restrictive
 > - The college is not able to expand because of restrictive planning laws. `[例]`
+>   - 中译：合同中的限制性条款限制了公司的灵活性。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/restrictive
 
 ## 主动产出
 

@@ -127,7 +127,11 @@ review_count: 0
 
 > [!example]- 语料
 > - Passing a written test is a prerequisite for taking the advanced course. `[例]`
+>   - 中译：通过这门课程是选修高级课程的先决条件。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/prerequisite
 > - They had to agree to certain conditions as a prerequisite of be ing lent the money. `[例]`
+>   - 中译：经验是这个职位的必要前提。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/prerequisite
 
 ## 主动产出
 

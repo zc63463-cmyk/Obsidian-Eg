@@ -126,7 +126,11 @@ un-(不，否定前缀) + [[prec-pre|preced]](先行/在前面) + -ent(名词/�
 
 > [!example]- 语料
 > - This century has witnessed environmental destruction on an unprecedented scale. `[例]`
+>   - 中译：这场疫情带来了前所未有的挑战。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/unprecedented
 > - She took the unprecedented step of revealing the truth about the situation. `[例]`
+>   - 中译：该国经济以史无前例的速度增长。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/unprecedented
 
 ## 主动产出
 

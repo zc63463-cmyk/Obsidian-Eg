@@ -120,7 +120,11 @@ in-(不) + artic(ulate)(连接/关节→清晰表达)
 
 > [!example]- 语料
 > - She became completely inarticulate with rage and could barely form a sentence. `[例]`
+>   - 中译：她气得完全说不出话来，几乎说不出一个完整的句子。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/inarticulate
 > - The witness gave an inarticulate account of the events that the jury found difficult to follow. `[例]`
+>   - 中译：证人对事件的陈述含糊不清，陪审团觉得难以理解。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/inarticulate
 
 ## 主动产出
 

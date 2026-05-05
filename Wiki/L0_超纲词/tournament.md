@@ -121,7 +121,11 @@ review_count: 0
 
 > [!example]- 语料
 > - They were defeated in the first round of the tournament. `[例]`
+>   - 中译：这支队伍赢得了今年的网球锦标赛冠军。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/tournament
 > - Our ambitions for this tournament have been defeated by the weather. `[例]`
+>   - 中译：这座城市举办了一年一度的国际象棋比赛。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/tournament
 
 ## 主动产出
 

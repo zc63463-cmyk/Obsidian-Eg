@@ -124,6 +124,8 @@ mis-(错误) + [[inter|inter]]-(在……之间) + pret(传递) + -ation(名词�
 > [!example]- 语料
 > - The statement is unclear and open to misinterpretation (= could easily be misinterpreted ). `[例]`
 > - This is a deliberate misinterpretation of events. `[例]`
+>   - 中译：这是对事件的蓄意曲解。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/misinterpretation
 
 ## 主动产出
 

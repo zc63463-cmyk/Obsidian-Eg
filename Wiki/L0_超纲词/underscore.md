@@ -126,7 +126,11 @@ review_count: 0
 
 > [!example]- 语料
 > - The need for fire detectors in cargo bays was underscored by some accidents in the 1980s. `[例]`
+>   - 中译：这一事件再次凸显了安全的重要性。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/underscore
 > - The word ‘not’ was heavily underscored. `[例]`
+>   - 中译：她在关键单词下面画了线以示强调。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/underscore
 
 ## 主动产出
 

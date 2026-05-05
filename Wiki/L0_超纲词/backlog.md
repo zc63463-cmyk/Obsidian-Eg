@@ -131,7 +131,11 @@ back-(后面) + [[log-logy|log]](圆木)
 
 > [!example]- 语料
 > - The pandemic created a massive backlog of surgeries and medical procedures. `[例]`
+>   - 中译：疫情造成了大量积压的手术和医疗程序。
+>   - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/backlog
 > - The company is struggling to cope with a backlog of customer complaints. `[例]`
+>   - 中译：该公司正努力应对大量积压的客户投诉。
+>   - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/backlog
 
 ## 主动产出
 

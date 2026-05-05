@@ -131,7 +131,11 @@ migr(移动/迁移，拉丁语 *migrare*) + -ation(名词后缀，表动作或�
 
 > [!example]- 语料
 > - Christmas Island is known for its annual migration of 50 million bright red land crabs from the forest to the sea. `[例]`
+>   - 中译：圣诞岛以其每年5000万只鲜红色陆地螃蟹从森林迁徙到大海而闻名。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/migration
 > - Some old roads follow the paths of seasonal animal migrations. `[例]`
+>   - 中译：一些旧路沿着季节性动物迁徙的路径延伸。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/migration
 
 ## 主动产出
 

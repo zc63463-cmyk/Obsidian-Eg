@@ -129,7 +129,11 @@ con-(共同/一起) + [[st-sta-stat|stitu-/stit-]](站立/建立) + -tion(名词
 
 > [!example]- 语料
 > - Such a policy would not be constitutional. `[例]`
+>   - 中译：这样的政策将不符合宪法。
+>   - 来源：Collins | https://www.collinsdictionary.com/dictionary/english/constitutional
 > - Freedom of speech should be a constitutional right. `[例]`
+>   - 中译：言论自由应该是一项宪法权利。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/constitutional
 
 ## 主动产出
 

@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**漫步，闲逛**==；②漫谈，东拉西扯；
-**n.** ①==**漫步**==；②漫无边际的谈话；
+**v.** ①==**漫步，闲逛**== `V prep N` `V through N`；②漫谈，东拉西扯 `V on about N` `V`；
+**n.** ①==**漫步**== `a ramble` `go for a ramble`；②漫无边际的谈话 `a rambling N` `a ramble`；
 
 > [!tip] 原型义
 > **原型义**：漫步（没有固定目的地地走）
@@ -127,7 +127,11 @@ review_count: 0
 
 > [!example]- 语料
 > - I love to ramble through the fields and lanes in this part of the country. `[例]`
+>   - 中译：他漫无边际地讲了两个小时。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ramble
 > - Let's go rambling tomorrow. `[例]`
+>   - 中译：我们在乡间小路上悠闲地散步。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/ramble
 
 ## 主动产出
 

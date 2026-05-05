@@ -123,8 +123,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The crime rate has increased alarmingly over the past decade. `[例]`
+>   - 中译：过去十年间，犯罪率增长得令人担忧。
+>   - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/alarmingly
 > - The patient's condition deteriorated alarmingly within hours of admission. `[例]`
+>   - 中译：病人入院后数小时内病情恶化得令人惊恐。
+>   - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/alarmingly
 > - The survey revealed an alarmingly high percentage of young people unable to afford basic housing. `[例]`
+>   - 中译：调查显示，有令人担忧的极高比例的年轻人无力负担基本住房。
+>   - 来源：Collins Dictionary | https://www.collinsdictionary.com/dictionary/english/alarmingly
 
 ## 主动产出
 

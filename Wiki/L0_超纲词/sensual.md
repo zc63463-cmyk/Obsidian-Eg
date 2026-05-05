@@ -124,7 +124,11 @@ review_count: 0
 
 > [!example]- 语料
 > - He is elegant , sensual, conscious of his body. `[例]`
+>   - 中译：这幅画充满了感官上的诱惑力。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sensual
 > - They shared the sensual satisfaction of French food. `[例]`
+>   - 中译：她享受按摩带来的感官愉悦。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/sensual
 
 ## 主动产出
 

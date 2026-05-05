@@ -120,7 +120,11 @@ in-(在) + [[st-sta-stat|st]](站) + -ant(形容词) + -eous(形容词) + -ly(�
 
 > [!example]- 语料
 > - The news spread instantaneously through social media. `[例]`
+>   - 中译：新闻通过社交媒体瞬间传播开来。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/instantaneously
 > - The system is designed to respond instantaneously to user input. `[例]`
+>   - 中译：该系统被设计为能够对用户输入做出即时响应。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/instantaneously
 
 ## 主动产出
 

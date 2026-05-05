@@ -133,7 +133,11 @@ bank(银行，源自古日耳曼语 *bankiz* "长凳/架子") + -ing(名词后�
 
 > [!example]- 语料
 > - The global banking crisis of 2008 exposed fundamental weaknesses in financial regulation. `[例]`
+>   - 中译：2008年的全球银行业危机暴露了金融监管中的根本性弱点。
+>   - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/banking
 > - Mobile banking has transformed the way people in developing countries access financial services. `[例]`
+>   - 中译：移动银行改变了发展中国家人们获取金融服务的方式。
+>   - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/banking
 
 ## 主动产出
 

@@ -124,7 +124,11 @@ review_count: 0
 
 > [!example]- 语料
 > - Some airlines have cancelled less popular routes in an effort to maximize profits. `[例]`
+>   - 中译：一些航空公司取消了不太受欢迎的航线，以努力实现利润最大化。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/maximize
 > - Maximize the window by clicking in the corner. `[例]`
+>   - 中译：点击角落将窗口最大化。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/maximize
 
 ## 主动产出
 

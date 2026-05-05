@@ -127,7 +127,11 @@ chron（时间，希腊语 *khronos*）+ -icle（名词后缀，表示"小事物
 
 > [!example]- 语料
 > - The book chronicles the writer's coming to terms with his illness. `[例]`
-> - This book is the most eloquent chronicle of an empire’s downfall that I have seen. `[例]`
+>   - 中译：这本书记录了作家与自己的疾病达成和解的过程。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/chronicle
+> - This book is the most eloquent chronicle of an empire's downfall that I have seen. `[例]`
+>   - 中译：这本书是我见过的关于一个帝国覆灭的最雄辩的编年记录。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/chronicle
 
 ## 主动产出
 

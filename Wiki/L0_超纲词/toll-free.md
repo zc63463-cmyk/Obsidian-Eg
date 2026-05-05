@@ -120,7 +120,11 @@ toll（通行费，电话费）+ free（免费的）。
 
 > [!example]- 语料
 > - Call us on one of our toll-free numbers. `[例]`
+>   - 中译：你可以拨打免费电话咨询更多信息。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/toll-free
 > - Call toll-free after six in the evening. `[例]`
+>   - 中译：公司提供了一个免费热线来处理客户投诉。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/toll-free
 
 ## 主动产出
 

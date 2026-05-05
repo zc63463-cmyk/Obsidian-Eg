@@ -121,7 +121,11 @@ dismal(中古英语 *dis mal*，不吉利的日子，源自拉丁语 *dies mali*
 
 > [!example]- 语料
 > - The researchers proposed a dismal solution to the problem. `[例]`
+>   - 中译：公司在第一季度公布了令人沮丧的业绩。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/dismal
 > - The company adopted a dismal approach to improve efficiency. `[例]`
+>   - 中译：那是一个阴沉的冬日，天空布满了乌云。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/dismal
 
 ## 主动产出
 

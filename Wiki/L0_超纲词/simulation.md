@@ -126,7 +126,11 @@ review_count: 0
 
 > [!example]- 语料
 > - The manager prepared a computer simulation of likely sales performance for the rest of the year. `[例]`
+>   - 中译：飞行员在模拟器中进行了数百小时的训练。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/simulation
 > - Young should have been booked for simulation, not awarded a penalty. `[例]`
+>   - 中译：计算机模拟显示新政策将有效降低排放。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/simulation
 
 ## 主动产出
 

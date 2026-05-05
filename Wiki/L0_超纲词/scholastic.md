@@ -126,7 +126,11 @@ schol(学校，拉丁语 *schola*，源自希腊语 *skholē* 闲暇/学校) + -
 
 > [!example]- 语料
 > - Laura’s scholastic achievements won her acceptance into Harvard. `[例]`
+>   - 中译：他在学术方面取得了卓越的成就。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/scholastic
 > - A college that gives a higher priority to scholastic endeavors than to athletic pursuits. `[例]`
+>   - 中译：经院哲学在中世纪欧洲思想中占据主导地位。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/scholastic
 
 ## 主动产出
 

@@ -122,7 +122,11 @@ bio-(生命) + [[techn|techn]](技术/技艺)
 
 > [!example]- 语料
 > - The biotech industry has attracted billions of dollars in venture capital funding over the past decade. `[例]`
+>   - 中译：过去十年间，生物技术产业吸引了数十亿美元的风险投资。
+>   - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/biotech
 > - Several biotech startups are racing to develop effective gene therapies for rare genetic disorders. `[例]`
+>   - 中译：几家生物技术初创公司正在竞相开发针对罕见遗传病的高效基因疗法。
+>   - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/biotech
 
 ## 主动产出
 

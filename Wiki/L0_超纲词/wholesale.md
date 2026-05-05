@@ -130,7 +130,11 @@ whole（整个/全部）+ sale（出售），复合词，无拉丁/希腊词根�
 
 > [!example]- 语料
 > - What the system needs is wholesale reform. `[例]`
+>   - 中译：他们以批发价格购买了大批商品。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/wholesale
 > - He raised prices slightly for wholesale and retail. `[例]`
+>   - 中译：政府对教育系统进行了全面改革。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/wholesale
 
 ## 主动产出
 

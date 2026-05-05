@@ -123,7 +123,11 @@ Buddha(佛陀) + -ist(人/形容词后缀)
 
 > [!example]- 语料
 > - The temple attracts thousands of Buddhist pilgrims every year during the festival season. `[例]`
+>   - 中译：这座寺庙每年在节日期间都会吸引成千上万的佛教朝圣者。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/buddhist
 > - Buddhist philosophy emphasizes the importance of mindfulness and compassion in daily life. `[例]`
+>   - 中译：佛教哲学强调正念和慈悲在日常生活中重要性。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/buddhist
 
 ## 主动产出
 

@@ -128,7 +128,11 @@ un-(不，否定前缀) + favor(好感/偏爱) + -able(可被...的)
 
 > [!example]- 语料
 > - The play received generally unfavorable reviews. `[例]`
+>   - 中译：恶劣的天气条件迫使航班取消。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/unfavorable
 > - Unfavorable weather conditions this morning caused a postponement of the launch of the space shuttle. `[例]`
+>   - 中译：公司公布了一份令人不利的财务报告。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/unfavorable
 
 ## 主动产出
 

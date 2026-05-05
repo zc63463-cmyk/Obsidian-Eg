@@ -124,7 +124,11 @@ review_count: 0
 
 > [!example]- 语料
 > - The present tax system penalizes poor people. `[例]`
+>   - 中译：裁判对犯规的球员进行了处罚。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/penalize
 > - The system should ensure that borrowers are not penalized by sudden rises in mortgage rates. `[例]`
+>   - 中译：政府决定对污染企业进行惩罚。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/penalize
 
 ## 主动产出
 

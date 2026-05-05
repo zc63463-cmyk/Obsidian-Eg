@@ -129,7 +129,11 @@ review_count: 0
 
 > [!example]- 语料
 > - She flipped through the magazine while waiting for her appointment. `[例]`
+>   - 中译：他翻动书页，寻找那个章节。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/flip
 > - The politician was accused of flipping on his campaign promises. `[例]`
+>   - 中译：她轻抛硬币来决定谁先走。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/flip
 
 ## 主动产出
 

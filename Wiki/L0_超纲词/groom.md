@@ -128,7 +128,11 @@ review_count: 0
 
 > [!example]- 语料
 > - Polly spends hours in the stables grooming her pony. `[例]`
+>   - 中译：波莉花几个小时在马厩里给她的矮种马梳洗。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/groom
 > - The cat still sat on its wall , grooming itself. `[例]`
+>   - 中译：猫仍然坐在墙上，梳理着自己的毛发。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/groom
 
 ## 主动产出
 

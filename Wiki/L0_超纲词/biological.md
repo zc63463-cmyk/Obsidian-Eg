@@ -126,7 +126,11 @@ bio-(生命) + [[log-logy|log]](学科/说话) + -ical(形容词后缀)
 
 > [!example]- 语料
 > - The rapid loss of biological diversity poses a serious threat to the stability of global ecosystems. `[例]`
+>   - 中译：生物多样性的快速丧失对全球生态系统的稳定构成了严重威胁。
+>   - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/biological
 > - Scientists have discovered that disruptions to the biological clock can significantly affect human health and behavior. `[例]`
+>   - 中译：科学家们发现，生物钟的紊乱会显著影响人类健康和行为。
+>   - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/biological
 
 ## 主动产出
 

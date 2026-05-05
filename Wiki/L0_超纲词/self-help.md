@@ -123,7 +123,11 @@ self(自己) + help(帮助) → 复合词，字面义"自己帮助自己"。
 
 > [!example]- 语料
 > - It is a group providing self-help for single parents. `[例]`
+>   - 中译：自助类书籍一直是畅销书榜单上的常客。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/self-help
 > - Exercise is often recommended as a first line of self-help. `[例]`
+>   - 中译：她通过自助小组克服了酗酒问题。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/self-help
 
 ## 主动产出
 

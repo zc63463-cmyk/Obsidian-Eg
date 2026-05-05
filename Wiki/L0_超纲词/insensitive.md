@@ -126,7 +126,11 @@ in-(不，否定) + [[sens|sens-sent-]](感觉) + -it(动词) + -ive(倾向/性�
 
 > [!example]- 语料
 > - His insensitive comments about her weight deeply hurt her feelings. `[例]`
+>   - 中译：他对她体重的轻率评论深深伤害了她的感情。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/insensitive
 > - The system is insensitive to minor fluctuations in temperature. `[例]`
+>   - 中译：该系统对温度的微小波动不敏感。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/insensitive
 
 ## 主动产出
 

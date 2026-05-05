@@ -130,7 +130,11 @@ review_count: 0
 
 > [!example]- 语料
 > - They haven't produced any credible evidence that he is guilty. `[例]`
+>   - 中译：他们没有提出任何可信的证据证明他有罪。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/credible
 > - The story of what had happened to her was barely (= almost not) credible. `[例]`
+>   - 中译：关于她遭遇的故事几乎令人难以置信。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/credible
 
 ## 主动产出
 

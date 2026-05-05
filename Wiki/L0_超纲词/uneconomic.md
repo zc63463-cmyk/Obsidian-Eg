@@ -126,7 +126,11 @@ un-(不，否定前缀) + eco-(=oikos, 家/经济) + [[nom|nom]](管理/法则) 
 
 > [!example]- 语料
 > - They closed the factory , saying it was uneconomic. `[例]`
+>   - 中译：在当前的市场条件下，继续运营这条航线是不经济的。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/uneconomic
 > - The price of oil dropped so low that it became uneconomic to drill. `[例]`
+>   - 中译：关闭这家工厂是一个不经济但必要的决定。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/uneconomic
 
 ## 主动产出
 

@@ -122,7 +122,11 @@ grand(大的/辈分高的) + -ny(儿语后缀，通过重复词首音节构成)
 
 > [!example]- 语料
 > - Your granny is going to take care of you today. `[例]`
+>   - 中译：你奶奶今天会来照顾你。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/granny
 > - Granny, can I have a drink? `[例]`
+>   - 中译：奶奶，我能喝点东西吗？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/granny
 
 ## 主动产出
 

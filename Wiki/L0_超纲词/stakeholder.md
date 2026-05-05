@@ -124,7 +124,11 @@ stake(赌注/利害关系) + hold(持有) + -er(人)
 
 > [!example]- 语料
 > - Corporate executives need to think about the whole business and how it creates value for customers and stakeholders. `[例]`
+>   - 中译：所有利益相关者都应参与决策过程。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/stakeholder
 > - The bill faces opposition from a number of key stakeholders , including the California Chamber of Commerce. `[例]`
+>   - 中译：公司必须考虑员工、客户和股东等各方的利益。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/stakeholder
 
 ## 主动产出
 

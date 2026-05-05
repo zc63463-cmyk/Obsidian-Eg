@@ -120,7 +120,11 @@ review_count: 0
 
 > [!example]- 语料
 > - Jet fuel prices have spiked from $100 a barrel prewar levels to nearly $200 a barrel, spelling trouble for even the larger carriers. `[例]`
+>   - 中译：这座城市保留了许多战前的建筑。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/prewar
 > - At the same time, India’s total oil imports fell more than 14% from prewar levels. `[例]`
+>   - 中译：战前时期的经济繁荣很快就被战争终结了。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/prewar
 
 ## 主动产出
 

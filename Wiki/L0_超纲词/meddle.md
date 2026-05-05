@@ -122,7 +122,11 @@ review_count: 0
 
 > [!example]- 语料
 > - The government accused the church of meddling in electoral politics. `[例]`
+>   - 中译：政府指责教会干涉选举政治。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/meddle
 > - My sister's always meddling in other people's affairs. `[例]`
+>   - 中译：我姐姐总是干涉别人的私事。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/meddle
 
 ## 主动产出
 

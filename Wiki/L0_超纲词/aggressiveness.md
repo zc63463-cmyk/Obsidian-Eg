@@ -125,8 +125,14 @@ ag-(=ad-, 朝向) + gress(走，步) + -ive(倾向) + -ness(名词后缀)
 
 > [!example]- 语料
 > - Research has shown that childhood aggressiveness can be a predictor of adult behavioral problems. `[例]`
+>   - 中译：研究表明，童年时期的攻击性可能是成年后行为问题的预测指标。
+>   - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/aggressiveness
 > - The company's market aggressiveness allowed it to capture a significant share of the industry within just two years. `[例]`
+>   - 中译：公司的市场进取心使其在短短两年内就夺取了该行业相当大的份额。
+>   - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/aggressiveness
 > - Excessive verbal aggressiveness in the workplace can lead to a toxic organizational culture. `[例]`
+>   - 中译：职场中过度的言语攻击性可能导致有毒的组织文化。
+>   - 来源：Collins Dictionary | https://www.collinsdictionary.com/dictionary/english/aggressiveness
 
 ## 主动产出
 

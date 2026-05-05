@@ -132,7 +132,11 @@ review_count: 0
 
 > [!example]- 语料
 > - Many people said honesty and trustworthiness were the qualities that most influenced how they voted. `[例]`
+>   - 中译：诚实和可信赖是领导者最重要的品质。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/trustworthiness
 > - Those actions have led you to doubt his trustworthiness and integrity. `[例]`
+>   - 中译：这家公司的信誉度在业内首屈一指。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/trustworthiness
 
 ## 主动产出
 

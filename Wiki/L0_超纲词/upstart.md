@@ -126,7 +126,11 @@ review_count: 0
 
 > [!example]- 语料
 > - Larger drug companies are buying up many of the upstart companies. `[例]`
+>   - 中译：这个暴发户公司试图挑战行业巨头。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/upstart
 > - Upstart airlines like Southwest are competing today with the established carriers like Delta. `[例]`
+>   - 中译：老员工们对那个新来的傲慢年轻人很不满。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/upstart
 
 ## 主动产出
 

@@ -129,7 +129,11 @@ break(打破) + through(穿过)
 
 > [!example]- 语料
 > - Scientists announced a major breakthrough in the treatment of Alzheimer's disease after years of clinical trials. `[例]`
+>   - 中译：经过多年的临床试验，科学家宣布在阿尔茨海默病的治疗方面取得了重大突破。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/breakthrough
 > - The peace negotiations reached a breakthrough when both sides agreed on a ceasefire framework. `[例]`
+>   - 中译：当双方就停火框架达成一致时，和平谈判取得了突破。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/breakthrough
 
 ## 主动产出
 

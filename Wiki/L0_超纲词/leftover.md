@@ -126,7 +126,11 @@ left(leave的过去分词，留下) + over(越过/多余)
 
 > [!example]- 语料
 > - We had leftovers from last night's dinner for lunch today. `[例]`
+>   - 中译：我们今天午餐吃了昨晚晚餐的剩菜。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/leftover
 > - The leftover budget was allocated to the education department. `[例]`
+>   - 中译：剩余预算被分配给了教育部门。
+>   - 来源：Collins | https://www.collinsdictionary.com/dictionary/english/leftover
 
 ## 主动产出
 

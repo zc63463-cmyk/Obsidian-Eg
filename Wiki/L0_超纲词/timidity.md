@@ -126,7 +126,11 @@ review_count: 0
 
 > [!example]- 语料
 > - We could not overcome our timidity to say that we loved each other. `[例]`
+>   - 中译：她的胆怯使她不敢在公众面前发言。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/timidity
 > - He said the policy was based on political timidity. `[例]`
+>   - 中译：克服胆怯需要时间和勇气。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/timidity
 
 ## 主动产出
 

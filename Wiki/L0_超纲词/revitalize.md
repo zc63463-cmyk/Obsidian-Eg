@@ -125,7 +125,11 @@ re-(再次，重新) + [[vit|vita]](生命，拉丁语 *vita*) + -al(形容词�
 
 > [!example]- 语料
 > - Japanese investment has revitalized this part of Britain. `[例]`
+>   - 中译：政府计划振兴这座城市的经济。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/revitalize
 > - A variety of policy initiatives have been undertaken aimed at revitalizing the economy. `[例]`
+>   - 中译：新的管理团队使这家濒临倒闭的公司重新焕发了活力。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/revitalize
 
 ## 主动产出
 

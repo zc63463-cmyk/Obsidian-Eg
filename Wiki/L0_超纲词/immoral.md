@@ -122,7 +122,11 @@ im-(=in-, 不) + moral(道德的)
 
 > [!example]- 语料
 > - It is widely considered immoral to deceive others for personal gain. `[例]`
+>   - 中译：为了个人利益欺骗他人被广泛认为是不道德的。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/immoral
 > - The committee condemned the distribution of immoral content on the internet. `[例]`
+>   - 中译：委员会谴责在互联网上传播不道德内容的行为。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/immoral
 
 ## 主动产出
 

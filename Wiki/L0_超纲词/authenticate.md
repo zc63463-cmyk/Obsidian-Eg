@@ -125,7 +125,11 @@ auth(=auto-, 自己，原始的，希腊语 *authentikos*) + ent(存在者) + -i
 
 > [!example]- 语料
 > - Experts were called in to authenticate the painting, which was suspected to be a forgery. `[例]`
+>   - 中译：专家被请来鉴定这幅画，这幅画被怀疑是赝品。
+>   - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/authenticate
 > - Two-factor authentication is widely used to authenticate users' identities online. `[例]`
+>   - 中译：双重身份验证被广泛用于在线验证用户身份。
+>   - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/authenticate
 
 ## 主动产出
 

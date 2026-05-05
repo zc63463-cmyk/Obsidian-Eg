@@ -121,7 +121,11 @@ review_count: 0
 
 > [!example]- 语料
 > - The hikers rested under a towering megalith near the coastal trail. `[例]`
+>   - 中译：徒步旅行者在沿海步道附近的一块高耸巨石下休息。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/megalith
 > - The cabin was built from durable megalith gathered in the region. `[例]`
+>   - 中译：小屋是用该地区采集的坚固巨石建造的。
+>   - 来源：Collins | https://www.collinsdictionary.com/dictionary/english/megalith
 
 ## 主动产出
 

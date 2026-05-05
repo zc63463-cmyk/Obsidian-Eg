@@ -122,7 +122,11 @@ review_count: 0
 
 > [!example]- 语料
 > - The researchers proposed a noteworthy solution to the problem. `[例]`
+>   - 中译：研究人员提出了一个值得注意的解决方案。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/noteworthy
 > - The company adopted a noteworthy approach to improve efficiency. `[例]`
+>   - 中译：公司采用了一种值得注意的方法来提高效率。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/noteworthy
 
 ## 主动产出
 

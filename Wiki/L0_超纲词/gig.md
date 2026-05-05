@@ -137,8 +137,14 @@ gig 为独立词汇，非词根词缀构词。源自20世纪初爵士乐俚语�
 
 > [!example]- 语料
 > - The band played their last gig at the local jazz club before the guitarist moved to New York. `[例]`
+>   - 中译：乐队在当地爵士俱乐部演出了最后一场演出，之后吉他手搬去了纽约。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/gig
 > - She landed a freelance gig as a graphic designer for a tech startup. `[例]`
+>   - 中译：她获得了一份在科技初创公司做平面设计师的自由职业工作。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/gig
 > - Many college students take on gig economy jobs to support themselves during the academic year. `[例]`
+>   - 中译：许多大学生在学年期间从事零工经济的工作来养活自己。
+>   - 来源：Collins | https://www.collinsdictionary.com/dictionary/english/gig
 
 ## 主动产出
 

@@ -124,7 +124,11 @@ review_count: 0
 
 > [!example]- 语料
 > - The ethos of the organization emphasizes collaboration, integrity, and respect for diverse perspectives. `[例]`
+>   - 中译：这所学校的精神强调努力工作和相互尊重。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/ethos
 > - Ancient Greek philosophers believed that a strong personal ethos was essential for living a virtuous life. `[例]`
+>   - 中译：公司的精神文化建立在创新和诚信的基础之上。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ethos
 
 ## 主动产出
 

@@ -122,7 +122,11 @@ skint（源自方言，与 skin"皮肤"相关，意为"被剥去皮的"）
 
 > [!example]- 语料
 > - I get paid each Friday , and by Tuesday I'm always skint. `[例]`
+>   - 中译：我月底总是身无分文。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/skint
 > - It was just after Christmas when everyone is totally skint. `[例]`
+>   - 中译：他花光了所有的钱，现在一贫如洗。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/skint
 
 ## 主动产出
 

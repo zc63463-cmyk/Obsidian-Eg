@@ -121,7 +121,11 @@ review_count: 0
 
 > [!example]- 语料
 > - Supposing (that) you are wrong, what will you do then? `[例]`
+>   - 中译：假如明天下雨，我们怎么办？
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/supposing
 > - But supposing he sees us? `[例]`
+>   - 中译：假设你说的是对的，那我们下一步该怎么做？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/supposing
 
 ## 主动产出
 

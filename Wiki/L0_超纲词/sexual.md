@@ -126,7 +126,11 @@ review_count: 0
 
 > [!example]- 语料
 > - Formal sexual intercourse (= the act of having sex ). `[例]`
+>   - 中译：学校应该提供适当的性教育。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sexual
 > - Sexual orientation (= the fact of someone being sexually attracted to people of a particular gender , or more than one gender ). `[例]`
+>   - 中译：性骚扰在职场中是严格禁止的。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/sexual
 
 ## 主动产出
 

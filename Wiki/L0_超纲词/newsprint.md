@@ -120,6 +120,8 @@ news（新闻）+ print（印刷）
 > [!example]- 语料
 > - There’s an image of New York City, calcified in film, memoir, and newsprint , of a city built on a foundation of scruffy subcultures, especially those communities grounded in the city’s hundreds of distinct diasporas. `[例]`
 > - Glossy paper, newsprint ads, colored paper, and window envelopes have a greater chance of containing toxic chemicals and should be shredded, thrown away, or delivered to a recycling facility. `[例]`
+>   - 中译：光面纸、新闻纸广告、彩色纸和开窗信封含有有毒化学物质的可能性更大，应切碎、丢弃或送至回收设施。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/newsprint
 
 ## 主动产出
 

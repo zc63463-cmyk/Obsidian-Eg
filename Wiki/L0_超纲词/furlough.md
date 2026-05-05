@@ -127,7 +127,11 @@ review_count: 0
 
 > [!example]- 语料
 > - He was an Army Sergeant home on furlough. `[例]`
+>   - 中译：他是一名回家休假的陆军中士。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/furlough
 > - It is a crime for a person who has been given a furlough to fail to return to the jail or prison at the required time. `[例]`
+>   - 中译：获准休假的人未在规定时间返回监狱或看守所是一种犯罪行为。
+>   - 来源：Collins | https://www.collinsdictionary.com/dictionary/english/furlough
 
 ## 主动产出
 

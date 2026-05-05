@@ -128,7 +128,11 @@ grap(=grab/grab, 抓住/钩子，古法语 *grapil*) + -le(反复/工具后缀)
 
 > [!example]- 语料
 > - The children grappled for the ball. `[例]`
+>   - 中译：孩子们争抢着球。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/grapple
 > - He briefly grappled with the police officer. `[例]`
+>   - 中译：他与警察短暂搏斗。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/grapple
 
 ## 主动产出
 

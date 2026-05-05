@@ -127,7 +127,11 @@ shroud（源自古英语 *scrūd*，意为"衣物，遮蔽物"）
 
 > [!example]- 语料
 > - Everything was covered in a thick shroud of dust. `[例]`
+>   - 中译：山顶被浓雾笼罩着。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/shroud
 > - The truth about the accident remains hidden beneath a shroud of secrecy. `[例]`
+>   - 中译：这件事被一层神秘的面纱所笼罩。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/shroud
 
 ## 主动产出
 

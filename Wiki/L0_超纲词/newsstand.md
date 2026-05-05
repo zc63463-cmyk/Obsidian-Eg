@@ -118,8 +118,12 @@ news（新闻/报纸）+ stand（摊位/支架）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The full list can be found in Travel + Leisure’s May 2026 issue, now on newsstands and Apple News+. `[例]`
-> - For more World’s Most Beautiful content, pick up the latest issue of PEOPLE, on newsstands now. `[例]`
+> - The full list can be found in Travel + Leisure's May 2026 issue, now on newsstands and Apple News+. `[例]`
+>   - 中译：完整列表可在《Travel + Leisure》2026年5月刊中找到，现已在报摊和Apple News+上架。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/newsstand
+> - For more World's Most Beautiful content, pick up the latest issue of PEOPLE, on newsstands now. `[例]`
+>   - 中译：更多'世界最美'内容，请购买最新一期《PEOPLE》杂志，现已在报摊发售。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/newsstand
 
 ## 主动产出
 

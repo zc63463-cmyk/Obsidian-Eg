@@ -127,7 +127,11 @@ review_count: 0
 
 > [!example]- 语料
 > - They drank copious amounts of wine. `[例]`
+>   - 中译：他们喝了大量的葡萄酒。
+>   - 来源：Collins | https://www.collinsdictionary.com/dictionary/english/copious
 > - He took copious notes during the lecture. `[例]`
+>   - 中译：他在讲座期间做了大量笔记。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/copious
 
 ## 主动产出
 

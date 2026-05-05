@@ -127,7 +127,11 @@ spike（源自古英语 *spiku*，与 spoke"辐条"同源，意为"尖锐的东�
 
 > [!example]- 语料
 > - There were large spikes on top of the railings to stop people climbing over them. `[例]`
+>   - 中译：油价在去年经历了一次大幅飙升。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/spike
 > - Some types of dinosaur had sharp spikes on their tails. `[例]`
+>   - 中译：犯罪率在夏季出现了急剧上升。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/spike
 
 ## 主动产出
 

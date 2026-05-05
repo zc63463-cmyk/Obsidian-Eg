@@ -124,7 +124,11 @@ im-(=in-, 不) + [[propri|proper]](适当的/自己的) + -ar(形容词后缀)
 
 > [!example]- 语料
 > - It is improper to discuss salary during a job interview. `[例]`
+>   - 中译：在求职面试中讨论薪资是不合适的。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/improper
 > - The report criticized the improper disposal of hazardous waste by the factory. `[例]`
+>   - 中译：报告批评了工厂对危险废物的不当处置。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/improper
 
 ## 主动产出
 

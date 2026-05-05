@@ -123,7 +123,11 @@ in-(不) + com-(一起) + pat(适合/承受，拉丁语 *pati*) + -ible(可…�
 
 > [!example]- 语料
 > - The new software update is incompatible with older versions of the operating system. `[例]`
+>   - 中译：新软件更新与旧版操作系统不兼容。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/incompatible
 > - Their fundamentally incompatible worldviews eventually led to the dissolution of their partnership. `[例]`
+>   - 中译：他们根本不兼容的世界观最终导致了合作的解散。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/incompatible
 
 ## 主动产出
 

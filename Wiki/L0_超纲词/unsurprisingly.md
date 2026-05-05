@@ -124,7 +124,11 @@ un-(不，否定) + [[sur-]](在...之上→surprise 源自古法语 *surprendre
 
 > [!example]- 语料
 > - Perhaps unsurprisingly, the film was not a success. `[例]`
+>   - 中译：不出所料，他再次赢得了比赛。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/unsurprisingly
 > - Room service is impeccable , unsurprisingly. `[例]`
+>   - 中译：不出意外的是，消费者对涨价表示不满。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/unsurprisingly
 
 ## 主动产出
 

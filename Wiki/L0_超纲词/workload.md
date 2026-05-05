@@ -125,7 +125,11 @@ work（工作，古英语 *weorc*）+ load（负荷，装载，古英语 *lād*�
 
 > [!example]- 语料
 > - Teachers are always complaining about their heavy workloads. `[例]`
+>   - 中译：教师的工作量在学期末会大幅增加。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/workload
 > - Students do find that their workload increases throughout the course. `[例]`
+>   - 中译：合理分配工作量有助于提高效率。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/workload
 
 ## 主动产出
 

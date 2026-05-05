@@ -120,7 +120,11 @@ molecul(e)(分子，拉丁语 *moles* 质量/块) + -ar(形容词后缀)
 
 > [!example]- 语料
 > - Scientists can study the three-dimensional molecular structure of the proteins. `[例]`
+>   - 中译：科学家可以研究蛋白质的三维分子结构。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/molecular
 > - Scientists are only now starting to understand the molecular basis for their findings. `[例]`
+>   - 中译：科学家们现在才开始理解其研究结果的分子基础。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/molecular
 
 ## 主动产出
 

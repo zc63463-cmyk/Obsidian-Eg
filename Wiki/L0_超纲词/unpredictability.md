@@ -128,7 +128,11 @@ un-(不，否定前缀) + [[pre-|pre]](前/预先) + [[dict|dict]](说) + -able(
 
 > [!example]- 语料
 > - Probably the only predictable thing about the British weather is its unpredictability. `[例]`
+>   - 中译：天气的不可预测性使得户外活动充满风险。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/unpredictability
 > - His unpredictability is what makes him so difficult to play against. `[例]`
+>   - 中译：市场的不可预测性让投资者感到焦虑。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/unpredictability
 
 ## 主动产出
 

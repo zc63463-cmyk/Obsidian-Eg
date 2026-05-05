@@ -130,7 +130,11 @@ con-(共同/一起) + [[tribut|tribut-]](给予/奉献) + -ory(形容词后缀�
 
 > [!example]- 语料
 > - The company offers a contributory pension plan (= one to which both the employee and employer pay money ). `[例]`
+>   - 中译：公司提供一项分担式养老金计划（即雇员和雇主共同缴费的计划）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/contributory
 > - Too little exercise is a contributory factor in heart disease. `[例]`
+>   - 中译：缺乏运动是心脏病的一个促成因素。
+>   - 来源：Collins | https://www.collinsdictionary.com/dictionary/english/contributory
 
 ## 主动产出
 

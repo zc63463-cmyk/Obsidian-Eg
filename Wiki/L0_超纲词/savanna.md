@@ -121,7 +121,11 @@ review_count: 0
 
 > [!example]- 语料
 > - They are working on ways to conserve the globally rare habitat of oak savanna. `[例]`
+>   - 中译：非洲大草原上生活着大量的野生动物。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/savanna
 > - The bird is rarely seen in many areas because of the destruction of the oak savannas upon which it relies. `[例]`
+>   - 中译：热带稀树草原的生态系统非常脆弱。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/savanna
 
 ## 主动产出
 

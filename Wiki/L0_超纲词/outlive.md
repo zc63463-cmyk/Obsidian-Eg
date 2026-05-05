@@ -121,7 +121,11 @@ out-(超出) + live(活/生存)
 
 > [!example]- 语料
 > - He outlived all of his brothers. `[例]`
+>   - 中译：她比丈夫多活了十年。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/outlive
 > - At 90, I’ve outlived most of my friends. `[例]`
+>   - 中译：这些建筑比建造它们的人更长寿。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/outlive
 
 ## 主动产出
 

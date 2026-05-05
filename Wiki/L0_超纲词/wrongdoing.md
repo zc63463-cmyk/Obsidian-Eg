@@ -127,7 +127,11 @@ wrong（错误的，不正当的，古英语 *wrang*）+ doing（做，古英语
 
 > [!example]- 语料
 > - She has strenuously denied any criminal wrongdoing. `[例]`
+>   - 中译：委员会调查了该公司的不当行为。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/wrongdoing
 > - Investigators found no evidence of wrongdoing. `[例]`
+>   - 中译：任何违法行为都将受到法律的严惩。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/wrongdoing
 
 ## 主动产出
 

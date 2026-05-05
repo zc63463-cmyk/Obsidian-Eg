@@ -126,7 +126,11 @@ review_count: 0
 
 > [!example]- 语料
 > - The children were giggling and nudging each other. `[例]`
+>   - 中译：孩子们咯咯笑着，互相用胳膊肘轻推。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/nudge
 > - He nudged the cat off the sofa so that he could sit down. `[例]`
+>   - 中译：他把猫从沙发上推下去，好让自己坐下。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/nudge
 
 ## 主动产出
 

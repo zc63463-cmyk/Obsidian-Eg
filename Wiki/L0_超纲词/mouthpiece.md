@@ -120,7 +120,11 @@ mouth(嘴) + piece(部件/片)
 
 > [!example]- 语料
 > - This newspaper is just a Republican mouthpiece. `[例]`
+>   - 中译：这家报纸不过是共和党的喉舌。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/mouthpiece
 > - I could see the referee talking into his mouthpiece. `[例]`
+>   - 中译：我看到裁判对着他的对讲机说话。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/mouthpiece
 
 ## 主动产出
 

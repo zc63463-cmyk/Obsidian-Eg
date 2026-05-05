@@ -135,7 +135,11 @@ review_count: 0
 
 > [!example]- 语料
 > - Genetically modified crops have sparked widespread debate about food safety. `[例]`
+>   - 中译：转基因作物引发了关于食品安全的广泛讨论。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/genetically
 > - Identical twins are genetically identical but may develop different traits. `[例]`
+>   - 中译：同卵双胞胎在基因上完全相同，但可能会发展出不同的特征。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/genetically
 
 ## 主动产出
 

@@ -120,7 +120,11 @@ review_count: 0
 
 > [!example]- 语料
 > - He has a very muscular physique. `[例]`
+>   - 中译：他有运动员般的健壮体格。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/physique
 > - Anatoly, with his powerful physique, embodies the strength of an elite weightlifter. `[例]`
+>   - 中译：良好的体格需要坚持锻炼和健康饮食。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/physique
 
 ## 主动产出
 

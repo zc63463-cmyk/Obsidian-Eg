@@ -123,7 +123,11 @@ review_count: 0
 
 > [!example]- 语料
 > - We used the structure of his report as the template for ours. `[例]`
+>   - 中译：你可以使用这个模板来创建简历。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/template
 > - The use of templates is crucial to stone carving. `[例]`
+>   - 中译：设计师制作了一个网站模板供客户使用。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/template
 
 ## 主动产出
 

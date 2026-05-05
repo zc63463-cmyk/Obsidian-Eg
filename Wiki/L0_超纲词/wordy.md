@@ -126,7 +126,11 @@ word（词语，古英语 *word*）+ -y（充满……的，形容词后缀）
 
 > [!example]- 语料
 > - As usual she gave a reply which was wordy and didn't answer the question. `[例]`
+>   - 中译：他的文章过于冗长，需要大幅删减。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/wordy
 > - Your memo is too wordy – make it short and to the point. `[例]`
+>   - 中译：请尽量简洁，避免使用冗长的表达。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/wordy
 
 ## 主动产出
 

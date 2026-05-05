@@ -124,8 +124,14 @@ al-(=ad-, 朝向) + [[leg|lect-leg]](法律，拉丁语 *lex/legis*) + -ation(�
 
 > [!example]- 语料
 > - The company faced allegations of environmental pollution and was forced to investigate. `[例]`
+>   - 中译：该公司面临环境污染的指控，被迫展开调查。
+>   - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/allegation
 > - He strongly denied the allegations of financial misconduct brought against him. `[例]`
+>   - 中译：他强烈否认了针对他的财务不当行为指控。
+>   - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/allegation
 > - The committee investigated allegations that the research data had been fabricated. `[例]`
+>   - 中译：委员会调查了关于研究数据被捏造的指控。
+>   - 来源：Collins Dictionary | https://www.collinsdictionary.com/dictionary/english/allegation
 
 ## 主动产出
 

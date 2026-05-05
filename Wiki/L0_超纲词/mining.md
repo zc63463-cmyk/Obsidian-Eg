@@ -125,6 +125,8 @@ mine(矿/挖掘，古英语 *mīn*) + -ing(名词/动名词后缀)
 
 > [!example]- 语料
 > - Mining" is the discovery of new bitcoins—just like finding gold. `[例]`
+>   - 中译：'挖矿'就是发现新的比特币——就像发现黄金一样。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/mining
 > - You can do mining on your own or join a mining " pool ", where a number of people combine their processing resources and take a share of the rewards. `[例]`
 
 ## 主动产出

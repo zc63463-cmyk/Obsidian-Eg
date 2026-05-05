@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**食言，违约**==；②否认，拒绝承认；
+**v.** ①==**食言，违约**== `V prep N` `V` [正式]；②==**否认，拒绝承认**== `V N` [正式]；
 
 > [!tip] 原型义
 > **原型义**：食言（否认自己的承诺）
@@ -127,7 +127,11 @@ review_count: 0
 
 > [!example]- 语料
 > - If you renege on the deal now, I'll fight you in the courts. `[例]`
+>   - 中译：政府违背了减税的承诺。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/renege
 > - He reneged on his offer. `[例]`
+>   - 中译：他承诺支持该项目，但后来反悔了。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/renege
 
 ## 主动产出
 

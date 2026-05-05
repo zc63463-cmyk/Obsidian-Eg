@@ -117,7 +117,11 @@ review_count: 0
 
 > [!example]- 语料
 > - Her ex-husband sounds like an absolute swine. `[例]`
+>   - 中译：猪流感在人群中迅速传播。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/swine
 > - He can be such a swine sometimes. `[例]`
+>   - 中译：农场里饲养了大量猪只。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/swine
 
 ## 主动产出
 

@@ -123,7 +123,11 @@ broad(宽的) + -en(动词后缀，使……变得)
 
 > [!example]- 语料
 > - Studying abroad can significantly broaden your horizons and deepen your understanding of different cultures. `[例]`
+>   - 中译：出国留学可以显著拓宽你的视野，加深你对不同文化的理解。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/broaden
 > - The university decided to broaden the scope of its research program to include environmental sustainability. `[例]`
+>   - 中译：大学决定扩大其研究项目的范围，将环境可持续性纳入其中。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/broaden
 
 ## 主动产出
 

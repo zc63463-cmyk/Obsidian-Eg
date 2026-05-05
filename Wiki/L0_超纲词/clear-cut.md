@@ -125,7 +125,11 @@ clear（清晰的）+ cut（切，砍）
 
 > [!example]- 语料
 > - She has clear-cut evidence that the company cheated her. `[例]`
+>   - 中译：她有明确的证据证明公司欺骗了她。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/clear-cut
 > - It was a clear-cut case of fraud. `[例]`
+>   - 中译：这是一起明确的欺诈案件。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/clear-cut
 
 ## 主动产出
 

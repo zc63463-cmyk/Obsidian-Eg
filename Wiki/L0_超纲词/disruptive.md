@@ -123,7 +123,11 @@ review_count: 0
 
 > [!example]- 语料
 > - Smartphones have been a disruptive force in the technology industry. `[例]`
+>   - 中译：这项技术对整个行业产生了颠覆性的影响。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/disruptive
 > - The teacher removed the disruptive student from the classroom. `[例]`
+>   - 中译：课堂上捣乱的学生被送到了校长办公室。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/disruptive
 > - Cloud computing is a disruptive technology that has transformed how businesses operate. `[例]`
 
 ## 主动产出

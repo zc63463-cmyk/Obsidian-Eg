@@ -123,8 +123,14 @@ in-(不，否定) + ex-(出) + [[press|press-]](压，挤压) + -ible(可被…�
 
 > [!example]- 语料
 > - She felt an inexpressible sense of relief when she heard the good news. `[例]`
+>   - 中译：听到这个好消息时，她感到一种难以言表的如释重负。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/inexpressible
 > - The beauty of the sunset was inexpressible. `[例]`
+>   - 中译：日落的美丽是无法用言语表达的。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/inexpressible
 > - He looked at her with an inexpressible tenderness that words could not capture. `[例]`
+>   - 中译：他带着一种言语无法捕捉的难以言表的温柔看着她。
+>   - 来源：Collins | https://www.collinsdictionary.com/dictionary/english/inexpressible
 
 ## 主动产出
 

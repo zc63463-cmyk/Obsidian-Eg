@@ -125,7 +125,11 @@ wreak（古英语 *wrecan*，驱使、惩罚、复仇；与 [[wreck]]（残骸�
 
 > [!example]- 语料
 > - The recent storms have wreaked havoc on crops. `[例]`
+>   - 中译：风暴给沿海城市造成了巨大的破坏。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/wreak
 > - She was determined to wreak revenge on both him and his family. `[例]`
+>   - 中译：他的谎言给家庭带来了毁灭性的打击。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/wreak
 
 ## 主动产出
 

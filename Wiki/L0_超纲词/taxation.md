@@ -129,7 +129,11 @@ tax（税）+ -ation（名词后缀，表示动作或状态）。
 
 > [!example]- 语料
 > - The proposals restrict investors ' ability to shelter their assets from taxation. `[例]`
+>   - 中译：政府通过税收来为公共服务提供资金。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/taxation
 > - Reform of the country's taxation system is high on the Government's economic agenda. `[例]`
+>   - 中译：高税率引发了纳税人的不满。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/taxation
 
 ## 主动产出
 

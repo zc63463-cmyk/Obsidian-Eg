@@ -123,7 +123,11 @@ style（风格）+ -ist（从事……的人）
 
 > [!example]- 语料
 > - The latest exciting new car designed by our team of stylists. `[例]`
+>   - 中译：她的私人造型师帮她挑选了参加颁奖典礼的礼服。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/stylist
 > - She needs to fire her stylist - that outfit is awful! `[例]`
+>   - 中译：这位发型师在业界享有很高的声誉。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/stylist
 
 ## 主动产出
 

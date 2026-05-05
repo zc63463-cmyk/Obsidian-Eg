@@ -123,7 +123,11 @@ buzz(嗡嗡声/热议) + word(词)
 
 > [!example]- 语料
 > - Many tech companies throw around buzzwords like "blockchain" and "AI" to attract investors. `[例]`
+>   - 中译：许多科技公司到处抛出"区块链"和"人工智能"之类的流行热词来吸引投资者。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/buzzword
 > - The term "synergy" has become a corporate buzzword that means very little in practice. `[例]`
+>   - 中译："协同效应"一词已成为企业流行语，但在实际中意义甚微。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/buzzword
 
 ## 主动产出
 

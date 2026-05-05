@@ -126,7 +126,11 @@ review_count: 0
 
 > [!example]- 语料
 > - The memory was buried deep within my subconscious. `[例]`
+>   - 中译：潜意识的想法往往会影响我们的行为。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/subconscious
 > - Our subconscious mind registers things which our conscious mind is not aware of. `[例]`
+>   - 中译：恐惧可能源于潜意识中的某种创伤。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/subconscious
 
 ## 主动产出
 

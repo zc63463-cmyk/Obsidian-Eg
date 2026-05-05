@@ -127,7 +127,11 @@ review_count: 0
 
 > [!example]- 语料
 > - Some neck injuries cause total loss of mobility below the point of injury. `[例]`
+>   - 中译：一些颈部损伤会导致损伤部位以下完全丧失活动能力。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/mobility
 > - Once the cast is off, regain mobility by stretching your wrist once or twice a day. `[例]`
+>   - 中译：石膏拆除后，每天拉伸一两次手腕以恢复活动能力。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/mobility
 
 ## 主动产出
 

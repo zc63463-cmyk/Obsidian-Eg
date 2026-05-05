@@ -137,7 +137,11 @@ geo-（地球，来自希腊语 *gē* "地球"）+ graph（写/画/记录，来�
 
 > [!example]- 语料
 > - The geographic distribution of the species is strongly influenced by climate change. `[例]`
+>   - 中译：该物种的地理分布受到气候变化的强烈影响。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/geographic
 > - Geographic barriers such as mountains and rivers have shaped the migration patterns of many animals. `[例]`
+>   - 中译：山脉和河流等地理屏障塑造了许多动物的迁徙模式。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/geographic
 
 ## 主动产出
 

@@ -124,7 +124,11 @@ rubble 为日耳曼语源词汇，可能与 rub（摩擦）有关，无明确前
 
 > [!example]- 语料
 > - The bomb reduced the house to rubble. `[例]`
+>   - 中译：地震后，整座城市变成了一片废墟。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rubble
 > - The bomb reduced the houses to rubble. `[例]`
+>   - 中译：救援人员在瓦砾中搜寻幸存者。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/rubble
 
 ## 主动产出
 

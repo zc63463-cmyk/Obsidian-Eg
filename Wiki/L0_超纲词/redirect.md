@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**使改道，重新定向**==；②转移（注意力、精力等）；③重新寄送；
-**n.** ①改道；重新定向；
+**v.** ①==**使改道，重新定向**== `V N` `V N prep N` [中性/通用]；②==**转移（注意力、精力等）**== `V N prep N` [中性]；③==**重新寄送**== `V N prep N` [中性]；
+**n.** ①==**改道；重新定向**== `N` [中性]；
 
 > [!tip] 原型义
 > **原型义**：重新定向（改变方向）
@@ -129,7 +129,11 @@ review_count: 0
 
 > [!example]- 语料
 > - Resources must be redirected into the many under-funded areas of education. `[例]`
+>   - 中译：政府将资金从军事开支转用于民用项目。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/redirect
 > - Please redirect any mail that arrives for me to my address in Ottawa. `[例]`
+>   - 中译：请将所有投诉转至客户服务部。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/redirect
 
 ## 主动产出
 

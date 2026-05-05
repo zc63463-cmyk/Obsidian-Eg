@@ -128,7 +128,11 @@ en-(使进入/使成为) + [[vis-vid|vis]](看) + -ion(名词后缀，此处作�
 
 > [!example]- 语料
 > - The architects envisioned a modern sustainable city powered entirely by renewable energy. `[例]`
+>   - 中译：创始人设想了一个每个人都能获得清洁饮用水的世界。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/envision
 > - She envisioned herself leading the team to victory after months of rigorous training. `[例]`
+>   - 中译：建筑师构想了一座与自然环境和谐共存的建筑。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/envision
 
 ## 主动产出
 

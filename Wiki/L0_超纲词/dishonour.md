@@ -125,7 +125,11 @@ review_count: 0
 
 > [!example]- 语料
 > - Some of the leaders of the coup took their lives rather than face dishonour. `[例]`
+>   - 中译：一些政变领导人选择了自杀，而不是面对耻辱。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/dishonour
 > - It was no dishonour to be beaten by such a strong opponent. `[例]`
+>   - 中译：输给如此强大的对手并不丢脸。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/dishonour
 
 ## 主动产出
 

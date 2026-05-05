@@ -123,7 +123,11 @@ review_count: 0
 
 > [!example]- 语料
 > - The researchers proposed a perceptive solution to the problem. `[例]`
+>   - 中译：她是一个观察敏锐的评论家。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/perceptive
 > - The company adopted a perceptive approach to improve efficiency. `[例]`
+>   - 中译：他对人性有着敏锐的洞察力。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/perceptive
 
 ## 主动产出
 

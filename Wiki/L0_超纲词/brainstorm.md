@@ -126,7 +126,11 @@ brain(大脑) + storm(风暴)
 
 > [!example]- 语料
 > - The team brainstormed several creative solutions to the supply chain problem during the afternoon session. `[例]`
+>   - 中译：团队在下午的会议上集思广益，想出了几个创造性的供应链问题解决方案。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/brainstorm
 > - We need to brainstorm with the marketing department before finalizing the campaign strategy. `[例]`
+>   - 中译：在最终确定营销活动策略之前，我们需要与市场部门一起头脑风暴。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/brainstorm
 
 ## 主动产出
 

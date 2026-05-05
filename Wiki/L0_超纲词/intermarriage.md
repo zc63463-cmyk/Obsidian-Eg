@@ -123,7 +123,11 @@ review_count: 0
 
 > [!example]- 语料
 > - Intermarriage between different ethnic groups has increased significantly in recent decades. `[例]`
+>   - 中译：近几十年来，不同族群之间的通婚显著增加。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/intermarriage
 > - The intermarriage of royal families was once a common tool for building political alliances. `[例]`
+>   - 中译：王室之间的联姻曾是建立政治联盟的常用手段。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/intermarriage
 
 ## 主动产出
 

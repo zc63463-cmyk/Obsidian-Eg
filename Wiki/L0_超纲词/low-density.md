@@ -129,7 +129,11 @@ low（低的）+ density（密度，来自 dense + -ity）→ **低密度的**
 
 > [!example]- 语料
 > - Low density housing with gardens is by far the best for young families. `[例]`
+>   - 中译：带花园的低密度住宅对年轻家庭来说是最好的选择。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/low-density
 > - A low density substance has a low mass in relation to its size. `[例]`
+>   - 中译：低密度物质的密度相对于其体积而言质量较低。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/low-density
 
 ## 主动产出
 

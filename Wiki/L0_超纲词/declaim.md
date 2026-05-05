@@ -120,7 +120,11 @@ review_count: 0
 
 > [!example]- 语料
 > - The end of the world is at hand !" the poster declaimed. `[例]`
+>   - 中译："世界末日即将来临！"海报上大声宣告着。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/declaim
 > - She declaimed against the evils of capitalism. `[例]`
+>   - 中译：她慷慨陈词，声讨资本主义的罪恶。
+>   - 来源：Collins | https://www.collinsdictionary.com/dictionary/english/declaim
 
 ## 主动产出
 

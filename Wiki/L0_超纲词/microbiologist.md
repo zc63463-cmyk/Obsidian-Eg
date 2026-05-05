@@ -120,6 +120,8 @@ micro-(微小，希腊语 *mikros*) + bio(生命，希腊语 *bios*) + -logist(�
 > [!example]- 语料
 > - The plant is well maintained , with routine monitoring by the hospital's consultant microbiologist. `[例]`
 > - One of Britain's leading microbiologists welcomed the discovery as a possible breakthrough. `[例]`
+>   - 中译：英国一位顶尖微生物学家对这一发现表示欢迎，认为它可能是一个突破。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/microbiologist
 
 ## 主动产出
 

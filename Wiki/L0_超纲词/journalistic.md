@@ -126,7 +126,11 @@ journal(期刊/日报) + -ist(从事者) + -ic(……的)
 
 > [!example]- 语料
 > - The article lacks journalistic integrity and presents biased views. `[例]`
+>   - 中译：这篇文章缺乏新闻操守，呈现的是有偏见的观点。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/journalistic
 > - Journalistic freedom is a cornerstone of democratic societies. `[例]`
+>   - 中译：新闻自由是民主社会的基石。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/journalistic
 
 ## 主动产出
 

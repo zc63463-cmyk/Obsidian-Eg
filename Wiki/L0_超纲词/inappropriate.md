@@ -123,7 +123,11 @@ in-(不) + ap-(=ad-, 向) + [[propri|propri]](自己的/适当) + -ate(形容词
 
 > [!example]- 语料
 > - His comments were deemed highly inappropriate for a professional workplace environment. `[例]`
+>   - 中译：他的评论被认为在专业工作环境中极不合适。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/inappropriate
 > - Wearing casual clothes to a formal ceremony would be considered inappropriate by most standards. `[例]`
+>   - 中译：按照大多数标准，穿便装参加正式仪式会被认为不合适。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/inappropriate
 
 ## 主动产出
 

@@ -125,7 +125,11 @@ review_count: 0
 
 > [!example]- 语料
 > - We each have a separate bedroom but share a communal kitchen. `[例]`
+>   - 中译：我们每人有独立的卧室，但共用一个公共厨房。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/communal
 > - The neighborhood council organized voluntary communal patrols. `[例]`
+>   - 中译：社区委员会组织了志愿性的社区巡逻。
+>   - 来源：Collins | https://www.collinsdictionary.com/dictionary/english/communal
 
 ## 主动产出
 

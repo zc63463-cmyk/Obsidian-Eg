@@ -123,7 +123,11 @@ in-(向内) + [[tend|tend-tens-]](伸展/倾向) + -ly(副词)
 
 > [!example]- 语料
 > - She listened intently to every word the teacher said. `[例]`
+>   - 中译：她全神贯注地听着老师说的每一句话。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/intently
 > - He stared intently at the screen, trying to understand the data. `[例]`
+>   - 中译：他目不转睛地盯着屏幕，试图理解那些数据。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/intently
 
 ## 主动产出
 

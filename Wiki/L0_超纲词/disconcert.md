@@ -122,7 +122,11 @@ review_count: 0
 
 > [!example]- 语料
 > - The whole experience had disconcerted him. `[例]`
+>   - 中译：整个经历使他感到不安。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/disconcert
 > - He was disconcerted by all the attention he was getting. `[例]`
+>   - 中译：他受到的所有关注让他感到不安。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/disconcert
 
 ## 主动产出
 

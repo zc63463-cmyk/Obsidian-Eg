@@ -123,7 +123,11 @@ review_count: 0
 
 > [!example]- 语料
 > - I could hear the sound of a babbling brook. `[例]`
+>   - 中译：我能听到潺潺小溪的声音。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/brook
 > - A brook runs past the house. `[例]`
+>   - 中译：一条小溪从房子旁边流过。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/brook
 
 ## 主动产出
 

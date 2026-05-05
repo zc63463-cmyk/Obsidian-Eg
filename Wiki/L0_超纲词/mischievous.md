@@ -123,7 +123,11 @@ mis-(错误/坏) + chief(首领/伤害→古法语 *meschef* 不幸) + -ous(形�
 
 > [!example]- 语料
 > - She has a mischievous sense of humour. `[例]`
+>   - 中译：她有一种调皮的幽默感。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/mischievous
 > - A book about the mischievous antics of his ten-year-old daughter. `[例]`
+>   - 中译：一本关于他十岁女儿调皮捣蛋故事的书。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/mischievous
 
 ## 主动产出
 

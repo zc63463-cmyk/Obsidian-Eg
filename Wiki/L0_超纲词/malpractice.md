@@ -119,6 +119,8 @@ mal-（坏，不良）+ [[pract-prag|pract]]（实践，执业）+ -ice（名词
 > [!example]- 语料
 > - Scopus itself has all the data necessary to detect this malpractice. `[真题]`
 > - He was sued for medical malpractice. `[例]`
+>   - 中译：他因医疗过失被起诉。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/malpractice
 
 ## 主动产出
 

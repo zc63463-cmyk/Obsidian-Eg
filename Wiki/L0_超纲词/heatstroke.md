@@ -120,7 +120,11 @@ heat(高温) + stroke(打击/发作) → 复合词
 
 > [!example]- 语料
 > - Officials have reported at least one heatstroke death and urged residents to practice heat safety. `[例]`
+>   - 中译：官员报告至少有一例中暑死亡病例，并敦促居民注意防暑安全。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/heatstroke
 > - With temperatures reaching triple digits before spring begins, officials are closing popular routes to prevent heatstroke. `[例]`
+>   - 中译：在春季开始前气温就达到三位数，官员们关闭了热门路线以防止中暑。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/heatstroke
 
 ## 主动产出
 

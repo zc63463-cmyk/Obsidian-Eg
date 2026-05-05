@@ -120,7 +120,11 @@ review_count: 0
 
 > [!example]- 语料
 > - Only about 5 per cent of native prairie is left in Kansas. `[例]`
+>   - 中译：北美大草原上覆盖着高高的草。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/prairie
 > - Millions of buffalo once roamed the prairies. `[例]`
+>   - 中译：曾经广阔的大草原现在大部分已变成了农田。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/prairie
 
 ## 主动产出
 

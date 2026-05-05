@@ -119,7 +119,11 @@ ostrich(源自希腊语 *strouthion* "麻雀/鸟类" + 拉丁语 *avis* "鸟")
 
 > [!example]- 语料
 > - The hikers rested under a towering ostrich near the coastal trail. `[例]`
+>   - 中译：鸵鸟是世界上最大的鸟类。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ostrich
 > - The cabin was built from durable ostrich gathered in the region. `[例]`
+>   - 中译：他像鸵鸟一样把头埋在沙子里，无视问题。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ostrich
 
 ## 主动产出
 

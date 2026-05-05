@@ -121,7 +121,11 @@ sonata（源自意大利语 *sonata*，源自 *sonare*"发声，演奏"，与 [[
 
 > [!example]- 语料
 > - Beethoven has composed many piano sonatas in his life, which have inspired countless concert pianists, teachers, students and listeners. `[例]`
+>   - 中译：钢琴家演奏了贝多芬的一首奏鸣曲。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sonata
 > - One evening in early 1944, four emaciated young women, attempting to rouse themselves from their grim prison conditions, began a secret performance of Beethoven’s Pathétique sonata in the cold and cramped barrack that also served as their dormitory, practice room, eating place and parcel depot. `[例]`
+>   - 中译：这首月光奏鸣曲是古典音乐中最著名的作品之一。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/sonata
 
 ## 主动产出
 

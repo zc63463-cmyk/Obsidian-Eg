@@ -123,7 +123,11 @@ burden(负担) + -some(形容词后缀，有……倾向的)
 
 > [!example]- 语料
 > - The new regulations will be burdensome for small businesses. `[例]`
+>   - 中译：新法规对小企业来说将是沉重的负担。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/burdensome
 > - The responsibility has become burdensome. `[例]`
+>   - 中译：这份责任已经变得难以承受。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/burdensome
 
 ## 主动产出
 

@@ -119,7 +119,11 @@ over-(在上面/超越) + rule(裁决/统治)
 
 > [!example]- 语料
 > - In tennis , the umpire can overrule the line judge. `[例]`
+>   - 中译：法官推翻了下级法院的裁决。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/overrule
 > - The judge was constantly overruling the objections of the prosecution. `[例]`
+>   - 中译：委员会否决了他的提议。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/overrule
 
 ## 主动产出
 

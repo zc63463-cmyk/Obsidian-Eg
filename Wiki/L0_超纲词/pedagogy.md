@@ -124,7 +124,11 @@ review_count: 0
 
 > [!example]- 语料
 > - Some of the presentations, a few too many for comfort, lapsed into the familiar contortions of modern pedagogy. `[例]`
+>   - 中译：现代教育学强调以学生为中心的学习方法。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pedagogy
 > - The idea that pedagogy should be judged according to race is absurd on its face, but the fact that they saw their relationship with me and with the school itself in those terms should have given me greater pause than it did. `[例]`
+>   - 中译：她在教育学方面有着深入的研究。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/pedagogy
 
 ## 主动产出
 

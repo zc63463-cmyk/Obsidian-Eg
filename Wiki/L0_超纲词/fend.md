@@ -128,7 +128,11 @@ fend 是 defend（防御）的缩写形式，defend 源自 [[de|de]]-(离开) + 
 
 > [!example]- 语料
 > - Children left to fend for themselves often develop remarkable resilience. `[例]`
+>   - 中译：她不得不独自谋生。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/fend
 > - She had to fend off numerous questions from reporters. `[例]`
+>   - 中译：他用雨伞挡住了飞来的碎片。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fend
 
 ## 主动产出
 

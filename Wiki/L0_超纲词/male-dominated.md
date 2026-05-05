@@ -116,7 +116,11 @@ male（男性）+ dominat(e)（支配）+ -ed（形容词后缀，表状态）
 
 > [!example]- 语料
 > - The researchers proposed a male dominated solution to the problem. `[例]`
+>   - 中译：研究人员提出了一个男性主导的解决方案。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/male-dominated
 > - The company adopted a male dominated approach to improve efficiency. `[例]`
+>   - 中译：公司采用了一种男性主导的方法来提高效率。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/male-dominated
 
 ## 主动产出
 

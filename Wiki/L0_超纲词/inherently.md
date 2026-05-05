@@ -124,7 +124,11 @@ in-(在内部) + her(粘附，拉丁语 *haerere*) + -ent(形容词) + -ly(副�
 
 > [!example]- 语料
 > - The two systems are inherently different in their approach to education. `[例]`
+>   - 中译：这两种系统在教育方法上本质上就不同。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/inherently
 > - Nuclear power is inherently dangerous if not properly managed. `[例]`
+>   - 中译：如果管理不当，核能本质上就是危险的。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/inherently
 
 ## 主动产出
 

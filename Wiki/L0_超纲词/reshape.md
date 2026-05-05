@@ -125,7 +125,11 @@ re-(再次，重新) + [[form|shape]](形状，形态)
 
 > [!example]- 语料
 > - Baby boomers continue to reshape society as they age. `[例]`
+>   - 中译：新技术正在重塑我们的工作方式。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/reshape
 > - Governments have sought to reduce or reshape health programs. `[例]`
+>   - 中译：她用双手将黏土塑成一只碗的形状。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/reshape
 
 ## 主动产出
 

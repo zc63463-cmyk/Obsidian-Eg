@@ -124,8 +124,14 @@ in-(不) + dif-(=dis-, 分开) + [[fer|fer]](承受/感受，拉丁语 *ferre*) 
 
 > [!example]- 语料
 > - The public indifference to environmental issues is alarming. `[例]`
+>   - 中译：公众对环境问题的漠不关心令人担忧。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/indifference
 > - She viewed his departure with complete indifference, as if nothing had changed. `[例]`
+>   - 中译：她对他的离开表现得完全无动于衷，仿佛什么都没改变。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/indifference
 > - Whether we meet on Monday or Tuesday is a matter of indifference to me. `[例]`
+>   - 中译：我们周一还是周二见面对我来说无所谓。
+>   - 来源：Collins | https://www.collinsdictionary.com/dictionary/english/indifference
 
 ## 主动产出
 

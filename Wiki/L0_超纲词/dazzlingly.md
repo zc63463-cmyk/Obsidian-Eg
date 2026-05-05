@@ -118,7 +118,11 @@ dazzle(使目眩) + -ing(形容词后缀) + -ly(副词后缀)
 
 > [!example]- 语料
 > - By about ten in the morning the sun was already dazzlingly bright. `[例]`
+>   - 中译：到上午十点左右，阳光已经耀眼地明亮。
+>   - 来源：Collins | https://www.collinsdictionary.com/dictionary/english/dazzlingly
 > - Her short tennis dress and socks looked dazzlingly white against her brown legs. `[例]`
+>   - 中译：她的短网球裙和袜子在她棕色的皮肤衬托下显得白得耀眼。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/dazzlingly
 
 ## 主动产出
 

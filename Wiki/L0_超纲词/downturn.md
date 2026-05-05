@@ -122,7 +122,11 @@ down-(向下) + turn(转向) → 向下转 → 衰退
 
 > [!example]- 语料
 > - Many businesses struggled to survive the economic downturn. `[例]`
+>   - 中译：经济衰退导致失业率急剧上升。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/downturn
 > - The housing market downturn led to a sharp decline in property prices. `[例]`
+>   - 中译：旅游业在经历了一次严重下滑后正在缓慢恢复。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/downturn
 > - Small businesses are particularly vulnerable during a market downturn. `[例]`
 
 ## 主动产出

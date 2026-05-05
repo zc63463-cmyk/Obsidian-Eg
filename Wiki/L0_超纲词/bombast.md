@@ -123,7 +123,11 @@ review_count: 0
 
 > [!example]- 语料
 > - The senator's speech was full of empty bombast that offered no real solutions to the crisis. `[例]`
+>   - 中译：这位参议员的演讲充满了空洞的大话，没有为这场危机提供任何真正的解决方案。
+>   - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/bombast
 > - Critics dismissed the novel as literary bombast, noting that its elaborate prose masked a thin plot. `[例]`
+>   - 中译：评论家们将这部小说斥为文学上的浮夸之作，指出其华丽的散文掩盖了单薄的情节。
+>   - 来源：Collins Dictionary | https://www.collinsdictionary.com/dictionary/english/bombast
 
 ## 主动产出
 

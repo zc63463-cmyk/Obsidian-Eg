@@ -124,7 +124,11 @@ in-(进入) + nov(新的，拉丁语 *novus*) + -at(动词) + -ive(倾向/性质
 
 > [!example]- 语料
 > - The company is known for its innovative approach to product design. `[例]`
+>   - 中译：该公司以其创新的产品设计方法而闻名。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/innovative
 > - Innovative technologies have transformed the way we communicate. `[例]`
+>   - 中译：创新技术已经改变了我们的沟通方式。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/innovative
 
 ## 主动产出
 

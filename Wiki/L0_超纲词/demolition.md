@@ -122,7 +122,11 @@ review_count: 0
 
 > [!example]- 语料
 > - The demolition of dangerous buildings. `[例]`
+>   - 中译：拆除危险建筑物。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/demolition
 > - The demolition of the stadium is already underway. `[例]`
+>   - 中译：体育场的拆除工作已经在进行中。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/demolition
 
 ## 主动产出
 

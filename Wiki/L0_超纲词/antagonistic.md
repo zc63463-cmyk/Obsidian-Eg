@@ -125,7 +125,11 @@ anti-(反对，对抗) + agon(竞争，斗争，希腊语 *agon*) + -ist(人) + 
 
 > [!example]- 语料
 > - The two political parties have maintained an antagonistic relationship for decades. `[例]`
+>   - 中译：这两个政党几十年来一直保持着对立的关系。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/antagonistic
 > - The manager's antagonistic attitude toward new ideas stifled innovation in the team. `[例]`
+>   - 中译：经理对新想法的敌对态度扼杀了团队的创新。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/antagonistic
 
 ## 主动产出
 

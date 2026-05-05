@@ -120,7 +120,11 @@ over-(过度) + -ly(副词后缀)
 
 > [!example]- 语料
 > - Earlier sales forecasts were overly optimistic. `[例]`
+>   - 中译：她过于担心考试的结果。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/overly
 > - His films have been criticized for being overly violent. `[例]`
+>   - 中译：不要过于依赖他人的意见。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/overly
 
 ## 主动产出
 

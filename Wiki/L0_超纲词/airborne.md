@@ -125,8 +125,14 @@ air(空气) + borne(bear 的过去分词，被承载)
 
 > [!example]- 语料
 > - Airborne transmission of the virus made containment measures more challenging. `[例]`
+>   - 中译：该病毒的空气传播使防控措施更具挑战性。
+>   - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/airborne
 > - The plane became airborne ten minutes after takeoff. `[例]`
+>   - 中译：飞机起飞十分钟后升空。
+>   - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/airborne
 > - Airborne troops were deployed behind enemy lines during the military operation. `[例]`
+>   - 中译：在军事行动中，空降部队被部署到敌后。
+>   - 来源：Collins Dictionary | https://www.collinsdictionary.com/dictionary/english/airborne
 
 ## 主动产出
 

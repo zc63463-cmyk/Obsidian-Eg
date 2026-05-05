@@ -120,7 +120,11 @@ down-(向下/停止) + time(时间) → 停止的时间 → 停机时间
 
 > [!example]- 语料
 > - The website experienced significant downtime during the upgrade. `[例]`
+>   - 中译：服务器故障导致了三个小时的停机时间。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/downtime
 > - Many companies use scheduled downtime to perform system maintenance. `[例]`
+>   - 中译：工人们利用休息时间喝咖啡聊天。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/downtime
 > - She used the downtime between projects to learn a new programming language. `[例]`
 
 ## 主动产出
