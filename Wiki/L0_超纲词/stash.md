@@ -124,11 +124,11 @@ review_count: 0
 
 > [!example]- 语料
 > - The stolen pictures were stashed (away) in a warehouse. `[例]`
->   - 中译：他在衣柜里藏了一笔秘密现金。
+>   - 中译：被盗的画作被藏匿在一个仓库里。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/stash
 > - He needed a place to stash some cash. `[例]`
->   - 中译：警察发现了罪犯藏匿的大量毒品。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/stash
+>   - 中译：他需要一个地方来藏一些现金。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/stash
 
 ## 主动产出
 

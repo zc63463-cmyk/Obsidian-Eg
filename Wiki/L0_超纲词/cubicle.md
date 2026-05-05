@@ -127,11 +127,11 @@ review_count: 0
 
 > [!example]- 语料
 > - I was getting undressed in one of the cubicles. `[例]`
->   - 中译：我正在其中一个隔间里换衣服。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/cubicle
+>   - 中译：她用照片和植物装饰了自己的工位，让它更有家的感觉。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/cubicle
 > - Rather than preside from an office , she sits in a cubicle among her employees. `[例]`
->   - 中译：她没有在办公室主持工作，而是坐在员工中间的一个隔间里。
->   - 来源：Collins | https://www.collinsdictionary.com/dictionary/english/cubicle
+>   - 中译：开放式办公室取代了独立工位，以鼓励更多的协作。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/cubicle
 
 ## 主动产出
 

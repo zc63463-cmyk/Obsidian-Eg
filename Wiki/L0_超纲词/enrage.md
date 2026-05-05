@@ -123,10 +123,10 @@ en-(使进入/使成为) + rage(愤怒，狂怒)
 
 > [!example]- 语料
 > - The government's decision to raise taxes again enraged the entire nation. `[例]`
->   - 中译：他的傲慢态度激怒了在场的每一个人。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/enrage
+>   - 中译：政府再次决定加税，激怒了全国民众。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/enrage
 > - He was enraged by the customer's rude and insulting behavior. `[例]`
->   - 中译：不公正的判决令公众愤怒不已。
+>   - 中译：顾客粗鲁无礼的行为让他怒不可遏。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/enrage
 
 ## 主动产出

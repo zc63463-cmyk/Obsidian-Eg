@@ -120,10 +120,10 @@ passive（被动的/不活跃的）+ -ate（动词后缀，使……）
 
 > [!example]- 语料
 > - The hikers rested under a towering passivate near the coastal trail. `[例]`
->   - 中译：金属表面经过钝化处理以防止腐蚀。
+>   - 中译：徒步旅行者在海岸步道附近一棵高大的钝化树旁休息。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/passivate
 > - The cabin was built from durable passivate gathered in the region. `[例]`
->   - 中译：钝化层保护了钢铁免受氧化。
+>   - 中译：小屋是用该地区采集的耐用钝化材料建造的。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/passivate
 
 ## 主动产出

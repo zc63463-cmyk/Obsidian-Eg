@@ -130,11 +130,11 @@ review_count: 0
 
 > [!example]- 语料
 > - The programme will take a detailed and provocative look at the problem of homelessness. `[例]`
->   - 中译：她穿了一件引人注目的裙子。
+>   - 中译：该节目将对无家可归问题进行深入而引人深思的探讨。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/provocative
 > - In a deliberately provocative speech , she criticized the whole system of government. `[例]`
->   - 中译：他的挑衅性言论引发了争议。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/provocative
+>   - 中译：在一场刻意挑衔的演讲中，她批评了整个政府体制。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/provocative
 
 ## 主动产出
 

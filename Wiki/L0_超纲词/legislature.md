@@ -124,8 +124,8 @@ review_count: 0
 
 > [!example]- 语料
 > - The state legislature voted to approve the new environmental regulations. `[例]`
->   - 中译：州立法机关投票批准了新的环境法规。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/legislature
+>   - 中译：州立法机关投票批准了新的环保法规。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/legislature
 > - The legislature has the power to create, amend, and repeal laws. `[例]`
 >   - 中译：立法机关有权制定、修改和废除法律。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/legislature

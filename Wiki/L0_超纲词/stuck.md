@@ -125,11 +125,11 @@ stick（粘住）的过去分词形式 stuck
 
 > [!example]- 语料
 > - This door seems to be stuck - can you help me push it open? `[例]`
->   - 中译：我的车陷在泥里了，动弹不得。
+>   - 中译：这扇门好像卡住了——你能帮我推开吗？
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/stuck
 > - Seven of us were stuck in the lift for over an hour. `[例]`
->   - 中译：我困在了一个无法解决的难题中。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/stuck
+>   - 中译：我们七个人被困在电梯里一个多小时。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/stuck
 
 ## 主动产出
 

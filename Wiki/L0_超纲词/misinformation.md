@@ -123,10 +123,10 @@ mis-(错误) + in-(进入) + [[form|form]](形状/形式) + -ation(名词后缀)
 
 > [!example]- 语料
 > - There's a lot of misinformation about the disease that needs to be corrected. `[例]`
->   - 中译：关于这种疾病有很多需要纠正的虚假信息。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/misinformation
+>   - 中译：关于这种疾病有很多需要纠正的错误信息。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/misinformation
 > - There has been a deliberate campaign to spread misinformation and confusion. `[例]`
->   - 中译：一直有一场蓄意传播虚假信息和制造混乱的运动。
+>   - 中译：一直存在一场蓄意散布虚假信息和制造混乱的活动。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/misinformation
 
 ## 主动产出

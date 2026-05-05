@@ -126,8 +126,8 @@ ap-(=ad-, 向，加强) + pease(=peace, 和平)
 >   - 中译：什么也无法安抚这个哭泣的孩子。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/appease
 > - He was a crucial ally who the country needed to appease. `[例]`
->   - 中译：他是一个至关重要的盟友，该国需要安抚他。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/appease
+>   - 中译：他是一位关键盟友，国家需要安抚他。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/appease
 
 ## 主动产出
 

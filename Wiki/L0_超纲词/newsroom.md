@@ -121,10 +121,10 @@ news（新闻）+ room（房间）
 
 > [!example]- 语料
 > - The newsroom just received a press release. `[例]`
->   - 中译：新闻编辑室刚刚收到一份新闻稿。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/newsroom
+>   - 中译：新闻编辑部刚收到一份新闻稿。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/newsroom
 > - That duplication has raised concerns about staff consolidations and widespread newsroom layoffs. `[例]`
->   - 中译：这种重复引发了人们对员工合并和大规模新闻编辑室裁员的担忧。
+>   - 中译：这种重复引发了人们对员工合并和新闻编辑部大规模裁员的担忧。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/newsroom
 
 ## 主动产出

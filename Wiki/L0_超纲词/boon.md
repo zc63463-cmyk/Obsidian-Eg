@@ -125,10 +125,10 @@ review_count: 0
 
 > [!example]- 语料
 > - The internet has proved a tremendous boon to education in rural areas. `[例]`
->   - 中译：事实证明，互联网对农村地区的教育是一项巨大的福音。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/boon
+>   - 中译：新公路对当地企业来说是一大福音，吸引了更多游客前来。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/boon
 > - This new software is a boon to small businesses that cannot afford expensive accounting systems. `[例]`
->   - 中译：这款新软件对负担不起昂贵会计系统的小企业来说是一大福音。
+>   - 中译：互联网的发明对全世界的研究人员来说是一大福音。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/boon
 
 ## 主动产出

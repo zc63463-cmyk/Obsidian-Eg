@@ -120,8 +120,8 @@ review_count: 0
 
 > [!example]- 语料
 > - A goal just before half-time rescued the match from mediocrity. `[例]`
->   - 中译：半场结束前的一个进球使这场比赛免于平庸。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/mediocrity
+>   - 中译：半场前的一个进球将比赛从平庸中拯救了出来。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/mediocrity
 > - His acting career started brilliantly, then sank into mediocrity. `[例]`
 >   - 中译：他的演艺生涯起步辉煌，随后却陷入了平庸。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/mediocrity

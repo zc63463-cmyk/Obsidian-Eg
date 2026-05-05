@@ -124,11 +124,11 @@ mut(变化，拉丁语 *mutare*) + -abil(可被) + -ity(名词后缀)
 
 > [!example]- 语料
 > - He is interested in the mutability of identity , the way people can slip in and out of personas to fit the occasion. `[例]`
->   - 中译：他对身份的可变性感兴趣，即人们如何根据场合在不同人格之间切换。
+>   - 中译：他对身份的可变性很感兴趣，即人们如何根据场合在不同人格之间切换。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/mutability
 > - The social institution is not fixed , but has a degree of mutability. `[例]`
->   - 中译：社会制度不是固定不变的，而是具有一定程度的可变性。
->   - 来源：Collins | https://www.collinsdictionary.com/dictionary/english/mutability
+>   - 中译：社会制度并非固定不变，而是具有一定程度的可变性。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/mutability
 
 ## 主动产出
 

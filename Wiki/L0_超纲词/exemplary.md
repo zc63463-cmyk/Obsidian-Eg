@@ -124,10 +124,10 @@ ex-(出来) + [[empl|empl]](拿/取) + -ary(形容词后缀)
 
 > [!example]- 语料
 > - Her exemplary dedication to teaching earned her the highest award from the national education board. `[例]`
->   - 中译：她因模范行为而获得了学校的最高荣誉。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/exemplary
+>   - 中译：她对教学的模范奉献精神为她赢得了国家教育委员会的最高奖项。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/exemplary
 > - The court awarded exemplary damages to punish the defendant for his deliberate misconduct. `[例]`
->   - 中译：这本书是该领域研究的典范之作。
+>   - 中译：法院判予惩罚性赔偿，以惩罚被告的蓄意不当行为。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/exemplary
 
 ## 主动产出

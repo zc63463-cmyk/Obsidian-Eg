@@ -123,7 +123,7 @@ review_count: 0
 > [!example]- 语料
 > - Some people suffered severe neural damage as a result of the disease. `[例]`
 >   - 中译：一些人因这种疾病遭受了严重的神经损伤。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/neural
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/neural
 > - Damage to neural pathways can result in loss of motor function. `[例]`
 >   - 中译：神经通路的损伤可能导致运动功能丧失。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/neural

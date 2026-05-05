@@ -123,10 +123,10 @@ review_count: 0
 
 > [!example]- 语料
 > - He will oppose a gross disparity in salary increases between teachers and other state employees. `[例]`
->   - 中译：富人与穷人之间的差距正在扩大。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/disparity
+>   - 中译：他将反对教师与其他州政府雇员之间加薪幅度的巨大差距。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/disparity
 > - Manhattan had the greatest income disparity between rich and poor residents outside Puerto Rico. `[例]`
->   - 中译：这项研究揭示了不同地区之间健康结果的显著差异。
+>   - 中译：除波多黎各外，曼哈顿是贫富居民之间收入差距最大的地区。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/disparity
 
 ## 主动产出

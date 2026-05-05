@@ -123,13 +123,13 @@ in-(不) + [[de|de]]-(向下/完全) + [[fin|fin]](界限/结束，拉丁语 *fi
 > [!example]- 语料
 > - The government decided to postpone the election indefinitely due to the ongoing security crisis. `[例]`
 >   - 中译：由于持续的安全危机，政府决定无限期推迟选举。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/indefinitely
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/indefinitely
 > - The athlete was suspended indefinitely from competition pending further investigation. `[例]`
->   - 中译：该运动员在进一步调查期间被无限期暂停参赛。
+>   - 中译：该运动员被无限期暂停参赛，等待进一步调查。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/indefinitely
 > - The lease agreement was extended indefinitely with the consent of both parties. `[例]`
->   - 中译：租赁协议经双方同意被无限期延长。
->   - 来源：Collins | https://www.collinsdictionary.com/dictionary/english/indefinitely
+>   - 中译：经双方同意，租赁协议被无限期延长。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/indefinitely
 
 ## 主动产出
 

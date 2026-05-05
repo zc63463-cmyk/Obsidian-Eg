@@ -122,11 +122,11 @@ review_count: 0
 
 > [!example]- 语料
 > - The researchers proposed a persuasive solution to the problem. `[例]`
->   - 中译：他发表了一篇有说服力的演讲。
+>   - 中译：研究人员提出了一个有说服力的解决方案。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/persuasive
 > - The company adopted a persuasive approach to improve efficiency. `[例]`
->   - 中译：她的论点非常有说服力。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/persuasive
+>   - 中译：公司采用了一种有说服力的方法来提高效率。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/persuasive
 
 ## 主动产出
 

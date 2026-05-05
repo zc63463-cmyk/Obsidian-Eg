@@ -124,11 +124,11 @@ review_count: 0
 
 > [!example]- 语料
 > - Ralph Waldo Emerson was the leading figure of the Transcendentalist movement in America. `[例]`
->   - 中译：梭罗是最著名的超验主义者之一。
+>   - 中译：拉尔夫·沃尔多·爱默生是美国超验主义运动的领军人物。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/transcendentalist
 > - Transcendentalists believed in the inherent goodness of people and nature. `[例]`
->   - 中译：超验主义运动强调个人直觉和与自然的联系。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/transcendentalist
+>   - 中译：超验主义者相信人与自然的内在善良。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/transcendentalist
 
 ## 主动产出
 

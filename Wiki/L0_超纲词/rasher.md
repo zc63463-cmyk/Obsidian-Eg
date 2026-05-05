@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**一片（培根/火腿）**== `a rasher of N` `N rashers of N`；
+**n.** ①==**一片（培根/火腿）**==；
 
 > [!tip] 原型义
 > **原型义**：一片薄片（切下来的薄片）
@@ -117,10 +117,10 @@ review_count: 0
 
 > [!example]- 语料
 > - Some British breakfasts wouldn’t be complete without rashers — slices of bacon cut from the pork loin. `[例]`
->   - 中译：他要了一份双片培根当早餐。
+>   - 中译：有些英式早餐如果没有培根片就不完整——从猪腰肉切下来的薄片培根。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rasher
 > - This spacious pan can easily cook several rashers of bacon and fry up multiple eggs all at once. `[例]`
->   - 中译：菜单上有烟熏培肉片。
+>   - 中译：这个宽敞的平底锅可以轻松煎好几片培根，还能同时煎好几个鸡蛋。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rasher
 
 ## 主动产出

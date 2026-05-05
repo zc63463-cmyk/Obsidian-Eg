@@ -123,11 +123,11 @@ ex-(出来/向外) + [[plic-plex|plic]](折叠) + -at-(动词后缀) + -ory(形�
 
 > [!example]- 语料
 > - The author provided explicatory notes at the end of each chapter to clarify complex theoretical concepts. `[例]`
->   - 中译：作者在附录中添加了解释性的注释。
+>   - 中译：作者在每章末尾提供了注释，以阐明复杂的理论概念。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/explicatory
 > - The professor's explicatory approach made the difficult philosophical text accessible to first-year students. `[例]`
->   - 中译：教师使用了解释性的方法来帮助学生理解复杂的概念。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/explicatory
+>   - 中译：教授的讲解方式使这篇晦涩的哲学文本变得对大一学生也能理解。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/explicatory
 
 ## 主动产出
 

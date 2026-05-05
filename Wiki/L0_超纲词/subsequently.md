@@ -121,11 +121,11 @@ review_count: 0
 
 > [!example]- 语料
 > - In 1982 he was arrested and subsequently convicted on drug trafficking charges. `[例]`
->   - 中译：他先去了伦敦，随后又前往巴黎。
+>   - 中译：1982年他被逮捕，随后因贩毒罪名被定罪。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/subsequently
 > - He was badly injured in the crash and subsequently died. `[例]`
->   - 中译：该公司随后发布了道歉声明。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/subsequently
+>   - 中译：他在坠机事故中受重伤，随后不治身亡。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/subsequently
 
 ## 主动产出
 

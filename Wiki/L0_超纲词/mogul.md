@@ -121,9 +121,11 @@ review_count: 0
 
 > [!example]- 语料
 > - I don't believe that the legal protection would have happened in the timeframe that it did without those images, " says Hansen, journalist and author of Prophets and Moguls, Rangers and Rogues, Bison and Bears: 100 Years of the National Park Service. `[真题]`
+>   - 中译：世界上最大的媒体大亨之一受到了经济危机的特别严重打击。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/mogul
 > - One of the world's biggest media moguls has been hit especially hard by the economic crisis. `[例]`
 >   - 中译：世界上最大的媒体大亨之一受到了经济危机的特别严重打击。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/mogul
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/mogul
 
 ## 主动产出
 

@@ -122,11 +122,11 @@ real（真实的，指 real estate 不动产）+ -tor（名词后缀，表人）
 
 > [!example]- 语料
 > - The conference attracted more than 400 local architects , developers , and Realtors. `[例]`
->   - 中译：这次会议吸引了400多位当地建筑师、开发商和房地产经纪人。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/realtor
+>   - 中译：这次会议吸引了400多名本地建筑师、开发商和房地产经纪人。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/realtor
 > - However, short-term rentals also provide housing for tourists, pointed out Ryan Castle, CEO of a local association of realtor. `[真题]`
->   - 中译：然而，短期租赁也为游客提供了住房，当地房地产经纪人协会首席执行官Ryan Castle指出。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/realtor
+>   - 中译：然而，短期租赁也为游客提供了住房，当地房地产经纪人协会CEO瑞安·卡斯尔指出。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/realtor
 
 ## 主动产出
 

@@ -122,11 +122,11 @@ robot(机器人，捷克语 *robota* "强迫劳动") + -ics(名词后缀，表�
 
 > [!example]- 语料
 > - The field of robotics has seen many exciting developments in the last decade. `[例]`
->   - 中译：机器人技术是工程学中一个快速发展的领域。
+>   - 中译：机器人学领域在过去十年中取得了许多令人兴奋的发展。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/robotics
 > - Strangely, for the director of a robotics department , he doesn't seem to know what a robot is. `[例]`
->   - 中译：他在大学里主修机器人学专业。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/robotics
+>   - 中译：奇怪的是，作为机器人系的主任，他似乎不知道什么是机器人。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/robotics
 
 ## 主动产出
 

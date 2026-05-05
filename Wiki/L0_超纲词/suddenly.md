@@ -121,11 +121,11 @@ sudden（突然的）+ -ly（副词后缀）
 
 > [!example]- 语料
 > - Do you remember much about the accident ?" "No, it all happened so suddenly. `[例]`
->   - 中译：天突然下起了大雨。
+>   - 中译："你对那场事故还记得多少？""不记得了，一切都发生得太突然了。"
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/suddenly
 > - I was just dozing off when suddenly I heard a scream from outside. `[例]`
->   - 中译：她突然意识到自己忘带了钥匙。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/suddenly
+>   - 中译：我正要打瞌睡，突然听到外面传来一声尖叫。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/suddenly
 
 ## 主动产出
 

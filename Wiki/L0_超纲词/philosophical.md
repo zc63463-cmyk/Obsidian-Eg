@@ -124,11 +124,11 @@ review_count: 0
 
 > [!example]- 语料
 > - Pragmatism is a philosophical theory. `[例]`
->   - 中译：他对人生有着哲学的思考。
+>   - 中译：实用主义是一种哲学理论。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/philosophical
 > - You just have to be philosophical about losing some games , because you can’t win them all. `[例]`
->   - 中译：这本书探讨了关于自由的哲学问题。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/philosophical
+>   - 中译：你必须对输掉一些比赛看开一些，因为你不可能赢得每一场比赛。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/philosophical
 
 ## 主动产出
 

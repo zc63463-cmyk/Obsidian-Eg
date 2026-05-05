@@ -127,11 +127,11 @@ pea（源自拉丁语 *pavo*，孔雀）+ cock（公鸡/雄鸟）
 
 > [!example]- 语料
 > - The hikers rested under a towering peacock near the coastal trail. `[例]`
->   - 中译：孔雀展开了它美丽的尾羽。
+>   - 中译：徒步旅行者在海岸步道附近一棵高大的孔雀树旁休息。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/peacock
 > - The cabin was built from durable peacock gathered in the region. `[例]`
->   - 中译：他在同事面前炫耀自己的成就。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/peacock
+>   - 中译：小屋是用该地区采集的耐用孔雀材料建造的。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/peacock
 
 ## 主动产出
 

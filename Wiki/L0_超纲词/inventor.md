@@ -128,7 +128,7 @@ review_count: 0
 > [!example]- 语料
 > - Thomas Edison is one of the most prolific inventors in history. `[例]`
 >   - 中译：托马斯·爱迪生是历史上最多产的发明家之一。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/inventor
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/inventor
 > - The inventor of the World Wide Web, Tim Berners-Lee, changed how we communicate. `[例]`
 >   - 中译：万维网的发明者蒂姆·伯纳斯-李改变了我们的沟通方式。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/inventor

@@ -130,11 +130,11 @@ review_count: 0
 
 > [!example]- 语料
 > - What millions of Texas kids leam in their public schools is determined too often by the political ideology of partisan board members , rather than facts and sound scholarship. `[真题]`
->   - 中译：政治评论变得越来越党派化了。
+>   - 中译：数百万得克萨斯州儿童在公立学校学到的东西，往往由党派董事会成员的政治意识形态所决定，而非事实和严谨的学术。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/partisan
 > - The audience was very partisan, and refused to listen to her speech. `[例]`
->   - 中译：党派偏见阻碍了立法进程。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/partisan
+>   - 中译：观众非常偏视，拒绝听她的演讲。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/partisan
 
 ## 主动产出
 

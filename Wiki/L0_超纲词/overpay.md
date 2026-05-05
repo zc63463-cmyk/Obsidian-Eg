@@ -119,10 +119,10 @@ over-(过度) + pay(支付)
 
 > [!example]- 语料
 > - If you budget to overpay your mortgage on a regular basis , you can save a lot of money. `[例]`
->   - 中译：我觉得我买这件衣服付多了钱。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/overpay
+>   - 中译：如果你在预算中定期超额偿还房贷，可以省下很多钱。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/overpay
 > - These loans allow you to overpay at any time. `[例]`
->   - 中译：公司高管们往往薪酬过高。
+>   - 中译：这些贷款允许你随时超额还款。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/overpay
 
 ## 主动产出

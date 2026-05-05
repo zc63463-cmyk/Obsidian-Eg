@@ -126,13 +126,13 @@ a-(在……上) + float(漂浮)
 > [!example]- 语料
 > - The small business managed to stay afloat during the economic recession. `[例]`
 >   - 中译：这家小企业在经济衰退期间设法维持了经营。
->   - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/afloat
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/afloat
 > - The crew worked tirelessly to keep the damaged vessel afloat until rescue arrived. `[例]`
->   - 中译：船员们不知疲倦地工作，使受损的船只保持漂浮，直到救援到来。
->   - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/afloat
+>   - 中译：船员们不知疲倦地工作，努力使受损的船只保持漂浮，直到救援到来。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/afloat
 > - Rumors are afloat that the company is planning a major restructuring of its executive team. `[例]`
 >   - 中译：有传言说公司正计划对其高管团队进行重大重组。
->   - 来源：Collins Dictionary | https://www.collinsdictionary.com/dictionary/english/afloat
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/afloat
 
 ## 主动产出
 

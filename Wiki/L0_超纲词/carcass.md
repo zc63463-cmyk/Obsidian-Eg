@@ -122,10 +122,10 @@ review_count: 0
 
 > [!example]- 语料
 > - Vultures flew around in the sky waiting to pick at the rotting carcass of the deer. `[例]`
->   - 中译：秃鹫在天空中盘旋，等着啄食鹿腐烂的尸体。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/carcass
+>   - 中译：秃鹫在死去的动物尸体上方盘旋。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/carcass
 > - Move your great carcass (= your body ) out of that chair! `[例]`
->   - 中译：把你那庞大的身躯从那把椅子上挪开！
+>   - 中译：屠夫在将胴体切成小块出售前进行了清理。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/carcass
 
 ## 主动产出

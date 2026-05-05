@@ -120,11 +120,11 @@ review_count: 0
 
 > [!example]- 语料
 > - The roof has a diagonal beam for structural support. `[例]`
->   - 中译：屋顶有一根对角线方向的梁用于结构支撑。
+>   - 中译：屋顶有一根对角梁用于结构支撑。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/diagonal
 > - The park is laid out with diagonal pathways that intersect at a central fountain. `[例]`
->   - 中译：公园里铺设了对角线方向的小路，在中央喷泉处交汇。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/diagonal
+>   - 中译：公园里铺设了对角线步道，在中央喷泉处交汇。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/diagonal
 
 ## 主动产出
 

@@ -124,10 +124,10 @@ review_count: 0
 
 > [!example]- 语料
 > - Around 2000 BCE the Egyptians started using spokes on their chariot wheels. `[例]`
->   - 中译：大约在公元前2000年，埃及人开始在战车轮子上使用辐条。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/chariot
+>   - 中译：在古罗马，战车竞赛是最受欢迎的娱乐形式之一。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/chariot
 > - By 500 BCE, many types of wheeled vehicles were in use, from fast chariots to large, slow carts. `[例]`
->   - 中译：到公元前500年，许多种轮式车辆已被使用，从快速的战车到缓慢的大型货车。
+>   - 中译：考古博物馆展出了一辆保存完好的青铜时代战车。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/chariot
 
 ## 主动产出

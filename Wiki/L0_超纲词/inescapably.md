@@ -123,14 +123,14 @@ in-(不，否定) + escape(逃避) + -ably(可…地)
 
 > [!example]- 语料
 > - Technology and society are inescapably linked. `[例]`
->   - 中译：技术与社会密不可分地联系在一起。
+>   - 中译：技术与社会密不可分。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/inescapably
 > - The two issues are inescapably bound together by shared economic interests. `[例]`
->   - 中译：这两个问题因共同的经济利益而密不可分地交织在一起。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/inescapably
+>   - 中译：这两个问题因共同的经济利益而不可分割地联系在一起。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/inescapably
 > - Such a policy will inescapably lead to greater inequality in the long run. `[例]`
->   - 中译：从长远来看，这样的政策必然会导致更大的不平等。
->   - 来源：Collins | https://www.collinsdictionary.com/dictionary/english/inescapably
+>   - 中译：从长远来看，这种政策不可避免地会导致更大的不平等。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/inescapably
 
 ## 主动产出
 

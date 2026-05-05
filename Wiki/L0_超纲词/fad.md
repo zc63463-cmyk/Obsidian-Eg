@@ -124,10 +124,10 @@ review_count: 0
 
 > [!example]- 语料
 > - Many parents feel they are struggling to keep up with the rapidly changing fads and trends on social media. `[例]`
->   - 中译：低碳水化合物饮食只是又一个短暂的时尚潮流。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/fad
+>   - 中译：许多父母觉得自己很难跟上社交媒体上快速变化的流行风潮。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fad
 > - Is this diet a genuine health approach or just another passing fad? `[例]`
->   - 中译：不要盲目追随每一种流行的时尚。
+>   - 中译：这种饮食方式是真正的健康方法，还是又一阵短暂的流行？
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fad
 
 ## 主动产出

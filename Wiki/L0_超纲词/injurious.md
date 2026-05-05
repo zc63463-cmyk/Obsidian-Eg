@@ -124,9 +124,9 @@ in-(不) + [[jur|jur-]](法律/权利) + -ious(充满…的) → 实际来自 in
 > [!example]- 语料
 > - Smoking is injurious to health. `[例]`
 >   - 中译：吸烟对健康有害。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/injurious
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/injurious
 > - The injurious effects of pollution on public health are well documented. `[例]`
->   - 中译：污染对公共健康的有害影响已有充分的文献记录。
+>   - 中译：污染对公众健康的有害影响已有充分记录。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/injurious
 
 ## 主动产出

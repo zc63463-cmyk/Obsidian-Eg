@@ -123,11 +123,11 @@ sky(天空) + light(光/灯)
 
 > [!example]- 语料
 > - Putting in a skylight made the attic seem big and bright. `[例]`
->   - 中译：天花板上的天窗让自然光照进了房间。
+>   - 中译：安装天窗使阁楼显得宽敞明亮。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/skylight
 > - There is, however, a nice hood vent and a lovely skylight. `[例]`
->   - 中译：她躺在地板上，透过天窗看着星星。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/skylight
+>   - 中译：不过，有一个很好的抽油烟机和一扇漂亮的天窗。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/skylight
 
 ## 主动产出
 

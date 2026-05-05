@@ -122,14 +122,14 @@ al-(=ad-, 朝向) + lud(玩，演戏，拉丁语 *ludere*)
 
 > [!example]- 语料
 > - The president alluded to the need for economic reform without providing specific details. `[例]`
->   - 中译：总统暗示了经济改革的必要性，但没有提供具体细节。
->   - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/allude
+>   - 中译：总统提到了经济改革的必要性，但没有提供具体细节。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/allude
 > - In her speech, she alluded to the recent scandal but never mentioned it directly. `[例]`
->   - 中译：在她的演讲中，她间接提到了最近的丑闻，但从未直接说出。
->   - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/allude
+>   - 中译：她在演讲中暗指了最近的丑闻，但从未直接提及。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/allude
 > - The poet alluded to classical mythology to add depth to the narrative. `[例]`
 >   - 中译：诗人暗引了古典神话，以增加叙事的深度。
->   - 来源：Collins Dictionary | https://www.collinsdictionary.com/dictionary/english/allude
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/allude
 
 ## 主动产出
 

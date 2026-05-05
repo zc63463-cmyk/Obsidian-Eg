@@ -127,11 +127,11 @@ point（点/尖端/意义）+ -less（没有）= 没有尖端的→没有意义�
 
 > [!example]- 语料
 > - This is a pointless exercise. `[例]`
->   - 中译：继续争论是毫无意义的。
+>   - 中译：这是毫无意义的做法。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pointless
 > - It seemed pointless to continue. `[例]`
->   - 中译：没有目标的生活让人感到空虚。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/pointless
+>   - 中译：继续下去似乎毫无意义。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pointless
 
 ## 主动产出
 

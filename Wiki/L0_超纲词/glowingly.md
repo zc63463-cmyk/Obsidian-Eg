@@ -129,8 +129,8 @@ glow(发光，古英语 *glowan*) + -ing(构成现在分词/形容词) + -ly(副
 >   - 中译：工程师们对这款设备赞不绝口。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/glowingly
 > - She talked glowingly about the potential of African countries. `[例]`
->   - 中译：她满怀热情地谈论非洲国家的潜力。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/glowingly
+>   - 中译：她热情洋溢地谈论非洲国家的潜力。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/glowingly
 
 ## 主动产出
 

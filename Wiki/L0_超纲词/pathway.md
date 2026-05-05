@@ -127,11 +127,11 @@ path（路径/道路）+ way（方式/道路）
 
 > [!example]- 语料
 > - New pedestrian pathways are being built alongside the road. `[例]`
->   - 中译：这条 pathway 通向花园。
+>   - 中译：公路旁正在修建新的步行道。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pathway
 > - Working your way up through a company is a difficult pathway. `[例]`
->   - 中译：大学提供了通往成功的多种途径。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/pathway
+>   - 中译：在公司中一步步晋升是一条艰难的道路。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pathway
 
 ## 主动产出
 

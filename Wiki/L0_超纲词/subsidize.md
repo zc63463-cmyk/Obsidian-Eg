@@ -123,11 +123,11 @@ review_count: 0
 
 > [!example]- 语料
 > - The refugees live in subsidized housing provided by the authorities. `[例]`
->   - 中译：政府补贴农业以保障粮食安全。
+>   - 中译：难民们住在当局提供的补贴住房中。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/subsidize
 > - All private universities are subsidized by the government. `[例]`
->   - 中译：国家为低收入家庭提供住房补贴。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/subsidize
+>   - 中译：所有私立大学都由政府提供补贴。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/subsidize
 
 ## 主动产出
 

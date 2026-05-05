@@ -126,11 +126,11 @@ un-(不，否定前缀) + [[just|just]](公正的/正义的)
 
 > [!example]- 语料
 > - They should repeal this unjust law. `[例]`
->   - 中译：他们认为这项法律是不公正的。
+>   - 中译：他们应该废除这项不公正的法律。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/unjust
 > - New laws will protect employees against unjust dismissals. `[例]`
->   - 中译：她拒绝接受这种不公平的判决。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/unjust
+>   - 中译：新法律将保护员工免受不公正的解雇。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/unjust
 
 ## 主动产出
 

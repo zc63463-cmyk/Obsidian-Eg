@@ -128,11 +128,11 @@ review_count: 0
 
 > [!example]- 语料
 > - She scrubbed (at) the mark on the wall for a long time , but it wouldn't come off. `[例]`
->   - 中译：她用力擦洗地板，直到它闪闪发亮。
+>   - 中译：她在墙上使劲擦那个污渍很长时间，但就是擦不掉。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/scrub
 > - He scrubbed the old saucepan clean , and it looked as good as new. `[例]`
->   - 中译：由于天气恶劣，火箭发射被取消。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/scrub
+>   - 中译：他把旧锅擦得干干净净，看起来像新的一样。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/scrub
 
 ## 主动产出
 

@@ -127,11 +127,11 @@ review_count: 0
 
 > [!example]- 语料
 > - The culinary delights (= good food ) of Beijing. `[例]`
->   - 中译：北京的美食佳肴。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/culinary
+>   - 中译：这座城市以其烹饪多样性而闻名，提供来自世界各地的美食。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/culinary
 > - My culinary skills are limited to boiling water (= I am not very good at cooking ). `[例]`
->   - 中译：我的厨艺仅限于烧开水（我不太会做饭）。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/culinary
+>   - 中译：她报名就读了一所烹饪学校，追求成为厨师的梦想。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/culinary
 
 ## 主动产出
 

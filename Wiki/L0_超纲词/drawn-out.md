@@ -124,12 +124,14 @@ drawn（draw 的过去分词，"拉/拖"）+ out（出来/向外）
 
 > [!example]- 语料
 > - The drawn-out negotiation finally came to an end after three months. `[例]`
->   - 中译：谈判过程漫长而令人疲惫。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/drawn-out
+>   - 中译：经过三个月的漫长谈判终于结束了。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/drawn-out
 > - The movie felt drawn-out and lost the audience's interest in the second half. `[例]`
->   - 中译：一场旷日持久的法律诉讼耗尽了公司的资源。
+>   - 中译：这部电影让人觉得拖沓冗长，后半部分失去了观众的兴趣。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/drawn-out
 > - No one expected such a drawn-out process for a simple permit application. `[例]`
+>   - 中译：没人想到一个简单的许可证申请会经历如此漫长的流程。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/drawn-out
 
 ## 主动产出
 

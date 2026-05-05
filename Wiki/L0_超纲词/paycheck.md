@@ -123,10 +123,10 @@ pay（支付）+ check（支票）
 
 > [!example]- 语料
 > - It's easy to go on expensive holidays when you have a paycheck the size of hers. `[例]`
->   - 中译：她每周的工资刚好够付房租。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/paycheck
+>   - 中译：当你有她那么丰厚的薪水时，去昂贵的度假就很容易了。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/paycheck
 > - About four out of ten households live paycheck to paycheck (= have almost no money left by the time they receive their next paycheck). `[例]`
->   - 中译：他期待着拿到第一张工资支票。
+>   - 中译：大约有十分之四的家庭靠工资度日（到下次发工资时几乎没钱剩下）。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/paycheck
 
 ## 主动产出

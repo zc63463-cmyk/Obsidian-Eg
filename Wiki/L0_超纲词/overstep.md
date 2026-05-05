@@ -120,11 +120,11 @@ over-(越过) + step(步伐/踩)
 
 > [!example]- 语料
 > - The bad language in that show overstepped the boundaries of what should be allowed on television. `[例]`
->   - 中译：他越权做出了决定。
+>   - 中译：那档节目中的粗俗语言越过了电视上应允许的界限。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/overstep
 > - He argued that the court had overstepped its constitutional limits. `[例]`
->   - 中译：她意识到自己已经越过了界限。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/overstep
+>   - 中译：他认为法院超越了其宪法权限。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/overstep
 
 ## 主动产出
 

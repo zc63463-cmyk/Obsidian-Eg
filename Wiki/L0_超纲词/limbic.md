@@ -122,11 +122,11 @@ limb-（来自拉丁语 *limbus*，边缘、边界）+ -ic（形容词后缀，"
 
 > [!example]- 语料
 > - The limbic system, which includes the amygdala and hippocampus, plays a crucial role in emotional processing and memory formation. `[例]`
->   - 中译：边缘系统包括杏仁核和海马体，在情绪处理和记忆形成中起着至关重要的作用。
+>   - 中译：边缘系统包括杏仁核和海马体，在情绪处理和记忆形成中发挥着关键作用。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/limbic
 > - Emotions are primarily processed in the limbic system of the brain. `[例]`
->   - 中译：情绪主要在大脑的边缘系统中进行处理。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/limbic
+>   - 中译：情绪主要由大脑的边缘系统处理。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/limbic
 
 ## 主动产出
 

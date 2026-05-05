@@ -119,14 +119,14 @@ in-(不) + correct(正确的) + -ly(副词后缀)
 
 > [!example]- 语料
 > - The survey data was incorrectly interpreted, leading to flawed policy recommendations. `[例]`
->   - 中译：调查数据被错误解读，导致了有缺陷的政策建议。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/incorrectly
+>   - 中译：调查数据被错误地解读，导致了有缺陷的政策建议。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/incorrectly
 > - Patients who incorrectly follow dosage instructions may experience adverse side effects. `[例]`
->   - 中译：未正确遵循剂量说明的患者可能会出现不良反应。
+>   - 中译：未正确遵循用药说明的患者可能会出现不良反应。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/incorrectly
 > - The formula was incorrectly applied to the dataset, producing unreliable results. `[例]`
->   - 中译：公式被错误地应用于数据集，产生了不可靠的结果。
->   - 来源：Collins | https://www.collinsdictionary.com/dictionary/english/incorrectly
+>   - 中译：该公式被错误地应用于数据集，产生了不可靠的结果。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/incorrectly
 
 ## 主动产出
 

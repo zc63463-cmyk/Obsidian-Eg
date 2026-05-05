@@ -129,10 +129,10 @@ review_count: 0
 
 > [!example]- 语料
 > - A cynic might say that the government has only taken this measure because it is concerned about its declining popularity. `[例]`
->   - 中译：一个愤世嫉俗者可能会说，政府采取这一措施只是因为担心其支持率下降。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/cynic
-> - Don't be such a cynic! `[例]`
->   - 中译：别这么愤世嫉俗！
+>   - 中译：一个愤世嫉俗的人可能会说这位政客的承诺不过是空话。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/cynic
+> - Don’t be such a cynic! `[例]`
+>   - 中译：尽管他以愤世嫉俗著称，但他暗中向几家慈善机构捐款。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/cynic
 
 ## 主动产出

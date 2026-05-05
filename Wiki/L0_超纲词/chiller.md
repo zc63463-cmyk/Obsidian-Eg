@@ -123,10 +123,10 @@ chill（使变冷）+ -er（器物/做某事的东西）
 
 > [!example]- 语料
 > - In hot weather it is better to store seafood in the chiller. `[例]`
->   - 中译：天气炎热时，最好将海鲜存放在冷藏柜中。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/chiller
+>   - 中译：工业冷水机使服务器机房保持恒定的低温。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/chiller
 > - The vegetables were all in a chiller with no prices displayed. `[例]`
->   - 中译：蔬菜都放在冷藏柜里，没有标价。
+>   - 中译：这部电影是一部心理惊悚片，让观众始终紧张不已。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/chiller
 
 ## 主动产出

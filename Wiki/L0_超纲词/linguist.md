@@ -125,10 +125,10 @@ lingu-（来自拉丁语 *lingua*，舌头→语言）+ -ist（名词后缀，"�
 
 > [!example]- 语料
 > - Noam Chomsky, perhaps the world's most famous linguist, revolutionized the study of language with his theory of universal grammar. `[例]`
->   - 中译：诺姆·乔姆斯基也许是世界上最著名的语言学家，他以普遍语法理论彻底改变了语言研究。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/linguist
+>   - 中译：诺姆·乔姆斯基也许是世界上最著名的语言学家，他用普遍语法理论彻底改变了语言学研究。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/linguist
 > - The CIA employs linguists who can translate intercepted communications from dozens of languages. `[例]`
->   - 中译：中央情报局雇佣了能将数十种语言的截获通信进行翻译的语言学家。
+>   - 中译：中央情报局雇佣了能翻译数十种语言截获通讯的语言学家。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/linguist
 
 ## 主动产出

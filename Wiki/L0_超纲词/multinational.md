@@ -126,8 +126,8 @@ multi-(多，拉丁语 *multus*) + nation(国家) + -al(形容词后缀)
 
 > [!example]- 语料
 > - The UN has sent a multinational peace-keeping force. `[例]`
->   - 中译：联合国派遣了一支多国维和部队。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/multinational
+>   - 中译：联合国已派出一支多国维和部队。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/multinational
 > - Are multinationals now more powerful than governments? `[例]`
 >   - 中译：跨国公司现在是否比政府更强大？
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/multinational

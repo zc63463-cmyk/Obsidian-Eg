@@ -124,11 +124,11 @@ hier(=sacred/holy, 神圣的) + arch(=rule/ruler, 统治) + -ical(形容词后�
 
 > [!example]- 语料
 > - The military has a hierarchical rank structure. `[例]`
->   - 中译：军队有等级分明的军衔结构。
+>   - 中译：军队有着等级分明的军衔结构。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hierarchical
 > - It's a very hierarchical organization in which everyone's status is clearly defined. `[例]`
->   - 中译：这是一个等级非常分明的组织，每个人的地位都有明确的界定。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/hierarchical
+>   - 中译：这是一个等级森严的组织，每个人的身份地位都有明确的界定。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hierarchical
 
 ## 主动产出
 

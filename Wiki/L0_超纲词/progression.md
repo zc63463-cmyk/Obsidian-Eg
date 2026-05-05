@@ -127,11 +127,11 @@ review_count: 0
 
 > [!example]- 语料
 > - Drugs can slow down the progression of the disease. `[例]`
->   - 中译：疾病的进展可能是缓慢的。
+>   - 中译：药物可以减缓疾病的进展。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/progression
 > - The novel follows the progression of a woman from youth to middle age. `[例]`
->   - 中译：职业发展的进程需要时间和努力。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/progression
+>   - 中译：这部小说追踪了一位女性从青年到中年的成长历程。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/progression
 
 ## 主动产出
 

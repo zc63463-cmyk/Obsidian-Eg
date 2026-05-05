@@ -120,11 +120,11 @@ review_count: 0
 
 > [!example]- 语料
 > - The subheadings are numbered within each chapter. `[例]`
->   - 中译：报告的副标题清楚地说明了研究范围。
+>   - 中译：每个章节内的小标题都编了号。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/subheading
-> - The newspaper headline read “House burns down on Elm Street” with the subheading “Arson suspected. `[例]`
->   - 中译：请为每个章节添加一个副标题。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/subheading
+> - The newspaper headline read "House burns down on Elm Street" with the subheading "Arson suspected. `[例]`
+>   - 中译：报纸标题写着"榆树街房屋被烧毁"，副标题是"疑似纵火"。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/subheading
 
 ## 主动产出
 

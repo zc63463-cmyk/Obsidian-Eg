@@ -124,11 +124,11 @@ thrill（使激动，使毛骨悚然）+ -er（表示"…的人/物"）。
 
 > [!example]- 语料
 > - It's described here as a taut psychological thriller. `[例]`
->   - 中译：这部悬疑惊悚片让观众从头到尾都紧张不已。
+>   - 中译：这里将其描述为一部紧凑的心理惊悚片。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/thriller
 > - His latest novel is a political thriller. `[例]`
->   - 中译：她喜欢在睡前读惊险小说。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/thriller
+>   - 中译：他的最新小说是一部政治惊悚片。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/thriller
 
 ## 主动产出
 

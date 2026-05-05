@@ -126,11 +126,11 @@ review_count: 0
 
 > [!example]- 语料
 > - That sort of extreme diet is not sustainable over a long period. `[例]`
->   - 中译：我们需要找到可持续发展的方式来利用自然资源。
+>   - 中译：那种极端的节食方式长期来看是不可持续的。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sustainable
 > - Solutions put in place now must be sustainable. `[例]`
->   - 中译：这家公司致力于可持续的商业实践。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/sustainable
+>   - 中译：目前实施的解决方案必须是可持续的。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sustainable
 
 ## 主动产出
 

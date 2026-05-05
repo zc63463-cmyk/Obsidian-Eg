@@ -121,11 +121,11 @@ ideal(理想) + -ize(使动后缀，使……化)
 
 > [!example]- 语料
 > - People tend to idealize their childhood memories, forgetting the difficulties they once faced. `[例]`
->   - 中译：人们倾向于将童年记忆理想化，忘记了曾经面临的困难。
+>   - 中译：人们往往将童年记忆理想化，忘记了曾经面临的困难。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/idealize
 > - She had idealized her mentor for years before discovering his flaws. `[例]`
->   - 中译：多年来她一直将导师理想化，直到后来发现了他的缺点。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/idealize
+>   - 中译：她多年来一直将导师理想化，直到后来发现了他的缺点。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/idealize
 
 ## 主动产出
 

@@ -122,10 +122,7 @@ review_count: 0
 
 > [!example]- 语料
 > - They were typically _1_ outside the walls of a city or village and were usually funded by governments or 2 This word " Caravanserais" is 3 a of the Persian word " karv:an" , which means a group of ltravellers or a caravan , and " seray " , a palace or enclosed building. `[真题]`
->   - 中译：它们通常建在城市或村庄的城墙外，通常由政府资助。"商队旅馆"一词源自波斯语"karvan"，意为旅行者群体或商队，而"seray"意为宫殿或封闭式建筑。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/caravan
-> - The term caravan was used to _4_ groups of people who travelled together across the ancient network for safety reasons , 5 merchants, travellers or pillgrims. `[真题]`
->   - 中译：商队一词用来指代为了安全而在古丝绸之路上结伴而行的群体，包括商人、旅行者或朝圣者。
+>   - 中译：它们通常建在城市或村庄的城墙之外，通常由政府或富商资助。"Caravanserais"一词源自波斯语"karvan"，意为结伴旅行的一群人或商队，以及"seray"，意为宫殿或封闭式建筑。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/caravan
 
 ## 主动产出

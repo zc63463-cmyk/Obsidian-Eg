@@ -122,8 +122,8 @@ live（活的）+ stock（资产/储备/存货）→ **家畜，牲畜**
 
 > [!example]- 语料
 > - The organic livestock industry has grown substantially in the last few years. `[例]`
->   - 中译：近几年有机畜牧业大幅增长。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/livestock
+>   - 中译：有机畜牧业在过去几年中大幅增长。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/livestock
 > - Mongolian herders have five different kinds of livestock. `[例]`
 >   - 中译：蒙古牧民饲养五种不同的牲畜。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/livestock

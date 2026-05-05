@@ -127,11 +127,11 @@ review_count: 0
 
 > [!example]- 语料
 > - He pulled on his helmet and straddled the motorbike. `[例]`
->   - 中译：这座城市横跨河的两岸。
+>   - 中译：他戴上头盔，跨骑上摩托车。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/straddle
 > - Our farm straddles the railway line. `[例]`
->   - 中译：他试图在两个政党之间保持中立。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/straddle
+>   - 中译：我们的农场横跨铁路线两侧。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/straddle
 
 ## 主动产出
 

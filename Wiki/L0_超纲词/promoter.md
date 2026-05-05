@@ -128,10 +128,10 @@ review_count: 0
 
 > [!example]- 语料
 > - The country is now a leading promoter of regional trade. `[例]`
->   - 中译：他是这场音乐会的推广人。
+>   - 中译：该国现在是区域贸易的主要推动者。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/promoter
 > - He was a promoter of education and the arts. `[例]`
->   - 中译：这位基因的启动子调控着蛋白质的表达。
+>   - 中译：他曾是教育和艺术的推动者。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/promoter
 
 ## 主动产出

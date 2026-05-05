@@ -128,11 +128,11 @@ un-(不，否定前缀) + [[nat-nasc|natur]](自然/出生) + -al(形容词后�
 
 > [!example]- 语料
 > - Nothing unnatural or polluting can be used. `[例]`
->   - 中译：她说话的方式显得很不自然。
+>   - 中译：不能使用任何不自然或造成污染的东西。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/unnatural
 > - Her translation is too literal , resulting in heavy , unnatural prose. `[例]`
->   - 中译：在黑暗中发出如此明亮的光是不自然的。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/unnatural
+>   - 中译：她的翻译过于直译，导致文字沉重、不自然。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/unnatural
 
 ## 主动产出
 

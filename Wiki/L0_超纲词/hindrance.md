@@ -126,14 +126,14 @@ hind(=behind/back, 在后面) + -rance(名词后缀，表示状态/行为)
 
 > [!example]- 语料
 > - I've never considered my disability a hindrance, but other people have. `[例]`
->   - 中译：我从不认为我的残疾是一种障碍，但其他人却不这么认为。
+>   - 中译：我从不认为自己的残疾是一种障碍，但其他人却这么认为。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hindrance
 > - His lack of experience was more of a hindrance than he had anticipated. `[例]`
->   - 中译：他缺乏经验比他预想的更是一个障碍。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/hindrance
+>   - 中译：他缺乏经验这一点比他预想的更是一种障碍。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hindrance
 > - Poor time management can be a serious hindrance to academic success. `[例]`
 >   - 中译：糟糕的时间管理可能成为学业成功的严重障碍。
->   - 来源：Collins | https://www.collinsdictionary.com/dictionary/english/hindrance
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hindrance
 
 ## 主动产出
 

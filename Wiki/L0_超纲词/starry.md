@@ -121,11 +121,11 @@ star（星星）+ -y（充满……的，形容词后缀）
 
 > [!example]- 语料
 > - He said he considered himself to be down to earth and not a starry celebrity. `[例]`
->   - 中译：我们在繁星满天的夜晚露营。
+>   - 中译：他说他认为自己是脚踏实地的人，而不是一个高高在上的明星。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/starry
 > - Had the starry idea the Western military forces would waltz in there and put an end to rivalries that have been raging for hundreds of years. `[例]`
->   - 中译：那个年轻演员有着明星般的眼神。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/starry
+>   - 中译：曾有一种天真的想法，认为西方军队能轻松进入那里，终结已经持续了数百年的争端。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/starry
 
 ## 主动产出
 

@@ -124,11 +124,11 @@ stead（位置，站立处）+ fast（牢固的，快的→此处取"牢固"义�
 
 > [!example]- 语料
 > - The group remained steadfast in its support for the new system , even when it was criticized in the newspapers. `[例]`
->   - 中译：她始终坚定不移地支持丈夫的事业。
+>   - 中译：该团体对新系统的支持始终坚定不移，即使该系统在报纸上受到批评。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/steadfast
 > - He remained steadfast in his determination to bring the killers to justice. `[例]`
->   - 中译：他对自己的信念坚定不移。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/steadfast
+>   - 中译：他将凶手绳之以法的决心始终坚定不移。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/steadfast
 
 ## 主动产出
 

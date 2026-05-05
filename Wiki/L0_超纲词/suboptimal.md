@@ -123,11 +123,11 @@ review_count: 0
 
 > [!example]- 语料
 > - Long-term consumer debt is often considered fiscally suboptimal. `[例]`
->   - 中译：当前的系统设计是次优的，需要改进。
+>   - 中译：长期消费债务通常被认为在财务上是不理想的。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/suboptimal
 > - A combination of these two drugs at the same suboptimal concentrations showed a potent inhibitory activity. `[例]`
->   - 中译：在资源有限的情况下，我们只能做出次优的选择。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/suboptimal
+>   - 中译：这两种药物在相同的次优浓度下组合使用，表现出强效的抑制活性。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/suboptimal
 
 ## 主动产出
 

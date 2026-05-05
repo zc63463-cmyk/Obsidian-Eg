@@ -123,11 +123,11 @@ ship(船) + load(装载)
 
 > [!example]- 语料
 > - A shipload of food and medical supplies. `[例]`
->   - 中译：一船石油泄漏到了海里。
+>   - 中译：一船食物和医疗物资。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/shipload
 > - Shiploads of settlers came to the New World. `[例]`
->   - 中译：他们进口了整船整船的货物。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/shipload
+>   - 中译：一船又一船的定居者来到了新大陆。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/shipload
 
 ## 主动产出
 

@@ -125,12 +125,14 @@ orb(=ball/circle, 球/圆) 源自拉丁语 *orbis*（圆、球、轨道）
 
 > [!example]- 语料
 > - The hikers rested under a towering orb near the coastal trail. `[例]`
->   - 中译：太阳是一颗炽热的星球。
+>   - 中译：徒步旅行者在沿海步道旁一棵高大的球体树下休息。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/orb
 > - The cabin was built from durable orb gathered in the region. `[例]`
->   - 中译：月亮的银色球体高悬在夜空中。
+>   - 中译：小木屋是用在该地区采集的耐久球体木建造的。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/orb
 > - A line of orb trees rose above the morning fog. `[例]`
+>   - 中译：一排球体树在晨雾中高耸挺立。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/orb
 
 ## 主动产出
 

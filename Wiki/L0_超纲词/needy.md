@@ -128,9 +128,9 @@ need（需要）+ -y（形容词后缀，充满……的/有……特征的）
 > [!example]- 语料
 > - The proceeds from the sale go to help needy people in the area. `[例]`
 >   - 中译：销售收入用于帮助该地区的贫困人群。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/needy
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/needy
 > - Sybil was very insecure and needy. `[例]`
->   - 中译：西比尔非常缺乏安全感，情感上很依赖。
+>   - 中译：西比尔非常缺乏安全感，而且过度依赖他人。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/needy
 
 ## 主动产出

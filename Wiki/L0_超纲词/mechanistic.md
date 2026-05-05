@@ -123,9 +123,11 @@ mechan（机械，希腊语 *mēkhanē*）+ -ist（……主义者）+ -ic（形
 
 > [!example]- 语料
 > - According to mechanistic views of behaviour , human action can be explained in terms of cause and effect. `[例]`
+>   - 中译：根据机械论的行为观，人类行为可以用因果关系来解释。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/mechanistic
 > - The mechanistic philosophy that compares the brain to a computer. `[例]`
 >   - 中译：将大脑比作计算机的机械论哲学。
->   - 来源：Collins | https://www.collinsdictionary.com/dictionary/english/mechanistic
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/mechanistic
 
 ## 主动产出
 

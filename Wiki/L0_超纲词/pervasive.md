@@ -122,11 +122,11 @@ review_count: 0
 
 > [!example]- 语料
 > - The researchers proposed a pervasive solution to the problem. `[例]`
->   - 中译：智能手机的影响已经无处不在。
+>   - 中译：研究人员提出了一个普遍适用的解决方案。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pervasive
 > - The company adopted a pervasive approach to improve efficiency. `[例]`
->   - 中译：这种疾病在该地区广泛蔓延。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/pervasive
+>   - 中译：公司采用了一种无处不在的方法来提高效率。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pervasive
 
 ## 主动产出
 

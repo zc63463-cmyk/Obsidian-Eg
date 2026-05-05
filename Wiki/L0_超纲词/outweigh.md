@@ -120,10 +120,10 @@ out-(超出) + weigh(称重/重量)
 
 > [!example]- 语料
 > - The benefits of this treatment far outweigh any risks. `[例]`
->   - 中译：好处远远大于风险。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/outweigh
+>   - 中译：这种治疗的益处远远超过任何风险。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/outweigh
 > - The benefits of increased immigration outweigh the costs. `[例]`
->   - 中译：在做出决定时，优点必须超过缺点。
+>   - 中译：增加移民的益处超过了成本。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/outweigh
 
 ## 主动产出

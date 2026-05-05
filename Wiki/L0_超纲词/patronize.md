@@ -128,11 +128,11 @@ review_count: 0
 
 > [!example]- 语料
 > - Stop patronizing me - I understand the play as well as you do. `[例]`
->   - 中译：他以居高临下的态度对待下属。
+>   - 中译：别居高临下地对我说话——我对这部剧的理解和你一样好。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/patronize
 > - The restaurant was patronized by many artists and writers during the 1920s. `[例]`
->   - 中译：她经常光顾那家街角的咖啡馆。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/patronize
+>   - 中译：在20世纪20年代，这家餐厅受到许多艺术家和作家的光顾。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/patronize
 
 ## 主动产出
 

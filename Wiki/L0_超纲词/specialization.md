@@ -127,11 +127,11 @@ review_count: 0
 
 > [!example]- 语料
 > - Specialization (= limiting study or work to one particular area ) usually doesn't occur until PhD level. `[例]`
->   - 中译：医学领域的专业化使得医生能够更深入地研究特定领域。
+>   - 中译：专业化（即将学习或工作局限于某一特定领域）通常要到博士阶段才会出现。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/specialization
 > - The lawyer said that he was unable to help us because our case fell outside his specialization. `[例]`
->   - 中译：她的专业方向是国际贸易法。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/specialization
+>   - 中译：律师说他无法帮助我们，因为我们的案件超出了他的专业范围。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/specialization
 
 ## 主动产出
 

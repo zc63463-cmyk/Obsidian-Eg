@@ -124,11 +124,11 @@ en-(使成为) + [[gen|gen]](产生/种类) + -der(动词后缀)
 
 > [!example]- 语料
 > - The leader's transparency and honesty engendered trust among the team members. `[例]`
->   - 中译：他的演讲激发了公众对改革的热情。
+>   - 中译：领导者的透明和诚实赢得了团队成员的信任。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/engender
 > - The new policy has engendered considerable controversy among the general public. `[例]`
->   - 中译：这项政策引发了广泛的争议。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/engender
+>   - 中译：新政策在公众中引发了相当大的争议。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/engender
 
 ## 主动产出
 

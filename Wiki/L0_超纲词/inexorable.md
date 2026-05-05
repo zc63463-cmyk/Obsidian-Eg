@@ -124,14 +124,14 @@ in-(不，否定) + ex-(出) + [[tract|tract-]](拉，拖) + -able(可被…的)
 
 > [!example]- 语料
 > - The inexorable march of technology has transformed every aspect of our lives. `[例]`
->   - 中译：技术不可阻挡的步伐已经改变了我们生活的方方面面。
+>   - 中译：技术不可阻挡的进步改变了我们生活的方方面面。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/inexorable
 > - She faced the inexorable decline of her health with remarkable courage. `[例]`
->   - 中译：她以非凡的勇气面对自己健康状况不可逆转的衰退。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/inexorable
+>   - 中译：她以非凡的勇气面对健康状况不可逆转的衰退。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/inexorable
 > - Time moves in an inexorable progression that no one can halt. `[例]`
->   - 中译：时间以一种无人能够阻止的不可抗拒的步伐前进。
->   - 来源：Collins | https://www.collinsdictionary.com/dictionary/english/inexorable
+>   - 中译：时间的流逝是不可阻挡的，没有人能够阻止。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/inexorable
 
 ## 主动产出
 

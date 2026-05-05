@@ -120,11 +120,11 @@ review_count: 0
 
 > [!example]- 语料
 > - Are these toys suitable for toddlers? `[例]`
->   - 中译：幼儿开始学走路时总是摇摇晃晃的。
+>   - 中译：这些玩具适合幼儿吗？
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/toddler
 > - We run a mother and toddler group in the mornings. `[例]`
->   - 中译：她把幼儿留在了托儿所，自己去上班。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/toddler
+>   - 中译：我们上午举办亲子幼儿活动。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/toddler
 
 ## 主动产出
 

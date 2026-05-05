@@ -125,10 +125,10 @@ review_count: 0
 
 > [!example]- 语料
 > - How long does it take for the chicks to grow to maturity? `[例]`
->   - 中译：雏鸟需要多长时间才能长大成熟？
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/maturity
+>   - 中译：雏鸟需要多长时间才能长到成熟？
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/maturity
 > - The investment reaches maturity after ten years. `[例]`
->   - 中译：该投资在十年后到期。
+>   - 中译：这项投资在十年后到期。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/maturity
 
 ## 主动产出

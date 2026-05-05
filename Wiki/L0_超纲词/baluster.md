@@ -125,11 +125,11 @@ review_count: 0
 
 > [!example]- 语料
 > - The grand staircase was supported by carved wooden balusters, each one unique in its design. `[例]`
->   - 中译：宏伟的楼梯由雕刻精美的木质栏杆小柱支撑，每一根的设计都独一无二。
->   - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/baluster
+>   - 中译：楼梯的栏杆柱上雕刻着精美的花纹。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/baluster
 > - She gripped the baluster as she descended the spiral staircase. `[例]`
->   - 中译：她走下旋转楼梯时紧紧抓住栏杆小柱。
->   - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/baluster
+>   - 中译：修复工程包括更换腐朽的栏杆柱。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/baluster
 
 ## 主动产出
 

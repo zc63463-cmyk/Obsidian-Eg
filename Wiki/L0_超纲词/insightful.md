@@ -123,7 +123,7 @@ in-(向内) + [[sight|spec-spect-]](看) + -ful(充满)
 > [!example]- 语料
 > - Her insightful analysis of the problem revealed its root causes. `[例]`
 >   - 中译：她对问题的深刻分析揭示了其根本原因。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/insightful
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/insightful
 > - The book offers insightful perspectives on the future of education. `[例]`
 >   - 中译：这本书对教育的未来提供了富有洞察力的视角。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/insightful

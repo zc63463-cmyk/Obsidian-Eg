@@ -130,7 +130,7 @@ haste(匆忙，快速) + -en(动词后缀，使动化)
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hasten
 > - These recent poor results have hastened the manager's departure. `[例]`
 >   - 中译：最近这些糟糕的成绩加速了经理的离职。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/hasten
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hasten
 
 ## 主动产出
 

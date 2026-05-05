@@ -117,11 +117,11 @@ dear(珍贵的) + -th(名词后缀，表状态) → 珍贵到稀缺
 
 > [!example]- 语料
 > - A dearth of new homes in the region. `[例]`
->   - 中译：该地区新建住房严重短缺。
+>   - 中译：合格教师的匮乏导致许多学校教室拥挤。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/dearth
 > - The region is suffering from a dearth of medical specialists. `[例]`
->   - 中译：该地区正遭受医疗专家匮乏之苦。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/dearth
+>   - 中译：报告强调了心理健康服务资金的严重不足。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/dearth
 
 ## 主动产出
 

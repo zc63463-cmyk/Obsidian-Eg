@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**无情的，冷酷的**== `be adj` `adj N` [负面/文学]；②==**不间断的，持续不断的**== `adj N` [中性/文学]；
+**adj.** ①==**无情的，冷酷的**==；②不间断的，持续不断的；
 
 > [!tip] 原型义
 > **原型义**：无情的（没有悔恨的）
@@ -125,11 +125,11 @@ review_count: 0
 
 > [!example]- 语料
 > - The researchers proposed a remorseless solution to the problem. `[例]`
->   - 中译：敌人对这座城市进行了无情的轰炸。
+>   - 中译：研究人员提出了一个毫不留情的解决方案。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/remorseless
 > - The company adopted a remorseless approach to improve efficiency. `[例]`
->   - 中译：她无情地追求自己的目标，不顾一切代价。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/remorseless
+>   - 中译：公司采取了一种毫不留情的方法来提高效率。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/remorseless
 
 ## 主动产出
 

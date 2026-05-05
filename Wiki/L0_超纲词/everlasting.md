@@ -124,10 +124,10 @@ ever(永远) + last(持续) + -ing(形容词后缀，表示持续状态)
 
 > [!example]- 语料
 > - The diplomat dedicated her life to the pursuit of everlasting peace between the two nations. `[例]`
->   - 中译：他们许下了永恒的爱情誓言。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/everlasting
+>   - 中译：这位外交官毕生致力于追求两国之间的持久和平。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/everlasting
 > - His everlasting complaints about the weather eventually wore down the patience of everyone around him. `[例]`
->   - 中译：人们一直在寻找一种永葆青春的灵丹妙药。
+>   - 中译：他对天气没完没了的抱怨最终耗尽了周围所有人的耐心。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/everlasting
 
 ## 主动产出

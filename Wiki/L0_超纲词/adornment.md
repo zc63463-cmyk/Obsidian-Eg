@@ -122,13 +122,13 @@ ad-(朝向) + orn(装饰) + -ment(名词后缀，表结果/物)
 > [!example]- 语料
 > - In many cultures, personal adornment serves as a marker of social status. `[例]`
 >   - 中译：在许多文化中，个人装饰是社会地位的标志。
->   - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/adornment
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/adornment
 > - The museum displayed a collection of gold adornments that once belonged to ancient royalty. `[例]`
->   - 中译：博物馆展出了一批曾属于古代王室的金饰收藏。
->   - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/adornment
+>   - 中译：博物馆展出了一批曾经属于古代王室的金饰藏品。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/adornment
 > - The simple elegance of the room required minimal adornment to achieve its refined atmosphere. `[例]`
->   - 中译：房间简约优雅，只需极少的装饰便能营造其精致氛围。
->   - 来源：Collins Dictionary | https://www.collinsdictionary.com/dictionary/english/adornment
+>   - 中译：房间简洁优雅，只需最少的装饰就能营造其精致的氛围。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/adornment
 
 ## 主动产出
 

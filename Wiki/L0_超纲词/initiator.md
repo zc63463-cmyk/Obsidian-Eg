@@ -123,10 +123,10 @@ in-(进入) + iti(开始) + -at(动词) + -or(人)
 
 > [!example]- 语料
 > - She was recognized as the initiator of the environmental campaign. `[例]`
->   - 中译：她被公认为这场环保运动的发起者。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/initiator
+>   - 中译：她被认为是这场环保运动的发起人。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/initiator
 > - The initiator of the project outlined the key objectives at the meeting. `[例]`
->   - 中译：项目发起人在会议上概述了主要目标。
+>   - 中译：项目发起人在会议上概述了关键目标。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/initiator
 
 ## 主动产出

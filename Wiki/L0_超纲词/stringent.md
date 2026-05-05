@@ -123,11 +123,11 @@ review_count: 0
 
 > [!example]- 语料
 > - The most stringent laws in the world are useless unless there is the will to enforce them. `[例]`
->   - 中译：政府实施了严格的环保法规。
+>   - 中译：世界上最严格的法律如果没有执行的意愿，也是毫无用处的。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/stringent
 > - We need to introduce more stringent security measures such as identity cards. `[例]`
->   - 中译：安全标准变得越来越严格。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/stringent
+>   - 中译：我们需要引入更严格的安全措施，例如身份证制度。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/stringent
 
 ## 主动产出
 

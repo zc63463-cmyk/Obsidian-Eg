@@ -126,11 +126,11 @@ review_count: 0
 
 > [!example]- 语料
 > - She ushered us into her office and offered us coffee. `[例]`
->   - 中译：引座员引导观众入座。
+>   - 中译：她把我们领进她的办公室，并给我们倒了咖啡。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/usher
 > - Officials quickly ushered the protesters out of the hall. `[例]`
->   - 中译：新技术 usher 进了一个新的时代。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/usher
+>   - 中译：工作人员迅速将抗议者请出了大厅。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/usher
 
 ## 主动产出
 

@@ -122,12 +122,14 @@ review_count: 0
 
 > [!example]- 语料
 > - There is growing dissatisfaction with the government's handling of the crisis. `[例]`
->   - 中译：客户对服务质量表达了强烈的不满。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/dissatisfaction
+>   - 中译：公众对政府处理危机的方式越来越不满。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/dissatisfaction
 > - Customer dissatisfaction has led to a significant drop in sales this quarter. `[例]`
->   - 中译：公众对政府政策的不满情绪日益高涨。
+>   - 中译：客户不满导致本季度销售额大幅下降。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/dissatisfaction
 > - Many employees expressed dissatisfaction with the new working hours. `[例]`
+>   - 中译：许多员工对新工作时间表示不满。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/dissatisfaction
 
 ## 主动产出
 

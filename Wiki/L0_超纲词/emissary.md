@@ -125,11 +125,11 @@ e-(=ex-, 出来/向外) + [[mit|mit]](送/派遣) + -ary(人/物)
 
 > [!example]- 语料
 > - He served as an emissary of peace between the two warring nations. `[例]`
->   - 中译：总统派遣了一位特使前往中东进行和平谈判。
+>   - 中译：他担任了两个交战国之间的和平使者。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/emissary
 > - She acted as the president's personal emissary to the union leaders. `[例]`
->   - 中译：这位使者携带着一份来自国王的密信。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/emissary
+>   - 中译：她作为总统的私人特使与工会领导人进行了接触。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/emissary
 
 ## 主动产出
 

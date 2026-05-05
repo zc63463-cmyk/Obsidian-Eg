@@ -126,11 +126,11 @@ un-(不，否定前缀) + fair(公平的/美丽的) + -ness(名词后缀，表�
 
 > [!example]- 语料
 > - The Act does not really address the fundamental unfairness of the system. `[例]`
->   - 中译：她对这种不公平的待遇感到愤怒。
+>   - 中译：该法案并没有真正解决体制中根本性的不公平问题。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/unfairness
 > - They can recall the lasting resentment caused by a teacher's blatant unfairness. `[例]`
->   - 中译：制度的缺陷导致了结果的不公平。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/unfairness
+>   - 中译：他们还记得一位老师公然的不公平所引发的持久怨恨。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/unfairness
 
 ## 主动产出
 

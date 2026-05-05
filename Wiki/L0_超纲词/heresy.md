@@ -122,11 +122,11 @@ review_count: 0
 
 > [!example]- 语料
 > - Radical remarks like this amount to heresy for most members of the Republican party. `[例]`
->   - 中译：这样的激进言论对于大多数共和党成员来说无异于异端邪说。
+>   - 中译：这样的激进言论对大多数共和党成员来说无异于异端邪说。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/heresy
 > - She committed the heresy of playing a Lady Gaga song on a classical music station. `[例]`
->   - 中译：她在古典音乐电台播放Lady Gaga的歌曲，犯了大忌。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/heresy
+>   - 中译：她在古典音乐电台播放Lady Gaga的歌曲，简直是犯了大忌。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/heresy
 
 ## 主动产出
 

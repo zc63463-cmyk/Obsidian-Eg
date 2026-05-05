@@ -127,11 +127,11 @@ gran(=grain, 颗粒，拉丁语 *granum*) + -ite(矿物/岩石后缀)
 
 > [!example]- 语料
 > - She faced the crisis with granite determination. `[例]`
->   - 中译：她以坚如磐石的决心面对危机。
+>   - 中译：她以坚如磐石的决心面对这场危机。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/granite
 > - The mountains are composed mainly of granite. `[例]`
 >   - 中译：这些山脉主要由花岗岩构成。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/granite
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/granite
 
 ## 主动产出
 

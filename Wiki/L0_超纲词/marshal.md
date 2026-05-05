@@ -127,10 +127,10 @@ review_count: 0
 
 > [!example]- 语料
 > - The fighting in the city followed reports of the rebels marshalling their forces in the countryside. `[例]`
->   - 中译：城市中的战斗发生在叛乱分子在农村集结力量的报告之后。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/marshal
+>   - 中译：城市中的战斗是在有报道称叛军在乡村集结力量之后发生的。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/marshal
 > - The company is marshalling its forces for a long court case. `[例]`
->   - 中译：公司正在为一场漫长的诉讼案集结力量。
+>   - 中译：公司正在为一场漫长的诉讼集结力量。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/marshal
 
 ## 主动产出

@@ -125,8 +125,8 @@ review_count: 0
 >   - 中译：国王爱德华八世于1936年退位，以便与沃利斯·辛普森结婚。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/abdicate
 > - A leader who abdicates responsibility when a crisis arises cannot expect to maintain the trust of the people. `[例]`
->   - 中译：一个在危机出现时放弃责任的领导者，不可能指望维持人民的信任。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/abdicate
+>   - 中译：在危机发生时放弃责任的领导者，不可能指望维持人民的信任。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/abdicate
 
 ## 主动产出
 

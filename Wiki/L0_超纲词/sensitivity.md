@@ -130,11 +130,11 @@ review_count: 0
 
 > [!example]- 语料
 > - The police showed commendable sensitivity in their handling of the case. `[例]`
->   - 中译：她对别人的感受非常敏感。
+>   - 中译：警方在处理此案时表现出了值得称赞的敏感性。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sensitivity
 > - I should have warned you about her sensitivity to criticism. `[例]`
->   - 中译：这种材料的灵敏度极高，能检测到微小的变化。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/sensitivity
+>   - 中译：我本该提醒你她对批评很敏感。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sensitivity
 
 ## 主动产出
 

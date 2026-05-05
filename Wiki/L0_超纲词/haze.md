@@ -128,11 +128,11 @@ review_count: 0
 
 > [!example]- 语料
 > - The road through the desert shimmered in the haze. `[例]`
->   - 中译：穿过沙漠的道路在薄雾中闪烁。
+>   - 中译：穿越沙漠的道路在薄雾中闪烁着微光。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/haze
 > - Ten fraternity members had their heads shaved during hazing last week. `[例]`
->   - 中译：上周有十名兄弟会成员在入会欺凌中被剃了光头。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/haze
+>   - 中译：上周，十名兄弟会成员在入会欺凌仪式中被剃了光头。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/haze
 
 ## 主动产出
 

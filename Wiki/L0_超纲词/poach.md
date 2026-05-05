@@ -126,11 +126,11 @@ review_count: 0
 
 > [!example]- 语料
 > - We had poached eggs for breakfast. `[例]`
->   - 中译：偷猎者在保护区非法猎杀大象。
+>   - 中译：我们早餐吃了水煮蛋。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/poach
 > - Do you like pears poached in red wine? `[例]`
->   - 中译：公司经常从竞争对手那里挖走人才。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/poach
+>   - 中译：你喜欢红酒炖梨吗？
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/poach
 
 ## 主动产出
 

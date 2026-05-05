@@ -125,11 +125,11 @@ review_count: 0
 
 > [!example]- 语料
 > - Painting originated in prehistoric times. `[例]`
->   - 中译：博物馆里展出了史前时代的化石。
+>   - 中译：绘画起源于史前时代。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/prehistoric
 > - He has prehistoric views about women who have careers. `[例]`
->   - 中译：这些洞穴壁画可以追溯到史前时期。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/prehistoric
+>   - 中译：他对有职业的女性持有极其陈旧的观念。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/prehistoric
 
 ## 主动产出
 

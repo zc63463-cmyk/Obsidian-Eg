@@ -126,10 +126,10 @@ review_count: 0
 
 > [!example]- 语料
 > - The unexpected question flustered the candidate during the interview. `[例]`
->   - 中译：在面试中，她被那些尖锐的问题弄得慌张不已。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/fluster
+>   - 中译：面试中这个意想不到的问题让候选人慌了神。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fluster
 > - She arrived at the meeting in a fluster, having forgotten her notes. `[例]`
->   - 中译：不要让小问题把你弄得手忙脚乱。
+>   - 中译：她忘了带笔记，慌慌张张地赶到会议室。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fluster
 
 ## 主动产出

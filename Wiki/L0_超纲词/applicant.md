@@ -124,11 +124,11 @@ ap-(=ad-, 向，加强) + [[plic-plex|plic]](折叠，拉丁语 *plicare*) + -an
 
 > [!example]- 语料
 > - The company received over 500 applications from qualified applicants. `[例]`
->   - 中译：公司收到了来自合格申请人的500多份申请。
+>   - 中译：公司收到了超过500份来自合格申请人的申请。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/applicant
 > - Applicants must submit their materials before the deadline. `[例]`
 >   - 中译：申请人必须在截止日期前提交材料。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/applicant
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/applicant
 
 ## 主动产出
 

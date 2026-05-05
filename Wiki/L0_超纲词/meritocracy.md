@@ -123,10 +123,10 @@ merit(优点，才能，拉丁语 *meritum*) + cracy(统治，希腊语 *kratos*
 
 > [!example]- 语料
 > - The company is a meritocracy. Good work is rewarded with promotions. `[例]`
->   - 中译：这家公司实行唯才是举的制度。优秀的工作表现会获得晋升奖励。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/meritocracy
+>   - 中译：这家公司实行精英管理，优秀的表现会获得晋升奖励。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/meritocracy
 > - The city firm is a true meritocracy where every employee has the opportunity to advance. `[例]`
->   - 中译：这家城市公司是真正的精英治理企业，每位员工都有晋升的机会。
+>   - 中译：这家城市公司是真正的精英制度，每位员工都有晋升的机会。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/meritocracy
 
 ## 主动产出

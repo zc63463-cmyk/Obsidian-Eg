@@ -122,11 +122,11 @@ review_count: 0
 
 > [!example]- 语料
 > - The couch was upholstered with a bright, floral fabric. `[例]`
->   - 中译：她决定重新装饰客厅的旧沙发。
+>   - 中译：这张沙发用一块明亮的碎花面料做了包覆。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/upholster
 > - The cabin, meanwhile, is home to two bucket seats upholstered in black leather with blue inserts and red Oreca racing harnesses, air conditioning, and an Alpine CD stereo system. `[例]`
->   - 中译：工匠用精美的皮革为椅子做了软包。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/upholster
+>   - 中译：与此同时，驾驶舱内装有两个黑色皮革配蓝色镶边和红色Oreca赛车安全带的桶形座椅，还配有空调和Alpine CD音响系统。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/upholster
 
 ## 主动产出
 

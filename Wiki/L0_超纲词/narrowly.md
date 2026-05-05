@@ -126,8 +126,8 @@ narrow（窄）+ -ly（副词后缀，……地）
 
 > [!example]- 语料
 > - She narrowly missed winning the race. `[例]`
->   - 中译：她以微弱之差与赢得比赛失之交臂。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/narrowly
+>   - 中译：她以微弱的差距与比赛冠军失之交臂。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/narrowly
 > - A narrowly interpreted law. `[例]`
 >   - 中译：一部被狭义解释的法律。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/narrowly

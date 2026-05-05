@@ -124,14 +124,14 @@ in-(不，否定) + evit(避免，拉丁语 *evitare*) + -ably(可…地)
 
 > [!example]- 语料
 > - Technological change will inevitably lead to job displacement in some sectors. `[例]`
->   - 中译：技术变革将不可避免地导致某些行业的就业岗位被取代。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/inevitably
+>   - 中译：技术变革在某些领域不可避免地会导致工作岗位的流失。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/inevitably
 > - The decision inevitably caused controversy among the public. `[例]`
->   - 中译：这一决定不可避免地在公众中引发了争议。
+>   - 中译：这个决定不可避免地在公众中引发了争议。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/inevitably
 > - Old traditions will inevitably fade as modern society advances. `[例]`
->   - 中译：随着现代社会的进步，旧传统将不可避免地消退。
->   - 来源：Collins | https://www.collinsdictionary.com/dictionary/english/inevitably
+>   - 中译：随着现代社会的进步，旧传统不可避免地会逐渐消亡。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/inevitably
 
 ## 主动产出
 

@@ -120,11 +120,11 @@ thermo-(热，源自希腊语 *therme*) + [[st-sta-stat]](站立/保持，stat �
 
 > [!example]- 语料
 > - A central heating thermostat. `[例]`
->   - 中译：她把恒温器调到了25度。
+>   - 中译：一个中央供暖恒温器。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/thermostat
 > - I set the thermostat to 68 degrees. `[例]`
->   - 中译：智能恒温器可以自动调节室内温度。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/thermostat
+>   - 中译：我把恒温器设定到68度。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/thermostat
 
 ## 主动产出
 

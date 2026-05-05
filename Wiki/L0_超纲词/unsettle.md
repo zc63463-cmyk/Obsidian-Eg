@@ -127,11 +127,11 @@ un-(使离开/反转) + [[st-sta-stat]](站立/安定→settle 源自古英语 *
 
 > [!example]- 语料
 > - Even the most experienced batsmen were unsettled by the speed of this bowler. `[例]`
->   - 中译：突然的变故让她感到不安。
+>   - 中译：即使是经验最丰富的击球手也被这位投球手的速度所扰乱。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/unsettle
 > - These efforts unsettled nationalists in all camps. `[例]`
->   - 中译：坏消息使整个团队陷入了焦虑。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/unsettle
+>   - 中译：这些举措使各阵营的民族主义者感到不安。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/unsettle
 
 ## 主动产出
 

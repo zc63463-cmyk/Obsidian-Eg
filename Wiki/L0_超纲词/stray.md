@@ -129,11 +129,11 @@ review_count: 0
 
 > [!example]- 语料
 > - A herd of cattle had strayed into the road. `[例]`
->   - 中译：一只流浪狗在街上徘徊。
+>   - 中译：一群牛走失到了公路上。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/stray
 > - They got lost when they strayed too far from the path. `[例]`
->   - 中译：讨论偏离了主题，开始涉及无关的内容。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/stray
+>   - 中译：他们因为偏离路线太远而迷路了。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/stray
 
 ## 主动产出
 

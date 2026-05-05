@@ -125,9 +125,9 @@ light（轻的）+ heart（心）+ -ed（形容词后缀，表示"具有……�
 > [!example]- 语料
 > - Despite the serious topic, the author maintains a light-hearted tone throughout the essay. `[例]`
 >   - 中译：尽管话题严肃，作者在整篇文章中保持了轻松的语调。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/light-hearted
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/light-hearted
 > - They exchanged light-hearted banter over coffee. `[例]`
->   - 中译：他们一边喝咖啡一边轻松地打趣。
+>   - 中译：他们一边喝咖啡一边闲聊打趣。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/light-hearted
 
 ## 主动产出

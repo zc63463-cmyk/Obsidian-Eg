@@ -124,11 +124,11 @@ review_count: 0
 
 > [!example]- 语料
 > - The monarchy is increasingly seen as an anachronism in the modern democratic world. `[例]`
->   - 中译：在现代民主世界中，君主制越来越被视为一种过时之物。
+>   - 中译：在现代民主世界中，君主制越来越被视为一种过时的制度。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/anachronism
 > - The use of typewriters in offices today is a clear anachronism. `[例]`
->   - 中译：如今在办公室使用打字机显然是一种时代错误。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/anachronism
+>   - 中译：如今在办公室使用打字机显然是一种过时的做法。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/anachronism
 
 ## 主动产出
 

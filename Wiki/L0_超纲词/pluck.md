@@ -129,11 +129,11 @@ review_count: 0
 
 > [!example]- 语料
 > - Caged birds sometimes pluck out their breast feathers. `[例]`
->   - 中译：她弹奏吉他琴弦，旋律优美。
+>   - 中译：笼中鸟有时会拔掉自己的胸羽。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pluck
 > - Do you pluck your eyebrows (= remove some of the hairs from them to give them a better shape )? `[例]`
->   - 中译：他鼓起勇气在舞台上发言。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/pluck
+>   - 中译：你会修眉毛吗？
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pluck
 
 ## 主动产出
 

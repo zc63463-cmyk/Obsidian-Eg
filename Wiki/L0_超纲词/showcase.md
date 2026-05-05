@@ -128,11 +128,11 @@ show(展示) + case(箱子，容器)
 
 > [!example]- 语料
 > - The Venice Film Festival has always been the showcase of Italian cinema. `[例]`
->   - 中译：这个展览是当地艺术家的展示平台。
+>   - 中译：威尼斯电影节一直是意大利电影的展示窗口。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/showcase
 > - The exhibition is an annual showcase for British design and innovation. `[例]`
->   - 中译：这座博物馆展示了该国丰富的文化遗产。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/showcase
+>   - 中译：这个展览是展示英国设计和创新的年度盛会。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/showcase
 
 ## 主动产出
 

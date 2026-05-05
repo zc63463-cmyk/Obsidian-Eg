@@ -128,11 +128,11 @@ un-(不，否定前缀) + in-(=toward, 向) + [[tend-tens|tend]](伸展/倾向) 
 
 > [!example]- 语料
 > - Perhaps I misled you, but it was quite unintentional (= I did not mean to). `[例]`
->   - 中译：这是一个无意的错误，并非故意为之。
+>   - 中译：也许我误导了你，但这完全是无意的。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/unintentional
 > - An unintentional insult that nevertheless was very hurtful. `[例]`
->   - 中译：他的话造成了无意的伤害。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/unintentional
+>   - 中译：一句无意的话却非常伤人。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/unintentional
 
 ## 主动产出
 

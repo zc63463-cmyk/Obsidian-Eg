@@ -123,12 +123,14 @@ divers-(divers-/diverg-，不同/转向) + -ity(名词后缀) → 不同的状�
 
 > [!example]- 语料
 > - The university prides itself on the diversity of its student body. `[例]`
->   - 中译：我们致力于在工作场所促进多样性。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/diversity
+>   - 中译：这所大学以其学生群体的多样性而自豪。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/diversity
 > - Cultural diversity enriches our society and promotes mutual understanding. `[例]`
->   - 中译：生物多样性对于维持健康的生态系统至关重要。
+>   - 中译：文化多样性丰富了我们的社会，促进了相互理解。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/diversity
 > - The company has made efforts to increase diversity in its workforce. `[例]`
+>   - 中译：公司已采取措施增加员工队伍的多样性。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/diversity
 
 ## 主动产出
 

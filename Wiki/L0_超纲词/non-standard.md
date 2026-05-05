@@ -121,11 +121,11 @@ non-(不，否定前缀) + [[st-sta-stat|stand]](=stand-, 站立/标准，拉丁
 
 > [!example]- 语料
 > - The researchers proposed a non standard solution to the problem. `[例]`
->   - 中译：研究人员提出了一个非标准的解决方案。
+>   - 中译：研究人员提出了一种非标准的解决方案来应对这一问题。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/non-standard
 > - The company adopted a non standard approach to improve efficiency. `[例]`
->   - 中译：公司采用了一种非标准的方法来提高效率。
->   - 来源：Collins | https://www.collinsdictionary.com/dictionary/english/non-standard
+>   - 中译：公司采取了一种非标准的方法来提高效率。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/non-standard
 
 ## 主动产出
 

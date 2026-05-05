@@ -125,7 +125,7 @@ lend(借出) + -er(人/物)
 > [!example]- 语料
 > - The central bank acts as a lender of last resort during financial crises. `[例]`
 >   - 中译：中央银行在金融危机期间充当最后贷款人。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/lender
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lender
 > - Borrowers must repay the loan with interest to the lender. `[例]`
 >   - 中译：借款人必须向贷款人偿还本金和利息。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lender

@@ -122,11 +122,11 @@ tax（税）+ payer（支付者，pay + -er）。
 
 > [!example]- 语料
 > - Taxpayers' money should not be going to companies not following the law. `[例]`
->   - 中译：纳税人的钱应该被合理使用。
+>   - 中译：纳税人的钱不应该流向不守法的企业。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/taxpayer
 > - Taxpayers should not have to pay for the failure of private companies. `[例]`
->   - 中译：每个公民都有依法纳税的义务。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/taxpayer
+>   - 中译：纳税人不应该为私营企业的失败买单。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/taxpayer
 
 ## 主动产出
 

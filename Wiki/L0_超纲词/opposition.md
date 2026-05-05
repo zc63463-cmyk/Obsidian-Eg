@@ -126,10 +126,10 @@ review_count: 0
 
 > [!example]- 语料
 > - There is a lot of opposition to the proposed changes. `[例]`
->   - 中译：该提案遭到了强烈的反对。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/opposition
+>   - 中译：对拟议的变革存在很多反对意见。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/opposition
 > - The unions are in opposition to the government over the issue of increasing the minimum wage. `[例]`
->   - 中译：反对党在议会中投票反对这项法案。
+>   - 中译：在提高最低工资的问题上，工会与政府站在了对立面。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/opposition
 
 ## 主动产出

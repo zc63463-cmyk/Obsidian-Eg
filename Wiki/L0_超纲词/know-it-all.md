@@ -123,10 +123,10 @@ know(知道) + it(它) + all(全部)
 
 > [!example]- 语料
 > - Nobody likes a know-it-all who always corrects others. `[例]`
->   - 中译：没有人喜欢总是纠正别人的万事通。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/know-it-all
+>   - 中译：没有人喜欢一个总是纠正别人的万事通。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/know-it-all
 > - But Tracee Chimo, who plays a bubbly, know-it-all maid, is a standout. `[例]`
->   - 中译：但饰演活泼、自以为是的侍女的特蕾西·奇莫却格外出色。
+>   - 中译：但饰演一个活泼的、自以为是的侍女的特蕾西·奇莫却格外出众。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/know-it-all
 
 ## 主动产出

@@ -125,11 +125,11 @@ simmer（拟声词，模拟水微微冒泡的声音）
 
 > [!example]- 语料
 > - Leave the vegetables to simmer for a few minutes. `[例]`
->   - 中译：把汤用小火慢慢炖煮三十分钟。
+>   - 中译：让蔬菜用小火炖几分钟。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/simmer
 > - The strike has been simmering for weeks. `[例]`
->   - 中译：紧张局势一直在暗中酝酿。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/simmer
+>   - 中译：罢工已经酝酿了好几周。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/simmer
 
 ## 主动产出
 

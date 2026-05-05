@@ -129,11 +129,11 @@ review_count: 0
 
 > [!example]- 语料
 > - Only a cursory inspection of the building's electrical wiring was done. `[例]`
->   - 中译：仅对建筑物的电线进行了粗略的检查。
+>   - 中译：他在签署报告之前只是草草看了一眼。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/cursory
 > - Even the most cursory look at the organization's records shows problems. `[例]`
->   - 中译：即使对该组织的记录做最粗略的一瞥，也能发现问题。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/cursory
+>   - 中译：对证据的粗略检查就发现了几个不一致之处。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/cursory
 
 ## 主动产出
 

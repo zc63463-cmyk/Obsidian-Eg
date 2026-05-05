@@ -123,11 +123,11 @@ bi-(二/两) + [[sec-sect|sect]](切)
 
 > [!example]- 语料
 > - A narrow river bisects the old town into two distinct halves. `[例]`
->   - 中译：一条狭窄的河流将老城一分为二，分成两个截然不同的部分。
->   - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/bisect
+>   - 中译：这条河将城市一分为二，形成了两个不同的街区。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bisect
 > - In geometry class, students learned how to bisect an angle using a compass and straightedge. `[例]`
->   - 中译：在几何课上，学生们学习了如何用圆规和直尺平分一个角。
->   - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/bisect
+>   - 中译：通过圆心画一条直线，会将圆平分为两个相等的半圆。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bisect
 
 ## 主动产出
 

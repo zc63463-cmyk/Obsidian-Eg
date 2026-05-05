@@ -120,8 +120,8 @@ review_count: 0
 
 > [!example]- 语料
 > - The painter has managed to capture every nuance of the woman's expression. `[例]`
->   - 中译：画家成功地捕捉到了那位女性表情的每一个细微之处。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/nuance
+>   - 中译：这位画家成功地捕捉到了那位女性表情的每一个细微之处。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/nuance
 > - Linguists explore the nuances of language. `[例]`
 >   - 中译：语言学家探索语言的细微差别。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/nuance

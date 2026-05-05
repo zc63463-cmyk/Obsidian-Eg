@@ -129,11 +129,11 @@ rut 为日耳曼语源词汇（可能与拉丁语 *rota* "轮子"同源），无
 
 > [!example]- 语料
 > - During the rut, stags can be seen fighting for females. `[例]`
->   - 中译：她陷入了日复一日的单调工作中，感到十分厌倦。
+>   - 中译：在发情期，可以看到雄鹿为争夺雌鹿而搏斗。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rut
 > - The bull elephant seal only puts on this display when in rut. `[例]`
->   - 中译：我们需要打破常规，尝试新的方法。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/rut
+>   - 中译：雄象海豹只有在发情期才会进行这种展示。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rut
 
 ## 主动产出
 

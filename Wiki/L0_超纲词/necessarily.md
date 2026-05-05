@@ -126,8 +126,8 @@ review_count: 0
 
 > [!example]- 语料
 > - The fact that something is cheap doesn't necessarily mean it's of low quality. `[例]`
->   - 中译：便宜的东西不一定意味着质量差。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/necessarily
+>   - 中译：某样东西便宜并不一定意味着质量差。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/necessarily
 > - You can love someone without necessarily wanting to marry them. `[例]`
 >   - 中译：你可以爱一个人，但不一定想和对方结婚。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/necessarily

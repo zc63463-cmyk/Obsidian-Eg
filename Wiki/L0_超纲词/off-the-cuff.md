@@ -122,11 +122,11 @@ off(脱离) + the + cuff(袖口)
 
 > [!example]- 语料
 > - The researchers proposed a off the cuff solution to the problem. `[例]`
->   - 中译：他即兴发表了一段精彩的演讲。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/off-the-cuff
+>   - 中译：研究人员提出了一种即兴的解决方案来应对这一问题。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/off-the-cuff
 > - The company adopted a off the cuff approach to improve efficiency. `[例]`
->   - 中译：我不想发表即兴评论，让我考虑一下。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/off-the-cuff
+>   - 中译：公司采取了一种即兴的方法来提高效率。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/off-the-cuff
 
 ## 主动产出
 

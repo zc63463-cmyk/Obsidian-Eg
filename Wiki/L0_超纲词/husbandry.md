@@ -124,14 +124,14 @@ hus(=house, 房屋，古诺斯语 *hus*) + band(=bondi, 居住者/管理者) + -
 
 > [!example]- 语料
 > - Animal husbandry practices have evolved significantly with advances in genetic science. `[例]`
->   - 中译：随着遗传科学的进步，畜牧实践已经发生了显著变化。
+>   - 中译：随着遗传科学的进步，畜牧业实践已经发生了显著变化。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/husbandry
 > - The principle of good husbandry of natural resources is essential for sustainable development. `[例]`
->   - 中译：对自然资源进行良好管理的原则对于可持续发展至关重要。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/husbandry
+>   - 中译：善用自然资源的原则对于可持续发展至关重要。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/husbandry
 > - Traditional crop husbandry techniques are being revived by organic farmers across the region. `[例]`
->   - 中译：该地区的有机农民正在恢复传统的作物管理技术。
->   - 来源：Collins | https://www.collinsdictionary.com/dictionary/english/husbandry
+>   - 中译：该地区的有机农民正在恢复传统的作物种植技术。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/husbandry
 
 ## 主动产出
 

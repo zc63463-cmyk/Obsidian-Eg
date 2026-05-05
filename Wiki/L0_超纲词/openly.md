@@ -122,10 +122,10 @@ open(打开/公开) + -ly(副词后缀)
 
 > [!example]- 语料
 > - They were openly contemptuous of my suggestions. `[例]`
->   - 中译：他公开批评了政府的政策。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/openly
+>   - 中译：他们公然蔑视我的建议。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/openly
 > - We discussed our reservations about the contract quite openly. `[例]`
->   - 中译：她公开谈论了自己的心理健康问题。
+>   - 中译：我们相当坦诚地讨论了对合同的保留意见。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/openly
 
 ## 主动产出

@@ -127,11 +127,11 @@ whirl（旋转）+ wind（风），复合词，无拉丁/希腊词根可拆分�
 
 > [!example]- 语料
 > - They married three months after they met - it was a real whirlwind romance. `[例]`
->   - 中译：她经历了一段旋风般的浪漫恋情。
+>   - 中译：他们相识三个月后就结婚了——这是一段真正的旋风式恋情。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/whirlwind
 > - The film created a whirlwind of controversy. `[例]`
->   - 中译：一阵旋风卷起了地上的落叶。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/whirlwind
+>   - 中译：这部电影引发了一场舆论风暴。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/whirlwind
 
 ## 主动产出
 

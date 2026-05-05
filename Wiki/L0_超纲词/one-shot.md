@@ -120,11 +120,11 @@ one(一) + shot(射击/尝试)
 
 > [!example]- 语料
 > - The researchers proposed a one shot solution to the problem. `[例]`
->   - 中译：这是一次性的机会，你不会再有第二次。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/one-shot
+>   - 中译：研究人员提出了一种一次性的解决方案来应对这一问题。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/one-shot
 > - The company adopted a one shot approach to improve efficiency. `[例]`
->   - 中译：他们决定采用一次性实验来测试这个假设。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/one-shot
+>   - 中译：公司采取了一种一次性的方法来提高效率。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/one-shot
 
 ## 主动产出
 

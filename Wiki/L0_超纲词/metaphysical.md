@@ -123,9 +123,11 @@ meta-(超越，在……之后，希腊语) + phys(自然/物理，希腊语 *ph
 
 > [!example]- 语料
 > - Most teenagers ask themselves metaphysical questions such as "What is love ?" and "What is death? `[例]`
+>   - 中译：大多数青少年都会问自己一些形而上学的问题，比如“什么是爱？”和“什么是死亡？”
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/metaphysical
 > - He is practical and not given to metaphysical speculation. `[例]`
->   - 中译：他很务实，不倾向于形而上学的思辨。
->   - 来源：Collins | https://www.collinsdictionary.com/dictionary/english/metaphysical
+>   - 中译：他是个务实的人，不倾向于形而上学的思辨。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/metaphysical
 
 ## 主动产出
 

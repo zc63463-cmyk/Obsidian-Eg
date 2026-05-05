@@ -132,11 +132,11 @@ review_count: 0
 
 > [!example]- 语料
 > - As a pathologist of considerable standing, his opinion will have a lot of influence. `[例]`
->   - 中译：她在这所大学享有很高的学术声望。
+>   - 中译：作为一位具有相当声望的病理学家，他的意见将有很大的影响力。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/standing
 > - A financial scandal would shake the Institute's standing in the international academic community. `[例]`
->   - 中译：委员会的常设委员每年召开四次会议。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/standing
+>   - 中译：一起财务丑闻将动摇该研究所在国际学术界的地位。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/standing
 
 ## 主动产出
 

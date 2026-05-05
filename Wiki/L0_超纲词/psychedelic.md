@@ -131,11 +131,11 @@ review_count: 0
 
 > [!example]- 语料
 > - I made my dad a playlist with songs from his favourite psychedelic bands. `[例]`
->   - 中译：1960年代的迷幻音乐影响了整个文化。
+>   - 中译：我给爸爸做了一个播放列表，收录了他最喜欢的迷幻乐队的歌曲。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/psychedelic
 > - Emerging health care tools, including AI and psychedelics , in readers' eyes. `[例]`
->   - 中译：艺术家创作了色彩鲜艳的迷幻画作。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/psychedelic
+>   - 中译：在读者眼中，新兴的医疗工具，包括人工智能和迷幻药物。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/psychedelic
 
 ## 主动产出
 

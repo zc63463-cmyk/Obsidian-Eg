@@ -122,8 +122,8 @@ futur(=future, 未来) + -o-(连接字母) + [[log|lect-leg]](说话/研究) + -
 
 > [!example]- 语料
 > - Futurologists have predicted a cashless society ever since the invention of " plastic money ". `[例]`
->   - 中译：自从"塑料货币"发明以来，未来学家就一直在预测无现金社会的到来。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/futurologist
+>   - 中译：自从“塑料货币”（信用卡）发明以来，未来学家就一直预测将出现无现金社会。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/futurologist
 > - Trend-spotters and futurologists have become an important part of the modern business world. `[例]`
 >   - 中译：趋势观察者和未来学家已成为现代商业世界的重要组成部分。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/futurologist

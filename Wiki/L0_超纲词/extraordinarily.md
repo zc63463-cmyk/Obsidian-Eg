@@ -126,10 +126,10 @@ extra-(超出/在……之外) + ordin(顺序/寻常，源自拉丁语 *ordo*) +
 
 > [!example]- 语料
 > - The team performed extraordinarily well under pressure and secured the championship title. `[例]`
->   - 中译：她是一位才华横溢的音乐家。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/extraordinarily
+>   - 中译：该队在压力下表现出色，赢得了冠军头衔。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/extraordinarily
 > - She is an extraordinarily gifted musician who began composing at the age of five. `[例]`
->   - 中译：天气异常温暖，达到了十二月的最高纪录。
+>   - 中译：她是一位天赋异禀的音乐家，五岁就开始作曲。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/extraordinarily
 
 ## 主动产出

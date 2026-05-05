@@ -124,11 +124,11 @@ review_count: 0
 
 > [!example]- 语料
 > - The recent travails of the airline industry. `[例]`
->   - 中译：经过多年的艰辛努力，她终于完成了这部巨著。
+>   - 中译：航空业近期的困境。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/travail
 > - The travails of life in post-war Britain. `[例]`
->   - 中译：分娩的阵痛是每位母亲都要经历的。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/travail
+>   - 中译：战后英国生活的艰辛。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/travail
 
 ## 主动产出
 

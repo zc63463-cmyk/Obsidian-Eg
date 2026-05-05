@@ -128,11 +128,11 @@ spam（源自 SPAM 午餐肉品牌名，后因 Monty Python 喜剧小品中反�
 
 > [!example]- 语料
 > - I signed up to a mailing list and then they spammed me for months. `[例]`
->   - 中译：我的收件箱里堆满了垃圾邮件。
+>   - 中译：我注册了一个邮件列表，然后他们连续几个月给我发送垃圾邮件。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/spam
 > - Some Internet service providers block spam to subscribers. `[例]`
->   - 中译：请勿在论坛上发布垃圾信息。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/spam
+>   - 中译：一些互联网服务提供商会为订阅用户屏蔽垃圾邮件。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/spam
 
 ## 主动产出
 

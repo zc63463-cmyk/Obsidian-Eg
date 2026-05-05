@@ -125,10 +125,10 @@ review_count: 0
 
 > [!example]- 语料
 > - A Marine honour guard flanks the president during ceremonial events at the White House. `[例]`
->   - 中译：在白宫的典礼活动中，海军陆战队仪仗队分列总统两侧。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/ceremonial
+>   - 中译：总统在就职典礼上穿着礼服。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ceremonial
 > - The men were dressed in ceremonial black robes. `[例]`
->   - 中译：男人们穿着仪式用的黑色长袍。
+>   - 中译：交换戒指是许多婚礼仪式中的传统习俗。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ceremonial
 
 ## 主动产出

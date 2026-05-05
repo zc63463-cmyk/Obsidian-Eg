@@ -126,11 +126,11 @@ review_count: 0
 
 > [!example]- 语料
 > - Today's sermon was on the importance of compassion. `[例]`
->   - 中译：牧师在布道中谈论了宽恕的重要性。
+>   - 中译：今天的布道是关于同情心的重要性。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sermon
 > - I really don't think it's a politician's job to go delivering sermons on public morality. `[例]`
->   - 中译：他发表了一篇关于环保的长篇说教。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/sermon
+>   - 中译：我真的不认为到处对公众道德说教是政治家的工作。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sermon
 
 ## 主动产出
 

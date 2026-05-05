@@ -130,11 +130,11 @@ geo-（地球，来自希腊语 *gē* "地球"）+ centr（中心，来自拉丁
 
 > [!example]- 语料
 > - The geocentric model dominated Western astronomy for over a thousand years. `[例]`
->   - 中译：地心说模型主导西方天文学长达一千多年。
+>   - 中译：地心说模型统治了西方天文学一千多年。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/geocentric
 > - The shift from geocentric to heliocentric models transformed our understanding of the universe. `[例]`
 >   - 中译：从地心说到日心说的转变彻底改变了我们对宇宙的认识。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/geocentric
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/geocentric
 
 ## 主动产出
 

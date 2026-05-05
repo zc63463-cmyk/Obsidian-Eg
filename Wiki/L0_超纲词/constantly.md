@@ -122,11 +122,11 @@ con-（始终）+ [[st-sta-stat]]（站立，拉丁语 *stare*）+ -ant（形容
 
 > [!example]- 语料
 > - She has the TV on constantly. `[例]`
->   - 中译：她一直开着电视。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/constantly
+>   - 中译：技术在不断发展，企业必须适应变化才能保持竞争力。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/constantly
 > - He's constantly changing his mind. `[例]`
->   - 中译：他老是改变主意。
->   - 来源：Collins | https://www.collinsdictionary.com/dictionary/english/constantly
+>   - 中译：她不停地查看手机上的消息和通知。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/constantly
 
 ## 主动产出
 

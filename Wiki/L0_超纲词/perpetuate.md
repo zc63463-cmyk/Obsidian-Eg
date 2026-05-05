@@ -122,11 +122,11 @@ review_count: 0
 
 > [!example]- 语料
 > - Increasing the supply of weapons will only perpetuate the violence and anarchy. `[例]`
->   - 中译：这些刻板印象只会延续不平等。
+>   - 中译：增加武器供应只会延续暴力和无政府状态。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/perpetuate
 > - The aim of the association is to perpetuate the skills of traditional furniture design. `[例]`
->   - 中译：学校不应该延续社会的不公正。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/perpetuate
+>   - 中译：该协会的宗旨是传承传统家具设计的技艺。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/perpetuate
 
 ## 主动产出
 

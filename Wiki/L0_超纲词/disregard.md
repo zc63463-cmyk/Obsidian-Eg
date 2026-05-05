@@ -122,12 +122,14 @@ review_count: 0
 
 > [!example]- 语料
 > - He showed a total disregard for the safety regulations. `[例]`
->   - 中译：他完全无视了安全规定。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/disregard
+>   - 中译：他完全无视安全规定。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/disregard
 > - The government disregarded the concerns raised by environmental groups. `[例]`
->   - 中译：她公然无视他人的感受。
+>   - 中译：政府无视环保组织提出的担忧。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/disregard
 > - She disregarded her doctor's advice and continued working overtime. `[例]`
+>   - 中译：她无视医生的建议，继续加班工作。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/disregard
 
 ## 主动产出
 

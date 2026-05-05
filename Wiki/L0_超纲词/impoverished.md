@@ -119,11 +119,11 @@ im-(=in-, 使进入) + pover(贫穷，拉丁语 *pauper*) + -ish(动词后缀，
 
 > [!example]- 语料
 > - The government launched a series of programs to improve education in impoverished rural areas. `[例]`
->   - 中译：政府启动了一系列项目来改善贫困农村地区的教育。
+>   - 中译：政府推出了一系列计划，以改善贫困农村地区的教育状况。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/impoverished
 > - Reading widely is the best remedy for an impoverished vocabulary. `[例]`
->   - 中译：广泛阅读是词汇贫乏的最佳良药。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/impoverished
+>   - 中译：广泛阅读是弥补词汇量匮乏的最佳良方。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/impoverished
 
 ## 主动产出
 

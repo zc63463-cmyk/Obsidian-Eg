@@ -127,11 +127,11 @@ review_count: 0
 
 > [!example]- 语料
 > - The researchers proposed a persistent solution to the problem. `[例]`
->   - 中译：她坚持不懈地追求自己的梦想。
+>   - 中译：研究人员提出了一个持久的解决方案。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/persistent
 > - The company adopted a persistent approach to improve efficiency. `[例]`
->   - 中译：持续的降雨导致了洪水。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/persistent
+>   - 中译：公司采用了一种坚持不懈的方法来提高效率。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/persistent
 
 ## 主动产出
 

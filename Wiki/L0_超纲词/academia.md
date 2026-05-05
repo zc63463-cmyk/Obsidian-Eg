@@ -128,8 +128,8 @@ academ(学术的，源自希腊语 Akademeia) + -ia(名词后缀，表领域/状
 >   - 中译：许多博士毕业生在完成学位论文后，很难在学术界找到永久职位。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/academia
 > - The gap between academia and industry has narrowed in recent years as universities increase their collaboration with tech companies. `[例]`
->   - 中译：近年来，随着大学加强与科技公司的合作，学术界与产业界之间的差距已经缩小。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/academia
+>   - 中译：近年来，随着大学与科技公司加强合作，学术界与产业界之间的差距已经缩小。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/academia
 
 ## 主动产出
 

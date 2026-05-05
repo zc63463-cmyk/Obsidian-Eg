@@ -129,11 +129,11 @@ review_count: 0
 
 > [!example]- 语料
 > - Many countries have liberalized their trade policies to promote economic growth. `[例]`
->   - 中译：许多国家已推行贸易政策自由化以促进经济增长。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/liberalize
+>   - 中译：许多国家已放宽贸易政策以促进经济增长。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/liberalize
 > - The government plans to liberalize the energy market to encourage competition. `[例]`
->   - 中译：政府计划开放能源市场以鼓励竞争。
->   - 来源：Collins | https://www.collinsdictionary.com/dictionary/english/liberalize
+>   - 中译：政府计划放开能源市场以鼓励竞争。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/liberalize
 
 ## 主动产出
 

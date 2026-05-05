@@ -129,11 +129,11 @@ review_count: 0
 
 > [!example]- 语料
 > - The hikers rested under a towering avalanche near the coastal trail. `[例]`
->   - 中译：徒步旅行者在海岸步道附近一座高耸的雪崩堆积物下休息。
->   - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/avalanche
+>   - 中译：徒步旅行者在沿海步道旁的一处高耸瀑布下休息。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/avalanche
 > - The cabin was built from durable avalanche gathered in the region. `[例]`
->   - 中译：这间小屋是用该地区采集的坚固雪崩堆积物建造的。
->   - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/avalanche
+>   - 中译：这间小屋是用该地区采集的坚固石材建造的。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/avalanche
 
 ## 主动产出
 

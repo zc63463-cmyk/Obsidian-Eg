@@ -127,10 +127,10 @@ review_count: 0
 
 > [!example]- 语料
 > - The author criticized the bourgeois values that dominated post-war suburban life. `[例]`
->   - 中译：作者批评了主导战后郊区生活的资产阶级价值观。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/bourgeois
+>   - 中译：这场革命的导火索是对资产阶级精英的不满。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bourgeois
 > - Many intellectuals of that era rejected bourgeois society and its emphasis on material comfort. `[例]`
->   - 中译：那个时代的许多知识分子拒绝资产阶级社会及其对物质舒适的强调。
+>   - 中译：他对精致餐饮和奢侈品的偏好体现了他的中产阶级价值观。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bourgeois
 
 ## 主动产出

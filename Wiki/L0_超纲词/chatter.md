@@ -126,10 +126,10 @@ review_count: 0
 
 > [!example]- 语料
 > - She spent the morning chattering away to her friends. `[例]`
->   - 中译：她整个上午都在跟朋友们喋喋不休地聊天。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/chatter
+>   - 中译：孩子们不停的叽叽喳喳让人难以集中精力。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/chatter
 > - He chattered happily about nothing in particular. `[例]`
->   - 中译：他高兴地闲扯着，没什么特别的内容。
+>   - 中译：社交媒体上到处都是关于最新名人丑闻的议论。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/chatter
 
 ## 主动产出

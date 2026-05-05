@@ -125,11 +125,11 @@ review_count: 0
 
 > [!example]- 语料
 > - House prices have plummeted in recent months. `[例]`
->   - 中译：气温骤降至零度以下。
+>   - 中译：近几个月房价大幅下跌。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/plummet
 > - Several large rocks were sent plummeting down the mountain. `[例]`
->   - 中译：股票价格在消息传出后暴跌。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/plummet
+>   - 中译：几块大石头从山上坠落。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/plummet
 
 ## 主动产出
 

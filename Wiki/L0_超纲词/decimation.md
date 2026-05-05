@@ -120,11 +120,11 @@ decim-(拉丁语 decimus，十分之一) + -ation(名词后缀) → 每十人杀
 
 > [!example]- 语料
 > - The decimation of the indigenous population. `[例]`
->   - 中译：土著人口的大量毁灭。
+>   - 中译：野牛种群的大量毁灭对美洲原住民社区造成了毁灭性影响。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/decimation
 > - We need to halt the decimation of our manufacturing base. `[例]`
->   - 中译：我们需要阻止我国制造业基础的大幅削减。
->   - 来源：Collins | https://www.collinsdictionary.com/dictionary/english/decimation
+>   - 中译：这种疾病在短短几周内导致村庄人口大量减少。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/decimation
 
 ## 主动产出
 

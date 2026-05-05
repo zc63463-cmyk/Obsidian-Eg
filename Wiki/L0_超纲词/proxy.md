@@ -129,11 +129,11 @@ review_count: 0
 
 > [!example]- 语料
 > - My brother's voting for me by proxy in the club elections. `[例]`
->   - 中译：他委托代理人出席了会议。
+>   - 中译：我哥哥在俱乐部选举中代我投票。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/proxy
 > - Shareholders who attend the meeting may revoke any proxy previously granted and vote in person. `[例]`
->   - 中译：股东可以通过代理投票来参与决策。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/proxy
+>   - 中译：出席会议的股东可以撤销之前授予的任何委托代理，亲自投票。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/proxy
 
 ## 主动产出
 

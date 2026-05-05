@@ -124,14 +124,14 @@ in-(不) + [[firm|form-]](坚固的，结实的)
 
 > [!example]- 语料
 > - The hospital provides care for the sick and the infirm. `[例]`
->   - 中译：医院为病人和体弱者提供护理。
+>   - 中译：这家医院为病患和体弱者提供护理。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/infirm
 > - His infirm resolve crumbled under pressure. `[例]`
->   - 中译：他不坚定的决心在压力下崩溃了。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/infirm
+>   - 中译：他薄弱的决心在压力下崩溃了。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/infirm
 > - The charity focuses on supporting the elderly and the infirm in the community. `[例]`
->   - 中译：该慈善机构专注于支持社区中的老年人和体弱者。
->   - 来源：Collins | https://www.collinsdictionary.com/dictionary/english/infirm
+>   - 中译：这家慈善机构专注于支持社区中的老年人和体弱者。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/infirm
 
 ## 主动产出
 

@@ -126,11 +126,11 @@ auto-(自己) + mat(思考/行动，希腊语 *matos*，表示"意愿的") + -e(
 
 > [!example]- 语料
 > - Many companies have automated their customer service using AI chatbots. `[例]`
->   - 中译：许多公司已经使用AI聊天机器人实现了客户服务的自动化。
->   - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/automate
+>   - 中译：许多公司使用人工智能聊天机器人实现了客户服务自动化。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/automate
 > - The automated assembly line can produce 1,000 units per hour. `[例]`
->   - 中译：这条自动化装配线每小时可以生产1000件产品。
->   - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/automate
+>   - 中译：自动化装配线每小时可以生产一千个单位。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/automate
 
 ## 主动产出
 

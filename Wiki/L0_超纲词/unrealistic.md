@@ -127,11 +127,11 @@ un-(不，否定) + real(真实的) + -ist(主义者) + -ic(形容词后缀)
 
 > [!example]- 语料
 > - I think these sales forecasts are unrealistic, considering how slow sales are at present. `[例]`
->   - 中译：他对自己的期望完全不切实际。
+>   - 中译：考虑到目前销售缓慢的情况，我认为这些销售预测是不切实际的。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/unrealistic
 > - It's unrealistic to expect an answer before next week. `[例]`
->   - 中译：在一个月内学会一门外语是不现实的。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/unrealistic
+>   - 中译：期望在下周之前得到答复是不现实的。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/unrealistic
 
 ## 主动产出
 

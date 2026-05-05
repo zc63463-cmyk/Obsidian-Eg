@@ -128,10 +128,10 @@ review_count: 0
 
 > [!example]- 语料
 > - She is claiming damages for alleged negligence in the handling of a commercial transaction. `[例]`
->   - 中译：她因商业交易处理中被指控的过失而索赔损害赔偿。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/negligence
+>   - 中译：她声称在处理一笔商业交易中存在疏忽，要求赔偿损失。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/negligence
 > - The company was sued for gross negligence after the death of the two employees. `[例]`
->   - 中译：两名员工死亡后，公司因严重过失被起诉。
+>   - 中译：两名员工死亡后，公司因严重疏忽被起诉。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/negligence
 
 ## 主动产出

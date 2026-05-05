@@ -125,11 +125,11 @@ review_count: 0
 
 > [!example]- 语料
 > - I bought these shoes for their practicality, not their appearance. `[例]`
->   - 中译：这个想法在理论上很好，但缺乏实用性。
+>   - 中译：我买这双鞋是因为它实用，而不是因为好看。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/practicality
 > - Jonathan has demonstrated enormous practicality in his successful management of the store. `[例]`
->   - 中译：我们需要考虑这个方案的实用性。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/practicality
+>   - 中译：乔纳森在成功管理这家商店的过程中展现了极大的务实精神。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/practicality
 
 ## 主动产出
 

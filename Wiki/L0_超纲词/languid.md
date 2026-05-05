@@ -127,10 +127,10 @@ langu(虚弱/疲倦，拉丁语 *languere* = 虚弱) + -[[id-ident|id]](形容�
 
 > [!example]- 语料
 > - She moved with a languid grace that captivated everyone in the room. `[例]`
->   - 中译：她以慵懒优雅的举止迷住了房间里的所有人。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/languid
+>   - 中译：她以慵懒优雅的举止移动，令房间里的每个人都为之着迷。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/languid
 > - The heat of the afternoon made everyone feel languid and unmotivated. `[例]`
->   - 中译：午后的炎热让每个人都感到慵懒无力、提不起精神。
+>   - 中译：午后的炎热让每个人都感到慵懒无力、毫无动力。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/languid
 
 ## 主动产出

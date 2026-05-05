@@ -126,11 +126,11 @@ as-(=ad-, 向，加强) + sert(结合，连接，拉丁语 *serere*) + -ion(名�
 
 > [!example]- 语料
 > - The author's assertion that technology is making us less intelligent is not supported by evidence. `[例]`
->   - 中译：作者关于技术正在使我们变得不那么聪明的断言并没有证据支持。
+>   - 中译：作者关于技术正在使我们变笨的说法没有证据支持。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/assertion
 > - The assertion of national sovereignty became a central issue in the negotiations. `[例]`
->   - 中译：维护国家主权成为谈判中的一个核心议题。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/assertion
+>   - 中译：国家主权的声明成为谈判的核心议题。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/assertion
 
 ## 主动产出
 

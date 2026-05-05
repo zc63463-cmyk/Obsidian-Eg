@@ -123,11 +123,11 @@ review_count: 0
 
 > [!example]- 语料
 > - My career seemed to be on a downward trajectory. `[例]`
->   - 中译：火箭的飞行轨迹经过了精确计算。
+>   - 中译：我的事业似乎走上了下坡路。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/trajectory
-> - How these questions are answered will shape Hyperliquid’s trajectory and the development, access to and adoption of next generation market infrastructure in the United States. `[例]`
->   - 中译：她的职业发展轨迹令人印象深刻。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/trajectory
+> - How these questions are answered will shape Hyperliquid's trajectory and the development, access to and adoption of next generation market infrastructure in the United States. `[例]`
+>   - 中译：这些问题的回答方式将塑造Hyperliquid的发展轨迹，以及美国下一代市场基础设施的发展、获取和采用。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/trajectory
 
 ## 主动产出
 

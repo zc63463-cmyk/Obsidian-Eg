@@ -127,8 +127,8 @@ iron(讽刺，希腊语 *eirōneia* 假装无知) + -ic(形容词后缀) + -ally
 
 > [!example]- 语料
 > - Ironically, the technology designed to save time has made us busier than ever. `[例]`
->   - 中译：具有讽刺意味的是，旨在节省时间的技术反而让我们比以往更忙。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/ironically
+>   - 中译：讽刺的是，旨在节省时间的技术反而让我们比以往更忙碌。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ironically
 > - Ironically enough, the countries that consume the most produce the least. `[例]`
 >   - 中译：讽刺的是，消费最多的国家反而生产最少。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ironically

@@ -125,11 +125,11 @@ un-(不，否定) + re-(再/重新) + [[press]](压→拉丁语 *pressare*，pre
 
 > [!example]- 语料
 > - This early novel is unrepresentative of her work as a whole. `[例]`
->   - 中译：这个样本不具有代表性，不能反映整体情况。
+>   - 中译：这部早期小说不能代表她的整体作品。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/unrepresentative
 > - The author characterizes Huntington Beach itself as an inherently self-aggrandizing, wealthy coastal enclave unrepresentative of broader California concerns, dismissing the notion that this affluent beach town should serve as a model for statewide governance or the state’s future direction. `[例]`
->   - 中译：调查结果被认为缺乏代表性。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/unrepresentative
+>   - 中译：作者将亨廷顿海滩本身描述为一个本质上自我吹嘘的富裕沿海飞地，不能代表更广泛的加州关切，驳斥了这个富裕的海滨小镇应成为全州治理或加州未来方向典范的观点。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/unrepresentative
 
 ## 主动产出
 

@@ -129,10 +129,10 @@ review_count: 0
 
 > [!example]- 语料
 > - Foreign investors are increasingly looking to emerging markets for higher returns. `[例]`
->   - 中译：外国投资者越来越多地将目光投向新兴市场以获取更高回报。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/investor
+>   - 中译：外国投资者越来越多地将目光投向新兴市场，以获取更高回报。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/investor
 > - Investor confidence was shaken by the recent market volatility. `[例]`
->   - 中译：最近的市场波动动摇了投资者的信心。
+>   - 中译：近期的市场波动动摇了投资者的信心。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/investor
 
 ## 主动产出

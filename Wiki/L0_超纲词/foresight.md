@@ -125,10 +125,10 @@ fore-(在前，提前) + sight(视力，视野)
 
 > [!example]- 语料
 > - She'd had the foresight to sell her apartment just before the housing market collapsed. `[例]`
->   - 中译：她有先见之明，在房地产市场崩溃之前就把公寓卖了。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/foresight
+>   - 中译：她有先见之明，在房地产市场崩溃前将公寓卖了。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/foresight
 > - She had the foresight to sell her house just before prices came down. `[例]`
->   - 中译：她有先见之明，恰好在房价下跌之前把房子卖了。
+>   - 中译：她有先见之明，在房价下跌前将房子卖了。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/foresight
 
 ## 主动产出

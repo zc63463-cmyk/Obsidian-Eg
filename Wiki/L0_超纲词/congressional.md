@@ -124,11 +124,11 @@ con-（一起）+ [[gress]]（走，步，拉丁语 *gradi*，走/步）+ -ion�
 
 > [!example]- 语料
 > - She expressed her intention to join the Congressional Black Caucus. `[例]`
->   - 中译：她表达了加入国会黑人核心小组的意向。
->   - 来源：Collins | https://www.collinsdictionary.com/dictionary/english/congressional
+>   - 中译：国会委员会对政府的开支展开了调查。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/congressional
 > - In the last congressional elections , no party had a clear majority. `[例]`
->   - 中译：在最近的国会选举中，没有哪个政党获得明显的多数。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/congressional
+>   - 中译：国会领导人在新预算法案上达成了两党共识。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/congressional
 
 ## 主动产出
 

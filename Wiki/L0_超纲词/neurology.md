@@ -120,10 +120,10 @@ review_count: 0
 
 > [!example]- 语料
 > - The fundamental processes governing brain health — genetics, neural and synaptic plasticity, and neuroinflammation — do not respect the arbitrary boundaries drawn between neurology and psychiatry. `[例]`
->   - 中译：控制大脑健康的基本过程——遗传学、神经和突触可塑性以及神经炎症——并不遵循神经病学和精神病学之间人为划分的界限。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/neurology
+>   - 中译：控制大脑健康的基本过程——遗传学、神经和突触可塑性以及神经炎症——并不尊重神经病学和精神病学之间人为划定的界限。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/neurology
 > - Scientists hope to unlock fundamental biological secrets that could eventually lead to breakthroughs in human neurology. `[例]`
->   - 中译：科学家希望揭开基本的生物学奥秘，最终在人类神经病学领域取得突破。
+>   - 中译：科学家们希望揭开基本的生物学秘密，这些秘密最终可能带来人类神经病学领域的突破。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/neurology
 
 ## 主动产出

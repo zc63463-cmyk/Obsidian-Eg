@@ -124,9 +124,9 @@ in-(向内) + [[spec|spec-spect-]](看) + -tion(名词后缀)
 > [!example]- 语料
 > - The factory passed the safety inspection with flying colors. `[例]`
 >   - 中译：工厂以优异的成绩通过了安全检查。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/inspection
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/inspection
 > - On closer inspection, the document revealed several inconsistencies. `[例]`
->   - 中译：仔细检查后，该文件暴露了几处不一致之处。
+>   - 中译：仔细检查后，文件中发现了多处不一致之处。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/inspection
 
 ## 主动产出

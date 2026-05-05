@@ -132,7 +132,7 @@ aqu(水，拉丁语 *aqua*) + -atic(形容词后缀，表示"与……相关的"
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/aquatic
 > - The Olympic aquatic center was built for the swimming competitions. `[例]`
 >   - 中译：奥林匹克水上运动中心是为游泳比赛而建造的。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/aquatic
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/aquatic
 
 ## 主动产出
 

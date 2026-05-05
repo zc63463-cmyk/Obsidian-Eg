@@ -123,11 +123,11 @@ review_count: 0
 
 > [!example]- 语料
 > - The hikers rested under a towering nova near the coastal trail. `[例]`
->   - 中译：徒步旅行者在沿海步道附近的一颗高耸新星下休息。
+>   - 中译：徒步旅行者在沿海步道旁一棵高大的新星树下休息。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/nova
 > - The cabin was built from durable nova gathered in the region. `[例]`
->   - 中译：小屋是用该地区采集的坚固新星建造的。
->   - 来源：Collins | https://www.collinsdictionary.com/dictionary/english/nova
+>   - 中译：小木屋是用在该地区采集的耐久新星木建造的。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/nova
 
 ## 主动产出
 

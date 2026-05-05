@@ -130,10 +130,10 @@ iron(铁/讽刺，希腊语 *eirōneia* 假装无知) + -ic(形容词后缀，�
 
 > [!example]- 语料
 > - It is ironic that the inventor of the safety belt died in a car accident. `[例]`
->   - 中译：具有讽刺意味的是，安全带的发明者死于车祸。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/ironic
+>   - 中译：具有讽刺意味的是，安全带的发明者却死于车祸。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ironic
 > - The ironic result of the anti-corruption campaign was that it exposed even more corruption. `[例]`
->   - 中译：这次反腐运动的讽刺结果是暴露了更多的腐败行为。
+>   - 中译：反腐运动的讽刺结果是它暴露了更多的腐败行为。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ironic
 
 ## 主动产出

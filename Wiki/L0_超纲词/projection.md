@@ -129,11 +129,11 @@ review_count: 0
 
 > [!example]- 语料
 > - The company has failed to achieve last year's sales projections by 30 percent. `[例]`
->   - 中译：经济预测显示明年将增长百分之三。
+>   - 中译：公司未能实现去年销售预测的30%。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/projection
 > - Spending was well below projections. `[例]`
->   - 中译：墙壁上的投影展示了数据图表。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/projection
+>   - 中译：实际支出远低于预测。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/projection
 
 ## 主动产出
 

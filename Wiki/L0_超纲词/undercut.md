@@ -126,11 +126,11 @@ review_count: 0
 
 > [!example]- 语料
 > - Big supermarkets can undercut all rivals , especially small family-owned shops. `[例]`
->   - 中译：竞争对手以更低的价格抢走了我们的客户。
+>   - 中译：大型超市可以压低所有竞争对手的价格，尤其是小型家庭经营的店铺。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/undercut
 > - They claim to undercut their competitors by at least five percent. `[例]`
->   - 中译：这些发现削弱了政府的论点。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/undercut
+>   - 中译：他们声称以至少低于竞争对手百分之五的价格销售。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/undercut
 
 ## 主动产出
 

@@ -124,8 +124,8 @@ herb(=herb, 草/植物) + -vor(=eat, 吃) + -e → 复合派生词
 >   - 中译：牛和羊是食草动物。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/herbivore
 > - The decline of large herbivores can have cascading effects on entire ecosystems. `[例]`
->   - 中译：大型食草动物的减少可能对整个生态系统产生连锁效应。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/herbivore
+>   - 中译：大型食草动物的减少可能对整个生态系统产生连锁影响。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/herbivore
 
 ## 主动产出
 

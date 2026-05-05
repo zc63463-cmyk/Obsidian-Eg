@@ -120,12 +120,14 @@ open(开放的) + access(=access, 获取/接触)
 
 > [!example]- 语料
 > - The researchers proposed a open access solution to the problem. `[例]`
->   - 中译：该期刊是一份开放获取的出版物。
+>   - 中译：研究人员提出了一种开放获取的解决方案来应对这一问题。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/open-access
 > - The company adopted a open access approach to improve efficiency. `[例]`
->   - 中译：开放获取使研究成果能够免费向公众提供。
+>   - 中译：公司采取了一种开放获取的方法来提高效率。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/open-access
 > - The plan offers a open access option for small organizations. `[例]`
+>   - 中译：该计划为小型组织提供了开放获取选项。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/open-access
 
 ## 主动产出
 

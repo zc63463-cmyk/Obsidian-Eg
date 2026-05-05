@@ -124,11 +124,11 @@ review_count: 0
 
 > [!example]- 语料
 > - This was a period when literary critics had real power and were devising new ways of reading—focused on the fluidity of language and the instability of textual meaning—that reshaped the humanities and social sciences. `[例]`
->   - 中译：学者们对这些手稿进行了文本分析。
+>   - 中译：那是一个文学评论家拥有真正权力的时期，他们发明了新的阅读方式——关注语言的流动性和文本意义的不稳定性——从而重塑了人文和社会科学。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/textual
 > - New media encompasses the rapid and continual evolutions in media that have created new textual experiences, new ways of representing the world, and new relationships between subjects and media technologies. `[例]`
->   - 中译：文本证据清楚地支持了这一论点。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/textual
+>   - 中译：新媒体涵盖了媒体领域快速而持续的发展，这些发展创造了新的文本体验、新的世界表征方式，以及主体与媒体技术之间的新型关系。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/textual
 
 ## 主动产出
 

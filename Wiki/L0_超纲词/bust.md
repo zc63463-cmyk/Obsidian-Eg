@@ -131,10 +131,10 @@ review_count: 0
 
 > [!example]- 语料
 > - Hundreds of small businesses went bust during the economic downturn. `[例]`
->   - 中译：经济低迷期间，数百家小企业破产了。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/bust
+>   - 中译：警方进行了一次缉毒行动，逮捕了多名嫌疑人。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bust
 > - Police carried out a massive drug bust in the downtown area last night. `[例]`
->   - 中译：昨晚警方在市中心进行了一次大规模的缉毒行动。
+>   - 中译：房地产市场的崩溃使许多房主的房产价值低于其抵押贷款。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bust
 
 ## 主动产出

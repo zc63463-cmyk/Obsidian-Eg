@@ -125,11 +125,11 @@ power（力量/权力）+ -less（没有）= 没有力量的→无能为力的
 
 > [!example]- 语料
 > - The villagers are powerless against the armed invaders. `[例]`
->   - 中译：面对自然灾害，人类感到无能为力。
+>   - 中译：村民们对武装入侵者无能为力。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/powerless
 > - The police seem to be powerless (= unable ) to prevent these attacks. `[例]`
->   - 中译：她感到无力改变现状。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/powerless
+>   - 中译：警方似乎无力阻止这些袭击。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/powerless
 
 ## 主动产出
 

@@ -124,8 +124,8 @@ lanc(矛/枪，拉丁语 *lancea*) + -et(指小词缀)
 >   - 中译：《柳叶刀》发表了一项关于新疫苗有效性的突破性研究。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lancet
 > - In medieval medicine, physicians commonly used lancets for bloodletting procedures. `[例]`
->   - 中译：在中世纪的医学中，医生常用柳叶刀进行放血治疗。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/lancet
+>   - 中译：在中世纪的医学中，医生通常使用柳叶刀进行放血治疗。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lancet
 
 ## 主动产出
 

@@ -128,10 +128,10 @@ e-(=ex-, 出来/向上) + [[lev|lev]](举起/变轻) + -ation(名词后缀，表
 
 > [!example]- 语料
 > - The mountain village is situated at an elevation of over two thousand metres above sea level. `[例]`
->   - 中译：这座城市海拔约五百米。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/elevation
+>   - 中译：这个山村位于海拔两千多米的高处。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/elevation
 > - His elevation to the position of vice president came as a surprise to many of his colleagues. `[例]`
->   - 中译：登山者因高海拔而出现了高原反应。
+>   - 中译：他被提升为副总裁，令许多同事感到意外。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/elevation
 
 ## 主动产出

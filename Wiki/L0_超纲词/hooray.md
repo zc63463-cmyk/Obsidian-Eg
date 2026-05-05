@@ -126,11 +126,11 @@ review_count: 0
 >   - 中译：好耶！考试终于结束了！
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hooray
 > - The crowd erupted in a chorus of hoorays as the team scored the winning goal. `[例]`
->   - 中译：当球队踢进致胜一球时，人群爆发出一片欢呼声。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/hooray
+>   - 中译：当球队打进制胜球时，人群中爆发出一阵欢呼声。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hooray
 > - The children let out a chorus of hoorays when they heard school was cancelled for the day. `[例]`
->   - 中译：孩子们听到当天停课的消息时，发出了一片欢呼声。
->   - 来源：Collins | https://www.collinsdictionary.com/dictionary/english/hooray
+>   - 中译：孩子们听说当天停课时，齐声欢呼起来。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hooray
 
 ## 主动产出
 

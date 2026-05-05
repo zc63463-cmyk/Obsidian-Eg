@@ -125,10 +125,10 @@ co-(共同/一起) + work(工作) + -er(人)
 
 > [!example]- 语料
 > - American workers in recent years have seen their co-workers laid off or downsized out of jobs. `[例]`
->   - 中译：近年来，美国工人看到自己的同事被裁员或因缩编而失去工作。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/co-worker
+>   - 中译：她和办公室里所有的同事都相处融洽。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/co-worker
 > - Although Miss Anthony and her co-workers still believed that, with a true interpretation, women were voters under these amendments, they were obliged to accept the decision of the highest court of appeal. `[例]`
->   - 中译：尽管安东尼女士和她的同事们仍然认为，经过正确解释，女性在这些修正案下是享有投票权的，但他们不得不接受最高上诉法院的裁决。
+>   - 中译：一位同事在错误造成严重问题之前提醒了我。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/co-worker
 
 ## 主动产出

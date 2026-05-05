@@ -125,11 +125,11 @@ water（水）+ shed（分开/流走），复合词，无拉丁/希腊词根可�
 
 > [!example]- 语料
 > - The year 1969 was a watershed in her life - she changed her career and remarried. `[例]`
->   - 中译：这项发明是科技史上的一个分水岭。
+>   - 中译：1969年是她人生的一个转折点——她换了职业并再婚了。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/watershed
 > - The discovery of penicillin was a watershed in the history of medicine. `[例]`
->   - 中译：这条河流的流域面积覆盖了三个省份。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/watershed
+>   - 中译：青霉素的发现是医学史上的一个分水岭。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/watershed
 
 ## 主动产出
 

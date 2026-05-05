@@ -127,8 +127,8 @@ neo-(=new, 新) + [[lith]](=lith-, 石头，希腊语 *lithos*) + -ic(形容词�
 >   - 中译：新石器时代有时被称为新石器时代。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/neolithic
 > - Neolithic settlements have been discovered across Europe and Asia. `[例]`
->   - 中译：在欧洲和亚洲各地发现了新石器时代的聚落遗址。
->   - 来源：Collins | https://www.collinsdictionary.com/dictionary/english/neolithic
+>   - 中译：在欧洲和亚洲各地都发现了新石器时代的定居点。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/neolithic
 
 ## 主动产出
 

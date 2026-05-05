@@ -129,10 +129,10 @@ review_count: 0
 
 > [!example]- 语料
 > - The company managed to buck the trend and increase profits during the recession. `[例]`
->   - 中译：该公司成功逆势而上，在经济衰退期间实现了利润增长。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/buck
+>   - 中译：骑手第一次上马时，这匹马猛烈地尥起了蹶子。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/buck
 > - He borrowed a few bucks from his friend to pay for lunch. `[例]`
->   - 中译：他向朋友借了几美元付午餐钱。
+>   - 中译：你不能把责任推给别人——你需要自己承担责任。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/buck
 
 ## 主动产出

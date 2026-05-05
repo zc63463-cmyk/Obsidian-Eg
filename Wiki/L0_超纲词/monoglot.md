@@ -124,11 +124,11 @@ mono-(单一，希腊语 *monos*) + glot(舌/语言，希腊语 *glōtta*)
 
 > [!example]- 语料
 > - Growing numbers of English-language courses have helped to entice monoglot Britons abroad. `[例]`
->   - 中译：越来越多的英语课程帮助吸引只会说英语的英国人出国。
+>   - 中译：越来越多的英语课程帮助吸引只会英语的英国人出国。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/monoglot
 > - As a monoglot, he found it difficult to communicate with the locals. `[例]`
->   - 中译：作为一个只会说一种语言的人，他觉得与当地人交流很困难。
->   - 来源：Collins | https://www.collinsdictionary.com/dictionary/english/monoglot
+>   - 中译：作为一个只会一种语言的人，他觉得与当地人交流很困难。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/monoglot
 
 ## 主动产出
 

@@ -127,11 +127,11 @@ well（好）+ being（存在/状态），复合词，无拉丁/希腊词根可�
 
 > [!example]- 语料
 > - Seeing her grandchildren gave her a sense of well-being. `[例]`
->   - 中译：政府应该关注公民的整体幸福感。
+>   - 中译：看到孙辈们让她感到幸福。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/well-being
 > - To have a sense of well-being. `[例]`
->   - 中译：定期锻炼对身心健康都有益处。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/well-being
+>   - 中译：拥有一种幸福感。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/well-being
 
 ## 主动产出
 

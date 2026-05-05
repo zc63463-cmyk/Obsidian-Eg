@@ -129,10 +129,10 @@ a-(=ab-, 离开/远离) + [[ver-vert|vers]](转) + -e(形容词后缀)
 > [!example]- 语料
 > - He is not averse to taking risks when the potential rewards are high. `[例]`
 >   - 中译：当潜在回报很高时，他并不排斥冒险。
->   - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/averse
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/averse
 > - Many investors are risk-averse and prefer stable returns over high-growth opportunities. `[例]`
 >   - 中译：许多投资者厌恶风险，更偏好稳定的回报而非高增长机会。
->   - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/averse
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/averse
 
 ## 主动产出
 

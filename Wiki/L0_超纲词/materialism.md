@@ -123,8 +123,10 @@ review_count: 0
 
 > [!example]- 语料
 > - So have we become a self-centred society , preoccupied with materialism? `[例]`
+>   - 中译：那么我们是否已经变成了一个以自我为中心、沉迷于物质主义的社会？
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/materialism
 > - The greed and materialism of modern society. `[例]`
->   - 中译：现代社会的贪婪与物质主义。
+>   - 中译：现代社会的贪婪和物质主义。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/materialism
 
 ## 主动产出

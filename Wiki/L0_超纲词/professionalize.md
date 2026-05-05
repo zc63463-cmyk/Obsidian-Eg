@@ -124,10 +124,10 @@ profession（专业/职业）+ -al（形容词后缀）+ -ize（动词后缀，�
 
 > [!example]- 语料
 > - The country is professionalizing the military. `[例]`
->   - 中译：该行业正在努力实现专业化。
+>   - 中译：该国正在推进军队的职业化。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/professionalize
 > - As the field of comment moderation professionalized , community managers started to be put in place, charged with moderation. `[例]`
->   - 中译：政府计划将医疗体系专业化。
+>   - 中译：随着评论审核领域的专业化，社区管理者开始被安排到位，负责审核工作。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/professionalize
 
 ## 主动产出

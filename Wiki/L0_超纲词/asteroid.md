@@ -125,11 +125,11 @@ aster(星星，希腊语 *aster*) + -oid(像……的)
 
 > [!example]- 语料
 > - An asteroid impact 66 million years ago is believed to have caused the extinction of the dinosaurs. `[例]`
->   - 中译：6600万年前的一次小行星撞击被认为导致了恐龙的灭绝。
->   - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/asteroid
+>   - 中译：六千六百万年前的小行星撞击被认为导致了恐龙的灭绝。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/asteroid
 > - NASA is developing a mission to deflect a potentially hazardous near-Earth asteroid. `[例]`
->   - 中译：NASA正在开发一项任务，以偏转一颗具有潜在危险的近地小行星。
->   - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/asteroid
+>   - 中译：美国宇航局正在开发一项任务来偏转一颗具有潜在危险的近地小行星。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/asteroid
 
 ## 主动产出
 

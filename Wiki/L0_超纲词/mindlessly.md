@@ -126,10 +126,10 @@ mind(心智/头脑) + -less(没有) + -ly(副词后缀)
 
 > [!example]- 语料
 > - Some children started mindlessly hurling stones at passing vehicles. `[例]`
->   - 中译：一些孩子开始无意识地朝过往车辆扔石头。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/mindlessly
+>   - 中译：一些孩子开始盲目地向过往车辆扔石头。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/mindlessly
 > - It was mindlessly dull work. `[例]`
->   - 中译：那是令人麻木的枯燥工作。
+>   - 中译：这是一份令人麻木的枯燥工作。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/mindlessly
 
 ## 主动产出

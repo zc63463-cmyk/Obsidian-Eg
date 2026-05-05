@@ -128,11 +128,11 @@ un-(不，否定前缀) + even(平坦的/均匀的)
 
 > [!example]- 语料
 > - Be careful on that path - the paving stones are uneven. `[例]`
->   - 中译：这条路坑坑洼洼，开车很不舒服。
+>   - 中译：走那条路要小心——铺路石高低不平。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/uneven
 > - There is an uneven distribution of wealth across the country from the north to the south. `[例]`
->   - 中译：两个队伍的实力差距很大，比赛呈现一边倒的局面。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/uneven
+>   - 中译：从北到南，全国的财富分布不均衡。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/uneven
 
 ## 主动产出
 

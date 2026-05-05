@@ -125,11 +125,11 @@ review_count: 0
 
 > [!example]- 语料
 > - She wrote about the universality of the themes of world mythology. `[例]`
->   - 中译：音乐的普遍性使它能够跨越文化障碍。
+>   - 中译：她撰文论述了世界神话主题的普遍性。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/universality
 > - The universality of his dilemma is one to which we can all relate. `[例]`
->   - 中译：人权的普适性是国际法的基石。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/universality
+>   - 中译：他所面临困境的普遍性是我们所有人都能感同身受的。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/universality
 
 ## 主动产出
 

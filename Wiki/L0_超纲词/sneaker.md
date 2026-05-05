@@ -124,11 +124,11 @@ sneak(偷偷摸摸) + -er(人/物)
 
 > [!example]- 语料
 > - He wore old jeans and a pair of sneakers. `[例]`
->   - 中译：他穿着一双运动鞋去跑步。
+>   - 中译：他穿着旧牛仔裤和一双运动鞋。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sneaker
 > - The simple sneaker has become a fashion necessity as well as a sporting one! `[例]`
->   - 中译：限量版运动鞋在市场上被炒到了天价。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/sneaker
+>   - 中译：简单的运动鞋不仅成为运动必需品，也成为了时尚必需品！
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sneaker
 
 ## 主动产出
 

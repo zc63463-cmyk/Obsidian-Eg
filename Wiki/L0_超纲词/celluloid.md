@@ -124,10 +124,10 @@ cellulose（纤维素）+ -oid（像……的，类似……的）
 
 > [!example]- 语料
 > - Such things are not usually shown on celluloid. `[例]`
->   - 中译：这样的事情通常不会在电影中呈现。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/celluloid
+>   - 中译：在电影早期，电影被记录在赛璐珞胶片上。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/celluloid
 > - Readers are often disappointed when the words on the page are transferred to celluloid. `[例]`
->   - 中译：当书页上的文字被搬上银幕时，读者往往会感到失望。
+>   - 中译："赛璐珞"一词有时被用作电影行业的同义词。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/celluloid
 
 ## 主动产出

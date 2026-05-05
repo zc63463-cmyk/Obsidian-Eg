@@ -125,11 +125,11 @@ pocket（口袋）+ book（书/本子）→ 合成词
 
 > [!example]- 语料
 > - The title of this little pocketbook is "an Essential Guide to Rome". `[例]`
->   - 中译：这项政策直接影响消费者的钱包。
+>   - 中译：这本小口袋书的书名是《罗马实用指南》。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pocketbook
 > - Even pocketbooks are quite expensive , especially when you read as much as I do. `[例]`
->   - 中译：不断上涨的物价给家庭经济带来了压力。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/pocketbook
+>   - 中译：即使是平装书也相当贵，尤其是像我这样大量阅读的人。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pocketbook
 
 ## 主动产出
 

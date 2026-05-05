@@ -121,11 +121,11 @@ con-（一起）+ [[spir]]（呼吸，拉丁语 *spirare*）
 
 > [!example]- 语料
 > - As girls , the sisters used to conspire with each other against their brother. `[例]`
->   - 中译：小时候，姐妹俩经常密谋一起对付她们的兄弟。
->   - 来源：Collins | https://www.collinsdictionary.com/dictionary/english/conspire
+>   - 中译：叛乱者密谋推翻政府。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/conspire
 > - Citation cartels, where journals, authors, and institutions conspire to inflate citation numbers , have existed for a long time. `[真题]`
->   - 中译：引用卡特尔——即期刊、作者和机构密谋夸大引用数量的现象——已经存在了很长时间。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/conspire
+>   - 中译：引用卡特尔——即期刊、作者和机构串通虚增引用次数的现象——已经存在了很长时间。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/conspire
 
 ## 主动产出
 

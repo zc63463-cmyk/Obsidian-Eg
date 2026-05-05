@@ -123,10 +123,10 @@ cut(切) + -lery(名词后缀，表"……的集合/总称")
 
 > [!example]- 语料
 > - Martha rearranged the vessels and cutlery upon the tray, with quick, expert movements of the wrists. `[例]`
->   - 中译：玛莎用熟练的手腕动作重新摆放了托盘上的器皿和餐具。
->   - 来源：Collins | https://www.collinsdictionary.com/dictionary/english/cutlery
+>   - 中译：这家餐厅以精致餐饮著称，包括擦亮的银质餐具。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/cutlery
 > - The cutlery is described here as of German make. `[例]`
->   - 中译：这里的餐具被描述为德国制造。
+>   - 中译：用餐完毕后，请将餐具放在盘子上。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/cutlery
 
 ## 主动产出

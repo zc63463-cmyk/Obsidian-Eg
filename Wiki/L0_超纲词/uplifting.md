@@ -124,11 +124,11 @@ review_count: 0
 
 > [!example]- 语料
 > - For me it was a marvellously uplifting performance. `[例]`
->   - 中译：这部电影有一个令人振奋的结局。
+>   - 中译：对我来说，这是一场令人振奋的精彩演出。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/uplifting
 > - Her work focuses on protecting the ocean’s fragile ecosystem and uplifting the female voice. `[例]`
->   - 中译：她的话令人鼓舞，给了大家信心。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/uplifting
+>   - 中译：她的工作重点是保护海洋脆弱的生态系统和提升女性声音。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/uplifting
 
 ## 主动产出
 

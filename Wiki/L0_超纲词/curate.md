@@ -130,11 +130,11 @@ review_count: 0
 
 > [!example]- 语料
 > - The museum's new exhibition was carefully curated to showcase the evolution of modern art. `[例]`
->   - 中译：博物馆的新展览经过精心策划，以展示现代艺术的演变。
+>   - 中译：她在市立画廊策划了一场当代艺术展览。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/curate
 > - She curates a weekly newsletter that highlights the most interesting articles on artificial intelligence. `[例]`
->   - 中译：她策划了一份每周通讯，精选最有趣的人工智能文章。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/curate
+>   - 中译：博物馆馆长精心策划了馆藏，以讲述该地区的历史故事。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/curate
 
 ## 主动产出
 

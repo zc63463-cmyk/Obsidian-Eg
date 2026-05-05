@@ -122,8 +122,8 @@ in-(在内) + -er(比较级) + -most(最高级) → 最在内面的
 
 > [!example]- 语料
 > - She kept her innermost feelings hidden from everyone. `[例]`
->   - 中译：她把内心深处的感情对所有人都隐藏了起来。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/innermost
+>   - 中译：她把内心最深处的感情对所有人都隐藏了起来。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/innermost
 > - Only his closest advisors belonged to his innermost circle. `[例]`
 >   - 中译：只有他最亲密的顾问属于他的核心圈子。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/innermost

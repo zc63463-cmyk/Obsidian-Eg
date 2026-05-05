@@ -125,11 +125,11 @@ review_count: 0
 
 > [!example]- 语料
 > - We're primarily concerned with keeping expenditure down. `[例]`
->   - 中译：这个项目主要面向小学生。
+>   - 中译：我们主要关心的是控制开支。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/primarily
 > - Baseball is primarily a summer game. `[例]`
->   - 中译：她选择这个专业主要是出于兴趣。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/primarily
+>   - 中译：棒球主要是一项夏季运动。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/primarily
 
 ## 主动产出
 

@@ -123,11 +123,11 @@ field(田野，野外) + [[craft|craft]](技艺，手艺)
 
 > [!example]- 语料
 > - Soldiers are trained in fieldcraft to move undetected through hostile terrain. `[例]`
->   - 中译：士兵们接受了全面的野外生存技能训练。
+>   - 中译：士兵们接受野外技能训练，以便在敌方地形中隐蔽行动。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fieldcraft
 > - Good fieldcraft includes the ability to read weather signs and navigate without instruments. `[例]`
->   - 中译：野外生存技能对于野生动物摄影师来说至关重要。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/fieldcraft
+>   - 中译：良好的野外技能包括解读天气迹象和在无仪器辅助下导航的能力。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fieldcraft
 
 ## 主动产出
 

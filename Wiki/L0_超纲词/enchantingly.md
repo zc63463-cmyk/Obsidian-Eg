@@ -124,11 +124,11 @@ en-(使进入/使成为) + chant(歌曲/咒语) + -ing(形容词后缀) + -ly(�
 
 > [!example]- 语料
 > - The small village looked enchantingly beautiful under the blanket of fresh snow. `[例]`
->   - 中译：这座小镇风景迷人，吸引了许多游客。
+>   - 中译：这座小村庄在皑皑白雪的覆盖下显得美不胜收。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/enchantingly
 > - She smiled enchantingly, and everyone in the room was immediately captivated. `[例]`
->   - 中译：她迷人地微笑着，让所有人都为之倾倒。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/enchantingly
+>   - 中译：她迷人地微笑着，在场的每个人立刻被她所吸引。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/enchantingly
 
 ## 主动产出
 

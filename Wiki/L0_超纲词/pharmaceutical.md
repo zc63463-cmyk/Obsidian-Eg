@@ -125,11 +125,11 @@ review_count: 0
 
 > [!example]- 语料
 > - Dozens of pharmaceuticals have been detected in minute quantities in treated wastewater. `[例]`
->   - 中译：制药行业是全球最大的产业之一。
+>   - 中译：经过处理的废水中检测到了数十种微量药物。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pharmaceutical
 > - Don't expect major pharmaceuticals to let reforms pass without a well-funded political fight. `[例]`
->   - 中译：制药公司正在研发新药。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/pharmaceutical
+>   - 中译：不要指望大型制药公司会不经过一场资金充足的政治斗争就放过改革。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pharmaceutical
 
 ## 主动产出
 

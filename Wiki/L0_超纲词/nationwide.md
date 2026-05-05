@@ -127,9 +127,9 @@ nation（国家）+ -wide（后缀，表示"……范围的"）
 > [!example]- 语料
 > - Schools nationwide are experiencing a shortage of teachers. `[例]`
 >   - 中译：全国各地的学校都面临教师短缺的问题。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/nationwide
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/nationwide
 > - Consumer spending is down nationwide. `[例]`
->   - 中译：全国消费者支出都在下降。
+>   - 中译：全国范围内的消费支出正在下降。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/nationwide
 
 ## 主动产出

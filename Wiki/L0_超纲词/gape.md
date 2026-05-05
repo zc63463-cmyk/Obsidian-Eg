@@ -132,11 +132,11 @@ gape 源自古诺斯语 *gapa*（张大嘴），与 [[gap]]（缺口、裂口）
 
 > [!example]- 语料
 > - The crowd gaped at the magician's performance in stunned silence. `[例]`
->   - 中译：人群目瞪口呆地沉默着，看着魔术师的表演。
+>   - 中译：人群目瞪口呆地看着魔术师的表演。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/gape
 > - A gaping hole appeared in the ceiling after the explosion. `[例]`
->   - 中译：爆炸后天花板上出现了一个大裂口。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/gape
+>   - 中译：爆炸后天花板上出现了一个大洞。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/gape
 
 ## 主动产出
 

@@ -123,11 +123,11 @@ un-(不，否定前缀) + [[an-|answer]](回答) + -ed(形容词后缀，持有�
 
 > [!example]- 语料
 > - Questions from local residents remained unanswered. `[例]`
->   - 中译：许多问题仍然没有得到解答。
+>   - 中译：当地居民的问题仍未得到答复。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/unanswered
 > - They scored six unanswered goals to beat the opposing team. `[例]`
->   - 中译：她打了好几个电话，但都没有人接。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/unanswered
+>   - 中译：他们连进六球，未让对方得分，击败了对手。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/unanswered
 
 ## 主动产出
 

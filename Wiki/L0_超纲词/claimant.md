@@ -124,10 +124,10 @@ claim（要求，声称）+ -ant（表示"人"的后缀）
 
 > [!example]- 语料
 > - Tax credit payments are calculated according to the claimant's yearly income. `[例]`
->   - 中译：税收抵免付款是根据申请人的年收入来计算的。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/claimant
+>   - 中译：原告提起诉讼，要求赔偿在事故中遭受的伤害。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/claimant
 > - The claimant commenced this action to recover damages that were sustained while working for the defendant. `[例]`
->   - 中译：申请人提起此诉讼，以追回在为被告工作期间遭受的损害赔偿。
+>   - 中译：每位申请人必须提供文件来支持其福利申请。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/claimant
 
 ## 主动产出

@@ -126,11 +126,11 @@ work（工作，古英语 *weorc*）+ force（力量，拉丁语 *fortis* 通过
 
 > [!example]- 语料
 > - The majority of factories in the region have a workforce of 50 to 100 ( people ). `[例]`
->   - 中译：公司正在扩大其劳动力规模。
+>   - 中译：该地区大多数工厂的员工人数在50到100人之间。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/workforce
 > - As CEO , she is responsible for a workforce of 29,000 people. `[例]`
->   - 中译：女性在劳动力中所占的比例持续增长。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/workforce
+>   - 中译：作为首席执行官，她负责管理两万九千名员工。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/workforce
 
 ## 主动产出
 

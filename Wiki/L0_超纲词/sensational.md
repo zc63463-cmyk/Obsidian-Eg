@@ -126,11 +126,11 @@ review_count: 0
 
 > [!example]- 语料
 > - She looks sensational (= extremely attractive ) in her new dress. `[例]`
->   - 中译：这家报纸以耸人听闻的报道来吸引读者。
+>   - 中译：她穿新裙子看起来非常迷人。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sensational
 > - Some of the more sensational newspapers have given a lot of coverage to the scandal. `[例]`
->   - 中译：球队在决赛中取得了惊人的胜利。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/sensational
+>   - 中译：一些较为煽情的报纸对这桩丑闻进行了大量报道。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sensational
 
 ## 主动产出
 

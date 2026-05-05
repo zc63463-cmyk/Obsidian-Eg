@@ -124,10 +124,10 @@ lamin(薄片，拉丁语 *lamina*) + -ate(动词后缀) + -ed(形容词后缀)
 
 > [!example]- 语料
 > - Laminated glass is used in car windshields for safety reasons. `[例]`
->   - 中译：夹层玻璃因安全原因被用于汽车挡风玻璃。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/laminated
+>   - 中译：出于安全考虑，汽车挡风玻璃使用的是夹层玻璃。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/laminated
 > - The restaurant laminated its menus to protect them from spills and stains. `[例]`
->   - 中译：餐厅将菜单做了塑封处理以防止洒漏和污渍。
+>   - 中译：餐厅将菜单进行了塑封处理，以防洒漏和污渍。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/laminated
 
 ## 主动产出

@@ -117,11 +117,11 @@ out-(超出/胜过) + date(日期/时代)
 
 > [!example]- 语料
 > - New technology is outdating current privacy laws. `[例]`
->   - 中译：这些设备已经过时了，需要更换。
+>   - 中译：新技术正在使当前的隐私法变得过时。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/outdate
 > - Readers can still benefit from reading his account , although subsequent anthropological work outdates it. `[例]`
->   - 中译：新技术很快使旧方法变得过时。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/outdate
+>   - 中译：读者仍然可以从阅读他的记述中受益，尽管后来的人类学研究成果已经使它显得过时了。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/outdate
 
 ## 主动产出
 

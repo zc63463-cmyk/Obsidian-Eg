@@ -123,11 +123,11 @@ birth(出生) + right(权利)
 
 > [!example]- 语料
 > - Freedom of speech is considered a birthright of every citizen in a democratic society. `[例]`
->   - 中译：言论自由被认为是民主社会中每个公民与生俱来的权利。
->   - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/birthright
+>   - 中译：在许多民主社会中，言论自由被视为与生俱来的权利。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/birthright
 > - Some men see well-paid, powerful jobs as their birthright. `[例]`
->   - 中译：有些人将高薪、有权力的工作视为自己与生俱来的权利。
->   - 来源：Collins Dictionary | https://www.collinsdictionary.com/dictionary/english/birthright
+>   - 中译：长子声称他继承家族产业的与生俱来的权利。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/birthright
 
 ## 主动产出
 

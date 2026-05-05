@@ -120,8 +120,8 @@ dire(拉丁语 *dirus*，可怕的/不祥的)
 
 > [!example]- 语料
 > - The researchers proposed a dire solution to the problem. `[例]`
->   - 中译：研究人员提出了一个极其严峻的解决方案来应对这个问题。
->   - 来源：Collins | https://www.collinsdictionary.com/dictionary/english/dire
+>   - 中译：研究人员提出了一个极其严峻的解决方案。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/dire
 > - The company adopted a dire approach to improve efficiency. `[例]`
 >   - 中译：公司采取了一种极端的措施来提高效率。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/dire

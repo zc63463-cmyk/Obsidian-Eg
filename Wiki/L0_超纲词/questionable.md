@@ -126,11 +126,11 @@ review_count: 0
 
 > [!example]- 语料
 > - It is questionable wh ether this goal can be achieved. `[例]`
->   - 中译：他的商业行为值得怀疑。
+>   - 中译：这个目标能否实现值得怀疑。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/questionable
 > - It is questionable whether that investment will pay off. `[例]`
->   - 中译：这个结论基于有问题的数据。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/questionable
+>   - 中译：那项投资能否获得回报值得怀疑。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/questionable
 
 ## 主动产出
 

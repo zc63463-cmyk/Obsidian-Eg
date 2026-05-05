@@ -125,11 +125,11 @@ right(正确的，正义的) + -eous(形容词后缀，表"具有……性质的
 
 > [!example]- 语料
 > - He was regarded as a righteous and holy man. `[例]`
->   - 中译：他坚信自己的事业是正义的。
+>   - 中译：他被视为一个正直圣洁的人。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/righteous
 > - It's not only morally righteous, it's good business ," he said. `[例]`
->   - 中译：她有一种正义的愤怒，面对不公绝不沉默。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/righteous
+>   - 中译：“这不仅道德上正确，也是好生意，”他说。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/righteous
 
 ## 主动产出
 

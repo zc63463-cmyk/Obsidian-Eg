@@ -119,11 +119,11 @@ over the [[contra-counter|counter]](越过柜台)
 
 > [!example]- 语料
 > - The researchers proposed a over the counter solution to the problem. `[例]`
->   - 中译：这些药可以在柜台直接购买。
+>   - 中译：研究人员提出了一种非处方的解决方案来应对这一问题。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/over-the-counter
 > - The company adopted a over the counter approach to improve efficiency. `[例]`
->   - 中译：非处方药不需要医生的处方。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/over-the-counter
+>   - 中译：公司采取了一种非处方的方法来提高效率。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/over-the-counter
 
 ## 主动产出
 

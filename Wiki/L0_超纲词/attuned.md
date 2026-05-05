@@ -125,11 +125,11 @@ at-(=ad-, 向，加强) + tune(音调，调音) + -ed(形容词后缀，表示�
 
 > [!example]- 语料
 > - Successful leaders are attuned to the needs and concerns of their employees. `[例]`
->   - 中译：成功的领导者能敏锐地了解员工的需求和关切。
->   - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/attuned
+>   - 中译：成功的领导者能敏锐地感知员工的需求和关切。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/attuned
 > - Children are remarkably attuned to the emotional states of their parents. `[例]`
->   - 中译：孩子们对父母的情绪状态有着敏锐的感知。
->   - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/attuned
+>   - 中译：孩子们对父母的情绪状态有着敏锐的感知能力。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/attuned
 
 ## 主动产出
 

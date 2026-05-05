@@ -127,11 +127,11 @@ un-(不，否定前缀) + [[desir|desire]](渴望/想要) + -able(可被...的)
 
 > [!example]- 语料
 > - Houses near industrial sites often do not sell so quickly because they are regarded as undesirable. `[例]`
->   - 中译：这种药物有一些不良的副作用。
+>   - 中译：工业区附近的房屋通常卖得较慢，因为人们认为那里不受欢迎。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/undesirable
 > - It would be highly undesirable to increase class sizes further. `[例]`
->   - 中译：政府采取措施防止不良外来物种的入侵。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/undesirable
+>   - 中译：进一步扩大班级规模是非常不可取的。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/undesirable
 
 ## 主动产出
 

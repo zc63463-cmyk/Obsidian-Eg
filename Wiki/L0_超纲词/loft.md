@@ -129,10 +129,10 @@ loft（来自古英语/古诺斯语，空气、天空→高处）→ **阁楼，
 
 > [!example]- 语料
 > - I keep my old books in the loft. `[例]`
->   - 中译：我把旧书放在阁楼里。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/loft
+>   - 中译：我把旧书存放在阁楼里。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/loft
 > - The firm specializes in loft conversions (= making lofts into rooms ). `[例]`
->   - 中译：该公司专门从事阁楼改造（即将阁楼改造成房间）。
+>   - 中译：这家公司专门从事阁楼改造业务。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/loft
 
 ## 主动产出

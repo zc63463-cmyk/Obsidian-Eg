@@ -132,11 +132,11 @@ griev(=heavy/heavy-hearted, 沉重/悲伤，拉丁语 *gravis*) + -ance(名词�
 
 > [!example]- 语料
 > - A special committee has been appointed to handle prisoners ' grievances. `[例]`
->   - 中译：已成立一个特别委员会来处理囚犯的不满。
+>   - 中译：已成立一个特别委员会来处理囚犯的申诉。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/grievance
 > - The small amount of compensation is a source of grievance to the people forced to leave their homes. `[例]`
 >   - 中译：微薄的赔偿金是被迫离开家园的人们不满的根源。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/grievance
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/grievance
 
 ## 主动产出
 

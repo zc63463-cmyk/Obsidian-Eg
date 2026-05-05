@@ -126,11 +126,11 @@ anim(灵魂，生命，拉丁语 *anima*) + -ation(名词后缀，表动作/结�
 
 > [!example]- 语料
 > - The advancement of computer animation has revolutionized the film industry. `[例]`
->   - 中译：计算机动画的进步彻底改变了电影产业。
+>   - 中译：电脑动画的进步彻底改变了电影行业。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/animation
 > - The children watched the animation with great delight and excitement. `[例]`
->   - 中译：孩子们非常开心和兴奋地观看了这部动画片。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/animation
+>   - 中译：孩子们兴高采烈地观看了这部动画片。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/animation
 
 ## 主动产出
 

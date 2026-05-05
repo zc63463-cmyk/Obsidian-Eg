@@ -129,9 +129,9 @@ review_count: 0
 > [!example]- 语料
 > - She involuntarily shivered when she heard the footsteps behind her. `[例]`
 >   - 中译：听到身后的脚步声时，她不由自主地打了个寒颤。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/involuntarily
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/involuntarily
 > - Many workers were involuntarily unemployed due to the economic downturn. `[例]`
->   - 中译：许多工人因经济衰退而被迫失业。
+>   - 中译：由于经济衰退，许多工人被迫失业。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/involuntarily
 
 ## 主动产出

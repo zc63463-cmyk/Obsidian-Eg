@@ -132,13 +132,13 @@ review_count: 0
 > [!example]- 语料
 > - She aced the entrance exam and was admitted to the top university. `[例]`
 >   - 中译：她在入学考试中取得了优异成绩，被顶尖大学录取。
->   - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/ace
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ace
 > - The young pitcher aced the final set with a series of powerful serves. `[例]`
->   - 中译：这位年轻投手凭借一系列强有力的发球在最后一盘中发球得分。
->   - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/ace
+>   - 中译：这位年轻投手凭借一系列强力发球拿下了最后一盘。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ace
 > - He is widely regarded as an ace negotiator who never fails to close a deal. `[例]`
->   - 中译：他被公认为王牌谈判高手，从未谈不成交易。
->   - 来源：Collins Dictionary | https://www.collinsdictionary.com/dictionary/english/ace
+>   - 中译：他被广泛认为是一位从不失手的王牌谈判高手。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ace
 
 ## 主动产出
 

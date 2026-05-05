@@ -124,8 +124,8 @@ im-(=in-, 在……内) + prison(监狱)
 >   - 中译：他因谋杀未遂于2015年被监禁。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/imprison
 > - Unable to go out because of the deep snow , she felt imprisoned in her own house. `[例]`
->   - 中译：由于大雪无法外出，她感觉自己被囚禁在了自己的房子里。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/imprison
+>   - 中译：由于大雪无法外出，她感觉自己被困在了自己的房子里。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/imprison
 
 ## 主动产出
 

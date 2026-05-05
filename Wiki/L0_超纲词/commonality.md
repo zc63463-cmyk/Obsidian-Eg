@@ -122,10 +122,10 @@ review_count: 0
 
 > [!example]- 语料
 > - They found a commonality in discussing their experiences. `[例]`
->   - 中译：在讨论各自经历时，他们发现了共同点。
->   - 来源：Collins | https://www.collinsdictionary.com/dictionary/english/commonality
+>   - 中译：尽管存在差异，这两种文化有许多共同之处。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/commonality
 > - The World Trade Organization's job is to define commonality of interest between trading partners. `[例]`
->   - 中译：世界贸易组织的职责是界定贸易伙伴之间的利益共同点。
+>   - 中译：研究人员发现了所有对治疗有反应的患者之间的共同点。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/commonality
 
 ## 主动产出

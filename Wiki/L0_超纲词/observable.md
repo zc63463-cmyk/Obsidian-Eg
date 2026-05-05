@@ -124,11 +124,11 @@ review_count: 0
 
 > [!example]- 语料
 > - The researchers proposed a observable solution to the problem. `[例]`
->   - 中译：研究人员提出了一个可观察到的解决方案来解决这个问题。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/observable
+>   - 中译：研究人员提出了一种可观察的解决方案来应对这一问题。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/observable
 > - The company adopted a observable approach to improve efficiency. `[例]`
->   - 中译：该公司采用了一种可观察到的方案来提高效率。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/observable
+>   - 中译：公司采取了一种可观察的方法来提高效率。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/observable
 
 ## 主动产出
 

@@ -126,8 +126,8 @@ in-(向内) + [[fus-fund-fuse|fuse]](倾倒，注入，拉丁语 *fundere*)
 
 > [!example]- 语料
 > - The new leader infused the organization with a sense of purpose. `[例]`
->   - 中译：新领导为组织注入了使命感。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/infuse
+>   - 中译：新领导为组织注入了目标感。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/infuse
 > - Her speech was infused with passion and conviction. `[例]`
 >   - 中译：她的演讲充满了激情和信念。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/infuse

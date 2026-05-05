@@ -132,11 +132,11 @@ review_count: 0
 
 > [!example]- 语料
 > - According to the packet , these vitamin pills will restore lost vitality. `[例]`
->   - 中译：她充满了活力，每天都精力充沛。
+>   - 中译：根据包装说明，这些维生素片将恢复失去的活力。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/vitality
 > - The new factory should improve the economic vitality of the region. `[例]`
->   - 中译：这座城市的文化活力吸引了许多年轻人。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/vitality
+>   - 中译：新工厂应该能提升该地区的经济活力。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/vitality
 
 ## 主动产出
 

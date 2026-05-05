@@ -127,11 +127,11 @@ review_count: 0
 
 > [!example]- 语料
 > - The charity enjoys the patronage of many prominent local business people. `[例]`
->   - 中译：这家博物馆依靠私人赞助来维持运营。
+>   - 中译：这家慈善机构得到了许多当地知名商界人士的赞助。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/patronage
 > - Patronage is a potent force if used politically. `[例]`
->   - 中译：艺术家的作品得到了贵族的资助。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/patronage
+>   - 中译：如果用于政治目的，赞助是一种强大的力量。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/patronage
 
 ## 主动产出
 

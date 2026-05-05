@@ -119,11 +119,11 @@ im-(=in-, 在……上) + [[pend-pens|pend]](悬挂，拉丁语 *pendere*)
 
 > [!example]- 语料
 > - A crisis of huge proportions impends in the area. `[例]`
->   - 中译：一场大规模危机即将在该地区发生。
+>   - 中译：一场大规模危机即将在该地区爆发。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/impend
 > - For confirmed pessimists some disaster always seems to be impending. `[例]`
->   - 中译：对于彻头彻尾的悲观主义者来说，某种灾难似乎总是迫在眉睫。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/impend
+>   - 中译：对于坚定的悲观主义者来说，似乎总有什么灾难即将来临。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/impend
 
 ## 主动产出
 

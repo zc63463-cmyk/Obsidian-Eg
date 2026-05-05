@@ -126,11 +126,11 @@ robot(机器人，源自捷克语 *robota* "强迫劳动") + -ic(形容词后缀
 
 > [!example]- 语料
 > - Japanese researchers have led the world in advances in robotic engineering. `[例]`
->   - 中译：工厂使用机器人手臂来组装产品。
+>   - 中译：日本研究人员在机器人工程领域的进步方面处于世界领先地位。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/robotic
 > - Robotic surgery is more accurate for some medical procedures. `[例]`
->   - 中译：他的动作机械而僵硬，毫无感情。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/robotic
+>   - 中译：对于某些医疗手术，机器人手术更加精确。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/robotic
 
 ## 主动产出
 

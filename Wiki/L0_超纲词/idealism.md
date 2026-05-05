@@ -127,8 +127,8 @@ ide(a)(思想/理念) + -ism(主义/学说)
 >   - 中译：她从未失去年轻时的理想主义，一生都在为正义事业而奋斗。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/idealism
 > - He was full of youthful idealism. `[例]`
->   - 中译：他充满了年轻时的理想主义。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/idealism
+>   - 中译：他充满了年轻的理想主义。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/idealism
 
 ## 主动产出
 

@@ -117,10 +117,10 @@ review_count: 0
 
 > [!example]- 语料
 > - Broccoli is rich in vitamin C, fiber, and antioxidants, making it one of the most nutritious vegetables available. `[例]`
->   - 中译：西兰花富含维生素C、膳食纤维和抗氧化剂，使其成为最有营养的蔬菜之一。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/broccoli
+>   - 中译：西兰花富含维生素、纤维和抗氧化剂，是最健康的蔬菜之一。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/broccoli
 > - She added steamed broccoli and grilled chicken to her salad for a balanced and healthy lunch. `[例]`
->   - 中译：她在沙拉中加了蒸西兰花和烤鸡，做成了一顿均衡健康的午餐。
+>   - 中译：许多孩子不喜欢西兰花，但用适当的调味可以让它更美味。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/broccoli
 
 ## 主动产出

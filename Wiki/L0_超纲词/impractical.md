@@ -120,11 +120,11 @@ im-(=in-, 不) + [[pract-prag|pract]](实践/做) + -ical(形容词后缀)
 
 > [!example]- 语料
 > - The committee rejected the proposal as impractical given the limited resources available. `[例]`
->   - 中译：鉴于可用资源有限，委员会以不切实际为由拒绝了该提案。
+>   - 中译：鉴于可用资源有限，委员会以不切实际为由否决了该提案。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/impractical
 > - It is impractical to expect everyone to master multiple foreign languages in a short period. `[例]`
->   - 中译：期望每个人在短时间内掌握多门外语是不切实际的。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/impractical
+>   - 中译：期望每个人在短时间内掌握多门外语是不现实的。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/impractical
 
 ## 主动产出
 

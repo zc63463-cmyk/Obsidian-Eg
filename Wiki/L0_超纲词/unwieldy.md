@@ -125,11 +125,11 @@ un-(不，否定) + wield(操控，挥舞，古英语 *wieldan*) + -y(充满...�
 
 > [!example]- 语料
 > - A piano is a very unwieldy item to get down a flight of stairs. `[例]`
->   - 中译：这个庞大的官僚体系效率低下。
+>   - 中译：钢琴是非常笨重的物品，很难搬下楼梯。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/unwieldy
 > - One disadvantage for the bank is that its huge size - over 15,000 staff - makes it unwieldy and slow-moving. `[例]`
->   - 中译：这台旧电脑笨重且难以操作。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/unwieldy
+>   - 中译：这家银行的一个劣势是其庞大的规模——超过一万五千名员工——使其变得臃肿且行动迟缓。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/unwieldy
 
 ## 主动产出
 

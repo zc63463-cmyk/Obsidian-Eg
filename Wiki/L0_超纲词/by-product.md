@@ -123,10 +123,10 @@ by-(旁/次要的) + product(产品)
 
 > [!example]- 语料
 > - The glycerol produced during soap manufacturing is a valuable by-product. `[例]`
->   - 中译：肥皂制造过程中产生的甘油是一种有价值的副产品。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/by-product
+>   - 中译：二氧化碳是燃烧化石燃料的副产品。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/by-product
 > - Improved public health was an unexpected by-product of the clean water initiative. `[例]`
->   - 中译：公共健康状况的改善是清洁饮水计划的一个意外副产品。
+>   - 中译：公司找到了一种将生产副产品转化为有用材料的方法。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/by-product
 
 ## 主动产出

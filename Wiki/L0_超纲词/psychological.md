@@ -128,11 +128,11 @@ review_count: 0
 
 > [!example]- 语料
 > - He claims that the constant aircraft noise has a bad psychological effect on the residents. `[例]`
->   - 中译：心理压力会影响身体健康。
+>   - 中译：他声称持续的飞机噪音对居民有不良的心理影响。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/psychological
 > - We are concerned with the physical and psychological well-being of our employees. `[例]`
->   - 中译：她正在接受心理咨询。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/psychological
+>   - 中译：我们关心员工的身心健康。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/psychological
 
 ## 主动产出
 

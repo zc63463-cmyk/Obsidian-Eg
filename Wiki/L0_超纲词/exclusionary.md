@@ -126,11 +126,11 @@ ex-(出去/向外) + [[clus|clus]](关闭) + -ion(名词后缀) + -ary(形容词
 
 > [!example]- 语料
 > - The exclusionary rule prevents illegally obtained evidence from being used in court. `[例]`
->   - 中译：批评者认为该政策具有排他性。
+>   - 中译：排除规则禁止将在非法手段下获取的证据在法庭上使用。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/exclusionary
 > - Critics argue that the university's admission policies are exclusionary and disproportionately affect minority applicants. `[例]`
->   - 中译：俱乐部实行排他性的会员制度。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/exclusionary
+>   - 中译：批评者认为该大学的招生政策具有排他性，对少数族裔申请者造成了不成比例的影响。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/exclusionary
 
 ## 主动产出
 

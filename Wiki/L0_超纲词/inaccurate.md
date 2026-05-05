@@ -124,8 +124,8 @@ in-(不) + accurate(准确的)
 >   - 中译：他们对项目成本的估算极其不准确。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/inaccurate
 > - Your information is inaccurate – I was born in 1956, not 1965. `[例]`
->   - 中译：你的信息不准确——我出生于1956年，不是1965年。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/inaccurate
+>   - 中译：你的信息不准确——我出生于1956年，而不是1965年。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/inaccurate
 
 ## 主动产出
 

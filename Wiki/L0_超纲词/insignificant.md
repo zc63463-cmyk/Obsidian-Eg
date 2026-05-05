@@ -125,9 +125,9 @@ in-(不，否定) + [[sign|sign-]](标记/意义) + -ific(使动) + -ant(…的)
 > [!example]- 语料
 > - The difference between the two products is insignificant. `[例]`
 >   - 中译：两种产品之间的差异微不足道。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/insignificant
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/insignificant
 > - The company adopted a insignificant approach to improve efficiency. `[例]`
->   - 中译：公司采取了一项微不足道的措施来提高效率。
+>   - 中译：该公司采取了一种微不足道的措施来提高效率。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/insignificant
 
 ## 主动产出

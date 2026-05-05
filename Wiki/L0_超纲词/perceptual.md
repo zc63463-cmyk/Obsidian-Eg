@@ -122,10 +122,10 @@ review_count: 0
 
 > [!example]- 语料
 > - The researchers proposed a perceptual solution to the problem. `[例]`
->   - 中译：儿童的感知能力在早期发展中起着关键作用。
+>   - 中译：研究人员提出了一个感知层面的解决方案。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/perceptual
 > - The company adopted a perceptual approach to improve efficiency. `[例]`
->   - 中译：这项研究调查了感知差异对学习的影响。
+>   - 中译：公司采用了一种感知的方法来提高效率。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/perceptual
 
 ## 主动产出

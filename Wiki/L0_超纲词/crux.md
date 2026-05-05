@@ -127,11 +127,11 @@ review_count: 0
 
 > [!example]- 语料
 > - Short-term rentals themselves are not the crux of the issue, said Keren Hom , an expert on affordable housing policy. `[真题]`
->   - 中译：经济适用房政策专家凯伦·霍姆表示，短期租赁本身并不是问题的症结所在。
->   - 来源：考研真题 | https://www.oxfordlearnersdictionaries.com/definition/english/crux
+>   - 中译：经济适用房政策专家凯伦·霍姆表示，短期租赁本身并不是问题的核心。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/crux
 > - The crux of the country's economic problems is its foreign debt. `[例]`
->   - 中译：该国经济问题的症结在于其外债。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/crux
+>   - 中译：这场辩论的核心在于个人自由是否应优先于公共安全。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/crux
 
 ## 主动产出
 

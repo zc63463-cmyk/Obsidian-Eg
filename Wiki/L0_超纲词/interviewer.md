@@ -122,9 +122,9 @@ review_count: 0
 > [!example]- 语料
 > - The interviewer asked a series of challenging questions. `[例]`
 >   - 中译：面试官提出了一系列具有挑战性的问题。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/interviewer
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/interviewer
 > - Interviewers should be trained to avoid biased questions. `[例]`
->   - 中译：面试官应接受培训以避免提出有偏见的问题。
+>   - 中译：面试官应接受培训，以避免提出有偏见的问题。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/interviewer
 
 ## 主动产出

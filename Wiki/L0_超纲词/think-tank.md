@@ -119,11 +119,11 @@ think（思考）+ tank（容器/坦克）→ think-tank（思考的容器→智
 
 > [!example]- 语料
 > - Investor confidence in Japan dropped to its lowest level in 16 months , according to a leading economic think tank. `[例]`
->   - 中译：这家智库发布了一份关于气候变化的研究报告。
+>   - 中译：据一家知名经济智库的数据，日本的投资者信心降至16个月来的最低水平。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/think-tank
 > - A study published by a leading economic think tank. `[例]`
->   - 中译：许多政府政策都受到了智库的影响。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/think-tank
+>   - 中译：一家知名经济智库发布的一项研究。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/think-tank
 
 ## 主动产出
 
