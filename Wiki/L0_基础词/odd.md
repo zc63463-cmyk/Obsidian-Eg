@@ -139,8 +139,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Her father was an odd man. `[例]`
+>   - 中译：她父亲是个古怪的人。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/odd；
 > - What an odd thing to say. `[例]`
+>   - 中译：这话说得真奇怪。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/odd；
 > - The skirt and jacket looked a little odd together. `[例]`
+>   - 中译：这条裙子和外套搭配在一起看起来有些不协调。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/odd；
 
 
 ---

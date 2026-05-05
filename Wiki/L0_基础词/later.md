@@ -129,8 +129,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Though Native Americans ( and later miners and fur trappers) had long recognized the area's riches, most Americans did not. `[真题]`
+>   - 中译：尽管美洲原住民（以及后来的矿工和捕猎者）早已认识到该地区的丰富资源，但大多数美国人并不知情。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/later；
 > - We're going to Rome later in the year. `[例]`
+>   - 中译：我们今年晚些时候要去罗马。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/later；
 > - Perhaps most importantly, the images provided documentary evidence that later made its way to government officials. `[真题]`
+>   - 中译：也许最重要的是，这些图像提供了后来被送到政府官员手中的记录证据。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/later；
 
 
 ---

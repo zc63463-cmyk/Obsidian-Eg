@@ -124,9 +124,17 @@ review_count: 0
 
 > [!example]- 语料
 > - He had to swallow his pride and ask for help when he lost his job. `[真题]`
+>   - 中译：失业后，他不得不放下自尊去求助。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/swallow；
 > - The public found the government's explanation hard to swallow. `[真题]`
+>   - 中译：公众觉得政府的解释难以接受。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/swallow；
 > - Losing the championship was a bitter pill to swallow, but the team vowed to come back stronger next season. `[例]`
+>   - 中译：失去冠军是一个苦涩的结果，但球队誓言下赛季会更加强大地回归。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/swallow；
 > - She swallowed the bait and invested all her savings in the fraudulent scheme. `[例]`
+>   - 中译：她上了钩，把所有积蓄都投进了那个骗局。；
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/swallow；
 
 
 ---

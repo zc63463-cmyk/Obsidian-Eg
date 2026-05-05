@@ -129,8 +129,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The earthquake was one of the worst natural disasters in the country's history. `[COCA-NEWS]`
+>   - 中译：这次地震是该国有史以来最严重的自然灾害之一。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/disaster；
 > - Europe's 2003 heat wave claimed more than 30,000 lives, making it the continent's largest natural disaster in 50 years. `[COCA-ACAD]`
+>   - 中译：欧洲2003年的热浪夺去了超过3万人的生命，使其成为该大陆50年来最大的自然灾害。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/disaster；
 > - Ignoring climate change warnings could prove to be a recipe for disaster. `[COCA-NEWS]`
+>   - 中译：忽视气候变化警告可能会被证明是灾难的根源。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/disaster；
 
 
 ---

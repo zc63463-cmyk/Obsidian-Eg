@@ -138,8 +138,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The road was wet and slippery. `[例]`
+  - 中译：路面又湿又滑。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/slippery；
 > - He's as slippery as an eel - you can never get a straight answer out of him. `[例]`
+  - 中译：他像鳗鱼一样滑头——你永远别想从他那里得到直接的回答。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/slippery；
 > - He's a slippery customer (= person ) , and I've never felt comfortable with him. `[例]`
+  - 中译：他是个狡猾的家伙，我和他在一起从未感到自在。；
+  - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/slippery；
 
 
 ---

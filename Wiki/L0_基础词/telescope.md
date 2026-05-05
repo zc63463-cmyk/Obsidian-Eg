@@ -126,8 +126,14 @@ tele-(远，希腊语 *tēle*) + scope(看，观察，希腊语 *skopein*)
 
 > [!example]- 语料
 > - Rested in the Pacific Ocean, Mauna Kea's peak rises above the bulk of our planet's dense atmosphere, where conditions allow telescopes to obtain images of unsurpassed clarity. `[真题]`
+>   - 中译：莫纳克亚山坐落于太平洋中，其山峰耸立于地球浓密大气层之上，那里的条件使望远镜能够获得无与伦比的清晰图像。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/telescope；
 > - Calls to disassemble all telescopes on Mauna Kea or to ban future development there ignore the reality that astronomy and Hawaiian culture both seek to answer big questions about who we are. `[真题]`
+>   - 中译：要求拆除莫纳克亚山上所有望远镜或禁止未来在那里开发的声音，忽视了天文学和夏威夷文化都在寻求回答关于我们是谁的重大问题这一现实。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/telescope；
 > - After over three decades of scrutinising our universe, the Hubble Space Telescope remains a household word as the most well-known observatory in history. `[真题]`
+>   - 中译：在审视我们宇宙三十多年后，哈勃太空望远镜仍然是历史上最著名的天文台，家喻户晓。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/telescope；
 
 
 ---

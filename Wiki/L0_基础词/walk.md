@@ -139,8 +139,14 @@ walk（古英语 *wealcan*，日耳曼语族原始词，意为"滚动、移动"�
 
 > [!example]- 语料
 > - For an hour or so she would walk up and down between the stalls looking at everything, buying here and there. `[真题]`
+>   - 中译：大约一个小时，她会在摊位之间来回走动，看看各种东西，到处买一些。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/walk；
 > - People from all walks of life attended the meeting. `[例]`
+>   - 中译：各行各业的人都参加了这次会议。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/walk；
 > - The station is just a five-minute walk from the house. `[例]`
+>   - 中译：车站离房子只有五分钟的步行路程。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/walk；
 
 
 ---

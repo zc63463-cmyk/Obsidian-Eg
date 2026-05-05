@@ -129,8 +129,14 @@ review_count: 0
 
 > [!example]- 语料
 > - After the 21-day isolation period , Ebola survivors are no longer infectious. `[例]`
+  - 中译：经过21天的隔离期后，埃博拉幸存者不再具有传染性。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/infectious；
 > - Flu is highly infectious. `[例]`
+  - 中译：流感具有很强的传染性。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/infectious；
 > - Viruses and other infectious agents. `[例]`
+  - 中译：病毒和其他传染性病原体。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/infectious；
 
 
 ---

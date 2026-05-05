@@ -126,8 +126,14 @@ re-(再次，[[re]]变体) + [[prec-pre|pre]]-(在前面，[[prec-pre]]) + [[sen
 
 > [!example]- 语料
 > - This contract represents 20% of the company's annual revenue. `[COCA-ACAD]`
+  - 中译：这份合同占公司年收入的20%。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/represent；
 > - The popular press tends to represent him as an environmental guru. `[COCA-NEWS]`
+  - 中译：大众媒体倾向于把他描绘成一位环保大师。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/represent；
 > - Women were well represented at the conference. `[COCA-ACAD]`
+  - 中译：女性在会议上得到了充分的代表。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/represent；
 
 
 ---

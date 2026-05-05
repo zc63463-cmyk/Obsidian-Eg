@@ -133,8 +133,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The prisoners were regularly lashed with electric cable. `[例]`
+>   - 中译：囚犯们经常被电缆抽打。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lash；
 > - The sound of the rain lashing against the windows was deafening. `[例]`
+>   - 中译：雨水猛烈拍打窗户的声音震耳欲聋。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lash；
 > - I've lashed your suitcase to the roof rack. `[例]`
+>   - 中译：我已经把你的手提箱绑在车顶行李架上了。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lash；
 
 
 ---

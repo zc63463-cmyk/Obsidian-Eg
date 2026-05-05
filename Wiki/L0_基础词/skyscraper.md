@@ -137,8 +137,14 @@ sky(天空) + scraper(刮擦器：scrape + -er)
 
 > [!example]- 语料
 > - BASE jumpers parachute from high places: from the tops of buildings or monuments (even when they’re not allowed to), from skyscrapers that are still being built, and from mountains and cliffs. `[例]`
+  - 中译：低空跳伞者从高处跳伞：从建筑物或纪念碑的顶部（即使不被允许），从仍在建设中的摩天大楼，以及从山脉和悬崖上。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/skyscraper；
 > - The restaurant is at the top of one of the big downtown skyscrapers. `[例]`
+  - 中译：这家餐厅位于市中心一栋大型摩天大楼的顶部。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/skyscraper；
 > - The walkaround tasting will feature unlimited eats, from smash burgers — the trendy pancake-flat kind with cheese dribbling down a latticework of crispy edges — to classically juicy, skyscraper -thick patties, paired with snacks, liquor and desserts, Gonzalez says. `[例]`
+  - 中译：Gonzalez说，这次巡回品鉴将提供无限量美食，从时尚的薄饼式芝士汉堡到经典多汁的超厚肉饼，搭配小吃、酒水和甜点。；
+  - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/skyscraper；
 
 
 ---

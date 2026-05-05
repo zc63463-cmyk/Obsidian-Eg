@@ -122,8 +122,14 @@ ex-(出、向外) + claim(叫喊，拉丁语 *clamare*) → 向外叫喊 → 惊
 
 > [!example]- 语料
 > - You can't leave now!" she exclaimed. `[例]`
+  - 中译：“你现在不能走！”她惊呼道。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/exclaim；
 > - Nonsense!" he exclaimed in disgust. `[例]`
+  - 中译：“胡说！”他厌恶地大声说道。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/exclaim；
 > - She exclaimed in delight upon hearing the news. `[例]`
+  - 中译：她听到这个消息后高兴地叫了起来。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/exclaim；
 
 
 ---

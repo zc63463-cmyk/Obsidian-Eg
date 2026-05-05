@@ -132,9 +132,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Those flowers aren't real - they're made of plastic. `[例]`
+  - 中译：那些花不是真的——是塑料做的。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/plastic；
 > - The company has moved into plastics. `[例]`
+  - 中译：该公司已经进入了塑料行业。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/plastic；
 > - I hate the hostesses ' false cheerfulness and plastic smiles. `[例]`
-
+  - 中译：我讨厌那些女招待虚假的热情和塑料般的微笑。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/plastic；
 
 ---
 

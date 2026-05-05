@@ -129,8 +129,14 @@ there(那个) + fore(前面，before 的变体)
 
 > [!example]- 语料
 > - Therefore, it is important to study humans in all their richness and diversity in a calm, systematic manner. `[真题]`
+>   - 中译：因此，以冷静、系统的方式研究人类在所有方面的丰富性和多样性非常重要。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/therefore；
 > - Doctors are short of time to listen and therefore tend to prescribe drugs whenever they can. `[例]`
+>   - 中译：医生没有足够的时间倾听，因此倾向于尽可能开药。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/therefore；
 > - We are a moral, ethical people and therefore we do not approve of their activities. `[例]`
+>   - 中译：我们是有道德、有伦理的人，因此我们不赞成他们的活动。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/therefore；
 
 
 ---

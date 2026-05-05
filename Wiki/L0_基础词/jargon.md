@@ -121,8 +121,14 @@ jargon 源自古法语 *jargon* "鸟的叽叽喳喳声、无意义的 chatter"�
 
 > [!example]- 语料
 > - The scientific paper was so full of jargon that even other scientists found it hard to understand. `[真题]`
+>   - 中译：这篇科学论文充满了行话，连其他科学家都觉得难以理解。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/jargon；
 > - Lawyers often use legal jargon that is incomprehensible to the general public. `[真题]`
+>   - 中译：律师经常使用公众难以理解的法律术语。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/jargon；
 > - Good writing should avoid unnecessary jargon and use plain language instead. `[真题]`
+>   - 中译：好的写作应避免不必要的行话，而使用通俗的语言。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/jargon；
 
 
 ---

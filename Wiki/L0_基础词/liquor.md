@@ -125,8 +125,14 @@ liquor（13世纪，源自古法语 *licour*，源自拉丁语 *liquor* "液体�
 
 > [!example]- 语料
 > - He spent most of his money on liquor and drugs. `[例]`
+> -   - 中译：他把大部分钱花在了酒和毒品上；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/liquor；
 > - Count a drink as 12 ounces of regular beer , 5 ounces of wine or one shot of liquor or spirits. `[例]`
+> -   - 中译：一份饮品相当于12盎司普通啤酒、5盎司葡萄酒或一杯烈酒；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/liquor；
 > - Take the mixture off the heat once it has concentrated to a thin but aromatic liquor. `[例]`
+> -   - 中译：当混合物浓缩成稀薄但芳香的液体时，将其从火上取下；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/liquor；
 
 
 ---

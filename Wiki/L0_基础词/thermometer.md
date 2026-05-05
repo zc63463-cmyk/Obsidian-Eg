@@ -126,8 +126,14 @@ thermo-(=heat，热，希腊语 *therme*) + [[meter-metr|meter]](=measure，测�
 
 > [!example]- 语料
 > - A thermometer there showed a shade temperature of 70.7°C in 2005. `[例]`
+>   - 中译：2005年那里的一支温度计显示阴凉处温度为70.7°C。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/thermometer；
 > - In January 2011, the thermometer showed a temperature of –32°C! `[例]`
+>   - 中译：2011年1月，温度计显示温度为零下32°C！；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/thermometer；
 > - Burton brought in a stethoscope, a scale, and a thermometer so that children could use the numbers for a math activity and demystify doctors’ visits. `[例]`
+>   - 中译：伯顿带来了听诊器、体重秤和温度计，让孩子们可以用这些数字做数学活动，消除对看医生的恐惧。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/thermometer；
 
 
 ---

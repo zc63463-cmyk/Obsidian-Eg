@@ -125,8 +125,14 @@ ortho-(正确的，希腊语 *orthos*) + dox(意见，希腊语 *doxa*，源自 
 
 > [!example]- 语料
 > - He challenged the orthodox views on education and proposed a radically different approach. `[COCA-ACAD]`
+>   - 中译：他挑战了关于教育的正统观点，提出了一种根本不同的方法。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/orthodox；
 > - Many of these ideas are now being incorporated into orthodox medical treatment. `[COCA-ACAD]`
+>   - 中译：其中许多理念现在正被纳入正统医学治疗中。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/orthodox；
 > - Orthodox medicine rejects alternative therapies that lack rigorous scientific evidence. `[COCA-ACAD]`
+>   - 中译：正统医学拒绝缺乏严格科学证据的替代疗法。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/orthodox；
 
 
 ---

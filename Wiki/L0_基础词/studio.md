@@ -125,8 +125,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The band recorded their debut album in a professional recording studio in London. `[真题]`
+>   - 中译：这支乐队在伦敦的一家专业录音棚录制了他们的首张专辑。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/studio；
 > - She rented a small studio apartment in the city center near the university. `[真题]`
+>   - 中译：她在大学附近市中心租了一间小型公寓。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/studio；
 > - The film was produced by one of the major Hollywood studios. `[真题]`
+>   - 中译：这部电影是由好莱坞主要制片公司之一制作的。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/studio；
 
 
 ---

@@ -128,8 +128,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Our latest machine can pump a hundred gallons a minute. `[例]`
+>   - 中译：我们最新的机器每分钟能抽一百加仑。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pump；
 > - The new wine is pumped into storage tanks. `[例]`
+>   - 中译：新酿的酒被泵入储罐。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pump；
 > - She was pumping me for details of the new project. `[例]`
+>   - 中译：她正在向我打听新项目的细节。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pump；
 
 
 ---

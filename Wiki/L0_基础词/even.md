@@ -136,8 +136,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Even if a state is considered a high performer in its science standards, "that does not mean it will be taught" , he says. `[真题]`
+>   - 中译：即使一个州被认为在科学标准方面表现优异；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/even；
 > - Branch points out that, even if a growing number of official guidelines and textbooks reflect scientific consensus on climate change , unofficial educational materials that convey mo:re slanted perspectives are being distributed to teachers. `[真题]`
+>   - 中译：布兰奇指出，即使越来越多的官方指南和教科书反映了关于气候变化的科学共识；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/even；
 > - Boston took things even further, requiring renters to register with the city's Inspectional Services Department. `[真题]`
+>   - 中译：波士顿更进一步，要求租户向市的检查服务部门登记。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/even；
 
 
 ---

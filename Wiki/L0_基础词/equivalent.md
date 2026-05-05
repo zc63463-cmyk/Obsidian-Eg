@@ -128,8 +128,14 @@ review_count: 0
 
 > [!example]- 语料
 > - She's doing the equivalent job in the new company but for more money. `[例]`
+  - 中译：她在新公司做着相当的工作，但薪水更高。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/equivalent；
 > - Is $50 equivalent to about £30? `[例]`
+  - 中译：50美元大约相当于30英镑吗？；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/equivalent；
 > - There is no English equivalent for " bon appetit" so we have adopted the French expression. `[例]`
+  - 中译：“bon appetit”没有对应的英语词，所以我们采用了这个法语表达。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/equivalent；
 
 
 ---

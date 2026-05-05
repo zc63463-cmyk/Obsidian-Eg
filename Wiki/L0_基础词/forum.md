@@ -126,8 +126,14 @@ review_count: 0
 
 > [!example]- 语料
 > - This international event provided a forum for exchanging information and opinions in the field. `[例]`
+>   - 中译：这次国际活动为在该领域交流信息和意见提供了一个平台。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/forum；
 > - The committee is a forum for dialogue between staff representatives in 16 countries. `[例]`
+>   - 中译：该委员会是16个国家员工代表之间对话的平台。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/forum；
 > - We do not believe that the courts are the appropriate forum for such a discussion. `[例]`
+>   - 中译：我们认为法院不是进行此类讨论的适当场所。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/forum；
 
 
 ---

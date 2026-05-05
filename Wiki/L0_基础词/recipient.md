@@ -139,9 +139,17 @@ re-（回，向后）+ cip（拿，=capere 的缩略形式）+ -i-（连接元�
 
 > [!example]- 语料
 > - He was the recipient of a distinguished service award for his contribution to public health. `[例]`
+  - 中译：他因对公共健康的贡献而获得了一项杰出服务奖。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/recipient；
 > - The message was never delivered to the intended recipient due to an address error. `[例]`
+  - 中译：由于地址错误，信息从未送达预期的收件人。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/recipient；
 > - Family carers were not recipients of district nursing support in their own right but were dependent upon the cared-for person receiving nursing care. `[例]`
+  - 中译：家庭照护者本身并不是地区护理支持的接受者，而是依赖于被照护者接受护理服务。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/recipient；
 > - Matching a donor kidney with the most suitable recipient remains one of the greatest challenges in transplant medicine. `[例]`
+  - 中译：将捐献者的肾脏与最合适的接受者进行匹配，仍然是移植医学面临的最大挑战之一。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/recipient；
 
 
 ---

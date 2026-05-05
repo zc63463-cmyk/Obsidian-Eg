@@ -130,6 +130,8 @@ review_count: 0
 > - Rather than reading every word, experienced readers learn to scan a text quickly to locate the information they need. `[COCA-ACAD]`
 > - The doctor ordered a brain scan to rule out any serious neurological conditions. `[COCA-NEWS]`
 > - She scanned the crowd for a familiar face but couldn't find anyone she knew. `[例]`
+  - 中译：她扫视人群寻找熟悉的面孔，但没有找到她认识的人。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/scan
 
 
 ---

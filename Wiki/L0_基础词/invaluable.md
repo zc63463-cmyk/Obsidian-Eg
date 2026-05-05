@@ -122,8 +122,14 @@ in-(=not, 不) + valu(=价值，拉丁语 *valere* "强壮/有价值") + -able(�
 
 > [!example]- 语料
 > - The library proved to be an invaluable resource for researchers. `[真题]`
+>   - 中译：事实证明，图书馆对研究人员来说是一个极其宝贵的资源。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/invaluable；
 > - Her advice was invaluable to the success of the project. `[例]`
+>   - 中译：她的建议对项目的成功极其宝贵。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/invaluable；
 > - Such data will prove invaluable to researchers in the field. `[例]`
+>   - 中译：这些数据将被证明对该领域的研究人员极其宝贵。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/invaluable；
 
 
 ---

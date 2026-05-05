@@ -123,8 +123,14 @@ tank（水箱、储液容器）+ -er（表示"做某事的物或人"的后缀）
 
 > [!example]- 语料
 > - We watched a tanker coming into the harbor. `[例]`
+>   - 中译：我们看着一艘油轮驶入港口。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/tanker；
 > - Data from analytics platform Kpler showed that in the two weeks after the Martinez refinery shut down, two tankers laden with gasoline set sail from the Jamnagar refinery complex and reached the Olympus Terminal in the Port of Long Beach in March 2025. `[例]`
+>   - 中译：分析平台Kpler的数据显示，在马丁内斯炼油厂关闭后的两周内，两艘满载汽油的油轮从贾姆讷格尔炼油厂群启航，于2025年3月抵达长滩港的奥林匹斯码头。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/tanker；
 > - Fossil fuels tie every economy to the same fragile web of pipelines, tankers , and narrow straits. `[例]`
+>   - 中译：化石燃料将每个经济体都与同一个由管道、油轮和狭窄海峡组成的脆弱网络联系在一起。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/tanker；
 
 
 ---

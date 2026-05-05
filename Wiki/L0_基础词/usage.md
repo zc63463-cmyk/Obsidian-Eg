@@ -133,8 +133,14 @@ use(使用) + -age(名词后缀，表示状态/行为/结果)
 
 > [!example]- 语料
 > - The earliest recorded usage of the word is in the twelfth century. `[例]`
+>   - 中译：该词最早有记录的用法出现在十二世纪。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/usage；
 > - Sports equipment is designed to withstand hard usage. `[例]`
+>   - 中译：体育器材被设计为能够承受剧烈使用。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/usage；
 > - Many had complained about the usage they'd received at his hands. `[例]`
+>   - 中译：许多人抱怨受到他的粗暴对待。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/usage；
 
 
 ---

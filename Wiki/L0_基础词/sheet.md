@@ -133,8 +133,14 @@ review_count: 0
 
 > [!example]- 语料
 > - A sheet of ice covered the lake. `[真题]`
+  - 中译：一层冰覆盖了湖面。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/sheet；
 > - Sheets of rain slanted across the road. `[真题]`
+  - 中译：大片雨水斜打在路面上。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/sheet；
 > - Choose the best word ( s) for each numbered blank and mark A, B , C or D on th� ANSWER SHEET. ( 10 points) Caravanserais were roadside inns that were built along the Silk Road in areas including China, North Africa and the Middle East. `[真题]`
+  - 中译：为每个编号的空格选择最佳单词，并在答题卡上标出A、B、C或D。（10分）商队旅馆是沿着丝绸之路建造的路边客栈，分布在中国、北非和中东等地区。；
+  - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/sheet；
 
 
 ---

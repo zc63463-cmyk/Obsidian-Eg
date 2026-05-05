@@ -130,8 +130,14 @@ hike 词源不确定，可能源自英语方言 *hike*（用力拉、拽），�
 
 > [!example]- 语料
 > - The recent hike in train fares came as a shock to commuters. `[例]`
+  - 中译：最近火车票价的上涨让通勤者感到震惊。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hike；
 > - We're going hiking in the Sierra Nevada. `[例]`
+  - 中译：我们要去内华达山脉徒步旅行。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hike；
 > - The Royal Mail has announced it is hiking the price of a stamp. `[例]`
+  - 中译：英国皇家邮政宣布将大幅提高邮票价格。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hike；
 
 
 ---

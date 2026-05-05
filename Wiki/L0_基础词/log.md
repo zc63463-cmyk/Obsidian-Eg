@@ -131,8 +131,14 @@ log 源自中古英语 *logge*（原木），可能与北欧语有关。
 
 > [!example]- 语料
 > - The incident is noted in the ship's log as a " curious circumstance ". `[例]`
+> -   - 中译：这一事件被记录在航海日志中，被称为'一个奇怪的情况'；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/log；
 > - Family members said he had detailed concerns about the site's safety in the log. `[例]`
+> -   - 中译：家属说他曾在日志中详细记录了对该工地安全的担忧；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/log；
 > - Log tables were used to perform complex calculations before the invention of electronic calculators. `[例]`
+> -   - 中译：在电子计算器发明之前，对数表被用来进行复杂计算；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/log；
 
 
 ---

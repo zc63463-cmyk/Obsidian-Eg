@@ -126,8 +126,14 @@ review_count: 0
 
 > [!example]- 语料
 > - We watched a ship unloading ( sacks of flour ). `[例]`
+>   - 中译：我们看着一艘船卸下成袋的面粉。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/unload；
 > - I've been unloading my worries on poor Ann here. `[例]`
+>   - 中译：我一直向可怜的安倾诉我的烦恼。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/unload；
 > - I was so stressed out, I just needed to unload. `[例]`
+>   - 中译：我压力太大了，就是需要发泄一下。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/unload；
 
 
 ---

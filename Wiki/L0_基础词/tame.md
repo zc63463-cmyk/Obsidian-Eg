@@ -128,9 +128,17 @@ review_count: 0
 
 > [!example]- 语料
 > - The central bank managed to tame inflation through a series of interest rate hikes. `[真题]`
+>   - 中译：央行通过一系列加息成功控制了通货膨胀。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/tame；
 > - What was expected to be a fierce debate turned out to be a rather tame affair. `[真题]`
+>   - 中译：原本预期会是一场激烈的辩论，结果却相当平淡。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/tame；
 > - Ukraine's central bank increased the key policy rate to tame inflation that rose above its forecast. `[真题]`
+>   - 中译：乌克兰央行提高了关键政策利率，以控制超出预期的通货膨胀。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/tame；
 > - The relief was almost tangible, yet the government struggled to tame public anger. `[真题]`
+>   - 中译：如释重负的感觉几乎触手可及，但政府仍难以平息公众的愤怒。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/tame；
 
 
 ---

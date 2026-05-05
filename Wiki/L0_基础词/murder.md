@@ -131,8 +131,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Two sisters have been charged with (= officially accused of) murder. `[例]`
+> - 中译：两姐妹被指控犯有谋杀罪。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/murder；
 > - There were three murders in the town last year. `[例]`
+> - 中译：去年这个镇上发生了三起谋杀案。；
+> - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/murder；
 > - The three were convicted of (= proved guilty of) murder. `[例]`
+> - 中译：这三人被判谋杀罪成立。；
+> - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/murder；
 
 
 ---

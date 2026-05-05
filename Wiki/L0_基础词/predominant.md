@@ -128,8 +128,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Research forms the predominant part of my job. `[例]`
+>   - 中译：研究构成了我工作的主要部分。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/predominant；
 > - Dancers have a predominant role in this performance. `[例]`
+>   - 中译：舞蹈演员在这场演出中扮演主要角色。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/predominant；
 > - Women have a predominant role as health care professionals. `[例]`
+>   - 中译：女性在医疗保健专业人员中占主导地位。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/predominant；
 
 
 ---

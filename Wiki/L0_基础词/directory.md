@@ -130,6 +130,8 @@ review_count: 0
 > - I found his surname and address in the telephone directory and rang the number. `[BNC-SPOKEN]`
 > - You can find the company's address in the local business directory. `[COCA-NEWS]`
 > - All files in the root directory are protected by the system. `[例]`
+  - 中译：根目录中的所有文件都受系统保护。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/directory；
 
 
 ---

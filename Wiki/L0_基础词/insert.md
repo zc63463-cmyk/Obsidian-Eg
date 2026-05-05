@@ -132,8 +132,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The editor asked the author to insert an additional paragraph to clarify the methodology used in the research study. `[真题]`
+  - 中译：编辑要求作者增加一段，以阐明研究中所使用的方法。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/insert；
 > - Users can insert their credit card information into the online form to complete the purchase securely and conveniently. `[真题]`
+  - 中译：用户可以在在线表格中输入信用卡信息，以安全便捷地完成购买。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/insert；
 > - His hand shook slightly as he inserted the key into the lock. `[例]`
+  - 中译：他把钥匙插入锁孔时，手微微颤抖。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/insert；
 
 
 ---

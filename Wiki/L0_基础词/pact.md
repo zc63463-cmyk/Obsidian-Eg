@@ -122,8 +122,14 @@ review_count: 0
 
 > [!example]- 语料
 > - A mutual defence pact was signed, along with a trade and development pact. `[真题]`
+>   - 中译：签署了一项共同防御条约，同时还有一项贸易和发展协定。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pact；
 > - Mexico is in its fourth month of negotiations on a free-trade pact with the US. `[真题]`
+>   - 中译：墨西哥与美国进行自由贸易协定的谈判已进入第四个月。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pact；
 > - The two opposition parties cannot agree on an electoral pact between themselves. `[真题]`
+>   - 中译：两个反对党无法就彼此之间的选举协议达成一致。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pact；
 
 
 ---

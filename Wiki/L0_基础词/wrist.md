@@ -121,9 +121,17 @@ wrist 源自古英语 *wrist*，原始日耳曼语 *\*wristiz*，来自 *\*wreik
 
 > [!example]- 语料
 > - She fell off her bike and sprained her wrist, requiring several weeks of rest and physiotherapy. `[真题]`
+>   - 中译：她从自行车上摔下来扭伤了手腕，需要休息和理疗数周。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/wrist；
 > - He glanced at his wrist watch and realized he was going to be late for the meeting. `[真题]`
+>   - 中译：他看了一眼手表，意识到开会要迟到了。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/wrist；
 > - The gymnast landed awkwardly and fractured her wrist during the floor exercise competition. `[真题]`
+>   - 中译：体操运动员落地姿势不当，在自由体操比赛中手腕骨折。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/wrist；
 > - She wore a silver bracelet around her left wrist that had been passed down through three generations. `[真题]`
+>   - 中译：她左手腕上戴着一条传承了三代的银手镯。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/wrist；
 
 
 ---

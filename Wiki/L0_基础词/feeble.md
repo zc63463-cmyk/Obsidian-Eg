@@ -130,8 +130,14 @@ feeble 源自古法语 *feble*（虚弱的），与 [[fee]]（费用，源自"�
 
 > [!example]- 语料
 > - He was a feeble, helpless old man. `[例]`
+>   - 中译：他是一个虚弱无助的老人。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/feeble；
 > - Opposition to the plan was rather feeble. `[例]`
-> - He’s pretty feeble, and has to use a cane to get around. `[例]`
+>   - 中译：对该计划的反对相当无力。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/feeble；
+> - He's pretty feeble, and has to use a cane to get around. `[例]`
+>   - 中译：他身体相当虚弱，得拄拐杖才能走动。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/feeble；
 
 
 ---

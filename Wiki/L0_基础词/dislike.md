@@ -124,8 +124,14 @@ review_count: 0
 
 > [!example]- 语料
 > - I have always disliked that feeling of fullness after a large meal. `[真题]`
+>   - 中译：我一直不喜欢大餐后那种饱胀的感觉。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/dislike；
 > - Most people dislike going to the dentist. `[真题]`
+>   - 中译：大多数人不喜欢去看牙医。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/dislike；
 > - Fiona seemed to have taken a dislike to him, though she tried to cover it up. `[真题]`
+>   - 中译：菲奥娜似乎开始不喜欢他了，尽管她试图掩饰。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/dislike；
 
 
 ---

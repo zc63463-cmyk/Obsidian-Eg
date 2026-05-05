@@ -124,8 +124,14 @@ muscul(=muscle，肌肉) + -ar(形容词后缀，表示"与……有关的")
 
 > [!example]- 语料
 > - He wished he was more muscular. `[例]`
+> - 中译：他希望自己更健壮一些。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/muscular；
 > - It was a muscular, hard-hitting documentary. `[例]`
+> - 中译：这是一部有力而犀利的纪录片。；
+> - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/muscular；
 > - He was tall, lean and muscular. `[例]`
+> - 中译：他身材高大、精瘦而健壮。；
+> - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/muscular；
 
 
 ---

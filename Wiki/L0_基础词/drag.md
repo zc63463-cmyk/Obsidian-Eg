@@ -128,8 +128,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The economy is being dragged down by high unemployment. `[真题]`
+>   - 中译：高失业率正在拖累经济。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/drag；
 > - He dragged his feet on signing the contract. `[真题]`
+>   - 中译：他在签署合同上拖拖拉拉。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/drag；
 > - She dragged on a low-tar cigarette and exhaled slowly. `[真题]`
+>   - 中译：她吸了一口低焦油香烟，缓缓吐出烟雾。；
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/drag；
 
 
 ---

@@ -125,8 +125,14 @@ stale 源自古英语 *stalu*（陈旧的），与 steal（偷窃）同源——
 
 > [!example]- 语料
 > - The morning after the party , their apartment smelled of stale cigarette smoke. `[例]`
+>   - 中译：聚会后的第二天早上，他们的公寓里弥漫着陈旧的烟味。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/stale；
 > - They had been working together for over five years and they had both become a little stale. `[例]`
+>   - 中译：他们已经合作了五年多，双方都变得有些缺乏新意了。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/stale；
 > - Stale air smells very bad. `[例]`
+>   - 中译：沉闷的空气闻起来很糟糕。；
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/stale；
 
 
 ---

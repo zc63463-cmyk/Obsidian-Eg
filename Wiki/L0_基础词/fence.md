@@ -134,8 +134,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The area is fenced on three sides but not along the highway. `[例]`
+>   - 中译：该区域三面都有围栏，但沿公路一面没有。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fence；
 > - The house was surrounded by a tall , wooden fence. `[例]`
+>   - 中译：房子被一道高高的木栅栏围着。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fence；
 > - A cat was walking along the top of the fence. `[例]`
+>   - 中译：一只猫在栅栏顶上走着。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fence；
 
 
 ---

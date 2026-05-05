@@ -134,8 +134,14 @@ fill 源自古英语 *fyllan*，与 full（满的）同源，原始日耳曼语 
 
 > [!example]- 语料
 > - I filled the bucket with water. `[例]`
+>   - 中译：我把桶装满了水。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fill；
 > - I could hear the tank filling. `[例]`
+>   - 中译：我能听到水箱在注水。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fill；
 > - She filled most of her time watching TV. `[例]`
+>   - 中译：她大部分时间都在看电视。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fill；
 
 
 ---

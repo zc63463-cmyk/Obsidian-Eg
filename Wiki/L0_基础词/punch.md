@@ -131,8 +131,14 @@ review_count: 0
 
 > [!example]- 语料
 > - He was knocked out by a punch in the face. `[例]`
+>   - 中译：他脸上挨了一拳被打晕了。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/punch；
 > - Some of the crowd started getting aggressive and threw a punch or two (= hit people ). `[例]`
+>   - 中译：人群中有些人开始变得好斗，挥了一两拳。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/punch；
 > - The former champion hardly landed a punch in rounds four and five. `[例]`
+>   - 中译：前冠军在第四和第五回合几乎没有打出有效的一拳。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/punch；
 
 
 ---

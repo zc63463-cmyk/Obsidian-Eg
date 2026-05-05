@@ -130,9 +130,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The president granted a pardon to the convicted man before leaving office. `[真题]`
+  - 中译：总统在离任前赦免了这名被定罪的男子。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pardon；
 > - Pardon me for interrupting, but I have an urgent message. `[真题]`
+  - 中译：请原谅我打断一下，但我有一条紧急消息。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/pardon；
 > - I beg your pardon, but I believe you are mistaken. `[例]`
-
+  - 中译：请恕我直言，但我认为您弄错了。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/pardon；
 
 ---
 

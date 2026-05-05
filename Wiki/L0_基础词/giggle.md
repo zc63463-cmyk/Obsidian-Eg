@@ -129,8 +129,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The couple squealed and giggled in the fitting room. `[真题]`
+>   - 中译：这对情侣在试衣间里又尖叫又咯咯笑。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/giggle；
 > - Vicky suppressed a nervous giggle as the teacher called her name. `[真题]`
+>   - 中译：当老师叫到她的名字时，维基忍住了一阵紧张的咯咯笑。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/giggle；
 > - He looked so ridiculous I got the giggles. `[真题]`
+>   - 中译：他看起来太滑稽了，我忍不住咯咯笑了起来。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/giggle；
 
 
 ---

@@ -127,8 +127,14 @@ LASER = **L**ight **A**mplification by **S**timulated **E**mission of **R**adiat
 
 > [!example]- 语料
 > - Doctors destroyed the tumor with a laser. `[例]`
+>   - 中译：医生用激光摧毁了肿瘤。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/laser；
 > - It shines a laser beam on to the surface of the disc to read the pattern of the bumps. `[例]`
+>   - 中译：它将激光束照射到光盘表面，读取凸起的图案。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/laser；
 > - Our team are engaged in the research of laser technology. `[例]`
+>   - 中译：我们的团队正在从事激光技术的研究。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/laser；
 
 
 ---

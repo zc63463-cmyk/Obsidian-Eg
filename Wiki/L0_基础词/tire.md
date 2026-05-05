@@ -133,8 +133,14 @@ tire 源自古英语 *teorian*（失败、停止、疲劳），词源不确定�
 
 > [!example]- 语料
 > - She's been leading throughout the race , but it now looks as if she's tiring. `[例]`
+>   - 中译：她一直领跑比赛，但现在看来她似乎有些疲劳了。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/tire；
 > - Even walking up the stairs at work tires me these days. `[例]`
+>   - 中译：最近连上班爬楼梯都让我感到疲倦。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/tire；
 > - Weakened by the infection , he tires easily. `[例]`
+>   - 中译：由于感染而身体虚弱，他很容易疲劳。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/tire；
 
 
 ---

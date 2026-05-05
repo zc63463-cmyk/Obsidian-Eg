@@ -132,7 +132,11 @@ e-(=ex-, 出/离开) + vade(走，拉丁语 *vadere*)
 > [!example]- 语料
 > - The necessity to stop developers from evading taxes. `[真题]`
 > - The police have assured the public that the escaped prisoners will not evade recapture for long. `[例]`
+  - 中译：警方向公众保证，逃犯不会长久逍遥法外。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/evade；
 > - She leaned forward to kiss him but he evaded her by pretending to sneeze. `[例]`
+  - 中译：她凑上前去吻他，但他假装打喷嚏躲开了。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/evade；
 
 
 ---

@@ -127,8 +127,14 @@ review_count: 0
 
 > [!example]- 语料
 > - This chapter is so difficult to digest, I'll have to read it again later. `[例]`
+  - 中译：这一章太难消化了，我以后还得再读一遍。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/digest；
 > - A digest of the research findings is now available. `[例]`
+  - 中译：研究结果的摘要现已提供。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/digest；
 > - The company publishes a monthly digest of its activities. `[例]`
+  - 中译：公司每月出版一份活动摘要。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/digest；
 
 
 ---

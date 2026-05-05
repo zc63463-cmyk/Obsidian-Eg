@@ -131,8 +131,14 @@ review_count: 0
 
 > [!example]- 语料
 > - I was shivering with cold. `[真题]`
+  - 中译：我冷得发抖。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/shiver；
 > - She shivered involuntarily as he approached her. `[真题]`
+  - 中译：当他靠近她时，她不由自主地颤抖了一下。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/shiver；
 > - A shiver of cold ran through him when he stepped outside. `[真题]`
+  - 中译：他走到外面时，一阵寒意传遍全身。；
+  - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/shiver；
 
 
 ---

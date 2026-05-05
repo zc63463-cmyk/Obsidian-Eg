@@ -125,8 +125,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Walking along the darkened street , he heard footsteps close behind him. `[例]`
+>   - 中译：走在昏暗的街道上，他听到身后有近在咫尺的脚步声。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/footstep；
 > - Their footsteps echoed between the ancient stone buildings. `[例]`
+>   - 中译：他们的脚步声在古老的石头建筑之间回荡。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/footstep；
 > - He looked down to see which way the footsteps went. `[例]`
+>   - 中译：他低头看脚步声是往哪个方向去的。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/footstep；
 
 
 ---

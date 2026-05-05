@@ -127,8 +127,14 @@ lyr(里拉琴，希腊语 *lyra*) + -ic(形容词/名词后缀，与……相关
 
 > [!example]- 语料
 > - Paul Simon wrote the lyrics for most of his songs. `[例]`
+> -   - 中译：保罗·西蒙为他大部分的歌曲写了歌词；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lyric；
 > - He is known more as a novelist than as a lyric poet. `[例]`
+> -   - 中译：抒情诗人；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lyric；
 > - The most obvious difference between the genres is that narrative poems tell a story and lyric poems don’t. `[例]`
+> -   - 中译：这些体裁之间最明显的区别是叙事诗讲述故事而抒情诗不讲述；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lyric；
 
 
 ---

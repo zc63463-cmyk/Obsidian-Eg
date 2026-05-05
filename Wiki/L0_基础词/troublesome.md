@@ -123,8 +123,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Her hip has been troublesome for quite a while, and she'll probably need surgery on it. `[例]`
+>   - 中译：她的髋关节已经困扰她好一阵子了，可能需要做手术。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/troublesome；
 > - The negotiations have proven more troublesome than any of us expected. `[例]`
+>   - 中译：事实证明谈判比我们任何人预期的都要棘手。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/troublesome；
 > - The troublesome fact is that we haven’t gotten much done. `[例]`
+>   - 中译：令人头疼的事实是我们没有完成多少工作。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/troublesome；
 
 
 ---

@@ -129,8 +129,12 @@ review_count: 0
 
 > [!example]- 语料
 > - The cotton harvest is a small fraction of what it once was. `[例]`
+>   - 中译：棉花产量只是过去的一小部分。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fraction；
 > - Although sexual and violent crimes have increased by 13 percent , they remain only a tiny fraction of the total number of crimes committed each year. `[例]`
 > - They can produce it at a fraction of the cost of (= much more cheaply than) traditional methods. `[例]`
+>   - 中译：他们可以用传统方法成本的一小部分来生产。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fraction；
 
 
 ---

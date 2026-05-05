@@ -127,8 +127,14 @@ review_count: 0
 
 > [!example]- 语料
 > - DNA is stored in the nucleus of a cell. `[例]`
+>   - 中译：DNA储存于细胞核中。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/nucleus；
 > - These three players will form the nucleus of a revised and stronger team. `[例]`
+>   - 中译：这三名球员将组成一支经过调整且更强大的球队的核心。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/nucleus；
 > - These two people will form the nucleus of a new management team to promote sales in South America. `[例]`
+>   - 中译：这两人将组成一个新的管理团队的核心，负责推动南美的销售业务。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/nucleus；
 
 
 ---

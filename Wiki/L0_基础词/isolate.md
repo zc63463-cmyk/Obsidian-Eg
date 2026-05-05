@@ -130,8 +130,14 @@ isol(=insul-, 岛，拉丁语 *insula*) + -ate(动词后缀，使……)
 
 > [!example]- 语料
 > - Patients with infectious diseases should be isolated from the general population. `[真题]`
+>   - 中译：传染病患者应与普通人群隔离。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/isolate；
 > - They tried to isolate the cause of the problem through careful analysis. `[真题]`
+>   - 中译：他们试图通过仔细分析找出问题的根源。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/isolate；
 > - A high wall isolated the house from the rest of the village. `[例]`
+>   - 中译：一堵高墙把这栋房子与村子的其他部分隔开了。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/isolate；
 
 
 ---

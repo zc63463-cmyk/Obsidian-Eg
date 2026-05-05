@@ -136,8 +136,14 @@ review_count: 0
 
 > [!example]- 语料
 > - I made this skirt just by sewing two pieces of material together. `[例]`
+  - 中译：我只是把两块布料缝在一起就做成了这条裙子。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sew
 > - He sewed the badge neatly onto his uniform. `[例]`
+  - 中译：他把徽章整齐地缝在了制服上。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sew
 > - She sews all her children's clothes. `[例]`
+  - 中译：她缝制了她所有孩子的衣服。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sew
 
 
 ---

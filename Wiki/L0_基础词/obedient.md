@@ -125,8 +125,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Students are expected to be quiet and obedient in the classroom. `[例]`
+>   - 中译：学生在课堂上被要求保持安静和服从。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/obedient；
 > - An obedient dog is much easier to train and can be a reliable companion for its owner. `[例]`
+>   - 中译：一只听话的狗更容易训练，也能成为主人可靠的伙伴。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/obedient；
 > - He was always obedient to his father's wishes. `[例]`
+>   - 中译：他总是顺从父亲的意愿。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/obedient；
 
 
 ---

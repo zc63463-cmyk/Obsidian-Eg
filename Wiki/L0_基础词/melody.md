@@ -132,8 +132,14 @@ mel(=melos, 歌/曲调，希腊语 *melos*) + -ody(=aoidē, 唱/歌，希腊语 
 
 > [!example]- 语料
 > - The second movement begins with an ostinato on harp and the flutes, which eventually develops into a beautiful melody that forms a basis for the development of the movement. `[COCA-ACAD]`
+> -   - 中译：第二乐章以竖琴和长笛的固定音型开始，营造出；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/melody；
 > - But at the same time, we're all suckers for a beautiful melody, you know? `[BNC-SPOKEN]`
+> -   - 中译：但同时，我们都是优美旋律的爱好者，你知道的；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/melody；
 > - His songs are always strong on melody. `[例]`
+> -   - 中译：他的歌曲总是旋律优美；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/melody；
 
 
 ---

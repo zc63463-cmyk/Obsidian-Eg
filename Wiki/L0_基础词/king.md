@@ -127,8 +127,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The lion is the king of the jungle. `[例]`
+>   - 中译：狮子是丛林之王。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/king；
 > - The kings and queens of England. `[例]`
+>   - 中译：英格兰的历代国王和王后。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/king；
 > - The lion is often called the king of the jungle. `[例]`
+>   - 中译：狮子常被称为丛林之王。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/king；
 
 
 ---

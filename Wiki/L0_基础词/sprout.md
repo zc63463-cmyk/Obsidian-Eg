@@ -130,8 +130,14 @@ review_count: 0
 
 > [!example]- 语料
 > - It takes about three days for the seeds to sprout. `[例]`
+>   - 中译：种子大约需要三天才能发芽。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sprout；
 > - Your hair is sticking up - it looks like you're sprouting horns! `[例]`
+>   - 中译：你的头发竖起来了——看起来像是在长角！；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/sprout；
 > - New factories have sprouted up everywhere. `[例]`
+>   - 中译：新工厂如雨后春笋般到处涌现。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sprout；
 
 
 ---

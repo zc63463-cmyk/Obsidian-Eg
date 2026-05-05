@@ -122,9 +122,17 @@ re-(回，向后) + [[fus-fund-fuse|fus]](流，来自拉丁语 *fundere/fusus*)
 
 > [!example]- 语料
 > - His refusal to listen to any advice is very annoying. `[真题]`
+  - 中译：他拒绝听取任何建议，这非常令人恼火。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/refusal；
 > - Their refusal to compromise will inevitably invite more criticism from the UN. `[例]`
+  - 中译：他们拒绝妥协必将招致联合国更多的批评。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/refusal；
 > - Our request for permission to travel met with a flat refusal from the authorities. `[例]`
+  - 中译：我们的旅行许可申请遭到了当局的断然拒绝。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/refusal；
 > - The government's refusal to see that the protection of the environment must be our first priority today is a great tragedy. `[例]`
+  - 中译：政府看不到环境保护必须成为当今首要任务，这是一个巨大的悲剧。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/refusal；
 
 
 ---

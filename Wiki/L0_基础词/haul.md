@@ -134,8 +134,14 @@ review_count: 0
 
 > [!example]- 语料
 > - They hauled the boat out of the water. `[例]`
+  - 中译：他们把船从水里拖了出来。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/haul；
 > - She hauled herself up into the tree. `[例]`
+  - 中译：她费力地爬上了树。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/haul；
 > - FBI agents hauled away boxes of records. `[例]`
+  - 中译：联邦调查局特工拖走了成箱的记录。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/haul；
 
 
 ---

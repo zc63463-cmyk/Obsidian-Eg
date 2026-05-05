@@ -128,9 +128,17 @@ review_count: 0
 
 > [!example]- 语料
 > - The development of nuclear missiles has fundamentally changed the nature of international security and diplomatic relations. `[真题]`
+> - 中译：核导弹的发展从根本上改变了国际安全和外交关系的性质。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/missile；
 > - The country's missile defense system was designed to intercept incoming ballistic missiles before they could reach populated areas. `[真题]`
+> - 中译：该国的导弹防御系统旨在在弹道导弹到达人口密集区之前进行拦截。；
+> - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/missile；
 > - The pilot zeroed in on the bunker and launched a guided missile. `[真题]`
+> - 中译：飞行员瞄准地堡并发射了一枚制导导弹。；
+> - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/missile；
 > - Long-range missiles can shoot down any planes before they can even be seen. `[真题]`
+> - 中译：远程导弹可以在飞机被看到之前将其击落。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/missile；
 
 
 ---

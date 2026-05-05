@@ -135,8 +135,14 @@ manu(手，拉丁语 *manus*) + -al(形容词后缀，表示"属于……的")
 
 > [!example]- 语料
 > - The computer comes with a 600-page instruction manual. `[真题]`
+> -   - 中译：这台电脑附带一本600页的使用手册；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/manual；
 > - Instead they left the country and volunteered to do hard manual labour in an orphanage in Cambodia for a month. `[真题]`
+> -   - 中译：相反，他们离开了国家，志愿去柬埔寨的一家孤儿院做了一个月的艰苦体力劳动；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/manual；
 > - This car has a manual gearbox. `[真题]`
+> -   - 中译：这辆车是手动变速箱；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/manual；
 
 
 ---

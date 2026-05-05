@@ -142,8 +142,14 @@ review_count: 0
 
 > [!example]- 语料
 > - She slipped on the ice. `[例]`
+  - 中译：她在冰上滑倒了。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/slip；
 > - Careful you don't slip - there's water on the floor. `[例]`
+  - 中译：小心别滑倒——地板上有水。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/slip；
 > - The razor slipped while he was shaving and he cut himself. `[例]`
+  - 中译：他刮胡子时剃刀滑了一下，割伤了自己。；
+  - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/slip；
 
 
 ---

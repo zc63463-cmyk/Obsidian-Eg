@@ -129,9 +129,17 @@ review_count: 0
 
 > [!example]- 语料
 > - In the worst-case scenario, the company could go bankrupt within six months if no measures are taken. `[真题]`
+  - 中译：在最坏的情况下，如果不采取措施，公司可能在六个月内破产。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/scenario
 > - The most likely scenario is that an investment firm buys the building. `[例]`
+  - 中译：最可能的情况是一家投资公司买下这栋楼。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/scenario
 > - A doomsday scenario is not out of the question. `[例]`
+  - 中译：世界末日的情景并非不可能。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/scenario
 > - The government has considered various possible scenarios. `[例]`
+  - 中译：政府已经考虑了各种可能的情况。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/scenario
 
 
 ---

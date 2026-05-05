@@ -135,9 +135,14 @@ plur-(=plus/pluralis, 更多/复数，拉丁语 *plus*/*pluralis*) + -al(形容�
 
 > [!example]- 语料
 > - Geese" is the plural of " goose ". `[例]`
+  - 中译：“Geese”是“goose”的复数形式。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/plural；
 > - Woman" in the plural is "women". `[例]`
+  - 中译：“Woman”的复数形式是“women”。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/plural；
 > - We need to recognize that we are now living in a plural society. `[例]`
-
+  - 中译：我们需要认识到，我们现在生活在一个多元社会中。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/plural；
 
 ---
 

@@ -131,8 +131,14 @@ review_count: 0
 
 > [!example]- 语料
 > - To be perfectly frank, I don't think you are as well qualified as some of the other candidates. `[COCA-SPOKEN]`
+>   - 中译：坦率地说，我认为你的资历不如其他一些候选人。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/frank；
 > - There followed a frank exchange of views. `[COCA-NEWS]`
+>   - 中译：随后进行了一次坦率的意见交流。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/frank；
 > - I thought it was a frank and courageous speech. `[COCA-NEWS]`
+>   - 中译：我认为这是一次坦率而勇敢的演讲。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/frank；
 
 ---
 

@@ -124,8 +124,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Education in England is something of a lottery. `[例]`
+> -   - 中译：在英国，教育有点像碰运气；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lottery；
 > - Even if she won the lottery, Paige says she’d still keep her job. `[例]`
+> -   - 中译：佩奇说即使她中了彩票，她也会继续工作；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lottery；
 > - The council applied for a £40m grant from the national lottery to redevelop local facilities. `[例]`
+> -   - 中译：市政委员会向国家彩票申请了4000万英镑的拨款，用于改造当地设施；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lottery；
 
 
 ---

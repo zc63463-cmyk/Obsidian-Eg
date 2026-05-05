@@ -136,8 +136,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The management's decision to ignore the safety warnings demonstrated a remarkable lapse of judgment. `[例]`
+>   - 中译：管理层无视安全警告的决定表明了严重的判断失误。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lapse；
 > - After a lapse of six months we met up again. `[例]`
+>   - 中译：时隔六个月我们又见面了。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lapse；
 > - Her memory lapses have become more frequent in the last year. `[例]`
+>   - 中译：她的记忆力衰退在过去一年中变得更加频繁。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lapse；
 
 
 ---

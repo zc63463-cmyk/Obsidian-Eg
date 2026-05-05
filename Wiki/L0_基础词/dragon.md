@@ -122,8 +122,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The dragon is a symbol of power and strength in Chinese culture. `[真题]`
+>   - 中译：在中国文化中，龙是力量和实力的象征。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/dragon；
 > - She guarded her treasure like a dragon. `[真题]`
+>   - 中译：她像龙一样守护着自己的财宝。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/dragon；
 > - Valrian sees a light ahead of him in the tunnel and is suddenly confronted by a fire-breathing dragon. `[真题]`
+>   - 中译：瓦里安在隧道前方看到了光亮，突然遭遇了一条喷火龙。；
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/dragon；
 
 
 ---

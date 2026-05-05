@@ -130,8 +130,14 @@ review_count: 0
 
 > [!example]- 语料
 > - His face is covered with scar tissue where he was badly burned. `[例]`
+>   - 中译：他严重烧伤的地方覆盖着疤痕组织。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/tissue；
 > - She handed me a tissue just before I sneezed. `[例]`
+>   - 中译：就在我打喷嚏之前，她递给我一张纸巾。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/tissue；
 > - I always keep a box of tissues in the car. `[例]`
+>   - 中译：我总在车里放一盒纸巾。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/tissue；
 
 
 ---

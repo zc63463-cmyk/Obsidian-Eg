@@ -126,8 +126,14 @@ hypo-(在下面，希腊语 *hypo*) + thesis(放置/论点，希腊语 *thesis*�
 
 > [!example]- 语料
 > - Evidence supports their hypothesis that a long-term relationship built on trust and obligation between a buyer and a sub-contractor leads to prompt delivery and better cooperation. `[例]`
+  - 中译：证据支持他们的假设，即买方与分包商之间基于信任和义务建立的长期关系能促进及时交付和更好的合作。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hypothesis；
 > - A hypothesis about the function of dreams. `[例]`
+  - 中译：一个关于梦的功能的假说。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hypothesis；
 > - It would be pointless to engage in hypothesis before we have the facts. `[例]`
+  - 中译：在掌握事实之前进行假设是毫无意义的。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hypothesis；
 
 
 ---

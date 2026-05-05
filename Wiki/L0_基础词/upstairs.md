@@ -129,8 +129,14 @@ review_count: 0
 
 > [!example]- 语料
 > - He heard glass breaking and ran upstairs to see what had caused it. `[例]`
+>   - 中译：他听到玻璃碎裂的声音，跑上楼去看发生了什么。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/upstairs；
 > - Sadly, the upstairs of the house was gutted by fire. `[例]`
+>   - 中译：不幸的是，房子的楼上被大火烧毁了。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/upstairs；
 > - There were shouts from upstairs. `[例]`
+>   - 中译：楼上传来喊叫声。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/upstairs；
 
 
 ---

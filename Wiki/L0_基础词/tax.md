@@ -133,8 +133,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Eliminating taxes on savings and investment will disproportionately shift the tax burden to the shoulders of the average wage earner. `[真题]`
+>   - 中译：取消储蓄和投资的税收将不成比例地将税负转移到普通工薪阶层的肩上。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/tax；
 > - The long commute to work every day takes a heavy tax on both physical and mental health, leaving little energy for family life. `[真题]`
+>   - 中译：每天漫长的通勤对身心健康造成了严重损耗，几乎没有精力顾及家庭生活。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/tax；
 > - The government announced a series of tax cuts aimed at stimulating economic growth and boosting consumer spending. `[真题]`
+>   - 中译：政府宣布了一系列减税措施，旨在刺激经济增长和促进消费。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/tax；
 
 
 ---

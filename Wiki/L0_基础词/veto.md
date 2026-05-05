@@ -134,8 +134,14 @@ veto（拉丁语 *veto*，意为"我禁止"，*vetare* 的第一人称单数形�
 
 > [!example]- 语料
 > - In theory, a girl may veto the spouse her parents have chosen. `[真题]`
+>   - 中译：理论上，一个女孩可以否决父母为她选择的配偶。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/veto；
 > - A two-thirds majority in each house is necessary to override a veto. `[例]`
+>   - 中译：需要两院各三分之二的多数票才能推翻否决。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/veto；
 > - The President vetoed the economic package passed by Congress. `[例]`
+>   - 中译：总统否决了国会通过的经济方案。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/veto；
 
 
 ---

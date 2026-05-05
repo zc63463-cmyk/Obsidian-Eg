@@ -130,8 +130,14 @@ hate（恨）+ -red（名词后缀，表示状态/条件，古英语 *-ræden*�
 
 > [!example]- 语料
 > - What is very clear in these letters is Clark's passionate hatred of his father. `[例]`
+  - 中译：这些信中非常清楚的一点是克拉克对他父亲的强烈仇恨。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hatred；
 > - They are motivated by a hatred for their own country. `[例]`
+  - 中译：他们的动机是对自己国家的仇恨。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hatred；
 > - The motive for this shocking attack seems to be racial hatred. `[例]`
+  - 中译：这起令人震惊的袭击的动机似乎是种族仇恨。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hatred；
 
 
 ---

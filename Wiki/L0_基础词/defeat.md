@@ -131,8 +131,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Napoleon was defeated by the Duke of Wellington at the battle of Waterloo. `[例]`
+  - 中译：拿破仑在滑铁卢战役中被威灵顿公爵击败。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/defeat；
 > - They defeated the Italian team and reached the final. `[例]`
+  - 中译：他们击败了意大利队并进入了决赛。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/defeat；
 > - Our ambitions for this tournament have been defeated by the weather. `[例]`
+  - 中译：我们对本次锦标赛的期望被天气打败了。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/defeat；
 
 
 ---

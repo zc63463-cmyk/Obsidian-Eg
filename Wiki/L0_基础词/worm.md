@@ -130,9 +130,17 @@ review_count: 0
 
 > [!example]- 语料
 > - He wormed his way into the manager's confidence by flattering him at every opportunity. `[真题]`
+>   - 中译：他通过不断奉承经理来博取他的信任。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/worm；
 > - The early bird catches the worm, as the old saying goes. `[真题]`
+>   - 中译：俗话说得好，早起的鸟儿有虫吃。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/worm；
 > - The rumor gradually wormed its way into the public consciousness through social media. `[真题]`
+>   - 中译：谣言通过社交媒体逐渐渗透到公众意识中。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/worm；
 > - Children in some developing countries still suffer from intestinal worms due to poor sanitation. `[真题]`
+>   - 中译：在一些发展中国家，由于卫生条件差，儿童仍然患有肠道寄生虫病。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/worm；
 
 
 ---

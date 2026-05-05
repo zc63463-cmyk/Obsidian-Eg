@@ -135,8 +135,14 @@ re-(向后/回) + tain(=tenere, 持有/保持)
 
 > [!example]- 语料
 > - The country has retained its independence despite foreign pressure and economic sanctions. `[真题]`
+  - 中译：尽管面临外国压力和经济制裁，该国仍然保持了独立。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/retain；
 > - Companies need to retain talented employees in a competitive market by offering better benefits. `[真题]`
+  - 中译：在竞争激烈的市场中，公司需要通过提供更好的福利来留住有才华的员工。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/retain；
 > - Older adults often find it harder to retain new information compared to younger learners. `[真题]`
+  - 中译：与年轻学习者相比，老年人往往觉得更难记住新信息。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/retain；
 
 
 ---

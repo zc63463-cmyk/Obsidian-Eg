@@ -144,8 +144,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Hardly anyone in the town escaped the slaughter when the rebels were defeated. `[例]`
+  - 中译：叛军被击败时，镇上几乎无人逃过屠杀。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/slaughter；
 > - We must find ways of reducing the slaughter which takes place on our roads (= death of many people in car accidents ) every year. `[例]`
+  - 中译：我们必须找到减少每年道路上大量交通事故死亡人数的方法。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/slaughter；
 > - The geese are being fattened for slaughter. `[例]`
+  - 中译：这些鹅正在被催肥，准备宰杀。；
+  - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/slaughter；
 
 
 ---

@@ -135,8 +135,14 @@ review_count: 0
 
 > [!example]- 语料
 > - It was the mass-issuance of mortgages to consumers with poor credit ratings that led to a rash of mortgage defaults and home foreclosures beginning in late 2007. `[真题]`
+>   - 中译：正是向信用评级较差的消费者大量发放抵押贷款，导致了从2007年底开始的一连串抵押贷款违约和房屋止赎事件。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rash；
 > - There has been a rash of burglaries in the area over the last month. `[真题]`
+>   - 中译：过去一个月该地区发生了一连串入室盗窃案。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rash；
 > - The plan offers a rash option for small organizations. `[真题]`
+>   - 中译：该计划为小型组织提供了一个仓促的选项。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rash；
 
 
 ---

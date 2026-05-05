@@ -134,8 +134,14 @@ review_count: 0
 
 > [!example]- 语料
 > - He has a part-time job as a hospital orderly. `[例]`
+>   - 中译：他兼职做医院的护工。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/orderly；
 > - She put the letters in three orderly piles. `[例]`
+>   - 中译：她把信件整齐地分成三堆。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/orderly；
 > - The passengers were asked to leave the plane in an orderly fashion. `[例]`
+>   - 中译：乘客们被要求有序地离开飞机。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/orderly；
 
 
 ---

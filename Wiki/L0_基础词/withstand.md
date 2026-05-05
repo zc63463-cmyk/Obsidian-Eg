@@ -129,9 +129,17 @@ with-（向后、相反，古英语 *wiþer* 的缩略形式，原始日耳曼�
 
 > [!example]- 语料
 > - She is an artist whose work will undoubtedly withstand the test of time and continue to inspire future generations. `[真题]`
+>   - 中译：她是一位艺术家，其作品无疑将经得起时间的考验，继续激励后代。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/withstand；
 > - Explorers had to withstand extreme weather conditions, food shortages, and the constant threat of disease during their expeditions. `[真题]`
+>   - 中译：探险家在探险过程中必须忍受极端天气、食物短缺以及疾病的持续威胁。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/withstand；
 > - A line of withstand trees rose above the morning fog. `[例]`
+>   - 中译：一排耐寒树木在晨雾中若隐若现。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/withstand；
 > - The building was designed to withstand earthquakes of up to magnitude eight on the Richter scale. `[真题]`
+>   - 中译：这座建筑被设计为能承受里氏八级地震。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/withstand；
 
 
 ---

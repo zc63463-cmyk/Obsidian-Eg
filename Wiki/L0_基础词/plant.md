@@ -137,9 +137,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Native plants and animals. `[例]`
+  - 中译：本土动植物。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/plant；
 > - The industry was accused of having invested little in workers , plant, or infrastructure. `[例]`
+  - 中译：该行业被指控在工人、工厂设备和基础设施方面投资不足。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/plant；
 > - Two more car-assembly plants were closed by the strike. `[例]`
-
+  - 中译：又有两家汽车装配厂因罢工而关闭。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/plant；
 
 ---
 

@@ -125,8 +125,14 @@ own（拥有）+ -er(人) + -ship(名词后缀，"……的状态/关系")
 
 > [!example]- 语料
 > - The company is under private ownership. `[真题]`
+>   - 中译：该公司处于私人所有之下。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ownership；
 > - The group took 51% ownership of the financial services unit. `[真题]`
+>   - 中译：该集团获得了金融服务部门51%的所有权。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ownership；
 > - Rates of home ownership have remained relatively constant. `[例]`
+>   - 中译：住房自有率一直保持相对稳定。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ownership；
 
 
 ---

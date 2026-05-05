@@ -135,8 +135,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The nation came to a standstill in a two-minute silence, signalled by deafening air-raid sirens. `[例]`
+  - 中译：全国在震耳欲聋的防空警报声中陷入了为期两分钟的默哀。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/siren；
 > - The siren song of the open road has always tempted young adventurers to leave home and explore the unknown. `[例]`
+  - 中译：公路的诱惑之歌一直吸引着年轻的冒险者离开家乡去探索未知。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/siren；
 > - Just then, she heard the loud blaring sound of an ambulance siren as it screamed by her vehicle. `[例]`
+  - 中译：就在那时，她听到救护车警笛刺耳的鸣叫声从她的车旁呼啸而过。；
+  - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/siren；
 
 
 ---

@@ -127,8 +127,14 @@ twinkle 源自古英语 *twinclian*（闪烁、眨眼），是 *twincan*（眨�
 
 > [!example]- 语料
 > - The lights of the town twinkled in the distance. `[例]`
+>   - 中译：城镇的灯光在远处闪烁。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/twinkle；
 > - The stars twinkled in the clear sky. `[例]`
+>   - 中译：星星在晴朗的天空中闪烁。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/twinkle；
 > - He was holding the phone with a mischievous twinkle in his eye (= expression of amusement ). `[例]`
+>   - 中译：他拿着手机，眼中闪烁着调皮的光芒。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/twinkle；
 
 
 ---

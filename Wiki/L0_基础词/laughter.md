@@ -125,8 +125,14 @@ laugh（笑）+ -ter（名词后缀，表示动作的结果/状态）
 
 > [!example]- 语料
 > - She roared with laughter (= laughed very loudly ). `[例]`
+>   - 中译：她哈哈大笑（=笑得非常大声）。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/laughter；
 > - As we approached the hall we could hear the sound of laughter. `[例]`
+>   - 中译：当我们走近大厅时，能听到笑声。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/laughter；
 > - Laughter from the living room kept me awake past midnight. `[例]`
+>   - 中译：客厅传来的笑声让我过了午夜还睡不着。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/laughter；
 
 
 ---

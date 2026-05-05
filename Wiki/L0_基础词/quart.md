@@ -121,8 +121,14 @@ review_count: 0
 
 > [!example]- 语料
 > - While the bacon cooks, add 2 quarts of water and the salt to a medium-size pot and bring to a boil. `[例]`
+>   - 中译：在煎培根的同时，将2夸脱水和盐加入中等大小的锅中烧开。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/quart；
 > - Salivary glands churn out about a quart of spit each day. `[例]`
+>   - 中译：唾液腺每天分泌大约一夸脱的唾液。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/quart；
 > - Bring a non-reactive saucepan with a quart of water to a boil and add a pinch of salt and the garlic. `[例]`
+>   - 中译：将一夸脱水倒入不反应的平底锅中烧开，加入一小撮盐和大蒜。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/quart；
 
 
 ---

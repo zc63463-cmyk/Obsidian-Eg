@@ -129,8 +129,14 @@ hunt（日耳曼语 *hunta*，追逐者/猎人，原始印欧语 *kend-*，抓�
 
 > [!example]- 语料
 > - Some animals hunt at night. `[例]`
+  - 中译：有些动物在夜间狩猎。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hunt；
 > - When lion cubs are young , the mother stays with them while the father hunts for food. `[例]`
+  - 中译：当幼狮还小的时候，母狮留在它们身边，而公狮出去觅食。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hunt；
 > - Cats like to hunt mice and birds. `[例]`
+  - 中译：猫喜欢捕猎老鼠和鸟。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hunt；
 
 
 ---

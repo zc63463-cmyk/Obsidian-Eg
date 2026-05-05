@@ -126,8 +126,14 @@ review_count: 0
 
 > [!example]- 语料
 > - One official dismissed the ceasefire as a mere propaganda exercise. `[例]`
+>   - 中译：一位官员将停火斥为纯粹的宣传手段。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/propaganda；
 > - The report is just a political propaganda tool. `[例]`
+>   - 中译：这份报告只是一个政治宣传工具。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/propaganda；
 > - In the cyber attack , the home pages of official websites were replaced with anti-government propaganda. `[例]`
+>   - 中译：在网络攻击中，官方网站的首页被替换为反政府宣传。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/propaganda；
 
 
 ---

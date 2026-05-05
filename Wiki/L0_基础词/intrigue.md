@@ -127,8 +127,14 @@ in-(=into, 进入) + trigue(=tricae, 纠缠/困惑，拉丁语 *intricare*)
 
 > [!example]- 语料
 > - Throughout history , people have been intrigued by the question of whether there is intelligent life elsewhere in the universe. `[例]`
+>   - 中译：纵观历史，人们对宇宙其他地方是否存在智慧生命这个问题一直充满好奇。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/intrigue；
 > - I was intrigued by his slow , deliberate way of talking and the serious look in his eyes. `[例]`
+>   - 中译：我被他那缓慢而从容的说话方式以及眼中严肃的神情所吸引。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/intrigue；
 > - She has written an intriguing account of growing up on a farm as one of ten children. `[例]`
+>   - 中译：她写了一篇引人入胜的记述，讲述了作为十个孩子之一在农场长大的经历。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/intrigue；
 
 
 ---

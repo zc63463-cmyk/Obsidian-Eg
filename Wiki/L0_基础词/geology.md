@@ -130,8 +130,14 @@ geo-(=ge, 地球/土地) + -[[log-logy|logy]](=log, 学科/研究)
 
 > [!example]- 语料
 > - He was the first person to think of mapping the geology of Britain. `[例]`
+  - 中译：他是第一个想到绘制英国地质图的人。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/geology；
 > - The geology of the area is simple, consisting mainly of limestone and sandstone. `[例]`
+  - 中译：该地区的地质结构简单，主要由石灰岩和砂岩组成。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/geology；
 > - At the time , she was writing a book on the geology of Australia. `[例]`
+  - 中译：当时，她正在写一本关于澳大利亚地质的书。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/geology；
 
 
 ---

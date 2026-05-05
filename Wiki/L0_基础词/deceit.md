@@ -129,8 +129,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The story is about theft , fraud , and deceit on an incredible scale. `[例]`
+  - 中译：这个故事讲述的是规模惊人的盗窃、欺诈和欺骗。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/deceit；
 > - When the newspapers published the full story , all his earlier deceits were revealed. `[例]`
+  - 中译：当报纸刊登了完整的故事后，他以前所有的欺骗行为都被揭露了。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/deceit；
 > - All we hear from them are lies and deceit. `[例]`
+  - 中译：我们从他们那里听到的全是谎言和欺骗。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/deceit；
 
 
 ---

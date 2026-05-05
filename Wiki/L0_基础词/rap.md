@@ -134,8 +134,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Mary Ann turned and rapped on Charlie's door. `[真题]`
+>   - 中译：玛丽·安转过身来敲了敲查理的门。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rap；
 > - Rap music has become one of the most influential genres in popular culture. `[真题]`
+>   - 中译：说唱音乐已成为流行文化中最具影响力的音乐类型之一。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rap；
 > - He claimed he was given a bum rap by the press. `[真题]`
+>   - 中译：他声称自己被新闻媒体冤枉了。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rap；
 
 
 ---

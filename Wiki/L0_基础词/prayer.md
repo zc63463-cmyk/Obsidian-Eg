@@ -130,8 +130,14 @@ pray(祈祷/恳求) + -er(名词后缀：表示行为、结果或人)
 
 > [!example]- 语料
 > - A prayer of thanks. `[例]`
+>   - 中译：感恩祈祷。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/prayer；
 > - She always says her prayers (= prays ) before she goes to sleep. `[例]`
+>   - 中译：她睡觉前总是做祷告。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/prayer；
 > - We thought he'd been killed , but our prayers were answered when he arrived home unexpectedly. `[例]`
+>   - 中译：我们以为他已经死了，但当他意外到家时，我们的祈祷得到了回应。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/prayer；
 
 
 ---

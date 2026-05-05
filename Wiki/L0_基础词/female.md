@@ -129,8 +129,14 @@ review_count: 0
 
 > [!example]- 语料
 > - She was voted the best female vocalist. `[例]`
+>   - 中译：她被评为最佳女歌手。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/female；
 > - She was the school's first trans female athlete. `[例]`
+>   - 中译：她是学校第一位跨性别女运动员。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/female；
 > - Female lions do not have manes. `[例]`
+>   - 中译：母狮没有鬃毛。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/female；
 
 
 ---

@@ -131,8 +131,14 @@ jog 源自中古英语 *joggen*，拟声词，模仿轻推或颠簸时发出的�
 
 > [!example]- 语料
 > - What do you do to keep fit ?" "I jog and go swimming. `[例]`
+>   - 中译："你做什么来保持健康？""我慢跑和游泳。"；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/jog；
 > - He was walking at a very quick pace and I had to jog to keep up with him. `[例]`
+>   - 中译：他走得很快，我不得不慢跑才能跟上他。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/jog；
 > - A man rushed past and jogged her elbow , making her drop the bag. `[例]`
+>   - 中译：一个男人冲过去碰了她的手肘，使她掉了包。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/jog；
 
 
 ---

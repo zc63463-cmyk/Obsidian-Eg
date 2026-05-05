@@ -130,10 +130,17 @@ review_count: 0
 
 > [!example]- 语料
 > - Participating in these meetings gives children an understanding of democratic decision making and helps them develop their skills of argument and persuasion. `[真题]`
+  - 中译：参加这些会议可以让孩子们了解民主决策过程，并帮助他们发展论证和说服的技巧。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/persuasion；
 > - Relying on ethical persuasion rather than law to address the misuse of body ideals may be the best step. `[真题]`
+  - 中译：依靠道德说服而非法律来解决身体理想被滥用的问题，可能是最好的做法。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/persuasion；
 > - After some persuasion, Clifford allowed her to go. `[例]`
+  - 中译：经过一番劝说后，克利福德同意让她去了。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/persuasion；
 > - I wasn't intending to sell, but I'm open to persuasion. `[例]`
-
+  - 中译：我本来不打算卖，但我可以被说服。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/persuasion；
 
 ---
 

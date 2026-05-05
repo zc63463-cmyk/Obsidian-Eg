@@ -128,8 +128,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Freedom of speech is considered a sacred right in democratic societies. `[例]`
+  - 中译：在民主社会中，言论自由被认为是一项神圣的权利。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sacred
 > - We have a sacred duty to find out the truth. `[例]`
+  - 中译：我们有查明真相的神圣责任。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sacred
 > - The burial site is sacred ground. `[例]`
+  - 中译：墓地是神圣的场所。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sacred
 
 
 ---

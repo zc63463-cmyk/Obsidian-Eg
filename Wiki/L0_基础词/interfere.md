@@ -126,8 +126,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The government warned its neighbors not to interfere in its internal affairs. `[真题]`
+>   - 中译：政府警告邻国不要干涉其内政。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/interfere；
 > - Even a little noise interferes with my concentration. `[真题]`
+>   - 中译：即使是一点噪音也会干扰我的注意力。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/interfere；
 > - She tried not to interfere in her children's lives. `[真题]`
+>   - 中译：她尽量不干涉孩子们的生活。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/interfere；
 
 
 ---

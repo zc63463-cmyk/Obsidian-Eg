@@ -125,8 +125,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Fog is formed when warm moist air moves over a cold surface. `[真题]`
+> - 中译：温暖潮湿的空气经过寒冷表面时就会形成雾。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/moist；
 > - The plant grows best in direct sunlight and with rich, moist soil. `[真题]`
+> - 中译：这种植物在阳光直射和肥沃湿润的土壤中生长最佳。；
+> - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/moist；
 > - She dabbed her moist eyes with a handkerchief. `[真题]`
+> - 中译：她用手帕轻轻擦拭湿润的双眼。；
+> - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/moist；
 
 
 ---

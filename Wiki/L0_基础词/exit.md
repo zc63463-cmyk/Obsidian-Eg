@@ -133,8 +133,14 @@ ex-(= [[de|ex-]]，向外) + it(走，拉丁语 *ire*，与 [[exile]] 同源)
 
 > [!example]- 语料
 > - We headed for the nearest exit. `[例]`
+  - 中译：我们朝最近的出口走去。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/exit；
 > - The fire exit (= the door you can escape through if there is a fire ) is located at the back of the building. `[例]`
+  - 中译：消防出口（即发生火灾时可以逃生的门）位于大楼后面。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/exit；
 > - Please ensure that emergency exits are kept clear at all times. `[例]`
+  - 中译：请确保紧急出口始终保持畅通。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/exit；
 
 
 ---

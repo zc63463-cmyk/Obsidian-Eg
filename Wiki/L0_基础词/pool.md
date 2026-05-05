@@ -131,8 +131,14 @@ review_count: 0
 
 > [!example]- 语料
 > - I spent most of my holiday sunbathing by the pool. `[例]`
+>   - 中译：我假期的大部分时间都在泳池旁晒太阳。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pool；
 > - The weather isn't warm enough yet for splashing around in the pool. `[例]`
+>   - 中译：天气还不够暖和，不能在泳池里嬉水。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pool；
 > - Most kids are hanging out at the pool or that sort of thing in the summer. `[例]`
+>   - 中译：夏天大多数孩子都在泳池边或类似的地方闲逛。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pool；
 
 
 ---

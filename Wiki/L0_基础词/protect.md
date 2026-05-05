@@ -129,11 +129,23 @@ pro-(向前/在前) + tect(覆盖，拉丁语 *tegere*)
 
 > [!example]- 语料
 > - The visualization, particularly those photographs, really hit home that this is something that has to be protected, " says Murphy. `[真题]`
+>   - 中译：“这些可视化资料，尤其是那些照片，真正让人意识到这是必须加以保护的东西，”墨菲说。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/protect；
 > - In quick succession, the Senate and House passed legislation protecting Yell ow stone in early 1872. `[真题]`
+>   - 中译：参议院和众议院在1872年初迅速通过了保护黄石公园的立法。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/protect；
 > - Still, the decision was largely accepted-and Jackson's photos played a key role in the fight to protect the area. `[真题]`
+>   - 中译：尽管如此，这一决定基本上被接受了——而杰克逊的照片在保护该地区的斗争中发挥了关键作用。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/protect；
 > - Clothing that protects you against the cold. `[例]`
+>   - 中译：保护你免受寒冷的衣服。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/protect；
 > - It's important to protect your skin from the harmful effects of the sun. `[例]`
+>   - 中译：保护皮肤免受阳光有害影响很重要。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/protect；
 > - Surely the function of the law is to protect everyone's rights. `[例]`
+>   - 中译：法律的功能当然是保护每个人的权利。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/protect；
 
 
 ---

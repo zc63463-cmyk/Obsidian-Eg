@@ -131,8 +131,14 @@ review_count: 0
 
 > [!example]- 语料
 > - She sacrificed family life to her career. `[真题]`
+  - 中译：她为了事业牺牲了家庭生活。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sacrifice
 > - The labor union crafted an historic contract that made up for sacrifices hourly workers made to help the automakers in years past. `[例]`
+  - 中译：工会制定了一项具有历史意义的合同，以补偿小时工在过去几年中为帮助汽车制造商所做的牺牲。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sacrifice
 > - Many women sacrifice interesting careers for their families. `[例]`
+  - 中译：许多女性为了家庭牺牲了有趣的职业生涯。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sacrifice
 
 
 ---

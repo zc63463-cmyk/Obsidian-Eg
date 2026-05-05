@@ -128,8 +128,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Several little boats escorted the sailing ship into the harbour. `[例]`
+  - 中译：几艘小船护送帆船进入港口。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/escort；
 > - Security guards escorted the intruders from the building. `[例]`
+  - 中译：保安将闯入者从大楼中押送出去。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/escort；
 > - The police escorted her to the airport , and made sure that she left the country. `[例]`
+  - 中译：警察将她护送到机场，并确保她离开了该国。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/escort；
 
 
 ---

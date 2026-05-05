@@ -126,8 +126,14 @@ rig-(=rigor, 严格/僵硬，拉丁语 *rigor*) + -or(名词后缀) + -ous(充�
 
 > [!example]- 语料
 > - The researchers proposed a rigorous solution to the problem. `[例]`
+  - 中译：研究人员提出了一个严谨的解决方案。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rigorous；
 > - The company adopted a rigorous approach to improve efficiency. `[例]`
+  - 中译：该公司采用了一种严格的方法来提高效率。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/rigorous；
 > - The plan offers a rigorous option for small organizations. `[例]`
+  - 中译：该计划为小型组织提供了一个严格的选择。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rigorous；
 
 
 ---

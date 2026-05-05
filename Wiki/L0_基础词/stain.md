@@ -128,8 +128,14 @@ stain 源自古法语 *distaindre*（染色，褪色），来自拉丁语 *tinge
 
 > [!example]- 语料
 > - Tomato sauce stains terribly - it's really difficult to get it out of clothes. `[例]`
+>   - 中译：番茄酱染色非常厉害——很难从衣服上洗掉。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/stain；
 > - While she was changing the wheel on her car , her coat had become stained with oil. `[例]`
+>   - 中译：她在换汽车轮胎时，外套沾上了油渍。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/stain；
 > - This carpet is ideal for the kitchen because it doesn't stain easily. `[例]`
+>   - 中译：这款地毯非常适合厨房使用，因为它不容易沾上污渍。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/stain；
 
 
 ---

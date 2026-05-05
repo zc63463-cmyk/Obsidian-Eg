@@ -124,8 +124,14 @@ en-(=in-, 在内) + [[gen|gen-/gener-]](产生/制造) → 原义"天生的才�
 
 > [!example]- 语料
 > - My car's been having engine trouble recently. `[例]`
+>   - 中译：我的车最近发动机出了问题。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/engine；
 > - For much of the 19th century Britain was the workshop of the world and the engine of economic growth. `[例]`
+>   - 中译：在十九世纪的大部分时间里，英国是世界工厂和经济增长的引擎。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/engine；
 > - The car has a four-cylinder engine. `[例]`
+>   - 中译：这辆车有一个四缸发动机。；
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/engine；
 
 
 ---

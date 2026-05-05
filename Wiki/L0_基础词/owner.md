@@ -125,8 +125,14 @@ own（拥有）+ -er(名词后缀，"……的人")
 
 > [!example]- 语料
 > - The owner of the store was sweeping his floor when I walked in. `[真题]`
+>   - 中译：我走进去时，商店老板正在扫地。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/owner；
 > - The stolen car was returned to its rightful owner. `[真题]`
+>   - 中译：被盗汽车被归还给了其合法主人。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/owner；
 > - Every pet owner knows their animal has its own personality. `[真题]`
+>   - 中译：每个宠物主人都知道自己的动物有自己的个性。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/owner；
 
 
 ---

@@ -133,6 +133,8 @@ fuel(整体词，源自古法语 *fouaille*，源自拉丁语 *focalia*，壁炉
 > - The government is trying to reduce the country's dependence on fossil fuels. `[真题]`
 > - Rising prices fueled public anger and led to widespread protests. `[真题]`
 > - They developed alternative fuels for aircraft. `[例]`
+>   - 中译：他们为飞机开发了替代燃料。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fuel；
 
 
 ---

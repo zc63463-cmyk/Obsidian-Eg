@@ -131,8 +131,14 @@ lodge 源自古法语 *logier*（住宿），与 [[loc-locat|loc]]（地方）�
 
 > [!example]- 语料
 > - The US lodged a formal protest against the arrest of the foreign reporters. `[例]`
+> -   - 中译：美国就外国记者被捕一事提出了正式抗议；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lodge；
 > - A fish bone had lodged in her throat. `[例]`
+> -   - 中译：一根鱼刺卡在了她的喉咙里；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lodge；
 > - You should lodge a copy of the letter with your solicitor. `[例]`
+> -   - 中译：你应该把信的副本交给你的律师存档；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lodge；
 
 
 ---

@@ -135,8 +135,14 @@ manu(手，拉丁语 *manus*) + [[fact]](做，拉丁语 *facere*) + -ure(名词
 
 > [!example]- 语料
 > - The decline in American manufacturing is a common refrain, particularly from Donald Trump. `[真题]`
+> -   - 中译：美国制造业的衰落是一个常见的论调，尤其是来自唐纳德·特朗普；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/manufacture；
 > - Moreover, it has pitifully little in the way of lucrative products to export: olive oil, marble and aluminium, but few manufactured goods or services. `[真题]`
+> -   - 中译：此外，它几乎没有利润丰厚的出口产品：橄榄油、大理石和铝，但很少有制成品或服务；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/manufacture；
 > - The company manufactures smartphones in China. `[真题]`
+> -   - 中译：这家公司在中国制造智能手机；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/manufacture；
 
 
 ---

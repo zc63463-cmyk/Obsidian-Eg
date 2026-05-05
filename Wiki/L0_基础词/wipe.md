@@ -132,9 +132,17 @@ review_count: 0
 
 > [!example]- 语料
 > - The cost of the new building will wipe out all the company's profits this year. `[真题]`
+>   - 中译：新建筑的成本将抹去公司今年的全部利润。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/wipe；
 > - She wiped the sweat from her forehead and continued working under the scorching sun. `[真题]`
+>   - 中译：她擦去额头上的汗水，在烈日下继续工作。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/wipe；
 > - The tsunami wiped out the entire village, leaving nothing but rubble and debris in its wake. `[真题]`
+>   - 中译：海啸摧毁了整个村庄，只留下瓦砾和废墟。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/wipe；
 > - He wiped away his tears with a tissue and tried to compose himself before the interview. `[真题]`
+>   - 中译：他用纸巾擦去眼泪，努力在面试前让自己镇定下来。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/wipe；
 
 
 ---

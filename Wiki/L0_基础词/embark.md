@@ -126,8 +126,14 @@ em-(=in-, 进入/放入) + bark(船，源自古法语 *barque*，船)
 
 > [!example]- 语料
 > - We embarked at Liverpool for New York. `[例]`
+>   - 中译：我们在利物浦登船前往纽约。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/embark；
 > - We embarked at Miami for our Caribbean cruise. `[例]`
+>   - 中译：我们在迈阿密登船开始加勒比海巡游。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/embark；
 > - The flight crew embarked and the plane took off. `[例]`
+>   - 中译：机组人员登机后，飞机起飞了。；
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/embark；
 
 
 ---

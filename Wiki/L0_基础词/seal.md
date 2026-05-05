@@ -143,8 +143,14 @@ seal（源自拉丁语 *sigillum*，"小标记"，是 *signum*"标记"的指小�
 
 > [!example]- 语料
 > - The police sealed off the area after the explosion. `[真题]`
+  - 中译：爆炸发生后，警方封锁了该区域。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/seal
 > - They signed and sealed the treaty, making it officially binding. `[真题]`
+  - 中译：他们签署并密封了条约，使其具有正式约束力。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/seal
 > - Following a bomb warning, police have sealed off the whole area. `[例]`
+  - 中译：接到炸弹警告后，警方封锁了整个区域。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/seal
 
 
 ---

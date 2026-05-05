@@ -133,9 +133,17 @@ review_count: 0
 
 > [!example]- 语料
 > - The spring evening was warm, and the scent of flowers filled the air. `[例]`
+  - 中译：春天的傍晚很温暖，空气中弥漫着花香。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/scent
 > - The delicious scent of freshly baked bread was wafting from the kitchen. `[例]`
+  - 中译：新鲜出炉的面包的诱人香味从厨房飘来。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/scent
 > - The home side increased the pressure on them as they scent weakness. `[例]`
+  - 中译：主队察觉到对方的弱点后加大了压力。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/scent
 > - The dogs were on the scent of the missing child and tracked him through the forest. `[真题]`
+  - 中译：狗嗅到了失踪孩子的气味，穿过森林追踪他。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/scent
 
 
 ---

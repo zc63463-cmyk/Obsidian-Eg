@@ -137,8 +137,14 @@ still 源自古英语 *stille*（安静的，静止的），与 [[st-sta-stat]]�
 
 > [!example]- 语料
 > - Still, the decision was largely accepted-and Jackson's photos played a key role in the fight to protect the area. `[真题]`
+>   - 中译：尽管如此，这个决定还是被广泛接受了——杰克逊的照片在保护该地区的斗争中发挥了关键作用。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/still；
 > - I still haven't finished writing my essay. `[例]`
+>   - 中译：我仍然没有写完我的论文。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/still；
 > - There is still no news about the hostages. `[例]`
+>   - 中译：仍然没有关于人质的消息。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/still；
 
 
 ---

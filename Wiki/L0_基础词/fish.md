@@ -128,8 +128,14 @@ review_count: 0
 
 > [!example]- 语料
 > - He's a bit of an odd fish, but I think he's basically sound. `[例]`
+>   - 中译：他有点古怪，但我认为他本质上是个好人。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fish；
 > - She fished in her tool box for the right screwdriver. `[例]`
+>   - 中译：她在工具箱里翻找合适的螺丝刀。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fish；
 > - She was always fishing, hoping I'd say something about Sarah. `[例]`
+>   - 中译：她总是在旁敲侧击，希望我说些关于萨拉的事。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fish；
 
 
 ---

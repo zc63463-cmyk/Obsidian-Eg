@@ -137,8 +137,14 @@ mut-(沉默，拉丁语 *mutus*) + -e
 
 > [!example]- 语料
 > - The president has remained mute about plans to curtail the number of immigrants. `[例]`
+> - 中译：总统对削减移民数量的计划一直保持沉默。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/mute；
 > - I gazed at her in mute admiration. `[例]`
+> - 中译：我默默无语地以钦佩的目光注视着她。；
+> - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/mute；
 > - He was playing his trumpet with a mute. `[例]`
+> - 中译：他带着弱音器吹奏小号。；
+> - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/mute；
 
 
 ---

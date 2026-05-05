@@ -129,7 +129,11 @@ review_count: 0
 > - Losing my job was bad enough, but being evicted was the final straw. `[COCA-ACAD]`
 > - This was the last straw for me, and now it's time to take up arms. `[COCA-NEWS]`
 > - He was clutching at straws, trying to find any excuse to justify his absence. `[例]`
+>   - 中译：他在抓救命稻草，试图找任何借口来为自己的缺席辩解。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/straw；
 > - She drank her juice through a straw and stared out the window. `[例]`
+>   - 中译：她用吸管喝果汁，凝视着窗外。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/straw；
 
 
 ---

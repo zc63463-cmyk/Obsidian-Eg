@@ -123,8 +123,14 @@ en-(=in-, 在……里面/使) + [[vis-vid|vis]](看，拉丁语 *videre*) + -ag
 
 > [!example]- 语料
 > - Train fare increases of 15 percent are envisaged for the next year. `[例]`
+  - 中译：预计明年火车票价将上涨15%。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/envisage；
 > - It 's envisaged that building will start at the end of this year. `[例]`
+  - 中译：预计建筑工作将于今年年底开始。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/envisage；
 > - When do you envisage finish ing the project? `[例]`
+  - 中译：你预计什么时候完成这个项目？；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/envisage；
 
 
 ---

@@ -134,8 +134,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The government has adopted a **zero**-tolerance policy towards corruption in public institutions. `[例]`
+>   - 中译：政府对公共机构中的腐败采取了零容忍政策。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/zero；
 > - Researchers **zeroed** in on a specific gene mutation that may be responsible for the rare disease. `[例]`
+>   - 中译：研究人员聚焦于一种可能导致了这种罕见疾病的特定基因突变。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/zero；
 > - The temperature dropped to **zero** overnight, covering the entire city in a thick layer of frost. `[例]`
+>   - 中译：夜间温度降至零度，整个城市覆盖着一层厚厚的霜。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/zero；
 
 
 ---

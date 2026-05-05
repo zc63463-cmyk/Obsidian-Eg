@@ -122,8 +122,14 @@ hurl（中古英语 *hurllen*，与原始印欧语 *ker-* 有关，意为"弯曲
 
 > [!example]- 语料
 > - In a fit of temper he hurled the book across the room. `[例]`
+  - 中译：他一怒之下把书扔到了房间对面。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hurl；
 > - Youths hurled stones at the soldiers. `[例]`
+  - 中译：年轻人向士兵投掷石块。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hurl；
 > - I wasn't going to stand there while he hurled abuse at me! `[例]`
+  - 中译：他对我破口大骂的时候，我可不想站在那里挨骂！；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hurl；
 
 
 ---

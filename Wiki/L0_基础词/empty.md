@@ -136,8 +136,14 @@ empty 源自古英语 *æmettig*（空闲的，未被占用的），与拉丁语
 
 > [!example]- 语料
 > - If it's their vacation home anyway, and it's just empty, why c:an't you make money off it?" Hom said. `[真题]`
+>   - 中译：反正这是他们的度假屋，空着也是空着，你为什么不能用它赚钱呢？；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/empty；
 > - Shall I take the empty bottles for recycling? `[例]`
+>   - 中译：要我把空瓶子拿去回收吗？；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/empty；
 > - The train was empty (= there were no passengers ) by the time it reached London. `[例]`
+>   - 中译：火车到达伦敦时已经空无乘客了。；
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/empty；
 
 
 ---

@@ -140,8 +140,14 @@ flight(飞行/逃跑，古英语 *flyht*)
 
 > [!example]- 语料
 > - How was your flight? `[例]`
+>   - 中译：你的航班怎么样？；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/flight；
 > - All flights to New York today are delayed because of bad weather. `[例]`
+>   - 中译：今天所有飞往纽约的航班都因恶劣天气而延误。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/flight；
 > - My flight was cancelled. `[例]`
+>   - 中译：我的航班被取消了。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/flight；
 
 
 ---

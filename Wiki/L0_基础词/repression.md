@@ -127,9 +127,17 @@ re-(向回，[[re]]) + [[press]](压) + -ion(名词后缀，表示动作/结果)
 
 > [!example]- 语料
 > - The trade unions suffered brutal repression after the coup. `[COCA-NEWS]`
+  - 中译：政变后，工会遭受了残酷的镇压。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/repression；
 > - Streams of migrants are fleeing war, repression and poverty. `[COCA-NEWS]`
+  - 中译：大批移民正在逃离战争、镇压和贫困。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/repression；
 > - There was a campaign of repression against minorities in the north. `[COCA-ACAD]`
+  - 中译：北方对少数民族发动了一场镇压运动。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/repression；
 > - A society conditioned by violence and repression. `[COCA-ACAD]`
+  - 中译：一个被暴力和镇压所塑造的社会。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/repression；
 
 
 ---

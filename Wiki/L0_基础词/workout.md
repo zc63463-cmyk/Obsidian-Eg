@@ -127,9 +127,17 @@ review_count: 0
 
 > [!example]- 语料
 > - Regular workouts can significantly improve both physical and mental health over time. `[真题]`
+>   - 中译：定期锻炼可以随着时间的推移显著改善身心健康。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/workout；
 > - She starts every morning with a 30-minute workout routine that includes stretching and cardio. `[真题]`
+>   - 中译：她每天早上以30分钟的锻炼开始，包括拉伸和有氧运动。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/workout；
 > - The negotiation turned out to be a real workout, lasting for more than six hours without a break. `[真题]`
+>   - 中译：谈判结果是一场真正的考验，持续了六个多小时没有休息。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/workout；
 > - Studies show that even a short daily workout can reduce the risk of heart disease by up to thirty percent. `[真题]`
+>   - 中译：研究表明，即使是短暂的日常锻炼也能将心脏病风险降低多达30%。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/workout；
 
 
 ---

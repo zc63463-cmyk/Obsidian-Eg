@@ -125,8 +125,14 @@ review_count: 0
 
 > [!example]- 语料
 > - During the students' viewing, more than half of the students dozed off, started chatting, or played games on their cell phones. `[真题]`
+>   - 中译：在学生观看期间，超过一半的学生打起了瞌睡、开始聊天或玩手机游戏。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/doze；
 > - She dozes on the sofa while her husband watches TV. `[真题]`
+>   - 中译：她在沙发上打盹，而她的丈夫在看电视。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/doze；
 > - As we dozed off, we heard the sound of approaching footsteps and voices, which jerked us quickly back to life. `[真题]`
+>   - 中译：就在我们打瞌睡时，听到了越来越近的脚步声和说话声，这让我们迅速清醒过来。；
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/doze；
 
 
 ---

@@ -137,8 +137,14 @@ tell（古英语 *tellan*，意为"计算、讲述"，源自原始日耳曼语 *
 
 > [!example]- 语料
 > - We conform to norms so readily that we are hardly aware they exist, and our environment tells us how to behave. `[真题]`
+>   - 中译：我们如此轻易地遵守规范，以至于几乎没有意识到它们的存在，而我们的环境告诉我们该如何行事。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/tell；
 > - This coffee is about half the price of that one and yet you really can't tell the difference between them. `[真题]`
+>   - 中译：这种咖啡的价格大约是那种的一半，但你真的分辨不出它们的区别。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/tell；
 > - Can you tell me how to get to the library? `[例]`
+>   - 中译：你能告诉我怎么去图书馆吗？；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/tell；
 
 
 ---

@@ -132,8 +132,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The metropolitan area has a population of over 10 million. `[真题]`
+> - 中译：该大都市区人口超过一千万。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/metropolitan；
 > - North Texas is home to the fastest growing metropolitan areas in the country. `[真题]`
+> - 中译：北德克萨斯州拥有全国增长最快的大都市区。；
+> - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/metropolitan；
 > - The Metropolitan Museum of Art is one of the world's largest museums. `[真题]`
+> - 中译：大都会艺术博物馆是世界上最大的博物馆之一。；
+> - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/metropolitan；
 
 
 ---

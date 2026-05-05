@@ -131,9 +131,17 @@ veloc(=swift/fast，快速，拉丁语 *velox*/*velocis*，与 [[veil]]/[[vehicl
 
 > [!example]- 语料
 > - The spear was traveling with such velocity that it passed right through the fence. `[例]`
+>   - 中译：长矛以如此快的速度飞过，直接穿过了栅栏。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/velocity；
 > - The acceleration of popular culture has reached maximum velocity. `[例]`
+>   - 中译：流行文化的加速发展已达到最高速度。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/velocity；
 > - Jupiter is a very massive planet, and its escape velocity is correspondingly high. `[例]`
+>   - 中译：木星是一颗质量非常大的行星，其逃逸速度相应地也很高。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/velocity；
 > - The hikers rested under a towering velocity near the coastal trail. `[例]`
+>   - 中译：徒步旅行者在海岸步道附近的一处高耸速度旁休息。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/velocity；
 
 
 ---

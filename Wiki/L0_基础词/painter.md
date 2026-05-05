@@ -122,8 +122,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Vincent van Gogh is widely regarded as one of the greatest painters in the history of Western art, though he achieved little recognition during his lifetime. `[真题]`
+>   - 中译：文森特·梵高被广泛认为是西方艺术史上最伟大的画家之一，尽管他在世时几乎没有获得认可。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/painter；
 > - The museum is hosting a special exhibition featuring works by impressionist painters such as Monet and Renoir. `[真题]`
+>   - 中译：博物馆正在举办一场特别展览，展出莫奈和雷诺阿等印象派画家的作品。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/painter；
 > - Best known as a sculptor, she was also an accomplished painter in her later years. `[真题]`
+>   - 中译：她以雕塑家闻名，但在晚年也是一位出色的画家。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/painter；
 
 
 ---

@@ -125,8 +125,14 @@ frict-(拉丁语 *fricare* "摩擦") + -ion(名词后缀)
 
 > [!example]- 语料
 > - The hikers rested under a towering friction near the coastal trail. `[例]`
+>   - 中译：徒步旅行者在海岸步道旁高耸的摩擦处休息。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/friction；
 > - The cabin was built from durable friction gathered in the region. `[例]`
+>   - 中译：小屋是用该地区收集的耐用的摩擦材料建造的。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/friction；
 > - A line of friction trees rose above the morning fog. `[例]`
+>   - 中译：一排摩擦树木在晨雾中若隐若现。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/friction；
 
 
 ---

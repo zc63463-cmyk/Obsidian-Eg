@@ -127,9 +127,17 @@ review_count: 0
 
 > [!example]- 语料
 > - The researchers found that a significant amount of data was missing from the survey, which compromised the reliability of their conclusions. `[真题]`
+> - 中译：研究人员发现调查中有大量数据缺失，这影响了他们结论的可靠性。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/missing；
 > - Several pages were missing from the ancient manuscript, leaving scholars unable to fully interpret its meaning. `[真题]`
+> - 中译：这份古代手稿缺失了几页，使学者们无法完全解读其含义。；
+> - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/missing；
 > - My dog went missing for three days before we found him. `[真题]`
+> - 中译：我的狗失踪了三天才被找到。；
+> - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/missing；
 > - If the left table does not have a matching result, null will be in the place of the missing data. `[真题]`
+> - 中译：如果左表没有匹配结果，空值将替代缺失数据的位置。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/missing；
 
 
 ---

@@ -128,8 +128,14 @@ dé-(=de-，去除/开始) + but(目标，法语 *but*，"目标/终点")
 
 > [!example]- 语料
 > - He started as an actor , making his debut as a director in 1990. `[例]`
+  - 中译：他最初是演员，1990年首次以导演身份亮相。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/debut；
 > - Her debut as Juliet in " Romeo and Juliet" was enthusiastically received by critics. `[例]`
+  - 中译：她在《罗密欧与朱丽叶》中饰演朱丽叶的首演获得了评论界的热烈好评。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/debut；
 > - The Broadway show debuted last year to great acclaim. `[例]`
+  - 中译：这部百老汇剧目去年首演，获得了高度赞誉。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/debut；
 
 
 ---

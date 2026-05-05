@@ -134,8 +134,14 @@ re-(=again，再) + lay(放置，古英语 *lecgan*)
 
 > [!example]- 语料
 > - TV pictures of the war were relayed around the world by satellite. `[真题]`
+  - 中译：战争的电视画面通过卫星向全世界转播。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/relay；
 > - I was told the news first and then I relayed it to the others. `[真题]`
+  - 中译：我第一个得知了这个消息，然后把它转达给了其他人。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/relay；
 > - Our relay team is training for next weekend's race. `[例]`
+  - 中译：我们的接力队正在为下周末的比赛进行训练。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/relay；
 
 
 ---

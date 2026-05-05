@@ -134,6 +134,8 @@ review_count: 0
 > - Choose the best word ( s) for each numbered blank and mark A, B , C or D on th� ANSWER SHEET. ( 10 points) Caravanserais were roadside inns that were built along the Silk Road in areas including China, North Africa and the Middle East. `[真题]`
 > - The term caravan was used to _4_ groups of people who travelled together across the ancient network for safety reasons , 5 merchants, travellers or pillgrims. `[真题]`
 > - He stayed in Beijing for three years after graduation. `[例]`
+>   - 中译：他毕业后在北京待了三年。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/for；
 
 
 ---

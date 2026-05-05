@@ -139,9 +139,14 @@ review_count: 0
 
 > [!example]- 语料
 > - I saw her peeping through the curtains into the room. `[例]`
+  - 中译：我看到她透过窗帘偷看房间里面。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/peep；
 > - We peeped through a crack in the fence and saw Mrs Finley talking to a strange-looking man. `[例]`
+  - 中译：我们透过栅栏的缝隙偷看，看到芬利太太正在和一个长相奇怪的男人说话。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/peep；
 > - Stars peep through those dark clouds. `[例]`
-
+  - 中译：星星从那些乌云中隐约露出。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/peep；
 
 ---
 

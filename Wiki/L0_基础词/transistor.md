@@ -121,8 +121,14 @@ review_count: 0
 
 > [!example]- 语料
 > - In a transistor , the gate electrode switches a semiconductor between conducting and non-conducting states. `[例]`
+>   - 中译：在晶体管中，栅电极将半导体在导电和非导电状态之间切换。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/transistor；
 > - In semiconductor technology, smaller nanometer sizes signify more compact transistor designs, which lead to greater processing power and efficiency. `[例]`
+>   - 中译：在半导体技术中，更小的纳米尺寸意味着更紧凑的晶体管设计，从而带来更大的处理能力和效率。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/transistor；
 > - In 1958, transistors replaced vacuum tubes. `[例]`
+>   - 中译：1958年，晶体管取代了真空管。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/transistor；
 
 
 ---

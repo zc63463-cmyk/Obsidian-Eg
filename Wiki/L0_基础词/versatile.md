@@ -130,9 +130,17 @@ review_count: 0
 
 > [!example]- 语料
 > - He's a very versatile young actor who's as happy in highbrow dramas as he is in TV comedies. `[例]`
+>   - 中译：他是一位非常多才多艺的年轻演员，无论在高雅的戏剧中还是在电视喜剧中都能游刃有余。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/versatile；
 > - Eggs are easy to cook and are an extremely versatile food. `[例]`
+>   - 中译：鸡蛋容易烹饪，是一种极其多用途的食物。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/versatile；
 > - Never before has computing been so versatile. `[例]`
+>   - 中译：计算从未如此多功能过。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/versatile；
 > - The researchers proposed a versatile solution to the problem. `[例]`
+>   - 中译：研究人员提出了一个多功能的解决方案。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/versatile；
 
 
 ---

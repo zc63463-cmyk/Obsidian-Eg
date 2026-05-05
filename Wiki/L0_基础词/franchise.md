@@ -129,8 +129,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The 1867 Reform Act extended the franchise to much of the male working class. `[COCA-ACAD]`
+>   - 中译：1867年的改革法案将选举权扩大到了大部分男性工人阶级。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/franchise；
 > - The company expanded rapidly during the 1980s by means of franchises. `[COCA-NEWS]`
+>   - 中译：该公司在20世纪80年代通过特许经营迅速扩张。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/franchise；
 > - Each store is owned by an individual who pays a fee for the franchise. `[COCA-ACAD]`
+>   - 中译：每家店由个人拥有，他们为获得特许经营权支付费用。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/franchise；
 
 ---
 

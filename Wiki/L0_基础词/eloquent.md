@@ -125,8 +125,14 @@ review_count: 0
 
 > [!example]- 语料
 > - She made an eloquent appeal for donations to the charity. `[真题]`
+>   - 中译：她为慈善机构做了一次雄辩有力的募捐呼吁。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/eloquent；
 > - His eloquent silence spoke volumes about his disapproval. `[真题]`
+>   - 中译：他意味深长的沉默充分表达了他的不赞同。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/eloquent；
 > - She gave an eloquent speech that inspired everyone in the room. `[真题]`
+>   - 中译：她发表了一篇雄辩的演讲，激励了在场的每一个人。；
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/eloquent；
 
 
 ---

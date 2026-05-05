@@ -133,8 +133,14 @@ review_count: 0
 
 > [!example]- 语料
 > - I'd like some more cheese ." "I'm sorry there's none left ". `[例]`
+>   - 中译："我还想再来点奶酪。""抱歉，一点都没有了。"；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/none；
 > - Do you have any idea how much this cost ?" "None at all. `[例]`
+>   - 中译："你知道这花了多少钱吗？""完全不知道。"；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/none；
 > - It makes no sense , none whatsoever. `[例]`
+>   - 中译：这毫无道理，完全没有。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/none；
 
 
 ---

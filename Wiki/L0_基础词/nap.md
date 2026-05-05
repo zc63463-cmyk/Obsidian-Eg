@@ -125,8 +125,14 @@ review_count: 0
 
 > [!example]- 语料
 > - He likes to nap for an hour when he gets home from work. `[例]`
+> - 中译：他下班回家后喜欢小睡一个小时。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/nap；
 > - While the children nap after lunch , their teachers will get a break. `[例]`
+> - 中译：孩子们午饭后小睡时，老师们可以休息一下。；
+> - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/nap；
 > - I had a short nap after lunch. `[例]`
+> - 中译：我午饭后小睡了一会儿。；
+> - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/nap；
 
 
 ---

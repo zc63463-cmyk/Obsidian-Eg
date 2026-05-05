@@ -126,8 +126,14 @@ nost(回家，希腊语 *nostos*) + alg(痛苦，希腊语 *algos*) + -ic(形容
 
 > [!example]- 语料
 > - Talking about our old family holidays has made me feel all nostalgic. `[例]`
+>   - 中译：谈起我们以前的家庭度假，让我感到十分怀旧。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/nostalgic；
 > - We'll take a nostalgic look at the musical hits of the 60s. `[例]`
+>   - 中译：我们将以怀旧的眼光回顾60年代的音乐金曲。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/nostalgic；
 > - Hanif Abdurraqib considers our nostalgic longing for inconvenience. `[例]`
+>   - 中译：哈尼夫·阿卜杜拉奇卜思考了我们对不便的怀旧渴望。；
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/nostalgic；
 
 
 ---

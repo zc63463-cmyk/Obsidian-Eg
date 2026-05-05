@@ -123,8 +123,14 @@ hyster-(子宫，希腊语 *hystera*) + -ical(形容词后缀)
 
 > [!example]- 语料
 > - Calm down, you're getting hysterical. `[例]`
+  - 中译：冷静下来，你变得歇斯底里了。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hysterical；
 > - The police were accused of hysterical over-reaction. `[例]`
+  - 中译：警方被指责反应过度歇斯底里。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hysterical；
 > - Hysterical laughter (= uncontrolled laughter ). `[例]`
+  - 中译：歇斯底里的笑声（= 无法控制的笑声）。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hysterical；
 
 
 ---

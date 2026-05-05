@@ -126,9 +126,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Might there be intelligent life on other planets? `[例]`
+  - 中译：其他行星上可能存在智慧生命吗？；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/planet；
 > - The planet Jupiter radiates twice as much heat from inside as it receives from the Sun. `[例]`
+  - 中译：木星行星从内部辐射的热量是从太阳接收到的两倍。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/planet；
 > - An unmanned mission to the planet Mars. `[例]`
-
+  - 中译：一次前往火星行星的无人任务。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/planet；
 
 ---
 

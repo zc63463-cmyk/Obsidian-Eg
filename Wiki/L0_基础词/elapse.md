@@ -128,8 +128,14 @@ e-(=ex-, 向外/离开) + lapse(滑落，拉丁语 *lapsus*，*labi* 的过去�
 
 > [!example]- 语料
 > - Five months have elapsed since he joined the army. `[例]`
+>   - 中译：他参军已经五个月了。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/elapse；
 > - Patients could be retreated if more than 4 weeks had elapsed since the initial treatment. `[例]`
+>   - 中译：如果距初次治疗已超过4周，患者可以再次接受治疗。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/elapse；
 > - It seems remarkable that nearly thirty years has elapsed since there was a major museum exhibition in the city. `[例]`
+>   - 中译：这座城市近三十年没有举办过大型博物馆展览，这令人感到不可思议。；
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/elapse；
 
 
 ---

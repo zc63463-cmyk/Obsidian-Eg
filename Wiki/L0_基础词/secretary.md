@@ -132,8 +132,14 @@ secret(秘密，拉丁语 *secretus*，"分开的，隐藏的"，与 [[segregate
 
 > [!example]- 语料
 > - The 2004 Commercial Space Launch Amendments Act, intended to encourage private space vehicles and services, prohibits the transportation secretary from regulating private spacecraft. `[真题]`
+  - 中译：2004年《商业航天发射修正法》旨在鼓励私人航天器和服务，禁止交通部长对私人航天器进行监管。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/secretary
 > - He must have asked his secretary for the file on Andy, and she got the wrong one. `[真题]`
+  - 中译：他一定是让秘书去拿安迪的档案，而她拿错了。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/secretary
 > - A company which has a sole director is required by law to have another person as its company secretary. `[真题]`
+  - 中译：法律规定，只有一名董事的公司必须另设一名公司秘书。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/secretary
 
 
 ---

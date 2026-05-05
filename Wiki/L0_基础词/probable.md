@@ -131,8 +131,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The probable cause of death was heart failure. `[例]`
+>   - 中译：可能的死因是心力衰竭。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/probable；
 > - It is highly probable that at least a significant portion of these stars will have planets that are Earth-like. `[例]`
+>   - 中译：这些恒星中至少有很大一部分拥有类地行星，这是极有可能的。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/probable；
 > - An election in June seems increasingly probable. `[例]`
+>   - 中译：六月份举行选举的可能性似乎越来越大。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/probable；
 
 
 ---

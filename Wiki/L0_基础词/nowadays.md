@@ -125,8 +125,14 @@ now(现在) + a(在……上) + days(日子)
 
 > [!example]- 语料
 > - Who remembers those movies nowadays? `[例]`
+>   - 中译：现在还有谁记得那些电影？；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/nowadays；
 > - Nowadays, I bake my own bread rather than buy it. `[例]`
+>   - 中译：现在我自己烤面包，而不是去买。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/nowadays；
 > - Nowadays people don’t dress up as much as they used to. `[例]`
+>   - 中译：现在人们不像以前那样讲究穿着了。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/nowadays；
 
 
 ---

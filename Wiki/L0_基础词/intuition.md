@@ -127,8 +127,14 @@ in-(=向内，在内) + tuit(=tueri, 注视，拉丁语 *tueri* "看/保护") + 
 
 > [!example]- 语料
 > - Often there's no clear evidence one way or the other and you just have to base your judgment on intuition. `[例]`
+>   - 中译：通常没有明确的证据，你只能凭直觉做出判断。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/intuition；
 > - I can't explain how I knew - I just had an intuition that you'd been involved in an accident. `[例]`
+>   - 中译：我无法解释我是怎么知道的——我只是直觉你出了事故。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/intuition；
 > - You should trust your intuition in making your decision. `[例]`
+>   - 中译：在做决定时你应该相信自己的直觉。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/intuition；
 
 
 ---

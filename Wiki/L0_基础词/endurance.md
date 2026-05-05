@@ -126,8 +126,14 @@ en-(使) + dur(持续) + -ance(名词后缀，表示状态/能力)
 
 > [!example]- 语料
 > - He began visiting the gym to build up his strength and endurance. `[例]`
+>   - 中译：他开始去健身房锻炼力量和耐力。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/endurance；
 > - Running a marathon is a test of human endurance. `[例]`
+>   - 中译：跑马拉松是对人类耐力的考验。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/endurance；
 > - The pain was bad beyond endurance. `[例]`
+>   - 中译：疼痛难以忍受。；
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/endurance；
 
 
 ---

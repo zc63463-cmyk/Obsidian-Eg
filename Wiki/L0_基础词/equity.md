@@ -131,8 +131,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The rights give holders the opportunity to purchase additional equity interests in the company at a big discount. `[例]`
+  - 中译：这些权利使持有者有机会以大幅折扣购买公司额外的股权。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/equity；
 > - A society based on equity and social justice. `[例]`
+  - 中译：一个基于公平和社会正义的社会。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/equity；
 > - How much equity do you have in your home? `[例]`
+  - 中译：你的房屋中有多少净值？；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/equity；
 
 
 ---

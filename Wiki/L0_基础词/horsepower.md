@@ -124,8 +124,14 @@ horsepower（1805年，由 horse "马" + power "力量、功率" 组成的复合
 
 > [!example]- 语料
 > - That architectural firm probably doesn't have the creative horsepower to produce a truly innovative design. `[例]`
+  - 中译：那家建筑公司可能没有足够的创意实力来产出真正创新的设计。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/horsepower；
 > - The top variant features a tri-motor all-wheel-drive system capable of producing up to 955 horsepower , placing it among the more powerful electric vehicles currently available. `[例]`
+  - 中译：顶级版本配备三电机全轮驱动系统，可产生高达955马力的动力，使其跻身目前最强大的电动汽车之列。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/horsepower；
 > - The Launch Package version of the 2027 R2 Performance model starts at about $58,000 and features a dual-motor, all-wheel-drive powertrain producing 656 horsepower. `[例]`
+  - 中译：2027款R2 Performance首发版起售价约58000美元，配备双电机全轮驱动系统，可产生656马力。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/horsepower；
 
 
 ---

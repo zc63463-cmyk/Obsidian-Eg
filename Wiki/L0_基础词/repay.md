@@ -130,8 +130,14 @@ re-（[[re-|回，反向]]）+ pay（付钱）→ 付回去 → **偿还**
 
 > [!example]- 语料
 > - Students often struggle to repay their student loans after graduation. `[真题]`
+  - 中译：学生们毕业后常常难以偿还学生贷款。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/repay；
 > - How can I ever repay you for all your kindness? `[例]`
+  - 中译：我怎样才能报答你的所有善意呢？；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/repay；
 > - He had to sell his car to repay the bank loan. `[例]`
+  - 中译：他不得不卖掉汽车来偿还银行贷款。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/repay；
 
 
 ---

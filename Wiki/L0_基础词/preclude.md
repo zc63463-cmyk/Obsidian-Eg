@@ -127,8 +127,14 @@ review_count: 0
 
 > [!example]- 语料
 > - His contract precludes him from discussing his work with anyone outside the company. `[例]`
+>   - 中译：他的合同禁止他与公司以外的任何人讨论工作。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/preclude；
 > - The fact that your application was not successful this time does not preclude the possibility of you applying again next time. `[例]`
+>   - 中译：你这次申请未成功，并不排除你下次再申请的可能性。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/preclude；
 > - Although your application was not accepted , it doesn’t preclude the possibility of your applying again later. `[例]`
+>   - 中译：虽然你的申请未被接受，但这并不排除你以后再申请的可能性。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/preclude；
 
 
 ---

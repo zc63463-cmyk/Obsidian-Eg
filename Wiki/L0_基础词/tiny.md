@@ -126,8 +126,14 @@ review_count: 0
 
 > [!example]- 语料
 > - A tiny helping of food. `[例]`
+>   - 中译：一小份食物。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/tiny；
 > - Her tiny attic room had poor ventilation and in summer it became unbearably stuffy. `[例]`
+>   - 中译：她那间狭小的阁楼房间通风不良，夏天变得闷热难耐。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/tiny；
 > - During surgery , doctors sometimes use a laser beam to vaporize tiny blood vessels. `[例]`
+>   - 中译：在手术中，医生有时使用激光束来汽化微小的血管。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/tiny；
 
 
 ---

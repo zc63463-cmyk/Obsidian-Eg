@@ -126,8 +126,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The destructive power of nuclear weapons. `[例]`
+  - 中译：核武器的破坏力。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/destructive；
 > - I worry about the destructive effect that violent films may have on children. `[例]`
+  - 中译：我担心暴力电影可能对儿童产生的有害影响。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/destructive；
 > - Lack of trust is very destructive in a relationship. `[例]`
+  - 中译：缺乏信任在一段关系中是非常有害的。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/destructive；
 
 
 ---

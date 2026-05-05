@@ -125,8 +125,14 @@ in-(=into, 进入) + [[tract|trud]](=推，拉丁语 *trudere* "推") + -e
 
 > [!example]- 语料
 > - I didn't realize your husband was here, Dr Jones - I hope I'm not intruding. `[例]`
+>   - 中译：我不知道你丈夫在这里，琼斯博士——希望我没有打扰到你们。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/intrude；
 > - Newspaper editors are being urged not to intrude on the grief of the families of missing servicemen. `[例]`
+>   - 中译：人们敦促报纸编辑不要打扰失踪军人家庭的悲痛。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/intrude；
 > - I do not want to intrude into your personal life. `[例]`
+>   - 中译：我不想干涉你的私生活。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/intrude；
 
 
 ---

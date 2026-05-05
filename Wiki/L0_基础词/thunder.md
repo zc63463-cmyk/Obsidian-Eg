@@ -129,8 +129,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The train thundered past, shaking the whole house. `[例]`
+>   - 中译：火车轰隆隆地驶过，震动了整栋房子。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/thunder；
 > - I couldn't hear what he was saying over the thunder of the waterfall. `[例]`
+>   - 中译：瀑布的轰鸣声让我听不清他在说什么。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/thunder；
 > - The sky grew dark and it started to thunder. `[例]`
+>   - 中译：天空变暗，开始打雷了。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/thunder；
 
 
 ---

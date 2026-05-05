@@ -138,8 +138,14 @@ fore-(=before, 在前面) + -ward(=weard, 朝……方向，古英语后缀)
 
 > [!example]- 语料
 > - She leaned forward to whisper something in my ear. `[例]`
+>   - 中译：她探身向前在我耳边低声说了些什么。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/forward；
 > - The player launched the ball forward in the hope of catching the defenders off guard. `[例]`
+>   - 中译：球员将球向前踢出，希望打防守队员一个措手不及。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/forward；
 > - The army pushed forward in the direction of the enemy camp. `[例]`
+>   - 中译：军队向敌营方向推进。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/forward；
 
 
 ---

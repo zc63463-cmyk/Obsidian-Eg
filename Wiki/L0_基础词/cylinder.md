@@ -125,8 +125,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Deep-sea divers carry cylinders of oxygen on their backs. `[例]`
+  - 中译：深海潜水员背着氧气罐。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/cylinder；
 > - The league's rule does not allow you to interfere with a player's cylinder when they are trying to make a play. `[例]`
+  - 中译：联盟规则不允许在球员试图完成投篮时干扰其投篮圆柱区。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/cylinder；
 > - A player is not allowed to interfere with a shot that is still in the cylinder. `[例]`
+  - 中译：球员不得干扰仍在投篮圆柱区内的投篮。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/cylinder；
 
 
 ---

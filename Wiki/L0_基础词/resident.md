@@ -136,8 +136,14 @@ re-(前缀：再/回) + sid(坐，[[st-sta-stat]]的变体) + -ent(名词后缀�
 
 > [!example]- 语料
 > - The park is a popular meeting place for local residents. `[真题]`
+  - 中译：这个公园是当地居民常去的聚会场所。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/resident；
 > - The factory has been a source of annoyance to nearby residents for over 30 years. `[真题]`
+  - 中译：三十多年来，这家工厂一直是附近居民烦恼的根源。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/resident；
 > - She is a senior resident on the hospital's surgical team. `[真题]`
+  - 中译：她是医院外科团队的高级住院医师。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/resident；
 
 
 ---

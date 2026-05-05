@@ -140,8 +140,14 @@ flat 源自古诺尔斯语 *flatr*（平坦的），原始日耳曼语 *\*flata-
 
 > [!example]- 语料
 > - An ice rink needs to be completely flat. `[例]`
+>   - 中译：溜冰场需要完全平整。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/flat；
 > - Much of the countryside in that region is very flat. `[例]`
+>   - 中译：那个地区的大部分乡村非常平坦。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/flat；
 > - I usually prefer to wear flat shoes (= ones without a raised heel ). `[例]`
+>   - 中译：我通常更喜欢穿平底鞋。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/flat；
 
 
 ---

@@ -126,8 +126,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The article's authors made untrue statements and omitted key information. `[例]`
+>   - 中译：文章的作者做出了不实陈述并遗漏了关键信息。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/omit；
 > - A list of new employees inadvertently omitted her name. `[例]`
+>   - 中译：一份新员工名单不小心遗漏了她的名字。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/omit；
 > - The Prince's tour conveniently omitted the most deprived areas of the city. `[例]`
+>   - 中译：王子的行程刻意避开了这座城市最贫困的地区。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/omit；
 
 
 ---

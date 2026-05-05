@@ -128,9 +128,17 @@ review_count: 0
 
 > [!example]- 语料
 > - They worked in the fields from dawn to dusk. `[真题]`
+>   - 中译：他们从早到晚在田间劳作。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/dusk；
 > - The street lights come on at dusk. `[真题]`
+>   - 中译：路灯在黄昏时亮起。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/dusk；
 > - She arrived home as dusk was falling. `[真题]`
+>   - 中译：她在黄昏降临时到家了。；
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/dusk；
 > - The lamps twinkled in the gathering dusk. `[真题]`
+>   - 中译：灯光在渐浓的暮色中闪烁。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/dusk；
 
 
 ---

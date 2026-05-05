@@ -126,9 +126,17 @@ review_count: 0
 
 > [!example]- 语料
 > - The novel is a gripping tale of survival and resilience in the face of overwhelming adversity. `[真题]`
+>   - 中译：这部小说是一个在巨大逆境中求生存和展现韧性的扣人心弦的故事。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/tale；
 > - The documentary tells the tale of a community struggling to preserve its cultural heritage. `[真题]`
+>   - 中译：这部纪录片讲述了一个社区努力保护其文化遗产的故事。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/tale；
 > - Treasure Island is a tale of pirates and adventure. `[真题]`
+>   - 中译：《金银岛》是一个关于海盗和冒险的故事。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/tale；
 > - There is tragedy in this tale. `[真题]`
+>   - 中译：这个故事中有悲剧元素。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/tale；
 
 
 ---

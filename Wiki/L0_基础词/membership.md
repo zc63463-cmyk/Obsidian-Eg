@@ -128,8 +128,14 @@ review_count: 0
 
 > [!example]- 语料
 > - It can be learned from the first paragraph that unions have enlarged their public-sector membership. `[真题]`
+> - 中译：从第一段可以得知，工会增加了其公共部门的会员人数。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/membership；
 > - You have to apply for membership of the sports club. `[COCA-ACAD]`
+> - 中译：你必须申请加入这家体育俱乐部。；
+> - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/membership；
 > - Annual membership is twenty-five pounds. `[BNC-SPOKEN]`
+> - 中译：年度会员费为二十五英镑。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/membership；
 
 
 ---

@@ -126,8 +126,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The new tax law will subtract a significant amount from our yearly income. `[真题]`
+>   - 中译：新税法将从我们的年收入中扣除一大笔钱。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/subtract；
 > - We need to subtract the cost of materials before calculating the final profit margin. `[真题]`
+>   - 中译：在计算最终利润率之前，我们需要减去材料成本。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/subtract；
 > - Four subtracted from ten equals six. `[例]`
+>   - 中译：十减四等于六。；
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/subtract；
 
 
 ---

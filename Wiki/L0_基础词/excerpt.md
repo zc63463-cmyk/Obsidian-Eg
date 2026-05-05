@@ -126,8 +126,14 @@ ex-(出) + cerpt(=carpere, 采摘) → 从中摘取 → 摘录
 
 > [!example]- 语料
 > - An excerpt from her new thriller will appear in this weekend's magazine. `[例]`
+  - 中译：她的新惊悚小说节选将刊登在本周末的杂志上。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/excerpt；
 > - This passage has been excerpted from her latest novel. `[例]`
+  - 中译：这段文字摘自她的最新小说。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/excerpt；
 > - Here I excerpt from a list of recommendations given to me by a former boss. `[例]`
+  - 中译：这里我从一位前任老板给我的建议清单中摘录了几条。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/excerpt；
 
 
 ---

@@ -132,8 +132,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Throughout the trip , Jackson juggled multiple cameras and plate sizes using the " collodion process" that required him to coat the plates with a chemical mixture , then expose them and develop the resulting images with a portable darkroom. `[真题]`
+>   - 中译：在整个旅途中，杰克逊使用“火棉胶工艺”同时处理多台相机和不同尺寸的感光板，该工艺要求他用化学混合物涂布感光板，然后曝光并用便携式暗房冲洗生成的图像。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/portable；
 > - They offer portable pensions , carried by employees from job to job. `[例]`
+>   - 中译：他们提供可携带的养老金，员工可以从一个工作带到另一个工作。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/portable；
 > - Your phone number is portable if you decide to move to a different home or office. `[例]`
+>   - 中译：如果你决定搬到另一个住所或办公室，你的电话号码是可以携带的。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/portable；
 
 
 ---

@@ -120,9 +120,17 @@ review_count: 0
 
 > [!example]- 语料
 > - It's hard not to sympathize with the plight of single parents in today's world. `[真题]`
+>   - 中译：在当今世界，很难不对单亲父母的困境表示同情。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sympathize；
 > - I sympathize with your situation, but there is nothing I can do. `[真题]`
+>   - 中译：我同情你的处境，但我无能为力。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/sympathize；
 > - Many citizens sympathized with the protesters' demands for fair wages. `[例]`
+>   - 中译：许多市民对抗议者要求公平工资的诉求表示同情。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sympathize；
 > - Anyone who has ever waited in line at the Department of Motor Vehicles will sympathize with this dilemma. `[例]`
+>   - 中译：任何在车管所排过队的人都会对这种困境感同身受。；
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/sympathize；
 
 
 ---

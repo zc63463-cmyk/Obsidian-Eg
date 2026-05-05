@@ -136,8 +136,14 @@ re-（反对，再次）+ bel（战争，=bellum，拉丁语"战争"）
 
 > [!example]- 语料
 > - The rebels took over the capital and set up a new government. `[例]`
+  - 中译：叛军占领了首都并建立了新政府。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rebel；
 > - He was a rebel when he was a teenager and dyed his hair pink. `[例]`
+  - 中译：他十几岁时是个叛逆少年，把头发染成了粉色。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/rebel；
 > - The rebel troops have launched a coordinated attack on government soldiers. `[例]`
+  - 中译：叛军对政府军发动了协调一致的攻击。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rebel；
 
 
 ---

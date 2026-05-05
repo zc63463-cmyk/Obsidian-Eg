@@ -139,8 +139,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The players have a very strong team spirit (= loyalty to each other). `[例]`
+>   - 中译：队员们有着非常强烈的团队精神（即彼此忠诚）。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/spirit；
 > - We acted in a spirit of cooperation. `[例]`
+>   - 中译：我们本着合作的精神行事。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/spirit；
 > - As soon as I left the house and drove away, my spirits soared. `[例]`
+>   - 中译：我一离开家开车上路，心情就高涨起来。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/spirit；
 
 
 ---

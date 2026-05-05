@@ -136,9 +136,17 @@ ware(商品，货物，古英语 *waru*) + house(房屋，房子)
 
 > [!example]- 语料
 > - Amazon.com, with its network of warehouses, also collects sales tax in every state that charges it. `[真题]`
+>   - 中译：亚马逊凭借其仓库网络，也在每个征收销售税的州代收销售税。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/warehouse；
 > - The cases the court overturned said that if a business was shipping a customer's purchase to a state where the business didn't have a physical presence such as a warehouse or office, the business didn't have to collect sales tax for the state. `[真题]`
+>   - 中译：法院推翻的案件认为，如果企业将客户的购买物品运送到该企业没有仓库或办公室等实体存在的州，则该企业无需为该州代收销售税。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/warehouse；
 > - The goods have been sitting in a warehouse for months because a strike has prevented distribution. `[例]`
+>   - 中译：由于罢工阻止了配送，这些货物已经在仓库里存放了好几个月。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/warehouse；
 > - The big factories created a network of suppliers, warehouses, and shipping companies. `[例]`
+>   - 中译：大工厂建立了一个由供应商、仓库和运输公司组成的网络。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/warehouse；
 
 
 ---

@@ -125,8 +125,14 @@ dipl(o)-(双/折叠，希腊语 *diploun* "对折") + -ma(名词后缀，表结�
 
 > [!example]- 语料
 > - A diploma in business studies. `[例]`
+  - 中译：商业研究文凭。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/diploma；
 > - It’s hard to find a good job if you don’t have a high school diploma. `[例]`
+  - 中译：如果没有高中文凭，很难找到一份好工作。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/diploma；
 > - She is taking a diploma in management studies. `[例]`
+  - 中译：她正在攻读管理学文凭。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/diploma；
 
 
 ---

@@ -119,8 +119,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The empty nest syndrome affects many parents when their children leave home. `[真题]`
+>   - 中译：空巢综合征在孩子离家时影响许多父母。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/syndrome；
 > - With that came a lot of impostor syndrome and a massive confidence crisis. `[例]`
+>   - 中译：随之而来的是大量的冒名顶替综合征和严重的信心危机。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/syndrome；
 > - Early diagnosis of the syndrome is difficult , but it is important to begin treatment as soon as possible. `[例]`
+>   - 中译：该综合征的早期诊断很困难，但尽早开始治疗非常重要。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/syndrome；
 
 
 ---

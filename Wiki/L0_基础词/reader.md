@@ -132,8 +132,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The book provides an excellent introduction for readers new to the area while also providing an important research synthesis for the more expert. `[真题]`
+>   - 中译：这本书为该领域的新读者提供了出色的入门介绍，同时也为更专业的读者提供了重要的研究综合。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/reader；
 > - Not all readers will embrace every viewpoint expressed in this book. `[真题]`
+>   - 中译：并非所有读者都会接受本书中表达的每一个观点。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/reader；
 > - Thanks to that job I became an avid reader. `[真题]`
+>   - 中译：多亏了那份工作，我成了一个热爱阅读的人。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/reader；
 
 
 ---

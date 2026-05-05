@@ -128,9 +128,14 @@ pill(药丸，源自拉丁语 *pilula* "小球")
 
 > [!example]- 语料
 > - I couldn't go to sleep so I took a sleeping pill. `[例]`
+  - 中译：我睡不着，所以吃了一片安眠药。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pill；
 > - She had been on the pill for three years. `[例]`
+  - 中译：她服用口服避孕药已经三年了。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/pill；
 > - Take one pill three times a day, unless you are told otherwise by a doctor. `[例]`
-
+  - 中译：每天服三次，每次一片，除非医生另有指示。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/pill；
 
 ---
 

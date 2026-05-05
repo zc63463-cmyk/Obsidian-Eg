@@ -130,8 +130,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Rising more than 1,000 feet in the middle of the gently rolling plains of Wyoming, the massive column of rock looks as though it was dropped down into this location from a different time and place. `[真题]`
+>   - 中译：在怀俄明州平缓起伏的平原中央拔地而起超过1000英尺；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/gently；
 > - He might gently hint that Beijing is getting a little nervous about the value of the dollar. `[真题]`
+>   - 中译：他可能会委婉地暗示，北京对美元的价值感到有些紧张。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/gently；
 > - When working he applied the paint gently, then would step back a little and look at it under different perspective. `[真题]`
+>   - 中译：工作时他轻轻地涂抹颜料，然后退后一步，从不同角度审视它。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/gently；
 
 
 ---

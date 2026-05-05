@@ -135,8 +135,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Here, your eyes are better than mine - could you thread (= put thread through) this needle for me? `[例]`
+>   - 中译：来，你的眼睛比我好——你能帮我把这根针穿上线吗？；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/needle；
 > - The needle on a compass always points to magnetic north. `[例]`
+>   - 中译：指南针上的指针总是指向磁北极。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/needle；
 > - It sounds like the needle on your record player needs to be replaced. `[例]`
+>   - 中译：听起来你唱机上的唱针需要更换了。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/needle；
 
 
 ---

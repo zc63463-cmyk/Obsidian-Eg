@@ -136,9 +136,17 @@ review_count: 0
 
 > [!example]- 语料
 > - It seems that the troops deliberately violated the ceasefire agreement. `[例]`
+>   - 中译：看来军队故意违反了停火协议。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/violate；
 > - The doctor has been accused of violating professional ethics. `[例]`
+>   - 中译：这位医生被指控违反职业道德。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/violate；
 > - The laws also endanger women's health, and violate privacy rights and the Equal Protection clause of the constitution. `[例]`
+>   - 中译：这些法律也危及女性健康，侵犯了隐私权和宪法中的平等保护条款。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/violate；
 > - This speech may violate the law, rules a federal judge. `[例]`
+>   - 中译：联邦法官裁定，这次演讲可能违法。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/violate；
 
 
 ---

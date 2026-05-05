@@ -131,8 +131,14 @@ mus(=muse, 音乐/缪斯，希腊语 *Mousa*) + -ic(形容词后缀，与……�
 
 > [!example]- 语料
 > - Mozart's musical compositions include symphonies and operas. `[例]`
+> - 中译：莫扎特的音乐作品包括交响曲和歌剧。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/musical；
 > - Joe's family all play instruments - they're very musical. `[例]`
+> - 中译：乔的家人都会演奏乐器——他们非常有音乐天赋。；
+> - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/musical；
 > - Musical instruments hang from the walls of the restaurant. `[例]`
+> - 中译：乐器挂在餐厅的墙上。；
+> - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/musical；
 
 
 ---

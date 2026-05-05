@@ -125,8 +125,14 @@ mis-(=wrong, 错误地) + [[understand]](理解)
 
 > [!example]- 语料
 > - Please don't misunderstand me — I'm not criticizing your work. `[真题]`
+> - 中译：请不要误解我——我不是在批评你的工作。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/misunderstand；
 > - If you think that these transport problems can be solved by building more roads , you completely misunderstand the nature of the problem. `[例]`
+> - 中译：如果你认为这些交通问题可以通过修建更多道路来解决，那你就完全误解了问题的本质。；
+> - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/misunderstand；
 > - Don't misunderstand me—I am grateful for all you've done. `[例]`
+> - 中译：别误解我——我很感激你所做的一切。；
+> - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/misunderstand；
 
 
 ---

@@ -129,8 +129,14 @@ mobile（可移动的）的缩略形式，源自拉丁语 *mobile vulgus*（易�
 
 > [!example]- 语料
 > - The angry mob gathered outside the government building, demanding justice. `[真题]`
+> - 中译：愤怒的暴民聚集在政府大楼外，要求公正。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/mob；
 > - They have been exercising what amounts to mob rule. `[真题]`
+> - 中译：他们一直在实行等同于暴民统治的做法。；
+> - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/mob；
 > - He was mobbed by fans as he left the stadium. `[真题]`
+> - 中译：他离开体育场时被粉丝团团围住。；
+> - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/mob；
 
 
 ---

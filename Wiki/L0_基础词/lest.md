@@ -117,8 +117,14 @@ review_count: 0
 
 > [!example]- 语料
 > - They were afraid to complain about the noise lest they annoyed the neighbours. `[例]`
+> -   - 中译：他们不敢抱怨噪音，以免惹恼邻居；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lest；
 > - The visitors ' book has messages from people from all over the world , who write things such as "Lest we forget. `[例]`
+> -   - 中译：留言簿上有来自世界各地的人写的留言，比如"让这个地方永远保持原样"；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lest；
 > - Lest we forget , the internet was a media space before it was a marketplace. `[例]`
+> -   - 中译：我们不应忘记，互联网在被商业化之前是一个媒体空间；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lest；
 
 
 ---

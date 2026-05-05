@@ -129,8 +129,14 @@ ir-(=in-, 进入/加强) + rit(=rag-, 兴奋/刺激，拉丁语 *iritare*) + -at
 
 > [!example]- 语料
 > - The constant noise from the construction site irritated the residents. `[真题]`
+>   - 中译：建筑工地持续不断的噪音激怒了居民。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/irritate；
 > - Certain chemicals can irritate the skin and cause allergic reactions. `[真题]`
+>   - 中译：某些化学物质会刺激皮肤并引起过敏反应。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/irritate；
 > - The way she puts on that accent really irritates me. `[真题]`
+>   - 中译：她故意装出那种口吻的样子真让我恼火。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/irritate；
 
 
 ---

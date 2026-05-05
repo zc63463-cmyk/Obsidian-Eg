@@ -132,8 +132,14 @@ manu(手，拉丁语 *manus*) + [[script]](写，拉丁语 *scribere*) → 用�
 
 > [!example]- 语料
 > - Manuscript will be flagged up for additional scrutiny by the journal's internal editors, or by its existing Board of Reviewing Editors or by outside peer reviewers. `[真题]`
+> -   - 中译：稿件将被标记出来，由期刊的内部编辑、现有的审稿编辑委员会或外部同行评审人进行额外审查；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/manuscript；
 > - I am grateful to him for letting me read his early chapters in manuscript. `[真题]`
+> -   - 中译：我很感激他让我阅读他早期章节的手稿；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/manuscript；
 > - The author submitted the manuscript to the publisher for consideration. `[真题]`
+> -   - 中译：作者将手稿提交给出版社审阅；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/manuscript；
 
 
 ---

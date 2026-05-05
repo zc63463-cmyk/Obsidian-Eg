@@ -135,8 +135,14 @@ liquid（14世纪末，源自拉丁语 *liquidus* "流动的、液态的"，*liq
 
 > [!example]- 语料
 > - Mercury is a liquid at room temperature. `[例]`
+> -   - 中译：水银在室温下是液态的；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/liquid；
 > - Swift claimed that vowels and liquids were more typical of female speech. `[例]`
+> -   - 中译：斯威夫特声称元音和流音在女性语言中更为典型；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/liquid；
 > - Japanese has only one liquid consonant. `[例]`
+> -   - 中译：日语只有一个流音辅音；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/liquid；
 
 
 ---

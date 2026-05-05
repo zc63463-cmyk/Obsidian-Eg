@@ -132,8 +132,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Steam rose from the simmering stew. `[例]`
+>   - 中译：蒸汽从炖着的炖菜中升起。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/steam；
 > - The age of steam (= the period when steam provided power for railways and factories ). `[例]`
+>   - 中译：蒸汽时代（即蒸汽为铁路和工厂提供动力的时期）。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/steam；
 > - The pump is driven by steam. `[例]`
+>   - 中译：这台泵由蒸汽驱动。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/steam；
 
 
 ---

@@ -132,8 +132,14 @@ entire 源自古法语 *entier*，来自拉丁语 *integer*（完整的、未被
 
 > [!example]- 语料
 > - They got an entire set of silver cutlery as a wedding present. `[例]`
+>   - 中译：他们收到了一整套银质餐具作为结婚礼物。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/entire；
 > - He read the entire book on the flight to Buenos Aires. `[例]`
+>   - 中译：他在飞往布宜诺斯艾利斯的航班上读完了整本书。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/entire；
 > - Her entire family gathered for their annual reunion. `[例]`
+>   - 中译：她全家人都聚集在一起参加年度聚会。；
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/entire；
 
 
 ---

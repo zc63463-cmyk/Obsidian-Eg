@@ -128,9 +128,17 @@ review_count: 0
 
 > [!example]- 语料
 > - They have a long tradition of working in the British Merchant Navy and sending monies back home. `[真题]`
+> - 中译：他们在英国商船队工作并将钱寄回家的传统由来已久。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/merchant；
 > - If you're a merchant interested in Google Wallet for your store or you want to sell items online, you'll need to sign up for a seller account. `[真题]`
+> - 中译：如果你是对Google钱包感兴趣的商家，或者想在网上销售商品，你需要注册一个卖家账户。；
+> - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/merchant；
 > - The merchant exported silk and spices to Europe in the Middle Ages. `[真题]`
+> - 中译：中世纪时，这位商人将丝绸和香料出口到欧洲。；
+> - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/merchant；
 > - Online merchants are competing fiercely for customers in the global marketplace. `[真题]`
+> - 中译：在线商家在全球市场中为争夺客户而激烈竞争。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/merchant；
 
 
 ---

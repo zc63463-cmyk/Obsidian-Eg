@@ -130,8 +130,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Two centuries ago , the idea of preserving nature , rather than exploiting it, was a novel one to. many U.S .. settlers. `[真题]`
+>   - 中译：两个世纪前，保护自然而非开发自然的理念对美国许多定居者来说还是一种新颖的想法。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/novel；
 > - Have you read any of Jane Austen's novels? `[例]`
+>   - 中译：你读过简·奥斯汀的任何小说吗？；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/novel；
 > - His latest novel is selling really well. `[例]`
+>   - 中译：他的最新小说卖得非常好。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/novel；
 
 
 ---

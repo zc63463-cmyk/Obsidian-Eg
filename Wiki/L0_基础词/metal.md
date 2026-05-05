@@ -128,9 +128,17 @@ review_count: 0
 
 > [!example]- 语料
 > - The precious metal is seen as a safe haven when times are tough. `[真题]`
+> - 中译：贵金属在困难时期被视为避风港。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/metal；
 > - The museum is heavily guarded and all visitors have to pass through metal detectors. `[真题]`
+> - 中译：博物馆戒备森严，所有游客都必须通过金属探测器。；
+> - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/metal；
 > - He once banned heavy metal music and its fans were arrested. `[真题]`
+> - 中译：他曾禁止重金属音乐，其粉丝因此被捕。；
+> - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/metal；
 > - The scent of burning metal assailed his nostrils. `[真题]`
+> - 中译：燃烧金属的气味扑鼻而来。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/metal；
 
 
 ---

@@ -127,9 +127,17 @@ review_count: 0
 
 > [!example]- 语料
 > - In contrast to France's actions, Denmark's fashion industry agreed last month on rules and sanctions regarding the age, health, and other characteristics of models. `[真题]`
+  - 中译：与法国的做法不同，丹麦时尚行业上个月就模特的年龄、健康状况和其他特征达成了规则和制裁协议。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sanction
 > - Trade sanctions were imposed against any country that refused to sign the agreement. `[真题]`
+  - 中译：对任何拒绝签署协议的国家实施了贸易制裁。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sanction
 > - The UN announced new economic sanctions against countries abusing human rights. `[例]`
+  - 中译：联合国宣布对侵犯人权的国家实施新的经济制裁。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sanction
 > - Their economy crumbled under the weight of United Nations sanctions. `[例]`
+  - 中译：在联合国制裁的重压下，他们的经济崩溃了。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sanction
 
 
 ---

@@ -133,8 +133,14 @@ sheep(羊) + herd(=herd，牧群，看管)
 
 > [!example]- 语料
 > - She carefully shepherded the children across the street. `[真题]`
+  - 中译：她小心翼翼地带领孩子们穿过街道。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/shepherd；
 > - They shepherded the bill through Congress. `[真题]`
+  - 中译：他们引导该法案在国会通过。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/shepherd；
 > - The tour guides shepherded the rest of the group onto the bus. `[真题]`
+  - 中译：导游带领其余团员上了巴士。；
+  - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/shepherd；
 
 
 ---

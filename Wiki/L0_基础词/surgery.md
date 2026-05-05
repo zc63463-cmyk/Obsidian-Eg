@@ -120,8 +120,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The patient was taken directly to surgery after arriving at the hospital. `[真题]`
+>   - 中译：病人到达医院后被直接送入手术室。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/surgery；
 > - The procedure is a major surgery, and it will take you several weeks to recover from it. `[例]`
+>   - 中译：这个手术是一个大手术，你需要几周的时间来恢复。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/surgery；
 > - With something as delicate as brain surgery, there is little margin for error. `[例]`
+>   - 中译：像脑外科手术这样精细的操作，容错的空间很小。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/surgery；
 
 
 ---

@@ -134,8 +134,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The Communist Party was forced (to go) underground, and its leaders went into hiding. `[例]`
+>   - 中译：共产党被迫转入地下，其领导人隐匿起来。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/underground；
 > - They told us the stories of some of the main figures in the Underground Railroad. `[例]`
+>   - 中译：他们给我们讲述了地下铁路中一些主要人物的故事。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/underground；
 > - In Britain and the USA in the 1970s, the underground was a powerful subversive force. `[例]`
+>   - 中译：在20世纪70年代的英国和美国，地下运动是一股强大的颠覆力量。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/underground；
 
 
 ---

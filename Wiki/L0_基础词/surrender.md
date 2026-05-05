@@ -126,8 +126,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The army was forced to surrender after weeks of siege. `[真题]`
+>   - 中译：经过数周的围困，军队被迫投降。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/surrender；
 > - They laid down their weapons and surrendered to the enemy. `[真题]`
+>   - 中译：他们放下武器，向敌人投降。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/surrender；
 > - Never surrender your dreams, no matter how difficult the journey. `[真题]`
+>   - 中译：无论旅途多么艰难，永远不要放弃你的梦想。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/surrender；
 
 
 ---

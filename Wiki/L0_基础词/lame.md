@@ -129,9 +129,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Saying she’d lost her homework was a pretty lame excuse , if you ask me. `[例]`
+> - Saying she'd lost her homework was a pretty lame excuse , if you ask me. `[例]`
+>   - 中译：如果你问我，说她丢了作业是个相当蹩脚的借口。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lame；
 > - My horse had gone lame. `[例]`
+>   - 中译：我的马瘸了。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lame；
 > - The humour is more lame than funny. `[例]`
+>   - 中译：这个笑话与其说好笑不如说蹩脚。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lame；
 
 
 ---

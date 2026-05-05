@@ -126,8 +126,14 @@ do-(=don-, 给予，PIE词根 *deh-/*do-) + -n- + -ate(动词后缀，使动)
 
 > [!example]- 语料
 > - Many people are willing to donate their organs after death. `[真题]`
+>   - 中译：许多人愿意在死后捐献器官。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/donate；
 > - The company donated a large sum of money to the local charity. `[真题]`
+>   - 中译：公司向当地慈善机构捐赠了一大笔钱。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/donate；
 > - If you are able to donate blood, you should do it. `[真题]`
+>   - 中译：如果你能够献血，你应该去献。；
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/donate；
 
 
 ---

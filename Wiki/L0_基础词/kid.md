@@ -130,9 +130,17 @@ kid 源自古诺斯语 *kið*（小山羊），1590年左右开始用来指代�
 
 > [!example]- 语料
 > - Half the kids round here are unemployed. `[真题]`
+>   - 中译：这附近一半的孩子都失业了。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/kid；
 > - She sees me as a little kid who counts for nothing. `[例]`
+>   - 中译：她把我看作一个无足轻重的小孩。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/kid；
 > - I asked her if she remembered any of the poems she used to recite for us when we were kids. `[例]`
+>   - 中译：我问她是否还记得我们小时候她给我们背诵的那些诗。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/kid；
 > - You won first prize? You're kidding! `[例]`
+>   - 中译：你得了第一名？你在开玩笑吧！；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/kid；
 
 
 ---

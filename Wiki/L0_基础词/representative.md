@@ -126,9 +126,17 @@ re-(再次) + [[prec-pre|pre]]-(在前面) + [[sens-sent|sent]](存在) + -ative
 
 > [!example]- 语料
 > - The firm has representatives in every major city. `[COCA-NEWS]`
+  - 中译：这家公司在每个主要城市都有代表。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/representative；
 > - A good political poll is based on a representative sampling of voters. `[COCA-ACAD]`
+  - 中译：一个好的民意调查基于对选民的代表性抽样。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/representative；
 > - Is this poem representative of his work? `[BNC-SPOKEN]`
+  - 中译：这首诗能代表他的作品风格吗？；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/representative；
 > - Representative democracy allows citizens to elect officials to make decisions on their behalf. `[COCA-ACAD]`
+  - 中译：代议制民主允许公民选举官员来代表他们做决定。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/representative；
 
 
 ---

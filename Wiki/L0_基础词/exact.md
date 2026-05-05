@@ -127,8 +127,14 @@ ex-(出，彻底) + act(做，驱动) → exactus(做到极致的)
 
 > [!example]- 语料
 > - The exact distance is 1.838 metres. `[例]`
+  - 中译：精确距离是1.838米。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/exact；
 > - The exact time of the accident was 2.43 p.m. `[例]`
+  - 中译：事故发生的准确时间是下午2点43分。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/exact；
 > - I still owe you £7, don't I?" "Actually, it's £7.30 to be exact. `[例]`
+  - 中译：我还欠你7英镑，对吧？“实际上，准确说是7.30英镑。”；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/exact；
 
 
 ---

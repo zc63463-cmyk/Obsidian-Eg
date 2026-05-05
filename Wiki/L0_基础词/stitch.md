@@ -130,8 +130,14 @@ stitch 源自古英语 *stice*（一针），与 [[st-sta-stat]]（站立）词�
 
 > [!example]- 语料
 > - Secure the two pieces together with a couple of stitches. `[例]`
+>   - 中译：用几针将两块布缝合在一起。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/stitch；
 > - Cast on (= make the first row on the needle ) 50 stitches using pink wool. `[例]`
+>   - 中译：用粉色毛线起50针。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/stitch；
 > - Cast off the first four stitches (= take them off the needle and finish the edge ). `[例]`
+>   - 中译：收掉前四针（即从针上取下并完成边缘）。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/stitch；
 
 
 ---

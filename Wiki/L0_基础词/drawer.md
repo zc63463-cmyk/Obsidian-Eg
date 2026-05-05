@@ -120,8 +120,14 @@ review_count: 0
 
 > [!example]- 语料
 > - My other hand is fishing through a drawer in search of a rubber band. `[真题]`
+>   - 中译：我的另一只手在抽屉里翻找橡皮筋。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/drawer；
 > - She opened her desk drawer and took out the book. `[真题]`
+>   - 中译：她打开书桌抽屉，拿出了那本书。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/drawer；
 > - A line of drawer trees rose above the morning fog. `[例]`
+>   - 中译：一排抽屉树矗立在晨雾之上。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/drawer；
 
 
 ---

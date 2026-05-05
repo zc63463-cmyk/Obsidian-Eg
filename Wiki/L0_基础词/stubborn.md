@@ -127,8 +127,14 @@ stub(树桩，源自古英语 *stybb*，与 [[strong]] 同源"紧硬的") + -orn
 
 > [!example]- 语料
 > - He was too stubborn to admit that he was wrong about the project. `[真题]`
+>   - 中译：他太固执了，不肯承认自己在项目上犯了错。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/stubborn；
 > - A new report demonstrates a stubborn chasm between rich and poor students earning bachelor's degrees. `[真题]`
+>   - 中译：一份新报告显示，富家子弟和贫困学生在获得学士学位方面存在顽固的差距。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/stubborn；
 > - The stubborn stain on the carpet refused to come out despite repeated cleaning. `[真题]`
+>   - 中译：尽管反复清洗，地毯上顽固的污渍还是去不掉。；
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/stubborn；
 
 
 ---

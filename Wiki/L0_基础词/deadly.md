@@ -128,8 +128,14 @@ review_count: 0
 
 > [!example]- 语料
 > - He was arrested for carrying concealed deadly weapons. `[例]`
+  - 中译：他因携带隐蔽的致命武器而被捕。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/deadly；
 > - He is accused of helping to carry out a deadly bomb attack on a fashionable Paris restaurant. `[例]`
+  - 中译：他被指控协助对巴黎一家时尚餐厅实施致命炸弹袭击。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/deadly；
 > - Hepatitis C is a potentially deadly virus that often attacks the liver. `[例]`
+  - 中译：丙型肝炎是一种潜在致命的病毒，经常攻击肝脏。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/deadly；
 
 
 ---

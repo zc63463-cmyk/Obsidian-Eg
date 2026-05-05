@@ -132,8 +132,14 @@ novel(新颖的) + -ty(名词后缀，表状态/性质)
 
 > [!example]- 语料
 > - The novelty of these toys soon wore off and the children became bored with them. `[例]`
+>   - 中译：这些玩具的新鲜感很快就消失了，孩子们对它们感到厌倦。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/novelty；
 > - In Britain in the 1950s, television still had novelty value. `[例]`
+>   - 中译：在20世纪50年代的英国，电视仍然具有新奇价值。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/novelty；
 > - Tourists are still a novelty on this remote island. `[例]`
+>   - 中译：在这个偏远的岛屿上，游客仍然是一种新鲜事物。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/novelty；
 
 
 ---

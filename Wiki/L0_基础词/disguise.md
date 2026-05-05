@@ -128,8 +128,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The economic downturn turned out to be a blessing in disguise, forcing companies to become more efficient. `[真题]`
+>   - 中译：经济衰退结果因祸得福，迫使公司变得更加高效。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/disguise；
 > - He could not disguise his disappointment at the news. `[真题]`
+>   - 中译：他无法掩饰对这个消息的失望。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/disguise；
 > - The loss of fertilizer proved to be a blessing in disguise, as it forced us to use compost which is better for the soil. `[真题]`
+>   - 中译：肥料的流失结果因祸得福，因为它迫使我们使用堆肥，而堆肥对土壤更好。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/disguise；
 
 
 ---

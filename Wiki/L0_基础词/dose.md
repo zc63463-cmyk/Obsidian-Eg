@@ -125,8 +125,14 @@ dos(=dot-, 给予，希腊语 dosis "给予"，PIE词根 *deh-/*do-) + -e
 
 > [!example]- 语料
 > - A single dose of the vaccine can provide protection against the virus. `[真题]`
+>   - 中译：单剂疫苗就能提供对病毒的防护。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/dose；
 > - Never exceed the recommended dose of painkillers. `[真题]`
+>   - 中译：切勿超过止痛药的推荐剂量。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/dose；
 > - My doctor prescribed a daily dose of antibiotics to treat my infection. `[真题]`
+>   - 中译：我的医生开了每日一剂的抗生素来治疗我的感染。；
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/dose；
 
 
 ---

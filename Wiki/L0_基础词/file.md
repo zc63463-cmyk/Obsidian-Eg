@@ -142,8 +142,14 @@ file 源自拉丁语 *filum*（线、丝），原指用线把文件串起来保�
 
 > [!example]- 语料
 > - You'll find it in the files under "C". `[例]`
+>   - 中译：你会在标有"C"的档案中找到它。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/file；
 > - We keep your records on file for five years. `[例]`
+>   - 中译：我们将你的记录存档五年。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/file；
 > - The police have opened a file on local burglaries. `[例]`
+>   - 中译：警方已对当地入室盗窃案立案。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/file；
 
 
 ---

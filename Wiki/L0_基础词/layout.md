@@ -128,8 +128,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Application forms vary greatly in layout and length. `[例]`
+>   - 中译：申请表在排版和长度上差异很大。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/layout；
 > - His house has three bedrooms and ours has four, but otherwise the layout is much the same. `[例]`
+>   - 中译：他的房子有三间卧室，我们的有四间，但除此之外布局大致相同。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/layout；
 > - Each article in the journal has its own typeface and layout. `[例]`
+>   - 中译：期刊中的每篇文章都有自己独特的字体和排版。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/layout；
 
 
 ---

@@ -124,8 +124,14 @@ rub(摩擦) + -er(表示物/工具的后缀)
 
 > [!example]- 语料
 > - Rubber is widely used in the manufacturing industry. `[真题]`
+  - 中译：橡胶在制造业中被广泛使用。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rubber
 > - The tires on the car are made of rubber. `[真题]`
+  - 中译：汽车轮胎是橡胶做的。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rubber
 > - She used a rubber band to hold the papers together. `[真题]`
+  - 中译：她用橡皮筋把文件束在一起。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rubber
 
 
 ---

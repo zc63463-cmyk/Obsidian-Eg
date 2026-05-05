@@ -124,8 +124,14 @@ review_count: 0
 
 > [!example]- 语料
 > - A car engine needs to be well lubricated with oil. `[例]`
+> -   - 中译：汽车发动机需要用机油充分润滑；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lubricate；
 > - Applying a few drops of oil on a key will clean and lubricate the moving parts of the lock , extending its life. `[例]`
+> -   - 中译：在钥匙上滴几滴油可以清洁和润滑锁的活动部件，延长其使用寿命；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lubricate；
 > - Disconnect the ignition and rely on the starter motor to turn the engine several times so that oil can lubricate the moving parts. `[例]`
+> -   - 中译：断开点火装置，依靠启动电机转动发动机几次，使机油能够润滑活动部件；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lubricate；
 
 
 ---

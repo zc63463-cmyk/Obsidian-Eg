@@ -124,8 +124,14 @@ review_count: 0
 
 > [!example]- 语料
 > - I got these folders at the stationery store. `[例]`
+>   - 中译：我在文具店买的这些文件夹。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/stationery；
 > - The company realized it was spending too much on stationery. `[例]`
+>   - 中译：公司意识到在文具上的花费太多了。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/stationery；
 > - The logo featured on the letterhead stationery for the Association. `[例]`
+>   - 中译：该协会的信头文具上印有这个标志。；
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/stationery；
 
 
 ---

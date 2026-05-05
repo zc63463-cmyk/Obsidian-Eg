@@ -122,8 +122,14 @@ tram 源自中古英语 *tramme*（滑车、轨道上的小车），可能来自
 
 > [!example]- 语料
 > - I hopped off the tram near the park. `[例]`
+>   - 中译：我在公园附近下了有轨电车。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/tram；
 > - The city is planning to expand its tram system to reduce traffic congestion. `[例]`
+>   - 中译：该市计划扩建有轨电车系统以减少交通拥堵。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/tram；
 > - There is easy access to the centre of the city by tram. `[例]`
+>   - 中译：乘坐有轨电车可以方便地到达市中心。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/tram；
 
 
 ---

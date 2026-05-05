@@ -125,9 +125,17 @@ man(人，人类) + kind(种类) → mankind(人类的种类 → 人类)
 
 > [!example]- 语料
 > - I believe that war is one of the major evils facing mankind. `[COCA-ACAD]`
+> -   - 中译：我认为战争是人类面临的重大邪恶之一；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/mankind；
 > - He worked for the benefit of all mankind. `[COCA-ACAD]`
+> -   - 中译：他为全人类的利益而工作；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/mankind；
 > - The present generation has an awesome responsibility for the future of mankind. `[COCA-ACAD]`
+> -   - 中译：当代人对人类的未来负有重大责任；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/mankind；
 > - Up until a few decades ago, our visions of the future were largely — though by no means uniformly — glowingly positive. Science and technology would cure all the ills of humanity, leading to lives of fulfillment and opportunity for all mankind. `[真题]`
+> -   - 中译：直到几十年前，我们对未来的愿景在很大程度上——尽管并非一致——是乐观积极的；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/mankind；
 
 
 ---

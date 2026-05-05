@@ -130,8 +130,14 @@ review_count: 0
 
 > [!example]- 语料
 > - My hair needs trimming. `[例]`
+>   - 中译：我的头发需要修剪了。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/trim；
 > - Trim off the leafy ends of the vegetable before cooking. `[例]`
+>   - 中译：烹饪前将蔬菜的叶端切掉。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/trim；
 > - They're trying to trim their costs , so staff who leave are not being replaced. `[例]`
+>   - 中译：他们正在努力削减成本，所以离职的员工不会被替换。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/trim；
 
 
 ---

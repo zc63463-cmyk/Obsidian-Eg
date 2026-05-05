@@ -130,8 +130,14 @@ float（源自古英语 *flotian*，与 fleet 同源，原始印欧语 *pleu-* "
 
 > [!example]- 语料
 > - An empty bottle will float. `[例]`
+>   - 中译：空瓶子会浮在水面上。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/float；
 > - You can float very easily in the Dead Sea because it's so salty. `[例]`
+>   - 中译：在死海里你可以很容易地浮起来，因为水非常咸。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/float；
 > - Lily pads float on the surface of the pond. `[例]`
+>   - 中译：荷叶漂浮在池塘的水面上。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/float；
 
 
 ---

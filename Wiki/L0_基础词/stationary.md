@@ -125,8 +125,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The traffic got slower and slower until it was stationary. `[例]`
+>   - 中译：交通越来越慢，直到完全停滞。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/stationary；
 > - The rate of inflation has been stationary for several months. `[例]`
+>   - 中译：通货膨胀率已经几个月保持不变了。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/stationary；
 > - House prices have been stationary for months. `[例]`
+>   - 中译：房价已经几个月没有变动了。；
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/stationary；
 
 
 ---

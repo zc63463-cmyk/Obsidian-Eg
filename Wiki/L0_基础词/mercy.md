@@ -128,9 +128,17 @@ review_count: 0
 
 > [!example]- 语料
 > - The prisoners pleaded for mercy. `[真题]`
+> - 中译：囚犯们乞求宽恕。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/mercy；
 > - Poor people are increasingly at the mercy of predatory lenders. `[真题]`
+> - 中译：穷人越来越任由掠夺性放贷者摆布。；
+> - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/mercy；
 > - Fishermen are always at the mercy of the forces of nature. `[真题]`
+> - 中译：渔民总是任由自然力量摆布。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/mercy；
 > - It's a mercy that the building was empty when the fire started. `[真题]`
+> - 中译：幸运的是，火灾发生时大楼里没有人。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/mercy；
 
 
 ---

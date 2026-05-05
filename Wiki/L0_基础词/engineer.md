@@ -126,8 +126,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The engineer is coming to repair our phone tomorrow morning. `[例]`
+>   - 中译：工程师明天上午来修理我们的电话。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/engineer；
 > - Left-wing groups engineered a coup against the military government. `[例]`
+>   - 中译：左翼团体策划了一场反对军政府的政变。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/engineer；
 > - I'm trying to engineer a meeting between them. `[例]`
+>   - 中译：我正在设法安排他们之间的一次会面。；
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/engineer；
 
 
 ---

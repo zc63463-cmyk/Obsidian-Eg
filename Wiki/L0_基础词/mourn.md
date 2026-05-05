@@ -123,8 +123,14 @@ mourn 源自古英语 *murnan*（悲伤，哀悼），与拉丁语 *memoria*（�
 
 > [!example]- 语料
 > - She was still mourning for her brother. `[例]`
+> - 中译：她仍在为哥哥哀悼。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/mourn；
 > - They mourned the passing of an older , simpler way of life (= felt sad because it had stopped existing ). `[例]`
+> - 中译：他们为一种更古老、更简单的生活方式消逝而哀叹。；
+> - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/mourn；
 > - Frank is mourning the death of his father. `[例]`
+> - 中译：弗兰克正在为父亲的去世而悲痛。；
+> - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/mourn；
 
 
 ---

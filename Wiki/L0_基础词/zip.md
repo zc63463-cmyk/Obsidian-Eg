@@ -133,8 +133,14 @@ zip 是一个拟声词（echoic word），1852年出现，模拟快速移动时�
 
 > [!example]- 语料
 > - Students were able to **zip** through the online course modules at their own pace, completing the program in record time. `[例]`
+>   - 中译：学生们能够按照自己的节奏快速完成在线课程模块，以创纪录的时间完成了该课程。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/zip；
 > - Please ensure that all uploaded files are in **zip** format and do not exceed the maximum size limit. `[例]`
+>   - 中译：请确保所有上传的文件为zip格式，且不超过最大大小限制。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/zip；
 > - She pulled her coat tighter and **zipped** it up against the biting winter wind. `[例]`
+>   - 中译：她把外套拉得更紧，拉上拉链抵御刺骨的冬风。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/zip；
 
 
 ---

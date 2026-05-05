@@ -122,8 +122,14 @@ review_count: 0
 
 > [!example]- 语料
 > - People were trapped in elevators, businesses closed early, and schools sent students home. `[真题]`
+>   - 中译：人们被困在电梯里，企业提前关门，学校让学生回家。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/elevator；
 > - They place the bales onto an elevator that transports them to a shredding mill. `[例]`
+>   - 中译：他们将草捆放到升降机上，运送到粉碎厂。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/elevator；
 > - It's on the fifth floor, so we'd better take the elevator. `[例]`
+>   - 中译：在五楼，我们最好乘电梯。；
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/elevator；
 
 
 ---

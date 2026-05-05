@@ -136,8 +136,14 @@ review_count: 0
 
 > [!example]- 语料
 > - He leaped out of his car and ran towards the house. `[例]`
+> -   - 中译：他从车里跳出来，朝那栋房子跑去；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/leap；
 > - I leaped up to answer the phone. `[例]`
+> -   - 中译：我跳起来去接电话；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/leap；
 > - The dog leaped over the gate into the field. `[例]`
+> -   - 中译：那只狗跃过大门，跑进了田里；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/leap；
 
 
 ---

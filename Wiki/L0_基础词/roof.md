@@ -125,8 +125,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Housing prices have gone through the roof in recent years. `[真题]`
+  - 中译：近年来房价飞涨。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/roof
 > - There are various stores and restaurants all under one roof. `[真题]`
+  - 中译：各种商店和餐厅都集中在同一个地方。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/roof
 > - Following news of increased profits, the company's share price went through the roof. `[真题]`
+  - 中译：利润增长的消息传出后，公司股价飙升。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/roof
 
 
 ---

@@ -136,8 +136,14 @@ hip（臀部）源自古英语 *hype*，来自原始日耳曼语 *\*hupiz*，最
 
 > [!example]- 语料
 > - This exercise is designed to trim your hips and stomach. `[例]`
+  - 中译：这项运动旨在瘦腰瘦臀。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hip；
 > - The skirt was a bit tight across the hips. `[例]`
+  - 中译：这条裙子臀部有点紧。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hip；
 > - The bars in the old part of the town are frequented by hip young students. `[例]`
+  - 中译：老城区的酒吧里经常光顾着时尚的年轻学生。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hip；
 
 
 ---

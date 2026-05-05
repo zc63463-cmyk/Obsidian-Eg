@@ -127,8 +127,14 @@ review_count: 0
 
 > [!example]- 语料
 > - He cooked rib of lamb for Sunday lunch. `[例]`
+  - 中译：他为周日午餐做了烤羊排。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rib；
 > - She elbowed me in the ribs before I could say anything. `[例]`
+  - 中译：我还没来得及说话，她就用手肘捅了捅我的肋骨。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/rib；
 > - Two of her ribs fractured when she was thrown from her horse. `[例]`
+  - 中译：她从马上摔下来时两根肋骨骨折了。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rib；
 
 
 ---

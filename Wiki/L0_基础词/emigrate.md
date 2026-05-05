@@ -125,8 +125,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Millions of Germans emigrated from Europe to America in the 19th century. `[例]`
+>   - 中译：十九世纪有数百万德国人从欧洲移民到美国。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/emigrate；
 > - Thousands of Britons emigrate every year. `[例]`
+>   - 中译：每年有数千名英国人移居海外。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/emigrate；
 > - Millions of Germans emigrated from Europe in the nineteenth century. `[例]`
+>   - 中译：十九世纪有数百万德国人从欧洲移居海外。；
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/emigrate；
 
 
 ---

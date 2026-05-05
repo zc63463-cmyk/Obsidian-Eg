@@ -127,8 +127,14 @@ nutr(=nourish, 滋养/养育，拉丁语 *nutrire*) + -ition(名词后缀，表�
 
 > [!example]- 语料
 > - Good nutrition is essential if patients are to make a quick recovery. `[例]`
+>   - 中译：良好的营养对于患者快速康复至关重要。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/nutrition；
 > - She's a professor of nutrition at Columbia University. `[例]`
+>   - 中译：她是哥伦比亚大学的营养学教授。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/nutrition；
 > - Nutrition information is now provided on the back of most food products. `[例]`
+>   - 中译：现在大多数食品的背面都提供营养信息。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/nutrition；
 
 
 ---

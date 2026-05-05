@@ -126,8 +126,14 @@ review_count: 0
 
 > [!example]- 语料
 > - He let out a moan of pain as the doctor examined the wound. `[真题]`
+> - 中译：医生检查伤口时，他发出了一声痛苦的呻吟。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/moan；
 > - Instead of moaning about the situation, we should take action. `[真题]`
+> - 中译：与其抱怨现状，不如采取行动。；
+> - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/moan；
 > - She gave a low moan of despair when she heard the news. `[真题]`
+> - 中译：听到这个消息时，她发出了一声低沉的绝望呻吟。；
+> - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/moan；
 
 
 ---

@@ -124,8 +124,14 @@ review_count: 0
 
 > [!example]- 语料
 > - It will soon be impossible for foreigners to enter the country. `[例]`
+>   - 中译：外国人很快将无法进入该国。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/foreigner；
 > - I can't speak a word of French so everyone can tell I'm a foreigner as soon as I arrive in France. `[例]`
+>   - 中译：我一句法语都不会说，所以一到法国大家就能看出我是外国人。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/foreigner；
 > - The law said that foreigners could buy land in Hawaii. `[例]`
+>   - 中译：法律规定外国人可以在夏威夷购买土地。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/foreigner；
 
 
 ---

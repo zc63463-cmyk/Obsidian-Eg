@@ -128,8 +128,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Around 2 a.m., I was roused by the sound of screaming coming from the street below. `[真题]`
+  - 中译：凌晨两点左右，我被楼下街道传来的尖叫声惊醒。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rouse
 > - The speaker attempted to rouse the crowd with a passionate cry for action. `[真题]`
+  - 中译：演讲者试图用充满激情的行动号召来激励人群。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rouse
 > - We don't want to rouse any suspicions before the plan is fully in place. `[真题]`
+  - 中译：我们不想在计划完全就绪之前引起任何怀疑。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rouse
 
 
 ---

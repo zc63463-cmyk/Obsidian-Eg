@@ -126,8 +126,14 @@ review_count: 0
 
 > [!example]- 语料
 > - She is of a cheerful disposition, which makes her popular among her colleagues. `[真题]`
+>   - 中译：她性格开朗，这使她在同事中很受欢迎。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/disposition；
 > - The court will determine the disposition of the deceased's property. `[真题]`
+>   - 中译：法院将决定死者财产的处置。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/disposition；
 > - He has a natural disposition to catch cold. `[真题]`
+>   - 中译：他天生容易感冒。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/disposition；
 
 
 ---

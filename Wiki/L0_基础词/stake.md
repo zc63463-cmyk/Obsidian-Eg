@@ -129,8 +129,14 @@ stake 源自古英语 *staca*（尖桩、柱子），与 [[st-sta-stat|st-/sta-/
 
 > [!example]- 语料
 > - Employers have a stake in the training of their staff. `[例]`
+>   - 中译：雇主在员工培训方面有利益关系。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/stake；
 > - She spent two weeks in Las Vegas playing high-stakes blackjack at the casinos. `[例]`
+>   - 中译：她在拉斯维加斯的赌场里花了两个星期玩高额赌注的二十一点。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/stake；
 > - The team is playing for enormous stakes - the chance to play in the final. `[例]`
+>   - 中译：这支队伍正在为巨大的赌注而战——进入决赛的机会。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/stake；
 
 
 ---

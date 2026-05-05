@@ -138,8 +138,14 @@ lie 有两个完全不同的词源：
 
 > [!example]- 语料
 > - The village lies in a wide valley surrounded by low hills. `[例]`
+> -   - 中译：村庄坐落在被低矮山丘环绕的宽阔山谷中；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lie；
 > - The main difficulty lies in balancing growth with environmental protection. `[例]`
+> -   - 中译：主要困难在于平衡增长与环境保护；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lie；
 > - He admitted that he had lied to his parents about the accident. `[例]`
+> -   - 中译：他承认在事故这件事上对父母撒了谎；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lie；
 
 
 ---

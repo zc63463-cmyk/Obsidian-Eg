@@ -124,8 +124,14 @@ un-(不，否定前缀) + [[doubt|doubt]](怀疑) + -ed(形容词后缀) + -ly(�
 
 > [!example]- 语料
 > - She was undoubtedly the best candidate. `[例]`
+>   - 中译：她无疑是最合适的候选人。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/undoubtedly；
 > - Undoubtedly, stress has contributed to her health problems. `[例]`
+>   - 中译：毫无疑问，压力导致了她的健康问题。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/undoubtedly；
 > - It is undoubtedly one of the best movies of the year. `[例]`
+>   - 中译：这无疑是今年最好的电影之一。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/undoubtedly；
 
 
 ---

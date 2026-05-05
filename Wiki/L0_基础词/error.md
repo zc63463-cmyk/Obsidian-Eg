@@ -129,8 +129,14 @@ review_count: 0
 
 > [!example]- 语料
 > - There are some serious errors and omissions in the book. `[例]`
+  - 中译：书中存在一些严重的错误和遗漏。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/error；
 > - Your essay is full of spelling errors. `[例]`
+  - 中译：你的文章满是拼写错误。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/error；
 > - Human error has been blamed for the air crash. `[例]`
+  - 中译：人为失误被认为是空难的原因。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/error；
 
 
 ---

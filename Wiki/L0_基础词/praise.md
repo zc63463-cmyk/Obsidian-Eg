@@ -135,8 +135,14 @@ praise(称赞/赞扬，古法语 *prisier*)
 
 > [!example]- 语料
 > - He should be praised for his honesty. `[例]`
+>   - 中译：他应该因为诚实而受到赞扬。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/praise；
 > - My parents always praised me when I did well at school. `[例]`
+>   - 中译：我在学校表现好的时候，父母总是表扬我。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/praise；
 > - He was highly praised for his research on heart disease. `[例]`
+>   - 中译：他因心脏病方面的研究而受到高度赞扬。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/praise；
 
 
 ---

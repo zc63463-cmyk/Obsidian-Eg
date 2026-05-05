@@ -134,8 +134,14 @@ trust 源自中古英语，可能来自古诺尔斯语 *traust*（信任），�
 
 > [!example]- 语料
 > - The main disadvantage of using AI to respond to customers is that there are concerns about trusting pei:sonal interactions to machines , which could lead not only to the subsequent loss of interpersonal connections , but also to a decrease in marketing personnel. ( 47) Some believe that AI is negatively impacting on the marketer's role by reducing creativity and removing jobs, but they are aware that it is a way of reducing costs and creating new information. `[真题]`
+>   - 中译：使用AI回应客户的主要缺点是，人们担心将人际互动交给机器处理，这不仅可能导致人际关系的丧失，还可能导致营销人员的减少。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/trust；
 > - My sister warned me not to trust him. `[例]`
+>   - 中译：我姐姐警告我不要相信他。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/trust；
 > - Trust me - I know about these things. `[例]`
+>   - 中译：相信我——我对这些事情很了解。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/trust；
 
 
 ---

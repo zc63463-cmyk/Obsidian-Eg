@@ -132,8 +132,14 @@ review_count: 0
 
 > [!example]- 语料
 > - When people ask where he works, he says he is a freelance writer. `[COCA-NEWS]`
+>   - 中译：当人们问他工作单位时，他说他是一名自由撰稿人。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/freelance；
 > - She freelanced for years while her children were in school. `[COCA-NEWS]`
+>   - 中译：在孩子上学期间，她做了多年的自由职业者。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/freelance；
 > - Companies should take this opportunity to employ freelance workers where it makes sense. `[COCA-ACAD]`
+>   - 中译：公司应该利用这个机会，在合理的地方雇佣自由职业者。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/freelance；
 
 ---
 

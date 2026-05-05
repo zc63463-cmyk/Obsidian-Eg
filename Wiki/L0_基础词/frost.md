@@ -135,6 +135,8 @@ frost(整体词，源自古英语 *forst*，与 freeze 同源)
 > - There is always the danger of a late frost killing the buds. `[真题]`
 > - These plants are particularly susceptible to frost. `[真题]`
 > - The lawn was covered in frost on the cold morning. `[例]`
+>   - 中译：寒冷的早晨，草坪上覆盖着霜。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/frost；
 
 
 ---

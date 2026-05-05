@@ -131,8 +131,14 @@ trip "绊倒"源自古法语 *treper*（跳跃、踢），原始日耳曼语 *\*
 
 > [!example]- 语料
 > - Throughout the trip , Jackson juggled multiple cameras and plate sizes using the " collodion process" that required him to coat the plates with a chemical mixture , then expose them and develop the resulting images with a portable darkroom. `[真题]`
+>   - 中译：在整个旅途中，杰克逊使用火棉胶工艺同时操作多台相机和不同尺寸的底片，该工艺需要他用化学混合物涂布底片，然后曝光并用便携式暗房冲洗图像。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/trip；
 > - The trip from York to Newcastle takes about an hour by train. `[例]`
+>   - 中译：从约克到纽卡斯尔坐火车大约需要一小时。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/trip；
 > - We're going on a trip to Norway this summer. `[例]`
+>   - 中译：今年夏天我们要去挪威旅行。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/trip；
 
 
 ---

@@ -129,8 +129,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The breakdown was due to a mechanical failure. `[例]`
+> -   - 中译：机械故障；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/mechanical；
 > - This is the oldest working mechanical clock in the world. `[例]`
+> -   - 中译：这是世界上最古老的仍在运行的机械钟；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/mechanical；
 > - Investigators concluded that the incident was caused by mechanical failure. `[例]`
+> -   - 中译：调查人员得出结论，该事件是由机械故障引起的；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/mechanical；
 
 
 ---

@@ -126,9 +126,17 @@ review_count: 0
 
 > [!example]- 语料
 > - Language is the primary vehicle for human communication. `[真题]`
+>   - 中译：语言是人类交流的主要工具。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/vehicle；
 > - The government is promoting the use of electric vehicles to reduce emissions. `[真题]`
+>   - 中译：政府正在推广使用电动汽车以减少排放。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/vehicle；
 > - Art can serve as a vehicle for social change and cultural expression. `[例]`
+>   - 中译：艺术可以成为社会变革和文化表达的载体。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/vehicle；
 > - The number of thefts of motor vehicles rose by a third last year. `[例]`
+>   - 中译：去年机动车盗窃案件增加了三分之一。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/vehicle；
 
 
 ---

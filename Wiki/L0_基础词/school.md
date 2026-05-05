@@ -133,9 +133,17 @@ review_count: 0
 
 > [!example]- 语料
 > - The Chicago school of economics has had a profound influence on government policy. `[真题]`
+  - 中译：芝加哥经济学派对政府政策产生了深远的影响。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/school
 > - Children must attend school between the ages of 6 and 16 by law. `[真题]`
+  - 中译：法律规定6至16岁的儿童必须上学。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/school
 > - There are two schools of thought about how this illness should be treated. `[例]`
+  - 中译：关于如何治疗这种疾病，有两种不同的学派观点。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/school
 > - He belongs to the school of thought that says competition can be very stimulating for children. `[例]`
+  - 中译：他属于认为竞争对儿童非常有激励作用的那一派。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/school
 
 
 ---

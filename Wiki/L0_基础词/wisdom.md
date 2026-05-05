@@ -133,9 +133,17 @@ review_count: 0
 
 > [!example]- 语料
 > - Conventional wisdom has it that aggressive cost-cutting is the most effective way to rescue a declining business. `[真题]`
+>   - 中译：传统观点认为，激进的削减成本是拯救衰退企业的最有效方法。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/wisdom；
 > - Before I went off to university, my father gave me a few words of wisdom that I still carry with me today. `[真题]`
+>   - 中译：在上大学之前，父亲给了我几句忠告，我至今仍然铭记在心。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/wisdom；
 > - Local people are questioning the wisdom of spending so much money on a new road that few people will use. `[真题]`
+>   - 中译：当地居民质疑花这么多钱修一条几乎没人用的公路是否明智。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/wisdom；
 > - He had the wisdom to stop before he said too much and made the situation worse. `[真题]`
+>   - 中译：他有智慧在该停的时候停下来，没有说得太多而使情况恶化。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/wisdom；
 
 
 ---

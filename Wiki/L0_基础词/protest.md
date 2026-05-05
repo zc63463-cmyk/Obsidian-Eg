@@ -132,8 +132,14 @@ pro-(向前/公开地) + [[test|test-]](作证，拉丁语 *testari*)
 
 > [!example]- 语料
 > - Protests have been made by many people who would be affected by the proposed changes. `[例]`
+>   - 中译：许多将受到拟议变更影响的人提出了抗议。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/protest；
 > - A formal protest was made by the German team about their disqualification from the relay final. `[例]`
+>   - 中译：德国队就其被取消接力赛决赛资格提出了正式抗议。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/protest；
 > - Conservation groups have united in protest against the planned new road. `[例]`
+>   - 中译：环保团体联合起来抗议计划修建的新公路。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/protest；
 
 
 ---

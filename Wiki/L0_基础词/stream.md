@@ -131,9 +131,17 @@ review_count: 0
 
 > [!example]- 语料
 > - A steady stream of students came out of the examination hall. `[COCA-ACAD]`
+>   - 中译：学生们源源不断地从考场走出来。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/stream；
 > - Tears were streaming down her face as she waved goodbye. `[COCA-FICT]`
+>   - 中译：她挥手告别时，泪水顺着脸颊流下。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/stream；
 > - Utilities have a steady stream of cash coming in from their customers. `[COCA-NEWS]`
+>   - 中译：公用事业公司从客户那里获得源源不断的现金收入。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/stream；
 > - I had a constant stream of visitors while I was ill. `[BNC-SPOKEN]`
+>   - 中译：我生病期间来访者络绎不绝。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/stream；
 
 
 ---

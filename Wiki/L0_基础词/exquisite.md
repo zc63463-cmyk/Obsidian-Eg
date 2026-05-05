@@ -129,8 +129,14 @@ ex-(出) + [[quis-quisit|quis-/quisit-]](追求，寻求) + -ite(形容词后缀
 
 > [!example]- 语料
 > - Look at this exquisite painting. `[例]`
+  - 中译：看看这幅精美的画作。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/exquisite；
 > - She has exquisite taste. `[例]`
+  - 中译：她品味高雅。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/exquisite；
 > - The pain was quite exquisite. `[例]`
+  - 中译：疼痛十分剧烈。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/exquisite；
 
 
 ---

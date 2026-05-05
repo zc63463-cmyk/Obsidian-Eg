@@ -125,8 +125,14 @@ jewel 源自古法语 *jouel*（现代法语 *joyau*），可能来自通俗拉�
 
 > [!example]- 语料
 > - The museum's collection of medieval jewels is considered one of the finest in Europe. `[真题]`
+>   - 中译：博物馆的中世纪珠宝收藏被认为是欧洲最精美的之一。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/jewel；
 > - The new library is the jewel in the crown of our university. `[真题]`
+>   - 中译：新图书馆是我们大学的皇冠上的明珠。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/jewel；
 > - Many visitors consider the Sistine Chapel to be the jewel of the Vatican. `[真题]`
+>   - 中译：许多游客认为西斯廷教堂是梵蒂冈的瑰宝。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/jewel；
 
 
 ---

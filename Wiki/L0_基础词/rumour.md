@@ -127,8 +127,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Rumour has it that the company is about to announce major layoffs. `[真题]`
+  - 中译：有传言说公司即将宣布大规模裁员。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rumour
 > - He denied rumours that he was planning to visit the country later this month. `[真题]`
+  - 中译：他否认了关于他计划本月晚些时候访问该国的传言。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rumour
 > - It is widely rumoured that she will resign next month. `[真题]`
+  - 中译：广泛传言她下个月将辞职。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rumour
 
 
 ---

@@ -119,8 +119,14 @@ ozon-(=ozein, 散发气味，希腊语 *ozein*) + -e
 
 > [!example]- 语料
 > - The depletion of the ozone layer has also contributed to higher winds. `[真题]`
+>   - 中译：臭氧层的消耗也导致了风力增强。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ozone；
 > - When these chemicals reach the stratosphere they help to destroy the ozone layer. `[真题]`
+>   - 中译：当这些化学物质到达平流层时，它们会帮助破坏臭氧层。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ozone；
 > - Scientists discovered a hole in the ozone layer above Antarctica. `[真题]`
+>   - 中译：科学家在南极洲上空的臭氧层中发现了一个空洞。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ozone；
 
 
 ---

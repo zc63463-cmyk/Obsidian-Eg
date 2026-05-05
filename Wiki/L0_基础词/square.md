@@ -137,8 +137,14 @@ review_count: 0
 
 > [!example]- 语料
 > - It's a square-shaped room. `[例]`
+>   - 中译：这是一个正方形的房间。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/square；
 > - When cooled , cut the chocolate brownies into squares. `[例]`
+>   - 中译：冷却后，将巧克力布朗尼切成方块。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/square；
 > - She moved her castle forward three squares. `[例]`
+>   - 中译：她把城堡向前移动了三格。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/square；
 
 
 ---

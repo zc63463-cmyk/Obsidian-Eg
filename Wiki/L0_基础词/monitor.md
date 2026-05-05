@@ -137,8 +137,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Nurses constantly monitored the patient's heart rate. `[真题]`
+> - 中译：护士持续监测病人的心率。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/monitor；
 > - We will carefully monitor the way forces name suspects. `[真题]`
+> - 中译：我们将仔细监督军方公布嫌疑人姓名的方式。；
+> - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/monitor；
 > - UN monitors declared the referendum fair. `[真题]`
+> - 中译：联合国观察员宣布公投是公平的。；
+> - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/monitor；
 
 
 ---

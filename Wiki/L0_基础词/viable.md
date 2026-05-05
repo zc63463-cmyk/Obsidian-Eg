@@ -135,9 +135,17 @@ via（道路、生命通道）+ -able（能……的）→ 能走通的、能活
 
 > [!example]- 语料
 > - Rising oil prices have made alternative energy sources more economically viable. `[例]`
+>   - 中译：不断上涨的油价使替代能源在经济上更加可行。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/viable；
 > - The company adopted a viable approach to improve efficiency. `[例]`
+>   - 中译：公司采用了一种可行的方法来提高效率。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/viable；
 > - We want to make public transport a viable alternative to using cars. `[例]`
+>   - 中译：我们希望使公共交通成为使用汽车的可行替代方案。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/viable；
 > - Perhaps the only viable solution is to merge the hospitals. `[例]`
+>   - 中译：也许唯一可行的解决方案是合并这些医院。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/viable；
 
 
 ---

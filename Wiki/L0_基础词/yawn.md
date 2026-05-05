@@ -126,9 +126,17 @@ review_count: 0
 
 > [!example]- 语料
 > - Despite decades of economic growth, a yawning gap remains between the rich and the poor in many developing countries. `[真题]`
+>   - 中译：尽管经历了数十年的经济增长，但在许多发展中国家，贫富之间的巨大差距依然存在。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/yawn；
 > - The lecture was so monotonous that half the audience could barely suppress their yawns. `[真题]`
+>   - 中译：讲座太单调了，一半的听众几乎无法抑制住哈欠。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/yawn；
 > - He couldn't stop yawning during the three-hour meeting, having stayed up late the night before. `[真题]`
+>   - 中译：因为前一天晚上熬夜，他在三个小时的会议中不停地打哈欠。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/yawn；
 > - A yawning chasm separates the two political parties on the issue of immigration reform. `[真题]`
+>   - 中译：在移民改革问题上，两党之间存在巨大的鸿沟。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/yawn；
 
 
 ---

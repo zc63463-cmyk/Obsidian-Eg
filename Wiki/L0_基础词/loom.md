@@ -126,8 +126,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Dark storm clouds loomed on the horizon. `[例]`
+> -   - 中译：暴风云在地平线上隐约逼近；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/loom；
 > - Her final exams are looming. `[例]`
+> -   - 中译：她的期末考试即将来临；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/loom；
 > - Here, too, the threat of unemployment has been looming on the horizon. `[例]`
+> -   - 中译：在这里，失业的威胁也一直笼罩在地平线上；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/loom；
 
 
 ---

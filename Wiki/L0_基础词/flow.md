@@ -130,8 +130,14 @@ flow（源自古英语 *flōwan*，原始印欧语 *pleu-* "流动"）
 
 > [!example]- 语料
 > - Lava from the volcano was flowing down the hillside. `[例]`
+>   - 中译：火山喷出的熔岩沿着山坡流下。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/flow；
 > - Many short rivers flow into the Pacific Ocean. `[例]`
+>   - 中译：许多短河流入太平洋。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/flow；
 > - The river flows through three counties before flowing into the sea just south of here. `[例]`
+>   - 中译：这条河流经三个县，然后就在这里以南流入大海。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/flow；
 
 
 ---

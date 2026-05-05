@@ -133,8 +133,14 @@ review_count: 0
 
 > [!example]- 语料
 > - It is often difficult to discern the truth from the mass of conflicting information. `[COCA-ACAD]`
+>   - 中译：从大量相互矛盾的信息中辨别真相往往是困难的。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/discern；
 > - With years of experience, she was able to discern the difference between genuine and fake documents. `[COCA-ACAD]`
+>   - 中译：凭借多年的经验，她能够辨别真伪文件之间的差异。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/discern；
 > - It was difficult to discern who was winning the actual competition. `[COCA-NEWS]`
+>   - 中译：很难看出谁在真正的比赛中获胜。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/discern；
 
 
 ---

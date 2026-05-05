@@ -142,8 +142,14 @@ review_count: 0
 
 > [!example]- 语料
 > - It's time to reinvent the formula for how work is conducted, since we are still relying on a very 20th century notion of work, a scripted approach. `[真题]`
+  - 中译：是时候重新定义工作的方式了，因为我们仍然依赖一种非常20世纪的工作观念——一种程式化的方法。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/script
 > - Jenny's writing a film script. `[真题]`
+  - 中译：珍妮正在写一个电影剧本。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/script
 > - They gave me the script and I only had five lines. `[例]`
+  - 中译：他们给了我剧本，我只有五句台词。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/script
 
 
 ---

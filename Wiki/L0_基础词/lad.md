@@ -123,8 +123,14 @@ review_count: 0
 
 > [!example]- 语料
 > - A group of young lads were standing outside the shop. `[例]`
+>   - 中译：一群小伙子站在商店外面。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lad；
 > - He's a nice lad. `[例]`
+>   - 中译：他是个好小伙子。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lad；
 > - The prime minister's a local lad (= he was born and lived in this area ). `[例]`
+>   - 中译：首相是本地人（=他出生并生活在这个地区）。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lad；
 
 
 ---

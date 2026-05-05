@@ -127,8 +127,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The dog looks like it's limping - is it OK? `[例]`
+> -   - 中译：那只狗看起来一瘸一拐的——没事吧？；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/limp；
 > - He limped off to see the team medic. `[例]`
+> -   - 中译：他一瘸一拐地走去找队医；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/limp；
 > - Three minutes into the game , Jackson limped off the pitch with a serious ankle injury. `[例]`
+> -   - 中译：比赛进行到三分钟时，杰克逊因严重的脚踝伤一瘸一拐地走下了球场；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/limp；
 
 
 ---

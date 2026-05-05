@@ -129,8 +129,14 @@ ruin（倒塌/坠落，拉丁语 *ruina*，与 *ruere* "倒塌" 同源）
 
 > [!example]- 语料
 > - The ancient city lies in ruins after centuries of neglect. `[真题]`
+  - 中译：经过几个世纪的荒废，这座古城已成废墟。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ruin
 > - The scandal ruined his political career. `[真题]`
+  - 中译：丑闻毁了他的政治生涯。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ruin
 > - Poor customer service ruined the company's reputation. `[真题]`
+  - 中译：糟糕的客户服务毁了公司的声誉。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ruin
 
 
 ---

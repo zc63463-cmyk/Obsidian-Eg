@@ -125,9 +125,17 @@ review_count: 0
 
 > [!example]- 语料
 > - No sane person would make such a reckless decision. `[真题]`
+  - 中译：任何理智的人都不会做出如此鲁莽的决定。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sane
 > - The company adopted a sane approach to improve efficiency. `[真题]`
+  - 中译：公司采取了合理的方法来提高效率。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sane
 > - He seems perfectly sane to me. `[例]`
+  - 中译：在我看来他完全正常。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sane
 > - Leaving was the only sane option she had. `[例]`
+  - 中译：离开是她唯一理智的选择。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sane
 
 
 ---

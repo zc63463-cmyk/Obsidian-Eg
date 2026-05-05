@@ -130,8 +130,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The painting portrays a beautiful young woman in a blue dress. `[例]`
+>   - 中译：这幅画描绘了一位穿蓝色连衣裙的美丽年轻女子。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/portray；
 > - The writer portrays life in a small village at the turn of the century. `[例]`
+>   - 中译：这位作家描绘了世纪之交一个小村庄的生活。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/portray；
 > - The father in the film is portrayed as a fairly unpleasant character. `[例]`
+>   - 中译：电影中的父亲被描绘成一个相当令人不快的角色。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/portray；
 
 
 ---

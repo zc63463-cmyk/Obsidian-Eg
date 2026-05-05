@@ -130,8 +130,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The tree's bark is toxic to insects. `[例]`
+>   - 中译：这种树的树皮对昆虫有毒。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/toxic；
 > - Crop dusters can be used to disperse toxic substances. `[例]`
+>   - 中译：农作物喷洒机可被用来散布有毒物质。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/toxic；
 > - The political environment has turned toxic in recent months. `[例]`
+>   - 中译：近几个月来，政治环境已经变得充满毒性。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/toxic；
 
 
 ---

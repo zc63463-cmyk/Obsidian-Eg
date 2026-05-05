@@ -128,8 +128,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The research was conducted within the framework of modern linguistic theory. `[COCA-ACAD]`
+>   - 中译：这项研究是在现代语言学理论的框架内进行的。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/framework；
 > - A robust legal framework is essential for protecting intellectual property rights. `[COCA-ACAD]`
+>   - 中译：健全的法律框架对于保护知识产权至关重要。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/framework；
 > - The agreement outlines a framework and schedule for resolving the issues. `[COCA-NEWS]`
+>   - 中译：该协议概述了解决问题的时间表和框架。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/framework；
 
 ---
 

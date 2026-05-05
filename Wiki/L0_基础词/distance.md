@@ -129,8 +129,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The politician tried to distance himself from the controversial policy. `[真题]`
+>   - 中译：这位政客试图与这项有争议的政策保持距离。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/distance；
 > - In the distance, we could see the faint outline of the mountains. `[真题]`
+>   - 中译：在远处，我们可以看到山脉模糊的轮廓。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/distance；
 > - It is another for the Prime Minister to distance herself from the policies of the government of which she is head. `[真题]`
+>   - 中译：首相与她所领导的政府的政策撇清关系则是另一回事。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/distance；
 
 
 ---

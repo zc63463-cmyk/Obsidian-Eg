@@ -129,8 +129,14 @@ em-（变体形式，源自拉丁语 *in-* 的加强形式）+ [[per]]（准备�
 
 > [!example]- 语料
 > - In the space of just ten years , her company has grown from one small retail outlet to a multi-million-dollar empire. `[例]`
+>   - 中译：在短短十年间，她的公司从一个小零售店发展成为一个价值数百万美元的商业帝国。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/empire；
 > - Entrepreneur Rocco Forte built his empire from budget hotels and motorway services. `[例]`
+>   - 中译：企业家罗科·福特从经济型酒店和公路服务站起家建立了自己的商业帝国。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/empire；
 > - Besides running a fashion empire, he also functioned as director of no less than three banks. `[例]`
+>   - 中译：除了经营一个时尚帝国外，他还担任了不少于三家银行的董事。；
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/empire；
 
 
 ---

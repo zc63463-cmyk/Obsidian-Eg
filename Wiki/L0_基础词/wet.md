@@ -124,8 +124,14 @@ review_count: 0
 
 > [!example]- 语料
 > - It was still wet underfoot after the heavy rain. `[真题]`
+>   - 中译：大雨过后，脚下仍然湿漉漉的。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/wet；
 > - Fielding nervously wet his lips and tried to smile. `[真题]`
+>   - 中译：菲尔丁紧张地舔了舔嘴唇，试图微笑。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/wet；
 > - We've had a lot of wet weather this summer. `[真题]`
+>   - 中译：今年夏天我们经历了很多雨天。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/wet；
 
 
 ---

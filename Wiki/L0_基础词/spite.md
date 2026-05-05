@@ -131,8 +131,14 @@ review_count: 0
 
 > [!example]- 语料
 > - In spite of his injury , Ricardo will play in Saturday's match. `[例]`
+>   - 中译：尽管受伤了，里卡多仍将参加周六的比赛。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/spite；
 > - She started to laugh , in spite of herself. `[例]`
+>   - 中译：她不由自主地笑了起来。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/spite；
 > - I almost think he died without making a will just to spite his family. `[例]`
+>   - 中译：我几乎认为他故意不留遗嘱就去世了，就是为了报复他的家人。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/spite；
 
 
 ---

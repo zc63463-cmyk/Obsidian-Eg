@@ -124,8 +124,14 @@ jealous 源自古法语 *gelos*（现代法语 jaloux），来自拉丁语 *zēl
 
 > [!example]- 语料
 > - People are often jealous of those who achieve success through hard work. `[真题]`
+>   - 中译：人们常常嫉妒那些通过努力工作取得成功的人。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/jealous；
 > - She was fiercely jealous of her independence and refused to rely on anyone. `[真题]`
+>   - 中译：她极力维护自己的独立性，不愿依赖任何人。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/jealous；
 > - He gets really jealous if his girlfriend strikes up a friendship with another man. `[真题]`
+>   - 中译：如果他的女朋友和另一个男人交朋友，他就会非常嫉妒。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/jealous；
 
 
 ---

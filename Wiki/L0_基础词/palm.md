@@ -126,8 +126,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The tropical island was covered with lush palm trees that swayed gently in the warm ocean breeze. `[真题]`
+>   - 中译：这座热带岛屿上覆盖着茂密的棕榈树，在温暖的海风中轻轻摇曳。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/palm；
 > - Some unscrupulous traders attempted to palm off counterfeit goods to unsuspecting tourists at the local market. `[真题]`
+>   - 中译：一些不法商贩试图在当地市场将假冒商品骗卖给不知情的游客。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/palm；
 > - In 2023, the European Union enacted the EU Deforestation Regulation, preventing commodities linked with deforestation, including palm oil, from entering its market. `[真题]`
+>   - 中译：2023年，欧盟颁布了《欧盟反毁林条例》，阻止与毁林有关的商品（包括棕榈油）进入其市场。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/palm；
 
 
 ---

@@ -129,8 +129,14 @@ review_count: 0
 
 > [!example]- 语料
 > - I've got that film on tape (= recorded ) if you want to borrow it. `[例]`
+>   - 中译：如果你想借的话，我有那部电影的录像带。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/tape；
 > - If you give me a blank tape (= one with nothing on it) I'll record it for you. `[例]`
+>   - 中译：如果你给我一盒空白磁带，我帮你录下来。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/tape；
 > - Your tape deck has chewed up my cassette! `[例]`
+>   - 中译：你的卡带机把我的磁带给绞坏了！；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/tape；
 
 
 ---

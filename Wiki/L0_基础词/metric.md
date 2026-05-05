@@ -130,8 +130,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Most countries use the metric system. `[真题]`
+> - 中译：大多数国家使用公制。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/metric；
 > - The number of women in senior roles is a key metric for diversity. `[真题]`
+> - 中译：担任高级职位的女性数量是衡量多元化的一项关键指标。；
+> - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/metric；
 > - When employees' performance metrics dip, they are warned they could find themselves without a job. `[真题]`
+> - 中译：当员工的绩效指标下降时，他们会收到警告，可能会失去工作。；
+> - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/metric；
 
 
 ---

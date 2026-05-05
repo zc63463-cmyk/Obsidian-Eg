@@ -139,8 +139,14 @@ warn（基础词，古英语 *warnian*，可能与原始日耳曼语 *warjaną* 
 
 > [!example]- 语料
 > - Feeling threatened, companies responded by writing ever-longer warning labels, trying to anticipate every possible accident. `[真题]`
+>   - 中译：感到受到威胁后，公司通过编写越来越长的警告标签来应对，试图预判每一种可能的事故。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/warn；
 > - The Food Standards Authority has issued a public warning about the risks of a compound called acrylamide that forms in some foods cooked at high temperatures. `[真题]`
+>   - 中译：食品标准局发布了关于高温烹饪的某些食物中形成的丙烯酰胺化合物风险的公共警告。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/warn；
 > - Election officials have warned ministers that a postal strike could skew the election results in marginal seats. `[真题]`
+>   - 中译：选举官员警告部长们，邮政罢工可能会影响边缘选区的选举结果。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/warn；
 
 
 ---

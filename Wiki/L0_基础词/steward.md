@@ -126,8 +126,14 @@ stig-(=sty, 猪圈/厅堂，古英语 *stig* 房间) + [[st-sta-stat|weard]](看
 
 > [!example]- 语料
 > - If you need help at any time during the conference , one of the stewards will be pleased to help you. `[例]`
+>   - 中译：如果您在会议期间的任何时候需要帮助，任何一位工作人员都会很乐意帮助您。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/steward；
 > - He's the steward of the City of Wakefield's Working Men's Club. `[例]`
+>   - 中译：他是韦克菲尔德市工人俱乐部的管理员。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/steward；
 > - He has been a careful steward of our parks. `[例]`
+>   - 中译：他一直是我们公园的细心管理者。；
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/steward；
 
 
 ---

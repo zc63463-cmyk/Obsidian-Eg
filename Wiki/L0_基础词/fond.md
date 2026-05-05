@@ -128,8 +128,14 @@ review_count: 0
 
 > [!example]- 语料
 > - My brother is fond of pointing out my mistakes. `[例]`
+>   - 中译：我哥哥喜欢挑我的毛病。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fond；
 > - Many of us have fond memories of our childhoods. `[例]`
+>   - 中译：我们许多人都有对童年的美好回忆。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fond；
 > - We said a fond farewell to each other (= we said goodbye in a loving way) and promised to write. `[例]`
+>   - 中译：我们依依不舍地互相道别，并承诺会写信。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fond；
 
 
 ---

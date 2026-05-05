@@ -134,9 +134,14 @@ people 源自拉丁语 *populus*（人民、民族），经由古法语 *peple* 
 
 > [!example]- 语料
 > - Many people believe that technology will eventually solve our environmental problems. `[例]`
+  - 中译：许多人相信技术最终将解决我们的环境问题。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/people；
 > - The government of the people, by the people, for the people, shall not perish from the earth. `[例]`
+  - 中译：民有、民治、民享的政府，将不会从地球上消亡。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/people；
 > - In a government of the people, by the people, and for the people, the public cannot allow their vital role in the rulemaking process to be silenced. `[例]`
-
+  - 中译：在一个民有、民治、民享的政府中，公众不能允许自己在规则制定过程中的关键角色被压制。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/people；
 
 ---
 

@@ -130,8 +130,14 @@ halt "停止"源自德语 *halten*（握住、停止），与英语 [[hold]] 同
 
 > [!example]- 语料
 > - Halt!" called the guard . "You can't go any further without a permit. `[例]`
+  - 中译："站住！"警卫喊道。"没有通行证你不能继续前进。"；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/halt；
 > - Production has halted at all of the company's factories because of the pay dispute. `[例]`
+  - 中译：由于薪资纠纷，该公司所有工厂的生产都已停止。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/halt；
 > - Security forces halted the demonstrators by blocking the road. `[例]`
+  - 中译：安全部队通过封锁道路阻止了示威者。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/halt；
 
 
 ---

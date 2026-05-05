@@ -125,8 +125,14 @@ ex-(出、离开) + empt(拿取，拉丁语 *emere* 的过去分词 *emptus*) �
 
 > [!example]- 语料
 > - Small businesses have been exempted from the tax increase. `[例]`
+  - 中译：小企业被免于增税。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/exempt；
 > - Goods exempt from this tax include books and children's clothes. `[例]`
+  - 中译：免征此税的商品包括书籍和儿童服装。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/exempt；
 > - Pregnant women are exempt from dental charges under the current health system. `[例]`
+  - 中译：在现行医疗体系下，孕妇免缴牙科费用。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/exempt；
 
 
 ---

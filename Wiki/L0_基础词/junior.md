@@ -131,9 +131,17 @@ review_count: 0
 
 > [!example]- 语料
 > - He is a junior member of the research team. `[真题]`
+>   - 中译：他是研究团队的初级成员。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/junior；
 > - Our daughter is an honor student, taking three AP classes in her junior year. `[例]`
+>   - 中译：我们的女儿是一名优等生，在三年级修了三门AP课程。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/junior；
 > - She is a junior member of the marketing team, so she's still learning the ropes. `[例]`
+>   - 中译：她是营销团队的初级成员，所以还在摸索门道。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/junior；
 > - The junior partner at the law firm works closely with senior attorneys to gain experience. `[例]`
+>   - 中译：律师事务所的初级合伙人与资深律师密切合作以积累经验。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/junior；
 
 
 ---

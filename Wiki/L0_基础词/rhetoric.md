@@ -127,8 +127,14 @@ rhet-(说话/言辞) + -or(名词后缀) + -ic(与……有关的)
 
 > [!example]- 语料
 > - How far the president will be able to translate his campaign rhetoric into action remains to be seen. `[例]`
+  - 中译：总统能在多大程度上将他的竞选言辞转化为实际行动，还有待观察。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rhetoric；
 > - I was swayed by her rhetoric into donating all my savings to the charity. `[例]`
+  - 中译：我被她的花言巧语所打动，把所有积蓄都捐给了慈善机构。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/rhetoric；
 > - In reply to the question , he just produced a lot of empty (= meaningless ) rhetoric. `[例]`
+  - 中译：作为对那个问题的回答，他只是说了一堆空洞无意义的辞藻。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rhetoric；
 
 
 ---

@@ -132,8 +132,14 @@ review_count: 0
 
 > [!example]- 语料
 > - That old campaign slogan really means that there should be jobs and enough food for all citizens. `[例]`
+  - 中译：那个旧竞选口号的真正含义是所有公民都应该有工作和足够的食物。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/slogan；
 > - The company's advertising slogan in the 1970s and 1980s was "You can be sure of Shell". `[例]`
+  - 中译：这家公司在20世纪七八十年代的广告口号是'你可以信赖壳牌'。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/slogan；
 > - The crowd began chanting anti-government slogans. `[例]`
+  - 中译：人群开始高喊反政府口号。；
+  - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/slogan；
 
 
 ---

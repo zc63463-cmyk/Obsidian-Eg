@@ -129,8 +129,14 @@ if 源自古英语 *gif* "如果"，原始日耳曼语 *\*jabai*。有学者认�
 
 > [!example]- 语料
 > - If the evidence is weak, the committee will postpone the decision. `[例]`
+  - 中译：如果证据不足，委员会将推迟决定。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/if；
 > - Even if the plan is costly, some voters still support it. `[例]`
+  - 中译：即使这个计划代价高昂，一些选民仍然支持它。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/if；
 > - The manager asked if the report was ready for publication. `[例]`
+  - 中译：经理询问报告是否准备好发布了。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/if；
 
 
 ---

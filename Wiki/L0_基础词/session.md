@@ -137,8 +137,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The parliamentary session is due to end on 27 May. `[例]`
+  - 中译：议会会议定于5月27日结束。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/session
 > - The UN Security Council met in emergency session to discuss the crisis. `[例]`
+  - 中译：联合国安理会召开紧急会议讨论危机。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/session
 > - The 21-year-old runner twisted his ankle in a training session last Friday. `[例]`
+  - 中译：这位21岁的跑步运动员在上周五的训练中扭伤了脚踝。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/session
 
 
 ---

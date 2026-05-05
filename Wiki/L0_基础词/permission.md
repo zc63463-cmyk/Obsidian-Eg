@@ -127,10 +127,17 @@ per-（完全，贯穿，[[per]]）+ miss（送，拉丁语 *mittere*）+ -ion�
 
 > [!example]- 语料
 > - You will need permission from your parents to go on the trip. `[例]`
+  - 中译：你需要父母的允许才能去旅行。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/permission；
 > - Official permission has been granted for more building near the river. `[例]`
+  - 中译：官方已批准在河附近进行更多建设。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/permission；
 > - The authorities have refused permission for the demonstration to take place. `[例]`
+  - 中译：当局拒绝了允许举行示威活动的申请。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/permission；
 > - Planning permission was refused for the proposed superstore. `[例]`
-
+  - 中译：拟议的大型超市的规划许可被拒绝。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/permission；
 
 ---
 

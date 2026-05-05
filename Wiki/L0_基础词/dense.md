@@ -128,8 +128,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The plane crashed in heavy rain and dense fog. `[例]`
+  - 中译：森林茂密而幽暗。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/dense；
 > - The body was found hidden in dense undergrowth. `[例]`
+  - 中译：该地区人口稠密。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/dense；
 > - Plutonium is very dense. `[例]`
+  - 中译：他的文章内容晦涩，难以理解。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/dense；
 
 
 ---

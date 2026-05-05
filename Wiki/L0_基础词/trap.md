@@ -130,8 +130,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The undercover agents went to the rendezvous knowing that it might be a trap. `[例]`
+>   - 中译：卧底特工前往会面地点，心里清楚这可能是一个陷阱。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/trap；
 > - She's too smart to fall into the trap of working without pay. `[例]`
+>   - 中译：她很聪明，不会陷入无偿工作的陷阱。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/trap；
 > - Oh, shut your trap (= stop talking ) - I don't want to hear it anymore! `[例]`
+>   - 中译：哦，闭嘴——我不想再听了！；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/trap；
 
 
 ---

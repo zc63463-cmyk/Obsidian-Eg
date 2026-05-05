@@ -134,8 +134,14 @@ review_count: 0
 
 > [!example]- 语料
 > - A whale passed by in all its majesty. `[COCA-NEWS]`
+> -   - 中译：一头鲸鱼以其全部的壮丽姿态从旁边游过；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/majesty；
 > - The performance begins at eight o'clock, Your Majesty. `[COCA-FICT]`
+> -   - 中译：演出八点开始，陛下；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/majesty；
 > - The majesty of the law treats all as equals, regardless of wealth. `[例]`
+> -   - 中译：法律的威严面前人人平等，不论贫富；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/majesty；
 
 
 ---

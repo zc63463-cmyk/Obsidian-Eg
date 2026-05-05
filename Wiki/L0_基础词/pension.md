@@ -130,9 +130,14 @@ pens（支付，拉丁语 *pendere*，称量/支付）+ -ion（名词后缀）
 
 > [!example]- 语料
 > - The government has proposed reforms to the public sector pension scheme. `[例]`
+  - 中译：政府提出了公共部门养老金计划的改革方案。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pension；
 > - He retired on a generous pension from the company. `[例]`
+  - 中译：他退休后享受公司发放的丰厚养老金。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/pension；
 > - The Chancellor announced a miserly 75p a week rise in the state pension. `[例]`
-
+  - 中译：财政大臣宣布国家养老金每周仅增加75便士，少得可怜。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/pension；
 
 ---
 

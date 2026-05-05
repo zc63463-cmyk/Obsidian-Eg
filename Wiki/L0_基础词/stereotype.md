@@ -126,8 +126,14 @@ stereo-(立体的/固定的，希腊语 *stereos* 坚硬的) + type(印/类型�
 
 > [!example]- 语料
 > - The characters in the book are just stereotypes. `[例]`
+>   - 中译：书中的角色只是刻板印象。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/stereotype；
 > - The study claims that British advertising stereotypes women. `[例]`
+>   - 中译：该研究声称英国广告对女性存在刻板印象。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/stereotype；
 > - We tried not to give the children sexually stereotyped toys. `[例]`
+>   - 中译：我们尽量避免给孩子们带有性别刻板印象的玩具。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/stereotype；
 
 
 ---

@@ -131,8 +131,14 @@ theft 源自古英语 *þēofþ*（偷窃），与 [[thieve]]（偷窃）同源�
 
 > [!example]- 语料
 > - Unfortunately, we have had several thefts in the building recently. `[例]`
+>   - 中译：不幸的是，我们这栋楼最近发生了几起盗窃案。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/theft；
 > - They are at an increased risk of identity theft. `[真题]`
+>   - 中译：他们面临更高的身份盗窃风险。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/theft；
 > - Theft was by far the most common offense. `[例]`
+>   - 中译：盗窃是迄今为止最常见的违法行为。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/theft；
 
 
 ---

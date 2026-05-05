@@ -128,8 +128,14 @@ review_count: 0
 
 > [!example]- 语料
 > - He has some very strange ideas about women! `[例]`
+>   - 中译：他对女性有一些非常奇怪的想法！；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/strange；
 > - I had a strange feeling that we'd met before. `[例]`
+>   - 中译：我有一种奇怪的感觉，觉得我们以前见过面。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/strange；
 > - It's strange that tourists almost never visit this village. `[例]`
+>   - 中译：奇怪的是，游客几乎从不来这个村庄。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/strange；
 
 
 ---

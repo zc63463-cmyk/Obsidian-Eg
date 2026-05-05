@@ -132,8 +132,14 @@ hijack 是一个复合词，由 **high**（高的）+ **jack**（杰克，俚语
 
 > [!example]- 语料
 > - He resents the way his ideas have been hijacked by others in the department. `[例]`
+  - 中译：他怨恨自己的想法被部门里的其他人窃取利用。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hijack；
 > - The hijack ended with the release of all the plane's passengers unharmed. `[例]`
+  - 中译：劫机事件以所有乘客安全获释而告终。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hijack；
 > - He’s a leading suspect in the hijacking of the jetliner. `[例]`
+  - 中译：他是这起客机劫持案的主要嫌疑人。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hijack；
 
 
 ---

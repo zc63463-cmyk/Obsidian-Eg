@@ -121,8 +121,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Our French dictation lasted half an hour. `[例]`
+  - 中译：我们的法语听写持续了半小时。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/dictation；
 > - Can we get someone from the agency who takes dictation? `[例]`
+  - 中译：我们能从中介找一个能做笔录的人吗？；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/dictation；
 > - An assistant will take your dictation over the phone and send a fax or email to your recipient. `[例]`
+  - 中译：助手将通过电话为您做笔录，并将传真或电子邮件发送给您的收件人。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/dictation；
 
 
 ---

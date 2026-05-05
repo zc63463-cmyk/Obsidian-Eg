@@ -132,8 +132,14 @@ review_count: 0
 
 > [!example]- 语料
 > - She felt a great sense of pride as she watched him accept the award. `[例]`
+>   - 中译：看着他领奖时，她感到无比自豪。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pride；
 > - He felt such pride walking his little daughter down the street. `[例]`
+>   - 中译：牵着小女儿走在街上，他感到非常自豪。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pride；
 > - She has too much pride to accept any help. `[例]`
+>   - 中译：她自尊心太强，不愿接受任何帮助。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pride；
 
 
 ---

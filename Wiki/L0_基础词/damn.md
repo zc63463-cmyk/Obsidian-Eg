@@ -139,8 +139,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Damn, I've spilled coffee down my blouse! `[例]`
+  - 中译：该死，我把咖啡洒到衬衫上了！；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/damn；
 > - Damn, that tastes good. `[例]`
+  - 中译：该死，这味道真好。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/damn；
 > - I don't brag very often, but damn, I'm going to brag about this! `[例]`
+  - 中译：我不常吹牛，但该死的，这件事我一定要炫耀一下！；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/damn；
 
 
 ---

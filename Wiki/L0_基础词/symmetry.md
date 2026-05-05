@@ -122,9 +122,17 @@ review_count: 0
 
 > [!example]- 语料
 > - The human body shows bilateral symmetry. `[真题]`
+>   - 中译：人体表现出左右对称。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/symmetry；
 > - The symmetry of the building is one of its most striking features. `[真题]`
+>   - 中译：这座建筑的对称性是其最引人注目的特征之一。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/symmetry；
 > - The flowers are tubular with bilateral symmetry, indicating adaptations for insect pollination. `[例]`
+>   - 中译：这些花呈管状，具有左右对称性，表明它们适应了昆虫授粉。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/symmetry；
 > - Many external features of the body, such as arms, have bilateral symmetry. `[例]`
+>   - 中译：身体的许多外部特征，如手臂，都具有左右对称性。；
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/symmetry；
 
 
 ---

@@ -127,8 +127,14 @@ review_count: 0
 
 > [!example]- 语料
 > - She doesn't like lending her books. `[例]`
+> -   - 中译：她不喜欢把书借给别人；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lend；
 > - If you need a coat I can lend one to you. `[例]`
+> -   - 中译：如果你需要外套，我可以借你一件；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lend；
 > - If you need a coat I can lend you one. `[例]`
+> -   - 中译：如果你需要外套，我可以借你一件；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lend；
 
 
 ---

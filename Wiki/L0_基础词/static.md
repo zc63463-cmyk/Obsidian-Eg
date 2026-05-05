@@ -130,8 +130,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Oil prices have remained static for the last few months. `[例]`
+>   - 中译：过去几个月油价一直保持不变。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/static；
 > - It is a static website that presents brief and standard advice on stopping smoking. `[例]`
+>   - 中译：这是一个静态网站，提供关于戒烟的简短标准建议。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/static；
 > - Like a printed book , a static web document can be several years old. `[例]`
+>   - 中译：像印刷书籍一样，静态网页文档可能已经有好几年了。；
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/static；
 
 
 ---

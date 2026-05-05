@@ -127,8 +127,14 @@ echo 源自希腊神话中 Echo（厄科），一位只能重复别人最后几�
 
 > [!example]- 语料
 > - He could hear eerie noises echoing through the corridors. `[真题]`
+>   - 中译：他能听到诡异的噪音在走廊里回荡。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/echo；
 > - Her comments were an echo of remarks made by the Prime Minister earlier in the week. `[真题]`
+>   - 中译：她的评论是对首相本周早些时候讲话的呼应。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/echo；
 > - The political upheavals find an echo in the art of the time. `[真题]`
+>   - 中译：政治动荡在那个时代的艺术中得到了回响。；
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/echo；
 
 
 ---

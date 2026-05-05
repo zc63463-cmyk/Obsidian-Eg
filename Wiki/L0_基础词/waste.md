@@ -135,8 +135,14 @@ review_count: 0
 
 > [!example]- 语料
 > - These meetings are a complete waste of time. `[真题]`
+>   - 中译：这些会议完全是浪费时间。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/waste；
 > - The government needs to invest more in waste disposal and recycling facilities. `[真题]`
+>   - 中译：政府需要在废物处理和回收设施上投入更多。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/waste；
 > - Detractors warn against a serious waste of resources and describe the proposal as obscure. `[真题]`
+>   - 中译：批评者警告不要严重浪费资源，并称该提案含糊不清。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/waste；
 
 
 ---

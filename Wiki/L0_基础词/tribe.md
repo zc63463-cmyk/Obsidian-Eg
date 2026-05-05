@@ -124,8 +124,14 @@ review_count: 0
 
 > [!example]- 语料
 > - A tribe of Amazonian Indians. `[例]`
+>   - 中译：一个亚马孙印第安部落。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/tribe；
 > - We invited Carol's sisters and brothers and their families - the whole Cassidy tribe. `[例]`
+>   - 中译：我们邀请了卡罗尔的兄弟姐妹及其家人——整个卡西迪家族。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/tribe；
 > - She has studied Native American tribes from Mexico to Maine. `[例]`
+>   - 中译：她研究了从墨西哥到缅因州的北美原住民部落。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/tribe；
 
 
 ---

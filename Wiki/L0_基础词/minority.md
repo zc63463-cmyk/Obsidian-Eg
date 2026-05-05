@@ -122,8 +122,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Only a minority of students supported the proposed changes. `[真题]`
+> - 中译：只有少数学生支持拟议的变更。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/minority；
 > - It's only a tiny minority of people who are causing the problem. `[例]`
+> - 中译：造成问题的只是一小部分人。；
+> - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/minority；
 > - Children with single parents at my school were very much in the minority (= there were very few). `[例]`
+> - 中译：在我学校里，单亲家庭的孩子是极少数。；
+> - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/minority；
 
 
 ---

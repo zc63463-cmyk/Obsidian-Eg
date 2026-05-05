@@ -132,9 +132,17 @@ review_count: 0
 
 > [!example]- 语料
 > - The children were lively and always up to mischief. `[真题]`
+> - 中译：孩子们活泼好动，总是调皮捣蛋。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/mischief；
 > - Jacob's a typical little boy — full of mischief. `[真题]`
+> - 中译：雅各布是个典型的小男孩——调皮捣蛋。；
+> - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/mischief；
 > - That child seems incapable of keeping out of mischief. `[真题]`
+> - 中译：那孩子似乎总是免不了惹是生非。；
+> - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/mischief；
 > - There was a glint of mischief in his eyes. `[真题]`
+> - 中译：他眼中闪过一丝调皮的光芒。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/mischief；
 
 
 ---

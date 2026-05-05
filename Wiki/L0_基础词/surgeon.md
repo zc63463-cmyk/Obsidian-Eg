@@ -118,8 +118,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The surgeon performed a delicate operation to remove the brain tumor. `[真题]`
+>   - 中译：外科医生做了一台精细的手术来切除脑肿瘤。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/surgeon；
 > - The surgeon did everything in her power to save the patient's life. `[真题]`
+>   - 中译：外科医生竭尽全力拯救患者的生命。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/surgeon；
 > - He decided to become a surgeon after a successful operation on his knee. `[真题]`
+>   - 中译：在膝盖手术成功后，他决定成为一名外科医生。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/surgeon；
 
 
 ---

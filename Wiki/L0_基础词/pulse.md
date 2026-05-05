@@ -132,8 +132,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Exercise increases your pulse rate. `[例]`
+>   - 中译：运动会使你的脉搏加快。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pulse；
 > - The data , normally transmitted electronically , can be changed into pulses of light. `[例]`
+>   - 中译：通常以电子方式传输的数据可以转换为光脉冲。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pulse；
 > - Give the mixture a pulse or two until it is broken down. `[例]`
+>   - 中译：将混合物搅拌一两下，直到它被打散。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pulse；
 
 
 ---

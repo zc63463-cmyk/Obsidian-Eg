@@ -130,8 +130,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Thanks so much for doing that. You're a saint. `[例]`
+  - 中译：非常感谢你做了那件事。你真是个大好人。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/saint
 > - Your mother's a saint. She's done so much to help us. `[例]`
+  - 中译：你母亲是个大好人。她帮了我们这么多。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/saint
 > - Here also are conserved the remains of St Stanislaus, the patron saint of the Poles. `[例]`
+  - 中译：这里还保存着波兰主保圣人圣斯坦尼斯瓦夫的遗骸。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/saint
 
 
 ---

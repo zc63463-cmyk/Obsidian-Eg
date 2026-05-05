@@ -133,9 +133,17 @@ review_count: 0
 
 > [!example]- 语料
 > - My nephew likes junk food such as chips and cola. `[例]`
+>   - 中译：我侄子喜欢薯片和可乐之类的垃圾食品。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/junk；
 > - It will take a lot of time to repair the car, so I'm going to junk it. `[例]`
+>   - 中译：修这辆车要花很多时间，所以我打算把它报废。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/junk；
 > - The food industry was warned to stop advertising junk food to children within a year or face a clampdown. `[例]`
+>   - 中译：食品行业被警告在一年内停止向儿童投放垃圾食品广告，否则将面临严厉打击。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/junk；
 > - I always make sure to mark emails as junk if they are from unknown senders. `[例]`
+>   - 中译：如果邮件来自未知发件人，我总是会将其标记为垃圾邮件。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/junk；
 
 
 ---

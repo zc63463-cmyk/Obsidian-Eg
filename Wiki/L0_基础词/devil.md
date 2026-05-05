@@ -135,8 +135,14 @@ devil 源自晚期拉丁语 *diabolus*（魔鬼、撒旦），来自教会希腊
 
 > [!example]- 语料
 > - I'm going to wear a short black skirt and thigh-length boots ." "Ooh, you devil! `[例]`
+  - 中译：我要穿一条黑色短裙和及大腿的长靴。"哦，你这个小恶魔！；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/devil；
 > - Have another slice of cake - go on, be a devil! `[例]`
+  - 中译：再吃一块蛋糕吧——来吧，放纵一下！；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/devil；
 > - He's been ill for weeks , poor devil. `[例]`
+  - 中译：他已经病了好几个星期了，可怜的家伙。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/devil；
 
 
 ---

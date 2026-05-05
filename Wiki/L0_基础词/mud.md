@@ -125,8 +125,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The vehicles got bogged down in the heavy mud. `[例]`
+> - 中译：车辆陷入了厚厚的泥泞中。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/mud；
 > - Modern houses have replaced the one-room mud huts with grass roofs that had been home to generations of peasants. `[例]`
+> - 中译：现代房屋取代了一代代农民居住的单间草顶泥屋。；
+> - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/mud；
 > - He got out of the car and squelched through the mud to open the gate. `[例]`
+> - 中译：他下了车，踩着泥泞走过去开门。；
+> - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/mud；
 
 
 ---

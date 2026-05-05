@@ -132,9 +132,17 @@ review_count: 0
 
 > [!example]- 语料
 > - He wants the job purely for reasons of vanity and ambition. `[例]`
+>   - 中译：他想得到这份工作纯粹是出于虚荣心和野心。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/vanity；
 > - The new bridge was quickly condemned as a pointless vanity project, intended to enhance the reputation of the mayor. `[例]`
+>   - 中译：新桥很快被谴责为一个毫无意义的面子工程，旨在提升市长的声誉。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/vanity；
 > - Clearly, ambition and vanity played a huge part. `[例]`
+>   - 中译：显然，野心和虚荣心起了很大作用。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/vanity；
 > - Vanity is her chief fault. `[例]`
+>   - 中译：虚荣是她的主要缺点。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/vanity；
 
 
 ---

@@ -124,8 +124,14 @@ forth 源自古英语 *forth*，与 fore（前面）同源，表示"向前"的�
 
 > [!example]- 语料
 > - They set forth on their travels in early June. `[例]`
+>   - 中译：他们在六月初出发旅行。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/forth；
 > - As we set off into the forest , we felt as though we were venturing forth into the unknown. `[例]`
+>   - 中译：当我们出发进入森林时，感觉就像是在向未知世界进发。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/forth；
 > - Stress brings forth a " fight or flight " reaction in the body. `[例]`
+>   - 中译：压力会在人体中引发"战斗或逃跑"反应。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/forth；
 
 
 ---

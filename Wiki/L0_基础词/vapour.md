@@ -130,9 +130,17 @@ review_count: 0
 
 > [!example]- 语料
 > - The hollow glass tank contains hot mercury vapour. `[例]`
+>   - 中译：空心玻璃罐中含有热汞蒸气。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/vapour；
 > - Poisonous vapours burst out of the factory during the accident. `[例]`
+>   - 中译：事故发生时，有毒蒸气从工厂中喷出。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/vapour；
 > - Warm air is able to hold more water vapour than cold air. `[例]`
+>   - 中译：暖空气比冷空气能容纳更多的水蒸气。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/vapour；
 > - During the evening, the water vapour condensed on the internal components of the wall panel when the ambient air temperature dropped. `[例]`
+>   - 中译：傍晚时分，当环境空气温度下降时，水蒸气凝结在墙板内部组件上。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/vapour；
 
 
 ---

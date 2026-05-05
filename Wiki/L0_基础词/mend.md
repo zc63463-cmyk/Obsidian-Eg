@@ -131,9 +131,17 @@ mend 源自古英语 *mendian*（修复），可能与拉丁语 *mendax*（错�
 
 > [!example]- 语料
 > - We don't have to learn how to be mentally healthy; it is built into us in the same way that our bodies know how to heal a cut or mend a broken bone. `[真题]`
+> - 中译：我们不必学习如何保持心理健康；这是与生俱来的，就像我们的身体知道如何愈合伤口或修复断骨一样。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/mend；
 > - I felt that might well mend the rift between them. `[真题]`
+> - 中译：我觉得那很可能会修复他们之间的裂痕。；
+> - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/mend；
 > - Luckily they were able to mend the car on the spot. `[真题]`
+> - 中译：幸运的是，他们当场就把车修好了。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/mend；
 > - He has promised drastic disciplinary action if they do not mend their ways. `[真题]`
+> - 中译：他承诺如果他们不改过自新，将采取严厉的纪律处分。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/mend；
 
 
 ---

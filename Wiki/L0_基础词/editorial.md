@@ -133,8 +133,14 @@ editor（编辑）+ -ial（形容词后缀，表示"……的"）。editor 源�
 
 > [!example]- 语料
 > - The paper published an editorial strongly criticizing the mayor's actions. `[例]`
+>   - 中译：报纸发表了一篇社论，强烈批评市长的行为。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/editorial；
 > - The Athletic maintains full editorial independence. `[例]`
+>   - 中译：The Athletic保持完全的编辑独立性。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/editorial；
 > - The magazine's editorial team decided to run an editorial on the importance of climate change. `[例]`
+>   - 中译：杂志的编辑团队决定发表一篇关于气候变化重要性的社论。；
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/editorial；
 
 
 ---

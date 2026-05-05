@@ -138,8 +138,14 @@ review_count: 0
 
 > [!example]- 语料
 > - After several rounds of negotiations, the two sides finally reached an agreement. `[真题]`
+  - 中译：经过几轮谈判，双方终于达成了一致。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/round
 > - Rescuers are working round the clock to find survivors of the blast. `[真题]`
+  - 中译：救援人员正在日夜不停地寻找爆炸的幸存者。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/round
 > - The park is open all year round and attracts thousands of visitors every month. `[真题]`
+  - 中译：这个公园全年开放，每月吸引数千名游客。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/round
 
 
 ---

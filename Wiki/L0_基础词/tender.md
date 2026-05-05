@@ -142,8 +142,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The head teacher tendered her resignation this morning after the school failed its inspection. `[真题]`
+>   - 中译：校长在学校未能通过检查后于今天上午提交了辞呈。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/tender；
 > - Local firms were invited to tender for the building contract. `[真题]`
+>   - 中译：当地公司被邀请竞标该建筑合同。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/tender；
 > - Five companies have tendered for the hospital contract. `[真题]`
+>   - 中译：五家公司已提交了医院合同的投标。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/tender；
 
 
 ---

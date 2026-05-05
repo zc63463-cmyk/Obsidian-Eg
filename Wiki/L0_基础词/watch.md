@@ -134,8 +134,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Well, I guess I'd sell my watch or computer or do some odd jobs till I could afford a return plane ticket. `[真题]`
+>   - 中译：嗯，我想我会卖掉手表或电脑，或者打些零工，直到我能买得起返程机票。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/watch；
 > - To avoid self-deception, watch out for excuses and try this test: ask yourself how you would feel if your actions were public. `[真题]`
+>   - 中译：为了避免自欺欺人，请注意借口并尝试这个测试：问问自己如果你的行为被公开，你会有什么感受。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/watch；
 > - Tom made a list of potential problems that we should watch out for. `[真题]`
+>   - 中译：汤姆列出了我们应该注意的潜在问题清单。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/watch；
 
 
 ---

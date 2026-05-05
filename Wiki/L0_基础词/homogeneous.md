@@ -125,8 +125,14 @@ homo-(相同，希腊语 *homos* "相同") + [[gen]](种类/产生，拉丁语 *
 
 > [!example]- 语料
 > - The population of the village has remained remarkably homogeneous. `[例]`
+  - 中译：这个村庄的人口一直保持着显著的同质性。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/homogeneous；
 > - Like the other valley towns , this was once a fairly homogeneous Anglo community. `[例]`
+  - 中译：像其他山谷小镇一样，这里曾经是一个相当同质的盎格鲁社区。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/homogeneous；
 > - A culturally homogeneous society. `[例]`
+  - 中译：一个文化同质化的社会。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/homogeneous；
 
 
 ---

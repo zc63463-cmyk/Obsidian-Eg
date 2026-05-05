@@ -132,8 +132,14 @@ dec-/decen-(恰当的，合适的，拉丁语 *decere*) + -ent(形容词后缀�
 
 > [!example]- 语料
 > - I thought he was a decent person. `[例]`
+  - 中译：我认为他是一个正派的人。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/decent；
 > - It was very decent (= kind ) of you to help. `[例]`
+  - 中译：你帮忙真是太好了。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/decent；
 > - It made quite a decent-sized (= large ) hole. `[例]`
+  - 中译：它弄出了一个相当大的洞。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/decent；
 
 
 ---

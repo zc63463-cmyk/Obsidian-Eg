@@ -128,8 +128,14 @@ review_count: 0
 
 > [!example]- 语料
 > - During peak hours , the bus will run at 10-minute intervals. `[例]`
+>   - 中译：高峰时段，公交车将每隔10分钟一班。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/interval；
 > - The tests should be repeated at six-week intervals. `[例]`
+>   - 中译：测试应每六周重复一次。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/interval；
 > - In the event of fire , the alarm will sound at intervals of 15 seconds. `[例]`
+>   - 中译：如发生火灾，警报将每隔15秒响一次。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/interval；
 
 
 ---

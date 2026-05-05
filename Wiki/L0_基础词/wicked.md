@@ -130,8 +130,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The researchers proposed a wicked solution to the problem. `[例]`
+>   - 中译：研究人员提出了一个巧妙的解决方案。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/wicked；
 > - The company adopted a wicked approach to improve efficiency. `[例]`
+>   - 中译：公司采用了一种高效的方法来提高效率。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/wicked；
 > - The plan offers a wicked option for small organizations. `[例]`
+>   - 中译：该计划为小型组织提供了一个出色的选项。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/wicked；
 
 
 ---

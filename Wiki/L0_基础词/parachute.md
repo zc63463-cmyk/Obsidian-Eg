@@ -130,9 +130,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Airborne troops were dropped by parachute behind enemy lines. `[真题]`
+  - 中译：空降部队通过降落伞空投到敌后。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/parachute；
 > - As a result, they have lost the parachute they once had in times of financial setback — a back-up earner (usually Mom) who could go into the workforce if the primary earner got laid off or fell sick. `[真题]`
+  - 中译：结果，他们失去了在经济困难时期曾经拥有的安全网——当主要收入者被解雇或生病时可以进入职场的后备赚钱者（通常是母亲）。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/parachute；
 > - I negotiated a large golden parachute when I joined the company. `[例]`
-
+  - 中译：我加入公司时谈妥了一笔丰厚的离职补偿金。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/parachute；
 
 ---
 

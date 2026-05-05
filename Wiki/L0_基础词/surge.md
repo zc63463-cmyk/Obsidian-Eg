@@ -127,8 +127,14 @@ review_count: 0
 
 > [!example]- 语料
 > - There has been a surge in the number of people working from home. `[真题]`
+>   - 中译：在家工作的人数出现了激增。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/surge；
 > - A surge of anger swept over him when he heard the news. `[真题]`
+>   - 中译：听到这个消息时，一股怒火涌上他的心头。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/surge；
 > - The crowd surged forward through the gates after the concert ended. `[真题]`
+>   - 中译：音乐会结束后，人群涌向大门。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/surge；
 
 
 ---

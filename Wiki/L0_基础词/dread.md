@@ -129,8 +129,14 @@ dread 源自古英语 *adrædan*（害怕，恐惧），缩写自 *ondrædan*，
 
 > [!example]- 语料
 > - She dreaded having to tell her parents the bad news. `[真题]`
+>   - 中译：她害怕不得不把这个坏消息告诉父母。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/dread；
 > - He dreaded the prospect of being all alone in that house. `[真题]`
+>   - 中译：他害怕独自一人待在那栋房子里。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/dread；
 > - I dread to think what will happen if they get elected. `[真题]`
+>   - 中译：我不敢想象如果他们当选会发生什么。；
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/dread；
 
 
 ---

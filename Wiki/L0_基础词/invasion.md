@@ -127,8 +127,14 @@ in-(=into, 进入) + vad(=走，拉丁语 *vadere* "走") + -ion(名词后缀，
 
 > [!example]- 语料
 > - The invasion of privacy by social media has raised widespread concern. `[真题]`
+>   - 中译：社交媒体对隐私的侵犯引发了广泛关注。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/invasion；
 > - The country suffered a series of foreign invasions throughout its history. `[例]`
+>   - 中译：该国历史上遭受了一系列外敌入侵。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/invasion；
 > - The singer described the photographs of her as an invasion of privacy. `[例]`
+>   - 中译：这位歌手称那些她的照片是对隐私的侵犯。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/invasion；
 
 
 ---

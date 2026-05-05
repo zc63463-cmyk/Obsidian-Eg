@@ -129,8 +129,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The blood tests revealed a deficiency in certain key minerals and vitamins. `[例]`
+  - 中译：血液检测显示某些关键矿物质和维生素缺乏。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/deficiency；
 > - As the game went on, the team's deficiency was obvious. `[例]`
+  - 中译：缺乏维生素可能导致疾病。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/deficiency；
 > - They are not permitted to borrow additional funds as long as any deficiency exists in the capital reserve fund. `[例]`
+  - 中译：降雨不足导致了严重干旱。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/deficiency；
 
 
 ---

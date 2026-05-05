@@ -119,8 +119,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The various regional dialects are still spoken locally. `[例]`
+  - 中译：各种地方方言在当地仍然被使用。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/dialect；
 > - The poem is written in northern dialect. `[例]`
+  - 中译：这首诗是用北方方言写的。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/dialect；
 > - The author uses dialect in his writing. `[例]`
+  - 中译：作者在写作中使用了方言。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/dialect；
 
 
 ---

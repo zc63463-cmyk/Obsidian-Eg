@@ -134,8 +134,14 @@ no(没有) + where(地方)
 
 > [!example]- 语料
 > - These young people have nowhere ( else ) to go. `[例]`
+>   - 中译：这些年轻人无处可去。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/nowhere；
 > - Nowhere does the article mention the names of the people involved. `[例]`
+>   - 中译：这篇文章任何地方都没有提到涉及人员的名字。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/nowhere；
 > - The horse I bet on finished nowhere. `[例]`
+>   - 中译：我押的那匹马名落孙山。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/nowhere；
 
 
 ---

@@ -129,8 +129,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Be careful with that vase - it's very fragile. `[例]`
+>   - 中译：小心那个花瓶——它非常易碎。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fragile；
 > - Some of the more fragile items are kept in a locked case. `[例]`
+>   - 中译：一些比较易碎的物品被保存在锁好的柜子里。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fragile；
 > - The assassination could end the fragile peace agreement that was signed last month. `[例]`
+>   - 中译：这次暗杀可能会终结上个月签署的脆弱和平协议。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fragile；
 
 
 ---

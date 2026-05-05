@@ -134,8 +134,14 @@ review_count: 0
 
 > [!example]- 语料
 > - A thick layer of clay lies over the sandstone. `[例]`
+>   - 中译：砂岩上方覆盖着一层厚厚的黏土。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/layer；
 > - There was a thin layer of oil on the surface of the water. `[例]`
+>   - 中译：水面上一层薄薄的油。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/layer；
 > - We stripped several layers of paint off the door. `[例]`
+>   - 中译：我们剥掉了门上的好几层油漆。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/layer；
 
 
 ---

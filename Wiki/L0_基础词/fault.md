@@ -141,8 +141,14 @@ review_count: 0
 
 > [!example]- 语料
 > - It's not my fault she didn't come! `[例]`
+  - 中译：她没来不是我的错！；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fault；
 > - She believes it was the doctor's fault that Peter died. `[例]`
+  - 中译：她认为彼得之死是医生的过错。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fault；
 > - The fault was with the organizers , who failed to make the necessary arrangements for dealing with so many people. `[例]`
+  - 中译：问题出在组织者身上，他们没有为应对这么多人做好必要的安排。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fault；
 
 
 ---

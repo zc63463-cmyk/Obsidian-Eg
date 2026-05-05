@@ -132,8 +132,14 @@ idle 源自古英语 *īdel* "空的、无价值的、无用的"，原始西日�
 
 > [!example]- 语料
 > - Half these factories now stand idle. `[例]`
+  - 中译：这些工厂现在有一半闲置着。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/idle；
 > - It's crazy to have £7,000 sitting idle in the bank. `[例]`
+  - 中译：让7000英镑在银行里闲置不动真是太浪费了。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/idle；
 > - If you have an idle moment , call me. `[例]`
+  - 中译：如果你有空闲时间，给我打电话。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/idle；
 
 
 ---

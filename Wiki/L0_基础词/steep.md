@@ -131,8 +131,14 @@ review_count: 0
 
 > [!example]- 语料
 > - It's a steep climb to the top of the mountain , but the view is worth it. `[例]`
+>   - 中译：爬到山顶的路很陡，但风景值得一看。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/steep；
 > - They are having to face very steep taxes. `[例]`
+>   - 中译：他们不得不面对非常高的税收。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/steep；
 > - We enjoyed our meal at the restaurant , but the bill was a bit steep. `[例]`
+>   - 中译：我们在那家餐厅用餐很愉快，但账单有点贵。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/steep；
 
 
 ---

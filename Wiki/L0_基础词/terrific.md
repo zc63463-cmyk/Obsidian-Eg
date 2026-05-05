@@ -130,8 +130,14 @@ terr-（恐惧，拉丁语 *terrere*）+ -ific（使动后缀，= -fic + -i-）
 
 > [!example]- 语料
 > - She did a terrific job on the presentation. `[真题]`
+>   - 中译：她的演示做得非常出色。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/terrific；
 > - The police car drove past at a terrific speed. `[真题]`
+>   - 中译：警车以极快的速度驶过。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/terrific；
 > - The plan offers a terrific option for small organizations. `[真题]`
+>   - 中译：该计划为小型组织提供了一个极好的选择。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/terrific；
 
 
 ---

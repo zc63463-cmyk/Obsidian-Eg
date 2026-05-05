@@ -131,8 +131,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Half of the prisoners died after torture and starvation. `[例]`
+>   - 中译：一半的囚犯在遭受酷刑和饥饿后死亡。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/torture；
 > - He revealed the secret under torture. `[例]`
+>   - 中译：他在酷刑下泄露了秘密。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/torture；
 > - The rush-hour traffic was sheer torture as usual. `[例]`
+>   - 中译：像往常一样，高峰时段的交通简直是折磨。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/torture；
 
 
 ---

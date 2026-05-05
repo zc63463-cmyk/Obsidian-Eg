@@ -127,9 +127,17 @@ review_count: 0
 
 > [!example]- 语料
 > - We wish you a Merry Christmas and a Happy New Year! `[真题]`
+> - 中译：我们祝你圣诞快乐，新年快乐！；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/merry；
 > - The children's merry laughter filled the room. `[真题]`
+> - 中译：孩子们欢快的笑声充满了整个房间。；
+> - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/merry；
 > - Christmas is a time to eat, drink and make merry. `[真题]`
+> - 中译：圣诞节是吃喝欢乐的时光。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/merry；
 > - They spent a merry evening together by the fire. `[真题]`
+> - 中译：他们在炉火旁一起度过了一个愉快的夜晚。；
+> - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/merry；
 
 
 ---

@@ -127,8 +127,14 @@ review_count: 0
 
 > [!example]- 语料
 > - I brought a few trifles back from India - pieces of jewellery and fabric mainly. `[例]`
+>   - 中译：我从印度带回了一些小玩意——主要是首饰和布料。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/trifle；
 > - I'm a trifle confused about the arrangements for tonight. `[例]`
+>   - 中译：我对今晚的安排有点困惑。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/trifle；
 > - I have to say, his comment strikes me as a trifle disingenuous. `[例]`
+>   - 中译：我不得不说，他的评论让我觉得有点不真诚。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/trifle；
 
 
 ---

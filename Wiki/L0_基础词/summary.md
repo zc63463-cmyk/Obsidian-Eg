@@ -126,8 +126,14 @@ review_count: 0
 
 > [!example]- 语料
 > - In summary, the research findings support the hypothesis that early intervention is crucial. `[真题]`
+>   - 中译：总之，研究结果支持早期干预至关重要的假设。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/summary；
 > - What follows is a brief summary of the findings. `[真题]`
+>   - 中译：以下是对研究结果的简要总结。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/summary；
 > - In summary, we must aim to maintain a stable supply of crude oil while protecting the environment. `[真题]`
+>   - 中译：总之，我们必须在保护环境的同时，努力维持原油的稳定供应。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/summary；
 
 
 ---

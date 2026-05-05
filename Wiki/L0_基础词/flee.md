@@ -131,8 +131,14 @@ flee(逃跑，古英语 *flēon*)
 
 > [!example]- 语料
 > - Every year thousands of people flee the big cities in search of the rural idyll. `[例]`
+>   - 中译：每年有成千上万的人逃离大城市，寻找田园诗般的乡村生活。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/flee；
 > - War, famine and oppression have forced people in the region to flee from their homes. `[例]`
+>   - 中译：战争、饥荒和压迫迫使该地区的人们逃离家园。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/flee；
 > - He was caught trying to flee the country. `[例]`
+>   - 中译：他在试图逃离该国时被抓获。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/flee；
 
 
 ---

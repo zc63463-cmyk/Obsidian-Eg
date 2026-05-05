@@ -135,8 +135,14 @@ hollow（源自古英语 *holh* "洞，空处"，日耳曼语系，与 hole "洞
 
 > [!example]- 语料
 > - Hollow blocks are used because they are lighter. `[例]`
+  - 中译：使用空心砖是因为它们更轻。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hollow；
 > - He was an elderly man with hollow cheeks. `[例]`
+  - 中译：他是一位双颊凹陷的老人。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hollow；
 > - It was something of a hollow victory - she won the case , but lost all her savings in legal fees. `[例]`
+  - 中译：这算是一场空洞的胜利——她赢了官司，却在律师费上损失了所有积蓄。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hollow；
 
 
 ---

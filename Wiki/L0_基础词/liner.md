@@ -123,8 +123,14 @@ line(线，路线) + -er(名词后缀，表示"物")
 
 > [!example]- 语料
 > - Heat the oven to 170°C and fill your baking tin with paper cupcake liners. `[例]`
+> -   - 中译：将烤箱加热到170摄氏度，在烤盘里放入纸杯蛋糕纸托；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/liner；
 > - The plants growing on the roof sit on top of a waterproof liner. `[例]`
+> -   - 中译：屋顶上生长的植物放在防水衬垫上；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/liner；
 > - Using a black liquid liner, trace a line above your upper eyelashes. `[例]`
+> -   - 中译：用黑色液体眼线笔，在上睫毛上方画一条线；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/liner；
 
 
 ---

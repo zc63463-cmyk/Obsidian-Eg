@@ -129,8 +129,14 @@ review_count: 0
 
 > [!example]- 语料
 > - It is also not surprising that the wealthy are to be found fleeing war and persecution. `[真题]`
+>   - 中译：富人逃离战争和迫害也就不足为奇了。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/wealthy；
 > - With their natural resources they are potentially a very wealthy country. `[真题]`
+>   - 中译：凭借其自然资源，他们有潜力成为一个非常富裕的国家。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/wealthy；
 > - Another wide-open race can be found in Kennedy's old district, which stretches from wealthy Boston suburbs to working-class cities along the Rhode Island border. `[真题]`
+>   - 中译：肯尼迪的老选区是另一个竞争激烈的选区，从富裕的波士顿郊区一直延伸到罗德岛边境的工薪阶层城市。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/wealthy；
 
 
 ---

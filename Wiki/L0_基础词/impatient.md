@@ -129,8 +129,14 @@ im-(=in-, 不，否定前缀) + [[pati-patience|pat]](忍受，拉丁语 *pati*)
 
 > [!example]- 语料
 > - He's a good teacher , but inclined to be a bit impatient with slow learners. `[例]`
+  - 中译：他是一位好老师，但容易对学得慢的学生有些不耐烦。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/impatient；
 > - You'd be hopeless taking care of children - you're far too impatient! `[例]`
+  - 中译：你来照顾孩子肯定不行——你太不耐烦了！；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/impatient；
 > - He's got a lot of exciting ideas and he's impatient to get started. `[例]`
+  - 中译：他有很多令人兴奋的想法，迫不及待地想要开始。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/impatient；
 
 
 ---

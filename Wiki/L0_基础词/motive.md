@@ -133,8 +133,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Why would she have killed him? She has no motive. `[例]`
+> - 中译：她为什么要杀他？她没有动机。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/motive；
 > - Does he have a motive for lying about where he was? `[例]`
+> - 中译：他有撒谎隐瞒自己行踪的动机吗？；
+> - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/motive；
 > - What is the motive behind (= the reason for) the bombing? `[例]`
+> - 中译：这次爆炸背后的动机是什么？；
+> - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/motive；
 
 
 ---

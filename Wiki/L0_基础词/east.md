@@ -139,8 +139,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Wars in the Middle East, tax cuts for the wealthy and unfunded social welfare programs have the US on the brink of defaulting on its debt. `[真题]`
+>   - 中译：中东战争、富人减税和缺乏资金的社会福利项目使美国处于债务违约的边缘。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/east；
 > - Everybody's moving from the East coast to the West coast. `[真题]`
+>   - 中译：所有人都在从东海岸搬到西海岸。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/east；
 > - It has helped us to go beyond thinking in contrastive pairs, us and them, East and West. `[真题]`
+>   - 中译：这帮助我们超越了非此即彼、我们和他们、东方和西方的对立思维。；
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/east；
 
 
 ---

@@ -127,8 +127,14 @@ laund（洗涤，源自古法语 *lavandier*，洗衣人，最终来自拉丁语
 
 > [!example]- 语料
 > - I've got to do (= wash ) my laundry. `[例]`
+>   - 中译：我得洗衣服了。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/laundry；
 > - Piles of dirty laundry. `[例]`
+>   - 中译：一堆堆脏衣服。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/laundry；
 > - Evidence of the bank serving as a money laundry in the bailout scandal has been identified. `[例]`
+>   - 中译：已有证据表明该银行在救助丑闻中充当了洗钱的工具。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/laundry；
 
 
 ---

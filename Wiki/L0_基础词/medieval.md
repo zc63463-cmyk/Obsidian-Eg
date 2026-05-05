@@ -133,8 +133,14 @@ review_count: 0
 
 > [!example]- 语料
 > - With the Church's teachings and ways of thinking being eclipsed by the Renaissance, the gap between the Medieval and modern periods had been bridged, leading to new and unexplored intellectual territories. `[真题]`
+> -   - 中译：随着教会的教义和思维方式被文艺复兴所掩盖，中世纪与现代之间的鸿沟已经被弥合，通向了新的、未被探索的知识领域；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/medieval；
 > - The medieval castle stood on a hill overlooking the valley. `[COCA-ACAD]`
+> -   - 中译：那座中世纪城堡矗立在俯瞰山谷的山丘上；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/medieval；
 > - His attitudes towards women are positively medieval. `[BNC-SPOKEN]`
+> -   - 中译：他对女性的态度简直像中世纪人一样落后；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/medieval；
 
 
 ---

@@ -127,8 +127,14 @@ review_count: 0
 
 > [!example]- 语料
 > - After the play had finished , we lingered for a while in the bar hoping to catch sight of the actors. `[例]`
+> -   - 中译：戏剧结束后，我们在酒吧逗留了一会儿，希望能看到演员们；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/linger；
 > - The smell from the fire still lingered days later. `[例]`
+> -   - 中译：火灾的气味几天后仍然弥漫不散；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/linger；
 > - It's impossible to forget such horrific events - they linger (on) in the memory forever. `[例]`
+> -   - 中译：这样可怕的事件是不可能忘记的——它们永远留在记忆中；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/linger；
 
 
 ---

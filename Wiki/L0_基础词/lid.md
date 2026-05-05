@@ -129,8 +129,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Can you get the lid off this jar? `[例]`
+> -   - 中译：你能把这个罐子的盖子打开吗？；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lid；
 > - She looked at him from under half-closed lids. `[例]`
+> -   - 中译：她从半闭的眼皮下看着他；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lid；
 > - The lid of the coffin had been nailed down. `[例]`
+> -   - 中译：棺材盖已被钉死；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lid；
 
 
 ---

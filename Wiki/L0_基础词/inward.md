@@ -128,8 +128,14 @@ in-(向内，英语 *in*) + -ward(方向后缀，朝向……方向)
 
 > [!example]- 语料
 > - The author suggests that true happiness comes from inward reflection rather than external achievements. `[真题]`
+>   - 中译：作者认为真正的幸福来自内心的反思，而非外在的成就。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/inward；
 > - Despite his outward calm, he was experiencing intense inward feelings of anxiety. `[真题]`
+>   - 中译：尽管表面上很平静，他内心却充满了强烈的焦虑。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/inward；
 > - She turned inward, seeking answers within herself rather than from others. `[真题]`
+>   - 中译：她转向内心，从自身寻找答案，而不是向他人求助。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/inward；
 
 
 ---

@@ -134,8 +134,14 @@ instruct（15世纪，源自拉丁语 *instructus*，*instruere* 的过去分词
 
 > [!example]- 语料
 > - The police have been instructed to patrol the building and surrounding area. `[例]`
+  - 中译：警方接到指示巡逻该建筑及周边区域。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/instruct；
 > - The prime minister's family have been instructed not to discuss his past life with the press. `[例]`
+  - 中译：首相的家人被指示不得向媒体谈论他的过去。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/instruct；
 > - The minister was instructed to accept the advice of senior civil servants. `[例]`
+  - 中译：部长被指示接受高级公务员的建议。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/instruct；
 
 
 ---

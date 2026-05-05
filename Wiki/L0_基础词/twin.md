@@ -129,8 +129,14 @@ twin 源自古英语 *twinn*（双倍的、成对的），原始日耳曼语 *\*
 
 > [!example]- 语料
 > - My sister has twin sons. `[例]`
+>   - 中译：我姐姐有一对双胞胎儿子。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/twin；
 > - The two countries are often regarded as economic twins. `[例]`
+>   - 中译：这两个国家常被视为经济上的双胞胎。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/twin；
 > - A car with twin exhausts. `[例]`
+>   - 中译：一辆带有双排气管的汽车。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/twin；
 
 
 ---

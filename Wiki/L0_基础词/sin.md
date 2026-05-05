@@ -138,8 +138,14 @@ sin 源自古英语 *synn*，原始日耳曼语 *sunjō*，可能与拉丁语 *s
 
 > [!example]- 语料
 > - It is a sin to waste food when so many people are starving. `[例]`
+  - 中译：在这么多人挨饿的时候浪费食物是一种罪过。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/sin；
 > - He knew that he had committed a terrible sin. `[例]`
+  - 中译：他知道他犯下了可怕的罪过。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/sin；
 > - You have sinned against God. `[例]`
+  - 中译：你犯了违背上帝的罪。；
+  - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/sin；
 
 
 ---

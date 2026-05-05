@@ -132,8 +132,14 @@ therm-(=heat，热，希腊语 *therme*) + -al(形容词后缀，表示"与…�
 
 > [!example]- 语料
 > - He was found by a police helicopter using thermal imaging equipment. `[例]`
+>   - 中译：警方直升机使用热成像设备找到了他。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/thermal；
 > - Volcanic activity has created thermal springs and boiling mud pools. `[例]`
+>   - 中译：火山活动形成了温泉和沸腾的泥浆池。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/thermal；
 > - When coal is burned, chemical energy is transformed into thermal energy. `[例]`
+>   - 中译：煤燃烧时，化学能转化为热能。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/thermal；
 
 
 ---

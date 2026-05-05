@@ -131,8 +131,14 @@ tune 源自古法语 *ton*，源自拉丁语 *tonus*（音调、声音），最�
 
 > [!example]- 语料
 > - He was humming a tune as he dried the dishes. `[例]`
+>   - 中译：他一边擦盘子一边哼着曲子。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/tune；
 > - That's a very catchy tune (= easy to remember and pleasant ). `[例]`
+>   - 中译：那是一首非常朗朗上口的曲子。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/tune；
 > - The piano is out of tune. `[例]`
+>   - 中译：这架钢琴走调了。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/tune；
 
 
 ---

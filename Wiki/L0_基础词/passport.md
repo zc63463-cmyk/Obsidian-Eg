@@ -136,9 +136,14 @@ review_count: 0
 
 > [!example]- 语料
 > - He views boxing as his passport out of poverty. `[例]`
+  - 中译：他把拳击视为自己摆脱贫困的通行证。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/passport；
 > - Many students opt for business studies simply because it sounds like a passport to a good job. `[例]`
+  - 中译：许多学生选择商科只是因为它听起来像是获得好工作的通行证。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/passport；
 > - Many refugees have arrived at the border without passports. `[例]`
-
+  - 中译：许多难民没有护照就到达了边境。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/passport；
 
 ---
 

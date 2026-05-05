@@ -120,8 +120,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Mrs Clayton was speaking to Arab journalists in Paris on the eve of her visit to Egypt. `[例]`
+  - 中译：克莱顿夫人访问埃及前夕在巴黎向阿拉伯记者发表讲话。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/eve；
 > - Where did you spend Christmas Eve? `[例]`
+  - 中译：你在哪里度过的圣诞前夜？；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/eve；
 > - Sheena always throws a party on New Year's Eve. `[例]`
+  - 中译：希娜总是在新年前夕举办派对。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/eve；
 
 
 ---

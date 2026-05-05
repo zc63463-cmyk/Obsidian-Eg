@@ -129,8 +129,14 @@ review_count: 0
 
 > [!example]- 语料
 > - There's a clock on the church tower. `[例]`
+>   - 中译：教堂钟楼上有一个时钟。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/tower；
 > - He works in an office tower in downtown San Francisco. `[例]`
+>   - 中译：他在旧金山市中心的一栋办公塔楼里工作。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/tower；
 > - All-in-one PCs consolidate all the elements of a traditional desktop computer - monitor , tower, keyboard , mouse. `[例]`
+>   - 中译：一体机将传统台式电脑的所有组件——显示器、主机、键盘、鼠标——整合在一起。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/tower；
 
 
 ---

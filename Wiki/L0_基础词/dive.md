@@ -127,8 +127,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The stock market dived on news of the financial crisis. `[真题]`
+>   - 中译：受金融危机消息影响，股市暴跌。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/dive；
 > - Scholars have dived into the archives to uncover the truth. `[真题]`
+>   - 中译：学者们深入档案资料以揭示真相。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/dive；
 > - Share prices dived 3.5% today to a three-month closing low. `[真题]`
+>   - 中译：股价今日暴跌3.5%，收于三个月来最低点。；
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/dive；
 
 
 ---

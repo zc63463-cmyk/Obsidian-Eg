@@ -138,8 +138,14 @@ review_count: 0
 
 > [!example]- 语料
 > - His success was due to sheer willpower. `[真题]`
+  - 中译：他的成功完全靠意志力。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/sheer；
 > - It was sheer coincidence that we met. `[真题]`
+  - 中译：我们相遇纯属巧合。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/sheer；
 > - Yet the sheer scale of what we are discovering about plastic in the ocean demands a solution. `[真题]`
+  - 中译：然而，我们正在发现的海洋塑料污染的巨大规模迫切需要解决方案。；
+  - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/sheer；
 
 
 ---

@@ -130,8 +130,14 @@ review_count: 0
 
 > [!example]- 语料
 > - As she waited to go into the exam , he squeezed her hand (= pressed it affectionately with his hand ) and wished her good luck. `[例]`
+>   - 中译：当她等待进入考场时，他握了握她的手，祝她好运。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/squeeze；
 > - Once he had finished cleaning the floor , he squeezed the cloth out. `[例]`
+>   - 中译：他擦完地板后，把布拧干。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/squeeze；
 > - He reloaded the gun , took aim , and then squeezed (= pulled back) the trigger. `[例]`
+>   - 中译：他重新装好子弹，瞄准，然后扣动了扳机。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/squeeze；
 
 
 ---

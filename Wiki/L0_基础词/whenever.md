@@ -127,8 +127,14 @@ when（什么时候）+ ever（曾经/永远）。when 源自古英语 *hwenne*�
 
 > [!example]- 语料
 > - Come and see us whenever you're in town — you're always welcome. `[真题]`
+>   - 中译：你进城时随时来看我们——随时欢迎你。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/whenever；
 > - Whenever I go there they seem to be asleep. `[例]`
+>   - 中译：每次我去那里，他们似乎都在睡觉。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/whenever；
 > - Will it be okay if I do it tomorrow ?" "Sure, whenever (= then or at any other time ). `[例]`
+>   - 中译：我明天做可以吗？当然，随时都行。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/whenever；
 
 
 ---

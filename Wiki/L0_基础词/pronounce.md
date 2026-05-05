@@ -126,8 +126,14 @@ pro-(向前/公开) + [[sign|nounce]](=nunciare, 报告/说)
 
 > [!example]- 语料
 > - How do you pronounce your surname? `[例]`
+>   - 中译：你的姓氏怎么发音？；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pronounce；
 > - How do you pronounce your last name? `[例]`
+>   - 中译：你的名字怎么发音？；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pronounce；
 > - She pronounced his name so badly he didn't even recognize it. `[例]`
+>   - 中译：她把他的名字发音得太差了，他甚至没听出来。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pronounce；
 
 
 ---

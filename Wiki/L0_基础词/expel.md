@@ -130,8 +130,14 @@ ex-（向外）+ pel（推，驱赶）→ 向外推 → 驱逐。pel 源自拉�
 
 > [!example]- 语料
 > - The new government has expelled all foreign diplomats. `[例]`
+  - 中译：新政府驱逐了所有外交官。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/expel；
 > - My brother was expelled from school for bad behaviour. `[例]`
+  - 中译：我弟弟因行为不端被学校开除。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/expel；
 > - She took a deep breath , then expelled the air in short blasts. `[例]`
+  - 中译：她深吸一口气，然后短促地将气呼出。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/expel；
 
 ---
 

@@ -138,8 +138,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Baltimore scored first when Gibbons hit a solo home run. `[例]`
+  - 中译：吉本斯击出一支阳春全垒打，巴尔的摩率先得分。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/solo；
 > - Phillips smashed a solo shot in the third inning. `[例]`
+  - 中译：菲利普斯在第三局击出一支阳春全垒打。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/solo；
 > - Parker's solo on "A Night in Tunisia" was so amazing that the pianist backing him simply stopped playing. `[例]`
+  - 中译：帕克在《突尼斯之夜》中的独奏太精彩了，伴奏的钢琴师干脆停了下来。；
+  - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/solo；
 
 
 ---

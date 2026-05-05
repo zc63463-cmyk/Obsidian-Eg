@@ -123,8 +123,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The mayor is a puppet who does what business leaders tell him to. `[例]`
+>   - 中译：市长是一个傀儡，企业领袖说什么他就做什么。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/puppet；
 > - The occupying forces set up a puppet government. `[例]`
+>   - 中译：占领军建立了一个傀儡政府。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/puppet；
 > - The king was a mere puppet of the mayor. `[例]`
+>   - 中译：国王只是市长的一个傀儡。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/puppet；
 
 
 ---

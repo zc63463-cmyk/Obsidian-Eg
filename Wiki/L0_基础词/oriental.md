@@ -132,8 +132,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Oriental art, with its emphasis on harmony and balance, has profoundly influenced Western aesthetics since the 19th century. `[COCA-ACAD]`
+>   - 中译：东方艺术强调和谐与平衡，自19世纪以来对西方美学产生了深远的影响。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/oriental；
 > - The museum houses an impressive collection of Oriental ceramics, including rare porcelain from the Ming Dynasty. `[COCA-ACAD]`
+>   - 中译：博物馆收藏了一批令人印象深刻的东方陶瓷，包括来自明朝的稀有瓷器。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/oriental；
 > - She studied Oriental languages at the university and became fluent in Mandarin and Japanese. `[COCA-ACAD]`
+>   - 中译：她在大学学习东方语言，精通普通话和日语。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/oriental；
 
 
 ---

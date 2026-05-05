@@ -135,8 +135,14 @@ review_count: 0
 
 > [!example]- 语料
 > - She picked up a thick volume and began to read out loud. `[例]`
+>   - 中译：她拿起一本厚厚的书开始大声朗读。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/thick；
 > - The walls are two metres thick. `[例]`
+>   - 中译：墙壁有两米厚。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/thick；
 > - Thick, black smoke was pouring out of the chimney. `[例]`
+>   - 中译：浓黑的黑烟从烟囱中冒出。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/thick；
 
 
 ---

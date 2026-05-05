@@ -127,8 +127,14 @@ review_count: 0
 
 > [!example]- 语料
 > - My bank has agreed to defer the repayments on my loan. `[例]`
+  - 中译：我的银行同意推迟我的贷款还款。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/defer；
 > - Can we defer mak ing a decision until next week? `[例]`
+  - 中译：我们能推迟到下周再做决定吗？；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/defer；
 > - You can order the furniture now and defer payment until September. `[例]`
+  - 中译：你现在可以订购家具，将付款推迟到九月。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/defer；
 
 
 ---

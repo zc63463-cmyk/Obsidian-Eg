@@ -129,8 +129,14 @@ near（近的）+ by（在……旁边）
 
 > [!example]- 语料
 > - If there's a café nearby, we could stop for a snack. `[例]`
+> - 中译：如果附近有咖啡馆，我们可以停下来吃点东西。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/nearby；
 > - I noticed a policeman standing nearby. `[例]`
+> - 中译：我注意到附近站着一名警察。；
+> - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/nearby；
 > - We stopped at some nearby shops to buy some food. `[例]`
+> - 中译：我们在附近的一些商店停下来买了些食物。；
+> - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/nearby；
 
 
 ---

@@ -126,8 +126,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Managing the economy is a complex equation of controlling inflation and reducing unemployment. `[例]`
+  - 中译：管理经济是一个控制通货膨胀和减少失业的复杂方程。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/equation；
 > - The equation between higher education and higher earnings still holds true. `[例]`
+  - 中译：高等教育与高收入之间的等式仍然成立。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/equation；
 > - These drugs have broken the equation between AIDS and death. `[例]`
+  - 中译：这些药物打破了艾滋病与死亡之间的等式。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/equation；
 
 
 ---

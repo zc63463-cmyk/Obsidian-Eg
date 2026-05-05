@@ -130,9 +130,14 @@ plumb(=plumbum, 铅，拉丁语 *plumbum*) + -er(表示"人"的名词后缀)
 
 > [!example]- 语料
 > - When is the plumber coming to repair the burst pipe? `[例]`
+  - 中译：水管工什么时候来修爆裂的水管？；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/plumber；
 > - We'll have to get a plumber in to look at that water tank. `[例]`
+  - 中译：我们得请个水管工来看看那个水箱。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/plumber；
 > - Did you remember to get on to the plumber about the shower? `[例]`
-
+  - 中译：你记得联系水管工来修淋浴了吗？；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/plumber；
 
 ---
 
