@@ -133,8 +133,14 @@ flatter 源自中古英语 *flateren*，可能融合了古英语 *floterian*（�
 
 > [!example]- 语料
 > - I knew he was only flattering me because he wanted to borrow some money. `[例]`
+>   - 中译：我知道他只是在恭维我，因为他想借点钱。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/flatter；
 > - Steve flatters himself that he's an excellent speaker. `[例]`
+>   - 中译：史蒂夫自认为是一位出色的演讲者。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/flatter；
 > - He flatters himself that, where Sara is concerned , he has the magic touch. `[例]`
+>   - 中译：他自以为在萨拉方面，他有独特的魅力。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/flatter；
 
 
 ---

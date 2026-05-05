@@ -129,8 +129,14 @@ ted-(厌倦，拉丁语 *taedium*，意为"厌倦、疲倦") + -ious(充满…�
 
 > [!example]- 语料
 > - It was a long and tedious process, but the results were ultimately worth the effort. `[真题]`
+>   - 中译：这是一个漫长而乏味的过程，但结果最终证明这些努力是值得的。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/tedious；
 > - The process of adding gold flakes to the tip of the corn dog is a tedious task that involves a paintbrush and tweezers. `[真题]`
+>   - 中译：在玉米狗尖端添加金箔是一个需要使用画笔和镊子的乏味工序。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/tedious；
 > - Index preparation is a tedious and time-consuming task that requires careful attention to detail. `[真题]`
+>   - 中译：编制索引是一项乏味且耗时的任务，需要仔细关注细节。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/tedious；
 
 
 ---

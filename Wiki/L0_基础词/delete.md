@@ -124,8 +124,14 @@ review_count: 0
 
 > [!example]- 语料
 > - They insisted that all expletives be deleted from the article. `[例]`
+  - 中译：我不小心删除了错误的文件。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/delete；
 > - Here is a list of possible answers . Please delete (= draw a line through some of them) as appropriate. `[例]`
+  - 中译：你的名字已从名单上删除。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/delete；
 > - She accidentally deleted one of her computer files. `[例]`
+  - 中译：该软件允许你永久删除文件。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/delete；
 
 
 ---

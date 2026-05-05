@@ -128,8 +128,14 @@ el-(=e-, 向外/延伸) + bow(弯曲) → 手臂向外弯曲的部分 → 肘
 
 > [!example]- 语料
 > - They also claim that the security team elbowed aside a steward. `[真题]`
+>   - 中译：他们还声称安保人员用手肘推开了管理员。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/elbow；
 > - The bus was so crowded that we had to elbow our way to the exit door. `[真题]`
+>   - 中译：公共汽车太拥挤了，我们不得不挤着走到出口。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/elbow；
 > - He elbowed his way through the crowd to get a better view. `[真题]`
+>   - 中译：他用手肘挤过人群，以便看得更清楚。；
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/elbow；
 
 
 ---

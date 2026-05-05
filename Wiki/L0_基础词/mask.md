@@ -134,8 +134,14 @@ review_count: 0
 
 > [!example]- 语料
 > - For a moment her mask slipped, and I saw how scared she really was. `[例]`
+> -   - 中译：片刻间她的伪装露出了破绽，我看到了她内心真正的恐惧；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/mask；
 > - The bank robbers wore masks throughout the raid. `[例]`
+> -   - 中译：银行劫匪在整个抢劫过程中都戴着面具；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/mask；
 > - His fooling around is a mask for his lack of confidence. `[例]`
+> -   - 中译：他的吊儿郎当是掩饰自己缺乏自信的面具；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/mask；
 
 
 ---

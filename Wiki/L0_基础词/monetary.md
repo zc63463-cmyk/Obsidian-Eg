@@ -127,8 +127,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The Fed is the nation's central bank, leaving it in charge of monetary policy. `[真题]`
+> - 中译：美联储是国家的中央银行，负责制定货币政策。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/monetary；
 > - Central banks are also poised to tighten monetary policies. `[真题]`
+> - 中译：各国央行也准备收紧货币政策。；
+> - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/monetary；
 > - There is little monetary policy can do to offset the former. `[真题]`
+> - 中译：货币政策对缓解前者几乎无能为力。；
+> - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/monetary；
 
 
 ---

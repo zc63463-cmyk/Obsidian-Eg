@@ -125,8 +125,14 @@ rit(=rite, 仪式，拉丁语 *ritus* "宗教仪式") + -ual(形容词/名词后
 
 > [!example]- 语料
 > - The lady of the house performs the sacred ritual of lighting two candles. `[真题]`
+  - 中译：女主人进行点燃两支蜡烛的神圣仪式。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ritual
 > - The daily ritual of mealtimes brings the family together. `[真题]`
+  - 中译：每日进餐的例行习惯让家人团聚在一起。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ritual
 > - He went through the ritual of lighting his cigar. `[真题]`
+  - 中译：他按照习惯点燃了雪茄。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ritual
 
 
 ---

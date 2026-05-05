@@ -128,8 +128,14 @@ review_count: 0
 
 > [!example]- 语料
 > - He was convicted of tax fraud and sentenced to three years in prison. `[COCA-NEWS]`
+>   - 中译：他被判犯有税务欺诈罪，判处三年监禁。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fraud；
 > - She was a psychic who was later revealed to be a fraud. `[COCA-NEWS]`
+>   - 中译：她是一名通灵者，后来被揭露是个骗子。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fraud；
 > - Insurance fraud ranges from completely fabricated claims to inflation of legitimate claims. `[COCA-ACAD]`
+>   - 中译：保险欺诈从完全捏造的索赔到夸大合法索赔不等。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fraud；
 
 ---
 

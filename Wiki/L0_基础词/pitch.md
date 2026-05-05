@@ -137,9 +137,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Supporters invaded (= ran onto) the pitch. `[例]`
+  - 中译：支持者冲入（跑上）了球场。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pitch；
 > - If you teach children and adults in the same class , it's difficult to get the pitch (= level of difficulty or interest ) right. `[例]`
+  - 中译：如果你在同一班级里教孩子和成人，很难把握合适的难度（水平）。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/pitch；
 > - That June , the pitch of the local anti-pipeline campaign was turned up. `[例]`
-
+  - 中译：那年六月，当地反管道运动的声势被提高了。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/pitch；
 
 ---
 

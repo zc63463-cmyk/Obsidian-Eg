@@ -126,8 +126,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The electronics industry is showing signs of stagnating after 15 years of growth. `[例]`
+>   - 中译：电子行业在经历了15年的增长后，出现了停滞的迹象。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/stagnate；
 > - My music career had stagnated. `[例]`
+>   - 中译：我的音乐事业停滞不前了。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/stagnate；
 > - For now, the strong currents mean water is relatively clean but when the levels subside the water will stagnate. `[例]`
+>   - 中译：目前，强劲的水流意味着水相对干净，但当水位下降时，水就会变得停滞。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/stagnate；
 
 
 ---

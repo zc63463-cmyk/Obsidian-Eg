@@ -122,8 +122,14 @@ in-(在……内，[[in]]) + door(门，古英语 *duru*)
 
 > [!example]- 语料
 > - An indoor swimming pool. `[例]`
+  - 中译：一个室内游泳池。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/indoor；
 > - Come indoors, it’s cold outside. `[例]`
+  - 中译：进屋吧，外面冷。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/indoor；
 > - The indoor flower market is a big tourist attraction. `[例]`
+  - 中译：室内花卉市场是一个主要的旅游景点。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/indoor；
 
 
 ---

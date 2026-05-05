@@ -145,8 +145,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The researchers proposed a slender solution to the problem. `[例]`
+  - 中译：研究人员提出了一个浅显的解决方案。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/slender；
 > - The company adopted a slender approach to improve efficiency. `[例]`
+  - 中译：公司采取了一种表面化的方法来提高效率。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/slender；
 > - The plan offers a slender option for small organizations. `[例]`
+  - 中译：该计划为小型组织提供了一个浅层的选项。；
+  - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/slender；
 
 
 ---

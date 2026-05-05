@@ -129,8 +129,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Small islands are in danger of being drowned by rising sea levels. `[真题]`
+>   - 中译：小岛面临着被上升的海平面淹没的危险。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/drown；
 > - Her voice was drowned out by the loud music at the party. `[真题]`
+>   - 中译：她的声音被派对上嘈杂的音乐淹没了。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/drown；
 > - He tried to drown his sorrows in drink after losing his job. `[真题]`
+>   - 中译：失业后他试图借酒浇愁。；
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/drown；
 
 ---
 

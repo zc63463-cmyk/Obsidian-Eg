@@ -131,8 +131,14 @@ film 源自古英语 *filmen*，意为"薄膜、皮"，与 [[fill]]（填满）�
 
 > [!example]- 语料
 > - What's your favourite film? `[例]`
+>   - 中译：你最喜欢什么电影？；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/film；
 > - Her last film was shot (= made) on location in South America. `[例]`
+>   - 中译：她的最后一部电影是在南美洲实地拍摄的。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/film；
 > - I hate people talking while I'm watching a film. `[例]`
+>   - 中译：我讨厌看电影时有人说话。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/film；
 
 
 ---

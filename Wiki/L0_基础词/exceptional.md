@@ -125,8 +125,14 @@ ex-(出) + [[cap]](拿取) + -ion(名词) + -al(形容词后缀) → 被取出�
 
 > [!example]- 语料
 > - Exceptional powers of concentration. `[例]`
+  - 中译：非凡的注意力集中能力。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/exceptional；
 > - The company has shown exceptional growth over the past two years. `[例]`
+  - 中译：过去两年中，公司表现出非凡的增长。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/exceptional；
 > - This is an exceptional contract , guaranteeing no layoffs. `[例]`
+  - 中译：这是一份特殊的合同，保证不裁员。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/exceptional；
 
 
 ---

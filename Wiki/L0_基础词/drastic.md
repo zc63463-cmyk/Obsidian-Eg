@@ -125,8 +125,14 @@ review_count: 0
 
 > [!example]- 语料
 > - This is a drastic shift compared with the previous administration. `[真题]`
+>   - 中译：与上届政府相比，这是一个巨大的转变。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/drastic；
 > - So people want more drastic measures taken. `[真题]`
+>   - 中译：所以人们希望采取更严厉的措施。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/drastic；
 > - We could also see a drastic reduction in the number of agents in the industry. `[真题]`
+>   - 中译：我们还可能看到业内代理人数量的急剧减少。；
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/drastic；
 
 
 ---

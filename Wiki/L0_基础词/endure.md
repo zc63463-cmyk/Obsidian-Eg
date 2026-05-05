@@ -127,8 +127,14 @@ en-(使) + dur(持续，持久，源自拉丁语 *durus*，"坚硬的、持久�
 
 > [!example]- 语料
 > - We had to endure a nine-hour delay at the airport. `[例]`
+>   - 中译：我们不得不在机场忍受九个小时的延误。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/endure；
 > - She's already had to endure three painful operations on her leg. `[例]`
+>   - 中译：她已经不得不忍受了三次痛苦的腿部手术。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/endure；
 > - The political system established in 1400 endured until about 1650. `[例]`
+>   - 中译：1400年建立的政治制度一直延续到大约1650年。；
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/endure；
 
 
 ---

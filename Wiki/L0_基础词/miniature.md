@@ -128,9 +128,17 @@ review_count: 0
 
 > [!example]- 语料
 > - The museum displays a miniature of the ancient city as it appeared in the 12th century. `[真题]`
+> - 中译：博物馆展示了一座12世纪古城的微缩模型。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/miniature；
 > - The garden is a miniature of the English countryside. `[真题]`
+> - 中译：这座花园是英国乡村的缩影。；
+> - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/miniature；
 > - He looked like a miniature version of his father. `[真题]`
+> - 中译：他看起来就像他父亲的缩小版。；
+> - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/miniature；
 > - Through play, children act out in miniature the dramas of adult life. `[真题]`
+> - 中译：通过游戏，孩子们以微缩的方式演绎成人生活中的戏剧。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/miniature；
 
 
 ---

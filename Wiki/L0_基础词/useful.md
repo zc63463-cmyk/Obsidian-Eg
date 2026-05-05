@@ -132,8 +132,14 @@ use(使用) + -ful(形容词后缀，充满……的)
 
 > [!example]- 语料
 > - A good knife is probably one of the most useful things you can have in a kitchen. `[例]`
+>   - 中译：一把好刀可能是厨房里最有用的东西之一。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/useful；
 > - Do the exercises serve any useful purpose? `[例]`
+>   - 中译：这些练习有什么实际用途吗？；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/useful；
 > - Computers have a useful life of only about 3 years before they're outmoded. `[例]`
+>   - 中译：计算机的使用寿命大约只有3年，之后就会被淘汰。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/useful；
 
 
 ---

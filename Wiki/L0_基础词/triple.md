@@ -127,8 +127,14 @@ tri-（三，前缀）+ -ple（倍，源自拉丁语 *plus*）。tri- 源自拉�
 
 > [!example]- 语料
 > - Her trainer is a triple Olympic champion. `[例]`
+>   - 中译：她的教练是三届奥运冠军。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/triple；
 > - There's a triple bill of Hitchcock films (= three films ) on at the cinema next Sunday. `[例]`
+>   - 中译：下周日电影院将上映希区柯克的三部影片连映。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/triple；
 > - A mazurka is a lively folk dance in triple time. `[例]`
+>   - 中译：玛祖卡是一种三拍子的活泼民间舞蹈。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/triple；
 
 
 ---

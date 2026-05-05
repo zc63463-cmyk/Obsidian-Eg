@@ -134,9 +134,17 @@ review_count: 0
 
 > [!example]- 语料
 > - The lecture was so dull that half the students fell asleep. `[真题]`
+>   - 中译：讲座太无聊了，一半的学生都睡着了。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/dull；
 > - She complained of a dull ache in her lower back. `[真题]`
+>   - 中译：她抱怨下背部有隐痛。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/dull；
 > - I heard a dull thud from the kitchen and realized she must have fainted. `[真题]`
+>   - 中译：我听到厨房传来一声沉闷的撞击声，意识到她一定是晕倒了。；
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/dull；
 > - Lack of sleep will dull your reflexes. `[真题]`
+>   - 中译：睡眠不足会使你的反应迟钝。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/dull；
 
 
 ---

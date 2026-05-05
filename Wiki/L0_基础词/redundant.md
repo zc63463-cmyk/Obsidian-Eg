@@ -132,8 +132,14 @@ redund-(=overflow，溢出，拉丁语 *redundare*) + -ant(形容词后缀，表
 
 > [!example]- 语料
 > - In time it should help restrain costs by eliminating redundant tests, preventing drug interactions, and helping doctors find the best treatments. `[真题]`
+  - 中译：随着时间的推移，它应该有助于通过消除多余的检查、防止药物相互作用以及帮助医生找到最佳治疗方案来控制成本。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/redundant；
 > - My husband was made redundant last year. `[真题]`
+  - 中译：我丈夫去年被裁员了。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/redundant；
 > - There's a lot of redundant information that you could cut out here. `[真题]`
+  - 中译：这里有很多多余的信息可以删掉。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/redundant；
 
 
 ---

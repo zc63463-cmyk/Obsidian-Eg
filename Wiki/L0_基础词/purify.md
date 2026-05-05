@@ -126,8 +126,14 @@ pur(=pure，纯净的，源自拉丁语 *purus*) + -ify(动词后缀，表示"�
 
 > [!example]- 语料
 > - Plants help to purify the air. `[例]`
+>   - 中译：植物有助于净化空气。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/purify；
 > - One of the functions of the kidneys is to purify the blood. `[例]`
+>   - 中译：肾脏的功能之一是净化血液。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/purify；
 > - One of the main teachings of Buddhism is that you should try to purify your mind. `[例]`
+>   - 中译：佛教的主要教义之一是你应该努力净化自己的心灵。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/purify；
 
 
 ---

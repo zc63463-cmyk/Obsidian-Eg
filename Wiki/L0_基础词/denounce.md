@@ -128,8 +128,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The government's economic policy has been denounced on all sides. `[例]`
+  - 中译：政府谴责了这次袭击。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/denounce；
 > - He angrily denounced the decision not to allow him to speak. `[例]`
+  - 中译：她被谴责为叛徒。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/denounce；
 > - We must denounce injustice and oppression. `[例]`
+  - 中译：总统谴责这次爆炸是懦弱的恐怖主义行为。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/denounce；
 
 
 ---

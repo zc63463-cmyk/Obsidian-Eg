@@ -129,8 +129,14 @@ review_count: 0
 
 > [!example]- 语料
 > - He's got a headache and a slight fever. `[例]`
+>   - 中译：他头痛还有点发烧。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fever；
 > - The disease causes coughing , chest pain , and fever. `[例]`
+>   - 中译：这种病会引起咳嗽、胸痛和发烧。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fever；
 > - The whole country seems to be in the grip of football fever. `[例]`
+>   - 中译：整个国家似乎都沉浸在足球狂热中。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fever；
 
 
 ---

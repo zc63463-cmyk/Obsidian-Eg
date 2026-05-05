@@ -128,9 +128,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Two kids were poking a stick into the drain. `[例]`
+  - 中译：两个孩子正用一根棍子戳下水道。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/poke；
 > - Cathy poked her head round the door to say hello. `[例]`
+  - 中译：凯茜从门后探出头来打招呼。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/poke；
 > - The first green shoots are poking up through the soil. `[例]`
-
+  - 中译：第一批绿色的嫩芽正从土壤中冒出来。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/poke；
 
 ---
 

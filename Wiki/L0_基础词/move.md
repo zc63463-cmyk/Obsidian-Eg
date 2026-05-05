@@ -140,8 +140,14 @@ move 源自拉丁语 *movere*（移动），是整个 mot-/mov- 词族的核心�
 
 > [!example]- 语料
 > - To respond to PRH's business move. `[真题]`
+> - 中译：为应对PRH的商业举措。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/move；
 > - I'm so cold I can't move my fingers. `[例]`
+> - 中译：我太冷了，手指都动不了。；
+> - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/move；
 > - Will you help me move this table to the back room? `[例]`
+> - 中译：你能帮我把这张桌子搬到后面的房间吗？；
+> - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/move；
 
 
 ---

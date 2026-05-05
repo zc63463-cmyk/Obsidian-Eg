@@ -133,8 +133,14 @@ ice 源自古英语 *īs* "冰"，原始日耳曼语 *\*īsaz*，原始印欧语
 
 > [!example]- 语料
 > - The pond was covered in ice all winter. `[例]`
+  - 中译：池塘整个冬天都被冰覆盖着。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ice；
 > - Would you like ice in your juice? `[例]`
+  - 中译：你的果汁里要加冰吗？；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ice；
 > - He slipped on a patch of ice. `[例]`
+  - 中译：他在一片冰上滑倒了。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ice；
 
 
 ---

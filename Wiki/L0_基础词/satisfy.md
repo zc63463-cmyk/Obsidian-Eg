@@ -129,9 +129,17 @@ review_count: 0
 
 > [!example]- 语料
 > - To satisfy the increasing demand for clean energy, governments around the world are investing heavily in renewable energy sources such as wind and solar power. `[真题]`
+  - 中译：为了满足日益增长的清洁能源需求，世界各国政府正在大力投资风能和太阳能等可再生能源。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/satisfy
 > - The researchers conducted a series of experiments to satisfy themselves that the results were reliable and could be replicated. `[真题]`
+  - 中译：研究人员进行了一系列实验，以使自己确信结果是可靠的、可以复现的。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/satisfy
 > - The request failed to satisfy the criteria for obtaining such a warrant. `[例]`
+  - 中译：该请求未能满足获得此类授权令的标准。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/satisfy
 > - The classical approaches do not fully satisfy the needs of the synthetic chemist. `[例]`
+  - 中译：经典方法不能完全满足合成化学家的需求。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/satisfy
 
 
 ---

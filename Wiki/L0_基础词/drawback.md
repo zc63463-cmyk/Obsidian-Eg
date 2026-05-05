@@ -127,8 +127,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The main drawback of the new technology is its high cost. `[真题]`
+>   - 中译：这项新技术的主要缺点是成本高。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/drawback；
 > - One drawback of online learning is the lack of face-to-face interaction. `[真题]`
+>   - 中译：在线学习的一个缺点是缺乏面对面交流。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/drawback；
 > - The only drawback to the bridge is its cost. `[真题]`
+>   - 中译：这座桥唯一的缺点就是造价。；
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/drawback；
 
 
 ---

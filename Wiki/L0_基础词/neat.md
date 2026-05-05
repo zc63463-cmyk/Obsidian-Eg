@@ -132,8 +132,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Your house is always so neat - how do you manage it? `[例]`
+> - 中译：你的房子总是这么整洁——你是怎么做到的？；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/neat；
 > - She likes everything neat and tidy. `[例]`
+> - 中译：她喜欢一切都整整齐齐。；
+> - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/neat；
 > - You have such neat handwriting. `[例]`
+> - 中译：你的字写得真整洁。；
+> - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/neat；
 
 
 ---

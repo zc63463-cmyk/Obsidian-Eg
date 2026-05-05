@@ -134,9 +134,17 @@ review_count: 0
 
 > [!example]- 语料
 > - If you and I parachuted back to Fortune 500 companies in 1990, we would see much less frequent use of terms like journey, mission, passion. `[真题]`
+> - 中译：如果你我穿越回1990年的财富500强公司，我们会发现诸如旅程、使命、激情之类的词汇使用频率要低得多。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/mission；
 > - Her mission in life was to work with the homeless, and she devoted decades to this cause. `[真题]`
+> - 中译：她的人生使命是帮助无家可归者，她为此奉献了几十年。；
+> - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/mission；
 > - Thomas More toured Antwerp on a diplomatic mission for the king. `[真题]`
+> - 中译：托马斯·莫尔代表国王执行外交使命访问了安特卫普。；
+> - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/mission；
 > - It was too late to launch a rescue mission. `[真题]`
+> - 中译：启动救援任务已经太迟了。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/mission；
 
 
 ---

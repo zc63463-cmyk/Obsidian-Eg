@@ -137,9 +137,14 @@ plug 源自中古荷兰语 *plugge*（塞子、木栓），为日耳曼语族本
 
 > [!example]- 语料
 > - If a plug is wired incorrectly , it can be dangerous. `[例]`
+  - 中译：如果插头接线不正确，可能会有危险。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/plug；
 > - Is there a plug in the bedroom that I can use for my hairdryer? `[例]`
+  - 中译：卧室里有我可以用来插吹风机的插座吗？；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/plug；
 > - You can raise seed as plugs this summer and introduce the plants into the garden in the autumn. `[例]`
-
+  - 中译：你可以在今年夏天用穴盘育苗，然后在秋天将植物移栽到花园中。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/plug；
 
 ---
 

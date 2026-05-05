@@ -139,8 +139,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The earthquake shattered all the windows in the building. `[真题]`
+  - 中译：地震震碎了大楼里所有的窗户。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/shatter；
 > - A tragic accident shattered her dreams of Olympic glory. `[真题]`
+  - 中译：一场悲惨的事故粉碎了她获得奥运荣耀的梦想。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/shatter；
 > - The defeat shattered her confidence. `[真题]`
+  - 中译：这次失败击垮了她的信心。；
+  - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/shatter；
 
 
 ---

@@ -130,8 +130,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Tie the ends of the rope together in a loop. `[例]`
+> -   - 中译：把绳子的两端系成一个环；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/loop；
 > - The building is set within a loop of the River Wye. `[例]`
+> -   - 中译：这座建筑坐落在怀河的一个河湾中；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/loop；
 > - For light , we had candles in jam jars hanging on loops of string. `[例]`
+> -   - 中译：照明方面，我们把装在果酱罐里的蜡烛挂在绳圈上；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/loop；
 
 
 ---

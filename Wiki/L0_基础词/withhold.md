@@ -131,8 +131,14 @@ with-（向后、相反，古英语 *wiþer* 的缩略形式，原始日耳曼�
 
 > [!example]- 语料
 > - The government was accused of withholding crucial information from the public during the early stages of the crisis. `[真题]`
+>   - 中译：政府被指控在危机初期向公众隐瞒了关键信息。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/withhold；
 > - The governor said he would withhold judgment until he receives the committee's full report on the matter. `[真题]`
+>   - 中译：州长表示，在收到委员会关于此事的完整报告之前，他将暂不表态。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/withhold；
 > - Police are withholding the dead woman's name until her relatives have been informed. `[真题]`
+>   - 中译：警方在通知死者亲属之前暂不公布死者的姓名。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/withhold；
 
 
 ---

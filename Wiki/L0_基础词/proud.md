@@ -127,8 +127,14 @@ proud（源自拉丁语 *prode-*，"有利的、有价值的"，与 [[provide]] 
 
 > [!example]- 语料
 > - You must be very proud of your son. `[例]`
+>   - 中译：你一定为你的儿子感到非常自豪。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/proud；
 > - We're particularly proud of our company's environmental record. `[例]`
+>   - 中译：我们特别为我们公司的环保记录感到自豪。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/proud；
 > - I'm very proud to have been involved in this project. `[例]`
+>   - 中译：我非常自豪能参与这个项目。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/proud；
 
 
 ---

@@ -124,8 +124,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Every morning I would break out in a sweat before the exam. `[例]`
+>   - 中译：每天早上考试前我都会出一身汗。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sweat；
 > - Computer graphics take a lot of the sweat out of animation. `[例]`
+>   - 中译：计算机图形技术大大减轻了动画制作的工作量。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/sweat；
 > - They extended their unbeaten run to seven matches and hardly had to break sweat to do it. `[例]`
+>   - 中译：他们将不败纪录延长到七场比赛，而且几乎没费什么力气。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sweat；
 
 
 ---

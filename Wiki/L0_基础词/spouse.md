@@ -123,8 +123,14 @@ review_count: 0
 
 > [!example]- 语料
 > - In 60 percent of the households surveyed both spouses went out to work. `[例]`
+>   - 中译：在接受调查的家庭中，60%的夫妻双方都外出工作。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/spouse；
 > - My brothers and sisters and their spouses. `[例]`
+>   - 中译：我的兄弟姐妹和他们的配偶。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/spouse；
 > - Employees and their spouses are covered by the health plan. `[例]`
+>   - 中译：员工及其配偶均在该健康计划的保障范围内。；
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/spouse；
 
 
 ---

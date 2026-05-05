@@ -144,9 +144,14 @@ pater(父亲，[[pater-patri]]) → patron(保护者/赞助人)
 
 > [!example]- 语料
 > - Auchincloss is a longtime patron of the arts. `[真题]`
+  - 中译：奥金克洛斯是艺术界的长期赞助人。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/patron；
 > - The restaurant's patrons were impressed by the chef's innovative dishes. `[真题]`
+  - 中译：这家餐厅的顾客对厨师创新的菜品印象深刻。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/patron；
 > - Patrons provide their mobile phone numbers and then receive text messages when a table is ready. `[真题]`
-
+  - 中译：顾客提供手机号码，然后在有空桌时收到短信通知。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/patron；
 
 ---
 

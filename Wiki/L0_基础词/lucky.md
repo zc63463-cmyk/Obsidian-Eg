@@ -130,8 +130,14 @@ review_count: 0
 
 > [!example]- 语料
 > - I'm going to Japan." "Lucky you! `[例]`
+> -   - 中译：我要去日本了。你真幸运！；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lucky；
 > - The lucky winner will be able to choose from three different holidays. `[例]`
+> -   - 中译：幸运的获胜者将可以从三个不同的假期中选择；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lucky；
 > - They're lucky to have such a nice office to work in. `[例]`
+> -   - 中译：他们很幸运能在这么好的办公室工作；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lucky；
 
 
 ---

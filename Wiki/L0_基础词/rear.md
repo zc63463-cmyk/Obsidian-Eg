@@ -135,8 +135,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The horse had injured one of its rear legs. `[例]`
+>   - 中译：马的一条后腿受伤了。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rear；
 > - Always check your rear view mirror before you overtake another car. `[例]`
+>   - 中译：超车前一定要检查后视镜。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rear；
 > - A car usually has a driver's seat , a passenger seat and rear seats. `[例]`
+>   - 中译：汽车通常有驾驶座、乘客座和后座。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rear；
 
 
 ---

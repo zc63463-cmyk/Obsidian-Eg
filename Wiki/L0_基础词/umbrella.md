@@ -128,8 +128,14 @@ review_count: 0
 
 > [!example]- 语料
 > - I felt a few drops of rain , so I put my umbrella up. `[例]`
+>   - 中译：我感觉到了几滴雨，于是撑开了雨伞。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/umbrella；
 > - He runs a group of companies under the umbrella of Universal Foods. `[例]`
+>   - 中译：他在环球食品公司旗下经营着多家公司。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/umbrella；
 > - The Organization of Islamic Conference is an umbrella organization representing 57 Muslim nations. `[例]`
+>   - 中译：伊斯兰会议组织是一个代表57个穆斯林国家的伞形组织。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/umbrella；
 
 
 ---

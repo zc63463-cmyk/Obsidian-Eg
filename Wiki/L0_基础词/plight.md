@@ -129,9 +129,14 @@ plight 源自古英语 *pliht*（危险、承诺），可能与 *plecgan*（使�
 
 > [!example]- 语料
 > - Few of us can be unmoved by the plight of the refugees. `[例]`
+  - 中译：很少有人能对难民的困境无动于衷。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/plight；
 > - What could be more romantic than plighting your troth on a deserted beach? `[例]`
+  - 中译：还有什么比在荒凉的海滩上立下海誓山盟更浪漫的呢？；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/plight；
 > - My problems aren’t much compared with the plight of the storm victims. `[例]`
-
+  - 中译：与风暴受害者的困境相比，我的问题算不了什么。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/plight；
 
 ---
 

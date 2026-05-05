@@ -127,8 +127,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Sandra often wears a ribbon in her hair. `[例]`
+  - 中译：桑德拉经常在头发上扎一条丝带。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ribbon；
 > - A ribbon of road stretched ahead of us across the desert. `[例]`
+  - 中译：一条带状的道路在我们面前穿越沙漠延伸。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/ribbon；
 > - My typewriter needs a new ribbon. `[例]`
+  - 中译：我的打字机需要换一根新的色带。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ribbon；
 
 
 ---

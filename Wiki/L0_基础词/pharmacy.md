@@ -124,9 +124,14 @@ pharm-(药物，希腊语 *pharmakon*) + -acy(名词后缀，表场所/状态)
 
 > [!example]- 语料
 > - He took antidepressants, but had his prescriptions filled at a pharmacy 20 miles away. `[例]`
+  - 中译：他服用抗抑郁药，但在20英里外的药房取药。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pharmacy；
 > - The network operates from the FIP Collaborating Centre at the School of Pharmacy, University of London. `[例]`
+  - 中译：该网络在伦敦大学学院药学院的FIP合作中心运营。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/pharmacy；
 > - A typical independent pharmacy gets 92% of its income from prescriptions. `[例]`
-
+  - 中译：一家典型的独立药房92%的收入来自处方。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/pharmacy；
 
 ---
 

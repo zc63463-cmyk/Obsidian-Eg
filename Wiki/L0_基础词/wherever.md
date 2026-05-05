@@ -127,8 +127,14 @@ where（哪里/在……的地方）+ ever（曾经/永远）。where 源自古�
 
 > [!example]- 语料
 > - We can go wherever you like. `[真题]`
+>   - 中译：我们可以去任何你喜欢的地方。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/wherever；
 > - Wherever I go I always seem to bump into him. `[真题]`
+>   - 中译：无论我去哪里，似乎总会碰见他。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/wherever；
 > - All across Europe, wherever you look, marriage is in decline and divorce rates are soaring. `[真题]`
+>   - 中译：在整个欧洲，无论你往哪里看，婚姻都在衰落，离婚率在飙升。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/wherever；
 
 
 ---

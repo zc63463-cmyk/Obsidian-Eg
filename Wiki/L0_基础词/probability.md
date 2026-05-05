@@ -133,8 +133,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The probability of getting all the answers correct is about one in ten. `[例]`
+>   - 中译：所有答案都正确的概率大约是十分之一。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/probability；
 > - Until yesterday , the project was just a possibility , but now it has become a real probability (= it is likely to happen ). `[例]`
+>   - 中译：直到昨天，这个项目还只是一个可能性，但现在已经成为很可能发生的事情。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/probability；
 > - There's a high probability (= it is very likely that) she'll be here. `[例]`
+>   - 中译：她很可能会来这里。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/probability；
 
 
 ---

@@ -138,8 +138,14 @@ ego(我，拉丁语第一人称代词)
 
 > [!example]- 语料
 > - The ego mediates between the id and the superego, balancing primal desires with moral constraints. `[例]`
+>   - 中译：自我在本我和超我之间进行调解，平衡原始欲望与道德约束。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ego；
 > - His enormous ego prevented him from accepting any criticism or advice. `[例]`
+>   - 中译：他巨大的自尊心使他无法接受任何批评或建议。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/ego；
 > - Individuals with a fixed mindset tend to view failure as a blow to their ego rather than a learning opportunity. `[例]`
+>   - 中译：具有固定型思维模式的人往往将失败视为对自尊的打击，而不是学习的机会。；
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/ego；
 
 
 ---

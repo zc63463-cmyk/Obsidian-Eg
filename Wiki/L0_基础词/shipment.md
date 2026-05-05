@@ -134,8 +134,14 @@ ship(船/运送) + -ment(名词后缀，表示动作/结果)
 
 > [!example]- 语料
 > - Your order will be ready for shipment tomorrow. `[真题]`
+  - 中译：您的订单明天就可以发货。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/shipment；
 > - Shipments of cars to Middle East markets have risen steadily. `[真题]`
+  - 中译：运往中东市场的汽车出货量稳步增长。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/shipment；
 > - A shipment of urgent medical supplies is expected to arrive very soon. `[真题]`
+  - 中译：一批紧急医疗物资预计很快到达。；
+  - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/shipment；
 
 
 ---

@@ -129,8 +129,14 @@ review_count: 0
 
 > [!example]- 语料
 > - They managed to smuggle a video of the captive journalists out of the prison. `[例]`
+  - 中译：他们设法将被囚禁记者的视频从监狱中走私出来。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/smuggle；
 > - He was caught trying to smuggle goods across the border. `[例]`
+  - 中译：他试图将货物走私越境时被抓获。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/smuggle；
 > - He was sentenced to 65 months in prison for smuggling 14 kilograms of cocaine. `[例]`
+  - 中译：因走私14公斤可卡因，他被判处65个月监禁。；
+  - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/smuggle；
 
 
 ---

@@ -129,8 +129,14 @@ staple 源自古英语 *stapol*（柱子、标杆），与 [[st-sta-stat|st-/sta
 
 > [!example]- 语料
 > - Shortages mean that even staples (= basic foods ) like bread are difficult to find. `[例]`
+>   - 中译：物资短缺意味着连面包这样的主食都很难找到。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/staple；
 > - Phosphate has been a staple of this area for many years. `[例]`
+>   - 中译：多年来，磷一直是这个地区的主要产品。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/staple；
 > - Romantic fiction and reference books are a staple of many public libraries. `[例]`
+>   - 中译：言情小说和参考书是许多公共图书馆的主要藏书。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/staple；
 
 
 ---

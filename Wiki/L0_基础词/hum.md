@@ -127,8 +127,14 @@ hum（拟声词，模拟嘴唇闭合时声带振动发出的低沉嗡嗡声，�
 
 > [!example]- 语料
 > - The computers were humming in the background. `[例]`
+  - 中译：电脑在背景中嗡嗡作响。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hum；
 > - What's that strange humming sound? `[例]`
+  - 中译：那个奇怪的嗡嗡声是什么？；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hum；
 > - She hummed to herself as she walked to school. `[例]`
+  - 中译：她走路去学校时独自哼着曲子。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hum；
 
 
 ---

@@ -126,7 +126,11 @@ review_count: 0
 > [!example]- 语料
 > - And William Sahlman of the Harvard Business School believes that people will look back on this period as "a golden age" of business management in America. `[真题]`
 > - He's got a place at university which gives him a golden opportunity to do research in the subject which interests him. `[例]`
+  - 中译：他获得了大学入学名额，这给了他一个从事自己感兴趣学科研究的绝佳机会。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/golden；
 > - The golden rule of treating others as you would like to be treated is a fundamental principle in many cultures. `[例]`
+  - 中译：己所不欲勿施于人的金科玉律是许多文化中的基本原则。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/golden；
 
 
 ---

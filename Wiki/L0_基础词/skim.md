@@ -146,8 +146,14 @@ review_count: 0
 
 > [!example]- 语料
 > - We watched a child skimming stones across the lake. `[例]`
+  - 中译：我们看着一个孩子在湖面上打水漂。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/skim；
 > - We've only skimmed the surface of (= considered a small part of) the problem. `[例]`
+  - 中译：我们只触及了问题的表面。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/skim；
 > - Strain the cooking liquid and skim off the fat. `[例]`
+  - 中译：将烹饪液过滤，撇去浮油。；
+  - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/skim；
 
 
 ---

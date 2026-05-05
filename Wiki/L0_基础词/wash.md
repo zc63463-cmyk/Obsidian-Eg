@@ -132,8 +132,14 @@ review_count: 0
 
 > [!example]- 语料
 > - These sheets need washing. `[例]`
+>   - 中译：这些床单需要洗了。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/wash；
 > - We use a linen-mix fabric , which washes well and is soft to the touch. `[例]`
+>   - 中译：我们使用亚麻混纺面料，耐洗且手感柔软。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/wash；
 > - How often do you wash your hair? `[例]`
+>   - 中译：你多久洗一次头发？；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/wash；
 
 
 ---

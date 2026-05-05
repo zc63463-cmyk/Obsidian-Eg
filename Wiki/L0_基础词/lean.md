@@ -139,8 +139,14 @@ review_count: 0
 
 > [!example]- 语料
 > - She leaned forward and whispered something in my ear. `[例]`
+> -   - 中译：她探身向前，在我耳边低声说了些什么；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lean；
 > - I sat down next to Bernard, who leaned over to me and said "You're late. `[例]`
+> -   - 中译：我在伯纳德旁边坐下，他探过身来对我说：'你迟到了'；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lean；
 > - That fence is leaning to the right. `[例]`
+> -   - 中译：那道栅栏向右倾斜了；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lean；
 
 
 ---

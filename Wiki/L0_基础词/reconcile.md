@@ -131,9 +131,17 @@ re-（再，重新）+ concili（召集，拉丁语 *conciliare* "召集、联�
 
 > [!example]- 语料
 > - She and Eddie had separated and reconciled so many times the children had lost track of whose clothes were where. `[例]`
+  - 中译：她和埃迪分分合合太多次了，孩子们都搞不清谁的衣服放在哪里了。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/reconcile；
 > - He thought they might reconcile the Parisians to his daring design by reminding them of the familiar arches of their bridges. `[例]`
+  - 中译：他认为可以通过提醒巴黎人他们桥梁上熟悉的拱形来让他们接受他大胆的设计。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/reconcile；
 > - She had to reconcile herself to the fact that her dream job was no longer available and start looking for other opportunities. `[例]`
+  - 中译：她不得不接受梦想的工作已不再可用这一事实，开始寻找其他机会。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/reconcile；
 > - A good mediator can help reconcile differences between conflicting parties and reach a mutually acceptable agreement. `[例]`
+  - 中译：一位优秀的调解人可以帮助调和冲突各方之间的分歧，达成双方都能接受的协议。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/reconcile；
 
 
 ---

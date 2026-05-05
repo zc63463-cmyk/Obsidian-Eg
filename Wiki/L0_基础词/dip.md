@@ -132,8 +132,14 @@ review_count: 0
 
 > [!example]- 语料
 > - She dipped her toe into the pool to see how cold it was. `[例]`
+  - 中译：她把脚趾伸进泳池里试试水有多冷。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/dip；
 > - As you turn the corner , the road dips suddenly. `[例]`
+  - 中译：转弯时，路面突然下倾。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/dip；
 > - The sun dipped below the horizon. `[例]`
+  - 中译：太阳沉入了地平线以下。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/dip；
 
 
 ---

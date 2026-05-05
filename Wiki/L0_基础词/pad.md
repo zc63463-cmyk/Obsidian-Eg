@@ -132,8 +132,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The company was accused of padding its expense reports to claim reimbursement for costs that were never actually incurred. `[真题]`
+>   - 中译：该公司被指控虚报费用报告，以获取从未实际发生费用的报销。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pad；
 > - The space agency successfully launched the satellite from the newly constructed launch pad at the coastal facility. `[真题]`
+>   - 中译：航天局从沿海设施新建的发射台成功发射了卫星。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pad；
 > - Soccer players often wear shin pads to protect their legs. `[例]`
+>   - 中译：足球运动员经常戴护腿板来保护腿部。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pad；
 
 
 ---

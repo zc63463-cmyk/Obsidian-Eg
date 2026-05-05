@@ -131,8 +131,14 @@ inject = in-(=into, 向内、进入) + [[ject|ject-/jac-]](投掷)
 
 > [!example]- 语料
 > - The government decided to inject billions of dollars into the economy to stimulate growth and prevent a deeper recession. `[真题]`
+  - 中译：政府决定向经济注入数十亿美元以刺激增长，防止更严重的衰退。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/inject；
 > - To inject new vitality into the traditional industry, the company has adopted innovative technologies and management strategies. `[真题]`
+  - 中译：为了给传统产业注入新的活力，公司采用了创新技术和管理策略。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/inject；
 > - The market rose by nearly 4% on news that the government is to inject cash into the financial system. `[例]`
+  - 中译：在政府将向金融系统注入资金的消息传出后，市场上涨了近4%。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/inject；
 
 
 ---

@@ -133,8 +133,14 @@ either 源自古英语 *ǣgðer*，由 *ā*（永远/也）+ *hwæther*（两者
 
 > [!example]- 语料
 > - And if one received a grape without having to provide her token in exchange at all, the other either tossed her own token at the researcher or out of the chamber. `[真题]`
+>   - 中译：如果一只猴子没有提供任何代币就得到了葡萄，另一只要么将自己的代币扔向研究者，要么扔出实验舱。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/either；
 > - Almost half of those surveyed said their companies were either in the middle of restructuring or about to embark on it. `[例]`
+>   - 中译：近一半的受访者表示，他们的公司要么正在重组中，要么即将开始重组。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/either；
 > - Either of the dresses will look good on you. `[例]`
+>   - 中译：这两条裙子你穿哪条都好看。；
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/either；
 
 
 ---

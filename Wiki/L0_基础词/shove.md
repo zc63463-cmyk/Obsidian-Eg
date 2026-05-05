@@ -134,8 +134,14 @@ shove（日耳曼语族原始词，与 shove/push 同源）
 
 > [!example]- 语料
 > - Reporters pushed and shoved as they tried to get close to the princess. `[例]`
+  - 中译：记者们推推搡搡，试图靠近公主。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/shove；
 > - Just wait your turn — there's no need to shove. `[例]`
+  - 中译：排队等着就行了——没必要推搡。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/shove；
 > - The police had to shove angry spectators out of the way as they led the murderer into the courthouse. `[例]`
+  - 中译：警察不得不推开愤怒的围观者，将凶手押入法庭。；
+  - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/shove；
 
 
 ---

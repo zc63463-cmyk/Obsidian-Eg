@@ -130,8 +130,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The researchers proposed a sly solution to the problem. `[真题]`
+  - 中译：研究人员提出了一个狡黠的解决方案。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/sly；
 > - He's a sly old devil - I wouldn't trust him with my money. `[例]`
+  - 中译：他是个狡猾的老家伙——我不会把钱交给他。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/sly；
 > - He drives his mother's car on the sly while she's at work. `[例]`
+  - 中译：他趁母亲上班时偷偷开她的车。；
+  - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/sly；
 
 
 ---

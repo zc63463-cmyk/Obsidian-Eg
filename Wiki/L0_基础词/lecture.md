@@ -127,8 +127,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Who's giving the lecture this afternoon? `[例]`
+> -   - 中译：今天下午谁做讲座？；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lecture；
 > - My dad gave me a lecture on the evils of alcohol last night. `[例]`
+> -   - 中译：我爸爸昨晚就酗酒的害处给我上了一课；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lecture；
 > - For ten years she lectured in law. `[例]`
+> -   - 中译：她教授法律十年；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lecture；
 
 
 ---

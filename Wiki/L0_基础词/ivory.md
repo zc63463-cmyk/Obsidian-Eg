@@ -123,8 +123,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Academics are often criticized for living in ivory towers, disconnected from real-world problems. `[真题]`
+>   - 中译：学者们常因生活在与现实问题脱节的象牙塔中而受到批评。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ivory；
 > - The international ban on ivory trade has helped protect elephant populations. `[真题]`
+>   - 中译：国际象牙贸易禁令有助于保护大象种群。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ivory；
 > - The time is past when researchers could sit in their ivory towers. `[真题]`
+>   - 中译：研究人员坐在象牙塔里的时代已经过去了。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ivory；
 
 
 ---

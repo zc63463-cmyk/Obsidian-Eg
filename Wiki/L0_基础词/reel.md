@@ -133,8 +133,14 @@ review_count: 0
 
 > [!example]- 语料
 > - He punched Connolly in the ear, sending him reeling. `[真题]`
+  - 中译：他一拳打在康诺利的耳朵上，打得他踉跄后退。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/reel；
 > - My head reeled with the sheer amount of information I had to process. `[真题]`
+  - 中译：大量需要处理的信息让我头晕目眩。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/reel；
 > - How do you post a reel on Instagram? `[例]`
+  - 中译：如何在Instagram上发布短视频？；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/reel；
 
 
 ---

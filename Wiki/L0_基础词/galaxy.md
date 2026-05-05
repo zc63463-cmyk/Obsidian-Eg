@@ -134,8 +134,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Thanks to science, we know that we live on a rock orbiting a mediocre star in a mediocre galaxy. `[例]`
+  - 中译：多亏了科学，我们知道我们生活在一颗围绕一颗平庸恒星运行的岩石上，而这颗恒星位于一个平庸的星系中。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/galaxy；
 > - The Galaxy consists of 100 billion stars. `[例]`
+  - 中译：银河系由一千亿颗恒星组成。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/galaxy；
 > - Present tonight at the long-awaited opening of this film are a whole galaxy of stars from the acting and musical professions. `[例]`
+  - 中译：今晚出席这部备受期待的电影首映式的有来自演艺和音乐界的众多明星。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/galaxy；
 
 
 ---

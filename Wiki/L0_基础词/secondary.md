@@ -134,8 +134,14 @@ review_count: 0
 
 > [!example]- 语料
 > - More than five thousand secondary school students have been expelled for cheating. `[真题]`
+  - 中译：已有超过五千名中学生因作弊被开除。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/secondary
 > - He had kidney cancer, with secondary tumours in the brain and lungs. `[真题]`
+  - 中译：他患有肾癌，脑部和肺部有继发性肿瘤。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/secondary
 > - Where these works end up is of secondary importance to us. `[真题]`
+  - 中译：这些作品最终去向何处在我们看来是次要的。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/secondary
 
 
 ---

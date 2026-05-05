@@ -133,7 +133,11 @@ review_count: 0
 > [!example]- 语料
 > - It fosters competition among citation providers. `[真题]`
 > - Would you consider fostering a child? `[例]`
+>   - 中译：你会考虑抚养一个孩子吗？；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/foster；
 > - She had always wanted to foster, to help children who might otherwise suffer as she had suffered. `[例]`
+>   - 中译：她一直想当寄养父母，帮助那些可能像她一样受苦的孩子。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/foster；
 
 
 ---

@@ -125,8 +125,14 @@ review_count: 0
 
 > [!example]- 语料
 > - We arrived at our destination tired and hungry. `[例]`
+  - 中译：我们在日落时分到达了目的地。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/destination；
 > - His letter never reached its destination. `[例]`
+  - 中译：这个岛屿是一个热门的旅游目的地。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/destination；
 > - The Caribbean is a popular holiday destination. `[例]`
+  - 中译：这趟航班的最终目的地是东京。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/destination；
 
 
 ---

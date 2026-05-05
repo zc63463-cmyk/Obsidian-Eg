@@ -126,8 +126,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The house was clean and tidy. `[例]`
+>   - 中译：房子干净整洁。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/tidy；
 > - His business deals make him a tidy sum. `[例]`
+>   - 中译：他的生意让他赚了一大笔钱。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/tidy；
 > - Tidy (up) these papers before you leave , please. `[例]`
+>   - 中译：请在离开前把这些文件整理好。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/tidy；
 
 
 ---

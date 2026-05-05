@@ -128,8 +128,14 @@ ex-(= [[de|ex-]]，向外) + il(e)(走/移动，拉丁语 *sulere*/\*ire*，与 
 
 > [!example]- 语料
 > - The deposed leaders are currently in exile in the neighbouring country. `[例]`
+  - 中译：被废黜的领导人目前流亡在邻国。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/exile；
 > - The monarch was exiled because of the coup. `[例]`
+  - 中译：君主因政变而被流放。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/exile；
 > - Many Cuban exiles live in Florida. `[例]`
+  - 中译：许多古巴流亡者居住在佛罗里达。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/exile；
 
 
 ---

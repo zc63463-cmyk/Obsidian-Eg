@@ -138,8 +138,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The market for their products is shrinking. `[例]`
+  - 中译：他们产品的市场正在萎缩。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/shrink；
 > - Treatment can shrink a tumour. `[例]`
+  - 中译：治疗可以使肿瘤缩小。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/shrink；
 > - Your sweater will shrink if you wash it at too high a temperature. `[例]`
+  - 中译：如果洗涤温度太高，你的毛衣会缩水。；
+  - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/shrink；
 
 
 ---

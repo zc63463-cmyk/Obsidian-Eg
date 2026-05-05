@@ -125,8 +125,14 @@ review_count: 0
 
 > [!example]- 语料
 > - He's such a mug, he believes everything she tells him. `[例]`
+> - 中译：他真是个傻瓜，她说什么他都信。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/mug；
 > - He was mugged in broad daylight. `[例]`
+> - 中译：他在光天化日之下被抢劫了。；
+> - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/mug；
 > - Who knocked over that mug of coffee? `[例]`
+> - 中译：谁打翻了那杯咖啡？；
+> - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/mug；
 
 
 ---

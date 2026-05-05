@@ -126,8 +126,14 @@ mid(中间，古英语 *mid*) + -[[st-sta-stat|st]](表方位的最高级后缀�
 
 > [!example]- 语料
 > - The country is in the midst of an economic crisis. `[真题]`
+> - 中译：该国正处于经济危机之中。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/midst；
 > - I'm sorry but I'm too busy to help right now — I'm in the midst of writing a report. `[真题]`
+> - 中译：抱歉，我现在太忙了帮不了你——我正在写报告。；
+> - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/midst；
 > - It was a moment of humanity in the midst of war. `[真题]`
+> - 中译：那是战争中的一幕人性光辉。；
+> - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/midst；
 
 
 ---

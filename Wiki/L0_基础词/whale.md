@@ -128,8 +128,14 @@ whale 源自古英语 *hwæl*，与古高地日耳曼语 *wal* 同源，属于�
 
 > [!example]- 语料
 > - The blue whale is the largest animal known to have ever existed on Earth. `[真题]`
+>   - 中译：蓝鲸是已知地球上存在过的最大的动物。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/whale；
 > - Commercial whaling in the 19th century nearly drove several whale species to extinction. `[真题]`
+>   - 中译：19世纪的商业捕鲸几乎使几种鲸鱼灭绝。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/whale；
 > - The 25-metre whale carcass washed up on the western Newfoundland community of Trout River. `[真题]`
+>   - 中译：一具25米长的鲸鱼尸体被冲上了纽芬兰西部特劳特河社区的岸边。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/whale；
 
 
 ---

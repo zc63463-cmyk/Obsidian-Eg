@@ -129,8 +129,14 @@ tube 源自拉丁语 *tubus*（管子、管道），词源不明。可能与拉�
 
 > [!example]- 语料
 > - Gases produced in the reaction pass through this tube and can then be collected. `[例]`
+>   - 中译：反应中产生的气体通过这根管道，然后可以被收集。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/tube；
 > - What's on the tube this weekend? `[例]`
+>   - 中译：这个周末电视上有什么节目？；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/tube；
 > - She lay in the hospital , tubes going in and out of her. `[例]`
+>   - 中译：她躺在医院里，身上插满了管子。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/tube；
 
 
 ---

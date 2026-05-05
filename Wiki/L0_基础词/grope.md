@@ -129,8 +129,14 @@ grope（源自古英语 *grāpian* "抓握"，日耳曼语系，与 grip "抓住
 
 > [!example]- 语料
 > - She groped for her glasses on the bedside table. `[例]`
+  - 中译：她在床头柜上摸索着找眼镜。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/grope；
 > - I had to grope my way up the dark stairs. `[例]`
+  - 中译：我不得不在黑暗的楼梯上摸索着往上走。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/grope；
 > - He groped me as I was going to the bar. `[例]`
+  - 中译：我去吧台时他对我不轨。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/grope；
 
 
 ---

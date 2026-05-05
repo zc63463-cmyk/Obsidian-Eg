@@ -131,8 +131,14 @@ review_count: 0
 
 > [!example]- 语料
 > - His arguments were based on faulty reasoning. `[例]`
+  - 中译：他的论点基于错误的推理。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/faulty；
 > - The company recalled over 500,000 cars last year because of a faulty connection in their new model. `[例]`
+  - 中译：公司去年因新车型存在连接缺陷而召回了超过50万辆汽车。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/faulty；
 > - The verdict was based on faulty reasoning on the part of the jury. `[例]`
+  - 中译：判决基于陪审团的错误推理。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/faulty；
 
 
 ---

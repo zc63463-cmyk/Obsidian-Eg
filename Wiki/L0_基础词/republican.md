@@ -124,9 +124,17 @@ re-(=res，事物) + public(公共的) + -an(属于……的/人)
 
 > [!example]- 语料
 > - There is a strong republican movement in the country. `[COCA-NEWS]`
+  - 中译：该国有着强大的共和运动。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/republican；
 > - Many business leaders were hoping for a Republican victory. `[COCA-NEWS]`
+  - 中译：许多商界领袖希望共和党获胜。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/republican；
 > - Republican leaders met with the president to discuss the budget proposal. `[COCA-NEWS]`
+  - 中译：共和党领袖与总统会面讨论预算提案。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/republican；
 > - The Republicans gained control of the House in the midterms. `[COCA-NEWS]`
+  - 中译：共和党人在中期选举中赢得了众议院的控制权。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/republican；
 
 
 ---

@@ -137,9 +137,14 @@ review_count: 0
 
 > [!example]- 语料
 > - He refused to soft-pedal an investigation into the scandal. `[真题]`
+  - 中译：他拒绝淡化对丑闻的调查。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pedal；
 > - She put her foot down on the accelerator pedal and the car surged forward. `[例]`
+  - 中译：她踩下油门踏板，汽车猛然加速。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/pedal；
 > - Zoox robotaxis have no gas pedal, steering wheel or other driver controls. `[例]`
-
+  - 中译：Zoox无人驾驶出租车没有油门踏板、方向盘或其他驾驶员控制装置。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/pedal；
 
 ---
 

@@ -122,8 +122,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The data can be divided into discrete categories for analysis. `[真题]`
+>   - 中译：数据可以分为离散的类别进行分析。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/discrete；
 > - Language consists of discrete units of sound that combine to form meaning. `[真题]`
+>   - 中译：语言由离散的语音单位组成，这些单位组合形成意义。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/discrete；
 > - The methodology can handle both continuous and discrete variables. `[真题]`
+>   - 中译：该方法可以处理连续变量和离散变量。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/discrete；
 
 
 ---

@@ -122,8 +122,14 @@ review_count: 0
 
 > [!example]- 语料
 > - It's a common superstition that black cats are unlucky. `[真题]`
+>   - 中译：黑猫不吉利是一种常见的迷信。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/superstition；
 > - According to superstition, if you walk under a ladder it brings you bad luck. `[真题]`
+>   - 中译：根据迷信说法，从梯子下面走过会带来厄运。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/superstition；
 > - The aid agency continues the battle against ignorance and superstition. `[真题]`
+>   - 中译：援助机构继续与无知和迷信作斗争。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/superstition；
 
 
 ---

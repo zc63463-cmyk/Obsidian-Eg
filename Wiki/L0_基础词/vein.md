@@ -132,9 +132,17 @@ vein（源自拉丁语 *vena*，"血管，矿脉"，与 [[veil]] 同源于印欧
 
 > [!example]- 语料
 > - The essay begins with a personal anecdote and continues in a reflective vein, examining how childhood experiences shape adult perspectives. `[真题]`
+>   - 中译：这篇文章以个人轶事开头，以反思的笔调继续，探讨童年经历如何塑造成年人的视角。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/vein；
 > - The marble has beautiful veins running through it. `[例]`
+>   - 中译：大理石上有美丽的纹理贯穿其中。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/vein；
 > - He continued in the same vein as last season but the players were different. `[例]`
+>   - 中译：他延续了上赛季的风格，但球员已经不同了。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/vein；
 > - She spoke to him in a sarcastic vein that left no room for misunderstanding. `[例]`
+>   - 中译：她以讽刺的口吻对他说话，不留任何误解的余地。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/vein；
 
 
 ---

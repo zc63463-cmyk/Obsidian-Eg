@@ -129,8 +129,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Lambs gambolling about in the fields. `[例]`
+>   - 中译：小羊在田野里蹦蹦跳跳。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lamb；
 > - She bought a side of lamb from the butcher's shop. `[例]`
+>   - 中译：她从肉铺买了一扇羊肉。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lamb；
 > - We saw a lamb being born. `[例]`
+>   - 中译：我们看到一只小羊出生。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lamb；
 
 
 ---

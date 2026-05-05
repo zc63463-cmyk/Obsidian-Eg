@@ -124,8 +124,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Mike opted for early retirement. `[例]`
+>   - 中译：迈克选择了提前退休。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/opt；
 > - Most people opt to have the operation. `[例]`
+>   - 中译：大多数人选择接受手术。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/opt；
 > - Instead of a soft drink , she opted for water. `[例]`
+>   - 中译：她没有选软饮料，而是选了水。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/opt；
 
 
 ---

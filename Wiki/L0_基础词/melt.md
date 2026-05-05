@@ -136,8 +136,14 @@ melt 源自古英语 *meltan*，与拉丁语 *molere*（磨碎）可能同源，
 
 > [!example]- 语料
 > - He'd been going to refuse, but his heart melted when he saw the children's faces. `[COCA-FICT]`
+> -   - 中译：他本打算拒绝，但看到孩子们的笑脸时，他的心软了；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/melt；
 > - Opposition to the government melted away after the president's speech. `[COCA-NEWS]`
+> -   - 中译：总统演讲后，对政府的反对意见消散了；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/melt；
 > - A line of melt trees rose above the morning fog. `[例]`
+> -   - 中译：一排融化的树木在晨雾中隐约可见；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/melt；
 
 
 ---

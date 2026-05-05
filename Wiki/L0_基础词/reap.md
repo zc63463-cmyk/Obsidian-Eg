@@ -131,8 +131,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The hikers rested under a towering reap near the coastal trail. `[例]`
+>   - 中译：徒步旅行者在一棵高大的芦苇旁休息，靠近海岸步道。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/reap；
 > - The cabin was built from durable reap gathered in the region. `[例]`
+>   - 中译：小屋是用该地区收集的耐用芦苇建造的。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/reap；
 > - A line of reap trees rose above the morning fog. `[例]`
+>   - 中译：一排芦苇树在晨雾中耸立。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/reap；
 
 
 ---

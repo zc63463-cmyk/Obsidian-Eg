@@ -129,8 +129,14 @@ pro-(向前/在前) + [[voc-vok|voc-]](呼唤/声音，拉丁语 *vocare*)
 
 > [!example]- 语料
 > - The prospect of increased prices has already provoked an outcry. `[例]`
+>   - 中译：价格上涨的前景已经引发了强烈抗议。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/provoke；
 > - Test results provoked fears that the reactor could overheat. `[例]`
+>   - 中译：测试结果引发了人们对反应堆可能过热的担忧。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/provoke；
 > - It was a vicious-looking dog and I didn't want to provoke it. `[例]`
+>   - 中译：那是一只看起来很凶的狗，我不想激怒它。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/provoke；
 
 
 ---

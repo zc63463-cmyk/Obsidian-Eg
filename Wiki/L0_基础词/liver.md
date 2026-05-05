@@ -119,8 +119,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Symptoms of the disease include an enlarged spleen or liver. `[例]`
+> -   - 中译：该疾病的症状包括脾脏或肝脏肿大；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/liver；
 > - Just the smell of liver cooking makes me gag. `[例]`
+> -   - 中译：光是煮肝的味道就让我恶心；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/liver；
 > - It started off as cancer of the liver but it spread to other areas of the body. `[例]`
+> -   - 中译：它最初是肝癌，但后来扩散到了身体其他部位；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/liver；
 
 
 ---

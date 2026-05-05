@@ -125,8 +125,14 @@ fragr(=fragrare, 散发气味，拉丁语 fragrare 散发气味) + -ant(形容�
 
 > [!example]- 语料
 > - The air was fragrant with the smell of orange blossoms. `[COCA-FIC]`
+>   - 中译：空气中弥漫着橙花的芳香。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fragrant；
 > - Small, deliciously fragrant flowers appear in autumn when most other plants have faded. `[COCA-NEWS]`
+>   - 中译：小巧而芳香怡人的花朵在秋天开放，此时大多数其他植物已经凋零。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fragrant；
 > - The narrow strip of sand is backed by fragrant pines and is pretty as well as accessible. `[BNC-NEWS]`
+>   - 中译：这条狭窄的沙滩后面是芳香的松树，既美丽又方便到达。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fragrant；
 
 
 ---

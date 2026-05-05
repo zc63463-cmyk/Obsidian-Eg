@@ -128,9 +128,17 @@ review_count: 0
 
 > [!example]- 语料
 > - But by 55, she had developed severe heart valve disease because of heavy radiation doses. `[COCA-NEWS]`
+>   - 中译：到55岁时，由于大量辐射剂量，她患上了严重的心脏瓣膜疾病。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/valve；
 > - A doctor advised the 26-year-old to seek heart valve surgery in the nearest major city, 200 miles away. `[COCA-NEWS]`
+>   - 中译：医生建议这位26岁的年轻人前往200英里外最近的大城市接受心脏瓣膜手术。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/valve；
 > - The aortic valve, ascending aorta and the two brachiocephalic arteries were normally developed. `[例]`
+>   - 中译：主动脉瓣、升主动脉和两支头臂动脉发育正常。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/valve；
 > - The reserve valve and bypass valve are also on the left. `[例]`
+>   - 中译：备用阀和旁通阀也在左侧。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/valve；
 
 
 ---

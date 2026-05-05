@@ -140,9 +140,14 @@ patri(父亲/祖国，希腊语 *patēr*) + -otic(形容词后缀，……的)
 
 > [!example]- 语料
 > - At the heart of their slow and often frustrating work is a quest for justice and a sense of patriotic duty. `[真题]`
+  - 中译：在他们缓慢而常常令人沮丧的工作核心，是对正义的追求和一种爱国责任感。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/patriotic；
 > - History is being quoted and patriotic songs revived. `[真题]`
+  - 中译：历史被引用，爱国歌曲被重新传唱。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/patriotic；
 > - Woosnam was fiercely patriotic. `[真题]`
-
+  - 中译：伍斯南是一位强烈的爱国者。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/patriotic；
 
 ---
 

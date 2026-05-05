@@ -134,8 +134,14 @@ run 源自古英语 *rinnan*，*ærnan*，原始日耳曼语 *\*rinnanan*，PIE 
 
 > [!example]- 语料
 > - In the long run, the costs of environmental damage will far outweigh any short-term economic gains. `[真题]`
+  - 中译：从长远来看，环境破坏的成本将远远超过任何短期经济收益。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/run
 > - She runs a successful small business in the city centre. `[真题]`
+  - 中译：她在市中心经营着一家成功的小企业。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/run
 > - He decided to run for president in the next election. `[真题]`
+  - 中译：他决定在下次选举中竞选总统。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/run
 
 
 ---

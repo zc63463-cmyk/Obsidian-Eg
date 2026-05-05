@@ -131,8 +131,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Please specify the dimensions (= the height , length and width ) of the room. `[例]`
+  - 中译：请说明房间的高度、长度和宽度。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/dimension；
 > - A building of vast dimensions (= size ). `[例]`
+  - 中译：一座巨大的建筑。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/dimension；
 > - His personality has several dimensions. `[例]`
+  - 中译：他的性格有多个层面。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/dimension；
 
 
 ---

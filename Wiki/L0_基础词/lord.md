@@ -128,8 +128,14 @@ review_count: 0
 
 > [!example]- 语料
 > - His gang have been engaged in a bloody feud with a rival crime lord. `[例]`
+> -   - 中译：他的团伙与一个敌对的犯罪头目之间一直存在血腥的恩怨；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lord；
 > - Several alleged drug lords are to be put on trial. `[例]`
+> -   - 中译：几名被指控的毒枭将接受审判；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lord；
 > - He likes to lord it over his little sister. `[例]`
+> -   - 中译：他喜欢对他妹妹摆架子；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lord；
 
 
 ---

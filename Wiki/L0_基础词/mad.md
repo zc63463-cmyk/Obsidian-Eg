@@ -136,8 +136,14 @@ review_count: 0
 
 > [!example]- 语料
 > - He must be mad spending all that money on a coat. `[例]`
+> -   - 中译：他花那么多钱买一件外套，一定是疯了；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/mad；
 > - Some of the things she does are completely mad. `[例]`
+> -   - 中译：她做的有些事情完全疯了；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/mad；
 > - He's always complaining and it makes me so mad. `[例]`
+> -   - 中译：他总是抱怨，让我很生气；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/mad；
 
 
 ---

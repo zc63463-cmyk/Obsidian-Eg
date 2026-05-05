@@ -123,8 +123,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Her speech failed to sway her colleagues into supporting the plan. `[例]`
+>   - 中译：她的演讲未能说服同事们支持这个计划。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sway；
 > - Recent developments have swayed the balance of power in the region. `[例]`
+>   - 中译：最近的事态发展改变了该地区的力量平衡。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/sway；
 > - Traditional values still hold sway in many rural communities. `[例]`
+>   - 中译：传统价值观在许多农村社区仍然占主导地位。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sway；
 
 
 ---

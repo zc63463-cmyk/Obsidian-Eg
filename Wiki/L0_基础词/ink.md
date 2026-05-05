@@ -127,8 +127,14 @@ ink 源自拉丁语 *encaustum*（烧制的颜料），源自希腊语 *enkausto
 
 > [!example]- 语料
 > - The two companies finally inked a deal after months of negotiation, marking a new chapter in their partnership. `[真题]`
+  - 中译：两家公司经过数月的谈判终于签署了协议，标志着双方合作关系的新篇章。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ink；
 > - In the age of digital media, traditional ink-and-paper newspapers are facing unprecedented challenges. `[真题]`
+  - 中译：在数字媒体时代，传统的纸质报纸正面临前所未有的挑战。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ink；
 > - She inked a six-figure deal with a sportswear brand that included her college tuition. `[例]`
+  - 中译：她与一家运动品牌签下了一笔六位数的协议，其中包含她的大学学费。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ink；
 
 
 ---

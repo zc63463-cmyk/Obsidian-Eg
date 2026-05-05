@@ -129,8 +129,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The screws holding the bed together had loosened. `[例]`
+> -   - 中译：固定床的螺丝松了；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/loosen；
 > - He loosened his tie. `[例]`
+> -   - 中译：他松开了领带；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/loosen；
 > - The screws holding the light fixture have loosened, and it’s dangling from the ceiling. `[例]`
+> -   - 中译：固定灯具的螺丝松了，灯具从天花板上垂下来；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/loosen；
 
 
 ---

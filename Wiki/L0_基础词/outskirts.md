@@ -124,8 +124,14 @@ out-(向外) + skirt(边缘/裙边) + -s(复数)
 
 > [!example]- 语料
 > - The factory is located on the outskirts of New Delhi, where land is cheaper and more available. `[COCA-NEWS]`
+>   - 中译：工厂位于新德里郊区，那里土地更便宜且更容易获得。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/outskirts；
 > - Her parents lived in a big house on the outskirts of Manchester, away from the noise of the city centre. `[BNC-FICT]`
+>   - 中译：她的父母住在曼彻斯特郊区的一栋大房子里，远离市中心的喧嚣。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/outskirts；
 > - There are plans to build a new shopping mall on the outskirts of town. `[COCA-NEWS]`
+>   - 中译：有计划在城镇郊区建造一个新的购物中心。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/outskirts；
 
 
 ---

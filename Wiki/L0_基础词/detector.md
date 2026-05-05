@@ -127,8 +127,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Using metal detectors to improve safety at airports. `[例]`
+  - 中译：在机场使用金属探测器以提高安全性。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/detector；
 > - A motion detector to thwart burglaries. `[例]`
+  - 中译：用于防止入室盗窃的运动探测器。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/detector；
 > - The detectors were right outside the event hall and where the bathrooms for the event were located, and the assailant was taken to the ground about 10 to 15 feet beyond them, attendees said. `[例]`
+  - 中译：据与会者说，探测器就在活动大厅外面和活动卫生间所在的位置，袭击者在探测器外约10到15英尺处被制服。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/detector；
 
 
 ---

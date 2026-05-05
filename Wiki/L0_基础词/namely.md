@@ -124,8 +124,14 @@ review_count: 0
 
 > [!example]- 语料
 > - We need to get more teachers into the classrooms where they're most needed , namely in high poverty areas. `[例]`
+> - 中译：我们需要把更多教师派到最需要他们的教室去，即高贫困地区。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/namely；
 > - I learned an important lesson when I lost my job , namely that nothing is a hundred percent guaranteed. `[例]`
+> - 中译：我失业时学到了重要的一课，即没有任何事是百分之百有保障的。；
+> - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/namely；
 > - He suggested that these so-called contributions are something else , namely taxes. `[例]`
+> - 中译：他暗示这些所谓的贡献实际上是另一种东西，即税收。；
+> - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/namely；
 
 
 ---

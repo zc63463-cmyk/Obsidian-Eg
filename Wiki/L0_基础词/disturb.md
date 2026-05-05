@@ -130,8 +130,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Please do not disturb the wildlife when visiting the nature reserve. `[真题]`
+>   - 中译：参观自然保护区时请勿打扰野生动物。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/disturb；
 > - The light in the wards was dimmed in order not to disturb the patients in their sleep. `[真题]`
+>   - 中译：病房里的灯光被调暗，以免打扰病人睡眠。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/disturb；
 > - This year's election campaign has disturbed a lot of voters who don't like either candidate. `[真题]`
+>   - 中译：今年的竞选活动让很多不喜欢任何一位候选人的选民感到不安。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/disturb；
 
 
 ---

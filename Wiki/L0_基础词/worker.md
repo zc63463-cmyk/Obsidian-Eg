@@ -128,9 +128,17 @@ review_count: 0
 
 > [!example]- 语料
 > - The decline of manufacturing has left many factory workers unemployed and struggling to find new jobs. `[真题]`
+>   - 中译：制造业的衰退使许多工厂工人失业，难以找到新工作。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/worker；
 > - In the modern economy, knowledge workers are often more valued than manual laborers. `[真题]`
+>   - 中译：在现代经济中，知识工作者往往比体力劳动者更受重视。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/worker；
 > - Migrant workers contribute significantly to the agricultural sector, yet they frequently lack basic labor protections. `[真题]`
+>   - 中译：农民工对农业部门做出了重大贡献，但他们往往缺乏基本的劳动保护。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/worker；
 > - Worker bees are responsible for collecting nectar and maintaining the hive's structure. `[真题]`
+>   - 中译：工蜂负责采集花蜜和维护蜂巢结构。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/worker；
 
 
 ---

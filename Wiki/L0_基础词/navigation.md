@@ -130,8 +130,14 @@ nav（船，拉丁语 *navis*）+ -ig（驱动，源自拉丁语 *agere* "驱动
 
 > [!example]- 语料
 > - In the past, navigation depended on a knowledge of the positions of the stars. `[例]`
+> - 中译：过去，航海依赖于对恒星位置的了解。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/navigation；
 > - Mechanics discovered problems with the plane's navigation system. `[例]`
+> - 中译：机械师发现了飞机导航系统的问题。；
+> - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/navigation；
 > - We have streamlined our website for easier navigation. `[例]`
+> - 中译：我们优化了网站以便于更轻松地导航。；
+> - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/navigation；
 
 
 ---

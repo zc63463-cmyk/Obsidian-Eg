@@ -127,8 +127,14 @@ e-(=ex-, 出) + stime(=[[st-sta-stat|st-]]/estimate, 估计，源自拉丁语 *a
 
 > [!example]- 语料
 > - There has been a drop in public esteem for teachers. `[例]`
+  - 中译：公众对教师的尊重有所下降。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/esteem；
 > - Because of their achievements they were held in (= given) esteem. `[例]`
+  - 中译：由于他们的成就，他们受到了尊敬。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/esteem；
 > - Be assured that I hold you in high esteem. `[例]`
+  - 中译：请放心，我非常敬重你。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/esteem；
 
 
 ---

@@ -130,8 +130,14 @@ marvel（令人惊叹的事物，源自拉丁语 *mirabilia*，*mirari* "惊叹�
 
 > [!example]- 语料
 > - The researchers proposed a marvelous solution to the problem. `[例]`
+> -   - 中译：研究人员提出了一个绝妙的解决方案；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/marvelous；
 > - These dogs have a marvelous sense of smell. `[例]`
+> -   - 中译：这些狗有极好的嗅觉；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/marvelous；
 > - The plan offers a marvelous option for small organizations. `[例]`
+> -   - 中译：该计划为小型组织提供了一个极好的选择；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/marvelous；
 
 
 ---

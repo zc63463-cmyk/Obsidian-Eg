@@ -128,8 +128,14 @@ jam 的词源不太确定。名词"果酱"可能源自动词 jam "挤压"——�
 
 > [!example]- 语料
 > - Commuters were stuck in a massive traffic jam on the highway this morning. `[真题]`
+>   - 中译：今天早上，通勤者被困在高速公路上的大堵车中。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/jam；
 > - The system is jammed with too many requests. `[真题]`
+>   - 中译：系统因请求过多而卡住了。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/jam；
 > - I'm in a bit of a jam and could really use your help. `[真题]`
+>   - 中译：我遇到了一点麻烦，真的很需要你的帮助。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/jam；
 
 
 ---

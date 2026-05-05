@@ -135,9 +135,17 @@ review_count: 0
 
 > [!example]- 语料
 > - He inspired many young people to take up the sport. `[真题]`
+  - 中译：他激励了许多年轻人从事这项运动。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/inspire；
 > - The caves cannot but inspire wonder in the beholder. `[真题]`
+  - 中译：这些洞穴不能不让观者心生敬畏。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/inspire；
 > - His driving hardly inspires confidence. `[真题]`
+  - 中译：他的驾驶技术很难让人产生信心。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/inspire；
 > - Our challenge is to motivate those voters and inspire them to join our cause. `[例]`
+  - 中译：我们的挑战是激励那些选民，鼓舞他们加入我们的事业。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/inspire；
 
 
 ---

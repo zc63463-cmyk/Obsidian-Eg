@@ -134,9 +134,17 @@ re-（回，向后）+ cip（拿，=capere 的缩略形式）+ -e
 
 > [!example]- 语料
 > - I tried a new recipe for chocolate cake and it turned out wonderfully. `[例]`
+  - 中译：我尝试了一个新的巧克力蛋糕配方，结果非常棒。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/recipe；
 > - If you want the dish to turn out right, you should follow the recipe carefully. `[例]`
+  - 中译：如果你想让这道菜做成功，就应该仔细按照食谱来操作。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/recipe；
 > - To live every day to the full is a recipe for happiness. `[例]`
+  - 中译：充实地度过每一天就是幸福的秘诀。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/recipe；
 > - His reckless spending habits were a recipe for financial disaster. `[例]`
+  - 中译：他挥霍无度的消费习惯注定会导致财务灾难。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/recipe；
 
 
 ---

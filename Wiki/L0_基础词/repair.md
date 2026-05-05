@@ -135,8 +135,14 @@ re-（[[re-|再，重新]]）+ par（[[par|准备]]，拉丁语 *parare*）→ �
 
 > [!example]- 语料
 > - The road is under repair, so we have to take a detour. `[真题]`
+  - 中译：这条路正在维修，所以我们不得不绕道而行。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/repair；
 > - It will take a long time to repair the damage caused by the financial crisis. `[真题]`
+  - 中译：修复金融危机造成的损害需要很长时间。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/repair；
 > - The car was damaged to such an extent that it couldn't be repaired. `[例]`
+  - 中译：汽车损坏严重到无法修复的程度。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/repair；
 
 
 ---

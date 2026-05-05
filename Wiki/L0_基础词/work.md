@@ -140,9 +140,17 @@ review_count: 0
 
 > [!example]- 语料
 > - The scientific method is at work in every field of inquiry, from physics to sociology. `[真题]`
+>   - 中译：科学方法在从物理学到社会学的每一个研究领域中都在发挥作用。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/work；
 > - She has spent years studying the works of Shakespeare and their influence on modern literature. `[真题]`
+>   - 中译：她花了多年时间研究莎士比亚的作品及其对现代文学的影响。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/work；
 > - The new policy doesn't seem to be working as effectively as the government had hoped. `[真题]`
+>   - 中译：新政策似乎没有像政府希望的那样有效地发挥作用。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/work；
 > - The steel works on the outskirts of town used to employ over a thousand people. `[真题]`
+>   - 中译：镇郊的钢铁厂曾经雇佣了一千多人。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/work；
 
 
 ---

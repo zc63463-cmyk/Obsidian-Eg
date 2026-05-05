@@ -127,8 +127,14 @@ in-(=使动，进入) + timid(害怕的，拉丁语 *timidus*) + -ate(动词后�
 
 > [!example]- 语料
 > - They were intimidated into accepting a pay cut by the threat of losing their jobs. `[例]`
+>   - 中译：他们在失去工作的威胁下被迫接受减薪。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/intimidate；
 > - They were accused of trying to intimidate voters. `[例]`
+>   - 中译：他们被指控试图恐吓选民。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/intimidate；
 > - At first, she slightly intimidated me but now we are good friends. `[例]`
+>   - 中译：起初她让我有点畏惧，但现在我们是好朋友了。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/intimidate；
 
 
 ---

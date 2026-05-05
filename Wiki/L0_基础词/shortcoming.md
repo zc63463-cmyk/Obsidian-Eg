@@ -126,8 +126,14 @@ short(短的，不够) + coming(到来，名词化)
 
 > [!example]- 语料
 > - Like any political system, it has its shortcomings. `[真题]`
+  - 中译：像任何政治体制一样，它也有自己的不足之处。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/shortcoming；
 > - Despite his shortcomings with computers, he was still an excellent colleague. `[真题]`
+  - 中译：尽管他在计算机方面有所不足，但他仍然是一位出色的同事。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/shortcoming；
 > - We must acknowledge the shortcomings of the current education system and work to improve them. `[真题]`
+  - 中译：我们必须承认当前教育体系的不足，并努力加以改进。；
+  - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/shortcoming；
 
 
 ---

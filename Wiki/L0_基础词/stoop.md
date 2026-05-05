@@ -127,8 +127,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The doorway was so low that we had to stoop to go through it. `[例]`
+>   - 中译：门道太低了，我们不得不弯腰才能通过。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/stoop；
 > - Something fell out of her coat pocket and she stooped down and picked it up. `[例]`
+>   - 中译：有东西从她的外套口袋里掉了出来，她弯腰捡了起来。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/stoop；
 > - He's over six feet tall , but the way he stoops makes him look shorter. `[例]`
+>   - 中译：他身高超过六英尺，但他驼背的样子使他看起来矮一些。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/stoop；
 
 
 ---

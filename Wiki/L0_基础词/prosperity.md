@@ -124,8 +124,14 @@ pro-(向前/在前) + [[sper|sper]](希望) + -ity(名词后缀，表状态)
 
 > [!example]- 语料
 > - A country's future prosperity depends , to an extent , upon the quality of education of its people. `[例]`
+>   - 中译：一个国家未来的繁荣在某种程度上取决于其人民的教育质量。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/prosperity；
 > - The war was followed by a long period of peace and prosperity. `[例]`
+>   - 中译：战争之后是一段漫长的和平与繁荣时期。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/prosperity；
 > - We need to drive growth and create jobs and prosperity. `[例]`
+>   - 中译：我们需要推动增长，创造就业和繁荣。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/prosperity；
 
 
 ---

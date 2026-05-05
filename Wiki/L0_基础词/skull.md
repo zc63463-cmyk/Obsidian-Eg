@@ -141,8 +141,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The soldiers discovered a pile of human skulls and bones. `[例]`
+  - 中译：士兵们发现了一堆人类头骨和骨头。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/skull；
 > - She fractured her skull in the accident. `[例]`
+  - 中译：她在事故中颅骨骨折。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/skull；
 > - The bones of the skull are not properly fused at birth. `[例]`
+  - 中译：头骨的骨骼在出生时并未完全愈合。；
+  - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/skull；
 
 
 ---

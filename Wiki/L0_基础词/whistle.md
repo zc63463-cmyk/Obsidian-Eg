@@ -130,8 +130,14 @@ whistle 源自古英语 *hwistlian*（吹口哨、发出嘶嘶声），属于日
 
 > [!example]- 语料
 > - He whistled as he worked. `[例]`
+>   - 中译：他一边工作一边吹口哨。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/whistle；
 > - On the days when she wore a skirt the men on the building site would whistle at her. `[例]`
+>   - 中译：在她穿裙子的日子里，建筑工地上的男人们会对她吹口哨。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/whistle；
 > - Someone was whistling Beatles tunes outside my window. `[例]`
+>   - 中译：有人在我窗外吹披头士的曲子。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/whistle；
 
 
 ---

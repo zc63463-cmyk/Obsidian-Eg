@@ -132,8 +132,14 @@ ut-(=out，向外) + -most(最高级后缀，最……的)
 
 > [!example]- 语料
 > - We are not boycotting PRH titles but we are doing our utmost to ensure that availability for customers remains good despite the lower overall levels of stock. `[真题]`
+>   - 中译：我们并没有抵制企鹅兰登书屋的图书，但我们正在尽最大努力确保尽管总体库存水平较低，客户仍能获得良好的供货。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/utmost；
 > - The situation needs to be handled with the utmost care. `[例]`
+>   - 中译：这种情况需要极其谨慎地处理。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/utmost；
 > - The new model of the car offers the utmost in power and performance. `[例]`
+>   - 中译：这款新车型在动力和性能方面都达到了极致。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/utmost；
 
 
 ---

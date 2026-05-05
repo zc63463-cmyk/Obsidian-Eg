@@ -126,9 +126,17 @@ review_count: 0
 
 > [!example]- 语料
 > - The Prime Minister addressed the nation on television regarding the new policy. `[真题]`
+> - 中译：首相就新政策向全国发表电视讲话。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/minister；
 > - She spent years ministering to the needs of the poor in rural areas. `[真题]`
+> - 中译：她多年来在农村地区照顾穷人的需求。；
+> - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/minister；
 > - The defence minister held a press conference to announce the new military strategy. `[真题]`
+> - 中译：国防部长举行新闻发布会宣布新的军事战略。；
+> - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/minister；
 > - He volunteered to help minister to the sick at the local hospice. `[真题]`
+> - 中译：他自愿到当地临终关怀医院帮助照顾病人。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/minister；
 
 
 ---

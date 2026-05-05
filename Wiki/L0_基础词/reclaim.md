@@ -132,9 +132,17 @@ review_count: 0
 
 > [!example]- 语料
 > - The Netherlands has been reclaiming farmland from water for centuries through an intricate system of dikes and canals. `[例]`
+  - 中译：几个世纪以来，荷兰一直通过复杂的堤坝和运河系统从水中开垦农田。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/reclaim；
 > - The good news for the industry was that investors did not seem to be in any hurry to reclaim their money. `[例]`
+  - 中译：对这个行业来说，好消息是投资者似乎并不急于收回他们的资金。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/reclaim；
 > - You may be entitled to reclaim some of the tax you paid last year if you meet certain eligibility criteria. `[例]`
+  - 中译：如果你符合某些资格条件，你可能有资格追回去年缴纳的部分税款。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/reclaim；
 > - Many modern recycling programmes are designed to reclaim waste materials and convert them into usable products. `[例]`
+  - 中译：许多现代回收项目旨在回收废弃材料并将其转化为可用的产品。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/reclaim；
 
 
 ---

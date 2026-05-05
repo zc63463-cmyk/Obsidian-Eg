@@ -128,8 +128,14 @@ review_count: 0
 
 > [!example]- 语料
 > - A roadside memorial was set up at the intersection where the tragedy happened. `[真题]`
+>   - 中译：悲剧发生地的十字路口设立了一个路边纪念碑。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/intersection；
 > - Innovation often occurs at the intersection of different disciplines. `[真题]`
+>   - 中译：创新往往发生在不同学科的交汇处。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/intersection；
 > - We're at this intersection of digital, social and technology, which is critical to reach millennials. `[真题]`
+>   - 中译：我们正处于数字、社交和技术的交汇点，这对于触达千禧一代至关重要。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/intersection；
 
 
 ---

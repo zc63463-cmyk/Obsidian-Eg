@@ -135,9 +135,17 @@ review_count: 0
 
 > [!example]- 语料
 > - Figure 6.2 provides a graphic representation of the key processes in the management of change. `[例]`
+  - 中译：图6.2提供了变革管理中关键流程的图示。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/graphic；
 > - The video was removed over its graphic violence, YouTube said. `[例]`
+  - 中译：YouTube表示，该视频因含有血腥暴力画面而被删除。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/graphic；
 > - He gave a graphic description of how he thought that it would work in a modern factory under modern conditions. `[例]`
+  - 中译：他生动地描述了他认为这在现代工厂的条件下会如何运作。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/graphic；
 > - The files show in graphic detail how this harm has manifested. `[例]`
+  - 中译：这些文件以详尽直观的方式展示了这种危害是如何表现的。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/graphic；
 
 
 ---

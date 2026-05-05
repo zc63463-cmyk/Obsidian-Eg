@@ -130,9 +130,17 @@ review_count: 0
 
 > [!example]- 语料
 > - Everything comes displayed with a price tag. `[真题]`
+>   - 中译：每件商品都标有价格标签。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/tag；
 > - She was tagged as the most promising young scientist of her generation. `[真题]`
+>   - 中译：她被标记为同代人中最有前途的年轻科学家。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/tag；
 > - The prince of darkness tag is something he tries to live up to. `[真题]`
+>   - 中译：黑暗王子的称号是他努力想要配得上的。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/tag；
 > - Items such as bags of sugar or rice have layers of price tags stuck one on top of another. `[真题]`
+>   - 中译：像袋装糖或大米这样的商品上贴着一层又一层的价签。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/tag；
 
 
 ---

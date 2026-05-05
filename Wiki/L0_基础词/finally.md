@@ -125,8 +125,14 @@ review_count: 0
 
 > [!example]- 语料
 > - After months of looking he finally found a job. `[例]`
+>   - 中译：经过几个月的寻找，他终于找到了一份工作。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/finally；
 > - Finally, I'd like to thank everyone for coming this evening. `[例]`
+>   - 中译：最后，我想感谢今晚到场的每一个人。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/finally；
 > - The plan hasn't been finally approved. `[例]`
+>   - 中译：该计划尚未获得最终批准。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/finally；
 
 
 ---

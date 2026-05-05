@@ -132,9 +132,17 @@ review_count: 0
 
 > [!example]- 语料
 > - Most people do not even know their fourth cousins but somehow manage to select as friends the people who resemble our kin. `[真题]`
+>   - 中译：大多数人甚至不认识自己的远房表亲，但不知怎的却总能选择与自己亲属相似的人做朋友。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/kin；
 > - However, the Mesozoic is best known as the age of reptiles, when dinosaurs and their kin dominated the continents. `[例]`
+>   - 中译：然而，中生代最广为人知的是爬行动物时代，当时恐龙及其同类统治着各大洲。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/kin；
 > - The driver's name was being withheld until police could notify next of kin. `[例]`
+>   - 中译：在警方通知最近亲属之前，司机的姓名暂不公布。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/kin；
 > - The honor guard will fold and present a flag to the next of kin. `[例]`
+>   - 中译：仪仗队将折叠国旗并授予最近亲属。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/kin；
 
 
 ---

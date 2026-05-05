@@ -133,8 +133,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The building's 60 units are currently leased to students of the university. `[例]`
+> -   - 中译：这栋楼的60套公寓目前租给了这所大学的学生；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lease；
 > - He has the house on a long lease. `[例]`
+> -   - 中译：他以长期租约租下了这栋房子；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lease；
 > - We signed a three-year lease when we moved into the house. `[例]`
+> -   - 中译：我们搬进这栋房子时签了一份三年期的租约；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lease；
 
 
 ---

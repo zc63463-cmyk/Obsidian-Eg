@@ -129,8 +129,14 @@ review_count: 0
 
 > [!example]- 语料
 > - How many nations have a nuclear capability (= have nuclear weapons )? `[例]`
+>   - 中译：有多少国家拥有核能力（即拥有核武器）？；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/nuclear；
 > - Nuclear disarmament (= giving up or removing a country’s nuclear weapons ). `[例]`
+>   - 中译：核裁军（即放弃或消除一个国家的核武器）。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/nuclear；
 > - The country had agreed to disable its main nuclear fuel production plant by the end of the year. `[例]`
+>   - 中译：该国已同意在年底前关闭其主要核燃料生产设施。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/nuclear；
 
 
 ---

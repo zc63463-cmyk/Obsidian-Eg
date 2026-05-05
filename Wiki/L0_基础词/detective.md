@@ -133,8 +133,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Her new detective series will be her debut on the small screen. `[例]`
+  - 中译：她的新侦探系列将是她在小屏幕上的首秀。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/detective；
 > - She hired a private detective to find out if her husband was having an affair. `[例]`
+  - 中译：她雇了一名私家侦探来查明她的丈夫是否有外遇。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/detective；
 > - A private detective has apparently unearthed some fresh evidence. `[例]`
+  - 中译：一名私家侦探显然已经发现了一些新证据。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/detective；
 
 
 ---

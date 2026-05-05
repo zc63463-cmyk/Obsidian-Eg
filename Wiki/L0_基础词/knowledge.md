@@ -133,8 +133,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Caravanserais served as an informal 10 point for the various people who travelled the Silk Road. _.!l_ , these structures became important centers for cultural 12 and interaction, with travellers sharing their cultures, ideas and beliefs, 13 taking knowledge with them, greatly _l!_ the development of several civilisations. `[真题]`
+>   - 中译：商队旅馆为丝绸之路上的各种旅行者提供了非正式的聚集点。这些结构后来成为文化交流和互动的重要中心，旅行者们分享他们的文化、思想和信仰，并带走知识，极大地促进了几大文明的发展。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/knowledge；
 > - Her knowledge of English grammar is very extensive. `[例]`
+>   - 中译：她的英语语法知识非常渊博。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/knowledge；
 > - He has a limited knowledge of French. `[例]`
+>   - 中译：他的法语知识有限。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/knowledge；
 
 
 ---

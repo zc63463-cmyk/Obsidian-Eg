@@ -124,8 +124,14 @@ review_count: 0
 
 > [!example]- 语料
 > - I don't believe that the legal protection would have happened in the timeframe that it did without those images, " says Hansen, journalist and author of Prophets and Moguls, Rangers and Rogues, Bison and Bears: 100 Years of the National Park Service. `[真题]`
+>   - 中译：“我不相信如果没有那些照片，法律保护会在那个时间范围内实现，”记者兼《先知与大亨、游侠与流氓、野牛与熊：国家公园服务100年》一书的作者汉森说。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/prophet；
 > - Let us hear the words of the prophet Isaiah on the coming of the Prince of Peace. `[例]`
+>   - 中译：让我们聆听先知以赛亚关于和平之君降临的话语。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/prophet；
 > - Some believe that he was not a true prophet. `[例]`
+>   - 中译：有些人认为他不是真正的先知。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/prophet；
 
 
 ---

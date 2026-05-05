@@ -128,10 +128,17 @@ review_count: 0
 
 > [!example]- 语料
 > - They came to America after being persecuted for their religious beliefs. `[真题]`
+  - 中译：他们因宗教信仰受到迫害后来到了美国。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/persecute；
 > - For three years after DNA evidence proved his innocence, the authorities persisted in persecuting him. `[例]`
+  - 中译：在DNA证据证明他无罪三年后，当局仍然继续迫害他。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/persecute；
 > - His latest film is about the experience of being persecuted for being gay. `[例]`
+  - 中译：他最新的电影讲述的是因同性恋身份而遭受迫害的经历。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/persecute；
 > - Ever since the news broke about her divorce, she has been persecuted by the tabloid press. `[例]`
-
+  - 中译：自从她离婚的消息传出后，她一直受到小报的骚扰。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/persecute；
 
 ---
 

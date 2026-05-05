@@ -128,9 +128,17 @@ review_count: 0
 
 > [!example]- 语料
 > - My wife and I were on vacation in California. `[COCA-SPOKEN]`
+>   - 中译：我和妻子在加利福尼亚度假。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/vacation；
 > - Workers are entitled to five weeks of paid vacation each year. `[COCA-NEWS]`
+>   - 中译：工人每年享有五周带薪假期。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/vacation；
 > - She said that she plans to take a long vacation before deciding where she will work next. `[COCA-MAG]`
+>   - 中译：她说她计划先休一个长假，再决定下一步去哪里工作。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/vacation；
 > - The year is divided into two sessions or terms separated by the winter vacation. `[COCA-ACAD]`
+>   - 中译：学年分为两个学期，由寒假隔开。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/vacation；
 
 
 ---

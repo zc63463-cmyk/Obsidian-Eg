@@ -122,8 +122,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Many buildings were put to the torch (= burned intentionally ) during the riots. `[例]`
+>   - 中译：在骚乱中，许多建筑物被蓄意纵火焚烧。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/torch；
 > - If you have a cook's torch, use it to caramelize the sugar until it melts and goes brown. `[例]`
+>   - 中译：如果你有厨师喷灯，用它将糖焦化直到融化变成棕色。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/torch；
 > - Rescue workers were using acetylene torches to cut through railings. `[例]`
+>   - 中译：救援人员正在使用乙炔切割器切断栏杆。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/torch；
 
 
 ---

@@ -132,9 +132,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Can you tell the difference between poisonous mushrooms and edible varieties? `[例]`
+  - 中译：你能分辨出有毒蘑菇和可食用品种的区别吗？；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/poisonous；
 > - He said some poisonous things to me. `[例]`
+  - 中译：他对我说了一些恶毒的话。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/poisonous；
 > - Carbon monoxide is a colourless , odourless , poisonous gas. `[例]`
-
+  - 中译：一氧化碳是一种无色、无味的有毒气体。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/poisonous；
 
 ---
 

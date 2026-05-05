@@ -128,9 +128,17 @@ review_count: 0
 
 > [!example]- 语料
 > - The soldiers were treated for their wounds at a field hospital near the front line. `[真题]`
+>   - 中译：士兵们在前线附近的野战医院接受伤口治疗。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/wound；
 > - She spoke openly about the emotional wounds caused by years of childhood neglect. `[真题]`
+>   - 中译：她坦率地谈论了多年童年被忽视造成的情感创伤。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/wound；
 > - The surgeon cleaned and stitched the deep wound on the patient's left arm. `[真题]`
+>   - 中译：外科医生清洗并缝合了患者左臂上的深伤口。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/wound；
 > - Time may heal physical wounds, but emotional ones often leave scars that last a lifetime. `[真题]`
+>   - 中译：时间也许能治愈身体上的伤口，但情感上的创伤往往留下终生的疤痕。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/wound；
 
 
 ---

@@ -133,8 +133,14 @@ terr-（土地，拉丁语 *terra*）+ -itory（名词后缀，表示场所/状�
 
 > [!example]- 语料
 > - The islands are recognized by Spain as being Portuguese territory. `[真题]`
+>   - 中译：这些岛屿被西班牙承认为葡萄牙领土。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/territory；
 > - Greenland is an autonomous territory in the Kingdom of Denmark. `[真题]`
+>   - 中译：格陵兰是丹麦王国的自治领土。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/territory；
 > - They were parachuted deep into enemy territory. `[例]`
+>   - 中译：他们被空降到敌方纵深地带。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/territory；
 
 
 ---

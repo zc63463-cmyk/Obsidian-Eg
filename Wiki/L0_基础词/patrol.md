@@ -139,9 +139,14 @@ patri(父亲/保护者) + rol(轮转) → 保护者来回轮转 → 巡逻
 
 > [!example]- 语料
 > - Prison officers continued to patrol the grounds within the jail. `[真题]`
+  - 中译：监狱工作人员继续在监狱内巡逻场地。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/patrol；
 > - Every police car and foot patrol in the area is on full alert. `[真题]`
+  - 中译：该地区每辆警车和每个步行巡逻都处于全面戒备状态。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/patrol；
 > - The whole town is patrolled by police because of the possibility of riots. `[例]`
-
+  - 中译：由于可能发生骚乱，整个城镇都有警察巡逻。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/patrol；
 
 ---
 

@@ -149,8 +149,14 @@ light 源自原始印欧语 *\*leuk-*（发光、闪耀），与希腊语 *leuko
 
 > [!example]- 语料
 > - It's a north-facing room so it doesn't get much light (= brightness from the sun ). `[例]`
+> -   - 中译：这是一个朝北的房间，所以阳光不多；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/light；
 > - Large windows bring in natural light. `[例]`
+> -   - 中译：大窗户引进了自然光；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/light；
 > - Light was streaming in through the open door. `[例]`
+> -   - 中译：光线从敞开的门照射进来；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/light；
 
 
 ---

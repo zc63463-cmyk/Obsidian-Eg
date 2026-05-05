@@ -126,9 +126,14 @@ pneumon-(肺，希腊语 *pneumōn*) + -ia(疾病/状态后缀)
 
 > [!example]- 语料
 > - People who are bedridden can easily get pneumonia. `[例]`
+  - 中译：卧床不起的人很容易得肺炎。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pneumonia；
 > - She'll catch pneumonia going out without a coat in this weather! `[例]`
+  - 中译：这种天气不穿外套出去，她会得肺炎的！；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/pneumonia；
 > - Pneumococcal Adults 50 and older are now eligible for the pneumococcal vaccine, which protects against a bacterial infection that can cause pneumonia and other serious illnesses, Nadolne said. `[例]`
-
+  - 中译：50岁及以上的成年人现在有资格接种肺炎球菌疫苗，该疫苗可预防一种能引起肺炎和其他严重疾病的细菌感染，纳多尔恩说。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/pneumonia；
 
 ---
 

@@ -130,8 +130,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The company is in severe financial distress and may face bankruptcy. `[真题]`
+>   - 中译：该公司陷入严重的财务困境，可能面临破产。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/distress；
 > - She was deeply distressed by the news of her friend's illness. `[真题]`
+>   - 中译：她因朋友生病的消息而深感痛苦。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/distress；
 > - The idea of Toni being in danger distresses him enormously. `[真题]`
+>   - 中译：想到托尼身处危险之中，他感到极其痛苦。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/distress；
 
 
 ---

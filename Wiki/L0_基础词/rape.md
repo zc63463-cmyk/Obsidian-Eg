@@ -132,8 +132,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Jackson spent five years in prison after a jury wrongly convicted him of raping two women. `[真题]`
+>   - 中译：杰克逊在陪审团错误地判定他强奸两名妇女后，在监狱中服刑五年。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rape；
 > - The rape of the countryside by developers has caused widespread outrage. `[真题]`
+>   - 中译：开发商对乡村的破坏引发了广泛的愤怒。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rape；
 > - He was convicted of rape and sentenced to ten years in prison. `[真题]`
+>   - 中译：他被判犯有强奸罪，处以十年监禁。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rape；
 
 
 ---

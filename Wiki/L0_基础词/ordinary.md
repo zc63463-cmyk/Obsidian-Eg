@@ -134,8 +134,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Readers of the magazine said they wanted more stories about ordinary people and fewer stories about the rich and famous. `[例]`
+>   - 中译：该杂志的读者说他们想看更多关于普通人的故事，而不是富人和名人的故事。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ordinary；
 > - Her last concert appearance was no ordinary (= a very special ) performance. `[例]`
+>   - 中译：她最后一次登台演出绝非一场普通的（一场非常特别的）演出。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ordinary；
 > - If we hadn't seen the TV programme , we would have carried on giving money to the charity in the ordinary way. `[例]`
+>   - 中译：如果我们没有看那个电视节目，我们会继续以通常的方式向那家慈善机构捐款。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ordinary；
 
 
 ---

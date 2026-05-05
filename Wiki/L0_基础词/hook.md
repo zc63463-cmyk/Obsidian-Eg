@@ -136,8 +136,14 @@ hook（古英语 *hōc* "钩子"，源自原始日耳曼语 *\*hōkaz*，与德�
 
 > [!example]- 语料
 > - There were four coat hooks next to the door. `[例]`
+  - 中译：门旁边有四个挂衣钩。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hook；
 > - Standard picture hooks won't hold a heavy mirror. `[例]`
+  - 中译：标准的挂画钩承受不了沉重的镜子。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hook；
 > - We pulled the little boat towards us with a boat hook. `[例]`
+  - 中译：我们用撑钩把小船拉了过来。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hook；
 
 
 ---

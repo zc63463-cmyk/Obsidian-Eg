@@ -129,8 +129,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Tributes have been pouring in from all over the world for the famous actor who died yesterday. `[例]`
+>   - 中译：世界各地纷纷向昨天去世的著名演员致以哀悼。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/tribute；
 > - Floral tributes (= flowers given to show respect for someone who has died ) piled up at the scene of the accident. `[例]`
+>   - 中译：花圈堆满了事故现场。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/tribute；
 > - The minister paid tribute to the men who had fought the blaze. `[例]`
+>   - 中译：部长向扑灭大火的人们致敬。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/tribute；
 
 
 ---

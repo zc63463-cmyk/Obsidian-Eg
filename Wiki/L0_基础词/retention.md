@@ -132,8 +132,14 @@ re-(向后/回) + tain(=tenere, 持有/保持) + -tion(名词后缀，表示动�
 
 > [!example]- 语料
 > - Employee retention has become a major challenge for many companies in the post-pandemic era. `[真题]`
+  - 中译：在疫情后的时代，留住员工已成为许多公司面临的重大挑战。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/retention；
 > - Studying regularly is important for memory retention, especially as we age. `[真题]`
+  - 中译：定期学习对保持记忆力很重要，尤其是随着年龄增长。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/retention；
 > - Teacher retention hit a nine-year high this year with over 87% of teachers returning to the same school. `[真题]`
+  - 中译：今年教师留任率达到九年来的最高水平，超过87%的教师回到了原来的学校。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/retention；
 
 
 ---

@@ -133,8 +133,14 @@ review_count: 0
 
 > [!example]- 语料
 > - She flushed with pleasure as she accepted the prize. `[例]`
+>   - 中译：她领奖时高兴得脸红了。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/flush；
 > - The champagne had caused his face to flush. `[例]`
+>   - 中译：香槟使他的脸泛起了红晕。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/flush；
 > - My children never flush the toilet after themselves. `[例]`
+>   - 中译：我的孩子们上完厕所从不冲水。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/flush；
 
 
 ---

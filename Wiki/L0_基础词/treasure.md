@@ -134,8 +134,14 @@ treasure 源自古法语 *tresor*，来自拉丁语 *thesaurus*（宝库，仓�
 
 > [!example]- 语料
 > - Stories about pirates often include a search for buried treasure. `[例]`
+>   - 中译：关于海盗的故事通常包括寻找埋藏的宝藏。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/treasure；
 > - When they opened up the tomb they found treasure beyond their wildest dreams. `[例]`
+>   - 中译：当他们打开陵墓时，发现了超出他们最疯狂想象的宝藏。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/treasure；
 > - At the time , the painting was considered one of the world's greatest art treasures. `[例]`
+>   - 中译：当时，这幅画被认为是世界上最伟大的艺术珍品之一。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/treasure；
 
 
 ---

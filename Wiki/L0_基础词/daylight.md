@@ -127,8 +127,14 @@ day(天/白天) + light(光)
 
 > [!example]- 语料
 > - The colours look much better in daylight. `[例]`
+  - 中译：颜色在日光下看起来好多了。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/daylight；
 > - The space is daylighted and there are also LED lights for night use. `[例]`
+  - 中译：该空间采用了自然采光，夜间还有LED灯供使用。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/daylight；
 > - The district recently daylighted a creek by digging up a stretch that had been buried beneath a school. `[例]`
+  - 中译：该区最近通过挖掘一段被埋在学校下面的溪流，将其重新暴露出来。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/daylight；
 
 
 ---

@@ -139,9 +139,17 @@ ward（古英语 *weard*，看管、守卫，与 guard 同源）
 
 > [!example]- 语料
 > - The emergency wards are full of casualties from the crash. `[例]`
+>   - 中译：急诊室里挤满了车祸伤员。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/ward；
 > - She works in the cancer ward. `[例]`
+>   - 中译：她在癌症病房工作。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/ward；
 > - They were wards of the state. `[例]`
+>   - 中译：他们是国家的被监护人。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/ward；
 > - She put up her hands to ward him off. `[例]`
+>   - 中译：她举起双手挡开他。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/ward；
 
 
 ---

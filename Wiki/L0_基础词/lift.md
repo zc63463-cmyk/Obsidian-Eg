@@ -133,8 +133,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Could you help me lift this table , please? `[例]`
+> -   - 中译：你能帮我抬起这张桌子吗？；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lift；
 > - Could you lift your chair a little- I've got my coat caught under it. `[例]`
+> -   - 中译：你能把椅子抬一下吗——我的外套被压住了；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lift；
 > - I lifted it up and looked underneath. `[例]`
+> -   - 中译：我把它抬起来看了看下面；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lift；
 
 
 ---

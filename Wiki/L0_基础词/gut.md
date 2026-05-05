@@ -134,8 +134,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Meat stays in the gut longer than vegetable matter. `[例]`
+  - 中译：肉类在肠道中停留的时间比蔬菜长。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/gut；
 > - In the normal , healthy person the gut flora is a balanced community of different organisms. `[例]`
+  - 中译：在正常健康的人体内，肠道菌群是由不同微生物组成的平衡群落。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/gut；
 > - He was a man of about 55 with long grey hair and a huge gut. `[例]`
+  - 中译：他大约55岁，留着长长的灰发，挺着大肚子。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/gut；
 
 
 ---

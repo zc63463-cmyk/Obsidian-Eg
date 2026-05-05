@@ -126,8 +126,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Children need sturdy shoes for outdoor play on rough terrain. `[真题]`
+>   - 中译：儿童在崎岖的地形上户外玩耍时需要结实的鞋子。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sturdy；
 > - The bridge was sturdy enough to withstand the severe flood that hit the region. `[真题]`
+>   - 中译：这座桥足够坚固，能够经受住袭击该地区的严重洪水。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/sturdy；
 > - More than 3,600 Filipinos rode out the typhoon in sturdy school buildings, town halls, and churches. `[真题]`
+>   - 中译：超过3600名菲律宾人在坚固的校舍、市政厅和教堂中挺过了台风。；
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/sturdy；
 
 
 ---

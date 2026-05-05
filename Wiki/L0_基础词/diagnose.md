@@ -120,8 +120,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The specialist diagnosed cancer. `[例]`
+  - 中译：专家诊断出了癌症。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/diagnose；
 > - His condition was diagnosed as some type of blood disorder. `[例]`
+  - 中译：他的病情被诊断为某种血液疾病。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/diagnose；
 > - She was diagnosed with diabetes. `[例]`
+  - 中译：她被诊断出患有糖尿病。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/diagnose；
 
 
 ---

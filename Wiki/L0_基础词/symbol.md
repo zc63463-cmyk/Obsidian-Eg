@@ -121,9 +121,17 @@ review_count: 0
 
 > [!example]- 语料
 > - The dove is a symbol of peace. `[真题]`
+>   - 中译：鸽子是和平的象征。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/symbol；
 > - The Eiffel Tower has become a symbol of Paris. `[真题]`
+>   - 中译：埃菲尔铁塔已成为巴黎的象征。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/symbol；
 > - The private jet is a symbol of wealth and social status. `[例]`
+>   - 中译：私人飞机是财富和社会地位的象征。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/symbol；
 > - Among young people, this brand of designer clothing is the ultimate status symbol. `[例]`
+>   - 中译：在年轻人中，这个设计师服装品牌是终极的身份象征。；
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/symbol；
 
 
 ---

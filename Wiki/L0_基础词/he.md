@@ -131,8 +131,14 @@ he 为古英语基本代词，源自原始日耳曼语 *hiz，与拉丁语 *is*�
 
 > [!example]- 语料
 > - Even if a state is considered a high performer in its science standards, "that does not mean it will be taught" , he says. `[真题]`
+>   - 中译：即使一个州被认为在科学标准方面表现优异；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/he；
 > - He captured the first-ever shots of iconic landmarks such as the Tetons, Old Faithful and the Colorado Rockies. `[真题]`
+>   - 中译：他首次拍摄了标志性地标（如提顿山脉、忠实泉和科罗拉多落基山脉）的照片。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/he；
 > - As an effective Washington operator, Hayden sensed that he could capitalize on the expedition's stunning visuals. `[真题]`
+>   - 中译：作为一名高效的华盛顿操盘手，海登意识到他可以利用这次考察的惊人视觉效果。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/he；
 
 
 ---

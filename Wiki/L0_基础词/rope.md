@@ -123,8 +123,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Scientists are at the end of their rope in finding a cure for the disease. `[真题]`
+  - 中译：科学家们在寻找治愈这种疾病的方法上已经走投无路。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rope
 > - It will take a few weeks for new employees to learn the ropes. `[真题]`
+  - 中译：新员工需要几周时间来熟悉工作。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rope
 > - The veteran cop showed the rookie the ropes. `[真题]`
+  - 中译：老警察教新警察熟悉业务。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rope
 
 
 ---

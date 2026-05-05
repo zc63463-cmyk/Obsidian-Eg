@@ -143,9 +143,17 @@ review_count: 0
 
 > [!example]- 语料
 > - The value of property has slumped. `[例]`
+  - 中译：房地产价值已经暴跌。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/slump；
 > - Car sales have slumped dramatically over the past year. `[例]`
+  - 中译：过去一年汽车销量大幅下降。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/slump；
 > - She slumped into the chair , exhausted. `[例]`
+  - 中译：她筋疲力尽地瘫坐在椅子上。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/slump；
 > - There's been a slump in the demand for new cars. `[例]`
+  - 中译：对新车的需求出现了下降。；
+  - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/slump；
 
 
 ---

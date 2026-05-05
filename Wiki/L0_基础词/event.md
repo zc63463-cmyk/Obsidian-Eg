@@ -128,8 +128,14 @@ review_count: 0
 
 > [!example]- 语料
 > - This year's Olympic Games will be the biggest ever sporting event. `[例]`
+  - 中译：今年的奥运会将是有史以来最大的体育赛事。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/event；
 > - This year's Olympic Games will be the biggest ever sports event. `[例]`
+  - 中译：今年的奥运会将是有史以来最大的体育赛事。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/event；
 > - Susannah's party was the social event of the year. `[例]`
+  - 中译：苏珊娜的派对是今年的社交盛事。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/event；
 
 
 ---

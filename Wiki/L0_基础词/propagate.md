@@ -130,8 +130,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Most house plants can be propagated from stem cuttings. `[例]`
+>   - 中译：大多数室内植物可以通过茎插繁殖。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/propagate；
 > - Plants need certain conditions to propagate. `[例]`
+>   - 中译：植物需要一定的条件才能繁殖。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/propagate；
 > - The female crab needs to be saved to propagate the species. `[例]`
+>   - 中译：需要保护雌蟹以繁殖该物种。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/propagate；
 
 
 ---

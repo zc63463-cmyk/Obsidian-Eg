@@ -134,9 +134,17 @@ reciprocal 源自拉丁语 *reciprocus*（沿原路返回的、交替的），�
 
 > [!example]- 语料
 > - There is a reciprocal relationship between honesty and trust that cannot be easily broken. `[例]`
+  - 中译：诚实与信任之间存在一种不可轻易打破的互惠关系。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/reciprocal；
 > - The two countries entered into a reciprocal agreement to reduce trade barriers and promote bilateral investment. `[例]`
+  - 中译：两国签订了互惠协议，以减少贸易壁垒并促进双边投资。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/reciprocal；
 > - Of course a reciprocal interest is needed if cooperation is to be successful. `[例]`
+  - 中译：当然，如果合作要取得成功，就需要双方都有互惠的兴趣。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/reciprocal；
 > - The two nations agreed to give reciprocal work rights to each other's citizens, thus facilitating the daily border crossings of workers from both countries. `[例]`
+  - 中译：两国同意给予对方公民互惠的工作权利，从而便利了两国工人的日常跨境通行。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/reciprocal；
 
 
 ---

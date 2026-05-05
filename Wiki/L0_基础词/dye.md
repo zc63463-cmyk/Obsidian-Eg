@@ -129,8 +129,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The women prepared, spun and dyed the wool. `[真题]`
+>   - 中译：女人们将羊毛进行准备、纺纱和染色。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/dye；
 > - She dipped the material into the dye. `[真题]`
+>   - 中译：她将布料浸入染料中。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/dye；
 > - He was a dyed-in-the-wool conservative and did not care who knew. `[真题]`
+>   - 中译：他是一个彻头彻尾的保守派，不在乎谁知道。；
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/dye；
 
 
 ---

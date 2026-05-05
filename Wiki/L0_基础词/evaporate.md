@@ -129,8 +129,14 @@ e-(=ex-, 出) + vapor(蒸汽，源自拉丁语 *vapor*) + -ate(动词后缀，�
 
 > [!example]- 语料
 > - The high concentration of sugars forms a syrup when the sap evaporates. `[例]`
+  - 中译：当汁液蒸发时，高浓度的糖分形成了糖浆。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/evaporate；
 > - Plants keep cool during the summer by evaporating water from their leaves. `[例]`
+  - 中译：植物在夏天通过叶片蒸发水分来保持凉爽。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/evaporate；
 > - Halfway through the movie reality evaporates and we enter a world of pure fantasy. `[例]`
+  - 中译：电影看到一半，现实消失了，我们进入了一个纯粹的幻想世界。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/evaporate；
 
 
 ---

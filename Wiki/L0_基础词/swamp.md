@@ -122,8 +122,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The department was swamped with job applications after posting the vacancy online. `[例]`
+>   - 中译：在网上发布招聘信息后，该部门收到了大量的求职申请。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/swamp；
 > - The sea level rose and swamped the coastal villages. `[例]`
+>   - 中译：海平面上升，淹没了沿海村庄。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/swamp；
 > - In summer visitors swamp the island, causing overcrowding. `[例]`
+>   - 中译：夏天游客大量涌入这座岛屿，导致过度拥挤。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/swamp；
 
 
 ---

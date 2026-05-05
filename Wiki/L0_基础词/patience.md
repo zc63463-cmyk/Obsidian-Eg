@@ -141,9 +141,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Investors need to have patience. The economy will improve soon. `[真题]`
+  - 中译：投资者需要有耐心，经济很快就会好转。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/patience；
 > - She treated her students with great patience and humor. `[真题]`
+  - 中译：她以极大的耐心和幽默对待学生。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/patience；
 > - The team continues to play poorly, and many fans are starting to lose patience. `[真题]`
-
+  - 中译：球队持续表现不佳，许多球迷开始失去耐心。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/patience；
 
 ---
 

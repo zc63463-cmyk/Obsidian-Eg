@@ -127,9 +127,17 @@ review_count: 0
 
 > [!example]- 语料
 > - He has known great misfortune in his life, yet he never lost his optimism and determination to succeed. `[真题]`
+> - 中译：他一生经历了巨大的不幸，却从未失去乐观和成功的决心。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/misfortune；
 > - We had the misfortune to run into a violent storm on our way across the Atlantic. `[真题]`
+> - 中译：我们在横渡大西洋的途中不幸遭遇了猛烈的风暴。；
+> - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/misfortune；
 > - He was the most arrogant man I'd ever had the misfortune of meeting. `[真题]`
+> - 中译：他是我有幸遇到的最傲慢的人。；
+> - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/misfortune；
 > - It was impossible not to feel sympathy for the family's misfortune. `[真题]`
+> - 中译：不可能不对这个家庭的不幸感到同情。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/misfortune；
 
 
 ---

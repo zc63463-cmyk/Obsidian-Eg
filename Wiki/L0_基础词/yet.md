@@ -129,8 +129,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The long-term effects of the new technology on employment have **yet** to be fully understood by researchers. `[例]`
+>   - 中译：这项新技术对就业的长期影响尚未被研究人员完全理解。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/yet；
 > - Artificial intelligence has made remarkable progress, **yet** it still lacks the capacity for genuine emotional understanding. `[例]`
+>   - 中译：人工智能取得了显著进步，但它仍然缺乏真正的情感理解能力。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/yet；
 > - The best is **yet** to come, and there is still much room for improvement in the system. `[例]`
+>   - 中译：最好的还在后面，系统中仍有很大的改进空间。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/yet；
 
 
 ---

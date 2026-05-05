@@ -130,8 +130,14 @@ who（谁）+ ever（曾经/永远）。who 源自古英语 *hwā*，ever 源自
 
 > [!example]- 语料
 > - Whoever uprooted that tree ought to be ashamed of themselves. `[例]`
+>   - 中译：不管是谁拔了那棵树，都应该感到羞耻。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/whoever；
 > - Could I speak to whoever is in charge of International Sales, please? `[例]`
+>   - 中译：请问我可以和负责国际销售的人通话吗？；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/whoever；
 > - There's a reward for whoever finishes first. `[例]`
+>   - 中译：谁先完成就有奖励。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/whoever；
 
 
 ---

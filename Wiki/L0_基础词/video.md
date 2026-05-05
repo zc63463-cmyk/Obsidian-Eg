@@ -137,9 +137,17 @@ vid（看，拉丁语 *videre* 的第一人称单数 *video* = "我看见"）+ -
 
 > [!example]- 语料
 > - She has watched the race on video. `[例]`
+>   - 中译：她看了比赛的录像。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/video；
 > - The club specialises in videoing its student golfers to correct their faults. `[例]`
+>   - 中译：这家俱乐部专门为学生高尔夫球手录像以纠正他们的错误。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/video；
 > - One video explains greenwashing — a term regularly used on social media and often misunderstood. `[例]`
+>   - 中译：一个视频解释了漂绿——一个在社交媒体上经常使用却常被误解的术语。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/video；
 > - You can watch the full video online. `[例]`
+>   - 中译：你可以在网上观看完整视频。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/video；
 
 
 ---

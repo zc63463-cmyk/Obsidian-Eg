@@ -138,8 +138,14 @@ earnest 有两个词源：
 
 > [!example]- 语料
 > - Campaigning will begin in earnest tomorrow. `[真题]`
+>   - 中译：竞选活动明天将正式开始。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/earnest；
 > - Despite her earnest efforts, she could not find a job. `[真题]`
+>   - 中译：尽管她付出了认真的努力，但还是找不到工作。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/earnest；
 > - Earnings season kicks off in earnest this week. `[真题]`
+>   - 中译：财报季本周正式拉开帷幕。；
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/earnest；
 
 
 ---

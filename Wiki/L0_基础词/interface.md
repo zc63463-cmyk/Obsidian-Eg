@@ -127,8 +127,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The new version of the program comes with a much better user interface than the original. `[真题]`
+>   - 中译：新版本的程序拥有比原版好得多的用户界面。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/interface；
 > - His dissertation was on the interface between technology and tradition. `[真题]`
+>   - 中译：他的论文研究的是技术与传统之间的交汇点。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/interface；
 > - My computer has a network interface, which allows me to get to other computers. `[例]`
+>   - 中译：我的电脑有一个网络接口，可以让我连接到其他电脑。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/interface；
 
 
 ---

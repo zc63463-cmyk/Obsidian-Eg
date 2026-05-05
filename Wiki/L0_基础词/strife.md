@@ -124,9 +124,17 @@ review_count: 0
 
 > [!example]- 语料
 > - Twenty years of civil strife have left the country's economy in ruins. `[COCA-ACAD]`
+>   - 中译：二十年的内乱使该国经济一片废墟。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/strife；
 > - Opposition leaders gave a warning that any such action could push the country towards civil strife. `[COCA-NEWS]`
+>   - 中译：反对派领导人警告说，任何此类行动都可能将国家推向内乱。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/strife；
 > - He led the union through several years of labor strife. `[COCA-NEWS]`
+>   - 中译：他带领工会度过了几年的劳资纠纷。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/strife；
 > - Bitter strife between the two political factions has intensified in recent months. `[COCA-ACAD]`
+>   - 中译：两个政治派别之间的激烈冲突在最近几个月有所加剧。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/strife；
 
 
 ---

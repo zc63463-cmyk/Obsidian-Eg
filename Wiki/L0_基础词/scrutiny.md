@@ -139,8 +139,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Manuscripts will be flagged up for additional scrutiny by the journal's internal editors, or by its existing Board of Reviewing Editors or by outside peer reviewers. `[真题]`
+  - 中译：稿件将被标记出来，由期刊内部编辑、现有的审稿编委会或外部同行评审人员进行额外审查。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/scrutiny
 > - The government's record will be subjected to close scrutiny in the weeks before the election. `[例]`
+  - 中译：政府的政绩将在选举前几周受到仔细审查。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/scrutiny
 > - Will the candidates stand up under all that scrutiny? `[例]`
+  - 中译：候选人们能经受住所有那些审视吗？
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/scrutiny
 
 
 ---

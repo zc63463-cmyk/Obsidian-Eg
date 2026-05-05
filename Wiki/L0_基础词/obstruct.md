@@ -132,8 +132,14 @@ review_count: 0
 
 > [!example]- 语料
 > - After the earthquake many roads were obstructed by collapsed buildings. `[例]`
+>   - 中译：地震发生后，许多道路被倒塌的建筑物堵塞了。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/obstruct；
 > - Her view of the stage was obstructed by a pillar. `[例]`
+>   - 中译：她看舞台的视线被一根柱子挡住了。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/obstruct；
 > - An accident is obstructing traffic on the M11. `[例]`
+>   - 中译：一起事故正在堵塞M11公路的交通。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/obstruct；
 
 
 ---

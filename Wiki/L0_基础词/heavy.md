@@ -136,8 +136,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The crude technique required educated guesses on exposure times, and involved heavy, awkward equipment-several men had to assist in its transportation. `[真题]`
+  - 中译：这种粗糙的技术需要对曝光时间进行有根据的猜测，并涉及笨重的设备——需要几个人协助搬运。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/heavy；
 > - He laboured up the hill with his heavy load. `[例]`
+  - 中译：他扛着沉重的货物艰难地爬上山坡。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/heavy；
 > - How heavy is that box ? (= How much does it weigh ?). `[例]`
+  - 中译：那个箱子有多重？（= 它的重量是多少？）。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/heavy；
 
 
 ---

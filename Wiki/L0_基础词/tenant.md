@@ -134,8 +134,14 @@ ten-(=ten-/tin-/tain-, 持有，拉丁语 *tenere*) + -ant(名词后缀，表示
 
 > [!example]- 语料
 > - Tenants are complaining that vital repairs are not being done. `[真题]`
+>   - 中译：租户们抱怨必要的维修工作没有得到执行。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/tenant；
 > - They had exclusive possession of the property as tenants. `[真题]`
+>   - 中译：作为租户，他们对房产享有独占使用权。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/tenant；
 > - The landlord once suggested that a relative of his would be prepared to swap property with the tenants. `[真题]`
+>   - 中译：房东曾建议他的一个亲戚愿意与租户交换房产。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/tenant；
 
 
 ---

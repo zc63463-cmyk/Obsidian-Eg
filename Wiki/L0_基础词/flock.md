@@ -126,8 +126,14 @@ flock（源自古英语 *floc*，与 flake 同源，原始意义为"一团/一�
 
 > [!example]- 语料
 > - The shepherd is bringing his flock down from the hills. `[例]`
+>   - 中译：牧羊人正把他的羊群从山上赶下来。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/flock；
 > - A noisy flock of tourists came into the building. `[例]`
+>   - 中译：一群吵闹的游客走进了大楼。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/flock；
 > - The priest invited all the members of his flock (= all the people who go to his church ) to attend the special service. `[例]`
+>   - 中译：牧师邀请了他所有的教区居民参加特别礼拜。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/flock；
 
 
 ---

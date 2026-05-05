@@ -122,9 +122,17 @@ review_count: 0
 
 > [!example]- 语料
 > - The researchers proposed a swift solution to the problem. `[真题]`
+>   - 中译：研究人员提出了一个快速解决问题的方案。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/swift；
 > - The company's swift response to the crisis impressed investors. `[真题]`
+>   - 中译：公司对危机的快速反应给投资者留下了深刻印象。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/swift；
 > - The swift response of the emergency services saved many lives. `[例]`
+>   - 中译：紧急服务部门的迅速反应挽救了许多生命。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/swift；
 > - It was widely assumed at the time that the war would be swift and decisive. `[例]`
+>   - 中译：当时人们普遍认为这场战争将是迅速而果断的。；
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/swift；
 
 
 ---

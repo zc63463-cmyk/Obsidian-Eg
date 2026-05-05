@@ -122,8 +122,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The National Institute of Health is discussing ways of tackling the problem of childhood obesity. `[例]`
+>   - 中译：美国国立卫生研究院正在讨论解决儿童肥胖问题的方法。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/obesity；
 > - A diet that is high in fat and sugar can lead to obesity. `[例]`
+>   - 中译：高脂肪和高糖的饮食可能导致肥胖。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/obesity；
 > - Obesity can increase the risk of heart disease. `[例]`
+>   - 中译：肥胖会增加患心脏病的风险。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/obesity；
 
 
 ---

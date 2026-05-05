@@ -134,8 +134,14 @@ terr-（恐惧，拉丁语 *terrere*，使害怕）+ -or（名词后缀，表示
 
 > [!example]- 语料
 > - The war on terror has shaped global politics for decades. `[真题]`
+>   - 中译：反恐战争已经塑造了几十年的全球政治格局。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/terror；
 > - What he said struck terror in my heart (= made me very frightened ). `[例]`
+>   - 中译：他的话让我心中充满恐惧。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/terror；
 > - The separatists started a campaign of terror to get independence. `[例]`
+>   - 中译：分离主义者发动了一场恐怖运动以争取独立。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/terror；
 
 
 ---

@@ -122,7 +122,11 @@ review_count: 0
 > [!example]- 语料
 > - While on-ice brawls are nothing new in professional ice hockey, flying fisticuffs have a history in the police and fireman face off from years past. `[例]`
 > - The actors paced in the wings puffing on cigarettes, watching the sliding door in case the fireman should catch them. `[例]`
+>   - 中译：演员们在侧幕来回踱步，抽着烟，注视着滑动门，以防消防员发现他们。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fireman；
 > - A fireman paddles by in a boat and asks him if he would like to escape. `[例]`
+>   - 中译：一名消防员划着小船经过，问他是否想逃离。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fireman；
 
 
 ---

@@ -125,8 +125,14 @@ troop 源自法语 *troupe*，古法语 *trope, trupe*（一群、一队），�
 
 > [!example]- 语料
 > - Traditionally, United Nations troops have been deployed only in a peacekeeping role. `[例]`
+>   - 中译：传统上，联合国部队仅被部署用于维和任务。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/troop；
 > - The King's Troop of the Royal Horse Artillery. `[例]`
+>   - 中译：皇家骑兵炮兵团国王连。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/troop；
 > - My brother joined the local Boy Scout troop. `[例]`
+>   - 中译：我弟弟加入了当地的童子军小队。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/troop；
 
 
 ---

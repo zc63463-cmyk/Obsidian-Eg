@@ -127,9 +127,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The book is supposed to be the layman’s guide to home repair. `[例]`
-> - To explain something in layman’s terms (= in simple language). `[例]`
+> - The book is supposed to be the layman's guide to home repair. `[例]`
+>   - 中译：这本书被认为是外行人的家庭维修指南。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/layman；
+> - To explain something in layman's terms (= in simple language). `[例]`
+>   - 中译：用外行人的话来解释某事（=用简单的语言）。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/layman；
 > - For a layman , he knows a lot about the law. `[例]`
+>   - 中译：作为一个外行人，他对法律了解很多。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/layman；
 
 
 ---

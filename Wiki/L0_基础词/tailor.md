@@ -126,9 +126,17 @@ review_count: 0
 
 > [!example]- 语料
 > - The training program was tailored to meet the specific needs of each employee. `[真题]`
+>   - 中译：该培训计划是根据每位员工的具体需求量身定制的。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/tailor；
 > - Educational policies should be tailored to the cultural and economic conditions of each region. `[真题]`
+>   - 中译：教育政策应根据各地区的文化和经济条件量身定制。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/tailor；
 > - You have to tailor application letters for each job you apply for. `[真题]`
+>   - 中译：每份工作的求职信都需要量身定制。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/tailor；
 > - The company is tailoring its services to specific industrial sectors. `[真题]`
+>   - 中译：该公司正在将其服务针对特定工业领域进行定制。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/tailor；
 
 
 ---

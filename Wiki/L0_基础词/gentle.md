@@ -135,9 +135,17 @@ gentle 源自拉丁语 *gentilis*（属于同一氏族的、有教养的），�
 
 > [!example]- 语料
 > - The researchers proposed a gentle solution to the problem. `[真题]`
+>   - 中译：研究人员提出了一个温和的解决方案。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/gentle；
 > - The deep, gentle voice helped calm the nervous girl. `[真题]`
+>   - 中译：那深沉而温柔的声音帮助那个紧张的女孩平静下来。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/gentle；
 > - He was very gentle with the children and always spoke in a quiet manner. `[真题]`
+>   - 中译：他对孩子们非常温和，说话总是轻声细语的。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/gentle；
 > - She agreed to come, after a little gentle persuasion. `[真题]`
+>   - 中译：经过一些温和的劝说后，她同意来了。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/gentle；
 
 
 ---

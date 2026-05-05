@@ -136,9 +136,17 @@ vibr（颤动、摇动，拉丁语 *vibrare*）+ -ate（动词后缀，使……
 
 > [!example]- 语料
 > - All sound starts with something that vibrates. `[例]`
+>   - 中译：所有的声音都始于某种振动。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/vibrate；
 > - She was swaying from side to side, bobbing her head to the bass vibrating throughout the sold-out venue. `[例]`
+>   - 中译：她左右摇摆，随着整个座无虚席的场馆中回荡的低音节拍点头。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/vibrate；
 > - The earthquake caused the ground to vibrate violently. `[例]`
+>   - 中译：地震使地面剧烈震动。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/vibrate；
 > - She vibrates with excitement when she sees her favorite band perform live. `[例]`
+>   - 中译：当她看到她最喜欢的乐队现场表演时，她激动得浑身颤抖。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/vibrate；
 
 
 ---

@@ -130,8 +130,14 @@ review_count: 0
 
 > [!example]- 语料
 > - I spilled coffee on my silk shirt. `[例]`
+  - 中译：我把咖啡洒在了丝绸衬衫上。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/spill；
 > - You've spilled something down your tie. `[例]`
+  - 中译：你把什么东西洒在领带了。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/spill；
 > - Let's see if I can pour the juice into the glass without spilling it. `[例]`
+  - 中译：看看我能不能把果汁倒进杯子里而不洒出来。；
+  - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/spill；
 
 
 ---

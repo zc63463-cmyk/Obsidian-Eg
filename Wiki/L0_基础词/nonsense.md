@@ -135,8 +135,14 @@ non-（不、没有）+ sense（感觉、意义、理智）= 没有意义 = 废�
 
 > [!example]- 语料
 > - This report is nonsense and nothing but a waste of paper. `[例]`
+>   - 中译：这份报告纯属废话，完全是浪费纸张。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/nonsense；
 > - The accusations are absolute nonsense. `[例]`
+>   - 中译：这些指控纯属无稽之谈。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/nonsense；
 > - Don't talk nonsense! She's far too ill to return to work! `[例]`
+>   - 中译：别胡说八道！她病得太重了，根本无法回去上班！；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/nonsense；
 
 
 ---

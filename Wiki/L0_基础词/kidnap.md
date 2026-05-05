@@ -128,8 +128,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The police balked the attempt to kidnap the child. `[例]`
+>   - 中译：警方挫败了绑架该儿童的企图。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/kidnap；
 > - But in recent years the number of kidnaps has fallen dramatically. `[例]`
+>   - 中译：但近年来绑架案件数量大幅下降。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/kidnap；
 > - At least 100 people, including students, were kidnapped for ransom last week in Ethiopia's restive regions. `[例]`
+>   - 中译：上周在埃塞俄比亚动荡地区，至少100人（包括学生）被绑架勒索。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/kidnap；
 
 
 ---

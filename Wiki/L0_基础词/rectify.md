@@ -131,8 +131,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The fire service, gas and electricity board are on the scene to identify and rectify the cause. `[真题]`
+  - 中译：消防、燃气和电力部门已到现场查明并纠正原因。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rectify；
 > - It is always the responsibility of the retailer to rectify the situation. `[真题]`
+  - 中译：纠正这种情况始终是零售商的责任。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/rectify；
 > - I am determined to take whatever action is necessary to rectify the situation. `[真题]`
+  - 中译：我决心采取一切必要行动来纠正这种状况。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rectify；
 
 
 ---

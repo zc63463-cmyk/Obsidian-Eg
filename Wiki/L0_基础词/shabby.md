@@ -136,8 +136,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The researchers proposed a shabby solution to the problem. `[真题]`
+  - 中译：研究人员提出了一个简陋的解决方案。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/shabby
 > - The company adopted a shabby approach to improve efficiency. `[真题]`
+  - 中译：公司采取了一种低效的方法来提高效率。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/shabby
 > - The plan offers a shabby option for small organizations. `[真题]`
+  - 中译：该计划为小型组织提供了一个简陋的选项。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/shabby
 
 
 ---

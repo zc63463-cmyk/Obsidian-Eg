@@ -130,8 +130,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The temperature dropped to minus twenty degrees overnight. `[真题]`
+> - 中译：夜间温度骤降至零下二十度。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/minus；
 > - We need to weigh the pluses and minuses before making a decision. `[真题]`
+> - 中译：在做决定之前，我们需要权衡利弊。；
+> - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/minus；
 > - That will be $1,500, minus the deposit of $150 that you already paid. `[真题]`
+> - 中译：总共1500美元，减去您已支付的150美元定金。；
+> - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/minus；
 
 
 ---

@@ -126,8 +126,14 @@ review_count: 0
 
 > [!example]- 语料
 > - An elderly cousin had left her a small legacy. `[例]`
+> -   - 中译：一位年长的表亲给她留下了一小笔遗产；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/legacy；
 > - The Greeks have a rich legacy of literature. `[例]`
+> -   - 中译：希腊人有丰富的文学遗产；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/legacy；
 > - The war has left a legacy of hatred. `[例]`
+> -   - 中译：战争留下了仇恨的遗产；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/legacy；
 
 
 ---

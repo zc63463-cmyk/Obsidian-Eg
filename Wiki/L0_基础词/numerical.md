@@ -127,8 +127,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Keep your files in numerical order. `[例]`
+>   - 中译：请将文件按数字顺序排列。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/numerical；
 > - The UN forces have a numerical superiority over the rebels (= there are more of the UN forces ). `[例]`
+>   - 中译：联合国部队在数量上优于叛军（即联合国部队人数更多）。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/numerical；
 > - The phone's voice-recognition system converts the sound into numerical data. `[例]`
+>   - 中译：手机的语音识别系统将声音转换为数值数据。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/numerical；
 
 
 ---

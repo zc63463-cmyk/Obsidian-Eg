@@ -125,8 +125,14 @@ meta-（越过、超越）+ phor/pherein（携带、搬运）。来自希腊语 
 
 > [!example]- 语料
 > - The journey of life is a common metaphor in literature. `[真题]`
+> - 中译：人生的旅程是文学中常见的隐喻。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/metaphor；
 > - Time is a metaphor for change in many philosophical traditions. `[真题]`
+> - 中译：在许多哲学传统中，时间是变化的隐喻。；
+> - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/metaphor；
 > - In this extended metaphor, the house represents the narrator's deteriorating mental state. `[真题]`
+> - 中译：在这个延伸隐喻中，房子代表了叙述者日益恶化的精神状态。；
+> - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/metaphor；
 
 
 ---

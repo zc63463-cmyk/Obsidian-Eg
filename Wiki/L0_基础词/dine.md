@@ -125,8 +125,14 @@ review_count: 0
 
 > [!example]- 语料
 > - I hate dining alone. `[例]`
+  - 中译：我讨厌一个人吃饭。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/dine；
 > - We dined by candlelight. `[例]`
+  - 中译：我们在烛光下用餐。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/dine；
 > - He once dined with the president of France. `[例]`
+  - 中译：他曾与法国总统共进晚餐。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/dine；
 
 
 ---

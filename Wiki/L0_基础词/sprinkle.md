@@ -130,8 +130,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The speech was liberally sprinkled with (= contained many) jokes about the incident. `[例]`
+>   - 中译：演讲中穿插了大量关于这一事件的笑话。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sprinkle；
 > - Scatter sprinkles over the top of the cake and press on them gently so that they stick to the chocolate. `[例]`
+>   - 中译：在蛋糕顶部撒上彩色糖粒，轻轻按压使其粘在巧克力上。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/sprinkle；
 > - We might get a sprinkle today. `[例]`
+>   - 中译：今天可能会有零星小雨。；
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/sprinkle；
 
 
 ---

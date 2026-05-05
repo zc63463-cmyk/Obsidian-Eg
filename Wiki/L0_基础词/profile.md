@@ -126,8 +126,14 @@ review_count: 0
 
 > [!example]- 语料
 > - You can post your relationship status on your Facebook profile. `[例]`
+>   - 中译：你可以在Facebook个人资料上发布你的感情状态。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/profile；
 > - We need to increase our company's profile in Asia. `[例]`
+>   - 中译：我们需要提高我们公司在亚洲的知名度。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/profile；
 > - There is a growing number of women in high-profile positions (= positions which they are noticed ) in the government. `[例]`
+>   - 中译：政府中担任高知名度职位的女性越来越多。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/profile；
 
 
 ---

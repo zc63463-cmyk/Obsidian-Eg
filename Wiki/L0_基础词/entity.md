@@ -127,8 +127,14 @@ review_count: 0
 
 > [!example]- 语料
 > - He regarded the north of the country as a separate cultural entity. `[例]`
+  - 中译：他将该国北部视为一个独立的文化实体。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/entity；
 > - Although the two buildings are in separate locations , the museum they are part of is a single entity. `[例]`
+  - 中译：尽管这两栋建筑位于不同的地点，但它们所属的博物馆是一个单一实体。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/entity；
 > - The unit has become part of a larger department and no longer exists as a separate entity. `[例]`
+  - 中译：该部门已成为一个更大部门的一部分，不再作为独立实体存在。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/entity；
 
 
 ---

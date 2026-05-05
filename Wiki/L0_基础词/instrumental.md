@@ -132,8 +132,14 @@ instrumental（14世纪末，源自古法语 *instrumental*，源自拉丁语 *i
 
 > [!example]- 语料
 > - The researchers proposed a instrumental solution to the problem. `[例]`
+>   - 中译：研究人员提出了一个有助于解决该问题的方案。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/instrumental；
 > - The company adopted a instrumental approach to improve efficiency. `[例]`
+>   - 中译：公司采用了一种有助于提高效率的方法。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/instrumental；
 > - The plan offers a instrumental option for small organizations. `[例]`
+>   - 中译：该计划为小型组织提供了一个有益的选择。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/instrumental；
 
 
 ---

@@ -126,8 +126,14 @@ review_count: 0
 
 > [!example]- 语料
 > - A camera with a zoom lens. `[例]`
+> -   - 中译：一台带有变焦镜头的相机；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lens；
 > - Her eyeglasses have thick lenses. `[例]`
+> -   - 中译：她的眼镜镜片很厚；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lens；
 > - A pair of glasses with tinted lenses. `[例]`
+> -   - 中译：一副有色镜片的眼镜；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lens；
 
 
 ---

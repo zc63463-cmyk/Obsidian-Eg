@@ -131,8 +131,14 @@ re-（再次，反复）+ as-（朝向，=ad-）+ sur（安全，=sure，源自�
 
 > [!example]- 语料
 > - I was nervous on my first day at college , but I was reassured to see some friendly faces. `[例]`
+  - 中译：我上大学第一天很紧张，但看到一些友善的面孔让我安心了不少。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/reassure；
 > - He reassured me (that) my cheque would arrive soon. `[例]`
+  - 中译：他让我放心，说我的支票很快就会寄到。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/reassure；
 > - The president hastened to reassure his people that he was in perfect health. `[例]`
+  - 中译：总统急忙向人民保证他身体非常健康。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/reassure；
 
 
 ---

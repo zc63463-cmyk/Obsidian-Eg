@@ -131,8 +131,14 @@ gear 源自古诺尔斯语 *gørvi*（服装、装备），与 *gøra/gørva*（
 
 > [!example]- 语料
 > - The company is gearing up for the launch of its new product line. `[真题]`
+>   - 中译：公司正在为新产品线的发布做准备。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/gear；
 > - Education should be geared towards the needs of the modern economy. `[真题]`
+>   - 中译：教育应该面向现代经济的需要。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/gear；
 > - My car has four gears and the engine runs smoothly in top gear. `[真题]`
+>   - 中译：我的车有四个挡位，发动机在最高挡位运转顺畅。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/gear；
 
 
 ---

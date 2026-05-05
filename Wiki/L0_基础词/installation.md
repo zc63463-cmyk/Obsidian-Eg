@@ -124,9 +124,17 @@ in-(进入) + stall(固定位置) + -ation(名词后缀，表示动作或结果)
 
 > [!example]- 语料
 > - The building was turned into a secret military installation. `[真题]`
+  - 中译：这座建筑被改造成了一个秘密军事设施。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/installation；
 > - Other measures adopted have included the installation of ground source heat pumps in some churches. `[真题]`
+  - 中译：采取的其他措施包括在一些教堂安装地源热泵。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/installation；
 > - The guard would protect ministerial buildings and possibly oil installations. `[例]`
+  - 中译：警卫将保护部长级建筑，可能还包括石油设施。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/installation；
 > - People are aware of how unsafe many of their nuclear installations are. `[例]`
+  - 中译：人们意识到他们的许多核设施有多么不安全。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/installation；
 
 
 ---

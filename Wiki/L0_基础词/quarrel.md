@@ -126,9 +126,17 @@ review_count: 0
 
 > [!example]- 语料
 > - They had a bitter quarrel about some money three years ago and they haven't spoken to each other since. `[例]`
+>   - 中译：三年前他们因为一些钱发生了激烈的争吵，从那以后就再也没有说过话。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/quarrel；
 > - We heard our neighbors quarreling about money. `[例]`
+>   - 中译：我们听到邻居在为钱吵架。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/quarrel；
 > - We have no quarrel with the people of Spain or of any other country. `[例]`
+>   - 中译：我们对西班牙人民或任何其他国家的人民没有敌意。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/quarrel；
 > - When the eldest brother died, soon after the father, the other three quarrelled over the inheritance. `[例]`
+>   - 中译：大哥在父亲去世后不久也去世了，其余三兄弟为遗产发生了争吵。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/quarrel；
 
 
 ---

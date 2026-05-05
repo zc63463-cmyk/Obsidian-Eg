@@ -129,8 +129,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Many important historical documents were destroyed when the library was bombed. `[例]`
+  - 中译：图书馆被轰炸时，许多重要的历史文献被毁。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/historical；
 > - She specializes in historical novels set in 18th-century England. `[例]`
+  - 中译：她专攻以18世纪英格兰为背景的历史小说。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/historical；
 > - The table compares historical exchange rates for five different currencies. `[例]`
+  - 中译：该表比较了五种不同货币的历史汇率。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/historical；
 
 
 ---

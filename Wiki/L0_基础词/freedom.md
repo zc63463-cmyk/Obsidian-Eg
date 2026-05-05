@@ -132,8 +132,14 @@ review_count: 0
 
 > [!example]- 语料
 > - In college, you have the freedom to do what you want. `[COCA-SPOKEN]`
+>   - 中译：在大学里，你有做你想做的事情的自由。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/freedom；
 > - Children are allowed much more freedom these days. `[COCA-NEWS]`
+>   - 中译：如今孩子们被允许有更多的自由。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/freedom；
 > - Says Dan Quinn, senior communications strategist at the Texas Freedom Network, a non-profit group that monitors public education. `[真题]`
+>   - 中译：德克萨斯自由网络的高级传播策略师丹·奎因说，该网络是一个监督公共教育的非营利组织。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/freedom；
 
 ---
 

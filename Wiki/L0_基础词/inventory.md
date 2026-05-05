@@ -125,8 +125,14 @@ in-(进入) + [[ven-vent|ven]](来/找到，拉丁语 *venire*) + -tory(名词�
 
 > [!example]- 语料
 > - The company needs to improve its inventory management to reduce costs. `[真题]`
+>   - 中译：公司需要改善库存管理以降低成本。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/inventory；
 > - We began taking inventory of the storeroom to make sure we had enough supplies. `[例]`
+>   - 中译：我们开始盘点储藏室，以确保有足够的物资。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/inventory；
 > - Take inventory of your professional skills, accomplishments and experiences. `[例]`
+>   - 中译：盘点一下你的专业技能、成就和经验。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/inventory；
 
 
 ---

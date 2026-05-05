@@ -132,8 +132,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Being unemployed entitles you to free medical treatment. `[例]`
+>   - 中译：失业使你有权享受免费医疗。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/entitle；
 > - The employer is entitled to ask for references. `[例]`
+>   - 中译：雇主有权要求提供推荐信。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/entitle；
 > - Her latest novel , entitled "The Forgotten Sex", is out this week. `[例]`
+>   - 中译：她的最新小说，名为《被遗忘的性别》，本周出版。；
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/entitle；
 
 
 ---

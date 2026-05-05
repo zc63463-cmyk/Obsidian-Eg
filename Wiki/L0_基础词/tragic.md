@@ -124,8 +124,14 @@ review_count: 0
 
 > [!example]- 语料
 > - His friends were deeply shocked and saddened by the tragic news of his death. `[例]`
+>   - 中译：他的朋友们对他去世的悲惨消息深感震惊和悲痛。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/tragic；
 > - The bomb explosion resulted in a tragic loss of life. `[例]`
+>   - 中译：炸弹爆炸造成了悲惨的生命损失。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/tragic；
 > - It is tragic that the theatre has had to close. `[例]`
+>   - 中译：这家剧院不得不关闭，真是一场悲剧。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/tragic；
 
 
 ---

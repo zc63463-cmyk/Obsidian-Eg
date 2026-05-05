@@ -128,8 +128,14 @@ review_count: 0
 
 > [!example]- 语料
 > - On one of the clinic's walls is a mosaic depicting a woman and child wearing traditional clothing. `[例]`
+> - 中译：诊所的一面墙上有一幅描绘穿着传统服饰的妇女和儿童的马赛克画。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/mosaic；
 > - Mosaic is an ancient art form which can be used to brighten up a corner of your garden. `[例]`
+> - 中译：马赛克是一种古老的艺术形式，可以用来点缀花园的角落。；
+> - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/mosaic；
 > - The " island " of Venice is actually a mosaic of 118 tiny islands. `[例]`
+> - 中译：威尼斯这座“岛屿”实际上是由118个小岛组成的马赛克。；
+> - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/mosaic；
 
 
 ---

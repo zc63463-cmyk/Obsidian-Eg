@@ -121,8 +121,14 @@ not-(知道，拉丁语 *noscere*) + -ify(使动后缀，=make)
 
 > [!example]- 语料
 > - The school is required to notify parents if their children fail to come to school. `[例]`
+>   - 中译：如果学生不来上学，学校必须通知家长。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/notify；
 > - Businesses must notify consumers if their personal information has been subject to a security breach. `[例]`
+>   - 中译：如果消费者的个人信息遭到安全泄露，企业必须通知消费者。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/notify；
 > - You must notify us in writing if you wish to cancel your subscription. `[例]`
+>   - 中译：如果你想取消订阅，必须以书面形式通知我们。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/notify；
 
 
 ---

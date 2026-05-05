@@ -131,8 +131,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Mist, fog, and snow are common in this area. `[例]`
+>   - 中译：薄雾、浓雾和雪在这个地区很常见。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fog；
 > - Thick fog has made driving conditions dangerous. `[例]`
+>   - 中译：浓雾使驾驶条件变得危险。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fog；
 > - Their flight was cancelled because of heavy fog. `[例]`
+>   - 中译：他们的航班因大雾而被取消。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fog；
 
 
 ---

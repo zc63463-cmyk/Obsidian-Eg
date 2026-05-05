@@ -130,8 +130,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The researchers proposed a new solution to the problem. `[真题]`
+>   - 中译：研究人员提出了一个解决该问题的新方案。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/new；
 > - In New Hampshire, where the rental vacancy rate has dropped :below 1 percent, housing advocates fear unchecked short-term rentals will put further pressure on an already strained market. `[真题]`
+>   - 中译：在新罕布什尔州，房屋空置率已降至1%以下，住房倡导者担心不受限制的短期租赁将进一步加剧本已紧张的市场压力。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/new；
 > - Without enough affordable housing in southern New Hampshire towns, "employers are having a hard time attracting employees, and workers are having a hard time finding a place to live, " Taylor said. `[真题]`
+>   - 中译：泰勒说，由于新罕布什尔州南部城镇没有足够的可负担住房，"雇主很难吸引员工，工人也很难找到住处。"；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/new；
 
 
 ---

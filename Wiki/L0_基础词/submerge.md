@@ -126,8 +126,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The submarine submerged when enemy planes were sighted on the horizon. `[真题]`
+>   - 中译：当在地平线上发现敌机时，潜艇潜入了水下。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/submerge；
 > - More than three weeks after the hurricane, parts of the coastline were still submerged. `[真题]`
+>   - 中译：飓风过后三个多星期，部分海岸线仍然被水淹没。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/submerge；
 > - She submerged herself in her research for months, barely leaving the laboratory. `[真题]`
+>   - 中译：她几个月来全身心投入研究，几乎不离开实验室。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/submerge；
 
 
 ---

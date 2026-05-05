@@ -124,8 +124,14 @@ tri-（三，前缀）+ angle（角）→ 三个角 → 三角形。tri- 源自�
 
 > [!example]- 语料
 > - Which earrings did you buy in the end - the triangles or the circles? `[例]`
+>   - 中译：你最后买了哪副耳环——三角形的还是圆形的？；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/triangle；
 > - Her earrings were in the shape of triangles. `[例]`
+>   - 中译：她的耳环是三角形的。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/triangle；
 > - A triangle is a shape with three sides. `[例]`
+>   - 中译：三角形是有三条边的形状。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/triangle；
 
 
 ---

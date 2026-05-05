@@ -130,8 +130,14 @@ review_count: 0
 
 > [!example]- 语料
 > - There's some kind of obstruction on the railway tracks. `[例]`
+>   - 中译：铁轨上有某种障碍物。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/obstruction；
 > - The referee said it was obstruction. `[例]`
+>   - 中译：裁判说那是阻挡犯规。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/obstruction；
 > - The abandoned car was causing an obstruction. `[例]`
+>   - 中译：那辆被遗弃的汽车造成了交通堵塞。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/obstruction；
 
 
 ---

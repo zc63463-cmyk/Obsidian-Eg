@@ -148,8 +148,14 @@ review_count: 0
 
 > [!example]- 语料
 > - When I was little I used to like sliding on the polished floor in my socks. `[例]`
+  - 中译：小时候我喜欢穿着袜子在打蜡的地板上滑行。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/slide；
 > - We have one of those doors in the kitchen that slides open. `[例]`
+  - 中译：我们厨房有一扇可以推拉打开的门。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/slide；
 > - There is a dining room with sliding glass doors that lead onto a balcony. `[例]`
+  - 中译：有一间带玻璃推拉门的餐厅，通向阳台。；
+  - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/slide；
 
 
 ---

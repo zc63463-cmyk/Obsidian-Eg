@@ -142,8 +142,14 @@ review_count: 0
 
 > [!example]- 语料
 > - His career started from scratch, and he eventually became one of the most successful entrepreneurs in the industry. `[真题]`
+  - 中译：他的职业生涯从零开始，最终成为业内最成功的企业家之一。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/scratch
 > - We scratched the wall trying to get the bed into Martha's room. `[真题]`
+  - 中译：我们试图把床搬进玛莎的房间时刮到了墙。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/scratch
 > - The company was started from scratch in 1995, but its annual sales are already over $20 million. `[例]`
+  - 中译：这家公司1995年从零开始创办，但年销售额已超过2000万美元。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/scratch
 
 
 ---

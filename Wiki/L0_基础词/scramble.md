@@ -141,9 +141,17 @@ review_count: 0
 
 > [!example]- 语料
 > - More than three million fans are expected to scramble for tickets. `[真题]`
+  - 中译：预计将有超过三百万球迷争抢门票。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/scramble
 > - People are scrambling to buy property before prices rise even further. `[例]`
+  - 中译：人们争先恐后地在价格进一步上涨之前购买房产。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/scramble
 > - We scrambled up the hill. `[例]`
+  - 中译：我们手脚并用地爬上了山坡。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/scramble
 > - A fight broke out in the crowd, causing people to scramble for the exits. `[例]`
+  - 中译：人群中发生了打斗，导致人们争相涌向出口。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/scramble
 
 
 ---

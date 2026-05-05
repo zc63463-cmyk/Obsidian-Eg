@@ -124,9 +124,17 @@ review_count: 0
 
 > [!example]- 语料
 > - The government took measures to minimize the impact of the economic crisis. `[真题]`
+> - 中译：政府采取措施将经济危机的影响降到最低。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/minimize；
 > - He tried to minimize the seriousness of the situation. `[真题]`
+> - 中译：他试图淡化事态的严重性。；
+> - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/minimize；
 > - Environmentalists are doing everything within their power to minimize the impact of the oil spill. `[真题]`
+> - 中译：环保人士正在尽一切努力将石油泄漏的影响降到最低。；
+> - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/minimize；
 > - She accused politicians of minimizing the suffering of thousands of people. `[真题]`
+> - 中译：她指责政客们对数千人的苦难轻描淡写。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/minimize；
 
 
 ---

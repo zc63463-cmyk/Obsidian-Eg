@@ -134,9 +134,17 @@ review_count: 0
 
 > [!example]- 语料
 > - The Salem witch trials of 1692 remain one of the most notorious episodes of mass hysteria in American history. `[真题]`
+>   - 中译：1692年的塞勒姆女巫审判仍然是美国历史上最臭名昭著的大规模歇斯底里事件之一。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/witch；
 > - She was witched by the beauty of the ancient city and decided to stay there permanently. `[真题]`
+>   - 中译：她被这座古城的美所迷住，决定永久留在那里。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/witch；
 > - The term "witch hunt" later entered common political parlance to describe campaigns designed to root out suspected dissidents. `[真题]`
+>   - 中译：女巫审判一词后来进入了常见的政治用语，用来描述旨在根除疑似异见人士的运动。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/witch；
 > - In many traditional cultures, a witch doctor is consulted for both physical ailments and spiritual problems. `[真题]`
+>   - 中译：在许多传统文化中，人们会请巫医治疗身体疾病和精神问题。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/witch；
 
 
 ---

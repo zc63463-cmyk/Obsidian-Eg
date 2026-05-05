@@ -129,8 +129,14 @@ ex-(= [[de|ex-]]，向外) + hibit(持有，拉丁语 *habere*，与 [[habit]] �
 
 > [!example]- 语料
 > - He frequently exhibits at the art gallery. `[例]`
+  - 中译：他经常在这家美术馆展出作品。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/exhibit；
 > - In the summer the academy will exhibit several prints that are rarely seen. `[例]`
+  - 中译：夏天，学院将展出几幅罕见的版画。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/exhibit；
 > - He exhibited great self-control considering her rudeness. `[例]`
+  - 中译：考虑到她的粗鲁，他表现出了极大的自制力。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/exhibit；
 
 
 ---

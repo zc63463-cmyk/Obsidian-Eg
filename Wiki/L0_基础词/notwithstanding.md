@@ -122,8 +122,14 @@ not(不) + with(与) + stand(站立，[[st-sta-stat]]) + -ing(现在分词)
 
 > [!example]- 语料
 > - Notwithstanding some members ' objections , I think we must go ahead with the plan. `[例]`
+>   - 中译：尽管一些成员表示反对，我认为我们必须继续执行该计划。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/notwithstanding；
 > - Injuries notwithstanding, the team won the semifinal. `[例]`
+>   - 中译：尽管有伤病，球队还是赢得了半决赛。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/notwithstanding；
 > - Injuries notwithstanding, this season has been a disappointment to me. `[例]`
+>   - 中译：尽管有伤病，这个赛季对我来说仍然令人失望。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/notwithstanding；
 
 
 ---

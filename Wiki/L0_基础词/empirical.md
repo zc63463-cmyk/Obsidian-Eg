@@ -128,8 +128,14 @@ em-（加强形式）+ pir（源自希腊语 *peira* = trial, attempt，尝试�
 
 > [!example]- 语料
 > - This theory needs to be backed up with solid empirical evidence. `[例]`
+>   - 中译：这一理论需要以确凿的实证证据为支撑。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/empirical；
 > - Empirical studies show that some forms of alternative medicine are extremely effective. `[例]`
+>   - 中译：实证研究表明，某些形式的替代医学非常有效。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/empirical；
 > - We have no empirical evidence that the industry is in trouble. `[例]`
+>   - 中译：我们没有实证证据表明该行业陷入了困境。；
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/empirical；
 
 
 ---

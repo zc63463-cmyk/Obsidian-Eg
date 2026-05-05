@@ -126,8 +126,14 @@ muni-(=munis，公共义务/服务，源自拉丁语 *munus*) + cip(=cap，拿/�
 
 > [!example]- 语料
 > - Orange County issued $1 billion in municipal securities. `[例]`
+> - 中译：橙县发行了10亿美元的市政债券。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/municipal；
 > - State and local issuers are swamping investors with about $2.4 billion in new municipal debt. `[例]`
+> - 中译：州和地方发行方正以约24亿美元的新市政债务淹没投资者。；
+> - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/municipal；
 > - The odds seem to favor selling instead of buying municipals. `[例]`
+> - 中译：形势似乎有利于卖出而非买入市政债券。；
+> - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/municipal；
 
 
 ---

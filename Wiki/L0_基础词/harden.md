@@ -134,8 +134,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The mixture hardens as it cools. `[例]`
+  - 中译：混合物冷却时会变硬。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/harden；
 > - It is thought that high cholesterol levels in the blood can harden the arteries (= make them thicker and stiffer , causing disease ). `[例]`
+  - 中译：人们认为血液中高水平的胆固醇会使动脉变硬变厚，导致疾病。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/harden；
 > - Living in the desert hardened the recruits (= made them more strong and determined ). `[例]`
+  - 中译：在沙漠中生活使新兵们变得更加坚强和坚定。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/harden；
 
 
 ---

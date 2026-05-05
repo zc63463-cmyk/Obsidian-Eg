@@ -126,8 +126,14 @@ review_count: 0
 
 > [!example]- 语料
 > - His financial problems escalated after he became unemployed. `[例]`
+  - 中译：他失业后财务问题不断恶化。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/escalate；
 > - The row could escalate into full-blown conflict. `[例]`
+  - 中译：这场争端可能升级为全面冲突。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/escalate；
 > - The decision to escalate UN involvement has been made in the hopes of a swift end to the hostilities. `[例]`
+  - 中译：升级联合国介入的决定是希望迅速结束敌对行动。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/escalate；
 
 
 ---

@@ -132,8 +132,14 @@ re-(向后/回) + tort(=torquere, 扭/拧)
 
 > [!example]- 语料
 > - Of course not," he retorted angrily when accused of the charge. `[真题]`
+  - 中译："当然不是，"被指控时他愤怒地反驳道。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/retort；
 > - She had a quick retort ready for every criticism directed at her during the debate. `[真题]`
+  - 中译：在辩论中，她对每一个针对她的批评都有快速的反驳准备。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/retort；
 > - Republicans retorted that the amendment was necessary to balance the budget. `[真题]`
+  - 中译：共和党人反驳说，该修正案对于平衡预算是必要的。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/retort；
 
 
 ---

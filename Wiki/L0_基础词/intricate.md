@@ -127,8 +127,14 @@ in-(=into, 进入) + tric(=tricae, 困惑/纠缠，拉丁语 *intricare*) + -ate
 
 > [!example]- 语料
 > - The researchers proposed a intricate solution to the problem. `[真题]`
+>   - 中译：研究人员提出了一个复杂的解决方案。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/intricate；
 > - The company adopted a intricate approach to improve efficiency. `[例]`
+>   - 中译：公司采用了一种错综复杂的方法来提高效率。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/intricate；
 > - The plan offers a intricate option for small organizations. `[例]`
+>   - 中译：该计划为小型组织提供了一个精细的选项。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/intricate；
 
 
 ---

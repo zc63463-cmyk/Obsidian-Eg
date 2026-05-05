@@ -139,8 +139,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Animals are usually afraid of fire. `[例]`
+>   - 中译：动物通常害怕火。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fire；
 > - How many historic buildings are damaged by fire each year? `[例]`
+>   - 中译：每年有多少历史建筑被火灾损坏？；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fire；
 > - She had to be rescued when her house caught fire (= started to burn ). `[例]`
+>   - 中译：她的房子着火时不得不被人救出。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fire；
 
 
 ---

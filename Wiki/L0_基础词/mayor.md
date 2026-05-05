@@ -121,8 +121,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The prime minister met many civic leaders, including the mayor and the leaders of the immigrant communities. `[例]`
+> -   - 中译：首相会见了许多市政领导人，包括市长和移民社区的领袖；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/mayor；
 > - The city's mayor had worked for the bus company and was a powerful advocate of public transport. `[例]`
+> -   - 中译：该市市长曾在公交公司工作，是公共交通的有力倡导者；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/mayor；
 > - The alert mayor was particularly adept at locating a variety of political resources and mobilizing them to gain influence. `[例]`
+> -   - 中译：这位机敏的市长特别善于找到各种政治资源并加以利用来获取影响力；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/mayor；
 
 
 ---

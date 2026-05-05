@@ -123,8 +123,14 @@ mus(=muse, 音乐/缪斯) + -ic(形容词后缀) + -ian(名词后缀，"……�
 
 > [!example]- 语料
 > - The concert features dancers and musicians of all nationalities. `[例]`
+> - 中译：这场音乐会汇集了各国舞蹈家和音乐家。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/musician；
 > - The famous jazz musician, Duke Ellington, was a composer , arranger and pianist. `[例]`
+> - 中译：著名爵士音乐家杜克·艾灵顿是作曲家、编曲家和钢琴家。；
+> - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/musician；
 > - The restaurant was hopelessly mismanaged by a former rock musician with no business experience. `[例]`
+> - 中译：这家餐厅被一位毫无商业经验的前摇滚音乐家管理得一塌糊涂。；
+> - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/musician；
 
 
 ---

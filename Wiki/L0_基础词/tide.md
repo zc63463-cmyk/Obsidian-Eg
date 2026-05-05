@@ -126,8 +126,14 @@ review_count: 0
 
 > [!example]- 语料
 > - We must look for ways of stemming (= stopping ) the rising tide of protest. `[例]`
+>   - 中译：我们必须寻找遏制抗议浪潮的方法。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/tide；
 > - The tide of public opinion is turning against the president. `[例]`
+>   - 中译：舆论的潮流正在转向反对总统。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/tide；
 > - Most people are completely clueless about tide directions and weather conditions. `[例]`
+>   - 中译：大多数人对潮汐方向和天气条件一无所知。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/tide；
 
 
 ---

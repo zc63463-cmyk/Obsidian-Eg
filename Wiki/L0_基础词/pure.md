@@ -130,8 +130,14 @@ review_count: 0
 
 > [!example]- 语料
 > - A swan's pure white plumage. `[例]`
+>   - 中译：天鹅纯白的羽毛。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pure；
 > - The pure vocal tones of the choirboy. `[例]`
+>   - 中译：唱诗班男孩纯净的嗓音。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pure；
 > - The mountain air was wonderfully pure. `[例]`
+>   - 中译：山间的空气异常清新纯净。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pure；
 
 
 ---

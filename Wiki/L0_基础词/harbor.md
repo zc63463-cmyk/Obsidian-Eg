@@ -142,8 +142,14 @@ harbor（中古英语 *herberwe*，意为"住所、庇护所"，源自古英语 
 
 > [!example]- 语料
 > - He harbored the suspicion that someone in the agency was spying for the enemy. `[例]`
+  - 中译：他心存疑虑，认为机构中有人在为敌人做间谍。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/harbor；
 > - They were accused of harboring a fugitive. `[例]`
+  - 中译：他们被指控窝藏逃犯。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/harbor；
 > - The tanker stayed in Boston harbor three days to undergo repairs. `[例]`
+  - 中译：油轮在波士顿港停留了三天进行维修。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/harbor；
 
 
 ---

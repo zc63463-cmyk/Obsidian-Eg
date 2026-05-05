@@ -123,8 +123,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The numbers made my head swim. `[真题]`
+>   - 中译：这些数字让我头晕目眩。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/swim；
 > - He learned to swim at the age of five. `[真题]`
+>   - 中译：他五岁就学会了游泳。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/swim；
 > - All these complicated instructions make my head swim. `[例]`
+>   - 中译：所有这些复杂的说明让我头晕。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/swim；
 
 
 ---

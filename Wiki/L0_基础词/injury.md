@@ -129,8 +129,14 @@ injury = injure + -y(名词后缀，表示状态或结果)
 
 > [!example]- 语料
 > - The researchers found that people who suffered a brain injury were more likely to experience cognitive decline in later years. `[真题]`
+  - 中译：研究人员发现，遭受脑损伤的人在晚年更有可能经历认知能力下降。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/injury；
 > - She fell and suffered an injury to her arm. `[例]`
+  - 中译：她摔倒了，手臂受了伤。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/injury；
 > - They were lucky to escape injury. `[例]`
+  - 中译：他们幸运地没有受伤。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/injury；
 
 
 ---

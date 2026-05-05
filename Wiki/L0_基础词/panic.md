@@ -131,8 +131,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The sudden outbreak of the epidemic triggered widespread panic among the public, leading to panic buying of essential supplies. `[真题]`
+>   - 中译：疫情的突然爆发引发了公众的广泛恐慌，导致了对必需品的恐慌性抢购。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/panic；
 > - When the stock market crashed in 2008, financial panic spread rapidly across the globe, causing millions of people to lose their savings. `[真题]`
+>   - 中译：2008年股市崩盘时，金融恐慌迅速蔓延全球，导致数百万人失去积蓄。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/panic；
 > - There was a moment of panic in Britain as it became clear just how vulnerable the nation was to the economic crisis. `[真题]`
+>   - 中译：当人们清楚地认识到这个国家对经济危机有多么脆弱时，英国出现了一阵恐慌。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/panic；
 
 
 ---

@@ -135,8 +135,14 @@ kill 源自古英语 *cyllan*，与古诺斯语 *kolla*（打击）有关。无�
 
 > [!example]- 语料
 > - She adds, however, that 'to decide is to kill off all possibilities but one. `[真题]`
+>   - 中译：然而她补充说，'决定就是消灭除一种之外的所有可能性。'；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/kill；
 > - The opposition failed to kill the bill. `[真题]`
+>   - 中译：反对派未能否决该法案。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/kill；
 > - My feet are killing me after walking all day. `[例]`
+>   - 中译：走了一整天路，我的脚疼死了。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/kill；
 
 
 ---

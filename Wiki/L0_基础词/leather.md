@@ -131,8 +131,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Polish your shoes regularly to protect the leather. `[例]`
+> -   - 中译：定期擦鞋以保护皮革；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/leather；
 > - The room smelled of candle wax and old leather. `[例]`
+> -   - 中译：房间里弥漫着蜡烛和旧皮革的气味；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/leather；
 > - Soft, supple leathers or suedes look rich and feel comfortable. `[例]`
+> -   - 中译：柔软有弹性的皮革或麂皮看起来高档且穿着舒适；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/leather；
 
 
 ---

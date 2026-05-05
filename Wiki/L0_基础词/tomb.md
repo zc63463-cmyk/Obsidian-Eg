@@ -122,8 +122,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The tomb was honeycombed with passages and chambers. `[例]`
+>   - 中译：这座陵墓里布满了通道和墓室。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/tomb；
 > - The tombs of the Pharaohs. `[例]`
+>   - 中译：法老们的陵墓。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/tomb；
 > - For centuries the tomb lay inviolate until, by chance , it was discovered by two miners. `[例]`
+>   - 中译：几个世纪以来，这座陵墓完好无损，直到偶然被两名矿工发现。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/tomb；
 
 
 ---

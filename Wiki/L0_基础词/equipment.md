@@ -123,7 +123,11 @@ equip(装备) + -ment(名词后缀，表动作结果/具体事物)
 > [!example]- 语料
 > - The crude technique required educated guesses on exposure times, and involved heavy, awkward equipment-several men had to assist in its transportation. `[真题]`
 > - What are the estimated start-up costs for real estate , construction , and equipment? `[例]`
+  - 中译：实验室配备了最新的设备。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/equipment；
 > - Industrial machinery and equipment orders have risen by 2.7%. `[例]`
+  - 中译：工业机械和设备订单增长了2.7%。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/equipment；
 
 
 ---

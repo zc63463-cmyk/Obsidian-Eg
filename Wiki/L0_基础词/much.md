@@ -127,8 +127,14 @@ review_count: 0
 
 > [!example]- 语料
 > - You haven't said much, Joan - what do you think? `[例]`
+> - 中译：你没怎么说话，琼——你怎么看？；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/much；
 > - I don't think there's much to be gained by catching an earlier flight. `[例]`
+> - 中译：我认为赶早班飞机没有多大好处。；
+> - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/much；
 > - Is there any wine left ?" "Not much. `[例]`
+> - 中译：“还有酒吗？”“没多少了。；
+> - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/much；
 
 
 ---

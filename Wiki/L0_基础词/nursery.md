@@ -127,8 +127,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Does Jake go to a nursery or a childminder? `[例]`
+>   - 中译：杰克是上托儿所还是由保姆照看？；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/nursery；
 > - She had come off the boat fresh from Ireland and became a nursery maid in the household of one of America's most famous families. `[例]`
+>   - 中译：她刚从爱尔兰乘船到达，在美国最著名的家庭之一中当了一名育婴女佣。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/nursery；
 > - Do you think the state should provide free nursery education? `[例]`
+>   - 中译：你认为国家应该提供免费的幼儿教育吗？；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/nursery；
 
 
 ---

@@ -127,8 +127,14 @@ rob(=robur, 橡树/力量，拉丁语 *robur* "橡树/力量") + -ust(形容词�
 
 > [!example]- 语料
 > - The economy showed robust growth in the third quarter. `[真题]`
+  - 中译：经济在第三季度表现出强劲增长。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/robust
 > - We need a more robust system to handle the increasing data volume. `[真题]`
+  - 中译：我们需要一个更强大的系统来处理日益增长的数据量。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/robust
 > - There is robust evidence that climate change is accelerating. `[真题]`
+  - 中译：有充分的证据表明气候变化正在加速。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/robust
 
 
 ---

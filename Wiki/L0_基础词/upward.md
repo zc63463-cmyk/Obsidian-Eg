@@ -128,8 +128,14 @@ review_count: 0
 
 > [!example]- 语料
 > - With an upward trend in inflation , you expect prices to rise. `[例]`
+>   - 中译：随着通胀呈上升趋势，你预期价格会上涨。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/upward；
 > - House prices have started moving upward again. `[例]`
+>   - 中译：房价又开始上涨了。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/upward；
 > - Tachi glanced upward to the stars. `[例]`
+>   - 中译：塔奇抬头望向星空。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/upward；
 
 
 ---

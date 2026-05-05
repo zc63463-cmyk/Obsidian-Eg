@@ -127,8 +127,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The company employed aggressive pricing tactics to gain market share from its competitors. `[真题]`
+>   - 中译：该公司采用激进的定价策略从竞争对手手中夺取市场份额。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/tactic；
 > - Delaying tactics will only make the situation worse; we need to address the problem immediately. `[真题]`
+>   - 中译：拖延策略只会使情况恶化；我们需要立即解决问题。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/tactic；
 > - The brief begins by taking aim at the union's decertification, which owners contend is a negotiating tactic. `[例]`
+>   - 中译：这份简报首先将矛头指向工会的取消认证，球队老板们声称这是一种谈判策略。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/tactic；
 
 
 ---

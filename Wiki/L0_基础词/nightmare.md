@@ -125,8 +125,14 @@ night（夜晚）+ mare（魔女/恶魔，古英语 *mære*，"在梦中压迫�
 
 > [!example]- 语料
 > - I shouldn't have watched that movie - it'll give me nightmares. `[例]`
+>   - 中译：我不该看那部电影的——它会让我做噩梦。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/nightmare；
 > - The whole journey was a nightmare - we lost our luggage and both flights were delayed. `[例]`
+>   - 中译：整个旅程简直是一场噩梦——我们丢了行李，两个航班都延误了。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/nightmare；
 > - Being trapped underwater is my worst nightmare. `[例]`
+>   - 中译：被困在水下是我最可怕的噩梦。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/nightmare；
 
 
 ---

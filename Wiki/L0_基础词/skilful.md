@@ -139,8 +139,14 @@ review_count: 0
 
 > [!example]- 语料
 > - She also imagined a skilful closing argument and a winning trial. `[真题]`
+  - 中译：她还想象了一场精彩的结案陈词和一场胜诉。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/skilful；
 > - Young people who are digital natives are indeed becoming more skilful at separating fact from fiction in cyberspace. `[真题]`
+  - 中译：作为数字原住民的年轻人确实越来越善于在网络空间中辨别真伪。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/skilful；
 > - Police officers have to be skilful drivers to handle high-speed pursuit situations safely. `[例]`
+  - 中译：警察必须是技术娴熟的驾驶员，才能安全应对高速追捕的情况。；
+  - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/skilful；
 
 
 ---

@@ -125,8 +125,14 @@ review_count: 0
 
 > [!example]- 语料
 > - She's fluent in French. `[例]`
+>   - 中译：她的法语很流利。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fluent；
 > - He's a fluent Russian speaker. `[例]`
+>   - 中译：他说一口流利的俄语。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fluent；
 > - He speaks fluent Chinese. `[例]`
+>   - 中译：他说一口流利的中文。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fluent；
 
 
 ---

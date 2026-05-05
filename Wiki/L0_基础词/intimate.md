@@ -128,8 +128,14 @@ in-(=intim-, 在内部，拉丁语 *intimus* "最内部的") + -ate(形容词/�
 
 > [!example]- 语料
 > - The researchers proposed a intimate solution to the problem. `[真题]`
+>   - 中译：研究人员提出了一个私密的解决方案。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/intimate；
 > - The company adopted a intimate approach to improve efficiency. `[真题]`
+>   - 中译：公司采用了一种密切的方法来提高效率。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/intimate；
 > - The plan offers a intimate option for small organizations. `[例]`
+>   - 中译：该计划为小型组织提供了一个亲密的选项。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/intimate；
 
 
 ---

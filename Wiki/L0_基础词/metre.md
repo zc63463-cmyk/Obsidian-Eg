@@ -126,8 +126,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The race is 100 metres long. `[真题]`
+> - 中译：赛程为100米。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/metre；
 > - The room measures four metres by three. `[真题]`
+> - 中译：这个房间长四米宽三米。；
+> - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/metre；
 > - The bomb shelter has concrete walls that are three metres thick. `[例]`
+> - 中译：防空洞有厚达三米的混凝土墙壁。；
+> - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/metre；
 
 
 ---

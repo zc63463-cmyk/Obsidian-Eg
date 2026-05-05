@@ -130,8 +130,14 @@ review_count: 0
 
 > [!example]- 语料
 > - After the crash both drivers got out and inspected their cars for damage. `[真题]`
+  - 中译：撞车后，两位司机都下了车检查各自车辆的损坏情况。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/inspect；
 > - The engines are all inspected before they leave the factory. `[真题]`
+  - 中译：所有发动机在出厂前都要经过检验。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/inspect；
 > - She had the car inspected by a mechanic before she bought it. `[例]`
+  - 中译：她在买车前请技工检查了车况。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/inspect；
 
 
 ---

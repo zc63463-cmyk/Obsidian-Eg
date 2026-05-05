@@ -125,9 +125,14 @@ review_count: 0
 
 > [!example]- 语料
 > - She's been accused of plagiarism. `[例]`
+  - 中译：她被指控抄袭。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/plagiarism；
 > - The techniques for detecting plagiarism are becoming increasingly advanced. `[例]`
+  - 中译：检测抄袭的技术正变得越来越先进。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/plagiarism；
 > - The university decided to fire a professor for committing plagiarism and falsifying data. `[例]`
-
+  - 中译：大学决定解雇一名因抄袭和伪造数据而被控的教授。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/plagiarism；
 
 ---
 

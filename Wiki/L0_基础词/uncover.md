@@ -129,8 +129,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The investigation uncovered evidence of a large-scale illegal trade in wild birds. `[例]`
+>   - 中译：调查发现了大规模非法野生鸟类贸易的证据。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/uncover；
 > - The biography is an attempt to uncover the inner man. `[例]`
+>   - 中译：这部传记试图揭示这个人的内心世界。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/uncover；
 > - Cover the dish and bake for 15 minutes , then uncover it and bake for another 10 minutes. `[例]`
+>   - 中译：盖上盖子烤15分钟，然后揭开盖子再烤10分钟。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/uncover；
 
 
 ---

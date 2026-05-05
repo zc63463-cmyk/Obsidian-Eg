@@ -135,8 +135,14 @@ imper(命令，拉丁语 *imperare*，= *im-* 入 + *parare* 准备) + -ative(�
 
 > [!example]- 语料
 > - The president said it was imperative that the release of all hostages be secured. `[例]`
+  - 中译：总统说确保所有人质获释是当务之急。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/imperative；
 > - It's imperative to act now before the problem gets really serious. `[例]`
+  - 中译：必须现在就采取行动，在问题变得真正严重之前。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/imperative；
 > - The rule that there must be a subject applies only to declarative and interrogative clauses , and not to imperative clauses. `[例]`
+  - 中译：必须有主语的规则仅适用于陈述句和疑问句，不适用于祈使句。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/imperative；
 
 
 ---

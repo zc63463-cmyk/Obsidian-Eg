@@ -126,8 +126,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Please enclose £15.99, plus £2 for postage. `[例]`
+>   - 中译：请附上15.99英镑，另加2英镑邮费。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/postage；
 > - We have reduced postage costs by nearly $24,000 as a result of the direct deposit option. `[例]`
+>   - 中译：由于采用了直接存款选项，我们将邮费成本降低了近24,000美元。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/postage；
 > - An increase in postage rates. `[例]`
+>   - 中译：邮资费率的上涨。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/postage；
 
 
 ---

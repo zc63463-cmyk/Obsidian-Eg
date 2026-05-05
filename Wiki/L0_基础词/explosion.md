@@ -127,8 +127,14 @@ ex-（向外）+ plod/plaus（拍手声/发出巨响）+ -sion（名词后缀）
 
 > [!example]- 语料
 > - The fire was thought to have been caused by a gas explosion. `[例]`
+  - 中译：据认为火灾是由煤气爆炸引起的。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/explosion；
 > - The explosion (= the intentional exploding ) of nuclear devices in the Bikini Atoll was stopped in 1958. `[例]`
+  - 中译：在比基尼环礁引爆核装置（即有意引爆）于1958年停止。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/explosion；
 > - There was an explosion of applause from the audience at the end of the performance. `[例]`
+  - 中译：演出结束时，观众爆发出雷鸣般的掌声。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/explosion；
 
 ---
 

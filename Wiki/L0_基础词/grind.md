@@ -133,8 +133,14 @@ grind 源自古英语 *grindan*（磨碎），与 [[grin]]（咧嘴笑）共享�
 
 > [!example]- 语料
 > - Shall I grind a little black pepper over your salad? `[例]`
+  - 中译：要我在你的沙拉上磨点黑胡椒吗？；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/grind；
 > - They grind the grain into flour (= make flour by crushing grain ) between two large stones. `[例]`
+  - 中译：他们在两块大石头之间将谷物磨成面粉。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/grind；
 > - She has a set of chef's knives that she grinds every week. `[例]`
+  - 中译：她有一套厨师刀，每周都会磨一次。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/grind；
 
 
 ---

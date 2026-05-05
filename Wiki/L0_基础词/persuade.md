@@ -128,10 +128,17 @@ review_count: 0
 
 > [!example]- 语料
 > - Advertising is intended to appeal to consumers, but it does not force them to buy the product; it is meant to persuade rather than coerce. `[真题]`
+  - 中译：广告旨在吸引消费者，但并不强迫他们购买产品；它的目的是说服而非胁迫。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/persuade；
 > - If she doesn't want to go, nothing you can say will persuade her. `[例]`
+  - 中译：如果她不想去，你说什么也说服不了她。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/persuade；
 > - He is trying to persuade local and foreign businesses to invest in the project. `[例]`
+  - 中译：他正在试图说服国内外企业投资这个项目。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/persuade；
 > - Her legal advisers persuaded her into mentioning the names of the people involved in the robbery. `[例]`
-
+  - 中译：她的法律顾问说服她说出参与抢劫的人员姓名。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/persuade；
 
 ---
 

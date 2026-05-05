@@ -132,6 +132,8 @@ review_count: 0
 > - Your idea was a stroke of genius that saved the entire project. `[COCA-FICT]`
 > - It was a stroke of luck that I found you here at the right moment. `[BNC-SPOKEN]`
 > - She gently stroked the cat as it purred on her lap. `[例]`
+>   - 中译：她轻轻抚摸着在她腿上打呼噜的猫。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/stroke；
 
 
 ---

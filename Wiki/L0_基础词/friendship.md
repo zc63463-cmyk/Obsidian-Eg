@@ -127,8 +127,14 @@ friend(朋友) + -ship(表示关系、状态的后缀)
 
 > [!example]- 语料
 > - Their friendship goes back to when they were at school together. `[例]`
+>   - 中译：他们的友谊可以追溯到他们一起上学的时期。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/friendship；
 > - He does not find it easy to form friendships. `[例]`
+>   - 中译：他觉得建立友谊并不容易。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/friendship；
 > - From that meeting , they forged a lifelong friendship. `[例]`
+>   - 中译：从那次会面开始，他们建立了一生的友谊。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/friendship；
 
 
 ---

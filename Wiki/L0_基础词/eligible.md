@@ -127,8 +127,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Only people over 18 are eligible to vote. `[真题]`
+>   - 中译：只有年满18岁的人才有资格投票。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/eligible；
 > - You could be eligible for a university scholarship. `[真题]`
+>   - 中译：你可能符合大学奖学金的申请条件。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/eligible；
 > - Almost half the population are eligible to vote in today's election. `[真题]`
+>   - 中译：近一半的人口有资格在今天的选举中投票。；
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/eligible；
 
 
 ---

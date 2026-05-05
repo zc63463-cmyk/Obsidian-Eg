@@ -127,8 +127,14 @@ review_count: 0
 
 > [!example]- 语料
 > - There were chips on the rim of the plate. `[真题]`
+  - 中译：盘子的边缘有缺口。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rim
 > - He bought stainless steel rims for his new car. `[真题]`
+  - 中译：他为新车买了不锈钢轮圈。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rim
 > - First there was a nearly circular rim of resplendent mountains, their white caps glistening in the morning sun. `[真题]`
+  - 中译：首先映入眼帘的是一圈近乎圆形的壮丽山脉，山顶的白雪在晨光中闪耀。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rim
 
 
 ---

@@ -129,8 +129,14 @@ retro-(向后/回) + [[spec-spect|spect]](看，拉丁语 *specere*)
 
 > [!example]- 语料
 > - In retrospect, the decision turned out to be a wise one that saved the company from bankruptcy. `[真题]`
+  - 中译：回想起来，这个决定被证明是明智的，使公司免于破产。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/retrospect；
 > - I am sure my university days seem happier in retrospect than they really were at the time. `[真题]`
+  - 中译：我确信我的大学时光在回忆中比当时实际上看起来更快乐。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/retrospect；
 > - In retrospect, I would have handled the situation differently if I had known all the facts. `[真题]`
+  - 中译：回想起来，如果我当时知道所有事实，我会以不同的方式处理这种情况。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/retrospect；
 
 
 ---

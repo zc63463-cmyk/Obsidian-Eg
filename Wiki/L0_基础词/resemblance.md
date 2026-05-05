@@ -129,8 +129,14 @@ re-(前缀：再/回) + semble(像/类似) + -ance(名词后缀：表示状态�
 
 > [!example]- 语料
 > - There was a clear family resemblance between all the brothers. `[真题]`
+  - 中译：所有兄弟之间有明显的家族相似之处。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/resemblance；
 > - She bears a striking resemblance to her mother. `[真题]`
+  - 中译：她和她的母亲长得极为相似。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/resemblance；
 > - The movie bears little resemblance to the original novel. `[真题]`
+  - 中译：这部电影与原著小说几乎没有相似之处。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/resemblance；
 
 
 ---

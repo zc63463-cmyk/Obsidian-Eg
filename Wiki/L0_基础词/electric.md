@@ -126,8 +126,14 @@ electr-(=electron, 琥珀，希腊语 *elektron*) + -ic(形容词后缀，……
 
 > [!example]- 语料
 > - The new electric car is both eco-friendly and efficient. `[真题]`
+>   - 中译：新型电动汽车既环保又高效。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/electric；
 > - The crowd's excitement created an electric atmosphere in the stadium. `[真题]`
+>   - 中译：人群的兴奋在体育场内营造了一种激动人心的气氛。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/electric；
 > - The electric current flows through the wires, bringing energy to our homes. `[真题]`
+>   - 中译：电流通过电线流动，为我们的家庭输送能源。；
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/electric；
 
 
 ---

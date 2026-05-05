@@ -127,8 +127,14 @@ review_count: 0
 
 > [!example]- 语料
 > - An interim government was set up for the period before the country's first free election. `[真题]`
+>   - 中译：在该国首次自由选举之前的时期，成立了一个临时政府。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/interim；
 > - The new secretary starts in June, but in the interim we're having to type our own letters. `[真题]`
+>   - 中译：新秘书六月份上任，但在此期间我们不得不自己打信。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/interim；
 > - He only holds the post on an interim basis until a permanent replacement is found. `[真题]`
+>   - 中译：他只是临时担任该职位，直到找到正式接替者。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/interim；
 
 
 ---

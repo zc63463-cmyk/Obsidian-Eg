@@ -128,8 +128,14 @@ review_count: 0
 
 > [!example]- 语料
 > - It's in pencil so you can just erase anything that's wrong. `[例]`
+  - 中译：这是铅笔写的，所以你可以直接擦掉任何错误。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/erase；
 > - A virus erased my hard disk. `[例]`
+  - 中译：一种病毒清除了我的硬盘数据。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/erase；
 > - He is determined to erase the memory of a disappointing debut two years ago. `[例]`
+  - 中译：他决心抹去两年前首次登场失利的记忆。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/erase；
 
 
 ---

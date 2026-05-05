@@ -132,8 +132,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The factory was fined for discharging toxic chemicals into the river. `[COCA-NEWS]`
+>   - 中译：这家工厂因向河流排放有毒化学品而被罚款。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/discharge；
 > - Patients are typically discharged from hospital within 48 hours of minor surgery. `[COCA-ACAD]`
+>   - 中译：患者通常在小型手术后48小时内出院。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/discharge；
 > - She was discharged from the police force for bad conduct. `[BNC-SPOKEN]`
+>   - 中译：她因行为不端被从警察队伍中开除。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/discharge；
 
 
 ---

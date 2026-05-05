@@ -123,8 +123,14 @@ review_count: 0
 
 > [!example]- 语料
 > - He has no descendants. `[例]`
+  - 中译：她是维多利亚女王的直系后裔。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/descendant；
 > - They claim to be descendants of a French duke. `[例]`
+  - 中译：他的许多后代仍然住在那个地区。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/descendant；
 > - We owe it to our descendants (= people younger than us who will live after we have died ) to leave them a clean world to live in. `[例]`
+  - 中译：这个习俗从我们的祖先传给了他们的后代。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/descendant；
 
 
 ---

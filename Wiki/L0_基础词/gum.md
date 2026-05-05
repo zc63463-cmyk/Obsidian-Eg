@@ -129,8 +129,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The labels were already gummed to the envelopes. `[例]`
+  - 中译：标签已经粘在信封上了。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/gum；
 > - Most teachers dont allow their students to chew gum in class. `[例]`
+  - 中译：大多数老师不允许学生在课堂上嚼口香糖。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/gum；
 > - Nearly everything the old silverback eats gets boiled , steamed or soaked so he can gum it down. `[例]`
+  - 中译：这只老年银背大猩猩吃的几乎所有东西都要煮、蒸或泡软，这样它才能用牙龈嚼碎。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/gum；
 
 
 ---

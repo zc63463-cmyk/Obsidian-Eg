@@ -130,8 +130,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Research has shown that students tend to perform better when they work in pairs rather than individually on complex problem-solving tasks. `[真题]`
+>   - 中译：研究表明，学生在完成复杂的解决问题任务时，两人一组合作比单独完成表现更好。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pair；
 > - The new technology pairs artificial intelligence with human expertise to deliver more accurate medical diagnoses. `[真题]`
+>   - 中译：这项新技术将人工智能与人类专业知识相结合，以提供更准确的医疗诊断。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pair；
 > - Swans often form pair bonds that last for years, demonstrating remarkable loyalty to their mates. `[真题]`
+>   - 中译：天鹅经常形成持续多年的配对关系，展现出对伴侣的非凡忠诚。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pair；
 
 
 ---

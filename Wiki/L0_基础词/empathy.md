@@ -128,8 +128,14 @@ em-（=in，进入）+ path（=feeling，感受，源自希腊语 *pathos*）+ -
 
 > [!example]- 语料
 > - He loves children and has a certain empathy with them. `[例]`
+>   - 中译：他热爱孩子，对他们有一定的同理心。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/empathy；
 > - Part of it may not be empathy, but simply be precaution and an insurance for the event of personal misfortune. `[例]`
+>   - 中译：其中一部分可能不是同理心，而仅仅是防范措施和为个人不幸事件提供的一种保障。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/empathy；
 > - Some of the settlers had empathy with the dolphins to a high degree, but Ross's own powers of contact were relatively feeble. `[例]`
+>   - 中译：一些定居者对海豚有高度的同理心，但罗斯自己的接触能力相对较弱。；
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/empathy；
 
 
 ---

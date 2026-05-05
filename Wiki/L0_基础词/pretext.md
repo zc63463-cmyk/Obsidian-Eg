@@ -124,8 +124,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The border dispute was used as a pretext for military intervention. `[例]`
+>   - 中译：边境争端被用作军事干预的借口。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pretext；
 > - I called her on the pretext of need ing more information. `[例]`
+>   - 中译：我以需要更多信息为借口给她打了电话。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pretext；
 > - He called her on the pretext of needing help with his homework. `[例]`
+>   - 中译：他以需要帮助做作业为借口给她打了电话。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pretext；
 
 
 ---

@@ -130,9 +130,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The soldiers paraded through the streets to celebrate the victory. `[例]`
+  - 中译：士兵们列队穿过街道庆祝胜利。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/parade；
 > - She paraded her new diamond ring in front of her friends. `[例]`
+  - 中译：她在朋友面前炫耀她的新钻戒。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/parade；
 > - Macy's Thanksgiving Day Parade is one of the most famous parades in the world. `[例]`
-
+  - 中译：梅西感恩节大游行是世界上最著名的游行之一。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/parade；
 
 ---
 

@@ -128,8 +128,14 @@ grieve 源自拉丁语 *gravis*（重的），通过古法语 *grever* 演变而
 
 > [!example]- 语料
 > - He is still grieving for his wife. `[例]`
+  - 中译：他仍在为妻子的去世而悲痛。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/grieve；
 > - She plays a woman grieving over the loss of her teenage son. `[例]`
+  - 中译：她饰演一位因失去十几岁的儿子而悲痛的女性。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/grieve；
 > - It grieves me to see all this food going to waste. `[例]`
+  - 中译：看到这么多食物被浪费，我感到很难过。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/grieve；
 
 
 ---

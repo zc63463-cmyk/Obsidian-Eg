@@ -128,8 +128,14 @@ out-(外出) + [[fit]](适合/装备)
 
 > [!example]- 语料
 > - She bought a new outfit for the job interview and wanted to make a good impression. `[BNC-SPOKEN]`
+>   - 中译：她为面试买了一套新衣服，想留下好印象。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/outfit；
 > - We are a professional outfit and we do require payment for our services. `[COCA-NEWS]`
+>   - 中译：我们是一个专业团队，确实需要为我们的服务付费。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/outfit；
 > - She got a complete ski outfit as a gift from her parents for her birthday. `[COCA-FICT]`
+>   - 中译：她从父母那里得到了一套完整的滑雪装备作为生日礼物。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/outfit；
 
 
 ---

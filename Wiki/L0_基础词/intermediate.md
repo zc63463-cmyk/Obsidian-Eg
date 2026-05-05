@@ -133,8 +133,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The student's language skills are at an intermediate level, allowing them to hold basic conversations. `[真题]`
+>   - 中译：该学生的语言水平处于中级，能够进行基本对话。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/intermediate；
 > - The project is currently in the intermediate stage, where we are testing the initial prototypes. `[真题]`
+>   - 中译：该项目目前处于中间阶段，我们正在测试初始原型。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/intermediate；
 > - The course is designed for intermediate learners of English. `[真题]`
+>   - 中译：该课程专为中级英语学习者设计。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/intermediate；
 
 
 ---

@@ -133,8 +133,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Who do you think will win the league championship this year? `[例]`
+>   - 中译：你认为今年谁会赢得联赛冠军？；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/league；
 > - Liverpool were top of the Football League that year. `[例]`
+>   - 中译：利物浦那年位居足球联赛榜首。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/league；
 > - The team rose to the top of the league last year , and hopes to repeat the feat this year. `[例]`
+>   - 中译：该队去年升至联赛榜首，并希望今年再创佳绩。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/league；
 
 
 ---

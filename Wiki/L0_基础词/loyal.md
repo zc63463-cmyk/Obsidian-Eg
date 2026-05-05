@@ -127,8 +127,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Their customers remain loyal. `[真题]`
+> -   - 中译：他们的客户始终忠诚；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/loyal；
 > - She has been one of the prime minister's most loyal supporters. `[例]`
+> -   - 中译：她一直是首相最忠实的支持者之一；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/loyal；
 > - When all her other friends deserted her, Steve remained loyal. `[例]`
+> -   - 中译：当她所有的其他朋友都抛弃她时，史蒂夫依然忠诚；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/loyal；
 
 
 ---

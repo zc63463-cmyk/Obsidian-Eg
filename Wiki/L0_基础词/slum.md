@@ -139,8 +139,14 @@ review_count: 0
 
 > [!example]- 语料
 > - She was brought up in the slums of Lima. `[例]`
+  - 中译：她在利马的贫民窟长大。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/slum；
 > - She was brought up in the slums of Leeds. `[例]`
+  - 中译：她在利兹的贫民窟长大。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/slum；
 > - This house would be an absolute slum if I wasn't here to clean it. `[例]`
+  - 中译：如果我不在这里打扫，这房子绝对会变成一个猪窝。；
+  - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/slum；
 
 
 ---

@@ -125,8 +125,14 @@ ruth（怜悯、同情，中古英语 *reuthe*，源自古诺尔斯语 *hryggð*
 
 > [!example]- 语料
 > - The company was ruthless in cutting costs during the financial crisis. `[真题]`
+  - 中译：这家公司在金融危机期间毫不留情地削减成本。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ruthless
 > - The ruthless dictator ordered the execution of his political opponents. `[真题]`
+  - 中译：那个无情的独裁者下令处决他的政敌。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ruthless
 > - The ruthless competition left many small businesses bankrupt. `[真题]`
+  - 中译：残酷的竞争使许多小企业破产。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ruthless
 
 
 ---

@@ -134,9 +134,17 @@ review_count: 0
 
 > [!example]- 语料
 > - The company was accused of dumping cheap steel on the European market. `[真题]`
+>   - 中译：该公司被指控向欧洲市场倾销廉价钢材。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/dump；
 > - She dumped him after finding out he had been lying. `[真题]`
+>   - 中译：发现他一直在说谎后，她甩了他。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/dump；
 > - Toxic chemicals continue to be dumped into the river. `[真题]`
+>   - 中译：有毒化学物质继续被倾倒到河里。；
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/dump；
 > - He's got no right to keep dumping his problems on me. `[真题]`
+>   - 中译：他无权一直把他的问题推给我。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/dump；
 
 
 ---

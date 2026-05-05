@@ -128,8 +128,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The romance of the open road has been replaced by the reality of traffic jams. `[真题]`
+  - 中译：开阔公路的浪漫已被交通拥堵的现实所取代。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/romance
 > - They had a brief summer romance before going to different colleges. `[真题]`
+  - 中译：在去不同的大学之前，他们有过一段短暂的夏日恋情。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/romance
 > - They got married last year after a whirlwind (= very short and unexpected ) romance. `[例]`
+  - 中译：他们在一段旋风般的恋情之后于去年结婚了。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/romance
 
 
 ---

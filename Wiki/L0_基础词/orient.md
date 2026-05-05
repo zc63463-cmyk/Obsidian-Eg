@@ -135,8 +135,14 @@ review_count: 0
 
 > [!example]- 语料
 > - After she came out of the station , she paused to orient herself. `[例]`
+>   - 中译：走出车站后，她停下来辨别方向。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/orient；
 > - Incoming freshmen have advisers to help orient them to the university. `[例]`
+>   - 中译：新生有顾问帮助他们适应大学生活。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/orient；
 > - Our students are oriented towards science subjects. `[例]`
+>   - 中译：我们的学生以理科为方向。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/orient；
 
 
 ---

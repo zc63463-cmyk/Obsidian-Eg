@@ -133,8 +133,14 @@ review_count: 0
 
 > [!example]- 语料
 > - I can't untie the knot - it's too tight. `[例]`
+>   - 中译：我解不开这个结——太紧了。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/knot；
 > - Alice's hair is always full of knots and tangles. `[例]`
+>   - 中译：爱丽丝的头发总是打结缠在一起。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/knot；
 > - Knots of anxious people stood waiting in the hall. `[例]`
+>   - 中译：一群群焦急的人站在大厅里等候。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/knot；
 
 
 ---

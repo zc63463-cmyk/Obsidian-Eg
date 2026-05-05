@@ -135,8 +135,14 @@ review_count: 0
 
 > [!example]- 语料
 > - She spent most of her early married life avoiding her husband. `[例]`
+> -   - 中译：她在婚后的大部分时间里都在躲避她的丈夫；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/married；
 > - They got married after she got pregnant. `[例]`
+> -   - 中译：她怀孕后他们结婚了；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/married；
 > - How long have you been married? `[例]`
+> -   - 中译：你结婚多久了？；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/married；
 
 
 ---

@@ -132,8 +132,14 @@ review_count: 0
 
 > [!example]- 语料
 > - He heaved the bag onto his shoulder. `[例]`
+  - 中译：他把包扛到了肩上。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/heave；
 > - I managed to heave the trunk down the stairs. `[例]`
+  - 中译：我设法把箱子搬下了楼梯。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/heave；
 > - He cleared a space , heaving boxes out of the way. `[例]`
+  - 中译：他把箱子推开，腾出了一块空间。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/heave；
 
 
 ---

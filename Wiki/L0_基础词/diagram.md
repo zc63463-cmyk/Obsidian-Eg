@@ -122,8 +122,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The teacher drew a diagram showing how the blood flows through the heart. `[例]`
+  - 中译：老师画了一张图表，展示血液如何流经心脏。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/diagram；
 > - The teacher drew a diagram showing how blood flows through the heart. `[例]`
+  - 中译：老师画了一张图表，展示血液如何流经心脏。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/diagram；
 > - As the diagram shows , a complex arrangement has been designed to balance French , German , and Spanish interests. `[例]`
+  - 中译：如图所示，已经设计了一种复杂的安排来平衡法国、德国和西班牙的利益。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/diagram；
 
 
 ---

@@ -129,9 +129,17 @@ review_count: 0
 
 > [!example]- 语料
 > - If you make aggression pay, this becomes the law of the jungle. `[真题]`
+>   - 中译：如果你让侵略行为得逞，这就变成了丛林法则。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/jungle；
 > - The concrete jungles could be in many ways improved if an attempt was made to plant some trees in the middle of these urban constituencies. `[例]`
+>   - 中译：如果尝试在这些城市区域中间种一些树，混凝土丛林可以在很多方面得到改善。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/jungle；
 > - A helicopter landed in a clearing in the jungle. `[例]`
+>   - 中译：一架直升机降落在丛林中的一片空地上。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/jungle；
 > - It is a soulless concrete jungle of a place. `[例]`
+>   - 中译：这是一个毫无生气的混凝土丛林般的地方。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/jungle；
 
 
 ---

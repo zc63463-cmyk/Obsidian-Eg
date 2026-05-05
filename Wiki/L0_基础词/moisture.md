@@ -126,8 +126,14 @@ review_count: 0
 
 > [!example]- 语料
 > - These plants need a rich soil that retains moisture. `[真题]`
+> - 中译：这些植物需要保水性好的肥沃土壤。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/moisture；
 > - It was a clear day with little moisture in the air. `[真题]`
+> - 中译：那天天气晴朗，空气中几乎没有水分。；
+> - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/moisture；
 > - When the soil is dry, more moisture is lost from the plant. `[真题]`
+> - 中译：当土壤干燥时，植物会流失更多水分。；
+> - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/moisture；
 
 
 ---

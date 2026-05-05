@@ -135,8 +135,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Imagine being able to remember every painting, on every wall, in every gallery space, between nearly 40 countries, he says. `[例]`
+  - 中译：想象一下，能够记住近40个国家中每个画廊空间里每面墙上的每一幅画。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/gallery；
 > - Franca Falletti, director of the Accademia Gallery in Florence where the statue is housed, said the cleaning would be finished by late May. `[例]`
+  - 中译：雕像所在的佛罗伦萨学院美术馆馆长弗兰卡·法莱蒂表示，清洁工作将在五月底前完成。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/gallery；
 > - The National Portrait Gallery has reopened after its major refurbishment. `[例]`
+  - 中译：国家肖像美术馆在重大翻修后重新开放。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/gallery；
 
 
 ---

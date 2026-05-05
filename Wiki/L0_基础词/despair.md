@@ -127,8 +127,14 @@ review_count: 0
 
 > [!example]- 语料
 > - To her teacher's despair, Nicole never does the work that she's told to do. `[例]`
+  - 中译：令她老师绝望的是，妮可从不做被要求做的作业。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/despair；
 > - Their fourth year without rain drove many farmers to despair. `[例]`
+  - 中译：连续第四年没有降雨，许多农民陷入了绝望。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/despair；
 > - He's the despair of his parents because he shows no interest in getting a job. `[例]`
+  - 中译：他是父母的心病，因为他对找工作毫无兴趣。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/despair；
 
 
 ---

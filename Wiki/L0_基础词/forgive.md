@@ -125,8 +125,14 @@ for-(完全、彻底，古英语 *for-* 的强化义) + give(给予) → 彻底�
 
 > [!example]- 语料
 > - I'd never forgive myself if anything happened to the kids. `[例]`
+>   - 中译：如果孩子们出了什么事，我永远不会原谅自己。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/forgive；
 > - A quarrel is only over when both sides can forgive and forget. `[例]`
+>   - 中译：只有双方都能不计前嫌，争吵才算真正结束。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/forgive；
 > - Forgive me for asking , but how much did you pay for your bag? `[例]`
+>   - 中译：请原谅我多问一句，你的包花了多少钱？；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/forgive；
 
 
 ---

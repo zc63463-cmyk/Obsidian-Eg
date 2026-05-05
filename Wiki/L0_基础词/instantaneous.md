@@ -120,8 +120,14 @@ in-(靠近) + [[st-sta-stat|st]](站立，拉丁语 *stare*) + -ant(形容词后
 
 > [!example]- 语料
 > - The researchers proposed a instantaneous solution to the problem. `[例]`
+  - 中译：研究人员提出了一个瞬间的解决方案。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/instantaneous；
 > - The company adopted a instantaneous approach to improve efficiency. `[例]`
+  - 中译：公司采用了一种瞬时方法来提高效率。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/instantaneous；
 > - The plan offers a instantaneous option for small organizations. `[例]`
+  - 中译：该计划为小型组织提供了一个瞬时选项。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/instantaneous；
 
 
 ---

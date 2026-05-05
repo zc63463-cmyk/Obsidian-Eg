@@ -123,9 +123,17 @@ review_count: 0
 
 > [!example]- 语料
 > - We expressed our sympathy for her loss. `[真题]`
+>   - 中译：我们对她的失去表示了同情。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sympathy；
 > - I have some sympathy with this point of view. `[真题]`
+>   - 中译：我对这种观点有一些认同。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/sympathy；
 > - The president has sent a message of sympathy to the relatives of the dead soldiers. `[例]`
+>   - 中译：总统向阵亡士兵的家属发出了慰问信。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sympathy；
 > - I don't have much sympathy for her — I think she's brought her troubles on herself. `[例]`
+>   - 中译：我对她不太同情——我认为她是自找麻烦。；
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/sympathy；
 
 
 ---

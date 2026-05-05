@@ -134,9 +134,17 @@ edge 源自古英语 *ecg*（刀刃，边缘），与古高地德语 *ekka*（�
 
 > [!example]- 语料
 > - ZEH communities are the leading edge of technologies that might someday create houses that produce as much energy as they consume. `[真题]`
+>   - 中译：零能耗住宅社区是前沿技术的代表，有朝一日可能创造出产能与耗能相当的房屋。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/edge；
 > - The rounded edges, cool glass, smooth and unknowable as a pebble. `[真题]`
+>   - 中译：圆润的边缘，冰凉的玻璃，光滑得像鹅卵石一样不可捉摸。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/edge；
 > - Being the leader of the fight against climate change provides a competitive edge. `[例]`
+>   - 中译：成为应对气候变化的领导者提供了竞争优势。；
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/edge；
 > - Incumbents generally have a financial edge over their rivals. `[例]`
+>   - 中译：在任者通常在资金方面比竞争对手更有优势。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/edge；
 
 
 ---

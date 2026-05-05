@@ -123,8 +123,14 @@ where（哪里/那个地方）+ by（通过/凭借）。where 源自古英语 *h
 
 > [!example]- 语料
 > - We need to devise some sort of system whereby people can liaise with each other. `[真题]`
+>   - 中译：我们需要设计某种系统，使人们能够相互联络。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/whereby；
 > - It's put me in a position whereby I can't afford to take a job. `[真题]`
+>   - 中译：这使我处于一种无法承担工作成本的境地。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/whereby；
 > - They've set up a plan whereby you can spread the cost over several months. `[真题]`
+>   - 中译：他们制定了一项计划，让你可以将费用分摊到几个月。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/whereby；
 
 
 ---

@@ -132,8 +132,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The tunnel goes right underneath the city. `[例]`
+>   - 中译：隧道正好从城市下方穿过。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/underneath；
 > - Underneath that shy exterior , she's actually a very warm person. `[例]`
+>   - 中译：在那害羞的外表下，她其实是一个非常热情的人。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/underneath；
 > - He was wearing a garish T-shirt underneath his shirt. `[例]`
+>   - 中译：他在衬衫里面穿了一件花哨的T恤。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/underneath；
 
 
 ---

@@ -126,9 +126,17 @@ re-(回，向后) + [[fund|fund]](资金，来自拉丁语 *fundus* 底部/基�
 
 > [!example]- 语料
 > - We claimed a refund from the shopkeeper, but he refused. `[真题]`
+  - 中译：我们向店主要求退款，但他拒绝了。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/refund；
 > - We will refund your money to you after you apply for it if you are not entirely satisfied. `[真题]`
+  - 中译：如果您不完全满意，在您申请后我们将把钱退还给您。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/refund；
 > - Dissatisfied customers can return the product for a full refund. `[例]`
+  - 中译：不满意的顾客可以退货并获得全额退款。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/refund；
 > - You're entitled to a full refund if you change your mind. `[例]`
+  - 中译：如果你改变主意，你有权获得全额退款。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/refund；
 
 
 ---

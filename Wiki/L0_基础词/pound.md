@@ -131,8 +131,14 @@ pound（重量单位，源自拉丁语 *pondus* "重量"，与 [[pos-pon-posit]]
 
 > [!example]- 语料
 > - There are one hundred pence in a pound. `[例]`
+>   - 中译：一英镑等于一百便士。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pound；
 > - They stole jewellery valued at £50,000 (= 50,000 pounds). `[例]`
+>   - 中译：他们偷走了价值五万英镑的珠宝。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pound；
 > - Do you have any change ?" "Sorry, I only have a five-pound note. `[例]`
+>   - 中译：你有零钱吗？""抱歉，我只有一张五英镑的纸币。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pound；
 
 
 ---

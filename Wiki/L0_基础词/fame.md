@@ -138,8 +138,14 @@ fame 源自古法语 fame，来自拉丁语 *fāma*（谈论、传闻、名声�
 
 > [!example]- 语料
 > - She moved to London in search of fame and fortune. `[例]`
+  - 中译：她搬到伦敦去追求名利。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fame；
 > - The town's fame rests on its beautiful cathedral. `[例]`
+  - 中译：这座小镇的名声源于其美丽的大教堂。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fame；
 > - She came to the city seeking fortune and fame. `[例]`
+  - 中译：她来到这座城市追求名利。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fame；
 
 
 ---

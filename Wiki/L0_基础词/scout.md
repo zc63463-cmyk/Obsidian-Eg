@@ -140,8 +140,14 @@ review_count: 0
 
 > [!example]- 语料
 > - American companies are keen to scout out business opportunities in Vietnam. `[例]`
+  - 中译：美国公司热衷于在越南寻找商机。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/scout
 > - Manchester United's chief scouts travel the world looking for talented young players. `[例]`
+  - 中译：曼联的首席球探走遍世界寻找有才华的年轻球员。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/scout
 > - I'm scouting round for a place to stay. `[例]`
+  - 中译：我正在到处找一个住处。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/scout
 
 
 ---

@@ -127,8 +127,14 @@ review_count: 0
 
 > [!example]- 语料
 > - My mother always warned me not to talk to strangers. `[例]`
+>   - 中译：我母亲总是警告我不要和陌生人说话。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/stranger；
 > - I'd never met anyone at the party before - they were complete strangers. `[例]`
+>   - 中译：我在派对上以前谁都不认识——他们完全是陌生人。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/stranger；
 > - Do you know the way to the bus station , or are you a stranger here too? `[例]`
+>   - 中译：你知道去公共汽车站的路吗，还是你在这里也是陌生人？；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/stranger；
 
 
 ---

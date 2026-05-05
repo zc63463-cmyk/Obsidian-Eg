@@ -129,8 +129,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Economic growth is gaining momentum, with GDP having expanded steadily over the past two quarters. `[真题]`
+> - 中译：经济增长正在加速，过去两个季度GDP稳步扩张。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/momentum；
 > - It would be the height of irresponsibility to halt our economic momentum because of the same old politics. `[真题]`
+> - 中译：因为陈旧的政治原因而停止我们的经济势头，将是不负责任的极致表现。；
+> - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/momentum；
 > - The reform movement started to gain momentum across the country. `[真题]`
+> - 中译：改革运动开始在全国范围内加速推进。；
+> - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/momentum；
 
 
 ---

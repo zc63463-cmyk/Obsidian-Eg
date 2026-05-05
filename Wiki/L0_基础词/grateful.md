@@ -130,9 +130,17 @@ review_count: 0
 
 > [!example]- 语料
 > - After the earthquake we felt grateful to be alive. `[例]`
+  - 中译：地震过后，我们庆幸自己还活着。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/grateful；
 > - I'm just grateful that I'm not still working for him. `[例]`
+  - 中译：我只是庆幸自己不再为他工作了。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/grateful；
 > - If you could get that report finished by Thursday, I'd be very grateful. `[例]`
+  - 中译：如果你能在周四前完成那份报告，我会非常感激。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/grateful；
 > - She looks forward to getting well and is grateful for the support of her family and friends. `[例]`
+  - 中译：她期待康复，并感激家人和朋友的支持。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/grateful；
 
 
 ---

@@ -132,8 +132,14 @@ filter 源自中世纪英语 *filtre*，借自古法语，最终来自拉丁语 
 
 > [!example]- 语料
 > - Ozone is the earth's primary filter for ultraviolet radiation. `[例]`
+>   - 中译：臭氧是地球过滤紫外线辐射的主要屏障。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/filter；
 > - I like to experiment with different light filters on my camera. `[例]`
+>   - 中译：我喜欢在相机上尝试不同的滤光镜。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/filter；
 > - You can apply filters to capture the most relevant data. `[例]`
+>   - 中译：你可以应用过滤器来获取最相关的数据。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/filter；
 
 
 ---

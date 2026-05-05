@@ -126,8 +126,14 @@ en-(=in-, 向内) + [[quir-quest|quir-/quest-]](寻求/追求) → 向内寻求�
 
 > [!example]- 语料
 > - I called the garage to enquire about progress on the repairs. `[例]`
+>   - 中译：我打电话给修车厂询问维修进展。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/enquire；
 > - She enquired as to your whereabouts. `[例]`
+>   - 中译：她询问了你的下落。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/enquire；
 > - Might I enquire why you have not mentioned this until now? `[例]`
+>   - 中译：请问您为什么直到现在才提到这件事？；
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/enquire；
 
 
 ---

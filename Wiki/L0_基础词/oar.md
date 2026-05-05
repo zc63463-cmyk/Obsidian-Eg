@@ -123,8 +123,14 @@ review_count: 0
 
 > [!example]- 语料
 > - A pair of oars. `[例]`
+>   - 中译：一对船桨。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/oar；
 > - She dipped her oars into the water and pulled. `[例]`
+>   - 中译：她把桨放入水中划动。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/oar；
 > - He pulled as hard as he could on the oars. `[例]`
+>   - 中译：他拼命地划桨。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/oar；
 
 
 ---

@@ -130,9 +130,17 @@ review_count: 0
 
 > [!example]- 语料
 > - The risk of infection can be substantially reduced by avoiding habitats with high tick density, such as wooded areas with luxuriant undergrowth and dense vegetation. `[例]`
+>   - 中译：通过避免蜱虫密度高的栖息地（如茂密的下层植被和浓密的树林区域），可以大幅降低感染风险。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/vegetation；
 > - As we drove towards the desert, the vegetation became sparse. `[例]`
+>   - 中译：当我们驱车驶向沙漠时，植被变得越来越稀疏。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/vegetation；
 > - Removal of the natural vegetation has resulted in a loss of nutrients in the soil. `[例]`
+>   - 中译：清除天然植被导致土壤养分流失。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/vegetation；
 > - Most parts of the alluvial plain are cultivated and covered by dense vegetation. `[例]`
+>   - 中译：冲积平原的大部分地区已被开垦，覆盖着茂密的植被。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/vegetation；
 
 
 ---

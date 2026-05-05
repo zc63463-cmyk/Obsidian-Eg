@@ -128,8 +128,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The ship carries both freight and passengers. `[COCA-ACAD]`
+>   - 中译：这艘船既载货又载客。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/freight；
 > - That predicted savings will come as a result of switching from air freight to sea freight. `[COCA-NEWS]`
+>   - 中译：预计的节省将来自从空运到海运的转换。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/freight；
 > - Third quarter freight expense remained flat as compared to the same period last year. `[COCA-NEWS]`
+>   - 中译：第三季度运费与去年同期相比保持平稳。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/freight；
 
 ---
 

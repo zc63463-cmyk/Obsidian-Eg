@@ -131,9 +131,17 @@ review_count: 0
 
 > [!example]- 语料
 > - The old cathedral dwarfs all the modern buildings around it. `[真题]`
+>   - 中译：这座古老的大教堂使周围所有现代建筑相形见绌。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/dwarf；
 > - Pluto was reclassified as a dwarf planet in 2006. `[真题]`
+>   - 中译：冥王星在2006年被重新归类为矮行星。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/dwarf；
 > - The small house was dwarfed by the massive skyscrapers surrounding it. `[真题]`
+>   - 中译：这座小房子被周围巨大的摩天大楼衬托得十分矮小。；
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/dwarf；
 > - Only 10% of the ocean floor is properly mapped, and mountain ranges and canyons dwarf even the largest warship. `[真题]`
+>   - 中译：只有10%的海底被精确测绘，而海底的山脉和峡谷甚至使最大的军舰都相形见绌。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/dwarf；
 
 
 ---

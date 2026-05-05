@@ -130,8 +130,14 @@ trunk 源自拉丁语 *truncus*（树干、躯干），可能来自 PIE *\*terə
 
 > [!example]- 语料
 > - The statue shows the head , trunk, and arms of an old man. `[例]`
+>   - 中译：这座雕像展示了一位老人的头部、躯干和手臂。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/trunk；
 > - I always keep a blanket and a toolkit in the trunk for emergencies. `[例]`
+>   - 中译：我总在后备箱里放一条毯子和一个工具箱以备不时之需。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/trunk；
 > - Stolen goods were found in the trunk of her car. `[例]`
+>   - 中译：在她的汽车后备箱里发现了赃物。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/trunk；
 
 
 ---

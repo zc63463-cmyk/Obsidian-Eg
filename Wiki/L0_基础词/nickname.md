@@ -123,8 +123,14 @@ nick（附加的/额外的，源自古英语 *ekename* → *nekename*，因冠�
 
 > [!example]- 语料
 > - We always use the nickname Bee for our daughter Elizabeth. `[例]`
+>   - 中译：我们一直用"小蜜蜂"这个昵称来叫我们的女儿伊丽莎白。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/nickname；
 > - Darwin" was the nickname he was given at high school , because of his interest in science. `[例]`
+>   - 中译："达尔文"是他在高中时得到的绰号，因为他对科学很感兴趣。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/nickname；
 > - The campsite has been nicknamed " tent city " by visiting reporters. `[例]`
+>   - 中译：这个营地被来访的记者戏称为"帐篷城"。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/nickname；
 
 
 ---

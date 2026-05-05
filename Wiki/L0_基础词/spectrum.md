@@ -134,8 +134,14 @@ spectr(看/影像，[[spec-spect]]的变体) + -um(名词后缀：表示结果�
 
 > [!example]- 语料
 > - The colours of the spectrum - red , orange , yellow , green , blue , indigo , and violet - can be seen in a rainbow. `[例]`
+  - 中译：光谱的颜色——红、橙、黄、绿、蓝、靛、紫——可以在彩虹中看到。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/spectrum；
 > - He has support from across the whole political spectrum. `[例]`
+  - 中译：他得到了整个政治光谱的支持。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/spectrum；
 > - The group includes students from both ends of the social spectrum (= range of social classes ). `[例]`
+  - 中译：这个小组包括来自社会阶层两端的学生。；
+  - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/spectrum；
 
 
 ---

@@ -133,8 +133,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Each brick also varies slightly in tone, texture and size. `[真题]`
+>   - 中译：每块砖在色调、质地和大小上也略有不同。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/texture；
 > - This artificial fabric has the texture of silk. `[例]`
+>   - 中译：这种人造面料具有丝绸般的质地。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/texture；
 > - The bread has a crumbly texture. `[例]`
+>   - 中译：这种面包质地酥脆。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/texture；
 
 
 ---

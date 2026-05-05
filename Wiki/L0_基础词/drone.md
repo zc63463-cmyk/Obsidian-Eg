@@ -127,8 +127,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Drone technology has transformed modern warfare and delivery services. `[真题]`
+>   - 中译：无人机技术改变了现代战争和配送服务。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/drone；
 > - He droned on about his job for what seemed like hours. `[真题]`
+>   - 中译：他喋喋不休地谈论自己的工作，似乎有好几个小时。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/drone；
 > - The Border Patrol's unmanned drone helped agents track down their smuggling suspect. `[例]`
+>   - 中译：边境巡逻队的无人驾驶无人机帮助特工追踪到了走私嫌疑人。；
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/drone；
 
 ---
 

@@ -127,8 +127,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The office building's upper floors were being repainted. `[例]`
+>   - 中译：办公楼的楼层正在重新粉刷。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/upper；
 > - If the infection is not checked it will probably spread to the upper body. `[例]`
+>   - 中译：如果感染得不到控制，可能会蔓延到上半身。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/upper；
 > - These shoes have leather uppers and synthetic soles. `[例]`
+>   - 中译：这些鞋的鞋面是皮革的，鞋底是合成的。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/upper；
 
 
 ---

@@ -127,6 +127,8 @@ review_count: 0
 > - The region must now strive for economic development as well as peace. `[COCA-NEWS]`
 > - We must strive to reduce poverty and inequality in our society. `[COCA-ACAD]`
 > - Mr Roe has kindled expectations that he must now strive to live up to. `[例]`
+>   - 中译：罗先生激发了人们的期望，他现在必须努力不辜负这些期望。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/strive；
 
 
 ---

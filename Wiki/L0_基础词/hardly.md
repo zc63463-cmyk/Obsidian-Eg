@@ -132,8 +132,14 @@ review_count: 0
 
 > [!example]- 语料
 > - I could hardly hear her at the back. `[例]`
+  - 中译：我在后面几乎听不到她说话。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hardly；
 > - The party had hardly started when she left. `[例]`
+  - 中译：派对还没开始她就走了。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hardly；
 > - We hardly ever (= almost never) go to concerts. `[例]`
+  - 中译：我们几乎从不去听音乐会。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hardly；
 
 
 ---

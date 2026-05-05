@@ -129,8 +129,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The demonstration led to serious civil disturbances across the city. `[真题]`
+>   - 中译：示威活动导致全市范围内发生严重的民事骚乱。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/disturbance；
 > - The violence that soldiers experience in war can lead to emotional disturbance in later years. `[真题]`
+>   - 中译：士兵在战争中经历的暴力可能导致日后的情绪障碍。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/disturbance；
 > - Neighbours called the police to report a disturbance. `[真题]`
+>   - 中译：邻居们打电话报警称发生了骚乱。；
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/disturbance；
 
 
 ---

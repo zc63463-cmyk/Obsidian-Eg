@@ -133,8 +133,14 @@ jolly 源自古法语 *joli*（漂亮的、愉快的），可能源自古诺斯�
 
 > [!example]- 语料
 > - The researchers proposed a jolly solution to the problem. `[例]`
+>   - 中译：研究人员提出了一个令人愉快的解决方案。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/jolly；
 > - The company adopted a jolly approach to improve efficiency. `[例]`
+>   - 中译：公司采用了一种欢快的方法来提高效率。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/jolly；
 > - The plan offers a jolly option for small organizations. `[例]`
+>   - 中译：该计划为小型组织提供了一个令人愉快的选项。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/jolly；
 
 
 ---

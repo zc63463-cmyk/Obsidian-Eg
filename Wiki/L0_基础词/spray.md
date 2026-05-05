@@ -130,8 +130,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Farmers use a lot of chemical sprays on crops. `[例]`
+>   - 中译：农民在农作物上使用大量化学喷雾剂。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/spray；
 > - All the wedding guests wore sprays of carnations. `[例]`
+>   - 中译：所有婚礼宾客都佩戴着康乃馨花束。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/spray；
 > - She sprayed her self with perfume. `[例]`
+>   - 中译：她在身上喷了香水。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/spray；
 
 
 ---

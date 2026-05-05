@@ -128,9 +128,17 @@ review_count: 0
 
 > [!example]- 语料
 > - The researchers collected blood samples from 500 participants to test for the virus. `[真题]`
+  - 中译：研究人员从500名参与者身上采集了血样以检测病毒。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sample
 > - The survey was based on a representative sample of the population. `[真题]`
+  - 中译：这项调查基于具有代表性的人口样本。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sample
 > - Samples of the water contained pesticide. `[例]`
+  - 中译：水样中含有农药。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sample
 > - They took a blood sample to test for hepatitis. `[例]`
+  - 中译：他们采集了血样以检测肝炎。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sample
 
 
 ---

@@ -129,7 +129,11 @@ in-(=in, 向内) + hale(=halare, 呼吸，拉丁语 *halare*)
 
 > [!example]- 语料
 > - When people inhale polluted air, the harmful substances can enter their bloodstream and cause serious health problems. `[真题]`
+  - 中译：当人们吸入被污染的空气时，有害物质会进入血液并引起严重的健康问题。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/inhale；
 > - The study found that children who inhale secondhand smoke are more likely to develop respiratory diseases. `[真题]`
+  - 中译：研究发现，吸入二手烟的儿童更容易患呼吸道疾病。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/inhale；
 > - He took a long slow breath, inhaling deeply. `[COCA-FICT]`
 > - He was treated for the effects of inhaling smoke. `[BNC-SPOKEN]`
 

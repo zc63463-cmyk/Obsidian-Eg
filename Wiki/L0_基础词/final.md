@@ -133,8 +133,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The final chapters of a book. `[例]`
+>   - 中译：一本书的最后几章。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/final；
 > - The game is in its final stages. `[例]`
+>   - 中译：比赛进入了最后阶段。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/final；
 > - In the final analysis , it is the drug companies that are going to profit from this policy. `[例]`
+>   - 中译：归根结底，将从这项政策中获利的是制药公司。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/final；
 
 
 ---

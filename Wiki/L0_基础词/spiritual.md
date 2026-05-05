@@ -134,8 +134,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Traditional ways of life fulfilled both economic and spiritual needs. `[例]`
+>   - 中译：传统生活方式既满足了经济需求，也满足了精神需求。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/spiritual；
 > - Religion focuses on the spiritual side of life. `[例]`
+>   - 中译：宗教关注生活的精神层面。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/spiritual；
 > - It was a spiritual communion that he found with her. `[例]`
+>   - 中译：他与她之间建立了一种精神上的交流。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/spiritual；
 
 
 ---

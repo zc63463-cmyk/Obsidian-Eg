@@ -130,9 +130,17 @@ wrench 源自古英语 *wrencan*（扭转），原始日耳曼语 *\*wrankjan*�
 
 > [!example]- 语料
 > - He wrenched his ankle while playing basketball and had to be carried off the court. `[真题]`
+>   - 中译：他打篮球时扭伤了脚踝，不得不被人抬出球场。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/wrench；
 > - She wrenched the door open with all her strength when she heard the screams coming from inside. `[真题]`
+>   - 中译：当她听到里面传来尖叫声时，她用尽全力把门拉开。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/wrench；
 > - It was a real wrench to leave the small village where she had spent her entire childhood. `[真题]`
+>   - 中译：离开她度过整个童年的小村庄真是一种痛苦。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/wrench；
 > - He grabbed an adjustable wrench from the toolbox and set to work fixing the leaking pipe. `[真题]`
+>   - 中译：他从工具箱里拿出一把活动扳手，开始修理漏水的管道。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/wrench；
 
 
 ---

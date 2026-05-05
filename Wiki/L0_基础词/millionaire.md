@@ -120,8 +120,14 @@ million(百万，源自意大利语 *millione*) + -aire(名词后缀，表"做�
 
 > [!example]- 语料
 > - A self-made millionaire, he pursued new passions such as learning to fly as well as his old love of taking cars to pieces. `[真题]`
+> - 中译：作为一名白手起家的百万富翁，他追求新的爱好，如学习飞行，以及他拆解汽车的旧爱。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/millionaire；
 > - Not all millionaires live a luxurious lifestyle. `[真题]`
+> - 中译：并非所有百万富翁都过着奢华的生活方式。；
+> - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/millionaire；
 > - You want me to buy you a new car - do you think I'm a millionaire? `[例]`
+> - 中译：你想让我给你买辆新车——你以为我是百万富翁吗？；
+> - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/millionaire；
 
 
 ---

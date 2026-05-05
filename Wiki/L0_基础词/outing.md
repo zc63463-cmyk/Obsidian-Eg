@@ -125,8 +125,14 @@ out-(向外) + -ing(名词后缀，表示动作的结果/事件)
 
 > [!example]- 语料
 > - Every year the professor takes her students on an outing to the archives of the Library of Congress. `[COCA-ACAD]`
+>   - 中译：每年教授都会带学生去国会图书馆档案馆郊游。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/outing；
 > - One evening, she made a rare outing to the local discotheque with her friends. `[BNC-FICT]`
+>   - 中译：一天晚上，她和朋友们难得去了一趟当地的迪斯科舞厅。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/outing；
 > - The afternoon outing in the sunshine went some way to restoring my morale. `[BNC-FICT]`
+>   - 中译：阳光下的午后郊游在一定程度上恢复了我的士气。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/outing；
 
 
 ---

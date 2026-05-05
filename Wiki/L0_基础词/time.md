@@ -139,8 +139,14 @@ review_count: 0
 
 > [!example]- 语料
 > - For this reason, caravanserais were strategically placed 9 they could be reached in a day's travel time. `[真题]`
+>   - 中译：因此，商队旅馆被战略性地设置在一天行程内可以到达的地方。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/time；
 > - Without enough affordable housing in southern New Hampshire towns, "employers are having a hard time attracting employees, and workers are having a hard time finding a place to live, " Taylor said. `[真题]`
+>   - 中译：泰勒说，由于新罕布什尔州南部城镇缺乏足够的可负担住房，雇主很难吸引员工，工人也很难找到住处。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/time；
 > - He wants to spend more time with his family. `[例]`
+>   - 中译：他想花更多时间陪伴家人。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/time；
 
 
 ---

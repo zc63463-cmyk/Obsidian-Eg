@@ -136,8 +136,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The report draws attention to the serious environmental problems. `[真题]`
+>   - 中译：报告引起了人们对严重环境问题的关注。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/draw；
 > - We can draw a conclusion from the data that the economy is recovering. `[真题]`
+>   - 中译：我们可以从数据中得出结论：经济正在复苏。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/draw；
 > - He's an excellent speaker who always draws a crowd. `[真题]`
+>   - 中译：他是一位出色的演讲者，总能吸引大批听众。；
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/draw；
 
 
 ---

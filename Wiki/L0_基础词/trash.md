@@ -129,8 +129,14 @@ review_count: 0
 
 > [!example]- 语料
 > - I can't believe that someone of his intelligence can read such trash! `[例]`
+>   - 中译：真不敢相信以他的智力竟然会看这种垃圾！；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/trash；
 > - There's nothing but trash on TV tonight. `[例]`
+>   - 中译：今晚电视上全是垃圾节目。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/trash；
 > - The trash really stinks - why don't you take it out? `[例]`
+>   - 中译：垃圾真的很臭——你为什么不把它倒掉？；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/trash；
 
 
 ---

@@ -124,8 +124,14 @@ in-(=un-, 不/未) + [[tact-tag|tact]](触碰，拉丁语 *tangere* 接触)
 
 > [!example]- 语料
 > - His faith in the system remained intact despite the scandals. `[真题]`
+>   - 中译：尽管发生了丑闻，他对这个系统的信心依然完好无损。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/intact；
 > - The ancient temple has remained largely intact despite centuries of war and natural disasters. `[真题]`
+>   - 中译：尽管经历了几个世纪的战争和自然灾害，这座古庙基本上保存完好。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/intact；
 > - Most of the current provisions can remain intact while the new regulations are being drafted. `[真题]`
+>   - 中译：在起草新法规期间，大多数现行条款可以保持不变。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/intact；
 
 
 ---

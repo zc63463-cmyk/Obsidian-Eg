@@ -137,8 +137,14 @@ warm(温暖的) + -th(名词后缀，表状态/性质，源自古英语 *-þu*)
 
 > [!example]- 语料
 > - Like fireplaces, they induce a sense of comfort and warmth. `[真题]`
+>   - 中译：像壁炉一样，它们给人带来舒适和温暖的感觉。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/warmth；
 > - It gave him a feeling of warmth and made him feel that they were home at last. `[真题]`
+>   - 中译：这给了他一种温暖的感觉，让他觉得他们终于到家了。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/warmth；
 > - She was struck by the warmth of their welcome and the genuine kindness in their eyes. `[真题]`
+>   - 中译：她被他们热情的欢迎和眼中真诚的善意所感动。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/warmth；
 
 
 ---

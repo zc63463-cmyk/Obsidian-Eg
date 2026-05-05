@@ -127,9 +127,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The invention of the smartphone caused a paradigm shift in communication. `[例]`
+  - 中译：智能手机的发明引发了通信领域的范式转变。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/paradigm；
 > - A paradigm shift is urgently needed in the coastal and marine tourism sector, with innovative approaches to achieve sustainable and regenerative development. `[例]`
+  - 中译：沿海和海洋旅游领域迫切需要范式转变，以创新方式实现可持续和再生发展。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/paradigm；
 > - Purdue is the paradigm for the rest of the conference right now. `[例]`
-
+  - 中译：普渡大学目前是整个联盟的典范。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/paradigm；
 
 ---
 

@@ -131,8 +131,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Since the volcano last erupted, many houses have been built in a dangerous position on its slopes. `[例]`
+  - 中译：自从火山上次喷发以来，许多房屋建在了山坡上的危险位置。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/erupt；
 > - At the end of a hot summer , violence erupted in the inner cities. `[例]`
+  - 中译：炎热夏末，内城区爆发了暴力事件。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/erupt；
 > - Clashes erupted between protesters and police. `[例]`
+  - 中译：抗议者与警察之间爆发了冲突。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/erupt；
 
 
 ---

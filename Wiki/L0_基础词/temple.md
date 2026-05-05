@@ -130,8 +130,14 @@ tem-(=temp-, 切割，拉丁语 *temnum*，*temnere* 的过去分词) + -ple(名
 
 > [!example]- 语料
 > - The 1,500-year-old Nanhua Temple was enveloped by incense and Buddhist chants as thousands of believers inundated the temple to mark its founding anniversary. `[真题]`
+>   - 中译：拥有1500年历史的南华寺香烟缭绕、佛经声声，成千上万的信众涌入寺庙庆祝建寺周年纪念。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/temple；
 > - Located in Jincheng in Shanxi province, the Qinglian Temple is known for its painted sculptures from the Tang and Song dynasties. `[真题]`
+>   - 中译：青莲寺位于山西省晋城市，以其唐宋时期的彩塑而闻名。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/temple；
 > - People often recount legendary tales of Fengguo Temple, a structure more than 1,000 years old that has miraculously withstood the ravages of war and earthquakes. `[真题]`
+>   - 中译：人们经常讲述奉国寺的传奇故事，这座超过1000年的建筑奇迹般地经受住了战争和地震的摧残。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/temple；
 
 
 ---

@@ -134,8 +134,14 @@ review_count: 0
 
 > [!example]- 语料
 > - A corkscrew is spiral-shaped. `[例]`
+>   - 中译：开瓶器是螺旋形的。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/spiral；
 > - This year's downward spiral of house prices has depressed the market. `[例]`
+>   - 中译：今年房价的螺旋式下跌使市场低迷。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/spiral；
 > - The quarterback threw a perfect spiral into the hands of the wide receiver. `[例]`
+>   - 中译：四分卫将球以完美的螺旋轨迹传到了外接手手中。；
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/spiral；
 
 
 ---

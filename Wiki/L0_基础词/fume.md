@@ -131,7 +131,11 @@ fume(整体词，源自拉丁语 *fumus*，烟雾)
 > [!example]- 语料
 > - Workers were exposed to toxic fumes in the poorly ventilated factory. `[真题]`
 > - The strong fumes from the paint made her feel dizzy. `[例]`
+>   - 中译：油漆散发的强烈气味使她感到头晕。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fume；
 > - A line of fume trees rose above the morning fog. `[例]`
+>   - 中译：一排烟树在晨雾中若隐若现。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fume；
 
 
 ---

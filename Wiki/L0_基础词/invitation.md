@@ -127,8 +127,14 @@ in-(=toward，朝向) + vit(渴望/追求，拉丁语 *vitare*，追求) + -atio
 
 > [!example]- 语料
 > - She received an invitation to speak at the international conference. `[真题]`
+>   - 中译：她收到了在国际会议上发言的邀请。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/invitation；
 > - He has issued an invitation to the Chinese president to come to Washington. `[例]`
+>   - 中译：他已向中国国家主席发出访问华盛顿的邀请。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/invitation；
 > - Leaving the door unlocked is an open invitation to burglars. `[例]`
+>   - 中译：不锁门等于是给窃贼敞开大门。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/invitation；
 
 
 ---

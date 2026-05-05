@@ -127,8 +127,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Hot, stagnant air filled the subway. `[例]`
+>   - 中译：闷热、沉闷的空气充满了地铁。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/stagnant；
 > - Jobs become scarce in a stagnant economy. `[例]`
+>   - 中译：在经济停滞时期，工作变得稀缺。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/stagnant；
 > - Recently, the company's sales have been declining or stagnant. `[例]`
+>   - 中译：最近，公司的销售额一直在下降或停滞不前。；
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/stagnant；
 
 
 ---

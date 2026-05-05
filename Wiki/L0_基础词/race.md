@@ -135,8 +135,14 @@ race 源自古诺斯语 *ras*（奔跑、冲刺），与古英语 *raersan*（�
 
 > [!example]- 语料
 > - Parkrun is not a race but a time trial: your only competitor is the clock. `[真题]`
+>   - 中译：公园跑不是比赛，而是计时赛：你唯一的竞争对手是时钟。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/race；
 > - The space race between the United States and the Soviet Union captured the world's imagination. `[真题]`
+>   - 中译：美国与苏联之间的太空竞赛吸引了全世界的想象力。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/race；
 > - He won the race easily, finishing ahead of all other competitors. `[真题]`
+>   - 中译：他轻松赢得了比赛，领先于所有其他选手。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/race；
 
 
 ---

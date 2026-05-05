@@ -129,8 +129,14 @@ e-(=ex-, 出来) + [[last|las-]](持续，拉丁语 *lastus*) + -ic(形容词后
 
 > [!example]- 语料
 > - The standard head mount on the device is just a pair of soft elastic straps. `[真题]`
+>   - 中译：该设备的标准头戴装置只是一对柔软的弹性带。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/elastic；
 > - It has become a more elastic and elective concept. `[真题]`
+>   - 中译：它已成为一个更具弹性和可选性的概念。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/elastic；
 > - The plan offers a elastic option for small organizations. `[真题]`
+>   - 中译：该计划为小型组织提供了一个弹性选项。；
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/elastic；
 
 
 ---

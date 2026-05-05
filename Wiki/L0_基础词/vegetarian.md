@@ -129,9 +129,17 @@ review_count: 0
 
 > [!example]- 语料
 > - I've been feeling much healthier since I became a vegetarian. `[例]`
+>   - 中译：自从成为素食主义者以来，我感觉健康多了。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/vegetarian；
 > - She's been a vegetarian for ten years now. `[例]`
+>   - 中译：她已经吃素十年了。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/vegetarian；
 > - Prisoners may always ask for a vegetarian diet. `[例]`
+>   - 中译：囚犯可以随时要求提供素食。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/vegetarian；
 > - Everyone I know likes the smell of bacon — even Mike does and he's a vegetarian. `[例]`
+>   - 中译：我认识的每个人都喜欢培根的味道——连迈克也喜欢，而他是素食主义者。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/vegetarian；
 
 
 ---

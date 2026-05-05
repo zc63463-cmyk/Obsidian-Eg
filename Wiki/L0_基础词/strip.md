@@ -131,9 +131,17 @@ review_count: 0
 
 > [!example]- 语料
 > - Huge areas of land have been stripped of all trees and vegetation. `[COCA-ACAD]`
+>   - 中译：大片土地上的所有树木和植被已被清除。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/strip；
 > - The paintwork was so bad that we decided to strip off all the paint and start again. `[BNC-SPOKEN]`
+>   - 中译：油漆太差了，我们决定把所有油漆都刮掉重新来过。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/strip；
 > - He was stripped of his title after the scandal. `[COCA-NEWS]`
+>   - 中译：丑闻发生后，他被剥夺了头衔。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/strip；
 > - She said that these processed foods have been stripped of most of their nutrients. `[COCA-ACAD]`
+>   - 中译：她说这些加工食品已经失去了大部分营养成分。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/strip；
 
 
 ---

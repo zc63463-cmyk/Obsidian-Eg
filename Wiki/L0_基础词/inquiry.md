@@ -129,8 +129,14 @@ in-(向内，深入) + [[quir-quis|quir-/quis-]](追求，寻求) + -y(名词后
 
 > [!example]- 语料
 > - The government launched a public inquiry into the causes of the accident. `[真题]`
+  - 中译：政府对事故原因展开了公开调查。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/inquiry；
 > - The spirit of scientific inquiry drives progress. `[真题]`
+  - 中译：科学探索的精神推动着进步。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/inquiry；
 > - The police are pursuing a new line of inquiry. `[例]`
+  - 中译：警方正在追查一条新的调查线索。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/inquiry；
 
 
 ---

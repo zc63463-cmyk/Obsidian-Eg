@@ -141,9 +141,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The hot spots and their volcanic trails are milestones that mark the passage of the plates. `[真题]`
+  - 中译：热点及其火山轨迹是标记板块移动历程的里程碑。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/passage；
 > - It called on all warring sides to allow the passage of aid deliveries to civilians. `[例]`
+  - 中译：它呼吁所有交战方允许援助物资运送给平民。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/passage；
 > - The bathroom's on the right at the end of the passage. `[例]`
-
+  - 中译：浴室在走廊尽头的右边。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/passage；
 
 ---
 

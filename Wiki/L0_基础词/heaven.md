@@ -129,8 +129,14 @@ review_count: 0
 
 > [!example]- 语料
 > - I just lay in the sun for a week and did nothing - it was heaven. `[例]`
+  - 中译：我在阳光下躺了一周什么都没做——简直像在天堂。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/heaven；
 > - We stared up at the heavens trying to see the comet. `[例]`
+  - 中译：我们仰望天空，试图看到那颗彗星。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/heaven；
 > - It was heaven lying there in the sunshine listening to the birds sing. `[例]`
+  - 中译：躺在阳光里听鸟儿歌唱，真是天堂般的享受。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/heaven；
 
 
 ---

@@ -132,8 +132,14 @@ fac（做）+ simile（相似）→ facsimile（做成相似的东西）→ 缩�
 
 > [!example]- 语料
 > - I'll send you a fax with the details of the proposal. `[例]`
+  - 中译：我会把提案的详细信息传真给你。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fax；
 > - Do you have a fax at home? `[例]`
+  - 中译：你家里有传真机吗？；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fax；
 > - These are true fax. `[例]`
+  - 中译：这些是真实的传真。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fax；
 
 
 ---

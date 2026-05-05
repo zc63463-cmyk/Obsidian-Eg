@@ -117,8 +117,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The stock is delivered by lorry from the huge warehouses. `[例]`
+> -   - 中译：货物从巨大的仓库用卡车运送；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lorry；
 > - The lorry chugged up the hill. `[例]`
+> -   - 中译：卡车轰隆隆地爬上山坡；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lorry；
 > - The accident was clearly the lorry driver's fault. `[例]`
+> -   - 中译：这起事故显然是卡车司机的过错；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lorry；
 
 
 ---

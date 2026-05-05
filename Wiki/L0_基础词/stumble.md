@@ -128,8 +128,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Workmen stumbled upon an ancient mosaic while digging foundations for a new building. `[真题]`
+>   - 中译：工人们在为新建筑挖地基时，偶然发现了一幅古代马赛克镶嵌画。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/stumble；
 > - She stumbled over the unfamiliar words during her speech at the conference. `[真题]`
+>   - 中译：她在会议演讲时念错了那些不熟悉的词。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/stumble；
 > - In 1988, he stumbled across an indirect link in the scientific literature between Raynaud's disease and dietary fish oil. `[真题]`
+>   - 中译：1988年，他在科学文献中偶然发现了雷诺氏病与膳食鱼油之间的间接联系。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/stumble；
 
 
 ---

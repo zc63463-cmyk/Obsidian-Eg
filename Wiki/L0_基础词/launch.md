@@ -133,8 +133,14 @@ launch 源自古法语 *lanchier*（投掷），可能源自拉丁语 *lancea*�
 
 > [!example]- 语料
 > - How much champagne will we need for the launch? `[例]`
+>   - 中译：发布会需要多少香槟？；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/launch；
 > - Illness prevented her from attending the launch party for her latest novel. `[例]`
+>   - 中译：她因病未能出席她最新小说的发布会。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/launch；
 > - The launch of the space shuttle was delayed for 24 hours because of bad weather. `[例]`
+>   - 中译：由于天气恶劣，航天飞机的发射推迟了24小时。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/launch；
 
 
 ---

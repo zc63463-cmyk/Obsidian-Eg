@@ -126,8 +126,14 @@ tragedy 源自希腊语 *tragōidia*，由 *tragos*（山羊）+ *ōidē*（歌/
 
 > [!example]- 语料
 > - The pilot averted a tragedy when he succeeded in preventing the plane from crashing. `[例]`
+>   - 中译：飞行员成功阻止了飞机坠毁，避免了一场悲剧。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/tragedy；
 > - Hitler's invasion of Poland led to the tragedy of the Second World War. `[例]`
+>   - 中译：希特勒入侵波兰导致了第二次世界大战的悲剧。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/tragedy；
 > - His life was touched by hardship and personal tragedy. `[例]`
+>   - 中译：他的一生经历了苦难和个人悲剧。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/tragedy；
 
 
 ---

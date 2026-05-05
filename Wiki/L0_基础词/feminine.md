@@ -125,8 +125,14 @@ femin(女性，源自拉丁语 *femina*) + -ine(形容词后缀，表示"具有�
 
 > [!example]- 语料
 > - The current style in evening wear is soft , romantic , and feminine. `[例]`
+>   - 中译：目前晚装的流行风格是柔软、浪漫且女性化的。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/feminine；
 > - With his long dark eyelashes , he looked almost feminine. `[例]`
+>   - 中译：他长着深色的长睫毛，看起来几乎有些女性化。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/feminine；
 > - Her clothes are always very feminine. `[例]`
+>   - 中译：她的衣服总是非常女性化。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/feminine；
 
 
 ---

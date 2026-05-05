@@ -122,9 +122,17 @@ review_count: 0
 
 > [!example]- 语料
 > - She was very sympathetic to the plight of the refugees. `[真题]`
+>   - 中译：她对难民的困境深表同情。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sympathetic；
 > - He is sympathetic to the idea of reform. `[真题]`
+>   - 中译：他赞成改革的主意。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/sympathetic；
 > - The current government was very sympathetic towards environmental issues. `[例]`
+>   - 中译：现任政府对环境问题非常关注。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sympathetic；
 > - He suffers from back trouble too, so he was very sympathetic about my problem. `[例]`
+>   - 中译：他也患有背部疾病，所以对我的问题非常同情。；
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/sympathetic；
 
 
 ---

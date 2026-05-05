@@ -128,8 +128,14 @@ un-(否定/反转，古英语 *un-*，与 [[de]] 反转义相近) + do(做，古
 
 > [!example]- 语料
 > - Can someone help me to undo my seat belt? `[例]`
+>   - 中译：谁能帮我解开安全带？；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/undo；
 > - It's very difficult to undo the damage that's caused by inadequate parenting in a child's early years. `[例]`
+>   - 中译：要消除孩子早年不当养育造成的损害是非常困难的。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/undo；
 > - It’s difficult to undo the damage caused by a father who abandons his child. `[例]`
+>   - 中译：要消除父亲抛弃孩子所造成的损害是很困难的。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/undo；
 
 
 ---

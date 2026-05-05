@@ -127,8 +127,14 @@ review_count: 0
 
 > [!example]- 语料
 > - We had to exclude eight couples from our secondary analysis due to technical problems or changes in marital status since the re-interview stage. `[真题]`
+> -   - 中译：由于技术问题或自重新访谈阶段以来婚姻状况的变化，我们不得不将八对夫妇从二次分析中排除；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/marital；
 > - These can be forms of avoidance that make it impossible for the couple to look at their marital problems. `[真题]`
+> -   - 中译：这些可能是回避的形式，使夫妻无法正视他们的婚姻问题；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/marital；
 > - She was expected to return to the marital home and would receive daily visits from carers. `[真题]`
+> -   - 中译：她被期望回到婚后的家中，并会每天接受护理人员的探访；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/marital；
 
 
 ---

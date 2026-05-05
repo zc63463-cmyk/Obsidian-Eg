@@ -131,8 +131,14 @@ trench 源自拉丁语 *truncare*（切断，修剪），与 [[tract]]（拉、�
 
 > [!example]- 语料
 > - A workman was killed when the sides of the trench he was working in collapsed. `[例]`
+>   - 中译：一名工人在沟槽坍塌时遇难。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/trench；
 > - The trenches of the First World War. `[例]`
+>   - 中译：第一次世界大战的战壕。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/trench；
 > - I dug a trench around the tent to keep rain water from getting in. `[例]`
+>   - 中译：我在帐篷周围挖了一条沟，防止雨水灌入。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/trench；
 
 
 ---

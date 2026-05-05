@@ -128,8 +128,14 @@ ne-(=neither, 两者都不) + uter(=either, 两者之一) + -al(形容词后缀)
 
 > [!example]- 语料
 > - If there's an argument between my daughter and her mother , it's important that I remain neutral. `[例]`
+>   - 中译：如果我女儿和她妈妈之间发生争执，我保持中立很重要。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/neutral；
 > - Switzerland was neutral during the war. `[例]`
+>   - 中译：瑞士在战争期间保持中立。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/neutral；
 > - The peace conference would have to be held in a neutral country. `[例]`
+>   - 中译：和平会议将不得不在一个中立国家举行。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/neutral；
 
 
 ---

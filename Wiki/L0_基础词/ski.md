@@ -143,8 +143,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The ski resort offers a variety of services including snowmaking equipment for the slopes. `[例]`
+  - 中译：这个滑雪场提供多种服务，包括为坡道配备造雪设备。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/ski；
 > - There are some nice gentle slopes that beginners can easily ski down. `[例]`
+  - 中译：有一些不错的平缓坡道，初学者可以轻松滑下。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/ski；
 > - How wide are your skis? `[例]`
+  - 中译：你的滑雪板有多宽？；
+  - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/ski；
 
 
 ---

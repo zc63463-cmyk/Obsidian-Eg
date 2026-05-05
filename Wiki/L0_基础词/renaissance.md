@@ -128,8 +128,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The Renaissance, which began in Italy in the 14th century, marked a profound shift in European thought, art, and science. `[真题]`
+  - 中译：始于14世纪意大利的文艺复兴标志着欧洲思想、艺术和科学的深刻转变。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/renaissance；
 > - In recent years, there has been a renaissance of interest in traditional crafts and handmade products among young consumers. `[例]`
+  - 中译：近年来，年轻消费者对传统手工艺和手工制品的兴趣出现了复兴。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/renaissance；
 > - Opera is enjoying a long-awaited renaissance. `[例]`
+  - 中译：歌剧正在迎来期待已久的复兴。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/renaissance；
 
 
 ---

@@ -138,8 +138,14 @@ review_count: 0
 
 > [!example]- 语料
 > - I must have scraped some of the paint off when I was parking the car. `[真题]`
+  - 中译：我停车时一定是刮掉了一些漆。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/scrape
 > - Both my brothers have university degrees, but I just scraped through a couple of A-levels. `[真题]`
+  - 中译：我的两个兄弟都有大学学位，但我只是勉强通过了几门A-level考试。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/scrape
 > - The company was struggling financially but somehow managed to scrape through the recession. `[例]`
+  - 中译：公司财务困难，但不知怎么地勉强熬过了经济衰退。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/scrape
 
 
 ---

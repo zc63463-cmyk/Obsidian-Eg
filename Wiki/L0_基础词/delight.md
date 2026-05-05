@@ -133,8 +133,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Her face had a look of pure delight. `[例]`
+  - 中译：孩子们看到小狗时高兴得尖叫起来。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/delight；
 > - The children squealed in delight when they saw all the presents under the Christmas tree. `[例]`
+  - 中译：她很喜欢逗弄她的弟弟。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/delight；
 > - His delight at seeing her again was obvious. `[例]`
+  - 中译：令我非常高兴的是，我通过了考试。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/delight；
 
 
 ---

@@ -129,8 +129,14 @@ quant（多少，拉丁语 *quantus*）+ -ity（名词后缀，表示状态/性�
 
 > [!example]- 语料
 > - The ( sheer ) quantity (= large amount ) of equipment needed for the trip is staggering. `[例]`
+>   - 中译：这次旅行所需的（大量）设备数量令人震惊。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/quantity；
 > - This recipe is only for four, so I usually double the quantity if I'm cooking for my family. `[例]`
+>   - 中译：这个食谱只够四人份，所以如果为家人做饭，我通常会把份量加倍。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/quantity；
 > - It's quality not quantity that really counts. `[例]`
+>   - 中译：重要的是质量而不是数量。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/quantity；
 
 
 ---

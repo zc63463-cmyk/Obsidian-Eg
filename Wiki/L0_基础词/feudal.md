@@ -124,8 +124,12 @@ feud(封地，拉丁语 *feudum*) + -al(形容词后缀，表示"与……有关
 
 > [!example]- 语料
 > - In the feudal system , the king was at the top and the peasants were at the bottom. `[例]`
+>   - 中译：在封建制度中，国王处于最顶层，农民处于最底层。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/feudal；
 > - Poison Ruïn have always seen more similarities than differences, especially for the people at the bottom of the feudal system. `[例]`
 > - Some accuse the family of gentrifying the town, or treating it like a kind of feudal society. `[例]`
+>   - 中译：有人指责这个家族在使小镇贵族化，或者把它当作一种封建社会来对待。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/feudal；
 
 
 ---

@@ -129,9 +129,17 @@ gay 为基础词汇，词源有争议。可能来自法兰克语 *\*gahi*（快�
 
 > [!example]- 语料
 > - The gay rights movement has made significant progress in many countries over the past few decades. `[真题]`
+>   - 中译：在过去几十年中，同性恋权利运动在许多国家取得了重大进展。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/gay；
 > - Her speech caused outrage among the gay community. `[真题]`
+>   - 中译：她的演讲在同性恋群体中引起了愤怒。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/gay；
 > - I believe that gay weddings should be legal. `[真题]`
+>   - 中译：我认为同性婚礼应该合法化。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/gay；
 > - The garden was bright with gay colors in spring. `[真题]`
+>   - 中译：春天，花园里鲜艳的色彩十分明亮。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/gay；
 
 
 ---

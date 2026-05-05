@@ -131,8 +131,14 @@ re-(=intensive，加强) + lish(=lic-，味道，拉丁语 *licere*，令人愉�
 
 > [!example]- 语料
 > - Whether it's a sports team or a presidential campaign, everybody relishes having the big momentum, because it makes them harder to stop or change direction. `[真题]`
+  - 中译：无论是运动队还是总统竞选，每个人都喜欢拥有强大的势头，因为这使他们更难被阻止或改变方向。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/relish；
 > - I don't relish telling her that her son has been arrested. `[真题]`
+  - 中译：我不愿意告诉她她儿子被捕了。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/relish；
 > - He relishes the chance to play Hamlet. `[例]`
+  - 中译：他渴望有机会扮演哈姆雷特。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/relish；
 
 
 ---

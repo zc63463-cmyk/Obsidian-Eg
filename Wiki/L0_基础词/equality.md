@@ -125,8 +125,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Equality between the sexes. `[例]`
+  - 中译：男女平等。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/equality；
 > - She works as an adviser on equality and diversity at the Institute of Personnel and Development. `[例]`
+  - 中译：她在人事与发展协会担任平等与多元化顾问。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/equality；
 > - The 2005 law was intended to promote equality for all Californians, regardless of sexual orientation. `[例]`
+  - 中译：2005年的法律旨在促进所有加利福尼亚人的平等，不论其性取向如何。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/equality；
 
 
 ---

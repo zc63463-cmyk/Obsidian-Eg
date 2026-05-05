@@ -138,8 +138,14 @@ hail 有两个词源：
 
 > [!example]- 语料
 > - The hikers rested under a towering hail near the coastal trail. `[例]`
+  - 中译：徒步旅行者在沿海步道旁一棵高大的冰雹树下休息。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hail；
 > - The cabin was built from durable hail gathered in the region. `[例]`
+  - 中译：这座小屋是用该地区采集的耐久冰雹木建造的。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hail；
 > - A line of hail trees rose above the morning fog. `[例]`
+  - 中译：一行冰雹树从晨雾中升起。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hail；
 
 
 ---

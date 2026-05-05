@@ -132,8 +132,14 @@ review_count: 0
 
 > [!example]- 语料
 > - He is probably the best-known living architect. `[例]`
+> -   - 中译：他可能是当今最著名的在世建筑师；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/living；
 > - The pyramids are a living monument to the skill of their builders. `[例]`
+> -   - 中译：金字塔是其建造者技艺的永恒见证；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/living；
 > - What do you do for a living? (= What is your job ?). `[例]`
+> -   - 中译：你以什么为生？（= 你的工作是什么？）；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/living；
 
 
 ---

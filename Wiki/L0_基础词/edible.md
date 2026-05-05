@@ -126,8 +126,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Not all wild mushrooms are edible; some are highly poisonous. `[例]`
+>   - 中译：并非所有野生蘑菇都可食用；有些剧毒。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/edible；
 > - The researchers identified over 200 species of edible plants in the region. `[例]`
+>   - 中译：研究人员在该地区鉴定出超过200种可食用植物。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/edible；
 > - Birch inner bark is edible and can be processed into flour. `[例]`
+>   - 中译：桦树内皮可食用，可以加工成面粉。；
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/edible；
 
 
 ---

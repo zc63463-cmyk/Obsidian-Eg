@@ -125,8 +125,14 @@ en-(=in-, 进入/在内) + roll(名册/卷轴) → 写入名册
 
 > [!example]- 语料
 > - Is it too late to enrol at the college? `[例]`
+>   - 中译：现在到这所学院注册太晚了吗？；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/enrol；
 > - He is enrolled as a part-time student. `[例]`
+>   - 中译：他注册为兼职学生。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/enrol；
 > - Under the new rules , employees could be enrolled in a company-sponsored retirement program unless they opt out of it. `[例]`
+>   - 中译：根据新规定，员工可以被纳入公司赞助的退休计划，除非他们选择退出。；
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/enrol；
 
 
 ---

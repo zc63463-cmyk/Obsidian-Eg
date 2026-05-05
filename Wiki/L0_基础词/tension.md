@@ -138,8 +138,14 @@ review_count: 0
 
 > [!example]- 语料
 > - All this has the effect of building up unusual pressures and tensions within the community and consequently presents serious problems for the governments concerned. `[真题]`
+>   - 中译：所有这一切在社区内部造成了非同寻常的压力和紧张关系，从而给相关政府带来了严重问题。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/tension；
 > - There are growing tensions between the two countries. `[真题]`
+>   - 中译：两国之间的紧张关系日益加剧。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/tension；
 > - There is mounting tension along the border. `[真题]`
+>   - 中译：边境地区的紧张局势不断升级。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/tension；
 
 
 ---

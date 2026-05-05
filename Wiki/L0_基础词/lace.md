@@ -131,8 +131,14 @@ review_count: 0
 
 > [!example]- 语料
 > - She was wearing a pretty lace dress. `[例]`
+>   - 中译：她穿着一件漂亮的蕾丝连衣裙。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lace；
 > - In Burano, the days of ladies making lace on the doorsteps of their brightly coloured houses is all but history. `[例]`
+>   - 中译：在布拉诺，女士们在色彩鲜艳的房屋门前制作蕾丝的日子几乎已成为历史。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lace；
 > - The gown is trimmed with lace and sequins. `[例]`
+>   - 中译：这件礼服饰有蕾丝和亮片。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lace；
 
 
 ---

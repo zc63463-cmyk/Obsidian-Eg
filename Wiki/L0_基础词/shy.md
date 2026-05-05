@@ -138,8 +138,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The researchers also argued that when we shy away from casual interactions with strangers, it is often due to a misplaced anxiety that they might not want to talk to us. `[真题]`
+  - 中译：研究人员还认为，当我们回避与陌生人的随意互动时，通常是因为一种不必要的焦虑——担心对方可能不想和我们说话。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/shy；
 > - He is a shy man, but he is not afraid of anything or anyone. `[真题]`
+  - 中译：他是一个害羞的人，但他什么都不怕，也不怕任何人。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/shy；
 > - She was too shy to ask anyone for help. `[例]`
+  - 中译：她太害羞了，不敢向任何人求助。；
+  - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/shy；
 
 
 ---

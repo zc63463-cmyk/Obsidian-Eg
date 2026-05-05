@@ -142,8 +142,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The plan is to lay (= build ) the foundations for the new apartments in October. `[例]`
+>   - 中译：计划在十月份为新公寓打地基。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lay；
 > - I was so tired that at one point , I was laying down on the floor ," he said. `[例]`
+>   - 中译："我太累了，有一段时间我躺在地板上，"他说。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lay；
 > - My dog just lays there all day in the sun. `[例]`
+>   - 中译：我的狗整天就躺在那里晒太阳。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lay；
 
 
 ---

@@ -132,8 +132,14 @@ racket 源自阿拉伯语 *rahat*（手掌），经由法语 *raquette*（球拍
 
 > [!example]- 语料
 > - The police cracked down on a protection racket that had been terrorizing local businesses for years. `[真题]`
+>   - 中译：警方打击了一个多年来恐吓当地企业的勒索保护费组织。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/racket；
 > - Kids in the neighborhood were making a terrible racket with their firecrackers. `[真题]`
+>   - 中译：附近的孩子用鞭炮制造了可怕的噪音。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/racket；
 > - The gang ran illegal casinos, brothels, and protection rackets across the city. `[真题]`
+>   - 中译：该团伙在全城经营非法赌场、妓院和勒索保护费组织。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/racket；
 
 
 ---

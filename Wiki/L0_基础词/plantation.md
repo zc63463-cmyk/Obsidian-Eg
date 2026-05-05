@@ -127,9 +127,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Plantations of fast-growing conifers. `[例]`
+  - 中译：速生针叶林种植园。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/plantation；
 > - Hundreds of enslaved people used to work on the plantations. `[例]`
+  - 中译：过去有数百名被奴役的人在种植园劳作。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/plantation；
 > - A plantation of oaks. `[例]`
-
+  - 中译：一片橡树种植园。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/plantation；
 
 ---
 

@@ -131,8 +131,14 @@ mill（源自古英语 *mylen*，拉丁语 *mola* "磨石"，原始印欧语 *me
 
 > [!example]- 语料
 > - The old textile mill has been converted into a museum. `[真题]`
+> - 中译：那座古老的纺织厂已被改建为博物馆。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/mill；
 > - They mill 1,000 tonnes of flour a day in every Australian state. `[真题]`
+> - 中译：他们在澳大利亚每个州每天磨制1000吨面粉。；
+> - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/mill；
 > - The crowd milled around, waiting for the concert to begin. `[真题]`
+> - 中译：人群来回走动，等待音乐会开始。；
+> - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/mill；
 
 
 ---

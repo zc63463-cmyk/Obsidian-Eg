@@ -140,9 +140,14 @@ review_count: 0
 
 > [!example]- 语料
 > - A pedestrian crossing 8th St. impressed us with his boldness. `[例]`
+  - 中译：一个穿越第八街的行人给我们留下了深刻印象，因为他非常大胆。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pedestrian；
 > - He was rather a pedestrian student. `[例]`
+  - 中译：他是个相当平庸的学生。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/pedestrian；
 > - The Stillwater Planning Commission voted to recommend approval of the project after adding a requirement that the developer fund a pedestrian crossing of 80th Street North. `[例]`
-
+  - 中译：斯蒂尔沃特规划委员会投票建议批准该项目，同时增加了一项要求：开发商出资建设第80街北段的人行横道。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/pedestrian；
 
 ---
 

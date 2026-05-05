@@ -127,8 +127,14 @@ review_count: 0
 
 > [!example]- 语料
 > - It's hard work teaching a class of lively children. `[例]`
+> -   - 中译：教一个班活泼的孩子是很辛苦的工作；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lively；
 > - There was some lively discussion at the meeting. `[例]`
+> -   - 中译：会议上进行了一些热烈的讨论；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lively；
 > - The room was painted a lively electric blue. `[例]`
+> -   - 中译：房间被漆成了鲜艳的电光蓝；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lively；
 
 
 ---

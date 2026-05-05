@@ -128,8 +128,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The oil spill had disastrous consequences for marine life in the Gulf of Mexico. `[COCA-NEWS]`
+>   - 中译：墨西哥湾的漏油事件对海洋生物造成了灾难性的后果。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/disastrous；
 > - The church was rebuilt after a disastrous fire in 1824. `[COCA-ACAD]`
+>   - 中译：教堂在1824年一场灾难性的火灾后进行了重建。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/disastrous；
 > - The government's economic policies proved to be disastrous, leading to high unemployment and inflation. `[COCA-NEWS]`
+>   - 中译：政府的经济政策被证明是灾难性的，导致了高失业率和通货膨胀。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/disastrous；
 
 
 ---

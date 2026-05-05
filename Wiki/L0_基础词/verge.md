@@ -130,8 +130,14 @@ verge（源自拉丁语 *virga*，"杆，枝条"，原指用杆标记的边界�
 
 > [!example]- 语料
 > - Carole was on the verge of tears. `[例]`
+>   - 中译：卡罗尔快要哭了。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/verge；
 > - A cynic might speculate that the UK is on the verge of disappearing into an endless fever of self-celebration in its desperation to reinvent itself for the post-Brexit world. `[真题]`
+>   - 中译：一个愤世嫉俗的人可能会猜测，英国正处于消失在无休止的自我庆祝狂热中的边缘，它急于为脱欧后的世界重塑自我。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/verge；
 > - The company was on the verge of bankruptcy when a new investor stepped in. `[例]`
+>   - 中译：当新投资者介入时，公司已濒临破产。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/verge；
 
 
 ---

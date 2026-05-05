@@ -138,8 +138,14 @@ fast(牢固的) + -en(使动后缀，使...变得...)
 
 > [!example]- 语料
 > - Make sure your seat belt is securely fastened. `[例]`
+  - 中译：请确保安全带已系紧。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fasten；
 > - This shirt fastens at the back. `[例]`
+  - 中译：这件衬衫在背后系扣。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fasten；
 > - I fastened the sticker to the windscreen. `[例]`
+  - 中译：我把贴纸贴在了挡风玻璃上。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fasten；
 
 
 ---

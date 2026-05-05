@@ -130,8 +130,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Now that's naughty - don't throw food on the floor! `[例]`
+> - 中译：这可不好——不要把食物扔到地上！；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/naughty；
 > - Our boss treats us all like naughty children. `[例]`
+> - 中译：我们的老板把我们所有人都当成调皮的孩子来对待。；
+> - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/naughty；
 > - I'm afraid I borrowed your car without asking ." "Yes, that was very naughty of you - I needed it at the weekend! `[例]`
+> - 中译：“恐怕我没打招呼就借了你的车。”“是的，你这样做太不应该了——我周末正好要用！；
+> - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/naughty；
 
 
 ---

@@ -132,8 +132,14 @@ re-(前缀：再/回) + sid(坐，[[st-sta-stat]]的变体) + -ence(名词后缀
 
 > [!example]- 语料
 > - Number Ten Downing Street is the British prime minister's official residence. `[真题]`
+  - 中译：唐宁街10号是英国首相的官邸。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/residence；
 > - Jeff has permanent residence in Canada, but is still a US citizen. `[真题]`
+  - 中译：杰夫在加拿大有永久居留权，但仍然是美国公民。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/residence；
 > - The Queen is in residence at the Palace this week. `[例]`
+  - 中译：女王本周在宫中居住。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/residence；
 
 
 ---

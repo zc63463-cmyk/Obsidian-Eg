@@ -125,8 +125,14 @@ kneel（[[knee]] 膝盖 + -el(动词后缀，表示反复/持续动作) → 用�
 
 > [!example]- 语料
 > - At the end of the game , the quarterback kneeled with the ball to run out the clock. `[例]`
+>   - 中译：比赛结束时，四分卫持球跪地以消耗时间。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/kneel；
 > - Gibbons kneeled next to the plant and started digging. `[例]`
+>   - 中译：吉本斯在植物旁边跪下开始挖土。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/kneel；
 > - People sometimes kneel to pray. `[例]`
+>   - 中译：人们有时跪下祈祷。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/kneel；
 
 
 ---

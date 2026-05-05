@@ -129,8 +129,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The brain drain to the United States has caused serious problems for developing countries. `[真题]`
+>   - 中译：人才流失到美国给发展中国家造成了严重问题。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/drain；
 > - Military spending has drained the nation's resources. `[真题]`
+>   - 中译：军费开支耗尽了国家资源。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/drain；
 > - They still need football if the stadium is not to be a drain on the public purse. `[真题]`
+>   - 中译：如果体育场不想成为公共财政的负担，他们仍然需要足球。；
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/drain；
 
 
 ---

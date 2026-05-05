@@ -126,8 +126,14 @@ review_count: 0
 
 > [!example]- 语料
 > - He opened a tin of beans and emptied it into the saucepan. `[例]`
+>   - 中译：他打开一罐豆子，倒进锅里。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/tin；
 > - The country's most valuable commodities include tin and diamonds. `[例]`
+>   - 中译：该国最有价值的商品包括锡和钻石。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/tin；
 > - In tin mining today, workers excavate tunnels horizontally from a vertical shaft. `[例]`
+>   - 中译：在今天的锡矿开采中，工人们从竖井水平方向挖掘隧道。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/tin；
 
 
 ---

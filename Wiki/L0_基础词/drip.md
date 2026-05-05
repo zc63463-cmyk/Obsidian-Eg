@@ -128,8 +128,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Water dripped slowly from the leaky faucet all night long. `[真题]`
+>   - 中译：水从漏水的龙头里整夜缓慢地滴落。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/drip；
 > - Sweat was dripping from his forehead after the intense workout. `[真题]`
+>   - 中译：剧烈运动后，汗水从他的额头上滴落。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/drip；
 > - The patient was connected to an IV drip to receive fluids. `[真题]`
+>   - 中译：病人被接上静脉滴注来补充液体。；
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/drip；
 
 ---
 

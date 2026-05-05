@@ -132,8 +132,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Latisha loves the fable about the grasshopper and the ant. `[例]`
+  - 中译：拉蒂莎喜欢那则关于蚂蚱和蚂蚁的寓言。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fable；
 > - A fable about busy ants. `[例]`
+  - 中译：一则关于勤劳蚂蚁的寓言。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fable；
 > - The story that he won the battle single-handedly is a mere fable. `[例]`
+  - 中译：他单枪匹马赢得战斗的故事纯属虚构。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fable；
 
 
 ---

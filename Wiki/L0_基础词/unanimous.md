@@ -128,8 +128,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The jury returned a unanimous verdict of guilty after a short deliberation. `[例]`
+>   - 中译：陪审团在短暂审议后一致裁定有罪。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/unanimous；
 > - After a lengthy discussion we reached a unanimous decision on the proposal. `[例]`
+>   - 中译：经过长时间的讨论，我们对该提案达成了一致决定。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/unanimous；
 > - The new format has unanimous support. `[例]`
+>   - 中译：新格式获得了全体支持。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/unanimous；
 
 
 ---

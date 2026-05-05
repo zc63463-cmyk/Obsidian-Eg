@@ -129,8 +129,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The house has four bedrooms , so it's pretty big. `[例]`
+>   - 中译：这栋房子有四间卧室，所以相当大。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pretty；
 > - I'm pretty sure it was her. `[例]`
+>   - 中译：我很确定是她。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pretty；
 > - I've pretty much finished here. `[例]`
+>   - 中译：我这里差不多完成了。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pretty；
 
 
 ---

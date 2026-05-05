@@ -124,8 +124,14 @@ pro-(向前/在前) + [[sper|sper]](希望，拉丁语 *sperare*)
 
 > [!example]- 语料
 > - Lots of microchip manufacturing companies prospered at that time. `[例]`
+>   - 中译：当时许多微芯片制造公司蓬勃发展。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/prosper；
 > - As the company prospered, we prospered. `[例]`
+>   - 中译：随着公司兴旺，我们也富裕了。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/prosper；
 > - We aim to create a climate in which all small businesses can prosper. `[例]`
+>   - 中译：我们的目标是创造一个让所有小企业都能繁荣发展的环境。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/prosper；
 
 
 ---

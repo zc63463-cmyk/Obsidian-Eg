@@ -130,8 +130,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The 1930s were a time of high unemployment and economic hardship. `[例]`
+  - 中译：20世纪30年代是高失业率和经济困难的时期。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hardship；
 > - The price of cooking gas increased five-fold, worsening the economic hardship. `[例]`
+  - 中译：烹饪用气的价格翻了五倍，加剧了经济困难。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hardship；
 > - The Commission does not believe that the proposed rule change will pose an undue hardship on venture capital firms. `[例]`
+  - 中译：委员会不认为拟议的规则变更会给风险投资公司带来不当的困难。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hardship；
 
 
 ---

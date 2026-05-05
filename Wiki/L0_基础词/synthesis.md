@@ -123,8 +123,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The report is a synthesis of data from multiple sources. `[真题]`
+>   - 中译：该报告是对来自多个来源数据的综合。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/synthesis；
 > - Protein synthesis is a fundamental process in all living organisms. `[真题]`
+>   - 中译：蛋白质合成是所有生物体的基本过程。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/synthesis；
 > - The collection is distinguished by its synthesis of Islamic, Hindu, and Zoroastrian religious traditions. `[例]`
+>   - 中译：该收藏品以其对伊斯兰教、印度教和琐罗亚斯德教宗教传统的综合而著称。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/synthesis；
 
 
 ---

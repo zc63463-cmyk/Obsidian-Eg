@@ -121,8 +121,14 @@ orn-(装饰，拉丁语 *ornare*) + -a(连接) + -ment(名词后缀，表示结�
 
 > [!example]- 语料
 > - They spent decades collecting these colorful, Victorian-era ornaments for their Christmas tree. `[COCA-NEWS]`
+>   - 中译：他们花了几十年的时间收集这些色彩斑斓的维多利亚时代圣诞树装饰品。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ornament；
 > - She ornamented her letters with little drawings in the margin. `[COCA-FICT]`
+>   - 中译：她在信件的空白处用小图画加以装饰。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ornament；
 > - A mass of rags in the corner was the communal bed, and the only ornament a rough-hewn crucifix. `[BNC-FICT]`
+>   - 中译：角落里的一堆破布是公共床铺，唯一的装饰是一个粗糙的十字架。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ornament；
 
 
 ---

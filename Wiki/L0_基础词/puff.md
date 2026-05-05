@@ -129,8 +129,14 @@ review_count: 0
 
 > [!example]- 语料
 > - He came puffing up the stairs. `[例]`
+>   - 中译：他气喘吁吁地上了楼。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/puff；
 > - I ran all the way home ," she puffed (= said while puffing). `[例]`
+>   - 中译：我一路跑回了家，"她气喘吁吁地说。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/puff；
 > - She was puffing on a cigarette at the time. `[例]`
+>   - 中译：她当时正在抽烟。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/puff；
 
 
 ---
