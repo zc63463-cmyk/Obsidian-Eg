@@ -129,6 +129,8 @@ re-(再/重新) + trieve(=trovare, 找到/发现)
 
 > [!example]- 语料
 > - The system allows users to retrieve information quickly and efficiently from large databases. `[真题]`
+>   - 中译：【需人工审核】retrieve 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/retrieve
   - 中译：该系统允许用户从大型数据库中快速高效地检索信息。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/retrieve；
 > - Important historic documents were retrieved from a dumpster last week by a local historian. `[真题]`

@@ -134,6 +134,8 @@ review_count: 0
 
 > [!example]- 语料
 > - The first section provides the theoretical motivation for examining the impact of political institutions on women's education. `[真题]`
+>   - 中译：【需人工审核】section 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/section
   - 中译：第一部分为考察政治制度对女性教育的影响提供了理论动机。
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/section
 > - Section II of the examination focuses on reading comprehension skills. `[真题]`

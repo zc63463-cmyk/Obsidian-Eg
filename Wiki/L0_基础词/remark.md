@@ -130,6 +130,8 @@ review_count: 0
 
 > [!example]- 语料
 > - The professor remarked that the results were consistent with previous findings. `[真题]`
+>   - 中译：【需人工审核】remark 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/remark
   - 中译：教授说结果与之前的发现一致。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/remark；
 > - She made a passing remark about the need for reform. `[真题]`

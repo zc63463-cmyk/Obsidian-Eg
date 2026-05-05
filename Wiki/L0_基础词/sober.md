@@ -131,6 +131,8 @@ review_count: 0
 
 > [!example]- 语料
 > - Are you sober enough to drive , Jim? `[例]`
+>   - 中译：【需人工审核】sober 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sober
   - 中译：你清醒到可以开车了吗，吉姆？；
   - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/sober；
 > - I'd had no wine all evening so I was stone cold (= completely ) sober. `[例]`

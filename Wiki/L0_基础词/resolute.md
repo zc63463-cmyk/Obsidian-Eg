@@ -130,6 +130,8 @@ re-(前缀：再/回) + solute(松开/解开，来自词根 [[solu-solv]]，与 
 
 > [!example]- 语料
 > - She remained resolute in her belief that the situation would improve. `[真题]`
+>   - 中译：【需人工审核】resolute 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/resolute
   - 中译：她坚信情况会好转，态度始终坚定。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/resolute；
 > - Tough policies and resolute leadership always create enemies. `[真题]`

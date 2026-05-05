@@ -139,6 +139,8 @@ review_count: 0
 
 > [!example]- 语料
 > - The farmers sheared the sheep before winter set in. `[真题]`
+>   - 中译：【需人工审核】shear 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/shear
   - 中译：农民在冬天来临前给羊剪了毛。；
   - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/shear；
 > - Images from the scene show the roof of the bus sheared off. `[真题]`

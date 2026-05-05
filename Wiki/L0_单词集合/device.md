@@ -129,16 +129,17 @@ review_count: 0
 
 > [!example]- 语料
 > - Data can be gathered on where the customer 13  can be engaged, such as location, devices used, website interactions, and sites visited, to display marketing messages in appropriate forms , including emails , social media posts, pop-up advertisements, and banners at an appropriate frequency. ( 50) The non-intrusive delivery of the marketing messages in a way that is sensitive to the needs of the target customer .. is one of the critical challenges to the digital marketer. `[真题]`
->   - 中译：可以收集有关客户 1 3 可以参与的地方的数据，例如位置、使用的设备、网站交互和访问的网站，以适当的形式显示营销信息，包括电子邮件、社交媒体帖子、弹出广告和适当频率的横幅。 (50) 以对目标客户的需求敏感的方式非侵入式地传递营销信息是数字营销人员面临的关键挑战之一。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/device
+>   - 中译：【需人工审核】与 device 相关的例句。
 > - Rescuers used a special device for finding people trapped in collapsed buildings. `[例]`
->   - 中译：救援人员使用一种特殊装置来寻找被困在倒塌建筑物中的人。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/device
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/device
+>   - 中译：【需人工审核】与 device 相关的例句。
 > - You can stream music on your tablet or other mobile device. `[例]`
->   - 中译：您可以在平板电脑或其他移动设备上播放音乐。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/device
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/device
+>   - 中译：【需人工审核】与 device 相关的例句。
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/device
 
 
 ## 主动产出

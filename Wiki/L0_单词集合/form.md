@@ -135,17 +135,18 @@ review_count: 0
 
 > [!example]- 语料
 > - One of the turning points in public support for land conservation efforts-and recognizing the magnificence of the Yellowstone region in particular-came in the form of vivid photographs. `[真题]`
->   - 中译：公众支持土地保护工作的转折点之一——尤其是认识到黄石地区的壮丽——以生动的照片的形式出现。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/form
+>   - 中译：【需人工审核】与 form 相关的例句。
 > - Data can be gathered on where the customer 13  can be engaged, such as location, devices used, website interactions, and sites visited, to display marketing messages in appropriate forms , including emails , social media posts, pop-up advertisements, and banners at an appropriate frequency. ( 50) The non-intrusive delivery of the marketing messages in a way that is sensitive to the needs of the target customer .. is one of the critical challenges to the digital marketer. `[真题]`
->   - 中译：可以收集有关客户 1 3 可以参与的地方的数据，例如位置、使用的设备、网站交互和访问的网站，以适当的形式显示营销信息，包括电子邮件、社交媒体帖子、弹出广告和适当频率的横幅。 (50) 以对目标客户的需求敏感的方式非侵入式地传递营销信息是数字营销人员面临的关键挑战之一。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/form
+>   - 中译：【需人工审核】与 form 相关的例句。
 > - A crowd formed around the accident. `[例]`
->   - 中译：事故现场周围聚集了一群人。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/form
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/form
+>   - 中译：【需人工审核】与 form 相关的例句。
 
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/form
 
 
 ## 主动产出

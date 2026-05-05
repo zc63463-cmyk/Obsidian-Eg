@@ -125,6 +125,8 @@ review_count: 0
 
 > [!example]- 语料
 > - Gladys grows a lot of tomatoes in her greenhouse. `[例]`
+>   - 中译：【需人工审核】greenhouse 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/greenhouse
   - 中译：格拉迪丝在她的温室里种了很多番茄。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/greenhouse；
 > - These small, unheated enclosures use the sun’s energy to store heat like a greenhouse. `[例]`

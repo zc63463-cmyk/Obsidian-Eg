@@ -130,6 +130,8 @@ review_count: 0
 
 > [!example]- 语料
 > - The trailer was being used to house a pirate radio station. `[例]`
+>   - 中译：【需人工审核】pirate 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pirate
   - 中译：这辆拖车被用来安置一个非法广播电台。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pirate；
 > - A lot of this software is pirated. `[例]`

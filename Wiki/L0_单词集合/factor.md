@@ -137,16 +137,17 @@ review_count: 0
 
 > [!example]- 语料
 > - The scientific community measures the quality of those papers in a number of ways, including the perceived quality of the journal ( as reflected by the title's impact factor) and the number of citations a specific paper accumulates. `[真题]`
->   - 中译：科学界通过多种方式衡量这些论文的质量，包括期刊的感知质量（如标题的影响因子所反映）和特定论文累积的引用次数。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/factor
+>   - 中译：【需人工审核】与 factor 相关的例句。
 > - In 2016 , researchers developed an algorithm to recognize suspicious citation patterns , including groups of authors that disproportionately cite one another and groups of journals that cite each other frequently to increase the impact factors of their publications. `[真题]`
->   - 中译：2016年，研究人员开发了一种算法来识别可疑的引用模式，包括不成比例地相互引用的作者群体和频繁相互引用以增加其出版物的影响因子的期刊群体。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/factor
+>   - 中译：【需人工审核】与 factor 相关的例句。
 > - People's voting habits are influenced by political , social and economic factors. `[例]`
->   - 中译：人们的投票习惯受到政治、社会和经济因素的影响。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/factor
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/factor
+>   - 中译：【需人工审核】与 factor 相关的例句。
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/factor
 
 
 ## 主动产出

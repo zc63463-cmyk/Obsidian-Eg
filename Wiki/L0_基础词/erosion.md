@@ -128,6 +128,8 @@ review_count: 0
 
 > [!example]- 语料
 > - The figures do not take account of environmental losses such as coastal erosion. `[例]`
+>   - 中译：【需人工审核】erosion 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/erosion
   - 中译：这些数据没有考虑沿海侵蚀等环境损失。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/erosion；
 > - The landscape is marked by gullies and ravines formed by soil erosion. `[例]`

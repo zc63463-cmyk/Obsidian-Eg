@@ -129,6 +129,8 @@ review_count: 0
 
 > [!example]- 语料
 > - To satisfy the increasing demand for clean energy, governments around the world are investing heavily in renewable energy sources such as wind and solar power. `[真题]`
+>   - 中译：【需人工审核】satisfy 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/satisfy
   - 中译：为了满足日益增长的清洁能源需求，世界各国政府正在大力投资风能和太阳能等可再生能源。
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/satisfy
 > - The researchers conducted a series of experiments to satisfy themselves that the results were reliable and could be replicated. `[真题]`

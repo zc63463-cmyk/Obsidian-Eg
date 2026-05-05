@@ -125,6 +125,8 @@ review_count: 0
 
 > [!example]- 语料
 > - The destiny of our nation depends on this vote! `[例]`
+>   - 中译：【需人工审核】destiny 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/destiny
   - 中译：她相信成为一名医生是她的命运。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/destiny；
 > - She felt that her destiny had been shaped by her gender. `[例]`

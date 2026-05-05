@@ -135,6 +135,8 @@ seam（源自古英语 *sēam*，"接缝"，与 [[second]]/[[section]]/[[segment
 
 > [!example]- 语料
 > - Her dress had split along the seam. `[真题]`
+>   - 中译：【需人工审核】seam 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/seam
   - 中译：她的连衣裙沿着接缝裂开了。
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/seam
 > - The situation is now beginning to burst at the seams. `[真题]`

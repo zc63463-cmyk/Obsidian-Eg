@@ -123,6 +123,8 @@ review_count: 0
 
 > [!example]- 语料
 > - The temperature is almost 80 degrees , and the humidity 35%. `[例]`
+>   - 中译：【需人工审核】humidity 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/humidity
   - 中译：温度接近80度，湿度35%。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/humidity；
 > - Tomorrow will be hot , with high humidity. `[例]`

@@ -141,13 +141,14 @@ review_count: 0
 
 > [!example]- 语料
 > - What does Hom_ emphasize in Paragraph 5? `[真题]`
->   - 中译：Hom_在第5段中强调了什么？
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/paragraph
+>   - 中译：【需人工审核】与 paragraph 相关的例句。
 > - What can be learned about Scopus from the last two paragraphs? `[真题]`
->   - 中译：从最后两段可以了解到有关 Scopus 的哪些信息？
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/paragraph
+>   - 中译：【需人工审核】与 paragraph 相关的例句。
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/paragraph
 
 
 ## 主动产出

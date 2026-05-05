@@ -129,16 +129,17 @@ in-(不) + [[gen|divid]](分/划分) + -u- + -al(形容词后缀，…的) → �
 
 > [!example]- 语料
 > - I think individuals being able to rent out their second home is a good thing. `[真题]`
->   - 中译：我认为个人能够出租第二套住房是一件好事。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/individual
+>   - 中译：【需人工审核】与 individual 相关的例句。
 > - Recently, another expression of this predatory behavior has emerged: so-called support service consultancies that provide language and other editorial support to individual authors and to journals sometimes advise contributors to add a number of citations to their articles. `[真题]`
->   - 中译：最近，这种掠夺行为的另一种表现形式出现了：所谓的支持服务咨询公司为个人作者和期刊提供语言和其他编辑支持，有时会建议撰稿人在他们的文章中添加大量引用。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/individual
+>   - 中译：【需人工审核】与 individual 相关的例句。
 > - In one example, an individual-acting as author, editor, and consultant-was able to use at least 15 journals as citation providers to articles published by five scientists at three universities. `[真题]`
->   - 中译：在一个示例中，一位个人（作为作者、编辑和顾问）能够使用至少 15 种期刊作为三所大学的五位科学家发表的文章的引用提供者。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/individual
+>   - 中译：【需人工审核】与 individual 相关的例句。
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/individual
 
 
 ## 主动产出

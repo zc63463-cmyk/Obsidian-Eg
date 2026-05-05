@@ -132,6 +132,8 @@ gl-（光/视觉词根，印欧语系 *ghel-* "发光"）+ -ow（表示状态的
 
 > [!example]- 语料
 > - The night lantern glowed softly in the darkness. `[例]`
+>   - 中译：【需人工审核】glow 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/glow
   - 中译：夜灯在黑暗中发出柔和的光芒。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/glow；
 > - The rising sun casts a golden glow over the fields. `[例]`

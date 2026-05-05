@@ -128,6 +128,8 @@ review_count: 0
 
 > [!example]- 语料
 > - Wind and rain have eroded the statues into shapeless lumps of stone. `[例]`
+>   - 中译：【需人工审核】erode 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/erode
   - 中译：风雨将雕像侵蚀成了不成形的石块。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/erode；
 > - The cliffs are eroding several feet a year. `[例]`

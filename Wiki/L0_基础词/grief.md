@@ -130,6 +130,8 @@ grief 源自拉丁语 *gravis*（重的），与 [[grav]]（重力）同源。gr
 
 > [!example]- 语料
 > - Her grief at her son's death was terrible. `[例]`
+>   - 中译：【需人工审核】grief 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/grief
   - 中译：她丧子之痛令人心碎。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/grief；
 > - Newspapers should not intrude on people's private grief. `[例]`

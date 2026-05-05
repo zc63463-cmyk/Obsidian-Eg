@@ -121,16 +121,17 @@ review_count: 0
 
 > [!example]- 语料
 > - However D. stock up on D. implied D. although D. series Read the following four texts. `[真题]`
->   - 中译：然而 D. 储备 D. 暗示 D. 虽然 D. 系列 阅读以下四篇文章。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/series
+>   - 中译：【需人工审核】与 series 相关的例句。
 > - These journals can act as milk cows where every single article in an issue may cite a specific paper or a series of papers. `[真题]`
->   - 中译：这些期刊可以充当奶牛，其中一期中的每一篇文章都可能引用一篇特定论文或一系列论文。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/series
+>   - 中译：【需人工审核】与 series 相关的例句。
 > - Last year marked the 150th anniversary of a series · of Yellowstone photographs by the r1enowned landscape photographer William • Henry Jackson. `[真题]`
->   - 中译：去年是著名风景摄影师威廉·亨利·杰克逊拍摄的黄石系列照片 150 周年。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/series
+>   - 中译：【需人工审核】与 series 相关的例句。
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/series
 
 
 ## 主动产出

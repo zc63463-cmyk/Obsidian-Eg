@@ -128,6 +128,8 @@ review_count: 0
 
 > [!example]- 语料
 > - The polar ice caps. `[例]`
+>   - 中译：【需人工审核】polar 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/polar
   - 中译：极地冰盖。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/polar；
 > - The novel deals with the polar opposites of love and hate. `[例]`

@@ -128,6 +128,8 @@ review_count: 0
 
 > [!example]- 语料
 > - The plane crashed in heavy rain and dense fog. `[例]`
+>   - 中译：【需人工审核】dense 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/dense
   - 中译：森林茂密而幽暗。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/dense；
 > - The body was found hidden in dense undergrowth. `[例]`

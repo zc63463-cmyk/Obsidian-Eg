@@ -126,6 +126,8 @@ review_count: 0
 
 > [!example]- 语料
 > - The local council has remained deaf to all the objections to its proposals. `[例]`
+>   - 中译：【需人工审核】deaf 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/deaf
   - 中译：地方议会对所有反对其提案的声音充耳不闻。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/deaf；
 > - Many of the TV programmes are broadcast with subtitles for the deaf. `[例]`

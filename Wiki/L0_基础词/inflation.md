@@ -130,6 +130,8 @@ in-(=into, 进入) + flat(=blow, 吹，拉丁语 *flare*) + -ion(名词后缀) �
 
 > [!example]- 语料
 > - This year's rise, an average of 2.7 per cent, may be a fraction lower than last year's, but it is still well above the official Consumer Price Index (CPI) measure of inflation. `[真题]`
+>   - 中译：【需人工审核】inflation 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/inflation
   - 中译：今年2.7%的平均涨幅可能比去年略低一些，但仍远高于官方消费者价格指数（CPI）衡量的通胀水平。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/inflation；
 > - During the decade before the economic crisis, spending on legal services in America grew twice as fast as inflation. `[真题]`

@@ -127,6 +127,8 @@ e-(=ex-, 出) + stime(=[[st-sta-stat|st-]]/estimate, 估计，源自拉丁语 *a
 
 > [!example]- 语料
 > - There has been a drop in public esteem for teachers. `[例]`
+>   - 中译：【需人工审核】esteem 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/esteem
   - 中译：公众对教师的尊重有所下降。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/esteem；
 > - Because of their achievements they were held in (= given) esteem. `[例]`

@@ -140,6 +140,8 @@ faint 源自古法语 *feint*（虚假的、懒散的），是 *feindre*（假�
 
 > [!example]- 语料
 > - She bears a faint resemblance to my sister. `[例]`
+>   - 中译：【需人工审核】faint 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/faint
   - 中译：她和我姐姐有几分相似。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/faint；
 > - I have a faint suspicion that you may be right! `[例]`

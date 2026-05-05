@@ -135,6 +135,8 @@ heat 日耳曼语系本族词，古英语 *haetu*，原始印欧语 *kai-*（热
 
 > [!example]- 语料
 > - How do you manage to work in this heat without air conditioning? `[例]`
+>   - 中译：【需人工审核】heat 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/heat
   - 中译：（待翻译）；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/heat；
 > - She always wore a coat , even in the heat of summer. `[例]`

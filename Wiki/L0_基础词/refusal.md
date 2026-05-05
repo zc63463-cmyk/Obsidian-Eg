@@ -122,6 +122,8 @@ re-(回，向后) + [[fus-fund-fuse|fus]](流，来自拉丁语 *fundere/fusus*)
 
 > [!example]- 语料
 > - His refusal to listen to any advice is very annoying. `[真题]`
+>   - 中译：【需人工审核】refusal 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/refusal
   - 中译：他拒绝听取任何建议，这非常令人恼火。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/refusal；
 > - Their refusal to compromise will inevitably invite more criticism from the UN. `[例]`

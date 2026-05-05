@@ -131,6 +131,8 @@ re-(反复/回) + volve(=volvere, 滚/转)
 
 > [!example]- 语料
 > - The hikers rested under a towering revolve near the coastal trail. `[例]`
+>   - 中译：旋转，环绕。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/revolve
   - 中译：徒步旅行者在沿海步道旁一棵高耸的芦苇下休息。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/reed；
 > - The cabin was built from durable revolve gathered in the region. `[例]`

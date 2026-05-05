@@ -131,6 +131,8 @@ review_count: 0
 
 > [!example]- 语料
 > - Please specify the dimensions (= the height , length and width ) of the room. `[例]`
+>   - 中译：【需人工审核】dimension 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/dimension
   - 中译：请说明房间的高度、长度和宽度。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/dimension；
 > - A building of vast dimensions (= size ). `[例]`

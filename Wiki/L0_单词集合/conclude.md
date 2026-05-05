@@ -138,16 +138,17 @@ con-(一起/加强) + [[ced-cess|clud/clus]](关闭) = conclude（关到一起 �
 
 > [!example]- 语料
 > - That fall, t hey concluded the survey in Fort Bridger , Wyoming. `[真题]`
->   - 中译：那年秋天，他们结束了在怀俄明州布里杰堡的调查。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/conclude
+>   - 中译：【需人工审核】与 conclude 相关的例句。
 > - She concluded the speech by remind ing us of our responsibility. `[例]`
->   - 中译：她在演讲结束时提醒我们我们的责任。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/conclude
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/conclude
+>   - 中译：【需人工审核】与 conclude 相关的例句。
 > - Before I conclude, I'd like to thank you all for coming. `[例]`
->   - 中译：在结束之前，我要感谢大家的到来。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/conclude
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/conclude
+>   - 中译：【需人工审核】与 conclude 相关的例句。
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/conclude
 
 
 ## 主动产出

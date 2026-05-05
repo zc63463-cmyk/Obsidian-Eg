@@ -137,6 +137,8 @@ review_count: 0
 
 > [!example]- 语料
 > - Despite Roz's heroic efforts to liven it up, the party was a disaster. `[例]`
+>   - 中译：【需人工审核】heroic 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/heroic
   - 中译：尽管罗兹为了让派对热闹起来做出了艰苦卓绝的努力，但派对还是一塌糊涂。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/heroic；
 > - She is a heroic figure we can all look up to. `[例]`

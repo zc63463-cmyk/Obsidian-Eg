@@ -135,6 +135,8 @@ review_count: 0
 
 > [!example]- 语料
 > - He inspired many young people to take up the sport. `[真题]`
+>   - 中译：【需人工审核】inspire 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/inspire
   - 中译：他激励了许多年轻人从事这项运动。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/inspire；
 > - The caves cannot but inspire wonder in the beholder. `[真题]`

@@ -136,6 +136,8 @@ review_count: 0
 
 > [!example]- 语料
 > - The crude technique required educated guesses on exposure times, and involved heavy, awkward equipment-several men had to assist in its transportation. `[真题]`
+>   - 中译：【需人工审核】heavy 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/heavy
   - 中译：这种粗糙的技术需要对曝光时间进行有根据的猜测，并涉及笨重的设备——需要几个人协助搬运。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/heavy；
 > - He laboured up the hill with his heavy load. `[例]`

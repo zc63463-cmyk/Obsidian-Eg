@@ -126,16 +126,17 @@ review_count: 0
 
 > [!example]- 语料
 > - They casually dismiss the career work of scholars and scientists as just another misguided opinion. `[真题]`
->   - 中译：他们漫不经心地将学者和科学家的职业工作视为另一种误导性的观点。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/career
+>   - 中译：【需人工审核】与 career 相关的例句。
 > - It helps if you can move a few rungs up the career ladder before taking time off to have a baby. `[例]`
->   - 中译：如果你能在请假生孩子之前在职业阶梯上更上一层楼，那会很有帮助。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/career
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/career
+>   - 中译：【需人工审核】与 career 相关的例句。
 > - I took this new job because I felt that the career prospects were much better. `[例]`
->   - 中译：我接受这份新工作是因为我觉得职业前景好得多。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/career
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/career
+>   - 中译：【需人工审核】与 career 相关的例句。
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/career
 
 
 ## 主动产出

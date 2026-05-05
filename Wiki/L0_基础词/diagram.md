@@ -122,6 +122,8 @@ review_count: 0
 
 > [!example]- 语料
 > - The teacher drew a diagram showing how the blood flows through the heart. `[例]`
+>   - 中译：【需人工审核】diagram 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/diagram
   - 中译：老师画了一张图表，展示血液如何流经心脏。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/diagram；
 > - The teacher drew a diagram showing how blood flows through the heart. `[例]`

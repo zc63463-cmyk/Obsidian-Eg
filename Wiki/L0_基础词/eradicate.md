@@ -126,6 +126,8 @@ review_count: 0
 
 > [!example]- 语料
 > - The government claims to be doing all it can to eradicate corruption. `[例]`
+>   - 中译：【需人工审核】eradicate 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/eradicate
   - 中译：政府声称正在尽一切努力根除腐败。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/eradicate；
 > - The disease that once claimed millions of lives has now been eradicated. `[例]`

@@ -125,17 +125,18 @@ con-(共同、一起) + vey-(=viare/vehere，运送、道路) → 运送
 
 > [!example]- 语料
 > - Branch points out that, even if a growing number of official guidelines and textbooks reflect scientific consensus on climate change , unofficial educational materials that convey mo:re slanted perspectives are being distributed to teachers. `[真题]`
->   - 中译：布兰奇指出，尽管越来越多的官方指南和教科书反映了关于气候变化的科学共识，但传达更多倾斜观点的非官方教育材料正在分发给教师。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/convey
+>   - 中译：【需人工审核】与 convey 相关的例句。
 > - What message does the spokesperson for Wa:terstones seem to convey? `[真题]`
->   - 中译：Wa:terstones 的代言人似乎在传达什么信息？
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/convey
+>   - 中译：【需人工审核】与 convey 相关的例句。
 > - His poetry conveys a great sense of religious devotion. `[例]`
->   - 中译：他的诗歌传达了强烈的宗教信仰。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/convey
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/convey
+>   - 中译：【需人工审核】与 convey 相关的例句。
 
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/convey
 
 ## 主动产出
 

@@ -129,6 +129,8 @@ groan（源自古英语 *granian*，日耳曼语系，与 grunt 同源，拟声�
 
 > [!example]- 语料
 > - We could hear the groans of the wounded soldiers. `[例]`
+>   - 中译：【需人工审核】groan 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/groan
   - 中译：我们能听到受伤士兵的呻吟声。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/groan；
 > - He looked at the piles of dirty dishes and gave a groan of dismay. `[例]`

@@ -128,6 +128,8 @@ review_count: 0
 
 > [!example]- 语料
 > - Advertising is intended to appeal to consumers, but it does not force them to buy the product; it is meant to persuade rather than coerce. `[真题]`
+>   - 中译：【需人工审核】persuade 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/persuade
   - 中译：广告旨在吸引消费者，但并不强迫他们购买产品；它的目的是说服而非胁迫。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/persuade；
 > - If she doesn't want to go, nothing you can say will persuade her. `[例]`

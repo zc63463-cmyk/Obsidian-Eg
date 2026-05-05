@@ -133,6 +133,8 @@ pledg-（承诺/担保，中古英语 *plegen*，原始印欧语 *\*dlegh-*）+ 
 
 > [!example]- 语料
 > - Thousands of people made pledges (= promised to give money ) to the charity campaign. `[例]`
+>   - 中译：【需人工审核】pledge 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pledge
   - 中译：数千人向慈善活动做出了捐款承诺。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pledge；
 > - I give you this ring as a pledge of my everlasting love for you. `[例]`

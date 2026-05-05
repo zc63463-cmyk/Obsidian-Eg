@@ -121,16 +121,17 @@ review_count: 0
 
 > [!example]- 语料
 > - C It hinders the growth of "international" journals. `[真题]`
->   - 中译：C 它阻碍了“国际”期刊的发展。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hinder
+>   - 中译：【需人工审核】与 hinder 相关的例句。
 > - High winds have hindered firefighters in their efforts to put out the blaze. `[例]`
->   - 中译：大风阻碍了消防员的灭火工作。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/hinder
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hinder
+>   - 中译：【需人工审核】与 hinder 相关的例句。
 > - Her progress certainly hasn't been hindered by her lack of experience. `[例]`
->   - 中译：当然，她的进步并没有因为缺乏经验而受到阻碍。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/hinder
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hinder
+>   - 中译：【需人工审核】与 hinder 相关的例句。
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hinder
 
 
 ## 主动产出

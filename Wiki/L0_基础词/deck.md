@@ -128,6 +128,8 @@ deck 源自中古荷兰语 *dek*（覆盖物），与 to cover（覆盖）有关
 
 > [!example]- 语料
 > - We sat on deck until it was dark. `[例]`
+>   - 中译：【需人工审核】deck 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/deck
   - 中译：我们在甲板上一直坐到天黑。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/deck；
 > - Our cabin was below decks. `[例]`

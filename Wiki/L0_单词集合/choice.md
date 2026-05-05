@@ -127,16 +127,17 @@ choic-/chois-(品尝、辨别，与 [[choose]] 同源) + -e
 
 > [!example]- 语料
 > - The publishing industry talks about diversity in terms of authors and staff but it also needs a plurality of ways of delivering intellectual contact, choice and different voices. `[真题]`
->   - 中译：出版业谈论作者和员工的多样性，但它也需要多种方式来提供知识接触、选择和不同的声音。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/choice
+>   - 中译：【需人工审核】与 choice 相关的例句。
 > - For example, AI can be used to analyse what type of advertising content or copy would be appropriate to 'speak' to a specific target customer group by revealing information about trends and preferences through the analysis of big data. ( 46) AI can also be used to identify the lifestyle choices of customers regarding their hobbies, favourite celebrities, music choices, and fashions to provide unique content in marketing messages put out through social media. `[真题]`
->   - 中译：例如，人工智能可以通过大数据分析揭示有关趋势和偏好的信息，从而分析哪种类型的广告内容或文案适合与特定目标客户群“对话”。 ( 46) 人工智能还可以用于识别客户的生活方式选择，包括他们的爱好、最喜欢的名人、音乐选择和时尚，以便在通过社交媒体发布的营销信息中提供独特的内容。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/choice
+>   - 中译：【需人工审核】与 choice 相关的例句。
 > - If the product doesn't work , you are given the choice of a refund or a replacement. `[例]`
->   - 中译：如果产品不起作用，您可以选择退款或更换。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/choice
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/choice
+>   - 中译：【需人工审核】与 choice 相关的例句。
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/choice
 
 
 ## 主动产出

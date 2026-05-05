@@ -138,6 +138,8 @@ review_count: 0
 
 > [!example]- 语料
 > - The road was wet and slippery. `[例]`
+>   - 中译：【需人工审核】slippery 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/slippery
   - 中译：路面又湿又滑。；
   - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/slippery；
 > - He's as slippery as an eel - you can never get a straight answer out of him. `[例]`

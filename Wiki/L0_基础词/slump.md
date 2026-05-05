@@ -143,6 +143,8 @@ review_count: 0
 
 > [!example]- 语料
 > - The value of property has slumped. `[例]`
+>   - 中译：【需人工审核】slump 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/slump
   - 中译：房地产价值已经暴跌。；
   - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/slump；
 > - Car sales have slumped dramatically over the past year. `[例]`

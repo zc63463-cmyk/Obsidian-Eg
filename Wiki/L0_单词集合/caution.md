@@ -135,16 +135,17 @@ review_count: 0
 
 > [!example]- 语料
 > - Glenn Branch, the centre's deputy director, cautions that setting state-level science standards is only one limited benchmark in a country that decentralises decisions to local school bo.ards. `[真题]`
->   - 中译：该中心副主任格伦·布兰奇（Glenn Branch）警告说，在一个将决策权力下放给地方学校董事会的国家，制定国家级科学标准只是一个有限的基准。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/caution
+>   - 中译：【需人工审核】与 caution 相关的例句。
 > - You should exercise caution when swimming in places where there are submerged rocks. `[例]`
->   - 中译：在有水下岩石的地方游泳时应小心谨慎。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/caution
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/caution
+>   - 中译：【需人工审核】与 caution 相关的例句。
 > - As it was her first offence , she was only given a caution. `[例]`
->   - 中译：由于这是她第一次违规，所以只给予了警告。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/caution
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/caution
+>   - 中译：【需人工审核】与 caution 相关的例句。
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/caution
 
 
 ## 主动产出

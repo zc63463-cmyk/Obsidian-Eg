@@ -133,6 +133,8 @@ review_count: 0
 
 > [!example]- 语料
 > - Sugar makes your teeth decay. `[例]`
+>   - 中译：【需人工审核】decay 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/decay
   - 中译：糖会使牙齿蛀坏。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/decay；
 > - The role of the extended family has been decaying for some time. `[例]`

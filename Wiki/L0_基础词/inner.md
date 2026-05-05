@@ -127,6 +127,8 @@ in-(在里面) + -ner(比较级后缀，"更……的")
 
 > [!example]- 语料
 > - The inner workings of the human mind remain one of the greatest mysteries. `[真题]`
+>   - 中译：【需人工审核】inner 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/inner
   - 中译：人类大脑的内部运作机制仍然是最大的谜团之一。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/inner；
 > - The company adopted a inner approach to improve efficiency. `[真题]`

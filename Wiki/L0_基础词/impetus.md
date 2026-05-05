@@ -132,6 +132,8 @@ im-(=in-, 入，向内) + pet(追求，拉丁语 *petere*，寻求) + -us(拉丁
 
 > [!example]- 语料
 > - The recent publicity surrounding homelessness has given a fresh impetus to the cause. `[例]`
+>   - 中译：【需人工审核】impetus 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/impetus
   - 中译：最近围绕无家可归问题的宣传为这一事业注入了新的推动力。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/impetus；
 > - Often the impetus for change in education has had to come from outside the school establishment. `[例]`

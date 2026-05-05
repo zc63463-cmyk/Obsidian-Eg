@@ -139,6 +139,8 @@ review_count: 0
 
 > [!example]- 语料
 > - The researchers proposed a shallow solution to the problem. `[真题]`
+>   - 中译：【需人工审核】shallow 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/shallow
   - 中译：研究人员提出了一个肤浅的解决方案。；
   - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/shallow；
 > - The company adopted a shallow approach to improve efficiency. `[真题]`

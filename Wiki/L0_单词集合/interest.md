@@ -145,16 +145,17 @@ inter-(在…之间，在其中) + est(存在，拉丁语 *esse* 的第三人称
 
 > [!example]- 语料
 > - After all, many of the most interesting books in recent years have come from small publishers. `[真题]`
->   - 中译：毕竟，近年来许多最有趣的书籍都来自小型出版商。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/interest
+>   - 中译：【需人工审核】与 interest 相关的例句。
 > - We want to excite children's interest in science. `[例]`
->   - 中译：我们希望激发孩子们对科学的兴趣。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/interest
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/interest
+>   - 中译：【需人工审核】与 interest 相关的例句。
 > - I've always had an interest in astronomy. `[例]`
->   - 中译：我一直对天文学很感兴趣。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/interest
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/interest
+>   - 中译：【需人工审核】与 interest 相关的例句。
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/interest
 
 
 ## 主动产出

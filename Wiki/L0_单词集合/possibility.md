@@ -131,16 +131,17 @@ review_count: 0
 
 > [!example]- 语料
 > - Travellers on the Silk Road 7 possibility of being attacked by thieves or being 8 to extreme weather conditions. `[真题]`
->   - 中译：丝绸之路上的旅行者 7 遭受小偷袭击或遭遇极端天气条件的可能性 8 。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/possibility
+>   - 中译：【需人工审核】与 possibility 相关的例句。
 > - It's not likely to happen but I wouldn't rule out the possibility. `[例]`
->   - 中译：这不太可能发生，但我不排除这种可能性。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/possibility
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/possibility
+>   - 中译：【需人工审核】与 possibility 相关的例句。
 > - The forecast said that there's a possibility of snow tonight. `[例]`
->   - 中译：天气预报说今晚可能会下雪。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/possibility
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/possibility
+>   - 中译：【需人工审核】与 possibility 相关的例句。
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/possibility
 
 
 ## 主动产出

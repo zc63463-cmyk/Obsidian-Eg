@@ -134,6 +134,8 @@ glory 源自拉丁语 *gloria*（光荣、荣耀），原始印欧语词根 *ghe
 
 > [!example]- 语料
 > - Becoming a Supreme Court judge was the crowning glory of her career. `[例]`
+>   - 中译：【需人工审核】glory 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/glory
   - 中译：成为最高法院法官是她职业生涯的最高荣耀。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/glory；
 > - They spent millions restoring the theatre to its former glory. `[例]`

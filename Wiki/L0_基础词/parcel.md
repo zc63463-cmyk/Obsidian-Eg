@@ -130,6 +130,8 @@ review_count: 0
 
 > [!example]- 语料
 > - The company bought a parcel of land on the outskirts of the city for its new factory. `[例]`
+>   - 中译：【需人工审核】parcel 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/parcel
   - 中译：公司在城市郊区购买了一块土地用于新建工厂。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/parcel；
 > - The work was parceled out among several teams. `[例]`

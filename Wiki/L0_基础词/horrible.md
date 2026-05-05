@@ -128,6 +128,8 @@ horrible（中古英语，源自古法语 *horrible*，源自拉丁语 *horribil
 
 > [!example]- 语料
 > - He's got a horrible cold. `[例]`
+>   - 中译：【需人工审核】horrible 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/horrible
   - 中译：他得了重感冒。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/horrible；
 > - What's that horrible smell? `[例]`

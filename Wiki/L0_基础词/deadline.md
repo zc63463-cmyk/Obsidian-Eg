@@ -126,6 +126,8 @@ review_count: 0
 
 > [!example]- 语料
 > - There's no way I can meet that deadline. `[例]`
+>   - 中译：【需人工审核】deadline 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/deadline
   - 中译：我不可能赶上那个截止日期。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/deadline；
 > - We're working to a tight deadline (= we do not have much time to finish the work ). `[例]`

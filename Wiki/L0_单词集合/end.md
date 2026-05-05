@@ -141,16 +141,17 @@ review_count: 0
 
 > [!example]- 语料
 > - At the end of 2018, Governor Charlie Baker of Massachusetts signed a bill to rein in those potential investor-buyers. `[真题]`
->   - 中译：2018 年底，马萨诸塞州州长查理·贝克签署了一项法案，以控制这些潜在的投资者买家。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/end
+>   - 中译：【需人工审核】与 end 相关的例句。
 > - Big-name PRH authors may suffer a bit, but it's those mid-list authors, who normally rely on Waterstones staff's passion for promoting books by lesser-known writers, who will be praying for an end to the dispute. `[真题]`
->   - 中译：知名公关作家可能会受到一些影响，但那些通常依靠 Waterstones 工作人员推销不太知名作家的书籍的中等作家将祈祷争端结束。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/end
+>   - 中译：【需人工审核】与 end 相关的例句。
 > - This cable should have a plug at one end and a socket at the other. `[例]`
->   - 中译：该电缆的一端应有插头，另一端应有插座。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/end
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/end
+>   - 中译：【需人工审核】与 end 相关的例句。
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/end
 
 
 ## 主动产出

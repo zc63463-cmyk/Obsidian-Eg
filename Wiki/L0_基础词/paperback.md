@@ -124,6 +124,8 @@ review_count: 0
 
 > [!example]- 语料
 > - First published in hardback in 2003, the book is now available in paperback. `[例]`
+>   - 中译：【需人工审核】paperback 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/paperback
   - 中译：这本书于2003年首次出版精装版，现在已有平装本。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/paperback；
 > - The paperback edition will be useful supplementary reading in classrooms. `[例]`

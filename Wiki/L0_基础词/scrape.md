@@ -138,6 +138,8 @@ review_count: 0
 
 > [!example]- 语料
 > - I must have scraped some of the paint off when I was parking the car. `[真题]`
+>   - 中译：【需人工审核】scrape 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/scrape
   - 中译：我停车时一定是刮掉了一些漆。
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/scrape
 > - Both my brothers have university degrees, but I just scraped through a couple of A-levels. `[真题]`

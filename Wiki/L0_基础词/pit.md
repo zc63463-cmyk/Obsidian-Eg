@@ -134,6 +134,8 @@ review_count: 0
 
 > [!example]- 语料
 > - They'd dug a shallow pit and left the bodies in it. `[例]`
+>   - 中译：【需人工审核】pit 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pit
   - 中译：他们挖了一个浅坑，把尸体留在里面。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pit；
 > - These pits in my skin are from when I had chickenpox. `[例]`

@@ -130,6 +130,8 @@ review_count: 0
 
 > [!example]- 语料
 > - The president granted a pardon to the convicted man before leaving office. `[真题]`
+>   - 中译：【需人工审核】pardon 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pardon
   - 中译：总统在离任前赦免了这名被定罪的男子。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pardon；
 > - Pardon me for interrupting, but I have an urgent message. `[真题]`

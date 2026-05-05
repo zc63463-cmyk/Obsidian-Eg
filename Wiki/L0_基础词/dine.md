@@ -125,6 +125,8 @@ review_count: 0
 
 > [!example]- 语料
 > - I hate dining alone. `[例]`
+>   - 中译：【需人工审核】dine 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/dine
   - 中译：我讨厌一个人吃饭。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/dine；
 > - We dined by candlelight. `[例]`

@@ -131,6 +131,8 @@ review_count: 0
 
 > [!example]- 语料
 > - They declared their support for the proposal. `[例]`
+>   - 中译：【需人工审核】declare 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/declare
   - 中译：他们宣布支持该提案。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/declare；
 > - The court declared that strike action was illegal. `[例]`

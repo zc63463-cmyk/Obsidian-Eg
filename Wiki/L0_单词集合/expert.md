@@ -126,16 +126,17 @@ review_count: 0
 
 > [!example]- 语料
 > - Most scientists and experts sharply dispute Hardy's views. `[真题]`
->   - 中译：大多数科学家和专家对哈代的观点提出了尖锐的质疑。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/expert
+>   - 中译：【需人工审核】与 expert 相关的例句。
 > - Short-term rentals themselves are not the crux of the issue, said Keren Hom , an expert on affordable housing policy. `[真题]`
->   - 中译：保障性住房政策专家克伦·霍姆表示，短期租金本身并不是问题的症结所在。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/expert
+>   - 中译：【需人工审核】与 expert 相关的例句。
 > - My mother is an expert at dressmaking (= she does it very well). `[例]`
->   - 中译：我妈妈是裁缝专家（=她做得很好）。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/expert
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/expert
+>   - 中译：【需人工审核】与 expert 相关的例句。
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/expert
 
 
 ## 主动产出

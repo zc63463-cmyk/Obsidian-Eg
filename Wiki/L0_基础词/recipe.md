@@ -134,6 +134,8 @@ re-（回，向后）+ cip（拿，=capere 的缩略形式）+ -e
 
 > [!example]- 语料
 > - I tried a new recipe for chocolate cake and it turned out wonderfully. `[例]`
+>   - 中译：【需人工审核】recipe 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/recipe
   - 中译：我尝试了一个新的巧克力蛋糕配方，结果非常棒。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/recipe；
 > - If you want the dish to turn out right, you should follow the recipe carefully. `[例]`

@@ -142,6 +142,8 @@ re-(再，回) + gest-/ger-(带来，携带，拉丁语 *gerere*) + -er(名词/�
 
 > [!example]- 语料
 > - Only if the jobless arrive at the jobcentre with a CV, register for online job search, and start looking for work will they be eligible for benefit. `[真题]`
+>   - 中译：【需人工审核】register 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/register
   - 中译：只有当失业者带着简历到达就业中心，注册在线求职并开始找工作时，他们才有资格领取救济金。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/register；
 > - The phrase 'to sign on' most probably means to register for an allowance from the government. `[真题]`

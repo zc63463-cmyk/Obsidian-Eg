@@ -129,6 +129,8 @@ review_count: 0
 > - To her dismay, she discovered that the paper was due a whole month earlier than she had expected. `[真题]`
 > - The news has been greeted with dismay by local business leaders. `[真题]`
 > - Aid workers were said to have been filled with dismay by the appalling conditions that the refugees were living in. `[例]`
+>   - 中译：【需人工审核】dismay 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/dismay
   - 中译：据说，难民所生活的恶劣条件让援助工作者们感到震惊和沮丧。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/dismay；
 

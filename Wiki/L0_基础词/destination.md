@@ -125,6 +125,8 @@ review_count: 0
 
 > [!example]- 语料
 > - We arrived at our destination tired and hungry. `[例]`
+>   - 中译：【需人工审核】destination 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/destination
   - 中译：我们在日落时分到达了目的地。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/destination；
 > - His letter never reached its destination. `[例]`

@@ -126,6 +126,8 @@ review_count: 0
 
 > [!example]- 语料
 > - The college has recently been involved in a drugs scandal. `[例]`
+>   - 中译：【需人工审核】scandal 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/scandal
   - 中译：这所学院最近卷入了一起毒品丑闻。
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/scandal
 > - He has been at the centre of a political scandal. `[例]`

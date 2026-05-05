@@ -129,6 +129,8 @@ in-(=not, 不) + fant(=speak, 说话，拉丁语 *fari* 的过去分词 *fans*) 
 
 > [!example]- 语料
 > - The most important thing is for parents to spend time with their newborn infant. `[例]`
+>   - 中译：【需人工审核】infant 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/infant
   - 中译：最重要的是父母要花时间陪伴他们的新生儿。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/infant；
 > - Jenny is a top-year infant now. `[例]`

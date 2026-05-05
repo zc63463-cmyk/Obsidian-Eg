@@ -125,6 +125,8 @@ review_count: 0
 
 > [!example]- 语料
 > - The pesticides used on many farms are polluting the water supply. `[例]`
+>   - 中译：【需人工审核】pollute 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pollute
   - 中译：许多农场使用的农药正在污染水源。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pollute；
 > - We won't invest in any company that pollutes the environment. `[例]`

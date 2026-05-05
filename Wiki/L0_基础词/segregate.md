@@ -132,6 +132,8 @@ se-(=apart，分开，与 [[se-]] 相关) + greg(=flock/herd，群，拉丁语 *
 
 > [!example]- 语料
 > - The Population Registration Act of 1950 categorized and segregated the people of South Africa. `[真题]`
+>   - 中译：【需人工审核】segregate 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/segregate
   - 中译：1950年的《人口登记法》对南非人民进行了分类和隔离。
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/segregate
 > - Black residents were segregated from white residents in the area. `[真题]`

@@ -135,6 +135,8 @@ imper(命令，拉丁语 *imperare*，= *im-* 入 + *parare* 准备) + -ative(�
 
 > [!example]- 语料
 > - The president said it was imperative that the release of all hostages be secured. `[例]`
+>   - 中译：【需人工审核】imperative 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/imperative
   - 中译：总统说确保所有人质获释是当务之急。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/imperative；
 > - It's imperative to act now before the problem gets really serious. `[例]`

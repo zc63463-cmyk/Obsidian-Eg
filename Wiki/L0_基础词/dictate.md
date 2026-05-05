@@ -130,6 +130,8 @@ review_count: 0
 
 > [!example]- 语料
 > - The UN will dictate the terms of troop withdrawal from the region. `[例]`
+>   - 中译：【需人工审核】dictate 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/dictate
   - 中译：联合国将规定从该地区撤军的条件。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/dictate；
 > - He disagrees with the government dictating what children are taught in schools. `[例]`

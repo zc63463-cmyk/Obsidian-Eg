@@ -136,6 +136,8 @@ review_count: 0
 
 > [!example]- 语料
 > - Nationalist sentiment has increased in the area since the bombing. `[例]`
+>   - 中译：【需人工审核】sentiment 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sentiment
   - 中译：自爆炸事件以来，该地区的民族主义情绪有所增长。
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sentiment
 > - I don't think she shares my sentiments. `[例]`

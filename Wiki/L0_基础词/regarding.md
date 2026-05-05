@@ -125,6 +125,8 @@ review_count: 0
 
 > [!example]- 语料
 > - I am writing regarding your letter of application. `[真题]`
+>   - 中译：【需人工审核】regarding 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/regarding
   - 中译：我写信是关于你的求职信。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/regarding；
 > - She refused to answer questions regarding her private life. `[例]`

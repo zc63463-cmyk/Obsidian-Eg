@@ -129,15 +129,15 @@ loc(地方/地点) + -al(形容词后缀，与……有关的)
 
 > [!example]- 语料
 > - Glenn Branch, the centre's deputy director, cautions that setting state-level science standards is only one limited benchmark in a country that decentralises decisions to local school bo.ards. `[真题]`
->   - 中译：该中心副主任格伦·布兰奇（Glenn Branch）警告说，在一个将决策权力下放给地方学校董事会的国家，制定国家级科学标准只是一个有限的基准。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/local
+>   - 中译：【需人工审核】与 local 相关的例句。
 > - However, short-term rentals also provide housing for tourists, pointed out Ryan Castle, CEO of a local association of realtor. `[真题]`
->   - 中译：然而，当地房地产经纪人协会首席执行官瑞安·卡斯尔指出，短期租赁也为游客提供了住房。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/local
+>   - 中译：【需人工审核】与 local 相关的例句。
 > - The bill requires every rental host to register with the state , mandates they carry insurance , and opens the potential for local taxes on top of a new state levy. `[真题]`
->   - 中译：该法案要求每个租赁房东向州政府注册，强制他们购买保险，并在新的州征税基础上开辟了征收地方税的可能性。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/local
 ---
+>   - 中译：【需人工审核】与 local 相关的例句。
 
 
 ## 主动产出

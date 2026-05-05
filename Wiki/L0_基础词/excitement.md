@@ -127,6 +127,8 @@ ex-(出、向外) + cite(唤起、引起，拉丁语 *citare*) + -ment(名词后
 
 > [!example]- 语料
 > - Robin's heart was pounding with excitement. `[例]`
+>   - 中译：【需人工审核】excitement 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/excitement
   - 中译：罗宾的心因兴奋而砰砰直跳。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/excitement；
 > - If you want excitement, you should try parachuting. `[例]`

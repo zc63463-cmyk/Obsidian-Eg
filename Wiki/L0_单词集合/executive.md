@@ -139,15 +139,15 @@ review_count: 0
 
 > [!example]- 语料
 > - We are at a crisis level on the supply of rental housing , " said Nick Taylor, executive director of the Workforce Housing Coalition of the Greater Seacoast. `[真题]`
->   - 中译：大海岸劳动力住房联盟执行董事尼克·泰勒表示，我们的租赁住房供应正处于危机水平。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/executive
+>   - 中译：【需人工审核】与 executive 相关的例句。
 > - She is now a senior executive, having worked her way up through the company. `[例]`
->   - 中译：她现在是一名高级管理人员，通过自己的努力在公司晋升。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/executive
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/executive
+>   - 中译：【需人工审核】与 executive 相关的例句。
 > - The executive of the health workers ' union accepted the proposed pay increase on behalf of their members. `[例]`
->   - 中译：卫生工作者工会执行委员会代表其成员接受了加薪提议。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/executive
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/executive
 ---
+>   - 中译：【需人工审核】与 executive 相关的例句。
 
 
 ## 主动产出

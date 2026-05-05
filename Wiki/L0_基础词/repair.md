@@ -135,6 +135,8 @@ re-（[[re-|再，重新]]）+ par（[[par|准备]]，拉丁语 *parare*）→ �
 
 > [!example]- 语料
 > - The road is under repair, so we have to take a detour. `[真题]`
+>   - 中译：【需人工审核】repair 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/repair
   - 中译：这条路正在维修，所以我们不得不绕道而行。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/repair；
 > - It will take a long time to repair the damage caused by the financial crisis. `[真题]`

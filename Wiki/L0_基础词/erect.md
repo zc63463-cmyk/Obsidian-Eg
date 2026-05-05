@@ -131,6 +131,8 @@ review_count: 0
 
 > [!example]- 语料
 > - The war memorial was erected in 1950. `[例]`
+>   - 中译：【需人工审核】erect 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/erect
   - 中译：这座战争纪念碑建于1950年。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/erect；
 > - The soldiers had erected barricades to protect themselves. `[例]`

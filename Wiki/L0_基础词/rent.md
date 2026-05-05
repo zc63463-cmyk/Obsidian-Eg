@@ -133,6 +133,8 @@ review_count: 0
 
 > [!example]- 语料
 > - Many young people cannot afford to pay the rent in big cities. `[真题]`
+>   - 中译：【需人工审核】rent 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rent
   - 中译：许多年轻人付不起大城市的房租。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rent；
 > - That means more Gen Zers are renting for longer, even as those costs creep higher and higher. `[例]`

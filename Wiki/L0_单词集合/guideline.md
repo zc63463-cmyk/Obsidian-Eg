@@ -120,17 +120,18 @@ review_count: 0
 
 > [!example]- 语料
 > - Branch points out that, even if a growing number of official guidelines and textbooks reflect scientific consensus on climate change , unofficial educational materials that convey mo:re slanted perspectives are being distributed to teachers. `[真题]`
->   - 中译：布兰奇指出，尽管越来越多的官方指南和教科书反映了关于气候变化的科学共识，但传达更多倾斜观点的非官方教育材料正在分发给教师。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/guideline
+>   - 中译：【需人工审核】与 guideline 相关的例句。
 > - The EU has issued guidelines on appropriate levels of pay for part-time manual workers. `[例]`
->   - 中译：欧盟发布了关于兼职体力工人适当工资水平的指导方针。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/guideline
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/guideline
+>   - 中译：【需人工审核】与 guideline 相关的例句。
 > - Playground guidelines come under the Department of Health and Safety. `[例]`
->   - 中译：游乐场指南隶属于健康与安全部。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/guideline
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/guideline
+>   - 中译：【需人工审核】与 guideline 相关的例句。
 
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/guideline
 
 
 ## 主动产出

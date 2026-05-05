@@ -137,6 +137,8 @@ pin 源自古英语 *pinn*（钉子、销子），可能源自拉丁语 *pinna*�
 
 > [!example]- 语料
 > - I'll keep the trouser patch in place with pins while I sew it on. `[例]`
+>   - 中译：【需人工审核】pin 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pin
   - 中译：我在缝补的时候用别针把裤子补丁固定好。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pin；
 > - Doctors inserted a metal pin in his leg to hold the bones together. `[例]`

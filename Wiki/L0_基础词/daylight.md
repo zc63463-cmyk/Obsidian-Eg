@@ -127,6 +127,8 @@ day(天/白天) + light(光)
 
 > [!example]- 语料
 > - The colours look much better in daylight. `[例]`
+>   - 中译：【需人工审核】daylight 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/daylight
   - 中译：颜色在日光下看起来好多了。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/daylight；
 > - The space is daylighted and there are also LED lights for night use. `[例]`

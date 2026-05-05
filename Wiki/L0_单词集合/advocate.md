@@ -129,16 +129,17 @@ review_count: 0
 
 > [!example]- 语料
 > - In New Hampshire, where the rental vacancy rate has dropped :below 1 percent, housing advocates fear unchecked short-term rentals will put further pressure on an already strained market. `[真题]`
->   - 中译：在新罕布什尔州，租赁空置率已降至 1% 以下，住房倡导者担心不受控制的短期租金会给本已紧张的市场带来进一步压力。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/advocate
+>   - 中译：【需人工审核】与 advocate 相关的例句。
 > - She advocates taking a more long-term view. `[例]`
->   - 中译：她主张采取更长远的眼光。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/advocate
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/advocate
+>   - 中译：【需人工审核】与 advocate 相关的例句。
 > - He advocates the return of capital punishment. `[例]`
->   - 中译：他主张恢复死刑。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/advocate
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/advocate
+>   - 中译：【需人工审核】与 advocate 相关的例句。
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/advocate
 
 
 ## 主动产出

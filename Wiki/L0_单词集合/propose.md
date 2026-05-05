@@ -136,17 +136,18 @@ pro-(向前) + pos-/pon-/posit(放置，拉丁语 *ponere*)
 
 > [!example]- 语料
 > - Pat Hardy, who sympathises with the views of the energy sector, is resisting proposed changes 1to science standards for pre-teen pupils. `[真题]`
->   - 中译：帕特·哈迪（Pat Hardy）同情能源部门的观点，他反对对青春期前学生的科学标准进行修改1。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/propose
+>   - 中译：【需人工审核】与 propose 相关的例句。
 > - It comes at a time . when authors are already worried about the consequences of the proposed merger between PRH and another big publisher , Simon & Schuster-the reduction in the number of unaligned UK publishers is likely to lead to fewer bidding wars,, lower advances, and more conformity in . terms of what is published. `[真题]`
->   - 中译：它来得正是时候。当作者们已经担心 PRH 与另一家大型出版商西蒙与舒斯特 (Simon & Schuster) 之间拟议合并的后果时，不结盟的英国出版商数量的减少可能会导致竞标战的减少、预付款的降低以及 .所发布内容的条款。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/propose
+>   - 中译：【需人工审核】与 propose 相关的例句。
 > - I propose that we wait until the budget has been announced before committing ourselves to any expenditure. `[例]`
->   - 中译：我建议我们等到预算公布后再承诺任何开支。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/propose
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/propose
+>   - 中译：【需人工审核】与 propose 相关的例句。
 
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/propose
 
 ## 主动产出
 

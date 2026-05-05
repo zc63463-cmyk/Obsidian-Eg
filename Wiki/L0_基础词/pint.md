@@ -126,6 +126,8 @@ pint 源自古法语 *pinte*，可能来自拉丁语 *pincta*（标记的，被�
 
 > [!example]- 语料
 > - He usually goes out for a pint at lunchtime. `[例]`
+>   - 中译：【需人工审核】pint 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pint
   - 中译：他通常在午餐时间去喝一品脱啤酒。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pint；
 > - A pint of lager and two halves , please. `[例]`

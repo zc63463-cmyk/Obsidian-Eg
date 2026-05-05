@@ -129,15 +129,15 @@ con-(共同，一起) + sequ/secut(跟随) + -ence(名词后缀)
 
 > [!example]- 语料
 > - It comes at a time . when authors are already worried about the consequences of the proposed merger between PRH and another big publisher , Simon & Schuster-the reduction in the number of unaligned UK publishers is likely to lead to fewer bidding wars,, lower advances, and more conformity in . terms of what is published. `[真题]`
->   - 中译：它来得正是时候。当作者们已经担心 PRH 与另一家大型出版商西蒙与舒斯特 (Simon & Schuster) 之间拟议合并的后果时，不结盟的英国出版商数量的减少可能会导致竞标战的减少、预付款的降低以及 .所发布内容的条款。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/consequence
+>   - 中译：【需人工审核】与 consequence 相关的例句。
 > - What can be one consequence of the current dispute? `[真题]`
->   - 中译：当前争端可能会产生什么后果？
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/consequence
+>   - 中译：【需人工审核】与 consequence 相关的例句。
 > - Not making a will can have serious consequences for your children and other family members. `[例]`
->   - 中译：不立遗嘱可能会给您的孩子和其他家庭成员带来严重后果。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/consequence
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/consequence
 ---
+>   - 中译：【需人工审核】与 consequence 相关的例句。
 
 
 ## 主动产出

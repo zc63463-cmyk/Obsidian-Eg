@@ -130,6 +130,8 @@ review_count: 0
 
 > [!example]- 语料
 > - The government made an investigation of the employment in the public and private sectors. `[真题]`
+>   - 中译：【需人工审核】sector 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sector
   - 中译：政府对公共和私营部门的就业情况进行了调查。
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sector
 > - For the high-tech sector, there are a few other interesting findings. `[真题]`

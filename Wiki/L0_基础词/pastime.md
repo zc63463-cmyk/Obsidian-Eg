@@ -136,6 +136,8 @@ review_count: 0
 
 > [!example]- 语料
 > - These days the Net, which has already re-made such everyday pastimes as buying books and sending mails, is reshaping Donovan's vocation as well. `[真题]`
+>   - 中译：【需人工审核】pastime 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pastime
   - 中译：如今，已经重塑了购书和寄信等日常消遣的互联网，也在重塑多诺万的职业。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pastime；
 > - Hockey is Canada's national pastime. `[例]`

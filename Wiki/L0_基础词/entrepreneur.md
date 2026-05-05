@@ -129,6 +129,8 @@ review_count: 0
 
 > [!example]- 语料
 > - He was one of the entrepreneurs of the 80s who made their money in property. `[例]`
+>   - 中译：【需人工审核】entrepreneur 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/entrepreneur
   - 中译：他是80年代靠房地产发家的企业家之一。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/entrepreneur；
 > - A creative entrepreneur, he was continually dreaming up new projects. `[例]`

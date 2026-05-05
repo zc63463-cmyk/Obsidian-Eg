@@ -130,6 +130,8 @@ review_count: 0
 
 > [!example]- 语料
 > - If the pain persists, consult a doctor. `[例]`
+>   - 中译：【需人工审核】persist 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/persist
   - 中译：如果疼痛持续，请就医。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/persist；
 > - Despite this accumulation of evidence, the government persisted in doing nothing. `[例]`

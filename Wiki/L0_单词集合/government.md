@@ -127,13 +127,14 @@ review_count: 0
 
 > [!example]- 语料
 > - They were typically _1_ outside the walls of a city or village and were usually funded by governments or 2 This word " Caravanserais" is 3 a of the Persian word " karv:an" , which means a group of ltravellers or a caravan , and " seray " , a palace or enclosed building. `[真题]`
->   - 中译：它们通常位于 _1_ 城市或村庄的城墙外，通常由政府或 2 资助。 2 这个词“Caravanserais”是波斯语单词“karv:an”的 3 a，意思是一群旅行者或商队，以及“seray”，宫殿或封闭的建筑。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/government
+>   - 中译：【需人工审核】与 government 相关的例句。
 > - Perhaps most importantly, the images provided documentary evidence that later made its way to government officials. `[真题]`
->   - 中译：也许最重要的是，这些图像提供了后来交给政府官员的文件证据。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/government
+>   - 中译：【需人工审核】与 government 相关的例句。
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/government
 
 
 ## 主动产出

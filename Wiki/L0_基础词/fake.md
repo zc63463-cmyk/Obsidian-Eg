@@ -136,6 +136,8 @@ fake 的词源存在争议，但最主流的观点认为它源自俚语，可能
 
 > [!example]- 语料
 > - Experts revealed that the painting was a fake. `[例]`
+>   - 中译：【需人工审核】fake 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fake
   - 中译：专家透露这幅画是赝品。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fake；
 > - The gun in his hand was a fake. `[例]`

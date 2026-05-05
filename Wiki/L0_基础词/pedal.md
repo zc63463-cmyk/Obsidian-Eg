@@ -137,6 +137,8 @@ review_count: 0
 
 > [!example]- 语料
 > - He refused to soft-pedal an investigation into the scandal. `[真题]`
+>   - 中译：【需人工审核】pedal 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pedal
   - 中译：他拒绝淡化对丑闻的调查。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pedal；
 > - She put her foot down on the accelerator pedal and the car surged forward. `[例]`

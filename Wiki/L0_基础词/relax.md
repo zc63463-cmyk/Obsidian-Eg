@@ -131,6 +131,8 @@ re-(=back，回) + [[lat|lax/laxus]](松的，拉丁语 *laxus*，宽松的)
 
 > [!example]- 语料
 > - Studies dating back to the 1930s indicate that laughter relaxes muscles, decreasing muscle tone for up to 45 minutes after the laugh dies down. `[真题]`
+>   - 中译：【需人工审核】relax 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/relax
   - 中译：可以追溯到20世纪30年代的研究表明，笑声能使肌肉放松，在笑声停止后最多45分钟内降低肌肉紧张度。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/relax；
 > - Two weeks after the police relaxed security at the airports, there was a bomb attack. `[例]`

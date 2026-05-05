@@ -126,6 +126,8 @@ illiterate = il-（= in-，否定前缀，在 l 前变为 il-）+ literate（识
 
 > [!example]- 语料
 > - A surprising percentage of the population is illiterate. `[例]`
+>   - 中译：【需人工审核】illiterate 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/illiterate
   - 中译：令人惊讶的是，很大一部分人口是文盲。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/illiterate；
 > - More than half of the country's population of 8m are illiterate. `[例]`

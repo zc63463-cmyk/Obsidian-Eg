@@ -130,16 +130,17 @@ review_count: 0
 
 > [!example]- 语料
 > - Se1:tion I Use of English Directions: Read the following text. `[真题]`
->   - 中译：第一节：英语使用说明：阅读以下文字。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/follow
+>   - 中译：【需人工审核】与 follow 相关的例句。
 > - However D. stock up on D. implied D. although D. series Read the following four texts. `[真题]`
->   - 中译：然而 D. 储备 D. 暗示 D. 虽然 D. 系列 阅读以下四篇文章。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/follow
+>   - 中译：【需人工审核】与 follow 相关的例句。
 > - Which of the following is true of New Englan? ,, A. `[真题]`
->   - 中译：以下哪项关于新英格兰的说法是正确的？ ,, A.
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/follow
+>   - 中译：【需人工审核】与 follow 相关的例句。
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/follow
 
 
 ## 主动产出

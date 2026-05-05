@@ -136,6 +136,8 @@ review_count: 0
 
 > [!example]- 语料
 > - He views boxing as his passport out of poverty. `[例]`
+>   - 中译：【需人工审核】passport 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/passport
   - 中译：他把拳击视为自己摆脱贫困的通行证。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/passport；
 > - Many students opt for business studies simply because it sounds like a passport to a good job. `[例]`

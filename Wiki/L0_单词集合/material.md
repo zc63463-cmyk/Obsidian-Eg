@@ -140,16 +140,17 @@ review_count: 0
 
 > [!example]- 语料
 > - Branch points out that, even if a growing number of official guidelines and textbooks reflect scientific consensus on climate change , unofficial educational materials that convey mo:re slanted perspectives are being distributed to teachers. `[真题]`
->   - 中译：布兰奇指出，尽管越来越多的官方指南和教科书反映了关于气候变化的科学共识，但传达更多倾斜观点的非官方教育材料正在分发给教师。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/material
+>   - 中译：【需人工审核】与 material 相关的例句。
 > - They are using low-impact building materials, such as reclaimed brick and stone. `[例]`
->   - 中译：他们使用低影响的建筑材料，例如再生砖和石头。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/material
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/material
+>   - 中译：【需人工审核】与 material 相关的例句。
 > - The company has been plagued by a high turnover of project managers , poor oversight of subcontractors , and the use of second-grade construction materials. `[例]`
->   - 中译：该公司一直受到项目经理流动率高、分包商监管不力以及使用二级建筑材料等问题的困扰。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/material
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/material
+>   - 中译：【需人工审核】与 material 相关的例句。
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/material
 
 
 ## 主动产出

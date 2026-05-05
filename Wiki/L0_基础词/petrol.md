@@ -121,6 +121,8 @@ petr-/petro-(石头，岩石，希腊语 *petra*) + -ol(油，化学后缀)
 
 > [!example]- 语料
 > - It is all very well to blame traffic jams, the cost of petrol and the quick pace of modern life, but manners on the roads are becoming horrible. `[真题]`
+>   - 中译：【需人工审核】petrol 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/petrol
   - 中译：把交通拥堵、汽油成本和现代生活的快节奏归咎于一切固然容易，但道路上的礼仪正变得可怕。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/petrol；
 > - The mounting cost of petrol and the increased license fees and road tax all add to the driver's worries. `[真题]`

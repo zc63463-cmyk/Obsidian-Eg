@@ -131,6 +131,8 @@ review_count: 0
 
 > [!example]- 语料
 > - I was shivering with cold. `[真题]`
+>   - 中译：【需人工审核】shiver 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/shiver
   - 中译：我冷得发抖。；
   - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/shiver；
 > - She shivered involuntarily as he approached her. `[真题]`

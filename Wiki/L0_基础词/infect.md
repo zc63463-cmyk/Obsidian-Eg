@@ -130,6 +130,8 @@ in-(=into, 进入) + [[fac|fect]](=do/make, 做，拉丁语 *facere* 的过去�
 
 > [!example]- 语料
 > - A mosquito can infect humans with several diseases. `[例]`
+>   - 中译：【需人工审核】infect 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/infect
   - 中译：蚊子能将几种疾病传染给人类。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/infect；
 > - The ward was full of children infected with TB. `[例]`

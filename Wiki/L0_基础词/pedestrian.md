@@ -140,6 +140,8 @@ review_count: 0
 
 > [!example]- 语料
 > - A pedestrian crossing 8th St. impressed us with his boldness. `[例]`
+>   - 中译：【需人工审核】pedestrian 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pedestrian
   - 中译：一个穿越第八街的行人给我们留下了深刻印象，因为他非常大胆。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pedestrian；
 > - He was rather a pedestrian student. `[例]`

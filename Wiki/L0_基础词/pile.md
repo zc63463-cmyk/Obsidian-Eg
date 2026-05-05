@@ -128,6 +128,8 @@ pile(堆积，拉丁语 *pila* 柱子/堆)
 
 > [!example]- 语料
 > - The nail hoard was discovered in 1960 in a four-metre-deep pit covered by two metres of gravel. Why had the Romans buried a million nails? The likely explanation is that the withdrawal was rushed, and they didn't want the local Caledonians to get their hands on a pile of weapons. `[真题]`
+>   - 中译：【需人工审核】pile 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pile
   - 中译：这批钉子是1960年在四米深的坑中发现的，上面覆盖了两米厚的砾石。为什么罗马人要埋掉一百万颗钉子？可能的解释是撤退很仓促，他们不想让当地的卡勒多尼亚人得到一堆武器。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pile；
 > - In her return, she brings another book, although her desk is already piled with lots of books. `[例]`

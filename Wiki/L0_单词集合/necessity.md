@@ -123,16 +123,17 @@ ne-(否定前缀，"不") + cess(走/退让) + -ity(名词后缀，表示抽象�
 
 > [!example]- 语料
 > - The necessity to stop developers from evading taxes. `[真题]`
->   - 中译：有必要阻止开发商逃税。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/necessity
+>   - 中译：【需人工审核】与 necessity 相关的例句。
 > - You can come early if you want to, but there's no necessity for it. `[例]`
->   - 中译：如果你愿意的话可以早点来，但没有必要。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/necessity
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/necessity
+>   - 中译：【需人工审核】与 necessity 相关的例句。
 > - Is there any necessity to reply to her letter? `[例]`
->   - 中译：有必要回她的信吗？
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/necessity
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/necessity
+>   - 中译：【需人工审核】与 necessity 相关的例句。
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/necessity
 
 
 ## 主动产出

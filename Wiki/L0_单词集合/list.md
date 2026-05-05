@@ -130,16 +130,17 @@ review_count: 0
 
 > [!example]- 语料
 > - Big-name PRH authors may suffer a bit, but it's those mid-list authors, who normally rely on Waterstones staff's passion for promoting books by lesser-known writers, who will be praying for an end to the dispute. `[真题]`
->   - 中译：知名公关作家可能会受到一些影响，但那些通常依靠 Waterstones 工作人员推销不太知名作家的书籍的中等作家将祈祷争端结束。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/list
+>   - 中译：【需人工审核】与 list 相关的例句。
 > - Sales of books by mid-list PRH writers fall off considerably. `[真题]`
->   - 中译：中等公屋作家的图书销量大幅下降。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/list
+>   - 中译：【需人工审核】与 list 相关的例句。
 > - In fact, a listing in Scopus seems to be a criterion to be targeted in this type of citation manipulation. `[真题]`
->   - 中译：事实上，Scopus 中的列表似乎是此类引文操纵的目标标准。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/list
+>   - 中译：【需人工审核】与 list 相关的例句。
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/list
 
 
 ## 主动产出

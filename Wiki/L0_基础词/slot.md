@@ -141,6 +141,8 @@ review_count: 0
 
 > [!example]- 语料
 > - I put my money in the slot and pressed the button but nothing came out. `[例]`
+>   - 中译：【需人工审核】slot 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/slot
   - 中译：我把钱投进投币口，按了按钮，但什么也没出来。；
   - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/slot；
 > - The holder has slots for 100 CDs. `[例]`

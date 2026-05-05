@@ -136,6 +136,8 @@ review_count: 0
 
 > [!example]- 语料
 > - A new sports facility. `[例]`
+>   - 中译：【需人工审核】facility 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/facility
   - 中译：一个新的体育设施。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/facility；
 > - His facility for languages is astonishing. `[例]`

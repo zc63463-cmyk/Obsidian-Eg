@@ -126,15 +126,15 @@ how（方式）+ ever（曾经/无论）
 
 > [!example]- 语料
 > - However D. stock up on D. implied D. although D. series Read the following four texts. `[真题]`
->   - 中译：然而 D. 储备 D. 暗示 D. 虽然 D. 系列 阅读以下四篇文章。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/however
+>   - 中译：【需人工审核】与 however 相关的例句。
 > - However, short-term rentals also provide housing for tourists, pointed out Ryan Castle, CEO of a local association of realtor. `[真题]`
->   - 中译：然而，当地房地产经纪人协会首席执行官瑞安·卡斯尔指出，短期租赁也为游客提供了住房。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/however
+>   - 中译：【需人工审核】与 however 相关的例句。
 > - However hungry I am, I never seem to be able to finish off a whole pizza. `[例]`
->   - 中译：不管我有多饿，我似乎永远都吃不完整个披萨。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/however
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/however
 ---
+>   - 中译：【需人工审核】与 however 相关的例句。
 
 
 ## 主动产出

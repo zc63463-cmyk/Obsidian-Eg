@@ -137,6 +137,8 @@ review_count: 0
 
 > [!example]- 语料
 > - Native plants and animals. `[例]`
+>   - 中译：【需人工审核】plant 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/plant
   - 中译：本土动植物。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/plant；
 > - The industry was accused of having invested little in workers , plant, or infrastructure. `[例]`

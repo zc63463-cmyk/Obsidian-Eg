@@ -128,16 +128,17 @@ con-(共同) + [[tract|trol]](=rotulus，小滚轮/登记册) → 对照登记�
 
 > [!example]- 语料
 > - Its home prices are under strict control. `[真题]`
->   - 中译：其房价受到严格控制。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/control
+>   - 中译：【需人工审核】与 control 相关的例句。
 > - By allowing AI to develop content some brand marketers may find that they are losing control over the brand narrative. ( 48 ) Algorithms that are used to simulate human interactions are creating mmy of these concerns, especially as no-one is quite sure what the outcomes of using AI to interact with customers will be. `[真题]`
->   - 中译：通过允许人工智能开发内容，一些品牌营销人员可能会发现他们正在失去对品牌叙事的控制。 ( 48 ) 用于模拟人类交互的算法正在引发这些担忧，特别是因为没有人完全确定使用人工智能与客户交互的结果会是什么。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/control
+>   - 中译：【需人工审核】与 control 相关的例句。
 > - You're going to have to learn to control your temper. `[例]`
->   - 中译：你必须学会​​控制自己的脾气。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/control
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/control
+>   - 中译：【需人工审核】与 control 相关的例句。
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/control
 
 ## 主动产出
 

@@ -128,6 +128,8 @@ infra-(=below/beneath, 在……下面/低于) + red(=red, 红色) → 低于红
 
 > [!example]- 语料
 > - Infrared radiation is similar to light but has a longer wavelength, so we cannot see it without special equipment. `[真题]`
+>   - 中译：【需人工审核】infrared 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/infrared
   - 中译：红外辐射与光类似，但波长更长，因此没有特殊设备我们无法看到它。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/infrared；
 > - Searching with infrared scanners for weapons and artillery. `[真题]`

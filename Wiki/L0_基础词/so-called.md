@@ -115,6 +115,8 @@ so(如此) + call(称为) + -ed(过去分词，表示被动) → 被如此称为
 
 > [!example]- 语料
 > - Recently, another expression of this predatory behavior has emerged: so-called support service consultancies that provide language and other editorial support to individual authors and to journals sometimes advise contributors to add a number of citations to their articles. `[真题]`
+>   - 中译：【需人工审核】so-called 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/so-called
   - 中译：最近，这种掠夺性行为又出现了另一种表现形式：所谓的支持服务咨询公司，为个人作者和期刊提供语言和其他编辑支持，有时会建议投稿人在文章中添加大量引用。；
   - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/so-called；
 > - It was her so-called friends that spread the rumours about her. `[例]`

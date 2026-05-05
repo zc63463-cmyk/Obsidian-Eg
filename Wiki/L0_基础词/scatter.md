@@ -134,6 +134,8 @@ review_count: 0
 
 > [!example]- 语料
 > - Scattered around the globe are more than 100 small regions of isolated volcanic activity known to geologists as hot spots. `[真题]`
+>   - 中译：【需人工审核】scatter 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/scatter
   - 中译：散布在全球各地的是100多个孤立的火山活动小区域，地质学家称之为热点。
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/scatter
 > - The crowd scattered in all directions when the police arrived. `[真题]`

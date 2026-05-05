@@ -132,6 +132,8 @@ re-(向后/回) + volt(=volvere, 滚/转)
 
 > [!example]- 语料
 > - It was undeniably a revolt by ordinary people against their leaders and the oppressive regime. `[真题]`
+>   - 中译：【需人工审核】revolt 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/revolt
   - 中译：毫无疑问，这是普通民众对他们的领导人和压迫性政权的一次起义。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/revolt；
 > - The people revolted against foreign rule and established their own independent government. `[真题]`

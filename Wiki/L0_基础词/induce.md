@@ -128,6 +128,8 @@ in-(向内，进入，[[in]]) + [[duc-duct|duc-]](引导，拉丁语 *ducere*)
 
 > [!example]- 语料
 > - They induced her to take the job by promising editorial freedom. `[例]`
+>   - 中译：劝说，诱使。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/induce
   - 中译：他们承诺给予编辑自由，从而说服她接受这份工作。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/induce；
 > - Nothing could induce me (= I definitely cannot be persuaded ) to climb a mountain. `[例]`

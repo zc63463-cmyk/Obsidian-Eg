@@ -141,6 +141,8 @@ review_count: 0
 
 > [!example]- 语料
 > - You can copy and paste the text into a blank document before printing it out. `[例]`
+>   - 中译：【需人工审核】paste 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/paste
   - 中译：你可以将文本复制粘贴到空白文档中，然后再打印出来。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/paste；
 > - She pasted the poster onto the wall using adhesive tape. `[例]`

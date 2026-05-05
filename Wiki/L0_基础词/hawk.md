@@ -132,6 +132,8 @@ review_count: 0
 
 > [!example]- 语料
 > - On every street corner there were traders hawking their wares. `[例]`
+>   - 中译：【需人工审核】hawk 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hawk
   - 中译：每个街角都有小贩在叫卖他们的货物。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hawk；
 > - She was hawking flowers at the parking lot exit. `[例]`

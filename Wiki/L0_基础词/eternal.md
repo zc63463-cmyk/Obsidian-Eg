@@ -129,6 +129,8 @@ e-(=ex-, 出/超越) + [[ess-essence|tern]](=term, 时间/界限，源自拉丁�
 
 > [!example]- 语料
 > - The company is engaged in the eternal search for a product that will lead the market. `[例]`
+>   - 中译：【需人工审核】eternal 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/eternal
   - 中译：该公司一直在不断寻找能够引领市场的产品。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/eternal；
 > - Will you two never stop your eternal arguing! `[例]`

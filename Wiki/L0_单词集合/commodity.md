@@ -129,17 +129,18 @@ com-(共同) + mod(方便/适合) + -ity(名词后缀)
 
 > [!example]- 语料
 > - Caravanserais were also an important marketplace for commodities and _!Lin the trade of goods along the Silk Road. `[真题]`
->   - 中译：商队旅馆也是丝绸之路沿线商品和货物贸易的重要市场。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/commodity
+>   - 中译：【需人工审核】与 commodity 相关的例句。
 > - The country's most valuable commodities include tin and diamonds. `[例]`
->   - 中译：该国最有价值的商品包括锡和钻石。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/commodity
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/commodity
+>   - 中译：【需人工审核】与 commodity 相关的例句。
 > - If you're going into teaching , energy is a necessary commodity. `[例]`
->   - 中译：如果你要从事教学工作，能源是一种必需品。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/commodity
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/commodity
+>   - 中译：【需人工审核】与 commodity 相关的例句。
 
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/commodity
 
 
 ## 主动产出

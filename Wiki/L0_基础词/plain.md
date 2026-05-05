@@ -137,6 +137,8 @@ review_count: 0
 
 > [!example]- 语料
 > - She wore a plain black dress. `[例]`
+>   - 中译：【需人工审核】plain 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/plain
   - 中译：她穿着一件朴素的黑色连衣裙。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/plain；
 > - We've chosen a plain carpet (= one without a pattern ) and patterned curtains. `[例]`

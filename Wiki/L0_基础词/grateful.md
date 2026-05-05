@@ -130,6 +130,8 @@ review_count: 0
 
 > [!example]- 语料
 > - After the earthquake we felt grateful to be alive. `[例]`
+>   - 中译：【需人工审核】grateful 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/grateful
   - 中译：地震过后，我们庆幸自己还活着。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/grateful；
 > - I'm just grateful that I'm not still working for him. `[例]`

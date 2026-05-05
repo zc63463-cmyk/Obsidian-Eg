@@ -130,6 +130,8 @@ review_count: 0
 
 > [!example]- 语料
 > - Airborne troops were dropped by parachute behind enemy lines. `[真题]`
+>   - 中译：【需人工审核】parachute 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/parachute
   - 中译：空降部队通过降落伞空投到敌后。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/parachute；
 > - As a result, they have lost the parachute they once had in times of financial setback — a back-up earner (usually Mom) who could go into the workforce if the primary earner got laid off or fell sick. `[真题]`

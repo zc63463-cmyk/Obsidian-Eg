@@ -129,17 +129,18 @@ review_count: 0
 
 > [!example]- 语料
 > - Throughout the trip , Jackson juggled multiple cameras and plate sizes using the " collodion process" that required him to coat the plates with a chemical mixture , then expose them and develop the resulting images with a portable darkroom. `[真题]`
->   - 中译：在整个旅程中，杰克逊使用“火棉胶工艺”处理多个相机和印版尺寸，该工艺要求他在印版上涂上化学混合物，然后将它们曝光并用便携式暗室冲洗所得图像。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/process
+>   - 中译：【需人工审核】与 process 相关的例句。
 > - Increasing the number of women in top management jobs will be a slow process. `[例]`
->   - 中译：增加担任高层管理职位的女性人数将是一个缓慢的过程。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/process
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/process
+>   - 中译：【需人工审核】与 process 相关的例句。
 > - This decision may delay the process of European unification. `[例]`
->   - 中译：这一决定可能会推迟欧洲统一的进程。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/process
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/process
+>   - 中译：【需人工审核】与 process 相关的例句。
 
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/process
 
 ## 主动产出
 

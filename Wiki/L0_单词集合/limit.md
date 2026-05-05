@@ -126,16 +126,17 @@ review_count: 0
 
 > [!example]- 语料
 > - Glenn Branch, the centre's deputy director, cautions that setting state-level science standards is only one limited benchmark in a country that decentralises decisions to local school bo.ards. `[真题]`
->   - 中译：该中心副主任格伦·布兰奇（Glenn Branch）警告说，在一个将决策权力下放给地方学校董事会的国家，制定国家级科学标准只是一个有限的基准。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/limit
+>   - 中译：【需人工审核】与 limit 相关的例句。
 > - The problem began ]late last year, when PRH confirmed that it had introduced a credit limit 1ith Waterstones " at a very significant level". `[真题]`
->   - 中译：这个问题始于去年年底，当时 PRH 证实它已经“在非常高的水平上”引入了 Waterstones 的信用限额。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/limit
+>   - 中译：【需人工审核】与 limit 相关的例句。
 > - The credit limit will be removed. `[真题]`
->   - 中译：信用额度将被取消。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/limit
+>   - 中译：【需人工审核】与 limit 相关的例句。
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/limit
 
 
 ## 主动产出

@@ -143,16 +143,17 @@ review_count: 0
 
 > [!example]- 语料
 > - The bill proved largely popular and sailed through Congress with large majorities in favor. `[真题]`
->   - 中译：事实证明，该法案很受欢迎，并以绝大多数人的支持顺利通过了国会。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/favor
+>   - 中译：【需人工审核】与 favor 相关的例句。
 > - In applying for this job , Tiffany has a lot in her favor (= to her advantage ). `[例]`
->   - 中译：在申请这份工作时，蒂芙尼有很多对她有利的地方（=对她有利）。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/favor
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/favor
+>   - 中译：【需人工审核】与 favor 相关的例句。
 > - The city council voted in favor of (= in support of) the proposed housing development. `[例]`
->   - 中译：市议会投票赞成（=支持）拟议的住房开发。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/favor
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/favor
+>   - 中译：【需人工审核】与 favor 相关的例句。
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/favor
 
 
 ## 主动产出

@@ -128,16 +128,17 @@ busy(忙碌的) + -ness(名词后缀，表示状态) → 忙碌的状态 → 商
 
 > [!example]- 语料
 > - To respond to PRH's business move. `[真题]`
->   - 中译：响应公屋的业务举动。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/business
+>   - 中译：【需人工审核】与 business 相关的例句。
 > - Our firm does a lot of business with overseas customers. `[例]`
->   - 中译：我们公司与海外客户有很多业务往来。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/business
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/business
+>   - 中译：【需人工审核】与 business 相关的例句。
 > - Eventually they found a consultant they felt they could do business with (= with whom they could work well). `[例]`
->   - 中译：最终，他们找到了一位他们认为可以与之开展业务的顾问（=他们可以很好地合作）。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/business
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/business
+>   - 中译：【需人工审核】与 business 相关的例句。
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/business
 
 
 ## 主动产出

@@ -125,6 +125,8 @@ review_count: 0
 
 > [!example]- 语料
 > - The president had a hostile reception in Ohio this morning. `[例]`
+>   - 中译：【需人工审核】hostile 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hostile
   - 中译：总统今天上午在俄亥俄州受到了充满敌意的接待。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hostile；
 > - Hostile voices complained that the process would impose religious beliefs on the population. `[例]`

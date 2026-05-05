@@ -127,6 +127,8 @@ howl 源自古英语 *hūl*（嚎叫），拟声词，模仿狼嚎的声音。
 
 > [!example]- 语料
 > - In the silence of the night , a lone wolf howled. `[例]`
+>   - 中译：【需人工审核】howl 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/howl
   - 中译：在寂静的夜晚，一只孤狼嚎叫起来。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/howl；
 > - An injured dog lay in the middle of the road , howling with pain. `[例]`

@@ -132,6 +132,8 @@ re-(再，反复) + hear(听，古法语 *rehercer*，原指"反复耙地"→引
 
 > [!example]- 语料
 > - When facing a new situation, some people tend to rehearse their defeat by spending too much time anticipating the worst. `[真题]`
+>   - 中译：【需人工审核】rehearse 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rehearse
   - 中译：面对新情况时，有些人倾向于花太多时间预想最坏的结果，从而在心理上预演自己的失败。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rehearse；
 > - We were given only two weeks to rehearse. `[真题]`

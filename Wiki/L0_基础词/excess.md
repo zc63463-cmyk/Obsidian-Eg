@@ -130,6 +130,8 @@ ex-(出，超出) + [[ced-cess|cess]](走) → 走出去超过 → 超出的部�
 
 > [!example]- 语料
 > - An excess of enthusiasm is not always a good thing. `[例]`
+>   - 中译：【需人工审核】excess 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/excess
   - 中译：过度的热情并不总是好事。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/excess；
 > - They both eat to excess (= too much). `[例]`

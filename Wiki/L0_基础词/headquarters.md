@@ -130,6 +130,8 @@ review_count: 0
 
 > [!example]- 语料
 > - The company has its European headquarters in Brussels. `[例]`
+>   - 中译：【需人工审核】headquarters 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/headquarters
   - 中译：该公司的欧洲总部设在布鲁塞尔。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/headquarters；
 > - Regional managers are mostly free to operate without interference from headquarters. `[例]`

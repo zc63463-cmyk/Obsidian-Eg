@@ -141,6 +141,8 @@ peak（中古英语 *pec*，意为"尖端、山峰"，可能源自原始日耳�
 
 > [!example]- 语料
 > - Not long ago, with the country entering a recessing and Japan at its pre-bubble peak, the U.S. workforce was derided as poorly educated and one of primary cause of the poor U.S. economic performance. `[真题]`
+>   - 中译：【需人工审核】peak 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/peak
   - 中译：不久前，随着国家进入衰退期、日本处于泡沫经济前的巅峰，美国劳动力被嘲笑为教育水平低下，是美国经济表现不佳的主要原因之一。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/peak；
 > - At its peak around AD 600, this city was one of the largest human settlements in the world. `[真题]`

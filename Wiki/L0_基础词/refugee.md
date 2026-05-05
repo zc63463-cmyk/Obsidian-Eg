@@ -123,17 +123,18 @@ review_count: 0
 
 > [!example]- 语料
 > - Failing states are of international concern because they are a source of terrorists, drugs, weapons and refugees, threatening political stability everywhere. `[真题]`
->   - 中译：失败国家是国际社会关注的问题，因为它们是恐怖分子、毒品、武器和难民的来源，威胁着各地的政治稳定。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/refugee
+>   - 中译：难民。
 > - She was taking the food to the refugee camp, in which she distributed it to children. `[真题]`
->   - 中译：她把食物送到难民营，在那里分发给孩子们。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/refugee
+>   - 中译：难民。
 > - Hundreds of refugees poured out of the city. `[真题]`
->   - 中译：数百名难民涌出城市。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/refugee
+>   - 中译：难民。
 
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/refugee
 
 ## 主动产出
 

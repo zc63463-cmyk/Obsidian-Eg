@@ -138,6 +138,8 @@ review_count: 0
 
 > [!example]- 语料
 > - The market for their products is shrinking. `[例]`
+>   - 中译：收缩，缩小。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/shrink
   - 中译：他们产品的市场正在萎缩。；
   - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/shrink；
 > - Treatment can shrink a tumour. `[例]`

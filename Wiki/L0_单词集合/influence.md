@@ -133,15 +133,15 @@ review_count: 0
 
 > [!example]- 语料
 > - Among the 10 worst performers were some of the most populous states, including Texas , which was given the lowest grade ( F) and has a disproportionate influence because its textbooks are widely sold elsewhere. `[真题]`
->   - 中译：表现最差的 10 个州是一些人口最多的州，其中包括得克萨斯州，该州的评分最低（F），并且由于其教科书在其他地方广泛销售而具有不成比例的影响力。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/influence
+>   - 中译：【需人工审核】与 influence 相关的例句。
 > - Family is the most important influence on children. `[例]`
->   - 中译：家庭对孩子的影响是最重要的。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/influence
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/influence
+>   - 中译：【需人工审核】与 influence 相关的例句。
 > - Helen's a bad influence on him. `[例]`
->   - 中译：海伦对他有不好的影响。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/influence
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/influence
 ---
+>   - 中译：【需人工审核】与 influence 相关的例句。
 
 
 ## 主动产出

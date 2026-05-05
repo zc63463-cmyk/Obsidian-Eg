@@ -136,6 +136,8 @@ re-（向后，往回）+ ced（走，=cedere，拉丁语"行走"）+ -e
 
 > [!example]- 语料
 > - The hikers rested under a towering recede near the coastal trail. `[例]`
+>   - 中译：【需人工审核】recede 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/recede
   - 中译：徒步旅行者在沿海步道旁一棵高耸的芦苇下休息。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/recede；
 > - The cabin was built from durable recede gathered in the region. `[例]`

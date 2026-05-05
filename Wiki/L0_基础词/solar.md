@@ -127,6 +127,8 @@ review_count: 0
 
 > [!example]- 语料
 > - They are searching for intelligent life forms in other solar systems. `[例]`
+>   - 中译：【需人工审核】solar 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/solar
   - 中译：他们正在其他太阳系中寻找智慧生命形式。；
   - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/solar；
 > - These spacecraft may send back data about the outermost reaches of the solar system. `[例]`

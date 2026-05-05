@@ -133,6 +133,8 @@ re-（[[re-|回，反向]]）+ pel（[[pel|推，驱赶]]，拉丁语 *pellere*�
 
 > [!example]- 语料
 > - The defenders repelled the attack without losing any men. `[COCA-ACAD]`
+>   - 中译：【需人工审核】repel 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/repel
   - 中译：防守者击退了进攻，没有损失任何人员。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/repel；
 > - This coat has a special surface that repels moisture. `[COCA-NEWS]`

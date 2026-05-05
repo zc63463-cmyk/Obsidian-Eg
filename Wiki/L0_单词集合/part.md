@@ -152,13 +152,14 @@ review_count: 0
 
 > [!example]- 语料
 > - This is all part of a wider change towards concentration of power and cartels. `[真题]`
->   - 中译：这都是权力和卡特尔集中化更广泛变革的一部分。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/part
+>   - 中译：【需人工审核】与 part 相关的例句。
 > - The peculiar part is that the journal that the editor is supposedly working for is not profiting at all-it is just providing citations to other journals. `[真题]`
->   - 中译：奇怪的是，这位编辑所工作的期刊根本没有盈利——它只是提供对其他期刊的引用。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/part
+>   - 中译：【需人工审核】与 part 相关的例句。
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/part
 
 
 ## 主动产出

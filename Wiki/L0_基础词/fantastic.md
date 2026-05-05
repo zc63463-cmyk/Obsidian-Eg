@@ -136,6 +136,8 @@ fantastic 源自中世纪拉丁语 *fantasticus*，来自晚期拉丁语 *phanta
 
 > [!example]- 语料
 > - You look fantastic in that dress. `[例]`
+>   - 中译：【需人工审核】fantastic 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fantastic
   - 中译：你穿那条裙子看起来棒极了。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fantastic；
 > - We had a fantastic time. `[例]`

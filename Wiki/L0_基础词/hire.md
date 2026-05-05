@@ -129,6 +129,8 @@ review_count: 0
 
 > [!example]- 语料
 > - How much would it cost to hire a car for the weekend? `[例]`
+>   - 中译：【需人工审核】hire 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hire
   - 中译：周末租一辆车要多少钱？；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hire；
 > - You could always hire a dress for the ball if you can't afford to buy one. `[例]`

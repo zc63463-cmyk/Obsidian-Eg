@@ -127,6 +127,8 @@ review_count: 0
 
 > [!example]- 语料
 > - This chapter is so difficult to digest, I'll have to read it again later. `[例]`
+>   - 中译：【需人工审核】digest 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/digest
   - 中译：这一章太难消化了，我以后还得再读一遍。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/digest；
 > - A digest of the research findings is now available. `[例]`

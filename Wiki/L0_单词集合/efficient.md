@@ -130,16 +130,17 @@ review_count: 0
 
 > [!example]- 语料
 > - The efficient operation of the local housing market. `[真题]`
->   - 中译：当地房地产市场的高效运行。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/efficient
+>   - 中译：【需人工审核】与 efficient 相关的例句。
 > - The city's transport system is one of the most efficient in Europe. `[例]`
->   - 中译：该市的交通系统是欧洲最高效的交通系统之一。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/efficient
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/efficient
+>   - 中译：【需人工审核】与 efficient 相关的例句。
 > - We need someone really efficient who can organize the office and make it run smoothly. `[例]`
->   - 中译：我们需要一个真正高效的人来组织办公室并使其顺利运转。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/efficient
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/efficient
+>   - 中译：【需人工审核】与 efficient 相关的例句。
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/efficient
 
 
 ## 主动产出

@@ -134,6 +134,8 @@ review_count: 0
 
 > [!example]- 语料
 > - Rioters ran through the city , smashing windows and looting shops. `[例]`
+>   - 中译：【需人工审核】smash 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/smash
   - 中译：暴乱者冲过城市，砸碎窗户，抢劫商店。；
   - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/smash；
 > - Several boats were smashed against the rocks during the storm. `[例]`

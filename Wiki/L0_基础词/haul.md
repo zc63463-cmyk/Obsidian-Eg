@@ -134,6 +134,8 @@ review_count: 0
 
 > [!example]- 语料
 > - They hauled the boat out of the water. `[例]`
+>   - 中译：【需人工审核】haul 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/haul
   - 中译：他们把船从水里拖了出来。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/haul；
 > - She hauled herself up into the tree. `[例]`

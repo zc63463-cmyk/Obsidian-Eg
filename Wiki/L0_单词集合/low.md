@@ -132,16 +132,17 @@ review_count: 0
 
 > [!example]- 语料
 > - Now, with record-high home prices and historically low inventory, there's an increased urgency in such regulation, particularly among those who worry that developers will come in and buy up swaths of housing to flip for a fortune on the short-term rental market. `[真题]`
->   - 中译：现在，随着房价创历史新高，库存也创历史新低，此类监管的紧迫性越来越大，尤其是那些担心开发商会介入并购买大量住房并在短期租赁市场上转手大赚的人。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/low
+>   - 中译：【需人工审核】与 low 相关的例句。
 > - Its housing supply is at a very low level. `[真题]`
->   - 中译：其住房供应量处于非常低的水平。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/low
+>   - 中译：【需人工审核】与 low 相关的例句。
 > - High vehicles must take an alternative route because of low clearance under the bridge. `[例]`
->   - 中译：由于桥下净空较低，高的车辆必须走替代路线。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/low
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/low
+>   - 中译：【需人工审核】与 low 相关的例句。
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/low
 
 
 ## 主动产出

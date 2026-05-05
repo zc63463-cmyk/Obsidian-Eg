@@ -134,6 +134,8 @@ review_count: 0
 
 > [!example]- 语料
 > - This figure is only a rough estimate, and we'll revise it when we have more information. `[真题]`
+>   - 中译：【需人工审核】rough 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rough
   - 中译：这个数字只是一个粗略估计，我们会在获得更多信息后进行修正。
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rough
 > - First do a rough draft of your essay, then read it through carefully before finalizing it. `[真题]`

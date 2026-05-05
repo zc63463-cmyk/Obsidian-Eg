@@ -128,16 +128,17 @@ review_count: 0
 
 > [!example]- 语料
 > - Literary agencies are getting bigger to have the clout to negotiate better terms with publishers, publishers consolidating to deal with Amazon, " . says Lownie. `[真题]`
->   - 中译：文学代理机构规模不断扩大，拥有与出版商谈判更好条款的影响力，出版商正在整合以与亚马逊打交道，”洛尼说。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/literary
+>   - 中译：【需人工审核】与 literary 相关的例句。
 > - The Booker Prize is the most coveted British literary award. `[例]`
->   - 中译：布克奖是最令人垂涎​​的英国文学奖。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/literary
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/literary
+>   - 中译：【需人工审核】与 literary 相关的例句。
 > - Literary critics raved over his novels. `[例]`
->   - 中译：文学评论家对他的小说赞不绝口。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/literary
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/literary
+>   - 中译：【需人工审核】与 literary 相关的例句。
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/literary
 
 
 ## 主动产出

@@ -141,6 +141,8 @@ fast(牢固的/快的，古英语 *fæst*)
 
 > [!example]- 语料
 > - The fast train (= one that stops at fewer stations and travels quickly ) to London takes less than an hour. `[例]`
+>   - 中译：【需人工审核】fast 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fast
   - 中译：到伦敦的快车（即停靠站点较少、行驶速度较快的那种）不到一小时即可到达。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fast；
 > - It's not a relaxing movie - it's pretty fast and furious. `[例]`

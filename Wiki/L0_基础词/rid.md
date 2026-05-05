@@ -123,6 +123,8 @@ review_count: 0
 
 > [!example]- 语料
 > - The new policy aims to rid the city of unnecessary traffic barriers. `[例]`
+>   - 中译：【需人工审核】rid 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rid
   - 中译：新政策旨在清除城市中不必要的交通障碍。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rid；
 > - I didn't enjoy marking those papers and I was glad to be rid of them. `[例]`

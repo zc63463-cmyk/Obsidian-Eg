@@ -129,6 +129,8 @@ petit-(小的，法语 *petit*) + -y(形容词后缀)
 
 > [!example]- 语料
 > - Prisoners complain that they are subjected to too many petty rules and restrictions. `[例]`
+>   - 中译：【需人工审核】petty 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/petty
   - 中译：囚犯们抱怨他们受到太多琐碎的规则和限制。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/petty；
 > - The neighbourhood is safe, but there's a fair amount of petty crime such as package theft and car break-ins. `[例]`

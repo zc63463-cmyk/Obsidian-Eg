@@ -131,16 +131,17 @@ review_count: 0
 
 > [!example]- 语料
 > - They casually dismiss the career work of scholars and scientists as just another misguided opinion. `[真题]`
->   - 中译：他们漫不经心地将学者和科学家的职业工作视为另一种误导性的观点。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/opinion
+>   - 中译：【需人工审核】与 opinion 相关的例句。
 > - What's your opinion about the matter? `[例]`
->   - 中译：您对此事有何看法？
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/opinion
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/opinion
+>   - 中译：【需人工审核】与 opinion 相关的例句。
 > - I would like to get your opinion on the new schedule. `[例]`
->   - 中译：我想听听您对新时间表的意见。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/opinion
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/opinion
+>   - 中译：【需人工审核】与 opinion 相关的例句。
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/opinion
 
 
 ## 主动产出

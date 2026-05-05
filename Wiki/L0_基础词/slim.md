@@ -148,6 +148,8 @@ review_count: 0
 
 > [!example]- 语料
 > - She has a lovely slim figure. `[例]`
+>   - 中译：【需人工审核】slim 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/slim
   - 中译：她身材苗条，很漂亮。；
   - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/slim；
 > - They only have a slim chance of winning (= it's unlikely that they will win ). `[例]`

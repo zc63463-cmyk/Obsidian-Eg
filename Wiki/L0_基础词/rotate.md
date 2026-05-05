@@ -128,6 +128,8 @@ review_count: 0
 
 > [!example]- 语料
 > - Farmers rotate crops to maintain soil fertility. `[真题]`
+>   - 中译：【需人工审核】rotate 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rotate
   - 中译：农民轮作农作物以保持土壤肥力。
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rotate
 > - The earth rotates once every 24 hours on its axis. `[真题]`

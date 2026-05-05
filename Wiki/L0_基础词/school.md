@@ -133,6 +133,8 @@ review_count: 0
 
 > [!example]- 语料
 > - The Chicago school of economics has had a profound influence on government policy. `[真题]`
+>   - 中译：【需人工审核】school 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/school
   - 中译：芝加哥经济学派对政府政策产生了深远的影响。
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/school
 > - Children must attend school between the ages of 6 and 16 by law. `[真题]`

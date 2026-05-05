@@ -129,6 +129,8 @@ hammer 源自古英语 *hamor* "锤子"，原始日耳曼语 *\*hamaraz*。古�
 
 > [!example]- 语料
 > - She qualified for the women's hammer final. `[例]`
+>   - 中译：【需人工审核】hammer 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hammer
   - 中译：她获得了女子链球决赛的资格。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hammer；
 > - Can you hold this nail in position while I hammer it into the door? `[例]`

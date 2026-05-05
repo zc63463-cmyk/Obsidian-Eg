@@ -144,6 +144,8 @@ pocket 源自古法语 *poque*（小袋），可能与 poke（袋子）同源，
 
 > [!example]- 语料
 > - She thrust her hands deep in her pockets. `[例]`
+>   - 中译：【需人工审核】pocket 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pocket
   - 中译：她把双手深深地插进口袋里。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pocket；
 > - I slipped the note into my pocket. `[例]`

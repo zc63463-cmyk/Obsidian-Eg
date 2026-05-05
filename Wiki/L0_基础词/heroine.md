@@ -130,6 +130,8 @@ review_count: 0
 
 > [!example]- 语料
 > - She is remembered as a heroine of the French Resistance. `[例]`
+>   - 中译：【需人工审核】heroine 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/heroine
   - 中译：她作为法国抵抗运动的女英雄被人们铭记。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/heroine；
 > - The nursery nurse who protected the children was hailed a heroine. `[例]`

@@ -126,16 +126,17 @@ review_count: 0
 
 > [!example]- 语料
 > - For this reason, caravanserais were strategically placed 9 they could be reached in a day's travel time. `[真题]`
->   - 中译：出于这个原因，商队旅馆被战略性地放置在一天的旅行时间内即可到达的 9 个地方。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/reach
+>   - 中译：【需人工审核】与 reach 相关的例句。
 > - They finally reached the coast after five weeks sailing. `[例]`
->   - 中译：经过五个星期的航行，他们终于到达了海岸。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/reach
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/reach
+>   - 中译：【需人工审核】与 reach 相关的例句。
 > - News of his accident had only just reached us. `[例]`
->   - 中译：我们刚刚得知他出事的消息。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/reach
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/reach
+>   - 中译：【需人工审核】与 reach 相关的例句。
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/reach
 
 
 ## 主动产出

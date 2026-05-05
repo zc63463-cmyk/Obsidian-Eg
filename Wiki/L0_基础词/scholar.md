@@ -131,6 +131,8 @@ schol-（=school，源自希腊语 *skholē* 闲暇/学校）+ -ar（名词后�
 
 > [!example]- 语料
 > - She is a distinguished scholar in the field of Renaissance literature and has published numerous books on Shakespeare. `[真题]`
+>   - 中译：【需人工审核】scholar 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/scholar
   - 中译：她是文艺复兴文学领域的杰出学者，出版了多部关于莎士比亚的著作。
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/scholar
 > - He was a King's scholar at Eton College. `[例]`

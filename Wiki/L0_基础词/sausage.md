@@ -121,6 +121,8 @@ review_count: 0
 > - Processed meats such as sausages and bacon have been linked to an increased risk of certain diseases. `[COCA-NEWS]`
 > - Bangers and mash is a common British dish consisting of sausages and mashed potatoes. `[COCA-ACAD]`
 > - He cooked pork sausages on the grill until they were brown and crispy. `[例]`
+>   - 中译：【需人工审核】sausage 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sausage
   - 中译：他在烤架上烤猪肉香肠，直到它们变成棕色酥脆。
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sausage
 

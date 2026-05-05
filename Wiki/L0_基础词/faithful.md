@@ -136,6 +136,8 @@ review_count: 0
 > - He captured the first-ever shots of iconic landmarks such as the Tetons, Old Faithful and the Colorado Rockies. `[真题]`
 > - Despite these challenges, Jackson captured dozens of striking photos, ranging from majestic images like his now-famous snapshot 11  of Old Faithful, to casual portraits of expedition members at the camp. `[真题]`
 > - She became one of my dearest and most faithful friends. `[例]`
+>   - 中译：【需人工审核】faithful 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/faithful
   - 中译：她成为了我最亲密、最忠实的朋友之一。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/faithful；
 

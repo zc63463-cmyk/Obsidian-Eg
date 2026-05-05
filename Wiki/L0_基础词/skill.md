@@ -144,6 +144,8 @@ review_count: 0
 
 > [!example]- 语料
 > - Reading and writing are two different skills that need to be developed through practice. `[例]`
+>   - 中译：【需人工审核】skill 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/skill
   - 中译：阅读和写作是两种不同的技能，需要通过练习来培养。；
   - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/skill；
 > - Many jobs today require computer skills and the ability to work with digital tools. `[真题]`

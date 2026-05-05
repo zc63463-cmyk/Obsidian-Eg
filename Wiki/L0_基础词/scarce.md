@@ -125,6 +125,8 @@ review_count: 0
 
 > [!example]- 语料
 > - Jobs are scarce these days. `[例]`
+>   - 中译：【需人工审核】scarce 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/scarce
   - 中译：如今工作很稀缺。
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/scarce
 > - Clean water is scarce in many developing countries. `[COCA-ACAD]`

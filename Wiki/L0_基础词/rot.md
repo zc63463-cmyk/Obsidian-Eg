@@ -125,6 +125,8 @@ review_count: 0
 
 > [!example]- 语料
 > - Without proper preservation, the wood will rot over time. `[真题]`
+>   - 中译：【需人工审核】rot 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rot
   - 中译：没有适当的防腐处理，木材会随着时间腐烂。
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rot
 > - Too much candy will rot your teeth. `[真题]`

@@ -134,6 +134,8 @@ rein 源自古法语 *rene*，拉丁语 *retinae*（皮带，缰绳），日耳�
 
 > [!example]- 语料
 > - Congress must rein in spending. `[真题]`
+>   - 中译：【需人工审核】rein 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rein
   - 中译：国会必须控制开支。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rein；
 > - The government is reining in public expenditure to ensure fiscal stability. `[例]`

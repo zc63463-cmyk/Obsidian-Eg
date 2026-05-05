@@ -129,6 +129,8 @@ review_count: 0
 
 > [!example]- 语料
 > - A starting pistol (= used to signal the start of a race). `[例]`
+>   - 中译：【需人工审核】pistol 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pistol
   - 中译：发令枪（用于发出比赛开始的信号）。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pistol；
 > - A real pistol , she dances rings around the other performers. `[例]`

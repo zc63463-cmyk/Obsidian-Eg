@@ -126,6 +126,8 @@ review_count: 0
 
 > [!example]- 语料
 > - The system is rotten to the core and needs fundamental reform. `[真题]`
+>   - 中译：【需人工审核】rotten 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rotten
   - 中译：这个制度已经腐败透顶，需要根本性的改革。
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rotten
 > - There were some cheap oranges in the market but most of them were rotten. `[真题]`

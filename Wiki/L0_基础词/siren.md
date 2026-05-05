@@ -135,6 +135,8 @@ review_count: 0
 
 > [!example]- 语料
 > - The nation came to a standstill in a two-minute silence, signalled by deafening air-raid sirens. `[例]`
+>   - 中译：【需人工审核】siren 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/siren
   - 中译：全国在震耳欲聋的防空警报声中陷入了为期两分钟的默哀。；
   - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/siren；
 > - The siren song of the open road has always tempted young adventurers to leave home and explore the unknown. `[例]`

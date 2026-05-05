@@ -143,6 +143,8 @@ review_count: 0
 
 > [!example]- 语料
 > - It is impossible that a single shot of education, administered in childhood and early adulthood, will be able to support a sustained, 60-year career. `[真题]`
+>   - 中译：【需人工审核】shot 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/shot
   - 中译：仅在童年和成年早期接受的一次性教育，不可能支撑长达60年的职业生涯。；
   - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/shot；
 > - Police frequent the area day and night, as two months ago, a young man was shot just down the street. `[真题]`

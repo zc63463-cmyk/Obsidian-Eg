@@ -137,6 +137,8 @@ sculp(=sculpt，雕刻，拉丁语 *sculpere*，与 [[scrape]]/[[scratch]] 同�
 
 > [!example]- 语料
 > - Those were the halcyon days of Athens (fifth century BC) when she produced her finest poetry and drama, architecture and sculpture. `[真题]`
+>   - 中译：【需人工审核】sculpture 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sculpture
   - 中译：那是雅典的黄金时代（公元前五世纪），她创造出了最优秀的诗歌和戏剧、建筑和雕塑。
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sculpture
 > - Isamu Noguchi's Kouros is a statuesque assemblage of eight pink marble slabs joined in a delicate balance that evokes an ancient Greek figural sculpture type. `[例]`

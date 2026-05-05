@@ -144,6 +144,8 @@ pater(父亲，[[pater-patri]]) → patron(保护者/赞助人)
 
 > [!example]- 语料
 > - Auchincloss is a longtime patron of the arts. `[真题]`
+>   - 中译：【需人工审核】patron 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/patron
   - 中译：奥金克洛斯是艺术界的长期赞助人。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/patron；
 > - The restaurant's patrons were impressed by the chef's innovative dishes. `[真题]`

@@ -128,6 +128,8 @@ ex-（向外）+ plode（拍手声/发出巨响）→ 向外发出巨响 → 爆
 
 > [!example]- 语料
 > - A bomb exploded at one of the capital's busiest railway stations this morning. `[例]`
+>   - 中译：【需人工审核】explode 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/explode
   - 中译：今天上午，首都最繁忙的火车站之一发生了一起炸弹爆炸。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/explode；
 > - He was driving so fast that his car tyre exploded. `[例]`

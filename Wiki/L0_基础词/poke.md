@@ -128,6 +128,8 @@ review_count: 0
 
 > [!example]- 语料
 > - Two kids were poking a stick into the drain. `[例]`
+>   - 中译：【需人工审核】poke 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/poke
   - 中译：两个孩子正用一根棍子戳下水道。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/poke；
 > - Cathy poked her head round the door to say hello. `[例]`

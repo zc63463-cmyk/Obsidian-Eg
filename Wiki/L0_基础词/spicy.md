@@ -130,6 +130,8 @@ spice(香料) + -y(形容词后缀：充满……的)
 
 > [!example]- 语料
 > - Do you like spicy food? `[例]`
+>   - 中译：【需人工审核】spicy 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/spicy
   - 中译：你喜欢辣的食物吗？；
   - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/spicy；
 > - I love Creole cooking , so hot and spicy. `[例]`

@@ -131,6 +131,8 @@ pleas-（使高兴，拉丁语 *placere*）+ -ure（名词后缀，表示"状态
 
 > [!example]- 语料
 > - His visits gave his grandparents such pleasure. `[例]`
+>   - 中译：【需人工审核】pleasure 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pleasure
   - 中译：他的来访给了祖父母很大的快乐。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pleasure；
 > - Taking pleasure in simple things will help you relax. `[例]`

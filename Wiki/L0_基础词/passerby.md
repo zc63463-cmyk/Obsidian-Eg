@@ -131,6 +131,8 @@ review_count: 0
 
 > [!example]- 语料
 > - A passerby saw the accident and stopped to help. `[例]`
+>   - 中译：【需人工审核】passerby 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/passerby
   - 中译：一位路人看到了事故，停下来帮忙。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/passer-by；
 > - The child was located in the middle of the road by a passerby who contacted PSP. `[例]`

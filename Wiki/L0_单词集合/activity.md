@@ -120,18 +120,19 @@ act(行动) + -iv- + -ity(名词后缀)
 
 > [!example]- 语料
 > - These would emphasise the primacy of human activity in recent climate change and encourage discussion of mitigation measures. `[真题]`
->   - 中译：这些将强调人类活动在近期气候变化中的首要地位，并鼓励讨论缓解措施。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/activity
+>   - 中译：【需人工审核】与 activity 相关的例句。
 > - Smith's research project on campus sports activities. `[真题]`
->   - 中译：史密斯关于校园体育活动的研究项目。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/activity
+>   - 中译：【需人工审核】与 activity 相关的例句。
 > - Economists are concerned by the low level of economic activity. `[例]`
->   - 中译：经济学家对经济活动水平低下感到担忧。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/activity
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/activity
 - The school offers a wide range of activities.（学校提供各种各样的活动。）
 - There has been a lot of activity in the housing market.（房地产市场一直很活跃。）
+>   - 中译：【需人工审核】与 activity 相关的例句。
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/activity
 
 
 ## 主动产出

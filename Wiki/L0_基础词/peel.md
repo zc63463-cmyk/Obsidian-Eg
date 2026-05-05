@@ -139,6 +139,8 @@ review_count: 0
 
 > [!example]- 语料
 > - No call to care, finally, could be too mundane; what could be more ordinary than peeling an egg? `[例]`
+>   - 中译：【需人工审核】peel 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/peel
   - 中译：归根结底，没有哪种关怀能太过平凡；还有什么比剥鸡蛋更普通的事呢？；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/peel；
 > - Ramon peeled his sweaty shirt off and hung it on a chair to dry. `[例]`

@@ -130,6 +130,8 @@ per-（始终，贯穿，[[per]]）+ man（停留，拉丁语 *manere*）+ -ent�
 
 > [!example]- 语料
 > - The researchers proposed a permanent solution to the problem. `[例]`
+>   - 中译：【需人工审核】permanent 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/permanent
   - 中译：研究人员提出了一个永久性的解决方案。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/permanent；
 > - They are now living together on a permanent basis. `[例]`

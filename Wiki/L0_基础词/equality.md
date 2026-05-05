@@ -125,6 +125,8 @@ review_count: 0
 
 > [!example]- 语料
 > - Equality between the sexes. `[例]`
+>   - 中译：【需人工审核】equality 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/equality
   - 中译：男女平等。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/equality；
 > - She works as an adviser on equality and diversity at the Institute of Personnel and Development. `[例]`

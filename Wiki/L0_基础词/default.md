@@ -132,6 +132,8 @@ review_count: 0
 
 > [!example]- 语料
 > - People who default on their mortgage repayments may have their home repossessed. `[例]`
+>   - 中译：【需人工审核】default 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/default
   - 中译：拖欠抵押贷款还款的人可能会被收回房屋。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/default；
 > - He moved into the next round after his opponent defaulted because of injury. `[例]`

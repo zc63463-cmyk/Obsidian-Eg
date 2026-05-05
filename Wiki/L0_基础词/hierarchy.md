@@ -130,6 +130,8 @@ review_count: 0
 
 > [!example]- 语料
 > - Some monkeys have a very complex social hierarchy. `[例]`
+>   - 中译：【需人工审核】hierarchy 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hierarchy
   - 中译：一些猴子有着非常复杂的社会等级制度。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hierarchy；
 > - Every organization has a hierarchy, and trying to understand that, and the systems and processes of the organization , is important. `[例]`

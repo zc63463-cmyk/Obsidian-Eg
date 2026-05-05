@@ -121,6 +121,8 @@ review_count: 0
 
 > [!example]- 语料
 > - Carbon dioxide , the byproduct of respiration of all living animals, is particularly attractive. `[例]`
+>   - 中译：【需人工审核】dioxide 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/dioxide
   - 中译：二氧化碳是所有活体动物呼吸的副产品，尤其具有吸引力。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/dioxide；
 > - The fear of a refinery spewing sulfur- dioxide soot and unleashing acid rain, Yoder said, was enough to prompt the county health department to create a pollution-control office to enforce air-quality regulations and end the refinery plans. `[例]`

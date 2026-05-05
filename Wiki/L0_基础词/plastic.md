@@ -132,6 +132,8 @@ review_count: 0
 
 > [!example]- 语料
 > - Those flowers aren't real - they're made of plastic. `[例]`
+>   - 中译：【需人工审核】plastic 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/plastic
   - 中译：那些花不是真的——是塑料做的。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/plastic；
 > - The company has moved into plastics. `[例]`

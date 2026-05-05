@@ -135,6 +135,8 @@ plur-(=plus/pluralis, 更多/复数，拉丁语 *plus*/*pluralis*) + -al(形容�
 
 > [!example]- 语料
 > - Geese" is the plural of " goose ". `[例]`
+>   - 中译：【需人工审核】plural 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/plural
   - 中译：“Geese”是“goose”的复数形式。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/plural；
 > - Woman" in the plural is "women". `[例]`

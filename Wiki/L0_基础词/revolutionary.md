@@ -132,6 +132,8 @@ re-(向后/回) + volut(=volvere, 滚/转) + -ion(名词后缀) + -ary(形容词
 
 > [!example]- 语料
 > - The researchers proposed a revolutionary solution to the problem. `[例]`
+>   - 中译：【需人工审核】revolutionary 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/revolutionary
   - 中译：研究人员提出了一个革命性的解决方案。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/revolutionary；
 > - The company adopted a revolutionary approach to improve efficiency. `[例]`

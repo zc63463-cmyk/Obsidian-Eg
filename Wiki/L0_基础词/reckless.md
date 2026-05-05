@@ -128,6 +128,8 @@ reck（注意，在乎，源自古英语 *recan*，关心/注意）+ -less（否
 
 > [!example]- 语料
 > - The driver of the car was arrested for reckless driving after running a red light at high speed. `[例]`
+>   - 中译：【需人工审核】reckless 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/reckless
   - 中译：那辆车的司机因高速闯红灯被以鲁莽驾驶罪逮捕。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/reckless；
 > - The company's reckless spending habits ultimately led to its bankruptcy and the loss of thousands of jobs. `[例]`

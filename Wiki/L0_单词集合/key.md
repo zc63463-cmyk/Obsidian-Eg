@@ -153,16 +153,17 @@ review_count: 0
 
 > [!example]- 语料
 > - Still, the decision was largely accepted-and Jackson's photos played a key role in the fight to protect the area. `[真题]`
->   - 中译：尽管如此，这个决定还是被广泛接受了——杰克逊的照片在保护该地区的斗争中发挥了关键作用。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/key
+>   - 中译：【需人工审核】与 key 相关的例句。
 > - Give me the car keys - you're in no fit state to drive. `[例]`
->   - 中译：把车钥匙给我——你现在不适合开车。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/key
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/key
+>   - 中译：【需人工审核】与 key 相关的例句。
 > - She fumbled around in her handbag , looking for her key. `[例]`
->   - 中译：她在手提包里摸索着寻找钥匙。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/key
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/key
+>   - 中译：【需人工审核】与 key 相关的例句。
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/key
 
 
 ## 主动产出

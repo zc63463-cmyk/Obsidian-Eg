@@ -122,16 +122,17 @@ review_count: 0
 
 > [!example]- 语料
 > - The proper procedures for renting out spare houses. `[真题]`
->   - 中译：出租闲置房屋的正确程序。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/procedure
+>   - 中译：【需人工审核】与 procedure 相关的例句。
 > - The company has new procedures for deal ing with complaints. `[例]`
->   - 中译：该公司制定了新的投诉处理程序。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/procedure
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/procedure
+>   - 中译：【需人工审核】与 procedure 相关的例句。
 > - You must follow correct procedure at all times. `[例]`
->   - 中译：您必须始终遵循正确的程序。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/procedure
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/procedure
+>   - 中译：【需人工审核】与 procedure 相关的例句。
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/procedure
 
 
 ## 主动产出

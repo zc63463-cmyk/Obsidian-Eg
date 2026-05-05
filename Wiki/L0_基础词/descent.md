@@ -127,6 +127,8 @@ review_count: 0
 
 > [!example]- 语料
 > - There are more than a hundred million people of African descent in Latin America. `[例]`
+>   - 中译：【需人工审核】descent 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/descent
   - 中译：飞机平稳地降落。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/descent；
 > - The disease is most common among people of northern European descent. `[例]`

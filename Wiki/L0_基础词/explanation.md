@@ -128,6 +128,8 @@ ex-（完全/向外）+ plan（平坦/清楚）+ -ation（名词后缀）→ 完
 
 > [!example]- 语料
 > - This is a good explanation of the difference between " affect " and " effect ". `[例]`
+>   - 中译：【需人工审核】explanation 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/explanation
   - 中译：这是对“affect”和“effect”之间区别的一个很好的解释。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/explanation；
 > - Could you give me a quick explanation of how it works? `[例]`

@@ -128,6 +128,8 @@ review_count: 0
 
 > [!example]- 语料
 > - They came to America after being persecuted for their religious beliefs. `[真题]`
+>   - 中译：【需人工审核】persecute 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/persecute
   - 中译：他们因宗教信仰受到迫害后来到了美国。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/persecute；
 > - For three years after DNA evidence proved his innocence, the authorities persisted in persecuting him. `[例]`

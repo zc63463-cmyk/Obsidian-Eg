@@ -135,6 +135,8 @@ gl-（光/视觉词根，印欧语系 *ghel-* "发光"）+ -ance（名词后缀�
 > - He glanced up from his book as I passed. `[真题]`
 > - I only had time to glance through the newspaper headlines. `[真题]`
 > - The sunlight glanced off the surface of the lake. `[例]`
+>   - 中译：【需人工审核】glance 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/glance
   - 中译：阳光从湖面上掠过。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/glance；
 

@@ -132,6 +132,8 @@ in-(=not, 不) + [[fin]](=end/boundary, 终结/界限) + -ite(形容词后缀) �
 
 > [!example]- 语料
 > - The universe is theoretically infinite. `[例]`
+>   - 中译：【需人工审核】infinite 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/infinite
   - 中译：从理论上讲，宇宙是无限的。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/infinite；
 > - A potentially infinite number of sentences might occur in any language. `[例]`

@@ -135,6 +135,8 @@ review_count: 0
 
 > [!example]- 语料
 > - Many buildings were badly damaged during the war. `[例]`
+>   - 中译：【需人工审核】damage 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/damage
   - 中译：许多建筑在战争中遭到严重破坏。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/damage；
 > - It was a scandal that damaged a lot of reputations. `[例]`

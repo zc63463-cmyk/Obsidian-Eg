@@ -134,17 +134,18 @@ re-(回) + strict(束缚，拉丁语 *stringere* 的过去分词 *strictus*) →
 
 > [!example]- 语料
 > - The state L egislature recently · voted against a bill that would've made it illegal for towns to create legislation restricting short-term rentals. `[真题]`
->   - 中译：州立法机关最近投票反对一项法案，该法案将使城镇制定限制短期租赁的立法成为非法。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/restrict
+>   - 中译：【需人工审核】与 restrict 相关的例句。
 > - Therefore , unless customer:; are prepared to sign release agreements , the use of AI may become somewhat restricted in the future. `[真题]`
->   - 中译：因此，除非客户：；准备签署发布协议，未来人工智能的使用可能会受到一定程度的限制。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/restrict
+>   - 中译：【需人工审核】与 restrict 相关的例句。
 > - The government has restricted freedom of movement into and out of the country. `[例]`
->   - 中译：政府限制进出该国的行动自由。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/restrict
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/restrict
+>   - 中译：【需人工审核】与 restrict 相关的例句。
 
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/restrict
 
 ## 主动产出
 

@@ -130,6 +130,8 @@ review_count: 0
 
 > [!example]- 语料
 > - I would like to express my gratitude to everyone for their hard work. `[例]`
+>   - 中译：【需人工审核】gratitude 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/gratitude
   - 中译：我想对每个人的辛勤工作表示感谢。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/gratitude；
 > - The family turned to social media expressing their gratitude, saying, 'From the bottom of our hearts, we would like to deeply thank each and every person that stopped by! `[真题]`

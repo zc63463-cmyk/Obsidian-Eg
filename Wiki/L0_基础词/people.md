@@ -134,6 +134,8 @@ people 源自拉丁语 *populus*（人民、民族），经由古法语 *peple* 
 
 > [!example]- 语料
 > - Many people believe that technology will eventually solve our environmental problems. `[例]`
+>   - 中译：【需人工审核】people 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/people
   - 中译：许多人相信技术最终将解决我们的环境问题。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/people；
 > - The government of the people, by the people, for the people, shall not perish from the earth. `[例]`

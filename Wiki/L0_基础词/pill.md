@@ -128,6 +128,8 @@ pill(药丸，源自拉丁语 *pilula* "小球")
 
 > [!example]- 语料
 > - I couldn't go to sleep so I took a sleeping pill. `[例]`
+>   - 中译：【需人工审核】pill 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pill
   - 中译：我睡不着，所以吃了一片安眠药。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pill；
 > - She had been on the pill for three years. `[例]`

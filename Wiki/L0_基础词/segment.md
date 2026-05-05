@@ -133,6 +133,8 @@ seg(=sect，切，拉丁语 *secare*，"切割"，与 [[section]]/[[sector]]/[[s
 
 > [!example]- 语料
 > - Rarely do members of a particular market segment group themselves neatly into a meaningful program target. `[真题]`
+>   - 中译：【需人工审核】segment 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/segment
   - 中译：特定市场细分群体的成员很少能整齐地归类为一个有意义的计划目标。
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/segment
 > - It is in no one's interest to keep a large segment of the population on the margins of society. `[真题]`

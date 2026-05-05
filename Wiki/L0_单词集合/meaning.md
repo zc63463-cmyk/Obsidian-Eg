@@ -135,16 +135,17 @@ review_count: 0
 
 > [!example]- 语料
 > - In your essay , you should 1) describe the picture briefly, 2 ) interpret the implied meaning , and 3) give your comments. `[真题]`
->   - 中译：在你的文章中，你应该1）简要描述图片，2）解释隐含的含义，3）给出你的评论。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/meaning
+>   - 中译：【需人工审核】与 meaning 相关的例句。
 > - The word " flight " has two different meanings: a plane journey , and the act of running away. `[例]`
->   - 中译：“飞行”一词有两种不同的含义：飞机旅行和逃跑的行为。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/meaning
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/meaning
+>   - 中译：【需人工审核】与 meaning 相关的例句。
 > - The meaning of his gesture was clear. `[例]`
->   - 中译：他这个手势的意思很明显。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/meaning
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/meaning
+>   - 中译：【需人工审核】与 meaning 相关的例句。
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/meaning
 
 
 ## 主动产出

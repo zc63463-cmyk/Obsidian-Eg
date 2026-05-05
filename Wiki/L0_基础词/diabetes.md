@@ -117,6 +117,8 @@ review_count: 0
 
 > [!example]- 语料
 > - Diabetes is diagnosed with a blood test. `[例]`
+>   - 中译：【需人工审核】diabetes 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/diabetes
   - 中译：糖尿病通过血液检测来诊断。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/diabetes；
 > - He had developed diabetes and high blood pressure. `[例]`

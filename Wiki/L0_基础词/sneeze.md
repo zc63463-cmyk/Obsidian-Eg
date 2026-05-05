@@ -126,6 +126,8 @@ sneeze 源自古英语 *fnēosan*（打喷嚏），与中古英语 *snesen* 同�
 
 > [!example]- 语料
 > - Cats make him sneeze - I think he's allergic to them. `[例]`
+>   - 中译：【需人工审核】sneeze 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sneeze
   - 中译：猫让他打喷嚏——我觉得他对猫过敏。；
   - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/sneeze；
 > - He has all the classic symptoms of a cold - the coughs and sneezes and the sore throat. `[例]`

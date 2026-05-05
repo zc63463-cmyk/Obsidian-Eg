@@ -134,16 +134,17 @@ review_count: 0
 
 > [!example]- 语料
 > - Glenn Branch, the centre's deputy director, cautions that setting state-level science standards is only one limited benchmark in a country that decentralises decisions to local school bo.ards. `[真题]`
->   - 中译：该中心副主任格伦·布兰奇（Glenn Branch）警告说，在一个将决策权力下放给地方学校董事会的国家，制定国家级科学标准只是一个有限的基准。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/decision
+>   - 中译：【需人工审核】与 decision 相关的例句。
 > - Still, the decision was largely accepted-and Jackson's photos played a key role in the fight to protect the area. `[真题]`
->   - 中译：尽管如此，这个决定还是被广泛接受了——杰克逊的照片在保护该地区的斗争中发挥了关键作用。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/decision
+>   - 中译：【需人工审核】与 decision 相关的例句。
 > - She has had to make some very difficult decisions. `[例]`
->   - 中译：她不得不做出一些非常困难的决定。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/decision
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/decision
+>   - 中译：【需人工审核】与 decision 相关的例句。
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/decision
 
 
 ## 主动产出

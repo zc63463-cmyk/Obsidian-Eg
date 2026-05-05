@@ -127,6 +127,8 @@ review_count: 0
 
 > [!example]- 语料
 > - Many employees derive greater satisfaction from meaningful work and recognition than from financial rewards alone. `[真题]`
+>   - 中译：【需人工审核】satisfaction 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/satisfaction
   - 中译：许多员工从有意义的工作和认可中获得的满足感，远超单纯的金钱回报。
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/satisfaction
 > - The consumer protection law ensures that buyers can seek satisfaction from manufacturers for defective products. `[真题]`

@@ -137,6 +137,8 @@ plunge 源自拉丁语 *plumbicare*（使铅垂下），与 [[plumb]]（铅）�
 
 > [!example]- 语料
 > - We ran down to the beach and plunged into the sea. `[例]`
+>   - 中译：【需人工审核】plunge 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/plunge
   - 中译：我们跑到海滩，纵身跳入大海。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/plunge；
 > - The car went out of control and plunged over the cliff. `[例]`

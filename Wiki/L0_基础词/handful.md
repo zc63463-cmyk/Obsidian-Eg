@@ -127,6 +127,8 @@ handful = [[hand]]（手）+ [[full]]（满的）。手握满 = 一把。这是�
 
 > [!example]- 语料
 > - He pulled out a handful of coins from his pocket. `[例]`
+>   - 中译：【需人工审核】handful 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/handful
   - 中译：他从口袋里掏出一把硬币。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/handful；
 > - She invited all her friends to her party , but only a handful of them turned up. `[例]`

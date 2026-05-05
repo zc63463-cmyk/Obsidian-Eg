@@ -122,6 +122,8 @@ review_count: 0
 
 > [!example]- 语料
 > - The British Parliament consists of two houses: the House of Lords and the House of Commons. `[例]`
+>   - 中译：【需人工审核】parliament 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/parliament
   - 中译：英国议会由两院组成：上议院和下议院。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/parliament；
 > - Sixteen members of Parliament have formed a breakaway group. `[例]`

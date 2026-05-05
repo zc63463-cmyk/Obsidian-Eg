@@ -128,6 +128,8 @@ re-(再) + [[mark|mark-]](标记) + -able(可以被……的)
 
 > [!example]- 语料
 > - This very remarkable achievement shows that students have no problems with absorbing, mastering, and utilizing very large volumes of new and complex material. `[真题]`
+>   - 中译：【需人工审核】remarkable 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/remarkable
   - 中译：这一非凡的成就表明，学生在吸收、掌握和运用大量新的复杂材料方面没有任何问题。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/remarkable；
 > - Remarkable progress has been achieved in developing environmental awareness in the business community. `[真题]`

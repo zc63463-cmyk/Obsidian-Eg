@@ -127,6 +127,8 @@ rig-(=rigid, 僵硬/直立) + -[[id-ident|id]](形容词后缀，表示状态)
 
 > [!example]- 语料
 > - The researchers proposed a rigid solution to the problem. `[例]`
+>   - 中译：【需人工审核】rigid 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rigid
   - 中译：研究人员提出了一个死板的解决方案。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rigid；
 > - The company adopted a rigid approach to improve efficiency. `[例]`

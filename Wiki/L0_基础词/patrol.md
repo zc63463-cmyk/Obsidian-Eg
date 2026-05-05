@@ -139,6 +139,8 @@ patri(父亲/保护者) + rol(轮转) → 保护者来回轮转 → 巡逻
 
 > [!example]- 语料
 > - Prison officers continued to patrol the grounds within the jail. `[真题]`
+>   - 中译：【需人工审核】patrol 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/patrol
   - 中译：监狱工作人员继续在监狱内巡逻场地。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/patrol；
 > - Every police car and foot patrol in the area is on full alert. `[真题]`

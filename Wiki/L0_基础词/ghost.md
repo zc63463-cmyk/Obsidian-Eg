@@ -140,6 +140,8 @@ ghost 源自古英语 *gāst*（灵魂、气息），与德语 *Geist*（精神�
 > [!example]- 语料
 > - Around 80 percent of celebrity books are ghosted. `[真题]`
 > - The cabin was built from durable ghost gathered in the region. `[例]`
+>   - 中译：【需人工审核】ghost 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ghost
   - 中译：这座小屋是用该地区采集的耐久幽灵木建造的。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ghost；
 > - A line of ghost trees rose above the morning fog. `[例]`

@@ -123,6 +123,8 @@ deino-(恐怖的，希腊语 *deinos* "恐怖的") + [[saur|saur-]](蜥蜴，希
 
 > [!example]- 语料
 > - He uncovered and collected several specimens of fossilized dinosaur bones and teeth. `[例]`
+>   - 中译：【需人工审核】dinosaur 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/dinosaur
   - 中译：他发掘并收集了几块恐龙骨骼和牙齿的化石标本。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/dinosaur；
 > - This computer's a dinosaur, isn't it? `[例]`

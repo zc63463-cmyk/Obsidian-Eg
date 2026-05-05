@@ -135,16 +135,17 @@ review_count: 0
 
 > [!example]- 语料
 > - One of the turning points in public support for land conservation efforts-and recognizing the magnificence of the Yellowstone region in particular-came in the form of vivid photographs. `[真题]`
->   - 中译：公众支持土地保护工作的转折点之一——尤其是认识到黄石地区的壮丽——以生动的照片的形式出现。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/effort
+>   - 中译：【需人工审核】与 effort 相关的例句。
 > - If we could all make an effort to keep this office tidier it would help. `[例]`
->   - 中译：如果我们都能努力保持这个办公室整洁，那将会有所帮助。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/effort
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/effort
+>   - 中译：【需人工审核】与 effort 相关的例句。
 > - You can't expect to have any friends if you don't make the effort with people. `[例]`
->   - 中译：如果你不努力与人交往，你就不能指望有任何朋友。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/effort
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/effort
+>   - 中译：【需人工审核】与 effort 相关的例句。
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/effort
 
 
 ## 主动产出

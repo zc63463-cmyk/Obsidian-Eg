@@ -137,6 +137,8 @@ review_count: 0
 
 > [!example]- 语料
 > - The parliamentary session is due to end on 27 May. `[例]`
+>   - 中译：【需人工审核】session 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/session
   - 中译：议会会议定于5月27日结束。
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/session
 > - The UN Security Council met in emergency session to discuss the crisis. `[例]`

@@ -141,6 +141,8 @@ review_count: 0
 
 > [!example]- 语料
 > - But brain researchers have discovered that when we consciously develop new habits, we create parallel paths, and even entirely new brain cells, that can jump our trains of thought onto new, innovative tracks. `[真题]`
+>   - 中译：【需人工审核】path 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/path
   - 中译：但是大脑研究人员发现，当我们有意识地培养新习惯时，我们会创造平行的路径，甚至全新的脑细胞，可以将我们的思维列车切换到新的、创新的轨道上。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/path；
 > - The cabin was built from durable path gathered in the region. `[例]`

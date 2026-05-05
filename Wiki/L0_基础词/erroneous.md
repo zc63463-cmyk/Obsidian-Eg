@@ -127,6 +127,8 @@ review_count: 0
 
 > [!example]- 语料
 > - He seems to be under the erroneous impression that she is in love with him. `[例]`
+>   - 中译：【需人工审核】erroneous 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/erroneous
   - 中译：他似乎错误地以为她爱他。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/erroneous；
 > - The theory is based on several erroneous beliefs. `[例]`

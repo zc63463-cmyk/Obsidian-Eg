@@ -129,6 +129,8 @@ review_count: 0
 
 > [!example]- 语料
 > - Only two senators voted against the bill. `[例]`
+>   - 中译：【需人工审核】senator 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/senator
   - 中译：只有两名参议员投票反对该法案。
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/senator
 > - It's a pleasure to meet you, Senator. `[例]`

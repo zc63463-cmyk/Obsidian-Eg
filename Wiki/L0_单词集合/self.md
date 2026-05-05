@@ -135,16 +135,17 @@ review_count: 0
 
 > [!example]- 语料
 > - She expresses self-contradictory views. `[真题]`
->   - 中译：她表达了自相矛盾的观点。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/self
+>   - 中译：【需人工审核】与 self 相关的例句。
 > - The hero of the movie finally finds his true self (= discovers what his true personality and feelings are). `[例]`
->   - 中译：电影的主人公终于找到了自己的真实自我（=发现了自己的真实性格和感受）。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/self
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/self
+>   - 中译：【需人工审核】与 self 相关的例句。
 > - She's not her customary cheerful self today. `[例]`
->   - 中译：今天的她，不再是平时那种开朗的样子了。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/self
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/self
+>   - 中译：【需人工审核】与 self 相关的例句。
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/self
 
 
 ## 主动产出

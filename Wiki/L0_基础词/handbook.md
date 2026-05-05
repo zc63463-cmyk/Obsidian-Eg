@@ -124,6 +124,8 @@ handbook = [[hand]]（手）+ [[book]]（书）。这是一个典型的复合词
 
 > [!example]- 语料
 > - The student handbook gives details of all courses. `[例]`
+>   - 中译：【需人工审核】handbook 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/handbook
   - 中译：学生手册提供了所有课程的详细信息。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/handbook；
 > - The student handbook describes all the campus activities. `[例]`

@@ -133,16 +133,17 @@ ex-(向外) + [[ist]](站立) = exist（向外站立→存在）
 
 > [!example]- 语料
 > - She exaggerates the existing panic. `[真题]`
->   - 中译：她夸大了现有的恐慌。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/exist
+>   - 中译：【需人工审核】与 exist 相关的例句。
 > - Citation cartels, where journals, authors, and institutions conspire to inflate citation numbers , have existed for a long time. `[真题]`
->   - 中译：期刊、作者和机构合谋夸大引用数量的引用卡特尔已经存在很长时间了。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/exist
+>   - 中译：【需人工审核】与 exist 相关的例句。
 > - I don't think ghosts exist. `[例]`
->   - 中译：我不认为鬼存在。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/exist
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/exist
+>   - 中译：【需人工审核】与 exist 相关的例句。
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/exist
 
 
 ## 主动产出

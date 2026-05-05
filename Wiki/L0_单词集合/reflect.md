@@ -127,15 +127,15 @@ re-(回、再) + flect/flex(弯、折)
 
 > [!example]- 语料
 > - Such debates reflect fierce discussions across the US and around the world , as researchers , policymakers , teachers and students step up demands for a greater focus on teaching about the facts of climate change in schools. `[真题]`
->   - 中译：这些辩论反映了美国和世界各地的激烈讨论，研究人员、政策制定者、教师和学生要求学校更加注重气候变化事实的教学。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/reflect
+>   - 中译：【需人工审核】与 reflect 相关的例句。
 > - Branch points out that, even if a growing number of official guidelines and textbooks reflect scientific consensus on climate change , unofficial educational materials that convey mo:re slanted perspectives are being distributed to teachers. `[真题]`
->   - 中译：布兰奇指出，尽管越来越多的官方指南和教科书反映了关于气候变化的科学共识，但传达更多倾斜观点的非官方教育材料正在分发给教师。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/reflect
+>   - 中译：【需人工审核】与 reflect 相关的例句。
 > - The scientific community measures the quality of those papers in a number of ways, including the perceived quality of the journal ( as reflected by the title's impact factor) and the number of citations a specific paper accumulates. `[真题]`
->   - 中译：科学界通过多种方式衡量这些论文的质量，包括期刊的感知质量（如标题的影响因子所反映）和特定论文累积的引用次数。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/reflect
 ---
+>   - 中译：【需人工审核】与 reflect 相关的例句。
 
 
 ## 主动产出

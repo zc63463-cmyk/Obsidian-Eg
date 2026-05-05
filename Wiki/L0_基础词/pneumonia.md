@@ -126,6 +126,8 @@ pneumon-(肺，希腊语 *pneumōn*) + -ia(疾病/状态后缀)
 
 > [!example]- 语料
 > - People who are bedridden can easily get pneumonia. `[例]`
+>   - 中译：【需人工审核】pneumonia 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pneumonia
   - 中译：卧床不起的人很容易得肺炎。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pneumonia；
 > - She'll catch pneumonia going out without a coat in this weather! `[例]`

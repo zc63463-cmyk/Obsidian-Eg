@@ -138,6 +138,8 @@ review_count: 0
 
 > [!example]- 语料
 > - The news shocked the whole country and sparked widespread protests. `[真题]`
+>   - 中译：【需人工审核】shock 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/shock
   - 中译：这个消息震惊了全国，引发了广泛的抗议。；
   - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/shock；
 > - Her mother's death came as a great shock - it was so unexpected. `[例]`

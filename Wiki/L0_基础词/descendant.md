@@ -123,6 +123,8 @@ review_count: 0
 
 > [!example]- 语料
 > - He has no descendants. `[例]`
+>   - 中译：【需人工审核】descendant 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/descendant
   - 中译：她是维多利亚女王的直系后裔。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/descendant；
 > - They claim to be descendants of a French duke. `[例]`

@@ -135,6 +135,8 @@ review_count: 0
 
 > [!example]- 语料
 > - TED uses a shrewd combination of paid-for and free products, the purpose of the latter being to generate buzz. `[例]`
+>   - 中译：【需人工审核】shrewd 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/shrewd
   - 中译：TED巧妙地将付费产品和免费产品结合在一起，后者的目的是制造话题热度。；
   - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/shrewd；
 > - These are shrewd observations, well worth raising for debate. `[例]`

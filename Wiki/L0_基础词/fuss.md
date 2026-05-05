@@ -128,6 +128,8 @@ review_count: 0
 
 > [!example]- 语料
 > - Don't make a fuss about such a trivial matter. `[例]`
+>   - 中译：【需人工审核】fuss 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fuss
   - 中译：不要为这么琐碎的事情大惊小怪。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fuss；
 > - She fussed over her children constantly, worrying about every little thing. `[例]`

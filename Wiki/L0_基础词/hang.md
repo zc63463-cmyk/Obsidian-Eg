@@ -131,6 +131,8 @@ hang 源自古英语两个动词的融合：*hon*（及物动词，"悬挂"，�
 
 > [!example]- 语料
 > - A large bunch of keys was hanging from her belt. `[例]`
+>   - 中译：【需人工审核】hang 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hang
   - 中译：一大串钥匙挂在她腰间。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hang；
 > - Hanging meat is really important to the quality of the meat , and is the first stage of good butchery. `[例]`

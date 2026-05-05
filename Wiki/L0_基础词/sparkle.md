@@ -128,6 +128,8 @@ spark(火花) + -le(反复动词后缀，表示反复/连续的小动作)
 
 > [!example]- 语料
 > - Alice is shy and quiet at parties , but her sister really sparkles! `[例]`
+>   - 中译：【需人工审核】sparkle 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sparkle
   - 中译：爱丽丝在聚会上害羞安静，但她妹妹却光芒四射！；
   - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/sparkle；
 > - The radiant smile and the sparkle in her blue eyes were the clear signs of a woman still deeply in love. `[例]`

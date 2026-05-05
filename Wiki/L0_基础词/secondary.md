@@ -134,6 +134,8 @@ review_count: 0
 
 > [!example]- 语料
 > - More than five thousand secondary school students have been expelled for cheating. `[真题]`
+>   - 中译：【需人工审核】secondary 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/secondary
   - 中译：已有超过五千名中学生因作弊被开除。
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/secondary
 > - He had kidney cancer, with secondary tumours in the brain and lungs. `[真题]`

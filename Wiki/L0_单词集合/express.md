@@ -135,16 +135,17 @@ ex-(=out, 向外) + press(=压，挤压，拉丁语 *premere*)
 
 > [!example]- 语料
 > - She expresses self-contradictory views. `[真题]`
->   - 中译：她表达了自相矛盾的观点。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/express
+>   - 中译：【需人工审核】与 express 相关的例句。
 > - Her eyes expressed deep sadness. `[例]`
->   - 中译：她的眼神里流露出深深的悲伤。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/express
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/express
+>   - 中译：【需人工审核】与 express 相关的例句。
 > - I would like to express my thanks for your kindness. `[例]`
->   - 中译：我谨对您的好意表示感谢。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/express
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/express
+>   - 中译：【需人工审核】与 express 相关的例句。
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/express
 
 
 ## 主动产出

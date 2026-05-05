@@ -126,6 +126,8 @@ review_count: 0
 
 > [!example]- 语料
 > - The hikers rested under a towering ridge near the coastal trail. `[例]`
+>   - 中译：【需人工审核】ridge 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ridge
   - 中译：徒步旅行者在沿海步道旁一座高耸的山脊下休息。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ridge；
 > - The cabin was built from durable ridge gathered in the region. `[例]`

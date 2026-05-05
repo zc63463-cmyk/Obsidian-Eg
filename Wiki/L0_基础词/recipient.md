@@ -139,6 +139,8 @@ re-（回，向后）+ cip（拿，=capere 的缩略形式）+ -i-（连接元�
 
 > [!example]- 语料
 > - He was the recipient of a distinguished service award for his contribution to public health. `[例]`
+>   - 中译：【需人工审核】recipient 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/recipient
   - 中译：他因对公共健康的贡献而获得了一项杰出服务奖。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/recipient；
 > - The message was never delivered to the intended recipient due to an address error. `[例]`

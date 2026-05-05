@@ -140,6 +140,8 @@ review_count: 0
 
 > [!example]- 语料
 > - Every time one of these big trucks goes by, all the houses shake. `[例]`
+>   - 中译：【需人工审核】shake 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/shake
   - 中译：每次这些大卡车经过时，所有的房子都会震动。；
   - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/shake；
 > - The child's body was shaking with sobs. `[例]`

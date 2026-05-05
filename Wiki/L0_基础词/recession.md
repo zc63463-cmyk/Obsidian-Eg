@@ -137,6 +137,8 @@ re-（向后，往回）+ cess（走，=cedere，拉丁语"行走"）+ -ion（�
 
 > [!example]- 语料
 > - The country is sliding into the depths of (a) recession. `[例]`
+>   - 中译：【需人工审核】recession 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/recession
   - 中译：这个国家正滑入经济衰退的深渊。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/recession；
 > - A lot of companies have been adversely affected by the recession. `[例]`

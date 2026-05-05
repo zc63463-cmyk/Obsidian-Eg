@@ -123,11 +123,11 @@ review_count: 0
 
 > [!example]- 语料
 > - In theory , most phone calls should be traceable. `[例]`
->   - 中译：理论上，大多数电话都应该可以追踪到来源。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/traceable
+>   - 中译：可追踪的。
 > - His medical problems were shown to be traceable to (= to have been caused by) his having been exposed to dangerous chemicals. `[例]`
->   - 中译：他的健康问题被证明可追溯到（=由……引起）他曾经接触过危险化学品。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/traceable
+>   - 中译：可追踪的。
 
 ## 主动产出
 

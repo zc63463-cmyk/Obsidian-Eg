@@ -137,6 +137,8 @@ review_count: 0
 
 > [!example]- 语料
 > - Supporters invaded (= ran onto) the pitch. `[例]`
+>   - 中译：【需人工审核】pitch 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pitch
   - 中译：支持者冲入（跑上）了球场。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pitch；
 > - If you teach children and adults in the same class , it's difficult to get the pitch (= level of difficulty or interest ) right. `[例]`

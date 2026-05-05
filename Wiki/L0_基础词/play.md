@@ -131,6 +131,8 @@ play 源自古英语 *plegan*（运动、活动），与 [[plate]]/[[platform]] 
 
 > [!example]- 语料
 > - Still, the decision was largely accepted-and Jackson's photos played a key role in the fight to protect the area. `[真题]`
+>   - 中译：【需人工审核】play 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/play
   - 中译：尽管如此，这个决定基本上被接受了——杰克逊的照片在保护该地区的斗争中发挥了关键作用。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/play；
 > - The children spent the afternoon playing with their new toys. `[例]`

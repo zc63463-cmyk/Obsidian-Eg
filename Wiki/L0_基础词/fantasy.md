@@ -138,6 +138,8 @@ fantasy 源自中世纪英语 fantasie，来自古法语 fantasie，来自拉丁
 
 > [!example]- 语料
 > - Steve's favourite fantasy was to own a big house and a flashy car. `[例]`
+>   - 中译：【需人工审核】fantasy 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fantasy
   - 中译：史蒂夫最喜欢的幻想是拥有一栋大房子和一辆炫酷的汽车。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fantasy；
 > - She retreated into a fantasy world , where she could be anything she wanted. `[例]`

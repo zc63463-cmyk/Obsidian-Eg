@@ -134,6 +134,8 @@ geo-(=ge, 土地/地球) + [[meter-metr|metr]](=meter, 测量) + -y(名词后缀
 > [!example]- 语料
 > - The geometry of the building is remarkably complex. `[真题]`
 > - The geometry of Sydney's famed opera house is suggestive of some modernistic sailing ship. `[例]`
+>   - 中译：【需人工审核】geometry 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/geometry
   - 中译：悉尼著名歌剧院的几何造型让人联想到某种现代风格的帆船。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/geometry；
 > - He analyzed the geometry of chemical bonds to understand molecular structure. `[例]`

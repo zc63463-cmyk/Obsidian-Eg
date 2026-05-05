@@ -126,16 +126,17 @@ review_count: 0
 
 > [!example]- 语料
 > - Without enough affordable housing in southern New Hampshire towns, "employers are having a hard time attracting employees, and workers are having a hard time finding a place to live, " Taylor said. `[真题]`
->   - 中译：泰勒说，新罕布什尔州南部城镇没有足够的经济适用房，“雇主很难吸引雇员，工人也很难找到住处”。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/employer
+>   - 中译：【需人工审核】与 employer 相关的例句。
 > - She was fired after she was caught stealing from her employer. `[例]`
->   - 中译：她因偷窃雇主物品而被解雇。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/employer
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/employer
+>   - 中译：【需人工审核】与 employer 相关的例句。
 > - He gets paid a good wage , because he works for a fair employer. `[例]`
->   - 中译：他得到了不错的工资，因为他为一个公平的雇主工作。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/employer
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/employer
+>   - 中译：【需人工审核】与 employer 相关的例句。
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/employer
 
 
 ## 主动产出

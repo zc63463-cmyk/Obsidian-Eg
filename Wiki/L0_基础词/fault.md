@@ -141,6 +141,8 @@ review_count: 0
 
 > [!example]- 语料
 > - It's not my fault she didn't come! `[例]`
+>   - 中译：【需人工审核】fault 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fault
   - 中译：她没来不是我的错！；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fault；
 > - She believes it was the doctor's fault that Peter died. `[例]`

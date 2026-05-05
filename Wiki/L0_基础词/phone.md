@@ -129,6 +129,8 @@ phon-/phono-(声音，希腊语 *phōnē*) + -e(名词/动词后缀)
 
 > [!example]- 语料
 > - Mr Jobs was said by an engineer in the early years of Apple to emit a "reality distortion field", such were his powers of persuasion that he could convince anyone of almost anything, even on the phone. `[真题]`
+>   - 中译：【需人工审核】phone 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/phone
   - 中译：据说乔布斯先生在苹果早期被一位工程师描述为会散发出“现实扭曲力场”，他的说服力如此之强，甚至通过电话也能让任何人相信几乎任何事情。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/phone；
 > - The phone rings and a voice says, "You have been selected for a special offer. `[例]`

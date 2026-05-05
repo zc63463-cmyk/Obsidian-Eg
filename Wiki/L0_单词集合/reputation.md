@@ -119,17 +119,18 @@ re-(反复) + [[put|put]](思考、认为) + -ation(名词后缀) → 被反复�
 
 > [!example]- 语料
 > - The carc;ers of scientists and the reputation of their institutions depend on the number and prestige of the papers they produce , but even more so on the citations attracted by these papers. `[真题]`
->   - 中译：科学家的职业生涯及其机构的声誉取决于他们发表的论文的数量和声望，但更取决于这些论文所吸引的引用。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/reputation
+>   - 中译：【需人工审核】与 reputation 相关的例句。
 > - The company has a worldwide reputation for quality. `[例]`
->   - 中译：该公司的质量享誉全球。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/reputation
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/reputation
+>   - 中译：【需人工审核】与 reputation 相关的例句。
 > - She has the reputation of being a good doctor. `[例]`
->   - 中译：她享有“好医生”的美誉。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/reputation
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/reputation
+>   - 中译：【需人工审核】与 reputation 相关的例句。
 
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/reputation
 
 ## 主动产出
 

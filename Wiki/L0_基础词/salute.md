@@ -135,6 +135,8 @@ review_count: 0
 
 > [!example]- 语料
 > - Our scientists and our engineers have carved a most remarkable place for themselves by an achievement which the whole country salutes. `[真题]`
+>   - 中译：【需人工审核】salute 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/salute
   - 中译：我们的科学家和工程师通过一项全国为之喝彩的成就，为自己赢得了极为显著的地位。
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/salute
 > - The statement salutes the changes of the past year. `[例]`

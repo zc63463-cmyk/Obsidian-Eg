@@ -138,16 +138,17 @@ review_count: 0
 
 > [!example]- 语料
 > - Still, the decision was largely accepted-and Jackson's photos played a key role in the fight to protect the area. `[真题]`
->   - 中译：尽管如此，这个决定还是被广泛接受了——杰克逊的照片在保护该地区的斗争中发挥了关键作用。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/accept
+>   - 中译：【需人工审核】与 accept 相关的例句。
 > - Do you accept credit cards? `[例]`
->   - 中译：你们收信用卡吗 ？
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/accept
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/accept
+>   - 中译：【需人工审核】与 accept 相关的例句。
 > - She was in Mumbai to accept an award for her latest novel. `[例]`
->   - 中译：她在孟买接受她最新小说的奖项。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/accept
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/accept
+>   - 中译：【需人工审核】与 accept 相关的例句。
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/accept
 
 
 ## 主动产出

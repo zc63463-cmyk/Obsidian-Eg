@@ -132,6 +132,8 @@ review_count: 0
 
 > [!example]- 语料
 > - The new ramp will facilitate the entry of wheelchairs. `[例]`
+>   - 中译：【需人工审核】facilitate 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/facilitate
   - 中译：新的坡道将方便轮椅进出。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/facilitate；
 > - The current structure does not facilitate efficient work flow. `[例]`

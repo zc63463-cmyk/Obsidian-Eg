@@ -127,6 +127,8 @@ review_count: 0
 
 > [!example]- 语料
 > - The researchers defined the parameters of the study carefully before collecting data. `[例]`
+>   - 中译：【需人工审核】parameter 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/parameter
   - 中译：研究人员在收集数据之前仔细界定了研究的参数。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/parameter；
 > - We need to work within the parameters set by the budget. `[例]`

@@ -134,6 +134,8 @@ harass(骚扰，源自古法语 *harer*，意为"纵狗咬人"，可能来自拟
 
 > [!example]- 语料
 > - Complaints of sexual harassment (= offensive sexual suggestions or actions ) in the workplace have increased in recent years. `[例]`
+>   - 中译：【需人工审核】harassment 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/harassment
   - 中译：近年来，工作场所性骚扰的投诉有所增加。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/harassment；
 > - The company investigated claims of workplace harassment and racial discrimination. `[例]`

@@ -128,6 +128,8 @@ review_count: 0
 
 > [!example]- 语料
 > - She's doing the equivalent job in the new company but for more money. `[例]`
+>   - 中译：【需人工审核】equivalent 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/equivalent
   - 中译：她在新公司做着相当的工作，但薪水更高。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/equivalent；
 > - Is $50 equivalent to about £30? `[例]`

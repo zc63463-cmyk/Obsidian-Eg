@@ -127,6 +127,8 @@ review_count: 0
 
 > [!example]- 语料
 > - He's got a great sense of humour (= he is very able to see things as funny ). `[例]`
+>   - 中译：【需人工审核】humour 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/humour
   - 中译：他很有幽默感（= 他很善于发现事物有趣的一面）。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/humour；
 > - I must say I find his schoolboy (= childish ) humour rather tiresome. `[例]`

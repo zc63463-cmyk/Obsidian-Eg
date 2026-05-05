@@ -141,6 +141,8 @@ review_count: 0
 
 > [!example]- 语料
 > - The trees shed their leaves in the fall. `[真题]`
+>   - 中译：【需人工审核】shed 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/shed
   - 中译：树木在秋天落叶。；
   - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/shed；
 > - She shed no tears when she heard he was dead. `[真题]`

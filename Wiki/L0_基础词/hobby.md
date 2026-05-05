@@ -126,6 +126,8 @@ hobby（源自中古英语 *hobyn* "小马"，是 Robert（Hob）的爱称 + 小
 
 > [!example]- 语料
 > - Angela's hobby is restoring vintage motorcycles. `[例]`
+>   - 中译：【需人工审核】hobby 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hobby
   - 中译：安吉拉的爱好是修复古董摩托车。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hobby；
 > - He needs a hobby to keep him busy and stop him from getting into mischief. `[例]`

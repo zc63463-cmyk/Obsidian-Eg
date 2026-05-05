@@ -127,6 +127,8 @@ review_count: 0
 
 > [!example]- 语料
 > - There were chips on the rim of the plate. `[真题]`
+>   - 中译：【需人工审核】rim 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rim
   - 中译：盘子的边缘有缺口。
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rim
 > - He bought stainless steel rims for his new car. `[真题]`

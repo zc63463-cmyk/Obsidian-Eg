@@ -126,16 +126,17 @@ build 为日耳曼语族基础词汇，与 [[budget]] 同源（都来自"建造/
 
 > [!example]- 语料
 > - They were typically _1_ outside the walls of a city or village and were usually funded by governments or 2 This word " Caravanserais" is 3 a of the Persian word " karv:an" , which means a group of ltravellers or a caravan , and " seray " , a palace or enclosed building. `[真题]`
->   - 中译：它们通常位于 _1_ 城市或村庄的城墙外，通常由政府或 2 资助。 2 这个词“Caravanserais”是波斯语单词“karv:an”的 3 a，意思是一群旅行者或商队，以及“seray”，宫殿或封闭的建筑。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/build
+>   - 中译：【需人工审核】与 build 相关的例句。
 > - I think the question is, shouldn't a dev,eloper who's really building a hotel, but disguising it as not a hotel, be treated and taxed and regulated like a hotel?" Hom said. `[真题]`
->   - 中译：我认为问题是，一个真正在建造酒店但又把它伪装成不是酒店的开发商，难道不应该像酒店一样受到对待、征税和监管吗？”霍姆说。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/build
+>   - 中译：【需人工审核】与 build 相关的例句。
 > - Hom said similar registration requirements could benefit struggling cities and towns , but " if we want to make a change in the housing market, the main one is we have to build a lot more. `[真题]`
->   - 中译：霍姆表示，类似的登记要求可能会让陷入困境的城镇受益，但“如果我们想改变房地产市场，最主要的是我们必须建造更多。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/build
+>   - 中译：【需人工审核】与 build 相关的例句。
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/build
 
 
 ## 主动产出

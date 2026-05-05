@@ -137,6 +137,8 @@ grease 源自古拉丁语 *crassus*（厚的、肥的），经由古法语 *gres
 
 > [!example]- 语料
 > - The dinner plates were thick with grease. `[例]`
+>   - 中译：【需人工审核】grease 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/grease
   - 中译：餐盘上沾满了厚厚的油渍。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/grease；
 > - You'll have to put some grease on those ball bearings. `[例]`

@@ -136,6 +136,8 @@ re-（反对，再次）+ bel（战争，=bellum）+ -ion（名词后缀，表�
 
 > [!example]- 语料
 > - The government has brutally crushed the rebellion. `[例]`
+>   - 中译：【需人工审核】rebellion 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rebellion
   - 中译：政府残酷地镇压了叛乱。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rebellion；
 > - Many students were in rebellion against the older generation. `[例]`

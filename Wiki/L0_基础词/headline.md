@@ -133,6 +133,8 @@ review_count: 0
 
 > [!example]- 语料
 > - The news of his death was splashed in headlines across all the newspapers. `[例]`
+>   - 中译：【需人工审核】headline 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/headline
   - 中译：他去世的消息以大标题刊登在所有报纸上。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/headline；
 > - She has grabbed the headlines by making public accusations of corruption within the government. `[例]`

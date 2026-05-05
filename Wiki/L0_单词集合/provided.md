@@ -144,16 +144,17 @@ review_count: 0
 
 > [!example]- 语料
 > - Perhaps most importantly, the images provided documentary evidence that later made its way to government officials. `[真题]`
->   - 中译：也许最重要的是，这些图像提供了后来交给政府官员的文件证据。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/provided
+>   - 中译：【需人工审核】与 provided 相关的例句。
 > - Provided she commits no offences over the next five years , her conviction will be wiped from her record. `[例]`
->   - 中译：如果她在未来五年内没有犯罪，她的定罪就会从她的记录中抹去。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/provided
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/provided
+>   - 中译：【需人工审核】与 provided 相关的例句。
 > - He's welcome to come along, provided that he behaves himself. `[例]`
->   - 中译：欢迎他来，只要他表现得好。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/provided
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/provided
+>   - 中译：【需人工审核】与 provided 相关的例句。
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/provided
 
 
 ## 主动产出

@@ -137,6 +137,8 @@ hop（古英语 *hoppian* "跳跃、舞蹈"，源自原始日耳曼语 *\*hupnoj
 
 > [!example]- 语料
 > - I tried to hop on my good foot while holding onto Jim. `[例]`
+>   - 中译：【需人工审核】hop 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hop
   - 中译：我扶着吉姆，试图用没受伤的脚单脚跳。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hop；
 > - We hopped over to Bruges for the weekend. `[例]`

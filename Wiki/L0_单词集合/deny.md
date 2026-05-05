@@ -124,16 +124,17 @@ review_count: 0
 
 > [!example]- 语料
 > - She denies the value of scientific work. `[真题]`
->   - 中译：她否认科学工作的价值。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/deny
+>   - 中译：【需人工审核】与 deny 相关的例句。
 > - Neil denies that he broke the window , but I'm sure he did. `[例]`
->   - 中译：尼尔否认他打破了窗户，但我确信他确实打破了。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/deny
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/deny
+>   - 中译：【需人工审核】与 deny 相关的例句。
 > - Neil denies break ing the window. `[例]`
->   - 中译：尼尔否认打破了窗户。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/deny
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/deny
+>   - 中译：【需人工审核】与 deny 相关的例句。
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/deny
 
 
 ## 主动产出

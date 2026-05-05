@@ -129,6 +129,8 @@ review_count: 0
 
 > [!example]- 语料
 > - The river banks were overgrown with reeds. `[真题]`
+>   - 中译：【需人工审核】reed 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/reed
   - 中译：河岸上长满了芦苇。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/reed；
 > - I regret to say that some of our allies today are broken reeds. `[真题]`

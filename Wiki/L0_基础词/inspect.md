@@ -130,6 +130,8 @@ review_count: 0
 
 > [!example]- 语料
 > - After the crash both drivers got out and inspected their cars for damage. `[真题]`
+>   - 中译：【需人工审核】inspect 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/inspect
   - 中译：撞车后，两位司机都下了车检查各自车辆的损坏情况。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/inspect；
 > - The engines are all inspected before they leave the factory. `[真题]`

@@ -124,6 +124,8 @@ re-(=res，事物) + public(公共的) + -an(属于……的/人)
 
 > [!example]- 语料
 > - There is a strong republican movement in the country. `[COCA-NEWS]`
+>   - 中译：【需人工审核】republican 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/republican
   - 中译：该国有着强大的共和运动。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/republican；
 > - Many business leaders were hoping for a Republican victory. `[COCA-NEWS]`

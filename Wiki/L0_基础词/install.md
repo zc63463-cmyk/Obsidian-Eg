@@ -125,6 +125,8 @@ in-(进入) + stall(摊位/固定位置，源自古高地日耳曼语 *stal* "�
 
 > [!example]- 语料
 > - They're planning to install a new drainage system. `[真题]`
+>   - 中译：【需人工审核】install 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/install
   - 中译：他们计划安装一套新的排水系统。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/install；
 > - The opposition candidate was installed as president. `[真题]`

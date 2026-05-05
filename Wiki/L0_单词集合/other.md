@@ -131,16 +131,17 @@ review_count: 0
 
 > [!example]- 语料
 > - In 2016 , researchers developed an algorithm to recognize suspicious citation patterns , including groups of authors that disproportionately cite one another and groups of journals that cite each other frequently to increase the impact factors of their publications. `[真题]`
->   - 中译：2016年，研究人员开发了一种算法来识别可疑的引用模式，包括不成比例地相互引用的作者群体和频繁相互引用以增加其出版物的影响因子的期刊群体。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/other
+>   - 中译：【需人工审核】与 other 相关的例句。
 > - Recently, another expression of this predatory behavior has emerged: so-called support service consultancies that provide language and other editorial support to individual authors and to journals sometimes advise contributors to add a number of citations to their articles. `[真题]`
->   - 中译：最近，这种掠夺行为的另一种表现形式出现了：所谓的支持服务咨询公司为个人作者和期刊提供语言和其他编辑支持，有时会建议撰稿人在他们的文章中添加大量引用。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/other
+>   - 中译：【需人工审核】与 other 相关的例句。
 > - The peculiar part is that the journal that the editor is supposedly working for is not profiting at all-it is just providing citations to other journals. `[真题]`
->   - 中译：奇怪的是，这位编辑所工作的期刊根本没有盈利——它只是提供对其他期刊的引用。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/other
+>   - 中译：【需人工审核】与 other 相关的例句。
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/other
 
 
 ## 主动产出

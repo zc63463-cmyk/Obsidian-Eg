@@ -126,17 +126,18 @@ review_count: 0
 
 > [!example]- 语料
 > - The bill requires every rental host to register with the state , mandates they carry insurance , and opens the potential for local taxes on top of a new state levy. `[真题]`
->   - 中译：该法案要求每个租赁房东向州政府注册，强制他们购买保险，并在新的州征税基础上开辟了征收地方税的可能性。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/insurance
+>   - 中译：【需人工审核】与 insurance 相关的例句。
 > - The insurance doesn't cover you for (= include ) household items. `[例]`
->   - 中译：该保险不承保（= 包括）家居用品。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/insurance
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/insurance
+>   - 中译：【需人工审核】与 insurance 相关的例句。
 > - In the past 10 years , natural disasters caused £105 billion in insurance claims. `[例]`
->   - 中译：过去10年中，自然灾害造成的保险索赔金额达1050亿英镑。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/insurance
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/insurance
+>   - 中译：【需人工审核】与 insurance 相关的例句。
 
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/insurance
 
 ## 主动产出
 

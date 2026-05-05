@@ -132,6 +132,8 @@ review_count: 0
 
 > [!example]- 语料
 > - Cycles cannot be taken on this train. `[例]`
+>   - 中译：【需人工审核】cycle 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/cycle
   - 中译：自行车不能带上这趟火车。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/cycle；
 > - A thousand people took part in the region's biggest-ever cycle race. `[例]`

@@ -130,16 +130,17 @@ review_count: 0
 
 > [!example]- 语料
 > - What does Hom_ emphasize in Paragraph 5? `[真题]`
->   - 中译：Hom_在第5段中强调了什么？
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/emphasize
+>   - 中译：【需人工审核】与 emphasize 相关的例句。
 > - I'd just like to emphasize how important it is for people to learn foreign languages. `[例]`
->   - 中译：我只是想强调人们学习外语的重要性。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/emphasize
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/emphasize
+>   - 中译：【需人工审核】与 emphasize 相关的例句。
 > - He emphasized that all the people taking part in the research were volunteers. `[例]`
->   - 中译：他强调，所有参与研究的人都是志愿者。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/emphasize
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/emphasize
+>   - 中译：【需人工审核】与 emphasize 相关的例句。
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/emphasize
 
 
 ## 主动产出

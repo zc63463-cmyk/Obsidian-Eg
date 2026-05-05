@@ -122,16 +122,17 @@ in-（前缀，含义"在内"）+ [[clud]]（词根，含义"关闭"——来自
 
 > [!example]- 语料
 > - Choose the best word ( s) for each numbered blank and mark A, B , C or D on th ANSWER SHEET. ( 10 points) Caravanserais were roadside inns that were built along the Silk Road in areas including China, North Africa and the Middle East. `[真题]`
->   - 中译：为每个编号的空白处选择最好的单词，并在答题卡上标记 A、B、C 或 D。 ( 10 分) 商队旅馆是沿着丝绸之路沿线建造的路边旅馆，分布于中国、北非和中东等地区。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/include
+>   - 中译：【需人工审核】与 include 相关的例句。
 > - Among the 10 worst performers were some of the most populous states, including Texas , which was given the lowest grade ( F) and has a disproportionate influence because its textbooks are widely sold elsewhere. `[真题]`
->   - 中译：表现最差的 10 个州是一些人口最多的州，其中包括得克萨斯州，该州的评分最低（F），并且由于其教科书在其他地方广泛销售而具有不成比例的影响力。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/include
+>   - 中译：【需人工审核】与 include 相关的例句。
 > - The scientific community measures the quality of those papers in a number of ways, including the perceived quality of the journal ( as reflected by the title's impact factor) and the number of citations a specific paper accumulates. `[真题]`
->   - 中译：科学界通过多种方式衡量这些论文的质量，包括期刊的感知质量（如标题的影响因子所反映）和特定论文累积的引用次数。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/include
+>   - 中译：【需人工审核】与 include 相关的例句。
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/include
 
 
 ## 主动产出

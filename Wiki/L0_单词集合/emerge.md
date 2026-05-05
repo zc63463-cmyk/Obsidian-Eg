@@ -128,16 +128,17 @@ e-/em-(出，向外) + merg(沉没，源自拉丁语 *mergere*) → 从沉没中
 
 > [!example]- 语料
 > - Recently, another expression of this predatory behavior has emerged: so-called support service consultancies that provide language and other editorial support to individual authors and to journals sometimes advise contributors to add a number of citations to their articles. `[真题]`
->   - 中译：最近，这种掠夺行为的另一种表现形式出现了：所谓的支持服务咨询公司为个人作者和期刊提供语言和其他编辑支持，有时会建议撰稿人在他们的文章中添加大量引用。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/emerge
+>   - 中译：【需人工审核】与 emerge 相关的例句。
 > - She emerged from the sea , blue with cold. `[例]`
->   - 中译：她从海里浮出来，脸色因寒冷而发青。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/emerge
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/emerge
+>   - 中译：【需人工审核】与 emerge 相关的例句。
 > - The Prince emerged unscathed from the scandal. `[例]`
->   - 中译：王子在丑闻中毫发无伤。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/emerge
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/emerge
+>   - 中译：【需人工审核】与 emerge 相关的例句。
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/emerge
 
 
 ## 主动产出

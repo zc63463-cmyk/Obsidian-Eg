@@ -138,6 +138,8 @@ sin 源自古英语 *synn*，原始日耳曼语 *sunjō*，可能与拉丁语 *s
 
 > [!example]- 语料
 > - It is a sin to waste food when so many people are starving. `[例]`
+>   - 中译：【需人工审核】sin 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sin
   - 中译：在这么多人挨饿的时候浪费食物是一种罪过。；
   - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/sin；
 > - He knew that he had committed a terrible sin. `[例]`

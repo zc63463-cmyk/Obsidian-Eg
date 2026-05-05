@@ -129,6 +129,8 @@ e-(=ex-, 出/离开) + vacu(=empty, 空，源自拉丁语 *vacuus*) + -ate(动�
 
 > [!example]- 语料
 > - The police evacuated the village shortly before the explosion. `[例]`
+>   - 中译：【需人工审核】evacuate 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/evacuate
   - 中译：警察在爆炸前不久疏散了村民。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/evacuate；
 > - A thousand people were evacuated from their homes following the floods. `[例]`

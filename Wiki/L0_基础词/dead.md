@@ -137,6 +137,8 @@ review_count: 0
 
 > [!example]- 语料
 > - She's been dead for 20 years now. `[例]`
+>   - 中译：【需人工审核】dead 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/dead
   - 中译：她已经去世二十年了。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/dead；
 > - The motorcyclist was dead on arrival at the hospital. `[例]`

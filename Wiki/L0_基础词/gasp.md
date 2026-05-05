@@ -129,6 +129,8 @@ gasp 为基础词汇，词源不确定。可能来自古诺尔斯语 *geispa*（
 
 > [!example]- 语料
 > - She gasped in horror when she saw the extent of the damage. `[例]`
+>   - 中译：【需人工审核】gasp 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/gasp
   - 中译：当她看到损坏的程度时，惊恐地倒吸一口凉气。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/gasp；
 > - The runner was gasping for breath after the 100-metre sprint. `[例]`

@@ -138,6 +138,8 @@ review_count: 0
 
 > [!example]- 语料
 > - The grass is still damp. `[例]`
+>   - 中译：【需人工审核】damp 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/damp
   - 中译：草地还是湿的。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/damp；
 > - This shirt still feels a bit damp. `[例]`

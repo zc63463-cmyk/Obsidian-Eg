@@ -122,6 +122,8 @@ review_count: 0
 
 > [!example]- 语料
 > - She faces the dilemma of disobeying her father or losing the man she loves. `[例]`
+>   - 中译：【需人工审核】dilemma 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/dilemma
   - 中译：她面临着违抗父亲还是失去所爱之人的两难境地。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/dilemma；
 > - She's in a dilemma because she feels she would lose out if she tried to transfer her pension fund elsewhere. `[例]`

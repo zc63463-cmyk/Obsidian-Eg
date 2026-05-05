@@ -131,6 +131,8 @@ review_count: 0
 
 > [!example]- 语料
 > - Napoleon was defeated by the Duke of Wellington at the battle of Waterloo. `[例]`
+>   - 中译：【需人工审核】defeat 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/defeat
   - 中译：拿破仑在滑铁卢战役中被威灵顿公爵击败。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/defeat；
 > - They defeated the Italian team and reached the final. `[例]`

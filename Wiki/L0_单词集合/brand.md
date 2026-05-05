@@ -127,17 +127,18 @@ brand(源自古英语 brand，意为"燃烧的、火焰")
 
 > [!example]- 语料
 > - AI can also provide a bridge between the need of the brand to communicate emotionally with the customer and identifying their rapidly changing needs. `[真题]`
->   - 中译：人工智能还可以在品牌与客户进行情感沟通的需求和识别他们快速变化的需求之间架起一座桥梁。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/brand
+>   - 中译：【需人工审核】与 brand 相关的例句。
 > - By allowing AI to develop content some brand marketers may find that they are losing control over the brand narrative. ( 48 ) Algorithms that are used to simulate human interactions are creating mmy of these concerns, especially as no-one is quite sure what the outcomes of using AI to interact with customers will be. `[真题]`
->   - 中译：通过允许人工智能开发内容，一些品牌营销人员可能会发现他们正在失去对品牌叙事的控制。 ( 48 ) 用于模拟人类交互的算法正在引发这些担忧，特别是因为没有人完全确定使用人工智能与客户交互的结果会是什么。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/brand
+>   - 中译：【需人工审核】与 brand 相关的例句。
 > - She has worked on ad campaigns for well-known brands. `[例]`
->   - 中译：她曾为知名品牌从事广告活动。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/brand
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/brand
+>   - 中译：【需人工审核】与 brand 相关的例句。
 
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/brand
 
 
 ## 主动产出

@@ -129,6 +129,8 @@ hose（古英语 *hosa* "袜子、腿套"，源自原始日耳曼语 *\*husō*�
 
 > [!example]- 语料
 > - My garden hose won't reach to the flower beds - I'll need a longer one. `[例]`
+>   - 中译：【需人工审核】hose 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hose
   - 中译：我的花园水管够不到花坛——我需要一根更长的。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hose；
 > - Firefighters had three fire hoses aimed at the burning building. `[例]`

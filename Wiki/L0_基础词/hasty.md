@@ -130,6 +130,8 @@ review_count: 0
 
 > [!example]- 语料
 > - He warned against making hasty decisions. `[例]`
+>   - 中译：【需人工审核】hasty 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hasty
   - 中译：他警告不要做出草率的决定。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hasty；
 > - Now, let's not leap to any hasty conclusions. `[例]`

@@ -135,6 +135,8 @@ review_count: 0
 
 > [!example]- 语料
 > - The typical CEO of a top American corporation now makes about $18.9 million a year in salary and bonuses. `[真题]`
+>   - 中译：【需人工审核】salary 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/salary
   - 中译：美国顶级公司首席执行官的年薪和奖金现在约为1890万美元。
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/salary
 > - The average salary is $39,000 a year. `[例]`

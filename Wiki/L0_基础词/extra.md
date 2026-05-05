@@ -134,6 +134,8 @@ extra-(=exterus, 在外面，超出)
 > [!example]- 语料
 > - The researchers proposed a extra solution to the problem. `[真题]`
 > - Recently he's been working an extra two hours a day. `[例]`
+>   - 中译：【需人工审核】extra 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/extra
   - 中译：最近他每天额外工作两个小时。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/extra；
 > - The price includes travel and accommodation but meals are extra (= there is an additional charge for meals ). `[例]`

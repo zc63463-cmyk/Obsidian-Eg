@@ -130,6 +130,8 @@ review_count: 0
 
 > [!example]- 语料
 > - The researchers proposed a sly solution to the problem. `[真题]`
+>   - 中译：【需人工审核】sly 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sly
   - 中译：研究人员提出了一个狡黠的解决方案。；
   - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/sly；
 > - He's a sly old devil - I wouldn't trust him with my money. `[例]`

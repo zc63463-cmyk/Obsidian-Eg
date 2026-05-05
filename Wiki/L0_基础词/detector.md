@@ -127,6 +127,8 @@ review_count: 0
 
 > [!example]- 语料
 > - Using metal detectors to improve safety at airports. `[例]`
+>   - 中译：【需人工审核】detector 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/detector
   - 中译：在机场使用金属探测器以提高安全性。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/detector；
 > - A motion detector to thwart burglaries. `[例]`

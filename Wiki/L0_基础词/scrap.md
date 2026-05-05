@@ -143,6 +143,8 @@ review_count: 0
 
 > [!example]- 语料
 > - The bank has scrapped its plans for a property division. `[例]`
+>   - 中译：【需人工审核】scrap 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/scrap
   - 中译：银行已经取消了设立房地产部门的计划。
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/scrap
 > - Not a scrap of evidence was found to support the claim. `[真题]`

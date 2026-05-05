@@ -137,6 +137,8 @@ review_count: 0
 
 > [!example]- 语料
 > - His fingers tightened around the shaft of the golf club. `[例]`
+>   - 中译：【需人工审核】shaft 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/shaft
   - 中译：他的手指紧紧握住了高尔夫球杆的握杆。；
   - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/shaft；
 > - The door opened just a crack and a narrow shaft of light spilled into the room. `[例]`

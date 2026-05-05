@@ -127,6 +127,8 @@ review_count: 0
 
 > [!example]- 语料
 > - My bank has agreed to defer the repayments on my loan. `[例]`
+>   - 中译：【需人工审核】defer 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/defer
   - 中译：我的银行同意推迟我的贷款还款。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/defer；
 > - Can we defer mak ing a decision until next week? `[例]`

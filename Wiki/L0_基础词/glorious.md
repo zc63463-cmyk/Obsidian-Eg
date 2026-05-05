@@ -130,6 +130,8 @@ review_count: 0
 
 > [!example]- 语料
 > - This is a glorious chapter in our country's history. `[例]`
+>   - 中译：【需人工审核】glorious 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/glorious
   - 中译：这是我们国家历史上光辉的一章。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/glorious；
 > - I got dressed and emerged into glorious sunshine. `[例]`

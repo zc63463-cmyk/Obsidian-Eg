@@ -134,16 +134,17 @@ review_count: 0
 
 > [!example]- 语料
 > - Despite these challenges, Jackson captured dozens of striking photos, ranging from majestic images like his now-famous snapshot 11  of Old Faithful, to casual portraits of expedition members at the camp. `[真题]`
->   - 中译：尽管面临这些挑战，杰克逊还是拍摄了数十张引人注目的照片，从他现在著名的老忠实泉快照 1 1 等雄伟照片，到营地探险队员的随意肖像。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/casual
+>   - 中译：【需人工审核】与 casual 相关的例句。
 > - He was dressed in casual clothes - sneakers , blue jeans , and a t-shirt. `[例]`
->   - 中译：他穿着休闲装——运动鞋、蓝色牛仔裤和T恤。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/casual
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/casual
+>   - 中译：【需人工审核】与 casual 相关的例句。
 > - His clothes were artfully arranged to look stylishly casual. `[例]`
->   - 中译：他的衣服经过精心设计，看起来时尚休闲。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/casual
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/casual
+>   - 中译：【需人工审核】与 casual 相关的例句。
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/casual
 
 
 ## 主动产出

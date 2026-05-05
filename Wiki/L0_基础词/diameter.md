@@ -119,6 +119,8 @@ review_count: 0
 
 > [!example]- 语料
 > - The diameter measures twice the radius. `[例]`
+>   - 中译：【需人工审核】diameter 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/diameter
   - 中译：直径是半径的两倍。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/diameter；
 > - The pond is six feet in diameter. `[例]`
