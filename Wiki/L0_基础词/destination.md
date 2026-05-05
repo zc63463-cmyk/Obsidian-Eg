@@ -50,7 +50,7 @@ review_count: 0
 >    - → **目标，目的**：抽象的终点
 >      - 激活条件：the ultimate destination of one's career
 
-### 统筹
+### 统筹（选择适用的模式）
 
 - **一字一词概括**：destination 就是"终点"——旅行的终点，人生的终点
 - **一句话统筹**：destination = de（完全）+ stin（固定）= 被完全确定要到达的地方

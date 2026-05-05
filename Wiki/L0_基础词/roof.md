@@ -51,7 +51,7 @@ review_count: 0
 >    - → **最高点，上限**：隐喻性的顶部
 >      - 激活条件：prices went through the roof, the roof of the world
 
-### 统筹
+### 统筹（选择适用的模式）
 
 - **一字一词概括**：roof 就是"顶部覆盖"——房子的顶部、价格的顶部、世界的顶部
 - **方位隐喻**：屋顶=最高点/上限

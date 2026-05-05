@@ -51,7 +51,7 @@ pro-(向前/公开) + [[sign|nounce]](=nunciare, 报告/说)
 >    - → **声明，断言**：公开表达看法
 >      - 激活条件：pronounce on an issue
 
-### 统筹
+### 统筹（选择适用的模式）
 
 - **一字一词概括**：pronounce 就是"公开说出来"——发出声音叫"发音"，宣布判决叫"宣判"，表达看法叫"声明"
 - **v + 不同宾语**：pronounce a word（发音）→ pronounce a sentence（宣判）→ pronounce an opinion（声明）

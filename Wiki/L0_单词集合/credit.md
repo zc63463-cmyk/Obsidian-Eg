@@ -133,7 +133,7 @@ cre(=cred-, 信任、相信，拉丁语 *credere*) + -dit(给予)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The problem began ]late last year, when PRH confirmed that it had introduced a credit limit �1ith Waterstones " at a very significant level". `[真题]`
+> - The problem began ]late last year, when PRH confirmed that it had introduced a credit limit 1ith Waterstones " at a very significant level". `[真题]`
 >   - 中译：这个问题始于去年年底，当时 PRH 证实它已经“在非常高的水平上”引入了 Waterstones 的信用限额。
 >   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
 > - PRH declined to comment on the issue , but a spokesperson for W aterstones told me : " W aterstones are currently operating with reduced credit terms from PRH, the only publisher in the UK to place any limitations on our ability to trade. `[真题]`

@@ -133,7 +133,7 @@ soci（同伴、结交）+ -al（与……有关的）
 ## 真题/语料关联
 
 > [!example]- 语料
-> - It is also less prominent in many social studies cour�es. `[真题]`
+> - It is also less prominent in many social studies coures. `[真题]`
 >   - 中译：它在许多社会研究课程中也不那么突出。
 >   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
 > - For example, AI can be used to analyse what type of advertising content or copy would be appropriate to 'speak' to a specific target customer group by revealing information about trends and preferences through the analysis of big data. ( 46) AI can also be used to identify the lifestyle choices of customers regarding their hobbies, favourite celebrities, music choices, and fashions to provide unique content in marketing messages put out through social media. `[真题]`
@@ -150,5 +150,5 @@ soci（同伴、结交）+ -al（与……有关的）
 ## 主动产出
 
 > [!success]- 主动产出
-> **写作用例**：<待补充>
-> **翻译实践**：<待补充>
+> **写作用例**：<自己在写作/翻译中使用该词的例句>
+> **翻译实践**：<翻译练习中的使用记录>

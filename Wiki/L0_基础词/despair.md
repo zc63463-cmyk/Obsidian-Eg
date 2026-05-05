@@ -50,7 +50,7 @@ review_count: 0
 >    - → **感到绝望（v.）**：失去希望的动作
 >      - 激活条件：despair of success, never despair
 
-### 统筹
+### 统筹（选择适用的模式）
 
 - **一字一词概括**：despair 就是"无望"——de（没有）+ sper（希望）
 - **一句话统筹**：despair = de（去掉）+ sper（希望）= 绝望

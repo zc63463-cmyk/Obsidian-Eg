@@ -132,7 +132,7 @@ pro-(向前) + [[prim-pri|prim→第一]](第一/突出) + -in + -ent(形容词�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - It is also less prominent in many social studies cour�es. `[真题]`
+> - It is also less prominent in many social studies coures. `[真题]`
 >   - 中译：它在许多社会研究课程中也不那么突出。
 >   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
 > - The trade magazine The Bookseller reported that Waterstones branch managers were being told to remove PRH books from prominent areas such as tables , display spaces and windows, and were " quietly retiring them to their relevant sections". `[真题]`

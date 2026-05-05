@@ -50,7 +50,7 @@ review_count: 0
 >    - → **造成严重损害的**：抽象的破坏
 >      - 激活条件：destructive behavior, destructive criticism
 
-### 统筹
+### 统筹（选择适用的模式）
 
 - **一字一词概括**：destructive 就是"毁的"——有破坏倾向的
 - **一句话统筹**：destructive = de（反向）+ struct（建造）+ ive（倾向）= 有反向建造倾向的

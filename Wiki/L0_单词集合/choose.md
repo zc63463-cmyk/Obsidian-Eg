@@ -124,7 +124,7 @@ choos-/chois-(品尝、辨别，与 [[choice]] 同源)
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Choose the best word ( s) for each numbered blank and mark A, B , C or D on th� ANSWER SHEET. ( 10 points) Caravanserais were roadside inns that were built along the Silk Road in areas including China, North Africa and the Middle East. `[真题]`
+> - Choose the best word ( s) for each numbered blank and mark A, B , C or D on th ANSWER SHEET. ( 10 points) Caravanserais were roadside inns that were built along the Silk Road in areas including China, North Africa and the Middle East. `[真题]`
 >   - 中译：为每个编号的空白处选择最好的单词，并在答题卡上标记 A、B、C 或 D。 ( 10 分) 商队旅馆是沿着丝绸之路沿线建造的路边旅馆，分布于中国、北非和中东等地区。
 >   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
 > - Answer the questions after each text by .choosing A, B , C or D. `[真题]`

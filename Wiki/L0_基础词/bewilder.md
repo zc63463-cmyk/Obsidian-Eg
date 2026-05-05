@@ -50,7 +50,7 @@ be-（使/彻底）+ wilder（引入荒野，源自 wilderness "荒野"）
 >    - → **使迷惑，使困惑**：认知上使人"迷路"
 >      - 激活条件：The complex instructions bewildered me.
 
-### 统筹
+### 统筹（选择适用的模式）
 
 - **一字一词概括**：bewilder 就是"迷"——在荒野中迷路，在认知中迷惑
 - **一句话统筹**：bewilder 就是把人"丢进荒野"——物理上迷路或认知上困惑

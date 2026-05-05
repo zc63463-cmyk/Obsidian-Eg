@@ -128,9 +128,6 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Weeks after completing the expedition, Hayden collected his team's observations into an extensive report aimed at convincing Senators and Representatives, along with colleagues at government agencies like the Department of the Interior that Yellowstone ought to be preserved.  1 2  Part C Directions: Read the following text carefully and then translate the underlined segments into Chinese. `[真题]`
->   - 中译：探险结束后几周，海登将团队的观察结果整理成一份详尽的报告，旨在说服参议员和众议员以及内政部等政府机构的同事们，认为黄石应该被保护。
->   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/senator
 > - Only two senators voted against the bill. `[例]`
   - 中译：只有两名参议员投票反对该法案。
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/senator

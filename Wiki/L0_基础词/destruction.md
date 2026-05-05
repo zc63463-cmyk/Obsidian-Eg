@@ -50,7 +50,7 @@ review_count: 0
 >    - → **摧毁，消灭**：彻底拆掉
 >      - 激活条件：mass destruction, weapons of destruction
 
-### 统筹
+### 统筹（选择适用的模式）
 
 - **一字一词概括**：destruction 就是"毁"——反向建造，把建好的拆掉
 - **一句话统筹**：destruction = de（反向）+ struct（建造）= 反向建造 = 毁灭

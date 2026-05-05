@@ -50,7 +50,7 @@ review_count: 0
 >    - → **天命，定数**：超越个人意志的力量
 >      - 激活条件：a sense of destiny, manifest destiny
 
-### 统筹
+### 统筹（选择适用的模式）
 
 - **一字一词概括**：destiny 就是"定"——被固定好的命运
 - **一句话统筹**：destiny = de（完全）+ stin（固定）= 被完全固定下来的命运

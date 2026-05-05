@@ -53,7 +53,7 @@ review_count: 0
 >    - → **界限，边界**（n.）：边界本身
 >      - 激活条件：搭配 the confines of, within/beyond the confines of
 
-### 统筹
+### 统筹（选择适用的模式）
 
 - **一字一词概括**："围"——用边界围住
 - **一句话统筹**：confine 就是画一个"边界"把东西围起来——空间上禁锢，话题上局限。

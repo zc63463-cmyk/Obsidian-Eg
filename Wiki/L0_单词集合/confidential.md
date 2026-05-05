@@ -50,7 +50,7 @@ con-(=completely，完全地) + fid(=trust，信任) + -ent(形容词后缀) + -
 >    - → **机密的，保密的**（adj.）：值得信任的人才能接触的信息
 >      - 激活条件：搭配 confidential information, confidential document, strictly confidential
 
-### 统筹
+### 统筹（选择适用的模式）
 
 - **一字一词概括**："密"——因信任而保密
 - **一句话统筹**：confidential 就是"值得信任的"——因为信任你，所以告诉你秘密；因为是秘密，所以要保密。

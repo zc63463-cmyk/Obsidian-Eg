@@ -50,7 +50,7 @@ review_count: 0
 >    - → **表面上的，貌似真实的**（adj.）：仅出现在表面的
 >      - 激活条件：搭配 apparent contradiction, apparent success, apparent indifference
 
-### 统筹
+### 统筹（选择适用的模式）
 
 - **一字一词概括**："显"——显现出来
 - **一句话统筹**：apparent 就是"出现在眼前的"——清晰可见是"明显的"，仅浮于表面是"表面上的"。

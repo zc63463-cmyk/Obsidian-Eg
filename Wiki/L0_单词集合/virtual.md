@@ -50,7 +50,7 @@ review_count: 0
 >    - → **虚拟的**（adj.）：计算机中效果等同于真实的
 >      - 激活条件：搭配 virtual reality, virtual meeting, virtual classroom
 
-### 统筹
+### 统筹（选择适用的模式）
 
 - **一字一词概括**："效"——有效力
 - **一句话统筹**：virtual 就是"有效力的"——效果等同于正式的是"实质上的"，效果等同于真实的是"虚拟的"。
