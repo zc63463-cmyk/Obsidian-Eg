@@ -118,11 +118,11 @@ over-(过度) + size(尺寸)
 
 > [!example]- 语料
 > - The researchers proposed a oversize solution to the problem. `[例]`
->   - 中译：他穿着一件特大号的毛衣。
+>   - 中译：研究人员提出了一种超大号的解决方案来应对这一问题。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/oversize
 > - The company adopted a oversize approach to improve efficiency. `[例]`
->   - 中译：这个房间里的家具都是超大号的。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/oversize
+>   - 中译：公司采取了一种超大号的方法来提高效率。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/oversize
 
 ## 主动产出
 

@@ -128,11 +128,11 @@ spot(点，斑点) + light(光)
 
 > [!example]- 语料
 > - The senator has been in the spotlight recently since the revelation of his tax frauds. `[例]`
->   - 中译：聚光灯打在舞台中央的歌手身上。
+>   - 中译：自从他的税务欺诈行为被揭露以来，这位参议员最近一直处于公众关注的焦点。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/spotlight
 > - Spotlights followed the two dancers around the stage. `[例]`
->   - 中译：环境问题再次成为公众关注的焦点。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/spotlight
+>   - 中译：聚光灯追随着舞台上两位舞者的身影。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/spotlight
 
 ## 主动产出
 

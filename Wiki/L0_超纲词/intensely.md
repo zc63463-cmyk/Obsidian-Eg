@@ -125,7 +125,7 @@ in-(向内) + [[tend|tend-tens-]](伸展) + -ly(副词)
 > [!example]- 语料
 > - She intensely dislikes being interrupted while working. `[例]`
 >   - 中译：她极度讨厌工作时被打断。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/intensely
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/intensely
 > - The issue has been intensely debated in recent months. `[例]`
 >   - 中译：这个问题在最近几个月被激烈地讨论。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/intensely

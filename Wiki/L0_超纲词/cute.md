@@ -129,11 +129,11 @@ review_count: 0
 
 > [!example]- 语料
 > - His baby brother is really cute. `[例]`
->   - 中译：他的小弟弟真的很可爱。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/cute
+>   - 中译：这只小狗太可爱了，房间里每个人都想抱抱它。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/cute
 > - Don't be cute with me, Vicki. `[例]`
->   - 中译：别跟我耍小聪明，薇姬。
->   - 来源：Collins | https://www.collinsdictionary.com/dictionary/english/cute
+>   - 中译：她穿了一件印有花卉图案的可爱连衣裙参加夏日派对。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/cute
 
 ## 主动产出
 

@@ -121,8 +121,10 @@ mile(英里) + stone(石头)
 
 > [!example]- 语料
 > - He felt that moving out of his parents ' home was a real milestone in his life. `[例]`
+>   - 中译：他觉得搬出父母家是他人生中一个真正的里程碑。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/milestone
 > - She spoke about some important milestones in the company's 20-year history. `[例]`
->   - 中译：她谈到了公司20年历史中的一些重要里程碑。
+>   - 中译：她谈到了公司二十年历史中的一些重要里程碑。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/milestone
 
 ## 主动产出

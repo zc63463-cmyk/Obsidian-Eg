@@ -123,11 +123,11 @@ walk（行走）+ way（道路/方式），复合词，无拉丁/希腊词根可
 
 > [!example]- 语料
 > - A covered walkway joins the two buildings. `[例]`
->   - 中译：沿着海滨步道散步是一种享受。
+>   - 中译：一条有顶棚的通道连接着两栋建筑。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/walkway
 > - A covered walkway connects the two buildings. `[例]`
->   - 中译：新建的空中走廊连接了两栋大楼。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/walkway
+>   - 中译：一条有顶棚的步行通道将两栋建筑连接起来。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/walkway
 
 ## 主动产出
 

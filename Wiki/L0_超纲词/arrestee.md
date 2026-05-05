@@ -120,11 +120,11 @@ ar-(=ad-, 向，加强) + rest(停留，休息) + -ee(被动接受动作的人)
 
 > [!example]- 语料
 > - The arrestee was read his Miranda rights before being questioned. `[例]`
->   - 中译：在被审讯之前，被逮捕者被宣读了米兰达权利。
+>   - 中译：被捕者在接受讯问前被宣读了米兰达权利。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/arrestee
 > - The arrestee claimed that the police used excessive force during the arrest. `[例]`
->   - 中译：被逮捕者声称警方在逮捕过程中使用了过度武力。
->   - 来源：Collins | https://www.collinsdictionary.com/dictionary/english/arrestee
+>   - 中译：被捕者声称警方在逮捕过程中使用了过度武力。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/arrestee
 
 ## 主动产出
 

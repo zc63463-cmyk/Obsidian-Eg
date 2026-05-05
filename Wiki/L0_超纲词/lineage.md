@@ -124,10 +124,10 @@ line（线）+ -age（名词后缀，表示"集合/状态/结果"）→ **血统
 
 > [!example]- 语料
 > - She traced her lineage back to the 16th century Scottish nobility. `[例]`
->   - 中译：她将自己的血统追溯到了16世纪的苏格兰贵族。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/lineage
+>   - 中译：她的家谱可以追溯到16世纪的苏格兰贵族。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lineage
 > - The study examined the genetic lineage of the virus to track its origin and spread. `[例]`
->   - 中译：该研究检查了病毒的遗传谱系，以追踪其起源和传播。
+>   - 中译：这项研究检查了病毒的遗传谱系，以追踪其起源和传播路径。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lineage
 
 ## 主动产出

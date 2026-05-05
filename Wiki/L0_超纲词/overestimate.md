@@ -120,10 +120,10 @@ over-(过度) + [[estim]](=estimate, 估计) + -ate(动词后缀)
 
 > [!example]- 语料
 > - I overestimated and there was a lot of food left over after the party. `[例]`
->   - 中译：我们高估了项目的完成时间。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/overestimate
+>   - 中译：我高估了，派对结束后剩了很多食物。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/overestimate
 > - Most of us overestimate how much time and energy we have. `[例]`
->   - 中译：不要高估自己的能力。
+>   - 中译：我们大多数人都高估了自己拥有的时间和精力。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/overestimate
 
 ## 主动产出

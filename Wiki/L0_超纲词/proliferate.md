@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**vi.** ①==**激增，扩散，繁殖**== `N proliferate` `N proliferate rapidly`；②==**迅速增多**== `proliferating number of N` `N proliferate`；
+**vi.** ①==**激增，扩散，繁殖**==；②==**迅速增多**==；
 
 > [!tip] 原型义
 > **原型义**：繁殖增生（像细胞分裂一样快速增多）
@@ -124,11 +124,11 @@ review_count: 0
 
 > [!example]- 语料
 > - The hikers rested under a towering proliferate near the coastal trail. `[例]`
->   - 中译：社交媒体平台在过去十年中迅速激增。
+>   - 中译：徒步旅行者在海岸步道附近一棵高大的繁茂树旁休息。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/proliferate
 > - The cabin was built from durable proliferate gathered in the region. `[例]`
->   - 中译：核武器的扩散引起了国际社会的关注。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/proliferate
+>   - 中译：小屋是用该地区采集的耐用繁茂材料建造的。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/proliferate
 
 ## 主动产出
 

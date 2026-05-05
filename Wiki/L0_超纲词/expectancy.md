@@ -122,10 +122,10 @@ ex-(向外/向前) + [[spect|spect]](看) + -ancy(名词后缀，表示状态/�
 
 > [!example]- 语料
 > - Life expectancy in Japan has risen steadily over the past few decades due to advances in healthcare. `[例]`
->   - 中译：该国的平均预期寿命已达到八十岁。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/expectancy
+>   - 中译：由于医疗技术的进步，日本的人均预期寿命在过去几十年中稳步上升。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/expectancy
 > - The public's expectancy of a quick economic recovery proved to be overly optimistic. `[例]`
->   - 中译：出生时的预期寿命在过去一个世纪中显著提高。
+>   - 中译：公众对经济快速复苏的期望被证明过于乐观。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/expectancy
 
 ## 主动产出

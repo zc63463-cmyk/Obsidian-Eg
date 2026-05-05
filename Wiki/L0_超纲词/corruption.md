@@ -132,11 +132,11 @@ con-(=com-，完全/彻底) + [[rupt|rump-/rupt-]](断裂/打破) + -ion(名词�
 
 > [!example]- 语料
 > - The film is about a young police officer and his struggle to expose corruption in the force. `[例]`
->   - 中译：这部电影讲述了一位年轻警官及其揭露警队内部腐败的斗争。
->   - 来源：Collins | https://www.collinsdictionary.com/dictionary/english/corruption
+>   - 中译：政府发起了反腐败运动，以根除贿赂和挪用公款行为。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/corruption
 > - Political corruption is widespread throughout the country. `[例]`
->   - 中译：政治腐败在全国范围内普遍存在。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/corruption
+>   - 中译：腐败仍然是许多国家经济发展的主要障碍。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/corruption
 
 ## 主动产出
 

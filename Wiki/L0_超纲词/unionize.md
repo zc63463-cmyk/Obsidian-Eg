@@ -124,11 +124,11 @@ review_count: 0
 
 > [!example]- 语料
 > - They're about to launch a campaign to unionize workers at all major supermarkets in the area. `[例]`
->   - 中译：工人们决定组建工会来争取更好的待遇。
+>   - 中译：他们即将发起一场运动，将该地区所有大型超市的工人组织起来成立工会。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/unionize
 > - We’re launching a campaign to unionize workers at all major discount stores in the area. `[例]`
->   - 中译：亚马逊仓库的员工正在努力组建工会。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/unionize
+>   - 中译：我们正在发起一场运动，将该地区所有大型折扣店的工人组织起来成立工会。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/unionize
 
 ## 主动产出
 

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**驳斥，反驳**== `N` `N of N` [中性/学术]；②==**驳斥的论证**== `N` [中性/学术]；
+**n.** ①==**驳斥，反驳**==；②驳斥的论证；
 
 > [!tip] 原型义
 > **原型义**：驳斥（推翻对方论点）
@@ -121,11 +121,11 @@ review_count: 0
 
 > [!example]- 语料
 > - She published a refutation in the newspapers two days later. `[例]`
->   - 中译：他提出了一个有力的反驳来驳斥对方的论点。
+>   - 中译：两天后她在报纸上发表了一篇驳斥文章。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/refutation
 > - Here is a simple refutation of that argument. `[例]`
->   - 中译：这篇文章是对传统经济学理论的一次系统反驳。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/refutation
+>   - 中译：这里有一个对那个论点的简单驳斥。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/refutation
 
 ## 主动产出
 

@@ -125,11 +125,11 @@ con-（一起）+ glomer（球，团，拉丁语 *glomus*，球/团）+ -ate（�
 
 > [!example]- 语料
 > - A large conglomerate with more than $1 billion in net assets. `[例]`
->   - 中译：一家净资产超过10亿美元的大型企业集团。
->   - 来源：Collins | https://www.collinsdictionary.com/dictionary/english/conglomerate
+>   - 中译：这家跨国集团拥有科技、金融和医疗保健等多个领域的业务。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/conglomerate
 > - A few media conglomerates control most of the news industry. `[例]`
->   - 中译：少数几家媒体集团控制着大部分新闻行业。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/conglomerate
+>   - 中译：这家媒体集团控制着多家主要报纸和电视网络。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/conglomerate
 
 ## 主动产出
 

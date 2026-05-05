@@ -123,10 +123,10 @@ chunk（大块，厚块）+ -y（形容词后缀，表示"有……特征的"）
 
 > [!example]- 语料
 > - She wears chunky earrings and rings and a baggy sweater. `[例]`
->   - 中译：她戴着粗大的耳环和戒指，穿着一件宽松的毛衣。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/chunky
+>   - 中译：比起细腻的花生酱，她更喜欢颗粒型的。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/chunky
 > - Chunky soups are more filling than clear ones. `[例]`
->   - 中译：浓汤比清汤更饱腹。
+>   - 中译：宝宝穿着厚实的针织毛衣，看起来可爱极了。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/chunky
 
 ## 主动产出

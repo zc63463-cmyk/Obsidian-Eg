@@ -125,11 +125,11 @@ len(柔软/温和，拉丁语 *lenis*) + -i- + -ency(名词后缀，表示状态
 
 > [!example]- 语料
 > - The judge showed leniency due to the defendant's young age and lack of prior offenses. `[例]`
->   - 中译：鉴于被告年轻且无前科，法官表现出了宽大处理。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/leniency
+>   - 中译：鉴于被告年纪尚轻且无前科，法官表现出了宽大处理。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/leniency
 > - The prosecution recommended leniency in exchange for the defendant's cooperation. `[例]`
->   - 中译：检方建议从轻处罚，以换取被告的合作。
->   - 来源：Collins | https://www.collinsdictionary.com/dictionary/english/leniency
+>   - 中译：检方建议从宽处理，以换取被告的配合。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/leniency
 
 ## 主动产出
 

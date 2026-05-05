@@ -124,14 +124,14 @@ air(空气) + -y(充满……的，形容词后缀)
 
 > [!example]- 语料
 > - The architect designed an airy building with large windows and open spaces. `[例]`
->   - 中译：建筑师设计了一栋通风良好的建筑，配有宽大的窗户和开阔的空间。
->   - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/airy
+>   - 中译：建筑师设计了一栋通风良好的建筑，拥有大窗户和开阔的空间。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/airy
 > - She dismissed his airy promises to reform the system, having heard them many times before. `[例]`
->   - 中译：她对他的空洞改革承诺不屑一顾，因为这种话她已经听过很多次了。
->   - 来源：Collins Dictionary | https://www.collinsdictionary.com/dictionary/english/airy
+>   - 中译：她对他改革体制的空洞承诺不屑一顾，因为这种话她已经听过很多次了。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/airy
 > - He maintained an airy confidence despite the mounting challenges. `[例]`
 >   - 中译：尽管挑战不断增加，他仍保持着轻松自信的态度。
->   - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/airy
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/airy
 
 ## 主动产出
 

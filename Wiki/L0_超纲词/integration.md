@@ -127,7 +127,7 @@ in-(向内) + [[integr|integer]](整体，完整) + -ation(名词后缀)
 > [!example]- 语料
 > - Economic integration has brought both benefits and challenges to member states. `[例]`
 >   - 中译：经济一体化给成员国带来了机遇和挑战。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/integration
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/integration
 > - The integration of artificial intelligence into healthcare is transforming patient care. `[例]`
 >   - 中译：人工智能在医疗保健领域的融合正在改变患者护理方式。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/integration

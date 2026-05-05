@@ -124,14 +124,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The adversarial nature of the legal system can sometimes hinder the search for truth. `[例]`
->   - 中译：法律体系的对抗性有时会妨碍对真相的探寻。
->   - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/adversarial
+>   - 中译：法律体系的对抗性有时会阻碍对真相的探求。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/adversarial
 > - An adversarial relationship between the two departments has significantly slowed down the project progress. `[例]`
->   - 中译：两个部门之间的对抗性关系严重拖慢了项目进度。
->   - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/adversarial
+>   - 中译：两个部门之间的对立关系严重拖慢了项目进度。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/adversarial
 > - The company decided to adopt a more collaborative approach rather than relying on adversarial negotiations. `[例]`
->   - 中译：公司决定采取更具协作性的方式，而非依赖对抗性谈判。
->   - 来源：Collins Dictionary | https://www.collinsdictionary.com/dictionary/english/adversarial
+>   - 中译：公司决定采取更加合作的方式，而不是依赖对抗性谈判。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/adversarial
 
 ## 主动产出
 

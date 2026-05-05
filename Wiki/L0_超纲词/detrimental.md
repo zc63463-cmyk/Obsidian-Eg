@@ -118,11 +118,11 @@ review_count: 0
 
 > [!example]- 语料
 > - Smoking is detrimental to your health. `[例]`
->   - 中译：吸烟对你的健康有害。
+>   - 中译：吸烟对健康有害。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/detrimental
 > - Prolonged exposure to loud noise can have a detrimental effect on children's hearing. `[例]`
->   - 中译：长期暴露在噪音中可能对儿童的听力产生不利影响。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/detrimental
+>   - 中译：长期暴露在噪音中对儿童的听力有不利影响。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/detrimental
 
 ## 主动产出
 

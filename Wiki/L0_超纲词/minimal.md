@@ -126,10 +126,10 @@ minim(最小，拉丁语 *minimus*) + -al(形容词后缀)
 
 > [!example]- 语料
 > - There were no injuries and damage to the building was minimal. `[例]`
->   - 中译：没有人员伤亡，建筑物受损极小。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/minimal
+>   - 中译：没有人员受伤，建筑物的损坏也很轻微。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/minimal
 > - Fortunately, damage to the heart was minimal. `[例]`
->   - 中译：幸运的是，心脏受损很小。
+>   - 中译：幸运的是，对心脏的损害很小。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/minimal
 
 ## 主动产出

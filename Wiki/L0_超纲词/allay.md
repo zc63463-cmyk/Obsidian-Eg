@@ -123,14 +123,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The government took measures to allay public fears about the economic crisis. `[例]`
->   - 中译：政府采取措施以减轻公众对经济危机的恐惧。
->   - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/allay
+>   - 中译：政府采取措施以缓解公众对经济危机的恐惧。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/allay
 > - The CEO's transparent communication helped allay investor concerns about the company's future. `[例]`
->   - 中译：首席执行官透明的沟通有助于缓和投资者对公司未来的担忧。
->   - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/allay
+>   - 中译：首席执行官的透明沟通有助于缓解投资者对公司未来的担忧。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/allay
 > - The doctor tried to allay her anxiety by explaining the procedure in detail. `[例]`
 >   - 中译：医生通过详细解释手术流程来缓解她的焦虑。
->   - 来源：Collins Dictionary | https://www.collinsdictionary.com/dictionary/english/allay
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/allay
 
 ## 主动产出
 

@@ -131,11 +131,11 @@ review_count: 0
 
 > [!example]- 语料
 > - Fishermen in small boats ply their trade up and down the coast. `[例]`
->   - 中译：渔船在沿海水域来回穿梭。
+>   - 中译：小船上的渔民沿着海岸来回谋生。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ply
 > - Dealers are openly plying drugs in school playgrounds. `[例]`
->   - 中译：出租车在城市的街道上往来行驶。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/ply
+>   - 中译：毒贩在学校操场上公然兖售毒品。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ply
 
 ## 主动产出
 

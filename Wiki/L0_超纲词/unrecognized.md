@@ -126,11 +126,11 @@ un-(不，否定) + re-(再/重新) + [[cogn]](知道→拉丁语 *cognoscere*) 
 
 > [!example]- 语料
 > - Because the symptoms are so varied , the disorder may go unrecognized for weeks or even months. `[例]`
->   - 中译：许多天才艺术家在他们生前都未得到认可。
+>   - 中译：由于症状多种多样，这种疾病可能数周甚至数月都未被识别出来。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/unrecognized
 > - These studies have also uncovered previously unrecognized cases of ulcerative colitis. `[例]`
->   - 中译：这种疾病的症状往往被忽视，导致诊断延迟。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/unrecognized
+>   - 中译：这些研究还发现了以前未被识别的溃疡性结肠炎病例。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/unrecognized
 
 ## 主动产出
 

@@ -121,10 +121,10 @@ choose（选择）+ -y（形容词后缀，表示"有……倾向的"）
 
 > [!example]- 语料
 > - She's very choosy about what she eats and drinks. `[例]`
->   - 中译：她对吃喝非常挑剔。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/choosy
-> - He's choosy about where he buys fresh fruit and vegetables. `[例]`
->   - 中译：他对在哪里购买新鲜水果和蔬菜很讲究。
+>   - 中译：她对衣服非常挑剔，只穿设计师品牌。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/choosy
+> - He’s choosy about where he buys fresh fruit and vegetables. `[例]`
+>   - 中译：公司在招聘方面非常挑剔，要求进行多轮面试。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/choosy
 
 ## 主动产出

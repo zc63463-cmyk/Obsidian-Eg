@@ -128,11 +128,11 @@ review_count: 0
 
 > [!example]- 语料
 > - He's the most dominant pivot in the game. `[例]`
->   - 中译：公司决定将业务重心转向在线销售。
+>   - 中译：他是比赛中最具统治力的中锋。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pivot
 > - She pivots her left foot. `[例]`
->   - 中译：篮球运动员以一只脚为轴心转身。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/pivot
+>   - 中译：她以左脚为轴旋转。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pivot
 
 ## 主动产出
 

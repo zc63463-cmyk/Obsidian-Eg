@@ -121,11 +121,11 @@ review_count: 0
 
 > [!example]- 语料
 > - Many polymers, such as nylon , are artificial. `[例]`
->   - 中译：塑料是一种常见的合成聚合物。
+>   - 中译：许多聚合物，如尼龙，是人工合成的。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/polymer
 > - Proteins and DNA are natural polymers. `[例]`
->   - 中译：科学家正在开发新型可降解聚合物。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/polymer
+>   - 中译：蛋白质和DNA是天然聚合物。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/polymer
 
 ## 主动产出
 

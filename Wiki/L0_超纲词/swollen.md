@@ -123,11 +123,11 @@ swell（膨胀，肿胀）的过去分词形式，用作形容词。swell 源自
 
 > [!example]- 语料
 > - Her eyes were red and swollen from crying. `[例]`
->   - 中译：她的脚踝因为扭伤而肿了起来。
+>   - 中译：她的眼睛因为哭泣又红又肿。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/swollen
 > - A bruised , swollen face. `[例]`
->   - 中译：暴雨过后，河水暴涨，漫过了堤岸。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/swollen
+>   - 中译：一张青一块紫一块、肿胀的脸。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/swollen
 
 ## 主动产出
 

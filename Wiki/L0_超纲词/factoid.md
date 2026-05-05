@@ -124,10 +124,10 @@ review_count: 0
 
 > [!example]- 语料
 > - The internet is full of factoids presented as genuine knowledge by unreliable sources. `[例]`
->   - 中译：这本书充满了有趣的 factoid（似是而非的小知识）。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/factoid
+>   - 中译：互联网上充斥着大量由不可靠来源当作真实知识呈现的伪知识。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/factoid
 > - Many factoids circulate on social media without any factual basis, yet people accept them as truth. `[例]`
->   - 中译：许多人把互联网上的 factoid 当作事实来传播。
+>   - 中译：许多伪知识在社交媒体上毫无事实根据地传播，人们却信以为真。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/factoid
 
 ## 主动产出

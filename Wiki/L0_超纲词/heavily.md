@@ -127,11 +127,11 @@ heav(=heavy, 重的) + -ily(副词后缀)
 
 > [!example]- 语料
 > - The terrorists are heavily armed. `[例]`
->   - 中译：恐怖分子武装到牙齿。
+>   - 中译：恐怖分子装备了重型武器。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/heavily
 > - The compound is heavily guarded. `[例]`
 >   - 中译：该大院戒备森严。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/heavily
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/heavily
 
 ## 主动产出
 

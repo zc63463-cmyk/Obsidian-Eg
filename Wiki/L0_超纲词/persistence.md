@@ -124,11 +124,11 @@ review_count: 0
 
 > [!example]- 语料
 > - Most financial analysts have been surprised by the persistence of the recession. `[例]`
->   - 中译：他的坚持不懈最终得到了回报。
+>   - 中译：大多数金融分析师对经济衰退的持续感到惊讶。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/persistence
 > - Her persistence and enthusiasm have helped the group to achieve its international success. `[例]`
->   - 中译：问题的持续性令人担忧。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/persistence
+>   - 中译：她的毅力和热情帮助该团体取得了国际上的成功。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/persistence
 
 ## 主动产出
 

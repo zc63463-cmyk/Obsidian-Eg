@@ -128,11 +128,11 @@ review_count: 0
 
 > [!example]- 语料
 > - The big thing in video equipment is, paradoxically, sound. `[例]`
->   - 中译：矛盾的是，限制有时反而能激发创造力。
+>   - 中译：具有讽刺意味的是，视频设备领域的大趋势居然是声音。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/paradoxically
 > - Paradoxically, the cleaner lakes have made it easier for foreign species to thrive. `[例]`
->   - 中译：矛盾的是，他越是努力放松，就越感到焦虑。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/paradoxically
+>   - 中译：矛盾的是，更干净的湖泊反而使外来物种更容易繁衍。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/paradoxically
 
 ## 主动产出
 

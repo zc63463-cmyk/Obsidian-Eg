@@ -124,10 +124,10 @@ review_count: 0
 
 > [!example]- 语料
 > - The breadth of her knowledge across multiple disciplines impressed the entire interview panel. `[例]`
->   - 中译：她跨多个学科的知识广度给整个面试小组留下了深刻印象。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/breadth
+>   - 中译：这门课程涵盖了从古代文明到现代时代的人类历史全貌。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/breadth
 > - He traveled the length and breadth of the country to document traditional folk music before it disappeared. `[例]`
->   - 中译：他走遍全国各地的每个角落，记录即将消失的传统民间音乐。
+>   - 中译：她在多个学科领域的渊博知识给面试小组留下了深刻印象。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/breadth
 
 ## 主动产出

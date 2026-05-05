@@ -119,11 +119,11 @@ review_count: 0
 
 > [!example]- 语料
 > - Topics cover a gamut of outdoor activities and topics under the generic subheads of fishing, hunting, nature, outdoors, etc. `[例]`
->   - 中译：编辑为文章添加了一个简洁的小标题。
+>   - 中译：主题涵盖了从钓鱼、打猎、自然、户外等各种户外活动和话题，归在通用小标题之下。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/subhead
 > - The subhead was more horrifying still: the former envoy elliott abrams says the administration should push harder for regime change. `[例]`
->   - 中译：每个段落都有一个小标题来概括其内容。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/subhead
+>   - 中译：小标题更加令人震惊：前特使埃利奥特·艾布拉姆斯表示，政府应该加大推动政权更迭的力度。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/subhead
 
 ## 主动产出
 

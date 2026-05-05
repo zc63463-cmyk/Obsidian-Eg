@@ -123,11 +123,11 @@ review_count: 0
 
 > [!example]- 语料
 > - He was found guilty of obtaining money by deception. `[例]`
->   - 中译：他被判定犯有通过欺骗手段获取钱财罪。
+>   - 中译：这场骗局是一个精心策划的欺骗行为，蒙骗了许多投资者。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/deception
 > - Most advertising involves at least some deception. `[例]`
->   - 中译：大多数广告至少包含一些欺骗成分。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/deception
+>   - 中译：她在审查财务记录后才发现了这个骗局。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/deception
 
 ## 主动产出
 

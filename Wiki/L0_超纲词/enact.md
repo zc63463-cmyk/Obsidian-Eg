@@ -124,10 +124,10 @@ en-(使成为/使进入) + [[act|act]](行动/法律)
 
 > [!example]- 语料
 > - The parliament enacted a series of new laws to protect the environment. `[例]`
->   - 中译：议会通过了一项新的环境法。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/enact
+>   - 中译：议会颁布了一系列新法律来保护环境。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/enact
 > - The students enacted a scene from Shakespeare's Hamlet for the school play. `[例]`
->   - 中译：政府颁布了严格的枪支管制法律。
+>   - 中译：学生们在学校戏剧中表演了莎士比亚《哈姆雷特》的一幕。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/enact
 
 ## 主动产出

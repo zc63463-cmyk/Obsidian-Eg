@@ -125,11 +125,11 @@ hol(=whole, 整体) + -ist(人/主义) + -ic(形容词后缀)
 
 > [!example]- 语料
 > - My doctor takes a holistic approach to disease. `[例]`
->   - 中译：我的医生采取整体的方法来治疗疾病。
+>   - 中译：我的医生采用整体疗法来治疗疾病。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/holistic
 > - Ecological problems usually require holistic solutions. `[例]`
->   - 中译：生态问题通常需要全面的解决方案。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/holistic
+>   - 中译：生态问题通常需要整体性的解决方案。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/holistic
 
 ## 主动产出
 

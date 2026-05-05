@@ -119,11 +119,11 @@ black(黑) + smith(工匠/铁匠)
 
 > [!example]- 语料
 > - The village blacksmith shaped a glowing piece of iron into a horseshoe on his anvil. `[例]`
->   - 中译：村里的铁匠在铁砧上将一块烧红的铁锻打成马蹄铁。
->   - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/blacksmith
+>   - 中译：铁匠用锤子和铁砧将金属锻造成各种工具。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/blacksmith
 > - Before the Industrial Revolution, every town relied on a skilled blacksmith to make and repair tools. `[例]`
->   - 中译：在工业革命之前，每个城镇都依赖技艺精湛的铁匠来制造和修理工具。
->   - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/blacksmith
+>   - 中译：在中世纪，铁匠是村庄中最重要的工匠之一。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/blacksmith
 
 ## 主动产出
 

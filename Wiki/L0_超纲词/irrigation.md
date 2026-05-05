@@ -126,7 +126,7 @@ irrig(浇水，拉丁语 *irrigare* 浇水) + -ation(名词后缀，表动作/�
 > [!example]- 语料
 > - The development of irrigation systems was crucial to the growth of ancient civilizations. `[例]`
 >   - 中译：灌溉系统的发展对古代文明的成长至关重要。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/irrigation
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/irrigation
 > - Modern drip irrigation technology has significantly reduced water waste in agriculture. `[例]`
 >   - 中译：现代滴灌技术已显著减少了农业中的水资源浪费。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/irrigation

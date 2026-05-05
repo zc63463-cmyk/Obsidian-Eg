@@ -126,10 +126,10 @@ eco-(=oiko-，家/经济，源自希腊语 *oikos*，"家/住所") + nom(管理�
 
 > [!example]- 语料
 > - The leading economist warned that inflation could rise further in the coming months. `[例]`
->   - 中译：这位经济学家预测明年经济将增长百分之三。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/economist
+>   - 中译：这位知名经济学家警告说，未来几个月通胀可能进一步加剧。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/economist
 > - She studied economics at university and later became a chief economist at a major bank. `[例]`
->   - 中译：《经济学人》是一份享有国际声誉的杂志。
+>   - 中译：她在大学学习经济学，后来成为一家大型银行的首席经济学家。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/economist
 
 ## 主动产出

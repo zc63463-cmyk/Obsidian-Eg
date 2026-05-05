@@ -127,11 +127,11 @@ review_count: 0
 
 > [!example]- 语料
 > - They purport to represent the wishes of the majority of parents at the school. `[例]`
->   - 中译：这份文件声称是合同的原始版本。
+>   - 中译：他们声称代表学校大多数家长的意愿。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/purport
 > - The study purports to show an increase in the incidence of the disease. `[例]`
->   - 中译：所谓的专家意见实际上毫无根据。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/purport
+>   - 中译：这项研究声称显示该疾病的发病率有所上升。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/purport
 
 ## 主动产出
 

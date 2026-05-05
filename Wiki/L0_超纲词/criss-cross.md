@@ -128,10 +128,10 @@ criss + cross（十字/交叉），为 reduplication（重叠构词）
 
 > [!example]- 语料
 > - This area of the city is criss-crossed by railway lines. `[例]`
->   - 中译：城市的这个区域被铁路线纵横交错地覆盖着。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/criss-cross
+>   - 中译：这座城市的街道形成纵横交错的格局，让游客容易迷路。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/criss-cross
 > - The streets ran in a regular criss-cross pattern. `[例]`
->   - 中译：街道呈规则的纵横交错格局分布。
+>   - 中译：电线纵横交错地穿过乡村，将电力输送到偏远的村庄。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/criss-cross
 
 ## 主动产出

@@ -123,11 +123,11 @@ surgery（外科手术）+ -ical（形容词后缀）
 
 > [!example]- 语料
 > - A surgical ward (= for patients having operations). `[例]`
->   - 中译：他需要接受外科手术来修复膝盖韧带。
+>   - 中译：外科病房（即供接受手术的患者使用的病房）。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/surgical
 > - They launched surgical strikes against enemy targets. `[例]`
->   - 中译：部队对敌方目标实施了精确的外科手术式打击。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/surgical
+>   - 中译：他们对敌方目标实施了精确打击。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/surgical
 
 ## 主动产出
 

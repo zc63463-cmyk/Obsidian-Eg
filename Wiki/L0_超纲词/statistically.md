@@ -124,11 +124,11 @@ review_count: 0
 
 > [!example]- 语料
 > - Researchers would not view this survey as being statistically valid. `[例]`
->   - 中译：从统计学上看，这种疾病在男性中更为常见。
+>   - 中译：研究人员不会认为这项调查在统计上是有效的。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/statistically
 > - Statistically speaking , you're more likely to die from a bee sting than win the lottery. `[例]`
->   - 中译：统计数据显示，犯罪率在过去十年中有所下降。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/statistically
+>   - 中译：从统计学角度来说，你死于蜜蜂蜇伤的可能性比中彩票还要大。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/statistically
 
 ## 主动产出
 

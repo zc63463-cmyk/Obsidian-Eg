@@ -126,11 +126,11 @@ ground(地面) + break(打破) + -ing(形容词/名词后缀)
 
 > [!example]- 语料
 > - His latest movie is interesting , but not groundbreaking. `[例]`
->   - 中译：他的最新电影很有趣，但算不上开创性。
+>   - 中译：他的最新电影很有趣，但并非开创性的。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/groundbreaking
 > - This groundbreaking work changed the way historians looked at slavery. `[例]`
 >   - 中译：这项开创性的工作改变了历史学家看待奴隶制的方式。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/groundbreaking
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/groundbreaking
 
 ## 主动产出
 

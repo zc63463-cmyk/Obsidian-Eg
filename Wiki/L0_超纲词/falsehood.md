@@ -126,10 +126,10 @@ false(虚假的) + -hood(名词后缀，表示状态/性质)
 
 > [!example]- 语料
 > - The article is full of falsehoods and misrepresentations. `[例]`
->   - 中译：他所说的每一句话都被证明是谎言。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/falsehood
+>   - 中译：这篇文章充满了谎言和歪曲事实的内容。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/falsehood
 > - It is easy to expose the falsehood of such claims with a little research. `[例]`
->   - 中译：真相最终会揭穿一切虚假之词。
+>   - 中译：稍作调查就不难揭穿此类说法的虚假性。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/falsehood
 
 ## 主动产出

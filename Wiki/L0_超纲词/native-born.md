@@ -122,11 +122,11 @@ review_count: 0
 
 > [!example]- 语料
 > - The researchers proposed a native born solution to the problem. `[例]`
->   - 中译：研究人员提出了一个本土出生的解决方案。
+>   - 中译：研究人员提出了一种本土的解决方案来应对这一问题。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/native-born
 > - The company adopted a native born approach to improve efficiency. `[例]`
->   - 中译：公司采用了一种本土出生的方法来提高效率。
->   - 来源：Collins | https://www.collinsdictionary.com/dictionary/english/native-born
+>   - 中译：公司采取了一种本土化的方法来提高效率。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/native-born
 
 ## 主动产出
 

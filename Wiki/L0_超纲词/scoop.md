@@ -128,11 +128,11 @@ review_count: 0
 
 > [!example]- 语料
 > - Just one scoop of mashed potato for me, please. `[例]`
->   - 中译：记者获得了一条独家新闻，轰动了整个行业。
+>   - 中译：请给我一勺土豆泥。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/scoop
 > - The paper managed to secure a major scoop and broke the scandal to the world. `[例]`
->   - 中译：她用勺子舀了一碗汤。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/scoop
+>   - 中译：这家报纸成功获得了一条重大独家新闻，将这桩丑闻公之于众。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/scoop
 
 ## 主动产出
 

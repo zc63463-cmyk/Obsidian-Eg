@@ -122,8 +122,8 @@ metall(金属，希腊语 *metallon*) + -urgy(工艺/技术，希腊语 *ergon* 
 >   - 中译：她拥有犹他大学的冶金学博士学位。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/metallurgy
 > - Under the Zia, Shang, and Zhou dynasties, China developed advanced metallurgy techniques and, along with them, systems for managing them at scale. `[例]`
->   - 中译：在夏、商、周朝代，中国发展了先进的冶金技术，并随之建立了大规模管理体系。
->   - 来源：Collins | https://www.collinsdictionary.com/dictionary/english/metallurgy
+>   - 中译：在夏、商、周朝代，中国发展了先进的冶金技术，并随之建立了大规模管理这些技术的体系。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/metallurgy
 
 ## 主动产出
 

@@ -124,10 +124,10 @@ need（需要）+ -less（没有，否定后缀）+ -ly（副词后缀）
 
 > [!example]- 语料
 > - She'd worried needlessly about whether there would be enough food. `[例]`
->   - 中译：她曾不必要地担心食物是否够吃。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/needlessly
+>   - 中译：她之前不必要地担心食物是否够吃。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/needlessly
 > - The process has become needlessly complicated. `[例]`
->   - 中译：这个流程变得不必要地复杂了。
+>   - 中译：这个流程已经变得不必要地复杂了。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/needlessly
 
 ## 主动产出

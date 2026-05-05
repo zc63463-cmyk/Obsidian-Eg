@@ -121,8 +121,8 @@ review_count: 0
 
 > [!example]- 语料
 > - The interviewee was asked about her previous work experience. `[例]`
->   - 中译：面试者被问及了她的以往工作经验。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/interviewee
+>   - 中译：面试者被问及她之前的工作经验。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/interviewee
 > - Interviewees were selected randomly from the population. `[例]`
 >   - 中译：面试者是从人群中随机挑选的。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/interviewee

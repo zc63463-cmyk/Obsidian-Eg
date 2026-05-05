@@ -121,11 +121,11 @@ review_count: 0
 
 > [!example]- 语料
 > - The screaming tempest whipped into the house, hurling furniture across the room. `[例]`
->   - 中译：一场猛烈的风暴袭击了沿海地区。
+>   - 中译：呼啸的暴风雨席卷而入，把家具掀得满屋飞。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/tempest
 > - The town council handled the tempest over cuts to the school budget as well as could be expected. `[例]`
->   - 中译：政治风暴使政府陷入了混乱。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/tempest
+>   - 中译：镇议会处理削减学校预算引发的风波，已经做到了尽如人意。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/tempest
 
 ## 主动产出
 

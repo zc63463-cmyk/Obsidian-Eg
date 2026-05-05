@@ -121,10 +121,10 @@ review_count: 0
 
 > [!example]- 语料
 > - Ibogaine comes from the West African plant, which has long been used for its psychoactive properties in the Bwiti spiritual tradition in Gabon. `[例]`
->   - 中译：咖啡因是一种精神活性物质。
+>   - 中译：伊博加因来自西非的一种植物，在加蓬的布维提精神传统中长期以来因其精神活性而被使用。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/psychoactive
 > - Psilocybin is the main psychoactive ingredient in magic mushrooms. `[例]`
->   - 中译：许多药物对大脑有精神活性作用。
+>   - 中译：裸盖菇素是迷幻蘑菇中的主要精神活性成分。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/psychoactive
 
 ## 主动产出

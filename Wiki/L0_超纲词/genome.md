@@ -132,8 +132,8 @@ review_count: 0
 >   - 中译：人类基因组计划经过十三年的工作于2003年完成。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/genome
 > - Genome sequencing has become faster and cheaper with advances in technology. `[例]`
->   - 中译：随着技术的进步，基因组测序变得更快更便宜。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/genome
+>   - 中译：随着技术的进步，基因组测序变得更快、更便宜。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/genome
 
 ## 主动产出
 

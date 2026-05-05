@@ -125,10 +125,10 @@ review_count: 0
 
 > [!example]- 语料
 > - He was a formidable foe in debate, never backing down from an argument. `[例]`
->   - 中译：这位将军是一位令敌人闻风丧胆的战士。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/foe
+>   - 中译：他在辩论中是一个强大的对手，从不退让。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/foe
 > - Disease and poverty remain the greatest foes of developing nations. `[例]`
->   - 中译：在政治辩论中，他是一位难以对付的对手。
+>   - 中译：疾病和贫困仍然是发展中国家最大的敌人。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/foe
 
 ## 主动产出

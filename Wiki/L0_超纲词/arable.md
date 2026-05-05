@@ -124,11 +124,11 @@ ar(犁，耕种，拉丁语 *arare*) + -able(可以被……的)
 
 > [!example]- 语料
 > - China has only about 7% of the world's arable land, yet it feeds nearly 20% of the global population. `[例]`
->   - 中译：中国仅拥有世界约7%的可耕地，却养活了全球近20%的人口。
+>   - 中译：中国仅拥有世界约7%的耕地，却养活了全球近20%的人口。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/arable
 > - Urbanization has led to a significant loss of arable land in many developing countries. `[例]`
->   - 中译：城市化导致许多发展中国家大量可耕地流失。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/arable
+>   - 中译：城市化导致许多发展中国家耕地大量流失。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/arable
 
 ## 主动产出
 

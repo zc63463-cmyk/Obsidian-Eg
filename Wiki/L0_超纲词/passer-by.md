@@ -120,11 +120,11 @@ pass（经过）+ -er（人）+ by（旁边）
 
 > [!example]- 语料
 > - The gunmen opened fire , killing a policeman and a passer-by. `[例]`
->   - 中译：一位路人帮助了受伤的老人。
+>   - 中译：枪手开火，打死了一名警察和一名路人。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/passer-by
 > - A passerby saw the accident and stopped to help. `[例]`
->   - 中译：警方正在寻找可能看到事故的目击路人。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/passer-by
+>   - 中译：一名路人看到了事故，停下来帮忙。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/passer-by
 
 ## 主动产出
 

@@ -125,8 +125,8 @@ frame(框架，结构) + -er(人/物)
 >   - 中译：她是当地一家画廊的画框装裱师。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/framer
 > - When she finishes a painting , she takes it immediately to her framer. `[例]`
->   - 中译：她完成一幅画后，会立刻拿去给她的装裱师。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/framer
+>   - 中译：她完成一幅画后，会立刻拿去给装裱师装裱。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/framer
 
 ## 主动产出
 

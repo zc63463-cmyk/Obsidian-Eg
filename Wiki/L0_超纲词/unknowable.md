@@ -126,11 +126,11 @@ un-(不，否定前缀) + [[know]](知道/认识) + -able(可被...的)
 
 > [!example]- 语料
 > - A God whose nature is unknown and unknowable. `[例]`
->   - 中译：宇宙的最终命运是人类无法知晓的。
+>   - 中译：一位本质未知且不可知的上帝。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/unknowable
 > - The truth in this story seems to be elusive and unknowable , and this circles back to your earlier question about what kind of assumptions are made about people with names like Saïd or Tamerlan. `[例]`
->   - 中译：有些事情本质上是不可知的。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/unknowable
+>   - 中译：这个故事中的真相似乎难以捉摸且不可知，这又回到了你之前关于人们对像赛义德或塔梅尔兰这样的名字会做出什么假设的问题。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/unknowable
 
 ## 主动产出
 

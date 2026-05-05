@@ -117,10 +117,10 @@ onco-(=tumor/肿块, 肿瘤) + [[gen]](=[[gen]], 产生/基因)
 
 > [!example]- 语料
 > - The hikers rested under a towering oncogene near the coastal trail. `[例]`
->   - 中译：研究人员发现了一种与癌症发展相关的致癌基因。
+>   - 中译：徒步旅行者在沿海步道旁一棵高大的致癌基因树下休息。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/oncogene
 > - The cabin was built from durable oncogene gathered in the region. `[例]`
->   - 中译：致癌基因的突变可能导致肿瘤的形成。
+>   - 中译：小木屋是用在该地区采集的耐久致癌基因木建造的。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/oncogene
 
 ## 主动产出

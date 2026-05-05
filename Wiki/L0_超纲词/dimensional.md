@@ -119,10 +119,10 @@ review_count: 0
 > [!example]- 语料
 > - The artist created a three-dimensional sculpture. `[例]`
 >   - 中译：这位艺术家创作了一件三维雕塑。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/three-dimensional
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/dimensional
 > - Modern data analysis often requires multi-dimensional models to capture complex relationships. `[例]`
 >   - 中译：现代数据分析通常需要多维模型来捕捉复杂的关系。
->   - 来源：Collins | https://www.collinsdictionary.com/dictionary/english/multidimensional
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/dimensional
 
 ## 主动产出
 

@@ -117,11 +117,11 @@ sea(海) + pink(粉色) → 字面组合，指在海边生长的粉色小花。�
 
 > [!example]- 语料
 > - A few sea pinks were still in bloom on the cliffs. `[例]`
->   - 中译：海石竹沿着悬崖生长，在风中摇曳。
->   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sea%20pink
+>   - 中译：悬崖上还有几簇海石竹在盛开。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sea-pink
 > - Sea pinks , sea kale , and ground elder grow on this wild stretch of coast. `[例]`
->   - 中译：粉红色的海石竹是海岸线上最美丽的野花之一。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/sea%20pink
+>   - 中译：海石竹、海甘蓝和羊角芹生长在这片荒芜的海岸上。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sea-pink
 
 ## 主动产出
 

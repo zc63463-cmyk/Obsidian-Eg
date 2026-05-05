@@ -124,11 +124,11 @@ in-(=in-, 加强) + cite(激起，拉丁语 *citare*=唤起、刺激)
 
 > [!example]- 语料
 > - She incited racial hatred by distributing anti-Semitic leaflets. `[例]`
->   - 中译：她通过散发反犹传单煽动种族仇恨。
+>   - 中译：她通过散发反犹太主义传单来煽动种族仇恨。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/incite
 > - She was expelled for inciting her classmates to rebel against their teachers. `[例]`
 >   - 中译：她因煽动同学反抗老师而被开除。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/incite
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/incite
 
 ## 主动产出
 

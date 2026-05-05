@@ -124,11 +124,11 @@ review_count: 0
 
 > [!example]- 语料
 > - The growing schism between the leadership and the ordinary party members. `[例]`
->   - 中译：教会内部出现了严重的分裂。
+>   - 中译：领导层与普通党员之间日益加深的分裂。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/schism
 > - By 1914 the party was dangerously close to schism. `[例]`
->   - 中译：党内的意见分歧导致了组织的分裂。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/schism
+>   - 中译：到1914年，该党已危险地接近分裂。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/schism
 
 ## 主动产出
 

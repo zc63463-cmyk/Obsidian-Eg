@@ -127,11 +127,11 @@ review_count: 0
 
 > [!example]- 语料
 > - The old hotel has gone upscale in recent years. `[例]`
->   - 中译：他们在高档社区开了一家精品酒店。
+>   - 中译：这家老酒店近年来走起了高端路线。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/upscale
 > - I upscaled the quantities in the recipe by three, and made more than enough for four people. `[例]`
->   - 中译：这家高档餐厅以其精致的菜肴而闻名。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/upscale
+>   - 中译：我将食谱中的用量放大了三倍，做出来的食物四个人吃绰绰有余。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/upscale
 
 ## 主动产出
 

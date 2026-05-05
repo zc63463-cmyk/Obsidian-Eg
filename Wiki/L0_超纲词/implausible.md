@@ -123,8 +123,8 @@ im-(=in-, 不) + plaus(ible)(可鼓掌的→可信的，拉丁语 *plaudere*=鼓
 >   - 中译：鉴于相互矛盾的证据，侦探认为嫌疑人的不在场证明完全不可信。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/implausible
 > - The movie was criticized for its implausible plot twists that defied basic logic. `[例]`
->   - 中译：这部电影因其违背基本逻辑的不可信情节转折而受到批评。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/implausible
+>   - 中译：这部电影因违背基本逻辑的荒诞剧情反转而受到批评。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/implausible
 
 ## 主动产出
 

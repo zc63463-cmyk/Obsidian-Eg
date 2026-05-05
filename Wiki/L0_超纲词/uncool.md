@@ -124,11 +124,11 @@ un-(不，否定前缀) + cool(凉的/酷的)
 
 > [!example]- 语料
 > - My dad's so uncool. `[例]`
->   - 中译：在学校里，穿错衣服会让人觉得不酷。
+>   - 中译：我爸太不酷了。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/uncool
 > - Wearing homemade clothes was very uncool. `[例]`
->   - 中译：他对流行文化完全不感兴趣，这在同龄人中显得有些格格不入。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/uncool
+>   - 中译：穿自家做的衣服在当时非常不时髦。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/uncool
 
 ## 主动产出
 

@@ -122,11 +122,11 @@ broad(宽的) + way(路)
 
 > [!example]- 语料
 > - The new musical premiered on Broadway last month and received standing ovations. `[例]`
->   - 中译：这部新音乐剧上个月在百老汇首演，获得了观众起立鼓掌。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/broadway
+>   - 中译：这部新音乐剧上个月在百老汇首演，观众起立鼓掌。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/Broadway
 > - She has been performing in Broadway productions for over two decades. `[例]`
->   - 中译：二十多年来，她一直参与百老汇剧目的演出。
->   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/broadway
+>   - 中译：她已经在百老汇剧目中演出超过二十年了。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/Broadway
 
 ## 主动产出
 

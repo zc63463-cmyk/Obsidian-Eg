@@ -125,10 +125,10 @@ ex-(出来/向外) + cav(洞/空) + -ation(名词后缀，表示动作/结果)
 
 > [!example]- 语料
 > - The archaeological excavation at the site revealed ancient Roman artifacts. `[例]`
->   - 中译：考古发掘揭示了一座古罗马城市的遗迹。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/excavation
+>   - 中译：该遗址的考古发掘出土了古罗马文物。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/excavation
 > - Excavation work on the new subway line has been temporarily suspended due to the discovery of historical remains. `[例]`
->   - 中译：建筑工地的挖掘工作发现了重要的化石。
+>   - 中译：由于发现了历史遗迹，新地铁线的挖掘工作已被暂时暂停。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/excavation
 
 ## 主动产出

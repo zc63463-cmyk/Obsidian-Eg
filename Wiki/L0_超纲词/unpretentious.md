@@ -125,11 +125,11 @@ un-(不，否定) + [[tend-tens]](伸展→假装，拉丁语 *tendere*，引申
 
 > [!example]- 语料
 > - The food is delicious and unpretentious. `[例]`
->   - 中译：她是一位谦逊低调的学者。
+>   - 中译：这里的食物美味而不做作。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/unpretentious
 > - He was a friendly and unpretentious man. `[例]`
->   - 中译：这家餐厅装修朴素，但食物非常美味。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/unpretentious
+>   - 中译：他是一个友善而谦逊的人。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/unpretentious
 
 ## 主动产出
 

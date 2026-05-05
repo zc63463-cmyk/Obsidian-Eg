@@ -123,11 +123,11 @@ review_count: 0
 
 > [!example]- 语料
 > - A number of patients have been successfully treated with the new drug. `[例]`
->   - 中译：医生成功地完成了这台复杂的手术。
+>   - 中译：许多患者已用这种新药成功治愈。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/successfully
 > - What the book does convey very successfully is the horror of war. `[例]`
->   - 中译：团队成功地按时完成了项目。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/successfully
+>   - 中译：这本书非常成功地传达了战争的恐怖。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/successfully
 
 ## 主动产出
 

@@ -126,7 +126,7 @@ im-(=in-, 不) + moral(道德的)
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/immoral
 > - The committee condemned the distribution of immoral content on the internet. `[例]`
 >   - 中译：委员会谴责在互联网上传播不道德内容的行为。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/immoral
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/immoral
 
 ## 主动产出
 

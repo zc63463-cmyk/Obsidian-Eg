@@ -124,10 +124,10 @@ review_count: 0
 
 > [!example]- 语料
 > - Strong interpersonal skills are essential for success in management roles. `[例]`
->   - 中译：良好的人际交往能力对于管理岗位的成功至关重要。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/interpersonal
+>   - 中译：良好的人际交往能力对于管理岗位上的成功至关重要。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/interpersonal
 > - Interpersonal conflicts in the workplace can reduce productivity and morale. `[例]`
->   - 中译：工作场所中的人际冲突会降低生产力和士气。
+>   - 中译：职场中的人际冲突会降低工作效率和士气。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/interpersonal
 
 ## 主动产出

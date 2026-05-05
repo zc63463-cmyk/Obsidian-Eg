@@ -123,11 +123,11 @@ review_count: 0
 
 > [!example]- 语料
 > - To maximize performance , users will require a 1GHz processor and 1GB of RAM. `[例]`
->   - 中译：这台电脑配备了最新的处理器。
+>   - 中译：为了最大化性能，用户需要1GHz处理器和1GB内存。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/processor
 > - The nation's largest processor of meat and poultry has said it will stop using gas technology to keep products looking fresh. `[例]`
->   - 中译：食品加工机可以快速切碎蔬菜。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/processor
+>   - 中译：全国最大的肉类和家禽加工企业表示将停止使用气体技术来保持产品的新鲜外观。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/processor
 
 ## 主动产出
 

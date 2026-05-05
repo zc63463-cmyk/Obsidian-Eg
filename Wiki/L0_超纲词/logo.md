@@ -123,8 +123,10 @@ log-（来自希腊语 *logos*，词、话语、理性）→ logo（logogram 的
 > [!example]- 语料
 > - The players wore shirts with the sponsor's logo. `[例]`
 >   - 中译：球员们穿着印有赞助商标志的球衣。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/logo
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/logo
 > - Athletes are all wearing the sneaker company’s logo. `[例]`
+>   - 中译：运动员们都穿着这家运动鞋公司的标志。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/logo
 
 ## 主动产出
 

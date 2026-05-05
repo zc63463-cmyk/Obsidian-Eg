@@ -123,11 +123,11 @@ ance(=ante, 在前面) + [[st-sta-stat]](站立) + -ry(名词后缀，表集合/
 
 > [!example]- 语料
 > - Many Americans take pride in tracing their ancestry to different parts of the world. `[例]`
->   - 中译：许多美国人为能将自己的血统追溯到世界不同地区而感到自豪。
+>   - 中译：许多美国人为能追溯到世界不同地区的祖源而感到自豪。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ancestry
 > - She discovered that her ancestry included both European and Asian heritage. `[例]`
->   - 中译：她发现自己的血统中既包含欧洲传统，也包含亚洲传统。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/ancestry
+>   - 中译：她发现自己的血统中既有欧洲渊源，也有亚洲渊源。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ancestry
 
 ## 主动产出
 

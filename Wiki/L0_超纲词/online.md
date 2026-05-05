@@ -121,12 +121,14 @@ on-(在……上) + line(线/连线)
 
 > [!example]- 语料
 > - The researchers proposed a online solution to the problem. `[例]`
->   - 中译：你可以在网上找到所有必要的信息。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/online
+>   - 中译：研究人员提出了一种在线的解决方案来应对这一问题。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/online
 > - The company adopted a online approach to improve efficiency. `[例]`
->   - 中译：在线购物变得越来越受欢迎。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/online
+>   - 中译：公司采取了一种在线的方法来提高效率。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/online
 > - The plan offers a online option for small organizations. `[例]`
+>   - 中译：该计划为小型组织提供了在线选项。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/online
 
 ## 主动产出
 

@@ -129,11 +129,11 @@ review_count: 0
 
 > [!example]- 语料
 > - Geologists understand many of the factors that cause volcanic eruptions. `[例]`
->   - 中译：火山爆发释放出大量的岩浆和火山灰。
+>   - 中译：地质学家已经了解了许多导致火山爆发的因素。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/volcanic
 > - They had to deal with the actor's famously volcanic temper. `[例]`
->   - 中译：这座岛屿是由火山活动形成的。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/volcanic
+>   - 中译：他们不得不应对那位演员出了名的暴烈脾气。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/volcanic
 
 ## 主动产出
 

@@ -123,7 +123,7 @@ decor-(合适/优雅，拉丁语 *decorus*) + -ation(名词后缀) → 使变得
 > [!example]- 语料
 > - He's good at cake decoration. `[例]`
 >   - 中译：他擅长蛋糕装饰。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/decoration
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/decoration
 > - This place is badly in need of decoration. `[例]`
 >   - 中译：这个地方急需装修。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/decoration

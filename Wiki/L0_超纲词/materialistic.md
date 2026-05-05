@@ -122,10 +122,10 @@ material（物质）+ -ist（人）+ -ic（形容词后缀，……的）→ 物
 
 > [!example]- 语料
 > - The researchers proposed a materialistic solution to the problem. `[例]`
->   - 中译：研究人员提出了一个唯物主义的解决方案。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/materialistic
+>   - 中译：研究人员提出了一个物质主义的解决方案来解决这个问题。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/materialistic
 > - The company adopted a materialistic approach to improve efficiency. `[例]`
->   - 中译：公司采用了一种唯物主义的方法来提高效率。
+>   - 中译：该公司采取了一种物质主义的方法来提高效率。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/materialistic
 
 ## 主动产出

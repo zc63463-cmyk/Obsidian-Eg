@@ -132,11 +132,11 @@ yearn（渴望，古英语 *gyrnan*，源自日耳曼语族，与古英语 *gear
 
 > [!example]- 语料
 > - I suppose it's because I live in a city that I have this yearning for open spaces. `[例]`
->   - 中译：她内心深处有一种对家乡的深深渴望。
+>   - 中译：我想大概是因为我住在城市里，所以才对开阔的空间有一种渴望。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/yearning
 > - A yearning for a quiet life. `[例]`
->   - 中译：他望着窗外，眼中流露出对自由的渴望。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/yearning
+>   - 中译：对宁静生活的向往。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/yearning
 
 ## 主动产出
 

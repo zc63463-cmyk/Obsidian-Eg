@@ -125,11 +125,11 @@ im-(=in-, 加强) + pel(驱动，拉丁语 *pellere*)
 
 > [!example]- 语料
 > - She was in such a mess I felt impelled to (= felt I had to) offer your services. `[例]`
->   - 中译：她处境如此困难，我觉得有必要提供你的帮助。
+>   - 中译：她处境如此艰难，我觉得有必要提供你的帮助。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/impel
 > - I wonder what it is that impels him to exercise all the time. `[例]`
->   - 中译：我想知道是什么驱使他一直锻炼。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/impel
+>   - 中译：我想知道是什么驱使他一直在锻炼。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/impel
 
 ## 主动产出
 

@@ -125,10 +125,10 @@ en-(使进入/使成为) + danger(危险)
 
 > [!example]- 语料
 > - Deforestation is endangering the survival of many rare species in the Amazon rainforest. `[例]`
->   - 中译：污染正威胁着许多海洋物种的生存。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/endanger
+>   - 中译：森林砍伐正在危及亚马逊雨林中许多稀有物种的生存。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/endanger
 > - Prolonged exposure to these chemicals may endanger public health. `[例]`
->   - 中译：鲁莽驾驶会危及你自己和他人的生命。
+>   - 中译：长期接触这些化学物质可能危害公共健康。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/endanger
 
 ## 主动产出

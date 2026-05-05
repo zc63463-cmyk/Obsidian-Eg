@@ -121,10 +121,10 @@ review_count: 0
 
 > [!example]- 语料
 > - The essential function of our organization is to codify best banking practice. `[例]`
->   - 中译：我们组织的核心职能是将最佳银行业务实践编纂成典。
->   - 来源：Collins | https://www.collinsdictionary.com/dictionary/english/codify
+>   - 中译：政府着手将新法规编纂成正式法律。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/codify
 > - Instead of simply developing our morals from custom, and therefore codifying them into law as in the school they are now boldly criticised, as in part if not in whole, hindrances to a better state of things. `[例]`
->   - 中译：我们不应仅仅从习俗中发展道德并将其编纂成法律——正如在学校中那样，它们现在正受到大胆批评，被视为阻碍更好状态的因素。
+>   - 中译：公司将最佳实践汇编成一本全面的员工手册。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/codify
 
 ## 主动产出

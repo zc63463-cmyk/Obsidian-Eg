@@ -121,8 +121,8 @@ review_count: 0
 
 > [!example]- 语料
 > - The interplay between genetics and environment shapes human behavior. `[例]`
->   - 中译：遗传与环境的相互作用塑造了人类行为。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/interplay
+>   - 中译：遗传与环境之间的相互作用塑造了人类行为。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/interplay
 > - We need to understand the complex interplay of economic forces. `[例]`
 >   - 中译：我们需要理解经济力量之间复杂的相互作用。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/interplay

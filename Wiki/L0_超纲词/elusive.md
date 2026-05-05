@@ -128,10 +128,10 @@ e-(=ex-, 出来/离开) + [[lus|lus]](玩/逃避，源自拉丁语 *ludere*，"�
 
 > [!example]- 语料
 > - The concept of justice has remained an elusive idea that philosophers have debated for centuries. `[例]`
->   - 中译：这个问题的解决方案一直难以捉摸。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/elusive
+>   - 中译：正义的概念一直是一个难以捉摸的理念，哲学家们已经争论了几个世纪。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/elusive
 > - Despite extensive search efforts, the rare species proved elusive and was never photographed in the wild. `[例]`
->   - 中译：警方一直在追捕这个行踪不定的罪犯。
+>   - 中译：尽管进行了广泛的搜寻，这种稀有物种仍然难以寻觅，从未在野外被拍摄到。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/elusive
 
 ## 主动产出

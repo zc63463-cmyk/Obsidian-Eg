@@ -123,9 +123,9 @@ in-(向内) + [[tend|tend-tens-]](伸展/倾向) + -ion(名词) + -al(形容词)
 > [!example]- 语料
 > - She claimed that she did not intentionally violate the rules. `[例]`
 >   - 中译：她声称自己并非故意违反规则。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/intentionally
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/intentionally
 > - The data was intentionally manipulated to support the researcher's hypothesis. `[例]`
->   - 中译：数据被故意篡改以支持研究人员的假设。
+>   - 中译：数据被故意篡改以支持研究者的假设。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/intentionally
 
 ## 主动产出

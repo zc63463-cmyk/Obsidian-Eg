@@ -124,11 +124,11 @@ review_count: 0
 
 > [!example]- 语料
 > - The new rules will substantially change how we do things. `[例]`
->   - 中译：房价在过去一年中大幅上涨。
+>   - 中译：新规将大幅改变我们的做事方式。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/substantially
 > - House prices have risen substantially over the last six months. `[例]`
->   - 中译：新方案与原计划有很大不同。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/substantially
+>   - 中译：过去六个月里房价大幅上涨。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/substantially
 
 ## 主动产出
 

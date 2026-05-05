@@ -129,11 +129,11 @@ review_count: 0
 
 > [!example]- 语料
 > - All salespeople seem to have the same phoney smile. `[例]`
->   - 中译：他拿着一个假身份证。
+>   - 中译：所有销售人员似乎都有同样的虚假微笑。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/phoney
 > - He gave the police a phoney address. `[例]`
->   - 中译：我觉得他的借口很虚伪。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/phoney
+>   - 中译：他给了警方一个假地址。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/phoney
 
 ## 主动产出
 

@@ -131,11 +131,11 @@ ware 源自古英语 *waru*，意为"货物、商品、注意"，日耳曼语族
 
 > [!example]- 语料
 > - He travelled from town to town selling his wares. `[例]`
->   - 中译：这家商店出售各种精美的陶器。
+>   - 中译：他从一个城镇到另一个城镇兜售他的货物。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ware
 > - She sold her wares at the market. `[例]`
->   - 中译：消费者应该警惕假冒伪劣商品。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/ware
+>   - 中译：她在市场上出售她的货物。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ware
 
 ## 主动产出
 

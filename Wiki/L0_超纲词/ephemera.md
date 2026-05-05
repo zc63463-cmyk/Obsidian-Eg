@@ -121,11 +121,11 @@ ephemer-(短暂的，源自希腊语 *ephemeros*，"只存在一天的") + -a(�
 
 > [!example]- 语料
 > - The museum has a fascinating collection of Victorian ephemera, including old theater programs and advertising posters. `[例]`
->   - 中译：博物馆收藏了大量维多利亚时代的日常 ephemera（短暂存在的印刷品）。
+>   - 中译：这家博物馆收藏了大量迷人的维多利亚时期 ephemera，包括旧戏剧节目单和广告海报。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ephemera
 > - Digital ephemera such as tweets and Instagram stories are now considered valuable cultural artifacts by some researchers. `[例]`
->   - 中译：在数字时代，许多网络 ephemera 很快就消失了。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/ephemera
+>   - 中译：推文和Instagram快拍等数字 ephemera 现在被一些研究者视为有价值的文化产物。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ephemera
 
 ## 主动产出
 

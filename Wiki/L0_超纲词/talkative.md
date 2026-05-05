@@ -125,11 +125,11 @@ talk（说话）+ -ative（形容词后缀，倾向于…的）。
 
 > [!example]- 语料
 > - She's a lively , talkative person. `[例]`
->   - 中译：她是一个非常健谈的人，总是有说不完的话。
+>   - 中译：她是一个活泼健谈的人。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/talkative
 > - Cynthia is lively and talkative. `[例]`
->   - 中译：会议中那个健谈的同事几乎占据了所有的发言时间。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/talkative
+>   - 中译：辛西娅活泼而健谈。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/talkative
 
 ## 主动产出
 

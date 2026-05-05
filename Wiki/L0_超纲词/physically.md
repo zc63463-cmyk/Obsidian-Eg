@@ -127,11 +127,11 @@ review_count: 0
 
 > [!example]- 语料
 > - The protestors had to be physically removed from the room (= they were taken away). `[例]`
->   - 中译：他身体上无法完成这项任务。
+>   - 中译：抗议者被强行从房间里带走。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/physically
 > - The work is physically demanding (= you have to work hard in a way that makes your body tired ). `[例]`
->   - 中译：这两个城市在地理位置上相距很远。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/physically
+>   - 中译：这项工作对体力要求很高。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/physically
 
 ## 主动产出
 

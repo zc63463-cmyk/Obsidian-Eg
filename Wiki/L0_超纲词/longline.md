@@ -126,11 +126,11 @@ long（长的）+ line（线）→ **长线；延绳钓线**
 
 > [!example]- 语料
 > - What your argument is there's actually a lot humans can do with longline fishing and getting rid of these shark nets, that is something humans can impact. `[例]`
->   - 中译：你的论点是，人类在延绳钓和消除这些鲨鱼网方面实际上可以做很多事情，这是人类能够影响的。
+>   - 中译：你的论点是，人类在延绳钓和消除鲨鱼网方面实际上可以做很多事情，这是人类能够影响的。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/longline
 > - Dogfish have fewer electroreceptors than many open-water species such as blacktips and oceanic whitetips, which are susceptible to longlines meant for tuna and swordfish. `[例]`
->   - 中译：角鲨的电感受器比许多开阔水域物种（如黑鳍鲨和大洋白鳍鲨）少，后者容易受到为金枪鱼和剑鱼设置的延绳钓的影响。
->   - 来源：Collins | https://www.collinsdictionary.com/dictionary/english/longline
+>   - 中译：角鲨的电感受器比许多开阔水域物种（如黑鳍鲨和大洋白鳍鲨）要少，而这些物种容易受到旨在捕捞金枪鱼和剑鱼的延绳钓的影响。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/longline
 
 ## 主动产出
 

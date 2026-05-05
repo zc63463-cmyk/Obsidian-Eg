@@ -125,9 +125,9 @@ review_count: 0
 > [!example]- 语料
 > - Interactive learning methods have been shown to improve student engagement. `[例]`
 >   - 中译：互动式学习方法已被证明能提高学生的参与度。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/interactive
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/interactive
 > - The museum features interactive exhibits that allow visitors to explore scientific concepts. `[例]`
->   - 中译：博物馆设有互动展览，让参观者探索科学概念。
+>   - 中译：博物馆设有互动展品，让参观者可以探索科学概念。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/interactive
 
 ## 主动产出

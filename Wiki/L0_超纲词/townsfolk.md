@@ -121,11 +121,11 @@ town（城镇）+ folk（人们）。
 
 > [!example]- 语料
 > - The audience is thrust into 1944 Hartford with townsfolk excited about how the circus is coming to town. `[例]`
->   - 中译：镇上的居民对这位新来的医生非常友好。
+>   - 中译：观众被带入1944年的哈特福德，镇上的居民们正兴奋地期待着马戏团来到镇上。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/townsfolk
-> - Just as the various townsfolk characters are clearly modeled on those that trod the musical boards back in Broadway‘s Golden Age, so too does the score owe its debts. `[例]`
->   - 中译：当地居民聚集在广场上庆祝节日。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/townsfolk
+> - Just as the various townsfolk characters are clearly modeled on those that trod the musical boards back in Broadway's Golden Age, so too does the score owe its debts. `[例]`
+>   - 中译：正如各种镇民角色明显借鉴了百老汇黄金时代音乐剧舞台上的角色一样，配乐也同样有其借鉴之处。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/townsfolk
 
 ## 主动产出
 

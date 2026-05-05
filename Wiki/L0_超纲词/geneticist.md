@@ -126,11 +126,11 @@ review_count: 0
 
 > [!example]- 语料
 > - A leading geneticist has made a groundbreaking discovery about gene therapy. `[例]`
->   - 中译：一位著名的遗传学家在基因疗法方面取得了突破性发现。
+>   - 中译：一位顶尖遗传学家在基因治疗方面取得了突破性发现。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/geneticist
 > - Geneticists have discovered a new gene linked to heart disease. `[例]`
->   - 中译：遗传学家发现了一个与心脏病有关的新基因。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/geneticist
+>   - 中译：遗传学家发现了一个与心脏病相关的新基因。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/geneticist
 
 ## 主动产出
 

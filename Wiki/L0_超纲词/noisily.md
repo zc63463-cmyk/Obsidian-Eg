@@ -123,8 +123,8 @@ noise（噪音）+ -y（形容词后缀，充满……的）+ -ly（副词后缀
 
 > [!example]- 语料
 > - A motorbike started up noisily outside. `[例]`
->   - 中译：外面一辆摩托车嘈杂地发动了。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/noisily
+>   - 中译：外面一辆摩托车吵闹地发动了。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/noisily
 > - A group of children played noisily in the garden. `[例]`
 >   - 中译：一群孩子在花园里吵闹地玩耍。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/noisily

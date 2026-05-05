@@ -125,9 +125,9 @@ mill(千，拉丁语 *mille*) + -ennium(年，拉丁语 *annus*)
 > [!example]- 语料
 > - How did you celebrate the millennium? `[例]`
 >   - 中译：你是如何庆祝千禧年的？
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/millennium
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/millennium
 > - The area has experienced the worst drought in half a millennium. `[例]`
->   - 中译：该地区经历了半个千年来最严重的干旱。
+>   - 中译：该地区经历了半个千年以来最严重的干旱。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/millennium
 
 ## 主动产出

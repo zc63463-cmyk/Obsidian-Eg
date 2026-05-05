@@ -124,11 +124,11 @@ con-(共同) + [[st-sta-stat|stitu-/stit-]](站立/建立) + -tion(名词) + -al
 
 > [!example]- 语料
 > - The committee chose to ignore questions of the constitutionality of the Senator's actions. `[例]`
->   - 中译：委员会选择无视关于该参议员行为合宪性的问题。
->   - 来源：Collins | https://www.collinsdictionary.com/dictionary/english/constitutionality
+>   - 中译：新移民法的合宪性在联邦法院受到了质疑。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/constitutionality
 > - They questioned the constitutionality of the law. `[例]`
->   - 中译：他们对这部法律的合宪性提出了质疑。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/constitutionality
+>   - 中译：法官维持了医疗强制令的合宪性裁定。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/constitutionality
 
 ## 主动产出
 

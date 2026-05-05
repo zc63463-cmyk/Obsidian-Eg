@@ -124,7 +124,7 @@ in-(进入) + nov(新的) + -at(动词) + -or(人)
 > [!example]- 语料
 > - Steve Jobs was widely regarded as one of the greatest innovators of our time. `[例]`
 >   - 中译：史蒂夫·乔布斯被广泛认为是当代最伟大的创新者之一。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/innovator
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/innovator
 > - The award recognizes innovators who have made significant contributions to the field. `[例]`
 >   - 中译：该奖项表彰对该领域做出重大贡献的创新者。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/innovator

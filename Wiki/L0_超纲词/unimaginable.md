@@ -126,11 +126,11 @@ un-(不，否定前缀) + [[im-|imagin]](想象) + -able(可被...的)
 
 > [!example]- 语料
 > - It was a time of drought and despair , of the Dust Bowl , of unimaginable suffering. `[例]`
->   - 中译：科技发展带来了前所未有的变化。
+>   - 中译：那是一个干旱与绝望的时代，是沙尘暴肆虐的时代，是难以想象的苦难时代。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/unimaginable
 > - This level of success would have been unimaginable just last year. `[例]`
->   - 中译：战争给人民带来了难以想象的苦难。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/unimaginable
+>   - 中译：这种程度的成功在仅仅去年还是不可想象的。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/unimaginable
 
 ## 主动产出
 

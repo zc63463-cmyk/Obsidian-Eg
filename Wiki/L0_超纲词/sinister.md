@@ -123,11 +123,11 @@ sinister（源自拉丁语 *sinister*，意为"左边的"）
 
 > [!example]- 语料
 > - The ruined house had a sinister appearance. `[例]`
->   - 中译：他露出了一个阴险的笑容。
+>   - 中译：那座废墟般的房子看起来阴森可怕。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sinister
 > - A sinister-looking man sat in the corner of the room. `[例]`
->   - 中译：这部电影讲述了一个邪恶组织企图控制世界的故事。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/sinister
+>   - 中译：一个看起来阴险的男人坐在房间的角落里。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sinister
 
 ## 主动产出
 

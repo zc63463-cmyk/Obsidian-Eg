@@ -126,8 +126,8 @@ horti-(=garden, 花园，拉丁语 *hortus*) + cult(=cultivate, 耕作) + -ur(e)
 >   - 中译：他是一位园艺学教授。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/horticultural
 > - She visits many gardening shows and horticultural industry functions. `[例]`
->   - 中译：她参观了许多园艺展览和园艺行业活动。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/horticultural
+>   - 中译：她经常参观各种园艺展览和园艺行业活动。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/horticultural
 
 ## 主动产出
 

@@ -126,11 +126,11 @@ review_count: 0
 
 > [!example]- 语料
 > - Grandpa planted a lot of fruit trees , including gooseberry , blackcurrant , plum, and loganberry. `[例]`
->   - 中译：她得到了一份令人垂涎的工作。
+>   - 中译：爷爷种了很多果树，包括醋栗、黑加仑、李子和罗甘莓。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/plum
 > - How did you manage to get such a plum job? `[例]`
->   - 中译：花园里的李子树结满了果实。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/plum
+>   - 中译：你是怎么得到这么好的工作的？
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/plum
 
 ## 主动产出
 

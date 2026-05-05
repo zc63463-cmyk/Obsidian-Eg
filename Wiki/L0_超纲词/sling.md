@@ -127,11 +127,11 @@ sling（源自古诺斯语 *slengva*，意为"抛，掷"）
 
 > [!example]- 语料
 > - Don't just sling your bag on the floor! `[例]`
->   - 中译：她用吊带把受伤的手臂吊起来。
+>   - 中译：别把你的包随手扔在地上！
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sling
 > - If any of the letters aren't interesting just sling them in the bin. `[例]`
->   - 中译：他随手把包甩到了肩上。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/sling
+>   - 中译：如果哪封信没意思，就直接扔进垃圾桶。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sling
 
 ## 主动产出
 

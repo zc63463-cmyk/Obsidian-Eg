@@ -118,10 +118,10 @@ review_count: 0
 
 > [!example]- 语料
 > - Cancer patients are often prescribed increasing doses of morphine. `[例]`
->   - 中译：癌症患者经常被开具逐渐增加剂量的吗啡。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/morphine
+>   - 中译：癌症患者通常会被开具逐渐增加剂量的吗啡。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/morphine
 > - When China banned all variants of fentanyl in 2019, illicit chemists began to research non-fentanyl opioids and rediscovered nitazenes, drugs developed in the 1950s as alternatives to morphine but never approved for medical use. `[例]`
->   - 中译：当中国在2019年禁止所有芬太尼变体时，非法化学家开始研究非芬太尼类阿片药物，并重新发现了硝氮嗪——这是20世纪50年代作为吗啡替代品开发的药物，但从未获得医疗使用批准。
+>   - 中译：2019年中国禁止所有芬太尼类似物后，非法化学家开始研究非芬太尼类阿片药物，并重新发现了尼塔嗪——这种在20世纪50年代作为吗啡替代品开发但从未获准医疗使用的药物。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/morphine
 
 ## 主动产出

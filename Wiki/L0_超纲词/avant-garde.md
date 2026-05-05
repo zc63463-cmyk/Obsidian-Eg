@@ -132,11 +132,11 @@ review_count: 0
 
 > [!example]- 语料
 > - The avant-garde movement of the early 20th century challenged every convention of traditional art. `[例]`
->   - 中译：20世纪初的先锋派运动挑战了传统艺术的每一个惯例。
->   - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/avant-garde
+>   - 中译：二十世纪初的前卫运动挑战了传统艺术的每一条惯例。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/avant-garde
 > - Her avant-garde approach to fashion has made her one of the most influential designers of the decade. `[例]`
->   - 中译：她前卫的时尚理念使她成为十年来最具影响力的设计师之一。
->   - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/avant-garde
+>   - 中译：她前卫的时尚设计使她成为十年来最具影响力的设计师之一。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/avant-garde
 
 ## 主动产出
 

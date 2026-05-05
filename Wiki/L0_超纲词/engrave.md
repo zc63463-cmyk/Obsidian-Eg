@@ -124,10 +124,10 @@ en-(在……上/使成为) + grave(雕刻，源自拉丁语 *gravis*，"重的/
 
 > [!example]- 语料
 > - The couple had their initials engraved on the inside of their wedding rings. `[例]`
->   - 中译：戒指内侧刻着他们的名字和结婚日期。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/engrave
+>   - 中译：这对夫妇将各自姓名的首字母刻在了婚戒的内侧。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/engrave
 > - The horrors of that war are deeply engraved in the collective memory of the nation. `[例]`
->   - 中译：这位事件被铭刻在民族的集体记忆中。
+>   - 中译：那场战争的恐怖景象深深铭刻在民族的集体记忆中。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/engrave
 
 ## 主动产出

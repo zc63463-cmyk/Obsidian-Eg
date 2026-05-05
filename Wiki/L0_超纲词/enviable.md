@@ -124,10 +124,10 @@ en-(=in-, 在……上) + [[vis-vid|vid]](看，源自拉丁语 *videre*) + -abl
 
 > [!example]- 语料
 > - She holds an enviable position at one of the top research universities in the country. `[例]`
->   - 中译：她拥有一份令人羡慕的工作，可以在家办公。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/enviable
+>   - 中译：她在国内一所顶尖研究型大学担任令人羡慕的职位。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/enviable
 > - The company has built an enviable reputation for quality and reliability over the past decade. `[例]`
->   - 中译：他处于令人羡慕的位置，可以自由选择项目。
+>   - 中译：过去十年间，公司凭借品质和可靠性建立了令人羡慕的声誉。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/enviable
 
 ## 主动产出

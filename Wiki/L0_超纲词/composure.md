@@ -121,14 +121,14 @@ com-（一起）+ [[pos-pon-posit]]（放置）+ -ure（名词后缀，表示状
 ## 真题/语料关联
 
 > [!example]- 语料
-> - You may feel nervous but don't lose your composure in front of the camera. `[例]`
->   - 中译：你可能会感到紧张，但不要在镜头前失去镇定。
->   - 来源：Collins | https://www.collinsdictionary.com/dictionary/english/composure
+> - You may feel nervous but don’t lose your composure in front of the camera. `[例]`
+>   - 中译：尽管周围一片混乱，她仍保持镇定，从容地向人群讲话。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/composure
 > - She answered the difficult interview questions with remarkable composure. `[例]`
->   - 中译：她以非凡的沉着回答了那些棘手的面试问题。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/composure
+>   - 中译：这位经验丰富的外交官在压力下的从容表现赢得了同行的尊重。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/composure
 > - The firefighter showed great composure while rescuing the trapped residents from the burning building. `[例]`
->   - 中译：消防员在从燃烧的大楼中营救被困居民时表现出极大的镇定。
+>   - 中译：消防员在从燃烧的建筑中营救被困居民时表现出了极大的镇定。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/composure
 
 ## 主动产出

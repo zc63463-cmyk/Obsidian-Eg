@@ -124,10 +124,10 @@ mean（意味）+ -ing（动名词后缀）+ -less（没有……的）→ 没�
 
 > [!example]- 语料
 > - The leaflet was full of meaningless information. `[例]`
->   - 中译：传单上满是毫无意义的信息。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/meaningless
+>   - 中译：这本宣传册里满是毫无意义的信息。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/meaningless
 > - We fill up our lives with meaningless tasks. `[例]`
->   - 中译：我们用毫无意义的任务填满我们的生活。
+>   - 中译：我们用毫无意义的任务填满自己的生活。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/meaningless
 
 ## 主动产出

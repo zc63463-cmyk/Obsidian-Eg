@@ -123,14 +123,14 @@ in-(向内/加强) + dic(说/指出，拉丁语 *dicare*) + -ator(表示人或�
 
 > [!example]- 语料
 > - GDP is often used as a key indicator of a nation's economic health. `[例]`
->   - 中译：GDP通常被用作衡量一个国家经济健康状况的关键指标。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/indicator
+>   - 中译：国内生产总值通常被用作衡量一个国家经济健康状况的关键指标。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/indicator
 > - The warning indicator on the dashboard flashed red to alert the driver. `[例]`
->   - 中译：仪表盘上的警示灯闪红色以提醒驾驶员。
+>   - 中译：仪表盘上的警示指示灯闪烁红色，提醒驾驶员注意。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/indicator
 > - Stock market indices serve as leading indicators of future economic trends. `[例]`
->   - 中译：股市指数作为未来经济趋势的领先指标。
->   - 来源：Collins | https://www.collinsdictionary.com/dictionary/english/indicator
+>   - 中译：股市指数是未来经济趋势的领先指标。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/indicator
 
 ## 主动产出
 

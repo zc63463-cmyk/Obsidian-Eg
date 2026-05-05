@@ -126,11 +126,11 @@ review_count: 0
 
 > [!example]- 语料
 > - Attitudes seem to be changing as a result of recent highly publicized cases of sexual harassment. `[例]`
->   - 中译：公司通过广告宣传了新产品。
+>   - 中译：由于最近被广泛报道的性骚扰案件，人们的观念似乎正在改变。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/publicize
 > - The event was well publicized all over town. `[例]`
->   - 中译：她公开宣传了自己的慈善事业。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/publicize
+>   - 中译：这一活动在全镇范围内得到了充分的宣传。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/publicize
 
 ## 主动产出
 

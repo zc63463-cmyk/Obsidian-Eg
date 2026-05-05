@@ -118,10 +118,10 @@ review_count: 0
 
 > [!example]- 语料
 > - The farmer loaded the harvested grain onto a bullock cart and headed to the market. `[例]`
->   - 中译：农民把收获的粮食装上牛车，前往市场。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/bullock
+>   - 中译：牛车是农村地区运输货物的主要工具。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bullock
 > - A team of bullocks ploughed the field before the monsoon arrived. `[例]`
->   - 中译：一群阉牛在季风来临之前犁了地。
+>   - 中译：农民在种植季节前用两头阉牛来犁地。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/bullock
 
 ## 主动产出

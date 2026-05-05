@@ -125,11 +125,11 @@ review_count: 0
 
 > [!example]- 语料
 > - The show reflects the sensory overload of contemporary culture, with all the flashing screens and blaring music. `[例]`
->   - 中译：感官体验对幼儿的发展至关重要。
+>   - 中译：这场展览反映了当代文化的感官过载，闪烁的屏幕和嘈杂的音乐无处不在。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sensory
 > - A study was conducted on sensory stimulation and its effects on the brain. `[例]`
->   - 中译：这种疾病会影响患者的感官功能。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/sensory
+>   - 中译：一项关于感官刺激及其对大脑影响的研究已经开展。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sensory
 
 ## 主动产出
 

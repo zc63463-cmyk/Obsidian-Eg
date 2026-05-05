@@ -127,11 +127,11 @@ un-(不，否定前缀) + canny(精明的/知晓的)
 
 > [!example]- 语料
 > - It was uncanny the way that she always knew what he was thinking. `[例]`
->   - 中译：她有一种不可思议的直觉，总能预感到危险。
+>   - 中译：她总是知道他在想什么，这种能力令人毛骨悚然。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/uncanny
 > - She bears an uncanny resemblance to her father's best friend. `[例]`
->   - 中译：这对双胞胎长得惊人地相似，简直令人毛骨悚然。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/uncanny
+>   - 中译：她和父亲最好的朋友长得惊人地相似。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/uncanny
 
 ## 主动产出
 

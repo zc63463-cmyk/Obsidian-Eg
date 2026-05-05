@@ -126,11 +126,11 @@ ros(玫瑰，拉丁语 *rosa*) + -y(形容词后缀，表"像……的/有……
 
 > [!example]- 语料
 > - Your rosy cheeks always make you look so healthy. `[例]`
->   - 中译：尽管面临挑战，她对未来持乐观态度。
+>   - 中译：你红润的脸颊总让你看起来很健康。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rosy
 > - Our financial position is rosy. `[例]`
->   - 中译：经济前景并不像人们想象的那么美好。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/rosy
+>   - 中译：我们的财务状况很好。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rosy
 
 ## 主动产出
 

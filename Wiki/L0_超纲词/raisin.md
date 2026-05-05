@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**葡萄干**== `a raisin` `N of raisins`；
+**n.** ①==**葡萄干**==；
 
 > [!tip] 原型义
 > **原型义**：葡萄干（被收回水分的葡萄）
@@ -117,11 +117,11 @@ review_count: 0
 
 > [!example]- 语料
 > - This one, my current obsession, includes raw unsalted pistachios, pecans, and raisins , all from TJ’s. `[例]`
->   - 中译：她在蛋糕里加了葡萄干。
+>   - 中译：这款我目前的最爱，包含生无盐开心果、山核桃和葡萄干，全部来自TJ’s。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/raisin
 > - The traditional line-up includes coronation chicken sandwiches, plain and raisin scones and an assortment of tantalising afternoon tea pastries. `[例]`
->   - 中译：葡萄干是葡萄晒干后的产物。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/raisin
+>   - 中译：传统套餐包括加冕鸡三明治、原味司康和葡萄干司康，以及各种诱人的下午茶糕点。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/raisin
 
 ## 主动产出
 

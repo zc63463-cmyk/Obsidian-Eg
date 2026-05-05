@@ -126,11 +126,11 @@ review_count: 0
 
 > [!example]- 语料
 > - The soldiers discovered a booby trap hidden beneath the road just in time to avoid it. `[例]`
->   - 中译：士兵们及时发现并避开了隐藏在路面下的陷阱。
->   - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/booby
+>   - 中译：鲣鸟是一种大型海鸟，以其在船上笨拙的降落而闻名。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/booby
 > - Don't be such a booby, the instructions are right there on the box. `[例]`
->   - 中译：别这么傻，说明书就在盒子上。
->   - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/booby
+>   - 中译：蓝脚鲣鸟原产于加拉帕戈斯群岛。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/booby
 
 ## 主动产出
 

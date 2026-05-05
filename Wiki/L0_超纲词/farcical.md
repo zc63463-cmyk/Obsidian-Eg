@@ -125,10 +125,10 @@ farc(=farce, 闹剧/填塞，拉丁语 *farcire*，填塞) + -ical(形容词后�
 
 > [!example]- 语料
 > - The trial was a farcical spectacle that made a mockery of justice. `[例]`
->   - 中译：审判过程变成了一场闹剧。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/farcical
+>   - 中译：这场审判是一场闹剧，简直是对正义的嘲弄。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/farcical
 > - The negotiations became farcical when neither side was willing to compromise. `[例]`
->   - 中译：谈判以一种荒唐可笑的方式结束了。
+>   - 中译：双方都不愿妥协，谈判变得荒唐可笑。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/farcical
 
 ## 主动产出

@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**招聘人员，招募者**== `N for N` `N prep N` [中性/通用]；
+**n.** ①==**招聘人员，招募者**==；
 
 > [!tip] 原型义
 > **原型义**：招募者（招募新成员的人）
@@ -125,11 +125,11 @@ review_count: 0
 
 > [!example]- 语料
 > - He worked as a military recruiter in Texas. `[例]`
->   - 中译：他曾在德克萨斯州担任军队征兵人员。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/recruiter
+>   - 中译：他在德克萨斯州担任军事招募员。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/recruiter
 > - Recruiters target colleges and military bases in the region. `[例]`
->   - 中译：招聘人员在该地区的大学和军事基地开展招募。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/recruiter
+>   - 中译：招募人员以该地区的大学和军事基地为目标。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/recruiter
 
 ## 主动产出
 

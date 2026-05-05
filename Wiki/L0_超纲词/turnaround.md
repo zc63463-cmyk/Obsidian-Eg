@@ -141,11 +141,11 @@ review_count: 0
 
 > [!example]- 语料
 > - We'll have to improve the turnaround - three days is too long. `[例]`
->   - 中译：新CEO在一年内实现了公司的扭亏为盈。
+>   - 中译：我们不得不缩短周转时间——三天太长了。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/turnaround
 > - Turnaround time for each order is, on average , four days. `[例]`
->   - 中译：项目的快速完成超出了所有人的预期。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/turnaround
+>   - 中译：每份订单的平均周转时间为四天。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/turnaround
 
 ## 主动产出
 

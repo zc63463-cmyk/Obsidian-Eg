@@ -127,10 +127,10 @@ fair(公平的，美丽的) + -ness(名词后缀，表示状态/性质)
 
 > [!example]- 语料
 > - A sense of fairness is deeply ingrained in human nature. `[例]`
->   - 中译：所有人都同意这个决定是公平的。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/fairness
+>   - 中译：公平感深深植根于人性之中。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fairness
 > - In fairness to the company, they did try to resolve the issue. `[例]`
->   - 中译：法官以公正无私著称。
+>   - 中译：为了对公司公平起见，他们确实尝试过解决这个问题。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fairness
 
 ## 主动产出

@@ -126,11 +126,11 @@ work（工作，古英语 *weorc*）+ place（地方，拉丁语 *platea* 通过
 
 > [!example]- 语料
 > - The survey asks workers about facilities in their workplace. `[例]`
->   - 中译：公司致力于创造一个安全的工作场所。
+>   - 中译：这项调查询问工人关于他们工作场所的设施情况。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/workplace
 > - There can be no doubt that health and safety standards in the workplace have increased significantly since the introduction of the law. `[例]`
->   - 中译：职场歧视是违法行为。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/workplace
+>   - 中译：毫无疑问，自该法律实施以来，工作场所的健康与安全标准已显著提高。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/workplace
 
 ## 主动产出
 

@@ -123,11 +123,11 @@ over-(过度) + work(工作)
 
 > [!example]- 语料
 > - You look exhausted - I hope they're not overworking you. `[例]`
->   - 中译：他因过度工作而病倒了。
+>   - 中译：你看起来精疲力竭——希望他们没有让你过度劳累。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/overwork
 > - She overworks her staff. `[例]`
->   - 中译：不要让自己过度劳累。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/overwork
+>   - 中译：她让员工过度工作。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/overwork
 
 ## 主动产出
 

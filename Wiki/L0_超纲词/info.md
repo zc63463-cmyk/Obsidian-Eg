@@ -124,9 +124,9 @@ inform(告知) + -ation(名词) → info（口语缩写）
 > [!example]- 语料
 > - I need some info about the application process. `[例]`
 >   - 中译：我需要一些关于申请流程的信息。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/info
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/info
 > - The brochure contains useful info for first-time visitors to the city. `[例]`
->   - 中译：这本宣传册包含对初次来访该城市的游客有用的信息。
+>   - 中译：这本小册子包含了首次来这座城市游览的游客的有用信息。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/info
 
 ## 主动产出

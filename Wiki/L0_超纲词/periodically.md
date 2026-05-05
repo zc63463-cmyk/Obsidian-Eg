@@ -126,11 +126,11 @@ review_count: 0
 
 > [!example]- 语料
 > - The equipment should be tested periodically. `[例]`
->   - 中译：系统会定期自动更新。
+>   - 中译：设备应定期检测。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/periodically
 > - Mailing lists are updated periodically. `[例]`
->   - 中译：她定期回国探望家人。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/periodically
+>   - 中译：邮件列表会定期更新。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/periodically
 
 ## 主动产出
 

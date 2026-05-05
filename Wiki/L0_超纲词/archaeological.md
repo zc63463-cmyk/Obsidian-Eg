@@ -124,11 +124,11 @@ arch(古代的，原始的，希腊语 *archaios*) + aeol(=logy, 学科/研究) 
 
 > [!example]- 语料
 > - Recent archaeological discoveries in Egypt have shed new light on ancient burial practices. `[例]`
->   - 中译：埃及最近的考古发现为古代丧葬习俗提供了新的认识。
+>   - 中译：埃及近期的考古发现为古代丧葬习俗提供了新的认识。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/archaeological
 > - The archaeological evidence suggests that the settlement dates back to the Neolithic period. `[例]`
->   - 中译：考古证据表明，这个定居点可以追溯到新石器时代。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/archaeological
+>   - 中译：考古证据表明，该定居点可追溯至新石器时代。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/archaeological
 
 ## 主动产出
 

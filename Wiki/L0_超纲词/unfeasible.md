@@ -126,11 +126,11 @@ un-(不，否定前缀) + [[fac|feas]](做) + -ible(可被...的)
 
 > [!example]- 语料
 > - The teachers’ demands were economically unfeasible. `[例]`
->   - 中译：在这么短的时间内完成这个项目是不可行的。
+>   - 中译：教师们的要求在经济上是不可行的。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/unfeasible
 > - Yennie’s family home is in rural Routt County, and traveling to a physical therapy center or finding someone willing to make frequent house calls is unfeasible , his son Ben Yennie said. `[例]`
->   - 中译：工程师认为这个设计方案行不通。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/unfeasible
+>   - 中译：耶尼的家在偏远的鲁特县，前往理疗中心或找到愿意频繁上门服务的人都是不可行的，他的儿子本·耶尼说。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/unfeasible
 
 ## 主动产出
 

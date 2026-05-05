@@ -119,11 +119,11 @@ tag（标签，标记）+ line（行，一行文字）→ tagline（标签行→
 
 > [!example]- 语料
 > - Writing a tagline is a good way to add character to your brand. `[例]`
->   - 中译：这家公司的口号是“Just Do It”。
+>   - 中译：撰写标语是为品牌增添个性的一种好方法。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/tagline
 > - The tagline from the drug company's ad campaign backfired and quickly became fodder for late-night comedians. `[例]`
->   - 中译：广告的标语需要简洁有力。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/tagline
+>   - 中译：那家制药公司广告活动的标语适得其反，很快成了深夜脱口秀喜剧演员的笑料。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/tagline
 
 ## 主动产出
 

@@ -131,11 +131,11 @@ back-(后面) + drop(落下/悬挂物)
 
 > [!example]- 语料
 > - Against the backdrop of a slowing economy, the central bank decided to cut interest rates. `[例]`
->   - 中译：在经济放缓的背景下，中央银行决定降息。
->   - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/backdrop
+>   - 中译：在经济放缓的背景下，中央银行决定降低利率。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/backdrop
 > - The beautiful coastline provided a stunning backdrop to our holiday. `[例]`
->   - 中译：美丽的海岸线为我们的假期提供了迷人的背景。
->   - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/backdrop
+>   - 中译：夕阳为海滩婚礼提供了美丽的背景。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/backdrop
 
 ## 主动产出
 

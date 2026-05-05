@@ -127,11 +127,11 @@ re-(再次，重新) + [[st-sta-stat|st]](站立，拉丁语 *stare*) + -or(名�
 
 > [!example]- 语料
 > - The first task following the disaster was the restoration of clean water supplies. `[例]`
->   - 中译：这座教堂经过了精心修复，恢复了昔日的辉煌。
+>   - 中译：灾后的首要任务是恢复清洁水供应。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/restoration
 > - Restoration work on the Sistine Chapel ceiling is now complete. `[例]`
->   - 中译：老照片的修复工作需要极高的技巧。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/restoration
+>   - 中译：西斯廷教堂天顶的修复工作现已完成。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/restoration
 
 ## 主动产出
 

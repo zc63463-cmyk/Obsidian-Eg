@@ -127,11 +127,11 @@ patch（补丁/碎片）+ work（工作/作品）
 
 > [!example]- 语料
 > - The old lady sat in the corner doing patchwork. `[例]`
->   - 中译：这个国家的法律体系是一个拼凑物。
+>   - 中译：老太太坐在角落里做拼布活。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/patchwork
 > - We looked out of the aircraft window down onto the patchwork of fields below. `[例]`
->   - 中译：她用旧布料做了一条拼布被子。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/patchwork
+>   - 中译：我们从飞机窗口俯瞰下方拼图般的田野。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/patchwork
 
 ## 主动产出
 

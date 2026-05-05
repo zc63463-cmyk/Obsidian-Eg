@@ -125,11 +125,11 @@ sojourn（源自古法语 *sojorn*，基于 *sousjorne*，意为"在……下面
 
 > [!example]- 语料
 > - My sojourn in the youth hostel was thankfully short. `[例]`
->   - 中译：她在巴黎短暂逗留了两个月。
+>   - 中译：谢天谢地，我在青年旅舍的逗留时间很短。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sojourn
 > - After a brief sojourn in Holland to study Sanskrit, he moved to India. `[例]`
->   - 中译：他在日本的旅居经历深刻地影响了他的艺术创作。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/sojourn
+>   - 中译：在荷兰短暂停留学习梵文后，他搬到了印度。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sojourn
 
 ## 主动产出
 

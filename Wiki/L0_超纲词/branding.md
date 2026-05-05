@@ -122,10 +122,10 @@ brand(品牌/烙印) + -ing(名词后缀，表动作或结果)
 
 > [!example]- 语料
 > - The startup invested heavily in branding to differentiate its products from established competitors. `[例]`
->   - 中译：这家初创公司在品牌塑造上投入巨资，以使其产品与老牌竞争对手区分开来。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/branding
+>   - 中译：有效的品牌建设对于在竞争激烈的市场中区分产品至关重要。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/branding
 > - Effective personal branding can significantly enhance your professional visibility in the industry. `[例]`
->   - 中译：有效的个人品牌建设可以显著提升你在行业中的专业知名度。
+>   - 中译：公司投入大量资金进行品牌重塑，以吸引更年轻的消费群体。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/branding
 
 ## 主动产出

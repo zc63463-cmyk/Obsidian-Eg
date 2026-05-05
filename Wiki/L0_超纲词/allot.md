@@ -124,14 +124,14 @@ al-(=ad-, 朝向) + lot(份额，命运)
 
 > [!example]- 语料
 > - The government allotted additional funds to support small businesses during the pandemic. `[例]`
->   - 中译：政府在疫情期间拨出额外资金以支持小型企业。
->   - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/allot
+>   - 中译：政府拨出额外资金，在疫情期间支持小型企业。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/allot
 > - Each speaker was allotted fifteen minutes to present their research findings. `[例]`
 >   - 中译：每位发言者被分配十五分钟来展示其研究成果。
->   - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/allot
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/allot
 > - The committee allotted a specific budget for the renovation of the old library. `[例]`
->   - 中译：委员会为旧图书馆的翻新拨定了专项预算。
->   - 来源：Collins Dictionary | https://www.collinsdictionary.com/dictionary/english/allot
+>   - 中译：委员会为旧图书馆的翻修拨出了专项预算。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/allot
 
 ## 主动产出
 

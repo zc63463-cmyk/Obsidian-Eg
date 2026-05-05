@@ -124,11 +124,11 @@ review_count: 0
 
 > [!example]- 语料
 > - Their bombs are always placed in strategic positions to cause as much chaos as possible. `[例]`
->   - 中译：公司制定了一项新的战略计划。
+>   - 中译：他们的炸弹总是被放置在战略位置，以造成尽可能大的混乱。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/strategic
 > - There are plans to modernize the US strategic forces. `[例]`
->   - 中译：这个港口具有极其重要的战略地位。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/strategic
+>   - 中译：有计划要实现美国战略力量的现代化。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/strategic
 
 ## 主动产出
 

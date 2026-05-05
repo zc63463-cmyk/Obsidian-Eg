@@ -125,11 +125,11 @@ school(学校) + -ing(名词后缀，表示过程/活动)
 
 > [!example]- 语料
 > - Jack didn't receive much formal schooling. `[例]`
->   - 中译：她接受了良好的教育，这为她的成功奠定了基础。
+>   - 中译：杰克没有接受多少正规学校教育。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/schooling
 > - He had little formal schooling (= education at school ). `[例]`
->   - 中译：义务教育的年限因国家而异。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/schooling
+>   - 中译：他几乎没有受过正规的学校教育。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/schooling
 
 ## 主动产出
 

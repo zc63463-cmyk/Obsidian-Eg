@@ -123,10 +123,10 @@ co-（共同，一起）+ [[st-sta-stat|exist]]（存在）+ -ence（名词后�
 
 > [!example]- 语料
 > - The two communities enjoyed a period of peaceful coexistence. `[例]`
->   - 中译：这两个社区享受了一段和平共处的时期。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/coexistence
+>   - 中译：不同宗教群体之间的和平共处对社会稳定至关重要。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/coexistence
 > - The friendly coexistence of the two nations. `[例]`
->   - 中译：两国之间的友好共处。
+>   - 中译：这两个物种在共享的生态系统中形成了显著的共存关系。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/coexistence
 
 ## 主动产出

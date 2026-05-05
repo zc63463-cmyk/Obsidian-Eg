@@ -129,11 +129,11 @@ con-(一起) + [[tend-tens|tin-/ten-]](保持/持有) + -u- + -al(形容词) + -
 
 > [!example]- 语料
 > - The teacher was angry because a student continually interrupted him during the lesson. `[例]`
->   - 中译：老师很生气，因为一个学生在上课时不断打断他。
->   - 来源：Collins | https://www.collinsdictionary.com/dictionary/english/continually
+>   - 中译：该软件不断更新，以修复漏洞并提高性能。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/continually
 > - Fans could be ejected from matches if they continually refuse to obey the rules. `[例]`
->   - 中译：如果球迷不断拒绝遵守规则，可能会被驱逐出场。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/continually
+>   - 中译：她不断被隔壁工地的噪音所干扰。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/continually
 
 ## 主动产出
 

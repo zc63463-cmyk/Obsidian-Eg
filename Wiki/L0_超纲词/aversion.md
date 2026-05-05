@@ -128,14 +128,14 @@ a-(=ab-, 离开/远离) + [[ver-vert|vers]](转) + -ion(名词后缀，表示动
 
 > [!example]- 语料
 > - She has a deep aversion to any form of dishonesty. `[例]`
->   - 中译：她对任何形式的不诚实都深感厌恶。
->   - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/aversion
+>   - 中译：她对任何形式的不诚实都有深深的厌恶。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/aversion
 > - Risk aversion among investors has led to a flight to safer assets. `[例]`
->   - 中译：投资者的风险厌恶情绪导致了资金向更安全的资产转移。
->   - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/aversion
+>   - 中译：投资者的风险厌恶情绪导致资金流向更安全的资产。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/aversion
 > - His aversion to public speaking held back his career for years. `[例]`
->   - 中译：他对公开演讲的厌恶多年来阻碍了他的职业发展。
->   - 来源：Collins Dictionary | https://www.collinsdictionary.com/dictionary/english/aversion
+>   - 中译：他对公开演讲的厌恶阻碍了他的职业发展多年。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/aversion
 
 ## 主动产出
 

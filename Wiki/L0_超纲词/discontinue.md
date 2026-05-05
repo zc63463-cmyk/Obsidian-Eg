@@ -124,10 +124,10 @@ review_count: 0
 
 > [!example]- 语料
 > - The bank is discontinuing this service. `[例]`
->   - 中译：该银行正在停止这项服务。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/discontinue
+>   - 中译：银行将停止这项服务。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/discontinue
 > - Discontinue the medication if you have cramps. `[例]`
->   - 中译：如果你出现痉挛，请停止服用该药物。
+>   - 中译：如果出现痉挛，请停止服用该药物。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/discontinue
 
 ## 主动产出

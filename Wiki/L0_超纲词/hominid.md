@@ -127,11 +127,11 @@ homin(=human/man, 人) + -[[id-ident|id]](名词后缀，表示"……科的动�
 >   - 中译：化石证据表明，早期人科动物在近四百万年前就开始直立行走了。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hominid
 > - The discovery of a new hominid species in Africa has reshaped our understanding of human evolution. `[例]`
->   - 中译：在非洲发现的新人科物种重塑了我们对人类进化的认识。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/hominid
+>   - 中译：在非洲发现的新人科物种重新塑造了我们对人类进化的认识。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hominid
 > - Recent studies of hominid fossils have provided new insights into the development of tool use among early human ancestors. `[例]`
 >   - 中译：最近对人科化石的研究为早期人类祖先工具使用的发展提供了新的见解。
->   - 来源：Collins | https://www.collinsdictionary.com/dictionary/english/hominid
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hominid
 
 ## 主动产出
 

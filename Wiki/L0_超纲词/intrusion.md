@@ -130,8 +130,8 @@ review_count: 0
 
 > [!example]- 语料
 > - The government must protect citizens from unwarranted intrusions into their private lives. `[例]`
->   - 中译：政府必须保护公民免受对其私人生活无端侵扰的侵害。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/intrusion
+>   - 中译：政府必须保护公民的私人生活不受无端侵扰。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/intrusion
 > - Intrusion detection systems are essential for network security. `[例]`
 >   - 中译：入侵检测系统对网络安全至关重要。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/intrusion

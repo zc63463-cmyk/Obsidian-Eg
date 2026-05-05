@@ -118,12 +118,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The prisoners were thrown into a dark dungeon beneath the castle. `[例]`
->   - 中译：囚犯被关在城堡地下的阴暗地牢里。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/dungeon
+>   - 中译：囚犯们被关进了城堡下方黑暗的地牢。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/dungeon
 > - In many fantasy games, players must explore dungeons to find hidden treasures. `[例]`
->   - 中译：中世纪的地牢通常是潮湿而黑暗的。
+>   - 中译：在许多奇幻游戏中，玩家必须探索地下城以寻找隐藏的宝藏。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/dungeon
 > - The medieval dungeon was damp, cold, and barely lit by a single torch. `[例]`
+>   - 中译：这座中世纪地牢潮湿阴冷，仅靠一支火把微弱地照亮。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/dungeon
 
 ## 主动产出
 

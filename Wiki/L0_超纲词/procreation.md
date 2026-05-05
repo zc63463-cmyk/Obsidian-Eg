@@ -123,10 +123,10 @@ review_count: 0
 
 > [!example]- 语料
 > - Some people believe that sex should only be for the purpose of procreation. `[例]`
->   - 中译：繁衍后代是所有物种的本能。
+>   - 中译：有些人认为性行为只应出于繁衍的目的。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/procreation
 > - They support the argument that the purpose of marriage is procreation. `[例]`
->   - 中译：这本书讨论了人类繁衍的社会意义。
+>   - 中译：他们支持婚姻的目的在于繁衍后代这一论点。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/procreation
 
 ## 主动产出

@@ -117,10 +117,10 @@ ocean(海洋) + [[graph-gram]](=[[graph-gram]], 写/记录) + -er(人)
 
 > [!example]- 语料
 > - An oceanographer studies the ocean. `[例]`
->   - 中译：这位海洋学家花了数年时间研究深海生态系统。
+>   - 中译：海洋学家研究海洋。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/oceanographer
 > - Biological oceanographers and marine biologists study plants and animals in the marine environment. `[例]`
->   - 中译：海洋学家们正在调查海洋温度的变化。
+>   - 中译：生物海洋学家和海洋生物学家研究海洋环境中的动植物。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/oceanographer
 
 ## 主动产出

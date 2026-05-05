@@ -132,8 +132,8 @@ review_count: 0
 >   - 中译：围城期间，人们开始囤积食物和物资。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hoard
 > - There would be enough food on a daily basis if people were not hoarding. `[例]`
->   - 中译：如果人们不囤积的话，每天的食物是够的。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/hoard
+>   - 中译：如果人们不囤积的话，每天的粮食是够吃的。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hoard
 
 ## 主动产出
 

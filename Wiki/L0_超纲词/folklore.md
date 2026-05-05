@@ -125,10 +125,10 @@ folk(民间，百姓) + lore(知识，传说，学问)
 
 > [!example]- 语料
 > - Dragons play a central role in Chinese folklore and mythology. `[例]`
->   - 中译：爱尔兰的民间传说中充满了精灵和矮人的故事。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/folklore
+>   - 中译：龙在中国民间传说和神话中扮演着核心角色。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/folklore
 > - According to local folklore, the cave is haunted by the spirit of an ancient warrior. `[例]`
->   - 中译：这些传统歌曲是该地区民间文化的重要组成部分。
+>   - 中译：根据当地民间传说，这个洞穴里有一个远古武士的灵魂在游荡。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/folklore
 
 ## 主动产出

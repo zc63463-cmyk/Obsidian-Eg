@@ -122,14 +122,14 @@ air(空气) + flow(流动)
 
 > [!example]- 语料
 > - Proper airflow is essential for maintaining indoor air quality. `[例]`
->   - 中译：适当的空气流通对于维持室内空气质量至关重要。
->   - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/airflow
+>   - 中译：适当的通风对于维持室内空气质量至关重要。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/airflow
 > - The engineer studied the airflow around the aircraft wing to reduce drag. `[例]`
->   - 中译：工程师研究了飞机机翼周围的气流以减少阻力。
->   - 来源：Collins Dictionary | https://www.collinsdictionary.com/dictionary/english/airflow
+>   - 中译：工程师研究了机翼周围的气流，以减少阻力。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/airflow
 > - Opening windows on opposite sides of the room improves natural airflow. `[例]`
 >   - 中译：打开房间两侧的窗户可以改善自然通风。
->   - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/airflow
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/airflow
 
 ## 主动产出
 

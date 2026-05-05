@@ -124,11 +124,11 @@ review_count: 0
 
 > [!example]- 语料
 > - The upkeep of larger old properties is very expensive. `[例]`
->   - 中译：这座老房子的维护费用非常高。
+>   - 中译：维护大型老旧房产的费用非常昂贵。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/upkeep
 > - Council employees are responsible for the upkeep of the gardens. `[例]`
->   - 中译：定期保养可以延长机器的使用寿命。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/upkeep
+>   - 中译：市政委员会的员工负责花园的维护。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/upkeep
 
 ## 主动产出
 

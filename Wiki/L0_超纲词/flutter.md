@@ -127,10 +127,10 @@ review_count: 0
 
 > [!example]- 语料
 > - Her heart fluttered when she saw the exam results. `[例]`
->   - 中译：鸟儿拍打着翅膀飞走了。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/flutter
+>   - 中译：她看到考试成绩时心跳加速。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/flutter
 > - Flags fluttered in the breeze outside the government building. `[例]`
->   - 中译：她感到一阵紧张的心跳。
+>   - 中译：政府大楼外旗帜在微风中飘扬。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/flutter
 
 ## 主动产出

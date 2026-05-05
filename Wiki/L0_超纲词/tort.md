@@ -122,11 +122,11 @@ review_count: 0
 
 > [!example]- 语料
 > - The company has an army of tort lawyers ready to back up its demands. `[例]`
->   - 中译：侵权法涉及对个人伤害的民事赔偿。
+>   - 中译：该公司有一大批侵权律师随时准备支持其诉求。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/tort
 > - The company claimed compensation for the work made necessary by the defendants ' tort. `[例]`
->   - 中译：原告以过失侵权为由提起了诉讼。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/tort
+>   - 中译：该公司因被告的侵权行为所导致的必要工程索赔赔偿。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/tort
 
 ## 主动产出
 

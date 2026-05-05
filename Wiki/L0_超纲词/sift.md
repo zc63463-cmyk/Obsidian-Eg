@@ -125,11 +125,11 @@ sift（源自古英语 *siftan*，与 sieve"筛子"同源）
 
 > [!example]- 语料
 > - When the cake is cooked , sift some icing sugar over the top of it. `[例]`
->   - 中译：她仔细筛选了大量数据，寻找有用的信息。
+>   - 中译：蛋糕烤好后，在顶部撒上一层糖粉。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sift
 > - The police are sifting the evidence very carefully to try and find the guilty person. `[例]`
->   - 中译：警察正在排查证据，寻找破案线索。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/sift
+>   - 中译：警方正在非常仔细地筛选证据，试图找到罪犯。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sift
 
 ## 主动产出
 

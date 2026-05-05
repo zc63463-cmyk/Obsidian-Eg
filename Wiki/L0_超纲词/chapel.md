@@ -123,10 +123,10 @@ review_count: 0
 
 > [!example]- 语料
 > - The chapel became a sanctuary for the refugees. `[例]`
->   - 中译：这座小教堂成了难民的避难所。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/chapel
+>   - 中译：这对新人在山坡上的小教堂里举行了婚礼。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/chapel
 > - They meet in an old house , whose basement has been converted into a chapel. `[例]`
->   - 中译：他们在一栋旧房子里聚会，房子的地下室已被改造成了一间小教堂。
+>   - 中译：大学教堂每周举行对所有信仰的学生开放的宗教活动。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/chapel
 
 ## 主动产出

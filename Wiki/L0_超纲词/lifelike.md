@@ -123,10 +123,10 @@ life(生命) + like(像……的)
 
 > [!example]- 语料
 > - The artist created a lifelike portrait that captured every detail of the subject's face. `[例]`
->   - 中译：这位艺术家创作了一幅栩栩如生的肖像，捕捉了对象面部的每一个细节。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/lifelike
+>   - 中译：这位艺术家创作了一幅栩栩如生的肖像画，捕捉了对象面部的每一个细节。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lifelike
 > - Modern video games feature lifelike graphics that blur the line between reality and fiction. `[例]`
->   - 中译：现代电子游戏具有逼真的画面，模糊了现实与虚构之间的界限。
+>   - 中译：现代电子游戏拥有逼真的画面，模糊了现实与虚构之间的界限。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lifelike
 
 ## 主动产出

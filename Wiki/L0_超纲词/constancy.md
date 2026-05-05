@@ -121,11 +121,11 @@ con-（一起/始终）+ [[st-sta-stat]]（站立，拉丁语 *stare*）+ -ancy�
 
 > [!example]- 语料
 > - He admired her courage and constancy. `[例]`
->   - 中译：他钦佩她的勇气和坚定不移。
->   - 来源：Collins | https://www.collinsdictionary.com/dictionary/english/constancy
+>   - 中译：她在困难时期始终如一地支持朋友，令人钦佩。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/constancy
 > - The tension is between constancy versus transformation. `[例]`
->   - 中译：矛盾在于恒定与变革之间。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/constancy
+>   - 中译：海洋潮汐的恒定性几个世纪以来一直吸引着科学家。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/constancy
 
 ## 主动产出
 

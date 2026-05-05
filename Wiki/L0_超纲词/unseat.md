@@ -124,11 +124,11 @@ un-(使离开/反转) + seat(座位，拉丁语 *sedere* → sit)
 
 > [!example]- 语料
 > - The opposition candidate failed by only 39 votes to unseat the cabinet minister. `[例]`
->   - 中译：反对党在选举中击败了执政党。
+>   - 中译：反对党候选人仅以39票之差未能将这位内阁部长拉下马。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/unseat
 > - She has a good chance to unseat the governor. `[例]`
->   - 中译：丑闻最终导致总统下台。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/unseat
+>   - 中译：她有很大的机会击败现任州长。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/unseat
 
 ## 主动产出
 

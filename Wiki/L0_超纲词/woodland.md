@@ -128,11 +128,11 @@ wood（树木/木头，古英语 *wudu*）+ land（土地，古英语 *land*）
 
 > [!example]- 语料
 > - The group has raised money to preserve over two million acres of woodland. `[例]`
->   - 中译：这片林地里生长着各种野花和蘑菇。
+>   - 中译：该组织筹集了资金来保护超过两百万英亩的林地。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/woodland
 > - Some very rare and special plants grow in these woodlands. `[例]`
->   - 中译：林地是许多鸟类和小型哺乳动物的家园。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/woodland
+>   - 中译：一些非常稀有和特殊的植物生长在这些林地中。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/woodland
 
 ## 主动产出
 

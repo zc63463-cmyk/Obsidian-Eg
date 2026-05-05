@@ -124,14 +124,14 @@ ad-(朝向) + [[mir|vis-vid]](看，惊叹) + -able(可以被)
 
 > [!example]- 语料
 > - Her admirable dedication to public service earned her widespread respect. `[例]`
->   - 中译：她对公共服务的令人钦佩的奉献精神为她赢得了广泛尊重。
->   - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/admirable
+>   - 中译：她对公共服务的令人钦佩的奉献精神赢得了广泛尊重。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/admirable
 > - The committee praised the admirable courage displayed by the rescue team during the disaster. `[例]`
 >   - 中译：委员会赞扬了救援队在灾难中展现的令人钦佩的勇气。
->   - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/admirable
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/admirable
 > - It is admirable that she managed to complete the marathon despite her injury. `[例]`
->   - 中译：尽管受伤，她仍坚持跑完马拉松，这令人钦佩。
->   - 来源：Collins Dictionary | https://www.collinsdictionary.com/dictionary/english/admirable
+>   - 中译：尽管受伤，她仍然完成了马拉松比赛，这令人钦佩。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/admirable
 
 ## 主动产出
 

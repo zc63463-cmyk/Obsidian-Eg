@@ -124,11 +124,11 @@ review_count: 0
 
 > [!example]- 语料
 > - It's easy to theorize about what might have happened. `[例]`
->   - 中译：科学家们试图从这些数据中推导出理论。
+>   - 中译：对可能发生的事情进行理论推测很容易。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/theorize
 > - Investigators theorized that ice had built up on the wings of the plane , causing it to stall soon after takeoff. `[例]`
->   - 中译：他提出了一个关于宇宙起源的新理论。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/theorize
+>   - 中译：调查人员推测，机翼上结了冰，导致飞机起飞后不久失速。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/theorize
 
 ## 主动产出
 

@@ -124,11 +124,11 @@ piece（一块/碎片）+ meal（时间/份量，古英语中表"一段时间的
 
 > [!example]- 语料
 > - Unfortunately, everything is being done piecemeal. `[例]`
->   - 中译：改革是零碎地进行的，缺乏整体规划。
+>   - 中译：不幸的是，所有事情都在零敲碎打地进行。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/piecemeal
 > - Do we fix it all now, or do we approach it piecemeal over time? `[例]`
->   - 中译：信息是零散收集的，不完整。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/piecemeal
+>   - 中译：我们是现在一次性全部修复，还是随着时间的推移零星地处理？
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/piecemeal
 
 ## 主动产出
 

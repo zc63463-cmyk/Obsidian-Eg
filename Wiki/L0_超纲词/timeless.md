@@ -126,11 +126,11 @@ time（时间）+ -less（没有…的，否定后缀）。
 
 > [!example]- 语料
 > - The city has a timeless quality as if it had existed forever. `[例]`
->   - 中译：这首经典歌曲具有永恒的魅力。
+>   - 中译：这座城市有一种永恒的特质，仿佛从亘古就存在于此。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/timeless
 > - Rothko's paintings have a timeless quality. `[例]`
->   - 中译：真正的美是超越时间的。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/timeless
+>   - 中译：罗斯科的画作具有超越时代的永恒品质。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/timeless
 
 ## 主动产出
 

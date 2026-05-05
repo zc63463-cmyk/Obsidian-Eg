@@ -126,10 +126,10 @@ review_count: 0
 
 > [!example]- 语料
 > - The cup was filled to the brim with steaming hot tea, and she had to carry it carefully. `[例]`
->   - 中译：杯子倒满了滚烫的热茶，她不得不小心翼翼地端着。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/brim
+>   - 中译：杯子被倒满了热咖啡，一直满到边缘。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/brim
 > - Her eyes were brimming with tears as she listened to the farewell speech at the graduation ceremony. `[例]`
->   - 中译：在毕业典礼上听告别演讲时，她眼里盈满了泪水。
+>   - 中译：告别朋友时，她的眼中盈满了泪水。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/brim
 
 ## 主动产出

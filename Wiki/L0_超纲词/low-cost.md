@@ -125,9 +125,11 @@ low（低的）+ cost（成本）→ **低成本的**
 
 > [!example]- 语料
 > - The researchers proposed a low cost solution to the problem. `[真题]`
+>   - 中译：20世纪90年代，低成本航空公司的数量大幅增加。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/low-cost
 > - The 1990s saw a huge increase in the numbers of low-cost airlines. `[例]`
->   - 中译：20世纪90年代低成本航空公司的数量大幅增加。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/low-cost
+>   - 中译：20世纪90年代，低成本航空公司的数量大幅增加。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/low-cost
 
 ## 主动产出
 

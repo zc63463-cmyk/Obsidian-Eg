@@ -124,11 +124,11 @@ milit(士兵/战斗，拉丁语 *miles*) + -ant(形容词后缀) + -ly(副词后
 
 > [!example]- 语料
 > - She is militantly opposed to using animals for scientific tests. `[例]`
->   - 中译：她激进地反对用动物做科学实验。
+>   - 中译：她强烈反对将动物用于科学实验。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/militantly
 > - I worked hard to get here," she said, rather militantly. `[例]`
->   - 中译：'我努力才来到这里，'她相当强硬地说。
->   - 来源：Collins | https://www.collinsdictionary.com/dictionary/english/militantly
+>   - 中译：“我努力才走到这里，”她说道，语气颇为强硬。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/militantly
 
 ## 主动产出
 

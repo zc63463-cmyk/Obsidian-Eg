@@ -119,10 +119,10 @@ net（网）+ ball（球）
 
 > [!example]- 语料
 > - In December 2023 World Netball (WN) has launched the Rules of Netball 2024 Edition, along with free educational rules resources. `[例]`
->   - 中译：2023年12月，世界无板篮球协会（WN）发布了《2024年版无板篮球规则》以及免费的教育规则资源。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/netball
+>   - 中译：2023年12月，世界篮联（WN）发布了《2024年版篮球规则》，并附有免费的教育性规则资源。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/netball
 > - To ensure that all members of the Netball Family are educated on the new rules of netball, WN, in collaboration with NETFIT, have created educational resources, including videos and PDFs, detailing these changes. `[例]`
->   - 中译：为确保无板篮球大家庭的所有成员都了解新的无板篮球规则，WN与NETFIT合作创建了教育资源，包括视频和PDF文件，详细介绍了这些变化。
+>   - 中译：为确保篮球大家庭的所有成员都能了解新的篮球规则，WN与NETFIT合作创建了教育资源，包括详细说明这些变化的视频和PDF文件。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/netball
 
 ## 主动产出

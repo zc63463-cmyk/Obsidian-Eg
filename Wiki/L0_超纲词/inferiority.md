@@ -126,13 +126,13 @@ infer(较低) + -ior(比较级) + -ity(名词后缀)
 > [!example]- 语料
 > - Many people suffer from an inferiority complex that prevents them from reaching their full potential. `[例]`
 >   - 中译：许多人深受自卑情结的困扰，无法充分发挥自己的潜力。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/inferiority
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/inferiority
 > - The inferiority of the product was obvious compared to its competitors. `[例]`
->   - 中译：与竞争对手相比，该产品的劣质显而易见。
+>   - 中译：与竞争对手相比，该产品的劣质性显而易见。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/inferiority
 > - She struggled with feelings of inferiority throughout her academic career. `[例]`
->   - 中译：在她的整个学术生涯中，她一直在与自卑感作斗争。
->   - 来源：Collins | https://www.collinsdictionary.com/dictionary/english/inferiority
+>   - 中译：在她的整个学术生涯中，她一直与自卑感作斗争。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/inferiority
 
 ## 主动产出
 

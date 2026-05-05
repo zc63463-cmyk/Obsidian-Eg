@@ -126,11 +126,11 @@ review_count: 0
 
 > [!example]- 语料
 > - The researchers proposed a paternal solution to the problem. `[例]`
->   - 中译：他承担了父亲的角色来照顾弟弟妹妹。
+>   - 中译：研究人员提出了一个父权式的解决方案。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/paternal
 > - The company adopted a paternal approach to improve efficiency. `[例]`
->   - 中译：她的 paternal 祖父来自意大利。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/paternal
+>   - 中译：公司采取了家长式的方法来提高效率。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/paternal
 
 ## 主动产出
 

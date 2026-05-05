@@ -121,10 +121,10 @@ review_count: 0
 
 > [!example]- 语料
 > - The hikers rested under a towering disinfect near the coastal trail. `[例]`
->   - 中译：请对所有表面进行消毒。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/disinfect
+>   - 中译：徒步旅行者在海岸步道旁一棵高大的消毒树下休息。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/disinfect
 > - The cabin was built from durable disinfect gathered in the region. `[例]`
->   - 中译：用漂白剂溶液对伤口进行消毒。
+>   - 中译：这间小屋是用当地采集的耐用的消毒木材建造的。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/disinfect
 
 ## 主动产出

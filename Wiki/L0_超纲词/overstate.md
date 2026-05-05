@@ -118,10 +118,10 @@ over-(过度) + [[st-sta-stat]](=[[st-sta-stat]], 站立/陈述)
 
 > [!example]- 语料
 > - The impact of the new legislation has been greatly overstated. `[例]`
->   - 中译：不要夸大问题的严重性。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/overstate
+>   - 中译：新立法的影响被大大夸大了。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/overstate
 > - The shareholders seem to think that the executive board is overstating the case for a merger. `[例]`
->   - 中译：很难不夸大这项发现的重要性。
+>   - 中译：股东们似乎认为执行董事会在夸大合并的理由。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/overstate
 
 ## 主动产出

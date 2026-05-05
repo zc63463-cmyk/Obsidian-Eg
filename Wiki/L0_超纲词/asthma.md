@@ -120,11 +120,11 @@ a-(加强) + -sthm(呼吸，希腊语 *azein*，喘气)
 
 > [!example]- 语料
 > - Air pollution has been linked to increased rates of childhood asthma in urban areas. `[例]`
->   - 中译：空气污染与城市地区儿童哮喘发病率的上升有关。
->   - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/asthma
+>   - 中译：空气污染与城市地区儿童哮喘发病率上升有关。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/asthma
 > - The student carried an asthma inhaler in his backpack at all times. `[例]`
->   - 中译：这名学生的背包里随时带着哮喘吸入器。
->   - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/asthma
+>   - 中译：这名学生随身携带哮喘吸入器。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/asthma
 
 ## 主动产出
 

@@ -116,8 +116,8 @@ make（制作）+ shift（转移/替换）→ 临时转移用途来制作的
 
 > [!example]- 语料
 > - Thousands of refugees are living in makeshift camps. `[例]`
->   - 中译：成千上万的难民生活在临时营地中。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/makeshift
+>   - 中译：数千名难民生活在临时搭建的营地中。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/makeshift
 > - We pulled into a makeshift parking area. `[例]`
 >   - 中译：我们把车开进了一个临时停车场。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/makeshift

@@ -128,14 +128,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The government issued a travel advisory warning citizens about the risks of visiting the region. `[例]`
->   - 中译：政府发布了旅行预警，提醒公民前往该地区的风险。
->   - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/advisory
+>   - 中译：政府发布了旅行预警，提醒公民前往该地区存在风险。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/advisory
 > - She was appointed to the advisory board due to her extensive experience in environmental policy. `[例]`
->   - 中译：凭借在环境政策方面的丰富经验，她被任命为顾问委员会委员。
->   - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/advisory
+>   - 中译：由于在环境政策方面拥有丰富经验，她被任命为顾问委员会成员。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/advisory
 > - The National Weather Service has issued a severe storm advisory for the entire coastal area. `[例]`
 >   - 中译：国家气象局已对整个沿海地区发布了强风暴预警。
->   - 来源：Collins Dictionary | https://www.collinsdictionary.com/dictionary/english/advisory
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/advisory
 
 ## 主动产出
 

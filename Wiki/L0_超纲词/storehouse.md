@@ -121,11 +121,11 @@ store（储存）+ house（房子）
 
 > [!example]- 语料
 > - The goods have been sitting in a storehouse for months because a strike has prevented distribution. `[例]`
->   - 中译：这座古老的仓库保存着珍贵的文物。
+>   - 中译：由于罢工导致无法配送，这些货物已经在仓库里搁置了好几个月。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/storehouse
 > - Todays libraries are more than just storehouses for books. `[例]`
->   - 中译：图书馆是知识的宝库。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/storehouse
+>   - 中译：如今的图书馆不仅仅是存放书籍的仓库。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/storehouse
 
 ## 主动产出
 

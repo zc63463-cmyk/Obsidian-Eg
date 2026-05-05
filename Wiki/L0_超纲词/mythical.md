@@ -130,7 +130,7 @@ myth(神话，希腊语 *mythos*) + -ical(形容词后缀)
 > [!example]- 语料
 > - The mythical island of Atlantis. `[例]`
 >   - 中译：神话中的亚特兰蒂斯岛。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/mythical
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/mythical
 > - Dragons and other mythical creatures. `[例]`
 >   - 中译：龙和其他神话生物。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/mythical

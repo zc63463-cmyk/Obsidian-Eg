@@ -134,10 +134,10 @@ review_count: 0
 
 > [!example]- 语料
 > - English has many irregular verbs that do not follow the standard -ed pattern. `[例]`
->   - 中译：英语有许多不遵循标准-ed变化模式的不规则动词。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/irregular
+>   - 中译：英语有许多不规则动词，不遵循标准的-ed变化模式。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/irregular
 > - The patient was diagnosed with an irregular heartbeat. `[例]`
->   - 中译：该患者被诊断出心律不齐。
+>   - 中译：这位患者被诊断出心律不齐。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/irregular
 
 ## 主动产出

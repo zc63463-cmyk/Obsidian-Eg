@@ -121,11 +121,11 @@ bio-(生命) + phil(爱) + -ia(名词后缀，表状态)
 
 > [!example]- 语料
 > - E.O. Wilson proposed the biophilia hypothesis, arguing that humans possess an innate tendency to seek connections with nature and other forms of life. `[例]`
->   - 中译：E.O. 威尔逊提出了亲生命假说，认为人类天生就有与自然和其他生命形式建立联系的本能倾向。
->   - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/biophilia
+>   - 中译：亲生命假说认为人类与自然有着天生的联系。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/biophilia
 > - She is also a believer in "biophilia," Edward O. Wilson's hypothesis that humans are innately and emotionally attracted to other living organisms. `[例]`
->   - 中译：她也是"亲生命性"的信奉者，即爱德华·O·威尔逊提出的假说——人类天生在情感上被其他生物所吸引。
->   - 来源：Collins Dictionary | https://www.collinsdictionary.com/dictionary/english/biophilia
+>   - 中译：建筑师正在融入亲生命设计理念，以创造更健康的居住空间。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/biophilia
 
 ## 主动产出
 

@@ -122,13 +122,13 @@ co-（一起）+ [[erc|erc-]]（约束，拉丁语 *arcere*，关住/约束）+ 
 
 > [!example]- 语料
 > - The president relied on the coercive powers of the military. `[例]`
->   - 中译：总统依赖军队的强制力量。
->   - 来源：Collins | https://www.collinsdictionary.com/dictionary/english/coercive
+>   - 中译：该政权依靠强制手段来压制政治异见。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/coercive
 > - Coercive interrogation techniques have been widely condemned by human rights organizations. `[例]`
->   - 中译：强制审讯技术已受到人权组织的广泛谴责。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/coercive
+>   - 中译：国际法禁止使用强制手段逼取口供。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/coercive
 > - The government was accused of using coercive tactics to suppress political opposition. `[例]`
->   - 中译：政府被指控使用胁迫手段压制政治反对派。
+>   - 中译：政府被指控使用强制手段来压制政治反对派。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/coercive
 
 ## 主动产出

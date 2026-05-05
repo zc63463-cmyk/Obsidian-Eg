@@ -115,10 +115,10 @@ review_count: 0
 
 > [!example]- 语料
 > - And accordingly, orders were given to the constable. `[例]`
->   - 中译：因此，命令被下达给了治安官。
->   - 来源：Collins | https://www.collinsdictionary.com/dictionary/english/constable
+>   - 中译：这名警察负责维持小村庄的治安。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/constable
 > - In ten minutes the two constables returned, having performed their mission. `[例]`
->   - 中译：十分钟后，两名警员完成了任务回来了。
+>   - 中译：在英国法律中，警察有权实施逮捕和进行搜查。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/constable
 
 ## 主动产出

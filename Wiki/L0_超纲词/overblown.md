@@ -120,11 +120,11 @@ over-(过度) + blown(=blow的过去分词, 吹)
 
 > [!example]- 语料
 > - The researchers proposed a overblown solution to the problem. `[例]`
->   - 中译：媒体的报道被夸大了。
+>   - 中译：研究人员提出了一种夸张的解决方案来应对这一问题。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/overblown
 > - The company adopted a overblown approach to improve efficiency. `[例]`
->   - 中译：人们对这个问题的担忧被过分渲染了。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/overblown
+>   - 中译：公司采取了一种夸张的方法来提高效率。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/overblown
 
 ## 主动产出
 

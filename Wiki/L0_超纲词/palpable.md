@@ -126,11 +126,11 @@ review_count: 0
 
 > [!example]- 语料
 > - The researchers proposed a palpable solution to the problem. `[例]`
->   - 中译：房间里弥漫着紧张的气氛，几乎可以触摸到。
+>   - 中译：研究人员提出了一种明显的解决方案来应对这一问题。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/palpable
 > - The company adopted a palpable approach to improve efficiency. `[例]`
->   - 中译：她的进步是显而易见的。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/palpable
+>   - 中译：公司采取了一种明显的方法来提高效率。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/palpable
 
 ## 主动产出
 

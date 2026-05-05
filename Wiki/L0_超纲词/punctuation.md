@@ -122,11 +122,11 @@ review_count: 0
 
 > [!example]- 语料
 > - His letter was completely without punctuation. `[例]`
->   - 中译：正确的标点符号对于清晰的表达至关重要。
+>   - 中译：他的信完全没有标点符号。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/punctuation
 > - Check your spelling and punctuation. `[例]`
->   - 中译：他经常在写作中忽略标点符号。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/punctuation
+>   - 中译：检查你的拼写和标点。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/punctuation
 
 ## 主动产出
 

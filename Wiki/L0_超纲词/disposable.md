@@ -123,10 +123,10 @@ review_count: 0
 
 > [!example]- 语料
 > - The researchers proposed a disposable solution to the problem. `[例]`
->   - 中译：一次性纸杯对环境造成了严重污染。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/disposable
+>   - 中译：研究人员提出了一个一次性的解决方案。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/disposable
 > - The company adopted a disposable approach to improve efficiency. `[例]`
->   - 中译：她把所有可支配收入都花在了衣服上。
+>   - 中译：公司采取了一种用完即弃的方法来提高效率。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/disposable
 
 ## 主动产出

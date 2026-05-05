@@ -123,10 +123,10 @@ long（长的）+ standing（站立的，来自 stand）→ **长期存在的**
 
 > [!example]- 语料
 > - The researchers proposed a longstanding solution to the problem. `[例]`
->   - 中译：研究人员提出了一个长期的解决方案来应对这一问题。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/longstanding
+>   - 中译：研究人员提出了一个解决该问题的长期方案。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/longstanding
 > - The company adopted a longstanding approach to improve efficiency. `[例]`
->   - 中译：公司采用了一种长期的方法来提高效率。
+>   - 中译：该公司采取了一种长期方法来提高效率。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/longstanding
 
 ## 主动产出

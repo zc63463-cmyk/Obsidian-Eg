@@ -124,11 +124,11 @@ home(家/本国) + grown(生长的，grow的过去分词) → 复合词
 
 > [!example]- 语料
 > - She's a homegrown talent. `[例]`
->   - 中译：她是一位本土人才。
+>   - 中译：她是本土培养的人才。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/home-grown
-> - Home-grown vegetables taste better because they are fresher and free from pesticides. `[例]`
+> - Home-grown vegetables taste better because they are fresher and free from pesticides.",）. `[例]`
 >   - 中译：自家种的蔬菜味道更好，因为更新鲜且不含农药。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/home-grown
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/home-grown
 
 ## 主动产出
 

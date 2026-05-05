@@ -122,11 +122,11 @@ head(头/人才) + hunter(猎人) → 复合词
 
 > [!example]- 语料
 > - He had a reputation among opposing fans as being something of a headhunter. `[例]`
->   - 中译：他在对方球迷中素有"恶汉"之称。
+>   - 中译：他在对方球迷中素有“恶意冲撞者”的名声。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/headhunter
 > - She was contacted by a headhunter and invited to apply for the position. `[例]`
 >   - 中译：一位猎头联系了她，邀请她申请该职位。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/headhunter
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/headhunter
 
 ## 主动产出
 

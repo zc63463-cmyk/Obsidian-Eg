@@ -126,11 +126,11 @@ un-(不，否定) + [[prec-pre|pre]]-(提前) + [[dict]](说) + -able(可以被.
 
 > [!example]- 语料
 > - The weather there can be unpredictable - one minute it's blue skies and the next minute it's pouring rain. `[例]`
->   - 中译：这个地区的天气变化莫测。
+>   - 中译：那里的天气变化莫测——前一分钟还是蓝天白云，下一分钟就倾盆大雨。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/unpredictable
 > - The hours in this job are very unpredictable - you sometimes have to work late at very short notice. `[例]`
->   - 中译：他的行为完全不可预测。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/unpredictable
+>   - 中译：这份工作的工作时间非常不确定——你有时需要在很短时间内加班到很晚。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/unpredictable
 
 ## 主动产出
 

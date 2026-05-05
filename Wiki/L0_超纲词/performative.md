@@ -125,11 +125,11 @@ review_count: 0
 
 > [!example]- 语料
 > - The researchers proposed a performative solution to the problem. `[例]`
->   - 中译：她的道歉听起来很做作，缺乏真诚。
+>   - 中译：研究人员提出了一个表演性的解决方案。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/performative
 > - The company adopted a performative approach to improve efficiency. `[例]`
->   - 中译：在语言学中，陈述性话语本身就是一种行动。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/performative
+>   - 中译：公司采用了一种表演性的方法来提高效率。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/performative
 
 ## 主动产出
 

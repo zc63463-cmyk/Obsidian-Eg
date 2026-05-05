@@ -125,11 +125,11 @@ state（状态，水平）+ of（的）+ the（定冠词）+ art（技术，技�
 
 > [!example]- 语料
 > - The control panel uses all the newest technology and is considered state-of-the-art. `[例]`
->   - 中译：这家医院配备了最先进的医疗设备。
+>   - 中译：该控制面板采用了所有最新技术，被认为是最先进的。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/state-of-the-art
 > - The center is 20 years old and will need capital improvements to remain state-of-the-art. `[例]`
->   - 中译：这部手机采用了最先进的技术。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/state-of-the-art
+>   - 中译：该中心已有20年历史，需要进行资本改造以保持最先进的水平。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/state-of-the-art
 
 ## 主动产出
 

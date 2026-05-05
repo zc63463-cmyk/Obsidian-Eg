@@ -122,10 +122,10 @@ in-(在内) + [[gen|gen-]](产生，创造) + -u- + -ity(名词后缀)
 
 > [!example]- 语料
 > - The engineer showed remarkable ingenuity in solving the complex problem. `[例]`
->   - 中译：工程师在解决这个复杂问题时展现了非凡的独创性。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/ingenuity
+>   - 中译：这位工程师在解决复杂问题时展现了非凡的独创性。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ingenuity
 > - The ingenuity of the design impressed everyone at the exhibition. `[例]`
->   - 中译：设计的精巧令展览上的所有人赞叹不已。
+>   - 中译：设计的巧妙之处给展览上的每个人都留下了深刻印象。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ingenuity
 
 ## 主动产出

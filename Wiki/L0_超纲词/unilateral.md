@@ -124,11 +124,11 @@ review_count: 0
 
 > [!example]- 语料
 > - The party leader has actually declared her support for unilateral nuclear disarmament (= giving up her country's nuclear weapons without first waiting for other countries to do the same). `[例]`
->   - 中译：该国采取了单方面行动，未经盟国同意。
+>   - 中译：该党领袖实际上已宣布支持单边核裁军（即在不等待其他国家率先行动的情况下放弃本国核武器）。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/unilateral
 > - More than 70 developing countries have undertaken unilateral trade liberalization initiatives during the last 20 years. `[例]`
->   - 中译：单边决定往往会引起国际社会的反对。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/unilateral
+>   - 中译：在过去20年中，超过70个发展中国家采取了单边贸易自由化举措。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/unilateral
 
 ## 主动产出
 

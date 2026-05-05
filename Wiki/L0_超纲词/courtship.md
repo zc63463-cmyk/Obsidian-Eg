@@ -125,11 +125,11 @@ court(宫廷/法庭) + -ship(名词后缀，表关系/状态/行为)
 
 > [!example]- 语料
 > - They had a passionate courtship and a long , loving marriage. `[例]`
->   - 中译：他们有过一段热烈的追求期和漫长而恩爱的婚姻。
->   - 来源：Collins | https://www.collinsdictionary.com/dictionary/english/courtship
+>   - 中译：两人的恋爱持续了两年，然后才决定结婚。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/courtship
 > - They were married in 1923 after a long courtship. `[例]`
->   - 中译：经过漫长的追求期后，他们于1923年结婚。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/courtship
+>   - 中译：在许多鸟类中，精心求偶展示对于吸引配偶至关重要。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/courtship
 
 ## 主动产出
 

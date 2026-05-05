@@ -123,8 +123,8 @@ job(工作) + seek(寻找) + -er(人)
 
 > [!example]- 语料
 > - Jobseekers are entitled to a weekly allowance from the government. `[例]`
->   - 中译：求职者有权领取政府每周发放的津贴。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/jobseeker
+>   - 中译：求职者有权领取政府发放的每周津贴。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/jobseeker
 > - The online platform connects jobseekers with potential employers. `[例]`
 >   - 中译：这个在线平台将求职者与潜在雇主联系起来。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/jobseeker

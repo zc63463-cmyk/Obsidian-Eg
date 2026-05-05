@@ -124,12 +124,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The media dubbed him the fastest man alive after breaking the world record. `[例]`
->   - 中译：他被媒体称为“快速先生”。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/dub
+>   - 中译：打破世界纪录后，媒体称他为“世界上跑得最快的人”。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/dub
 > - The foreign film was dubbed into English for the international market. `[例]`
->   - 中译：这部电影被译制成中文在电视上播出。
+>   - 中译：这部外语片被配音成英语以面向国际市场。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/dub
 > - His teammates dubbed him Speedy because of his remarkable quickness on the field. `[例]`
+>   - 中译：队友们因为他在球场上惊人的速度而给他起了“飞毛腿”的绰号。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/dub
 
 ## 主动产出
 

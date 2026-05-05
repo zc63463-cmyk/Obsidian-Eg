@@ -124,12 +124,14 @@ domin-(domin-/dom-，主人/统治) + -ance(名词后缀) → 做主人的状态
 
 > [!example]- 语料
 > - The company has achieved market dominance through aggressive expansion. `[例]`
->   - 中译：该公司在智能手机市场占据主导地位。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/dominance
+>   - 中译：该公司通过积极扩张实现了市场主导地位。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/dominance
 > - The team's dominance in the tournament was evident from their first match. `[例]`
->   - 中译：该队在本赛季确立了绝对的统治力。
+>   - 中译：从第一场比赛就可以看出该队在锦标赛中的统治力。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/dominance
 > - Cultural dominance of one group over another can lead to the erosion of minority traditions. `[例]`
+>   - 中译：一个群体对另一个群体的文化主导可能导致少数群体传统的消亡。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/dominance
 
 ## 主动产出
 

@@ -129,8 +129,8 @@ ac-(=ad-, 朝向) + count(计算，数) + -abil(-able，可被) + -ity(名词后
 >   - 中译：政府问责制对于维护公众对民主制度的信任至关重要。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/accountability
 > - The new regulations aim to strengthen corporate accountability by requiring companies to disclose their environmental impact. `[例]`
->   - 中译：新规旨在通过要求企业披露其环境影响来加强企业问责制。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/accountability
+>   - 中译：新法规旨在通过要求企业公开其环境影响来加强企业问责制。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/accountability
 
 ## 主动产出
 

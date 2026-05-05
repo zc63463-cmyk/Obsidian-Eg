@@ -127,9 +127,9 @@ in-(向内) + her(粘附，拉丁语 *haerere*) + -it(走) + -ed(已…的)
 > [!example]- 语料
 > - She inherited her mother's talent for music. `[例]`
 >   - 中译：她继承了母亲的音乐天赋。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/inherited
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/inherited
 > - The family's inherited wealth was built over several generations. `[例]`
->   - 中译：这个家族的世袭财富是经过几代人积累起来的。
+>   - 中译：这个家族的世代财富是经过几代人积累起来的。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/inherited
 
 ## 主动产出

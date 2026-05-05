@@ -128,11 +128,11 @@ review_count: 0
 
 > [!example]- 语料
 > - The brightest objects in the cosmos are pulsars. `[例]`
->   - 中译：宇宙中最明亮的天体是脉冲星。
->   - 来源：Collins | https://www.collinsdictionary.com/dictionary/english/cosmos
+>   - 中译：科学家继续探索宇宙的巨大奥秘。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/cosmos
 > - There are many ideas about our place in the cosmos. `[例]`
->   - 中译：关于我们在宇宙中的位置，有许多不同的观点。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/cosmos
+>   - 中译：这部纪录片带领观众进行了一次穿越宇宙的壮丽之旅。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/cosmos
 
 ## 主动产出
 

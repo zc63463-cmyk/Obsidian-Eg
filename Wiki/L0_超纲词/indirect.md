@@ -125,14 +125,14 @@ in-(不) + direct(直接的)
 
 > [!example]- 语料
 > - The new tax policy had an indirect effect on small businesses by raising their operating costs. `[例]`
->   - 中译：新税收政策通过提高运营成本对小企业产生了间接影响。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/indirect
+>   - 中译：新的税收政策通过提高运营成本对小企业产生了间接影响。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/indirect
 > - She gave an indirect answer that avoided addressing the core of the question. `[例]`
 >   - 中译：她给出了一个间接的回答，回避了问题的核心。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/indirect
 > - He made an indirect criticism of the proposal without naming anyone specifically. `[例]`
->   - 中译：他对该提案进行了间接批评，没有具体点名任何人。
->   - 来源：Collins | https://www.collinsdictionary.com/dictionary/english/indirect
+>   - 中译：他对该提案进行了间接批评，没有点名任何人。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/indirect
 
 ## 主动产出
 

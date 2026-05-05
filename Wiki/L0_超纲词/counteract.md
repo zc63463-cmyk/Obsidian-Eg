@@ -127,11 +127,11 @@ review_count: 0
 
 > [!example]- 语料
 > - What can be done to counteract this trend? `[例]`
->   - 中译：可以采取什么措施来对抗这种趋势？
->   - 来源：Collins | https://www.collinsdictionary.com/dictionary/english/counteract
+>   - 中译：这种药物旨在抵消毒素的作用。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/counteract
 > - Drinking a lot of water counteracts the dehydrating effects of hot weather. `[例]`
->   - 中译：大量饮水可以抵消炎热天气的脱水效果。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/counteract
+>   - 中译：运动有助于抵消久坐生活方式的负面影响。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/counteract
 
 ## 主动产出
 

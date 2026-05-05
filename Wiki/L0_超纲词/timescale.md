@@ -120,11 +120,11 @@ time（时间）+ scale（尺度，刻度）。
 
 > [!example]- 语料
 > - Police officers are trying to construct the timescale of events leading up to the murder. `[例]`
->   - 中译：这个项目的时间表非常紧迫。
+>   - 中译：警察正在试图梳理出导致这起谋杀案的事件时间线。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/timescale
 > - What's the timescale for this? (= How long will it take?). `[例]`
->   - 中译：在地质学的时间尺度上，一千年不过是弹指一挥间。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/timescale
+>   - 中译：这个的时间跨度是多久？（=需要多长时间？）。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/timescale
 
 ## 主动产出
 

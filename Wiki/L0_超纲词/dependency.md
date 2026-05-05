@@ -130,7 +130,7 @@ review_count: 0
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/dependency
 > - The country's dependency on foreign oil makes its economy vulnerable to price shocks. `[例]`
 >   - 中译：该国对外国石油的依赖使其经济容易受到价格冲击的影响。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/dependency
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/dependency
 
 ## 主动产出
 

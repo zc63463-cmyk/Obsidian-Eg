@@ -124,11 +124,11 @@ grass(草) + land(土地)
 
 > [!example]- 语料
 > - The grasslands of North America. `[例]`
->   - 中译：北美的草原。
+>   - 中译：北美大草原。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/grassland
 > - Conservation groups are restoring grasslands in the Midwest. `[例]`
->   - 中译：环保组织正在恢复中西部的草原。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/grassland
+>   - 中译：环保组织正在恢复中西部地区的草原。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/grassland
 
 ## 主动产出
 

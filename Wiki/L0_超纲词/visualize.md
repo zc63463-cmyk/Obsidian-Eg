@@ -135,11 +135,11 @@ review_count: 0
 
 > [!example]- 语料
 > - I was so surprised when he turned up - I'd visualized someone much older. `[例]`
->   - 中译：闭上眼睛，想象你在一个宁静的海滩上。
+>   - 中译：他出现时我非常惊讶——我原本想象的是一个年纪大得多的人。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/visualize
 > - The biggest challenge to building this place was visualizing what it would look like. `[例]`
->   - 中译：建筑师使用3D模型来可视化建筑效果。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/visualize
+>   - 中译：建造这个地方最大的挑战是想象它最终会是什么样子。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/visualize
 
 ## 主动产出
 

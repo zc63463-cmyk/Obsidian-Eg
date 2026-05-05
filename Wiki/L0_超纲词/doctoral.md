@@ -117,12 +117,14 @@ doctor(博士/教师，拉丁语 *docere*，教导) + -al(形容词后缀) → �
 
 > [!example]- 语料
 > - She is currently pursuing a doctoral degree in molecular biology. `[例]`
->   - 中译：她正在攻读博士学位。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/doctoral
+>   - 中译：她目前正在攻读分子生物学博士学位。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/doctoral
 > - His doctoral thesis examined the effects of climate change on coastal ecosystems. `[例]`
->   - 中译：他的博士论文研究了气候变化对沿海社区的影响。
+>   - 中译：他的博士论文研究了气候变化对沿海生态系统的影响。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/doctoral
 > - The university offers a doctoral program in computer science that takes four to five years to complete. `[例]`
+>   - 中译：该大学提供计算机科学博士项目，需要四到五年完成。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/doctoral
 
 ## 主动产出
 

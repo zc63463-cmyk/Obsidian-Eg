@@ -121,14 +121,14 @@ in-(不) + com-(完全) + plet(填充/完成，拉丁语 *plere*) + -e
 
 > [!example]- 语料
 > - The investigation was hampered by incomplete data from the early stages of the study. `[例]`
->   - 中译：调查因研究早期阶段数据不完整而受到阻碍。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/incomplete
+>   - 中译：调查因研究早期阶段的数据不完整而受到阻碍。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/incomplete
 > - Without all the relevant documents, any analysis will remain incomplete. `[例]`
->   - 中译：没有所有相关文件，任何分析都将是不完整的。
+>   - 中译：如果没有所有相关文件，任何分析都将是不完整的。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/incomplete
 > - The museum's collection is still incomplete despite years of acquisition efforts. `[例]`
->   - 中译：尽管经过多年的收藏努力，博物馆的藏品仍然不完整。
->   - 来源：Collins | https://www.collinsdictionary.com/dictionary/english/incomplete
+>   - 中译：尽管经过多年的收藏努力，博物馆的馆藏仍然不够完整。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/incomplete
 
 ## 主动产出
 

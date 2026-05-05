@@ -124,10 +124,10 @@ eco-(=oiko-，家/环境，源自希腊语 *oikos*，"家/住所") + system(系�
 
 > [!example]- 语料
 > - The coral reef is one of the most diverse marine ecosystems on the planet. `[例]`
->   - 中译：珊瑚礁是海洋中最多样化的生态系统之一。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/ecosystem
+>   - 中译：珊瑚礁是地球上最多样化的海洋生态系统之一。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ecosystem
 > - Technology companies are building a digital ecosystem that connects millions of users worldwide. `[例]`
->   - 中译：污染正在破坏当地的生态系统。
+>   - 中译：科技公司正在构建一个连接全球数百万用户的数字生态系统。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ecosystem
 
 ## 主动产出

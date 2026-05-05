@@ -124,11 +124,11 @@ slip(滑倒) + [[up|up]](向上/加强)
 
 > [!example]- 语料
 > - We were late because of a slipup in the schedule. `[例]`
->   - 中译：由于一个小失误，整个项目延误了两周。
+>   - 中译：因为日程安排出了差错，我们迟到了。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/slipup
 > - The marketing director made sure there were no slipups for the important presentation. `[例]`
->   - 中译：别担心，每个人都会犯小错误的。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/slipup
+>   - 中译：营销总监确保这次重要的演示不会出差错。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/slipup
 
 ## 主动产出
 

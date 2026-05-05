@@ -123,11 +123,11 @@ stick（粘住）+ -i- + -ness（名词后缀，表示性质/状态）
 
 > [!example]- 语料
 > - The company is using multimedia to increase the stickiness of visits to its Oxford Street store. `[例]`
->   - 中译：这种胶水的粘性非常强。
+>   - 中译：该公司正在利用多媒体来增加顾客在其牛津街店铺的停留粘性。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/stickiness
 > - These sociologists emphasize the stickiness of organizational change. `[例]`
->   - 中译：该网站的粘性很高，用户平均停留时间很长。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/stickiness
+>   - 中译：这些社会学家强调组织变革的粘滞性（即变革难以推进的特性）。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/stickiness
 
 ## 主动产出
 

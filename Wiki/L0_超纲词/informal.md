@@ -125,14 +125,14 @@ in-(不，否定) + [[form|form-]](形式) + -al(形容词后缀)
 
 > [!example]- 语料
 > - The meeting was informal, with participants sitting around a table rather than in a formal boardroom. `[例]`
->   - 中译：会议是非正式的，参与者围坐在桌旁，而不是坐在正式的董事会会议室里。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/informal
+>   - 中译：会议是非正式的，参与者围坐在桌旁，而不是在正式的会议室里。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/informal
 > - Informal learning often takes place outside the classroom through daily experiences. `[例]`
->   - 中译：非正式学习通常在课堂之外通过日常经验进行。
+>   - 中译：非正式学习通常通过日常经验在课堂之外进行。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/informal
 > - She preferred an informal approach to management that encouraged open communication. `[例]`
 >   - 中译：她偏爱鼓励开放沟通的非正式管理方式。
->   - 来源：Collins | https://www.collinsdictionary.com/dictionary/english/informal
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/informal
 
 ## 主动产出
 

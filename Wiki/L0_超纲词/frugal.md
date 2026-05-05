@@ -125,12 +125,12 @@ fru(=frux, 果实，拉丁语 *frux/frugis*) + -gal(形容词后缀，有…特�
 ## 真题/语料关联
 
 > [!example]- 语料
-> - Lungren, a fiscal conservative when it comes to spending taxpayers ' money , is frugal in his personal life as well. `[例]`
->   - 中译：伦格伦在花费纳税人钱财方面是一个财政保守派，在个人生活中也很节俭。
+> - Lungren, a fiscal conservative when it comes to spending taxpayers ’ money , is frugal in his personal life as well. `[例]`
+>   - 中译：伦格伦在花纳税人钱方面是个财政保守派，在个人生活中也同样节俭。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/frugal
 > - He built up his savings by being very frugal. `[例]`
->   - 中译：他通过非常节俭攒下了积蓄。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/frugal
+>   - 中译：他通过非常节俭积累了积蓄。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/frugal
 
 ## 主动产出
 

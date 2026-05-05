@@ -123,10 +123,10 @@ em-(=en-, 放入/使成为) + body(身体) + -ment(名词后缀，表示结果/�
 
 > [!example]- 语料
 > - She is the embodiment of kindness and generosity. `[例]`
->   - 中译：她是优雅的化身。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/embodiment
+>   - 中译：她是善良和慷慨的化身。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/embodiment
 > - The new museum is a living embodiment of the city's cultural heritage. `[例]`
->   - 中译：这座建筑是现代建筑理念的具体体现。
+>   - 中译：这座新博物馆是这座城市文化遗产的活生生体现。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/embodiment
 
 ## 主动产出

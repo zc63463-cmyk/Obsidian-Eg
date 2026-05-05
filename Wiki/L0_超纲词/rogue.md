@@ -131,11 +131,11 @@ rogue 为日耳曼语源词汇（可能源自拉丁语 *rogare* "要求"，但�
 
 > [!example]- 语料
 > - A Special Forces unit had gone rogue and was trying to free the hostage. `[例]`
->   - 中译：一头野象在村庄里横冲直撞，造成了严重破坏。
+>   - 中译：一支特种部队叛变了，试图解救人质。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rogue
 > - Come here, you little rogue!" chuckled my uncle. `[例]`
->   - 中译：一些流氓交易员导致了公司的巨额亏损。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/rogue
+>   - 中译：“过来，你这个小淘气！”我叔叔笑着说。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rogue
 
 ## 主动产出
 

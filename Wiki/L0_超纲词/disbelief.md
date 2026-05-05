@@ -124,7 +124,7 @@ review_count: 0
 > [!example]- 语料
 > - His response was one of complete disbelief. `[例]`
 >   - 中译：他的反应是完全不相信。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/disbelief
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/disbelief
 > - He stared at me in disbelief. `[例]`
 >   - 中译：他难以置信地盯着我。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/disbelief

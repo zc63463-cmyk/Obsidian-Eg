@@ -126,9 +126,9 @@ memor(记忆，拉丁语 *memoria*) + -ize(动词后缀，使……化)
 
 > [!example]- 语料
 > - When I was at school , we were required to memorize a poem every week. `[例]`
->   - 中译：我上学时，每周都被要求背诵一首诗。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/memorize
-> - She memorized her friends ' phone numbers. `[例]`
+>   - 中译：我上学的时候，每周都被要求背诵一首诗。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/memorize
+> - She memorized her friends ’ phone numbers. `[例]`
 >   - 中译：她记住了朋友们的电话号码。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/memorize
 

@@ -124,11 +124,11 @@ ultim-(最远的，最终的) + -ate(形容词后缀) + -ly(副词后缀)
 
 > [!example]- 语料
 > - Everything will ultimately depend on what is said at the meeting with the directors next week. `[例]`
->   - 中译：最终，决定权在你手中。
+>   - 中译：一切最终都将取决于下周与董事们会议上的讨论内容。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ultimately
 > - Ultimately, of course , he'd like to have his own business but that won't be for some time. `[例]`
->   - 中译：这项技术最终将改变我们的生活方式。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/ultimately
+>   - 中译：当然，他最终想拥有自己的企业，但那还需要一段时间。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ultimately
 
 ## 主动产出
 

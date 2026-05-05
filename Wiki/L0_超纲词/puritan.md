@@ -130,11 +130,11 @@ review_count: 0
 
 > [!example]- 语料
 > - During the 17th century the Puritans destroyed many decorations in English churches. `[例]`
->   - 中译：清教徒在17世纪移民到了美洲。
+>   - 中译：在17世纪，清教徒毁掉了英国教堂中的许多装饰。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/puritan
 > - Some of the town's puritans still maintain that sex education has no place in the schools. `[例]`
->   - 中译：他对工作有着清教徒般的态度。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/puritan
+>   - 中译：镇上的一些清教徒仍然坚持认为性教育在学校中没有立足之地。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/puritan
 
 ## 主动产出
 

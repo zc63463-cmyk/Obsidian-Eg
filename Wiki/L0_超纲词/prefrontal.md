@@ -119,10 +119,10 @@ review_count: 0
 
 > [!example]- 语料
 > - Prefrontal dysfunction has been implicated in several psychiatric disorders. `[例]`
->   - 中译：前额叶皮层负责高级认知功能。
+>   - 中译：前额叶功能障碍与多种精神疾病有关。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/prefrontal
 > - These individuals had smaller volumes in certain prefrontal and medial temporal parts of the brain. `[例]`
->   - 中译：研究表明前额叶在决策中起着关键作用。
+>   - 中译：这些个体大脑的某些前额叶和内侧额叶区域的体积较小。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/prefrontal
 
 ## 主动产出

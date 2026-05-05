@@ -128,11 +128,11 @@ guard(守卫，古法语 *garder*) + -ship(表示状态/身份/关系的名词�
 >   - 中译：法院将孩子的监护权判给了她的祖母。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/guardianship
 > - The museum sees itself as having a guardianship of the nation's artistic heritage. `[例]`
->   - 中译：博物馆将自己视为国家艺术遗产的守护者。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/guardianship
+>   - 中译：博物馆认为自身承担着守护国家艺术遗产的责任。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/guardianship
 > - She was granted legal guardianship of her younger brother after their parents passed away. `[例]`
 >   - 中译：父母去世后，她获得了弟弟的法定监护权。
->   - 来源：Collins | https://www.collinsdictionary.com/dictionary/english/guardianship
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/guardianship
 
 ## 主动产出
 

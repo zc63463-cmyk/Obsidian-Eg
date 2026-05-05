@@ -127,11 +127,11 @@ review_count: 0
 
 > [!example]- 语料
 > - The researchers proposed a paramount solution to the problem. `[例]`
->   - 中译：安全是最重要的。
+>   - 中译：研究人员提出了一种至关重要的解决方案来应对这一问题。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/paramount
 > - The company adopted a paramount approach to improve efficiency. `[例]`
->   - 中译：在这个行业中，质量至关重要。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/paramount
+>   - 中译：公司采取了一种至关重要的方法来提高效率。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/paramount
 
 ## 主动产出
 

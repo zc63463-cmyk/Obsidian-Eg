@@ -124,11 +124,11 @@ multi-(多) + [[plic-plex|plic]](折叠/层，拉丁语 *plicare*) + -ity(名词
 
 > [!example]- 语料
 > - There is a multiplicity of fashion magazines to choose from. `[例]`
->   - 中译：有各种各样的时尚杂志可供选择。
+>   - 中译：有大量时尚杂志可供选择。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/multiplicity
 > - She knew a multiplicity of languages. `[例]`
->   - 中译：她懂多种语言。
->   - 来源：Collins | https://www.collinsdictionary.com/dictionary/english/multiplicity
+>   - 中译：她懂得多种语言。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/multiplicity
 
 ## 主动产出
 

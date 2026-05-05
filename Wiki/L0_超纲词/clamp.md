@@ -124,10 +124,10 @@ review_count: 0
 
 > [!example]- 语料
 > - Carefully tighten the clamp until it firmly supports the pipette in a vertical position. `[例]`
->   - 中译：小心拧紧夹钳，直到它牢固地将移液管支撑在垂直位置。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/clamp
+>   - 中译：在胶水干燥时，用夹具将木块固定在一起。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/clamp
 > - Clamp the two pieces of wood (together) for 15 minutes. `[例]`
->   - 中译：将两块木头夹在一起15分钟。
+>   - 中译：政府决定严厉打击非法移民。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/clamp
 
 ## 主动产出

@@ -125,7 +125,7 @@ job(工作) + -less(没有，无)
 > [!example]- 语料
 > - The jobless rate fell to five percent last month. `[例]`
 >   - 中译：上个月失业率降至百分之五。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/jobless
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/jobless
 > - The government must address the needs of the jobless. `[例]`
 >   - 中译：政府必须解决失业人群的需求。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/jobless

@@ -122,10 +122,10 @@ in-(不) + [[form|form-]](形式) + -al(形容词) + -ity(名词后缀)
 
 > [!example]- 语料
 > - The informality of the startup culture appealed to many young professionals. `[例]`
->   - 中译：创业文化的非正式性吸引了许多年轻专业人士。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/informality
+>   - 中译：创业公司的非正式文化吸引了许多年轻专业人士。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/informality
 > - There was a pleasant informality about the gathering. `[例]`
->   - 中译：这次聚会带有一种令人愉快的随意氛围。
+>   - 中译：这次聚会有一种令人愉快的随和氛围。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/informality
 
 ## 主动产出

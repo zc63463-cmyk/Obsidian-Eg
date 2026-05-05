@@ -124,11 +124,11 @@ review_count: 0
 
 > [!example]- 语料
 > - The researchers proposed a objectionable solution to the problem. `[例]`
->   - 中译：研究人员提出了一个令人反感的解决方案来解决这个问题。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/objectionable
+>   - 中译：研究人员提出了一种令人反感的解决方案来应对这一问题。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/objectionable
 > - The company adopted a objectionable approach to improve efficiency. `[例]`
->   - 中译：该公司采用了一种令人反感的方法来提高效率。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/objectionable
+>   - 中译：公司采取了一种令人反感的方法来提高效率。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/objectionable
 
 ## 主动产出
 

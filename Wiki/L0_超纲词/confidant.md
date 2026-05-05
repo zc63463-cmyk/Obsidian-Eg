@@ -121,11 +121,11 @@ con-（完全）+ [[fid]]（信任，拉丁语 *fidere*，信任）+ -ant（人�
 
 > [!example]- 语料
 > - Her brother is her closest confidant. `[例]`
->   - 中译：她的哥哥是她最亲密的知己。
->   - 来源：Collins | https://www.collinsdictionary.com/dictionary/english/confidant
+>   - 中译：从我们小时候起，她就是我的知己。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/confidant
 > - He had no confidant to share his deepest concerns with. `[例]`
->   - 中译：他没有可以倾诉内心深处忧虑的知己。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/confidant
+>   - 中译：首席执行官的私人助理经常在敏感事务上充当他的心腹。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/confidant
 
 ## 主动产出
 

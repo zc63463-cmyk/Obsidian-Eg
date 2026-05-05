@@ -122,11 +122,11 @@ review_count: 0
 
 > [!example]- 语料
 > - The researchers proposed a obscene solution to the problem. `[例]`
->   - 中译：研究人员提出了一个下流的解决方案来解决这个问题。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/obscene
+>   - 中译：研究人员提出了一种淫秽的解决方案来应对这一问题。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/obscene
 > - The company adopted a obscene approach to improve efficiency. `[例]`
->   - 中译：该公司采用了一种下流的方法来提高效率。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/obscene
+>   - 中译：公司采取了一种淫秽的方法来提高效率。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/obscene
 
 ## 主动产出
 

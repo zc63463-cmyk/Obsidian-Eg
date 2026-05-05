@@ -126,11 +126,11 @@ review_count: 0
 
 > [!example]- 语料
 > - She's very upfront about why she wants the job - she'd earn a lot more money. `[例]`
->   - 中译：他要求客户预先支付一笔费用。
+>   - 中译：她非常坦率地说明了她想要这份工作的原因——她能赚更多的钱。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/upfront
 > - Film scriptwriters get an upfront payment for a major film. `[例]`
->   - 中译：她为人坦率，总是直截了当地表达自己的看法。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/upfront
+>   - 中译：电影编剧在创作大片时会获得一笔预付款。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/upfront
 
 ## 主动产出
 

@@ -120,11 +120,11 @@ non-(不，否定前缀) + material(物质) + -ist(人/主义) + -ic(形容词�
 
 > [!example]- 语料
 > - The researchers proposed a non materialistic solution to the problem. `[例]`
->   - 中译：研究人员提出了一个非物质主义的解决方案。
+>   - 中译：研究人员提出了一种非物质主义的解决方案来应对这一问题。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/non-materialistic
 > - The company adopted a non materialistic approach to improve efficiency. `[例]`
->   - 中译：公司采用了一种非物质主义的方法来提高效率。
->   - 来源：Collins | https://www.collinsdictionary.com/dictionary/english/non-materialistic
+>   - 中译：公司采取了一种非物质主义的方法来提高效率。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/non-materialistic
 
 ## 主动产出
 

@@ -124,11 +124,11 @@ review_count: 0
 
 > [!example]- 语料
 > - No date has yet been set for the submission of applications. `[例]`
->   - 中译：论文提交的截止日期是下周五。
+>   - 中译：申请提交的日期尚未确定。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/submission
 > - The final deadline for submissions is 21 February. `[例]`
->   - 中译：他拒绝向威胁屈服。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/submission
+>   - 中译：提交的最终截止日期是2月21日。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/submission
 
 ## 主动产出
 

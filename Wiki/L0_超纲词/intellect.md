@@ -123,10 +123,10 @@ intel-(在…之间) + [[lect|lect-leg-]](选择，读取)
 
 > [!example]- 语料
 > - She was respected for her sharp intellect and analytical skills. `[例]`
->   - 中译：她因敏锐的才智和分析能力而受到尊敬。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/intellect
+>   - 中译：她因敏锐的才智和分析能力而受人尊敬。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/intellect
 > - The book appeals to both the intellect and the emotions. `[例]`
->   - 中译：这本书既吸引理智，又触动情感。
+>   - 中译：这本书既吸引智力，也触动情感。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/intellect
 
 ## 主动产出

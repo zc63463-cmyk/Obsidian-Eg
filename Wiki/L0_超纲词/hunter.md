@@ -132,8 +132,8 @@ hunt(追猎，古英语 *huntian*) + -er(人/物后缀)
 >   - 中译：猫科动物都是猎手。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hunter
 > - The hunters followed the tracks of the deer for hours. `[例]`
->   - 中译：猎人们追踪鹿的踪迹数小时。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/hunter
+>   - 中译：猎人们追踪鹿的踪迹已有数小时。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hunter
 
 ## 主动产出
 

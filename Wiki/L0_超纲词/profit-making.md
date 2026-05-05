@@ -127,10 +127,10 @@ profit（利润/利益）+ making（制造/产生）= 制造利润的→盈利�
 
 > [!example]- 语料
 > - She does not see why a profit-making business cannot also be ethical. `[例]`
->   - 中译：这家公司是一家营利性企业。
+>   - 中译：她不明白为什么盈利性企业就不能同时讲道德。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/profit-making
 > - I believe that public transport should be run as a service, not as a profit-making enterprise. `[例]`
->   - 中译：该组织的目的是营利，而非慈善。
+>   - 中译：我认为公共交通应该作为一项服务来运营，而不是作为盈利性企业。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/profit-making
 
 ## 主动产出

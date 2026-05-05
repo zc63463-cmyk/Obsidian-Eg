@@ -125,14 +125,14 @@ ac-(=ad-, 朝向) + cus(=cause, 事由/原因) + -ation(名词后缀)
 
 > [!example]- 语料
 > - He denied the accusation of fraud and demanded a fair trial. `[例]`
->   - 中译：他否认了欺诈指控，并要求获得公正审判。
->   - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/accusation
+>   - 中译：他否认了欺诈指控，并要求公正审判。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/accusation
 > - The opposition party leveled accusations of corruption against several senior government officials. `[例]`
->   - 中译：反对党对数名政府高级官员提出了腐败指控。
->   - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/accusation
+>   - 中译：反对党对几名政府高级官员提出了腐败指控。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/accusation
 > - She was shocked by the unfair accusations that appeared in the local newspaper. `[例]`
 >   - 中译：她对当地报纸上出现的不公正指控感到震惊。
->   - 来源：Collins Dictionary | https://www.collinsdictionary.com/dictionary/english/accusation
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/accusation
 
 ## 主动产出
 

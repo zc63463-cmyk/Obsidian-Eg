@@ -133,11 +133,11 @@ tsu（日语"津"，意为港口/harbor）+ nami（日语"波"，意为波浪/wa
 
 > [!example]- 语料
 > - In 2004 an earthquake triggered a tsunami that destroyed entire communities in Indonesia and other countries around the Indian Ocean. `[例]`
->   - 中译：海啸摧毁了沿海的许多村庄。
+>   - 中译：2004年，一场地震引发了海啸，摧毁了印度尼西亚及印度洋沿岸其他国家的整个社区。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/tsunami
 > - There is a tsunami of data available to medical research right now. `[例]`
->   - 中译：预警系统帮助居民在海啸来临前撤离。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/tsunami
+>   - 中译：目前有海量的数据可供医学研究使用。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/tsunami
 
 ## 主动产出
 

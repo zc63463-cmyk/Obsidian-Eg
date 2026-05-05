@@ -121,11 +121,11 @@ suit（适合）+ -abil(ity)（可……的性质）→ suitability（适合性�
 
 > [!example]- 语料
 > - There were doubts about his suitability for the job. `[例]`
->   - 中译：面试官评估了每位候选人的适合程度。
+>   - 中译：关于他是否适合这份工作存在疑问。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/suitability
 > - Assessments of their suitability to adopt a child. `[例]`
->   - 中译：这块地的适用性需要经过专业评估。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/suitability
+>   - 中译：对他们是否适合收养孩子的评估。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/suitability
 
 ## 主动产出
 

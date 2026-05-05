@@ -121,12 +121,14 @@ on-(=on/forward, 在……上/向前) + -ward(=toward, 朝向……方向)
 
 > [!example]- 语料
 > - The researchers proposed a onward solution to the problem. `[例]`
->   - 中译：从那时起，项目进展顺利。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/onward
+>   - 中译：研究人员提出了一种向前的解决方案来应对这一问题。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/onward
 > - The company adopted a onward approach to improve efficiency. `[例]`
->   - 中译：旅客们继续向目的地前进。
+>   - 中译：公司采取了一种向前的思维方法来提高效率。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/onward
 > - The plan offers a onward option for small organizations. `[例]`
+>   - 中译：该计划为小型组织提供了前进选项。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/onward
 
 ## 主动产出
 

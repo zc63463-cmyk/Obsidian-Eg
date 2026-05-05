@@ -120,11 +120,11 @@ review_count: 0
 
 > [!example]- 语料
 > - I was just glancing idly through a magazine. `[例]`
->   - 中译：我只是百无聊赖地翻着一本杂志。
+>   - 中译：我只是在漫不经心地翻看一本杂志。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/idly
 > - She lay idly on the grass. `[例]`
 >   - 中译：她懒洋洋地躺在草地上。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/idly
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/idly
 
 ## 主动产出
 

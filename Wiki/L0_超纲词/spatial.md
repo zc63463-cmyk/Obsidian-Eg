@@ -125,11 +125,11 @@ review_count: 0
 
 > [!example]- 语料
 > - This task is designed to test children's spatial awareness (= their understanding of where things are in relation to other things). `[例]`
->   - 中译：儿童的空间感知能力在早期发展中非常重要。
+>   - 中译：这项任务旨在测试儿童的空间意识（即他们理解物体与其他物体之间位置关系的能力）。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/spatial
 > - Changes taking place in the spatial distribution of the population. `[例]`
->   - 中译：建筑师需要具备出色的空间想象力。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/spatial
+>   - 中译：人口空间分布正在发生变化。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/spatial
 
 ## 主动产出
 

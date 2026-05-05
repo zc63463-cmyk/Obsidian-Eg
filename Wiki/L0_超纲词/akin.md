@@ -123,13 +123,13 @@ a-(=of, 属于) + kin(亲属，家族)
 > [!example]- 语料
 > - The feeling of loneliness is akin to physical pain, according to recent research. `[例]`
 >   - 中译：根据最新研究，孤独感类似于身体上的疼痛。
->   - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/akin
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/akin
 > - The new policy is something akin to a tax increase disguised as a reform. `[例]`
->   - 中译：新政策类似于一种伪装成改革的增税措施。
->   - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/akin
+>   - 中译：新政策类似于披着改革外衣的增税措施。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/akin
 > - The two languages are closely akin, sharing many grammatical structures and vocabulary. `[例]`
 >   - 中译：这两种语言密切相关，共享许多语法结构和词汇。
->   - 来源：Collins Dictionary | https://www.collinsdictionary.com/dictionary/english/akin
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/akin
 
 ## 主动产出
 

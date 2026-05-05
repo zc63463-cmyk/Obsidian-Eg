@@ -124,11 +124,11 @@ review_count: 0
 
 > [!example]- 语料
 > - Among the 10 worst performers were some of the most populous states, including Texas , which was given the lowest grade ( F) and has a disproportionate influence because its textbooks are widely sold elsewhere. `[真题]`
->   - 中译：中国是世界上人口最多的国家之一。
+>   - 中译：表现最差的10个州中有一些是人口最多的州，包括得克萨斯州，它获得了最低评分（F），并且由于其教科书在其他地方广泛销售而产生了不成比例的影响。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/populous
 > - China is the world's most populous country. `[例]`
->   - 中译：这座人口稠密的城市面临着严重的交通问题。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/populous
+>   - 中译：中国是世界上人口最多的国家。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/populous
 
 ## 主动产出
 

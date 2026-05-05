@@ -125,10 +125,10 @@ merc(怜悯，拉丁语 *merces* 报酬→仁慈) + -less(没有) + -ly(副词�
 
 > [!example]- 语料
 > - Louis was teased mercilessly by his schoolmates. `[例]`
->   - 中译：路易斯被同学们无情地取笑。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/mercilessly
+>   - 中译：路易被同学们无情地嘲笑。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/mercilessly
 > - He didn't fit in there, and was picked on mercilessly. `[例]`
->   - 中译：他在那里格格不入，被无情地欺负。
+>   - 中译：他在那里格格不入，总是被无情地欺负。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/mercilessly
 
 ## 主动产出

@@ -126,8 +126,8 @@ joke(玩笑) + -ing(动名词/进行) + -ly(副词后缀)
 
 > [!example]- 语料
 > - He jokingly referred to himself as the boss of the household. `[例]`
->   - 中译：他开玩笑地称自己为一家之主。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/jokingly
+>   - 中译：他开玩笑地自称为一家之主。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/jokingly
 > - She jokingly suggested that we should just quit our jobs and travel the world. `[例]`
 >   - 中译：她开玩笑地建议我们干脆辞职去环游世界。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/jokingly

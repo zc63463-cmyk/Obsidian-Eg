@@ -124,12 +124,14 @@ drain（排干，源自古英语 *drēahnian*）+ -age（名词后缀，表示�
 
 > [!example]- 语料
 > - Poor drainage caused flooding in the basement after the heavy rain. `[例]`
->   - 中译：这片田地的排水系统需要维修。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/drainage
+>   - 中译：排水不畅导致暴雨后地下室被淹。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/drainage
 > - The city needs to invest in a modern drainage system to prevent future floods. `[例]`
->   - 中译：良好的排水对于防止洪水至关重要。
+>   - 中译：城市需要投资建设现代化的排水系统，以防止未来的洪灾。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/drainage
 > - Agricultural drainage is essential for maintaining healthy soil conditions. `[例]`
+>   - 中译：农业排水对保持良好的土壤条件至关重要。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/drainage
 
 ## 主动产出
 

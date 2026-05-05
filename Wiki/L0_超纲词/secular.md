@@ -125,11 +125,11 @@ review_count: 0
 
 > [!example]- 语料
 > - We live in an increasingly secular society , in which religion has less and less influence on our daily lives. `[例]`
->   - 中译：该国实行世俗政府，政教分离。
+>   - 中译：我们生活在一个日益世俗化的社会中，宗教对我们日常生活的影响越来越小。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/secular
 > - Bloomberg, by contrast, would be the most pro-immigration, pro-free trade, pro-Wall Street candidate in the race. The third-party candidate he would most resemble is John Anderson, the fiscally responsible, culturally liberal Republican who ran as an Independent in 1980. Anderson won 7% of the vote, mostly among the young, educated and secular . But today those people are partisan Democrats. `[例]`
->   - 中译：近几十年来，社会呈现出日益世俗化的趋势。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/secular
+>   - 中译：相比之下，布隆伯格将是竞选中最支持移民、最支持自由贸易、最支持华尔街的候选人。他最像的第三方候选人是约翰·安德森——一位财政负责、文化自由的共和党人，1980年以独立候选人身份参选。安德森获得了7%的选票，主要来自年轻人、受过教育的人和世俗主义者。但如今这些人都是坚定的民主党人。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/secular
 
 ## 主动产出
 

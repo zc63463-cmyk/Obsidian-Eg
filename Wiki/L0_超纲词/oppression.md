@@ -123,10 +123,10 @@ review_count: 0
 
 > [!example]- 语料
 > - Every human being has the right to freedom from oppression. `[例]`
->   - 中译：人民在独裁统治下遭受了数十年的压迫。
+>   - 中译：每个人都有免受压迫的自由权利。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/oppression
 > - War, famine and oppression have forced people in the region to flee from their homes. `[例]`
->   - 中译：她写了一本关于种族压迫的书。
+>   - 中译：战争、饥荒和压迫迫使该地区的人们逃离家园。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/oppression
 
 ## 主动产出

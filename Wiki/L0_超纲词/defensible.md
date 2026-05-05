@@ -120,11 +120,11 @@ review_count: 0
 
 > [!example]- 语料
 > - A city built on an island is easily defensible. `[例]`
->   - 中译：建在岛屿上的城市很容易防守。
+>   - 中译：建在岛上的城市易于防守。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/defensible
 > - High petrol taxes are defensible on ecological grounds. `[例]`
->   - 中译：从生态角度来看，高额燃油税是站得住脚的。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/defensible
+>   - 中译：从生态角度来看，高额燃油税是合理的。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/defensible
 
 ## 主动产出
 

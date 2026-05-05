@@ -121,11 +121,11 @@ trouble（麻烦）+ maker（制造者，make + -er）。
 
 > [!example]- 语料
 > - I was worried that I would be regarded as a troublemaker if I complained about the safety standards. `[例]`
->   - 中译：老师认为他是班上的捣蛋鬼。
+>   - 中译：我担心如果抱怨安全标准，我会被视为一个捣乱者。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/troublemaker
 > - He had the reputation of being a troublemaker in high school. `[例]`
->   - 中译：邻居抱怨那个经常制造麻烦的人。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/troublemaker
+>   - 中译：他在高中时就以捣乱者出名。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/troublemaker
 
 ## 主动产出
 

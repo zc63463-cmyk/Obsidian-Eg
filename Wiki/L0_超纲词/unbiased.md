@@ -127,11 +127,11 @@ un-(不，否定前缀) + [[bi-|bi]](二/双) + -as(后缀，斜向) + -ed(形�
 
 > [!example]- 语料
 > - He admits that his newspaper was not an unbiased observer in the conflict. `[例]`
->   - 中译：法官必须保持公正无私的态度。
+>   - 中译：他承认他的报纸在这场冲突中并非一个中立的观察者。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/unbiased
 > - We try to remain as unbiased as we can, but it is difficult. `[例]`
->   - 中译：我们需要一个客观公正的第三方来评估这个项目。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/unbiased
+>   - 中译：我们尽量保持公正，但这很难做到。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/unbiased
 
 ## 主动产出
 
