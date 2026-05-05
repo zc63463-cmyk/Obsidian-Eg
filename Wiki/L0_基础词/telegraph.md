@@ -130,8 +130,14 @@ tele-(远，希腊语 *tēle*) + [[graph-gram|graph]](写，希腊语 *graphein*
 
 > [!example]- 语料
 > - What accounts for the great outburst of major inventions in early America — breakthroughs such as the telegraph, the steamboat and the weaving machine? `[真题]`
+>   - 中译：什么原因导致了早期美国重大发明的井喷——如电报、蒸汽船和织布机等突破？；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/telegraph；
 > - Since the 1800s, companies that were linked to the sea used telegraphs to communicate with their ships across the ocean. `[真题]`
+>   - 中译：自19世纪以来，与海洋相关的公司使用电报与远洋船只进行通信。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/telegraph；
 > - The news came by telegraph. `[例]`
+>   - 中译：消息是通过电报传来的。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/telegraph；
 
 
 ---

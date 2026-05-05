@@ -128,9 +128,17 @@ review_count: 0
 
 > [!example]- 语料
 > - The bank announced that it was to merge with another of the high street banks. `[真题]`
+> - 中译：该银行宣布将与另一家商业街银行合并。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/merge；
 > - They decided to merge the two companies into one. `[真题]`
+> - 中译：他们决定将两家公司合并为一家。；
+> - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/merge；
 > - Like a chameleon, he could merge unobtrusively into the background. `[真题]`
+> - 中译：像变色龙一样，他能不引人注目地融入背景。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/merge；
 > - Night and day begin to merge as the sun sets. `[真题]`
+> - 中译：日落时分，白天和黑夜开始交融。；
+> - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/merge；
 
 
 ---

@@ -128,8 +128,14 @@ review_count: 0
 
 > [!example]- 语料
 > - You could hear the noise of guns firing in the distance. `[例]`
+  - 中译：你能听到远处开枪的声音。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/gun；
 > - The British police do not carry guns. `[例]`
+  - 中译：英国警察不配枪。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/gun；
 > - At the gun, the runners sprinted away down the track. `[例]`
+  - 中译：发令枪一响，跑步运动员们沿着跑道冲了出去。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/gun；
 
 
 ---

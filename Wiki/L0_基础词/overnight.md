@@ -129,8 +129,14 @@ over-(度过/经过) + night(夜晚)
 
 > [!example]- 语料
 > - You can stay overnight if you want to. `[例]`
+>   - 中译：如果你想的话可以住一晚。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/overnight；
 > - Don't forget to pack an overnight bag (= a bag for things that you need when you stay away from home for a night ). `[例]`
+>   - 中译：别忘了带一个 overnight bag（即离家过夜所需的行李袋）。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/overnight；
 > - Several of the injured were detained overnight in hospital. `[例]`
+>   - 中译：几名伤者被留在医院过夜观察。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/overnight；
 
 
 ---

@@ -134,8 +134,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Given equivalent retest correlations, the effect size is increased by larger differences in raw scores and decreased by larger variance. `[真题]`
+>   - 中译：在重测相关性相同的情况下，原始分数的较大差异会增大效应量，而较大的方差会减小效应量。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/raw；
 > - The mere mention of John had touched a very raw nerve indeed. `[真题]`
+>   - 中译：仅仅是提到约翰这个名字就确实触动了非常敏感的神经。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/raw；
 > - The researchers collected raw data from the experiment. `[真题]`
+>   - 中译：研究人员从实验中收集了原始数据。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/raw；
 
 
 ---

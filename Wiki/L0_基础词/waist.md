@@ -126,9 +126,17 @@ review_count: 0
 
 > [!example]- 语料
 > - Research has shown that excess fat around the waist is a significant risk factor for cardiovascular disease and type 2 diabetes. `[例]`
+>   - 中译：研究表明，腰部多余脂肪是心血管疾病和2型糖尿病的重要危险因素。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/waist；
 > - She wore a dress that cinched tightly at the waist, accentuating her slender figure. `[例]`
+>   - 中译：她穿着一件腰部收紧的连衣裙，凸显了她纤细的身材。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/waist；
 > - Higher waist measurements identified higher risk even when body mass index appeared normal. `[例]`
+>   - 中译：即使体重指数看起来正常，较高的腰围也预示着更高的风险。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/waist；
 > - She put her arms around my waist. `[例]`
+>   - 中译：她搂住我的腰。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/waist；
 
 
 ---

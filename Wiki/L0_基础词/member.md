@@ -130,8 +130,14 @@ member 源自拉丁语 *membrum*（肢体、部分），原始印欧语 *mems-*�
 
 > [!example]- 语料
 > - In 2009 the number of union members in America's public sector passed that of their fellow members in the private sector. `[真题]`
+> - 中译：2009年，美国公共部门的工会成员人数超过了私营部门的同行。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/member；
 > - Michael is a member of the Royal Society for the Protection of Birds. `[COCA-NEWS]`
+> - 中译：迈克尔是皇家鸟类保护协会的成员。；
+> - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/member；
 > - Close friendships developed between crew members on the ship. `[COCA-ACAD]`
+> - 中译：船上船员之间建立了亲密的友谊。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/member；
 
 
 ---

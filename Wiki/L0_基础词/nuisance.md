@@ -125,8 +125,14 @@ review_count: 0
 
 > [!example]- 语料
 > - It 's such a nuisance hav ing to rewrite those letters. `[例]`
+>   - 中译：不得不重写那些信件真是太麻烦了。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/nuisance；
 > - I hate to be a nuisance, but could you help me? `[例]`
+>   - 中译：我不想添麻烦，但你能帮帮我吗？；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/nuisance；
 > - Local residents claimed that the noise was causing a public nuisance. `[例]`
+>   - 中译：当地居民声称噪音造成了公共妨害。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/nuisance；
 
 
 ---

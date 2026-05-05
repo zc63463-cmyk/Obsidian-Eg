@@ -136,8 +136,14 @@ review_count: 0
 
 > [!example]- 语料
 > - We danced all night. `[例]`
+  - 中译：我们跳了一整夜的舞。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/dance；
 > - We went dancing at a club. `[例]`
+  - 中译：我们去了一家俱乐部的舞会。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/dance；
 > - What kind of music do you like dancing to? `[例]`
+  - 中译：你喜欢跳什么类型的舞？；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/dance；
 
 
 ---

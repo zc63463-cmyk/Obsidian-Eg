@@ -126,8 +126,14 @@ review_count: 0
 
 > [!example]- 语料
 > - He demands unquestioning obedience from his soldiers. `[例]`
+>   - 中译：他要求士兵们绝对服从。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/obedience；
 > - In many traditional cultures, obedience to elders is considered one of the most important virtues a person can possess. `[例]`
+>   - 中译：在许多传统文化中，对长辈的服从被认为是一个人可以拥有的最重要的美德之一。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/obedience；
 > - He has acted in obedience to the law. `[例]`
+>   - 中译：他依法行事。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/obedience；
 
 
 ---

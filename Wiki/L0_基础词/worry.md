@@ -129,8 +129,14 @@ review_count: 0
 
 > [!example]- 语料
 > - There is no need to worry about the future if you prepare well and stay focused on the present. `[真题]`
+>   - 中译：如果你做好准备并专注于当下，就不必担心未来。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/worry；
 > - She began to worry that she wouldn't be able to finish the project before the deadline. `[真题]`
+>   - 中译：她开始担心自己无法在截止日期前完成项目。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/worry；
 > - The constant noise from the construction site next door has been a real worry for the residents. `[真题]`
+>   - 中译：隔壁工地持续不断的噪音一直是居民们真正担忧的问题。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/worry；
 
 
 ---

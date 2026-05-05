@@ -128,8 +128,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Well, you could try to look a little more enthusiastic! `[例]`
+>   - 中译：嗯，你至少可以试着表现得更有热情一点！；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/enthusiastic；
 > - They were tired , but not any less enthusiastic on that account. `[例]`
+>   - 中译：他们很累，但并没有因此而减少热情。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/enthusiastic；
 > - I don't think they liked my idea . At any rate , they weren't very enthusiastic about it. `[例]`
+>   - 中译：我认为他们不喜欢我的想法。不管怎样，他们对此并不十分热情。；
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/enthusiastic；
 
 
 ---

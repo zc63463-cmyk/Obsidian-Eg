@@ -122,8 +122,14 @@ review_count: 0
 
 > [!example]- 语料
 > - I wasn't wholly convinced by her explanation. `[例]`
+>   - 中译：我并不完全相信她的解释。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/wholly；
 > - That's a wholly different issue. `[例]`
+>   - 中译：那是一个完全不同的问题。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/wholly；
 > - He was wholly unprepared for what he saw. `[例]`
+>   - 中译：他对所看到的一切完全没有准备。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/wholly；
 
 
 ---

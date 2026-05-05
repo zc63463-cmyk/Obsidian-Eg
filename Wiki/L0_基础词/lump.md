@@ -128,8 +128,14 @@ review_count: 0
 
 > [!example]- 语料
 > - It was winter and we were down to our last lumps of coal. `[例]`
+> -   - 中译：那是冬天，我们的煤炭只剩下最后几块了；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lump；
 > - You don't want lumps in the sauce. `[例]`
+> -   - 中译：你不会希望酱汁里有结块；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lump；
 > - I'll be getting the insurance money in two lumps. `[例]`
+> -   - 中译：我将分两次获得保险金；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lump；
 
 
 ---

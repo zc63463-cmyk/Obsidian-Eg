@@ -136,8 +136,14 @@ tease（中古英语 *tesen*，意为"梳理羊毛"，源自古英语 *tǣsan*�
 
 > [!example]- 语料
 > - The single word environment has so many dimensions, and there are so many other factors affecting wealth that teasing out a simple economy-environment relationship would be almost impossible. `[真题]`
+>   - 中译：环境这个词有太多维度，影响财富的因素又如此之多，要梳理出一个简单的经济-环境关系几乎是不可能的。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/tease；
 > - It is really important to understand and try and tease out what is the human connection with fire today. `[真题]`
+>   - 中译：理解并努力梳理当今人类与火的关系非常重要。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/tease；
 > - Longer-term studies are needed to tease out the full effects of the new policy on public health outcomes. `[真题]`
+>   - 中译：需要更长期的研究来梳理新政策对公共健康结果的全面影响。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/tease；
 
 
 ---

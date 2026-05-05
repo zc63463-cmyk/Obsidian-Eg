@@ -125,8 +125,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The accident victims mostly had injuries to their lower limbs (= legs ). `[例]`
+> -   - 中译：事故受害者大多下肢受伤；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/limb；
 > - These vessels supply blood to the head , neck , and upper limbs (= arms ). `[例]`
+> -   - 中译：这些血管向头部、颈部和上肢供血；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/limb；
 > - An 18-year-old student at California State University died yesterday when she was struck by a falling limb from a large oak tree. `[例]`
+> -   - 中译：加州州立大学一名18岁的学生昨天因被倒下的树枝砸中而去世；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/limb；
 
 
 ---

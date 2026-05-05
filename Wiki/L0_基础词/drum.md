@@ -129,9 +129,17 @@ review_count: 0
 
 > [!example]- 语料
 > - The teacher drummed the names of the state capitals into our heads. `[真题]`
+>   - 中译：老师把各州首府的名字反复灌输到我们脑子里。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/drum；
 > - This year's ceremony drummed up support for the communities affected by the wildfires. `[真题]`
+>   - 中译：今年的仪式为受野火影响的社区争取了支持。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/drum；
 > - He tried to drum into his players the importance of discipline on and off the field. `[真题]`
+>   - 中译：他努力让球员们明白场上场下纪律的重要性。；
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/drum；
 > - The government is drumming up support for the new policy. `[真题]`
+>   - 中译：政府正在为这项新政策争取支持。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/drum；
 
 ---
 

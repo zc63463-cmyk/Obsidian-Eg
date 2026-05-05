@@ -135,8 +135,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The trees are in leaf early this year. `[例]`
+>   - 中译：今年树木长叶很早。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/leaf；
 > - The bushes are just coming into leaf. `[例]`
+>   - 中译：灌木丛刚刚开始长叶子。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/leaf；
 > - Rubbing a dock leaf on nettle stings helps to relieve the pain. `[例]`
+>   - 中译：用酸模叶摩擦荨麻的刺痛处有助于缓解疼痛。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/leaf；
 
 
 ---

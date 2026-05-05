@@ -129,6 +129,8 @@ review_count: 0
 > - Pasta with tomato sauce is one of the most popular dishes in Italian cuisine. `[COCA-ACAD]`
 > - What are all the things that go in the pot to make the special sauce? `[COCA-SPOKEN]`
 > - He poured a rich chocolate sauce over the ice cream. `[例]`
+  - 中译：他在冰淇淋上浇了浓郁的巧克力酱。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sauce
 
 
 ---

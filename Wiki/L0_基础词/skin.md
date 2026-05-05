@@ -148,8 +148,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Babies have soft skins. `[例]`
+  - 中译：婴儿的皮肤很柔软。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/skin；
 > - Native Americans used to trade skins. `[例]`
+  - 中译：美洲原住民过去常交易兽皮。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/skin；
 > - She has a very clear skin. `[例]`
+  - 中译：她的皮肤非常光洁。；
+  - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/skin；
 
 
 ---

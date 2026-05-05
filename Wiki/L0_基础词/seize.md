@@ -136,8 +136,14 @@ seize（源自拉丁语 *saciare*，"占有，夺取"，与 [[second]]/[[section
 
 > [!example]- 语料
 > - She was eager to seize any opportunity that was offered. `[真题]`
+  - 中译：她渴望抓住任何提供的机会。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/seize
 > - Customs agents last year seized $14 million in counterfeit electronics goods at the nation's ports. `[真题]`
+  - 中译：海关人员去年在全国各港口查获了价值1400万美元的假冒电子产品。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/seize
 > - In most states the police can seize property they suspect has been used in a crime. `[真题]`
+  - 中译：在大多数州，警方可以扣押他们怀疑被用于犯罪的财产。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/seize
 
 
 ---

@@ -118,8 +118,14 @@ review_count: 0
 
 > [!example]- 语料
 > - He was diagnosed with lung cancer. `[例]`
+> -   - 中译：他被诊断出患有肺癌；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lung；
 > - There's a high correlation between smoking and lung cancer. `[例]`
+> -   - 中译：吸烟与肺癌之间有很高的相关性；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lung；
 > - The knife went through his ribs and punctured his lung. `[例]`
+> -   - 中译：刀穿透了他的肋骨，刺穿了他的肺；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lung；
 
 
 ---

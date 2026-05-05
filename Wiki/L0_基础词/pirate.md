@@ -130,9 +130,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The trailer was being used to house a pirate radio station. `[例]`
+  - 中译：这辆拖车被用来安置一个非法广播电台。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pirate；
 > - A lot of this software is pirated. `[例]`
+  - 中译：很多这种软件是盗版的。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/pirate；
 > - Copyright laws have introduced tough new sentences for software pirates. `[例]`
-
+  - 中译：版权法已经对软件盗版者引入了严厉的新刑罚。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/pirate；
 
 ---
 

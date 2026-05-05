@@ -130,8 +130,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The situation is desperate - we have no food , very little water and no medical supplies. `[例]`
+  - 中译：她极度渴望钱。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/desperate；
 > - The earthquake survivors are in desperate need of help. `[例]`
+  - 中译：球队在最后一分钟做了孤注一掷的尝试来得分。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/desperate；
 > - He has a desperate desire to succeed. `[例]`
+  - 中译：他处于走投无路的绝境。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/desperate；
 
 
 ---

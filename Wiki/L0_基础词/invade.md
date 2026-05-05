@@ -129,8 +129,14 @@ in-(=into, 进入) + vad(=走，拉丁语 *vadere* "走") + -e
 
 > [!example]- 语料
 > - The army invaded the neighboring country without warning. `[真题]`
+>   - 中译：军队不宣而战，入侵了邻国。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/invade；
 > - Smartphones have invaded every aspect of our lives. `[例]`
+>   - 中译：智能手机已经侵入了我们生活的方方面面。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/invade；
 > - The government was accused of invading the privacy of its citizens. `[例]`
+>   - 中译：政府被指控侵犯公民隐私。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/invade；
 
 
 ---

@@ -135,8 +135,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Many buildings were badly damaged during the war. `[例]`
+  - 中译：许多建筑在战争中遭到严重破坏。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/damage；
 > - It was a scandal that damaged a lot of reputations. `[例]`
+  - 中译：那是一桩损害了许多人名誉的丑闻。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/damage；
 > - Strong winds had caused serious damage to the roof. `[例]`
+  - 中译：强风对屋顶造成了严重损坏。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/damage；
 
 
 ---

@@ -139,9 +139,14 @@ review_count: 0
 
 > [!example]- 语料
 > - He deserves a pat on the back for all his hard work. `[例]`
+  - 中译：他所有的辛勤工作值得表扬。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pat；
 > - She patted her hair to make sure it was neat. `[例]`
+  - 中译：她轻轻拍了拍头发，确保头发整齐。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/pat；
 > - Pat Hardy, who sympathises with the views of the energy sector, is resisting proposed changes 1to science standards for pre-teen pupils. `[真题]`
-
+  - 中译：帕特·哈迪同情能源行业的观点，正在抵制针对青少年学生的科学标准修改提案。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pat；
 
 ---
 

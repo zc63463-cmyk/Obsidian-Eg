@@ -131,9 +131,14 @@ plough 源自古英语 *plōh*，可能与拉丁语 *plaustrum*（马车）有�
 
 > [!example]- 语料
 > - These fields have been under the plough for centuries. `[例]`
+  - 中译：这些田地已经被耕种了几个世纪。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/plough；
 > - Farmers start ploughing in the spring. `[例]`
+  - 中译：农民们在春天开始犁地。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/plough；
 > - We're going to plough the top field next week. `[例]`
-
+  - 中译：我们下周要犁上面那块地。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/plough；
 
 ---
 

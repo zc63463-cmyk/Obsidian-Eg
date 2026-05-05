@@ -130,8 +130,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The internet has disrupted traditional business models across virtually every industry. `[真题]`
+>   - 中译：互联网几乎颠覆了每个行业的传统商业模式。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/disrupt；
 > - A heavy fall of snow disrupted traffic during the rush hour. `[真题]`
+>   - 中译：高峰时段的一场大雪导致交通中断。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/disrupt；
 > - Sleep deprivation can disrupt the production of hormones that are involved in controlling hunger. `[真题]`
+>   - 中译：睡眠不足会扰乱参与控制饥饿的激素的产生。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/disrupt；
 
 
 ---

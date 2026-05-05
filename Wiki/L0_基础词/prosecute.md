@@ -126,8 +126,14 @@ pro-(向前/在前) + [[sec-sequ|sec-/sequ-]](跟随) + -ute(动词后缀)
 
 > [!example]- 语料
 > - Shoplifters will be prosecuted. `[例]`
+>   - 中译：商店行窃者将被起诉。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/prosecute；
 > - He was prosecuted for fraud. `[例]`
+>   - 中译：他因欺诈被起诉。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/prosecute；
 > - The victim has said that she will not prosecute. `[例]`
+>   - 中译：受害者表示她不会起诉。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/prosecute；
 
 
 ---

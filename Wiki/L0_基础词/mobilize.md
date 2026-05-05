@@ -126,8 +126,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The government mobilized all available resources to deal with the natural disaster. `[真题]`
+> - 中译：政府调集了一切可用资源来应对自然灾害。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/mobilize；
 > - The army was mobilized to deal with the threat of invasion. `[真题]`
+> - 中译：军队被动员起来应对入侵威胁。；
+> - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/mobilize；
 > - Environmental groups have successfully mobilized public opinion against the new highway project. `[真题]`
+> - 中译：环保组织成功动员了公众舆论来反对新的高速公路项目。；
+> - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/mobilize；
 
 
 ---

@@ -138,8 +138,14 @@ review_count: 0
 
 > [!example]- 语料
 > - In an unprecedented rallying cry, we are calling on 400 to join the march honouring their comrades. `[真题]`
+> -   - 中译：在前所未有的集结号召下，我们呼吁400人加入游行以纪念他们的战友；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/march；
 > - Last week barristers held a silent march, with some of the city's judges voicing their concerns to the media. `[真题]`
+> -   - 中译：上周律师们举行了一场无声游行，该市的一些法官向媒体表达了他们的关切；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/march；
 > - That March, President Ulysses S. `[真题]`
+> -   - 中译：那年三月，尤利西斯·S·总统；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/march；
 
 
 ---

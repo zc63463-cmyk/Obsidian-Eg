@@ -132,8 +132,14 @@ host 源自拉丁语 *hospes*（主人、客人），与 [[hospitality]]（好�
 
 > [!example]- 语料
 > - The bill requires every rental host to register with the state , mandates they carry insurance , and opens the potential for local taxes on top of a new state levy. `[真题]`
+  - 中译：该法案要求每位出租房东向州政府登记，强制他们购买保险，并允许在新的州级收费之外征收地方税。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/host；
 > - We thanked our hosts for a very enjoyable evening. `[例]`
+  - 中译：我们感谢主人让我们度过了一个愉快的夜晚。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/host；
 > - The local language school is advertising for host families (= families people stay with when they are visiting another country ). `[例]`
+  - 中译：当地的语言学校正在招募寄宿家庭（= 人们去其他国家访问时居住的家庭）。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/host；
 
 
 ---

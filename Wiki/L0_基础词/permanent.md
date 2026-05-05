@@ -130,10 +130,17 @@ per-（始终，贯穿，[[per]]）+ man（停留，拉丁语 *manere*）+ -ent�
 
 > [!example]- 语料
 > - The researchers proposed a permanent solution to the problem. `[例]`
+  - 中译：研究人员提出了一个永久性的解决方案。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/permanent；
 > - They are now living together on a permanent basis. `[例]`
+  - 中译：他们现在以永久的方式住在一起。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/permanent；
 > - She took up permanent residency abroad after years of working as a freelancer. `[例]`
+  - 中译：做了多年自由职业者后，她在国外取得了永久居留权。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/permanent；
 > - Mont Blanc has a permanent snow cap. `[例]`
-
+  - 中译：勃朗峰上有永久积雪。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/permanent；
 
 ---
 

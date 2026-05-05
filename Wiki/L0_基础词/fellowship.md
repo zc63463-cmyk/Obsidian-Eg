@@ -127,8 +127,14 @@ review_count: 0
 
 > [!example]- 语料
 > - He enjoyed the fellowship of other actors in the company. `[例]`
+>   - 中译：他享受与公司里其他演员的伙伴情谊。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fellowship；
 > - He was awarded a fellowship at the college. `[例]`
+>   - 中译：他被授予该学院的研究员资格。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fellowship；
 > - PhDs can be expensive , unless you get a fellowship. `[例]`
+>   - 中译：博士学位可能费用高昂，除非你获得奖学金。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fellowship；
 
 
 ---

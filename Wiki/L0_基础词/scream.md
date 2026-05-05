@@ -139,8 +139,14 @@ review_count: 0
 
 > [!example]- 语料
 > - People ran for the exits, screaming out in terror. `[真题]`
+  - 中译：人们惊恐地尖叫着奔向出口。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/scream
 > - Through the smoke, the rescuers could hear people screaming for help. `[真题]`
+  - 中译：透过烟雾，救援人员能听到人们尖叫求救。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/scream
 > - When he woke in the night he would scream in terror and beg his parents to let him sleep in their room. `[例]`
+  - 中译：当他在夜里醒来时，他会惊恐地尖叫，恳求父母让他睡在他们的房间里。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/scream
 
 
 ---

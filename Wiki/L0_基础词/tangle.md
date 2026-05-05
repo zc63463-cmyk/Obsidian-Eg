@@ -129,8 +129,14 @@ review_count: 0
 
 > [!example]- 语料
 > - She pulled the tangle of wires out of the box. `[例]`
+>   - 中译：她把一团乱麻般的电线从盒子里拉了出来。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/tangle；
 > - Her hair was in a tangle. `[例]`
+>   - 中译：她的头发乱成一团。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/tangle；
 > - I tangled the cables and don’t know which is which. `[例]`
+>   - 中译：我把线缆缠在一起，分不清哪根是哪根了。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/tangle；
 
 
 ---

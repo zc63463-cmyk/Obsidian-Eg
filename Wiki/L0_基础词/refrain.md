@@ -126,8 +126,14 @@ re-(回，向后) + frain(=fret-，勒住，来自拉丁语 *frenum* 马缰绳)
 
 > [!example]- 语料
 > - California has asked the justices to refrain from a sweeping ruling, particularly one that upsets the old assumption that authorities may search through the possessions of suspects at the time of their arrest. `[真题]`
+  - 中译：加利福尼亚州已要求法官们避免做出一刀切的裁决，尤其是那种打破“当局可以在逮捕嫌疑人时搜查其财物”这一旧有假设的裁决。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/refrain；
 > - Following the Harvard scandal, Mary Miller, the former dean of students at Yale, made an impassioned appeal to her school's professors to refrain from take-home exams. `[真题]`
+  - 中译：在哈佛丑闻之后，耶鲁大学前学生院长玛丽·米勒向本校教授们发出了慷慨激昂的呼吁，要求他们停止使用带回家的考试方式。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/refrain；
 > - We refrained from talking until we knew that it was safe. `[真题]`
+  - 中译：在确认安全之前，我们忍住没有说话。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/refrain；
 
 
 ---

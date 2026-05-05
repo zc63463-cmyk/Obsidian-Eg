@@ -133,8 +133,14 @@ radio-(辐射，拉丁语 *radius*) + active(活跃的，[[act]])
 
 > [!example]- 语料
 > - Radioactive iodine loses half its strength in a week. `[真题]`
+>   - 中译：放射性碘在一周内会失去一半的强度。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/radioactive；
 > - Spent fuel remains radioactive for tens of thousands of years. `[真题]`
+>   - 中译：乏燃料在数万年内仍具有放射性。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/radioactive；
 > - Some byproducts of the nuclear fission are themselves radioactive. `[真题]`
+>   - 中译：核裂变的一些副产品本身也具有放射性。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/radioactive；
 
 
 ---

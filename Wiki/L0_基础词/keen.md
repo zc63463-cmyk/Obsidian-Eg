@@ -134,9 +134,17 @@ review_count: 0
 
 > [!example]- 语料
 > - Many young graduates are keen to gain international experience, viewing it as a crucial stepping stone in their career development. `[真题]`
+>   - 中译：许多年轻毕业生渴望获得国际经验，将其视为职业发展中的重要跳板。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/keen；
 > - The keen competition in the global technology market has forced companies to invest heavily in research and development. `[真题]`
+>   - 中译：全球科技市场的激烈竞争迫使公司大量投资于研发。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/keen；
 > - She's keen on playing tennis. `[例]`
+>   - 中译：她热衷于打网球。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/keen；
 > - They were very keen to start work as soon as possible. `[例]`
+>   - 中译：他们非常渴望尽快开始工作。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/keen；
 
 
 ---

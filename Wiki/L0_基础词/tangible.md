@@ -130,9 +130,17 @@ tang-（=touch，触摸，来自拉丁语 *tangere*）+ -ible（可以……的�
 
 > [!example]- 语料
 > - The company needs to deliver tangible results to satisfy its shareholders. `[真题]`
+>   - 中译：公司需要交付切实的成果来满足股东。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/tangible；
 > - There is as yet no tangible evidence to support the hypothesis that climate change is solely caused by human activity. `[真题]`
+>   - 中译：目前还没有切实证据支持气候变化完全由人类活动造成的假设。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/tangible；
 > - The policy has not yet brought any tangible benefits. `[真题]`
+>   - 中译：该政策尚未带来任何切实利益。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/tangible；
 > - We saw tangible progress from our existing clinical research collaborations. `[真题]`
+>   - 中译：我们从现有的临床研究合作中看到了切实的进展。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/tangible；
 
 
 ---

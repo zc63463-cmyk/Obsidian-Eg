@@ -135,9 +135,17 @@ review_count: 0
 
 > [!example]- 语料
 > - The rapid urbanization of previously wild areas has led to the loss of biodiversity, as many species are unable to adapt to the dramatic changes in their natural habitats. `[真题]`
+>   - 中译：以前荒野地区的快速城市化导致了生物多样性的丧失，因为许多物种无法适应其自然栖息地的剧烈变化。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/wild；
 > - Without proper regulation, speculation in financial markets can run wild, creating dangerous economic bubbles that eventually burst and cause widespread damage to the economy. `[真题]`
+>   - 中译：如果没有适当的监管，金融市场的投机活动可能会失控，制造危险的经济泡沫，最终破裂并对经济造成广泛损害。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/wild；
 > - The children were wild with excitement when they learned they were going to the amusement park. `[真题]`
+>   - 中译：当孩子们得知要去游乐园时，他们兴奋得发狂。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/wild；
 > - A wild storm swept across the coast last night, leaving several buildings damaged and thousands of residents without power. `[真题]`
+>   - 中译：昨晚一场猛烈的风暴席卷了海岸，造成几栋建筑受损，数千居民断电。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/wild；
 
 
 ---

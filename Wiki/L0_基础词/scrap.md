@@ -143,9 +143,17 @@ review_count: 0
 
 > [!example]- 语料
 > - The bank has scrapped its plans for a property division. `[例]`
+  - 中译：银行已经取消了设立房地产部门的计划。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/scrap
 > - Not a scrap of evidence was found to support the claim. `[真题]`
+  - 中译：没有找到任何证据来支持这一说法。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/scrap
 > - The car would have cost so much to repair that I decided to scrap it. `[例]`
+  - 中译：这辆车的修理费太高了，我决定把它报废。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/scrap
 > - He obtained every scrap of information available. `[例]`
+  - 中译：他获取了所有可获得的每一点信息。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/scrap
 
 
 ---

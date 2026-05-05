@@ -135,8 +135,14 @@ what（什么）+ ever（曾经/永远）。what 源自古英语 *hwæt*，ever 
 
 > [!example]- 语料
 > - Whatever the reason, the decline in reading habits among young people has become a matter of great concern. `[真题]`
+>   - 中译：无论原因是什么，年轻人阅读习惯的下降已成为一个令人高度关注的问题。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/whatever；
 > - The government should take whatever measures are necessary to protect the environment. `[真题]`
+>   - 中译：政府应采取一切必要措施保护环境。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/whatever；
 > - I want you to do whatever you think is right. `[真题]`
+>   - 中译：我希望你做你认为正确的事。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/whatever；
 
 
 ---

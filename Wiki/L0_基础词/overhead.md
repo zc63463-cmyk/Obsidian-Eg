@@ -130,8 +130,14 @@ over-(在…上方) + head(头)
 
 > [!example]- 语料
 > - The hikers rested under a towering overhead near the coastal trail. `[例]`
+>   - 中译：徒步旅行者在海岸步道附近一个高耸的头顶处休息。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/overhead；
 > - The cabin was built from durable overhead gathered in the region. `[例]`
+>   - 中译：小木屋是用该地区收集的耐用的头顶材料建造的。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/overhead；
 > - A line of overhead trees rose above the morning fog. `[例]`
+>   - 中译：一排头顶的树从晨雾中升起。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/overhead；
 
 
 ---

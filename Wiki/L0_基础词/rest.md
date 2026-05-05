@@ -133,8 +133,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The success of the project rests largely on the cooperation between different departments. `[真题]`
+  - 中译：项目的成功在很大程度上取决于各部门之间的合作。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rest；
 > - I have got two bright students, but the rest are average. `[真题]`
+  - 中译：我有两个聪明的学生，其余的都是中等水平。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/rest；
 > - You had better get some rest if you are driving back tonight. `[真题]`
+  - 中译：如果你今晚开车回去，最好先休息一下。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rest；
 
 
 ---

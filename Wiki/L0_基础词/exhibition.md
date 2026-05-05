@@ -124,8 +124,14 @@ ex-(= [[de|ex-]]，向外) + hibit(持有，拉丁语 *habere*) + -ion(名词后
 
 > [!example]- 语料
 > - There's a new exhibition of sculpture on at the city gallery. `[例]`
+  - 中译：城市美术馆正在举办一场新的雕塑展。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/exhibition；
 > - Crowds of people flocked to see the Picasso exhibition. `[例]`
+  - 中译：成群结队的人蜂拥而至观看毕加索展览。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/exhibition；
 > - The photographs will be on exhibition until the end of the month. `[例]`
+  - 中译：这些照片将展出至本月底。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/exhibition；
 
 
 ---

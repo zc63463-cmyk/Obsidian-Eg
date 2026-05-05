@@ -141,8 +141,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The hikers rested under a towering down near the coastal trail. `[例]`
+>   - 中译：徒步旅行者在沿海步道旁的一棵高大的树下休息。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/down；
 > - She turned down the job offer because of the low salary. `[真题]`
+>   - 中译：由于薪水太低，她拒绝了这份工作邀请。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/down；
 > - The car broke down on the highway, so we had to call for a tow truck. `[真题]`
+>   - 中译：汽车在高速公路上抛锚了，我们只好叫拖车。；
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/down；
 
 
 ---

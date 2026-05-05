@@ -127,8 +127,14 @@ review_count: 0
 
 > [!example]- 语料
 > - I've always been prone to headaches. `[例]`
+>   - 中译：我一直容易头痛。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/prone；
 > - The photograph showed a man lying prone on the pavement , a puddle of blood around his head. `[例]`
+>   - 中译：照片显示一个男人面朝下趴在人行道上，头边有一滩血。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/prone；
 > - How many people do you need to prone a patient? `[例]`
+>   - 中译：你需要多少人才能使一个病人俯卧？；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/prone；
 
 
 ---

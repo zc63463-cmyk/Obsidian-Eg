@@ -132,8 +132,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The novel tells the story of a scientist who creates a monster. `[真题]`
+> - 中译：这部小说讲述了一位科学家创造了一个怪物的故事。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/monster；
 > - The dictator was widely regarded as a monster who showed no mercy to his opponents. `[真题]`
+> - 中译：这位独裁者被广泛认为是一个对对手毫不留情的怪物。；
+> - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/monster；
 > - He was a monster of a man, tall and broad-shouldered. `[真题]`
+> - 中译：他是个魁梧如怪物般的男人，高大而肩膀宽阔。；
+> - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/monster；
 
 
 ---

@@ -131,8 +131,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Good authors know how to weave suspense and drama into their stories. `[例]`
+>   - 中译：优秀的作家知道如何将悬念和戏剧性编织进他们的故事中。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/weave；
 > - The cyclist had to weave through the heavy traffic to reach the office on time. `[例]`
+>   - 中译：骑自行车的人不得不在拥挤的交通中穿行才能准时到达办公室。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/weave；
 > - We were shown how to roughly weave ferns and grass together to make a temporary shelter. `[例]`
+>   - 中译：有人向我们展示了如何将蕨类和草粗略地编织在一起搭建临时庇护所。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/weave；
 
 
 ---

@@ -125,8 +125,14 @@ lingu(舌头/语言，拉丁语 *lingua*) + -ist(人) + -ic(形容词后缀)
 
 > [!example]- 语料
 > - I'm particularly interested in the linguistic development of young children. `[例]`
+> -   - 中译：我对幼儿的语言发展特别感兴趣；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/linguistic；
 > - Linguistic and cultural barriers. `[例]`
+> -   - 中译：语言和文化障碍；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/linguistic；
 > - New developments in linguistic theory. `[例]`
+> -   - 中译：语言学理论的新发展；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/linguistic；
 
 
 ---

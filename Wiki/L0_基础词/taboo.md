@@ -128,8 +128,14 @@ review_count: 0
 
 > [!example]- 语料
 > - In many cultures, discussing personal income is considered a taboo. `[真题]`
+>   - 中译：在许多文化中，讨论个人收入被视为禁忌。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/taboo；
 > - The film broke a long-standing taboo by depicting mental illness in a realistic and compassionate way. `[真题]`
+>   - 中译：这部电影以真实而富有同情心的方式描绘精神疾病，打破了一个长期存在的禁忌。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/taboo；
 > - Any mention of politics is taboo in his house. `[例]`
+>   - 中译：在他家里，任何提及政治的话题都是禁忌。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/taboo；
 
 
 ---

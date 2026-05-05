@@ -124,8 +124,14 @@ review_count: 0
 
 > [!example]- 语料
 > - He had taken an oath and would not break it. `[例]`
+>   - 中译：他立过誓，不会违背誓言。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/oath；
 > - Medieval knights took an oath of allegiance to their lord. `[例]`
+>   - 中译：中世纪的骑士向他们的领主宣誓效忠。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/oath；
 > - They had to publicly pledge an oath of loyalty to the government. `[例]`
+>   - 中译：他们不得不公开宣誓效忠政府。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/oath；
 
 
 ---

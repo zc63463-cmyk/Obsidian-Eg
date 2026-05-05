@@ -128,8 +128,14 @@ jail 源自通俗拉丁语 *\*gabiola*（小笼子），是拉丁语 *cavea*（�
 
 > [!example]- 语料
 > - He was jailed for three years for fraud. `[真题]`
+>   - 中译：他因诈骗罪被判入狱三年。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/jail；
 > - The number of people in jail has increased dramatically over the past decade. `[真题]`
+>   - 中译：过去十年中，在押人数急剧增加。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/jail；
 > - He received six years in jail for corruption. `[真题]`
+>   - 中译：他因腐败罪被判处六年监禁。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/jail；
 
 
 ---

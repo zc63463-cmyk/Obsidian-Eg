@@ -130,8 +130,14 @@ fixture = [[fix]]（固定）+ -ture（名词后缀，表示"……的状态/结
 
 > [!example]- 语料
 > - All fixtures and fittings are included in the house price. `[例]`
+>   - 中译：所有固定装置和设备都包含在房价中。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fixture；
 > - They've been together so long he's become a permanent fixture in her life. `[例]`
+>   - 中译：他们在一起太久了，他已成为她生活中不可或缺的一部分。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fixture；
 > - Next season's fixtures will be published early next month. `[例]`
+>   - 中译：下赛季的赛程表将于下月初公布。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fixture；
 
 
 ---

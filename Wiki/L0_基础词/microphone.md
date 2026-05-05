@@ -122,8 +122,14 @@ micro-(小，希腊语 *mikros*) + phon(声音，希腊语 *phōnē*)
 
 > [!example]- 语料
 > - Please speak into the microphone so that everyone in the audience can hear you clearly. `[真题]`
+> - 中译：请对着麦克风说话，以便在场的每位听众都能清楚地听到您。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/microphone；
 > - He uses a microphone so students in the back of the lecture hall can hear him. `[真题]`
+> - 中译：他使用麦克风，以便报告厅后排的学生能听到他讲话。；
+> - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/microphone；
 > - My laptop has a built-in microphone for video calls. `[真题]`
+> - 中译：我的笔记本电脑有内置麦克风，用于视频通话。；
+> - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/microphone；
 
 
 ---

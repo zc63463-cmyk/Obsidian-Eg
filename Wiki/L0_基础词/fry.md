@@ -130,8 +130,14 @@ fry(整体词，源自古英语 *frygian*，与 [[fritter]] 同源)
 
 > [!example]- 语料
 > - With the sea and sun and wind you will fry if you don't take care. `[例]`
+>   - 中译：在海边有阳光和风，如果不注意防晒你会被晒伤的。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fry；
 > - Fry the mushrooms in a little butter. `[例]`
+>   - 中译：用一点黄油煎蘑菇。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fry；
 > - Shall I fry you an egg , or would you prefer boiled? `[例]`
+>   - 中译：我给你煎个鸡蛋好吗，还是你更喜欢煮的？；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fry；
 
 
 ---

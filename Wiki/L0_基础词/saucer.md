@@ -121,8 +121,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The table was set with matching cups and saucers, bright silverware, and old plates. `[BNC-WRITTEN]`
+>   - 中译：桌上摆放着配套的杯碟、闪亮的银器和旧盘子。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/saucer
 > - He placed his cup and its flooded saucer separately on the coffee table and sat back in his chair. `[BNC-FICTION]`
+>   - 中译：他把杯子和溢出水的茶碟分别放在咖啡桌上，然后靠回椅子上。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/saucer
 > - The flying saucer was a popular motif in 1950s science fiction. `[COCA-ACAD]`
+>   - 中译：飞碟是20世纪50年代科幻小说中的流行主题。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/saucer
 
 
 ---

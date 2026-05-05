@@ -124,8 +124,14 @@ review_count: 0
 
 > [!example]- 语料
 > - He greeted me at the door. `[例]`
+  - 中译：他在门口迎接我。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/greet；
 > - The teacher greeted each child with a friendly "Hello! `[例]`
+  - 中译：老师用友好的“你好！”向每个孩子打招呼。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/greet；
 > - As we walked into the house , we were greeted by a wonderful smell of baking. `[例]`
+  - 中译：当我们走进房子时，扑面而来的是一阵美妙的烘焙香味。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/greet；
 
 
 ---

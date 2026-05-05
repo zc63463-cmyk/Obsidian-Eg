@@ -128,8 +128,14 @@ review_count: 0
 
 > [!example]- 语料
 > - My fingers were numb with cold. `[例]`
+>   - 中译：我的手指冻得麻木了。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/numb；
 > - I was lying in a weird position and my leg went numb. `[例]`
+>   - 中译：我躺的姿势很别扭，腿都麻了。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/numb；
 > - When she first heard the news , she was numb with disbelief. `[例]`
+>   - 中译：当她第一次听到这个消息时，她震惊得麻木了。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/numb；
 
 
 ---

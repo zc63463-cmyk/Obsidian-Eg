@@ -127,8 +127,14 @@ en-(=in-, 放入，使) + dow(给予，源自古法语 *douer*，拉丁语 *dota
 
 > [!example]- 语料
 > - The wealthy couple endowed a new wing of the hospital. `[例]`
+>   - 中译：这对富有的夫妇为医院捐建了一个新翼。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/endow；
 > - The state of Michigan has endowed three institutes to do research for industry. `[例]`
+>   - 中译：密歇根州资助了三个研究所为工业做研究。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/endow；
 > - This hospital was endowed by the citizens of Strasbourg in the 16th century. `[例]`
+>   - 中译：这家医院由斯特拉斯堡市民在十六世纪捐资建立。；
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/endow；
 
 
 ---

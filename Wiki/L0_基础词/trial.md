@@ -130,8 +130,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Trial by jury is a fundamental right. `[例]`
+>   - 中译：陪审团审判是一项基本权利。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/trial；
 > - It was a very complicated trial that went on for months. `[例]`
+>   - 中译：这是一场非常复杂的审判，持续了数月。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/trial；
 > - They're doing clinical trials on a new drug. `[例]`
+>   - 中译：他们正在对一种新药进行临床试验。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/trial；
 
 
 ---

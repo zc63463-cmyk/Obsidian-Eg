@@ -130,8 +130,14 @@ review_count: 0
 
 > [!example]- 语料
 > - If you have a fever you should drink plenty of fluids. `[例]`
+>   - 中译：如果你发烧了，应该多喝液体。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fluid；
 > - His piano playing was beautifully fluid, adding grace to every song he played. `[例]`
+>   - 中译：他的钢琴演奏流畅优美，为他演奏的每首歌曲增添了优雅。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fluid；
 > - The military situation is still very fluid. `[例]`
+>   - 中译：军事局势仍然非常不稳定。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fluid；
 
 
 ---

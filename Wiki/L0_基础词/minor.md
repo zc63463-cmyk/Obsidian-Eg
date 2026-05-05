@@ -130,9 +130,17 @@ review_count: 0
 
 > [!example]- 语料
 > - She majored in English and minored in French at university. `[真题]`
+> - 中译：她在大学主修英语，辅修法语。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/minor；
 > - The impact of the policy change was relatively minor. `[真题]`
+> - 中译：政策变化的影响相对较小。；
+> - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/minor；
 > - The storm caused only minor damage to the building's roof. `[真题]`
+> - 中译：暴风雨只对建筑物屋顶造成了轻微损坏。；
+> - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/minor；
 > - The actor had a minor role in the film, but still received critical acclaim. `[真题]`
+> - 中译：这位演员在电影中饰演了一个小角色，但仍然获得了评论界的赞誉。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/minor；
 
 
 ---

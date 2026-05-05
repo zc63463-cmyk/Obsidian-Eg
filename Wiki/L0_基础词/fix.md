@@ -140,8 +140,14 @@ fix 源自拉丁语 *fixus*（固定的），是 *figere*（钉住、刺入、�
 
 > [!example]- 语料
 > - Shall we fix a time for our next meeting? `[例]`
+>   - 中译：我们定一下下次会议的时间好吗？；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fix；
 > - I understand the rent is fixed at £750 a month. `[例]`
+>   - 中译：我知道租金固定为每月750英镑。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fix；
 > - We fixed the bookcase to the wall. `[例]`
+>   - 中译：我们把书架固定在墙上。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fix；
 
 
 ---

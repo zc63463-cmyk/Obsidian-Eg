@@ -130,9 +130,17 @@ review_count: 0
 
 > [!example]- 语料
 > - These restaurants draw inspiration from the world's finest cuisines and are among the finest dining venues in the country. `[真题]`
+  - 中译：这些餐厅从世界最精美的美食中汲取灵感，是该国最出色的餐饮场所之一。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/inspiration；
 > - His memoirs were the inspiration behind the movie. `[真题]`
+  - 中译：他的回忆录是这部电影的灵感来源。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/inspiration；
 > - She coped, she said, by drawing inspiration from her blind grandmother, who had raised four children. `[例]`
+  - 中译：她说，她通过从抚养了四个孩子的盲人祖母身上汲取灵感来应对困难。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/inspiration；
 > - A problem of this size cannot be tackled by last-moment inspirations or piecemeal palliatives. `[例]`
+  - 中译：这么大的问题不能靠临时灵感和零星的权宜之计来解决。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/inspiration；
 
 
 ---

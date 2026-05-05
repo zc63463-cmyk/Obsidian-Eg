@@ -124,9 +124,17 @@ review_count: 0
 
 > [!example]- 语料
 > - The university organizes regular workshops to help students develop their research and writing skills. `[真题]`
+>   - 中译：大学定期组织研讨会，帮助学生培养研究和写作技能。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/workshop；
 > - She attended a creative writing workshop last summer and found it incredibly inspiring. `[真题]`
+>   - 中译：她去年夏天参加了一个创意写作研讨会，觉得非常受启发。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/workshop；
 > - The mechanic's workshop was filled with tools, spare parts, and the smell of engine oil. `[真题]`
+>   - 中译：技工的车间里摆满了工具、备件，弥漫着机油的味道。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/workshop；
 > - The conference will include several workshops on topics ranging from artificial intelligence to climate change. `[真题]`
+>   - 中译：会议将包括几个研讨会，主题从人工智能到气候变化不等。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/workshop；
 
 
 ---

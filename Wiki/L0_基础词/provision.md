@@ -131,8 +131,14 @@ pro-(提前/向前) + [[vis-vid|vis-]](看见，拉丁语 *videre*) + -ion(名�
 
 > [!example]- 语料
 > - The provision of good public transport will be essential for developing the area. `[例]`
+>   - 中译：提供良好的公共交通对于该地区的发展至关重要。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/provision；
 > - Of course there's provision in the plan for population increase. `[例]`
+>   - 中译：当然，计划中已经考虑了人口增长的问题。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/provision；
 > - When designing buildings in this area , you have to make provision against earthquakes. `[例]`
+>   - 中译：在该地区设计建筑物时，必须做好防震准备。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/provision；
 
 
 ---

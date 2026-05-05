@@ -126,8 +126,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The local council has remained deaf to all the objections to its proposals. `[例]`
+  - 中译：地方议会对所有反对其提案的声音充耳不闻。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/deaf；
 > - Many of the TV programmes are broadcast with subtitles for the deaf. `[例]`
+  - 中译：许多电视节目都带有为聋人提供的字幕。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/deaf；
 > - She’s becoming increasingly deaf. `[例]`
+  - 中译：她的听力越来越差了。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/deaf；
 
 
 ---

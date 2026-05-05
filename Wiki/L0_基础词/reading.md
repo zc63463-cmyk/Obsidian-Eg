@@ -131,8 +131,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Reading comprehension is a key component of the national postgraduate entrance examination. `[真题]`
+>   - 中译：阅读理解是全国研究生入学考试的重要组成部分。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/reading；
 > - The court's reading of the statute was broader than previously expected. `[真题]`
+>   - 中译：法院对法规的解释比之前预期的更为宽泛。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/reading；
 > - This novel is required reading for all literature students. `[真题]`
+>   - 中译：这本小说是所有文学专业学生的必读书目。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/reading；
 
 
 ---

@@ -130,8 +130,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The report paints a grim picture of the current state of the environment, warning that urgent action is needed to prevent irreversible damage. `[真题]`
+>   - 中译：这份报告描绘了当前环境状况的严峻画面，警告说需要立即采取行动以防止不可逆转的损害。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/paint；
 > - The artist spent years painting landscapes that captured the beauty and tranquility of the countryside. `[真题]`
+>   - 中译：这位艺术家花了数年时间描绘捕捉乡村美景与宁静的风景画。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/paint；
 > - Long-term fiscal projections for the United States paint a grim picture, highlighting rising unemployment and inflation rates. `[真题]`
+>   - 中译：美国的长期财政预测描绘了一幅严峻的画面，凸显了不断上升的失业率和通胀率。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/paint；
 
 
 ---

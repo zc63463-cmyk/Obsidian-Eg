@@ -131,8 +131,14 @@ multi-(许多，多) + ply(=plic，折叠)
 
 > [!example]- 语料
 > - When you multiply two odd numbers , is the answer always odd? `[例]`
+> - 中译：两个奇数相乘，结果一定是奇数吗？；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/multiply；
 > - I remember learning how to multiply and divide. `[例]`
+> - 中译：我记得学过乘法和除法。；
+> - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/multiply；
 > - Alzheimer's Disease affects more than 4 million Americans today, and the number is expected to multiply rapidly as the population ages. `[例]`
+> - 中译：如今阿尔茨海默病影响着超过400万美国人，随着人口老龄化，这一数字预计将迅速增加。；
+> - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/multiply；
 
 
 ---

@@ -136,8 +136,14 @@ manu(手，拉丁语 *manus*) + oeuvre(工作，法语 *oeuvre* 作品/工作) �
 
 > [!example]- 语料
 > - The law in this area is very strict and doesn't allow us much room for manoeuvre. `[真题]`
+> -   - 中译：这一领域的法律非常严格，没有给我们留下多少回旋余地；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/manoeuvre；
 > - He has manoeuvred astutely to avoid industrial action among staff. `[真题]`
+> -   - 中译：他巧妙地周旋以避免员工采取罢工行动；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/manoeuvre；
 > - The government has very little room for manoeuvre on this issue. `[真题]`
+> -   - 中译：政府在这个问题上几乎没有回旋余地；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/manoeuvre；
 
 
 ---

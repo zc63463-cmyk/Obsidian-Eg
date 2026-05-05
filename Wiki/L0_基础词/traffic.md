@@ -128,8 +128,14 @@ review_count: 0
 
 > [!example]- 语料
 > - We got stuck in traffic for several hours. `[例]`
+>   - 中译：我们堵车堵了好几个小时。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/traffic；
 > - New measures have been introduced to try and ease traffic congestion in the city. `[例]`
+>   - 中译：已出台新措施试图缓解城市交通拥堵。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/traffic；
 > - Five people were injured in a traffic accident (= one involving vehicles ). `[例]`
+>   - 中译：五人在交通事故中受伤。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/traffic；
 
 
 ---

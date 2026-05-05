@@ -139,8 +139,14 @@ tear（古英语 *teran*，意为"撕裂、撕碎"，源自原始日耳曼语 *t
 
 > [!example]- 语料
 > - Tears, be they of sorrow, anger, or joy, typically make Americans feel uncomfortable and embarrassed. `[真题]`
+>   - 中译：无论是悲伤、愤怒还是喜悦的眼泪，通常都会让美国人感到不适和尴尬。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/tear；
 > - You have to be very careful with books this old because the paper tears very easily. `[例]`
+>   - 中译：翻阅这么旧的书要非常小心，因为纸张很容易撕裂。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/tear；
 > - She tried to tear a small piece off the edge. `[例]`
+>   - 中译：她试图从边缘撕下一小块。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/tear；
 
 
 ---

@@ -133,8 +133,14 @@ flesh(肉/肉体，古英语 *flǣsc*)
 
 > [!example]- 语料
 > - Vegetarians don't eat animal flesh (= meat ). `[例]`
+>   - 中译：素食者不吃动物肉。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/flesh；
 > - The flesh of the fruit is white. `[例]`
+>   - 中译：这种水果的果肉是白色的。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/flesh；
 > - Mosquitoes will find any bit of exposed flesh, however small. `[例]`
+>   - 中译：蚊子会找到任何暴露的皮肤，无论多小。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/flesh；
 
 
 ---

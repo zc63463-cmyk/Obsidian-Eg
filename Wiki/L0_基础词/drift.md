@@ -132,8 +132,14 @@ drift 源自古英语 *drift* "a driving, a being driven"，与 [[drive]]（驱�
 
 > [!example]- 语料
 > - Over the years, the two friends gradually drifted apart. `[真题]`
+>   - 中译：多年来，这两个朋友逐渐疏远了。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/drift；
 > - The general drift of the conversation was about environmental protection. `[真题]`
+>   - 中译：谈话的大致方向是关于环境保护的。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/drift；
 > - The piece of wood drifted slowly down the river. `[真题]`
+>   - 中译：那块木头在河中缓缓漂流而下。；
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/drift；
 
 
 ---

@@ -136,8 +136,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The prize was split between Susan and Kate. `[例]`
+>   - 中译：奖品由苏珊和凯特平分。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/split；
 > - Split the aubergines in half and cover with breadcrumbs. `[例]`
+>   - 中译：将茄子对半切开，裹上面包屑。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/split；
 > - The teacher split the children (up) into three groups. `[例]`
+>   - 中译：老师把孩子们分成三组。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/split；
 
 
 ---

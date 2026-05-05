@@ -131,8 +131,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Many small businesses struggle to stay afloat during economic downturns. `[真题]`
+>   - 中译：许多小企业在经济低迷期间努力维持经营。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/struggle；
 > - For years, she struggled to make ends meet on her modest salary. `[真题]`
+>   - 中译：多年来，她靠着微薄的薪水艰难维持生计。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/struggle；
 > - The struggle for civil rights continued for decades across the nation. `[真题]`
+>   - 中译：民权运动在全国范围内持续了数十年。；
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/struggle；
 
 
 ---

@@ -130,8 +130,14 @@ review_count: 0
 
 > [!example]- 语料
 > - A flock of sheep blocked our entry to the farm. `[例]`
+  - 中译：一群羊挡住了我们进入农场的路。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/entry；
 > - I can't go down that street - there's a "No entry" sign. `[例]`
+  - 中译：我不能走那条街——那里有一个“禁止进入”的标志。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/entry；
 > - The actress's entry into the world of politics surprised most people. `[例]`
+  - 中译：这位女演员步入政界让大多数人感到惊讶。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/entry；
 
 
 ---

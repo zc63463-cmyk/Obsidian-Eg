@@ -129,8 +129,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The company deceived customers by selling old computers as new ones. `[例]`
+  - 中译：公司把旧电脑当新的卖，欺骗了顾客。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/deceive；
 > - The sound of the door closing deceived me into thinking they had gone out. `[例]`
+  - 中译：关门声让我误以为他们出去了。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/deceive；
 > - She thinks he'll come back, but she's deceiving herself. `[例]`
+  - 中译：她以为他会回来，但她在自欺欺人。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/deceive；
 
 
 ---

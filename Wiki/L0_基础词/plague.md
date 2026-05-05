@@ -129,9 +129,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Financial problems have been plaguing their new business partners. `[例]`
+  - 中译：财务问题一直困扰着他们的新商业伙伴。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/plague；
 > - My shoulder's been plaguing me all week. `[例]`
+  - 中译：我的肩膀整周都在折磨我。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/plague；
 > - The children plagued him with questions all through lunch. `[例]`
-
+  - 中译：孩子们在整个午餐时间都在用问题烦他。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/plague；
 
 ---
 

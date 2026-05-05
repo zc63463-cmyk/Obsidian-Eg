@@ -133,8 +133,14 @@ soil 有两个不同的词源：
 
 > [!example]- 语料
 > - Sandy or chalky soils. `[例]`
+  - 中译：沙质或白垩质土壤。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/soil；
 > - Gardening is a way for city dwellers to return to the soil. `[例]`
+  - 中译：园艺是城市居民回归土地的一种方式。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/soil；
 > - Plant the seeds in potting soil. `[例]`
+  - 中译：将种子种在盆栽土中。；
+  - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/soil；
 
 
 ---

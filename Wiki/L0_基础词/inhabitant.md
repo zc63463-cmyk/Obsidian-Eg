@@ -134,6 +134,8 @@ in-(=in-, 在……里面) + habit(=have/hold, 持有/居住) + -ant(表示"人"
 
 > [!example]- 语料
 > - The roughly 20 million inhabitants of these nations looked hopefully to the future. `[真题]`
+  - 中译：这些国家大约2000万居民满怀希望地展望未来。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/inhabitant；
 > - The Aborigines are the native inhabitants of Australia. `[COCA-ACAD]`
 > - More than 700 of the city's inhabitants lost their lives. `[BNC-NEWS]`
 

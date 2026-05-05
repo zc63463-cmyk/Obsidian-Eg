@@ -136,8 +136,14 @@ review_count: 0
 
 > [!example]- 语料
 > - He turned a deaf ear to the rumors. `[真题]`
+>   - 中译：他对谣言充耳不闻。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ear；
 > - When the manager started talking about promotions, everyone in the room was all ears. `[真题]`
+>   - 中译：当经理开始谈论升职时，房间里每个人都竖起耳朵听。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/ear；
 > - I hope that our appeals will not fall on deaf ears. `[真题]`
+>   - 中译：我希望我们的呼吁不会被置若罔闻。；
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/ear；
 
 
 ---

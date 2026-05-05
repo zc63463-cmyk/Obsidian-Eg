@@ -121,8 +121,14 @@ in-(不，否定) + [[numer|numer-]](数字，数) + -able(可以被……的)
 
 > [!example]- 语料
 > - There are innumerable examples of how technology has transformed our daily lives. `[真题]`
+  - 中译：科技如何改变我们日常生活的例子不胜枚举。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/innumerable；
 > - She has helped innumerable people through her charity work. `[真题]`
+  - 中译：她通过慈善工作帮助了无数的人。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/innumerable；
 > - The frictionless design of social media platforms has been the source of innumerable problems, including viral misinformation and ethnic violence abroad. `[例]`
+  - 中译：社交媒体平台的无摩擦设计已经成为无数问题的根源，包括病毒式传播的虚假信息和国外的种族暴力。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/innumerable；
 
 
 ---

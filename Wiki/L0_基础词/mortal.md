@@ -132,8 +132,14 @@ mort(=mors/mortis, 死亡，拉丁语 mors 死亡) + -al(形容词后缀，表�
 
 > [!example]- 语料
 > - All men are mortal. `[真题]`
+> - 中译：人终有一死。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/mortal；
 > - The soldier sustained a mortal wound in battle. `[真题]`
+> - 中译：这名士兵在战斗中受了致命伤。；
+> - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/mortal；
 > - Tickets seem unobtainable to the ordinary mortal. `[真题]`
+> - 中译：对普通人来说，票似乎根本弄不到。；
+> - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/mortal；
 
 
 ---

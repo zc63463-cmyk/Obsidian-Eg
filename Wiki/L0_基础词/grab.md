@@ -129,7 +129,11 @@ grab 为基础词汇，无词根词缀拆分。源自中古低地德语/荷兰�
 > - Us-vs.-them-ism' is an especially tempting theme for a media desperately looking for ways to grab our short attention spans. `[真题]`
 > - To be sure, Twitter wasn't trying to grab every last dollar. `[真题]`
 > - If you don't grab this opportunity, you might not get another one. `[例]`
+  - 中译：如果你不抓住这个机会，你可能不会再有另一个了。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/grab；
 > - The book is full of good ideas to grab your students' attention. `[例]`
+  - 中译：这本书充满了吸引学生注意力的好主意。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/grab；
 
 
 ---

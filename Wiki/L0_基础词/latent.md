@@ -126,8 +126,14 @@ lat-（隐藏的，源自拉丁语 *latere*，隐藏）+ -ent（形容词后缀�
 
 > [!example]- 语料
 > - Recent developments in the area have brought latent ethnic tension out into the open. `[例]`
+>   - 中译：该地区最近的事态发展使潜在的种族紧张关系暴露出来。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/latent；
 > - We're trying to bring out the latent artistic talents that many people possess without realizing it. `[例]`
+>   - 中译：我们正努力发掘许多人不知不觉中拥有的潜在艺术才能。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/latent；
 > - Latent ethnic tensions exploded into the open yesterday. `[例]`
+>   - 中译：潜在的种族紧张关系昨天爆发了。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/latent；
 
 
 ---

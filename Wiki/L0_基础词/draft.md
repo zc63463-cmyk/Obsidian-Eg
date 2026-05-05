@@ -136,8 +136,14 @@ draft 源自古英语 *\*dreaht*，与 [[draw]]（拉、画）同源，源自原
 
 > [!example]- 语料
 > - The first draft of the constitution was completed in 1787. `[真题]`
+>   - 中译：宪法的第一稿于1787年完成。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/draft；
 > - During the Vietnam War, many young Americans were drafted into military service. `[真题]`
+>   - 中译：在越南战争期间，许多美国年轻人被征召入伍。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/draft；
 > - She spent the whole morning drafting a proposal for the new project. `[真题]`
+>   - 中译：她花了一整个上午为新项目起草提案。；
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/draft；
 
 
 ---

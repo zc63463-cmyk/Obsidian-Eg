@@ -125,8 +125,14 @@ review_count: 0
 
 > [!example]- 语料
 > - In the past, many monarchs believed in the divine right of kings and ruled their nations with absolute authority. `[真题]`
+>   - 中译：过去，许多君主相信君权神授，以绝对权威统治国家。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/divine；
 > - Instead of trying to change the situation, they simply pray for divine intervention. `[真题]`
+>   - 中译：他们没有试图改变现状，而是祈求神灵干预。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/divine；
 > - She divined that something was wrong from the look on his face. `[真题]`
+>   - 中译：她从他的表情中察觉到出了问题。；
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/divine；
 
 
 ---

@@ -129,8 +129,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Demonstrators handed out leaflets to passers-by. `[例]`
+>   - 中译：示威者向路人散发传单。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/leaflet；
 > - A leaflet about the new bus services came through the door today. `[例]`
+>   - 中译：今天有一份关于新公交服务的传单被塞到了门里。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/leaflet；
 > - Leaflet drops at churches , barbers , community centres and other places where people gather also are part of any successful get-out-the-vote effort. `[例]`
+>   - 中译：在教堂、理发店、社区中心和其他人们聚集的地方散发传单也是任何成功的投票动员活动的一部分。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/leaflet；
 
 
 ---

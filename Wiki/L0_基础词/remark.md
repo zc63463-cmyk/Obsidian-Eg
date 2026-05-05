@@ -130,8 +130,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The professor remarked that the results were consistent with previous findings. `[真题]`
+  - 中译：教授说结果与之前的发现一致。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/remark；
 > - She made a passing remark about the need for reform. `[真题]`
+  - 中译：她随口提了一句关于改革的必要性。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/remark；
 > - I was just remarking on how well you two normally get on with each other. `[例]`
+  - 中译：我只是在说你们两个平时相处得多么好。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/remark；
 
 
 ---

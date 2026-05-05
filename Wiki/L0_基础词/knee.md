@@ -126,8 +126,14 @@ knee（日耳曼语族原始词，原始印欧语 *genu* "膝盖"，与拉丁语
 
 > [!example]- 语料
 > - The baby was crawling around on her hands and knees. `[例]`
+>   - 中译：婴儿用手和膝盖在地上爬来爬去。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/knee；
 > - She took the child and sat it on her knee (= on the part of the leg above the knee when sitting down). `[例]`
+>   - 中译：她把孩子抱过来放在膝盖上（=坐着时大腿上方膝盖的位置）。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/knee；
 > - She was wearing an old pair of trousers with rips at the knees. `[例]`
+>   - 中译：她穿着一条膝盖处有破洞的旧裤子。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/knee；
 
 
 ---

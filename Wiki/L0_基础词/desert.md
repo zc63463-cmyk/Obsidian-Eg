@@ -135,8 +135,14 @@ review_count: 0
 
 > [!example]- 语料
 > - They were lost in the desert for nine days. `[例]`
+  - 中译：撒哈拉是世界上最大的热带沙漠。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/desert；
 > - We had to cross a large area of arid , featureless desert. `[例]`
+  - 中译：许多士兵在战争期间当了逃兵。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/desert；
 > - This town is a cultural desert. `[例]`
+  - 中译：这个村庄已经被居民遗弃了。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/desert；
 
 
 ---

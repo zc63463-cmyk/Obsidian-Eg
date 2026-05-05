@@ -131,8 +131,14 @@ review_count: 0
 
 > [!example]- 语料
 > - His hand was injured when he got it caught in the machinery. `[例]`
+> -   - 中译：他的手被卷入机器中受了伤；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/machinery；
 > - Some of the older machinery breaks down frequently. `[例]`
+> -   - 中译：一些旧机器经常出故障；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/machinery；
 > - They use modern farm machinery, such as combine harvesters. `[例]`
+> -   - 中译：他们使用现代化的农业机械，如联合收割机；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/machinery；
 
 
 ---

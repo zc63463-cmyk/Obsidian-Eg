@@ -125,8 +125,14 @@ review_count: 0
 
 > [!example]- 语料
 > - I am writing regarding your letter of application. `[真题]`
+  - 中译：我写信是关于你的求职信。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/regarding；
 > - She refused to answer questions regarding her private life. `[例]`
+  - 中译：她拒绝回答有关她私生活的问题。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/regarding；
 > - For example, AI can be used to analyse what type of advertising content or copy would be appropriate to 'speak' to a specific target customer group by revealing information about trends and preferences through the analysis of big data. ( 46) AI can also be used to identify the lifestyle choices of customers regarding their hobbies, favourite celebrities, music choices, and fashions to provide unique content in marketing messages put out through social media. `[真题]`
+  - 中译：例如，人工智能可以通过大数据分析揭示趋势和偏好信息，来分析哪种广告内容或文案适合与特定目标客户群体“对话”。（46）人工智能还可以用来识别客户在爱好、喜爱的名人、音乐选择和时尚方面的生活方式选择，从而在通过社交媒体发布的营销信息中提供独特的内容。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/regarding；
 
 
 ---

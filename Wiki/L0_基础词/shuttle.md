@@ -135,8 +135,14 @@ review_count: 0
 
 > [!example]- 语料
 > - All the meals on space station are put together on Earth and sent there by space shuttle. `[真题]`
+  - 中译：空间站上的所有餐食都是在地球上准备好，由航天飞机运送过去的。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/shuttle；
 > - During the next two years, other delegations shuttled between the two capitals. `[例]`
+  - 中译：在接下来的两年里，其他代表团在两个首都之间来回穿梭。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/shuttle；
 > - The hotel provides a shuttle bus that takes you to and from the airport. `[例]`
+  - 中译：酒店提供往返机场的穿梭巴士。；
+  - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/shuttle；
 
 
 ---

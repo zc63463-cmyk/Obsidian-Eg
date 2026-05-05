@@ -128,8 +128,14 @@ thorn 为日耳曼语系原生词（古英语 *þorn*，与古高地日耳曼语
 
 > [!example]- 语料
 > - Rose bushes have thorns. `[例]`
+>   - 中译：玫瑰丛有刺。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/thorn；
 > - The plants here have thorns on their branches. `[例]`
+>   - 中译：这里的植物枝条上有刺。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/thorn；
 > - These thorns protect the plant’s very small green leaves. `[例]`
+>   - 中译：这些刺保护着植物非常小的绿叶。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/thorn；
 
 
 ---

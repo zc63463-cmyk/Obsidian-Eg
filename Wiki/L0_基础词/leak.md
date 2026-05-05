@@ -135,8 +135,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Water was leaking from the pipe. `[例]`
+> -   - 中译：水正从管道中漏出；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/leak；
 > - Oil leaked out of the car. `[例]`
+> -   - 中译：油从汽车里漏了出来；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/leak；
 > - The car leaked oil all over the drive. `[例]`
+> -   - 中译：汽车漏的油洒了满车道；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/leak；
 
 
 ---

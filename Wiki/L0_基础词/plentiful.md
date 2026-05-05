@@ -128,9 +128,14 @@ plent-（充足，拉丁语 *plenus* "满的"，与 [[plenty]] 同源）+ -i-（
 
 > [!example]- 语料
 > - Strawberries are plentiful in the summer. `[例]`
+  - 中译：夏天的草莓很丰富。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/plentiful；
 > - I took a plentiful supply of games to keep the children amused. `[例]`
+  - 中译：我带了充足的游戏来让孩子们开心。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/plentiful；
 > - In those days jobs were plentiful. `[例]`
-
+  - 中译：在那个年代，工作机会很多。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/plentiful；
 
 ---
 

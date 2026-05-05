@@ -129,8 +129,14 @@ review_count: 0
 
 > [!example]- 语料
 > - We'll have to get a plumber in to look at that water tank. `[例]`
+>   - 中译：我们得请水管工来看看那个水箱。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/tank；
 > - There was a tank of live lobsters in the restaurant. `[例]`
+>   - 中译：餐厅里有一个装满活龙虾的水箱。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/tank；
 > - Liquid and solid waste is collected in the tank. `[例]`
+>   - 中译：液体和固体废物被收集在储罐中。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/tank；
 
 
 ---

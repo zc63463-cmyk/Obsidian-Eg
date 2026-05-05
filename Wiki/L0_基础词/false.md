@@ -143,8 +143,14 @@ false 源自古法语 *fals*，来自拉丁语 *falsus*（欺骗的、错误的�
 
 > [!example]- 语料
 > - Predictions of an early improvement in the housing market proved false. `[例]`
+  - 中译：对房地产市场将很快好转的预测被证明是错误的。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/false；
 > - The allegations are completely false. `[例]`
+  - 中译：这些指控完全是虚假的。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/false；
 > - He had been travelling with a false passport. `[例]`
+  - 中译：他一直使用假护照旅行。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/false；
 
 
 ---

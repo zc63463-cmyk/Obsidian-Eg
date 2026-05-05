@@ -126,8 +126,14 @@ powder（细粉，源自拉丁语 *pulvis* "细尘"，词根可能关联 PIE *\*
 
 > [!example]- 语料
 > - A packet of white powder was found and police scientists are analysing it. `[例]`
+>   - 中译：发现了一包白色粉末，警方科学家正在进行分析。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/powder；
 > - You'll get more flavour from the spices if you grind them into a powder. `[例]`
+>   - 中译：如果你把香料磨成粉末，会得到更多的风味。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/powder；
 > - Why are there so many adverts for washing powders on TV? `[例]`
+>   - 中译：为什么电视上有这么多洗衣粉广告？；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/powder；
 
 
 ---

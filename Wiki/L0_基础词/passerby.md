@@ -131,9 +131,14 @@ review_count: 0
 
 > [!example]- 语料
 > - A passerby saw the accident and stopped to help. `[例]`
+  - 中译：一位路人看到了事故，停下来帮忙。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/passer-by；
 > - The child was located in the middle of the road by a passerby who contacted PSP. `[例]`
+  - 中译：一个路人发现那个孩子站在路中间，于是联系了公共安全部门。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/passer-by；
 > - Detectives said a passerby found the 60-year-old man partially sitting in a wheelchair that was overturned. `[例]`
-
+  - 中译：侦探说，一名路人发现这名60岁的男子半坐在一辆翻倒的轮椅上。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/passerby；
 
 ---
 

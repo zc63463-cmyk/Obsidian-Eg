@@ -128,8 +128,14 @@ review_count: 0
 
 > [!example]- 语料
 > - More than 1,500 musicians performed in intermittent rain before a small crowd. `[真题]`
+>   - 中译：1500多名音乐家在间歇性的小雨中为一小群观众演奏。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/intermittent；
 > - The drawback to renewables is that they are intermittent, producing only when the weather is sunny or windy. `[真题]`
+>   - 中译：可再生能源的缺点是它们具有间歇性，只有在晴天或刮风时才能发电。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/intermittent；
 > - Intermittent fasting has been shown to have various health benefits. `[真题]`
+>   - 中译：间歇性断食已被证明具有多种健康益处。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/intermittent；
 
 
 ---

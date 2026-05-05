@@ -121,8 +121,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Exposure to UV rays from the sun varies according to how far away from the equator you live. `[例]`
+  - 中译：来自太阳紫外线的照射程度取决于你居住的地方离赤道有多远。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/equator；
 > - Indonesia is on the equator. `[例]`
+  - 中译：印度尼西亚位于赤道上。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/equator；
 > - There was a celebration as the ship crossed the equator. `[例]`
+  - 中译：当船只穿越赤道时，人们举行了庆祝活动。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/equator；
 
 
 ---

@@ -140,9 +140,14 @@ review_count: 0
 
 > [!example]- 语料
 > - And Mr Trump's grasp of the technicalities was pathetic. `[例]`
+  - 中译：特朗普先生对技术细节的掌握令人可怜。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pathetic；
 > - It was pathetic to watch her condition deteriorate. `[例]`
+  - 中译：看着她的状况恶化，真是令人可怜。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/pathetic；
 > - The plan offers a pathetic option for small organizations. `[例]`
-
+  - 中译：该计划为小型组织提供了一个可怜的选项。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/pathetic；
 
 ---
 

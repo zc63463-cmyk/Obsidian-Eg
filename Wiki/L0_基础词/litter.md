@@ -137,8 +137,14 @@ litter（14世纪初，源自盎格鲁-法语 *litere* "便携式床"，源自�
 
 > [!example]- 语料
 > - About two percent of fast-food packaging ends up as litter. `[例]`
+> -   - 中译：大约百分之二的快餐包装最终变成了垃圾；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/litter；
 > - A litter of kittens. `[例]`
+> -   - 中译：一窝小猫；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/litter；
 > - Dirty clothes littered the floor of her bedroom. `[例]`
+> -   - 中译：脏衣服散落在她卧室的地板上；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/litter；
 
 
 ---

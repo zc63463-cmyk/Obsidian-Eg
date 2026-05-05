@@ -128,8 +128,14 @@ review_count: 0
 
 > [!example]- 语料
 > - I owe it to him to explain what's happened. `[真题]`
+>   - 中译：我觉得有责任向他解释发生了什么。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/owe；
 > - I owe you a drink for helping me move. `[例]`
+>   - 中译：你帮我搬家，我欠你一杯酒。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/owe；
 > - It's just struck me that I still owe you for the concert tickets. `[例]`
+>   - 中译：我突然想起我还欠你音乐会的票钱。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/owe；
 
 
 ---

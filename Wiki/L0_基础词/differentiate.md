@@ -126,8 +126,14 @@ review_count: 0
 
 > [!example]- 语料
 > - We do not differentiate between our employees on the basis of their race , religion , or national origin. `[例]`
+  - 中译：我们不会根据员工的种族、宗教或国籍来区别对待。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/differentiate；
 > - Most consumers have no trouble differentiating our brand's cereal from our leading competitor's. `[例]`
+  - 中译：大多数消费者毫不费力就能区分我们品牌的麦片和主要竞争对手的。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/differentiate；
 > - Service providers are all keen to differentiate themselves from their competitors. `[例]`
+  - 中译：服务提供商都渴望使自己与竞争对手有所区别。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/differentiate；
 
 
 ---

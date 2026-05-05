@@ -131,8 +131,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Our office is near the station. `[例]`
+>   - 中译：我们的办公室在车站附近。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/station；
 > - The reception is not very good - try to tune in to another station. `[例]`
+>   - 中译：接收效果不太好——试试调到另一个电台。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/station；
 > - The research station will monitor wildlife , vegetation and the water table. `[例]`
+>   - 中译：研究站将监测野生动物、植被和地下水位。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/station；
 
 
 ---

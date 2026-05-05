@@ -129,8 +129,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Members of Congress have to make a declaration of their business interests. `[例]`
+  - 中译：国会议员必须申报其商业利益。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/declaration；
 > - As witnesses to the accident , we were asked to make written declarations of what we had seen. `[例]`
+  - 中译：作为事故的目击者，我们被要求写下书面声明，描述我们所看到的情况。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/declaration；
 > - The company made a declaration of intent to follow an equal opportunities policy. `[例]`
+  - 中译：公司发表了遵循平等机会政策的意向声明。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/declaration；
 
 
 ---

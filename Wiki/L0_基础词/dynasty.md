@@ -123,8 +123,14 @@ dyna-(力量，权力) + -sty(名词后缀，表状态)
 
 > [!example]- 语料
 > - The Ming Dynasty was the time when the politics of autocratic monarchy reached its peak in Chinese history. `[真题]`
+>   - 中译：明朝是中国历史上专制君主政治达到顶峰的时期。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/dynasty；
 > - The Kennedy family is often described as a political dynasty in American politics. `[真题]`
+>   - 中译：肯尼迪家族常被描述为美国政治中的一个政治王朝。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/dynasty；
 > - The Mogul dynasty ruled over India for centuries. `[例]`
+>   - 中译：莫卧儿王朝统治印度长达数个世纪。；
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/dynasty；
 
 
 ---

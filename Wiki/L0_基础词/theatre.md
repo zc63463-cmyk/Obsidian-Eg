@@ -130,8 +130,14 @@ thea-(=see, watch，看，希腊语 *theasthai*) + -tre(=place，地方，名词
 
 > [!example]- 语料
 > - The company's productions show the new face of 21st century Chinese theatre. `[真题]`
+>   - 中译：该公司的作品展示了21世纪中国戏剧的新面貌。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/theatre；
 > - The cinema, the theatre, all that was very exciting with new things coming out. `[真题]`
+>   - 中译：电影、戏剧，所有那些新事物的出现都令人兴奋不已。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/theatre；
 > - The Pacific region became a major theatre of war during World War II. `[例]`
+>   - 中译：太平洋地区在第二次世界大战期间成为主要战区。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/theatre；
 
 
 ---

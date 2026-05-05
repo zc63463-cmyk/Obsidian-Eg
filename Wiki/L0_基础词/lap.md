@@ -131,8 +131,14 @@ review_count: 0
 
 > [!example]- 语料
 > - He was overtaken on the final lap. `[例]`
+>   - 中译：他在最后一圈被超越。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lap；
 > - She sat with her hands in her lap. `[例]`
+>   - 中译：她坐着，双手放在膝上。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lap；
 > - He recorded the fastest lap in last weekend's Hungarian Grand Prix. `[例]`
+>   - 中译：他在上周末的匈牙利大奖赛中创下了最快圈速。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lap；
 
 
 ---

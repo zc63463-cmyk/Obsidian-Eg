@@ -129,8 +129,14 @@ mild（源自古英语 *milde*，与拉丁语 *mollis* "柔软的"同源，原�
 
 > [!example]- 语料
 > - The region enjoys a mild climate throughout the year. `[真题]`
+> - 中译：该地区全年气候温和。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/mild；
 > - Only mild symptoms were reported in most cases. `[真题]`
+> - 中译：大多数病例只报告了轻微症状。；
+> - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/mild；
 > - He is a mild-mannered man who rarely lost his temper. `[真题]`
+> - 中译：他是个温文尔雅的人，很少发脾气。；
+> - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/mild；
 
 
 ---

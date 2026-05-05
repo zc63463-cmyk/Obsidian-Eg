@@ -136,8 +136,14 @@ review_count: 0
 
 > [!example]- 语料
 > - That's why Hayden's expedition aimed to produce a fuller understanding of the Yellowstone River region, from its hot springs and waterfalls to its variety of flora and fauna. `[真题]`
+>   - 中译：这就是为什么海登的探险队旨在更全面地了解黄石河地区，从它的温泉和瀑布到各种各样的动植物。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/spring；
 > - Many bulbs bloom in (the) spring. `[例]`
+>   - 中译：许多球根植物在春天开花。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/spring；
 > - Janet's coming over for a couple of weeks next spring. `[例]`
+>   - 中译：珍妮特明年春天要来住几个星期。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/spring；
 
 
 ---

@@ -126,9 +126,14 @@ review_count: 0
 
 > [!example]- 语料
 > - After sprinting the final hundred meters of the race, the athlete bent over with hands on knees, panting heavily for breath. `[真题]`
+  - 中译：在冲刺完比赛的最后一百米后，运动员弯着腰，双手放在膝盖上，剧烈地喘着粗气。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pant；
 > - The oppressed people panted for freedom and justice, dreaming of the day when they would no longer live under tyranny. `[真题]`
+  - 中译：受压迫的人民渴望自由与正义，梦想着不再生活在暴政下的那一天。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/pant；
 > - She was panting heavily after running up the stairs, her heart still racing from the exertion. `[真题]`
-
+  - 中译：跑上楼梯后她剧烈地喘着气，心脏仍因用力而急速跳动。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pant；
 
 ---
 

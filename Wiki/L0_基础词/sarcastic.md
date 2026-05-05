@@ -124,9 +124,17 @@ review_count: 0
 
 > [!example]- 语料
 > - The researchers proposed a sarcastic solution to the problem. `[真题]`
+  - 中译：研究人员提出了一个讽刺性的解决方案。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sarcastic
 > - The company adopted a sarcastic approach to improve efficiency. `[真题]`
+  - 中译：公司采取了一种讽刺的方式来提高效率。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sarcastic
 > - The plan offers a sarcastic option for small organizations. `[例]`
+  - 中译：该计划为小型组织提供了一个讽刺性的选项。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sarcastic
 > - His sarcastic comments about her cooking were very hurtful. `[例]`
+  - 中译：他对她厨艺的讽刺性评论非常伤人。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sarcastic
 
 
 ---

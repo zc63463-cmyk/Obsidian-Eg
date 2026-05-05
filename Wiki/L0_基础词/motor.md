@@ -131,8 +131,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The pump is powered by a small electric motor. `[例]`
+> - 中译：水泵由一台小型电动机驱动。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/motor；
 > - Our washing machine needs a new motor. `[例]`
+> - 中译：我们的洗衣机需要一台新电机。；
+> - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/motor；
 > - A car stood by the curb , its motor (= engine ) running. `[例]`
+> - 中译：一辆车停在路边，发动机在运转。；
+> - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/motor；
 
 
 ---

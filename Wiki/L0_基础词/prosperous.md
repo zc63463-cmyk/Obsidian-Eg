@@ -125,8 +125,14 @@ pro-(向前/在前) + [[sper|sper]](希望) + -ous(充满...的，形容词后�
 
 > [!example]- 语料
 > - In a prosperous country like this, no one should go hungry. `[例]`
+>   - 中译：在这样一个繁荣的国家，不应该有人挨饿。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/prosperous；
 > - The area is becoming more and more prosperous. `[例]`
+>   - 中译：这个地区变得越来越繁荣。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/prosperous；
 > - Farmers are more prosperous in the south of the country. `[例]`
+>   - 中译：该国南部的农民更加富裕。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/prosperous；
 
 
 ---

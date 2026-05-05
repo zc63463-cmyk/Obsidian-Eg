@@ -128,9 +128,17 @@ reck（注意，在乎，源自古英语 *recan*，关心/注意）+ -less（否
 
 > [!example]- 语料
 > - The driver of the car was arrested for reckless driving after running a red light at high speed. `[例]`
+  - 中译：那辆车的司机因高速闯红灯被以鲁莽驾驶罪逮捕。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/reckless；
 > - The company's reckless spending habits ultimately led to its bankruptcy and the loss of thousands of jobs. `[例]`
+  - 中译：公司鲁莽的消费习惯最终导致了破产和数千个工作岗位的流失。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/reckless；
 > - At least, the recession has awakened us from our national fever dream of easy riches and put a necessary end to an era of reckless personal spending. `[例]`
+  - 中译：至少，经济衰退将我们从全民暴富的狂热幻想中唤醒，终结了一个个人挥霍无度的时代。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/reckless；
 > - The researchers proposed a reckless solution to the problem. `[例]`
+  - 中译：研究人员提出了一个鲁莽的解决方案。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/reckless；
 
 
 ---

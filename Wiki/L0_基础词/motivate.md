@@ -128,8 +128,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Like so many people , he's motivated by greed. `[例]`
+> - 中译：和许多人一样，他受贪婪的驱使。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/motivate；
 > - He is genuinely motivated by a desire to help people. `[例]`
+> - 中译：他是真心被帮助他人的愿望所驱动。；
+> - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/motivate；
 > - Teaching is all about motivating people to learn. `[例]`
+> - 中译：教学就是要激发人们的学习动力。；
+> - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/motivate；
 
 
 ---

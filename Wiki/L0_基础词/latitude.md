@@ -125,8 +125,14 @@ lat-（宽的，源自拉丁语 *latus*，宽的）+ -itude（名词后缀，表
 
 > [!example]- 语料
 > - At these latitudes the sun does not rise at all on winter days. `[例]`
+>   - 中译：在这些纬度上，冬天的太阳根本不会升起。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/latitude；
 > - Courts can show a considerable degree of latitude when it comes to applying the law. `[例]`
+>   - 中译：在适用法律方面，法院可以表现出相当大的自由度。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/latitude；
 > - Judges now have considerable latitude in sentencing. `[例]`
+>   - 中译：法官现在在量刑方面拥有相当大的自由裁量权。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/latitude；
 
 
 ---

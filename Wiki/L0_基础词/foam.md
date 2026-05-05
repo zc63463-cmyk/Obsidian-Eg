@@ -128,8 +128,14 @@ review_count: 0
 
 > [!example]- 语料
 > - A flame-smothering chemical foam. `[例]`
+>   - 中译：一种灭火化学泡沫。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/foam；
 > - He was having convulsions and foaming at the mouth. `[例]`
+>   - 中译：他正在抽搐，口吐白沫。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/foam；
 > - The waves were high and capped with foam. `[例]`
+>   - 中译：浪头很高，上面覆盖着泡沫。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/foam；
 
 
 ---

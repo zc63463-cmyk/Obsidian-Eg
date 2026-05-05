@@ -129,8 +129,14 @@ ec-(=ex-, 向外/偏离) + centr(中心) + -ic(形容词后缀)
 
 > [!example]- 语料
 > - He was a kind but eccentric man. `[真题]`
+>   - 中译：他是个善良但古怪的人。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/eccentric；
 > - Our neighbour is an eccentric old lady who has about 25 cats. `[真题]`
+>   - 中译：我们的邻居是一位养了大约25只猫的古怪老太太。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/eccentric；
 > - In all of them his thinking was widely regarded at the outset as eccentric or worse. `[真题]`
+>   - 中译：在所有这些领域，他的思想在最初都被广泛认为是古怪的，甚至更糟。；
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/eccentric；
 
 
 ---

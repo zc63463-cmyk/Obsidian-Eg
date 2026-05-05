@@ -134,9 +134,17 @@ review_count: 0
 
 > [!example]- 语料
 > - He played dumb when asked about the missing money. `[真题]`
+>   - 中译：当被问及丢失的钱时，他装傻。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/dumb；
 > - She was struck dumb by the news of his death. `[真题]`
+>   - 中译：他去世的消息让她惊得说不出话来。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/dumb；
 > - He was born deaf and dumb. `[真题]`
+>   - 中译：他天生又聋又哑。；
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/dumb；
 > - The researchers proposed a dumb solution to the problem. `[真题]`
+>   - 中译：研究人员提出了一个愚蠢的解决方案。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/dumb；
 
 
 ---

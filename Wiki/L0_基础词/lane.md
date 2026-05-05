@@ -129,8 +129,14 @@ review_count: 0
 
 > [!example]- 语料
 > - He drives so fast along those narrow country lanes. `[例]`
+>   - 中译：他在那些狭窄的乡间小路上开车太快了。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lane；
 > - The northbound lane is closed because of an accident. `[例]`
+>   - 中译：北向车道因事故而关闭。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lane；
 > - I find driving in the fast lane very stressful. `[例]`
+>   - 中译：我觉得在快车道上开车压力很大。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lane；
 
 
 ---

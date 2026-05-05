@@ -127,8 +127,14 @@ re-（[[re-|再，重新]]）+ peat（[[pet|寻求]]，拉丁语 *petere*）+ -e
 
 > [!example]- 语料
 > - The government has repeatedly stated its commitment to environmental protection. `[真题]`
+  - 中译：政府多次声明其对环境保护的承诺。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/repeatedly；
 > - He repeatedly ignored the warnings and continued his risky behavior. `[例]`
+  - 中译：他一再无视警告，继续他的冒险行为。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/repeatedly；
 > - She repeatedly asked the same question during the interview. `[例]`
+  - 中译：她在面试中反复问了同一个问题。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/repeatedly；
 
 
 ---

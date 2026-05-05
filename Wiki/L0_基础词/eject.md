@@ -133,8 +133,14 @@ e-(=ex-, 向外) + [[ject]](投掷，拉丁语 *jacere* 的过去分词 *jectus*
 
 > [!example]- 语料
 > - When endangered, octopuses eject an inky substance, which is used as a screen. `[例]`
+>   - 中译：遇到危险时，章鱼会喷出墨汁作为屏障。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/eject；
 > - A number of fans had been ejected from the bar for causing trouble. `[例]`
+>   - 中译：一些球迷因闹事被赶出了酒吧。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/eject；
 > - The pilot had to eject from his burning plane when the engines cut out. `[例]`
+>   - 中译：当发动机熄火时，飞行员不得不从燃烧的飞机中弹射逃生。；
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/eject；
 
 
 ---

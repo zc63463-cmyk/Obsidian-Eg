@@ -139,9 +139,14 @@ review_count: 0
 
 > [!example]- 语料
 > - No call to care, finally, could be too mundane; what could be more ordinary than peeling an egg? `[例]`
+  - 中译：归根结底，没有哪种关怀能太过平凡；还有什么比剥鸡蛋更普通的事呢？；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/peel；
 > - Ramon peeled his sweaty shirt off and hung it on a chair to dry. `[例]`
+  - 中译：拉蒙脱下汗湿的衬衫，挂在椅子上晾干。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/peel；
 > - The paint was peeling from the walls of the old building. `[例]`
-
+  - 中译：旧建筑墙上的油漆正在剥落。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/peel；
 
 ---
 

@@ -126,8 +126,14 @@ review_count: 0
 
 > [!example]- 语料
 > - We're going to the Channel Islands by ferry. `[例]`
+>   - 中译：我们乘渡船去海峡群岛。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ferry；
 > - We took the ferry to Calais. `[例]`
+>   - 中译：我们乘渡船去了加来。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ferry；
 > - I spend most of my time ferrying the children around. `[例]`
+>   - 中译：我大部分时间都在接送孩子们。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ferry；
 
 
 ---

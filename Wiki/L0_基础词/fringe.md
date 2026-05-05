@@ -133,8 +133,14 @@ fringe(整体词，源自拉丁语 *fimbria*，穗子、边缘)
 
 > [!example]- 语料
 > - The hikers rested under a towering fringe near the coastal trail. `[例]`
+>   - 中译：徒步旅行者在海岸步道旁高耸的边缘处休息。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fringe；
 > - The cabin was built from durable fringe gathered in the region. `[例]`
+>   - 中译：小屋是用该地区收集的耐用的边缘材料建造的。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fringe；
 > - A line of fringe trees rose above the morning fog. `[例]`
+>   - 中译：一排边缘树木在晨雾中若隐若现。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fringe；
 
 
 ---

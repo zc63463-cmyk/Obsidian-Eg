@@ -131,8 +131,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Could you tie this piece of string for me? `[例]`
+>   - 中译：你能帮我系上这根绳子吗？；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/tie；
 > - Jane and I tied for first place in the spelling test. `[例]`
+>   - 中译：简和我在拼写测试中并列第一。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/tie；
 > - Family ties are weaker if you move a long way away. `[例]`
+>   - 中译：如果你搬得很远，家庭纽带就会变弱。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/tie；
 
 
 ---

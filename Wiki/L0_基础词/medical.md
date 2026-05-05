@@ -134,8 +134,14 @@ review_count: 0
 
 > [!example]- 语料
 > - There is a great deal of this kind of nonsense in the medical journals which, when taken up by broadcasters and the lay press, generates both health scares and short-lived dietary enthusiasms. `[真题]`
+> -   - 中译：医学期刊中有大量这种无稽之谈，一旦被广播公司和大众媒体采纳，就会引发健康恐慌和短暂的饮食热潮；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/medical；
 > - She needs medical treatment for her chronic back pain. `[COCA-ACAD]`
+> -   - 中译：她的慢性背痛需要医学治疗；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/medical；
 > - The plan offers a medical option for small organizations. `[COCA-ACAD]`
+> -   - 中译：该计划为小型组织提供了一种医疗选择；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/medical；
 
 
 ---

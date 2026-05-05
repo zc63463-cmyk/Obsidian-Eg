@@ -133,8 +133,14 @@ ex-(出) + [[cap]](拿取，抓取) → 从中取出 → 排除在外
 
 > [!example]- 语料
 > - The museum is open daily except Monday(s). `[例]`
+  - 中译：博物馆每天开放，星期一除外。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/except；
 > - The government has few options except to keep interest rates high. `[例]`
+  - 中译：政府除了保持高利率之外几乎没有其他选择。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/except；
 > - It's cool and quiet everywhere except in the kitchen. `[例]`
+  - 中译：除了厨房，到处都很凉爽安静。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/except；
 
 
 ---

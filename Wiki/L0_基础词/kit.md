@@ -128,8 +128,14 @@ review_count: 0
 
 > [!example]- 语料
 > - He's making a model car from a kit. `[例]`
+>   - 中译：他在用一套零件拼装模型汽车。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/kit；
 > - They were wearing football kit. `[例]`
+>   - 中译：他们穿着足球运动服。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/kit；
 > - A torch is an important piece of kit on backpacking trips. `[例]`
+>   - 中译：手电筒是背包旅行中重要的装备。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/kit；
 
 
 ---

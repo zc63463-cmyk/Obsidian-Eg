@@ -131,8 +131,14 @@ re-（[[re-|再，重新]]）+ new（[[new|新的]]）→ 再次变新 → **更
 
 > [!example]- 语料
 > - In December 1989 Syria renewed diplomatic relations with Egypt. `[真题]`
+  - 中译：1989年12月，叙利亚恢复了与埃及的外交关系。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/renew；
 > - The contracts are normally renewed every five years. `[例]`
+  - 中译：合同通常每五年续签一次。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/renew；
 > - You should renew your passport before it expires. `[例]`
+  - 中译：你应该在护照到期前续签。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/renew；
 
 
 ---

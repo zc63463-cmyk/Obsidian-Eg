@@ -132,8 +132,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The warranty covers the car mechanically for a year, with unlimited mileage. `[真题]`
+>   - 中译：保修单对汽车的机械部分提供一年不限里程的保修。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/warranty；
 > - Toyota said it began investigating after receiving complaints from owners whose vehicles were no longer under warranty. `[真题]`
+>   - 中译：丰田表示，在收到已过保修期的车主投诉后，他们开始进行调查。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/warranty；
 > - The warranty was expired before I found out that the mobile wasn't working. `[真题]`
+>   - 中译：保修期在我发现手机不能正常使用之前就已经过了。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/warranty；
 
 
 ---

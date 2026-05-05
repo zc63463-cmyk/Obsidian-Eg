@@ -129,8 +129,14 @@ review_count: 0
 
 > [!example]- 语料
 > - That was a rather foolish thing to do. `[例]`
+>   - 中译：那件事做得很愚蠢。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/foolish；
 > - She was afraid that she would look foolish if she refused. `[例]`
+>   - 中译：她担心如果拒绝会显得很蠢。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/foolish；
 > - It was foolish of them to pay so much. `[例]`
+>   - 中译：他们付这么多钱真是太愚蠢了。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/foolish；
 
 
 ---

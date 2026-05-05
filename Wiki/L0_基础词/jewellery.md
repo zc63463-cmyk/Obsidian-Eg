@@ -122,8 +122,14 @@ jewellery = jewel（宝石）+ -lery（集合名词后缀，表示"……的集�
 
 > [!example]- 语料
 > - Thieves broke into her home and stole her jewellery box. `[例]`
+>   - 中译：小偷闯入她家，偷走了她的首饰盒。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/jewellery；
 > - Women used to go out wearing gold jewellery and make-up , but no longer do so. `[例]`
+>   - 中译：女性过去常佩戴金饰和化妆品出门，但现在不再这样了。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/jewellery；
 > - I took a course and learned to make silver jewellery. `[例]`
+>   - 中译：我上了一门课程，学会了制作银饰。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/jewellery；
 
 
 ---

@@ -134,8 +134,14 @@ review_count: 0
 
 > [!example]- 语料
 > - He hatched a plot to forge documents that would embarrass the company. `[例]`
+  - 中译：他密谋伪造文件来使公司难堪。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hatch；
 > - The birds hatched out the next afternoon. `[例]`
+  - 中译：鸟儿们在第二天下午孵了出来。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hatch；
 > - They hatched a plan for a surprise birthday party. `[例]`
+  - 中译：他们策划了一个惊喜生日派对。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hatch；
 
 
 ---

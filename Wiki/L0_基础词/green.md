@@ -132,8 +132,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The researchers proposed a green solution to the problem. `[例]`
+  - 中译：研究人员提出了一个绿色环保的解决方案。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/green；
 > - The company adopted a green approach to improve efficiency. `[例]`
+  - 中译：公司采用了一种绿色环保的方法来提高效率。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/green；
 > - The plan offers a green option for small organizations. `[例]`
+  - 中译：该计划为小型组织提供了一个绿色环保的选项。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/green；
 
 
 ---

@@ -142,9 +142,17 @@ re-(再，反复) + gard(看，守护，日耳曼语系)
 
 > [!example]- 语料
 > - He is regarded as a tenacious and persistent interviewer. `[真题]`
+  - 中译：他被认为是一位坚韧而执着的采访者。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/regard；
 > - I have nothing to say with regard to your complaints. `[真题]`
+  - 中译：关于你的投诉，我没什么可说的。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/regard；
 > - A recent study of public opinion shows that in modern Britain people regard themselves socially different. `[真题]`
+  - 中译：最近的一项民意调查显示，在现代英国，人们认为自己在社会地位上各不相同。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/regard；
 > - Her parents always regarded her as the smartest of their children. `[例]`
+  - 中译：她的父母一直认为她是他们孩子中最聪明的一个。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/regard；
 
 
 ---

@@ -138,8 +138,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Those toilets smell foul! `[例]`
+>   - 中译：那些厕所臭气熏天！；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/foul；
 > - Why are you in such a foul mood this morning? `[例]`
+>   - 中译：你今天早上怎么心情这么差？；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/foul；
 > - I've had a foul day at work. `[例]`
+>   - 中译：我今天工作很不顺。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/foul；
 
 
 ---

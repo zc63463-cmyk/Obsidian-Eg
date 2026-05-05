@@ -127,8 +127,14 @@ near（近的）+ -ly（副词后缀，表示"以……方式"）
 
 > [!example]- 语料
 > - Over nearly four months , dozens of men made their way on horseback into Montana and traversed along the Yellowstone River and around Yellowstone Lake. `[真题]`
+> - 中译：在将近四个月的时间里，数十名男子骑马进入蒙大拿州，沿着黄石河行进，绕过黄石湖。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/nearly；
 > - It's been nearly three months since my last haircut. `[例]`
+> - 中译：我上次理发已经快三个月了。；
+> - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/nearly；
 > - I've nearly finished that book you lent me. `[例]`
+> - 中译：你借给我的那本书我快看完了。；
+> - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/nearly；
 
 
 ---

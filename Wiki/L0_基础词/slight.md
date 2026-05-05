@@ -151,8 +151,14 @@ review_count: 0
 
 > [!example]- 语料
 > - She had a slight headache. `[例]`
+  - 中译：她有点头痛。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/slight；
 > - Like most long-distance runners she is very slight. `[例]`
+  - 中译：像大多数长跑运动员一样，她身材非常瘦小。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/slight；
 > - It's a slight but enjoyable tale. `[例]`
+  - 中译：这是一个简短但有趣的故事。；
+  - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/slight；
 
 
 ---

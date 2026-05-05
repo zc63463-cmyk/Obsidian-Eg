@@ -126,8 +126,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The doctor prescribed two tablets to be taken three times a day after meals. `[真题]`
+>   - 中译：医生开了两片药，每日三次饭后服用。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/tablet；
 > - Ancient clay tablets found in Mesopotamia contain some of the earliest known written records. `[真题]`
+>   - 中译：在美索不达米亚发现的古代泥板包含一些已知最早的文字记录。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/tablet；
 > - Take two tablets three times a day for three months. `[例]`
+>   - 中译：每日三次，每次两片，连续服用三个月。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/tablet；
 
 
 ---

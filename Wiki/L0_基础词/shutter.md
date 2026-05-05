@@ -132,8 +132,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Some automakers are temporarily shuttering plants in response to falling demand. `[例]`
+  - 中译：一些汽车制造商因需求下降而暂时关闭工厂。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/shutter；
 > - We closed the shutters and withdrew into ourselves. `[例]`
+  - 中译：我们关上百叶窗，退回到自己的世界中。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/shutter；
 > - He took pictures by pressing the shutter release with his stronger left thumb. `[例]`
+  - 中译：他用更有力的左手拇指按下快门释放键来拍照。；
+  - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/shutter；
 
 
 ---

@@ -130,8 +130,14 @@ review_count: 0
 
 > [!example]- 语料
 > - She wants to stay at home and nurture her children. `[例]`
+>   - 中译：她想留在家里抚养孩子。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/nurture；
 > - A carefully nurtured garden. `[例]`
+>   - 中译：一个精心培育的花园。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/nurture；
 > - As a record company executive , his job is to nurture young talent. `[例]`
+>   - 中译：作为唱片公司高管，他的工作是培养年轻人才。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/nurture；
 
 
 ---

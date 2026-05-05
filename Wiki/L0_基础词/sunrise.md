@@ -126,8 +126,14 @@ sun(太阳) + rise(升起)
 
 > [!example]- 语料
 > - Renewable energy has become a sunrise industry in many countries. `[真题]`
+>   - 中译：可再生能源已成为许多国家的朝阳产业。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sunrise；
 > - In the morning I woke to a spectacular sunrise over the peaks. `[真题]`
+>   - 中译：早上醒来时，我看到了山峰上壮丽的日出。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/sunrise；
 > - You have to fast between sunrise and sunset. `[真题]`
+>   - 中译：你必须在日出和日落之间禁食。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sunrise；
 
 
 ---

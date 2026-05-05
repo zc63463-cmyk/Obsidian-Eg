@@ -129,8 +129,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Both leaders pledged to work together to prevent the proliferation of nuclear weapons. `[真题]`
+>   - 中译：两位领导人都承诺共同努力防止核武器扩散。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/weapon；
 > - Education is the most powerful weapon which you can use to change the world. `[例]`
+>   - 中译：教育是你可以用来改变世界的最强大的武器。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/weapon；
 > - The country has been accused of developing weapons of mass destruction. `[例]`
+>   - 中译：该国被指控发展大规模杀伤性武器。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/weapon；
 
 
 ---

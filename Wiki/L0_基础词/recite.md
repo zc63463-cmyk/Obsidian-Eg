@@ -133,9 +133,17 @@ recite 源自古法语 reciter，直接来自拉丁语 *recitare*（大声朗读
 
 > [!example]- 语料
 > - Each child had to recite a poem to the class during the school assembly. `[例]`
+  - 中译：在学校集会上，每个孩子都必须向全班同学朗诵一首诗。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/recite；
 > - All he could do was recite a list of government failings without offering any constructive solutions. `[例]`
+  - 中译：他所能做的只是列举政府的种种过失，却没有提出任何建设性的解决方案。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/recite；
 > - She was able to recite the entire speech from memory without looking at her notes once. `[例]`
+  - 中译：她能够凭记忆背诵整篇演讲稿，一次也没有看笔记。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/recite；
 > - The witness was called to recite the events of that day in precise detail before the court. `[例]`
+  - 中译：证人被传唤到法庭上详细叙述那天发生的事件。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/recite；
 
 
 ---

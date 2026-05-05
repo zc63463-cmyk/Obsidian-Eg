@@ -125,8 +125,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The delicious smell of freshly made coffee came from the kitchen. `[例]`
+  - 中译：食物很美味。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/delicious；
 > - This wine is delicious. `[例]`
+  - 中译：你做的饭菜真好吃！；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/delicious；
 > - I have some delicious gossip to tell you. `[例]`
+  - 中译：她发明了一道美味的新菜谱。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/delicious；
 
 
 ---

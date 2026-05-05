@@ -133,8 +133,14 @@ review_count: 0
 
 > [!example]- 语料
 > - If you drive a car all your life , the odds are that you'll have an accident at some point. `[例]`
+>   - 中译：如果你一辈子都开车，迟早会出事故的。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/odds；
 > - There are heavy odds against people succeeding in such a bad economic climate. `[例]`
+>   - 中译：在如此糟糕的经济环境下，人们成功的可能性很低。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/odds；
 > - What are the odds on him being (= do you think he will be) re-elected? `[例]`
+>   - 中译：他再次当选的可能性有多大？；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/odds；
 
 
 ---

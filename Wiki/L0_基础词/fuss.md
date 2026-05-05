@@ -128,8 +128,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Don't make a fuss about such a trivial matter. `[例]`
+  - 中译：不要为这么琐碎的事情大惊小怪。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fuss；
 > - She fussed over her children constantly, worrying about every little thing. `[例]`
+  - 中译：她总是对孩子们操心不已，每件小事都担心。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fuss；
 > - Please don't fuss, Mum. Everything's under control. `[例]`
+  - 中译：妈，请不要操心了。一切都在掌控之中。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fuss；
 
 
 ---

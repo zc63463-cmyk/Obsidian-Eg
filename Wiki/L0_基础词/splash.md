@@ -129,8 +129,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Water was splashing from a hole in the roof. `[例]`
+>   - 中译：水从屋顶的洞里飞溅出来。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/splash；
 > - Unfortunately some paint splashed onto the rug. `[例]`
+>   - 中译：不幸的是，一些油漆溅到了地毯上。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/splash；
 > - She splashed her face with cold water. `[例]`
+>   - 中译：她用冷水泼了泼脸。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/splash；
 
 
 ---

@@ -130,8 +130,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Sprinkle some roasted chopped nuts on top. `[例]`
+>   - 中译：在上面撒一些烤过的碎坚果。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/nut；
 > - Nuts and bolts are used to hold pieces of machinery together. `[例]`
+>   - 中译：螺母和螺栓用于将机器零件固定在一起。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/nut；
 > - What kind of nut would leave a car on a railway track? `[例]`
+>   - 中译：什么样的疯子会把车留在铁轨上？；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/nut；
 
 
 ---

@@ -133,8 +133,14 @@ review_count: 0
 
 > [!example]- 语料
 > - I'll call you when I've finished my homework. `[例]`
+>   - 中译：我做完作业后给你打电话。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/finish；
 > - Please place your questionnaire in the box when you're finished. `[例]`
+>   - 中译：完成后请将问卷放入箱中。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/finish；
 > - She finished the concert with a song from her first album. `[例]`
+>   - 中译：她以第一张专辑中的一首歌结束了音乐会。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/finish；
 
 
 ---

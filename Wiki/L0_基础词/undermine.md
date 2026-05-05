@@ -128,8 +128,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Criticism just undermines their confidence. `[例]`
-> - The incompetence and arrogance of the city’s administration have undermined public confidence in government. `[例]`
+>   - 中译：批评只会削弱他们的信心。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/undermine；
+> - The incompetence and arrogance of the city's administration have undermined public confidence in government. `[例]`
+>   - 中译：市政府的无能和傲慢已经削弱了公众对政府的信心。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/undermine；
 > - A succession of scandals and revelations has undermined the government over the past year. `[例]`
+>   - 中译：过去一年中，一连串的丑闻和曝光事件动摇了政府的根基。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/undermine；
 
 
 ---

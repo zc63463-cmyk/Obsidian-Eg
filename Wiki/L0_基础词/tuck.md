@@ -126,8 +126,14 @@ tuck 源自古英语 *tūcian*（折磨、拉扯），可能与中古低地德�
 
 > [!example]- 语料
 > - Should I tuck my shirt into my trousers? `[例]`
+>   - 中译：我应该把衬衫塞进裤子里吗？；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/tuck；
 > - He tucked the bottom of the sheet under the mattress. `[例]`
+>   - 中译：他把床单的底边塞进床垫下面。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/tuck；
 > - Tuck your gloves in your pocket so that you don't lose them. `[例]`
+>   - 中译：把手套塞进口袋里，以免弄丢。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/tuck；
 
 
 ---

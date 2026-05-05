@@ -131,8 +131,14 @@ review_count: 0
 > [!example]- 语料
 > - The Queen greeted the crowd with a gracious smile. `[真题]`
 > - She is a lovely and gracious woman. `[例]`
+  - 中译：她是一位可爱而和蔼的女性。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/gracious；
 > - Simon was gracious in defeat, but he couldn't mask the disappointment he felt. `[例]`
+  - 中译：西蒙在失败时表现得很体面，但他无法掩饰内心的失望。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/gracious；
 > - Good gracious, that was close! `[例]`
+  - 中译：天哪，好险啊！；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/gracious；
 
 
 ---

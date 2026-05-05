@@ -133,8 +133,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The place was packed, and guests were being turned away. `[真题]`
+>   - 中译：那个地方挤满了人，客人们都被拒之门外。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pack；
 > - All the children's relatives and friends were packed into the tiny theatre. `[真题]`
+>   - 中译：所有孩子的亲朋好友都挤进了那个小剧院。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pack；
 > - We're leaving early tomorrow morning , so you'd better pack (= put clothes and other possessions into suitcases or bags ) tonight. `[例]`
+>   - 中译：我们明天一早出发，你最好今晚就把行李收拾好。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pack；
 
 
 ---

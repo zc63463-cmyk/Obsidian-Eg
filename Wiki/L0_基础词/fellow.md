@@ -133,8 +133,14 @@ review_count: 0
 
 > [!example]- 语料
 > - She introduced me to some of her fellow students. `[例]`
+>   - 中译：她把我介绍给她的一些同学。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fellow；
 > - Our fellow travellers were mostly Spanish-speaking tourists. `[例]`
+>   - 中译：我们的同行旅客大多是说西班牙语的游客。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fellow；
 > - He seemed like a decent fellow. `[例]`
+>   - 中译：他看起来像个正派的家伙。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fellow；
 
 
 ---

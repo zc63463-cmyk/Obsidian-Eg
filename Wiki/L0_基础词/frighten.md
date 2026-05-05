@@ -129,8 +129,14 @@ fright(惊吓) + -en(使动后缀，使……变成)
 
 > [!example]- 语料
 > - He frightens me when he drives so fast. `[例]`
+>   - 中译：他开车那么快，让我害怕。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/frighten；
 > - You'll frighten the baby wearing that mask. `[例]`
+>   - 中译：你戴那个面具会吓到婴儿的。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/frighten；
 > - The noise frightened me to death (= made me feel extremely afraid ). `[例]`
+>   - 中译：那声响把我吓死了。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/frighten；
 
 
 ---

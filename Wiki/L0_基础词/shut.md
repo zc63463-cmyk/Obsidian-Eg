@@ -134,8 +134,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The factory was shut down because of the toxic emissions. `[例]`
+  - 中译：这家工厂因有毒排放物而被关闭。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/shut；
 > - She shut out her friends when she was upset. `[例]`
+  - 中译：她心烦意乱时把朋友们拒之门外。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/shut；
 > - Many small grocers were forced to shut up shop amid the freezing weather. `[例]`
+  - 中译：在严寒天气中，许多小杂货店被迫关门歇业。；
+  - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/shut；
 
 
 ---

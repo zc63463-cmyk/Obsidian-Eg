@@ -134,8 +134,14 @@ ward(看管，守卫) + robe(衣服，长袍)
 
 > [!example]- 语料
 > - She opened the wardrobe and took out a dark blue dress. `[例]`
+>   - 中译：她打开衣柜，拿出一件深蓝色的连衣裙。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/wardrobe；
 > - The bedroom has fitted wardrobes along one wall. `[例]`
+>   - 中译：卧室的一面墙上装有嵌入式衣柜。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/wardrobe；
 > - I need a new summer wardrobe (= new clothes for summer ). `[例]`
+>   - 中译：我需要一套新的夏装。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/wardrobe；
 
 
 ---

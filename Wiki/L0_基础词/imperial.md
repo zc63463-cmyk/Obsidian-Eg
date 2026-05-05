@@ -130,8 +130,14 @@ imper(命令/帝国，拉丁语 *imperare* 命令) + -ial(形容词后缀，表�
 
 > [!example]- 语料
 > - Imperial units have in many cases been replaced by metric ones in Britain. `[例]`
+  - 中译：在英国，英制单位在许多情况下已被公制单位取代。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/imperial；
 > - Suppliers will be told to change labels to imperial and metric on pre-packed foods. `[例]`
+  - 中译：供应商将被要求在预包装食品上将标签改为同时标注英制和公制。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/imperial；
 > - The glittering ceremony conjured up images of Russia's imperial past. `[例]`
+  - 中译：这场辉煌的仪式让人联想到俄罗斯帝国的过去。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/imperial；
 
 
 ---

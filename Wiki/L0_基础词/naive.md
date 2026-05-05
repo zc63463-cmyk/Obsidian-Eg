@@ -132,8 +132,14 @@ review_count: 0
 
 > [!example]- 语料
 > - She was very naive to believe that he'd stay with her. `[例]`
+> - 中译：她相信他会和她在一起，真是太天真了。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/naive；
 > - They make the naive assumption that because it's popular it must be good. `[例]`
+> - 中译：他们做了一个天真的假设：因为受欢迎，所以一定好。；
+> - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/naive；
 > - It was a little naive of you to think that they would listen to your suggestions. `[例]`
+> - 中译：你认为他们会听取你的建议，这有点天真。；
+> - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/naive；
 
 
 ---

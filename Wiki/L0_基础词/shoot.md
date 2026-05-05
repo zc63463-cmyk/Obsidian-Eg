@@ -138,8 +138,14 @@ review_count: 0
 
 > [!example]- 语料
 > - If he's not armed, don't shoot. `[真题]`
+  - 中译：如果他没带武器，就不要开枪。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/shoot；
 > - The kids were shooting arrows at a target. `[例]`
+  - 中译：孩子们正在朝靶子射箭。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/shoot；
 > - He has a licence to shoot pheasants on the farmer's land. `[例]`
+  - 中译：他有在农民土地上猎射野鸡的许可证。；
+  - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/shoot；
 
 
 ---

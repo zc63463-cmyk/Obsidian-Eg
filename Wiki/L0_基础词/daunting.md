@@ -128,8 +128,14 @@ daunt(恐吓/使畏缩，古法语 *danter*) + -ing(形容词后缀，表进行/
 
 > [!example]- 语料
 > - The country was faced with the daunting prospect of overcoming four decades of division. `[例]`
+  - 中译：该国面临着克服四十年分裂这一令人畏惧的前景。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/daunting；
 > - She has the daunting task of cooking for 20 people every day. `[例]`
+  - 中译：她承担着每天为20人做饭的艰巨任务。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/daunting；
 > - Starting a new job can be a daunting prospect. `[例]`
+  - 中译：开始一份新工作可能是一个令人胆怯的前景。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/daunting；
 
 
 ---

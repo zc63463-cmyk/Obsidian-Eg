@@ -130,8 +130,14 @@ review_count: 0
 
 > [!example]- 语料
 > - There aren't any porters, so we'll have to find a trolley for the luggage. `[例]`
+>   - 中译：这里没有行李员，所以我们得自己找一辆行李推车。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/porter；
 > - The porter opened the door for me and then called a taxi. `[例]`
+>   - 中译：行李员为我开了门，然后叫了一辆出租车。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/porter；
 > - When Arthur Guinness started to brew porter in his Dublin brewery , he created an insatiable demand for his dark , tangy beer. `[例]`
+>   - 中译：当亚瑟·吉尼斯开始在都柏林的啤酒厂酿造黑啤酒时，他创造了对这种深色、风味独特的啤酒的巨大需求。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/porter；
 
 
 ---

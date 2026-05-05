@@ -127,8 +127,14 @@ multi-(许多，多) + -tude(名词后缀，表示状态/程度，源自拉丁�
 
 > [!example]- 语料
 > - The city has a multitude of problems , from homelessness to drugs and murder. `[例]`
+> - 中译：这座城市有众多问题，从无家可归到毒品和谋杀。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/multitude；
 > - He stepped out onto the balcony to address the multitude below. `[例]`
+> - 中译：他走到阳台上向楼下的人群发表讲话。；
+> - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/multitude；
 > - She couldn't get through the multitude surrounding the stage. `[例]`
+> - 中译：她无法穿过围着舞台的人群。；
+> - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/multitude；
 
 
 ---

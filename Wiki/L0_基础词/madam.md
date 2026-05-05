@@ -126,8 +126,14 @@ review_count: 0
 
 > [!example]- 语料
 > - May I carry your suitcases for you, Madam? `[例]`
+> -   - 中译：夫人，我可以帮您提行李箱吗？；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/madam；
 > - Dear Madam, I am writing on behalf of your uncle,Mr James Ross. `[例]`
+> -   - 中译：尊敬的女士：；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/madam；
 > - She's turning into a proper little madam. `[例]`
+> -   - 中译：她正在变成一个十足的小刁蛮公主；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/madam；
 
 
 ---

@@ -132,9 +132,17 @@ via 本身就是拉丁语词根，意为"道路、路径"（拉丁语 *via*）�
 
 > [!example]- 语料
 > - I'll let her know via one of our friends. `[例]`
+>   - 中译：我会通过我们的一个朋友通知她。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/via；
 > - Light is channeled along the length of each cantilever via a waveguide, and exits at its tip. `[例]`
+>   - 中译：光通过波导沿每个悬臂的长度方向传导，并从其尖端射出。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/via；
 > - She returned home via Britain and France. `[例]`
+>   - 中译：她经由英国和法国回国。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/via；
 > - Technology allows relief workers to contact the outside world via satellite. `[例]`
+>   - 中译：技术使救援人员能够通过卫星与外界联系。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/via；
 
 
 ---

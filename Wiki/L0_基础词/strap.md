@@ -126,8 +126,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Could you help me fasten this strap around my suitcase? `[例]`
+>   - 中译：你能帮我把这条带子系在行李箱上吗？；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/strap；
 > - They repair watches , and stock a large selection of watch straps. `[例]`
+>   - 中译：他们修表，并备有大量表带可供选择。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/strap；
 > - She wore a pair of blue high heels with ankle straps. `[例]`
+>   - 中译：她穿了一双蓝色系带高跟鞋。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/strap；
 
 
 ---

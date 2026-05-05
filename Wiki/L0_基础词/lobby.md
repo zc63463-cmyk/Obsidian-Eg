@@ -127,8 +127,14 @@ lobby 源自中世纪拉丁语 *lobia*（游廊、走廊），源自古日耳曼
 
 > [!example]- 语料
 > - The group plans to lobby against the bill. `[例]`
+> -   - 中译：该团体计划游说反对这项法案；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lobby；
 > - They have been lobbying Congress to change the legislation concerning guns. `[例]`
+> -   - 中译：他们一直在游说国会修改有关枪支的法律；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lobby；
 > - As you enter the lobby, you’ll see the elevators on your right. `[例]`
+> -   - 中译：当你进入大厅时，你会看到电梯在你的右边；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lobby；
 
 
 ---

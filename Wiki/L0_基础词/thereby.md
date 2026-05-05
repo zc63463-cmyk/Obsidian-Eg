@@ -128,8 +128,14 @@ there(那个) + by(通过，借由)
 
 > [!example]- 语料
 > - Scientists need to respond to animal rights advocates, whose arguments are confusing the public and thereby threatening advances in health knowledge and care. `[真题]`
+>   - 中译：科学家需要回应动物权利倡导者，他们的论点正在迷惑公众，从而威胁到健康知识和护理的进步。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/thereby；
 > - They paid cash, thereby avoiding interest charges. `[例]`
+>   - 中译：他们用现金支付，从而避免了利息费用。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/thereby；
 > - He became a citizen, thereby gaining the right to vote. `[例]`
+>   - 中译：他成为了公民，从而获得了投票权。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/thereby；
 
 
 ---

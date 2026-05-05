@@ -129,8 +129,14 @@ review_count: 0
 
 > [!example]- 语料
 > - She is the new dean of the Faculty of Social Sciences. `[例]`
+  - 中译：她是社会科学学院的新院长。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/dean；
 > - Parsons is the dean of the TV news correspondents at Channel Nine. `[例]`
+  - 中译：帕森斯是九频道电视新闻记者中的资深人物。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/dean；
 > - Langer is the dean of the law school. `[例]`
+  - 中译：兰格是法学院院长。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/dean；
 
 
 ---

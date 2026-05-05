@@ -124,8 +124,14 @@ short(短的) + hand(手)
 
 > [!example]- 语料
 > - The term 'AI' has become a shorthand for any kind of automated technology. `[真题]`
+  - 中译：'AI'一词已成为任何类型自动化技术的简称。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/shorthand；
 > - Court reporters use shorthand to transcribe proceedings in real time. `[真题]`
+  - 中译：法庭记录员使用速记来转录庭审过程。；
+  - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/shorthand；
 > - Their conversations were taken down in shorthand by a secretary. `[例]`
+  - 中译：他们的谈话由一名秘书用速记记录下来。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/shorthand；
 
 
 ---

@@ -129,8 +129,14 @@ stamp 源自古英语 *stampian*（用力踩踏），与 [[st-sta-stat|st-/sta-/
 
 > [!example]- 语料
 > - A date stamp inside the front cover of a library book shows when it should be returned. `[例]`
+>   - 中译：图书馆书籍封面内侧的日期章显示了归还日期。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/stamp；
 > - Although this painting clearly bears the stamp of genius , we don't know who painted it. `[例]`
+>   - 中译：虽然这幅画明显带有天才的印记，但我们不知道是谁画的。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/stamp；
 > - Each manager has left his or her own stamp on the way the company has evolved. `[例]`
+>   - 中译：每位经理都在公司发展过程中留下了自己的印记。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/stamp；
 
 
 ---

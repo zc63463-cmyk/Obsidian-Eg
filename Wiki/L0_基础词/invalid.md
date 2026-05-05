@@ -129,8 +129,14 @@ in-(=not, 不) + [[val|val]](=强，拉丁语 *valere* "强壮") + -[[id-ident|i
 
 > [!example]- 语料
 > - The contract was declared invalid because it had not been properly signed. `[真题]`
+>   - 中译：该合同因未按规定签署而被宣布无效。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/invalid；
 > - His argument is based on invalid assumptions. `[例]`
+>   - 中译：他的论点建立在无效的假设之上。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/invalid；
 > - Any passport that has expired is considered invalid. `[例]`
+>   - 中译：任何过期的护照都被视为无效。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/invalid；
 
 
 ---

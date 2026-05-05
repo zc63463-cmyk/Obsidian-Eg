@@ -126,8 +126,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Many people are very concerned about the destruction of the rainforests. `[例]`
+  - 中译：战争造成了广泛的破坏。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/destruction；
 > - Unusually high winds left a trail of destruction over the area. `[例]`
+  - 中译：大规模杀伤性武器必须被消除。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/destruction；
 > - Weapons of mass destruction (= those which kill or hurt large numbers of people ). `[例]`
+  - 中译：雨林的破坏是一场环境灾难。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/destruction；
 
 
 ---

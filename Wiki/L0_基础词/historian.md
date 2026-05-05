@@ -126,8 +126,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Her father was an eminent historian. `[例]`
+  - 中译：她的父亲是一位杰出的历史学家。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/historian；
 > - This is the acclaimed historian John Taylor's first sortie into fiction. `[例]`
+  - 中译：这是备受赞誉的历史学家约翰·泰勒首次涉足小说创作。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/historian；
 > - Some historians think that history repeats itself. `[例]`
+  - 中译：一些历史学家认为历史会重演。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/historian；
 
 
 ---

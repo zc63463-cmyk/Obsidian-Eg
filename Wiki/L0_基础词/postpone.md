@@ -129,8 +129,14 @@ review_count: 0
 
 > [!example]- 语料
 > - They decided to postpone their holiday until next year. `[例]`
+>   - 中译：他们决定把假期推迟到明年。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/postpone；
 > - We've had to postpone go ing to France because the children are ill. `[例]`
+>   - 中译：因为孩子们生病了，我们不得不推迟去法国。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/postpone；
 > - The trip has been postponed twice. `[例]`
+>   - 中译：这次旅行已经被推迟了两次。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/postpone；
 
 
 ---

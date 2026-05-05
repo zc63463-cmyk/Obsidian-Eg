@@ -127,8 +127,14 @@ review_count: 0
 
 > [!example]- 语料
 > - In the distance , we could see a herd of elephants lumbering across the plain. `[例]`
+> -   - 中译：在远处，我们可以看到一群大象笨重地穿过平原；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lumber；
 > - A noisy , old , pickup truck lumbered past. `[例]`
+> -   - 中译：一辆吵闹的旧皮卡轰隆隆地驶过；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lumber；
 > - A lumber room (= for storing lumber in). `[例]`
+> -   - 中译：杂物间（用于存放木材等物品的房间）；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lumber；
 
 
 ---

@@ -124,8 +124,14 @@ rob（抢劫，古法语 *rober*，日耳曼语源，可能与 *reup-* "抓取"�
 
 > [!example]- 语料
 > - The illness robbed him of his ability to walk. `[真题]`
+  - 中译：疾病夺走了他行走的能力。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rob
 > - Two men robbed the bank at gunpoint. `[真题]`
+  - 中译：两名男子持枪抢劫了银行。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rob
 > - He was armed with a gun and robbed the bank of an undisclosed amount of money. `[真题]`
+  - 中译：他持枪抢劫了银行，劫走了未披露金额的现金。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rob
 
 
 ---

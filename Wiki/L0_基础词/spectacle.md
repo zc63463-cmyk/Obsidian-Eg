@@ -131,8 +131,14 @@ review_count: 0
 
 > [!example]- 语料
 > - It was a strange spectacle to see the two former enemies shaking hands and slapping each other on the back. `[例]`
+  - 中译：看到两个昔日的敌人握手拍背，是一幅奇特的景象。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/spectacle；
 > - We witnessed the extraordinary spectacle of an elderly lady climbing a tree to rescue her cat. `[例]`
+  - 中译：我们目睹了一位老奶奶爬树救猫的非凡景象。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/spectacle；
 > - The carnival was a magnificent spectacle. `[例]`
+  - 中译：狂欢节是一场壮观的景象。；
+  - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/spectacle；
 
 
 ---

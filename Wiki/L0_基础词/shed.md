@@ -141,8 +141,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The trees shed their leaves in the fall. `[真题]`
+  - 中译：树木在秋天落叶。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/shed；
 > - She shed no tears when she heard he was dead. `[真题]`
+  - 中译：听到他去世的消息时，她没有流一滴眼泪。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/shed；
 > - The candles shed a soft glow on her face. `[真题]`
+  - 中译：烛光在她脸上投下柔和的光辉。；
+  - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/shed；
 
 
 ---

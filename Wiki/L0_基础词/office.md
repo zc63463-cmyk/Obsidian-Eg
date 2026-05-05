@@ -129,8 +129,14 @@ of-（变体形式，源自拉丁语 *ob-* = to, toward）+ [[fac]]（做，拉�
 
 > [!example]- 语料
 > - They have offices in Paris , London, and Madrid. `[例]`
+>   - 中译：他们在巴黎、伦敦和马德里都设有办事处。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/office；
 > - I have an appointment at the physician's office on Tuesday. `[例]`
+>   - 中译：我周二在医生诊所约了门诊。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/office；
 > - Tyler went to the dentist's office for a routine checkup. `[例]`
+>   - 中译：泰勒去牙医诊所做常规检查。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/office；
 
 
 ---

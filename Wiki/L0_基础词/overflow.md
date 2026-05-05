@@ -126,8 +126,14 @@ over-(过度/超过) + flow(流)
 
 > [!example]- 语料
 > - The hikers rested under a towering overflow near the coastal trail. `[例]`
+>   - 中译：徒步旅行者在海岸步道附近一个高耸的溢流处休息。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/overflow；
 > - The cabin was built from durable overflow gathered in the region. `[例]`
+>   - 中译：小木屋是用该地区收集的耐用的溢流材料建造的。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/overflow；
 > - A line of overflow trees rose above the morning fog. `[例]`
+>   - 中译：一排溢流树从晨雾中升起。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/overflow；
 
 
 ---

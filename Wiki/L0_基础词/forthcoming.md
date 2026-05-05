@@ -122,8 +122,14 @@ review_count: 0
 
 > [!example]- 语料
 > - We have just received the information about the forthcoming conference. `[例]`
+>   - 中译：我们刚刚收到了关于即将召开的会议的信息。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/forthcoming；
 > - I had difficulty getting any details . He wasn't very forthcoming. `[例]`
+>   - 中译：我很难获取任何细节。他不太愿意透露。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/forthcoming；
 > - No explanation for his absence was forthcoming. `[例]`
+>   - 中译：对他的缺席没有给出任何解释。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/forthcoming；
 
 
 ---

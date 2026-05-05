@@ -128,8 +128,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Eight British monarchs have been crowned during his residency. `[真题]`
+> - 中译：在他任职期间共有八位英国君主加冕。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/monarch；
 > - But as he formally became absolute monarch of the tiny South Pacific nation he offered to give up most of his powers. `[真题]`
+> - 中译：但当他正式成为这个南太平洋小国的绝对君主时，他主动提出放弃大部分权力。；
+> - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/monarch；
 > - Saudi Arabia remains a kingdom with a monarch as its active chief of state. `[真题]`
+> - 中译：沙特阿拉伯仍然是一个以君主为国家实际元首的王国。；
+> - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/monarch；
 
 
 ---

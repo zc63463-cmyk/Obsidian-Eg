@@ -138,8 +138,14 @@ flash 源自中古英语 *flashen*（突然发光），可能是拟声词，模�
 
 > [!example]- 语料
 > - Stop flashing that light in my eyes! `[例]`
+>   - 中译：别用那个灯晃我的眼睛！；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/flash；
 > - The lightning flashed and distant thunder rolled. `[例]`
+>   - 中译：闪电划过，远处雷声隆隆。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/flash；
 > - You'd better slow down, that car was flashing its lights at you. `[例]`
+>   - 中译：你最好慢点，那辆车在向你闪灯。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/flash；
 
 
 ---

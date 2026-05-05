@@ -126,9 +126,17 @@ review_count: 0
 
 > [!example]- 语料
 > - She is a lovely and gracious woman with a graceful manner. `[例]`
+  - 中译：她是一位可爱而和蔼的女性，举止优雅。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/graceful；
 > - He could have withdrawn it in a more graceful way. `[例]`
+  - 中译：他本可以以更体面的方式撤回。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/graceful；
 > - There was no graceful way to say no to their offer. `[例]`
+  - 中译：没有体面的方式来拒绝他们的提议。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/graceful；
 > - With a silent, graceful dive, she disappeared beneath the surface of the lake. `[例]`
+  - 中译：随着一个无声而优雅的跳水，她消失在湖面之下。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/graceful；
 
 
 ---

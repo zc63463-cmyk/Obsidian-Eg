@@ -137,8 +137,14 @@ review_count: 0
 
 > [!example]- 语料
 > - She's been dead for 20 years now. `[例]`
+  - 中译：她已经去世二十年了。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/dead；
 > - The motorcyclist was dead on arrival at the hospital. `[例]`
+  - 中译：摩托车手送到医院时已经死亡。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/dead；
 > - He was shot dead (= killed by shooting ) outside his home. `[例]`
+  - 中译：他在家门外被枪杀。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/dead；
 
 
 ---

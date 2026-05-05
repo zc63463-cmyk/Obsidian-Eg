@@ -130,8 +130,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The researchers proposed a whole solution to the problem. `[例]`
+>   - 中译：研究人员提出了一个完整的解决方案。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/whole；
 > - The company adopted a whole approach to improve efficiency. `[例]`
+>   - 中译：公司采用了一种全面的方法来提高效率。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/whole；
 > - The plan offers a whole option for small organizations. `[例]`
+>   - 中译：该计划为小型组织提供了一个完整的选项。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/whole；
 
 
 ---

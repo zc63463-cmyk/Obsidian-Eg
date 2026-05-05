@@ -126,8 +126,14 @@ quant（多少，拉丁语 *quantus*）+ -ify（使动后缀，"使成为"）
 
 > [!example]- 语料
 > - It's difficult to quantify how many people will be affected by the change. `[例]`
+>   - 中译：很难量化有多少人会受到这一变化的影响。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/quantify；
 > - It’s difficult to quantify how many people will have to pay higher taxes. `[例]`
+>   - 中译：很难量化有多少人将不得不缴纳更高的税款。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/quantify；
 > - The economic costs of IT complexity are hard to quantify. `[例]`
+>   - 中译：IT复杂性的经济成本很难量化。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/quantify；
 
 
 ---

@@ -121,8 +121,14 @@ review_count: 0
 
 > [!example]- 语料
 > - New York is very hot and humid in the summer. `[例]`
+  - 中译：纽约的夏天非常炎热潮湿。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/humid；
 > - These ferns will grow best in a humid atmosphere. `[例]`
+  - 中译：这些蕨类植物在潮湿的环境中生长最好。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/humid；
 > - The island is hot and humid in the summer. `[例]`
+  - 中译：这座岛夏天炎热潮湿。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/humid；
 
 
 ---

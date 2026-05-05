@@ -131,9 +131,17 @@ reck（计算，源自古英语 *recan*，计算/考虑）+ -on（动词后缀�
 
 > [!example]- 语料
 > - While alternative estimates of the damage from carbon emissions differ, and it is especially hard to reckon the likely costs of possible catastrophic climate events, most estimates suggest substantial negative effects. `[例]`
+  - 中译：虽然对碳排放损害的替代估计有所不同，而且特别难以估算可能发生的灾难性气候事件的潜在成本，但大多数估计都表明会产生重大的负面影响。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/reckon；
 > - She was widely reckoned to be the best actress of her generation after winning three consecutive Academy Awards. `[例]`
+  - 中译：在连续获得三项奥斯卡奖后，她被广泛认为是她那一代最好的女演员。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/reckon；
 > - We'll have to leave early, I reckon, if we want to beat the traffic and arrive on time. `[例]`
+  - 中译：我想我们得早点出发，如果想避开交通拥堵按时到达的话。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/reckon；
 > - The trade unions proved to be a political force to be reckoned with during the national labour negotiations. `[例]`
+  - 中译：在全国劳资谈判中，工会证明了自己是一支不可忽视的政治力量。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/reckon；
 
 
 ---

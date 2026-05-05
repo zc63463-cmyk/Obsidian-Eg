@@ -124,8 +124,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The local people showed me great hospitality. `[例]`
+  - 中译：当地人对我表现出了极大的热情好客。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hospitality；
 > - The restaurant guide is independent and we do not accept any free hospitality. `[例]`
+  - 中译：这份餐厅指南是独立的，我们不接受任何免费款待。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hospitality；
 > - The company's guests are entertained in the corporate hospitality area. `[例]`
+  - 中译：公司的客人在企业接待区受到款待。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hospitality；
 
 
 ---

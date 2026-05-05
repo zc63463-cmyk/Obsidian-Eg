@@ -125,8 +125,14 @@ where（哪里/在……的地方）+ as（如同/既然）。where 源自古英
 
 > [!example]- 语料
 > - She actually enjoys confrontation, whereas I prefer a quiet life. `[真题]`
+>   - 中译：她实际上喜欢对抗，而我更喜欢平静的生活。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/whereas；
 > - He works slowly and precisely whereas I tend to rush things and make mistakes. `[真题]`
+>   - 中译：他工作缓慢而精确，而我倾向于匆忙行事并犯错。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/whereas；
 > - Pensions are linked to inflation, whereas they should be linked to the cost of living. `[真题]`
+>   - 中译：养老金与通胀挂钩，而它们应该与生活成本挂钩。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/whereas；
 
 
 ---

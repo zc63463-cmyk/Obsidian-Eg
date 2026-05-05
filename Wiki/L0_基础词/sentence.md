@@ -137,8 +137,14 @@ review_count: 0
 
 > [!example]- 语料
 > - He's very impatient and always interrupts me mid-sentence. `[例]`
+  - 中译：他非常不耐烦，总是打断我说话说到一半。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sentence
 > - Your conclusion is good, but the final sentence is too long and complicated. `[例]`
+  - 中译：你的结论很好，但最后一句太长太复杂了。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sentence
 > - Bob ' is the subject of the sentence ' Bob threw the ball '. `[例]`
+  - 中译：'Bob'是句子'Bob threw the ball'的主语。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sentence
 
 
 ---

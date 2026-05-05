@@ -121,8 +121,14 @@ ex-(出，超出) + [[ced-cess|ceed]](走) + -ing(现在分词) + -ly(副词后�
 
 > [!example]- 语料
 > - He was clever , handsome , and exceedingly rich. `[例]`
+  - 中译：他聪明、英俊，而且极其富有。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/exceedingly；
 > - He is exceedingly rich. `[例]`
+  - 中译：他极其富有。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/exceedingly；
 > - The weather was exceedingly cold. `[例]`
+  - 中译：天气异常寒冷。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/exceedingly；
 
 
 ---

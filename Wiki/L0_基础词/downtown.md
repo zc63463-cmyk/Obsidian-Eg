@@ -128,8 +128,14 @@ review_count: 0
 
 > [!example]- 语料
 > - She works for a law firm in downtown Miami. `[真题]`
+>   - 中译：她在迈阿密市中心的一家律师事务所工作。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/downtown；
 > - There is heavy traffic in the downtown area tonight. `[真题]`
+>   - 中译：今晚市中心交通拥堵严重。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/downtown；
 > - We are heading downtown for dinner and a show. `[真题]`
+>   - 中译：我们正前往市中心吃晚餐和看演出。；
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/downtown；
 
 
 ---

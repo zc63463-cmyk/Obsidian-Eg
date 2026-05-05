@@ -127,8 +127,14 @@ review_count: 0
 
 > [!example]- 语料
 > - We must be willing to discard outdated assumptions and embrace new ways of thinking. `[COCA-ACAD]`
+>   - 中译：我们必须愿意抛弃过时的假设，拥抱新的思维方式。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/discard；
 > - Cut the melon in half and discard the seeds. `[COCA-NEWS]`
+>   - 中译：将西瓜切成两半，去掉籽。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/discard；
 > - He makes toys from things people discard. `[BNC-SPOKEN]`
+>   - 中译：他用人们丢弃的东西制作玩具。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/discard；
 
 
 ---

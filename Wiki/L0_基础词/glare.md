@@ -131,8 +131,14 @@ gl-（光/视觉词根，印欧语系 *ghel-* "发光"）+ -are（动词后缀�
 
 > [!example]- 语料
 > - Living in a glare of our making, we have cut ourselves off from our evolutionary and cultural heritage—the light of the stars and the rhythms of day and night. `[真题]`
+>   - 中译：生活在人造的强光中，我们切断了与自身进化和文化遗产的联系——星光以及昼夜的节律。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/glare；
 > - The most glaring flaw of the social cure as it's presented here is that it doesn't work very well for very long. `[真题]`
+>   - 中译：这里所呈现的“社会疗法”最明显的缺陷是，它并不能长期有效地发挥作用。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/glare；
 > - He glared at me for a few seconds and nodded, the fierce expression still on his face. `[真题]`
+>   - 中译：他怒视了我几秒钟，然后点了点头，脸上仍然带着凶狠的表情。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/glare；
 
 
 ---

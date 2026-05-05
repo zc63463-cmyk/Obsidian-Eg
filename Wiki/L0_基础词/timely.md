@@ -129,8 +129,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The change in the exchange rate provided a timely boost to the company's falling profits. `[例]`
+>   - 中译：汇率的变化为公司不断下降的利润提供了及时的提振。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/timely；
 > - A nasty incident was prevented by the timely arrival of the police. `[例]`
+>   - 中译：由于警察及时赶到，一起恶性事件得以避免。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/timely；
 > - This has been a timely reminder to us all. `[例]`
+>   - 中译：这对我们所有人都是一个及时的提醒。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/timely；
 
 
 ---

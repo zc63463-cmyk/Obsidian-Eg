@@ -143,9 +143,17 @@ review_count: 0
 
 > [!example]- 语料
 > - It is impossible that a single shot of education, administered in childhood and early adulthood, will be able to support a sustained, 60-year career. `[真题]`
+  - 中译：仅在童年和成年早期接受的一次性教育，不可能支撑长达60年的职业生涯。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/shot；
 > - Police frequent the area day and night, as two months ago, a young man was shot just down the street. `[真题]`
+  - 中译：警察日夜在该区域巡逻，因为两个月前就在这条街上，一名年轻人被枪击。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/shot；
 > - I've never tried bowling before, but I thought I'd give it a shot. `[例]`
+  - 中译：我以前从未尝试过保龄球，但我想试一试。；
+  - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/shot；
 > - Just give it your best shot and you'll be fine. `[例]`
+  - 中译：尽你最大的努力去做，你会没事的。；
+  - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/shot；
 
 
 ---

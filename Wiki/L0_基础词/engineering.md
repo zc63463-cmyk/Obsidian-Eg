@@ -126,8 +126,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The Eiffel Tower is a remarkable feat of engineering. `[例]`
+>   - 中译：埃菲尔铁塔是一项了不起的工程壮举。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/engineering；
 > - Richard studied engineering at MIT. `[例]`
+>   - 中译：理查德在麻省理工学院学习工程学。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/engineering；
 > - She wants to encourage more women into engineering. `[例]`
+>   - 中译：她希望鼓励更多女性从事工程行业。；
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/engineering；
 
 
 ---

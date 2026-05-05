@@ -125,8 +125,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The best films are those which transcend national or cultural barriers. `[例]`
+>   - 中译：最好的电影是那些超越国家或文化障碍的影片。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/transcend；
 > - The underlying message of the film is that love transcends everything else. `[例]`
+>   - 中译：这部电影的深层含义是爱超越一切。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/transcend；
 > - The group makes music that transcends traditional pop categories. `[例]`
+>   - 中译：这个乐队创作的音乐超越了传统的流行音乐分类。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/transcend；
 
 
 ---

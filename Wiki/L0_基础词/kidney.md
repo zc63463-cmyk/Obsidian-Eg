@@ -122,9 +122,17 @@ kidney 源自古英语 *cwiðe*，与 kid（小山羊）形似但词源不同。
 
 > [!example]- 语料
 > - You can live with just part of a liver or a colon, or only one kidney or lung. `[真题]`
+>   - 中译：人即使只有部分肝脏或结肠，或者只有一个肾脏或肺也能存活。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/kidney；
 > - Several of the patients had received kidney transplant. `[例]`
+>   - 中译：几名患者接受了肾脏移植手术。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/kidney；
 > - More than a third of those waiting need a new kidney and have to be hooked up to a dialysis machine four times a week. `[例]`
+>   - 中译：等待者中超过三分之一的人需要新的肾脏，并且每周必须连接透析机四次。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/kidney；
 > - She urgently needs a kidney transplant. `[例]`
+>   - 中译：她急需肾脏移植。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/kidney；
 
 
 ---

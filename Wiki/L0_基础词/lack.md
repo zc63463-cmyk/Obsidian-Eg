@@ -130,8 +130,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Her only problem is a lack of confidence. `[例]`
+>   - 中译：她唯一的问题是缺乏自信。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lack；
 > - He just lacks a little confidence. `[例]`
+>   - 中译：他只是缺少一点自信。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lack；
 > - What we lack in this house is space to store things. `[例]`
+>   - 中译：我们这所房子缺少的是存放东西的空间。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lack；
 
 
 ---

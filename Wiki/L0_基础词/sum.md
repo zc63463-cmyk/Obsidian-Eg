@@ -129,8 +129,14 @@ review_count: 0
 
 > [!example]- 语料
 > - To sum up, the evidence suggests that climate change is accelerating. `[真题]`
+>   - 中译：总而言之，证据表明气候变化正在加速。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sum；
 > - He donated a large sum of money to the orphanage. `[真题]`
+>   - 中译：他向孤儿院捐赠了一大笔钱。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/sum；
 > - Huge sums of money are spent on national defence. `[例]`
+>   - 中译：巨额资金被用于国防。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sum；
 
 
 ---

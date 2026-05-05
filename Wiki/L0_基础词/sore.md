@@ -128,8 +128,14 @@ sore（疼痛的，基础词汇，源自古英语 *sār*，PIE *\*sai-* "痛苦"
 
 > [!example]- 语料
 > - All the dust has made my eyes sore. `[例]`
+  - 中译：所有的灰尘让我的眼睛发疼。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/sore；
 > - My feet were sore with all the walking. `[例]`
+  - 中译：走了这么多路，我的脚很酸痛。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/sore；
 > - He accused me of being a sore loser (= someone who does not accept defeat well). `[例]`
+  - 中译：他指责我是一个输不起的人。；
+  - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/sore；
 
 
 ---

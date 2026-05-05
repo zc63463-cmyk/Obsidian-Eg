@@ -121,9 +121,17 @@ review_count: 0
 
 > [!example]- 语料
 > - The Ministry of Health has issued new guidelines for food safety. `[真题]`
+> - 中译：卫生部发布了新的食品安全指南。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ministry；
 > - He decided to enter the ministry after graduating from theology school. `[真题]`
+> - 中译：他从神学院毕业后决定从事牧师工作。；
+> - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/ministry；
 > - The Ministry of Education approved a new curriculum for secondary schools. `[真题]`
+> - 中译：教育部批准了中学的新课程。；
+> - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/ministry；
 > - He immediately fired off an angry letter to his ministry colleagues. `[真题]`
+> - 中译：他立即给部门同事发了一封愤怒的信。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ministry；
 
 
 ---

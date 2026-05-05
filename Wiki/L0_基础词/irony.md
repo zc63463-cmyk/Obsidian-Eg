@@ -129,8 +129,14 @@ iron（铁）+ -y(名词后缀)
 
 > [!example]- 语料
 > - The irony is that the technology designed to save time often ends up consuming more of it. `[真题]`
+>   - 中译：讽刺的是，旨在节省时间的技术往往最终消耗了更多时间。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/irony；
 > - It is a bitter irony that the man who devoted his life to environmental protection died from pollution-related illness. `[真题]`
+>   - 中译：一个毕生致力于环境保护的人却死于与污染相关的疾病，这是一个令人痛苦的讽刺。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/irony；
 > - The irony is that the new tax system will burden those it was intended to help. `[真题]`
+>   - 中译：讽刺的是，新税制反而会加重那些本应受到帮助的人的负担。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/irony；
 
 
 ---

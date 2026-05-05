@@ -126,8 +126,14 @@ short(短的，不够) + -age(名词后缀，表状态/结果)
 
 > [!example]- 语料
 > - American farmers have been complaining of labor shortages for several years. `[真题]`
+  - 中译：美国农民多年来一直抱怨劳动力短缺。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/shortage；
 > - Water shortages and droughts will become more common as global climatic changes accelerate. `[真题]`
+  - 中译：随着全球气候变化加速，水资源短缺和干旱将变得更加普遍。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/shortage；
 > - The country is facing a severe shortage of medical supplies. `[真题]`
+  - 中译：该国正面临医疗物资严重短缺。；
+  - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/shortage；
 
 
 ---

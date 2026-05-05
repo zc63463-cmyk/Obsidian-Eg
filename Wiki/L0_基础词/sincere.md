@@ -136,8 +136,14 @@ sin-(没有，否定) + cere(蜡，拉丁语 *cera*) → 没有掺蜡的 → 纯
 
 > [!example]- 语料
 > - He offered a sincere apology for the mistake he had made. `[真题]`
+  - 中译：他为自己所犯的错误表示了诚挚的道歉。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/sincere；
 > - She has a sincere interest in painting and spends hours in the studio every week. `[例]`
+  - 中译：她对绘画有着真诚的兴趣，每周在画室里待上好几个小时。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/sincere；
 > - If the desire to convert is sincere, a relationship can begin between the two parties. `[真题]`
+  - 中译：如果皈依的愿望是真诚的，双方之间就可以开始建立关系。；
+  - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/sincere；
 
 
 ---

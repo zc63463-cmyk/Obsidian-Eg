@@ -120,8 +120,14 @@ review_count: 0
 
 > [!example]- 语料
 > - A one-megawatt turbine can produce enough electricity annually to meet the needs of 700 households. `[例]`
+>   - 中译：一台一兆瓦的涡轮机每年可以生产足够的电力满足700户家庭的需求。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/turbine；
 > - The flow of water drives the turbine, which is connected to an electrical generator to produce electricity. `[例]`
+>   - 中译：水流驱动涡轮机，涡轮机连接发电机以产生电力。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/turbine；
 > - Gas turbines can be used to generate electricity. `[例]`
+>   - 中译：燃气涡轮机可用于发电。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/turbine；
 
 
 ---

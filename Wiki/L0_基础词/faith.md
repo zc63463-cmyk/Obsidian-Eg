@@ -133,8 +133,14 @@ faith 源自拉丁语 *fides*（信任、信仰），与 [[fidel]]（忠诚的�
 
 > [!example]- 语料
 > - She has no faith in modern medicine. `[例]`
+  - 中译：她对现代医学没有信心。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/faith；
 > - You'll cope - I have great faith in you. `[例]`
+  - 中译：你会应付的——我对你很有信心。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/faith；
 > - After the trial , his family said they had lost all faith in the judicial system. `[例]`
+  - 中译：审判结束后，他的家人说他们对司法系统已完全失去信心。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/faith；
 
 
 ---

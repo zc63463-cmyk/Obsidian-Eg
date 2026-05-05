@@ -128,8 +128,14 @@ review_count: 0
 
 > [!example]- 语料
 > - A brass door knob. `[例]`
+>   - 中译：一个黄铜门把手。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/knob；
 > - Put a knob of butter in the frying pan. `[例]`
+>   - 中译：在煎锅里放一小块黄油。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/knob；
 > - Don't be such a knob. `[例]`
+>   - 中译：别这么蠢。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/knob；
 
 
 ---

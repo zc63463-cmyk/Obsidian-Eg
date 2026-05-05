@@ -134,8 +134,14 @@ medal 直接来自意大利语 *medaglia*，最终源自拉丁语 *metallum*（�
 
 > [!example]- 语料
 > - He received a medal for his service in the war. `[COCA-NEWS]`
+> -   - 中译：他因在战争中的服役而获得了一枚勋章；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/medal；
 > - She is one of our best hopes for an Olympic medal. `[COCA-NEWS]`
+> -   - 中译：她是我们最有希望获得奥运奖牌的选手之一；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/medal；
 > - That brings Britain's medal haul to six—two golds, three silvers and a bronze. `[BNC-SPOKEN]`
+> -   - 中译：这使得英国的奖牌总数达到六枚——两金三银一铜；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/medal；
 
 
 ---

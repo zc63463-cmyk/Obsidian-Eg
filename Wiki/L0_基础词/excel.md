@@ -123,8 +123,14 @@ ex-(出，超出) + cel(升高，超越)
 
 > [!example]- 语料
 > - Rebecca always excelled in languages at school. `[例]`
+  - 中译：丽贝卡在学校时语言方面一直很出色。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/excel；
 > - The British team have excelled themselves this year to reach the finals. `[例]`
+  - 中译：英国队今年表现出色，进入了决赛。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/excel；
 > - The woman who did the flower arranging had excelled herself that day. `[例]`
+  - 中译：那天负责插花的女士表现得格外出色。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/excel；
 
 
 ---

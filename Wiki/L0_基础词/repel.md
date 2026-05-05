@@ -133,9 +133,17 @@ re-（[[re-|回，反向]]）+ pel（[[pel|推，驱赶]]，拉丁语 *pellere*�
 
 > [!example]- 语料
 > - The defenders repelled the attack without losing any men. `[COCA-ACAD]`
+  - 中译：防守者击退了进攻，没有损失任何人员。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/repel；
 > - This coat has a special surface that repels moisture. `[COCA-NEWS]`
+  - 中译：这件外套有特殊的表面，可以防水。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/repel；
 > - Similar poles of magnets repel each other, and opposite poles attract. `[COCA-ACAD]`
+  - 中译：磁铁的同极相斥，异极相吸。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/repel；
 > - Her arrogance repels many people. `[BNC-SPOKEN]`
+  - 中译：她的傲慢让许多人反感。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/repel；
 
 
 ---

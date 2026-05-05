@@ -125,9 +125,17 @@ review_count: 0
 
 > [!example]- 语料
 > - The government has raised the minimum wage to improve living standards. `[真题]`
+> - 中译：政府提高了最低工资以改善生活水平。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/minimum；
 > - We need to keep expenses to a minimum while maintaining quality. `[真题]`
+> - 中译：我们需要在保持质量的同时将开支降到最低。；
+> - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/minimum；
 > - Applicants must have a minimum of three years' experience in the field. `[真题]`
+> - 中译：申请人必须在该领域有至少三年的经验。；
+> - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/minimum；
 > - The new law sets minimum requirements for food safety standards. `[真题]`
+> - 中译：新法律对食品安全标准设定了最低要求。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/minimum；
 
 
 ---

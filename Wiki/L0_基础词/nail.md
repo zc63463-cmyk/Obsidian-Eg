@@ -136,8 +136,14 @@ review_count: 0
 
 > [!example]- 语料
 > - I stepped on a nail sticking out of the floorboards. `[例]`
+> - 中译：我踩到了地板上翘起的一根钉子。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/nail；
 > - Stop biting your nails! `[例]`
+> - 中译：别咬指甲了！；
+> - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/nail；
 > - She had nailed a small shelf to the door. `[例]`
+> - 中译：她把一个小架子钉在了门上。；
+> - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/nail；
 
 
 ---

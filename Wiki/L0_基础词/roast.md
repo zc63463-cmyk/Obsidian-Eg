@@ -127,8 +127,14 @@ roast（烤，古法语 *rostir*，可能来自日耳曼语源，与 *rust* "红
 
 > [!example]- 语料
 > - Roast lamb with all the trimmings is my favourite meal. `[真题]`
+  - 中译：配上各种配菜的烤羊排是我最爱吃的菜。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/roast
 > - The restaurant is famous for its roast duck. `[真题]`
+  - 中译：这家餐厅以烤鸭闻名。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/roast
 > - The comedian roasted the audience with sharp wit. `[真题]`
+  - 中译：喜剧演员以犀利的机智调侃了观众。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/roast
 
 
 ---

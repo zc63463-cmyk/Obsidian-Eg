@@ -124,9 +124,17 @@ re-(回/靠近) + [[proach-prox|proach]](接近，[[proach-prox]])
 
 > [!example]- 语料
 > - He's still reproaching himself for the accident. `[COCA-ACAD]`
+  - 中译：他仍在为那场事故自责。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/reproach；
 > - Her conduct had always been beyond reproach. `[COCA-ACAD]`
+  - 中译：她的行为一直无可指责。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/reproach；
 > - He was the only politician who was beyond reproach. `[COCA-NEWS]`
+  - 中译：他是唯一一位无可指责的政治家。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/reproach；
 > - He glanced at her with reproach. `[BNC-SPOKEN]`
+  - 中译：他带着责备的目光看了她一眼。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/reproach；
 
 
 ---

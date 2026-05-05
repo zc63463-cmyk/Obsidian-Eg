@@ -130,8 +130,14 @@ re-(=again，再，前缀 [[re-]]) + cur(=run，跑，拉丁语 *currere*)
 
 > [!example]- 语料
 > - Water, a symbol of life, recurs as an image throughout her poems. `[真题]`
+  - 中译：水作为生命的象征，在她的诗歌中反复出现。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/recur；
 > - If the symptoms recur, visit your doctor. `[真题]`
+  - 中译：如果症状复发，请去看医生。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/recur；
 > - The theme of loss recurs throughout much of his writing. `[真题]`
+  - 中译：失去这一主题在他的许多作品中反复出现。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/recur；
 
 
 ---

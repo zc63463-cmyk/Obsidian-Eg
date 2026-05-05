@@ -141,9 +141,14 @@ review_count: 0
 
 > [!example]- 语料
 > - You can copy and paste the text into a blank document before printing it out. `[例]`
+  - 中译：你可以将文本复制粘贴到空白文档中，然后再打印出来。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/paste；
 > - She pasted the poster onto the wall using adhesive tape. `[例]`
+  - 中译：她用胶带把海报贴在了墙上。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/paste；
 > - The recipe calls for tomato paste to be added to the sauce. `[例]`
-
+  - 中译：食谱要求在酱汁中加入番茄酱。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/paste；
 
 ---
 

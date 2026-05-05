@@ -124,10 +124,17 @@ review_count: 0
 
 > [!example]- 语料
 > - Despite a number of setbacks, they persevered in their attempts to fly around the world in a balloon. `[真题]`
+  - 中译：尽管遭遇了多次挫折，他们仍然坚持尝试乘气球环游世界。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/persevere；
 > - She persevered with her violin lessons despite the difficulties. `[例]`
+  - 中译：尽管困难重重，她仍然坚持上小提琴课。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/persevere；
 > - He persevered with his task until he had succeeded in collecting an armful of firewood. `[例]`
+  - 中译：他坚持自己的任务，直到成功收集到一抱柴火。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/persevere；
 > - Despite receiving little support, the women are persevering with their crusade to fight crime. `[例]`
-
+  - 中译：尽管获得的支持很少，这些女性仍在坚持她们打击犯罪的运动。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/persevere；
 
 ---
 

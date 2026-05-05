@@ -133,8 +133,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The news of his death was splashed in headlines across all the newspapers. `[例]`
+  - 中译：他去世的消息以大标题刊登在所有报纸上。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/headline；
 > - She has grabbed the headlines by making public accusations of corruption within the government. `[例]`
+  - 中译：她通过公开指控政府内部腐败而成为头条新闻。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/headline；
 > - This was the front-page headline of the Sun newspaper after the election. `[例]`
+  - 中译：这是选举后《太阳报》的头版头条。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/headline；
 
 
 ---

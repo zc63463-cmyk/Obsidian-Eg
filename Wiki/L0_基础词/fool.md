@@ -134,8 +134,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Don't be fooled by his appearance. `[例]`
+>   - 中译：不要被他的外表所欺骗。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fool；
 > - You fool, you missed your chance! `[例]`
+>   - 中译：你这个傻瓜，你错过了机会！；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fool；
 > - He's a fool if he thinks she still loves him. `[例]`
+>   - 中译：如果他以为她还爱他，那他就是个傻瓜。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fool；
 
 
 ---

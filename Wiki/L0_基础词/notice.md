@@ -131,8 +131,14 @@ not-(知道，拉丁语 *noscere* 的过去分词 *notus*) + -ice(名词后缀)
 
 > [!example]- 语料
 > - Directions: Write a notice to recruit a student for Prof. `[真题]`
+>   - 中译： Directions: Write a notice to recruit a student for Prof.；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/notice；
 > - Do not use your own name in the notice. `[真题]`
+>   - 中译：Do not use your own name in the notice.；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/notice；
 > - Mary waved at the man but he didn't seem to notice. `[例]`
+>   - 中译：玛丽向那个男人挥手，但他似乎没有注意到。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/notice；
 
 
 ---

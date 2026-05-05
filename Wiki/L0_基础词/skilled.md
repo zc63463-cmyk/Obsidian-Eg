@@ -141,8 +141,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Unskilled workers usually earn less money than skilled workers in the same industry. `[例]`
+  - 中译：在同一行业中，非熟练工人通常比熟练工人收入低。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/skilled；
 > - Many companies depend on skilled labor to remain competitive in the global market. `[真题]`
+  - 中译：许多公司依赖熟练劳动力来保持在全球市场上的竞争力。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/skilled；
 > - The third wave of immigration included skilled Chinese workers and students from South Korea. `[真题]`
+  - 中译：第三波移民包括熟练的中国工人和来自韩国的学生。；
+  - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/skilled；
 
 
 ---

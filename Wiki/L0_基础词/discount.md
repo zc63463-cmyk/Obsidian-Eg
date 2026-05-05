@@ -130,8 +130,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Many experts have discounted the possibility of an immediate economic recovery. `[COCA-NEWS]`
+>   - 中译：许多专家对经济立即复苏的可能性不以为然。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/discount；
 > - The Young Persons Railcard gives you a discount on rail travel. `[BNC-SPOKEN]`
+>   - 中译：青年铁路卡为您在铁路旅行时提供折扣。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/discount；
 > - They're offering a 10% discount on all sofas this month. `[COCA-NEWS]`
+>   - 中译：本月所有沙发均提供九折优惠。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/discount；
 
 
 ---

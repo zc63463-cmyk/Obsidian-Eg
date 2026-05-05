@@ -125,8 +125,14 @@ front(前面) + -ier(表示"与……有关的人/物"的后缀)
 
 > [!example]- 语料
 > - The hikers rested under a towering frontier near the coastal trail. `[例]`
+>   - 中译：徒步旅行者在海岸步道旁高耸的边境处休息。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/frontier；
 > - The cabin was built from durable frontier gathered in the region. `[例]`
+>   - 中译：小屋是用该地区收集的耐用的边境材料建造的。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/frontier；
 > - A line of frontier trees rose above the morning fog. `[例]`
+>   - 中译：一排边境树木在晨雾中若隐若现。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/frontier；
 
 
 ---

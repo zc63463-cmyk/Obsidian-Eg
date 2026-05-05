@@ -136,9 +136,17 @@ war(战争) + fare(走，去，拉丁语 *far*，古英语 *faran*) → 战争�
 
 > [!example]- 语料
 > - A million French soldiers had been killed in trench warfare. `[例]`
+>   - 中译：一百万法国士兵在堑壕战中丧生。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/warfare；
 > - Rebels have been warning of a turn to guerrilla warfare. `[例]`
+>   - 中译：叛军一直在警告可能转向游击战。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/warfare；
 > - She called for an end to gang warfare and blasted crooks being freed to kill. `[例]`
+>   - 中译：她呼吁结束帮派暴力，并抨击释放罪犯让他们继续杀人。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/warfare；
 > - The stirring up of class warfare is tremendously unhelpful. `[例]`
+>   - 中译：煽动阶级斗争是非常有害的。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/warfare；
 
 
 ---

@@ -132,8 +132,14 @@ sting 源自古英语 *stingan*（刺），与 [[stim-sting]]（刺、刺激）�
 
 > [!example]- 语料
 > - Do all types of bee sting? `[例]`
+>   - 中译：所有种类的蜜蜂都会蜇人吗？；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sting；
 > - This type of disinfectant doesn't sting, even if you put it on a fresh cut. `[例]`
+>   - 中译：这种消毒剂不会刺痛，即使涂在新鲜伤口上。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/sting；
 > - She managed to give a stinging reply (= an angry answer intended to upset ) , before slamming down the phone. `[例]`
+>   - 中译：她狠狠地回了一句，然后砰地挂断了电话。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sting；
 
 
 ---

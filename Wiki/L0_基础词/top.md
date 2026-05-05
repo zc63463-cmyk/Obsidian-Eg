@@ -134,8 +134,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The bill requires every rental host to register with the state , mandates they carry insurance , and opens the potential for local taxes on top of a new state levy. `[真题]`
+>   - 中译：该法案要求每位出租房东向州政府登记，强制其购买保险，并允许在新的州级税收之外征收地方税。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/top；
 > - She waited for me at the top of the stairs. `[例]`
+>   - 中译：她在楼梯顶部等我。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/top；
 > - There were flags on the tops of many of the buildings. `[例]`
+>   - 中译：许多建筑的顶部都有旗帜。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/top；
 
 
 ---

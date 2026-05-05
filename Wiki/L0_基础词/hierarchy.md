@@ -130,8 +130,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Some monkeys have a very complex social hierarchy. `[例]`
+  - 中译：一些猴子有着非常复杂的社会等级制度。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hierarchy；
 > - Every organization has a hierarchy, and trying to understand that, and the systems and processes of the organization , is important. `[例]`
+  - 中译：每个组织都有等级制度，理解这一点以及组织的系统和流程很重要。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hierarchy；
 > - When the recommendations had been submitted and approved by the hierarchy, teams were established to manage the process of implementing them. `[例]`
+  - 中译：当建议提交并获得管理层批准后，成立了团队来管理实施过程。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hierarchy；
 
 
 ---

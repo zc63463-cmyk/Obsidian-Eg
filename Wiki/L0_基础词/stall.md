@@ -128,8 +128,14 @@ stall 源自古英语 *steall*（站立的地方，畜栏），与 [[st-sta-stat
 
 > [!example]- 语料
 > - In the village market , the stalls are piled high with local vegetables. `[例]`
+>   - 中译：在乡村集市上，摊位上堆满了当地蔬菜。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/stall；
 > - There was one bathroom with a shower stall in the corner. `[例]`
+>   - 中译：有一个浴室，角落里有一个淋浴间。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/stall；
 > - Members of the public were invited to sit in the choir stalls. `[例]`
+>   - 中译：公众被邀请坐在唱诗班席位上。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/stall；
 
 
 ---

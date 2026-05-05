@@ -129,8 +129,14 @@ review_count: 0
 
 > [!example]- 语料
 > - She packed all her stuff into boxes before moving to the new apartment. `[真题]`
+>   - 中译：搬到新公寓之前，她把所有东西都装进了箱子。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/stuff；
 > - He really knows his stuff when it comes to economics and financial markets. `[真题]`
+>   - 中译：在经济学和金融市场方面，他确实很在行。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/stuff；
 > - I have to go now because I have a lot of stuff to do before dinner. `[真题]`
+>   - 中译：我现在得走了，因为晚饭前我还有很多事情要做。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/stuff；
 
 
 ---

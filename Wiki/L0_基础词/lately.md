@@ -120,8 +120,14 @@ review_count: 0
 
 > [!example]- 语料
 > - I haven't been feeling so well lately. `[例]`
+>   - 中译：我最近感觉不太好。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lately；
 > - Have you been doing anything interesting lately? `[例]`
-> - My wife hasn’t been feeling well lately. `[例]`
+>   - 中译：你最近有什么有趣的事情吗？；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lately；
+> - My wife hasn't been feeling well lately. `[例]`
+>   - 中译：我妻子最近身体不太好。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lately；
 
 
 ---

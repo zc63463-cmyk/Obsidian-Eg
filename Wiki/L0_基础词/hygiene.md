@@ -123,8 +123,14 @@ hyg-(健康，希腊语 *hygies*，健康的) + -iene(名词后缀，表示学�
 
 > [!example]- 语料
 > - Poor standards of hygiene mean that the disease spreads fast. `[例]`
+  - 中译：糟糕的卫生标准意味着疾病传播迅速。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hygiene；
 > - Health and hygiene regulations. `[例]`
+  - 中译：卫生与健康法规。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hygiene；
 > - Hospital staff blamed the spread of infections on poor hygiene. `[例]`
+  - 中译：医院工作人员将感染的传播归咎于卫生条件差。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hygiene；
 
 
 ---

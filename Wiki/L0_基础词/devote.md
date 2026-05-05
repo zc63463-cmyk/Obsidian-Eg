@@ -132,8 +132,14 @@ review_count: 0
 
 > [!example]- 语料
 > - At the age of 25, he decided to devote himself to God. `[例]`
+  - 中译：25岁时，他决定将自己奉献给上帝。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/devote；
 > - Over half his speech was devoted to the issue of unemployment. `[例]`
+  - 中译：他演讲的一半以上都是关于失业问题的。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/devote；
 > - The report recommends that more resources be devoted to teaching four-year-olds. `[例]`
+  - 中译：报告建议将更多资源投入到四岁儿童的教学中。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/devote；
 
 
 ---

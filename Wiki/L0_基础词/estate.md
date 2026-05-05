@@ -127,8 +127,14 @@ review_count: 0
 
 > [!example]- 语料
 > - It's a typical country estate with a large house for the owner , farm buildings , and estate workers ' houses. `[例]`
+  - 中译：这是一个典型的乡间庄园，有主人的大宅、农舍和庄园工人的住所。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/estate；
 > - They moved into a four-bedroom house on a new estate. `[例]`
+  - 中译：他们搬进了新住宅区的一栋四居室房子。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/estate；
 > - The estate for sale includes two miles of river frontage. `[例]`
+  - 中译：待售的庄园包括两英里的河岸线。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/estate；
 
 
 ---

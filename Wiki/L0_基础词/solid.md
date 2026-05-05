@@ -138,8 +138,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The lecture hall was packed solid ( with students ). `[例]`
+  - 中译：报告厅里挤满了学生。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/solid；
 > - Liquid and solid waste is collected in the tank. `[例]`
+  - 中译：液态和固态废物被收集在储罐中。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/solid；
 > - Freeze the mixture for about three hours or so until solid. `[例]`
+  - 中译：将混合物冷冻大约三个小时，直到凝固。；
+  - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/solid；
 
 
 ---

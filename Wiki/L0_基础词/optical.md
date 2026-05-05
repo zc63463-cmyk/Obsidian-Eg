@@ -125,8 +125,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The glowing cloud was an optical effect. `[例]`
+>   - 中译：那团发光的云是一种光学效应。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/optical；
 > - Her eye tests revealed that she has no optical defects. `[例]`
+>   - 中译：她的眼科检查显示她没有光学缺陷。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/optical；
 > - There are specialized optical aids which can help visually impaired people. `[例]`
+>   - 中译：有一些专门的光学辅助设备可以帮助视障人士。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/optical；
 
 
 ---

@@ -126,8 +126,14 @@ review_count: 0
 
 > [!example]- 语料
 > - He paddled the canoe along the river. `[真题]`
+>   - 中译：他划着独木舟沿河而下。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/paddle；
 > - The children went paddling in the sea. `[真题]`
+>   - 中译：孩子们去海里玩水了。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/paddle；
 > - Next morning they paddled off in kayaks, hugging the coast along a sheer rock face. `[真题]`
+>   - 中译：第二天早上，他们划着皮划艇出发，沿着陡峭的岩壁紧贴海岸前行。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/paddle；
 
 
 ---

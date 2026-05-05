@@ -130,9 +130,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The company bought a parcel of land on the outskirts of the city for its new factory. `[例]`
+  - 中译：公司在城市郊区购买了一块土地用于新建工厂。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/parcel；
 > - The work was parceled out among several teams. `[例]`
+  - 中译：这项工作被分配给几个团队分别完成。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/parcel；
 > - HTV is redeveloping a 21-acre parcel of land close to its studios. `[例]`
-
+  - 中译：HTV正在重新开发其摄影棚附近的一块21英亩的土地。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/parcel；
 
 ---
 

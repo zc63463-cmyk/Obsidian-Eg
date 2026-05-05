@@ -133,9 +133,17 @@ review_count: 0
 
 > [!example]- 语料
 > - The government promised to bring the inflation rate down to within three percent within the next two years. `[真题]`
+>   - 中译：政府承诺在未来两年内将通胀率降至3%以内。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/within；
 > - Students are encouraged to think critically but must remain within the scope of the assigned topic when writing their essays. `[真题]`
+>   - 中译：鼓励学生进行批判性思考，但在撰写论文时必须保持在指定主题的范围内。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/within；
 > - The rescue team managed to reach all the survivors within 48 hours of the earthquake. `[真题]`
+>   - 中译：救援队在地震发生后48小时内成功联系到了所有幸存者。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/within；
 > - Any changes to the plan must be kept within reasonable limits to avoid exceeding the budget. `[真题]`
+>   - 中译：对计划的任何修改都必须保持在合理范围内，以避免超出预算。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/within；
 
 
 ---

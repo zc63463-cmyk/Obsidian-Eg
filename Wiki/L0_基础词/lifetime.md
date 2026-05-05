@@ -126,8 +126,14 @@ life（生命）+ time（时间）。古英语中对应词为 lifdæg，字面�
 
 > [!example]- 语料
 > - We'll see a tremendous number of technological changes in our lifetime. `[例]`
+> -   - 中译：在我们有生之年，我们将看到大量的技术变革；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lifetime；
 > - I never imagined that such an event would be possible during my lifetime. `[例]`
+> -   - 中译：我从未想过在我有生之年会发生这样的事情；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lifetime；
 > - Winners of the competition will get the holiday of a lifetime (= the best holiday they will ever have). `[例]`
+> -   - 中译：比赛获胜者将获得一生中最棒的假期（= 他们将度过的最美好的假期）；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lifetime；
 
 
 ---

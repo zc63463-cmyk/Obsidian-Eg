@@ -136,8 +136,14 @@ review_count: 0
 
 > [!example]- 语料
 > - C h o o s e th e b e s t w o rd (s ) fo r e a c h n u m b e re d b la n k a n d m a rk A , B , C o r D o n th e A N S W E R S H E E T . (1 0 p o in ts ) Y o u r s o c ia l life is d e fin e d a s 'th e a c tiv itie s y o u d o w ith o th e r p e o p le , fo r p le a s u re , w h e n y o u a re n o t w o rk in g '. `[真题]`
+> -   - 中译：为每个编号的空白处选择最佳单词，并在答题卡上标出A、B、C或D。（10分）你的社交生活被定义为'你与他人的活动，为了娱乐，在你不工作的时候'；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/life；
 > - It's im p o rta n t to h a v e a s o c ia l life , b u t w h a t's rig h t fo r o n e p e rs o n w o n 't b e rig h t fo r a n o th e r. `[真题]`
+> -   - 中译：拥有社交生活很重要，但对一个人合适的方式对另一个人未必合适；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/life；
 > - T h is is w h y fin d in g a 2 in y o u r s o c ia l life is k e y. `[真题]`
+> -   - 中译：这就是为什么在你的社交生活中找到一个平衡点是关键；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/life；
 
 
 ---

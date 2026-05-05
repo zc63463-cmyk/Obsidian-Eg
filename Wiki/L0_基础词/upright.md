@@ -127,8 +127,14 @@ review_count: 0
 
 > [!example]- 语料
 > - She behaved as any upright citizen would have under the circumstances. `[例]`
+>   - 中译：她的表现就像任何正直的公民在这种情况下会做的那样。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/upright；
 > - The sound of breaking glass made her sit bolt upright (= sit with her back straight ). `[例]`
+>   - 中译：玻璃碎裂的声音让她猛地坐直了身子。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/upright；
 > - Firmly secure the two uprights to opposite walls in the alcove and then fit the shelves in between them. `[例]`
+>   - 中译：将两根立柱牢牢固定在壁龛的对面墙上，然后在它们之间安装搁板。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/upright；
 
 
 ---

@@ -128,8 +128,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The tea cups are (made of) porcelain. `[例]`
+>   - 中译：这些茶杯是（由）瓷器（制成的）。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/porcelain；
 > - He had a fine collection of Meissen porcelain. `[例]`
+>   - 中译：他收藏了一批精美的迈森瓷器。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/porcelain；
 > - The design is copied from Japanese porcelains of the fourteenth century. `[例]`
+>   - 中译：这个图案是仿照十四世纪的日本瓷器设计的。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/porcelain；
 
 
 ---

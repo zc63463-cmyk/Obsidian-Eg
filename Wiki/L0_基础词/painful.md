@@ -126,8 +126,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The company had to make the painful decision to lay off thousands of employees in order to survive the economic crisis. `[真题]`
+>   - 中译：为了在经济危机中生存下来，公司不得不做出痛苦的裁员决定。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/painful；
 > - It was a painful process for the nation to come to terms with its dark history of colonialism and racial injustice. `[真题]`
+>   - 中译：对这个国家来说，正视其殖民主义和种族不公正的黑暗历史是一个痛苦的过程。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/painful；
 > - They have taken the painful decision to withhold food aid where there is blatant politicisation. `[真题]`
+>   - 中译：他们在明显政治化的地方做出了痛苦的决定，停止提供粮食援助。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/painful；
 
 
 ---

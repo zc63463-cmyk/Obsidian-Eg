@@ -131,9 +131,17 @@ miracle（12世纪中期，源自古法语 *miracle*，源自拉丁语 *miraculu
 
 > [!example]- 语料
 > - It is nothing short of a miracle that the miners survived after being trapped underground for 69 days. `[真题]`
+> - 中译：矿工们在被困地下69天后幸存下来，简直就是奇迹。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/miracle；
 > - The doctor was hailed as a miracle worker after performing a groundbreaking surgery. `[真题]`
+> - 中译：这位医生在完成一项开创性手术后被誉为奇迹创造者。；
+> - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/miracle；
 > - It's a miracle that nobody was killed in the crash. `[真题]`
+> - 中译：坠机事故中无人丧生，真是个奇迹。；
+> - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/miracle；
 > - Her exercise programme has worked miracles for her. `[真题]`
+> - 中译：她的锻炼计划对她产生了奇效。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/miracle；
 
 
 ---

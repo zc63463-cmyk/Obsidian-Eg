@@ -131,8 +131,14 @@ review_count: 0
 
 > [!example]- 语料
 > - His jokes seemed spontaneous, but were in fact carefully prepared beforehand. `[例]`
+>   - 中译：他的笑话似乎是即兴的，但实际上是事先精心准备的。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/spontaneous；
 > - She's such a spontaneous, lively woman. `[例]`
+>   - 中译：她是这样一个自然活泼的女人。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/spontaneous；
 > - Since spontaneous remissions are common in rheumatoid arthritis , it is impossible to attribute them to any particular therapy. `[例]`
+>   - 中译：由于类风湿性关节炎中的自发缓解很常见，因此不可能将其归因于任何特定的疗法。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/spontaneous；
 
 
 ---

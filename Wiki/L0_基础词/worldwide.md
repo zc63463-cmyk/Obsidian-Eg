@@ -123,9 +123,17 @@ world（世界）+ wide（宽的，广泛的）→ 世界范围广泛的 → 全
 
 > [!example]- 语料
 > - Climate change is a worldwide problem that requires unprecedented levels of international cooperation. `[真题]`
+>   - 中译：气候变化是一个全球性问题，需要前所未有的国际合作水平。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/worldwide；
 > - The internet has made information available worldwide at the click of a button. `[真题]`
+>   - 中译：互联网使信息只需点击一下就能在全球范围内获取。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/worldwide；
 > - The scientist gained worldwide recognition for her groundbreaking discovery in the field of genetics. `[真题]`
+>   - 中译：这位科学家因其在遗传学领域的开创性发现而获得了全球认可。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/worldwide；
 > - The company's products are sold worldwide, with distribution networks spanning over fifty countries. `[真题]`
+>   - 中译：该公司的产品销往全球，分销网络覆盖五十多个国家。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/worldwide；
 
 
 ---

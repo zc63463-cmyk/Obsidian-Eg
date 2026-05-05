@@ -130,9 +130,17 @@ review_count: 0
 
 > [!example]- 语料
 > - Each case should be judged on its own merits. `[真题]`
+> - 中译：每个案件都应根据其本身的是非曲直来评判。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/merit；
 > - This research merits further investigation. `[真题]`
+> - 中译：这项研究值得进一步调查。；
+> - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/merit；
 > - I believe that the report merits closer reading on this point. `[真题]`
+> - 中译：我认为在这个问题上，这份报告值得更仔细地阅读。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/merit；
 > - The artist's latest masterpiece merits attention for its captivating use of colors. `[真题]`
+> - 中译：这位艺术家最新的杰作因其迷人的色彩运用而值得关注。；
+> - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/merit；
 
 
 ---

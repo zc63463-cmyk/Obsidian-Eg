@@ -128,8 +128,14 @@ lightning = [[light]](光) + -ning(名词后缀，表示动作或状态)
 
 > [!example]- 语料
 > - The thunder and lightning had moved away, but the rain continued to pour. `[例]`
+> -   - 中译：雷电已经远去，但雨仍在倾盆而下；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lightning；
 > - A flash of lightning lit up the sky. `[例]`
+> -   - 中译：一道闪电照亮了天空；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lightning；
 > - The school was hit by a bolt of lightning yesterday. `[例]`
+> -   - 中译：昨天学校被一道闪电击中；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lightning；
 
 
 ---

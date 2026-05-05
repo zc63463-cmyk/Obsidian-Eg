@@ -127,8 +127,14 @@ re-(回，向后) + fug(逃，来自拉丁语 *fugere*) + -e(名词后缀)
 
 > [!example]- 语料
 > - They were forced to seek refuge from the fighting. `[真题]`
+  - 中译：他们被迫逃离战火寻求庇护。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/refuge；
 > - Hundreds of thousands of people from the north have sought refuge in the south. `[真题]`
+  - 中译：来自北方的数十万人在南方寻求庇护。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/refuge；
 > - Some had to abandon their vehicles and flee on foot or even seek refuge in the ocean. `[真题]`
+  - 中译：有些人不得不弃车步行逃跑，甚至到海中寻求庇护。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/refuge；
 
 
 ---

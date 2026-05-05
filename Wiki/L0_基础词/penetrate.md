@@ -137,9 +137,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Technology is becoming bigger and more aspirational, and penetrating almost every aspect of our lives. `[例]`
+  - 中译：技术正变得越来越大、越来越有抱负，渗透到我们生活的几乎每个方面。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/penetrate；
 > - The company has been successful in penetrating overseas markets this year. `[例]`
+  - 中译：该公司今年在打入海外市场方面取得了成功。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/penetrate；
 > - These fine particles penetrate deep into the lungs. `[例]`
-
+  - 中译：这些细小颗粒深入肺部。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/penetrate；
 
 ---
 

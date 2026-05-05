@@ -124,8 +124,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Could you fetch me my glasses from the other room , please? `[例]`
+>   - 中译：你能去隔壁房间帮我把眼镜拿来吗？；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fetch；
 > - I have to fetch my mother from the station. `[例]`
+>   - 中译：我得去车站接我母亲。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fetch；
 > - Shall I fetch some tea for you? `[例]`
+>   - 中译：我去给你倒些茶好吗？；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fetch；
 
 
 ---

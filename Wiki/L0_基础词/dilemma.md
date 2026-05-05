@@ -122,8 +122,14 @@ review_count: 0
 
 > [!example]- 语料
 > - She faces the dilemma of disobeying her father or losing the man she loves. `[例]`
+  - 中译：她面临着违抗父亲还是失去所爱之人的两难境地。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/dilemma；
 > - She's in a dilemma because she feels she would lose out if she tried to transfer her pension fund elsewhere. `[例]`
+  - 中译：她陷入了两难境地，因为她觉得如果把养老金转到别处会吃亏。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/dilemma；
 > - The president is clearly in a dilemma over how to tackle the crisis. `[例]`
+  - 中译：总统显然在如何应对危机的问题上进退两难。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/dilemma；
 
 
 ---

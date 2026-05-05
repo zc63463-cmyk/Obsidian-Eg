@@ -131,8 +131,14 @@ mis-(=bad/wrong, 错误地) + take(拿，取)
 
 > [!example]- 语料
 > - I made the mistake of giving him my address. `[真题]`
+> - 中译：我犯了一个错误——把我的地址给了他。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/mistake；
 > - I'm not blaming you - we all make mistakes. `[例]`
+> - 中译：我没有怪你——我们都会犯错。；
+> - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/mistake；
 > - It was a mistake for us to come here tonight. `[例]`
+> - 中译：我们今晚来这里是个错误。；
+> - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/mistake；
 
 
 ---

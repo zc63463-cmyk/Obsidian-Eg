@@ -129,8 +129,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Congress is debating a $100 billion stimulus package that includes tax breaks for businesses. `[真题]`
+>   - 中译：国会正在辩论一项1000亿美元的经济刺激方案，其中包括为企业减税。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/package；
 > - The government has already announced a $586 billion economic stimulus package to help keep factories operating. `[真题]`
+>   - 中译：政府已经宣布了一项5860亿美元的经济刺激方案，以帮助维持工厂运转。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/package；
 > - The company offers an attractive benefits package that includes health insurance, paid leave, and retirement plans. `[真题]`
+>   - 中译：该公司提供了一套有吸引力的福利方案，包括健康保险、带薪休假和退休计划。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/package；
 
 
 ---

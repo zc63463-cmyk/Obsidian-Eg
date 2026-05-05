@@ -132,8 +132,14 @@ review_count: 0
 
 > [!example]- 语料
 > - They won 4–0 in front of over 40,000 cheering spectators. `[例]`
+  - 中译：他们在四万多名欢呼的观众面前以4比0获胜。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/spectator；
 > - The stadium was packed with cheering spectators. `[例]`
+  - 中译：体育场里挤满了欢呼的观众。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/spectator；
 > - A few incredulous spectators watched as Paterson, ranked 23rd in the world , beat the champion. `[例]`
+  - 中译：几位难以置信的观众看着世界排名第23位的帕特森击败了冠军。；
+  - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/spectator；
 
 
 ---

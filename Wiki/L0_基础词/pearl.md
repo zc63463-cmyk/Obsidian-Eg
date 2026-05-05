@@ -133,9 +133,14 @@ pearl（古英语 *pearl*，源自拉丁语 *perna*，意为"腿骨"，后演变
 
 > [!example]- 语料
 > - She was wearing her pearls. `[真题]`
+  - 中译：她戴着她的珍珠项链。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pearl；
 > - Thank you for those pearls of wisdom. `[真题]`
+  - 中译：感谢你那些充满智慧的珠玑之言。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/pearl；
 > - Students eager to catch pearls of wisdom from the professor's lips. `[真题]`
-
+  - 中译：学生们渴望从教授口中获取智慧的珠玑。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/pearl；
 
 ---
 

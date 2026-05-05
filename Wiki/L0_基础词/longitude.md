@@ -118,8 +118,14 @@ review_count: 0
 
 > [!example]- 语料
 > - A map of the world showing lines of latitude and longitude. `[例]`
+> -   - 中译：经纬度；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/longitude；
 > - Calculating the longitudes of different places. `[例]`
+> -   - 中译：计算不同地点的经度；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/longitude；
 > - The regions are on roughly the same longitude. `[例]`
+> -   - 中译：这些地区大致位于同一经度；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/longitude；
 
 
 ---

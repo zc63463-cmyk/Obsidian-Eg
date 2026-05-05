@@ -127,8 +127,14 @@ numer(=number, 数字，拉丁语 *numerus*) + -ous(形容词后缀，"充满…
 
 > [!example]- 语料
 > - We have discussed these plans on numerous occasions. `[例]`
+>   - 中译：我们已经多次讨论过这些计划。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/numerous；
 > - Retailers of this type , once rare , are now numerous. `[例]`
+>   - 中译：这类零售商曾经很少，现在已经有很多了。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/numerous；
 > - She is the author of three books and numerous articles. `[例]`
+>   - 中译：她是三本书和大量文章的作者。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/numerous；
 
 
 ---

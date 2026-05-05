@@ -124,8 +124,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Having sold the house, she had a large sum of money at her disposal. `[真题]`
+>   - 中译：卖掉房子后，她有一大笔钱可供支配。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/disposal；
 > - The government will use every tool at its disposal to provide relief for the affected area. `[真题]`
+>   - 中译：政府将使用一切可用的手段为受灾地区提供救济。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/disposal；
 > - Some cities in the world do not have proper facilities for the disposal of sewage. `[真题]`
+>   - 中译：世界上一些城市没有适当的污水处理设施。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/disposal；
 
 
 ---

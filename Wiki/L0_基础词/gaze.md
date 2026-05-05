@@ -127,9 +127,17 @@ gaze 为基础词汇，可能来自斯堪的纳维亚语源。与古诺尔斯语
 
 > [!example]- 语料
 > - She sat by the window, gazing at the falling rain with a melancholy expression. `[真题]`
+>   - 中译：她坐在窗边，带着忧郁的表情凝视着落雨。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/gaze；
 > - Under the gaze of the audience, the speaker felt increasingly nervous. `[真题]`
+>   - 中译：在观众的注视下，演讲者感到越来越紧张。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/gaze；
 > - We've all gazed into a fire and marvelled at the endlessly interesting glows within. `[真题]`
+>   - 中译：我们都曾凝视过火焰，惊叹于其中无穷无尽、引人入胜的光芒。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/gaze；
 > - She looks down and back up, meeting my gaze with cool blue eyes. `[真题]`
+>   - 中译：她低下头又抬起头，用冷静的蓝眼睛与我对视。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/gaze；
 
 
 ---

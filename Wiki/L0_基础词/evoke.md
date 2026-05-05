@@ -129,8 +129,14 @@ e-(=ex-, 出) + voc/vok(呼唤，声音) + -e
 
 > [!example]- 语料
 > - That smell always evokes memories of my old school. `[例]`
+  - 中译：那种气味总是唤起我对旧学校的回忆。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/evoke；
 > - A detergent designed to evoke the fresh smell of summer meadows. `[例]`
+  - 中译：一种旨在唤起夏日草地清新气味的洗涤剂。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/evoke；
 > - The smell of chalk always evokes memories of my school days. `[例]`
+  - 中译：粉笔的气味总是唤起我对学生时代的回忆。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/evoke；
 
 
 ---

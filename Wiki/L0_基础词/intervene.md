@@ -126,8 +126,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The Central Bank intervened in the currency markets today to try to stabilize the exchange rate. `[例]`
+>   - 中译：中央银行今天干预了外汇市场，试图稳定汇率。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/intervene；
 > - The minister intervened personally to stop the museum from being closed. `[例]`
+>   - 中译：部长亲自出面干预，阻止博物馆被关闭。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/intervene；
 > - There is increasing demand for the United Nations to intervene in trouble spots throughout the world. `[例]`
+>   - 中译：越来越多的人要求联合国干预世界各地的热点地区。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/intervene；
 
 
 ---

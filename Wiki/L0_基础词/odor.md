@@ -132,8 +132,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The cheese has a strong odor. `[例]`
+>   - 中译：这种奶酪有一股浓烈的气味。；
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/odor；
 > - This deodorant prevents bad odor from occurring. `[例]`
+>   - 中译：这种除臭剂能防止异味产生。；
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/odor；
 > - That flight had twice aborted takeoff and declared an emergency due to an odor onboard that was sickening flight attendants. `[例]`
+>   - 中译：那架航班曾两次中断起飞并宣布紧急状态，原因是机舱内有一种令空乘人员恶心的气味。；
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/odor；
 
 
 ---

@@ -132,8 +132,14 @@ review_count: 0
 
 > [!example]- 语料
 > - One of the good things about teaching young children is their enthusiasm. `[例]`
+>   - 中译：教小孩子的好处之一是他们的热情。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/enthusiasm；
 > - One of his greatest enthusiasms was yoga. `[例]`
+>   - 中译：他最大的爱好之一是瑜伽。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/enthusiasm；
 > - I find that I’m losing my enthusiasm for the game. `[例]`
+>   - 中译：我发现自己对这场比赛正在失去热情。；
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/enthusiasm；
 
 
 ---

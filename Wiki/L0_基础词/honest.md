@@ -132,8 +132,14 @@ hon(荣誉，拉丁语 *honor* "荣誉/尊敬") + -est(形容词后缀，表"具
 
 > [!example]- 语料
 > - He had an honest face (= he looked like he could be trusted ). `[例]`
+  - 中译：他有一张诚实的面孔（= 他看起来值得信赖）。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/honest；
 > - To be honest (= To tell the truth ) , I didn’t like the movie. `[例]`
+  - 中译：老实说（= 说实话），我不喜欢这部电影。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/honest；
 > - Be honest now - do you think this dress is too young for me? `[例]`
+  - 中译：说句实话——你觉得这条裙子我穿是不是太年轻了？；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/honest；
 
 
 ---

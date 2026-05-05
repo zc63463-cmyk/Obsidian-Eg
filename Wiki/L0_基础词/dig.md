@@ -126,8 +126,14 @@ dig 为日耳曼语源基础词（古英语 *dīcan*），无可拆分的词根�
 
 > [!example]- 语料
 > - Digging (in) the garden is good exercise. `[例]`
+  - 中译：在花园里挖土是很好的锻炼。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/dig；
 > - The dog was digging a hole to hide its bone in. `[例]`
+  - 中译：狗正在挖一个洞来藏骨头。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/dig；
 > - To dig, the player must anticipate the spike and be prepared to quickly dive in any direction. `[例]`
+  - 中译：要防守扣球，球员必须预判来球方向，并准备好迅速向任何方向扑救。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/dig；
 
 
 ---

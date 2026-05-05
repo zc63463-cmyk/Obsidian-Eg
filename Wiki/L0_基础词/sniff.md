@@ -129,8 +129,14 @@ sniff 源自中古英语 *sniffen*，属于 sn- 开头的拟声词族（与 [[sn
 
 > [!example]- 语料
 > - He sniffed his socks to see if they needed washing. `[例]`
+  - 中译：他闻了闻袜子看是否该洗了。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/sniff；
 > - Dogs love sniffing each other. `[例]`
+  - 中译：狗喜欢互相闻来闻去。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/sniff；
 > - She sniffed at her glass of wine before tasting it. `[例]`
+  - 中译：她在品尝之前先闻了闻杯中的葡萄酒。；
+  - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/sniff；
 
 
 ---

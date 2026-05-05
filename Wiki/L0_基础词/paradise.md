@@ -128,9 +128,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The island is a tropical paradise with white sandy beaches and crystal-clear water. `[例]`
+  - 中译：这座岛屿是一个热带天堂，拥有白色沙滩和清澈见底的海水。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/paradise；
 > - Visitors and locals alike see this stretch as a proverbial shopper's paradise. `[例]`
+  - 中译：游客和当地人都将这一带视为传说中的购物天堂。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/paradise；
 > - Hawaii is a paradise for surfers. `[例]`
-
+  - 中译：夏威夷是冲浪者的天堂。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/paradise；
 
 ---
 

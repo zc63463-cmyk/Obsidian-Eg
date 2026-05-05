@@ -130,8 +130,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The property has high ceilings and marble floors throughout. `[真题]`
+> -   - 中译：这处房产有高高的天花板，全部铺设大理石地板；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/marble；
 > - Standing on either side of the arch are graceful white marble statues. `[真题]`
+> -   - 中译：拱门两侧矗立着优雅的白色大理石雕像；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/marble；
 > - The columns were of white marble. `[真题]`
+> -   - 中译：这些柱子是白色大理石的；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/marble；
 
 
 ---

@@ -127,8 +127,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The job ad said they wanted proficiency in at least two languages. `[例]`
+>   - 中译：招聘广告说他们要求至少精通两种语言。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/proficiency；
 > - Photographs entered in the contest will be judged on originality and technical proficiency. `[例]`
+>   - 中译：参赛照片将根据原创性和技术水平进行评判。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/proficiency；
 > - Candidates must be able to demonstrate a high level of proficiency in both languages. `[例]`
+>   - 中译：候选人必须能够展示在两种语言方面的高水平能力。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/proficiency；
 
 
 ---

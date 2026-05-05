@@ -124,8 +124,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The researchers proposed a wholesome solution to the problem. `[例]`
+>   - 中译：研究人员提出了一个有益的解决方案。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/wholesome；
 > - The company adopted a wholesome approach to improve efficiency. `[例]`
+>   - 中译：公司采用了一种健康的方法来提高效率。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/wholesome；
 > - The plan offers a wholesome option for small organizations. `[例]`
+>   - 中译：该计划为小型组织提供了一个有益的选项。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/wholesome；
 
 
 ---

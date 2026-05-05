@@ -127,8 +127,14 @@ in-(在里面) + -ner(比较级后缀，"更……的")
 
 > [!example]- 语料
 > - The inner workings of the human mind remain one of the greatest mysteries. `[真题]`
+  - 中译：人类大脑的内部运作机制仍然是最大的谜团之一。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/inner；
 > - The company adopted a inner approach to improve efficiency. `[真题]`
+  - 中译：公司采用了一种内部方法来提高效率。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/inner；
 > - Violent crime is rife in our inner cities. `[例]`
+  - 中译：我们的内城区暴力犯罪猖獗。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/inner；
 
 
 ---

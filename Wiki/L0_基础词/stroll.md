@@ -125,8 +125,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The whole family was enjoying a leisurely stroll in the sunshine. `[BNC-SPOKEN]`
+>   - 中译：全家人正在阳光下悠闲地散步。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/stroll；
 > - Afterwards, we strolled back, put the kettle on and settled down with the newspapers. `[BNC-FICT]`
+>   - 中译：之后，我们漫步回去，烧上水，坐下来看报纸。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/stroll；
 > - Walkers will love gentle strolls along well-signposted clifftop paths. `[COCA-NEWS]`
+>   - 中译：步行者会喜欢沿着标识清晰的悬崖小路悠闲漫步。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/stroll；
 
 
 ---

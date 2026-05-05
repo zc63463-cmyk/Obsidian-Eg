@@ -127,8 +127,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The dance was based on several Hindu legends. `[例]`
+> -   - 中译：这支舞蹈基于几个印度教传说；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/legend；
 > - She is writing a thesis on Irish legend and mythology. `[例]`
+> -   - 中译：她正在写一篇关于爱尔兰传说和神话的论文；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/legend；
 > - Legend has it (= people say) that he always wore his boots in bed. `[例]`
+> -   - 中译：传说他总是穿着靴子睡觉；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/legend；
 
 
 ---

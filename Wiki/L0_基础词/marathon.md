@@ -130,8 +130,14 @@ review_count: 0
 
 > [!example]- 语料
 > - It can take weeks to recover after running a marathon. `[真题]`
+> -   - 中译：跑完马拉松后可能需要几周时间来恢复；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/marathon；
 > - European unification is a marathon in which we have successfully stayed the course over the past few decades. `[真题]`
+> -   - 中译：欧洲一体化是一场马拉松，在过去几十年中我们成功地坚持了下来；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/marathon；
 > - She was running the marathon in his memory. `[真题]`
+> -   - 中译：她为了纪念他而跑马拉松；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/marathon；
 
 
 ---

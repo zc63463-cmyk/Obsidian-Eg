@@ -125,8 +125,14 @@ mut-(沉默/含糊，拉丁语 *muttare* "低声说") + -ter(动词后缀)
 
 > [!example]- 语料
 > - Stop muttering and speak up! `[例]`
+> - 中译：别嘀咕了，大声说！；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/mutter；
 > - He was muttering to himself. `[例]`
+> - 中译：他在自言自语地嘟囔。；
+> - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/mutter；
 > - Laurence muttered something about his wife and left. `[例]`
+> - 中译：劳伦斯嘟囔了一句关于他妻子的话就离开了。；
+> - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/mutter；
 
 
 ---

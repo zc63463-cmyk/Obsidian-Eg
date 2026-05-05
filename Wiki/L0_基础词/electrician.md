@@ -123,8 +123,14 @@ review_count: 0
 
 > [!example]- 语料
 > - For the past year, he has worked as an electrician at a plant in Manchester. `[真题]`
+>   - 中译：过去一年里，他在曼彻斯特的一家工厂当电工。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/electrician；
 > - If the problem is in the electrical setup in your room, you'll probably need to consult with a professional electrician. `[真题]`
+>   - 中译：如果问题出在你房间的电气安装上，你可能需要咨询专业电工。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/electrician；
 > - A London electrician became a lottery multimillionaire by using serial numbers on cranes at a foundry where he has worked for almost 50 years. `[真题]`
+>   - 中译：一位伦敦电工利用他工作了近50年的铸造厂起重机上的序列号，成为了彩票千万富翁。；
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/electrician；
 
 
 ---

@@ -133,8 +133,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Many young people cannot afford to pay the rent in big cities. `[真题]`
+  - 中译：许多年轻人付不起大城市的房租。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rent；
 > - That means more Gen Zers are renting for longer, even as those costs creep higher and higher. `[例]`
+  - 中译：这意味着更多的Z世代年轻人租房时间更长，即使租金成本越来越高。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/rent；
 > - I pay a higher rent than the other tenants because my room is bigger. `[例]`
+  - 中译：我付的房租比其他租客高，因为我的房间更大。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rent；
 
 
 ---

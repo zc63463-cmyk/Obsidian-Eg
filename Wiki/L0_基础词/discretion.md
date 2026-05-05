@@ -126,8 +126,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The judge exercised his discretion rightly to admit the evidence. `[真题]`
+>   - 中译：法官正确行使了自由裁量权，采纳了该证据。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/discretion；
 > - Promotions are left to the discretion of the supervisor. `[真题]`
+>   - 中译：晋升由主管决定。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/discretion；
 > - The committee has the absolute discretion to refuse applications. `[真题]`
+>   - 中译：委员会拥有拒绝申请的绝对裁量权。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/discretion；
 
 
 ---

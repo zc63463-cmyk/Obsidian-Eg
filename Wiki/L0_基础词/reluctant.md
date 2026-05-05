@@ -130,8 +130,14 @@ re-(=against，反对) + luct(挣扎，拉丁语 *luctari*) + -ant(形容词后�
 
 > [!example]- 语料
 > - Despite these factors, many social scientists seem reluctant to tackle such problems. `[真题]`
+  - 中译：尽管有这些因素，许多社会科学家似乎不愿着手解决这类问题。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/reluctant；
 > - Many parents feel reluctant to talk openly with their children. `[真题]`
+  - 中译：许多父母不愿与孩子坦诚交谈。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/reluctant；
 > - The United Nations was reluctant to get its forces embroiled in civil war. `[例]`
+  - 中译：联合国不愿让其部队卷入内战。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/reluctant；
 
 
 ---

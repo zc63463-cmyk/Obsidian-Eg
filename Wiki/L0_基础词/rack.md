@@ -132,8 +132,14 @@ rack 源自中古荷兰语 *rec*（架子、框架），与古英语 *reccan*（
 
 > [!example]- 语料
 > - Students racked their brains trying to solve the complex mathematical problem. `[真题]`
+>   - 中译：学生们绞尽脑汁试图解决这道复杂的数学题。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rack；
 > - The company has racked up enormous debts over the past decade. `[真题]`
+>   - 中译：该公司在过去十年中积累了巨额债务。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rack；
 > - Jacob racked up large debts while working his way through college. `[真题]`
+>   - 中译：雅各布在上大学期间积累了大量债务。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rack；
 
 
 ---

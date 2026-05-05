@@ -117,9 +117,15 @@ review_count: 0
 ## 真题/语料关联
 
 > [!example]- 语料
-> - He used to be a fisherman, and he didn’t make enough money to pay for his house, food, and clothes for his children. `[例]`
-> - Once a tuna bites a fisherman’s fishing line, it can be a four- or five-hour battle between man and fish. `[例]`
+> - He used to be a fisherman, and he didn't make enough money to pay for his house, food, and clothes for his children. `[例]`
+>   - 中译：他曾经是一名渔民，赚的钱不够支付房子的费用和孩子们的衣食。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fisherman；
+> - Once a tuna bites a fisherman's fishing line, it can be a four- or five-hour battle between man and fish. `[例]`
+>   - 中译：一旦金枪鱼咬上渔民的钓鱼线，人与鱼之间可能要搏斗四五个小时。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fisherman；
 > - The traditional way to catch fish, even very big ones like tuna, is with a fishing line that the fisherman holds in his hands. `[例]`
+>   - 中译：传统的捕鱼方式，即使是捕捞金枪鱼这样的大鱼，也是用渔民手中拿着的钓鱼线。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fisherman；
 
 
 ---

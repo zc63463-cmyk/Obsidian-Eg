@@ -123,8 +123,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Concorde was the world's first supersonic passenger jet. `[真题]`
+>   - 中译：协和式飞机是世界上第一架超音速客机。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/supersonic；
 > - The development of supersonic aircraft has been a major achievement in aviation. `[真题]`
+>   - 中译：超音速飞机的研发是航空领域的一项重大成就。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/supersonic；
 > - Last year Boeing withdrew from a research project for a new supersonic plane because of the daunting cost. `[真题]`
+>   - 中译：去年，波音公司因成本高昂而退出了一个新型超音速飞机的研发项目。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/supersonic；
 
 
 ---

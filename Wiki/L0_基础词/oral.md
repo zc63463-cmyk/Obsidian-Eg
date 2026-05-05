@@ -133,8 +133,14 @@ review_count: 0
 
 > [!example]- 语料
 > - When do you have your Spanish oral (= exam in spoken Spanish )? `[例]`
+>   - 中译：你什么时候参加西班牙语口语考试？；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/oral；
 > - A select committee will be taking oral evidence as part of its inquiry. `[例]`
+>   - 中译：一个特别委员会将作为调查的一部分听取口头证词。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/oral；
 > - Only in borderline cases will pupils have an oral exam. `[例]`
+>   - 中译：只有在边缘情况下，学生才需要参加口试。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/oral；
 
 
 ---

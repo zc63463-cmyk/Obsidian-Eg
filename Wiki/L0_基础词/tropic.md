@@ -122,8 +122,14 @@ tropic 源自希腊语 *tropikos*，*tropē*（回转），*trepein*（转），
 
 > [!example]- 语料
 > - She's a botanist and spent several years doing research in the tropics. `[例]`
+>   - 中译：她是一位植物学家，在热带地区做了几年的研究。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/tropic；
 > - A vacation in the tropics. `[例]`
+>   - 中译：在热带地区度假。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/tropic；
 > - Acid soil is found in the humid northern temperate zone, where evergreens grow, and in the humid tropics , which is covered by savannah and tropical rainforests. `[例]`
+>   - 中译：酸性土壤存在于湿润的北温带（常绿植物生长的地方）和湿润的热带地区（覆盖着稀树草原和热带雨林）。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/tropic；
 
 
 ---

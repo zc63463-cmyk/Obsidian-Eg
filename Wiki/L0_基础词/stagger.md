@@ -130,8 +130,14 @@ review_count: 0
 
 > [!example]- 语料
 > - After he was attacked , he managed to stagger to the phone and call for help. `[例]`
+>   - 中译：遭到袭击后，他勉强蹒跚着走到电话旁呼救。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/stagger；
 > - The company is staggering under a $15 million debt and will almost certainly collapse by the end of the year. `[例]`
+>   - 中译：公司在1500万美元的债务下步履维艰，几乎肯定会在年底前倒闭。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/stagger；
 > - He staggered all his colleagues by suddenly announcing that he was leaving the company at the end of the month. `[例]`
+>   - 中译：他突然宣布月底要离开公司，令所有同事大吃一惊。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/stagger；
 
 
 ---

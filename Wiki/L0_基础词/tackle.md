@@ -129,8 +129,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The government has pledged to tackle the growing problem of homelessness. `[真题]`
+>   - 中译：政府已承诺解决日益严重的无家可归问题。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/tackle；
 > - The new initiative aims to tackle the root causes of poverty rather than merely treating its symptoms. `[真题]`
+>   - 中译：这一新举措旨在解决贫困的根本原因，而不仅仅是治标。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/tackle；
 > - The manifesto includes tough measures to tackle road congestion and environmental pollution. `[例]`
+>   - 中译：宣言包含解决道路拥堵和环境污染的强硬措施。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/tackle；
 
 
 ---

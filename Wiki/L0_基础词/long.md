@@ -137,8 +137,14 @@ long 源自古英语 *lang*（长的），与 length 同源。
 
 > [!example]- 语料
 > - Citation cartels, where journals, authors, and institutions conspire to inflate citation numbers , have existed for a long time. `[真题]`
+> -   - 中译：引文卡特尔，即期刊、作者和机构合谋抬高引用率；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/long；
 > - Though Native Americans ( and later miners and fur trappers) had long recognized the area's riches, most Americans did not. `[真题]`
+> -   - 中译：尽管美洲原住民（以及后来的矿工和捕猎者）早就认识到了；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/long；
 > - I've been waiting a long time. `[例]`
+> -   - 中译：我已经等了很久；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/long；
 
 
 ---

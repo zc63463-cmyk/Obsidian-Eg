@@ -125,8 +125,14 @@ huge（源自中古英语 *huge*，可能来自古诺尔斯语 *hugr*（思想�
 
 > [!example]- 语料
 > - The costs involved in building a spacecraft are huge. `[例]`
+  - 中译：建造航天器的成本是巨大的。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/huge；
 > - A huge number of people attended. `[例]`
+  - 中译：大量人员出席了。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/huge；
 > - His last three movies have all been huge successes. `[例]`
+  - 中译：他最近的三部电影都取得了巨大的成功。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/huge；
 
 
 ---

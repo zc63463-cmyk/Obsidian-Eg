@@ -133,8 +133,14 @@ medic(=medicus, 医治，拉丁语 *medicus*) + -ine(名词后缀)
 
 > [!example]- 语料
 > - The Supreme Court's decision on physician-assisted suicide carry important implications for how medicine seeks to relieve dying patients of pain and suffering. `[真题]`
+> -   - 中译：最高法院关于医助自杀的决定对医学如何寻求减轻垂死患者的痛苦和折磨具有重要影响；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/medicine；
 > - This medicine is for external use only and should not be taken internally. `[COCA-ACAD]`
+> -   - 中译：此药仅供外用，不可内服；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/medicine；
 > - The little boy was stamping his foot and refusing to take his medicine. `[BNC-SPOKEN]`
+> -   - 中译：小男孩跺着脚，拒绝吃药；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/medicine；
 
 
 ---

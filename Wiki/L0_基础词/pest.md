@@ -125,9 +125,14 @@ pest(瘟疫，害虫，拉丁语 *pestis*)
 
 > [!example]- 语料
 > - Each year ten per cent of the crop is lost to a pest called corn rootworm. `[真题]`
+  - 中译：每年有百分之十的作物损失于一种叫做玉米根虫的害虫。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pest；
 > - Insecticide resistance has limited the number of available chemical options for insect pest control. `[例]`
+  - 中译：抗药性已经限制了可用于控制害虫的化学药剂数量。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/pest；
 > - Eradicating bedbugs requires help from a pest control professional. `[例]`
-
+  - 中译：消灭臭虫需要害虫防治专业人士的帮助。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/pest；
 
 ---
 

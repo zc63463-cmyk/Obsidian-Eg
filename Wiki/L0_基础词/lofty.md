@@ -128,8 +128,14 @@ loft（阁楼，高处）+ -y(形容词后缀，有……性质的)
 
 > [!example]- 语料
 > - He set lofty goals for himself as a teacher. `[例]`
+> -   - 中译：作为一名教师，他为自己设定了崇高的目标；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lofty；
 > - She showed a lofty disregard for their objections. `[例]`
+> -   - 中译：她对他们反对意见表现出高傲的漠视；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lofty；
 > - Despite all of this, the 'Boys seem to be the butt of many jokes on the internet thanks to their myriad of disappointing finishes and lofty expectations from fans over the last 30 years. `[例]`
+> -   - 中译：尽管如此，'男孩们'似乎成了网上许多笑话的笑柄，这要归功于过去30年来他们无数令人失望的成绩和球迷们的高期望；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lofty；
 
 
 ---

@@ -125,8 +125,14 @@ review_count: 0
 
 > [!example]- 语料
 > - These diseases are more prevalent among young children. `[例]`
+>   - 中译：这些疾病在幼儿中更为普遍。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/prevalent；
 > - Trees are dying in areas where acid rain is most prevalent. `[例]`
+>   - 中译：在酸雨最严重的地区，树木正在枯死。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/prevalent；
 > - Drought conditions have been prevalent across the area for several years. `[例]`
+>   - 中译：干旱条件在该地区已经持续了好几年。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/prevalent；
 
 
 ---

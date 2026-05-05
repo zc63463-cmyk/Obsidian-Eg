@@ -136,8 +136,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The tournament was a chance to add another piece of shiny hardware to her vast collection. `[例]`
+  - 中译：这次锦标赛是她为庞大的收藏再添一件闪亮奖杯的机会。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hardware；
 > - The team went home from the competition with less hardware this year. `[例]`
+  - 中译：今年这支队伍在比赛中带回家的奖杯比往年少。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hardware；
 > - The growth of the computer and consumer electronics industries is driven by a steady stream of advances in both hardware and software. `[例]`
+  - 中译：计算机和消费电子产业的增长是由硬件和软件方面不断取得的进步所推动的。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hardware；
 
 
 ---

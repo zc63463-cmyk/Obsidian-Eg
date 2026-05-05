@@ -131,8 +131,14 @@ stiff 源自古英语 *stif*（僵硬的），与 [[st-sta-stat]]（站立）词
 
 > [!example]- 语料
 > - His clothes were stiff with dried mud. `[例]`
+>   - 中译：他的衣服上沾满了干泥巴，硬邦邦的。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/stiff；
 > - This hair spray has made my hair stiff. `[例]`
+>   - 中译：这款发胶把我的头发弄得很硬。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/stiff；
 > - The handle on this door is rather stiff. `[例]`
+>   - 中译：这扇门的把手相当紧。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/stiff；
 
 
 ---

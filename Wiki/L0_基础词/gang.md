@@ -130,8 +130,14 @@ gang 为基础词汇，无词根词缀拆分。源自古英语 *gang*（行进�
 
 > [!example]- 语料
 > - The gang was known for its involvement in drug trafficking and violent crimes. `[例]`
+  - 中译：该团伙因参与毒品贩运和暴力犯罪而臭名昭著。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/gang；
 > - There were always gangs of kids hanging around the mall. `[例]`
+  - 中译：总是有一群群的孩子在商场附近闲逛。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/gang；
 > - Fights among rival gangs account for most murders in the city. `[例]`
+  - 中译：敌对帮派之间的斗殴占该城市大多数谋杀案。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/gang；
 
 
 ---

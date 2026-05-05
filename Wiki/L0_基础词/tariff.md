@@ -129,8 +129,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The United States started to raise tariffs on imported steel and aluminum from 25 percent to 50 percent, sparking criticism and trade war concerns across the globe. `[真题]`
+>   - 中译：美国开始将进口钢铁和铝的关税从25%提高到50%，引发了全球范围内的批评和贸易战担忧。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/tariff；
 > - Beijing responded with its own retaliatory tariffs on a range of U.S. products after Washington threatened substantial tariffs over alleged intellectual property theft. `[真题]`
+>   - 中译：在华盛顿因涉嫌知识产权盗窃威胁大幅加征关税后，北京对一系列美国产品采取了报复性关税措施。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/tariff；
 > - The trade agreement aims to reduce tariffs and eliminate other barriers to cross-border commerce between the two nations. `[真题]`
+>   - 中译：该贸易协定旨在降低关税并消除两国间跨境商业的其他壁垒。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/tariff；
 
 
 ---

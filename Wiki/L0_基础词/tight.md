@@ -130,8 +130,14 @@ review_count: 0
 
 > [!example]- 语料
 > - I can't untie the knot - it's too tight. `[例]`
+>   - 中译：我解不开这个结——太紧了。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/tight；
 > - This lid is on very tight. `[例]`
+>   - 中译：这个盖子盖得非常紧。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/tight；
 > - The people stood talking in tight groups. `[例]`
+>   - 中译：人们站在一起，紧紧地聚成几群交谈。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/tight；
 
 
 ---

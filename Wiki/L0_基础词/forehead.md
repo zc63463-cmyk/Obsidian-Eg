@@ -121,8 +121,14 @@ fore-(前面) + head(头)
 
 > [!example]- 语料
 > - She's got a high forehead. `[例]`
+>   - 中译：她的额头很高。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/forehead；
 > - She wiped the beads of sweat from her forehead. `[例]`
+>   - 中译：她擦去额头上的汗珠。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/forehead；
 > - You haven't got a temperature ," she said, touching the boy's forehead. `[例]`
+>   - 中译：你没有发烧，"她摸着男孩的额头说。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/forehead；
 
 
 ---

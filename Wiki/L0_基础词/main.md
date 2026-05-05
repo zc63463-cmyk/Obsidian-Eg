@@ -136,9 +136,17 @@ review_count: 0
 
 > [!example]- 语料
 > - One of the main reasons I came to England was to study the language. `[COCA-SPOKEN]`
+> -   - 中译：我来英国的主要原因之一是学习语言；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/main；
 > - In the main, the government's economic policies have been effective in reducing unemployment rates. `[COCA-ACAD]`
+> -   - 中译：总的来说，政府的经济政策在减少；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/main；
 > - Our main aim is to improve the company's productivity. `[COCA-ACAD]`
+> -   - 中译：我们的主要目标是提高公司的生产力；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/main；
 > - The main reason for the decline in traditional bookstores is the rapid growth of online shopping and e-books. `[例]`
+> -   - 中译：传统书店衰落的主要原因是网购和电子书的快速增长；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/main；
 
 
 ---

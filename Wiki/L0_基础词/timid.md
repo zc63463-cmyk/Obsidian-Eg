@@ -127,8 +127,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Kieran is a timid child. `[例]`
+>   - 中译：基兰是一个胆小的孩子。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/timid；
 > - My dog is a little timid - especially around other dogs. `[例]`
+>   - 中译：我的狗有点胆小——尤其是在其他狗面前。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/timid；
 > - She was timid about swimming in deep water. `[例]`
+>   - 中译：她不敢在深水中游泳。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/timid；
 
 
 ---

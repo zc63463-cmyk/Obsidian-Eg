@@ -135,8 +135,14 @@ seam（源自古英语 *sēam*，"接缝"，与 [[second]]/[[section]]/[[segment
 
 > [!example]- 语料
 > - Her dress had split along the seam. `[真题]`
+  - 中译：她的连衣裙沿着接缝裂开了。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/seam
 > - The situation is now beginning to burst at the seams. `[真题]`
+  - 中译：局势现在开始变得难以控制。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/seam
 > - The average UK coal seam is one metre thick. `[例]`
+  - 中译：英国煤层的平均厚度为一米。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/seam
 
 
 ---

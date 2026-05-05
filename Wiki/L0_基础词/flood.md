@@ -130,8 +130,14 @@ flood（源自古英语 *flōd*，与 flow 同源，原始印欧语 *pleu-* "流
 
 > [!example]- 语料
 > - Our washing machine broke down yesterday and flooded the kitchen. `[例]`
+>   - 中译：我们的洗衣机昨天坏了，把厨房给淹了。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/flood；
 > - The whole town flooded when the river burst its banks. `[例]`
+>   - 中译：河水决堤时，整个小镇都被淹了。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/flood；
 > - Several families living by the river were flooded out (= forced to leave their houses because they became covered with water ). `[例]`
+>   - 中译：住在河边的几户人家被洪水逼得离开了家园。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/flood；
 
 
 ---

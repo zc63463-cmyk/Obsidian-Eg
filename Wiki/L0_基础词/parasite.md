@@ -125,9 +125,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The tapeworm is a parasite that lives in the human intestine. `[例]`
+  - 中译：绦虫是一种寄生在人体肠道内的寄生虫。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/parasite；
 > - He was regarded as a parasite who lived off his wealthy relatives. `[例]`
+  - 中译：他被认为是一个靠富裕亲戚生活的寄生虫。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/parasite；
 > - The company was described as a parasite feeding on public funds without contributing anything of value. `[例]`
-
+  - 中译：这家公司被描述为一只以公共资金为食却不贡献任何价值的寄生虫。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/parasite；
 
 ---
 

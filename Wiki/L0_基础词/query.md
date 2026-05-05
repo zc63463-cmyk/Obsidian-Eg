@@ -134,8 +134,14 @@ review_count: 0
 
 > [!example]- 语料
 > - What was their response to your query? `[例]`
+>   - 中译：他们对你的查询有什么回应？；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/query；
 > - I have a query about the second item on the agenda. `[例]`
+>   - 中译：我对议程上的第二个项目有疑问。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/query；
 > - The Revenue is unlikely to query such an arrangement unless the sums are particularly large in relation to your income. `[例]`
+>   - 中译：税务局不太可能质疑这种安排，除非金额相对于你的收入特别大。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/query；
 
 
 ---

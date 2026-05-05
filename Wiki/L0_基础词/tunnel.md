@@ -126,8 +126,14 @@ tunnel 源自古法语 *tonnel*（大桶、圆筒），是 *tonne*（大桶）�
 
 > [!example]- 语料
 > - The decision has not yet been made whether to tunnel under the river or build a bridge over it. `[例]`
+>   - 中译：是在河下挖隧道还是在河上建桥，尚未做出决定。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/tunnel；
 > - The alternative is to tunnel a route through the mountain. `[例]`
+>   - 中译：另一种方案是开凿一条穿越山脉的隧道。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/tunnel；
 > - He was trapped in a collapsed building but managed to tunnel his way out. `[例]`
+>   - 中译：他被困在一栋倒塌的建筑中，但设法挖出了一条出路。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/tunnel；
 
 
 ---

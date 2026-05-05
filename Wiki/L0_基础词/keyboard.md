@@ -127,9 +127,17 @@ review_count: 0
 
 > [!example]- 语料
 > - The invention of the computer keyboard revolutionized the way humans interact with machines, transforming communication and data processing. `[真题]`
+>   - 中译：电脑键盘的发明彻底改变了人类与机器交互的方式，变革了通信和数据处理。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/keyboard；
 > - Many young people today spend more time typing on a keyboard than writing by hand, which has raised concerns about the decline of handwriting skills. `[真题]`
+>   - 中译：如今许多年轻人花在键盘打字上的时间比手写还多，这引发了人们对书写能力下降的担忧。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/keyboard；
 > - The keyboard shortcut Ctrl+W closes the window. `[例]`
+>   - 中译：键盘快捷键Ctrl+W关闭窗口。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/keyboard；
 > - My star and favourite person is Tuomas Holopainen of Nightwish keyboard. `[例]`
+>   - 中译：我的偶像和最喜欢的人是Nightwish的键盘手Tuomas Holopainen。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/keyboard；
 
 
 ---

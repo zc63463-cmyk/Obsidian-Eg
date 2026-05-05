@@ -133,8 +133,14 @@ review_count: 0
 
 > [!example]- 语料
 > - She injured her spine in a riding accident. `[例]`
+>   - 中译：她在一次骑马事故中伤了脊椎。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/spine；
 > - The Apennine mountains form the spine (= central row of mountains ) of Italy. `[例]`
+>   - 中译：亚平宁山脉构成了意大利的脊柱（即中央山脉）。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/spine；
 > - Be careful of the cactus spines. `[例]`
+>   - 中译：小心仙人掌的刺。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/spine；
 
 
 ---

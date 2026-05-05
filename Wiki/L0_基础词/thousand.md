@@ -128,8 +128,14 @@ thousand 为日耳曼语系原生词（古英语 *þūsend*），源自原始日
 
 > [!example]- 语料
 > - The advent of electronic publishing and authors' need to find outlets for their papers resulted in thousands of new journals. `[真题]`
+>   - 中译：电子出版的出现和作者为论文寻找发表渠道的需求催生了数千种新期刊。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/thousand；
 > - The population of the village is about three thousand. `[例]`
+>   - 中译：这个村庄的人口大约是三千人。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/thousand；
 > - The damage will cost thousands of dollars to repair. `[例]`
+>   - 中译：修复损失将花费数千美元。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/thousand；
 
 
 ---

@@ -131,8 +131,14 @@ temp-(=tem-, 切割/时间，拉丁语 *tempus* 时间) + -o(名词后缀)
 
 > [!example]- 语料
 > - The tempo of technological change has accelerated dramatically in recent decades, reshaping industries and labour markets worldwide. `[真题]`
+>   - 中译：近几十年来，技术变革的节奏急剧加快，重塑了全球的产业和劳动力市场。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/tempo；
 > - Research even supports that athletes work out harder when listening to music at a faster tempo. `[真题]`
+>   - 中译：研究甚至表明，运动员在听节奏更快的音乐时锻炼更努力。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/tempo；
 > - The two instruments play the same piece, but the second enters later than the first and at a faster tempo, such that they end together. `[真题]`
+>   - 中译：两件乐器演奏同一首曲子，但第二件比第一件稍晚进入并以更快的节奏演奏，使它们同时结束。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/tempo；
 
 
 ---

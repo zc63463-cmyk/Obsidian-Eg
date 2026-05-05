@@ -128,8 +128,14 @@ review_count: 0
 
 > [!example]- 语料
 > - They went into town to indulge in some serious shopping. `[例]`
+  - 中译：他们进城去尽情购物。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/indulge；
 > - The inheritance enabled him to indulge his passion for art. `[例]`
+  - 中译：这笔遗产使他能够尽情追求对艺术的热爱。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/indulge；
 > - The soccer fans indulged their patriotism , waving flags and singing songs. `[例]`
+  - 中译：足球迷们挥舞旗帜、高唱歌曲，尽情表达他们的爱国情怀。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/indulge；
 
 
 ---

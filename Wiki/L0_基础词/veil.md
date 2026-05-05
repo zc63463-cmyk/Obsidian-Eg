@@ -136,9 +136,17 @@ veil（源自拉丁语 *velum*，"遮盖物，帆"，与 [[velvet]]/[[vertical]]
 
 > [!example]- 语料
 > - He recognized the coast of England through a veil of mist. `[例]`
+>   - 中译：透过薄雾，他认出了英格兰的海岸。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/veil；
 > - The government has decided to lift the veil on its plans. `[例]`
+>   - 中译：政府决定公开其计划。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/veil；
 > - I think we should draw a veil over what happened last night. `[例]`
+>   - 中译：我认为我们应该对昨晚发生的事避而不谈。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/veil；
 > - We want to lift the veil of secrecy that surrounds government decisions. `[例]`
+>   - 中译：我们希望揭开笼罩在政府决策周围的神秘面纱。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/veil；
 
 
 ---

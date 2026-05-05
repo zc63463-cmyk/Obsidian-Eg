@@ -131,8 +131,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The researchers took great pains to ensure that their experimental design was rigorous and their data collection methods were reliable. `[真题]`
+>   - 中译：研究人员煞费苦心地确保其实验设计严谨，数据收集方法可靠。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pain；
 > - Chronic pain affects millions of people worldwide and is one of the most common reasons patients seek medical attention. `[真题]`
+>   - 中译：慢性疼痛影响着全球数百万人，是患者就医的最常见原因之一。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pain；
 > - American military commanders insist they take pains to ensure that civilians are spared, often verifying their targets with several sources of information. `[真题]`
+>   - 中译：美国军事指挥官坚称他们尽力确保平民不受伤害，通常会用多个信息来源核实目标。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pain；
 
 
 ---

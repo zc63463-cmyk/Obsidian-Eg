@@ -124,9 +124,17 @@ review_count: 0
 
 > [!example]- 语料
 > - The sudden thunderstorm wakened the entire village in the middle of the night. `[真题]`
+>   - 中译：突如其来的雷暴在半夜惊醒了整个村庄。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/waken；
 > - The pain had fully wakened him, and he began to think of the lecture. `[例]`
+>   - 中译：疼痛完全唤醒了他，他开始思考那场讲座。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/waken；
 > - Then, quickly, as though wakened from a dream, she began to dress and feed her children. `[例]`
+>   - 中译：然后，她迅速地仿佛从梦中醒来，开始穿衣和喂孩子。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/waken；
 > - The shock is yet to be given which shall waken it. `[例]`
+>   - 中译：尚未给予足以唤醒它的震撼。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/waken；
 
 
 ---

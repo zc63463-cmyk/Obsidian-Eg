@@ -129,8 +129,14 @@ review_count: 0
 
 > [!example]- 语料
 > - My brother is an officer in the Navy. `[例]`
+> - 中译：我哥哥是海军军官。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/navy；
 > - Gabriel joined the navy in 1997. `[例]`
+> - 中译：加布里埃尔于1997年加入海军。；
+> - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/navy；
 > - He was wearing a navy sweater. `[例]`
+> - 中译：他穿着一件藏青色毛衣。；
+> - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/navy；
 
 
 ---

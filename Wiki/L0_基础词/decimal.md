@@ -128,8 +128,14 @@ decim-(十，十分之一，拉丁语 *decem*) + -al(形容词/名词后缀，..
 
 > [!example]- 语料
 > - If you calculate the result to two decimal places (= give two numbers after the decimal point , as in 3.65) , that should minimize any possible errors. `[例]`
+  - 中译：如果将结果计算到小数点后两位，应该能将可能的误差降到最低。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/decimal；
 > - Give your answers correct to three decimal places. `[例]`
+  - 中译：答案精确到小数点后三位。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/decimal；
 > - The plan offers a decimal option for small organizations. `[例]`
+  - 中译：该计划为小型组织提供了一种十进制选项。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/decimal；
 
 
 ---

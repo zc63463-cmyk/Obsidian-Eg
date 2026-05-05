@@ -128,8 +128,14 @@ rock（石头，中古英语 *rokk*，古诺斯语源 *rokkr*，通俗拉丁语 
 
 > [!example]- 语料
 > - The scandal rocked the government to its foundations. `[真题]`
+  - 中译：丑闻使政府根基动摇。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rock
 > - The boat rocked violently in the storm. `[真题]`
+  - 中译：小船在暴风雨中剧烈摇晃。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rock
 > - The government was rocked by a series of financial scandals. `[真题]`
+  - 中译：政府因一系列金融丑闻而受到震动。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rock
 
 
 ---

@@ -125,9 +125,14 @@ pillar(柱子，源自拉丁语 *pila* "柱子，堆")
 
 > [!example]- 语料
 > - A row of reinforced concrete pillars supports the bridge. `[例]`
+  - 中译：一排钢筋混凝土柱子支撑着这座桥。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pillar；
 > - Mrs Maple is a pillar of the local church. `[例]`
+  - 中译：梅普尔夫人是当地教会的支柱。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/pillar；
 > - He’s a pillar of the Dallas business community. `[例]`
-
+  - 中译：他是达拉斯商界的支柱。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/pillar；
 
 ---
 

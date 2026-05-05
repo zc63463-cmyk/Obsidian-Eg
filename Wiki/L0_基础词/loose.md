@@ -132,8 +132,14 @@ review_count: 0
 
 > [!example]- 语料
 > - There were some loose wires hanging out of the wall. `[例]`
+> -   - 中译：墙上垂下一些松散的电线；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/loose；
 > - The nails in the wall had worked themselves loose. `[例]`
+> -   - 中译：墙上的钉子自己松了；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/loose；
 > - The prisoners were so thin that their skin hung loose. `[例]`
+> -   - 中译：囚犯们瘦得皮包骨头；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/loose；
 
 
 ---

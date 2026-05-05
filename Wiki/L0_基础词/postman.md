@@ -124,8 +124,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The postman hasn't been here yet. `[例]`
+>   - 中译：邮递员还没来。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/postman；
 > - The postman left this package with me because you were out. `[例]`
+>   - 中译：邮递员因为你不在家，把包裹留给了我。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/postman；
 > - I think I can see the postman coming up the drive. `[例]`
+>   - 中译：我想我看到邮递员正沿着车道走过来。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/postman；
 
 
 ---

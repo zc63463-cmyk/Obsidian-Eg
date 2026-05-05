@@ -132,8 +132,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The road was covered with fragments of glass from the shattered window. `[例]`
+>   - 中译：路上覆盖着碎窗户的玻璃碎片。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fragment；
 > - Literary scholars are piecing together her last unpublished novel from fragments of a recently discovered manuscript. `[例]`
+>   - 中译：文学学者们正从最近发现的手稿碎片中拼凑出她最后一部未出版的小说。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fragment；
 > - The satellite will fragment and burn up as it falls through the earth's atmosphere. `[例]`
+>   - 中译：卫星在穿过地球大气层时会碎裂并烧毁。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fragment；
 
 
 ---

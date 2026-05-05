@@ -134,8 +134,14 @@ sail 源自古英语 *segl*，与古日耳曼语系同源，可能最终来自�
 
 > [!example]- 语料
 > - At once he began to shorten sail, to invest only in the soundest securities, and to convert all his weaker ones into cash. `[真题]`
+  - 中译：他立刻开始缩减投资规模，只投资最稳健的证券，并将所有较弱的资产变现。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sail
 > - Two years ago he became the youngest person to sail across the Atlantic. `[例]`
+  - 中译：两年前他成为横渡大西洋的最年轻的人。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sail
 > - They honored us in many ways and when we were ready to sail, they furnished us with the supplies we needed. `[真题]`
+  - 中译：他们以多种方式款待我们，当我们准备启航时，他们为我们提供了所需的物资。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sail
 
 
 ---

@@ -123,8 +123,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Apollo 8 flew around the moon, but Apollo 9 stayed close before the Apollo 10 lunar flyby and eventual Apollo 11 first moon landing. `[例]`
+> -   - 中译：阿波罗8号绕月飞行，阿波罗9号在近地轨道停留，之后是阿波罗10号的月球飞掠和最终阿波罗11号的首次登月；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lunar；
 > - Astrobotic’s lunar south pole mission could launch later this year. `[例]`
+> -   - 中译：Astrobotic公司的月球南极任务可能在今年晚些时候发射；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lunar；
 > - That’s why lunar maria have names like the Ocean of Storms and the Sea of Tranquility. `[例]`
+> -   - 中译：这就是为什么月球海有风暴洋和静海这样的名字；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lunar；
 
 
 ---

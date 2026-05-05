@@ -138,8 +138,14 @@ review_count: 0
 
 > [!example]- 语料
 > - DNA testing is also the latest rage among passionate genealogists—and supports businesses that offer to search for a family's geographic roots. `[真题]`
+>   - 中译：DNA检测也是热衷于家谱研究的人们的最新热潮——它也支持那些提供家族地理根源搜索服务的企业。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rage；
 > - Rosenberg, the recipient of a Pulitzer Prize, offers a host of examples of the social cure in action: In South Carolina, a state-sponsored antismoking program called Rage Against the Haze sets out to make cigarettes uncool. `[真题]`
+>   - 中译：普利策奖获得者罗森伯格提供了大量社会疗法在行动中的例子：在南卡罗来纳州，一个名为“向烟雾宣战”的州政府赞助的反吸烟计划旨在让吸烟变得不酷。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rage；
 > - She flew into a rage after missing her flight. `[真题]`
+>   - 中译：她错过了航班后勃然大怒。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rage；
 
 
 ---

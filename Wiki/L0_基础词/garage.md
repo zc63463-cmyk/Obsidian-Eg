@@ -128,8 +128,14 @@ garage 源自法兰克语（日耳曼语系）*\*waron* "守卫、保护"，经�
 
 > [!example]- 语料
 > - She pulled the car into the garage and turned off the engine. `[例]`
+  - 中译：她把车开进车库，然后熄灭了引擎。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/garage；
 > - Many families hold garage sales to get rid of unwanted items. `[例]`
+  - 中译：许多家庭举办车库大甩卖来处理不需要的物品。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/garage；
 > - Only 30 percent of Americans actually park their cars in the garage. `[例]`
+  - 中译：只有30%的美国人实际上把车停在车库里。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/garage；
 
 
 ---

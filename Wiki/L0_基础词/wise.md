@@ -138,9 +138,17 @@ review_count: 0
 
 > [!example]- 语料
 > - It is wise to take precautions before making any significant investment decisions. `[真题]`
+>   - 中译：在做任何重大投资决定之前采取预防措施是明智的。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/wise；
 > - She never wised up to the fact that her colleagues had been making fun of her behind her back. `[真题]`
+>   - 中译：她一直没有意识到同事们一直在背后嘲笑她。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/wise；
 > - Many have benefited from her wise counsel over the years, and her advice is still sought after today. `[真题]`
+>   - 中译：多年来许多人从她明智的建议中受益，她的意见至今仍被人 sought。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/wise；
 > - Career-wise, this new position offers far more opportunities for advancement than her previous role. `[真题]`
+>   - 中译：从职业发展来看，这个新职位比她之前的职位提供了更多的晋升机会。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/wise；
 
 
 ---

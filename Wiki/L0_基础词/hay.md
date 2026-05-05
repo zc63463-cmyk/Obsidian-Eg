@@ -132,8 +132,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Their credit card debt isn't hay —it'll take years to pay it off. `[例]`
+  - 中译：他们的信用卡债务可不是小数目——要还清需要好几年。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hay；
 > - Dragging myself out of the hay on such a cold, dreary morning seemed like an act of sheer masochism. `[例]`
+  - 中译：在这样一个寒冷阴沉的早晨从干草堆里把自己拖出来，简直像是自虐。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hay；
 > - Few players in this class love football more than this guy, a former hay bale toss champion. `[例]`
+  - 中译：在这个级别中，很少有球员比这个家伙更热爱足球了，他曾是干草捆投掷冠军。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hay；
 
 
 ---

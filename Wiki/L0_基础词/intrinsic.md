@@ -124,8 +124,14 @@ intrin-(=intra-, 在内部，拉丁语 *intra* "在内") + -[[sec-sect|sec]](=se
 
 > [!example]- 语料
 > - The researchers proposed a intrinsic solution to the problem. `[真题]`
+>   - 中译：研究人员提出了一个本质性的解决方案。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/intrinsic；
 > - The company adopted a intrinsic approach to improve efficiency. `[例]`
+>   - 中译：公司采用了一种内在的方法来提高效率。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/intrinsic；
 > - The plan offers a intrinsic option for small organizations. `[例]`
+>   - 中译：该计划为小型组织提供了一个固有的选项。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/intrinsic；
 
 
 ---

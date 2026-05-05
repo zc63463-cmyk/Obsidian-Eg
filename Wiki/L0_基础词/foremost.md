@@ -124,8 +124,14 @@ fore-(前面) + most(最) → 最前面的 → 最重要的
 
 > [!example]- 语料
 > - This is one of the country's foremost arts centres. `[例]`
+>   - 中译：这是该国最重要的艺术中心之一。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/foremost；
 > - She's one of the foremost experts on child psychology. `[例]`
+>   - 中译：她是儿童心理学领域最杰出的专家之一。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/foremost；
 > - He was one of the foremost actors of his day. `[例]`
+>   - 中译：他是他那个时代最杰出的演员之一。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/foremost；
 
 
 ---

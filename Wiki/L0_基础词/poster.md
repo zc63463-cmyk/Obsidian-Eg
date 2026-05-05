@@ -126,8 +126,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The children put up posters on the classroom walls. `[例]`
+>   - 中译：孩子们在教室墙上贴了海报。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/poster；
 > - We noticed a poster advertising a circus. `[例]`
+>   - 中译：我们注意到一张宣传马戏团的海报。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/poster；
 > - There was a lively debate on the message boards , with many posters arguing against the plan. `[例]`
+>   - 中译：留言板上展开了热烈的讨论，许多发帖人反对该计划。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/poster；
 
 
 ---

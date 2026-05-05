@@ -130,8 +130,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The biggest obstacle in our way was a tree trunk in the road. `[例]`
+>   - 中译：我们路上最大的障碍是倒在路上的树干。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/obstacle；
 > - This decision has removed the last obstacle to the hostages ' release. `[例]`
+>   - 中译：这个决定消除了释放人质的最后一个障碍。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/obstacle；
 > - We suddenly encountered an obstacle along the trail. `[例]`
+>   - 中译：我们在小径上突然遇到了一个障碍物。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/obstacle；
 
 
 ---

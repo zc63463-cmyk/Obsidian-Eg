@@ -128,8 +128,14 @@ in-(进入) + [[put|put-]](放置，放)
 
 > [!example]- 语料
 > - Students need more input from their teachers to improve their writing skills. `[真题]`
+  - 中译：学生需要老师更多的指导来提高写作能力。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/input；
 > - The quality of the output depends on the quality of the input. `[真题]`
+  - 中译：输出的质量取决于输入的质量。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/input；
 > - Barley is one of the main inputs to the process of distillation. `[例]`
+  - 中译：大麦是蒸馏过程中的主要原料之一。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/input；
 
 
 ---

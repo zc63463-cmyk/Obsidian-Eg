@@ -121,8 +121,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Carbon dioxide , the byproduct of respiration of all living animals, is particularly attractive. `[例]`
+  - 中译：二氧化碳是所有活体动物呼吸的副产品，尤其具有吸引力。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/dioxide；
 > - The fear of a refinery spewing sulfur- dioxide soot and unleashing acid rain, Yoder said, was enough to prompt the county health department to create a pollution-control office to enforce air-quality regulations and end the refinery plans. `[例]`
+  - 中译：约德说，对炼油厂排放二氧化硫烟尘并引发酸雨的担忧，足以促使县卫生部门设立污染控制办公室来执行空气质量法规，并终止炼油厂计划。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/dioxide；
 > - On the Red Planet, this hardware could convert a carbon- dioxide -rich atmosphere into breathable oxygen and methane, fueling the trip home. `[例]`
+  - 中译：在火星上，这种设备可以将富含二氧化碳的大气转化为可呼吸的氧气和甲烷，为返程提供燃料。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/dioxide；
 
 
 ---

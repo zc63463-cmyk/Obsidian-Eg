@@ -128,8 +128,14 @@ insult（1540年代，源自拉丁语 *insultare* "跳到别人身上攻击、�
 
 > [!example]- 语料
 > - Their decision to cancel the project was an insult to all my hard work. `[真题]`
+>   - 中译：他们取消项目的决定是对我所有辛勤工作的侮辱。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/insult；
 > - She took it as a personal insult that you did not ask her opinion about your book. `[真题]`
+>   - 中译：你没有征求她对你那本书的意见，她把这视为对个人的侮辱。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/insult；
 > - To add insult to injury, some lenders have tacked on fees for late payments that the customers said were not their fault. `[真题]`
+>   - 中译：更令人气愤的是，一些贷款机构还附加了逾期付款的费用，而客户表示这并不是他们的过错。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/insult；
 
 
 ---

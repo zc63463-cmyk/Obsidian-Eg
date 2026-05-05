@@ -117,8 +117,14 @@ week(周) + day(天)
 
 > [!example]- 语料
 > - The museum is open on weekdays from 9 a.m. to 5 p.m. `[真题]`
+>   - 中译：博物馆在工作日从上午9点开放到下午5点。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/weekday；
 > - She scheduled her doctor's appointments for weekday mornings to avoid the crowds. `[例]`
+>   - 中译：她把看医生的预约安排在工作日上午，以避开人群。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/weekday；
 > - The weekday lunch rush at the restaurant was always busy with office workers. `[例]`
+>   - 中译：这家餐厅工作日的午餐时段总是挤满了上班族。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/weekday；
 
 
 ---

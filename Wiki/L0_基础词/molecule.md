@@ -123,8 +123,14 @@ review_count: 0
 
 > [!example]- 语料
 > - A water molecule consists of two hydrogen atoms and one oxygen atom. `[真题]`
+> - 中译：一个水分子由两个氢原子和一个氧原子组成。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/molecule；
 > - DNA is a very large molecule that contains genetic information. `[真题]`
+> - 中译：DNA是一种含有遗传信息的非常大的分子。；
+> - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/molecule；
 > - A plasmid is a DNA molecule that is separate from the chromosomal DNA and that can replicate independently. `[真题]`
+> - 中译：质粒是一种独立于染色体DNA之外的DNA分子，能够独立复制。；
+> - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/molecule；
 
 
 ---

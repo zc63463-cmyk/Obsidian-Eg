@@ -123,9 +123,17 @@ review_count: 0
 
 > [!example]- 语料
 > - The company's financial performance this year has been satisfactory, though it still falls short of the board's expectations. `[真题]`
+  - 中译：公司今年的财务表现尚可，但仍未达到董事会的期望。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/satisfactory
 > - The researchers acknowledged that the current evidence is far from satisfactory and called for more rigorous studies to confirm the findings. `[真题]`
+  - 中译：研究人员承认目前的证据远不能令人满意，并呼吁进行更严格的研究来确认这些发现。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/satisfactory
 > - His progress this term has been satisfactory. `[例]`
+  - 中译：他这学期的进步令人满意。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/satisfactory
 > - There seems to be no satisfactory explanation for the phenomenon. `[例]`
+  - 中译：对这一现象似乎没有令人满意的解释。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/satisfactory
 
 
 ---

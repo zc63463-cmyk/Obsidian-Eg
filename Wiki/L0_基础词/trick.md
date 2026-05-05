@@ -132,8 +132,14 @@ review_count: 0
 
 > [!example]- 语料
 > - She played a really nasty trick on me - she put syrup in my shampoo bottle! `[例]`
+>   - 中译：她对我恶作剧——把糖浆放进了我的洗发水瓶里！；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/trick；
 > - My niece was showing me all the tricks that she's learned to do with her new magic set. `[例]`
+>   - 中译：我的侄女在给我展示她用新魔术套装学到的所有戏法。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/trick；
 > - It's trick photography - she's supposed to look like she's walking on water. `[例]`
+>   - 中译：这是特效摄影——她看起来应该像在水上行走。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/trick；
 
 
 ---

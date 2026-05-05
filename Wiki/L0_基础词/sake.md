@@ -129,8 +129,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Even our schools are where we send our children to get a practical education — not to pursue knowledge for the sake of knowledge. `[真题]`
+  - 中译：甚至我们的学校也只是我们送孩子去接受实用教育的地方——而不是为了追求知识而追求知识。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sake
 > - For the sake of our future, and for the sake of all our children, let's end all wars. `[例]`
+  - 中译：为了我们的未来，为了我们所有的孩子，让我们结束一切战争。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sake
 > - Please do it for her sake. `[例]`
+  - 中译：请看在她的份上做这件事。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sake
 
 
 ---

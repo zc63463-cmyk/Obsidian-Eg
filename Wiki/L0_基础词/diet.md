@@ -124,8 +124,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Diet varies between different countries in the world. `[例]`
+  - 中译：世界各国的饮食习惯各不相同。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/diet；
 > - The benefits of a healthy diet are obvious. `[例]`
+  - 中译：健康饮食的好处是显而易见的。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/diet；
 > - Choose a varied diet rich in whole grains , vegetables , and fruits , and low in saturated fats. `[例]`
+  - 中译：选择多样化的饮食，富含全谷物、蔬菜和水果，低饱和脂肪。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/diet；
 
 
 ---

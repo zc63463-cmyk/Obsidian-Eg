@@ -126,8 +126,14 @@ review_count: 0
 
 > [!example]- 语料
 > - I think a lot of modern architecture is very ugly. `[例]`
+>   - 中译：我认为很多现代建筑非常丑陋。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/ugly；
 > - He was a really unpleasant man and as ugly as sin (= very ugly). `[例]`
+>   - 中译：他是个非常令人不快的人，而且丑得要命。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/ugly；
 > - There were ugly scenes outside the stadium. `[例]`
+>   - 中译：体育场外发生了令人不快的场面。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/ugly；
 
 
 ---

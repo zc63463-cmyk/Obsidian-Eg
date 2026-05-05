@@ -134,8 +134,14 @@ review_count: 0
 
 > [!example]- 语料
 > - She's trying to build up a portfolio of work to show during job interviews. `[例]`
+>   - 中译：她正在努力建立一份作品集，以便在求职面试时展示。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/portfolio；
 > - The prime minister offered her the foreign affairs portfolio. `[例]`
+>   - 中译：首相邀请她担任外交部长职务。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/portfolio；
 > - He knows that life will not be simple when he takes up his post as minister without portfolio in the cabinet. `[例]`
+>   - 中译：他知道当他出任内阁不管部部长时，生活将不会简单。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/portfolio；
 
 
 ---

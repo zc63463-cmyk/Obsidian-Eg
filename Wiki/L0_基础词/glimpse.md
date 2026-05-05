@@ -133,6 +133,8 @@ gl-（光/视觉词根，印欧语系 *ghel-* "发光"）+ -impse（表示短暂
 > - Crowds shouted and pushed to get a glimpse of their hero. `[真题]`
 > - For a glimpse into football's immediate future, you have to go back in time. `[真题]`
 > - We glimpsed the ruined abbey from the windows of the train. `[例]`
+  - 中译：我们从火车车窗中瞥见了那座废弃的修道院。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/glimpse；
 
 
 ---

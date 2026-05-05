@@ -127,8 +127,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Grow the bulbs in a transparent plastic box , so the children can see the roots growing. `[例]`
+>   - 中译：在透明塑料盒中种植球茎，这样孩子们可以看到根的生长过程。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/transparent；
 > - Her blouse was practically transparent! `[例]`
+>   - 中译：她的衬衫几乎是透明的！；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/transparent；
 > - I think we should try to make the instructions more transparent. `[例]`
+>   - 中译：我认为我们应该努力让说明更加透明易懂。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/transparent；
 
 
 ---

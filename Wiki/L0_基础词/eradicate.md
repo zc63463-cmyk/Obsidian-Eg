@@ -126,8 +126,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The government claims to be doing all it can to eradicate corruption. `[例]`
+  - 中译：政府声称正在尽一切努力根除腐败。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/eradicate；
 > - The disease that once claimed millions of lives has now been eradicated. `[例]`
+  - 中译：这种曾经夺去数百万人生命的疾病现已被消灭。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/eradicate；
 > - A new vaccine eradicated polio. `[例]`
+  - 中译：一种新疫苗消灭了脊髓灰质炎。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/eradicate；
 
 
 ---

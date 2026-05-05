@@ -125,8 +125,14 @@ review_count: 0
 
 > [!example]- 语料
 > - During this festival, women paint their hands with henna, and homes are decorated with colorful paper lanterns. `[例]`
+>   - 中译：在这个节日期间，妇女们用指甲花染手，家家户户装饰着五彩缤纷的纸灯笼。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lantern；
 > - Now red is a symbol at New Year: people wear new red clothes, they decorate their houses with red lanterns, and they have fireworks covered in red paper. `[例]`
-> - We’re going to put paper lanterns in the trees in the garden for the party tonight. `[例]`
+>   - 中译：如今红色是新年的象征：人们穿新红衣，用红灯笼装饰房屋，燃放裹着红纸的烟花。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lantern；
+> - We're going to put paper lanterns in the trees in the garden for the party tonight. `[例]`
+>   - 中译：我们打算在花园的树上挂纸灯笼，为今晚的派对做准备。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lantern；
 
 
 ---

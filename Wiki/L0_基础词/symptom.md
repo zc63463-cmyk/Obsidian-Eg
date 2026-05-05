@@ -120,9 +120,17 @@ review_count: 0
 
 > [!example]- 语料
 > - Fever and cough are common symptoms of the flu. `[真题]`
+>   - 中译：发烧和咳嗽是流感的常见症状。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/symptom；
 > - Tiredness, loss of appetite and sleeping problems are all classic symptoms of depression. `[真题]`
+>   - 中译：疲劳、食欲不振和睡眠问题都是抑郁症的典型症状。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/symptom；
 > - The rising crime rate is a symptom of deeper social problems. `[例]`
+>   - 中译：犯罪率上升是更深层社会问题的征兆。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/symptom；
 > - Usually, high blood pressure has no symptoms, so many people have it for years without knowing. `[例]`
+>   - 中译：通常高血压没有症状，所以很多人患病多年却浑然不知。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/symptom；
 
 
 ---

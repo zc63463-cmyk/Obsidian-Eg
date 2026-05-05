@@ -132,9 +132,17 @@ review_count: 0
 
 > [!example]- 语料
 > - The concept of man versus machine is at least as old as the industrial revolution. `[真题]`
+>   - 中译：人机对抗的概念至少可以追溯到工业革命时期。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/versus；
 > - The most exciting game was Harvard versus Yale. `[例]`
+>   - 中译：最精彩的比赛是哈佛对耶鲁。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/versus；
 > - Only 18.8% of the class of 1982 had some kind of diploma four years after high school, versus 45% of the class of 1972. `[例]`
+>   - 中译：1982届毕业生中只有18.8%在高中毕业四年后获得了某种文凭，而1972届这一比例为45%。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/versus；
 > - The debate of nature versus nurture has shaped the field of psychology for decades. `[例]`
+>   - 中译：先天与后天之争已经塑造了心理学领域数十年。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/versus；
 
 
 ---

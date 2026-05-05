@@ -131,8 +131,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Problems with mould inside the home are more prevalent today than a generation ago. `[例]`
+> - 中译：如今家庭内部霉菌问题比上一代人更为普遍。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/mould；
 > - Moulds reproduce by means of tiny spores that are invisible to the naked eye. `[例]`
+> - 中译：霉菌通过肉眼看不见的微小孢子进行繁殖。；
+> - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/mould；
 > - Moulds can grow on stored food for animals and humans , making the food unpalatable or toxic. `[例]`
+> - 中译：霉菌可以在储存的动植物食品上生长，使食物变得不可口或有毒。；
+> - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/mould；
 
 
 ---

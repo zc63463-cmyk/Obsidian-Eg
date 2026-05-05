@@ -137,8 +137,14 @@ re-（向后，往回）+ cess（走，=cedere，拉丁语"行走"）+ -ion（�
 
 > [!example]- 语料
 > - The country is sliding into the depths of (a) recession. `[例]`
+  - 中译：这个国家正滑入经济衰退的深渊。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/recession；
 > - A lot of companies have been adversely affected by the recession. `[例]`
+  - 中译：许多公司受到了经济衰退的不利影响。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/recession；
 > - For the second time in ten years , the government has driven the economy into deep and damaging recession. `[例]`
+  - 中译：十年内第二次，政府将经济推入了严重且具有破坏性的衰退之中。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/recession；
 
 
 ---

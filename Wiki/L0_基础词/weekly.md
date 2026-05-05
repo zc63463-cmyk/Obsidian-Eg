@@ -125,8 +125,14 @@ week(周) + -ly(每……的/以……为周期的)
 
 > [!example]- 语料
 > - The committee holds weekly meetings to discuss progress. `[真题]`
+>   - 中译：委员会每周开会讨论进展。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/weekly；
 > - She writes a weekly fashion column for the Evening Standard. `[真题]`
+>   - 中译：她为《标准晚报》撰写每周时尚专栏。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/weekly；
 > - The fire alarm is tested weekly. `[真题]`
+>   - 中译：火灾警报器每周测试一次。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/weekly；
 
 
 ---

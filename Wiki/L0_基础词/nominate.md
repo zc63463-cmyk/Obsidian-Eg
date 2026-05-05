@@ -126,8 +126,14 @@ nomin-（名字，拉丁语 *nomen*）+ -ate（动词后缀，"使……/做…�
 
 > [!example]- 语料
 > - He's been nominated by the Green Party as their candidate in the next election. `[例]`
+>   - 中译：他已被绿党提名为下届选举的候选人。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/nominate；
 > - Would you like to nominate anyone for director? `[例]`
+>   - 中译：你想提名谁担任董事？；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/nominate；
 > - The film was nominated for an Academy Award. `[例]`
+>   - 中译：这部电影获得了奥斯卡金像奖提名。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/nominate；
 
 
 ---
