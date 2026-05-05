@@ -141,8 +141,14 @@ hand 为基础词汇，词源不确定。原始日耳曼语 *\*handuz*。hand �
 
 > [!example]- 语料
 > - All their toys are made by hand. `[例]`
+>   - 中译：他们所有的玩具都是手工制作的。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hand
 > - I delivered her invitation by hand (= not using the postal service ). `[例]`
+>   - 中译：我亲手把请柬交给了她（即没有通过邮政服务）。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hand
 > - Get your hands off (= stop touching ) my bike! `[例]`
+>   - 中译：把你的手从我的自行车上拿开（即别碰我的自行车）！
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hand
 
 
 ---

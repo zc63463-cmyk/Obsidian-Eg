@@ -135,9 +135,17 @@ review_count: 0
 
 > [!example]- 语料
 > - The winds of change are sweeping across the region, as young people increasingly demand greater political freedom and economic opportunity. `[真题]`
+>   - 中译：变革之风正在席卷该地区，年轻人越来越多地要求更大的政治自由和经济机会。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/wind
 > - Quiet mountain roads wind through groves of bamboo and cedar, offering breathtaking views at every turn. `[真题]`
+>   - 中译：宁静的山路蜿蜒穿过竹林和雪松林，每个转弯处都提供令人叹为观止的景色。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/wind
 > - A line of wind trees rose above the morning fog. `[例]`
+>   - 中译：一排风动树在晨雾中耸立。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/wind
 > - The hikers rested under a towering wind near the coastal trail. `[例]`
+>   - 中译：徒步旅行者在海岸步道旁一棵高耸的风动树下休息。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/wind
 
 
 ---

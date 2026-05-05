@@ -123,8 +123,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The locomotive ability of spiders. `[例]`
+>   - 中译：蜘蛛的运动能力。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/locomotive
 > - From the design and engineering of passenger coaches to the precision of locomotive overhauls, digital twin technology enables predictive maintenance and performance optimization, ensuring safer and more efficient travel. `[例]`
+>   - 中译：从客车的设计与工程到机车大修的精密操作，数字孪生技术实现了预测性维护和性能优化，确保了更安全、更高效的出行。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/locomotive
 > - Cap it all at Headhunters Barber Shop and Railway Museum, a wonderfully oddball combination of locomotive lore and local haircuts—proving that even here, life runs on its own, distinctly Irish track. `[例]`
+>   - 中译：最后到猎头理发店和铁路博物馆去看看吧，这是一个将机车知识和当地理发奇妙结合的地方——证明即使在这里，生活也按照自己独特的爱尔兰轨道运行。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/locomotive
 
 
 ---

@@ -144,8 +144,14 @@ review_count: 0
 
 > [!example]- 语料
 > - He screwed up the project by missing the deadline. `[真题]`
+>   - 中译：他因为错过了截止日期而把项目搞砸了。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/screw
 > - The government put the screws on the company to comply with environmental regulations. `[真题]`
+>   - 中译：政府对该公司施加压力，要求其遵守环保法规。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/screw
 > - Give it another screw to make sure the lid doesn't come off while we're travelling. `[例]`
+>   - 中译：再拧一下，确保我们在路上时盖子不会脱落。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/screw
 
 
 ---

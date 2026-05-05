@@ -129,8 +129,14 @@ for-(=outside, 在外面) + -eign(=land, 土地，源自拉丁语 *agere* 的变
 
 > [!example]- 语料
 > - Spain was the first foreign country she had visited. `[例]`
+>   - 中译：西班牙是她访问的第一个外国。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/foreign
 > - Do you speak any foreign languages? `[例]`
+>   - 中译：你会说任何外语吗？
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/foreign
 > - His work provided him with the opportunity for a lot of foreign travel. `[例]`
+>   - 中译：他的工作为他提供了大量出国旅行的机会。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/foreign
 
 
 ---

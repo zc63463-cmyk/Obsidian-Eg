@@ -131,8 +131,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The editor of the newspaper resigned after it was revealed that the paper had published fabricated stories. `[例]`
+>   - 中译：在该报被曝出发布虚假报道后，报纸编辑辞职了。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/editor
 > - She has worked as a senior editor at a major publishing house for over twenty years. `[例]`
+>   - 中译：她在一家大型出版社担任高级编辑已有二十多年。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/editor
 > - Introducing the Guardian's editor-in-chief, Jarvis says Alan Rusbridger is the best newspaper editor in the world. `[例]`
+>   - 中译：在介绍《卫报》主编时，贾维斯说艾伦·拉斯布里杰是世界上最好的报纸编辑。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/editor
 
 
 ---

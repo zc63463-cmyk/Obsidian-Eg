@@ -133,9 +133,17 @@ review_count: 0
 
 > [!example]- 语料
 > - He has a genuine desire to help us. `[真题]`
+>   - 中译：他有真诚的意愿来帮助我们。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/genuine
 > - It appears to be genuine, but I have my suspicions about it. `[真题]`
+>   - 中译：它看起来是真的，但我对此有所怀疑。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/genuine
 > - There has been a genuine improvement in the economy in recent months. `[真题]`
+>   - 中译：近几个月来经济确实有所改善。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/genuine
 > - She showed a genuine interest in our work. `[真题]`
+>   - 中译：她对我们的工作表现出真诚的兴趣。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/genuine
 
 
 ---

@@ -122,8 +122,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The rise of online shopping has posed a challenge to traditional supermarkets. `[真题]`
+>   - 中译：网上购物的兴起对传统超市构成了挑战。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/supermarket
 > - She does her weekly shopping at the local supermarket. `[真题]`
+>   - 中译：她在当地超市进行每周一次的采购。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/supermarket
 > - Booksellers are facing increasing competition from online retailers and supermarkets. `[真题]`
+>   - 中译：书店正面临来自在线零售商和超市日益激烈的竞争。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/supermarket
 
 
 ---

@@ -134,8 +134,14 @@ review_count: 0
 
 > [!example]- 语料
 > - He was caught in a tangled web of relationships. `[真题]`
+>   - 中译：他陷入了一张错综复杂的关系网中。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/web
 > - They accused him of weaving a web of lies and deceit. `[真题]`
+>   - 中译：他们指责他编造了一张充满谎言和欺骗的网。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/web
 > - Today's enterprise technology stack is a complex web of AI models, APIs and microservices. `[真题]`
+>   - 中译：当今的企业技术栈是一个由人工智能模型、API和微服务构成的复杂网络。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/web
 
 
 ---

@@ -132,8 +132,14 @@ true 源自古英语 *trēowe*（忠实的、值得信赖的），原始日耳�
 
 > [!example]- 语料
 > - Which of the following is true of New Englan? ,, A. `[真题]`
+>   - 中译：以下哪一项关于新英格兰的描述是正确的？
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/true
 > - Is it true that Mariana and Mark are getting married? `[例]`
+>   - 中译：玛丽安娜和马克要结婚的消息是真的吗？
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/true
 > - The allegations , if true, could lead to her resignation. `[例]`
+>   - 中译：这些指控如果属实，可能导致她辞职。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/true
 
 
 ---

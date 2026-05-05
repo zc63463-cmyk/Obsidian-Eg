@@ -125,8 +125,14 @@ smoke（烟）+ fog（雾）→ smog（烟雾）。20世纪初由英国人创造
 
 > [!example]- 语料
 > - Smog is a major problem in Athens. `[例]`
+>   - 中译：雾霾是雅典的一个主要问题。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/smog
 > - As we flew into the airport , we could see a murky yellow smog hovering over the city. `[例]`
+>   - 中译：当我们飞入机场时，可以看到一团浑浊的黄色雾霾笼罩在城市上空。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/smog
 > - A poisonous smog killed 20 people. `[例]`
+>   - 中译：一场有毒的雾霾导致20人死亡。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/smog
 
 
 ---

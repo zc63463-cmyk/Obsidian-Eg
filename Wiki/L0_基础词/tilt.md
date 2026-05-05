@@ -124,8 +124,14 @@ review_count: 0
 
 > [!example]- 语料
 > - He tilted his chair backwards and put his feet up on his desk. `[例]`
+>   - 中译：他把椅子向后倾斜，把脚翘在桌子上。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/tilt
 > - Anna looked up at him with her head tilted to one side. `[例]`
+>   - 中译：安娜歪着头抬头看着他。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/tilt
 > - The front seats of the car tilt. `[例]`
+>   - 中译：汽车的前排座椅可以倾斜调节。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/tilt
 
 
 ---

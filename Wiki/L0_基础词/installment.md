@@ -122,9 +122,17 @@ in-(进入) + stall(固定位置) + -ment(名词后缀)
 
 > [!example]- 语料
 > - Many college students rely on paying their tuition fees in installments. `[真题]`
+>   - 中译：许多大学生依靠分期付款来缴纳学费。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/installment
 > - Students often choose to purchase laptops on installments to manage their finances better. `[真题]`
+>   - 中译：学生通常选择分期购买笔记本电脑，以便更好地管理财务。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/installment
 > - Maria borrows a sum payable in 12 monthly installments. `[例]`
+>   - 中译：玛丽亚借了一笔款项，分12个月按月偿还。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/installment
 > - This is the first installment of a three-part series on climate change. `[例]`
+>   - 中译：这是关于气候变化三部曲系列的第一期。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/installment
 
 
 ---

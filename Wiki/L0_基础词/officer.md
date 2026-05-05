@@ -127,8 +127,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Two officers responded to the call at 282 Main Street. `[例]`
+>   - 中译：两名警官响应了主街282号的报警电话。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/officer
 > - Do you know how fast you were driving , ma'am?" "No, officer. `[例]`
-> - Mike’s father was an officer in the US Marines. `[例]`
+>   - 中译："你知道你开得有多快吗，女士？""不知道，警官。"
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/officer
+> - Mike's father was an officer in the US Marines. `[例]`
+>   - 中译：迈克的父亲是美国海军陆战队的一名军官。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/officer
 
 
 ---

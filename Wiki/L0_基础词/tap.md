@@ -128,8 +128,14 @@ tap 作为"轻叩"可能来自原始日耳曼语 *\*tappōn*（轻拍），拟�
 
 > [!example]- 语料
 > - I could hear him tapping his fingers on the desk. `[例]`
+>   - 中译：我能听到他用手指敲击桌子的声音。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/tap
 > - The branches tapped against the window. `[例]`
+>   - 中译：树枝轻轻敲打着窗户。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/tap
 > - I was tapping my feet (= hitting the floor gently with my feet ) to the music. `[例]`
+>   - 中译：我随着音乐用脚轻轻打着拍子。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/tap
 
 
 ---

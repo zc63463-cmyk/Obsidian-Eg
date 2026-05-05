@@ -130,8 +130,14 @@ multi-(许多，多) + [[plic-plex|plic]](折叠) + -le(形容词/名词后缀)
 
 > [!example]- 语料
 > - Throughout the trip , Jackson juggled multiple cameras and plate sizes using the " collodion process" that required him to coat the plates with a chemical mixture , then expose them and develop the resulting images with a portable darkroom. `[真题]`
+>   - 中译：在整个旅途中，杰克逊使用"火棉胶工艺"同时操作多台相机和不同尺寸的感光板，该工艺要求他用化学混合物涂布感光板，然后曝光，并用便携式暗房冲洗生成的影像。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/multiple
 > - The young man died of multiple burns. `[例]`
+>   - 中译：这个年轻人因多处烧伤而死。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/multiple
 > - We made multiple copies of the report. `[例]`
+>   - 中译：我们制作了这份报告的多份副本。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/multiple
 
 
 ---

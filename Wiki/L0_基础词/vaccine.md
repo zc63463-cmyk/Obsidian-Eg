@@ -129,9 +129,17 @@ review_count: 0
 
 > [!example]- 语料
 > - This vaccine protects against some kinds of the bacteria. `[例]`
+>   - 中译：这种疫苗可以预防某些种类的细菌。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/vaccine
 > - All persons without spleen should be given pneumococcal vaccine. `[COCA-ACAD]`
+>   - 中译：所有无脾患者都应接种肺炎球菌疫苗。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/vaccine
 > - Beyond any doubt, the current vaccine is safe and efficient when administered at the proposed regimen. `[例]`
+>   - 中译：毫无疑问，按照建议方案接种时，目前的疫苗是安全有效的。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/vaccine
 > - The number of people receiving flu vaccine since 2000 are shown in the table. `[COCA-ACAD]`
+>   - 中译：表中显示了2000年以来接种流感疫苗的人数。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/vaccine
 
 
 ---

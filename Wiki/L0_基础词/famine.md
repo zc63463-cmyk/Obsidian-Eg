@@ -130,8 +130,14 @@ famine 源自古法语 famine（饥饿、饥荒），来自通俗拉丁语 *\*fa
 
 > [!example]- 语料
 > - Another crop failure could result in widespread famine. `[例]`
+>   - 中译：又一次农作物歉收可能导致大面积饥荒。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/famine
 > - There were reports of refugees dying of famine. `[例]`
+>   - 中译：有报道称难民死于饥荒。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/famine
 > - Widespread famine was reported in the region. `[例]`
+>   - 中译：据报道，该地区发生了大面积饥荒。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/famine
 
 
 ---

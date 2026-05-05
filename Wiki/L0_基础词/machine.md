@@ -135,8 +135,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The main disadvantage of using AI to respond to customers is that there are concerns about trusting pei:sonal interactions to machines , which could lead not only to the subsequent loss of interpersonal connections , but also to a decrease in marketing personnel. ( 47) Some believe that AI is negatively impacting on the marketer's role by reducing creativity and removing jobs, but they are aware that it is a way of reducing costs and creating new information. `[真题]`
+>   - 中译：使用人工智能回应客户的主要缺点是，人们担心将人际互动交给机器处理，这不仅可能导致随后人际关系的丧失，还可能导致营销人员的减少。一些人认为人工智能正在通过降低创造力和取代工作岗位而对营销人员的角色产生负面影响，但他们也意识到这是一种降低成本和创造新信息的方式。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/machine
 > - For AI to be successful, data needs to be accessible, but the use of personal data is becoming more regulated and the automated sharing of data is becoming more difficult. ( 49 ) If customers are not willing to share data, AI will be starved of essential information and will not be able to function effectively or employ machine learning to improve its marketing content and communication. `[真题]`
+>   - 中译：要使人工智能取得成功，数据需要能够被获取，但个人数据的使用正受到越来越多的监管，数据的自动共享也变得越来越困难。如果客户不愿意分享数据，人工智能将缺乏必要的信息，无法有效运作，也无法利用机器学习来改进其营销内容和沟通方式。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/machine
 > - The different sizes of eggs are sorted by a machine. `[例]`
+>   - 中译：不同大小的鸡蛋由机器分拣。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/machine
 
 
 ---

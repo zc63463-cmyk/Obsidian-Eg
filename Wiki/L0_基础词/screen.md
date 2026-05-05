@@ -144,8 +144,14 @@ review_count: 0
 
 > [!example]- 语料
 > - With so much focus on children's use of screens, it's easy for parents to forget about their own screen use. `[真题]`
+>   - 中译：由于如此关注儿童使用屏幕的问题，父母很容易忘记自己使用屏幕的情况。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/screen
 > - Medical officials will be screening all passengers arriving from affected areas. `[例]`
+>   - 中译：医疗官员将对所有来自受影响地区的旅客进行筛查。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/screen
 > - It is now possible to screen babies for diabetes. `[例]`
+>   - 中译：现在可以对婴儿进行糖尿病筛查。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/screen
 
 
 ---

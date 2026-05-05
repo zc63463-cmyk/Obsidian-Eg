@@ -134,8 +134,14 @@ ex-(出) + [[tract|tract-]](拉，拖) → 向外拉出
 
 > [!example]- 语料
 > - The oil which is extracted from olives is used for cooking. `[例]`
+>   - 中译：从橄榄中提取的油用于烹饪。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/extract
 > - The tooth was eventually extracted. `[例]`
+>   - 中译：这颗牙最终被拔掉了。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/extract
 > - After much persuasion they managed to extract the information from him. `[例]`
+>   - 中译：经过反复劝说，他们终于从他那里套出了信息。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/extract
 
 
 ---

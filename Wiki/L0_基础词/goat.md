@@ -122,8 +122,14 @@ goat 为基础词汇，无词根词缀拆分。源自古英语 *gat*，与德语
 
 > [!example]- 语料
 > - Jefferson's three errors made him the goat of last night's game. `[真题]`
+>   - 中译：杰斐逊的三次失误使他成为昨晚比赛的替罪羊。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/goat
 > - The cabin was built from durable goat gathered in the region. `[例]`
+>   - 中译：这间小屋是用该地区采集的耐久山羊材料建造的。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/goat
 > - There's no doubt he's the GOAT, but someone's going to beat him one day. `[例]`
+>   - 中译：毫无疑问他是史上最伟大的，但总有一天会有人打败他。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/goat
 
 
 ---
