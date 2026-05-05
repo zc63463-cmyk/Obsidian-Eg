@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**温室，暖房**==；②（喻）温室效应的（greenhouse effect）；
-**adj.** ①温室的；
+**n.** ①==**温室，暖房**== `grow in a greenhouse` [通用]；②（喻）==**温室效应**== `greenhouse effect` [科技]；
+**adj.** ①==**温室的**== `greenhouse gases` [科技]；
 
 > [!tip] 原型义
 > **原型义**：绿色的房子（用玻璃建造的、让植物保持温暖的房子）

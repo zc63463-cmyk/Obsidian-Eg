@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**基础，根基**==；②==**基金会**==；③建立，创立；④地基；
+**n.** ①==**基础，根基**== `lay the foundation for N` [通用]；②==**基金会**== `a charitable foundation` [通用]；③==**建立，创立**== `the foundation of N` [正式]；④==**地基**== `solid foundations` [通用]；
 
 > [!tip] 原型义
 > **原型义**：底部，地基（建筑物的最底层基础）

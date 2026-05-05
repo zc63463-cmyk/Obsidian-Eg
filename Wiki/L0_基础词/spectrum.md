@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**光谱**==；②==**频谱**==；③==**范围，幅度**==；④==**系列，幅度**==；
+**n.** ①==**光谱**== `the electromagnetic N' [物理]；②==**频谱**== `frequency N' [物理]；③==**范围，幅度**== `a broad N of' [通用]；④==**系列，幅度**== `the political N' [通用]；
 
 > [!tip] 原型义
 > **原型义**：光谱，图像（拉丁语 *spectrum*，"appearance, image, specter"，外观、影像）

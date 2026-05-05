@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**文明，文明社会**==；②==**文明化**==（过程）；
+**n.** ①==**文明，文明社会**== `Western civilization` [通用]；②==**文明化**==（过程）`the civilization of a people` [学术]；
 
 > [!tip] 原型义
 > **原型义**：城市化的状态（civilize 使文明 + -ation 名词后缀 → 文明的状态/结果）

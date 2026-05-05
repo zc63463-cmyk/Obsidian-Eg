@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**共情，同理心**==；②==**共鸣**==；
+**n.** ①==**共情，同理心**== `show N for/toward N` [正式]；②==**共鸣**==`have N with N` [正式]；
 
 > [!tip] 原型义
 > **原型义**：感同身受（源自希腊语 *empatheia*，*em-* = in + *pathos* = feeling）

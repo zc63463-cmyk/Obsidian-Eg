@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adv.** ①==**在前面，向前**==（空间位置）；②==**提前，预先**==（时间上）；③==**领先，占优势**==（竞争中）；④ahead of：在……前面；
+**adv.** ①==**在前面，向前**== `go ahead` [通用]；`straight ahead` [通用]；②==**提前，预先**== `ahead of time/schedule` [通用]；③==**领先，占优势**== `ahead of the competition` [通用]；④ahead of：`ahead of N` [通用]；
 
 > [!tip] 原型义
 > **原型义**：在前面（空间上的前方位置）

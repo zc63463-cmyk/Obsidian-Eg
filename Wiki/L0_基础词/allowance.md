@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**津贴，补贴**==；②==**零用钱**==；③==**限额**==；④考虑到，允许（make allowance for）；
+**n.** ①==**津贴，补贴**== `jobseeker's allowance` [通用]；`travel/living allowance` [通用]；②==**零用钱**==；③==**限额**==；④考虑到，允许（make allowance for）；
 
 > [!tip] 原型义
 > **原型义**：被允许给的东西（官方允许领取的金额）

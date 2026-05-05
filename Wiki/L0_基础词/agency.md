@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**代理机构，中介**==（如 travel agency 旅行社）；②==**力量，作用**==（如 human agency 人的能动性）；
-③==**（政府）机构**==（如 environmental agency 环保署）
+**n.** ①==**代理机构，中介**==（如 travel agency 旅行社）`N` [商业]；②==**力量，作用**==（如 human agency 人的能动性）`N` [抽象]；
+③==**（政府）机构**==（如 environmental agency 环保署）`N` [政府]；
 
 > [!tip] 原型义
 > **原型义**：做事的力量（中世纪拉丁语 *agentia*，来自 *agens* "有效的、有力的"，*agere* "做、行动、驱动"的现在分词）

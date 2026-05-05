@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**prep.** ①==**沿着**==；②==**顺着**==；③==**一起**==（along with）；
+**prep.** ①==**沿着**== `walk along the road` [通用]；`along the river` [通用]；②==**顺着**==；③==**一起**==（along with）；
 **adv.** ①向前；②一起；③到某处；
 
 > [!tip] 原型义

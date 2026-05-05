@@ -25,9 +25,9 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**偷偷地走，潜行**==；②==**偷偷携带，私运**==（sneak something into/out of）；③==**偷偷做（不该做的事）**==；
-**n.** ①==**偷偷摸摸的人，告密者**==（informal）；② **运动鞋**（pl. sneakers，因为走路轻悄无声）；
-**adj.** ①==**暗中的，偷偷的**==（a sneak attack）；
+**v.** ①==**偷偷地走，潜行**== `V in/out/past` [通用]；②==**偷偷携带，私运**==（sneak something into/out of）`V N into/out of N` [通用]；③==**偷偷做（不该做的事）**== `V a look/cigarette' [通用]；
+**n.** ①==**偷偷摸摸的人，告密者**==（informal）`N` [口语]；② **运动鞋**（pl. sneakers，因为走路轻悄无声）`N` [通用]；
+**adj.** ①==**暗中的，偷偷的**==（a sneak attack）`a N attack' [通用]；
 
 > [!tip] 原型义
 > **原型义**：悄悄地、偷偷地移动

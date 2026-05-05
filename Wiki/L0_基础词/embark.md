@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**上船，登机**==；②==**开始，着手**==（embark on/upon）
+**v.** ①==**上船，登机**== `V on/upon N` [正式]；②==**开始，着手**==（embark on/upon）`V on/upon a career/journey` [正式]；
 
 > [!tip] 原型义
 > **原型义**：上船（登上船只开始旅程）
