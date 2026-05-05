@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**可怕的；令人敬畏的**==；②难以对付的，难以克服的
+**adj.** ①==**可怕的；令人敬畏的**== `adj N`；②==**难以对付的，难以克服的**== `adj N`
 
 > [!tip] 原型义
 > **原型义**：令人恐惧的、引起敬畏的（inspiring fear or respect through being impressively large, powerful, or capable）

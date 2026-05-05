@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**预期；预料；期待**== ; ②认为；指望 ;
-**vi.** ①怀孕（expect a baby） ;
+**vt.** ①==**预期；预料；期待**== `V N` `V to V` `V that-clause`；②认为；指望 `V N to V`；
+**vi.** ①怀孕（expect a baby） `V`；
 
 > [!tip] 原型义
 > **原型义**：向外看、等待某事发生

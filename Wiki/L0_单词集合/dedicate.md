@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**奉献，献身**==；②==**致力于**==（dedicate to）
+**vt.** ①==**奉献，献身**== `V N to N; V oneself to N/V-ing`；②==**致力于**== `V N to N`（dedicate to）
 
 > [!tip] 原型义
 > **原型义**：宣告归属→奉献（公开宣告将某物/某事归属于某人或某目的）

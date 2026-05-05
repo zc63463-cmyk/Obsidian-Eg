@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**正式的；庄重的**==；②形式上的，表面的；③整齐的，匀称的
+**adj.** ①==**正式的；庄重的**== `be adj` `adj N`；②==**形式上的，表面的**== `adj N`；③==**整齐的，匀称的**== `adj N`
 
 > [!tip] 原型义
 > **原型义**：符合固定形式的、正式的（following established customs or rules）
