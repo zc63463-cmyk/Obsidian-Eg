@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**假设；认为**== ; ②==**应该；理应**==（be supposed to） ; ③==**猜想；推测**==
+**v.** ①==**假设；认为**== `V that-clause` [通用] ; ②==**应该；理应**== `be V-ed to V` [通用]（be supposed to） ; ③==**猜想；推测**== `V that-clause` [通用]
 
 > [!tip] 原型义
 > **原型义**：在下面放置 → 假设（to put under / place as a foundation）

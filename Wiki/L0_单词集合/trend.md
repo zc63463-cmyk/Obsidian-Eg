@@ -25,10 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**趋势；趋向**==；②时尚，潮流
-
-**vi.** ①趋向，倾向
-
+**n.** ①==**趋势，趋向**== `N` [通用]；`N towards N` [通用]；`N of V-ing` [通用]；②==**时尚，潮流**== `N` [通用]；
+**vi.** ①==**趋向，倾向**== `V` [通用]；`V towards N` [通用]；
 > [!tip] 原型义
 > **原型义**：转向、运行方向（general direction in which something is developing or changing）
 > **延伸维度**：空间路径——从物理空间的"转向"到抽象事物的"发展趋势"

@@ -24,9 +24,9 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**以前的；前任的**==；②（两者中）前者的
+**adj.** ①==**以前的；前任的**== `adj N`；②==**（两者中）前者的**== `the adj`
 
-**n.** ①前者（the former）
+**n.** ①==**前者**== `the former`
 
 > [!tip] 原型义
 > **原型义**：以前的、在前的（preceding in time or order）

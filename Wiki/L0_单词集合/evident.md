@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**明显的、清楚的**== ; ②明白的；
+**adj.** ①==**明显的、清楚的**== `it V evident that-clause` `adj that-clause`；②明白的 `adj`；
 
 > [!tip] 原型义
 > **原型义**：看得见的

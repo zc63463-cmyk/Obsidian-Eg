@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adv.** ①==**大概，可能，据推测**== ;
+**adv.** ①==**大概，可能，据推测**== `adv` `adv V/adj`；
 
 > [!tip] 原型义
 > **原型义**：预先拿取（take beforehand）

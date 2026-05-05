@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**vt.** ①==**认为，视为**==（deem that / deem sth. as）；
+**vt.** ①==**认为，视为**== `V N adj; V N as N; V that-clause`；
 
 > [!tip] 原型义
 > **原型义**：经过判断后形成的看法（不是随意的"觉得"，而是带有"经过思考、判断"的含义）
