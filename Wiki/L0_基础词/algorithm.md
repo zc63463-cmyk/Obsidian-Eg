@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**算法，计算方法**==；②规则体系，步骤序列；
+**n.** ①==**算法，计算方法**== `machine learning algorithm` [技术]；`sorting algorithm` [技术]；②规则体系，步骤序列；
 
 > [!tip] 原型义
 > **原型义**：阿拉伯数学家的计算方法（源自波斯数学家 al-Khwarizmi 的名字）

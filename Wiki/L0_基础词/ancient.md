@@ -24,7 +24,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**古代的，古老的**==；②年老的；
+**adj.** ①==**古代的，古老的**== `ancient civilization` [通用]；`ancient history` [通用]；②年老的；
 **n.** ①古人；②==**老人**==；
 
 > [!tip] 原型义

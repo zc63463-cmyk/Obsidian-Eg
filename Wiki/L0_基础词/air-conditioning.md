@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**空调系统，空气调节**==（控制室内温度和湿度的系统）；
+**n.** ①==**空调系统，空气调节**== `turn on/off the air-conditioning` [通用]；`air-conditioning system` [技术]；
 
 > [!tip] 原型义
 > **原型义**：空气调节（控制室内空气的温度和湿度）

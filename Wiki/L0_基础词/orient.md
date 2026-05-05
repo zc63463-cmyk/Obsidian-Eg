@@ -25,8 +25,8 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**东方**==（the Orient，特指亚洲国家）；②==**珍珠**==（orient pearl，上等珍珠）；
-**v.** ①==**使朝向，确定方向**==；②==**使适应，使熟悉**==（orient oneself to）；
+**n.** ①==**东方**== `the N` [地理]（the Orient，特指亚洲国家）；②==**珍珠**== `N pearl` [文学]（orient pearl，上等珍珠）；
+**v.** ①==**使朝向，确定方向**== `N oneself` [日常]；②==**使适应，使熟悉**== `N oneself to N` [日常]（orient oneself to）；
 **adj.** ①==**东方的**==（升起的）；
 
 > [!tip] 原型义
