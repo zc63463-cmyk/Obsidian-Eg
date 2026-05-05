@@ -146,6 +146,8 @@ review_count: 0
 
 > [!example]- 语料
 > - He slammed the brakes on (= used them quickly and with force ) when a child ran in front of his car. `[例]`
+>   - 中译：【需人工审核】slam 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/slam
   - 中译：一个孩子跑到他车前时，他猛踩刹车。；
   - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/slam；
 > - I had to stop suddenly , and the car behind me slammed into the back of me. `[例]`

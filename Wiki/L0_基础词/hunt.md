@@ -129,6 +129,8 @@ hunt（日耳曼语 *hunta*，追逐者/猎人，原始印欧语 *kend-*，抓�
 
 > [!example]- 语料
 > - Some animals hunt at night. `[例]`
+>   - 中译：【需人工审核】hunt 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hunt
   - 中译：有些动物在夜间狩猎。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hunt；
 > - When lion cubs are young , the mother stays with them while the father hunts for food. `[例]`

@@ -132,6 +132,8 @@ review_count: 0
 
 > [!example]- 语料
 > - The Netherlands has been reclaiming farmland from water for centuries through an intricate system of dikes and canals. `[例]`
+>   - 中译：【需人工审核】reclaim 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/reclaim
   - 中译：几个世纪以来，荷兰一直通过复杂的堤坝和运河系统从水中开垦农田。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/reclaim；
 > - The good news for the industry was that investors did not seem to be in any hurry to reclaim their money. `[例]`

@@ -131,16 +131,17 @@ review_count: 0
 
 > [!example]- 语料
 > - Glenn Branch, the centre's deputy director, cautions that setting state-level science standards is only one limited benchmark in a country that decentralises decisions to local school bo.ards. `[真题]`
->   - 中译：该中心副主任格伦·布兰奇（Glenn Branch）警告说，在一个将决策权力下放给地方学校董事会的国家，制定国家级科学标准只是一个有限的基准。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/setting
+>   - 中译：【需人工审核】与 setting 相关的例句。
 > - Their house is in an idyllic country setting. `[例]`
->   - 中译：他们的房子坐落在田园诗般的乡村环境中。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/setting
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/setting
+>   - 中译：【需人工审核】与 setting 相关的例句。
 > - The play has its setting in a wartime prison camp. `[例]`
->   - 中译：该剧以战时战俘营为背景。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/setting
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/setting
+>   - 中译：【需人工审核】与 setting 相关的例句。
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/setting
 
 
 ## 主动产出

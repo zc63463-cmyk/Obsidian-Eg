@@ -135,6 +135,8 @@ grav(重，源自拉丁语 *gravis*) + -ity(名词后缀，表示性质/状态)
 > - He discoursed impressively on Newton's theory of gravity. `[真题]`
 > - The force of gravity pulls things towards the earth's centre. `[真题]`
 > - We are conscious of the gravity of the situation. `[例]`
+>   - 中译：【需人工审核】gravity 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/gravity
   - 中译：我们意识到局势的严重性。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/gravity；
 > - The gravity of this situation should not be underestimated. `[例]`

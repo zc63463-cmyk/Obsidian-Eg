@@ -132,6 +132,8 @@ review_count: 0
 
 > [!example]- 语料
 > - I ordered some tea for myself and lit my pipe. `[例]`
+>   - 中译：【需人工审核】pipe 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pipe
   - 中译：我给自己点了些茶，然后点燃了烟斗。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pipe；
 > - He played the pipes as the newlyweds left the church. `[例]`

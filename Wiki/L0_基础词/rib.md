@@ -127,6 +127,8 @@ review_count: 0
 
 > [!example]- 语料
 > - He cooked rib of lamb for Sunday lunch. `[例]`
+>   - 中译：【需人工审核】rib 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rib
   - 中译：他为周日午餐做了烤羊排。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rib；
 > - She elbowed me in the ribs before I could say anything. `[例]`

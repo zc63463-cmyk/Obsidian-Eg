@@ -135,6 +135,8 @@ review_count: 0
 
 > [!example]- 语料
 > - Figure 6.2 provides a graphic representation of the key processes in the management of change. `[例]`
+>   - 中译：【需人工审核】graphic 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/graphic
   - 中译：图6.2提供了变革管理中关键流程的图示。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/graphic；
 > - The video was removed over its graphic violence, YouTube said. `[例]`

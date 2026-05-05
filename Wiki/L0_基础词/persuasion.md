@@ -130,6 +130,8 @@ review_count: 0
 
 > [!example]- 语料
 > - Participating in these meetings gives children an understanding of democratic decision making and helps them develop their skills of argument and persuasion. `[真题]`
+>   - 中译：【需人工审核】persuasion 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/persuasion
   - 中译：参加这些会议可以让孩子们了解民主决策过程，并帮助他们发展论证和说服的技巧。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/persuasion；
 > - Relying on ethical persuasion rather than law to address the misuse of body ideals may be the best step. `[真题]`

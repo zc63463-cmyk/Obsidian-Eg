@@ -127,6 +127,8 @@ sorrow（悲伤，基础词汇，源自古英语 *sorg*，PIE *\*swergh-*）
 
 > [!example]- 语料
 > - The sorrow she felt at the death of her husband was almost too much to bear. `[例]`
+>   - 中译：【需人工审核】sorrow 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sorrow
   - 中译：丈夫去世后她感到的悲伤几乎令人无法承受。；
   - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/sorrow；
 > - He expressed sorrow over the suffering inflicted during the war. `[例]`

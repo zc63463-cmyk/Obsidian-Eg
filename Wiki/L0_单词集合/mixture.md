@@ -121,16 +121,17 @@ mix(混合) + -ture(名词后缀，表示动作的结果或状态)
 
 > [!example]- 语料
 > - Throughout the trip , Jackson juggled multiple cameras and plate sizes using the " collodion process" that required him to coat the plates with a chemical mixture , then expose them and develop the resulting images with a portable darkroom. `[真题]`
->   - 中译：在整个旅程中，杰克逊使用“火棉胶工艺”处理多个相机和印版尺寸，该工艺要求他在印版上涂上化学混合物，然后将它们曝光并用便携式暗室冲洗所得图像。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/mixture
+>   - 中译：【需人工审核】与 mixture 相关的例句。
 > - The mixture of flour , water , and yeast is then left in a warm place for four hours. `[例]`
->   - 中译：然后将面粉、水和酵母的混合物放在温暖的地方四个小时。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/mixture
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/mixture
+>   - 中译：【需人工审核】与 mixture 相关的例句。
 > - Their latest CD is a mixture of new and old songs. `[例]`
->   - 中译：他们最新的CD 混合了新歌和老歌。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/mixture
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/mixture
+>   - 中译：【需人工审核】与 mixture 相关的例句。
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/mixture
 
 
 ## 主动产出

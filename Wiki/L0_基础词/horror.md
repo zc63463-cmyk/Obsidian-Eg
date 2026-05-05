@@ -132,6 +132,8 @@ horror（14世纪初，源自古法语 *horror*，直接来自拉丁语 *horror*
 
 > [!example]- 语料
 > - The crowd cried out in horror as the car burst into flames. `[例]`
+>   - 中译：【需人工审核】horror 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/horror
   - 中译：当汽车突然起火时，人群惊恐地尖叫起来。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/horror；
 > - The thought of speaking in front of so many people fills me with horror. `[例]`

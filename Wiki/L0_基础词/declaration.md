@@ -129,6 +129,8 @@ review_count: 0
 
 > [!example]- 语料
 > - Members of Congress have to make a declaration of their business interests. `[例]`
+>   - 中译：【需人工审核】declaration 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/declaration
   - 中译：国会议员必须申报其商业利益。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/declaration；
 > - As witnesses to the accident , we were asked to make written declarations of what we had seen. `[例]`

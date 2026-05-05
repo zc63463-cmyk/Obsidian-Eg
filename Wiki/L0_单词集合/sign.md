@@ -137,16 +137,17 @@ review_count: 0
 
 > [!example]- 语料
 > - At the end of 2018, Governor Charlie Baker of Massachusetts signed a bill to rein in those potential investor-buyers. `[真题]`
->   - 中译：2018 年底，马萨诸塞州州长查理·贝克签署了一项法案，以控制这些潜在的投资者买家。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sign
+>   - 中译：【需人工审核】与 sign 相关的例句。
 > - Grant signed an act into law that established Yellowstone as the world's first national park. `[真题]`
->   - 中译：格兰特签署了一项法律，将黄石公园确立为世界上第一个国家公园。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sign
+>   - 中译：【需人工审核】与 sign 相关的例句。
 > - Therefore , unless customer:; are prepared to sign release agreements , the use of AI may become somewhat restricted in the future. `[真题]`
->   - 中译：因此，除非客户：；准备签署发布协议，未来人工智能的使用可能会受到一定程度的限制。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sign
+>   - 中译：【需人工审核】与 sign 相关的例句。
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sign
 
 
 ## 主动产出

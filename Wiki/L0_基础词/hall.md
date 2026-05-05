@@ -132,6 +132,8 @@ hall 源自原始日耳曼语 *\*hallō*（有屋顶的地方），原始印欧�
 
 > [!example]- 语料
 > - I left my bags in the hall. `[例]`
+>   - 中译：【需人工审核】hall 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hall
   - 中译：我把包放在了门厅里。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hall；
 > - There is a meeting room down the hall from my office. `[例]`

@@ -132,6 +132,8 @@ review_count: 0
 
 > [!example]- 语料
 > - Latisha loves the fable about the grasshopper and the ant. `[例]`
+>   - 中译：【需人工审核】fable 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fable
   - 中译：拉蒂莎喜欢那则关于蚂蚱和蚂蚁的寓言。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fable；
 > - A fable about busy ants. `[例]`

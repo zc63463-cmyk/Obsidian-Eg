@@ -125,6 +125,8 @@ review_count: 0
 
 > [!example]- 语料
 > - His memoir offers us a fascinating glimpse of a bygone era. `[例]`
+>   - 中译：【需人工审核】era 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/era
   - 中译：他的回忆录让我们得以一窥那个逝去时代的迷人风采。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/era；
 > - They had worked for peace during the long era of conflict. `[例]`

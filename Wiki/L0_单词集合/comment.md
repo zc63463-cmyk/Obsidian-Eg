@@ -129,16 +129,17 @@ com-(完全，加强) + ment(思考、心智，[[medi]]相关)
 
 > [!example]- 语料
 > - PRH declined to comment on the issue , but a spokesperson for W aterstones told me : " W aterstones are currently operating with reduced credit terms from PRH, the only publisher in the UK to place any limitations on our ability to trade. `[真题]`
->   - 中译：PRH 拒绝就此事发表评论，但 Waterstones 的一位发言人告诉我：“Waterstones 目前正在以 PRH 降低的信贷条件运营，PRH 是英国唯一一家对我们的交易能力施加任何限制的出版商。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/comment
+>   - 中译：【需人工审核】与 comment 相关的例句。
 > - In your essay , you should 1) describe the picture briefly, 2 ) interpret the implied meaning , and 3) give your comments. `[真题]`
->   - 中译：在你的文章中，你应该1）简要描述图片，2）解释隐含的含义，3）给出你的评论。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/comment
+>   - 中译：【需人工审核】与 comment 相关的例句。
 > - I don't want any comments on my new haircut , thank you! `[例]`
->   - 中译：我不想对我的新发型有任何评论，谢谢！
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/comment
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/comment
+>   - 中译：【需人工审核】与 comment 相关的例句。
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/comment
 
 
 ## 主动产出

@@ -134,16 +134,17 @@ review_count: 0
 
 > [!example]- 语料
 > - Caravanserais served as an informal 10 point for the various people who travelled the Silk Road. _.!l_ , these structures became important centers for cultural 12 and interaction, with travellers sharing their cultures, ideas and beliefs, 13 taking knowledge with them, greatly _l!_ the development of several civilisations. `[真题]`
->   - 中译：商队旅馆是丝绸之路上各路人士的非正式休息点。 _.!l_ ，这些建筑成为重要的文化 12 和互动中心，旅行者分享他们的文化、想法和信仰， 13 带走知识，极大地 _l!_ 多个文明的发展。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/serve
+>   - 中译：【需人工审核】与 serve 相关的例句。
 > - Do they serve meals in the bar? `[例]`
->   - 中译：他们在酒吧提供餐点吗？
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/serve
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/serve
+>   - 中译：【需人工审核】与 serve 相关的例句。
 > - We arrived at the hotel and were served with champagne and canapés. `[例]`
->   - 中译：我们到达酒店并享用了香槟和小吃。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/serve
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/serve
+>   - 中译：【需人工审核】与 serve 相关的例句。
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/serve
 
 
 ## 主动产出

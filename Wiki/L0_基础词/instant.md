@@ -131,6 +131,8 @@ in-(靠近/在……上) + [[st-sta-stat|st]](站立，拉丁语 *stare*) + -ant
 
 > [!example]- 语料
 > - The researchers proposed a instant solution to the problem. `[例]`
+>   - 中译：【需人工审核】instant 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/instant
   - 中译：研究人员提出了一个即时的解决方案。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/instant；
 > - The company adopted a instant approach to improve efficiency. `[例]`

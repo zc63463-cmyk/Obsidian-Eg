@@ -137,13 +137,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Such debates reflect fierce discussions across the US and around the world , as researchers , policymakers , teachers and students step up demands for a greater focus on teaching about the facts of climate change in schools. `[真题]`
->   - 中译：这些辩论反映了美国和世界各地的激烈讨论，研究人员、政策制定者、教师和学生要求学校更加注重气候变化事实的教学。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/debate
+>   - 中译：【需人工审核】与 debate 相关的例句。
 > - Education is the current focus of public debate. `[例]`
->   - 中译：教育是当前公众争论的焦点。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/debate
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/debate
+>   - 中译：【需人工审核】与 debate 相关的例句。
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/debate
 
 
 ## 主动产出

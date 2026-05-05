@@ -133,6 +133,8 @@ review_count: 0
 > - The graph shows how house prices have risen since the 1980s. `[真题]`
 > - We have noted from the graph that there is a wide gap between the top ten universities both of China and of the world. `[真题]`
 > - The line graph compares the average consumption of fish and three kinds of meat in a European country from 1979 to 2004. `[例]`
+>   - 中译：【需人工审核】graph 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/graph
   - 中译：该折线图比较了1979年至2004年间某个欧洲国家鱼类和三种肉类的平均消费量。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/graph；
 > - As can be seen from the graph, the two curves show the fluctuation of the price. `[例]`

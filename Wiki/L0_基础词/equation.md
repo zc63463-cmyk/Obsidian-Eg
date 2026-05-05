@@ -126,6 +126,8 @@ review_count: 0
 
 > [!example]- 语料
 > - Managing the economy is a complex equation of controlling inflation and reducing unemployment. `[例]`
+>   - 中译：【需人工审核】equation 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/equation
   - 中译：管理经济是一个控制通货膨胀和减少失业的复杂方程。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/equation；
 > - The equation between higher education and higher earnings still holds true. `[例]`

@@ -137,16 +137,17 @@ review_count: 0
 
 > [!example]- 语料
 > - The problem began ]late last year, when PRH confirmed that it had introduced a credit limit 1ith Waterstones " at a very significant level". `[真题]`
->   - 中译：这个问题始于去年年底，当时 PRH 证实它已经“在非常高的水平上”引入了 Waterstones 的信用限额。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/significant
+>   - 中译：【需人工审核】与 significant 相关的例句。
 > - There has been a significant increase in the number of women students in recent years. `[例]`
->   - 中译：近年来，女学生人数显着增加。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/significant
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/significant
+>   - 中译：【需人工审核】与 significant 相关的例句。
 > - The talks between the USA and the USSR were very significant for the relationship between the two countries. `[例]`
->   - 中译：美苏会谈对于两国关系具有重要意义。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/significant
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/significant
+>   - 中译：【需人工审核】与 significant 相关的例句。
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/significant
 
 
 ## 主动产出

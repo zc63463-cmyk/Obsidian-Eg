@@ -129,6 +129,8 @@ review_count: 0
 
 > [!example]- 语料
 > - The presidential candidate claims that he can cut the deficit in half within five years. `[例]`
+>   - 中译：【需人工审核】deficit 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/deficit
   - 中译：政府正试图减少预算赤字。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/deficit；
 > - The trade balance has been in deficit for the past five years. `[例]`

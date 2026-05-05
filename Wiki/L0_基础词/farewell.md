@@ -138,6 +138,8 @@ fare(旅行) + well(好，安好)
 
 > [!example]- 语料
 > - We said our sad farewells and got on the bus. `[例]`
+>   - 中译：【需人工审核】farewell 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/farewell
   - 中译：我们悲伤地道别后上了公交车。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/farewell；
 > - Hundreds of mourners were there to bid a sad farewell to the star. `[例]`

@@ -123,13 +123,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Boston took things even further, requiring renters to register with the city's Inspectional Services Department. `[真题]`
->   - 中译：波士顿的做法更进一步，要求租房者向该市的检查服务部门登记。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/department
+>   - 中译：【需人工审核】与 department 相关的例句。
 > - Angers is the capital of the department of Maine-et-Loire. `[例]`
->   - 中译：昂热是缅因-卢瓦尔省的首府。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/department
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/department
+>   - 中译：【需人工审核】与 department 相关的例句。
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/department
 
 
 ## 主动产出

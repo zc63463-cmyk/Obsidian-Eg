@@ -128,6 +128,8 @@ per-（完全，贯穿，[[per]]）+ me（通过，拉丁语 *meare*）+ -ate（
 
 > [!example]- 语料
 > - Dissatisfaction with the government seems to have permeated every section of society. `[例]`
+>   - 中译：【需人工审核】permeate 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/permeate
   - 中译：对政府的不满似乎已经渗透到社会的各个阶层。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/permeate；
 > - A foul smell of stale beer permeated the whole building. `[例]`

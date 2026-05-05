@@ -127,17 +127,18 @@ review_count: 0
 
 > [!example]- 语料
 > - The carc;ers of scientists and the reputation of their institutions depend on the number and prestige of the papers they produce , but even more so on the citations attracted by these papers. `[真题]`
->   - 中译：科学家的职业生涯及其机构的声誉取决于他们发表的论文的数量和声望，但更取决于这些论文所吸引的引用。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/institution
+>   - 中译：【需人工审核】与 institution 相关的例句。
 > - Citation cartels, where journals, authors, and institutions conspire to inflate citation numbers , have existed for a long time. `[真题]`
->   - 中译：期刊、作者和机构合谋夸大引用数量的引用卡特尔已经存在很长时间了。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/institution
+>   - 中译：【需人工审核】与 institution 相关的例句。
 > - Harvard University is an internationally respected institution. `[例]`
->   - 中译：哈佛大学是一所国际知名学府。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/institution
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/institution
+>   - 中译：【需人工审核】与 institution 相关的例句。
 
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/institution
 
 ## 主动产出
 

@@ -134,16 +134,17 @@ review_count: 0
 
 > [!example]- 语料
 > - As an effective Washington operator, Hayden sensed that he could capitalize on the expedition's stunning visuals. `[真题]`
->   - 中译：作为一名高效的华盛顿操作员，海登意识到他可以利用这次探险的令人惊叹的视觉效果。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/operator
+>   - 中译：【需人工审核】与 operator 相关的例句。
 > - He has shown himself to be a canny operator in wage negotiations. `[例]`
->   - 中译：他在工资谈判中表现出了精明的操盘手。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/operator
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/operator
+>   - 中译：【需人工审核】与 operator 相关的例句。
 > - We rationalized the production system so that one operator could control all three machines. `[例]`
->   - 中译：我们对生产系统进行了合理化改造，使一名操作员可以控制所有三台机器。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/operator
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/operator
+>   - 中译：【需人工审核】与 operator 相关的例句。
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/operator
 
 
 ## 主动产出

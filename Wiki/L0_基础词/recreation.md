@@ -132,6 +132,8 @@ re-(=again，再，前缀 [[re-]]) + cre(=create，创造，拉丁语 *creare*) 
 
 > [!example]- 语料
 > - This park provides ample space and modern facilities for public recreation, including tennis courts and a children's playground. `[例]`
+>   - 中译：【需人工审核】recreation 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/recreation
   - 中译：这个公园为公众娱乐提供了充足的空间和现代化设施，包括网球场和儿童游乐场。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/recreation；
 > - These areas are set aside for outdoor recreation and are open to hunting, fishing, hiking, and camping throughout the year. `[例]`

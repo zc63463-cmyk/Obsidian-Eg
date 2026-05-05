@@ -122,6 +122,8 @@ re-(再次，反复) + [[fin|fin-]](结束，完美，界限) + -e(动词后缀)
 
 > [!example]- 语料
 > - He has done it by exploring, by experimenting, by developing his own model of the grammar of language, by trying it out and seeing whether it works, by gradually changing it and refining it until it does work. `[真题]`
+>   - 中译：【需人工审核】refine 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/refine
   - 中译：他通过探索、实验、发展自己的语言语法模型，通过尝试并观察是否有效，通过逐步修改和完善直到它确实有效，做到了这一点。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/refine；
 > - Engineers spent many months refining the software. `[真题]`

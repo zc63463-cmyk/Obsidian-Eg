@@ -142,6 +142,8 @@ review_count: 0
 
 > [!example]- 语料
 > - His career started from scratch, and he eventually became one of the most successful entrepreneurs in the industry. `[真题]`
+>   - 中译：【需人工审核】scratch 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/scratch
   - 中译：他的职业生涯从零开始，最终成为业内最成功的企业家之一。
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/scratch
 > - We scratched the wall trying to get the bed into Martha's room. `[真题]`

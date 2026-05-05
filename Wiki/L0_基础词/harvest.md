@@ -134,6 +134,8 @@ harv-（收割，源自古英语 *hærfest* "秋天、收割季"）+ -est（名�
 
 > [!example]- 语料
 > - It won't be long now till harvest ( time ). `[例]`
+>   - 中译：【需人工审核】harvest 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/harvest
   - 中译：离收获时节不远了。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/harvest；
 > - Farmers are reporting a bumper (= very big ) harvest this year. `[例]`

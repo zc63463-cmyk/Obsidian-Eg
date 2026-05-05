@@ -132,6 +132,8 @@ review_count: 0
 
 > [!example]- 语料
 > - That old campaign slogan really means that there should be jobs and enough food for all citizens. `[例]`
+>   - 中译：【需人工审核】slogan 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/slogan
   - 中译：那个旧竞选口号的真正含义是所有公民都应该有工作和足够的食物。；
   - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/slogan；
 > - The company's advertising slogan in the 1970s and 1980s was "You can be sure of Shell". `[例]`

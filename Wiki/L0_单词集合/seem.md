@@ -136,16 +136,17 @@ review_count: 0
 
 > [!example]- 语料
 > - What message does the spokesperson for Wa:terstones seem to convey? `[真题]`
->   - 中译：Wa:terstones 的代言人似乎在传达什么信息？
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/seem
+>   - 中译：【需人工审核】与 seem 相关的例句。
 > - In fact, a listing in Scopus seems to be a criterion to be targeted in this type of citation manipulation. `[真题]`
->   - 中译：事实上，Scopus 中的列表似乎是此类引文操纵的目标标准。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/seem
+>   - 中译：【需人工审核】与 seem 相关的例句。
 > - He's 16, but he often seems (to be) younger. `[例]`
->   - 中译：他已经 16 岁了，但他常常看起来更年轻。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/seem
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/seem
+>   - 中译：【需人工审核】与 seem 相关的例句。
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/seem
 
 
 ## 主动产出

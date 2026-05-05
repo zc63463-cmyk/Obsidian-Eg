@@ -136,6 +136,8 @@ in-(=in, 在……上面/里面) + hib(=habere, 持有/握住，拉丁语 *haber
 
 > [!example]- 语料
 > - Lousy air links inhibit trade, exports and investment. `[真题]`
+>   - 中译：【需人工审核】inhibit 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/inhibit
   - 中译：糟糕的航线阻碍了贸易、出口和投资。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/inhibit；
 > - These compounds inhibit microbial growth. `[真题]`

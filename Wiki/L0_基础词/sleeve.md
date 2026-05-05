@@ -142,6 +142,8 @@ review_count: 0
 
 > [!example]- 语料
 > - The sleeves are too long for me. `[例]`
+>   - 中译：【需人工审核】sleeve 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sleeve
   - 中译：袖子对我来说太长了。；
   - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/sleeve；
 > - You'd better roll your sleeves up or you'll get them dirty. `[例]`

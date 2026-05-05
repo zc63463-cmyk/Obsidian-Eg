@@ -141,16 +141,17 @@ review_count: 0
 
 > [!example]- 语料
 > - The term caravan was used to _4_ groups of people who travelled together across the ancient network for safety reasons , 5 merchants, travellers or pillgrims. `[真题]`
->   - 中译：“商队”一词用于指 _4_ 出于安全原因在古代网络中一起旅行的人，5 名商人、旅行者或朝圣者。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/safety
+>   - 中译：【需人工审核】与 safety 相关的例句。
 > - For your ( comfort and) safety, we recommend you keep your seat belt loosely fastened during the flight. `[例]`
->   - 中译：为了您的（舒适和）安全，我们建议您在飞行过程中松开安全带。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/safety
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/safety
+>   - 中译：【需人工审核】与 safety 相关的例句。
 > - The crew of the ship were winched to safety by a rescue helicopter. `[例]`
->   - 中译：船上的船员被一架救援直升机吊到安全地带。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/safety
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/safety
+>   - 中译：【需人工审核】与 safety 相关的例句。
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/safety
 
 
 ## 主动产出

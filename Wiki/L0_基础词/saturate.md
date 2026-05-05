@@ -128,6 +128,8 @@ review_count: 0
 
 > [!example]- 语料
 > - The smartphone market has become increasingly saturated, making it difficult for new entrants to gain a significant market share. `[真题]`
+>   - 中译：【需人工审核】saturate 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/saturate
   - 中译：智能手机市场已日益饱和，使新进入者难以获得显著的市场份额。
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/saturate
 > - Modern society is saturated with information, yet people often find it harder than ever to distinguish fact from fiction. `[真题]`

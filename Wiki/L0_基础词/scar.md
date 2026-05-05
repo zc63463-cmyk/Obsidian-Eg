@@ -128,6 +128,8 @@ review_count: 0
 
 > [!example]- 语料
 > - He had a scar on his arm from a childhood accident. `[例]`
+>   - 中译：【需人工审核】scar 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/scar
   - 中译：他手臂上有一道童年事故留下的伤疤。
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/scar
 > - His father's alcoholism left scars that never healed. `[COCA-FICT]`

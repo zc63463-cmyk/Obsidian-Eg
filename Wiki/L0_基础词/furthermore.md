@@ -121,6 +121,8 @@ further（更进一步）+ more（更多）
 > [!example]- 语料
 > - The internet has revolutionized communication. Furthermore, it has transformed the way we access information. `[真题]`
 > - Furthermore, earlier marriage reinforces this trend, because graduates will be spending a greater proportion of their childbearing years in marriage. `[例]`
+>   - 中译：【需人工审核】furthermore 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/furthermore
   - 中译：此外，早婚强化了这一趋势，因为毕业生将在其生育年限中花更大比例的时间处于婚姻状态。；
   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/furthermore；
 > - The majority of Americans increased their wealth in the past decade. Furthermore, the gains were substantial. `[例]`

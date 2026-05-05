@@ -127,6 +127,8 @@ review_count: 0
 
 > [!example]- 语料
 > - The invention of the smartphone caused a paradigm shift in communication. `[例]`
+>   - 中译：【需人工审核】paradigm 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/paradigm
   - 中译：智能手机的发明引发了通信领域的范式转变。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/paradigm；
 > - A paradigm shift is urgently needed in the coastal and marine tourism sector, with innovative approaches to achieve sustainable and regenerative development. `[例]`

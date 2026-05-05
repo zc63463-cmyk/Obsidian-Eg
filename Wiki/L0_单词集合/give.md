@@ -148,16 +148,17 @@ review_count: 0
 
 > [!example]- 语料
 > - In your essay , you should 1) describe the picture briefly, 2 ) interpret the implied meaning , and 3) give your comments. `[真题]`
->   - 中译：在你的文章中，你应该1）简要描述图片，2）解释隐含的含义，3）给出你的评论。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/give
+>   - 中译：【需人工审核】与 give 相关的例句。
 > - Can you give me a date for another appointment? `[例]`
->   - 中译：你能给我另一个约会的日期吗？
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/give
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/give
+>   - 中译：【需人工审核】与 give 相关的例句。
 > - We always try to give to charity. `[例]`
->   - 中译：我们总是尽力为慈善事业做出贡献。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/give
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/give
+>   - 中译：【需人工审核】与 give 相关的例句。
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/give
 
 
 ## 主动产出

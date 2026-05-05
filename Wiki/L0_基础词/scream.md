@@ -139,6 +139,8 @@ review_count: 0
 
 > [!example]- 语料
 > - People ran for the exits, screaming out in terror. `[真题]`
+>   - 中译：【需人工审核】scream 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/scream
   - 中译：人们惊恐地尖叫着奔向出口。
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/scream
 > - Through the smoke, the rescuers could hear people screaming for help. `[真题]`

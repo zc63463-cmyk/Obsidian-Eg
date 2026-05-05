@@ -132,6 +132,8 @@ review_count: 0
 
 > [!example]- 语料
 > - I'm attending a training seminar for financial consultants. `[例]`
+>   - 中译：【需人工审核】seminar 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/seminar
   - 中译：我正在参加一个金融顾问培训研讨会。
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/seminar
 > - The National Science Teaching Association is hosting a 90-minute professional development web seminar for educators on 5 January. `[例]`

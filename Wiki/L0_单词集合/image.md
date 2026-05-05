@@ -148,16 +148,17 @@ review_count: 0
 
 > [!example]- 语料
 > - Throughout the trip , Jackson juggled multiple cameras and plate sizes using the " collodion process" that required him to coat the plates with a chemical mixture , then expose them and develop the resulting images with a portable darkroom. `[真题]`
->   - 中译：在整个旅程中，杰克逊使用“火棉胶工艺”处理多个相机和印版尺寸，该工艺要求他在印版上涂上化学混合物，然后将它们曝光并用便携式暗室冲洗所得图像。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/image
+>   - 中译：【需人工审核】与 image 相关的例句。
 > - Despite these challenges, Jackson captured dozens of striking photos, ranging from majestic images like his now-famous snapshot 11  of Old Faithful, to casual portraits of expedition members at the camp. `[真题]`
->   - 中译：尽管面临这些挑战，杰克逊还是拍摄了数十张引人注目的照片，从他现在著名的老忠实泉快照 1 1 等雄伟照片，到营地探险队员的随意肖像。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/image
+>   - 中译：【需人工审核】与 image 相关的例句。
 > - I don't believe that the legal protection would have happened in the timeframe that it did without those images, " says Hansen, journalist and author of Prophets and Moguls, Rangers and Rogues, Bison and Bears: 100 Years of the National Park Service. `[真题]`
->   - 中译：我认为如果没有这些图像，法律保护不会在这样的时间内发生，”记者兼《先知与大亨、流浪者与盗贼、野牛与熊：国家公园管理局 100 年》一书的作者汉森说道。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/image
+>   - 中译：【需人工审核】与 image 相关的例句。
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/image
 
 
 ## 主动产出

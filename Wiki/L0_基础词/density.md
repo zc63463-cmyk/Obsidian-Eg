@@ -126,6 +126,8 @@ review_count: 0
 
 > [!example]- 语料
 > - The area has a high population density. `[例]`
+>   - 中译：【需人工审核】density 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/density
   - 中译：该地区人口密度非常高。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/density；
 > - We were unable to move because of the density of the crowd. `[例]`

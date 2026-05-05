@@ -124,6 +124,8 @@ review_count: 0
 
 > [!example]- 语料
 > - They insisted that all expletives be deleted from the article. `[例]`
+>   - 中译：【需人工审核】delete 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/delete
   - 中译：我不小心删除了错误的文件。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/delete；
 > - Here is a list of possible answers . Please delete (= draw a line through some of them) as appropriate. `[例]`

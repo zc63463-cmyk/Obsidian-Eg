@@ -139,6 +139,8 @@ review_count: 0
 
 > [!example]- 语料
 > - He said he felt no shame for what he had done. `[真题]`
+>   - 中译：【需人工审核】shame 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/shame
   - 中译：他说他对自己所做的事不感到羞耻。；
   - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/shame；
 > - It's a shame that she wasn't here to see it. `[真题]`

@@ -135,6 +135,8 @@ germ 源自拉丁语 *germen*（芽、种子），与 [[gen-|gen/gent]]（出生
 > - He asked whether there were not electrical means for pasteurizing milk, for getting rid of the germs in milk. `[真题]`
 > - The hands are the most important means of the transfer of dangerous germs to food. `[真题]`
 > - A line of germ trees rose above the morning fog. `[例]`
+>   - 中译：【需人工审核】germ 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/germ
   - 中译：一行青冈树从晨雾中升起。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/germ；
 > - Chlorine is widely used to kill germs in swimming pools and water treatment systems. `[例]`

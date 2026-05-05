@@ -128,6 +128,8 @@ review_count: 0
 
 > [!example]- 语料
 > - After a restless night, she arrived at the examination hall feeling exhausted yet determined to do her best. `[真题]`
+>   - 中译：【需人工审核】restless 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/restless
   - 中译：经过一个不眠之夜后，她到达考场时感到疲惫不堪，但决心全力以赴。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/restless；
 > - The crowd grew restless as the hours passed without any announcement from the authorities. `[真题]`

@@ -139,17 +139,18 @@ review_count: 0
 
 > [!example]- 语料
 > - D.-The book market is rather slack. `[真题]`
->   - 中译：D.-图书市场相当萧条。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/slack
+>   - 中译：【需人工审核】与 slack 相关的例句。
 > - These tent ropes are too slack - they need tightening. `[例]`
->   - 中译：这些帐篷绳子太松了——需要拉紧。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/slack
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/slack
+>   - 中译：【需人工审核】与 slack 相关的例句。
 > - Business is always slack at this time of year. `[例]`
->   - 中译：每年这个时候生意总是清淡。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/slack
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/slack
+>   - 中译：【需人工审核】与 slack 相关的例句。
 
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/slack
 
 
 ## 主动产出

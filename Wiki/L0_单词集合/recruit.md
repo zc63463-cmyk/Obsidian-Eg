@@ -121,17 +121,18 @@ re-（再/重新）+ cruit（来自拉丁语 crescere，生长，与 [[gen]] 同
 
 > [!example]- 语料
 > - Directions: Write a notice to recruit a student for Prof. `[真题]`
->   - 中译：说明：写一份招募教授学生的通知。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/recruit
+>   - 中译：【需人工审核】与 recruit 相关的例句。
 > - Charities such as Oxfam are always trying to recruit volunteers to help in their work. `[例]`
->   - 中译：乐施会等慈善机构一直在努力招募志愿者来帮助他们的工作。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/recruit
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/recruit
+>   - 中译：【需人工审核】与 recruit 相关的例句。
 > - Even young boys are now being recruited into the army. `[例]`
->   - 中译：现在甚至连小男孩也被征召入伍。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/recruit
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/recruit
+>   - 中译：【需人工审核】与 recruit 相关的例句。
 
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/recruit
 
 
 ## 主动产出

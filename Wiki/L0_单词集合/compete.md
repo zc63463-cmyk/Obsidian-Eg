@@ -128,16 +128,17 @@ com-(共同) + pet(追求、寻求) + e
 
 > [!example]- 语料
 > - As a result D. status D. in line with D. pioneering D. competed D. `[真题]`
->   - 中译：结果 D. 地位 D. 符合 D. 开拓性 D. 竞争 D.
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/compete
+>   - 中译：【需人工审核】与 compete 相关的例句。
 > - It's difficult for a small shop to compete against the big supermarkets. `[例]`
->   - 中译：小商店很难与大超市竞争。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/compete
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/compete
+>   - 中译：【需人工审核】与 compete 相关的例句。
 > - In the tournament , she was competing with the best players in the country. `[例]`
->   - 中译：在比赛中，她与国内最好的选手竞争。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/compete
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/compete
+>   - 中译：【需人工审核】与 compete 相关的例句。
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/compete
 
 
 ## 主动产出

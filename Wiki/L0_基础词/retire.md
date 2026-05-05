@@ -136,6 +136,8 @@ re-(向后/回) + tire(=tirare, 拉/拖)
 
 > [!example]- 语料
 > - He decided to retire from the company after 30 years of dedicated service. `[真题]`
+>   - 中译：【需人工审核】retire 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/retire
   - 中译：他决定在公司工作了30年后退休。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/retire；
 > - After a long day at work, she retired to her room to relax with a good book. `[真题]`

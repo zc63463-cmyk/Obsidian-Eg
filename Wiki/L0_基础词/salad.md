@@ -126,6 +126,8 @@ review_count: 0
 
 > [!example]- 语料
 > - A healthy diet should include plenty of fresh vegetables, fruits, and salads. `[例]`
+>   - 中译：【需人工审核】salad 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/salad
   - 中译：健康的饮食应该包括大量的新鲜蔬菜、水果和沙拉。
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/salad
 > - I opted for tuna carpaccio with pepper and rocket salad from the a la carte menu. `[例]`

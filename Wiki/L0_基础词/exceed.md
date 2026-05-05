@@ -127,6 +127,8 @@ ex-(出，超出) + [[ced-cess|ceed]](走) → 走出去越过界限
 
 > [!example]- 语料
 > - The success of our campaign has exceeded our wildest expectations. `[例]`
+>   - 中译：【需人工审核】exceed 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/exceed
   - 中译：我们活动的成功超出了我们最大胆的预期。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/exceed；
 > - She was found guilty on three charges of exceeding the speed limit. `[例]`

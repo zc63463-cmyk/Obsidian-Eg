@@ -137,6 +137,8 @@ simul-(相似，同一，拉丁语 *simulare*) + -ate(动词后缀，使动)
 
 > [!example]- 语料
 > - By linking directly to our nervous system, computers could pick up what we feel and, hopefully, simulate feeling too so that we can start to develop full sensory environments. `[真题]`
+>   - 中译：【需人工审核】simulate 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/simulate
   - 中译：通过直接连接我们的神经系统，计算机可以感知我们的感受，并有望模拟出同样的感受，从而让我们开始开发完整的感官环境。；
   - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/simulate；
 > - Smoke was used to simulate steam coming from a smashed radiator. `[真题]`

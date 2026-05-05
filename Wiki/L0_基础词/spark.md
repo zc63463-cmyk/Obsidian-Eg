@@ -126,6 +126,8 @@ spark（火花，基础词汇，源自古英语 *spearca*）
 
 > [!example]- 语料
 > - Sparks were flying out of the bonfire and blowing everywhere. `[例]`
+>   - 中译：【需人工审核】spark 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/spark
   - 中译：火花从篝火中飞出，四处飘散。；
   - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/spark；
 > - You can start a fire by rubbing two dry pieces of wood together until you produce a spark. `[例]`

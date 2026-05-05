@@ -132,16 +132,17 @@ review_count: 0
 
 > [!example]- 语料
 > - The crude technique required educated guesses on exposure times, and involved heavy, awkward equipment-several men had to assist in its transportation. `[真题]`
->   - 中译：这种粗糙的技术需要对曝光时间进行有根据的猜测，并且涉及笨重、笨拙的设备——需要几个人协助运输。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/educate
+>   - 中译：【需人工审核】与 educate 相关的例句。
 > - The form says he was educated in Africa. `[例]`
->   - 中译：表格显示他在非洲接受教育。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/educate
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/educate
+>   - 中译：【需人工审核】与 educate 相关的例句。
 > - How much does it cost to educate a child privately? `[例]`
->   - 中译：孩子私立教育要花多少钱？
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/educate
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/educate
+>   - 中译：【需人工审核】与 educate 相关的例句。
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/educate
 
 
 ## 主动产出

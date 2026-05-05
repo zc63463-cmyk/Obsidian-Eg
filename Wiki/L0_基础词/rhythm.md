@@ -127,6 +127,8 @@ review_count: 0
 
 > [!example]- 语料
 > - He beat out a jazz rhythm on the drums. `[例]`
+>   - 中译：【需人工审核】rhythm 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rhythm
   - 中译：他在鼓上敲出了一段爵士节奏。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rhythm；
 > - She was lulled to sleep by the gentle rhythm of the boat in the water. `[例]`

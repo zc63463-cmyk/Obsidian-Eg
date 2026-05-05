@@ -124,6 +124,8 @@ plat-(平坦，来自法语 *plat*) + [[form|form]](形状，形式)
 
 > [!example]- 语料
 > - The whole audience stood up and applauded as the party's new leader mounted the platform. `[例]`
+>   - 中译：【需人工审核】platform 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/platform
   - 中译：当政党新领导人登上讲台时，全场观众起立鼓掌。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/platform；
 > - This brilliant young violinist has appeared on concert platforms all round the world. `[例]`

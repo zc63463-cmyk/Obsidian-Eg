@@ -127,16 +127,17 @@ ex-（出，向外）+ 建议创建词根笔记 [[ess]]（=agere，做，驱动�
 
 > [!example]- 语料
 > - Directions: Write an essay of 160-200 words based on the picture below. `[真题]`
->   - 中译：说明：根据下图写一篇160-200字的文章。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/essay
+>   - 中译：【需人工审核】与 essay 相关的例句。
 > - In your essay , you should 1) describe the picture briefly, 2 ) interpret the implied meaning , and 3) give your comments. `[真题]`
->   - 中译：在你的文章中，你应该1）简要描述图片，2）解释隐含的含义，3）给出你的评论。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/essay
+>   - 中译：【需人工审核】与 essay 相关的例句。
 > - For homework I want you to write an essay on endangered species. `[例]`
->   - 中译：作为家庭作业，我希望你写一篇关于濒危物种的文章。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/essay
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/essay
+>   - 中译：【需人工审核】与 essay 相关的例句。
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/essay
 
 
 ## 主动产出

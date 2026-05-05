@@ -128,16 +128,17 @@ per-(透过/穿过) + spect(看) + -ive(名词/形容词后缀，表"…的/…�
 
 > [!example]- 语料
 > - Branch points out that, even if a growing number of official guidelines and textbooks reflect scientific consensus on climate change , unofficial educational materials that convey mo:re slanted perspectives are being distributed to teachers. `[真题]`
->   - 中译：布兰奇指出，尽管越来越多的官方指南和教科书反映了关于气候变化的科学共识，但传达更多倾斜观点的非官方教育材料正在分发给教师。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/perspective
+>   - 中译：【需人工审核】与 perspective 相关的例句。
 > - Her attitude lends a fresh perspective to the subject. `[例]`
->   - 中译：她的态度为这个主题提供了新的视角。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/perspective
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/perspective
+>   - 中译：【需人工审核】与 perspective 相关的例句。
 > - He writes from a Marxist perspective. `[例]`
->   - 中译：他从马克思主义的角度写作。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/perspective
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/perspective
+>   - 中译：【需人工审核】与 perspective 相关的例句。
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/perspective
 
 
 ## 主动产出

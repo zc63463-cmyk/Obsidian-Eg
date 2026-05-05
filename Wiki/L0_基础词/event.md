@@ -128,6 +128,8 @@ review_count: 0
 
 > [!example]- 语料
 > - This year's Olympic Games will be the biggest ever sporting event. `[例]`
+>   - 中译：【需人工审核】event 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/event
   - 中译：今年的奥运会将是有史以来最大的体育赛事。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/event；
 > - This year's Olympic Games will be the biggest ever sports event. `[例]`

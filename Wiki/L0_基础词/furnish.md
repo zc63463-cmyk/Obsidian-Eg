@@ -127,6 +127,8 @@ furn-(装备，源自古法语 *furnir*) + -ish(动词后缀，使……)
 > - The apartment is fully furnished with modern appliances. `[真题]`
 > - The suspect refused to furnish the police with any information. `[真题]`
 > - She furnished the room with antique pieces to give it a vintage look. `[例]`
+>   - 中译：【需人工审核】furnish 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/furnish
   - 中译：她用古董家具布置了房间，使其具有复古风格。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/furnish；
 

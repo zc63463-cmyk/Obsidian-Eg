@@ -125,6 +125,8 @@ ex-(出) + [[cap]](拿取) + -ion(名词后缀) → 被取出的部分 → 例�
 
 > [!example]- 语料
 > - Men are usually quite good at map-reading but Tim is the exception. `[例]`
+>   - 中译：【需人工审核】exception 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/exception
   - 中译：男人通常很擅长看地图，但蒂姆是个例外。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/exception；
 > - There are exceptions to every rule. `[例]`

@@ -131,6 +131,8 @@ review_count: 0
 
 > [!example]- 语料
 > - Many of the traditions are remnants of a time when most people worked on the land. `[真题]`
+>   - 中译：【需人工审核】remnant 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/remnant
   - 中译：许多传统是大多数人还在务农那个时代的遗留物。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/remnant；
 > - The museum is one of the last remnants of the 17th-century palace. `[例]`

@@ -129,6 +129,8 @@ review_count: 0
 
 > [!example]- 语料
 > - She felt desolate when her best friend moved away. `[例]`
+>   - 中译：【需人工审核】desolate 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/desolate
   - 中译：那座房子孤寂地空着。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/desolate；
 > - They looked out on a bleak and desolate landscape. `[例]`

@@ -128,6 +128,8 @@ infra-(=below/beneath, 在……下面) + structure(=building/framework, 结构/
 
 > [!example]- 语料
 > - When the government talks about infrastructure contributing to the economy, the focus is usually on roads, railways, broadband and energy. `[真题]`
+>   - 中译：【需人工审核】infrastructure 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/infrastructure
   - 中译：当政府谈论基础设施对经济的贡献时，通常关注的是公路、铁路、宽带和能源。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/infrastructure；
 > - Years of civil war have wrecked the country's infrastructure and destroyed its social fabric. `[真题]`

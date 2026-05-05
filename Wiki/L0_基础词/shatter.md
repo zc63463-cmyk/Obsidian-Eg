@@ -139,6 +139,8 @@ review_count: 0
 
 > [!example]- 语料
 > - The earthquake shattered all the windows in the building. `[真题]`
+>   - 中译：【需人工审核】shatter 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/shatter
   - 中译：地震震碎了大楼里所有的窗户。；
   - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/shatter；
 > - A tragic accident shattered her dreams of Olympic glory. `[真题]`

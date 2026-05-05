@@ -121,6 +121,8 @@ review_count: 0
 
 > [!example]- 语料
 > - Exposure to UV rays from the sun varies according to how far away from the equator you live. `[例]`
+>   - 中译：【需人工审核】equator 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/equator
   - 中译：来自太阳紫外线的照射程度取决于你居住的地方离赤道有多远。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/equator；
 > - Indonesia is on the equator. `[例]`

@@ -141,6 +141,8 @@ paus(停止，希腊语 *pauein*) + -e
 
 > [!example]- 语料
 > - He talked for two hours without pausing for breath. `[真题]`
+>   - 中译：【需人工审核】pause 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pause
   - 中译：他连续讲了两个小时，中间没有停下来喘口气。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pause；
 > - The vast bulk of the research shows that there may be a pause, or a shifting of gears in the 40s or 50s, but this shift can be exciting, rather than terrifying. `[真题]`

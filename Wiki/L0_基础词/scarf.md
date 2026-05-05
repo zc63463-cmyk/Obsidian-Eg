@@ -126,6 +126,8 @@ review_count: 0
 > - She wrapped a thick wool scarf around her neck and stepped out into the freezing morning. `[COCA-FICT]`
 > - A cashmere scarf is the epitome of luxury and warmth for colder seasons. `[COCA-NEWS]`
 > - He scarfed down two sandwiches in under five minutes. `[例]`
+>   - 中译：【需人工审核】scarf 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/scarf
   - 中译：他在不到五分钟内狼吞虎咽地吃了两个三明治。
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/scarf
 

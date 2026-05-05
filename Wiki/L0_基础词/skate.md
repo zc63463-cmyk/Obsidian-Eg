@@ -145,6 +145,8 @@ review_count: 0
 
 > [!example]- 语料
 > - When the lake freezes over, we can go skating on it. `[例]`
+>   - 中译：【需人工审核】skate 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/skate
   - 中译：湖面结冰时，我们可以在上面滑冰。；
   - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/skate；
 > - He politely skated over the issue rather than addressing it directly. `[真题]`

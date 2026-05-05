@@ -124,6 +124,8 @@ review_count: 0
 
 > [!example]- 语料
 > - Diet varies between different countries in the world. `[例]`
+>   - 中译：【需人工审核】diet 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/diet
   - 中译：世界各国的饮食习惯各不相同。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/diet；
 > - The benefits of a healthy diet are obvious. `[例]`

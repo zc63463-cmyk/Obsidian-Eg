@@ -127,6 +127,8 @@ in-(在……上/靠近) + [[st-sta-stat|st]](站立，拉丁语 *stare*) + -anc
 
 > [!example]- 语料
 > - Murder, petty theft and tax evasion, for instance, all have different motives and consequences. `[真题]`
+>   - 中译：【需人工审核】instance 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/instance
   - 中译：例如，谋杀、小偷小摸和逃税都有不同的动机和后果。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/instance；
 > - They have decided not to oppose the decision in this instance. `[真题]`

@@ -128,6 +128,8 @@ re-（[[re-|再，重新]]）+ nov（[[new|新]]，拉丁语 *novus*）+ -ate（
 
 > [!example]- 语料
 > - The old factory has been renovated and turned into a modern art gallery. `[真题]`
+>   - 中译：【需人工审核】renovate 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/renovate
   - 中译：这座旧工厂经过翻修，变成了一个现代艺术画廊。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/renovate；
 > - The entire second floor of the museum has been renovated and now houses the national archaeological collection. `[例]`

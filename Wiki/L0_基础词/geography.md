@@ -133,6 +133,8 @@ geo-(=ge, 地球/土地) + [[graph-gram|graph]](写/记录) + -y(名词后缀)
 > - The American continent's geography severely limited the lines of attack. `[真题]`
 > - History and geography have conspired to bring the country to a moment of decision. `[真题]`
 > - My favourite subjects at school were history and geography. `[例]`
+>   - 中译：【需人工审核】geography 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/geography
   - 中译：我在学校最喜欢的科目是历史和地理。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/geography；
 

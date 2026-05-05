@@ -125,6 +125,8 @@ ex-(出、向外) + curs(跑，拉丁语 *currere*) + -ion(名词后缀) → 跑
 
 > [!example]- 语料
 > - This year's annual excursion will be to Lincoln. `[例]`
+>   - 中译：【需人工审核】excursion 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/excursion
   - 中译：今年的年度远足将前往林肯。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/excursion；
 > - Next week we're going on an excursion. `[例]`

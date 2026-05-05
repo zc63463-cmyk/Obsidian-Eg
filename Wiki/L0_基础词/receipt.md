@@ -137,6 +137,8 @@ re-（回，向后）+ ceipt（拿，=capere 的过去分词 *captus* 变体，�
 
 > [!example]- 语料
 > - Make sure you are given a receipt for everything you buy. `[例]`
+>   - 中译：【需人工审核】receipt 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/receipt
   - 中译：确保你购买的每一样东西都能拿到收据。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/receipt；
 > - More retailers are switching to email receipts instead of paper. `[例]`

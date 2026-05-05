@@ -129,6 +129,8 @@ review_count: 0
 
 > [!example]- 语料
 > - The labels were already gummed to the envelopes. `[例]`
+>   - 中译：【需人工审核】gum 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/gum
   - 中译：标签已经粘在信封上了。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/gum；
 > - Most teachers dont allow their students to chew gum in class. `[例]`

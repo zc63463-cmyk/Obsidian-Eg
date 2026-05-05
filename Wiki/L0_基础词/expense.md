@@ -130,6 +130,8 @@ ex-（向外）+ pens（称重/支付）+ -e → 称重后付出去 → 费用�
 
 > [!example]- 语料
 > - He built up the business at the expense of his health. `[例]`
+>   - 中译：以...为代价。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/expense
   - 中译：他以牺牲健康为代价发展了事业。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/expense；
 > - Buying a bigger car has proved to be well worth the expense. `[例]`

@@ -138,6 +138,8 @@ review_count: 0
 
 > [!example]- 语料
 > - Baltimore scored first when Gibbons hit a solo home run. `[例]`
+>   - 中译：【需人工审核】solo 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/solo
   - 中译：吉本斯击出一支阳春全垒打，巴尔的摩率先得分。；
   - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/solo；
 > - Phillips smashed a solo shot in the third inning. `[例]`

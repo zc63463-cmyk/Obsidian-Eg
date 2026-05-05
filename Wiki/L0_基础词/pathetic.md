@@ -140,6 +140,8 @@ review_count: 0
 
 > [!example]- 语料
 > - And Mr Trump's grasp of the technicalities was pathetic. `[例]`
+>   - 中译：【需人工审核】pathetic 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pathetic
   - 中译：特朗普先生对技术细节的掌握令人可怜。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pathetic；
 > - It was pathetic to watch her condition deteriorate. `[例]`

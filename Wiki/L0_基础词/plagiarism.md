@@ -125,6 +125,8 @@ review_count: 0
 
 > [!example]- 语料
 > - She's been accused of plagiarism. `[例]`
+>   - 中译：【需人工审核】plagiarism 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/plagiarism
   - 中译：她被指控抄袭。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/plagiarism；
 > - The techniques for detecting plagiarism are becoming increasingly advanced. `[例]`

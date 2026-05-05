@@ -125,6 +125,8 @@ review_count: 0
 > - She listens intently as her two armed bodyguards stand at a discreet distance. `[COCA-NEWS]`
 > - The important thing was to remain discreet and put your duties and family first. `[BNC-SPOKEN]`
 > - He was discreet enough not to reveal the secret to anyone. `[例]`
+>   - 中译：家庭，家人。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/discreet
   - 中译：他十分谨慎，没有把秘密透露给任何人。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/discreet；
 

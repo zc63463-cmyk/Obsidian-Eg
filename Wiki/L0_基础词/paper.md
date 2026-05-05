@@ -135,6 +135,8 @@ review_count: 0
 
 > [!example]- 语料
 > - He wrote his name down on a piece of paper and handed it to the receptionist. `[真题]`
+>   - 中译：【需人工审核】paper 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/paper
   - 中译：他在一张纸上写下名字，递给了前台接待员。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/paper；
 > - The researchers have published a paper in the journal Nature. `[例]`

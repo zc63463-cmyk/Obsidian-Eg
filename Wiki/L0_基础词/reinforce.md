@@ -135,6 +135,8 @@ re-(再，反复) + in-(进入) + [[force|forc-/fort-]](力量，拉丁语 *fort
 
 > [!example]- 语料
 > - But the ruling reinforces the need for citizens and their elected representatives, not the courts, to ensure equality of access to government. `[真题]`
+>   - 中译：【需人工审核】reinforce 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/reinforce
   - 中译：但这项裁决强化了这样一种需求：由公民及其民选代表而非法院来确保平等获取政府服务的权利。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/reinforce；
 > - Indeed, this period of economic weakness may reinforce class divides, and decrease opportunities to cross them — especially for young people. `[真题]`

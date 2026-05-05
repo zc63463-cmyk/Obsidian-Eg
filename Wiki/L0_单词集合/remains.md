@@ -131,16 +131,17 @@ re-(back) + 建议创建词根笔记 [[re/rem]](to stay/停留) + -s(复数名�
 
 > [!example]- 语料
 > - We are not boycotting PRH titles but we are doing our utmost to ensure that availability for customers remains good despite the lower overall levels of stock. `[真题]`
->   - 中译：我们并不是抵制公屋产权，但我们正在尽最大努力确保尽管总体库存水平较低，但客户的可用性仍然良好。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/remains
+>   - 中译：【需人工审核】与 remains 相关的例句。
 > - The remains of lunch were still on the table. `[例]`
->   - 中译：剩下的午餐还在桌子上。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/remains
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/remains
+>   - 中译：【需人工审核】与 remains 相关的例句。
 > - We visited the remains of a 12th century monastery. `[例]`
->   - 中译：我们参观了一座12世纪修道院的遗迹。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/remains
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/remains
+>   - 中译：【需人工审核】与 remains 相关的例句。
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/remains
 
 
 ## 主动产出

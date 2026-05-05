@@ -125,6 +125,8 @@ pest(瘟疫，害虫，拉丁语 *pestis*)
 
 > [!example]- 语料
 > - Each year ten per cent of the crop is lost to a pest called corn rootworm. `[真题]`
+>   - 中译：【需人工审核】pest 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pest
   - 中译：每年有百分之十的作物损失于一种叫做玉米根虫的害虫。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pest；
 > - Insecticide resistance has limited the number of available chemical options for insect pest control. `[例]`

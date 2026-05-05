@@ -128,6 +128,8 @@ re-（再，重新）+ collect（收集，拉丁语 *colligere*，*col-* "一起
 
 > [!example]- 语料
 > - As far as I can recollect, his father was a surgeon at that hospital during the early 1990s. `[例]`
+>   - 中译：【需人工审核】recollect 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/recollect
   - 中译：据我回忆，他父亲在20世纪90年代初是那家医院的外科医生。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/recollect；
 > - I recollect him saying that the project would be completed by the end of the following month. `[例]`

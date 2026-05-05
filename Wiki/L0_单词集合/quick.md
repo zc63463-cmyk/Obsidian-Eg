@@ -143,16 +143,17 @@ review_count: 0
 
 > [!example]- 语料
 > - In quick succession, the Senate and House passed legislation protecting Yell ow stone in early 1872. `[真题]`
->   - 中译：1872 年初，参议院和众议院相继通过了保护黄石的立法。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/quick
+>   - 中译：【需人工审核】与 quick 相关的例句。
 > - It's a quick journey. `[例]`
->   - 中译：这是一个快速的旅程。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/quick
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/quick
+>   - 中译：【需人工审核】与 quick 相关的例句。
 > - I had a quick coffee and left the house. `[例]`
->   - 中译：我喝了一杯咖啡就离开了家。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/quick
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/quick
+>   - 中译：【需人工审核】与 quick 相关的例句。
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/quick
 
 
 ## 主动产出

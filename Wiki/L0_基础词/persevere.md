@@ -124,6 +124,8 @@ review_count: 0
 
 > [!example]- 语料
 > - Despite a number of setbacks, they persevered in their attempts to fly around the world in a balloon. `[真题]`
+>   - 中译：【需人工审核】persevere 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/persevere
   - 中译：尽管遭遇了多次挫折，他们仍然坚持尝试乘气球环游世界。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/persevere；
 > - She persevered with her violin lessons despite the difficulties. `[例]`

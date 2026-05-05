@@ -129,6 +129,8 @@ re-(前缀：再/回) + semble(像/类似) + -ance(名词后缀：表示状态�
 
 > [!example]- 语料
 > - There was a clear family resemblance between all the brothers. `[真题]`
+>   - 中译：家庭，家人。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/resemblance
   - 中译：所有兄弟之间有明显的家族相似之处。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/resemblance；
 > - She bears a striking resemblance to her mother. `[真题]`

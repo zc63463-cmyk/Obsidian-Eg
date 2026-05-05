@@ -126,6 +126,8 @@ fee 源自古英语 *feoh*（牛、牲畜），与德语 *Vieh*（牲畜）同�
 
 > [!example]- 语料
 > - We couldn't pay the lawyer's fee. `[例]`
+>   - 中译：【需人工审核】fee 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fee
   - 中译：我们付不起律师费。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fee；
 > - No matter what the outcome of the case is, they'll spend thousands in legal fees. `[例]`

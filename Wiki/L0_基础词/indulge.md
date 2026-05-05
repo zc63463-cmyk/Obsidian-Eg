@@ -128,6 +128,8 @@ review_count: 0
 
 > [!example]- 语料
 > - They went into town to indulge in some serious shopping. `[例]`
+>   - 中译：【需人工审核】indulge 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/indulge
   - 中译：他们进城去尽情购物。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/indulge；
 > - The inheritance enabled him to indulge his passion for art. `[例]`

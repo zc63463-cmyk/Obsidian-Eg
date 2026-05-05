@@ -132,6 +132,8 @@ re-(=again，再，前缀 [[re-]]) + cycl(=circle，圆，循环，希腊语 *ky
 
 > [!example]- 语料
 > - The materials from e-waste include iron, copper, gold, silver, and aluminum materials that could be reused, resold, salvaged, or recycled. `[真题]`
+>   - 中译：【需人工审核】recycle 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/recycle
   - 中译：电子废弃物中的材料包括铁、铜、金、银和铝，这些材料可以被重复使用、转售、回收或循环利用。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/recycle；
 > - The bottles were being recycled into a lower-quality product. `[真题]`

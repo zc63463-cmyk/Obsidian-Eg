@@ -128,6 +128,8 @@ ex-(出、向外) + erc(围栏、圈禁，拉丁语 *arcere*) + -ise(动词后�
 
 > [!example]- 语料
 > - Swimming is my favourite form of exercise. `[例]`
+>   - 中译：【需人工审核】exercise 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/exercise
   - 中译：游泳是我最喜欢的运动方式。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/exercise；
 > - The doctor recommended that he get more exercise, at least three times a week , and try to also get more sleep. `[例]`

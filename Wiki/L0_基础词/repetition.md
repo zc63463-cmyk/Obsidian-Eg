@@ -129,6 +129,8 @@ re-（[[re-|再，重新]]）+ pet（[[pet|寻求]]，拉丁语 *petere*）+ -it
 
 > [!example]- 语料
 > - We want to prevent a repetition of last summer's fires, which destroyed more than 500,000 acres of land. `[COCA-NEWS]`
+>   - 中译：【需人工审核】repetition 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/repetition
   - 中译：我们想防止去年夏天火灾的重演，那场大火烧毁了超过50万英亩的土地。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/repetition；
 > - The job involved the endless repetition of two or three simple tasks. `[COCA-ACAD]`

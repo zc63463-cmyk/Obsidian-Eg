@@ -125,6 +125,8 @@ review_count: 0
 
 > [!example]- 语料
 > - Can I dial this number direct , or do I have to go through the operator? `[例]`
+>   - 中译：【需人工审核】dial 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/dial
   - 中译：我可以直接拨这个号码，还是需要通过接线员转接？；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/dial；
 > - Can you read what it says on the dial? `[例]`

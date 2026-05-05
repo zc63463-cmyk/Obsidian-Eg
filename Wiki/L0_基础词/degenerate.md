@@ -134,6 +134,8 @@ review_count: 0
 
 > [!example]- 语料
 > - What was intended as a peaceful demonstration rapidly degenerated into violence. `[例]`
+>   - 中译：【需人工审核】degenerate 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/degenerate
   - 中译：他的健康状况恶化到了无法再工作的地步。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/degenerate；
 > - Educational standards are degenerating year by year because of a lack of funds. `[例]`

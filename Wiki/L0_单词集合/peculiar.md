@@ -139,16 +139,17 @@ review_count: 0
 
 > [!example]- 语料
 > - The peculiar part is that the journal that the editor is supposedly working for is not profiting at all-it is just providing citations to other journals. `[真题]`
->   - 中译：奇怪的是，这位编辑所工作的期刊根本没有盈利——它只是提供对其他期刊的引用。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/peculiar
+>   - 中译：【需人工审核】与 peculiar 相关的例句。
 > - She has the most peculiar ideas. `[例]`
->   - 中译：她有最奇特的想法。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/peculiar
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/peculiar
+>   - 中译：【需人工审核】与 peculiar 相关的例句。
 > - It 's peculiar that they didn't tell us they were going away. `[例]`
->   - 中译：奇怪的是他们没有告诉我们他们要离开。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/peculiar
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/peculiar
+>   - 中译：【需人工审核】与 peculiar 相关的例句。
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/peculiar
 
 
 ## 主动产出

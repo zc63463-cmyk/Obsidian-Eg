@@ -139,6 +139,8 @@ sneak 源自古英语 *snīcan*（爬行、悄悄移动），与古诺斯语 *sn
 
 > [!example]- 语料
 > - I managed to sneak in through the back door while she wasn't looking. `[例]`
+>   - 中译：【需人工审核】sneak 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sneak
   - 中译：趁她不注意时，我设法从后门溜了进去。；
   - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/sneak；
 > - Jan doesn't have a ticket but I thought we might sneak her in. `[例]`

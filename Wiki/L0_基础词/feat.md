@@ -126,6 +126,8 @@ feat 源自拉丁语 *factum*（做出来的事），与 [[fac]](做)同源，�
 
 > [!example]- 语料
 > - The Eiffel Tower is a remarkable feat of engineering. `[例]`
+>   - 中译：【需人工审核】feat 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/feat
   - 中译：埃菲尔铁塔是一项了不起的工程壮举。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/feat；
 > - She performed remarkable feats of organization for the company. `[例]`

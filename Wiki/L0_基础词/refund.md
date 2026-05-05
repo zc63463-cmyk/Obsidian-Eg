@@ -126,6 +126,8 @@ re-(回，向后) + [[fund|fund]](资金，来自拉丁语 *fundus* 底部/基�
 
 > [!example]- 语料
 > - We claimed a refund from the shopkeeper, but he refused. `[真题]`
+>   - 中译：【需人工审核】refund 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/refund
   - 中译：我们向店主要求退款，但他拒绝了。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/refund；
 > - We will refund your money to you after you apply for it if you are not entirely satisfied. `[真题]`

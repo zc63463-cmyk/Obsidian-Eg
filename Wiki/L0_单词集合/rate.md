@@ -125,16 +125,17 @@ review_count: 0
 
 > [!example]- 语料
 > - In New Hampshire, where the rental vacancy rate has dropped :below 1 percent, housing advocates fear unchecked short-term rentals will put further pressure on an already strained market. `[真题]`
->   - 中译：在新罕布什尔州，租赁空置率已降至 1% 以下，住房倡导者担心不受控制的短期租金会给本已紧张的市场带来进一步压力。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rate
+>   - 中译：【需人工审核】与 rate 相关的例句。
 > - Its rental vacancy rate is going up slowly. `[真题]`
->   - 中译：其出租空置率正在缓慢上升。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rate
+>   - 中译：【需人工审核】与 rate 相关的例句。
 > - Although she's recovering from her illness , her rate of progress is quite slow. `[例]`
->   - 中译：虽然她的病正在康复，但是进步的速度却相当缓慢。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/rate
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rate
+>   - 中译：【需人工审核】与 rate 相关的例句。
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rate
 
 
 ## 主动产出

@@ -132,16 +132,17 @@ review_count: 0
 
 > [!example]- 语料
 > - A study last year by the National Center for Science Education, a non­ profit group of scientists and teachers, looking at how state public schools across the country address climate change in science classes, gave barely half of US states a grade B + or higher. `[真题]`
->   - 中译：国家科学教育中心（一个由科学家和教师组成的非营利组织）去年进行的一项研究调查了全国公立学校如何在科学课程中应对气候变化，结果显示美国只有一半的州获得了 B+ 或更高的成绩。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/national
+>   - 中译：【需人工审核】与 national 相关的例句。
 > - Grant signed an act into law that established Yellowstone as the world's first national park. `[真题]`
->   - 中译：格兰特签署了一项法律，将黄石公园确立为世界上第一个国家公园。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/national
+>   - 中译：【需人工审核】与 national 相关的例句。
 > - I don't believe that the legal protection would have happened in the timeframe that it did without those images, " says Hansen, journalist and author of Prophets and Moguls, Rangers and Rogues, Bison and Bears: 100 Years of the National Park Service. `[真题]`
->   - 中译：我认为如果没有这些图像，法律保护不会在这样的时间内发生，”记者兼《先知与大亨、流浪者与盗贼、野牛与熊：国家公园管理局 100 年》一书的作者汉森说道。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/national
+>   - 中译：【需人工审核】与 national 相关的例句。
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/national
 
 
 ## 主动产出

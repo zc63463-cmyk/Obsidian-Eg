@@ -141,16 +141,17 @@ review_count: 0
 
 > [!example]- 语料
 > - Red flags include a large number of citations to an article within the first year. `[真题]`
->   - 中译：危险信号包括第一年内对某篇文章的大量引用。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/first
+>   - 中译：【需人工审核】与 first 相关的例句。
 > - He captured the first-ever shots of iconic landmarks such as the Tetons, Old Faithful and the Colorado Rockies. `[真题]`
->   - 中译：他首次拍摄了大提顿山、老忠实间歇泉和科罗拉多落基山脉等标志性地标的照片。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/first
+>   - 中译：【需人工审核】与 first 相关的例句。
 > - Grant signed an act into law that established Yellowstone as the world's first national park. `[真题]`
->   - 中译：格兰特签署了一项法律，将黄石公园确立为世界上第一个国家公园。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/first
+>   - 中译：【需人工审核】与 first 相关的例句。
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/first
 
 
 ## 主动产出

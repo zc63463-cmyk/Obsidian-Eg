@@ -131,6 +131,8 @@ re-（回，再次）+ call（叫，呼唤）
 
 > [!example]- 语料
 > - The old man recalled the city as it had been before the war. `[例]`
+>   - 中译：【需人工审核】recall 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/recall
   - 中译：老人回忆起战前这座城市的样子。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/recall；
 > - He recalled (that) he had sent the letter over a month ago. `[例]`

@@ -129,6 +129,8 @@ review_count: 0
 
 > [!example]- 语料
 > - They managed to smuggle a video of the captive journalists out of the prison. `[例]`
+>   - 中译：【需人工审核】smuggle 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/smuggle
   - 中译：他们设法将被囚禁记者的视频从监狱中走私出来。；
   - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/smuggle；
 > - He was caught trying to smuggle goods across the border. `[例]`

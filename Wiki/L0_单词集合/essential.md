@@ -132,16 +132,17 @@ review_count: 0
 
 > [!example]- 语料
 > - For AI to be successful, data needs to be accessible, but the use of personal data is becoming more regulated and the automated sharing of data is becoming more difficult. ( 49 ) If customers are not willing to share data, AI will be starved of essential information and will not be able to function effectively or employ machine learning to improve its marketing content and communication. `[真题]`
->   - 中译：人工智能要取得成功，数据需要可访问，但个人数据的使用变得更加规范，数据的自动共享也变得更加困难。 ( 49 ) 如果客户不愿意共享数据，人工智能将缺乏必要的信息，将无法有效运作或利用机器学习来改进其营销内容和沟通。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/essential
+>   - 中译：【需人工审核】与 essential 相关的例句。
 > - Government support will be essential if the project is to succeed. `[例]`
->   - 中译：如果该项目要取得成功，政府的支持至关重要。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/essential
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/essential
+>   - 中译：【需人工审核】与 essential 相关的例句。
 > - There is essential work to be done before the building can be re-occupied. `[例]`
->   - 中译：在重新使用该建筑之前，还有一些重要的工作要做。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/essential
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/essential
+>   - 中译：【需人工审核】与 essential 相关的例句。
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/essential
 
 
 ## 主动产出

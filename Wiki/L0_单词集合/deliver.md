@@ -137,16 +137,17 @@ review_count: 0
 
 > [!example]- 语料
 > - The publishing industry talks about diversity in terms of authors and staff but it also needs a plurality of ways of delivering intellectual contact, choice and different voices. `[真题]`
->   - 中译：出版业谈论作者和员工的多样性，但它也需要多种方式来提供知识接触、选择和不同的声音。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/deliver
+>   - 中译：【需人工审核】与 deliver 相关的例句。
 > - Not only can AI help to create the marketing content, but it can also provide a non-intrusive way of delivering the content to the target cm,tomers. `[真题]`
->   - 中译：人工智能不仅可以帮助创建营销内容，还可以提供一种非侵入式的方式将内容传递给目标客户。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/deliver
+>   - 中译：【需人工审核】与 deliver 相关的例句。
 > - Mail is delivered to our office twice a day. `[例]`
->   - 中译：邮件每天两次送到我们的办公室。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/deliver
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/deliver
+>   - 中译：【需人工审核】与 deliver 相关的例句。
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/deliver
 
 
 ## 主动产出

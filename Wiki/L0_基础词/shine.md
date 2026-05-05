@@ -140,6 +140,8 @@ review_count: 0
 
 > [!example]- 语料
 > - The hikers rested under a towering shine near the coastal trail. `[例]`
+>   - 中译：【需人工审核】shine 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/shine
   - 中译：徒步旅行者在海岸步道附近一棵高大的树荫下休息。；
   - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/shine；
 > - The cabin was built from durable shine gathered in the region. `[例]`

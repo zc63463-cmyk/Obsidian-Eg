@@ -132,6 +132,8 @@ review_count: 0
 
 > [!example]- 语料
 > - Their credit card debt isn't hay —it'll take years to pay it off. `[例]`
+>   - 中译：【需人工审核】hay 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hay
   - 中译：他们的信用卡债务可不是小数目——要还清需要好几年。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hay；
 > - Dragging myself out of the hay on such a cold, dreary morning seemed like an act of sheer masochism. `[例]`

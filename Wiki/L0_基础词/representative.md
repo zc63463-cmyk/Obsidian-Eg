@@ -126,6 +126,8 @@ re-(再次) + [[prec-pre|pre]]-(在前面) + [[sens-sent|sent]](存在) + -ative
 
 > [!example]- 语料
 > - The firm has representatives in every major city. `[COCA-NEWS]`
+>   - 中译：【需人工审核】representative 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/representative
   - 中译：这家公司在每个主要城市都有代表。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/representative；
 > - A good political poll is based on a representative sampling of voters. `[COCA-ACAD]`

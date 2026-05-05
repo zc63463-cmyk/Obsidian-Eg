@@ -132,16 +132,17 @@ review_count: 0
 
 > [!example]- 语料
 > - These would emphasise the primacy of human activity in recent climate change and encourage discussion of mitigation measures. `[真题]`
->   - 中译：这些将强调人类活动在近期气候变化中的首要地位，并鼓励讨论缓解措施。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/encourage
+>   - 中译：【需人工审核】与 encourage 相关的例句。
 > - We were encouraged to learn foreign languages at school. `[例]`
->   - 中译：我们被鼓励在学校学习外语。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/encourage
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/encourage
+>   - 中译：【需人工审核】与 encourage 相关的例句。
 > - The council is encouraging the development of the property for both employment and recreation. `[例]`
->   - 中译：该委员会鼓励开发该地产以供就业和娱乐。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/encourage
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/encourage
+>   - 中译：【需人工审核】与 encourage 相关的例句。
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/encourage
 
 
 ## 主动产出

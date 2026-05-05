@@ -139,6 +139,8 @@ singul-(单一的，拉丁语 *singulus*) + -ar(形容词后缀)
 
 > [!example]- 语料
 > - I suspect that a key to thinking usefully about macroeconomics is to shift from thinking in terms of a singular labor market to thinking about plural labor markets. `[真题]`
+>   - 中译：【需人工审核】singular 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/singular
   - 中译：我怀疑，有效思考宏观经济学的关键在于从单一的劳动力市场思维转向多元的劳动力市场思维。；
   - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/singular；
 > - She had a singular insight into the problem that no one else had considered. `[真题]`

@@ -139,6 +139,8 @@ review_count: 0
 
 > [!example]- 语料
 > - Damn, I've spilled coffee down my blouse! `[例]`
+>   - 中译：【需人工审核】damn 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/damn
   - 中译：该死，我把咖啡洒到衬衫上了！；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/damn；
 > - Damn, that tastes good. `[例]`

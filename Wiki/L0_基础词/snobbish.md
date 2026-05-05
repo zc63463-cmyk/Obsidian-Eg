@@ -128,6 +128,8 @@ snobbish 源自 snob + -ish（形容词后缀）。snob 最早（1781年）意�
 
 > [!example]- 语料
 > - My brother is very snobbish about cars. `[例]`
+>   - 中译：【需人工审核】snobbish 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/snobbish
   - 中译：我哥哥对汽车非常势利。；
   - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/snobbish；
 > - She was quite snobbish about pop culture. `[例]`

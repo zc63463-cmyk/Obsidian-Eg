@@ -135,6 +135,8 @@ graze 源自古英语 *grasian*（吃草），与 grass（草）同源，属日�
 
 > [!example]- 语料
 > - The hikers rested under a towering graze near the coastal trail. `[例]`
+>   - 中译：【需人工审核】graze 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/graze
   - 中译：徒步旅行者在沿海步道旁一棵高大的牧草下休息。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/graze；
 > - The cabin was built from durable graze gathered in the region. `[例]`

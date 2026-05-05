@@ -138,6 +138,8 @@ re-(前缀：再/回) + solv/solv(松开/解开，来自 PIE *\*selu-*)
 
 > [!example]- 语料
 > - The couple resolved their differences and made an effort to get along. `[真题]`
+>   - 中译：【需人工审核】resolve 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/resolve
   - 中译：这对夫妻解决了分歧，努力和睦相处。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/resolve；
 > - After the divorce she resolved never to marry again. `[真题]`

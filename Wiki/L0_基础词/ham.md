@@ -126,6 +126,8 @@ ham 源自古英语 *hamm*，原指"膝盖后弯、腿的弯曲部分"，与古�
 
 > [!example]- 语料
 > - They had some dreadful old ham in the main part. `[例]`
+>   - 中译：【需人工审核】ham 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ham
   - 中译：他们在主餐厅有一些难吃的陈年火腿。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ham；
 > - His critics wrote him off as a ham actor. `[例]`

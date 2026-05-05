@@ -124,16 +124,17 @@ review_count: 0
 
 > [!example]- 语料
 > - C It hinders the growth of "international" journals. `[真题]`
->   - 中译：C 它阻碍了“国际”期刊的发展。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/growth
+>   - 中译：【需人工审核】与 growth 相关的例句。
 > - A balanced diet is essential for healthy growth. `[例]`
->   - 中译：均衡饮食对于健康成长至关重要。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/growth
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/growth
+>   - 中译：【需人工审核】与 growth 相关的例句。
 > - Plant growth is most noticeable in spring and early summer. `[例]`
->   - 中译：植物生长在春季和初夏最为明显。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/growth
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/growth
+>   - 中译：【需人工审核】与 growth 相关的例句。
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/growth
 
 
 ## 主动产出

@@ -130,6 +130,8 @@ review_count: 0
 
 > [!example]- 语料
 > - These restaurants draw inspiration from the world's finest cuisines and are among the finest dining venues in the country. `[真题]`
+>   - 中译：【需人工审核】inspiration 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/inspiration
   - 中译：这些餐厅从世界最精美的美食中汲取灵感，是该国最出色的餐饮场所之一。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/inspiration；
 > - His memoirs were the inspiration behind the movie. `[真题]`

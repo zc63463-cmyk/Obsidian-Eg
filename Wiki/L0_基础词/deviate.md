@@ -133,6 +133,8 @@ review_count: 0
 
 > [!example]- 语料
 > - The recent pattern of weather deviates from the norm for this time of year. `[例]`
+>   - 中译：【需人工审核】deviate 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/deviate
   - 中译：最近的天气模式偏离了该时节的常态。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/deviate；
 > - The path follows the river closely , occasionally deviating around a clump of trees. `[例]`

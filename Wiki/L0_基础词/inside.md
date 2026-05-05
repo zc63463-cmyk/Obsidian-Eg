@@ -137,6 +137,8 @@ inside 是一个复合词，由 **in-**（在...之中，来自 PIE *\*en*）+ *
 
 > [!example]- 语料
 > - She made a film about what life was like inside the refugee camp. `[真题]`
+>   - 中译：【需人工审核】inside 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/inside
   - 中译：她拍了一部关于难民营内部生活状况的纪录片。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/inside；
 > - The job is unlikely to be finished inside a year. `[真题]`

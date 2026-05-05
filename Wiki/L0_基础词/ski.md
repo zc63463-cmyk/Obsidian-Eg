@@ -143,6 +143,8 @@ review_count: 0
 
 > [!example]- 语料
 > - The ski resort offers a variety of services including snowmaking equipment for the slopes. `[例]`
+>   - 中译：【需人工审核】ski 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ski
   - 中译：这个滑雪场提供多种服务，包括为坡道配备造雪设备。；
   - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/ski；
 > - There are some nice gentle slopes that beginners can easily ski down. `[例]`

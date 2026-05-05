@@ -130,6 +130,8 @@ review_count: 0
 
 > [!example]- 语料
 > - People have a romantic attachment to the idea of the self-made man. `[真题]`
+>   - 中译：【需人工审核】romantic 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/romantic
   - 中译：人们对白手起家的理念有一种浪漫的依恋。
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/romantic
 > - She had romantic notions about becoming a famous artist. `[真题]`

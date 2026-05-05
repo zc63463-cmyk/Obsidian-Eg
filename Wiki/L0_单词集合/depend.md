@@ -128,16 +128,17 @@ review_count: 0
 
 > [!example]- 语料
 > - The carc;ers of scientists and the reputation of their institutions depend on the number and prestige of the papers they produce , but even more so on the citations attracted by these papers. `[真题]`
->   - 中译：科学家的职业生涯及其机构的声誉取决于他们发表的论文的数量和声望，但更取决于这些论文所吸引的引用。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/depend
+>   - 中译：【需人工审核】与 depend 相关的例句。
 > - Whether or not we go to Mexico for our holiday depends on the cost. `[例]`
->   - 中译：我们是否去墨西哥度假取决于费用。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/depend
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/depend
+>   - 中译：【需人工审核】与 depend 相关的例句。
 > - Are you going to Emma's party ?" "I don't know , it depends - we might be going away that weekend. `[例]`
->   - 中译：你要去参加艾玛的聚会吗？” “我不知道，这要看情况——我们可能会在那个周末离开。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/depend
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/depend
+>   - 中译：【需人工审核】与 depend 相关的例句。
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/depend
 
 
 ## 主动产出

@@ -125,16 +125,17 @@ review_count: 0
 
 > [!example]- 语料
 > - Now, with record-high home prices and historically low inventory, there's an increased urgency in such regulation, particularly among those who worry that developers will come in and buy up swaths of housing to flip for a fortune on the short-term rental market. `[真题]`
->   - 中译：现在，随着房价创历史新高，库存也创历史新低，此类监管的紧迫性越来越大，尤其是那些担心开发商会介入并购买大量住房并在短期租赁市场上转手大赚的人。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/regulation
+>   - 中译：【需人工审核】与 regulation 相关的例句。
 > - The correct procedure is laid down in the rules and regulations. `[例]`
->   - 中译：规则和条例规定了正确的程序。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/regulation
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/regulation
+>   - 中译：【需人工审核】与 regulation 相关的例句。
 > - They are demanding tighter regulation of the marketing of alcohol to teenagers. `[例]`
->   - 中译：他们要求对面向青少年的酒类营销进行更严格的监管。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/regulation
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/regulation
+>   - 中译：【需人工审核】与 regulation 相关的例句。
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/regulation
 
 
 ## 主动产出

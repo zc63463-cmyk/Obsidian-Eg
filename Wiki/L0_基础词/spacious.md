@@ -116,6 +116,8 @@ space(空间，[[space]]) + -ious(形容词后缀，充满……的)
 
 > [!example]- 语料
 > - A spacious house is comfortable. `[例]`
+>   - 中译：【需人工审核】spacious 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/spacious
   - 中译：宽敞的房子住起来很舒适。；
   - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/spacious；
 > - The hotel rooms are spacious and comfortable. `[例]`

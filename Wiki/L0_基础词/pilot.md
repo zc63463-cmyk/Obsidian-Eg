@@ -132,6 +132,8 @@ review_count: 0
 
 > [!example]- 语料
 > - If you'd seen the pilot, you'd know why they decided not to make a complete series of programmes! `[例]`
+>   - 中译：【需人工审核】pilot 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pilot
   - 中译：如果你看过那集试播片，你就会知道他们为什么决定不制作完整系列的节目了！；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pilot；
 > - If the pilot scheme is successful , many more homes will be offered the new television service. `[例]`

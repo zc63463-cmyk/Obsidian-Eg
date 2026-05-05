@@ -133,16 +133,17 @@ re-(back/away) + 建议创建词根笔记 [[re/rem]](to move/移动) + (无后�
 
 > [!example]- 语料
 > - The trade magazine The Bookseller reported that Waterstones branch managers were being told to remove PRH books from prominent areas such as tables , display spaces and windows, and were " quietly retiring them to their relevant sections". `[真题]`
->   - 中译：行业杂志《书商》报道称，水石书店的分店经理被告知将公屋书籍从桌子、展示空间和窗户等显着区域移走，并“悄悄地将它们退回到相关区域”。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/remove
+>   - 中译：【需人工审核】与 remove 相关的例句。
 > - The credit limit will be removed. `[真题]`
->   - 中译：信用额度将被取消。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/remove
+>   - 中译：【需人工审核】与 remove 相关的例句。
 > - The main disadvantage of using AI to respond to customers is that there are concerns about trusting pei:sonal interactions to machines , which could lead not only to the subsequent loss of interpersonal connections , but also to a decrease in marketing personnel. ( 47) Some believe that AI is negatively impacting on the marketer's role by reducing creativity and removing jobs, but they are aware that it is a way of reducing costs and creating new information. `[真题]`
->   - 中译：使用人工智能响应客户的主要缺点是担心信任机器之间的人际互动，这不仅可能导致随后人际联系的丧失，还会导致营销人员的减少。 ( 47) 一些人认为人工智能通过减少创造力和减少工作岗位而对营销人员的角色产生负面影响，但他们意识到这是降低成本和创造新信息的一种方式。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/remove
+>   - 中译：【需人工审核】与 remove 相关的例句。
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/remove
 
 
 ## 主动产出

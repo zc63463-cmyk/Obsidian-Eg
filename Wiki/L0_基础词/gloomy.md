@@ -133,6 +133,8 @@ gloom(阴暗) + -y(充满……的) → 充满阴暗的
 > [!example]- 语料
 > - The researchers proposed a gloomy solution to the problem. `[真题]`
 > - It was a wet and gloomy day. `[例]`
+>   - 中译：【需人工审核】gloomy 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/gloomy
   - 中译：那是一个潮湿阴沉的日子。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/gloomy；
 > - The economic situation of the western industrialized countries is gloomy. `[例]`

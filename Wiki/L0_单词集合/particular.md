@@ -136,16 +136,17 @@ review_count: 0
 
 > [!example]- 语料
 > - One of the turning points in public support for land conservation efforts-and recognizing the magnificence of the Yellowstone region in particular-came in the form of vivid photographs. `[真题]`
->   - 中译：公众支持土地保护工作的转折点之一——尤其是认识到黄石地区的壮丽——以生动的照片的形式出现。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/particular
+>   - 中译：【需人工审核】与 particular 相关的例句。
 > - She wanted a particular type of cactus. `[例]`
->   - 中译：她想要一种特殊类型的仙人掌。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/particular
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/particular
+>   - 中译：【需人工审核】与 particular 相关的例句。
 > - He wouldn't take just any book - he had to have this particular one! `[例]`
->   - 中译：他不会随便拿任何一本书——他必须要这本特别的书！
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/particular
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/particular
+>   - 中译：【需人工审核】与 particular 相关的例句。
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/particular
 
 
 ## 主动产出

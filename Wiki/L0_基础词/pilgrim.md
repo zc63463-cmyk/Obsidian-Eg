@@ -123,6 +123,8 @@ pilgrim(朝圣者，源自拉丁语 *peregrinus* "外来的，旅行的")
 
 > [!example]- 语料
 > - Around two million pilgrims visit Mecca every year. `[例]`
+>   - 中译：【需人工审核】pilgrim 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pilgrim
   - 中译：每年约有200万朝圣者前往麦加。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pilgrim；
 > - Their family goes back to the time of the Pilgrim Fathers. `[例]`

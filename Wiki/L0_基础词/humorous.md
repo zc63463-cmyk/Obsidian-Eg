@@ -124,6 +124,8 @@ review_count: 0
 
 > [!example]- 语料
 > - Her latest book is a humorous look at teenage life. `[例]`
+>   - 中译：【需人工审核】humorous 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/humorous
   - 中译：她的最新书以幽默的视角审视青少年生活。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/humorous；
 > - I suppose the play is quite humorous, but it is let down by the actors ' weak performances. `[例]`

@@ -134,16 +134,17 @@ review_count: 0
 
 > [!example]- 语料
 > - Though Native Americans ( and later miners and fur trappers) had long recognized the area's riches, most Americans did not. `[真题]`
->   - 中译：尽管美洲原住民（以及后来的矿工和毛皮捕猎者）早已认识到该地区的财富，但大多数美国人并不认识。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/native
+>   - 中译：【需人工审核】与 native 相关的例句。
 > - She returned to live and work in her native Japan. `[例]`
->   - 中译：她回到祖国日本生活和工作。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/native
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/native
+>   - 中译：【需人工审核】与 native 相关的例句。
 > - She's a native Californian. `[例]`
->   - 中译：她是土生土长的加州人。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/native
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/native
+>   - 中译：【需人工审核】与 native 相关的例句。
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/native
 
 
 ## 主动产出

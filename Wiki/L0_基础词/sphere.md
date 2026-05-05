@@ -136,6 +136,8 @@ spher(球体，希腊语 *sphaira*)
 
 > [!example]- 语料
 > - Doctors have replaced the top of his hip bone with a metal sphere. `[例]`
+>   - 中译：【需人工审核】sphere 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sphere
   - 中译：医生用金属球体替换了他髋骨的顶部。；
   - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/sphere；
 > - Exchanges with other countries , particularly in cultural , scientific , and economic spheres. `[例]`

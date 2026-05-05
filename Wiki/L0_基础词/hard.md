@@ -150,6 +150,8 @@ hard（古英语 *heard*，意为"坚硬的、勇敢的"，源自原始日耳曼
 > - Without enough affordable housing in southern New Hampshire towns, "employers are having a hard time attracting employees, and workers are having a hard time finding a place to live, " Taylor said. `[真题]`
 > - The publishing industry is having a hard time. `[真题]`
 > - There was a heavy frost last night and the ground is still hard. `[例]`
+>   - 中译：【需人工审核】hard 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hard
   - 中译：昨晚有严重的霜冻，地面仍然很硬。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hard；
 

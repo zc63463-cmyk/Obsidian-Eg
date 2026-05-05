@@ -126,13 +126,14 @@ re-(去除/相反) + [[veil|ver-vert]](面纱/转) → 去除面纱 → 揭示
 
 > [!example]- 语料
 > - For example, AI can be used to analyse what type of advertising content or copy would be appropriate to 'speak' to a specific target customer group by revealing information about trends and preferences through the analysis of big data. ( 46) AI can also be used to identify the lifestyle choices of customers regarding their hobbies, favourite celebrities, music choices, and fashions to provide unique content in marketing messages put out through social media. `[真题]`
->   - 中译：例如，人工智能可以通过大数据分析揭示有关趋势和偏好的信息，从而分析哪种类型的广告内容或文案适合与特定目标客户群“对话”。 ( 46) 人工智能还可以用于识别客户的生活方式选择，包括他们的爱好、最喜欢的名人、音乐选择和时尚，以便在通过社交媒体发布的营销信息中提供独特的内容。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/reveal
+>   - 中译：【需人工审核】与 reveal 相关的例句。
 > - He was jailed for revealing secrets to the Russians. `[例]`
->   - 中译：他因向俄罗斯人泄露秘密而入狱。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/reveal
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/reveal
+>   - 中译：【需人工审核】与 reveal 相关的例句。
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/reveal
 
 
 ## 主动产出

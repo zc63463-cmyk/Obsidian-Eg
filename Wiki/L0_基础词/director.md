@@ -129,6 +129,8 @@ review_count: 0
 > - Glenn Branch, the centre's deputy director, cautions that setting state-level science standards is only one limited benchmark in a country that decentralises decisions to local school bo.ards. `[真题]`
 > - We are at a crisis level on the supply of rental housing , " said Nick Taylor, executive director of the Workforce Housing Coalition of the Greater Seacoast. `[真题]`
 > - She served on the hospital's board of directors. `[例]`
+>   - 中译：【需人工审核】director 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/director
   - 中译：她在医院的董事会任职。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/director；
 

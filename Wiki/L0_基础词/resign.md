@@ -133,6 +133,8 @@ re-(前缀：再/回) + [[sign|sign]](签名，[[sign]])
 
 > [!example]- 语料
 > - He resigned as governor of Punjab in August. `[真题]`
+>   - 中译：【需人工审核】resign 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/resign
   - 中译：他于八月份辞去了旁遮普邦邦长的职务。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/resign；
 > - The newspaper's editor resigned after the scandal. `[真题]`

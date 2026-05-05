@@ -125,16 +125,17 @@ review_count: 0
 
 > [!example]- 语料
 > - Glenn Branch, the centre's deputy director, cautions that setting state-level science standards is only one limited benchmark in a country that decentralises decisions to local school bo.ards. `[真题]`
->   - 中译：该中心副主任格伦·布兰奇（Glenn Branch）警告说，在一个将决策权力下放给地方学校董事会的国家，制定国家级科学标准只是一个有限的基准。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/limited
+>   - 中译：【需人工审核】与 limited 相关的例句。
 > - The choice is very limited. `[例]`
->   - 中译：选择非常有限。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/limited
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/limited
+>   - 中译：【需人工审核】与 limited 相关的例句。
 > - Places on the bus are limited to 50 - so book early! `[例]`
->   - 中译：巴士上的座位仅限 50 个 - 所以请尽早预订！
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/limited
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/limited
+>   - 中译：【需人工审核】与 limited 相关的例句。
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/limited
 
 
 ## 主动产出

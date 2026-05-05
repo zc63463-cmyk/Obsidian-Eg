@@ -128,6 +128,8 @@ review_count: 0
 
 > [!example]- 语料
 > - The island is a tropical paradise with white sandy beaches and crystal-clear water. `[例]`
+>   - 中译：【需人工审核】paradise 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/paradise
   - 中译：这座岛屿是一个热带天堂，拥有白色沙滩和清澈见底的海水。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/paradise；
 > - Visitors and locals alike see this stretch as a proverbial shopper's paradise. `[例]`

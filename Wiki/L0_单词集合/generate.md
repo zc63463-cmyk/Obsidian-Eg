@@ -135,16 +135,17 @@ review_count: 0
 
 > [!example]- 语料
 > - At the same time AI can also be used to generate content for social media posts and chat sites. `[真题]`
->   - 中译：同时，人工智能还可以用于为社交媒体帖子和聊天网站生成内容。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/generate
+>   - 中译：【需人工审核】与 generate 相关的例句。
 > - Her latest film has generated a lot of interest. `[例]`
->   - 中译：她的最新电影引起了很多人的兴趣。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/generate
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/generate
+>   - 中译：【需人工审核】与 generate 相关的例句。
 > - A first day at school always generates excitement. `[例]`
->   - 中译：上学的第一天总是令人兴奋。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/generate
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/generate
+>   - 中译：【需人工审核】与 generate 相关的例句。
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/generate
 
 
 ## 主动产出

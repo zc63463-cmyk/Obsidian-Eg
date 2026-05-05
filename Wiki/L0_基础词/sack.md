@@ -128,6 +128,8 @@ review_count: 0
 
 > [!example]- 语料
 > - He was sacked for repeatedly violating the company's policies. `[真题]`
+>   - 中译：【需人工审核】sack 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sack
   - 中译：他因屡次违反公司规定而被解雇。
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sack
 > - Two workers got the sack for fighting in the warehouse. `[真题]`

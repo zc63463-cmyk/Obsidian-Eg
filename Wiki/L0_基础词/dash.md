@@ -135,6 +135,8 @@ review_count: 0
 
 > [!example]- 语料
 > - The dog ran off, and she dashed after him. `[例]`
+>   - 中译：【需人工审核】dash 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/dash
   - 中译：狗跑开了，她急忙追了上去。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/dash；
 > - I've been dashing around all day. `[例]`

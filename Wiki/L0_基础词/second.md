@@ -140,6 +140,8 @@ review_count: 0
 
 > [!example]- 语料
 > - Elliott crossed the finish line just half a second behind his adversary. `[真题]`
+>   - 中译：【需人工审核】second 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/second
   - 中译：埃利奥特在对手之后仅半秒冲过终点线。
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/second
 > - All this, needless to say, had been culled second-hand from radio reports. `[真题]`

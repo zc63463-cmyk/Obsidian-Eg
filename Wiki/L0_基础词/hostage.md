@@ -120,6 +120,8 @@ review_count: 0
 
 > [!example]- 语料
 > - She was taken hostage by the gunmen. `[例]`
+>   - 中译：【需人工审核】hostage 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hostage
   - 中译：她被持枪者劫持为人质。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hostage；
 > - He was freed after being held hostage for twelve hours. `[例]`

@@ -130,12 +130,12 @@ pre-(在……之前) + [[serv|serv]](保持/守卫) + -e
 
 > [!example]- 语料
 > - Two centuries ago , the idea of preserving nature , rather than exploiting it, was a novel one to. many U.S .. settlers. `[真题]`
->   - 中译：两个世纪前，保护自然而不是开发自然的想法是一种新颖的想法。许多美国..定居者。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/preserve
+>   - 中译：【需人工审核】与 preserve 相关的例句。
 > - We want to preserve the character of the town while improving the facilities. `[例]`
->   - 中译：我们希望在改善设施的同时保留城镇的特色。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/preserve
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/preserve
 ---
+>   - 中译：【需人工审核】与 preserve 相关的例句。
 
 
 ## 主动产出

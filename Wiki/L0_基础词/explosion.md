@@ -127,6 +127,8 @@ ex-（向外）+ plod/plaus（拍手声/发出巨响）+ -sion（名词后缀）
 
 > [!example]- 语料
 > - The fire was thought to have been caused by a gas explosion. `[例]`
+>   - 中译：【需人工审核】explosion 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/explosion
   - 中译：据认为火灾是由煤气爆炸引起的。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/explosion；
 > - The explosion (= the intentional exploding ) of nuclear devices in the Bikini Atoll was stopped in 1958. `[例]`

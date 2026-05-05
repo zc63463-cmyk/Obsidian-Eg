@@ -137,6 +137,8 @@ review_count: 0
 
 > [!example]- 语料
 > - John has to shave twice a day. `[真题]`
+>   - 中译：【需人工审核】shave 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/shave
   - 中译：约翰每天得刮两次胡子。；
   - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/shave；
 > - He really should shave himself every other day at least and put on something clean. `[真题]`

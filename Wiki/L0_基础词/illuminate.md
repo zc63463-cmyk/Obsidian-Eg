@@ -126,6 +126,8 @@ illuminate = il-（= in-，加强/向，在 l 前变为 il-）+ lumin-（光）+
 
 > [!example]- 语料
 > - The streets were illuminated with strings of coloured lights. `[例]`
+>   - 中译：【需人工审核】illuminate 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/illuminate
   - 中译：街道被一串串彩灯照亮。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/illuminate；
 > - An article which illuminates the issues at stake. `[例]`

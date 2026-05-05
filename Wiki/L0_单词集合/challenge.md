@@ -136,16 +136,17 @@ review_count: 0
 
 > [!example]- 语料
 > - Despite these challenges, Jackson captured dozens of striking photos, ranging from majestic images like his now-famous snapshot 11  of Old Faithful, to casual portraits of expedition members at the camp. `[真题]`
->   - 中译：尽管面临这些挑战，杰克逊还是拍摄了数十张引人注目的照片，从他现在著名的老忠实泉快照 1 1 等雄伟照片，到营地探险队员的随意肖像。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/challenge
+>   - 中译：【需人工审核】与 challenge 相关的例句。
 > - Data can be gathered on where the customer 13  can be engaged, such as location, devices used, website interactions, and sites visited, to display marketing messages in appropriate forms , including emails , social media posts, pop-up advertisements, and banners at an appropriate frequency. ( 50) The non-intrusive delivery of the marketing messages in a way that is sensitive to the needs of the target customer .. is one of the critical challenges to the digital marketer. `[真题]`
->   - 中译：可以收集有关客户 1 3 可以参与的地方的数据，例如位置、使用的设备、网站交互和访问的网站，以适当的形式显示营销信息，包括电子邮件、社交媒体帖子、弹出广告和适当频率的横幅。 (50) 以对目标客户的需求敏感的方式非侵入式地传递营销信息是数字营销人员面临的关键挑战之一。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/challenge
+>   - 中译：【需人工审核】与 challenge 相关的例句。
 > - Finding a solution to this problem is one of the greatest challenges faced by scientists today. `[例]`
->   - 中译：找到这个问题的解决方案是当今科学家面临的最大挑战之一。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/challenge
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/challenge
+>   - 中译：【需人工审核】与 challenge 相关的例句。
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/challenge
 
 
 ## 主动产出

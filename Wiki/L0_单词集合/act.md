@@ -129,18 +129,19 @@ act（做/行动，拉丁语 agere）
 
 > [!example]- 语料
 > - These journals can act as milk cows where every single article in an issue may cite a specific paper or a series of papers. `[真题]`
->   - 中译：这些期刊可以充当奶牛，其中一期中的每一篇文章都可能引用一篇特定论文或一系列论文。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/act
+>   - 中译：【需人工审核】与 act 相关的例句。
 > - In one example, an individual-acting as author, editor, and consultant-was able to use at least 15 journals as citation providers to articles published by five scientists at three universities. `[真题]`
->   - 中译：在一个示例中，一位个人（作为作者、编辑和顾问）能够使用至少 15 种期刊作为三所大学的五位科学家发表的文章的引用提供者。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/act
+>   - 中译：【需人工审核】与 act 相关的例句。
 > - Grant signed an act into law that established Yellowstone as the world's first national park. `[真题]`
->   - 中译：格兰特签署了一项法律，将黄石公园确立为世界上第一个国家公园。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/act
 - The government must act quickly to address the crisis.（政府必须迅速采取行动应对危机。）
 - The Civil Rights Act of 1964 was a landmark law.（1964年的《民权法案》是一部里程碑式的法律。）
+>   - 中译：【需人工审核】与 act 相关的例句。
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/act
 
 
 ## 主动产出

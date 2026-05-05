@@ -130,6 +130,8 @@ review_count: 0
 
 > [!example]- 语料
 > - The soldiers paraded through the streets to celebrate the victory. `[例]`
+>   - 中译：【需人工审核】parade 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/parade
   - 中译：士兵们列队穿过街道庆祝胜利。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/parade；
 > - She paraded her new diamond ring in front of her friends. `[例]`

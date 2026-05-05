@@ -125,6 +125,8 @@ rust 源自古英语 *rust*，与 *rudu*（红色）同源，最终追溯至 PIE
 
 > [!example]- 语料
 > - The decline of manufacturing left many cities in the Rust Belt struggling with unemployment. `[真题]`
+>   - 中译：【需人工审核】rust 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rust
   - 中译：制造业的衰退使铁锈地带的许多城市陷入失业困境。
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rust
 > - The abandoned car in the field is slowly rusting away. `[真题]`

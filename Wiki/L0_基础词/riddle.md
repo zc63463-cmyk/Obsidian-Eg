@@ -127,6 +127,8 @@ review_count: 0
 
 > [!example]- 语料
 > - Scientists may have solved the riddle of Saturn's rings. `[例]`
+>   - 中译：【需人工审核】riddle 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/riddle
   - 中译：科学家可能已经解开了土星环之谜。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/riddle；
 > - The anti-aircraft guns riddled the plane's wings with bullets. `[例]`

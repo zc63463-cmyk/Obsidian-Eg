@@ -130,6 +130,8 @@ exter-(=exterus, 在外面的) + -ior(比较级后缀，表示"更……的")
 
 > [!example]- 语料
 > - In some of the villages the exterior walls of the houses are painted pink. `[例]`
+>   - 中译：【需人工审核】exterior 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/exterior
   - 中译：在一些村庄里，房屋的外墙被漆成粉色。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/exterior；
 > - Exterior to the main house there is a small building that could be used as an office or studio. `[例]`

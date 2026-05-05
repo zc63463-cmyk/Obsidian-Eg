@@ -126,16 +126,17 @@ re-(向后/加强) + [[salire|salt/sali/sult]](跳) → result（跳出来的 �
 
 > [!example]- 语料
 > - As a result D. status D. in line with D. pioneering D. competed D. `[真题]`
->   - 中译：结果 D. 地位 D. 符合 D. 开拓性 D. 竞争 D.
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/result
+>   - 中译：【需人工审核】与 result 相关的例句。
 > - The advent of electronic publishing and authors' need to find outlets for their papers resulted in thousands of new journals. `[真题]`
->   - 中译：电子出版的出现和作者需要为其论文寻找出路，催生了数以千计的新期刊。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/result
+>   - 中译：【需人工审核】与 result 相关的例句。
 > - Throughout the trip , Jackson juggled multiple cameras and plate sizes using the " collodion process" that required him to coat the plates with a chemical mixture , then expose them and develop the resulting images with a portable darkroom. `[真题]`
->   - 中译：在整个旅程中，杰克逊使用“火棉胶工艺”处理多个相机和印版尺寸，该工艺要求他在印版上涂上化学混合物，然后将它们曝光并用便携式暗室冲洗所得图像。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/result
+>   - 中译：【需人工审核】与 result 相关的例句。
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/result
 
 
 ## 主动产出

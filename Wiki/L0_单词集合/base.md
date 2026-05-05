@@ -145,16 +145,17 @@ review_count: 0
 
 > [!example]- 语料
 > - Directions: Write an essay of 160-200 words based on the picture below. `[真题]`
->   - 中译：说明：根据下图写一篇160-200字的文章。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/base
+>   - 中译：【需人工审核】与 base 相关的例句。
 > - At the base of the cliff was a rocky beach. `[例]`
->   - 中译：悬崖底部是一片石滩。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/base
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/base
+>   - 中译：【需人工审核】与 base 相关的例句。
 > - This cream provides an excellent base for your make-up (= a good bottom layer on which other layers can be put). `[例]`
->   - 中译：这款面霜为您的化妆提供了极好的基础（=可以在其上放置其他层的良好底层）。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/base
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/base
+>   - 中译：【需人工审核】与 base 相关的例句。
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/base
 
 
 ## 主动产出

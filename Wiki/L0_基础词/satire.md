@@ -127,6 +127,8 @@ review_count: 0
 
 > [!example]- 语料
 > - Jonathan Swift's 'Gulliver's Travels' is not merely a children's adventure story but a brilliant satire on human nature and society. `[真题]`
+>   - 中译：【需人工审核】satire 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/satire
   - 中译：乔纳森-斯威夫特的《格列佛游记》不仅仅是一部儿童冒险故事，更是一部关于人性和社会的精彩讽刺作品。
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/satire
 > - In an age of political satire, late-night talk shows have become an important platform for social commentary and criticism. `[真题]`

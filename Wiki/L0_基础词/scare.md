@@ -130,6 +130,8 @@ review_count: 0
 
 > [!example]- 语料
 > - If something scares you, it frightens or worries you. `[例]`
+>   - 中译：【需人工审核】scare 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/scare
   - 中译：如果某事吓到你，它会让你感到恐惧或担忧。
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/scare
 > - A bomb scare forced the evacuation of the building. `[COCA-NEWS]`

@@ -127,6 +127,8 @@ review_count: 0
 
 > [!example]- 语料
 > - Plantations of fast-growing conifers. `[例]`
+>   - 中译：【需人工审核】plantation 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/plantation
   - 中译：速生针叶林种植园。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/plantation；
 > - Hundreds of enslaved people used to work on the plantations. `[例]`

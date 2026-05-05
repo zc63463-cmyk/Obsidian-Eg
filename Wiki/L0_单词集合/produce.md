@@ -130,17 +130,18 @@ review_count: 0
 
 > [!example]- 语料
 > - The carc;ers of scientists and the reputation of their institutions depend on the number and prestige of the papers they produce , but even more so on the citations attracted by these papers. `[真题]`
->   - 中译：科学家的职业生涯及其机构的声誉取决于他们发表的论文的数量和声望，但更取决于这些论文所吸引的引用。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/produce
+>   - 中译：【需人工审核】与 produce 相关的例句。
 > - That's why Hayden's expedition aimed to produce a fuller understanding of the Yellowstone River region, from its hot springs and waterfalls to its variety of flora and fauna. `[真题]`
->   - 中译：这就是为什么海登的探险旨在更全面地了解黄石河地区，从温泉和瀑布到各种动植物群。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/produce
+>   - 中译：【需人工审核】与 produce 相关的例句。
 > - France produces a great deal of wine for export. `[例]`
->   - 中译：法国生产大量葡萄酒用于出口。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/produce
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/produce
+>   - 中译：【需人工审核】与 produce 相关的例句。
 
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/produce
 
 ## 主动产出
 

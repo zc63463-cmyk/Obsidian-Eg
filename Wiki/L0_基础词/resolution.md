@@ -134,6 +134,8 @@ re-(前缀：再/回) + solut(松开/解开) + -ion(名词后缀：表示动作�
 
 > [!example]- 语料
 > - The resolution was passed by a two-thirds majority. `[真题]`
+>   - 中译：【需人工审核】resolution 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/resolution
   - 中译：该决议以三分之二多数票通过。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/resolution；
 > - The government is pressing for an early resolution of the dispute. `[真题]`

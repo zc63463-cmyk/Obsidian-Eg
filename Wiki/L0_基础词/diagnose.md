@@ -120,6 +120,8 @@ review_count: 0
 
 > [!example]- 语料
 > - The specialist diagnosed cancer. `[例]`
+>   - 中译：【需人工审核】diagnose 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/diagnose
   - 中译：专家诊断出了癌症。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/diagnose；
 > - His condition was diagnosed as some type of blood disorder. `[例]`

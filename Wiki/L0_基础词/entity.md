@@ -127,6 +127,8 @@ review_count: 0
 
 > [!example]- 语料
 > - He regarded the north of the country as a separate cultural entity. `[例]`
+>   - 中译：【需人工审核】entity 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/entity
   - 中译：他将该国北部视为一个独立的文化实体。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/entity；
 > - Although the two buildings are in separate locations , the museum they are part of is a single entity. `[例]`

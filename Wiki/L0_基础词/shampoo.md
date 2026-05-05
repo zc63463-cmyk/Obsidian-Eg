@@ -133,6 +133,8 @@ review_count: 0
 
 > [!example]- 语料
 > - She shampoos her hair every morning. `[真题]`
+>   - 中译：【需人工审核】shampoo 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/shampoo
   - 中译：她每天早上都洗头发。；
   - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/shampoo；
 > - Duncan shampooed my hair and then Tracy cut it. `[真题]`

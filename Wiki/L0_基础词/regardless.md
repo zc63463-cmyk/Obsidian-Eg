@@ -130,6 +130,8 @@ review_count: 0
 
 > [!example]- 语料
 > - The keyboard can determine whether they should be given access to the computer it's connected to — regardless of whether someone gets the password right. `[真题]`
+>   - 中译：【需人工审核】regardless 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/regardless
   - 中译：键盘可以确定是否应该授予他们访问所连接计算机的权限——无论是否有人正确输入了密码。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/regardless；
 > - Our club is open to everyone regardless of age, sex or educational background. `[真题]`

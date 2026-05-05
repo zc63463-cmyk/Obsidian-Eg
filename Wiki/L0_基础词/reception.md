@@ -141,6 +141,8 @@ re-（回，向后）+ cept（拿，=capere 的过去分词 *captus* 变体）+ 
 
 > [!example]- 语料
 > - The president gave a reception for the visiting heads of state. `[例]`
+>   - 中译：【需人工审核】reception 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/reception
   - 中译：总统为来访的国家元首举行了招待会。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/reception；
 > - The new hospital was ready for the reception of its first patients. `[例]`

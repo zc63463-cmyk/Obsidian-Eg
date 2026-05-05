@@ -130,6 +130,8 @@ review_count: 0
 
 > [!example]- 语料
 > - Unfortunately the report was prepared in haste and contained several inaccuracies. `[例]`
+>   - 中译：【需人工审核】haste 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/haste
   - 中译：不幸的是，这份报告仓促准备，包含了几处不准确之处。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/haste；
 > - In her haste to get up from the table , she knocked over a cup. `[例]`

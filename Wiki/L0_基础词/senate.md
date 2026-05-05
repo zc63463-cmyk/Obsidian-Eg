@@ -132,6 +132,8 @@ review_count: 0
 
 > [!example]- 语料
 > - In quick succession, the Senate and House passed legislation protecting Yell ow stone in early 1872. `[真题]`
+>   - 中译：参议院。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/senate
   - 中译：参议院和众议院在1872年初迅速通过了保护黄石公园的立法。
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/senate
 > - The law has no chance of being passed by the Senate. `[例]`

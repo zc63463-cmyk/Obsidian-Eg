@@ -127,16 +127,17 @@ review_count: 0
 
 > [!example]- 语料
 > - Oranges are a good source of vitamin C. `[例]`
->   - 中译：橙子是维生素C的良好来源。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/source
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/source
+>   - 中译：【需人工审核】与 source 相关的例句。
 > - Experts are trying to track down the source of the contamination in the water supply. `[例]`
->   - 中译：专家们正在努力追查供水中的污染源。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/source
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/source
+>   - 中译：【需人工审核】与 source 相关的例句。
 > - We walked up the river to its source in the hills. `[例]`
->   - 中译：我们沿着河向山上的源头走去。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/source
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/source
+>   - 中译：【需人工审核】与 source 相关的例句。
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/source
 
 
 ## 主动产出

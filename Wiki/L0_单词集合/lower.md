@@ -129,16 +129,17 @@ review_count: 0
 
 > [!example]- 语料
 > - We are not boycotting PRH titles but we are doing our utmost to ensure that availability for customers remains good despite the lower overall levels of stock. `[真题]`
->   - 中译：我们并不是抵制公屋产权，但我们正在尽最大努力确保尽管总体库存水平较低，但客户的可用性仍然良好。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lower
+>   - 中译：【需人工审核】与 lower 相关的例句。
 > - It comes at a time . when authors are already worried about the consequences of the proposed merger between PRH and another big publisher , Simon & Schuster-the reduction in the number of unaligned UK publishers is likely to lead to fewer bidding wars,, lower advances, and more conformity in . terms of what is published. `[真题]`
->   - 中译：它来得正是时候。当作者们已经担心 PRH 与另一家大型出版商西蒙与舒斯特 (Simon & Schuster) 之间拟议合并的后果时，不结盟的英国出版商数量的减少可能会导致竞标战的减少、预付款的降低以及 .所发布内容的条款。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lower
+>   - 中译：【需人工审核】与 lower 相关的例句。
 > - They lowered the coffin into the grave. `[例]`
->   - 中译：他们把棺材放进坟墓里。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/lower
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lower
+>   - 中译：【需人工审核】与 lower 相关的例句。
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lower
 
 
 ## 主动产出

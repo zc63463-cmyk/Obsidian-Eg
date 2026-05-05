@@ -132,16 +132,17 @@ intro-（向内，进入）+ [[tract|duc]]（=ducere，引导，来自拉丁语 
 
 > [!example]- 语料
 > - The problem began ]late last year, when PRH confirmed that it had introduced a credit limit 1ith Waterstones " at a very significant level". `[真题]`
->   - 中译：这个问题始于去年年底，当时 PRH 证实它已经“在非常高的水平上”引入了 Waterstones 的信用限额。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/introduce
+>   - 中译：【需人工审核】与 introduce 相关的例句。
 > - Apple has sold many millions of iPods since the product was introduced in 2001. `[例]`
->   - 中译：自 2001 年推出产品以来，Apple 已售出数百万台 iPod。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/introduce
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/introduce
+>   - 中译：【需人工审核】与 introduce 相关的例句。
 > - Such unpopular legislation is unlikely to be introduced before the next election. `[例]`
->   - 中译：这种不受欢迎的立法不太可能在下次选举之前出台。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/introduce
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/introduce
+>   - 中译：【需人工审核】与 introduce 相关的例句。
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/introduce
 
 
 ## 主动产出

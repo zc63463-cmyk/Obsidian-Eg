@@ -130,6 +130,8 @@ sip 源自古英语 *sippian*，拟声词，模拟小口吸吮的声音
 
 > [!example]- 语料
 > - She sipped her coffee while she watched the sun rise through the window. `[例]`
+>   - 中译：【需人工审核】sip 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sip
   - 中译：她一边透过窗户看日出，一边小口喝着咖啡。；
   - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/sip；
 > - He took a sip of bourbon and set the glass down on the counter. `[真题]`

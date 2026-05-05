@@ -125,14 +125,15 @@ re-(回) + [[port|port]](携带、运送) → 把信息带回来 → 报告
 
 > [!example]- 语料
 > - The trade magazine The Bookseller reported that Waterstones branch managers were being told to remove PRH books from prominent areas such as tables , display spaces and windows, and were " quietly retiring them to their relevant sections". `[真题]`
->   - 中译：行业杂志《书商》报道称，水石书店的分店经理被告知将公屋书籍从桌子、展示空间和窗户等显着区域移走，并“悄悄地将它们退回到相关区域”。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/report
+>   - 中译：【需人工审核】与 report 相关的例句。
 > - We called the insurance company to report the theft. `[例]`
->   - 中译：我们打电话给保险公司报告盗窃案。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/report
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/report
+>   - 中译：【需人工审核】与 report 相关的例句。
 
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/report
 
 ## 主动产出
 

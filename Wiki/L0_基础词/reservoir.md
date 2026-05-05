@@ -130,6 +130,8 @@ re-(前缀：再/回) + [[serv|serv]](保存/保持，[[serv]]) + -oir(名词后
 
 > [!example]- 语料
 > - There is a tremendous reservoir of goodwill out there. `[真题]`
+>   - 中译：【需人工审核】reservoir 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/reservoir
   - 中译：那里蕴藏着巨大的善意。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/reservoir；
 > - It created a vast reservoir of knowledge, learning and artistic creativity that millions of us use every day. `[真题]`

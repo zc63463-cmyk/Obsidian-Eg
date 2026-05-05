@@ -127,16 +127,17 @@ en-(使动/进入) + sure(确定的/安全的) → 使变得确定 → 确保
 
 > [!example]- 语料
 > - We are not boycotting PRH titles but we are doing our utmost to ensure that availability for customers remains good despite the lower overall levels of stock. `[真题]`
->   - 中译：我们并不是抵制公屋产权，但我们正在尽最大努力确保尽管总体库存水平较低，但客户的可用性仍然良好。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ensure
+>   - 中译：【需人工审核】与 ensure 相关的例句。
 > - The airline is taking steps to ensure safety on its aircraft. `[例]`
->   - 中译：该航空公司正在采取措施确保其飞机的安全。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/ensure
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ensure
+>   - 中译：【需人工审核】与 ensure 相关的例句。
 > - The role of the police is to ensure (that) the law is obeyed. `[例]`
->   - 中译：警察的作用是确保法律得到遵守。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/ensure
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ensure
+>   - 中译：【需人工审核】与 ensure 相关的例句。
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ensure
 
 
 ## 主动产出

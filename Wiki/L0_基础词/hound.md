@@ -125,6 +125,8 @@ hound 源自古英语 *hund*（狗），与德语 *Hund*（狗）同源，原始
 
 > [!example]- 语料
 > - The reporters wouldn't stop hounding her. `[例]`
+>   - 中译：【需人工审核】hound 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hound
   - 中译：记者们不停地纠缠她。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hound；
 > - Socialists were hounded by the FBI in the 1950s. `[例]`

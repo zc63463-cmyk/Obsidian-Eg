@@ -128,6 +128,8 @@ review_count: 0
 
 > [!example]- 语料
 > - He was arrested for carrying concealed deadly weapons. `[例]`
+>   - 中译：【需人工审核】deadly 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/deadly
   - 中译：他因携带隐蔽的致命武器而被捕。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/deadly；
 > - He is accused of helping to carry out a deadly bomb attack on a fashionable Paris restaurant. `[例]`

@@ -120,17 +120,18 @@ prote-(=prot-, 第一的/最重要的，希腊语 *prōtos*) + -in(化学物质�
 
 > [!example]- 语料
 > - Vegans get all the protein they need from nuts , seeds , beans and cereals. `[例]`
->   - 中译：纯素食者从坚果、种子、豆类和谷物中获取他们所需的全部蛋白质。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/protein
+>   - 中译：蛋白质。
 > - Meat and fish are a vital source of protein. `[例]`
->   - 中译：肉类和鱼类是蛋白质的重要来源。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/protein
+>   - 中译：蛋白质。
 > - It gets slimy when you cook it because it has mucilage inside it – a mix of protein and sugar. `[例]`
->   - 中译：烹饪时它会变得黏滑，因为内部含有黏液——一种蛋白质和糖的混合物。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/protein
+>   - 中译：蛋白质。
 
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/protein
 
 ## 主动产出
 

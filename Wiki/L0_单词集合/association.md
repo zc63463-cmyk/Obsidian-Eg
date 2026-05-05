@@ -131,15 +131,15 @@ review_count: 0
 
 > [!example]- 语料
 > - However, short-term rentals also provide housing for tourists, pointed out Ryan Castle, CEO of a local association of realtor. `[真题]`
->   - 中译：然而，当地房地产经纪人协会首席执行官瑞安·卡斯尔指出，短期租赁也为游客提供了住房。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/association
+>   - 中译：【需人工审核】与 association 相关的例句。
 > - The school is affiliated with a national association of driving schools. `[例]`
->   - 中译：该学校隶属于全国驾驶学校协会。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/association
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/association
+>   - 中译：【需人工审核】与 association 相关的例句。
 > - It falls to me to thank you for all you have done for the association. `[例]`
->   - 中译：我有责任感谢你们为协会所做的一切。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/association
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/association
 ---
+>   - 中译：【需人工审核】与 association 相关的例句。
 
 
 ## 主动产出

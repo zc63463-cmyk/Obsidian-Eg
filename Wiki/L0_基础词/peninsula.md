@@ -129,6 +129,8 @@ paene-(=almost, 几乎，拉丁语前缀) + insula(=island, 岛，拉丁语)
 
 > [!example]- 语料
 > - In 1943, a German U-boat surreptitiously landed on the coast of Labrador, Canada's frigid north-eastern peninsula. `[例]`
+>   - 中译：【需人工审核】peninsula 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/peninsula
   - 中译：1943年，一艘德国U型潜艇秘密登陆了加拿大寒冷的东北部半岛——拉布拉多海岸。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/peninsula；
 > - Most South Korean men have to serve in the military for roughly two years because the Korean peninsula technically remains at war. `[例]`

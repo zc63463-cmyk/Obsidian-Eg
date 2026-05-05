@@ -129,6 +129,8 @@ review_count: 0
 
 > [!example]- 语料
 > - As a result D. status D. in line with D. pioneering D. competed D. `[真题]`
+>   - 中译：【需人工审核】pioneer 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pioneer
   - 中译：结果D.地位D.与D.开创性的D.竞争D。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pioneer；
 > - One of the pioneers of modern science. `[例]`

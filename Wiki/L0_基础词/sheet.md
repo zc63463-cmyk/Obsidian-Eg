@@ -133,6 +133,8 @@ review_count: 0
 
 > [!example]- 语料
 > - A sheet of ice covered the lake. `[真题]`
+>   - 中译：【需人工审核】sheet 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sheet
   - 中译：一层冰覆盖了湖面。；
   - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/sheet；
 > - Sheets of rain slanted across the road. `[真题]`

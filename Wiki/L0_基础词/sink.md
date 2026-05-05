@@ -143,6 +143,8 @@ sink 源自古英语 *sincan*，原始日耳曼语 *senkan*，意为"使下沉"
 
 > [!example]- 语料
 > - The foundations of the building are starting to sink into the ground. `[真题]`
+>   - 中译：【需人工审核】sink 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sink
   - 中译：这栋建筑的地基开始下沉。；
   - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/sink；
 > - Researchers also point to the time sink that is involved in preparing data for others to view. `[真题]`

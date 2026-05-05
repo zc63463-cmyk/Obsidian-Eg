@@ -132,6 +132,8 @@ review_count: 0
 > [!example]- 语料
 > - He captured the first-ever shots of iconic landmarks such as the Tetons, Old Faithful and the Colorado Rockies. `[真题]`
 > - Nothing ever happens here in the evening. `[例]`
+>   - 中译：【需人工审核】ever 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ever
   - 中译：这里晚上什么事都不会发生。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ever；
 > - Have you ever been to London? `[例]`

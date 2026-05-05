@@ -126,6 +126,8 @@ review_count: 0
 
 > [!example]- 语料
 > - Many people are very concerned about the destruction of the rainforests. `[例]`
+>   - 中译：【需人工审核】destruction 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/destruction
   - 中译：战争造成了广泛的破坏。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/destruction；
 > - Unusually high winds left a trail of destruction over the area. `[例]`

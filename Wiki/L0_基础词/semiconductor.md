@@ -129,6 +129,8 @@ semi-(半) + [[duct|conductor]](导体，con-共同 + duct-引导)
 
 > [!example]- 语料
 > - For a while it looked as though the making of semiconductors, which America had invented and which sat at the heart of the new computer age, was going to be the next casualty. `[真题]`
+>   - 中译：【需人工审核】semiconductor 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/semiconductor
   - 中译：有一段时间，半导体制造业——这是美国发明的、处于新计算机时代核心的产业——似乎将成为下一个牺牲品。
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/semiconductor
 > - Studies of the most patent-conscious business of all—the semiconductor industry—suggest that firms do not necessarily become more innovative as they increase their patenting activity. `[真题]`

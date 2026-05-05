@@ -132,16 +132,17 @@ review_count: 0
 
 > [!example]- 语料
 > - In addition to the entourage of scientists, the team also included artists: Painter Thomas Moran and photographer William Henry Jackson were charged with capturing this astounding natural beauty and sharing it with the world. `[真题]`
->   - 中译：除了科学家随行人员外，该团队还包括艺术家：画家托马斯·莫兰和摄影师威廉·亨利·杰克逊，他们负责捕捉这令人惊叹的自然美景并与世界分享。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/natural
+>   - 中译：【需人工审核】与 natural 相关的例句。
 > - People say that breast-feeding is better than bottle-feeding because it's more natural. `[例]`
->   - 中译：人们说母乳喂养比奶瓶喂养更好，因为它更自然。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/natural
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/natural
+>   - 中译：【需人工审核】与 natural 相关的例句。
 > - He died from natural causes (= because he was old or ill ). `[例]`
->   - 中译：他死于自然原因（=因为他年老或生病）。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/natural
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/natural
+>   - 中译：【需人工审核】与 natural 相关的例句。
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/natural
 
 
 ## 主动产出

@@ -135,17 +135,18 @@ com-(共同) + muni(服务/公共) + -cate(动词后缀，使动)
 
 > [!example]- 语料
 > - AI can also provide a bridge between the need of the brand to communicate emotionally with the customer and identifying their rapidly changing needs. `[真题]`
->   - 中译：人工智能还可以在品牌与客户进行情感沟通的需求和识别他们快速变化的需求之间架起一座桥梁。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/communicate
+>   - 中译：【需人工审核】与 communicate 相关的例句。
 > - We can now communicate instantly with people on the other side of the world. `[例]`
->   - 中译：我们现在可以与世界另一端的人们即时交流。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/communicate
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/communicate
+>   - 中译：【需人工审核】与 communicate 相关的例句。
 > - Unable to speak a word of the language , he communicated with (= using) his hands. `[例]`
->   - 中译：他无法说该语言的一个字，只能用手进行交流。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/communicate
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/communicate
+>   - 中译：【需人工审核】与 communicate 相关的例句。
 
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/communicate
 
 
 ## 主动产出

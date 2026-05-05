@@ -132,6 +132,8 @@ feast 源自古法语 *feste*，拉丁语 *festa*（节日、庆典），与 [[f
 
 > [!example]- 语料
 > - What a feast!" she said, surveying all the dishes on the table. `[例]`
+>   - 中译：【需人工审核】feast 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/feast
   - 中译：“多丰盛的宴席啊！”她环视桌上的所有菜肴说道。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/feast；
 > - Her rich colourful costumes make the show a visual feast. `[例]`

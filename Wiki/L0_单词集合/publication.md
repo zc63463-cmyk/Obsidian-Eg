@@ -131,16 +131,17 @@ pub-（=populus，人民，来自拉丁语 *populus*，people）+ -lic（形容�
 
 > [!example]- 语料
 > - In 2016 , researchers developed an algorithm to recognize suspicious citation patterns , including groups of authors that disproportionately cite one another and groups of journals that cite each other frequently to increase the impact factors of their publications. `[真题]`
->   - 中译：2016年，研究人员开发了一种算法来识别可疑的引用模式，包括不成比例地相互引用的作者群体和频繁相互引用以增加其出版物的影响因子的期刊群体。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/publication
+>   - 中译：【需人工审核】与 publication 相关的例句。
 > - The brochure will be ready for publication in September. `[例]`
->   - 中译：该手册将于九月份准备出版。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/publication
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/publication
+>   - 中译：【需人工审核】与 publication 相关的例句。
 > - Will you arrange the publication of the names of the winners? `[例]`
->   - 中译：你们会安排公布获奖者的名字吗？
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/publication
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/publication
+>   - 中译：【需人工审核】与 publication 相关的例句。
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/publication
 
 
 ## 主动产出

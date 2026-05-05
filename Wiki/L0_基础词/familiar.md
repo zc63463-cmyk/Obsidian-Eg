@@ -136,6 +136,8 @@ familiar 源自拉丁语 *familiaris*（家庭的、私人的、属于家庭的�
 
 > [!example]- 语料
 > - There were one or two familiar faces (= people I knew ). `[例]`
+>   - 中译：【需人工审核】familiar 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/familiar
   - 中译：有一两张熟悉的面孔（即我认识的人）。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/familiar；
 > - The house looked strangely familiar, though she knew she'd never been there before. `[例]`

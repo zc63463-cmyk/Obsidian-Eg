@@ -134,6 +134,8 @@ review_count: 0
 
 > [!example]- 语料
 > - The earth spins on its axis. `[例]`
+>   - 中译：【需人工审核】spin 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/spin
   - 中译：地球绕轴自转。；
   - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/spin；
 > - The roulette players silently watched the wheel spin around. `[例]`

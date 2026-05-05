@@ -146,6 +146,8 @@ review_count: 0
 
 > [!example]- 语料
 > - We agreed before we did the deal that we'd both take an equal slice of the profit. `[例]`
+>   - 中译：【需人工审核】slice 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/slice
   - 中译：在做这笔交易之前我们就同意，双方各分得等额的利润。；
   - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/slice；
 > - The film presents us with a fascinating slice of history. `[例]`

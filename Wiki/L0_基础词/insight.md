@@ -127,6 +127,8 @@ insight 是一个复合词，由 **in-**（进入、在...之中）+ **sight**�
 
 > [!example]- 语料
 > - The results provide interesting insights into the responses of the students to the experiment itself. `[真题]`
+>   - 中译：【需人工审核】insight 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/insight
   - 中译：结果为了解学生对实验本身的反应提供了有趣的见解。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/insight；
 > - One way to gain insight into these issues is to view them through the work of some of the main protagonists. `[真题]`

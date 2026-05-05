@@ -135,6 +135,8 @@ reign 源自古法语 *reign*，拉丁语 *regnum*（王国，统治），词根
 
 > [!example]- 语料
 > - Queen Victoria reigned over Britain from 1837 to 1901. `[例]`
+>   - 中译：【需人工审核】reign 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/reign
   - 中译：维多利亚女王于1837年至1901年统治英国。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/reign；
 > - Chaos reigned in the classroom after the teacher left. `[例]`

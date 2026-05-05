@@ -139,14 +139,15 @@ point 无标准词根拆分。源自古法语 *point*，拉丁语 *punctum*（�
 
 > [!example]- 语料
 > - Choose the best word ( s) for each numbered blank and mark A, B , C or D on th ANSWER SHEET. ( 10 points) Caravanserais were roadside inns that were built along the Silk Road in areas including China, North Africa and the Middle East. `[真题]`
->   - 中译：为每个编号的空白处选择最好的单词，并在答题卡上标记 A、B、C 或 D。 ( 10 分) 商队旅馆是沿着丝绸之路沿线建造的路边旅馆，分布于中国、北非和中东等地区。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/point
+>   - 中译：【需人工审核】与 point 相关的例句。
 > - Caravanserais served as an informal 10 point for the various people who travelled the Silk Road. _.!l_ , these structures became important centers for cultural 12 and interaction, with travellers sharing their cultures, ideas and beliefs, 13 taking knowledge with them, greatly _l!_ the development of several civilisations. `[真题]`
->   - 中译：商队旅馆是丝绸之路上各路人士的非正式休息点。 _.!l_ ，这些建筑成为重要的文化 12 和互动中心，旅行者分享他们的文化、想法和信仰， 13 带走知识，极大地 _l!_ 多个文明的发展。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/point
+>   - 中译：【需人工审核】与 point 相关的例句。
 
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/point
 
 ## 主动产出
 

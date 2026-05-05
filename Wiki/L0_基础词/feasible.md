@@ -126,6 +126,8 @@ review_count: 0
 
 > [!example]- 语料
 > - With the extra resources , the project now seems feasible. `[例]`
+>   - 中译：【需人工审核】feasible 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/feasible
   - 中译：有了额外的资源，这个项目现在看来是可行的。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/feasible；
 > - It may be feasible to clone human beings , but is it ethical? `[例]`

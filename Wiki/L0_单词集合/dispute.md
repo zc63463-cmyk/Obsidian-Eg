@@ -134,15 +134,15 @@ review_count: 0
 
 > [!example]- 语料
 > - Most scientists and experts sharply dispute Hardy's views. `[真题]`
->   - 中译：大多数科学家和专家对哈代的观点提出了尖锐的质疑。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/dispute
+>   - 中译：【需人工审核】与 dispute 相关的例句。
 > - Big-name PRH authors may suffer a bit, but it's those mid-list authors, who normally rely on Waterstones staff's passion for promoting books by lesser-known writers, who will be praying for an end to the dispute. `[真题]`
->   - 中译：知名公关作家可能会受到一些影响，但那些通常依靠 Waterstones 工作人员推销不太知名作家的书籍的中等作家将祈祷争端结束。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/dispute
+>   - 中译：【需人工审核】与 dispute 相关的例句。
 > - What can be one consequence of the current dispute? `[真题]`
->   - 中译：当前争端可能会产生什么后果？
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/dispute
 ---
+>   - 中译：【需人工审核】与 dispute 相关的例句。
 
 
 ## 主动产出

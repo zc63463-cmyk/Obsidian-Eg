@@ -127,17 +127,18 @@ con-(=com-, 共同/一起) + [[ven-vent|ven]](=come, 来，拉丁语 *venire*) +
 
 > [!example]- 语料
 > - Fruit is a convenient source of vitamins and energy. `[例]`
->   - 中译：水果是维生素和能量的便捷来源。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/convenient
+>   - 中译：方便的，便利的。
 > - A bicycle is often more convenient than a car in towns. `[例]`
->   - 中译：在城镇里，自行车通常比汽车更方便。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/convenient
+>   - 中译：方便的，便利的。
 > - I can't see him now—it isn't convenient. `[例]`
->   - 中译：我现在见不到他了——不方便。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/convenient
+>   - 中译：方便的，便利的。
 
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/convenient
 
 ## 主动产出
 

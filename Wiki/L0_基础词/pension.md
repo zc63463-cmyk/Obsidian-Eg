@@ -130,6 +130,8 @@ pens（支付，拉丁语 *pendere*，称量/支付）+ -ion（名词后缀）
 
 > [!example]- 语料
 > - The government has proposed reforms to the public sector pension scheme. `[例]`
+>   - 中译：【需人工审核】pension 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pension
   - 中译：政府提出了公共部门养老金计划的改革方案。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pension；
 > - He retired on a generous pension from the company. `[例]`

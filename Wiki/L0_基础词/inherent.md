@@ -137,6 +137,8 @@ in-(=in, 在……里面) + her(=haerere, 粘附，拉丁语 *haerere*) + -ent(�
 
 > [!example]- 语料
 > - The fashion industry knows it has an inherent problem in focusing on material adornment and idealized body types. `[真题]`
+>   - 中译：【需人工审核】inherent 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/inherent
   - 中译：时尚界知道，专注于物质装饰和理想化的体型是其固有的问题。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/inherent；
 > - The company adopted a inherent approach to improve efficiency. `[真题]`

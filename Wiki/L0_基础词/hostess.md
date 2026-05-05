@@ -118,6 +118,8 @@ review_count: 0
 
 > [!example]- 语料
 > - Mary was always the perfect hostess. `[例]`
+>   - 中译：【需人工审核】hostess 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hostess
   - 中译：玛丽一直是完美的女主人。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hostess；
 > - Many thanks to our host and hostess for such a wonderful evening. `[例]`

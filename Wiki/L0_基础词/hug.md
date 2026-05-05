@@ -128,6 +128,8 @@ hug（源自古诺尔斯语 *hugga*，安慰；与 *hugr* 心情、勇气同源�
 
 > [!example]- 语料
 > - Have you hugged your child today? `[例]`
+>   - 中译：【需人工审核】hug 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hug
   - 中译：你今天拥抱你的孩子了吗？；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hug；
 > - They hugged each other when they met at the station. `[例]`

@@ -131,6 +131,8 @@ ex-（向外）+ [[plic-plex|plic]]（折叠）+ -it（形容词后缀）→ 把
 
 > [!example]- 语料
 > - I gave her very explicit directions how to get here. `[例]`
+>   - 中译：【需人工审核】explicit 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/explicit
   - 中译：我给了她非常明确的来这里的路线说明。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/explicit；
 > - She was very explicit about (= said very clearly and exactly ) what she thought was wrong with the plans. `[例]`

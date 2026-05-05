@@ -129,6 +129,8 @@ review_count: 0
 
 > [!example]- 语料
 > - Leo is very diligent about his work. `[例]`
+>   - 中译：【需人工审核】diligent 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/diligent
   - 中译：利奥对工作非常勤奋。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/diligent；
 > - Their lawyer was extremely diligent in preparing their case. `[例]`

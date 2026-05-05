@@ -129,6 +129,8 @@ review_count: 0
 
 > [!example]- 语料
 > - The path descended steeply into the valley. `[例]`
+>   - 中译：【需人工审核】descend 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/descend
   - 中译：飞机开始下降。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/descend；
 > - The path descends to the valley below. `[例]`

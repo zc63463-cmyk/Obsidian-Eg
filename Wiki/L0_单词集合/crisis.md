@@ -127,16 +127,17 @@ cri(=cre-, 决定、分辨，拉丁语 *crinein*，*krinein*) + -sis(名词后�
 
 > [!example]- 语料
 > - We are at a crisis level on the supply of rental housing , " said Nick Taylor, executive director of the Workforce Housing Coalition of the Greater Seacoast. `[真题]`
->   - 中译：大海岸劳动力住房联盟执行董事尼克·泰勒表示，我们的租赁住房供应正处于危机水平。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/crisis
+>   - 中译：【需人工审核】与 crisis 相关的例句。
 > - I had to take a day off to deal with a family crisis — our pet died and our children were inconsolable. `[例]`
->   - 中译：我不得不请一天假来处理家庭危机——我们的宠物死了，我们的孩子伤心欲绝。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/crisis
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/crisis
+>   - 中译：【需人工审核】与 crisis 相关的例句。
 > - A mediator has been called in to resolve the crisis. `[例]`
->   - 中译：已请一名调解员来解决危机。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/crisis
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/crisis
+>   - 中译：【需人工审核】与 crisis 相关的例句。
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/crisis
 
 
 ## 主动产出

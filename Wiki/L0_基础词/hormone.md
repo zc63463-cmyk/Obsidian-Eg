@@ -125,6 +125,8 @@ hormone（1905年，英国生理学家 Ernest Starling 和 William Bayliss 创�
 
 > [!example]- 语料
 > - Male and female hormones. `[例]`
+>   - 中译：【需人工审核】hormone 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hormone
   - 中译：雄性激素和雌性激素。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hormone；
 > - Oestrogen is a female sex hormone. `[例]`

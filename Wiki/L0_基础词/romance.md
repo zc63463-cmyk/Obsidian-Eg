@@ -128,6 +128,8 @@ review_count: 0
 
 > [!example]- 语料
 > - The romance of the open road has been replaced by the reality of traffic jams. `[真题]`
+>   - 中译：【需人工审核】romance 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/romance
   - 中译：开阔公路的浪漫已被交通拥堵的现实所取代。
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/romance
 > - They had a brief summer romance before going to different colleges. `[真题]`

@@ -130,6 +130,8 @@ grin 源自古英语 *grennian*（露齿而笑），与 [[grind]]（磨碎）共
 
 > [!example]- 语料
 > - I assumed things had gone well for him because he had a big grin on his face. `[例]`
+>   - 中译：【需人工审核】grin 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/grin
   - 中译：我以为他一切顺利，因为他脸上挂着灿烂的笑容。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/grin；
 > - That child's got such a cheeky grin. `[例]`

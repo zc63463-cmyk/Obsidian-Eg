@@ -140,6 +140,8 @@ review_count: 0
 
 > [!example]- 语料
 > - American companies are keen to scout out business opportunities in Vietnam. `[例]`
+>   - 中译：【需人工审核】scout 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/scout
   - 中译：美国公司热衷于在越南寻找商机。
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/scout
 > - Manchester United's chief scouts travel the world looking for talented young players. `[例]`

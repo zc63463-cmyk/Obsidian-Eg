@@ -131,15 +131,15 @@ review_count: 0
 
 > [!example]- 语料
 > - In New Hampshire, where the rental vacancy rate has dropped :below 1 percent, housing advocates fear unchecked short-term rentals will put further pressure on an already strained market. `[真题]`
->   - 中译：在新罕布什尔州，租赁空置率已降至 1% 以下，住房倡导者担心不受控制的短期租金会给本已紧张的市场带来进一步压力。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pressure
+>   - 中译：【需人工审核】与 pressure 相关的例句。
 > - He put too much pressure on the door handle and it snapped. `[例]`
->   - 中译：他对门把手施加了太大的压力，门把手就折断了。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/pressure
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pressure
+>   - 中译：【需人工审核】与 pressure 相关的例句。
 > - You can stop bleeding by applying pressure close to the injured area. `[例]`
->   - 中译：您可以通过在受伤部位附近施加压力来止血。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/pressure
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pressure
 ---
+>   - 中译：【需人工审核】与 pressure 相关的例句。
 
 
 ## 主动产出

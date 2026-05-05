@@ -133,15 +133,15 @@ con-(=together, 共同) + [[gress]](=step/walk, 走) → 共同走来→走到�
 
 > [!example]- 语料
 > - He asked Jackson to print out large copies and distributed them, along with reproductions of Moran's paintings, to each member of Congress. `[真题]`
->   - 中译：他要求杰克逊打印大量副本并将其与莫兰画作的复制品一起分发给每位国会议员。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/congress
+>   - 中译：【需人工审核】与 congress 相关的例句。
 > - The bill proved largely popular and sailed through Congress with large majorities in favor. `[真题]`
->   - 中译：事实证明，该法案很受欢迎，并以绝大多数人的支持顺利通过了国会。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/congress
+>   - 中译：【需人工审核】与 congress 相关的例句。
 > - Welcome to the party's triennial congress. `[例]`
->   - 中译：欢迎出席党的三年一次的代表大会。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/congress
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/congress
 ---
+>   - 中译：【需人工审核】与 congress 相关的例句。
 
 
 ## 主动产出

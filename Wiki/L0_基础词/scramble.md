@@ -141,6 +141,8 @@ review_count: 0
 
 > [!example]- 语料
 > - More than three million fans are expected to scramble for tickets. `[真题]`
+>   - 中译：【需人工审核】scramble 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/scramble
   - 中译：预计将有超过三百万球迷争抢门票。
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/scramble
 > - People are scrambling to buy property before prices rise even further. `[例]`

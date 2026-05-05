@@ -127,6 +127,8 @@ ex-（向外）+ pend（称重/支付）→ 称重后付出去 → 花费。pend
 
 > [!example]- 语料
 > - Governments expend a lot of resources on war. `[例]`
+>   - 中译：【需人工审核】expend 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/expend
   - 中译：各国政府在战争上耗费大量资源。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/expend；
 > - They expend all their energy fixing up their house. `[例]`

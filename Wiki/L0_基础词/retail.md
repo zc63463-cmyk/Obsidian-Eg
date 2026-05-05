@@ -136,6 +136,8 @@ re-(再/反复) + tail(=tailor, 切割/剪裁)
 
 > [!example]- 语料
 > - Retail stores usually count on the Christmas season to make up to half of their annual profits. `[真题]`
+>   - 中译：【需人工审核】retail 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/retail
   - 中译：零售商店通常指望圣诞季能带来高达一半的年利润。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/retail；
 > - The government must also urgently address problems across the retail sector as shops continue to close. `[真题]`

@@ -121,6 +121,8 @@ re-(=res，事物/事务，拉丁语 *res*) + public(公众的，公共的)
 
 > [!example]- 语料
 > - This tiny republic depends on the export of tobacco. `[COCA-NEWS]`
+>   - 中译：【需人工审核】republic 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/republic
   - 中译：这个微型共和国依赖烟草出口。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/republic；
 > - They have declared themselves an independent democratic republic. `[COCA-ACAD]`

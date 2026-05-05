@@ -140,6 +140,8 @@ snap 源自拟声词，模仿突然断裂或咬合时发出的清脆声响。可
 
 > [!example]- 语料
 > - Jackson snapped them on a late 19th-century expedition through the Yellowstone Basin that was conducted by the · head of the U. `[真题]`
+>   - 中译：【需人工审核】snap 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/snap
   - 中译：杰克逊在19世纪末穿越黄石盆地的探险中拍摄了这些照片，那次探险是由美国地质调查局局长领导的。；
   - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/snap；
 > - Some vandal's snapped off my car aerial again. `[例]`

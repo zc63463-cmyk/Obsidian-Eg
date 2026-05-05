@@ -137,6 +137,8 @@ family 源自拉丁语 *familia*（家庭的全体成员、户），是 *famulus
 
 > [!example]- 语料
 > - I come from a large family - I have three brothers and two sisters. `[例]`
+>   - 中译：家庭，家人。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/family
   - 中译：我来自一个大家庭——我有三个兄弟和两个姐妹。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/family；
 > - He doesn't have any family. `[例]`

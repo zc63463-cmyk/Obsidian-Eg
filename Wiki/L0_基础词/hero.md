@@ -137,6 +137,8 @@ review_count: 0
 
 > [!example]- 语料
 > - Within Australia she was a national hero. `[例]`
+>   - 中译：【需人工审核】hero 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hero
   - 中译：在澳大利亚国内，她是一位民族英雄。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hero；
 > - He became an accidental hero when he unknowingly thwarted a robbery. `[例]`

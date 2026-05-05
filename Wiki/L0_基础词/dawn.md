@@ -134,6 +134,8 @@ review_count: 0
 
 > [!example]- 语料
 > - We left as dawn was breaking (= starting ). `[例]`
+>   - 中译：【需人工审核】dawn 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/dawn
   - 中译：我们在黎明破晓时出发了。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/dawn；
 > - The fall of the Berlin Wall marked the dawn of a new era in European history. `[例]`

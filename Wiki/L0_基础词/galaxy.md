@@ -134,6 +134,8 @@ review_count: 0
 
 > [!example]- 语料
 > - Thanks to science, we know that we live on a rock orbiting a mediocre star in a mediocre galaxy. `[例]`
+>   - 中译：【需人工审核】galaxy 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/galaxy
   - 中译：多亏了科学，我们知道我们生活在一颗围绕一颗平庸恒星运行的岩石上，而这颗恒星位于一个平庸的星系中。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/galaxy；
 > - The Galaxy consists of 100 billion stars. `[例]`

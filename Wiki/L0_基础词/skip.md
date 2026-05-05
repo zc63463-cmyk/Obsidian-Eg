@@ -144,6 +144,8 @@ review_count: 0
 
 > [!example]- 语料
 > - She watched her little granddaughter skip down the path. `[例]`
+>   - 中译：【需人工审核】skip 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/skip
   - 中译：她看着小孙女蹦蹦跳跳地沿小路走去。；
   - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/skip；
 > - The lambs were skipping about in the field. `[例]`

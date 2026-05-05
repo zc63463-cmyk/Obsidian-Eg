@@ -131,6 +131,8 @@ reg-(统治，拉丁语 *regere*，与 [[regard]] 同源) + -ime(名词后缀)
 
 > [!example]- 语料
 > - When public opinion is particularly polarised, as it was following the end of the Franco regime, monarchs can rise above 'mere' politics and 'embody' a spirit of national unity. `[真题]`
+>   - 中译：【需人工审核】regime 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/regime
   - 中译：当公众舆论特别两极分化时，就像弗朗哥政权结束后那样，君主可以超越“纯粹的”政治，“体现”民族团结的精神。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/regime；
 > - Born in the crisis of the old regime and Iberian Colonialism, many of the leaders of independence shared the ideals of representative government. `[真题]`

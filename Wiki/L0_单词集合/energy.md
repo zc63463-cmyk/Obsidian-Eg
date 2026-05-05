@@ -123,16 +123,17 @@ en-(=in, 在…中) + erg(=ergon, work/做功) + -y(名词后缀)
 
 > [!example]- 语料
 > - Pat Hardy, who sympathises with the views of the energy sector, is resisting proposed changes 1to science standards for pre-teen pupils. `[真题]`
->   - 中译：帕特·哈迪（Pat Hardy）同情能源部门的观点，他反对对青春期前学生的科学标准进行修改1。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/energy
+>   - 中译：【需人工审核】与 energy 相关的例句。
 > - Since I started eating more healthily I've got so much more energy. `[例]`
->   - 中译：自从我开始吃得更健康以来，我的精力变得更加充沛。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/energy
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/energy
+>   - 中译：【需人工审核】与 energy 相关的例句。
 > - I was going to go out this evening , but I just haven't got the energy. `[例]`
->   - 中译：今晚我本来打算出去，但我没有力气。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/energy
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/energy
+>   - 中译：【需人工审核】与 energy 相关的例句。
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/energy
 
 
 ## 主动产出

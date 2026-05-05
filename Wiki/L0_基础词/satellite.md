@@ -129,6 +129,8 @@ review_count: 0
 
 > [!example]- 语料
 > - The country launched a new communications satellite into orbit. `[真题]`
+>   - 中译：【需人工审核】satellite 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/satellite
   - 中译：该国将一颗新的通信卫星送入轨道。
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/satellite
 > - During the Cold War, Eastern European countries were often seen as Soviet satellite states. `[真题]`

@@ -135,16 +135,17 @@ review_count: 0
 
 > [!example]- 语料
 > - He captured the first-ever shots of iconic landmarks such as the Tetons, Old Faithful and the Colorado Rockies. `[真题]`
->   - 中译：他首次拍摄了大提顿山、老忠实间歇泉和科罗拉多落基山脉等标志性地标的照片。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/capture
+>   - 中译：【需人工审核】与 capture 相关的例句。
 > - Despite these challenges, Jackson captured dozens of striking photos, ranging from majestic images like his now-famous snapshot 11  of Old Faithful, to casual portraits of expedition members at the camp. `[真题]`
->   - 中译：尽管面临这些挑战，杰克逊还是拍摄了数十张引人注目的照片，从他现在著名的老忠实泉快照 1 1 等雄伟照片，到营地探险队员的随意肖像。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/capture
+>   - 中译：【需人工审核】与 capture 相关的例句。
 > - In addition to the entourage of scientists, the team also included artists: Painter Thomas Moran and photographer William Henry Jackson were charged with capturing this astounding natural beauty and sharing it with the world. `[真题]`
->   - 中译：除了科学家随行人员外，该团队还包括艺术家：画家托马斯·莫兰和摄影师威廉·亨利·杰克逊，他们负责捕捉这令人惊叹的自然美景并与世界分享。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/capture
+>   - 中译：【需人工审核】与 capture 相关的例句。
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/capture
 
 
 ## 主动产出

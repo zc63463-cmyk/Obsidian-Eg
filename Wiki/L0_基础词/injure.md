@@ -131,6 +131,8 @@ injure 源自拉丁语 *injurius*（不公正的），由 in-(=not, 不) + jus(=
 
 > [!example]- 语料
 > - He threw a blanket over the injured man and called for an ambulance immediately. `[真题]`
+>   - 中译：【需人工审核】injure 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/injure
   - 中译：他把毯子盖在受伤的人身上，立刻叫了救护车。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/injure；
 > - The study found that children who are exposed to violent media are more likely to injure others or themselves. `[真题]`

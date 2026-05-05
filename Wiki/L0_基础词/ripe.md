@@ -126,6 +126,8 @@ ripe（成熟的，古英语 *rīpe*，日耳曼语源，可能与 *reap* "收�
 
 > [!example]- 语料
 > - The time was ripe for change in the company. `[真题]`
+>   - 中译：【需人工审核】ripe 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ripe
   - 中译：公司变革的时机已经成熟。
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ripe
 > - The pods split open when the beans are ripe. `[真题]`

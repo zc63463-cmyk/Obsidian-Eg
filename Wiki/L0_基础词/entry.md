@@ -130,6 +130,8 @@ review_count: 0
 
 > [!example]- 语料
 > - A flock of sheep blocked our entry to the farm. `[例]`
+>   - 中译：【需人工审核】entry 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/entry
   - 中译：一群羊挡住了我们进入农场的路。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/entry；
 > - I can't go down that street - there's a "No entry" sign. `[例]`

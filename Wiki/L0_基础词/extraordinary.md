@@ -126,6 +126,8 @@ extra-(超出) + ordinary(普通的，[[ordinary]])
 
 > [!example]- 语料
 > - Her voice had an extraordinary hypnotic quality. `[例]`
+>   - 中译：【需人工审核】extraordinary 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/extraordinary
   - 中译：她的声音有一种非凡的催眠特质。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/extraordinary；
 > - He presided over an extraordinary meeting of the country's leading clergy. `[例]`

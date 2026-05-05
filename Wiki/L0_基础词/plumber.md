@@ -130,6 +130,8 @@ plumb(=plumbum, 铅，拉丁语 *plumbum*) + -er(表示"人"的名词后缀)
 
 > [!example]- 语料
 > - When is the plumber coming to repair the burst pipe? `[例]`
+>   - 中译：【需人工审核】plumber 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/plumber
   - 中译：水管工什么时候来修爆裂的水管？；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/plumber；
 > - We'll have to get a plumber in to look at that water tank. `[例]`

@@ -129,6 +129,8 @@ review_count: 0
 
 > [!example]- 语料
 > - Delegates have voted in favour of the motion. `[例]`
+>   - 中译：【需人工审核】delegate 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/delegate
   - 中译：一个优秀的管理者知道何时应该授权。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/delegate；
 > - Each union elects several delegates to the annual conference. `[例]`

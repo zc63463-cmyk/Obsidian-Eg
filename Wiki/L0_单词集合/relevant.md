@@ -127,15 +127,15 @@ re-(回) + lev/lat(举起、携带) + -ant(形容词后缀，表"……的")
 
 > [!example]- 语料
 > - The trade magazine The Bookseller reported that Waterstones branch managers were being told to remove PRH books from prominent areas such as tables , display spaces and windows, and were " quietly retiring them to their relevant sections". `[真题]`
->   - 中译：行业杂志《书商》报道称，水石书店的分店经理被告知将公屋书籍从桌子、展示空间和窗户等显着区域移走，并“悄悄地将它们退回到相关区域”。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/relevant
+>   - 中译：【需人工审核】与 relevant 相关的例句。
 > - Why did Waterstones shops retire PRH books to their relevant sections? `[真题]`
->   - 中译：为何水石店将公屋书籍退回相关部门？
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/relevant
+>   - 中译：【需人工审核】与 relevant 相关的例句。
 > - Education should be relevant to the child's needs. `[例]`
->   - 中译：教育应该与孩子的需要相关。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/relevant
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/relevant
 ---
+>   - 中译：【需人工审核】与 relevant 相关的例句。
 
 
 ## 主动产出

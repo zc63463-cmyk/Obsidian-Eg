@@ -144,16 +144,17 @@ review_count: 0
 
 > [!example]- 语料
 > - Glenn Branch, the centre's deputy director, cautions that setting state-level science standards is only one limited benchmark in a country that decentralises decisions to local school bo.ards. `[真题]`
->   - 中译：该中心副主任格伦·布兰奇（Glenn Branch）警告说，在一个将决策权力下放给地方学校董事会的国家，制定国家级科学标准只是一个有限的基准。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/level
+>   - 中译：【需人工审核】与 level 相关的例句。
 > - We are at a crisis level on the supply of rental housing , " said Nick Taylor, executive director of the Workforce Housing Coalition of the Greater Seacoast. `[真题]`
->   - 中译：大海岸劳动力住房联盟执行董事尼克·泰勒表示，我们的租赁住房供应正处于危机水平。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/level
+>   - 中译：【需人工审核】与 level 相关的例句。
 > - Its housing supply is at a very low level. `[真题]`
->   - 中译：其住房供应量处于非常低的水平。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/level
+>   - 中译：【需人工审核】与 level 相关的例句。
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/level
 
 
 ## 主动产出

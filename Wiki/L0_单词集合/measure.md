@@ -143,16 +143,17 @@ review_count: 0
 
 > [!example]- 语料
 > - These would emphasise the primacy of human activity in recent climate change and encourage discussion of mitigation measures. `[真题]`
->   - 中译：这些将强调人类活动在近期气候变化中的首要地位，并鼓励讨论缓解措施。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/measure
+>   - 中译：【需人工审核】与 measure 相关的例句。
 > - The scientific community measures the quality of those papers in a number of ways, including the perceived quality of the journal ( as reflected by the title's impact factor) and the number of citations a specific paper accumulates. `[真题]`
->   - 中译：科学界通过多种方式衡量这些论文的质量，包括期刊的感知质量（如标题的影响因子所反映）和特定论文累积的引用次数。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/measure
+>   - 中译：【需人工审核】与 measure 相关的例句。
 > - Will the table fit in here?" "I don't know - let's measure it. `[例]`
->   - 中译：桌子放在这里吗？” “我不知道——我们来量一下。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/measure
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/measure
+>   - 中译：【需人工审核】与 measure 相关的例句。
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/measure
 
 
 ## 主动产出

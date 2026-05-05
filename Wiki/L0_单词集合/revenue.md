@@ -125,16 +125,17 @@ re-(回) + venue(来，源自拉丁语 venire) → 回来的东西 → 收入
 
 > [!example]- 语料
 > - Waterstones branches suffer a severe reduction in revenue. `[真题]`
->   - 中译：Waterstones 分支机构的收入严重减少。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/revenue
+>   - 中译：【需人工审核】与 revenue 相关的例句。
 > - Taxes provide most of the government's revenue. `[例]`
->   - 中译：税收提供了政府的大部分收入。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/revenue
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/revenue
+>   - 中译：【需人工审核】与 revenue 相关的例句。
 > - Government revenues fell dramatically. `[例]`
->   - 中译：政府收入大幅下降。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/revenue
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/revenue
+>   - 中译：【需人工审核】与 revenue 相关的例句。
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/revenue
 
 
 ## 主动产出

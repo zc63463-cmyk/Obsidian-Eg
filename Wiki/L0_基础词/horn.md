@@ -131,6 +131,8 @@ horn（古英语 *horn* "动物的角；角制乐器"，源自原始日耳曼语
 
 > [!example]- 语料
 > - The bull lowered its horns and charged straight at him. `[例]`
+>   - 中译：【需人工审核】horn 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/horn
   - 中译：公牛低下牛角，径直向他冲去。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/horn；
 > - The male deer grows large branching horns called antlers. `[例]`

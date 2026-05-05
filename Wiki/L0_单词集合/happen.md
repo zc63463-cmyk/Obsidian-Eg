@@ -136,16 +136,17 @@ review_count: 0
 
 > [!example]- 语料
 > - I don't believe that the legal protection would have happened in the timeframe that it did without those images, " says Hansen, journalist and author of Prophets and Moguls, Rangers and Rogues, Bison and Bears: 100 Years of the National Park Service. `[真题]`
->   - 中译：我认为如果没有这些图像，法律保护不会在这样的时间内发生，”记者兼《先知与大亨、流浪者与盗贼、野牛与熊：国家公园管理局 100 年》一书的作者汉森说道。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/happen
+>   - 中译：【需人工审核】与 happen 相关的例句。
 > - No one knows exactly what happened but several people have been hurt. `[例]`
->   - 中译：没有人确切知道发生了什么，但已有多人受伤。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/happen
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/happen
+>   - 中译：【需人工审核】与 happen 相关的例句。
 > - Anything could happen in the next half hour. `[例]`
->   - 中译：在接下来的半小时内，任何事情都可能发生。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/happen
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/happen
+>   - 中译：【需人工审核】与 happen 相关的例句。
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/happen
 
 
 ## 主动产出

@@ -138,6 +138,8 @@ review_count: 0
 
 > [!example]- 语料
 > - The roof is at a slope (= at an angle to a horizontal surface ) of 30°. `[例]`
+>   - 中译：【需人工审核】slope 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/slope
   - 中译：屋顶的倾斜度为30度。；
   - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/slope；
 > - Snow had settled on some of the higher slopes. `[例]`

@@ -123,6 +123,8 @@ equip（源自古法语 *esquiper* "装备一艘船"，可能源自古诺斯语 
 
 > [!example]- 语料
 > - It's going to cost $4 million to equip the hospital. `[例]`
+>   - 中译：【需人工审核】equip 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/equip
   - 中译：他们为工厂配备了新机器。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/equip；
 > - All the police officers were equipped with shields to defend themselves against the rioters. `[例]`

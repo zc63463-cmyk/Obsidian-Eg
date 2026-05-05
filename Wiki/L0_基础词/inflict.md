@@ -134,6 +134,8 @@ in-(=on/upon, 在……上) + flict(=strike/beat, 打击，拉丁语 *fligere*) 
 
 > [!example]- 语料
 > - The storm inflicted severe damage on the town. `[真题]`
+>   - 中译：【需人工审核】inflict 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/inflict
   - 中译：暴风雨给这座城镇造成了严重破坏。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/inflict；
 > - He said he wanted to economise without inflicting damage, by rationing funding according to excellence. `[真题]`

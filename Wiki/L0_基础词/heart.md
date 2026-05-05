@@ -136,6 +136,8 @@ heart 日耳曼语系本族词，古英语 *heorte*，原始印欧语 *kerd-（�
 
 > [!example]- 语料
 > - Isabel's heart was beating fast with fright. `[例]`
+>   - 中译：【需人工审核】heart 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/heart
   - 中译：伊莎贝尔吓得心跳加速。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/heart；
 > - She has a good heart (= she is a kind person ). `[例]`

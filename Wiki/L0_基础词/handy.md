@@ -126,6 +126,8 @@ handy = hand（手）+ -y（形容词后缀，表示"具有……特征的"）�
 
 > [!example]- 语料
 > - First-time visitors to France will find this guide particularly handy. `[例]`
+>   - 中译：【需人工审核】handy 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/handy
   - 中译：初次到法国的游客会发现这本指南特别实用。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/handy；
 > - The shed has a shelf that is handy for storing small items. `[例]`

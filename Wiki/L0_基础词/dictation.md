@@ -121,6 +121,8 @@ review_count: 0
 
 > [!example]- 语料
 > - Our French dictation lasted half an hour. `[例]`
+>   - 中译：【需人工审核】dictation 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/dictation
   - 中译：我们的法语听写持续了半小时。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/dictation；
 > - Can we get someone from the agency who takes dictation? `[例]`

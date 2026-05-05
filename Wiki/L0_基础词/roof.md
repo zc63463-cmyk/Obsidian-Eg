@@ -125,6 +125,8 @@ review_count: 0
 
 > [!example]- 语料
 > - Housing prices have gone through the roof in recent years. `[真题]`
+>   - 中译：【需人工审核】roof 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/roof
   - 中译：近年来房价飞涨。
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/roof
 > - There are various stores and restaurants all under one roof. `[真题]`

@@ -144,6 +144,8 @@ review_count: 0
 
 > [!example]- 语料
 > - Hardly anyone in the town escaped the slaughter when the rebels were defeated. `[例]`
+>   - 中译：【需人工审核】slaughter 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/slaughter
   - 中译：叛军被击败时，镇上几乎无人逃过屠杀。；
   - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/slaughter；
 > - We must find ways of reducing the slaughter which takes place on our roads (= death of many people in car accidents ) every year. `[例]`

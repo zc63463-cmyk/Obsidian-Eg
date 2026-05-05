@@ -128,16 +128,17 @@ several ← 古法语 *seperalis* ← 拉丁语 *separare*（分开）← se-(�
 
 > [!example]- 语料
 > - Caravanserais served as an informal 10 point for the various people who travelled the Silk Road. _.!l_ , these structures became important centers for cultural 12 and interaction, with travellers sharing their cultures, ideas and beliefs, 13 taking knowledge with them, greatly _l!_ the development of several civilisations. `[真题]`
->   - 中译：商队旅馆是丝绸之路上各路人士的非正式休息点。 _.!l_ ，这些建筑成为重要的文化 12 和互动中心，旅行者分享他们的文化、想法和信仰， 13 带走知识，极大地 _l!_ 多个文明的发展。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/several
+>   - 中译：【需人工审核】与 several 相关的例句。
 > - The crude technique required educated guesses on exposure times, and involved heavy, awkward equipment-several men had to assist in its transportation. `[真题]`
->   - 中译：这种粗糙的技术需要对曝光时间进行有根据的猜测，并且涉及笨重、笨拙的设备——需要几个人协助运输。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/several
+>   - 中译：【需人工审核】与 several 相关的例句。
 > - I've seen "Gone with the Wind" several times. `[例]`
->   - 中译：《乱世佳人》我看过好几遍了。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/several
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/several
+>   - 中译：【需人工审核】与 several 相关的例句。
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/several
 
 
 ## 主动产出

@@ -138,6 +138,8 @@ review_count: 0
 
 > [!example]- 语料
 > - The lecture hall was packed solid ( with students ). `[例]`
+>   - 中译：【需人工审核】solid 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/solid
   - 中译：报告厅里挤满了学生。；
   - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/solid；
 > - Liquid and solid waste is collected in the tank. `[例]`

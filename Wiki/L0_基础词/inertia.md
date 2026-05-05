@@ -131,6 +131,8 @@ in-(=not, 不) + [[ars-art|ars]](=art/skill/active, 技艺/活跃，拉丁语 *a
 
 > [!example]- 语料
 > - The organization is stifled by bureaucratic inertia. `[例]`
+>   - 中译：【需人工审核】inertia 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/inertia
   - 中译：这个组织被官僚惰性所扼杀。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/inertia；
 > - I can't seem to throw off this feeling of inertia. `[例]`

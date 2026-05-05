@@ -134,6 +134,8 @@ review_count: 0
 > [!example]- 语料
 > - The two companies decided to fuse their operations to create a more competitive entity. `[真题]`
 > - Different cultures fuse together in this cosmopolitan city. `[例]`
+>   - 中译：【需人工审核】fuse 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fuse
   - 中译：不同的文化在这个国际化大都市中融合在一起。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fuse；
 > - He blew a fuse when he found out the kids had broken the window. `[例]`

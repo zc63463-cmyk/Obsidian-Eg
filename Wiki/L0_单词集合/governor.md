@@ -126,16 +126,17 @@ review_count: 0
 
 > [!example]- 语料
 > - At the end of 2018, Governor Charlie Baker of Massachusetts signed a bill to rein in those potential investor-buyers. `[真题]`
->   - 中译：2018 年底，马萨诸塞州州长查理·贝克签署了一项法案，以控制这些潜在的投资者买家。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/governor
+>   - 中译：【需人工审核】与 governor 相关的例句。
 > - The governor exhorted the prisoners not to riot. `[例]`
->   - 中译：州长劝告囚犯不要暴动。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/governor
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/governor
+>   - 中译：【需人工审核】与 governor 相关的例句。
 > - The governor was looking for a fall guy to take the blame for the corruption scandal. `[例]`
->   - 中译：州长正在寻找一个替罪羊来承担腐败丑闻的责任。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/governor
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/governor
+>   - 中译：【需人工审核】与 governor 相关的例句。
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/governor
 
 
 ## 主动产出

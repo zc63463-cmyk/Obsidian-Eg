@@ -139,6 +139,8 @@ fat-/fate(命运，拉丁语 *fatum*) + -al(形容词后缀，...的)
 
 > [!example]- 语料
 > - There was a fatal flaw in the plan. `[例]`
+>   - 中译：【需人工审核】fatal 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fatal
   - 中译：计划中存在一个致命的缺陷。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fatal；
 > - This illness is fatal in almost all cases. `[例]`

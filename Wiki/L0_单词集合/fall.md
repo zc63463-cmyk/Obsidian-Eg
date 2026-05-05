@@ -149,16 +149,17 @@ review_count: 0
 
 > [!example]- 语料
 > - Sales of books by mid-list PRH writers fall off considerably. `[真题]`
->   - 中译：中等公屋作家的图书销量大幅下降。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fall
+>   - 中译：【需人工审核】与 fall 相关的例句。
 > - That fall, t hey concluded the survey in Fort Bridger , Wyoming. `[真题]`
->   - 中译：那年秋天，他们结束了在怀俄明州布里杰堡的调查。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fall
+>   - 中译：【需人工审核】与 fall 相关的例句。
 > - The path's very steep , so be careful you don't fall. `[例]`
->   - 中译：路很陡，要小心别摔倒。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/fall
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fall
+>   - 中译：【需人工审核】与 fall 相关的例句。
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fall
 
 
 ## 主动产出

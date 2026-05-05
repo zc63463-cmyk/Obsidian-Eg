@@ -127,6 +127,8 @@ illegal = il-（= [[in-]]/[[im-]]，否定前缀，在 l 前变为 il-）+ legal
 
 > [!example]- 语料
 > - The state L egislature recently · voted against a bill that would've made it illegal for towns to create legislation restricting short-term rentals. `[真题]`
+>   - 中译：【需人工审核】illegal 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/illegal
   - 中译：州立法机构最近投票否决了一项法案，该法案本将使各城镇制定限制短期租赁的立法成为非法行为。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/illegal；
 > - The company adopted a illegal approach to improve efficiency. `[真题]`

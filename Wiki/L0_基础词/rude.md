@@ -127,6 +127,8 @@ rud-(粗糙的/未加工的，拉丁语 *rudis*)
 
 > [!example]- 语料
 > - It is considered rude to interrupt someone while they are speaking. `[真题]`
+>   - 中译：【需人工审核】rude 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rude
   - 中译：在别人说话时打断对方被认为是不礼貌的。
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rude
 > - The economic crisis came as a rude awakening for many investors. `[真题]`

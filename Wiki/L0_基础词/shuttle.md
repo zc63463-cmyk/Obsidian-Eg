@@ -135,6 +135,8 @@ review_count: 0
 
 > [!example]- 语料
 > - All the meals on space station are put together on Earth and sent there by space shuttle. `[真题]`
+>   - 中译：【需人工审核】shuttle 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/shuttle
   - 中译：空间站上的所有餐食都是在地球上准备好，由航天飞机运送过去的。；
   - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/shuttle；
 > - During the next two years, other delegations shuttled between the two capitals. `[例]`

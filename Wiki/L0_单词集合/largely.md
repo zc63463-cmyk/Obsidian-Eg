@@ -133,16 +133,17 @@ review_count: 0
 
 > [!example]- 语料
 > - The bill proved largely popular and sailed through Congress with large majorities in favor. `[真题]`
->   - 中译：事实证明，该法案很受欢迎，并以绝大多数人的支持顺利通过了国会。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/largely
+>   - 中译：【需人工审核】与 largely 相关的例句。
 > - Still, the decision was largely accepted-and Jackson's photos played a key role in the fight to protect the area. `[真题]`
->   - 中译：尽管如此，这个决定还是被广泛接受了——杰克逊的照片在保护该地区的斗争中发挥了关键作用。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/largely
+>   - 中译：【需人工审核】与 largely 相关的例句。
 > - Their complaints have been largely ignored. `[例]`
->   - 中译：他们的抱怨基本上被忽视了。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/largely
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/largely
+>   - 中译：【需人工审核】与 largely 相关的例句。
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/largely
 
 
 ## 主动产出

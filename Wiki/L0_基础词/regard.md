@@ -142,6 +142,8 @@ re-(再，反复) + gard(看，守护，日耳曼语系)
 
 > [!example]- 语料
 > - He is regarded as a tenacious and persistent interviewer. `[真题]`
+>   - 中译：【需人工审核】regard 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/regard
   - 中译：他被认为是一位坚韧而执着的采访者。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/regard；
 > - I have nothing to say with regard to your complaints. `[真题]`

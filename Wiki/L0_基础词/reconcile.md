@@ -131,6 +131,8 @@ re-（再，重新）+ concili（召集，拉丁语 *conciliare* "召集、联�
 
 > [!example]- 语料
 > - She and Eddie had separated and reconciled so many times the children had lost track of whose clothes were where. `[例]`
+>   - 中译：【需人工审核】reconcile 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/reconcile
   - 中译：她和埃迪分分合合太多次了，孩子们都搞不清谁的衣服放在哪里了。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/reconcile；
 > - He thought they might reconcile the Parisians to his daring design by reminding them of the familiar arches of their bridges. `[例]`

@@ -128,6 +128,8 @@ fut-(=fus-, 倾倒/泄漏，拉丁语 *fundere* 的过去分词 *futus*) + -ile(
 > [!example]- 语料
 > - All attempts to negotiate a settlement proved futile. `[真题]`
 > - It would be futile to resist the inevitable changes. `[例]`
+>   - 中译：【需人工审核】futile 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/futile
   - 中译：抵抗不可避免的变化将是徒劳的。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/futile；
 > - My efforts to go back to sleep proved futile. `[例]`

@@ -120,6 +120,8 @@ rod（杆，古英语 *rodd* "杆/棍"，可能与古诺斯语 *rudda* "棍棒"�
 
 > [!example]- 语料
 > - He sat by the lake, holding his fishing rod. `[真题]`
+>   - 中译：【需人工审核】rod 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rod
   - 中译：他坐在湖边，手里拿着钓鱼竿。
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rod
 > - The lightning rod protects the building from lightning strikes. `[真题]`

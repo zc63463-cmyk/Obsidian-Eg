@@ -141,16 +141,17 @@ review_count: 0
 
 > [!example]- 语料
 > - In 2016 , researchers developed an algorithm to recognize suspicious citation patterns , including groups of authors that disproportionately cite one another and groups of journals that cite each other frequently to increase the impact factors of their publications. `[真题]`
->   - 中译：2016年，研究人员开发了一种算法来识别可疑的引用模式，包括不成比例地相互引用的作者群体和频繁相互引用以增加其出版物的影响因子的期刊群体。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/develop
+>   - 中译：【需人工审核】与 develop 相关的例句。
 > - Throughout the trip , Jackson juggled multiple cameras and plate sizes using the " collodion process" that required him to coat the plates with a chemical mixture , then expose them and develop the resulting images with a portable darkroom. `[真题]`
->   - 中译：在整个旅程中，杰克逊使用“火棉胶工艺”处理多个相机和印版尺寸，该工艺要求他在印版上涂上化学混合物，然后将它们曝光并用便携式暗室冲洗所得图像。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/develop
+>   - 中译：【需人工审核】与 develop 相关的例句。
 > - By allowing AI to develop content some brand marketers may find that they are losing control over the brand narrative. ( 48 ) Algorithms that are used to simulate human interactions are creating mmy of these concerns, especially as no-one is quite sure what the outcomes of using AI to interact with customers will be. `[真题]`
->   - 中译：通过允许人工智能开发内容，一些品牌营销人员可能会发现他们正在失去对品牌叙事的控制。 ( 48 ) 用于模拟人类交互的算法正在引发这些担忧，特别是因为没有人完全确定使用人工智能与客户交互的结果会是什么。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/develop
+>   - 中译：【需人工审核】与 develop 相关的例句。
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/develop
 
 
 ## 主动产出

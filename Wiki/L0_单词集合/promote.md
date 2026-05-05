@@ -133,17 +133,18 @@ pro-(向前) + mote(移动) + -e
 
 > [!example]- 语料
 > - Big-name PRH authors may suffer a bit, but it's those mid-list authors, who normally rely on Waterstones staff's passion for promoting books by lesser-known writers, who will be praying for an end to the dispute. `[真题]`
->   - 中译：知名公关作家可能会受到一些影响，但那些通常依靠 Waterstones 工作人员推销不太知名作家的书籍的中等作家将祈祷争端结束。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/promote
+>   - 中译：【需人工审核】与 promote 相关的例句。
 > - Waterstones staff hesitate to promote big-name authors' books. `[真题]`
->   - 中译：Waterstones 的员工对于推销大牌作家的书籍犹豫不决。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/promote
+>   - 中译：【需人工审核】与 promote 相关的例句。
 > - Advertising companies are always having to think up new ways to promote products. `[例]`
->   - 中译：广告公司总是不得不想出新的方法来推销产品。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/promote
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/promote
+>   - 中译：【需人工审核】与 promote 相关的例句。
 
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/promote
 
 ## 主动产出
 

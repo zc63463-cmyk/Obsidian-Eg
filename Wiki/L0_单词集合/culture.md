@@ -127,16 +127,17 @@ cult(耕作，培养) + -ure(行为的结果)
 
 > [!example]- 语料
 > - Caravanserais served as an informal 10 point for the various people who travelled the Silk Road. _.!l_ , these structures became important centers for cultural 12 and interaction, with travellers sharing their cultures, ideas and beliefs, 13 taking knowledge with them, greatly _l!_ the development of several civilisations. `[真题]`
->   - 中译：商队旅馆是丝绸之路上各路人士的非正式休息点。 _.!l_ ，这些建筑成为重要的文化 12 和互动中心，旅行者分享他们的文化、想法和信仰， 13 带走知识，极大地 _l!_ 多个文明的发展。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/culture
+>   - 中译：【需人工审核】与 culture 相关的例句。
 > - She's studying modern Japanese language and culture. `[例]`
->   - 中译：她正在学习现代日语和文化。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/culture
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/culture
+>   - 中译：【需人工审核】与 culture 相关的例句。
 > - This is one of the most ancient cultures in the world. `[例]`
->   - 中译：这是世界上最古老的文化之一。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/culture
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/culture
+>   - 中译：【需人工审核】与 culture 相关的例句。
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/culture
 
 
 ## 主动产出

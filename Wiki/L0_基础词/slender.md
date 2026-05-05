@@ -145,6 +145,8 @@ review_count: 0
 
 > [!example]- 语料
 > - The researchers proposed a slender solution to the problem. `[例]`
+>   - 中译：【需人工审核】slender 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/slender
   - 中译：研究人员提出了一个浅显的解决方案。；
   - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/slender；
 > - The company adopted a slender approach to improve efficiency. `[例]`

@@ -130,6 +130,8 @@ review_count: 0
 
 > [!example]- 语料
 > - The new manager found himself saddled with problems left by his predecessor. `[例]`
+>   - 中译：【需人工审核】saddle 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/saddle
   - 中译：新经理发现自己背负着前任留下的问题。
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/saddle
 > - The corporation is no longer saddled with a huge debt after the restructuring. `[例]`

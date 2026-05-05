@@ -133,6 +133,8 @@ per-（完全，贯穿，[[per]]）+ mit（送，拉丁语 *mittere*）
 
 > [!example]- 语料
 > - The regulations do not permit much flexibility. `[例]`
+>   - 中译：【需人工审核】permit 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/permit
   - 中译：这些规定不允许有太大的灵活性。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/permit；
 > - Visitors are not permitted to take photographs inside the museum. `[例]`

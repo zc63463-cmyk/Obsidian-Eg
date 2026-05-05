@@ -124,16 +124,17 @@ review_count: 0
 
 > [!example]- 语料
 > - It was a most fruitful discussion , with both sides agreeing to adopt a common policy. `[例]`
->   - 中译：这是一次富有成果的讨论，双方同意采取共同政策。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/fruitful
-> - He had a long and fruitful career as a research chemist. `[例]`
->   - 中译：作为一名研究化学家，他有着漫长而卓有成效的职业生涯。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/fruitful
-> - Official manuals can be a potentially fruitful source of information. `[例]`
->   - 中译：官方手册可能是一个潜在的、富有成效的信息来源。
 >   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fruitful
+>   - 中译：【需人工审核】与 fruitful 相关的例句。
+> - He had a long and fruitful career as a research chemist. `[例]`
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fruitful
+>   - 中译：【需人工审核】与 fruitful 相关的例句。
+> - Official manuals can be a potentially fruitful source of information. `[例]`
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fruitful
+>   - 中译：【需人工审核】与 fruitful 相关的例句。
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fruitful
 
 
 ## 主动产出

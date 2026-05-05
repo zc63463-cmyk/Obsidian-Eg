@@ -128,6 +128,8 @@ decim-(十，十分之一，拉丁语 *decem*) + -al(形容词/名词后缀，..
 
 > [!example]- 语料
 > - If you calculate the result to two decimal places (= give two numbers after the decimal point , as in 3.65) , that should minimize any possible errors. `[例]`
+>   - 中译：【需人工审核】decimal 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/decimal
   - 中译：如果将结果计算到小数点后两位，应该能将可能的误差降到最低。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/decimal；
 > - Give your answers correct to three decimal places. `[例]`

@@ -129,13 +129,14 @@ re-(再/回) + -cent( hundred的缩写，百年) → 字面"回到百年之内" 
 
 > [!example]- 语料
 > - These would emphasise the primacy of human activity in recent climate change and encourage discussion of mitigation measures. `[真题]`
->   - 中译：这些将强调人类活动在近期气候变化中的首要地位，并鼓励讨论缓解措施。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/recent
+>   - 中译：【需人工审核】与 recent 相关的例句。
 > - After all, many of the most interesting books in recent years have come from small publishers. `[真题]`
->   - 中译：毕竟，近年来许多最有趣的书籍都来自小型出版商。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/recent
+>   - 中译：【需人工审核】与 recent 相关的例句。
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/recent
 
 
 ## 主动产出

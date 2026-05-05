@@ -146,6 +146,8 @@ single 源自古法语 *sengle*，拉丁语 *singulus*（单一的），与 simu
 
 > [!example]- 语料
 > - There is no single solution to the problem of climate change. `[真题]`
+>   - 中译：【需人工审核】single 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/single
   - 中译：气候变化问题没有单一的解决方案。；
   - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/single；
 > - She was singled out for special training because of her outstanding performance. `[真题]`

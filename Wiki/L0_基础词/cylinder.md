@@ -125,6 +125,8 @@ review_count: 0
 
 > [!example]- 语料
 > - Deep-sea divers carry cylinders of oxygen on their backs. `[例]`
+>   - 中译：【需人工审核】cylinder 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/cylinder
   - 中译：深海潜水员背着氧气罐。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/cylinder；
 > - The league's rule does not allow you to interfere with a player's cylinder when they are trying to make a play. `[例]`

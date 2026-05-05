@@ -133,6 +133,8 @@ review_count: 0
 
 > [!example]- 语料
 > - The spring evening was warm, and the scent of flowers filled the air. `[例]`
+>   - 中译：【需人工审核】scent 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/scent
   - 中译：春天的傍晚很温暖，空气中弥漫着花香。
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/scent
 > - The delicious scent of freshly baked bread was wafting from the kitchen. `[例]`

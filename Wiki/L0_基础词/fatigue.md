@@ -142,6 +142,8 @@ fatig-(疲倦，拉丁语 *fatigare*) + -ue(名词后缀)
 
 > [!example]- 语料
 > - She was suffering from fatigue. `[例]`
+>   - 中译：【需人工审核】fatigue 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fatigue
   - 中译：她感到疲劳不堪。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fatigue；
 > - Driver fatigue was to blame for the accident. `[例]`

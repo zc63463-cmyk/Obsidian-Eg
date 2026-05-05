@@ -125,15 +125,15 @@ re-(回) + lat/latus(携带、带来) + -ion(名词后缀) + -ship(表状态/关
 
 > [!example]- 语料
 > - In some instances, there is absolutely no relationship between the content of the article and the citations. `[真题]`
->   - 中译：在某些情况下，文章内容和引用之间完全没有关系。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/relationship
+>   - 中译：【需人工审核】与 relationship 相关的例句。
 > - Scientists have established the relationship between lung cancer and smoking. `[例]`
->   - 中译：科学家已经确定了肺癌与吸烟之间的关系。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/relationship
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/relationship
+>   - 中译：【需人工审核】与 relationship 相关的例句。
 > - Her relationship isn't good with her father , but she's very close to her mother. `[例]`
->   - 中译：她和她父亲的关系不好，但她和她母亲的关系却很亲密。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/relationship
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/relationship
 ---
+>   - 中译：【需人工审核】与 relationship 相关的例句。
 
 
 ## 主动产出

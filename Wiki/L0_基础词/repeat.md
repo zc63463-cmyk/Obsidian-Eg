@@ -136,6 +136,8 @@ re-（[[re-|再，重新]]）+ pet（[[pet|寻求，追求]]，拉丁语 *petere
 
 > [!example]- 语料
 > - Those who do not remember the past are condemned to repeat it. `[真题]`
+>   - 中译：【需人工审核】repeat 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/repeat
   - 中译：忘记过去的人注定要重蹈覆辙。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/repeat；
 > - Are we doomed to repeat the mistakes of the past? `[例]`

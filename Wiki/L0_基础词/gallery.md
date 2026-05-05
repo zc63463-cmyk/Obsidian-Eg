@@ -135,6 +135,8 @@ review_count: 0
 
 > [!example]- 语料
 > - Imagine being able to remember every painting, on every wall, in every gallery space, between nearly 40 countries, he says. `[例]`
+>   - 中译：【需人工审核】gallery 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/gallery
   - 中译：想象一下，能够记住近40个国家中每个画廊空间里每面墙上的每一幅画。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/gallery；
 > - Franca Falletti, director of the Accademia Gallery in Florence where the statue is housed, said the cleaning would be finished by late May. `[例]`

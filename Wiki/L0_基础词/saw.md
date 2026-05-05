@@ -129,6 +129,8 @@ review_count: 0
 
 > [!example]- 语料
 > - That reminds me of the old saw about being careful about what you wish for. `[例]`
+>   - 中译：【需人工审核】saw 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/saw
   - 中译：那让我想起了那句关于小心许愿的老话。
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/saw
 > - Their versatility means a circular saw is not always needed. `[COCA-ACAD]`

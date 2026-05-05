@@ -129,6 +129,8 @@ ex-(出、向外) + cause(原因、理由，拉丁语 *causa*) → 把原因说�
 
 > [!example]- 语料
 > - Please excuse me for arriving late - the bus was delayed. `[例]`
+>   - 中译：【需人工审核】excuse 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/excuse
   - 中译：请原谅我迟到——公交车晚点了。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/excuse；
 > - Nothing can excuse that sort of behaviour. `[例]`

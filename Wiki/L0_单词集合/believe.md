@@ -134,16 +134,17 @@ review_count: 0
 
 > [!example]- 语料
 > - I don't believe that the legal protection would have happened in the timeframe that it did without those images, " says Hansen, journalist and author of Prophets and Moguls, Rangers and Rogues, Bison and Bears: 100 Years of the National Park Service. `[真题]`
->   - 中译：我认为如果没有这些图像，法律保护不会在这样的时间内发生，”记者兼《先知与大亨、流浪者与盗贼、野牛与熊：国家公园管理局 100 年》一书的作者汉森说道。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/believe
+>   - 中译：【需人工审核】与 believe 相关的例句。
 > - The main disadvantage of using AI to respond to customers is that there are concerns about trusting pei:sonal interactions to machines , which could lead not only to the subsequent loss of interpersonal connections , but also to a decrease in marketing personnel. ( 47) Some believe that AI is negatively impacting on the marketer's role by reducing creativity and removing jobs, but they are aware that it is a way of reducing costs and creating new information. `[真题]`
->   - 中译：使用人工智能响应客户的主要缺点是担心信任机器之间的人际互动，这不仅可能导致随后人际联系的丧失，还会导致营销人员的减少。 ( 47) 一些人认为人工智能通过减少创造力和减少工作岗位而对营销人员的角色产生负面影响，但他们意识到这是降低成本和创造新信息的一种方式。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/believe
+>   - 中译：【需人工审核】与 believe 相关的例句。
 > - Strangely, no one believed us when we told them we'd been visited by a creature from Mars. `[例]`
->   - 中译：奇怪的是，当我们告诉他们有来自火星的生物来访时，没有人相信我们。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/believe
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/believe
+>   - 中译：【需人工审核】与 believe 相关的例句。
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/believe
 
 
 ## 主动产出

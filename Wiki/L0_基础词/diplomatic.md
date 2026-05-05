@@ -127,6 +127,8 @@ dipl(o)-(双/折叠) + mat(人/做) + -ic(形容词后缀，…的)
 
 > [!example]- 语料
 > - Ask him nicely - be diplomatic. `[例]`
+>   - 中译：【需人工审核】diplomatic 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/diplomatic
   - 中译：好好跟他说——要讲究策略。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/diplomatic；
 > - He began the diplomatic discussions that resulted in the establishment of NATO. `[例]`

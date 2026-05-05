@@ -135,6 +135,8 @@ review_count: 0
 
 > [!example]- 语料
 > - One litre is equal to 1.76 imperial pints. `[例]`
+>   - 中译：【需人工审核】equal 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/equal
   - 中译：一升等于1.76英制品脱。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/equal；
 > - One box may look bigger than the other, but in fact they are roughly (= almost ) equal in volume. `[例]`

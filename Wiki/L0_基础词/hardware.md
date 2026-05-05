@@ -136,6 +136,8 @@ review_count: 0
 
 > [!example]- 语料
 > - The tournament was a chance to add another piece of shiny hardware to her vast collection. `[例]`
+>   - 中译：【需人工审核】hardware 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hardware
   - 中译：这次锦标赛是她为庞大的收藏再添一件闪亮奖杯的机会。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hardware；
 > - The team went home from the competition with less hardware this year. `[例]`

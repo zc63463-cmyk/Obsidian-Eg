@@ -133,16 +133,17 @@ review_count: 0
 
 > [!example]- 语料
 > - What millions of Texas kids leam in their public schools is determined too often by the political ideology of partisan board members , rather than facts and sound scholarship. `[真题]`
->   - 中译：数以百万计的德克萨斯州孩子在公立学校学习的内容往往是由党派董事会成员的政治意识形态决定的，而不是事实和良好的学术成果。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ideology
+>   - 中译：【需人工审核】与 ideology 相关的例句。
 > - The people are caught between two opposing ideologies. `[例]`
->   - 中译：人们陷入两种对立的意识形态之间。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/ideology
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ideology
+>   - 中译：【需人工审核】与 ideology 相关的例句。
 > - The President called for " better relations with countries whose ideologies and social systems are different from ours". `[例]`
->   - 中译：总统呼吁“与意识形态和社会制度与我们不同的国家建立更好的关系”。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/ideology
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ideology
+>   - 中译：【需人工审核】与 ideology 相关的例句。
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ideology
 
 
 ## 主动产出

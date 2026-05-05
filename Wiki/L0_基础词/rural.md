@@ -123,6 +123,8 @@ rur-（乡村，拉丁语 *rus*，属格 *ruris*，"开阔的土地、田野"）
 
 > [!example]- 语料
 > - The rural-urban divide in access to education remains a significant challenge. `[真题]`
+>   - 中译：【需人工审核】rural 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rural
   - 中译：城乡之间在教育机会方面的差距仍然是一个重大挑战。
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rural
 > - She's carrying out a comparative study of health in inner cities and rural areas. `[真题]`

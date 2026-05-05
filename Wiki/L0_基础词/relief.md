@@ -132,6 +132,8 @@ re-(=back，回) + [[lev|lief/lieve]](轻，拉丁语 *levare*，举起/减轻)
 
 > [!example]- 语料
 > - To the anxious travelers the sight of the American shore brought almost inexpressible relief. `[真题]`
+>   - 中译：【需人工审核】relief 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/relief
   - 中译：对于焦虑的旅客来说，看到美国海岸带来了几乎无法言表的宽慰。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/relief；
 > - Some have breathed sighs of relief, others, including churches, right-to-life groups and the Australian Medical Association, bitterly attacked the bill. `[真题]`

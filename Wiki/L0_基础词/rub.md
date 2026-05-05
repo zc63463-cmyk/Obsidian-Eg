@@ -127,6 +127,8 @@ rub（摩擦，原始日耳曼语词根）
 
 > [!example]- 语料
 > - As a reporter he gets to rub shoulders with all the big names in politics and the media. `[真题]`
+>   - 中译：【需人工审核】rub 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rub
   - 中译：作为一名记者，他有机会与政界和媒体界的所有大人物交往。
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rub
 > - He blinked and rubbed his tired eyes before continuing to read the report. `[真题]`

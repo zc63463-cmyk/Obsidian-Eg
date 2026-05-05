@@ -126,6 +126,8 @@ review_count: 0
 
 > [!example]- 语料
 > - They briskly exchanged greetings before starting the session. `[例]`
+>   - 中译：【需人工审核】greeting 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/greeting
   - 中译：他们在开始会议之前简短地互致问候。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/greeting；
 > - He nodded his head in greeting. `[例]`

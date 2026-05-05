@@ -125,6 +125,8 @@ software 是一个复合词，由 **soft**（软的）+ **ware**（货物、商�
 
 > [!example]- 语料
 > - He's written a piece of software that does your taxes for you. `[例]`
+>   - 中译：【需人工审核】software 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/software
   - 中译：他编写了一个可以帮你报税的软件。；
   - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/software；
 > - The help desk helps customers install and run software. `[例]`

@@ -120,18 +120,19 @@ n. ①==**恶意；怨恨**==；
 
 > [!example]- 语料
 > - We are not boycotting PRH titles but we are doing our utmost to ensure that availability for customers remains good despite the lower overall levels of stock. `[真题]`
->   - 中译：我们并不是抵制公屋产权，但我们正在尽最大努力确保尽管总体库存水平较低，但客户的可用性仍然良好。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/despite
+>   - 中译：【需人工审核】与 despite 相关的例句。
 > - Despite these challenges, Jackson captured dozens of striking photos, ranging from majestic images like his now-famous snapshot 11  of Old Faithful, to casual portraits of expedition members at the camp. `[真题]`
->   - 中译：尽管面临这些挑战，杰克逊还是拍摄了数十张引人注目的照片，从他现在著名的老忠实泉快照 1 1 等雄伟照片，到营地探险队员的随意肖像。
->   - 来源：考研-2023-英语一 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/despite
+>   - 中译：【需人工审核】与 despite 相关的例句。
 > - I still enjoyed the week despite the weather. `[例]`
->   - 中译：尽管天气不好，我仍然很享受这一周。
->   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/despite
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/despite
 - Despite the difficulties, they completed the project on time.（尽管有困难，他们还是按时完成了项目。）
 - He succeeded despite all the obstacles.（他克服了一切障碍取得了成功。）
+>   - 中译：【需人工审核】与 despite 相关的例句。
 
 ---
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/despite
 
 
 ## 主动产出

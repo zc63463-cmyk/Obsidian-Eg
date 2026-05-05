@@ -128,6 +128,8 @@ review_count: 0
 
 > [!example]- 语料
 > - The researchers collected blood samples from 500 participants to test for the virus. `[真题]`
+>   - 中译：【需人工审核】sample 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sample
   - 中译：研究人员从500名参与者身上采集了血样以检测病毒。
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sample
 > - The survey was based on a representative sample of the population. `[真题]`

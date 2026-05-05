@@ -124,6 +124,8 @@ review_count: 0
 
 > [!example]- 语料
 > - He greeted me at the door. `[例]`
+>   - 中译：【需人工审核】greet 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/greet
   - 中译：他在门口迎接我。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/greet；
 > - The teacher greeted each child with a friendly "Hello! `[例]`

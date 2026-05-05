@@ -138,6 +138,8 @@ handle 是 [[hand]] 的动词形式，源自古英语 *handlian*。后缀 -le �
 
 > [!example]- 语料
 > - I can't pick the kettle up - the handle's too hot. `[例]`
+>   - 中译：【需人工审核】handle 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/handle
   - 中译：我拿不起这个水壶——把手太烫了。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/handle；
 > - She turned the handle and slowly opened the door. `[例]`

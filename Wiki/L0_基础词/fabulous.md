@@ -131,6 +131,8 @@ review_count: 0
 
 > [!example]- 语料
 > - She looked absolutely fabulous in her dress. `[例]`
+>   - 中译：【需人工审核】fabulous 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fabulous
   - 中译：她穿那条裙子看起来美极了。；
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fabulous；
 > - They've got a fabulous apartment in the centre of Paris. `[例]`

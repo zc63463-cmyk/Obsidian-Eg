@@ -128,6 +128,8 @@ review_count: 0
 
 > [!example]- 语料
 > - His murder triggered vicious race riots across the city. `[真题]`
+>   - 中译：【需人工审核】riot 的例句。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/riot
   - 中译：他的遇害引发了全市范围内恶性的种族暴乱。
   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/riot
 > - All the cacti were in flower, so that the desert was a riot of colour. `[真题]`
