@@ -128,8 +128,14 @@ exter-(=exterus, 在外面的) + -nal(形容词后缀，"属于……的")
 
 > [!example]- 语料
 > - The researchers proposed a external solution to the problem. `[真题]`
+>   - 中译：研究人员提出了一个解决该问题的外部方案。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/external
 > - The external walls of the house. `[例]`
+>   - 中译：房子的外墙。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/external
 > - Female kangaroos carry their young in pouches that are external to their bodies. `[例]`
+>   - 中译：雌袋鼠将幼崽携带在体外育儿袋中。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/external
 
 
 ---

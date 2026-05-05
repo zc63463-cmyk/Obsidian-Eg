@@ -132,8 +132,14 @@ jet 有两个不同来源：
 
 > [!example]- 语料
 > - The invention of the jet engine transformed modern air travel. `[真题]`
+>   - 中译：喷气式发动机的发明改变了现代航空旅行。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/jet
 > - Business executives often suffer from jet lag when traveling across time zones. `[真题]`
+>   - 中译：商务高管在跨越时区旅行时经常遭受时差之苦。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/jet
 > - They jetted off to Paris for a two-week holiday. `[真题]`
+>   - 中译：他们乘飞机飞往巴黎度两周假。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/jet
 
 
 ---

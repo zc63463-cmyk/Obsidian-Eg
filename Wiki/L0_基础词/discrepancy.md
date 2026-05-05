@@ -122,8 +122,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The report highlighted a notable discrepancy between the projected sales figures and the actual results. `[真题]`
+>   - 中译：报告突出显示了预计销售额与实际业绩之间存在显著差异。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/discrepancy
 > - There is some discrepancy between the two accounts. `[例]`
+>   - 中译：两份账目之间存在一些出入。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/discrepancy
 > - The committee is reportedly unhappy about the discrepancy in numbers. `[例]`
+>   - 中译：据报道，委员会对数据上的出入感到不满。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/discrepancy
 
 
 ---

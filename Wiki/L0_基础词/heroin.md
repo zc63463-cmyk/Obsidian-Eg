@@ -129,8 +129,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Heroin is obtained from morphine and is extremely addictive. `[例]`
+>   - 中译：海洛因由吗啡提炼而成，极易上瘾。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/heroin
 > - The girls were duped by drug smugglers into carrying heroin for them. `[例]`
+>   - 中译：这些女孩被毒贩欺骗，替他们携带海洛因。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/heroin
 > - He was arrested at the airport with a kilo of heroin secreted in his clothing. `[例]`
+>   - 中译：他在机场被捕时，衣服里藏着一公斤海洛因。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/heroin
 
 
 ---

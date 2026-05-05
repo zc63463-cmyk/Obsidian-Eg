@@ -131,8 +131,14 @@ garbage 为基础词汇，词源不明。可能来自盎格鲁法语，与厨房
 
 > [!example]- 语料
 > - The garbage collection system in this city needs urgent reform. `[例]`
+>   - 中译：这座城市的垃圾收集系统急需改革。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/garbage
 > - In the age of information overload, much of what we consume online is garbage. `[例]`
+>   - 中译：在信息过载的时代，我们在网上消费的很多内容都是垃圾。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/garbage
 > - As the old saying goes, garbage in, garbage out. `[例]`
+>   - 中译：俗话说，垃圾进，垃圾出。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/garbage
 
 
 ---

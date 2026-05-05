@@ -131,8 +131,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The first edition of Darwin's On the Origin of Species was published in 1859 and sold out on the very first day. `[例]`
+>   - 中译：达尔文《物种起源》第一版于1859年出版，第一天就售罄了。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/edition
 > - A special edition will be issued to tie in with the film's release. `[例]`
+>   - 中译：为配合电影上映，将发行一个特别版。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/edition
 > - Most of her books remain in print and a new edition of her poetry was published last year. `[例]`
+>   - 中译：她的大部分著作仍在印刷中，去年还出版了她诗集的新版本。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/edition
 
 
 ---

@@ -126,8 +126,14 @@ jaw 源自14世纪末中古英语 *jowe*、*joue*，可能来自古法语 *joue*
 
 > [!example]- 语料
 > - The film features jaw-dropping visual effects that leave audiences in awe. `[真题]`
+>   - 中译：这部电影以令人惊叹的视觉效果令观众叹为观止。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/jaw
 > - He set his jaw and walked into the negotiation room with determination. `[真题]`
+>   - 中译：他咬紧牙关，坚定地走进谈判室。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/jaw
 > - She was always jawing at her children about their manners. `[真题]`
+>   - 中译：她总是唠叨孩子们要注意礼貌。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/jaw
 
 
 ---

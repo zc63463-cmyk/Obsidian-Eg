@@ -126,8 +126,14 @@ fount(=fons, 泉水，拉丁语 fons/fontis 泉水) + -ain(名词后缀)
 
 > [!example]- 语料
 > - There was a picture of the Trevi fountain on the front of the book. `[例]`
+>   - 中译：书的封面上有一张特莱维喷泉的照片。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fountain
 > - They also sell garden ornaments such as statues and fountains. `[例]`
+>   - 中译：他们还出售花园装饰品，如雕像和喷泉。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fountain
 > - The stories said that water from this fountain was good for people. `[例]`
+>   - 中译：传说这口泉水对人有好处。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fountain
 
 
 ---

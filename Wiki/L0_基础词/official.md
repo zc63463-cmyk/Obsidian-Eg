@@ -133,7 +133,11 @@ review_count: 0
 
 > [!example]- 语料
 > - Branch points out that, even if a growing number of official guidelines and textbooks reflect scientific consensus on climate change , unofficial educational materials that convey mo:re slanted perspectives are being distributed to teachers. `[真题]`
+>   - 中译：布兰奇指出，即使越来越多的官方指南和教科书反映了关于气候变化的科学共识，但传达更多带有倾向性观点的非官方教育材料正在被分发给教师。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/official
 > - He visited China in his official capacity as America's trade representative. `[例]`
+>   - 中译：他以美国贸易代表的官方身份访问了中国。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/official
 
 
 ---

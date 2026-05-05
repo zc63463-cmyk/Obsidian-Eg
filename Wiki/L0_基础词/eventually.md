@@ -122,8 +122,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Although she had been ill for a long time , it still came as a shock when she eventually died. `[例]`
+>   - 中译：虽然她病了很久，但当她最终去世时，仍然令人震惊。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/eventually
 > - It might take him ages but he'll do it eventually. `[例]`
+>   - 中译：这可能要花他很长时间，但他最终会完成的。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/eventually
 > - I found it hard to follow what the teacher was saying, and eventually I lost concentration. `[例]`
+>   - 中译：我觉得很难跟上老师说的话，最终我失去了注意力。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/eventually
 
 
 ---

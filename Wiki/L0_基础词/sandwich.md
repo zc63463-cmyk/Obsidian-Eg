@@ -123,9 +123,17 @@ review_count: 0
 
 > [!example]- 语料
 > - The small country is sandwiched between two powerful neighbors. `[真题]`
+>   - 中译：这个小国夹在两个强大的邻国之间。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sandwich
 > - She grabbed a quick sandwich for lunch before heading back to the office. `[真题]`
+>   - 中译：她在回办公室之前匆匆吃了个三明治当午饭。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sandwich
 > - I was sandwiched between two big men who joked over my head. `[例]`
+>   - 中译：我被夹在两个大块头中间，他们在我头顶上说笑。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sandwich
 > - She lived in a skinny Victorian house sandwiched between two brownstones in Cambridge. `[例]`
+>   - 中译：她住在剑桥一栋夹在两座褐砂石建筑之间的狭长维多利亚式房屋里。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sandwich
 
 
 ---

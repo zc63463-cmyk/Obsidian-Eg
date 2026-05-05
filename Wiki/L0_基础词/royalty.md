@@ -126,8 +126,14 @@ roy-(=reg-/rex-, 国王) + -al(形容词后缀) + -ty(名词后缀，表状态/�
 
 > [!example]- 语料
 > - The writer gets a 10% royalty on each copy of his book sold. `[真题]`
+>   - 中译：作者从其售出的每本书中获得10%的版税。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/royalty
 > - She believes she's related to royalty. `[例]`
+>   - 中译：她相信自己与王室有亲属关系。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/royalty
 > - Her father is descended from Greek royalty. `[例]`
+>   - 中译：她的父亲是希腊王室的后裔。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/royalty
 
 
 ---

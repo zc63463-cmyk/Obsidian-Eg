@@ -130,8 +130,14 @@ sail（帆，航行）+ -or（表示"人"的后缀，拉丁语 *-ator*）
 
 > [!example]- 语料
 > - The old sailor told us stories of his adventures at sea. `[例]`
+>   - 中译：老水手给我们讲述了他海上的冒险故事。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sailor
 > - She met her husband when he was working as a sailor on a cargo ship. `[例]`
+>   - 中译：她在丈夫当货船水手时认识了他。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sailor
 > - He sailed the Pacific all alone, like the bravest sailor in history. `[例]`
+>   - 中译：他独自一人横渡太平洋，就像历史上最勇敢的水手一样。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sailor
 
 
 ---

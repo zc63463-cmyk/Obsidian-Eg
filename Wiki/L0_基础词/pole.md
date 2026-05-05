@@ -128,8 +128,14 @@ review_count: 0
 
 > [!example]- 语料
 > - A flag fluttered from a 40-foot pole. `[例]`
+>   - 中译：一面旗帜在一根40英尺高的旗杆上飘扬。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pole
 > - On uphill stretches , adjustable walking poles can transfer some of your weight to the upper body. `[例]`
+>   - 中译：在上坡路段，可调节的登山杖可以将部分体重转移到上半身。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pole
 > - A hiking pole helps you to keep your balance on uneven terrain. `[例]`
+>   - 中译：登山杖有助于在不平坦的地形上保持平衡。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pole
 
 
 ---

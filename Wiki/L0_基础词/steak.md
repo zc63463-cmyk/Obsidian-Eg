@@ -122,8 +122,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Shall we have steak for dinner? `[例]`
+>   - 中译：晚饭吃牛排好吗？
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/steak
 > - The mains include hearty cauliflower steaks with roasted red peppers and salsa. `[例]`
+>   - 中译：主菜包括丰盛的花菜排，配以烤红甜椒和萨尔萨酱。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/steak
 > - Mushroom steaks make a fitting part of a winter vegetarian feast. `[例]`
+>   - 中译：蘑菇排是冬季素食盛宴中恰当的一道菜。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/steak
 
 
 ---

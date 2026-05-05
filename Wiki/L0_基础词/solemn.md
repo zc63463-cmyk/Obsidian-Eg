@@ -130,8 +130,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Everyone looked very solemn. `[例]`
+>   - 中译：每个人看起来都非常严肃。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/solemn
 > - I'd made a solemn promise and I was determined to keep it. `[例]`
+>   - 中译：我做出了郑重的承诺，并且决心履行它。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/solemn
 > - He looked stern and solemn, and rarely spoke. `[例]`
+>   - 中译：他看起来严厉而庄重，很少说话。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/solemn
 
 
 ---
