@@ -132,8 +132,14 @@ review_count: 0
 
 > [!example]- 语料
 > - He said he had made the offer as a gesture of goodwill. `[真题]`
+>   - 中译：他说他提出这个提议是作为一种善意的表示。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/gesture；
 > - The President's speech was hailed as a conciliatory gesture toward business. `[真题]`
+>   - 中译：总统的演讲被誉为对商界的和解姿态。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/gesture；
 > - I invited them to dinner, a gesture of goodwill. `[真题]`
+>   - 中译：我邀请他们共进晚餐，以示善意。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/gesture；
 
 
 ---

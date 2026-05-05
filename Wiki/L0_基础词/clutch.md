@@ -53,7 +53,7 @@ review_count: 0
 >    - → **控制，权力**：紧握的抽象化
 >      - - 激活条件：in somebody's clutch, escape the clutches of
 
-### 统筹
+### 统筹（选择适用的模式）
 
 - **一字一词概括**：clutch 就是"攥"——攥住手、攥住机会、攥住权力
 - **一句话统筹**：clutch 就是从手指紧握到抽象控制的"抓"

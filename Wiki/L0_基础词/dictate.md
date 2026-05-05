@@ -130,8 +130,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The UN will dictate the terms of troop withdrawal from the region. `[例]`
+  - 中译：联合国将规定从该地区撤军的条件。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/dictate；
 > - He disagrees with the government dictating what children are taught in schools. `[例]`
+  - 中译：他反对政府规定学校教孩子什么。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/dictate；
 > - The rules dictate that only running shoes must be worn on the track. `[例]`
+  - 中译：规则规定在跑道上只能穿跑步鞋。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/dictate；
 
 
 ---

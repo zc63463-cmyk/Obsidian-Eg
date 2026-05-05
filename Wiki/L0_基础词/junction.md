@@ -129,8 +129,14 @@ review_count: 0
 
 > [!example]- 语料
 > - He knew how the traffic congested at the junction of Seventh Avenue and Forty-second Street. `[真题]`
+>   - 中译：他知道第七大道和第四十二街交叉口的交通有多拥堵。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/junction；
 > - This junction is a well-known accident black spot. `[例]`
+>   - 中译：这个交叉路口是众所周知的交通事故多发地段。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/junction；
 > - They followed the river to its junction with the Ohio River. `[例]`
+>   - 中译：他们沿着河流走到它与俄亥俄河的交汇处。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/junction；
 
 
 ---

@@ -125,8 +125,14 @@ review_count: 0
 
 > [!example]- 语料
 > - I told him to leave , and he obeyed. `[例]`
+>   - 中译：我叫他离开，他照做了。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/obey；
 > - The soldiers refused to obey orders. `[例]`
+>   - 中译：士兵们拒绝服从命令。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/obey；
 > - Cyclists, just like anyone else , must obey the rules of the road. `[例]`
+>   - 中译：骑自行车的人和其他所有人一样，必须遵守交通规则。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/obey；
 
 
 ---

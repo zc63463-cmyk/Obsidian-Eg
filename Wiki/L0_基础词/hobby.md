@@ -53,7 +53,7 @@ hobby（源自中古英语 *hobyn* "小马"，是 Robert（Hob）的爱称 + 小
 >    - → **反复唠叨的话题**：像骑木马一样反复来回（贬义）
 >      - 激活条件：ride one's hobbyhorse（反复讲自己喜欢的话题）
 
-### 统筹
+### 统筹（选择适用的模式）
 
 - **一字一词概括**：hobby 就是"消遣小马"——骑着它放松叫"爱好"，反复骑它叫"唠叨"
 - **延伸中心**：从"骑小马消遣"延伸到"业余爱好"
@@ -126,8 +126,14 @@ hobby（源自中古英语 *hobyn* "小马"，是 Robert（Hob）的爱称 + 小
 
 > [!example]- 语料
 > - Angela's hobby is restoring vintage motorcycles. `[例]`
+  - 中译：安吉拉的爱好是修复古董摩托车。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hobby；
 > - He needs a hobby to keep him busy and stop him from getting into mischief. `[例]`
+  - 中译：他需要一个爱好来让自己忙碌起来，免得惹是生非。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hobby；
 > - The students sidetracked their teacher into talking about her hobby. `[例]`
+  - 中译：学生们把老师的话题岔到了她的爱好上。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hobby；
 
 
 ---

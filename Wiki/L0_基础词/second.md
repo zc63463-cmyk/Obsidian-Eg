@@ -140,8 +140,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Elliott crossed the finish line just half a second behind his adversary. `[真题]`
+  - 中译：埃利奥特在对手之后仅半秒冲过终点线。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/second
 > - All this, needless to say, had been culled second-hand from radio reports. `[真题]`
+  - 中译：毋庸置疑，所有这些都是从广播报道中间接获取的。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/second
 > - On second thought, I think we should postpone the meeting until next week. `[真题]`
+  - 中译：仔细想想，我觉得我们应该把会议推迟到下周。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/second
 
 
 ---

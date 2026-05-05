@@ -137,8 +137,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The marine ecosystem is vital for maintaining the balance of our planet's environment. `[真题]`
+> -   - 中译：海洋生态系统对于维持地球环境的平衡至关重要；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/marine；
 > - The company adopted a marine approach to improve efficiency. `[真题]`
+> -   - 中译：该公司采用了一种系统化的方法来提高效率；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/marine；
 > - Coral reefs, built by tiny coral polyps, form complex ecosystems that harbor a staggering diversity of marine life. `[真题]`
+> -   - 中译：由微小珊瑚虫建造的珊瑚礁形成了复杂的生态系统，栖息着令人惊叹的海洋生物多样性；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/marine；
 
 
 ---

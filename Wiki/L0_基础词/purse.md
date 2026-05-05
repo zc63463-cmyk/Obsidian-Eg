@@ -128,8 +128,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Having a lot of people out of work places a large drain on the public purse. `[例]`
+>   - 中译：大量人员失业给公共财政造成了巨大负担。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/purse；
 > - I don't approve of that kind of language ," she said, pursing her lips. `[例]`
+>   - 中译："我不赞成那种措辞，"她抿着嘴唇说。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/purse；
 > - She tipped the contents of her purse out onto the table. `[例]`
+>   - 中译：她把钱包里的东西倒在了桌子上。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/purse；
 
 
 ---

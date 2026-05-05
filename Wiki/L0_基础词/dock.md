@@ -131,8 +131,14 @@ dock 源自古英语 *docce*（一种植物），后引申为"水边凹陷处"�
 
 > [!example]- 语料
 > - The company docked his pay for being late. `[真题]`
+>   - 中译：公司因他迟到扣了他的工资。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/dock；
 > - The defendant stood in the dock, facing the jury. `[真题]`
+>   - 中译：被告站在被告席上，面对陪审团。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/dock；
 > - The ship docked at the harbor early this morning. `[真题]`
+>   - 中译：船今天清晨停靠在港口。；
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/dock；
 
 
 ---

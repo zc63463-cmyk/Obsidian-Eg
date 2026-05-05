@@ -125,8 +125,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Vegetable prices fluctuate according to the season. `[例]`
+>   - 中译：蔬菜价格随季节波动。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fluctuate；
 > - Her wages fluctuate between £150 and £200 a week. `[例]`
+>   - 中译：她的周薪在150到200英镑之间波动。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fluctuate；
 > - Her weight fluctuates wildly. `[例]`
+>   - 中译：她的体重波动很大。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fluctuate；
 
 
 ---

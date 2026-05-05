@@ -126,9 +126,17 @@ review_count: 0
 
 > [!example]- 语料
 > - I was never really happy there, although the people were kindness itself. `[例]`
+>   - 中译：我在那里从未真正快乐过，尽管那里的人非常善良。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/kindness；
 > - Even in jail, my fellow inmates treated me with kindness. `[例]`
+>   - 中译：即使在监狱里，我的狱友们也以善意对待我。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/kindness；
 > - But they were not necessarily treated with kindness or respect—force was often used to impose man's will. `[例]`
+>   - 中译：但他们并不一定受到善意或尊重的对待——人们经常使用武力来强加自己的意志。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/kindness；
 > - He loves horses and animals, and insists that they be treated with kindness and gentleness. `[例]`
+>   - 中译：他热爱马和其他动物，坚持要求以善良和温柔对待它们。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/kindness；
 
 
 ---

@@ -117,8 +117,14 @@ fortnight 源自古英语 *fēowertyne niht*（十四夜），*fēowertyne*（�
 
 > [!example]- 语料
 > - How much would it cost to hire a car for a fortnight? `[例]`
+>   - 中译：租一辆车两周要多少钱？；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fortnight；
 > - She felt rejuvenated by her fortnight in the Bahamas. `[例]`
+>   - 中译：在巴哈马度过的两周让她感觉焕然一新。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fortnight；
 > - First prize is a fortnight in Barbados and second prize is a weekend in Rome. `[例]`
+>   - 中译：一等奖是巴巴多斯两周游，二等奖是罗马周末游。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fortnight；
 
 
 ---

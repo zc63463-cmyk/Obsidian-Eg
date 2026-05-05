@@ -131,8 +131,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The majority of readers found his poetry difficult , even opaque. `[例]`
+>   - 中译：大多数读者觉得他的诗歌晦涩难懂。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/opaque；
 > - Governments have been able to maintain opaque and discriminatory procurement practices. `[例]`
+>   - 中译：各国政府一直能够维持不透明和歧视性的采购做法。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/opaque；
 > - Accounting firms have been notoriously opaque about their finances in the past. `[例]`
+>   - 中译：过去，会计师事务所的财务状况一直以不透明而臭名昭著。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/opaque；
 
 
 ---

@@ -119,9 +119,17 @@ review_count: 0
 
 > [!example]- 语料
 > - The university hosted an international symposium on climate change. `[真题]`
+>   - 中译：这所大学主办了一场关于气候变化的国际研讨会。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/symposium；
 > - She presented her research findings at the annual symposium. `[真题]`
+>   - 中译：她在年度研讨会上展示了她的研究成果。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/symposium；
 > - Speakers at today's symposium had different views about the impact of modern information technology. `[例]`
+>   - 中译：今天研讨会的演讲者对现代信息技术的影响有不同的看法。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/symposium；
 > - Last week I attended a symposium where there were 150 participants, and only two of them were women. `[例]`
+>   - 中译：上周我参加了一个研讨会，有150名参与者，其中只有两名女性。；
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/symposium；
 
 
 ---

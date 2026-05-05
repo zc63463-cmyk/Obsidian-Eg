@@ -129,9 +129,14 @@ review_count: 0
 
 > [!example]- 语料
 > - She broke her leg a month ago and it's still in plaster. `[例]`
+  - 中译：她一个月前摔断了腿，现在还打着石膏。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/plaster；
 > - The torrential rain had plastered her hair to her head. `[例]`
+  - 中译：倾盆大雨把她的头发贴在了头上。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/plaster；
 > - The plaster on the walls was cracked and flaking. `[例]`
-
+  - 中译：墙上的灰泥已经开裂剥落。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/plaster；
 
 ---
 

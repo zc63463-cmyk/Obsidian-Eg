@@ -127,8 +127,14 @@ fright(整体词，源自古英语 *fryhto*，与 [[frighten]] 同源)
 
 > [!example]- 语料
 > - I lay in bed shaking with fright. `[例]`
+>   - 中译：我躺在床上，吓得浑身发抖。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fright；
 > - You gave her such a fright turning the lights out like that. `[例]`
+>   - 中译：你那样关灯吓了她一大跳。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fright；
 > - You gave me the fright of my life (= a very severe fright) , jumping out of the shadows! `[例]`
+>   - 中译：你从暗处跳出来，把我吓了个半死！；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fright；
 
 
 ---

@@ -132,8 +132,14 @@ terr-（恐惧，拉丁语 *terrere*，使害怕）+ -ible（可被……的）
 
 > [!example]- 语料
 > - This project is a terrible waste of money. `[真题]`
+>   - 中译：这个项目是对金钱的严重浪费。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/terrible；
 > - I had a terrible headache, but even so I went to the concert. `[真题]`
+>   - 中译：我头痛得厉害，但即便如此我还是去听了音乐会。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/terrible；
 > - Traffic was held up by a terrible accident. `[真题]`
+>   - 中译：一起严重的事故导致了交通堵塞。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/terrible；
 
 
 ---

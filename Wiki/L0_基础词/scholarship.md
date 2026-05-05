@@ -130,8 +130,14 @@ schol-（=school，源自希腊语 *skholē* 闲暇/学校）+ -ar（名词后�
 
 > [!example]- 语料
 > - She was awarded a full scholarship to study at Oxford University. `[真题]`
+  - 中译：她获得了在牛津大学学习的全额奖学金。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/scholarship
 > - Her scholarship awards helped her complete her college education. `[例]`
+  - 中译：她的奖学金帮助她完成了大学教育。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/scholarship
 > - His latest book demonstrates the depth of his scholarship and his mastery of the subject. `[真题]`
+  - 中译：他的最新著作展示了他深厚的学术功底和对该学科的精通。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/scholarship
 
 
 ---

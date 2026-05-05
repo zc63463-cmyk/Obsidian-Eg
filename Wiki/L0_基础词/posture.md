@@ -132,8 +132,14 @@ review_count: 0
 
 > [!example]- 语料
 > - For the third time this week the opposition has attacked the government's posture on defence. `[例]`
+>   - 中译：本周反对派已经是第三次攻击政府在国防问题上的立场了。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/posture；
 > - The tone of the feminist speakers suggested they were adopting a somewhat defensive posture. `[例]`
+>   - 中译：女权主义演讲者的语气表明他们正在采取某种防御性立场。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/posture；
 > - Businesses were co-operating across regional divides while the politicians postured. `[例]`
+>   - 中译：企业在跨区域合作，而政客们却在摆姿态。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/posture；
 
 
 ---

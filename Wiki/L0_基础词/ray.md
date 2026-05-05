@@ -132,8 +132,14 @@ review_count: 0
 
 > [!example]- 语料
 > - It gives a ray of hope to the unemployed. `[真题]`
+>   - 中译：这给失业者带来了一线希望。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ray；
 > - The room was small and dark, without so much as a ray of light to brighten the gloom. `[真题]`
+>   - 中译：房间又小又暗，连一丝光亮都没有来驱散阴暗。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ray；
 > - The one ray of sunlight in this depressing history is her meeting and falling in love with Martin. `[真题]`
+>   - 中译：在这段令人沮丧的历史中，唯一的一缕阳光是她遇见并爱上了马丁。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ray；
 
 
 ---

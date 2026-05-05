@@ -52,7 +52,7 @@ review_count: 0
 >    - → **腐败的，不道德的**：道德/制度的"腐烂"
 >      - 激活条件：a rotten system, rotten to the core
 
-### 统筹
+### 统筹（选择适用的模式）
 
 - **一字一词概括**：rotten 就是"烂了"——食物烂了、心情烂了、制度烂了
 - **结构隐喻**：物质腐烂→体验糟糕→道德腐败
@@ -126,8 +126,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The system is rotten to the core and needs fundamental reform. `[真题]`
+  - 中译：这个制度已经腐败透顶，需要根本性的改革。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rotten
 > - There were some cheap oranges in the market but most of them were rotten. `[真题]`
+  - 中译：市场上有一些便宜的橙子，但大多数都烂了。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rotten
 > - Politics is broken, the system rotten to the core. `[真题]`
+  - 中译：政治已经崩坏，体制腐败透顶。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rotten
 
 
 ---

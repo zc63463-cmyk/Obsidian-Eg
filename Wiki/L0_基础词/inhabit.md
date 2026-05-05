@@ -133,7 +133,11 @@ in-(在……中，使) + [[hab]](居住，拥有，源自拉丁语 *habitare*�
 
 > [!example]- 语料
 > - Even American newspapers, which inhabit the most troubled corner of the global industry, have not only survived but often returned to profit. `[真题]`
+  - 中译：即使是身处全球行业最困难角落的美国报纸，不仅生存了下来，而且往往恢复了盈利。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/inhabit；
 > - Everybody wants to know how the people who will soon inhabit those empty office cubicles will differ from those who came before them. `[真题]`
+  - 中译：每个人都想知道即将入住那些空办公隔间的人与他们的前任会有什么不同。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/inhabit；
 > - The valley is inhabited by the Dani tribe. `[COCA-ACAD]`
 > - The beautifully coloured fish that inhabit the Egyptian reefs attract divers from around the world. `[COCA-NEWS]`
 

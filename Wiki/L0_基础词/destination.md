@@ -50,7 +50,7 @@ review_count: 0
 >    - → **目标，目的**：抽象的终点
 >      - 激活条件：the ultimate destination of one's career
 
-### 统筹
+### 统筹（选择适用的模式）
 
 - **一字一词概括**：destination 就是"终点"——旅行的终点，人生的终点
 - **一句话统筹**：destination = de（完全）+ stin（固定）= 被完全确定要到达的地方
@@ -125,8 +125,14 @@ review_count: 0
 
 > [!example]- 语料
 > - We arrived at our destination tired and hungry. `[例]`
+  - 中译：我们在日落时分到达了目的地。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/destination；
 > - His letter never reached its destination. `[例]`
+  - 中译：这个岛屿是一个热门的旅游目的地。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/destination；
 > - The Caribbean is a popular holiday destination. `[例]`
+  - 中译：这趟航班的最终目的地是东京。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/destination；
 
 
 ---

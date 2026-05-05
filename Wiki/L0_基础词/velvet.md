@@ -134,9 +134,17 @@ velv(=velvet，天鹅绒，源自拉丁语 *villosus*，"有绒毛的"，与 [[v
 
 > [!example]- 语料
 > - She was clad in blue velvet. `[例]`
+>   - 中译：她身着蓝色天鹅绒。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/velvet；
 > - Velvet as a fabric is not known for its versatility. `[例]`
+>   - 中译：天鹅绒作为一种面料并不以多功能性著称。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/velvet；
 > - Despite the velvet glove language, it would be difficult to find a more direct and straightforward indictment of regional policy. `[例]`
+>   - 中译：尽管措辞温和，但很难找到比这更直接、更坦率的对区域政策的批评。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/velvet；
 > - Czechoslovakia's velvet divorce probably serves as the best example in postwar Europe of a relatively smooth parting of the ways. `[例]`
+>   - 中译：捷克斯洛伐克的和平分手可能是战后欧洲相对顺利分道扬镳的最佳范例。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/velvet；
 
 
 ---

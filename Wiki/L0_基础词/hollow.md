@@ -57,7 +57,7 @@ hollow（源自古英语 *holh* "洞，空处"，日耳曼语系，与 hole "洞
 >    - → **空洞的，虚伪的**：言语/承诺没有实质内容
 >      - 激活条件：hollow promises, hollow victory
 
-### 统筹
+### 统筹（选择适用的模式）
 
 - **一字一词概括**：hollow 就是"中间空的"——树空叫"中空"，话空叫"空洞"，胜利空叫"空洞的胜利"
 - **延伸中心**：从"物理上的中空"延伸到"情感/言语上的空洞"
@@ -135,8 +135,14 @@ hollow（源自古英语 *holh* "洞，空处"，日耳曼语系，与 hole "洞
 
 > [!example]- 语料
 > - Hollow blocks are used because they are lighter. `[例]`
+  - 中译：使用空心砖是因为它们更轻。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hollow；
 > - He was an elderly man with hollow cheeks. `[例]`
+  - 中译：他是一位双颊凹陷的老人。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hollow；
 > - It was something of a hollow victory - she won the case , but lost all her savings in legal fees. `[例]`
+  - 中译：这算是一场空洞的胜利——她赢了官司，却在律师费上损失了所有积蓄。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hollow；
 
 
 ---

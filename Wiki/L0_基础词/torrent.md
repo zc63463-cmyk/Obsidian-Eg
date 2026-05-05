@@ -123,8 +123,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Heavy storms turned the river into a raging torrent. `[例]`
+>   - 中译：暴风雨使河流变成了汹涌的急流。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/torrent；
 > - Fig. The TV station received torrents of angry letters (= many of them). `[例]`
+>   - 中译：电视台收到了大量愤怒的来信。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/torrent；
 > - We got a torrent of e-mails complaining about the advertisement. `[例]`
+>   - 中译：我们收到了大量投诉该广告的电子邮件。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/torrent；
 
 
 ---

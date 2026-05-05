@@ -126,8 +126,14 @@ no(没有) + thing(东西) → nothing(没有东西)
 
 > [!example]- 语料
 > - There's nothing in the drawer - I took everything out. `[例]`
+>   - 中译：抽屉里什么都没有——我把所有东西都拿出来了。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/nothing；
 > - Nothing I could say would cheer her up. `[例]`
+>   - 中译：我说什么都不能让她高兴起来。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/nothing；
 > - I have nothing new to tell you. `[例]`
+>   - 中译：我没有新消息要告诉你。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/nothing；
 
 
 ---

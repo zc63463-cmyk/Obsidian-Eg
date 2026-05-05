@@ -127,8 +127,14 @@ review_count: 0
 
 > [!example]- 语料
 > - My father was a missionary from a little town in South Africa. `[真题]`
+> - 中译：我的父亲是来自南非一个小镇的传教士。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/missionary；
 > - American Presbyterian missionary efforts in Iran began in 1834 and focused on education. `[真题]`
+> - 中译：美国长老会在伊朗的传教活动始于1834年，以教育为重点。；
+> - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/missionary；
 > - He did missionary work for the Presbyterian Church in Alaska. `[例]`
+> - 中译：他在阿拉斯加为长老会从事传教工作。；
+> - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/missionary；
 
 
 ---

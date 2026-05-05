@@ -129,8 +129,14 @@ the-(=put, place，放置，希腊语 *tithenai*) + -sis(名词后缀，表示�
 
 > [!example]- 语料
 > - His thesis was that World War I could have been avoided. `[例]`
+>   - 中译：他的论点是第一次世界大战本可以避免。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/thesis；
 > - A doctoral thesis (= for a PhD ). `[例]`
+>   - 中译：一篇博士论文。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/thesis；
 > - Their main thesis was that war was inevitable. `[例]`
+>   - 中译：他们的主要论点是战争是不可避免的。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/thesis；
 
 
 ---

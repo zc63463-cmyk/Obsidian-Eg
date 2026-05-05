@@ -131,8 +131,14 @@ simul-(同一，同时，拉丁语 *simul*) + -taneous(属于……时间的，�
 
 > [!example]- 语料
 > - Some hypotheses fail to account for simultaneous extinctions on land and in the seas. `[真题]`
+  - 中译：一些假说无法解释陆地和海洋中同时发生的灭绝事件。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/simultaneous；
 > - With simultaneous interpreting, you start translating almost as soon as the other person starts speaking. `[真题]`
+  - 中译：在同声传译中，你几乎在对方开始说话的同时就开始翻译。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/simultaneous；
 > - The report will be broadcast in Russian with simultaneous English translation. `[例]`
+  - 中译：该报告将以俄语播出，并配有英语同声传译。；
+  - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/simultaneous；
 
 
 ---

@@ -130,8 +130,14 @@ tick（标记，与 [[tick]] 同源）+ -et（小，名词后缀）→ 小标记
 
 > [!example]- 语料
 > - In this election there will definitely be a woman on the Democratic ticket. `[例]`
+>   - 中译：在这次选举中，民主党候选人名单上肯定会有女性。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/ticket；
 > - Only passengers who were ticketed on that particular flight will receive a refund. `[例]`
+>   - 中译：只有购买了该特定航班机票的乘客才能获得退款。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/ticket；
 > - Bush and Cheney won re-election in 2004 against a Democratic ticket of John Kerry and John Edwards. `[例]`
+>   - 中译：布什和切尼在2004年击败由克里和爱德华兹组成的民主党候选人组合成功连任。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/ticket；
 
 
 ---

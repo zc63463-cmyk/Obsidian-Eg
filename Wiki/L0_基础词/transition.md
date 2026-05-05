@@ -129,8 +129,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The health-care system is in transition at the moment. `[例]`
+>   - 中译：目前医疗保健系统正处于转型期。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/transition；
 > - There will be an interim government to oversee the transition to democracy. `[例]`
+>   - 中译：将成立一个过渡政府来监督向民主的过渡。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/transition；
 > - She began her transition from male to female almost seven years ago. `[例]`
+>   - 中译：她大约七年前开始从男性向女性的转变。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/transition；
 
 
 ---

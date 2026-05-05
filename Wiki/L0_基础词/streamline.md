@@ -125,9 +125,17 @@ review_count: 0
 
 > [!example]- 语料
 > - We could ditch the bureaucracy and streamline business to make it more competitive. `[COCA-NEWS]`
+>   - 中译：我们可以摆脱官僚主义，精简业务以提高竞争力。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/streamline；
 > - The government has streamlined the tax system to make it more efficient. `[COCA-ACAD]`
+>   - 中译：政府精简了税收系统以提高效率。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/streamline；
 > - My boss has called in consultants to streamline the company. `[COCA-NEWS]`
+>   - 中译：我的老板请来了顾问来精简公司。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/streamline；
 > - And streamlining production processes could produce huge cost savings. `[COCA-ACAD]`
+>   - 中译：精简生产流程可以节省大量成本。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/streamline；
 
 
 ---

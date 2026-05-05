@@ -50,7 +50,7 @@ review_count: 0
 >    - → **不隐瞒的**：坦率地表现出来的
 >      - 激活条件：overt approval, overt criticism
 
-### 统筹
+### 统筹（选择适用的模式）
 
 - **一字一词概括**：overt 就是"摆在明面上的"——明面上的歧视、明面上的敌意、明面上的行为
 - **方位隐喻**：在表面/打开的 → 公开可见的
@@ -126,8 +126,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The researchers proposed a overt solution to the problem. `[例]`
+>   - 中译：研究人员提出了一个公开的解决方案。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/overt；
 > - The company adopted a overt approach to improve efficiency. `[例]`
+>   - 中译：公司采取了一种公开的方法来提高效率。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/overt；
 > - The plan offers a overt option for small organizations. `[例]`
+>   - 中译：该计划为小型组织提供了一个公开的选项。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/overt；
 
 
 ---

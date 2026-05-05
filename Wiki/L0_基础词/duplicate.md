@@ -134,8 +134,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Scientists tried to duplicate the results of the experiment. `[真题]`
+>   - 中译：科学家们试图复制实验结果。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/duplicate；
 > - I only have one house key, but I'll have a duplicate made for when you visit. `[真题]`
+>   - 中译：我只有一把房门钥匙，但我会配一把备用的，方便你来访时使用。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/duplicate；
 > - The documents had been duplicated. `[例]`
+>   - 中译：文件已被复制。；
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/duplicate；
 
 
 ---

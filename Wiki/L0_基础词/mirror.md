@@ -130,9 +130,17 @@ review_count: 0
 
 > [!example]- 语料
 > - The value creation is mirrored by the difference between the gross policy return and the minimum required return. `[真题]`
+> - 中译：价值创造反映在总保单回报与最低要求回报之间的差额上。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/mirror；
 > - First, there is a dearth of research on this issue, mirroring criminology's broader neglect of the criminality of women. `[真题]`
+> - 中译：首先，关于这个问题的研究非常匮乏，反映了犯罪学对女性犯罪更广泛的忽视。；
+> - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/mirror；
 > - The clouds were mirrored in the lake. `[真题]`
+> - 中译：云朵倒映在湖面上。；
+> - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/mirror；
 > - Her views on politics mirror mine completely. `[真题]`
+> - 中译：她的政治观点与我完全一致。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/mirror；
 
 
 ---

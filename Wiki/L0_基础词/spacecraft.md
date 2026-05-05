@@ -116,8 +116,14 @@ space(太空，[[space]]) + craft(飞行器/工艺)
 
 > [!example]- 语料
 > - An unmanned Chinese spacecraft has returned safely to Earth. `[例]`
+  - 中译：一艘中国无人航天器已安全返回地球。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/spacecraft；
 > - A spacecraft orbiting the earth. `[例]`
+  - 中译：一艘绕地球运行的航天器。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/spacecraft；
 > - The Starlink 17-14 mission will add another 24 broadband internet satellites to the company’s low Earth orbit constellation, which consists of more than 10,200 spacecraft. `[例]`
+  - 中译：星链17-14任务将为该公司的低地球轨道星座再增加24颗宽带互联网卫星，该星座由超过10200个航天器组成。；
+  - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/spacecraft；
 
 
 ---

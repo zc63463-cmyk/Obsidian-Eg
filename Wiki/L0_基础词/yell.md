@@ -126,8 +126,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The frustrated crowd began to **yell** slogans as the speaker failed to address their concerns. `[例]`
+>   - 中译：当演讲者未能回应他们的关切时，沮丧的人群开始高喊口号。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/yell；
 > - Parents who constantly **yell** at their children may inadvertently cause long-term psychological damage. `[例]`
+>   - 中译：经常对孩子大喊大叫的父母可能无意中造成长期的心理伤害。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/yell；
 > - She let out a loud **yell** when she saw the spider crawling across her desk. `[例]`
+>   - 中译：当她看到蜘蛛爬过桌面时，她大声尖叫起来。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/yell；
 
 
 ---

@@ -123,8 +123,14 @@ review_count: 0
 
 > [!example]- 语料
 > - You ought to have told me earlier — I could have helped. `[BNC-SPOKEN]`
+>   - 中译：你应该早点告诉我——我本来可以帮忙的。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ought；
 > - We ought to respect the opinions of others even when we disagree. `[COCA-ACAD]`
+>   - 中译：即使我们不同意，也应该尊重他人的意见。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ought；
 > - He ought to be home by seven o'clock. `[BNC-SPOKEN]`
+>   - 中译：他七点钟之前应该到家。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ought；
 
 
 ---

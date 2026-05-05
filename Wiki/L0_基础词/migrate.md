@@ -130,8 +130,14 @@ migr(移动/迁移，拉丁语 *migrare*) + -ate(动词后缀，使动)
 
 > [!example]- 语料
 > - Many workers migrate from rural areas to cities in search of better job opportunities. `[真题]`
+> - 中译：许多工人从农村迁移到城市寻找更好的就业机会。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/migrate；
 > - In September, these birds migrate 2,000 miles south to a warmer climate. `[真题]`
+> - 中译：九月，这些鸟向南迁徙2000英里，前往气候更温暖的地方。；
+> - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/migrate；
 > - Swallows migrate south in winter. `[真题]`
+> - 中译：燕子在冬天向南迁徙。；
+> - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/migrate；
 
 
 ---

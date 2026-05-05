@@ -126,9 +126,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Millennials face the paradox of being the least formal generation yet the most conscious of style and personal branding. `[真题]`
+  - 中译：千禧一代面临着这样一个悖论：他们是最不正式的一代人，却最注重风格和个人品牌。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/paradox；
 > - The great paradox of our time is that many of us are busy and bored at the same time. `[例]`
+  - 中译：我们这个时代最大的悖论是，我们中的许多人同时既忙碌又无聊。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/paradox；
 > - It is a paradox that such a rich country should have so many poor people living in it. `[例]`
-
+  - 中译：如此富有的国家却生活着如此多的穷人，这真是一个悖论。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/paradox；
 
 ---
 

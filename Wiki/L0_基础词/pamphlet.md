@@ -121,8 +121,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The environmental organization distributed pamphlets to raise public awareness about the dangers of plastic pollution in the ocean. `[真题]`
+>   - 中译：该环保组织分发了小册子，以提高公众对海洋塑料污染危害的认识。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pamphlet；
 > - During the Enlightenment, political pamphlets played a crucial role in spreading revolutionary ideas among the general public. `[真题]`
+>   - 中译：在启蒙运动时期，政治小册子在向公众传播革命思想方面发挥了关键作用。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pamphlet；
 > - The No Conscription League changed its focus from public meetings to disseminating pamphlets after police started disrupting the group's activities. `[真题]`
+>   - 中译：在警察开始干扰该团体的活动后，"反征兵联盟"将重点从公开集会转向散发小册子。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pamphlet；
 
 
 ---

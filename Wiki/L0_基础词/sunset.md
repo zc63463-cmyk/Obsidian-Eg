@@ -51,7 +51,7 @@ sun(太阳) + set(落下/沉没)
 >    - → **结束，衰落**：日落隐喻性的延伸
 >      - 激活条件：sunset industry, the sunset of an era
 
-### 统筹
+### 统筹（选择适用的模式）
 
 - **一字一词概括**：sunset 就是"太阳落下"——日落的时刻、日落般的衰落
 - **方位隐喻**：太阳从上方落下→结束/衰落
@@ -126,8 +126,14 @@ sun(太阳) + set(落下/沉没)
 
 > [!example]- 语料
 > - Many traditional manufacturing industries have become sunset industries in the digital age. `[真题]`
+>   - 中译：在数字时代，许多传统制造业已成为夕阳产业。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sunset；
 > - At those valuations, the market is saying that platinum is a sunset industry. `[真题]`
+>   - 中译：按照这样的估值，市场认为铂金行业是一个夕阳产业。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/sunset；
 > - He mentioned its temporary nature and pointed to the sunset clause. `[真题]`
+>   - 中译：他提到了它的临时性质，并指出了日落条款。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sunset；
 
 
 ---

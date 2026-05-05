@@ -51,7 +51,7 @@ over-(超过) + take(拿/取)
 >    - → **（感情/事件）突然袭来**：像从后面追上来一样突然降临
 >      - 激活条件：be overtaken by emotion, be overtaken by events
 
-### 统筹
+### 统筹（选择适用的模式）
 
 - **一字一词概括**：overtake 就是"从后面超过去"——超车、超越对手、感情袭来
 - **延伸中心**：从"物理上的超越"延伸到"情感/事件的突然降临"
@@ -127,8 +127,14 @@ over-(超过) + take(拿/取)
 
 > [!example]- 语料
 > - The hikers rested under a towering overtake near the coastal trail. `[例]`
+>   - 中译：徒步旅行者在海岸步道附近一个高耸的超车处休息。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/overtake；
 > - The cabin was built from durable overtake gathered in the region. `[例]`
+>   - 中译：小木屋是用该地区收集的耐用的超车材料建造的。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/overtake；
 > - A line of overtake trees rose above the morning fog. `[例]`
+>   - 中译：一排超车树从晨雾中升起。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/overtake；
 
 
 ---

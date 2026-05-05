@@ -132,8 +132,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The bill proved largely popular and sailed through Congress with large majorities in favor. `[真题]`
+>   - 中译：该法案被证明大受欢迎，以压倒性多数顺利通过国会。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/popular；
 > - She's the most popular teacher in school. `[例]`
+>   - 中译：她是学校里最受欢迎的老师。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/popular；
 > - That song was popular with people from my father's generation. `[例]`
+>   - 中译：那首歌在我父亲那一代人中很流行。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/popular；
 
 
 ---

@@ -133,8 +133,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The university offers a comprehensive orientation program to help international students adapt to the new academic and cultural environment. `[COCA-ACAD]`
+>   - 中译：大学提供全面的迎新培训项目，帮助国际学生适应新的学术和文化环境。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/orientation；
 > - A company's market orientation determines its ability to respond to changing consumer demands and competitive pressures. `[COCA-ACAD]`
+>   - 中译：公司的市场导向决定了其应对不断变化的消费者需求和竞争压力的能力。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/orientation；
 > - His political orientation leans towards conservatism, though he describes himself as an independent. `[COCA-NEWS]`
+>   - 中译：他的政治倾向偏向保守主义，尽管他自称为独立人士。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/orientation；
 
 
 ---

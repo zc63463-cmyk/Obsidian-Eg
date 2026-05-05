@@ -130,8 +130,14 @@ frequens(拉丁语"挤满的，频繁的") + -ent(形容词后缀，表示"具�
 
 > [!example]- 语料
 > - The researchers proposed a frequent solution to the problem. `[例]`
+>   - 中译：研究人员提出了一个频繁使用的解决方案。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/frequent；
 > - The company adopted a frequent approach to improve efficiency. `[例]`
+>   - 中译：公司采用了一种频繁的方法来提高效率。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/frequent；
 > - The plan offers a frequent option for small organizations. `[例]`
+>   - 中译：该计划为小型组织提供了一个频繁的选项。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/frequent；
 
 
 ---

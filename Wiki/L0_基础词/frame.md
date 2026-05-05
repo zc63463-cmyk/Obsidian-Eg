@@ -137,8 +137,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The issue should be framed within the broader context of social inequality. `[COCA-ACAD]`
+>   - 中译：这个问题应该在社会不平等这一更广泛的背景下来构建。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/frame；
 > - He claimed that he had been framed by the police. `[COCA-NEWS]`
+>   - 中译：他声称自己被警察陷害了。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/frame；
 > - Her new hairstyle frames her face in a much more flattering way. `[COCA-FIC]`
+>   - 中译：她的新发型以更衬人的方式修饰了她的脸型。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/frame；
 
 ---
 

@@ -125,7 +125,11 @@ for-(=outside, 在外面) + [[bid|bann/bid]](命令，禁止，源自古英语 *
 > [!example]- 语料
 > - You can’t forbid me to go. `[例]`
 > - Diplomatic etiquette forbids calling for the death of a national leader. `[例]`
+>   - 中译：外交礼仪禁止呼吁处决国家领导人。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/forbid；
 > - She does a lot of work for charities , but her modesty forbids her from talking about it. `[例]`
+>   - 中译：她为慈善机构做了大量工作，但她的谦逊使她不愿谈及此事。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/forbid；
 
 
 ---

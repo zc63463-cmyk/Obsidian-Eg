@@ -124,8 +124,14 @@ e-(=ex-, 出/超出) + [[norm|norm-]](标准/规范) + -ous(形容词后缀，�
 
 > [!example]- 语料
 > - He earns an enormous salary. `[例]`
+>   - 中译：他的薪水非常丰厚。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/enormous；
 > - I was absolutely enormous when I was pregnant. `[例]`
+>   - 中译：我怀孕的时候体型非常庞大。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/enormous；
 > - You've been an enormous help. `[例]`
+>   - 中译：你帮了很大的忙。；
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/enormous；
 
 
 ---

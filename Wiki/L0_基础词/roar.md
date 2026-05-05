@@ -125,9 +125,17 @@ roar（拟声词，古英语 *rarian*，模仿低沉响亮的声音）
 
 > [!example]- 语料
 > - The lion roared once, and sprang. `[真题]`
+  - 中译：狮子吼了一声，扑了上去。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/roar
 > - Max threw back his head and roared with laughter. `[真题]`
+  - 中译：马克斯仰起头放声大笑。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/roar
 > - The engine roared to life as the pilot started the plane. `[真题]`
+  - 中译：飞行员启动飞机时，引擎轰鸣着运转起来。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/roar
 > - Local residents saw it plunge towards Earth with a deafening roar. `[真题]`
+  - 中译：当地居民看到它伴随着震耳欲聋的轰鸣声坠向地面。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/roar
 
 
 ---

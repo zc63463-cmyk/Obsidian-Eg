@@ -123,8 +123,14 @@ lin(亚麻，拉丁语 *linum*) + -en(形容词/名词后缀，表示"由……�
 
 > [!example]- 语料
 > - The crumpled charm of linen. `[例]`
+> -   - 中译：亚麻褶皱的魅力；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/linen；
 > - You have to bring your own towels , but all bed linen is supplied. `[例]`
+> -   - 中译：你需要自带毛巾，但所有床单都提供；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/linen；
 > - She washes the linen every week. `[例]`
+> -   - 中译：她每周洗床单；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/linen；
 
 
 ---

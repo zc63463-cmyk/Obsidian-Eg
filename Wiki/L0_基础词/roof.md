@@ -51,7 +51,7 @@ review_count: 0
 >    - → **最高点，上限**：隐喻性的顶部
 >      - 激活条件：prices went through the roof, the roof of the world
 
-### 统筹
+### 统筹（选择适用的模式）
 
 - **一字一词概括**：roof 就是"顶部覆盖"——房子的顶部、价格的顶部、世界的顶部
 - **方位隐喻**：屋顶=最高点/上限
@@ -125,8 +125,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Housing prices have gone through the roof in recent years. `[真题]`
+  - 中译：近年来房价飞涨。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/roof
 > - There are various stores and restaurants all under one roof. `[真题]`
+  - 中译：各种商店和餐厅都集中在同一个地方。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/roof
 > - Following news of increased profits, the company's share price went through the roof. `[真题]`
+  - 中译：利润增长的消息传出后，公司股价飙升。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/roof
 
 
 ---

@@ -127,8 +127,14 @@ review_count: 0
 
 > [!example]- 语料
 > - They are searching for intelligent life forms in other solar systems. `[例]`
+  - 中译：他们正在其他太阳系中寻找智慧生命形式。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/solar；
 > - These spacecraft may send back data about the outermost reaches of the solar system. `[例]`
+  - 中译：这些航天器可能会发回有关太阳系最外层区域的数据。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/solar；
 > - The planet Jupiter contains large amounts of the primordial gas and dust out of which the solar system was formed. `[例]`
+  - 中译：木星含有大量形成太阳系的原始气体和尘埃。；
+  - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/solar；
 
 
 ---

@@ -129,8 +129,14 @@ loan 源自古诺斯语 *lān*（借），与 lend 同源。
 
 > [!example]- 语料
 > - She's trying to get a £50,000 loan to start her own business. `[例]`
+> -   - 中译：她正在尝试获得5万英镑的贷款来创业；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/loan；
 > - She had to take out a short-term loan to cover the costs. `[例]`
+> -   - 中译：她不得不申请一笔短期贷款来支付费用；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/loan；
 > - We could apply for a loan to buy a car. `[例]`
+> -   - 中译：我们可以申请贷款买车；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/loan；
 
 
 ---

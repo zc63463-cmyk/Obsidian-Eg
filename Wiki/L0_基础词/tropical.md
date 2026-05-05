@@ -126,8 +126,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The city has a relatively strong economy based on tourism , and enjoys a tropical climate. `[例]`
+>   - 中译：这座城市经济相对强劲，以旅游业为基础，拥有热带气候。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/tropical；
 > - Leprosy is one of the few tropical diseases which could soon be eradicated. `[例]`
+>   - 中译：麻风病是少数几种可能很快被根除的热带疾病之一。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/tropical；
 > - She specializes in tropical medicine (= the treatment of diseases from the tropical areas of the world ). `[例]`
+>   - 中译：她专攻热带医学。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/tropical；
 
 
 ---

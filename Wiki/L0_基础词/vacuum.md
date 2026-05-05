@@ -131,9 +131,17 @@ review_count: 0
 
 > [!example]- 语料
 > - His resignation has created a vacuum which cannot easily be filled. `[例]`
+>   - 中译：他的辞职造成了一个难以填补的空缺。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/vacuum；
 > - Edison knew that he had to create a vacuum inside the lightbulb. `[例]`
+>   - 中译：爱迪生知道他必须在灯泡内部创造真空。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/vacuum；
 > - No marriage exists in a vacuum. `[例]`
+>   - 中译：没有哪段婚姻是脱离外部环境而存在的。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/vacuum；
 > - The hikers rested under a towering vacuum near the coastal trail. `[例]`
+>   - 中译：徒步旅行者在海岸步道附近的一处高耸真空旁休息。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/vacuum；
 
 
 ---

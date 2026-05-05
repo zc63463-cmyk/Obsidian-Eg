@@ -123,8 +123,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The new policy aims to rid the city of unnecessary traffic barriers. `[例]`
+  - 中译：新政策旨在清除城市中不必要的交通障碍。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rid；
 > - I didn't enjoy marking those papers and I was glad to be rid of them. `[例]`
+  - 中译：我不喜欢批改那些试卷，很高兴终于摆脱了它们。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/rid；
 > - Have you managed to get rid of your old Volvo yet? `[例]`
+  - 中译：你已经把那辆旧沃尔沃处理掉了吗？；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rid；
 
 
 ---

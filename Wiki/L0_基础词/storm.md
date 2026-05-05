@@ -130,8 +130,14 @@ review_count: 0
 
 > [!example]- 语料
 > - A lot of trees were blown down in the recent storms. `[例]`
+>   - 中译：在最近的风暴中，许多树被吹倒了。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/storm；
 > - They're still cleaning up the storm damage. `[例]`
+>   - 中译：他们仍在清理风暴造成的破坏。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/storm；
 > - There was a storm of protest when the new tax was announced. `[例]`
+>   - 中译：新税宣布时，引发了强烈的抗议。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/storm；
 
 
 ---

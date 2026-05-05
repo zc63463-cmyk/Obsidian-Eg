@@ -135,8 +135,14 @@ then（古英语 *thænne*，源自日耳曼语族，与 that 同源，指示"�
 
 > [!example]- 语料
 > - She grew up in Zimbabwe, or Rhodesia as it then was. `[例]`
+>   - 中译：她在津巴布韦长大，或者说是当时的罗得西亚。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/then；
 > - First cook the onions, then add the mushrooms. `[例]`
+>   - 中译：先炒洋葱，然后加入蘑菇。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/then；
 > - If you won't tell him, then I will. `[例]`
+>   - 中译：如果你不告诉他，那我就告诉他。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/then；
 
 
 ---

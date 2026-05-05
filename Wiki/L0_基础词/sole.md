@@ -138,8 +138,14 @@ sole 有两个不同的词源：
 
 > [!example]- 语料
 > - My sole objective is to make the information more widely available. `[例]`
+  - 中译：我唯一的目标是让这些信息更广泛地传播。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/sole；
 > - The sole survivor of the accident was found in the water after six hours. `[例]`
+  - 中译：事故的唯一幸存者在六小时后被发现漂浮在水中。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/sole；
 > - She has sole responsibility for the project. `[例]`
+  - 中译：他对这个项目负全部责任。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/sole；
 
 
 ---

@@ -123,8 +123,14 @@ micro-(小，希腊语 *mikros*) + scope(看/观察，希腊语 *skopein*)
 
 > [!example]- 语料
 > - They looked at the blood samples under the microscope. `[真题]`
+> - 中译：他们在显微镜下观察了血液样本。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/microscope；
 > - The invention of the microscope opened up an entirely new world of microorganisms. `[真题]`
+> - 中译：显微镜的发明开启了一个全新的微生物世界。；
+> - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/microscope；
 > - The company's financial practices have been put under the microscope. `[真题]`
+> - 中译：公司的财务做法正受到仔细审查。；
+> - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/microscope；
 
 
 ---

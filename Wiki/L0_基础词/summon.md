@@ -51,7 +51,7 @@ review_count: 0
 >    - → **召集（会议）**：把人叫到一起
 >      - 激活条件：summon a meeting, summon parliament
 
-### 统筹
+### 统筹（选择适用的模式）
 
 - **一字一词概括**：summon 就是"叫来"——把人叫来（传唤）、把勇气叫来（鼓起）、把人叫到一起（召集）
 - **本体隐喻**：召唤人→召唤内在力量
@@ -124,8 +124,14 @@ review_count: 0
 
 > [!example]- 语料
 > - She had to summon all her courage to face the challenge. `[真题]`
+>   - 中译：她不得不鼓起全部勇气来面对挑战。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/summon；
 > - The general summoned all his officers for an emergency meeting. `[真题]`
+>   - 中译：将军召集所有军官召开紧急会议。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/summon；
 > - He was summoned to appear in court as a witness. `[真题]`
+>   - 中译：他被传唤出庭作证。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/summon；
 
 
 ---

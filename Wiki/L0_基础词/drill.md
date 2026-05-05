@@ -130,8 +130,14 @@ drill 源自荷兰语 *dril* "a hole, boring tool"，源自 *drillen* "to bore, 
 
 > [!example]- 语料
 > - The teacher drilled the students on grammar rules every day. `[真题]`
+>   - 中译：老师每天让学生反复练习语法规则。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/drill；
 > - Regular fire drills are essential for building safety. `[真题]`
+>   - 中译：定期消防演习对建筑安全至关重要。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/drill；
 > - He drilled three holes in the wall for the screws. `[真题]`
+>   - 中译：他在墙上钻了三个孔用来拧螺丝。；
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/drill；
 
 
 ---

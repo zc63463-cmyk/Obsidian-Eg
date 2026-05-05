@@ -131,8 +131,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Many of the traditions are remnants of a time when most people worked on the land. `[真题]`
+  - 中译：许多传统是大多数人还在务农那个时代的遗留物。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/remnant；
 > - The museum is one of the last remnants of the 17th-century palace. `[例]`
+  - 中译：这座博物馆是17世纪宫殿仅存的遗迹之一。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/remnant；
 > - Only remnants of the original forest remain after decades of deforestation and urban expansion. `[例]`
+  - 中译：经过数十年的森林砍伐和城市扩张，原始森林只剩下残迹。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/remnant；
 
 
 ---

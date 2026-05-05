@@ -127,8 +127,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The whole region is in turmoil. `[例]`
+>   - 中译：整个地区处于动荡之中。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/turmoil；
 > - The country is in a state of political turmoil. `[例]`
+>   - 中译：该国处于政治动荡之中。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/turmoil；
 > - The Stock Exchange is in turmoil following a huge wave of selling. `[例]`
+>   - 中译：在大量抛售之后，股市陷入动荡。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/turmoil；
 
 
 ---

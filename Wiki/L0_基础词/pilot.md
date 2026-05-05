@@ -132,9 +132,14 @@ review_count: 0
 
 > [!example]- 语料
 > - If you'd seen the pilot, you'd know why they decided not to make a complete series of programmes! `[例]`
+  - 中译：如果你看过那集试播片，你就会知道他们为什么决定不制作完整系列的节目了！；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pilot；
 > - If the pilot scheme is successful , many more homes will be offered the new television service. `[例]`
+  - 中译：如果试点计划成功，更多家庭将获得这项新的电视服务。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/pilot；
 > - She piloted the aircraft to safety after one of the engines failed. `[例]`
-
+  - 中译：一台发动机失灵后，她驾驶飞机安全着陆。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/pilot；
 
 ---
 

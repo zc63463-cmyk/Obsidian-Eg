@@ -130,8 +130,14 @@ oc-(=ob-, 朝向) + [[cad-cas-cid|cas]](=fall, 落下) + -ion(名词后缀) + -a
 
 > [!example]- 语料
 > - I play the occasional game of tennis. `[例]`
+>   - 中译：我偶尔打打网球。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/occasional；
 > - He has the occasional cigar after dinner. `[例]`
+>   - 中译：他饭后偶尔抽支雪茄。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/occasional；
 > - His job requires occasional trips to the West Coast. `[例]`
+>   - 中译：他的工作需要偶尔去西海岸出差。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/occasional；
 
 
 ---

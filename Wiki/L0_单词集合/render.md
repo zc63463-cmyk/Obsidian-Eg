@@ -53,7 +53,7 @@ re-(back) + 建议创建词根笔记 [[re/rem]](to give/给予) + -der(后缀)
 >    - → **渲染**：使画面呈现某种效果
 >      - 激活条件：计算机图形/艺术语境
 
-### 统筹
+### 统筹（选择适用的模式）
 
 - **v + 不同宾语**：render sth. impossible（使不可能）→ render a service（提供服务）→ render into English（翻译成英语）
 - **一字一词概括**："致"——导致状态→致以服务→致译→致效

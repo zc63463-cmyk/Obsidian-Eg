@@ -136,8 +136,14 @@ fiber 源自拉丁语 *fibra*（细丝、纤维），为拉丁语借词，无可
 
 > [!example]- 语料
 > - Police detectives found cloth fibers at the crime scene that matched those from the coat the suspect was wearing. `[例]`
+>   - 中译：刑警在犯罪现场发现了布纤维，与嫌疑人所穿外套的纤维相匹配。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fiber；
 > - He lacked the moral fiber to be president. `[例]`
+>   - 中译：他缺乏当总统的道德品质。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fiber；
 > - Doctors recommend a diet of fruits , vegetables , and grains that are high in fiber. `[例]`
+>   - 中译：医生推荐富含纤维的水果、蔬菜和谷物饮食。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fiber；
 
 
 ---

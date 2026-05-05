@@ -52,7 +52,7 @@ review_count: 0
 >    - → **（计算机）目录，文件夹**：引导你找到文件的层级结构
 >      - 激活条件：root directory, file directory
 
-### 统筹
+### 统筹（选择适用的模式）
 
 - **一字一词概括**：directory 就是"指路集合"——指电话叫"号码簿"，指文件叫"目录"，指人名叫"名录"
 - **延伸中心**：从"指引方向的工具"延伸到各种信息检索工具
@@ -130,6 +130,8 @@ review_count: 0
 > - I found his surname and address in the telephone directory and rang the number. `[BNC-SPOKEN]`
 > - You can find the company's address in the local business directory. `[COCA-NEWS]`
 > - All files in the root directory are protected by the system. `[例]`
+  - 中译：根目录中的所有文件都受系统保护。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/directory；
 
 
 ---

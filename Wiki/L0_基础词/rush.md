@@ -133,8 +133,14 @@ rush 可能源自古法语 *ruser*（退却、闪避），或与拉丁语 *recus
 
 > [!example]- 语料
 > - Don't rush into a decision before considering all the options. `[真题]`
+  - 中译：在考虑所有选项之前，不要草率做决定。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rush
 > - During the evening rush hour it was often solid with vehicles. `[真题]`
+  - 中译：在晚间高峰时段，道路常常被车辆堵得水泄不通。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rush
 > - The film ended, and there was a rush for the exits. `[真题]`
+  - 中译：电影结束了，人们争相涌向出口。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rush
 
 
 ---

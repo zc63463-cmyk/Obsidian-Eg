@@ -127,8 +127,14 @@ stalk 源自古英语 *stalcan*（缓慢行走），与 steal（偷窃）同源�
 
 > [!example]- 语料
 > - She trimmed the stalks of the tulips before putting them in a vase. `[例]`
+>   - 中译：她把郁金香的茎修剪了一下，然后插进花瓶。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/stalk；
 > - The eyes of shrimps are on movable stalks. `[例]`
+>   - 中译：虾的眼睛长在可活动的眼柄上。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/stalk；
 > - The police had been stalking the woman for a week before they arrested her. `[例]`
+>   - 中译：警方在逮捕那名女子之前，已经跟踪她一个星期了。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/stalk；
 
 
 ---

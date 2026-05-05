@@ -50,7 +50,7 @@ sun(太阳) + shine(照耀)
 >    - → **快乐，开朗**：阳光般的温暖和明亮
 >      - 激活条件：she is my sunshine, sunshine personality
 
-### 统筹
+### 统筹（选择适用的模式）
 
 - **一字一词概括**：sunshine 就是"阳光"——物理上的阳光、心理上的阳光（快乐）
 - **本体隐喻**：阳光=温暖/明亮→快乐/开朗/透明
@@ -125,8 +125,14 @@ sun(太阳) + shine(照耀)
 
 > [!example]- 语料
 > - The government passed a sunshine law to ensure transparency in public spending. `[真题]`
+>   - 中译：政府通过了阳光法案，以确保公共支出的透明度。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sunshine；
 > - The arena was bathed in warm sunshine. `[真题]`
+>   - 中译：竞技场沐浴在温暖的阳光中。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/sunshine；
 > - Because of the sunshine law, we could go to the planning meeting. `[真题]`
+>   - 中译：由于阳光法案，我们可以参加规划会议。；
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/sunshine；
 
 
 ---

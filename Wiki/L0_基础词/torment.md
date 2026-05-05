@@ -126,8 +126,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The family said they had endured years of torment and abuse at the hands of their neighbours. `[例]`
+>   - 中译：这家人说他们多年来一直遭受邻居的折磨和虐待。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/torment；
 > - Waiting for the result of the medical tests was sheer torment. `[例]`
+>   - 中译：等待医学检查结果简直是折磨。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/torment；
 > - He spent the night in torment, trying to decide what was the best thing to do. `[例]`
+>   - 中译：他整夜在痛苦中挣扎，试图决定什么是最好的做法。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/torment；
 
 
 ---

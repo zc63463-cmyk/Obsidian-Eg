@@ -128,10 +128,17 @@ per-（通过，[[per]]）+ fume（烟，拉丁语 *fumus*）
 
 > [!example]- 语料
 > - The air was thick with the perfume of jasmine. `[真题]`
+  - 中译：空气中弥漫着茉莉花的芳香。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/perfume；
 > - She spritzed a floral perfume on her wrists before leaving the house. `[例]`
+  - 中译：她出门前在手腕上喷了点花香型香水。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/perfume；
 > - A delicate perfume lingered in the empty room long after she had gone. `[例]`
+  - 中译：一股淡淡的香水味在她离开后很久仍萦绕在空房间里。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/perfume；
 > - The room was filled with the scent of jasmine perfume. `[例]`
-
+  - 中译：房间里充满了茉莉花香的气味。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/perfume；
 
 ---
 

@@ -127,8 +127,14 @@ review_count: 0
 
 > [!example]- 语料
 > - He did a drawing of the old farmhouse in pencil. `[真题]`
+>   - 中译：他用铅笔画了一幅旧农舍的素描。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/drawing；
 > - Technical drawing requires precision and attention to detail. `[真题]`
+>   - 中译：技术制图需要精确和注重细节。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/drawing；
 > - The children were doing drawings of their families. `[真题]`
+>   - 中译：孩子们在画他们家人的画。；
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/drawing；
 
 
 ---

@@ -127,8 +127,14 @@ review_count: 0
 
 > [!example]- 语料
 > - I love you," she murmured. `[例]`
+> - 中译：“我爱你，”她低声说道。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/murmur；
 > - He was murmuring to himself. `[例]`
+> - 中译：他在自言自语地低声嘀咕。；
+> - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/murmur；
 > - He murmured sweet nothings (= romantic talk ) in her ear. `[例]`
+> - 中译：他在她耳边轻声说着甜蜜的情话。；
+> - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/murmur；
 
 
 ---

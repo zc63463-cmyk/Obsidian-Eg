@@ -134,8 +134,14 @@ trem(颤抖，拉丁语 *tremere*) + -ble(动词后缀，表示反复动作)
 
 > [!example]- 语料
 > - I was trembling with fear , panicking that I had not made the right decision. `[例]`
+>   - 中译：我因恐惧而颤抖，担心自己做出了错误的决定。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/tremble；
 > - His voice trembled with emotion as he gave his speech. `[例]`
+>   - 中译：他在演讲时声音因激动而颤抖。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/tremble；
 > - His voice started to tremble, and I thought he was going to cry. `[例]`
+>   - 中译：他的声音开始颤抖，我以为他要哭了。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/tremble；
 
 
 ---

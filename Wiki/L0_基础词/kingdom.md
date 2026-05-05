@@ -125,8 +125,14 @@ king（国王）+ -dom（名词后缀，表示"领域/状态"）
 
 > [!example]- 语料
 > - The United Kingdom of Great Britain and Northern Ireland. `[例]`
+>   - 中译：大不列颠及北爱尔兰联合王国。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/kingdom；
 > - The kingdoms of the mind. `[例]`
+>   - 中译：心灵的王国。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/kingdom；
 > - She was queen of an ancient kingdom in Egypt. `[例]`
+>   - 中译：她是埃及一个古代王国的女王。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/kingdom；
 
 
 ---

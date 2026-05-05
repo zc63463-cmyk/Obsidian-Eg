@@ -129,8 +129,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Delegates have voted in favour of the motion. `[例]`
+  - 中译：一个优秀的管理者知道何时应该授权。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/delegate；
 > - Each union elects several delegates to the annual conference. `[例]`
+  - 中译：我被委派组织这次会议。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/delegate；
 > - As a boss you have to delegate responsibilities to your staff. `[例]`
+  - 中译：来自世界各地的代表齐聚参加这次会议。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/delegate；
 
 
 ---

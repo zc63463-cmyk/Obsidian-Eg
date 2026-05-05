@@ -128,8 +128,14 @@ review_count: 0
 
 > [!example]- 语料
 > - After a restless night, she arrived at the examination hall feeling exhausted yet determined to do her best. `[真题]`
+  - 中译：经过一个不眠之夜后，她到达考场时感到疲惫不堪，但决心全力以赴。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/restless；
 > - The crowd grew restless as the hours passed without any announcement from the authorities. `[真题]`
+  - 中译：随着时间流逝而当局没有任何公告，人群变得焦躁不安。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/restless；
 > - He spent a restless night tossing and turning, unable to shake off the anxiety of the upcoming interview. `[真题]`
+  - 中译：他辗转反侧度过了一个不眠之夜，无法摆脱即将到来的面试带来的焦虑。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/restless；
 
 
 ---

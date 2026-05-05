@@ -129,9 +129,17 @@ review_count: 0
 
 > [!example]- 语料
 > - She insisted on seeing her lawyer. `[真题]`
+  - 中译：她坚持要见她的律师。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/insist；
 > - Jacksonians insisted that, like the common schools and the press, political parties were critical agencies of political learning. `[真题]`
+  - 中译：杰克逊主义者坚持认为，政治党派和公立学校及新闻界一样，是政治学习的关键机构。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/insist；
 > - The government has always insisted that this was not the case. `[真题]`
+  - 中译：政府一直坚称事实并非如此。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/insist；
 > - Despite their waning interest in genuine political reform, donors have continued to insist on nominally democratic systems. `[例]`
+  - 中译：尽管捐助者对真正的政治改革兴趣日益减退，但他们继续坚持要求名义上的民主制度。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/insist；
 
 
 ---

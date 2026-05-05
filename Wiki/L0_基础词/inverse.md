@@ -130,8 +130,14 @@ in-(=intensive，加强语气) + [[ver-vert|vers-]](转，拉丁语 *vertere*，
 
 > [!example]- 语料
 > - There is an inverse relationship between the price of a product and the quantity demanded. `[真题]`
+>   - 中译：产品价格与需求量之间存在反比关系。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/inverse；
 > - The amount of business activity is in inverse proportion to the amount of government control. `[例]`
+>   - 中译：商业活动的数量与政府管控的程度成反比。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/inverse；
 > - The current crisis is the exact inverse of the boom we experienced a few years ago. `[例]`
+>   - 中译：当前的危机与我们几年前经历的繁荣恰恰相反。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/inverse；
 
 
 ---

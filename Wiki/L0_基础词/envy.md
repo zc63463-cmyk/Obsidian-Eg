@@ -123,8 +123,14 @@ review_count: 0
 
 > [!example]- 语料
 > - I envy her ability to talk to people she's never met before. `[例]`
+  - 中译：我羡慕她能与素未谋面的人交谈的能力。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/envy；
 > - I don't envy you the job of cooking for all those people. `[例]`
+  - 中译：我可不羡慕你为那么多人做饭的差事。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/envy；
 > - I watched with envy as she set off for the airport. `[例]`
+  - 中译：我满怀羡慕地看着她出发去机场。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/envy；
 
 
 ---

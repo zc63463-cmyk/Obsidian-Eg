@@ -132,7 +132,11 @@ review_count: 0
 > [!example]- 语料
 > - Such debates reflect fierce discussions across the US and around the world , as researchers , policymakers , teachers and students step up demands for a greater focus on teaching about the facts of climate change in schools. `[真题]`
 > - I think Dave likes to be the focus of attention. `[例]`
+>   - 中译：我觉得戴夫喜欢成为众人注目的焦点。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/focus；
 > - The main focus of interest at the fashion show was Christian Lacroix's outrageous evening wear. `[例]`
+>   - 中译：这场时装秀上最引人注目的是克里斯蒂安·拉克鲁瓦夸张的晚装。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/focus；
 
 
 ---

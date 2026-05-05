@@ -130,9 +130,17 @@ juven-（年轻，拉丁语 *iuvenis*）+ -ile（形容词后缀，属于……�
 
 > [!example]- 语料
 > - Many theories concerning the causes of juvenile delinquency focus either on the individual or on society as the major contributing influence. `[真题]`
+>   - 中译：许多关于青少年犯罪原因的理论，要么将个人，要么将社会视为主要的影响因素。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/juvenile；
 > - Juvenile crimes make up 25 percent of all police cases. `[例]`
+>   - 中译：青少年犯罪占所有警察案件的25%。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/juvenile；
 > - There is a high rate of juvenile delinquency in this area. `[例]`
+>   - 中译：这个地区的青少年犯罪率很高。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/juvenile；
 > - The boy's case was adjudged in the juvenile court. `[例]`
+>   - 中译：这个男孩的案件在少年法庭进行了审理。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/juvenile；
 
 
 ---

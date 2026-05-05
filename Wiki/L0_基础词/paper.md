@@ -135,9 +135,14 @@ review_count: 0
 
 > [!example]- 语料
 > - He wrote his name down on a piece of paper and handed it to the receptionist. `[真题]`
+  - 中译：他在一张纸上写下名字，递给了前台接待员。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/paper；
 > - The researchers have published a paper in the journal Nature. `[例]`
+  - 中译：研究人员已在《自然》期刊上发表了一篇论文。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/paper；
 > - On paper, the plan looks perfect, but in practice it has many flaws. `[真题]`
-
+  - 中译：从纸面上看，这个计划完美无缺，但在实践中却存在许多缺陷。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/paper；
 
 ---
 

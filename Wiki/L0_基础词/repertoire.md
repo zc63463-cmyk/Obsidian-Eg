@@ -125,8 +125,14 @@ re-（[[re-|加强语气]]）+ per（产出，拉丁语 *paerere*）→ 不断�
 
 > [!example]- 语料
 > - The Royal Shakespeare Company also have many modern plays in their repertoire. `[COCA-ACAD]`
+  - 中译：皇家莎士比亚剧团的剧目中也包括许多现代戏剧。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/repertoire；
 > - There is an extensive repertoire of music written for the flute. `[COCA-ACAD]`
+  - 中译：为长笛创作的曲目非常丰富。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/repertoire；
 > - I'm not a great cook — pasta and pesto is the extent of my repertoire. `[BNC-SPOKEN]`
+  - 中译：我不是一个很会做饭的人——意大利面和青酱就是我的全部拿手菜了。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/repertoire；
 
 
 ---

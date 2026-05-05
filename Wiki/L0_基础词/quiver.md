@@ -133,8 +133,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The father's voice quivered as he remembered his son. `[例]`
+>   - 中译：父亲回忆起儿子时，声音颤抖了。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/quiver；
 > - Her voice, which had been previously smooth and clear, now quivered and quaked with every sentence. `[例]`
+>   - 中译：她原本平滑清晰的声音，现在每说一句话都在颤抖。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/quiver；
 > - The leaves on the tree quivered in the wind. `[例]`
+>   - 中译：树上的叶子在风中颤动。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/quiver；
 
 
 ---

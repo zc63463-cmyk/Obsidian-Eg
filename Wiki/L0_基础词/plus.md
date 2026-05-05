@@ -140,9 +140,14 @@ plus 直接来自拉丁语 *plus*（更多），与 [[plural]]（复数）同源
 
 > [!example]- 语料
 > - What is six plus four? `[例]`
+  - 中译：六加四等于多少？；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/plus；
 > - The rent will be £175 a week , plus (= added to the cost of) gas and electricity. `[例]`
+  - 中译：租金将是每周175英镑，加上（另付）燃气和电费。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/plus；
 > - There will be two adults travelling , plus three children. `[例]`
-
+  - 中译：将有两名成人旅行，外加三名儿童。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/plus；
 
 ---
 

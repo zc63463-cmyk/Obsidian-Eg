@@ -132,8 +132,14 @@ space（空间，源自拉丁语 *spatium* "空间、距离"，词源不确定�
 
 > [!example]- 语料
 > - Another issue is that, while climate change is well integrated into some subjects and at some ages-·such as earth and space sciences in high schools-it is not as well represented in curricula for younger children and in subjects that are more widely taught, such as biology and chemistry. `[真题]`
+  - 中译：另一个问题是，虽然气候变化在一些学科和年龄段中得到了很好的整合——比如高中的地球和空间科学——但在面向低龄儿童的课程以及更广泛教授的学科（如生物和化学）中，其代表性还不够。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/space；
 > - The trade magazine The Bookseller reported that Waterstones branch managers were being told to remove PRH books from prominent areas such as tables , display spaces and windows, and were " quietly retiring them to their relevant sections". `[真题]`
+  - 中译：《书商》贸易杂志报道说，水石书店的分公司经理被告知将PRH的图书从桌子、展示区和橱窗等显眼位置移走，'悄悄地将它们放回各自的分类区'。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/space；
 > - Is there any space for my clothes in that cupboard? `[例]`
+  - 中译：那个柜子里还有放我衣服的空间吗？；
+  - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/space；
 
 
 ---

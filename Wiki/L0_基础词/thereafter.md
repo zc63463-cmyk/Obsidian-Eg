@@ -127,8 +127,14 @@ there(那里，那个) + after(之后)
 
 > [!example]- 语料
 > - He left the priesthood in 1970 and settled in the Washington area shortly thereafter. `[例]`
+>   - 中译：他于1970年离开神职，此后不久在华盛顿地区定居。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/thereafter；
 > - The nature of their commitment changed as soon as they entered the war and several times thereafter. `[例]`
+>   - 中译：他们承诺的性质在参战时发生了变化，此后又改变了好几次。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/thereafter；
 > - Delaying defense programs virtually guarantees their cost growth not only this year and next but every year thereafter. `[例]`
+>   - 中译：推迟国防项目几乎可以保证其成本不仅在今年和明年增长，而且在之后的每一年都会增长。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/thereafter；
 
 
 ---

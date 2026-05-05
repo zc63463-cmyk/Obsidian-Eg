@@ -131,8 +131,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The doctor said I could go home as long as I agreed to stay in quarantine for at least seven days. `[例]`
+>   - 中译：医生说我可以回家，只要我同意至少隔离七天。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/quarantine；
 > - Owners risk having to leave their pets abroad or put them in quarantine if they fail to follow the rules. `[例]`
+>   - 中译：如果主人不遵守规定，可能不得不将宠物留在国外或将其隔离。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/quarantine；
 > - All international arrivals, regardless of where they are from, must quarantine upon their arrival. `[例]`
+>   - 中译：所有国际入境者，无论来自哪里，入境后都必须隔离。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/quarantine；
 
 
 ---

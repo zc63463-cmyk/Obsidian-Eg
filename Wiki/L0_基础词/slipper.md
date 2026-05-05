@@ -131,8 +131,14 @@ review_count: 0
 
 > [!example]- 语料
 > - A pair of slippers. `[例]`
+  - 中译：一双拖鞋。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/slipper；
 > - He put on his bathrobe and slippers. `[例]`
+  - 中译：他穿上浴袍和拖鞋。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/slipper；
 > - He came to the door in his slippers. `[例]`
+  - 中译：他穿着拖鞋来开门。；
+  - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/slipper；
 
 
 ---

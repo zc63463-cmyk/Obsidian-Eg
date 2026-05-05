@@ -137,8 +137,14 @@ review_count: 0
 
 > [!example]- 语料
 > - John has to shave twice a day. `[真题]`
+  - 中译：约翰每天得刮两次胡子。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/shave；
 > - He really should shave himself every other day at least and put on something clean. `[真题]`
+  - 中译：他至少应该每隔一天刮一次胡子，换上干净的衣服。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/shave；
 > - It was a close shave — we nearly hit that truck. `[真题]`
+  - 中译：真是千钧一发——我们差点撞上那辆卡车。；
+  - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/shave；
 
 
 ---

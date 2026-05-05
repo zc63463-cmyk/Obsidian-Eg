@@ -129,9 +129,14 @@ review_count: 0
 
 > [!example]- 语料
 > - As a result D. status D. in line with D. pioneering D. competed D. `[真题]`
+  - 中译：结果D.地位D.与D.开创性的D.竞争D。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pioneer；
 > - One of the pioneers of modern science. `[例]`
+  - 中译：现代科学的先驱之一。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/pioneer；
 > - The pioneers went west across North America , cutting down forests and planting new crops. `[例]`
-
+  - 中译：先驱们向西穿越北美，砍伐森林，种植新作物。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/pioneer；
 
 ---
 

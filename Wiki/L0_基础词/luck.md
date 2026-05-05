@@ -132,8 +132,14 @@ review_count: 0
 
 > [!example]- 语料
 > - It was just luck that I asked for a job at the right time. `[例]`
+> -   - 中译：我恰好在合适的时间求职，纯粹是运气好；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/luck；
 > - Then I met this gorgeous woman and I couldn't believe my luck. `[例]`
+> -   - 中译：后来我遇到了这位美丽的女士，我简直不敢相信自己的好运；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/luck；
 > - She wears a charm that she thinks brings her good luck. `[例]`
+> -   - 中译：她戴着一个她认为能带来好运的护身符；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/luck；
 
 
 ---

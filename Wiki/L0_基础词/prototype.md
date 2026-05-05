@@ -122,8 +122,14 @@ proto-(第一的/最初的，希腊语 *prōtos*) + type(类型/印记，希腊�
 
 > [!example]- 语料
 > - Manufacturers have built a prototype which will be shown at the forthcoming trade fair. `[例]`
+>   - 中译：制造商已经制造了一个原型，将在即将举行的贸易展览会上展示。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/prototype；
 > - Our first prototype digital camera appeared back in 1976. `[例]`
+>   - 中译：我们的第一台数码相机原型早在1976年就问世了。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/prototype；
 > - The firm and its industrial partners plan this summer to put a prototype of an underwater power platform off the Florida coast. `[例]`
+>   - 中译：该公司及其工业合作伙伴计划今年夏天在佛罗里达海岸附近安装一个水下发电平台的原型。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/prototype；
 
 
 ---

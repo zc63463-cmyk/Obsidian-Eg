@@ -128,8 +128,14 @@ lux(光，拉丁语 *lux*, *lucis*) + -ury(名词后缀)
 
 > [!example]- 语料
 > - As daughter of a billionaire , she grew up surrounded by unimaginable luxury. `[例]`
+> -   - 中译：作为亿万富翁的女儿，她在难以想象的奢华环境中长大；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/luxury；
 > - A day off work is such a luxury. `[例]`
+> -   - 中译：休息一天真是一种奢侈；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/luxury；
 > - Luxury cruises are gaining in popularity. `[例]`
+> -   - 中译：豪华游轮越来越受欢迎；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/luxury；
 
 
 ---

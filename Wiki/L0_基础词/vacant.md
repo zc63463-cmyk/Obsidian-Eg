@@ -130,9 +130,17 @@ review_count: 0
 
 > [!example]- 语料
 > - The position had been vacant for more than a year. `[COCA-ACAD]`
+>   - 中译：这个职位已经空缺了一年多。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/vacant；
 > - Property developers have been left with many vacant apartments since the downturn in the housing market. `[COCA-NEWS]`
+>   - 中译：自房地产市场低迷以来，房地产开发商手中积压了许多空置公寓。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/vacant；
 > - She had a kind of vacant look on her face. `[COCA-FICT]`
+>   - 中译：她脸上带着一种茫然的表情。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/vacant；
 > - Many newer apartments remain vacant. `[COCA-NEWS]`
+>   - 中译：许多较新的公寓仍然空置。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/vacant；
 
 
 ---

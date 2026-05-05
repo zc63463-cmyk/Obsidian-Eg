@@ -124,8 +124,14 @@ hinge 词源与原始日耳曼语 *\*hanhan-*（悬挂）有关，与 hang（悬
 
 > [!example]- 语料
 > - We had to take the front door off its hinges to get our new sofa into the house. `[例]`
+  - 中译：我们不得不把前门从铰链上卸下来，才能把新沙发搬进屋里。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hinge；
 > - The door had been pulled off its hinges. `[例]`
+  - 中译：门被从铰链上扯了下来。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hinge；
 > - The outcome of the game hinged on a single play. `[例]`
+  - 中译：比赛的胜负取决于一个关键回合。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hinge；
 
 
 ---

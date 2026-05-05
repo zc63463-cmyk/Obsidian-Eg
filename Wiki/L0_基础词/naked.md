@@ -133,8 +133,14 @@ review_count: 0
 
 > [!example]- 语料
 > - In my dream , I arrived at school and suddenly realized I was stark naked (= completely naked). `[例]`
+> - 中译：在梦里，我到了学校，突然发现自己一丝不挂。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/naked；
 > - He was naked to the waist (= not wearing clothes above his waist ). `[例]`
+> - 中译：他赤裸上身。；
+> - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/naked；
 > - The children were half naked (= partly naked). `[例]`
+> - 中译：孩子们半裸着身体。；
+> - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/naked；
 
 
 ---

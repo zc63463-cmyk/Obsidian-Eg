@@ -133,8 +133,14 @@ dress 源自古法语 *dresser* "to arrange, prepare"，源自通俗拉丁语 *\
 
 > [!example]- 语料
 > - She was dressed in a simple black dress for the interview. `[真题]`
+>   - 中译：她穿着一件简单的黑色连衣裙参加面试。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/dress；
 > - The nurse carefully dressed the wound to prevent infection. `[真题]`
+>   - 中译：护士仔细地为伤口包扎以防感染。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/dress；
 > - He dressed up as a pirate for the Halloween party. `[真题]`
+>   - 中译：他在万圣节派对上装扮成海盗。；
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/dress；
 
 
 ---

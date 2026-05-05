@@ -133,8 +133,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Her writing style is clear and concise, which makes her articles easy to follow. `[真题]`
+>   - 中译：她的写作风格清晰简洁，使她的文章易于阅读。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/style；
 > - Different cultures have different styles of communication that can lead to misunderstandings. `[真题]`
+>   - 中译：不同的文化有不同的沟通方式，这可能导致误解。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/style；
 > - The classic black dress is always in style no matter the changing fashion trends. `[真题]`
+>   - 中译：无论时尚潮流如何变化，经典的黑色连衣裙永远不过时。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/style；
 
 
 ---

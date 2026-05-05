@@ -126,8 +126,14 @@ review_count: 0
 
 > [!example]- 语料
 > - All of a sudden, the lights went out. `[真题]`
+>   - 中译：突然间，灯灭了。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sudden；
 > - His sudden death was a great shock to us all. `[真题]`
+>   - 中译：他的突然去世对我们所有人都是一个巨大的打击。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/sudden；
 > - The plan offers a sudden option for small organizations. `[真题]`
+>   - 中译：该计划为小型组织提供了一个突然的选择。；
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/sudden；
 
 
 ---

@@ -126,8 +126,14 @@ sob 是一个拟声词（imitative origin），约公元1200年出现于中古�
 
 > [!example]- 语料
 > - I found her sobbing in the bedroom because she'd broken her favourite doll. `[例]`
+  - 中译：我发现她在卧室里哭泣，因为她弄坏了她最喜欢的洋娃娃。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/sob；
 > - You're not going to help matters by lying there sobbing! `[例]`
+  - 中译：你躺在那里哭泣是解决不了问题的！；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/sob；
 > - I could hear her sobs from the next room. `[例]`
+  - 中译：我能听到隔壁房间里她的哭泣声。；
+  - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/sob；
 
 
 ---

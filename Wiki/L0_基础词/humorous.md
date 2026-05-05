@@ -124,8 +124,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Her latest book is a humorous look at teenage life. `[例]`
+  - 中译：她的最新书以幽默的视角审视青少年生活。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/humorous；
 > - I suppose the play is quite humorous, but it is let down by the actors ' weak performances. `[例]`
+  - 中译：我觉得这出戏挺幽默的，但演员的表演太差拖了后腿。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/humorous；
 > - He told one or two humorous stories about his years as a policeman. `[例]`
+  - 中译：他讲了一两个关于他当警察岁月的幽默故事。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/humorous；
 
 
 ---

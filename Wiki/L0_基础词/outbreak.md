@@ -124,8 +124,14 @@ out-(=beyond/forth, 向外/突破) + break(=[[tract|打破]]，古英语 *brecan
 
 > [!example]- 语料
 > - The cholera outbreak continued to spread despite efforts by health authorities to contain it. `[COCA-NEWS]`
+>   - 中译：尽管卫生部门努力遏制，霍乱疫情仍在继续蔓延。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/outbreak；
 > - At the outbreak of war, he enlisted as a private and served for four years. `[BNC-FICT]`
+>   - 中译：战争爆发时，他以列兵身份入伍，服役了四年。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/outbreak；
 > - The events that led to the outbreak of World War I remain a subject of intense historical debate. `[COCA-ACAD]`
+>   - 中译：导致第一次世界大战爆发的事件仍然是历史学界激烈辩论的话题。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/outbreak；
 
 
 ---

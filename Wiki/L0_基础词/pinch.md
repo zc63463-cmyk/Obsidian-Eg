@@ -135,9 +135,14 @@ pinch 源自古英语 *pyncan*（刺、捏），与 [[pin]]（钉子/别针）�
 
 > [!example]- 语料
 > - Ouch! Stop pinching (me)! `[例]`
+  - 中译：哎哟！别掐（我）了！；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pinch；
 > - These shoes are too tight , they pinch (my feet ). `[例]`
+  - 中译：这双鞋太紧了，挤（我的）脚。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/pinch；
 > - I can't believe that he's back from Canada and he's mine - I keep having to pinch myself to make sure I'm not dreaming. `[例]`
-
+  - 中译：我真不敢相信他从加拿大回来了，而且他是我的了——我不得不一直掐自己确认不是在做梦。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/pinch；
 
 ---
 

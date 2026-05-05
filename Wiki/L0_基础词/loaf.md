@@ -126,8 +126,14 @@ loaf 源自古英语 *hlāf*（面包），与 [[life|life]]（生命）同源�
 
 > [!example]- 语料
 > - I made an apple cake and it was so nice I ate the whole loaf myself! `[例]`
+> -   - 中译：我做了一个苹果蛋糕，太好吃了，我一个人吃了一整条！；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/loaf；
 > - It has classics like chilli and meat loaf. `[例]`
+> -   - 中译：它有辣椒和肉 loaf 等经典菜式；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/loaf；
 > - We ate nut loaf topped with gravy and served with buttered peas. `[例]`
+> -   - 中译：我们吃了浇上肉汁配黄油豌豆的坚果 loaf；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/loaf；
 
 
 ---

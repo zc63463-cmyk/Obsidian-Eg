@@ -128,8 +128,14 @@ out-(外面) + door(门) → 在门外 → 户外的
 
 > [!example]- 语料
 > - The hotel has an outdoor swimming pool and a sheltered courtyard for guests. `[BNC-SPOKEN]`
+>   - 中译：酒店设有室外游泳池和供客人使用的有遮蔽的庭院。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/outdoor；
 > - The program of outdoor activities includes skiing, climbing, and hiking. `[COCA-ACAD]`
+>   - 中译：户外活动项目包括滑雪、攀岩和远足。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/outdoor；
 > - Many people prefer outdoor concerts during the summer months. `[COCA-NEWS]`
+>   - 中译：许多人在夏季更喜欢户外音乐会。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/outdoor；
 
 
 ---

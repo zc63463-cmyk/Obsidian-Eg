@@ -124,8 +124,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The house is surrounded by beautiful gardens on all sides. `[真题]`
+>   - 中译：房子四周被美丽的花园环绕。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/surround；
 > - Snow-capped mountains surround the city, creating a stunning landscape. `[真题]`
+>   - 中译：白雪皑皑的群山环绕着这座城市，构成了壮丽的景观。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/surround；
 > - She sat at her desk, surrounded by books and papers. `[真题]`
+>   - 中译：她坐在书桌前，周围堆满了书籍和文件。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/surround；
 
 
 ---

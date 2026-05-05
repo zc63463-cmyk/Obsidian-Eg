@@ -128,9 +128,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The polar ice caps. `[例]`
+  - 中译：极地冰盖。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/polar；
 > - The novel deals with the polar opposites of love and hate. `[例]`
+  - 中译：这部小说探讨了爱与恨这两个截然对立的主题。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/polar；
 > - It is best to use polar coordinates to locate points in the plane. `[例]`
-
+  - 中译：最好使用极坐标来定位平面上的点。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/polar；
 
 ---
 

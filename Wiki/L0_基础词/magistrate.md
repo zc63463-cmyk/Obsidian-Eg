@@ -124,9 +124,17 @@ review_count: 0
 
 > [!example]- 语料
 > - He will appear before the magistrates tomorrow. `[COCA-NEWS]`
+> -   - 中译：他明天将出庭面对地方法官；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/magistrate；
 > - Greenway appeared at Bow Street Magistrates' Court to face seven charges of accepting bribes. `[COCA-NEWS]`
+> -   - 中译：格林韦出庭在鲍街地方法院，面临七项受贿指控；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/magistrate；
 > - A federal magistrate judge issued a search warrant allowing IRS agents to search the company's offices. `[COCA-ACAD]`
+> -   - 中译：一名联邦地方法官签发了搜查令，允许国税局特工搜查该公司的办公室；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/magistrate；
 > - The defendant was ordered to appear before a magistrate to face charges of theft and vandalism committed during the overnight disturbance. `[例]`
+> -   - 中译：被告被传唤到地方法官面前，面临在夜间骚乱中犯下的盗窃和破坏公物指控；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/magistrate；
 
 
 ---

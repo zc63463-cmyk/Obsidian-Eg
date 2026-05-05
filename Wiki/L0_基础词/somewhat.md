@@ -129,8 +129,14 @@ somewhat 是一个复合词，由 **some**（某个、一些）+ **what**（什�
 
 > [!example]- 语料
 > - Therefore , unless customer:; are prepared to sign release agreements , the use of AI may become somewhat restricted in the future. `[真题]`
+  - 中译：因此，除非客户准备签署免责协议，否则AI的使用在未来可能会受到一定限制。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/somewhat；
 > - The resort has changed somewhat over the last few years. `[例]`
+  - 中译：这个度假村在过去几年里发生了一些变化。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/somewhat；
 > - She's somewhat more confident than she used to be. `[例]`
+  - 中译：她比以前更加自信了。；
+  - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/somewhat；
 
 
 ---

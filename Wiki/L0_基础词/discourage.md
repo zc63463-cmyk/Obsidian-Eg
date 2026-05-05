@@ -124,8 +124,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Parents should not discourage children from pursuing their dreams. `[COCA-ACAD]`
+>   - 中译：父母不应该阻止孩子追求他们的梦想。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/discourage；
 > - The thought of how much work she had to do discouraged her. `[BNC-SPOKEN]`
+>   - 中译：想到还有那么多工作要做，她感到气馁。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/discourage；
 > - It discouraged me to hear so little enthusiasm for the project. `[COCA-ACAD]`
+>   - 中译：听到对这个项目如此缺乏热情，我感到很沮丧。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/discourage；
 
 
 ---

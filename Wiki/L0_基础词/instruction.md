@@ -130,8 +130,14 @@ instruction（源自拉丁语 *instructio*，*instruere* 的名词形式。*in-*
 
 > [!example]- 语料
 > - The police who broke into the house were only acting under instructions. `[例]`
+>   - 中译：闯入房屋的警察只是在执行命令。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/instruction；
 > - He claimed that his notes were destroyed on instructions from more senior staff. `[例]`
+>   - 中译：他声称他的笔记是按照更高级别职员的指示销毁的。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/instruction；
 > - He gave clear instructions to the bank that the box is not to be opened. `[例]`
+>   - 中译：他向银行明确指示，该箱子不得打开。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/instruction；
 
 
 ---

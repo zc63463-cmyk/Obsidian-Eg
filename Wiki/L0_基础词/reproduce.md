@@ -124,9 +124,17 @@ re-(再次，[[re]]) + pro-(向前) + [[duct|duc]](引导，[[duct]]) → produc
 
 > [!example]- 语料
 > - The best ink-jet printers can reproduce photographs with amazing fidelity. `[COCA-NEWS]`
+  - 中译：最好的喷墨打印机可以以惊人的保真度复制照片。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/reproduce；
 > - Most reptiles reproduce by laying eggs on land. `[COCA-ACAD]`
+  - 中译：大多数爬行动物通过在陆地上产卵来繁殖。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/reproduce；
 > - When viruses infect our bodies they rely on our cells to reproduce. `[COCA-ACAD]`
+  - 中译：当病毒感染我们的身体时，它们依赖我们的细胞来繁殖。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/reproduce；
 > - The study's findings could not be reproduced by other researchers. `[COCA-ACAD]`
+  - 中译：其他研究人员无法复现该研究的结果。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/reproduce；
 
 
 ---

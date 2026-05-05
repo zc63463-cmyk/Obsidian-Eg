@@ -123,8 +123,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The nuclear submarine dived to a depth of 300 meters to avoid detection by enemy ships. `[真题]`
+>   - 中译：核潜艇下潜至300米深度以躲避敌方舰艇的探测。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/submarine；
 > - Submarine cables carry most of the world's internet traffic across the ocean floor. `[真题]`
+>   - 中译：海底光缆承载着世界上大部分的互联网流量穿越海底。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/submarine；
 > - A squadron of 16 diesel-electric submarines augments the surface fleet in the region. `[真题]`
+>   - 中译：一支由16艘柴电潜艇组成的编队加强了该地区的水面舰队。；
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/submarine；
 
 
 ---

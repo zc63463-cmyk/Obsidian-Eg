@@ -122,8 +122,14 @@ idiom 源自希腊语 *idiōma* "特殊性、独特的短语"，来自 *idioumai
 
 > [!example]- 语料
 > - To " bite off more than you can chew " is an idiom that means you have tried to do something which is too difficult for you. `[例]`
+  - 中译：“贪多嚼不烂”是一个习语，意思是你试图做超出自己能力的事情。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/idiom；
 > - There are many possible ways to translate the German idiom "alles klar". `[例]`
+  - 中译：德语习语"alles klar"有很多种可能的翻译方式。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/idiom；
 > - They speak Sicilian, or Siculu, as it is in the local idiom. `[例]`
+  - 中译：他们说的是西西里语，或者按照当地的说法叫Siculu。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/idiom；
 
 
 ---

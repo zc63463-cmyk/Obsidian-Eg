@@ -130,8 +130,14 @@ race（种族，快速奔跑）+ -ial（形容词后缀，表示"与……相关
 
 > [!example]- 语料
 > - Racial discrimination remains a persistent problem in many societies despite legal protections. `[真题]`
+>   - 中译：尽管有法律保护，种族歧视在许多社会中仍然是一个持续存在的问题。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/racial；
 > - The civil rights movement was a landmark in the struggle for racial equality in the United States. `[真题]`
+>   - 中译：民权运动是美国种族平等斗争中的一个里程碑。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/racial；
 > - He believes that he is a victim of racial discrimination in the workplace. `[真题]`
+>   - 中译：他认为自己是职场种族歧视的受害者。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/racial；
 
 
 ---

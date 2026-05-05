@@ -134,9 +134,17 @@ review_count: 0
 
 > [!example]- 语料
 > - Scientists have detected minute differences in the DNA sequences of the two species. `[真题]`
+> - 中译：科学家检测到了两个物种DNA序列中的微小差异。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/minute；
 > - I'll be with you in a minute. `[真题]`
+> - 中译：我马上就来。；
+> - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/minute；
 > - The price difference is minute, hardly noticeable. `[真题]`
+> - 中译：价格差异微乎其微，几乎察觉不到。；
+> - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/minute；
 > - Mr. Jobs's say over the minute details of Apple's products is legendary in Silicon Valley. `[真题]`
+> - 中译：乔布斯先生对苹果产品细节的关注在硅谷是传奇性的。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/minute；
 
 
 ---

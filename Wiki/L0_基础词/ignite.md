@@ -124,8 +124,14 @@ ignite 源自拉丁语 *ignis* "火"。*ignis* 是原始印欧语 *\*egni-* 的�
 
 > [!example]- 语料
 > - The fuel spontaneously ignites because of the high temperature and pressure. `[例]`
+  - 中译：由于高温和高压，燃料会自燃。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ignite；
 > - The proposed restrictions have ignited a storm of protest. `[例]`
+  - 中译：拟议的限制措施引发了一场抗议风暴。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ignite；
 > - The forest fire began when a spark from a campfire ignited some dry grass nearby. `[例]`
+  - 中译：森林火灾是由篝火的火星引燃附近干草而引起的。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ignite；
 
 
 ---

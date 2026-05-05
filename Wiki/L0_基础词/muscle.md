@@ -127,8 +127,14 @@ review_count: 0
 
 > [!example]- 语料
 > - He looks like a boxer , with thick arms and bulging (= large and clear to see ) muscles. `[例]`
+> - 中译：他看起来像个拳击手，手臂粗壮，肌肉隆起。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/muscle；
 > - He's 2 metres tall , with rippling muscles. `[例]`
+> - 中译：他身高两米，肌肉线条分明。；
+> - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/muscle；
 > - He flexed his muscles (= tightened them to make them look large and strong ) so that everyone could admire them. `[例]`
+> - 中译：他绷紧肌肉让所有人欣赏。；
+> - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/muscle；
 
 
 ---

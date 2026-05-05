@@ -129,8 +129,14 @@ review_count: 0
 
 > [!example]- 语料
 > - How much would it cost to hire a car for the weekend? `[例]`
+  - 中译：周末租一辆车要多少钱？；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hire；
 > - You could always hire a dress for the ball if you can't afford to buy one. `[例]`
+  - 中译：如果你买不起舞会礼服，总可以租一件。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hire；
 > - I was hired by the first company I applied to. `[例]`
+  - 中译：我申请的第一家公司就录用了我。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hire；
 
 
 ---

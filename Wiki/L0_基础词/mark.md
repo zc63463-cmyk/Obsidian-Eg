@@ -142,8 +142,14 @@ review_count: 0
 
 > [!example]- 语料
 > - France will this week mark the anniversary of the attack. `[真题]`
+> -   - 中译：法国本周将纪念这次袭击的周年；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/mark；
 > - Earlier, David Cameron issued a statement to mark the anniversary of the conflict. `[真题]`
-> - Choose the best word ( s) for each numbered blank and mark A, B , C or D on th� ANSWER SHEET. ( 10 points) Caravanserais were roadside inns that were built along the Silk Road in areas including China, North Africa and the Middle East. `[真题]`
+> -   - 中译：早些时候，大卫·卡梅伦发表声明以纪念这场冲突的周年；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/mark；
+> - Choose the best word ( s) for each numbered blank and mark A, B , C or D on th ANSWER SHEET. ( 10 points) Caravanserais were roadside inns that were built along the Silk Road in areas including China, North Africa and the Middle East. `[真题]`
+> -   - 中译：为每个编号的空白处选择最佳单词，并在答题卡上标出A、B、C或D；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/mark；
 
 
 ---

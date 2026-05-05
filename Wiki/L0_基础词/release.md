@@ -135,8 +135,14 @@ re-(=back，回) + lease(松开，拉丁语 *laxare*，与 [[relax]] 中的 lax 
 
 > [!example]- 语料
 > - Just three weeks before the Court's ruling on physician-assisted suicide, the National Academy of Science (NAS) released a two-volume report. `[真题]`
+  - 中译：就在法院对医助自杀做出裁决的三周前，美国国家科学院发布了一份两卷本的报告。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/release；
 > - Quicker turnarounds mean less wasted inventory, more frequent release, and more profit. `[真题]`
+  - 中译：更快的周转意味着更少的库存浪费、更频繁的发布和更多的利润。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/release；
 > - Police have released a picture of the man they want to question. `[例]`
+  - 中译：警方已公布了一张他们要盘问的男子的照片。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/release；
 
 
 ---

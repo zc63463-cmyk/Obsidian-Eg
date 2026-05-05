@@ -51,7 +51,7 @@ over-(翻转/越过) + throw(扔/抛)
 >    - → **摒弃（规则/观念）**：推翻旧有的制度/想法
 >      - 激活条件：overthrow tradition, overthrow the old system
 
-### 统筹
+### 统筹（选择适用的模式）
 
 - **一字一词概括**：overthrow 就是"翻下来"——把统治者翻下来、把旧制度翻下来
 - **方位隐喻**：权力在上→被翻到下→推翻
@@ -126,8 +126,14 @@ over-(翻转/越过) + throw(扔/抛)
 
 > [!example]- 语料
 > - He allegedly plotted to overthrow the government. `[例]`
+>   - 中译：据称他密谋推翻政府。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/overthrow；
 > - The overthrow of the dictatorship occurred in 1922. `[例]`
+>   - 中译：独裁政权于1922年被推翻。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/overthrow；
 > - In a game where power demands absolute loyalty, can the don stay in control, or will the family rise up and overthrow them? `[例]`
+>   - 中译：在一个权力要求绝对忠诚的游戏中，教父能否保持控制，还是家族会起来推翻他们？；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/overthrow；
 
 
 ---

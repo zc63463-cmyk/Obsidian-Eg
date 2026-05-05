@@ -136,8 +136,14 @@ review_count: 0
 
 > [!example]- 语料
 > - A study last year by the National Center for Science Education, a non­ profit group of scientists and teachers, looking at how state public schools across the country address climate change in science classes, gave barely half of US states a grade B + or higher. `[真题]`
+> -   - 中译：国家科学教育中心去年进行的一项研究表明；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/look；
 > - They looked at the picture and laughed. `[例]`
+> -   - 中译：他们看着那幅画笑了；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/look；
 > - Look at all these toys on the floor. `[例]`
+> -   - 中译：看看地板上这些玩具；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/look；
 
 
 ---

@@ -54,7 +54,7 @@ groan（源自古英语 *granian*，日耳曼语系，与 grunt 同源，拟声�
 >    - → **发出吱嘎声**：物体因重压发出声音
 >      - 激活条件：the floorboards groaned, the door groaned
 
-### 统筹
+### 统筹（选择适用的模式）
 
 - **一字一词概括**：groan 就是"沉吟"——人沉吟叫"呻吟"，物沉吟叫"吱嘎"
 - **延伸中心**：从"人因痛苦发出的声音"延伸到"物体因重压发出的声音"
@@ -129,8 +129,14 @@ groan（源自古英语 *granian*，日耳曼语系，与 grunt 同源，拟声�
 
 > [!example]- 语料
 > - We could hear the groans of the wounded soldiers. `[例]`
+  - 中译：我们能听到受伤士兵的呻吟声。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/groan；
 > - He looked at the piles of dirty dishes and gave a groan of dismay. `[例]`
+  - 中译：他看着一堆堆脏盘子，发出一声沮丧的呻吟。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/groan；
 > - The rescuers could hear the groans of someone trapped in the rubble. `[例]`
+  - 中译：救援人员能听到被困在废墟中某人的呻吟声。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/groan；
 
 
 ---

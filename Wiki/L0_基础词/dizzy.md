@@ -124,8 +124,14 @@ review_count: 0
 
 > [!example]- 语料
 > - She felt dizzy after standing up too quickly. `[真题]`
+>   - 中译：她站得太快，感到一阵眩晕。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/dizzy；
 > - The company adopted a dizzy approach to improve efficiency. `[真题]`
+>   - 中译：公司采用了一种令人目眩的方法来提高效率。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/dizzy；
 > - The plan offers a dizzy option for small organizations. `[真题]`
+>   - 中译：该计划为小型组织提供了一个令人目眩的选择。；
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/dizzy；
 
 
 ---

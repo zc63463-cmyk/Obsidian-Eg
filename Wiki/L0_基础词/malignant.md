@@ -137,9 +137,17 @@ mal-(坏/恶) + ign(=gen, 出生/产生) + -ant(形容词后缀)
 
 > [!example]- 语料
 > - Malignant melanoma can arise de novo and may present as an irregularly pigmented lesion with an irregular edge. `[COCA-ACAD]`
+> -   - 中译：恶性黑色素瘤可原发出现，表现为边缘不规则的色素性病变；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/malignant；
 > - An ulcer which fails to heal despite adequate therapy should be biopsied to exclude malignant change. `[COCA-ACAD]`
+> -   - 中译：经充分治疗后仍未愈合的溃疡应进行活检以排除恶性变化；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/malignant；
 > - She developed a malignant breast tumour. `[真题]`
+> -   - 中译：她患上了乳腺恶性肿瘤；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/malignant；
 > - Moreover, in the domestic rabbits, the warts were no longer benign, but malignant. `[真题]`
+> -   - 中译：此外，在家兔中，这些疣不再良性，而是恶性的；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/malignant；
 
 
 ---

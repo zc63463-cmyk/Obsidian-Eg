@@ -128,8 +128,14 @@ review_count: 0
 
 > [!example]- 语料
 > - I'm sorry to interrupt, but there's someone here to see you. `[真题]`
+>   - 中译：很抱歉打扰一下，这里有人要见你。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/interrupt；
 > - She tried to explain what had happened but he kept interrupting her. `[真题]`
+>   - 中译：她试图解释发生了什么，但他不断打断她。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/interrupt；
 > - Trade between the two countries was interrupted by the war. `[真题]`
+>   - 中译：两国之间的贸易因战争而中断。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/interrupt；
 
 
 ---

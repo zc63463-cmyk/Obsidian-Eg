@@ -131,8 +131,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Her face turned pale when she heard the devastating news about the earthquake that had struck her hometown. `[真题]`
+>   - 中译：当她听到地震袭击家乡的毁灭性消息时，她的脸变得苍白。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pale；
 > - The company's recent performance pales by comparison with its achievements in the previous decade. `[真题]`
+>   - 中译：与过去十年的成就相比，该公司最近的表现相形见绌。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pale；
 > - The plan offers a pale option for small organizations. `[真题]`
+>   - 中译：该计划为小型组织提供了一个苍白的选项。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pale；
 
 
 ---

@@ -125,6 +125,8 @@ review_count: 0
 > - Governments of every stripe have a tendency to try to control the press. `[COCA-ACAD]`
 > - Politicians of every stripe are taking to the streets with the same message. `[COCA-NEWS]`
 > - A soldier with a corporal's stripes on his arms stood guard at the gate. `[例]`
+>   - 中译：一名手臂上戴着下士军衔条纹的士兵在门口站岗。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/stripe；
 
 
 ---

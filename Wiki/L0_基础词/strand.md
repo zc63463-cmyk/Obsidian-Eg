@@ -128,8 +128,14 @@ review_count: 0
 
 > [!example]- 语料
 > - She tucked a loose strand of hair behind her ears. `[例]`
+>   - 中译：她把一缕散落的头发别到耳后。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/strand；
 > - A strand of dental floss. `[例]`
+>   - 中译：一根牙线。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/strand；
 > - There are so many different strands to the plot that it's hard to follow. `[例]`
+>   - 中译：情节中有太多不同的线索，很难跟上。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/strand；
 
 
 ---

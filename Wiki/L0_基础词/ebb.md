@@ -134,8 +134,14 @@ review_count: 0
 
 > [!example]- 语料
 > - To follow the arrival of letters, day by day and town by town, is to watch the ebb and flow of literary demand. `[真题]`
+>   - 中译：逐日逐城地追踪信件的到达，就是在观察文学需求的消长起伏。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ebb；
 > - But their strength was ebbing away, and neither DeFreitas nor Botham could contribute. `[真题]`
+>   - 中译：但他们的体力正在消退，德弗雷塔斯和博瑟姆都无法做出贡献。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/ebb；
 > - At his lowest ebb, Macari was threatened with imprisonment. `[真题]`
+>   - 中译：在最低谷时，马卡里面临入狱的威胁。；
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/ebb；
 
 
 ---

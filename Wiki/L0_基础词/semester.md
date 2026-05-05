@@ -128,8 +128,14 @@ semi-(半，拉丁语 *semi-*) + [[mest|mester]](月，拉丁语 *mensis*) → �
 
 > [!example]- 语料
 > - First, students were able to read a full-length authentic text in the first semester. `[真题]`
+  - 中译：首先，学生在第一学期就能够阅读一篇完整的真实文本。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/semester
 > - Naturalistic observations were carried out in the two classrooms over a 10-week period during the spring semester of the academic year. `[真题]`
+  - 中译：在学年的春季学期，对两个教室进行了为期10周的自然观察。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/semester
 > - The fall semester starts in September and ends in January. `[真题]`
+  - 中译：秋季学期于九月开始，一月结束。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/semester
 
 
 ---

@@ -130,8 +130,14 @@ doc(教导，拉丁语 *docere*) + -trin(名词后缀，表示行为的结果) +
 
 > [!example]- 语料
 > - The Monroe Doctrine asserted that the Western Hemisphere was off-limits to further European colonization. `[真题]`
+>   - 中译：门罗主义宣称西半球不允许欧洲进一步殖民。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/doctrine；
 > - The doctrine of separation of powers is fundamental to many democratic systems. `[真题]`
+>   - 中译：三权分立学说是许多民主制度的基石。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/doctrine；
 > - Traditional psychiatrists still follow the doctrines of Sigmund Freud. `[真题]`
+>   - 中译：传统精神科医生仍然遵循西格蒙德·弗洛伊德的学说。；
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/doctrine；
 
 
 ---

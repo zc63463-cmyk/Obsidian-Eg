@@ -129,8 +129,14 @@ pray(祈祷/恳求，拉丁语 *precari*)
 
 > [!example]- 语料
 > - Big-name PRH authors may suffer a bit, but it's those mid-list authors, who normally rely on Waterstones staff's passion for promoting books by lesser-known writers, who will be praying for an end to the dispute. `[真题]`
+>   - 中译：大牌企鹅兰登书屋作者可能受一些影响，但真正祈祷争端结束的，是那些通常依赖水石书店员工对推广不知名作家书籍的热情的中档作者。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pray；
 > - She knelt and prayed silently. `[例]`
+>   - 中译：她跪下来默默祈祷。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pray；
 > - Let us pray for the victims of this terrible disaster. `[例]`
+>   - 中译：让我们为这场可怕灾难的受害者祈祷。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pray；
 
 
 ---

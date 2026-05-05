@@ -126,8 +126,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The researchers proposed a greedy solution to the problem. `[例]`
+  - 中译：研究人员提出了一个贪心算法来解决这个问题。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/greedy；
 > - The company adopted a greedy approach to improve efficiency. `[例]`
+  - 中译：公司采用了一种贪心的方法来提高效率。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/greedy；
 > - The plan offers a greedy option for small organizations. `[例]`
+  - 中译：该计划为小型组织提供了一个贪心选项。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/greedy；
 
 
 ---

@@ -128,8 +128,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The figures do not take account of environmental losses such as coastal erosion. `[例]`
+  - 中译：这些数据没有考虑沿海侵蚀等环境损失。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/erosion；
 > - The landscape is marked by gullies and ravines formed by soil erosion. `[例]`
+  - 中译：这片地貌上布满了土壤侵蚀形成的沟壑和峡谷。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/erosion；
 > - The survey reveals a gradual erosion of the president's popularity and support. `[例]`
+  - 中译：调查显示，总统的声望和支持率正在逐渐下降。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/erosion；
 
 
 ---

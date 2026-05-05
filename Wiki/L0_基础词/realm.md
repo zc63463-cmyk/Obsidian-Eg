@@ -130,8 +130,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Snap decisions in reaction to rapid stimuli aren't exclusive to the interpersonal realm. `[真题]`
+>   - 中译：对快速刺激做出快速决策并非人际交往领域所独有。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/realm；
 > - So you can see how being good in the interpersonal realm actually was a direct benefit, even for effectively pursuing a technical task. `[真题]`
+>   - 中译：所以你可以看到，在人际交往领域表现出色实际上是一个直接的好处，即使对于有效地完成技术任务也是如此。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/realm；
 > - New discoveries in the realm of medicine have transformed patient care. `[真题]`
+>   - 中译：医学领域的新发现改变了患者护理。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/realm；
 
 
 ---

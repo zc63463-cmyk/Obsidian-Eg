@@ -124,8 +124,14 @@ hypo-(在下面，希腊语 *hypo*) + crisy(=crisis，判断/决定，希腊语 
 
 > [!example]- 语料
 > - There's one rule for her and another rule for everyone else and it's sheer hypocrisy. `[例]`
+  - 中译：对她一套规则，对其他人又是另一套规则，这纯粹是虚伪。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hypocrisy；
 > - Critics are accusing him of hypocrisy and deceit. `[例]`
+  - 中译：批评者指责他虚伪和欺骗。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hypocrisy；
 > - Her strongest criticism was reserved for the prime minister whom she accused of ' nauseating hypocrisy'. `[例]`
+  - 中译：她最严厉的批评留给了首相，指责他'令人作呕的虚伪'。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hypocrisy；
 
 
 ---

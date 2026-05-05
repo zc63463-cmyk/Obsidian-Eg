@@ -121,8 +121,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Her brother's dream was to open his own mechanic shop in Nicaragua. `[例]`
+> -   - 中译：她哥哥的梦想是在尼加拉瓜开一家自己的汽车修理店；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/mechanic；
 > - He had extreme difficulty sleeping, and missed the final exams in his apprenticeship as a vehicle mechanic. `[例]`
+> -   - 中译：他极度失眠，错过了汽车修理工学徒期的期末考试；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/mechanic；
 > - The mechanic installed new brakes on the car. `[例]`
+> -   - 中译：机械师给这辆车安装了新刹车；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/mechanic；
 
 
 ---

@@ -56,7 +56,7 @@ review_count: 0
 >    - → **粗暴的，粗鲁的**：不细腻的（像粗糙表面一样不柔和）
 >      - 激活条件：rough treatment, rough language
 
-### 统筹
+### 统筹（选择适用的模式）
 
 - **一字一词概括**：rough 就是"不精细"——表面不精细叫粗糙、估计不精细叫粗略、道路不精细叫艰难、行为不精细叫粗暴
 - **结构隐喻**：粗糙的触感→不精细→粗略/粗暴/艰难
@@ -134,8 +134,14 @@ review_count: 0
 
 > [!example]- 语料
 > - This figure is only a rough estimate, and we'll revise it when we have more information. `[真题]`
+  - 中译：这个数字只是一个粗略估计，我们会在获得更多信息后进行修正。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rough
 > - First do a rough draft of your essay, then read it through carefully before finalizing it. `[真题]`
+  - 中译：先写一篇论文的初稿，然后仔细通读后再定稿。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rough
 > - Even when the tires went flat or the road grew rough, we loved every minute of the journey. `[真题]`
+  - 中译：即使轮胎漏气或道路变得崎岖，我们也享受旅途的每一分钟。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rough
 
 
 ---

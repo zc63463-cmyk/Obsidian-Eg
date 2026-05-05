@@ -124,8 +124,14 @@ ridicul-(=ridicule, 嘲笑，拉丁语 *ridiculus*) + -ous(充满...的，形容
 
 > [!example]- 语料
 > - The researchers proposed a ridiculous solution to the problem. `[例]`
+  - 中译：研究人员提出了一个荒谬的解决方案。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ridiculous；
 > - The company adopted a ridiculous approach to improve efficiency. `[例]`
+  - 中译：该公司采用了一种荒唐的方法来提高效率。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/ridiculous；
 > - The plan offers a ridiculous option for small organizations. `[例]`
+  - 中译：该计划为小型组织提供了一个荒谬的选择。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ridiculous；
 
 
 ---

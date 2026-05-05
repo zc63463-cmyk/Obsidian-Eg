@@ -127,8 +127,14 @@ review_count: 0
 
 > [!example]- 语料
 > - That could lead to increasing inventories providing some sustained downward pressure on new vehicle pricing. `[真题]`
+>   - 中译：这可能导致库存增加，从而对新车价格造成持续的下行压力。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/downward；
 > - We are in that downward trough at the moment. `[真题]`
+>   - 中译：我们目前正处于下行低谷。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/downward；
 > - We would need to have an ongoing downward trajectory to be satisfied with that. `[真题]`
+>   - 中译：我们需要有一个持续的下行趋势才能对此感到满意。；
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/downward；
 
 
 ---

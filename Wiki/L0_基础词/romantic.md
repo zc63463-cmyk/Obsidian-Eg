@@ -130,8 +130,14 @@ review_count: 0
 
 > [!example]- 语料
 > - People have a romantic attachment to the idea of the self-made man. `[真题]`
+  - 中译：人们对白手起家的理念有一种浪漫的依恋。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/romantic
 > - She had romantic notions about becoming a famous artist. `[真题]`
+  - 中译：她对成为著名艺术家抱有浪漫的幻想。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/romantic
 > - They enjoyed a romantic dinner by candlelight on the terrace. `[真题]`
+  - 中译：他们在露台上享受了一顿烛光浪漫晚餐。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/romantic
 
 
 ---

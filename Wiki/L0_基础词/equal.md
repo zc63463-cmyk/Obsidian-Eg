@@ -135,8 +135,14 @@ review_count: 0
 
 > [!example]- 语料
 > - One litre is equal to 1.76 imperial pints. `[例]`
+  - 中译：一升等于1.76英制品脱。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/equal；
 > - One box may look bigger than the other, but in fact they are roughly (= almost ) equal in volume. `[例]`
+  - 中译：一个盒子可能看起来比另一个大，但实际上它们的体积大致相等。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/equal；
 > - All people are equal, deserving the same rights as each other. `[例]`
+  - 中译：人人平等，都应享有彼此相同的权利。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/equal；
 
 
 ---

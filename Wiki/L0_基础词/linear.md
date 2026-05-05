@@ -126,8 +126,14 @@ lin(线，拉丁语 *linea*) + -ear(形容词后缀，表示"属于……的")
 
 > [!example]- 语料
 > - Linear features , such as walls and roads , are easy to see from the air because they cut across natural features. `[例]`
+> -   - 中译：线性地物，如墙壁和道路，从空中很容易看到，因为它们横穿自然地貌；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/linear；
 > - Linear measurements may be given either in imperial or metric units , but area is normally quoted in square metres. `[例]`
+> -   - 中译：线性测量可以用英制或公制单位给出，但面积通常以公顷或英亩为单位；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/linear；
 > - Usually, stories are told in a linear way, from start to finish. `[例]`
+> -   - 中译：通常，故事以线性方式讲述，从头到尾；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/linear；
 
 
 ---

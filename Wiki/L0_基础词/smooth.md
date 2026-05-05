@@ -134,8 +134,14 @@ review_count: 0
 
 > [!example]- 语料
 > - This custard is deliciously smooth and creamy. `[例]`
+  - 中译：这份蛋奶冻口感顺滑细腻，非常美味。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/smooth；
 > - The road ahead was flat and smooth. `[例]`
+  - 中译：前方的道路平坦光滑。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/smooth；
 > - This moisturizer will help to keep your skin smooth. `[例]`
+  - 中译：这款润肤霜有助于保持皮肤光滑。；
+  - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/smooth；
 
 
 ---

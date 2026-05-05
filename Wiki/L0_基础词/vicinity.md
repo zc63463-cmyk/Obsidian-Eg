@@ -130,9 +130,17 @@ vicin（邻近的，拉丁语 *vicinus*，与 [[vis-vid]] 同源——"看得见
 
 > [!example]- 语料
 > - The Chester Creek greenbelt trail had been closed off in the vicinity of the fire. `[例]`
+>   - 中译：切斯特溪绿道步道在火灾附近区域已被关闭。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/vicinity；
 > - Unconfirmed images posted on social media purport to show recent explosions in the vicinity of the city's medieval citadel. `[例]`
+>   - 中译：社交媒体上发布的未经证实的图片据称显示了城市中世纪城堡附近最近的爆炸事件。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/vicinity；
 > - The Fed projects that inflation will sink to 2.4% next year, in the vicinity of its 2% target. `[例]`
+>   - 中译：美联储预测明年通胀率将降至2.4%，接近其2%的目标。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/vicinity；
 > - Anyone who happened to be in the vicinity could have been injured or killed. `[例]`
+>   - 中译：任何碰巧在附近的人都可能受伤或丧命。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/vicinity；
 
 
 ---

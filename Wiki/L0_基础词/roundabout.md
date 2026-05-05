@@ -53,7 +53,7 @@ review_count: 0
     - → **环形交叉路口**：车辆绕着转的路口
       - 激活条件：traffic roundabout
 
-### 统筹
+### 统筹（选择适用的模式）
 
 - **一字一词概括**：roundabout 就是"绕着走"——走路绕道、说话绕弯、车绕环岛转
 - **结构隐喻**：绕路→说话做事不直接
@@ -126,8 +126,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The researchers proposed a roundabout solution to the problem. `[真题]`
+  - 中译：研究人员提出了一个间接的解决方案。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/roundabout
 > - She told him the news in a roundabout way, not wanting to hurt his feelings directly. `[真题]`
+  - 中译：她拐弯抹角地把消息告诉了他，不想直接伤害他的感情。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/roundabout
 > - The car stalled at the roundabout and caused a long tailback during rush hour. `[真题]`
+  - 中译：汽车在环岛处熄火，在高峰时段造成了长长的交通拥堵。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/roundabout
 
 
 ---

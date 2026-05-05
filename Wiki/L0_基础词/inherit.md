@@ -136,7 +136,11 @@ in-(=in, 在……里面) + her(=haerere, 粘附，拉丁语 *haerere*) + -it(�
 
 > [!example]- 语料
 > - At a time when Thomas Piketty and other economists are warning of rising inequality and the increasing power of inherited wealth, it is bizarre that wealthy aristocratic families should still be the symbolic heart of modern democratic states. `[真题]`
+  - 中译：在托马斯·皮凯蒂等经济学家警告不平等加剧和继承财富力量增强的时代，富有的贵族家庭仍然是现代民主国家的象征核心，这令人匪夷所思。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/inherit；
 > - To a certain extent, our ability to excel in making the connections that drive intelligence is inherited. `[真题]`
+  - 中译：在某种程度上，我们在建立驱动智能的联系方面的卓越能力是遗传的。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/inherit；
 > - She inherited her mother's good looks and her father's stubbornness. `[COCA-FICT]`
 > - The new government inherited many of the problems of the previous administration. `[COCA-NEWS]`
 

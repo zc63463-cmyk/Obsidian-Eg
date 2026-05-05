@@ -128,7 +128,11 @@ review_count: 0
 > [!example]- 语料
 > - Many consumers now refuse to buy products made from real animal fur. `[真题]`
 > - She had on a black coat with a fur collar. `[例]`
+>   - 中译：她穿着一件黑色皮草领大衣。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fur；
 > - Season after season, fake fur becomes more realistic as technology improves. `[例]`
+>   - 中译：随着技术的进步，人造皮毛一季又一季地变得越来越逼真。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fur；
 
 
 ---

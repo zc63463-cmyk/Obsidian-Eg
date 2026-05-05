@@ -131,8 +131,14 @@ ex-（向外）+ pend（称重/支付）+ -iture（名词后缀，表行为/状�
 
 > [!example]- 语料
 > - It's part of a drive to cut government expenditure. `[例]`
+  - 中译：这是削减政府开支举措的一部分。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/expenditure；
 > - The government's annual expenditure on arms has been reduced. `[例]`
+  - 中译：政府的年度军费开支已经减少。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/expenditure；
 > - The expenditure of effort on this project has been enormous. `[例]`
+  - 中译：在这个项目上花费的精力是巨大的。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/expenditure；
 
 ---
 

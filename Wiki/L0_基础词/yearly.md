@@ -131,8 +131,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The company's **yearly** revenue exceeded expectations, driven by strong growth in emerging markets. `[例]`
+>   - 中译：受新兴市场强劲增长的推动，该公司的年收入超出了预期。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/yearly；
 > - Scientists have observed a steady decline in the **yearly** migration patterns of several bird species. `[例]`
+>   - 中译：科学家们观察到几种鸟类的年度迁徙模式呈持续下降趋势。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/yearly；
 > - The annual report showed a steady increase in **yearly** profits over the past five years. `[例]`
+>   - 中译：年度报告显示，过去五年中年利润稳步增长。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/yearly；
 
 
 ---

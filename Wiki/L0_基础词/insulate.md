@@ -132,8 +132,14 @@ insulate（1530年代，源自晚期拉丁语 *insulatus* "使变成像岛屿一
 
 > [!example]- 语料
 > - You can insulate a house against heat loss by having the windows double-glazed. `[例]`
+>   - 中译：你可以通过给窗户安装双层玻璃来使房屋隔热，减少热量损失。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/insulate；
 > - Be sure to insulate pipes from summer heat and winter cold. `[例]`
+>   - 中译：务必使管道与夏季炎热和冬季严寒隔绝。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/insulate；
 > - There are tax incentives to encourage people to insulate their homes. `[例]`
+>   - 中译：有税收优惠政策鼓励人们为房屋做隔热处理。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/insulate；
 
 
 ---

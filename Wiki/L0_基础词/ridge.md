@@ -126,8 +126,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The hikers rested under a towering ridge near the coastal trail. `[例]`
+  - 中译：徒步旅行者在沿海步道旁一座高耸的山脊下休息。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ridge；
 > - The cabin was built from durable ridge gathered in the region. `[例]`
+  - 中译：这间小屋是用该地区采集的耐久山脊木材建造的。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/ridge；
 > - A line of ridge trees rose above the morning fog. `[例]`
+  - 中译：一排山脊上的树木在晨雾中若隐若现。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/ridge；
 
 
 ---

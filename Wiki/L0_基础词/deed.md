@@ -131,8 +131,14 @@ deed 源自古英语 *dēd*（做、行为），是 do 的名词形式（do 的�
 
 > [!example]- 语料
 > - It seems to me that a lot of evil deeds are done in the name of religion. `[例]`
+  - 中译：在我看来，许多恶行都是以宗教的名义犯下的。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/deed；
 > - She's always helping people and doing good deeds. `[例]`
+  - 中译：她总是帮助别人，做好事。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/deed；
 > - Whatever his motives , the deed did save a hundred thousand lives. `[例]`
+  - 中译：无论他的动机如何，这一行为确实拯救了十万条生命。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/deed；
 
 
 ---

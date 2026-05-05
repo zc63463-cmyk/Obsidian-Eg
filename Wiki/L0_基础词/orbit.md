@@ -129,8 +129,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The satellite is now in a stable orbit. `[例]`
+>   - 中译：卫星现在处于稳定的轨道上。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/orbit；
 > - Once in space , the spacecraft will go into orbit around Earth. `[例]`
+>   - 中译：一旦进入太空，航天器将进入绕地球运行的轨道。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/orbit；
 > - A dental infection involving the upper teeth can easily spread itself into the orbit. `[例]`
+>   - 中译：涉及上牙的牙科感染很容易扩散到眼眶。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/orbit；
 
 
 ---

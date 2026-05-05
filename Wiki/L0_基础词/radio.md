@@ -138,8 +138,14 @@ radi-(射线/辐射，拉丁语 *radius* 辐射线) + -o(名词后缀)
 
 > [!example]- 语料
 > - The pilot radioed in to the control tower to report the emergency. `[真题]`
+>   - 中译：飞行员通过无线电向控制塔报告了紧急情况。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/radio；
 > - I switched on the radio. `[例]`
+>   - 中译：我打开了收音机。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/radio；
 > - She's got some kind of job in radio. `[例]`
+>   - 中译：她在广播行业有某种工作。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/radio；
 
 
 ---

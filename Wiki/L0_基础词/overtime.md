@@ -53,7 +53,7 @@ over-(超过) + time(时间)
 >    - → **加时赛**：超过常规比赛时间
 >      - 激活条件：go into overtime, overtime period
 
-### 统筹
+### 统筹（选择适用的模式）
 
 - **一字一词概括**：overtime 就是"超出的时间"——超出的工作时间、超出的比赛时间
 - **延伸中心**：从"超时工作"延伸到"加班费"再到"加时赛"
@@ -129,8 +129,14 @@ over-(超过) + time(时间)
 
 > [!example]- 语料
 > - Everyone is on overtime (= being paid extra for working after the usual time ) this weekend. `[例]`
+>   - 中译：这个周末所有人都在加班（即领取额外加班费）。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/overtime；
 > - If the game ends in a tie , overtime will be played. `[例]`
+>   - 中译：如果比赛以平局结束，将进行加时赛。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/overtime；
 > - They lost to the Bears in overtime. `[例]`
+>   - 中译：他们在加时赛中输给了熊队。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/overtime；
 
 
 ---

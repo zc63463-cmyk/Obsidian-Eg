@@ -123,7 +123,11 @@ funer-(=funus, 死亡/葬礼，拉丁语) + -al(名词/形容词后缀，"与…
 > [!example]- 语料
 > - Thousands attended the funeral of the former president. `[真题]`
 > - Seeing the body and attending the funeral are a way of saying goodbye and accepting the reality and finality of the death. `[例]`
+>   - 中译：瞻仰遗容和参加葬礼是告别和接受死亡现实的一种方式。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/funeral；
 > - The differences between a state funeral and a ceremonial funeral are largely symbolic. `[例]`
+>   - 中译：国葬和仪式葬之间的差异在很大程度上是象征性的。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/funeral；
 
 
 ---

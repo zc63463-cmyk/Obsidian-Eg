@@ -129,9 +129,17 @@ review_count: 0
 
 > [!example]- 语料
 > - The region is rich in mineral resources, with numerous gold and copper mines. `[真题]`
+> - 中译：该地区矿产资源丰富，有众多金矿和铜矿。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/mine；
 > - His left leg was blown off after he stepped on a mine during the war. `[真题]`
+> - 中译：战争期间他踩到地雷，左腿被炸断。；
+> - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/mine；
 > - She is a mine of information about local history. `[真题]`
+> - 中译：她是当地历史的信息宝库。；
+> - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/mine；
 > - The company has been mining for gold in this area for over a decade. `[真题]`
+> - 中译：该公司在这个地区开采金矿已超过十年。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/mine；
 
 
 ---

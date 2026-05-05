@@ -129,8 +129,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Her performance in the play elevated her to stardom. `[真题]`
+>   - 中译：她在剧中的表演使她一举成名。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/elevate；
 > - The organization's mission is to elevate the quality of education. `[真题]`
+>   - 中译：该组织的使命是提升教育质量。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/elevate；
 > - Good literature can elevate the mind and enrich the soul. `[真题]`
+>   - 中译：优秀的文学可以升华心灵、丰富灵魂。；
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/elevate；
 
 
 ---

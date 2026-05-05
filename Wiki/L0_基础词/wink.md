@@ -129,8 +129,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The veteran detective winked at his young partner, signaling that they should not reveal what they had just discovered to the suspect. `[真题]`
+>   - 中译：这位经验丰富的侦探向他的年轻搭档眨了眨眼，示意他们不应向嫌疑人透露他们刚刚发现的事情。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/wink；
 > - In the age of social media, news can spread across the globe in a wink, making it increasingly difficult for governments to control the flow of information. `[真题]`
+>   - 中译：在社交媒体时代，新闻可以在瞬间传遍全球，使得政府越来越难以控制信息流动。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/wink；
 > - The stars winked in the clear night sky like diamonds scattered on black velvet. `[真题]`
+>   - 中译：星星在晴朗的夜空中闪烁，如同散落在黑色天鹅绒上的钻石。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/wink；
 
 
 ---

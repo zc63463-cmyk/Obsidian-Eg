@@ -138,9 +138,14 @@ pen-(惩罚，拉丁语 *poena* 罚金/惩罚) + -alty(名词后缀，表示状�
 
 > [!example]- 语料
 > - Especially for women, there is a clear penalty at work for being overweight or obese. `[例]`
+  - 中译：尤其是对女性来说，超重或肥胖在工作中会带来明显的惩罚。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/penalty；
 > - The penalty for murder is life imprisonment. `[例]`
+  - 中译：谋杀罪的刑罚是终身监禁。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/penalty；
 > - They asked for the maximum penalty for hoax calls to be increased to one year. `[例]`
-
+  - 中译：他们要求将虚假报警的最高刑罚提高至一年。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/penalty；
 
 ---
 

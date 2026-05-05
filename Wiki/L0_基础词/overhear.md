@@ -49,7 +49,7 @@ over-(额外/在旁边) + hear(听)
 >    - → **偷听**：有意或无意地听到私密对话
 >      - 激活条件：overhear their plans
 
-### 统筹
+### 统筹（选择适用的模式）
 
 - **一字一词概括**：overhear 就是"顺便听到"——不是刻意去听，但声音传到了耳朵里
 - **延伸中心**：从"无意中听到"到"偷听"（程度加深）
@@ -121,8 +121,14 @@ over-(额外/在旁边) + hear(听)
 
 > [!example]- 语料
 > - I'm sorry , I couldn't help overhearing. `[例]`
+>   - 中译：抱歉，我忍不住偷听到了。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/overhear；
 > - They were so loud , I couldn’t help overhearing. `[例]`
+>   - 中译：他们声音太大了，我忍不住听到了。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/overhear；
 > - For creator Lee Sung Jin, the inspiration came from overhearing a heated dispute inside a couple’s home. `[例]`
+>   - 中译：对于创作者李成镇来说，灵感来源于无意中听到一对夫妇家中激烈的争吵。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/overhear；
 
 
 ---

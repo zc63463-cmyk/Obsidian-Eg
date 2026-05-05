@@ -51,7 +51,7 @@ over-(全面/彻底) + haul(拖/拉)
 >    - → **全面改革（制度/体系）**：像检修机器一样全面检查改革
 >      - 激活条件：overhaul the education system, overhaul the tax code
 
-### 统筹
+### 统筹（选择适用的模式）
 
 - **一字一词概括**：overhaul 就是"大拆大检"——拆开机器大检修、拆开制度大改革
 - **结构隐喻**：制度/体系是机器，改革就是"彻底检修"
@@ -127,8 +127,14 @@ over-(全面/彻底) + haul(拖/拉)
 
 > [!example]- 语料
 > - The hikers rested under a towering overhaul near the coastal trail. `[例]`
+>   - 中译：徒步旅行者在海岸步道附近一个高耸的检修处休息。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/overhaul；
 > - The cabin was built from durable overhaul gathered in the region. `[例]`
+>   - 中译：小木屋是用该地区收集的耐用的检修材料建造的。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/overhaul；
 > - A line of overhaul trees rose above the morning fog. `[例]`
+>   - 中译：一排检修树从晨雾中升起。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/overhaul；
 
 
 ---

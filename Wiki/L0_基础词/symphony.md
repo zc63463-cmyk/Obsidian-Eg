@@ -121,8 +121,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Beethoven's Ninth Symphony is considered one of the greatest musical works ever composed. `[真题]`
+>   - 中译：贝多芬的第九交响曲被认为是有史以来最伟大的音乐作品之一。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/symphony；
 > - The garden was a symphony of colors in spring. `[例]`
+>   - 中译：春天的花园是一曲色彩的交响。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/symphony；
 > - He expects us to be participants in the great symphony of life. `[例]`
+>   - 中译：他期望我们成为生命伟大交响曲中的参与者。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/symphony；
 
 
 ---

@@ -130,9 +130,17 @@ review_count: 0
 
 > [!example]- 语料
 > - The government made an investigation of the employment in the public and private sectors. `[真题]`
+  - 中译：政府对公共和私营部门的就业情况进行了调查。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sector
 > - For the high-tech sector, there are a few other interesting findings. `[真题]`
+  - 中译：对于高科技行业，还有一些其他有趣的发现。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sector
 > - Many scientists working for the government have left for the private sector. `[真题]`
+  - 中译：许多为政府工作的科学家已经转到了私营部门。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sector
 > - Let's remember that the financial sector does not make anything. `[真题]`
+  - 中译：让我们记住，金融部门并不生产任何东西。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sector
 
 
 ---

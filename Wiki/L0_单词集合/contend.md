@@ -52,7 +52,7 @@ con-(共同/一起) + [[tempt-tent]](to stretch/拉伸) + (无后缀)
 >    - → **应付；处理**：与困难"拉扯"
 >      - 激活条件：contend with + 困难
 
-### 统筹
+### 统筹（选择适用的模式）
 
 - **v + 不同宾语**：contend for power（争夺权力）→ contend that...（主张……）→ contend with difficulties（应付困难）
 - **一字一词概括**："争"——争夺利益→争辩观点→争斗困难

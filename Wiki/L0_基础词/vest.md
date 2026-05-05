@@ -138,9 +138,17 @@ vest（拉丁语 *vestis* 衣服，*vestire* 穿衣）
 
 > [!example]- 语料
 > - Political power is now vested in the elected representatives of the people. `[例]`
+>   - 中译：政治权力现在归属于人民选举产生的代表。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/vest；
 > - The state requires that there be a life vest for each person in the boat. `[例]`
+>   - 中译：州政府要求船上每人配备一件救生衣。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/vest；
 > - Practically everybody involved has a vested interest in making the child drop her claim. `[例]`
+>   - 中译：几乎所有相关方都有既得利益，希望这个孩子放弃她的主张。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/vest；
 > - After three years in the pension plan, you become fully vested. `[例]`
+>   - 中译：参加养老金计划三年后，你就完全享有归属权。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/vest；
 
 
 ---

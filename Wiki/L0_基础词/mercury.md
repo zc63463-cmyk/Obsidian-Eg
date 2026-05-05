@@ -125,9 +125,17 @@ review_count: 0
 
 > [!example]- 语料
 > - The mercury soared above 40 degrees Celsius during the heatwave. `[真题]`
+> - 中译：热浪期间温度飙升至40摄氏度以上。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/mercury；
 > - Mercury is the closest planet to the Sun and has the shortest orbital period. `[真题]`
+> - 中译：水星是离太阳最近的行星，公转周期最短。；
+> - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/mercury；
 > - Exposure to mercury can cause serious neurological damage. `[真题]`
+> - 中译：接触汞可造成严重的神经损伤。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/mercury；
 > - The hikers rested under a towering mercury near the coastal trail. `[例]`
+> - 中译：徒步旅行者在海岸步道旁一棵高耸的水银树（白千层）下休息。；
+> - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/mercury；
 
 
 ---

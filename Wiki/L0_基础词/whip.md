@@ -130,8 +130,14 @@ whip 源自古英语 *wīp*（鞭子、抽打），与中古低地德语 *wippen
 
 > [!example]- 语料
 > - She lashed the horses mercilessly with her long whip. `[例]`
+>   - 中译：她用长鞭无情地抽打马匹。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/whip；
 > - The lion-tamer cracked his whip. `[例]`
+>   - 中译：驯狮师甩响了鞭子。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/whip；
 > - Hargreaves is the MP who got into trouble with his party's chief whip for opposing the tax reform. `[例]`
+>   - 中译：哈格里夫斯是那位因反对税收改革而与本党首席党鞭发生冲突的议员。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/whip；
 
 
 ---

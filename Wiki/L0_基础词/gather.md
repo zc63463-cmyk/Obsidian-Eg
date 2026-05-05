@@ -134,9 +134,17 @@ gather 源自原始日耳曼语 *\*gadurōną*（聚集），与 [[together]]（
 
 > [!example]- 语料
 > - I gather his report is highly critical of the trial judge. `[真题]`
+>   - 中译：我了解到他的报告对初审法官进行了严厉批评。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/gather；
 > - The car gathered speed as it headed down the highway. `[真题]`
+>   - 中译：汽车在公路上行驶时加速了。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/gather；
 > - She was gathering up her courage to approach him when he called to her. `[真题]`
+>   - 中译：她正在鼓起勇气向他走去，这时他叫了她。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/gather；
 > - From the survey data, we can gather that public opinion is shifting on this issue. `[真题]`
+>   - 中译：从调查数据中，我们可以推断出公众在这个问题上的舆论正在转变。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/gather；
 
 
 ---

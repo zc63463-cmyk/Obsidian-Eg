@@ -130,8 +130,14 @@ review_count: 0
 
 > [!example]- 语料
 > - A major naval battle was fought near here. `[例]`
+> - 中译：附近曾发生过一场重大海战。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/naval；
 > - Many diplomats attended a naval review to mark the anniversary of the end of the war. `[例]`
+> - 中译：许多外交官出席了为纪念战争结束周年而举行的海军阅兵式。；
+> - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/naval；
 > - Allegations of sexual harassment have led to disciplinary proceedings being taken against three naval officers. `[例]`
+> - 中译：性骚扰指控导致三名海军军官受到纪律处分。；
+> - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/naval；
 
 
 ---

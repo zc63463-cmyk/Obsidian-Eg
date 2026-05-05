@@ -124,8 +124,14 @@ stare 源自古英语 *starian*（凝视），与 [[st-sta-stat|st-/sta-/stat-]]
 
 > [!example]- 语料
 > - Don't stare at people like that - it's rude. `[例]`
+>   - 中译：不要那样盯着别人看——那是不礼貌的。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/stare；
 > - Chuck sat quietly for hours staring into the distance , thinking of what might have been. `[例]`
+>   - 中译：查克静静地坐了几个小时，凝视着远方，想着如果当初怎样会怎样。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/stare；
 > - During the press conference , each boxer tried to stare the other down (= force the other to look away by continual staring). `[例]`
+>   - 中译：在新闻发布会上，每位拳击手都试图以目光逼退对方。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/stare；
 
 
 ---

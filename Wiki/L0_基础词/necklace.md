@@ -126,8 +126,14 @@ neck（脖子）+ lace（带子、蕾丝，源自拉丁语 *laqueus* "绳索、�
 
 > [!example]- 语料
 > - She fingered her necklace absent-mindedly as she talked. `[例]`
+> - 中译：她说话时心不在焉地摩挲着项链。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/necklace；
 > - Her diamond necklace glittered brilliantly under the spotlights. `[例]`
+> - 中译：她的钻石项链在聚光灯下闪闪发光。；
+> - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/necklace；
 > - This necklace was handed down to my mother by my grandmother. `[例]`
+> - 中译：这条项链是我祖母传给我母亲的。；
+> - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/necklace；
 
 
 ---

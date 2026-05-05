@@ -126,9 +126,14 @@ penny 源自古英语 *penning*，与古日耳曼语 *panning* 同源，原始�
 
 > [!example]- 语料
 > - He has not a penny to his name. `[例]`
+  - 中译：他身无分文。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/penny；
 > - The new technology could save companies a pretty penny in operational costs. `[例]`
+  - 中译：这项新技术可以为公司节省一大笔运营成本。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/penny；
 > - It didn't cost him a penny because it was covered by the state's healthcare program. `[例]`
-
+  - 中译：这没有花他一分钱，因为费用由国家医疗计划承担。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/penny；
 
 ---
 

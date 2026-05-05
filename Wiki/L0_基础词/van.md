@@ -126,8 +126,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The raiders machine-gunned everyone in the bank before escaping in a van. `[例]`
+>   - 中译：劫匪用机枪扫射了银行里的所有人，然后乘坐面包车逃跑。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/van；
 > - Domestic law enforcement could disguise the vehicle as a delivery van and use it to scan cars in, say, a stadium parking lot. `[COCA-NEWS]`
+>   - 中译：国内执法部门可以将车辆伪装成快递货车，用它来扫描停车场等场所的汽车。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/van；
 > - The van drivers refused to cross the picket line. `[例]`
+>   - 中译：货车司机拒绝穿过纠察线。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/van；
 
 
 ---

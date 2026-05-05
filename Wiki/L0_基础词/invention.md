@@ -125,8 +125,14 @@ in-(进入) + [[ven-vent|ven]](来，拉丁语 *venire*) + -tion(名词后缀，
 
 > [!example]- 语料
 > - The invention of the internet has revolutionized the way we communicate. `[真题]`
+>   - 中译：互联网的发明彻底改变了我们的通信方式。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/invention；
 > - The spinning wheel was a Chinese invention that changed textile production. `[例]`
+>   - 中译：纺车是一项改变纺织生产的中国发明。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/invention；
 > - The story was certainly a favourite one, but it was undoubtedly pure invention. `[例]`
+>   - 中译：这个故事确实很受欢迎，但毫无疑问纯属虚构。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/invention；
 
 
 ---

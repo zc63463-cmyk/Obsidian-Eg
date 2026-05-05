@@ -127,8 +127,14 @@ review_count: 0
 
 > [!example]- 语料
 > - On the surface, the proposal seems reasonable, but there are hidden problems. `[真题]`
+>   - 中译：表面上看，这个提案似乎合理，但存在隐藏的问题。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/surface；
 > - The truth about the scandal finally surfaced after years of investigation. `[真题]`
+>   - 中译：经过多年的调查，丑闻的真相终于浮出水面。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/surface；
 > - Snow-capped mountains surround the city, and the lake's surface reflects the sky. `[真题]`
+>   - 中译：白雪皑皑的群山环绕着这座城市，湖面映照着天空。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/surface；
 
 
 ---

@@ -128,8 +128,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Our splendid weather ended with a terrible storm. `[例]`
+>   - 中译：我们极好的天气以一场可怕的风暴告终。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/splendid；
 > - The splendid old opera house was torn down. `[例]`
+>   - 中译：那座壮观的古老歌剧院被拆除了。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/splendid；
 > - The hotel stands in splendid isolation , surrounded by moorland. `[例]`
+>   - 中译：这家酒店孤零零地矗立着，四周是荒野。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/splendid；
 
 
 ---

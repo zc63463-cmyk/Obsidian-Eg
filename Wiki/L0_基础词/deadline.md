@@ -126,8 +126,14 @@ review_count: 0
 
 > [!example]- 语料
 > - There's no way I can meet that deadline. `[例]`
+  - 中译：我不可能赶上那个截止日期。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/deadline；
 > - We're working to a tight deadline (= we do not have much time to finish the work ). `[例]`
+  - 中译：我们在紧迫的截止日期前工作。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/deadline；
 > - I'm afraid you've missed the deadline - the deadline for applications was 30 May. `[例]`
+  - 中译：恐怕你已经错过了截止日期——申请截止日期是5月30日。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/deadline；
 
 
 ---

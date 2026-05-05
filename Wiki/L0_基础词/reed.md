@@ -129,8 +129,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The river banks were overgrown with reeds. `[真题]`
+  - 中译：河岸上长满了芦苇。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/reed；
 > - I regret to say that some of our allies today are broken reeds. `[真题]`
+  - 中译：我很遗憾地说，我们今天的一些盟友是靠不住的。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/reed；
 > - Each is a mix of bare granite and forest tucked up inside a skirt of reeds. `[真题]`
+  - 中译：每一个都是裸露的花岗岩和森林的混合体，被一圈芦苇环绕着。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/reed；
 
 
 ---

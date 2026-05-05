@@ -127,9 +127,17 @@ in-(在……上/靠近) + [[st-sta-stat|st]](站立，拉丁语 *stare*) + -anc
 
 > [!example]- 语料
 > - Murder, petty theft and tax evasion, for instance, all have different motives and consequences. `[真题]`
+  - 中译：例如，谋杀、小偷小摸和逃税都有不同的动机和后果。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/instance；
 > - They have decided not to oppose the decision in this instance. `[真题]`
+  - 中译：在这种情况下，他们决定不反对这项决定。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/instance；
 > - Burials, for instance, are underneath platforms, within the limits of the dwellings. `[例]`
+  - 中译：例如，墓葬位于平台下方，在住宅的范围之内。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/instance；
 > - Scholars have found, for instance, surprising links between Taylor and a number of literary figures. `[例]`
+  - 中译：例如，学者们发现了泰勒与多位文学人物之间令人惊讶的联系。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/instance；
 
 
 ---

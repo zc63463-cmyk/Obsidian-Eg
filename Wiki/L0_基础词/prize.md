@@ -138,8 +138,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The critics ' prize for best film was won by Marc Abbott for "Belly Laugh". `[例]`
+>   - 中译：评论家最佳影片奖由马克·阿博特凭借《捧腹大笑》获得。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/prize；
 > - The first (= main ) prize is a week for two in Miami. `[例]`
+>   - 中译：一等奖是迈阿密双人一周游。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/prize；
 > - The prize money for winning Wimbledon has been increased by 12.5 per cent. `[例]`
+>   - 中译：温布尔登网球赛的奖金提高了12.5%。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/prize；
 
 
 ---

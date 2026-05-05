@@ -132,8 +132,14 @@ hear(听) + -ing(名词后缀，表示动作/过程/结果) → 听的行为/过
 
 > [!example]- 语料
 > - A disciplinary hearing will examine charges of serious professional misconduct against three surgeons. `[例]`
+  - 中译：一场纪律听证会将审查对三名外科医生严重职业不当行为的指控。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hearing；
 > - I think we should give him a hearing (= we should listen to what he wants to say). `[例]`
+  - 中译：我认为我们应该听他说说。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hearing；
 > - Did he give your complaints a sympathetic hearing? `[例]`
+  - 中译：他对你的投诉表示同情了吗？；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hearing；
 
 
 ---

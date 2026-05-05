@@ -130,8 +130,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The hikers rested under a towering width near the coastal trail. `[例]`
+>   - 中译：徒步旅行者在海岸步道附近的一处高耸宽度旁休息。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/width；
 > - The cabin was built from durable width gathered in the region. `[例]`
+>   - 中译：小屋是用当地采集的耐用的宽度建造的。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/width；
 > - A line of width trees rose above the morning fog. `[例]`
+>   - 中译：一排宽度树木在晨雾中若隐若现。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/width；
 
 
 ---

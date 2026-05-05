@@ -53,7 +53,7 @@ review_count: 0
 >    - → **总结，概括**：把要点"加在一起"
 >      - 激活条件：to sum up, sum up the argument
 
-### 统筹
+### 统筹（选择适用的模式）
 
 - **一字一词概括**：sum 就是"加在一起"——数字加在一起叫总和、要点加在一起叫总结、钱加在一起叫金额
 - **结构隐喻**：数字相加→概括总结
@@ -129,8 +129,14 @@ review_count: 0
 
 > [!example]- 语料
 > - To sum up, the evidence suggests that climate change is accelerating. `[真题]`
+>   - 中译：总而言之，证据表明气候变化正在加速。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sum；
 > - He donated a large sum of money to the orphanage. `[真题]`
+>   - 中译：他向孤儿院捐赠了一大笔钱。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/sum；
 > - Huge sums of money are spent on national defence. `[例]`
+>   - 中译：巨额资金被用于国防。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sum；
 
 
 ---

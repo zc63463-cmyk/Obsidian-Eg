@@ -124,8 +124,14 @@ thigh 为日耳曼语系原生词（古英语 *þēoh*，与古高地日耳曼�
 
 > [!example]- 语料
 > - Barkley suffered a strained thigh muscle late in the preseason. `[例]`
+>   - 中译：巴克利在季前赛末期大腿肌肉拉伤。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/thigh；
 > - My thighs ached terribly after the climb. `[例]`
+>   - 中译：爬完山后我的大腿疼得厉害。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/thigh；
 > - Squeezing their thighs into pants that are too tight to compress the cellulite. `[例]`
+>   - 中译：把大腿塞进太紧的裤子里以压缩脂肪团。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/thigh；
 
 
 ---

@@ -126,8 +126,14 @@ review_count: 0
 
 > [!example]- 语料
 > - He is a man of dignity and calm determination. `[例]`
+  - 中译：他是一个有尊严、沉着坚定的人。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/dignity；
 > - She has a quiet dignity about her. `[例]`
+  - 中译：她有一种沉静的端庄气质。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/dignity；
 > - I think everyone should be able to die with dignity. `[例]`
+  - 中译：我认为每个人都应该能够有尊严地离世。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/dignity；
 
 
 ---

@@ -138,8 +138,14 @@ while 源自古英语 *hwīl*（一段时间、时刻），与古高地日耳曼
 
 > [!example]- 语料
 > - While the data are limited, the conclusion remains persuasive. `[例]`
+>   - 中译：虽然数据有限，但结论仍然具有说服力。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/while；
 > - She listened to music while she prepared the report. `[例]`
+>   - 中译：她一边准备报告一边听音乐。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/while；
 > - Some students prefer discussion, while others learn better alone. `[例]`
+>   - 中译：有些学生喜欢讨论，而另一些学生独自学习效果更好。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/while；
 
 
 ---

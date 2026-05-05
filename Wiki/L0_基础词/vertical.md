@@ -131,9 +131,17 @@ review_count: 0
 
 > [!example]- 语料
 > - Vertical integration refers to the direction of the two possible expansion of existing business enterprises as a development strategy. `[例]`
+>   - 中译：纵向整合是指现有企业作为发展战略的两种可能扩张方向之一。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/vertical；
 > - The shareholders fear that vertical integration may not be the best option for the company. `[例]`
+>   - 中译：股东们担心纵向整合可能不是公司的最佳选择。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/vertical；
 > - Our team has abandoned the vertical structure because it didn't let people interact. `[例]`
+>   - 中译：我们的团队已经放弃了垂直结构，因为它不利于人员之间的互动。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/vertical；
 > - Vertical integration between hospitals and physician practices has increased substantially in recent years, reshaping the organization of US health care delivery. `[例]`
+>   - 中译：近年来，医院与医生诊所之间的纵向整合大幅增加，重塑了美国医疗保健服务的组织方式。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/vertical；
 
 
 ---

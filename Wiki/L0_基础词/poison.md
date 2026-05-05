@@ -135,9 +135,14 @@ poison 源自古法语 *poison*（饮料），拉丁语 *potio*（饮用），�
 
 > [!example]- 语料
 > - The pest control officer put bowls of rat poison in the attic. `[例]`
+  - 中译：害虫防治人员在阁楼里放了几个装有老鼠药的碗。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/poison；
 > - Her drink had been laced with a deadly poison. `[例]`
+  - 中译：她的饮料中被掺入了致命毒药。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/poison；
 > - Four members of the family had been poisoned, but not fatally. `[例]`
-
+  - 中译：一家四口人中毒了，但没有生命危险。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/poison；
 
 ---
 

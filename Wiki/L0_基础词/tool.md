@@ -125,8 +125,14 @@ review_count: 0
 
 > [!example]- 语料
 > - A free low-interest credit card can be a useful budgeting tool. `[例]`
+>   - 中译：一张免息低利率的信用卡可以是一个有用的预算工具。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/tool；
 > - The artist was surrounded by paints , brushes , and other tools of the trade. `[例]`
+>   - 中译：这位艺术家周围摆满了颜料、画笔和其他行业工具。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/tool；
 > - The president was widely regarded as the tool of the military. `[例]`
+>   - 中译：总统被广泛视为军方的傀儡。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/tool；
 
 
 ---

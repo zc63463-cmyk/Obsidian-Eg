@@ -52,7 +52,7 @@ con-(=together，一起) + figur(=shape/form，形状) + -ation(名词后缀，�
 >    - → **外形，形状**（n.）：整体的几何形态
 >      - 激活条件：搭配 the configuration of the coastline
 
-### 统筹
+### 统筹（选择适用的模式）
 
 - **一字一词概括**："形"——组合成形
 - **一句话统筹**：configuration 就是把各部分"塑造成形"——计算机系统的配置、分子的构型、海岸线的外形。

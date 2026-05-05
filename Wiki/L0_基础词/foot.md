@@ -134,8 +134,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Are you going by bicycle or on foot? `[例]`
+>   - 中译：你骑自行车去还是步行去？；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/foot；
 > - A chair by the foot of her bed is piled with books. `[例]`
+>   - 中译：她床脚的一把椅子上堆满了书。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/foot；
 > - There's a note explaining the quotation at the foot of the page. `[例]`
+>   - 中译：页面底部有一条注释解释该引文。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/foot；
 
 
 ---

@@ -127,8 +127,14 @@ pun(=pen，惩罚/代价，源自拉丁语 *poena*，惩罚) + -ish(动词后缀
 
 > [!example]- 语料
 > - Those responsible for these crimes must be brought to court and punished. `[例]`
+>   - 中译：必须将这些犯罪的责任人送上法庭并予以惩罚。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/punish；
 > - He punished the class by giv ing them extra work. `[例]`
+>   - 中译：他通过给全班布置额外作业来惩罚他们。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/punish；
 > - The oil company was found guilty on ten counts of pollution , and was punished with a $250 million fine. `[例]`
+>   - 中译：这家石油公司被判十项污染罪名成立，被处以2.5亿美元罚款。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/punish；
 
 
 ---

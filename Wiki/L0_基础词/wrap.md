@@ -131,9 +131,17 @@ review_count: 0
 
 > [!example]- 语料
 > - She carefully wrapped the present in colorful paper and tied it with a red ribbon. `[真题]`
+>   - 中译：她用彩色纸仔细地包好礼物，系上红色丝带。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/wrap；
 > - Let's wrap up this discussion and move on to the next item on the agenda. `[真题]`
+>   - 中译：让我们结束这个讨论，进入议程的下一项。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/wrap；
 > - The mountain peak was wrapped in thick fog, making it impossible for climbers to proceed. `[真题]`
+>   - 中译：山顶被浓雾笼罩，登山者无法继续前进。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/wrap；
 > - He wrapped his scarf tightly around his neck to protect himself from the biting wind. `[真题]`
+>   - 中译：他把围巾紧紧地裹在脖子上，以抵御刺骨的寒风。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/wrap；
 
 
 ---

@@ -131,8 +131,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The textile industry was the first to be industrialized in Britain. `[真题]`
+>   - 中译：纺织业是英国第一个实现工业化的行业。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/textile；
 > - In addition to the textile industry, cotton is used in fishing nets, coffee filters, tents, and explosives manufacture. `[例]`
+>   - 中译：除了纺织业，棉花还用于制造渔网、咖啡滤纸、帐篷和炸药。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/textile；
 > - A line of textile trees rose above the morning fog. `[例]`
+>   - 中译：一排纺织树木在晨雾中若隐若现。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/textile；
 
 
 ---

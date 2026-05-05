@@ -132,8 +132,14 @@ mort(=mors/mortis, 死亡，拉丁语 mors 死亡) + gage(=抵押/担保，中�
 
 > [!example]- 语料
 > - They took out a £400,000 mortgage (= they borrowed £400,000) to buy the house. `[例]`
+> - 中译：他们办理了40万英镑的抵押贷款来购买这栋房子。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/mortgage；
 > - Their home was mortgaged up to the hilt (= the full value of their home had been borrowed ). `[例]`
+> - 中译：他们的房子已经抵押到了极限。；
+> - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/mortgage；
 > - They had to mortgage their home to borrow enough money to pay for their children’s education. `[例]`
+> - 中译：他们不得不抵押房屋来借足够的钱支付孩子们的教育费用。；
+> - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/mortgage；
 
 
 ---

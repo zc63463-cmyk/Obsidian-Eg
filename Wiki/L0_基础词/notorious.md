@@ -123,8 +123,14 @@ not-(知道，拉丁语 *noscere*) + -or(人/状态) + -ious(形容词后缀，�
 
 > [!example]- 语料
 > - He is one of Mexico's most notorious criminals. `[例]`
+>   - 中译：他是墨西哥最臭名昭著的罪犯之一。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/notorious；
 > - The company is notorious for paying its bills late. `[例]`
+>   - 中译：这家公司以拖欠账单而臭名昭著。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/notorious；
 > - The canal is notorious for its pollution. `[例]`
+>   - 中译：这条运河因其污染而臭名远扬。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/notorious；
 
 
 ---

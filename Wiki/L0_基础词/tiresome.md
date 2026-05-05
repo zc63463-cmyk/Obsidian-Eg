@@ -127,8 +127,14 @@ tire（[[tire|疲劳]]）+ -some（形容词后缀，"令人……的"）→ 令
 
 > [!example]- 语料
 > - I find it very tiresome doing the same job day after day. `[例]`
+>   - 中译：我觉得日复一日地做同样的工作非常令人厌倦。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/tiresome；
 > - He has the tiresome habit of finishing your sentences for you. `[例]`
+>   - 中译：他有一个令人厌烦的习惯——总是替你说完话。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/tiresome；
 > - It’s getting a little tiresome, listening to you complain. `[例]`
+>   - 中译：听你抱怨已经变得有些令人厌烦了。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/tiresome；
 
 
 ---

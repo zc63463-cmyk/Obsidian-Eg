@@ -125,8 +125,14 @@ eco-(=oikos, 家/环境) + [[log-logy|-logy]](学科/研究)
 
 > [!example]- 语料
 > - The developments will extend further into the shore, so further destroying the river's ecology. `[真题]`
+>   - 中译：开发项目将向岸边进一步延伸，从而进一步破坏河流的生态。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ecology；
 > - Explaining the complex structure of tropical forests is one of the great challenges in ecology. `[真题]`
+>   - 中译：解释热带森林的复杂结构是生态学面临的重大挑战之一。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/ecology；
 > - A line of ecology trees rose above the morning fog. `[例]`
+>   - 中译：一排生态树矗立在晨雾之上。；
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/ecology；
 
 
 ---

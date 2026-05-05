@@ -124,8 +124,14 @@ review_count: 0
 
 > [!example]- 语料
 > - I burned my tongue on some soup last night. `[例]`
+>   - 中译：昨晚喝汤时我烫伤了舌头。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/tongue；
 > - Immigrants struggling to learn a foreign tongue. `[例]`
+>   - 中译：努力学外语的移民们。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/tongue；
 > - She is a prolific writer with critical views and a sharp (= severe and critical ) tongue. `[例]`
+>   - 中译：她是一位多产的作家，观点犀利，言辞尖锐。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/tongue；
 
 
 ---

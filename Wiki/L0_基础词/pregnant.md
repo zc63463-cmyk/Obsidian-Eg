@@ -127,8 +127,14 @@ review_count: 0
 
 > [!example]- 语料
 > - She's five and a half months pregnant. `[例]`
+>   - 中译：她怀孕五个半月了。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pregnant；
 > - My mother stopped smoking when she became pregnant. `[例]`
+>   - 中译：我母亲怀孕后就戒烟了。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pregnant；
 > - He denied rumours that he'd got (= made) his bandmate pregnant. `[例]`
+>   - 中译：他否认了让他乐队队友怀孕的传闻。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pregnant；
 
 
 ---

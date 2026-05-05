@@ -125,9 +125,14 @@ plat-(平坦，来自法语 *plateau*，与 [[flat]] 同源) + -eau(名词后缀
 
 > [!example]- 语料
 > - The US death rate reached a plateau in the 1960s, before declining suddenly. `[例]`
+  - 中译：美国的死亡率在20世纪60年代达到平台期，然后突然下降。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/plateau；
 > - I'd been losing about a pound a week on my diet , but recently I've plateaued and haven't lost an ounce. `[例]`
+  - 中译：我在节食期间每周大约减重一磅，但最近体重停滞了，一两都没再掉。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/plateau；
 > - The economic slowdown has caused our sales to plateau. `[例]`
-
+  - 中译：经济放缓导致我们的销售额停滞不前。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/plateau；
 
 ---
 

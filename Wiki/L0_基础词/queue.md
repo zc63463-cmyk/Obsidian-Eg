@@ -132,8 +132,14 @@ review_count: 0
 
 > [!example]- 语料
 > - We had to queue for quite a while. `[例]`
+>   - 中译：我们不得不排了相当长时间的队。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/queue；
 > - There was a long queue to get into the cinema. `[例]`
+>   - 中译：进入电影院排着长队。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/queue；
 > - Three jobs remain in the printer queue. `[例]`
+>   - 中译：打印机队列中还有三个任务。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/queue；
 
 
 ---

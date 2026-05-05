@@ -128,8 +128,14 @@ re-(前缀：再/回) + semble(像/类似，拉丁语 *simulare*)
 
 > [!example]- 语料
 > - This poem closely resembles an earlier one. `[真题]`
+  - 中译：这首诗与一首更早的诗非常相似。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/resemble；
 > - The ancient tools discovered in Ethiopia strongly resemble those found in Tanzania. `[真题]`
+  - 中译：在埃塞俄比亚发现的古代工具与在坦桑尼亚发现的工具非常相似。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/resemble；
 > - She resembles her brother in looks. `[真题]`
+  - 中译：她长得像她哥哥。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/resemble；
 
 
 ---

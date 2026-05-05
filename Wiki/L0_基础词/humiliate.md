@@ -126,8 +126,14 @@ review_count: 0
 
 > [!example]- 语料
 > - How could you humiliate me by questioning my judgment in front of everyone like that? `[例]`
+  - 中译：你怎么能那样在所有人面前质疑我的判断来羞辱我？；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/humiliate；
 > - England were humiliated (= completely defeated ) in last night's match. `[例]`
+  - 中译：英格兰队在昨晚的比赛中遭受了耻辱性的惨败（= 彻底被击败）。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/humiliate；
 > - They called him an old fool in public just to humiliate him. `[例]`
+  - 中译：他们当众叫他老傻瓜，就是为了羞辱他。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/humiliate；
 
 
 ---

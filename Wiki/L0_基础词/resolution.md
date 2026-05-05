@@ -134,8 +134,14 @@ re-(前缀：再/回) + solut(松开/解开) + -ion(名词后缀：表示动作�
 
 > [!example]- 语料
 > - The resolution was passed by a two-thirds majority. `[真题]`
+  - 中译：该决议以三分之二多数票通过。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/resolution；
 > - The government is pressing for an early resolution of the dispute. `[真题]`
+  - 中译：政府正在敦促尽早解决争端。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/resolution；
 > - The United Nations passed (= voted to support ) a resolution to increase aid to developing nations. `[例]`
+  - 中译：联合国通过了一项决议，决定增加对发展中国家的援助。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/resolution；
 
 
 ---

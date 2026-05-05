@@ -127,9 +127,17 @@ review_count: 0
 
 > [!example]- 语料
 > - The United States has always acted as a magnet for people seeking fame and fortune. `[COCA-NEWS]`
+> -   - 中译：美国一直是追求名望和财富的人的磁铁；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/magnet；
 > - The city was a magnet for bohemians and left-wing radicals. `[COCA-NEWS]`
+> -   - 中译：这座城市吸引了波西米亚人和左翼激进分子；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/magnet；
 > - The ponds and bushes were magnets for a variety of wildlife. `[COCA-ACAD]`
+> -   - 中译：池塘和灌木丛吸引了各种野生动物；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/magnet；
 > - The city has become a magnet for talented young professionals from across the country, drawn by its vibrant tech industry and high quality of life. `[例]`
+> -   - 中译：这座城市已成为吸引全国各地优秀年轻专业人士的磁铁，得益于其充满活力的科技产业和高质量的生活；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/magnet；
 
 
 ---

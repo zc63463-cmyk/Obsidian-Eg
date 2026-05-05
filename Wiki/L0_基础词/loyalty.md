@@ -128,8 +128,14 @@ review_count: 0
 
 > [!example]- 语料
 > - His loyalty was never in question. `[例]`
+> -   - 中译：他的忠诚从未受到质疑；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/loyalty；
 > - Her loyalty to the cause is impressive. `[例]`
+> -   - 中译：她对这项事业的忠诚令人钦佩；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/loyalty；
 > - Flexible working hours encourages employee loyalty to the company. `[例]`
+> -   - 中译：弹性工作时间鼓励员工对公司的忠诚；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/loyalty；
 
 
 ---

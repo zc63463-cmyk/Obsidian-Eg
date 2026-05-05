@@ -133,8 +133,14 @@ day(天，源自PIE *dhegwh-*) + -ly(形容词/副词后缀，每……的)
 
 > [!example]- 语料
 > - Take the tablets twice daily. `[例]`
+  - 中译：每日服药两次。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/daily；
 > - Exercise has become part of my daily routine. `[例]`
+  - 中译：锻炼已成为我日常生活的一部分。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/daily；
 > - We back up our computer files at work on a daily basis. `[例]`
+  - 中译：我们在工作中每天备份计算机文件。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/daily；
 
 
 ---

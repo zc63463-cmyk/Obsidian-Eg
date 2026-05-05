@@ -134,8 +134,14 @@ review_count: 0
 
 > [!example]- 语料
 > - When she married in 1913, she kept her maiden name, going to court to defend her right to do so. `[COCA-NEWS]`
+> -   - 中译：1913年她结婚时保留了自己的娘家姓，甚至为此上法庭辩护；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/maiden；
 > - She continued to publish journals under her maiden name because most of her recognition was under that name. `[COCA-ACAD]`
+> -   - 中译：她继续以娘家姓出版期刊，因为她的大部分；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/maiden；
 > - The spacecraft's maiden flight was hailed as a landmark achievement in the nation's space exploration programme. `[例]`
+> -   - 中译：该航天器的首飞被誉为该国太空探索计划的里程碑式成就；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/maiden；
 
 
 ---

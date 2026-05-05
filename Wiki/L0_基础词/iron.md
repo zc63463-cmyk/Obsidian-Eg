@@ -133,8 +133,14 @@ review_count: 0
 
 > [!example]- 语料
 > - She has an iron will that enables her to overcome any obstacle. `[真题]`
+>   - 中译：她拥有钢铁般的意志，能够克服任何障碍。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/iron；
 > - The two sides managed to iron out their differences and reach an agreement. `[真题]`
+>   - 中译：双方设法消除了分歧，达成了协议。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/iron；
 > - The whole region was under iron discipline during the military regime. `[真题]`
+>   - 中译：在军政府统治期间，整个地区处于铁腕纪律之下。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/iron；
 
 
 ---

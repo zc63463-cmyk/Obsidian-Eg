@@ -129,8 +129,14 @@ out-(向外/超出) + stand(站立) + -ing(形容词后缀，表示状态)
 
 > [!example]- 语料
 > - The researchers proposed a outstanding solution to the problem. `[例]`
+>   - 中译：研究人员提出了一个杰出的解决方案。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/outstanding；
 > - The company adopted a outstanding approach to improve efficiency. `[例]`
+>   - 中译：公司采取了一种出色的方法来提高效率。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/outstanding；
 > - The plan offers a outstanding option for small organizations. `[例]`
+>   - 中译：该计划为小型组织提供了一个出色的选择。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/outstanding；
 
 
 ---

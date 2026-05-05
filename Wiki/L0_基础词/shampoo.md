@@ -133,8 +133,14 @@ review_count: 0
 
 > [!example]- 语料
 > - She shampoos her hair every morning. `[真题]`
+  - 中译：她每天早上都洗头发。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/shampoo；
 > - Duncan shampooed my hair and then Tracy cut it. `[真题]`
+  - 中译：邓肯给我洗了头，然后特雷西给我剪了头发。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/shampoo；
 > - Directions: wet hair , apply shampoo, and massage into a rich lather. `[例]`
+  - 中译：用法：弄湿头发，涂抹洗发水，按摩至产生丰富泡沫。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/shampoo；
 
 
 ---

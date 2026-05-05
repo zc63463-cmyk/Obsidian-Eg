@@ -126,8 +126,14 @@ glac-（冰，拉丁语 *glacies*）+ -ier（名词后缀，表示物）。与 [
 
 > [!example]- 语料
 > - The enhanced melting of glaciers leads at first to increased river runoff and discharge peaks. `[真题]`
+>   - 中译：冰川加速融化最初导致河流径流量增加和洪峰出现。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/glacier；
 > - Himalayan glaciers disappeared 65 percent faster since 2010 compared to the previous decade. `[真题]`
+>   - 中译：与前十年的速度相比，喜马拉雅冰川自2010年以来消融速度加快了65%。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/glacier；
 > - The glacier retreated a total of 1,147 metres, averaging about 19 metres per year. `[真题]`
+>   - 中译：冰川总共后退了1147米，平均每年约19米。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/glacier；
 
 
 ---

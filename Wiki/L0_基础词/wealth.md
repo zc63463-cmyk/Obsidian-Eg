@@ -129,8 +129,14 @@ review_count: 0
 
 > [!example]- 语料
 > - If ambition is to be well regarded, the rewards of ambition — wealth, distinction, control over one's destiny — must be deemed worthy of the sacrifices made on ambition's behalf. `[真题]`
+>   - 中译：如果野心要受到重视，那么野心的回报——财富、荣誉、对命运的掌控——必须被认为值得为野心做出的牺牲。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/wealth；
 > - The current account balance influences the national wealth and the capital stock of the economy. `[真题]`
+>   - 中译：经常账户余额影响着国民财富和经济的资本存量。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/wealth；
 > - She has a wealth of experience in teaching young children. `[真题]`
+>   - 中译：她在教授幼儿方面拥有丰富的经验。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/wealth；
 
 
 ---

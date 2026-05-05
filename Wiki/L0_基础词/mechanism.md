@@ -131,8 +131,14 @@ review_count: 0
 
 > [!example]- 语料
 > - There could be many mechanisms working together that drive us in choosing genetically similar friends rather than 'functional kinship' of being friends with benefits! `[真题]`
+> -   - 中译：可能有许多机制共同作用，驱使我们在选择地理；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/mechanism；
 > - She's actually kind of insecure, and her rudeness is just a defence mechanism. `[例]`
+> -   - 中译：她其实有点缺乏安全感，她的粗鲁只是一种防御机制；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/mechanism；
 > - Play is a biological mechanism for acquiring and honing mental and physical skills. `[例]`
+> -   - 中译：游戏是一种获取和磨练心智与身体技能的生物机制；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/mechanism；
 
 
 ---

@@ -132,8 +132,14 @@ flap 源自中古英语 *flappen*（拍打），可能是拟声词，模仿扁�
 
 > [!example]- 语料
 > - A small bird flapped its wings furiously and flew off. `[例]`
+>   - 中译：一只小鸟拼命拍打着翅膀飞走了。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/flap；
 > - Flags flapped in the breeze above their tents. `[例]`
+>   - 中译：旗帜在他们帐篷上方的微风中飘动。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/flap；
 > - Don't flap - there's plenty of time to cook before they arrive. `[例]`
+>   - 中译：别慌——在他们到达之前还有充足的时间做饭。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/flap；
 
 
 ---

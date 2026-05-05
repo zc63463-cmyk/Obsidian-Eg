@@ -51,7 +51,7 @@ dipl(o)-(双/折叠) + mat(人/做) + -ic(形容词后缀，…的)
 >    - → **有策略的，圆滑的**：外交官的特质→善于周旋的
 >      - 激活条件：a diplomatic answer, be diplomatic about
 
-### 统筹
+### 统筹（选择适用的模式）
 
 - **一字一词概括**：diplomatic 就是"会周旋的"——国家间周旋叫"外交"，人际间周旋叫"圆滑"
 - **延伸中心**：从"外交官的职业属性"延伸到"圆滑老练的人际技巧"
@@ -127,8 +127,14 @@ dipl(o)-(双/折叠) + mat(人/做) + -ic(形容词后缀，…的)
 
 > [!example]- 语料
 > - Ask him nicely - be diplomatic. `[例]`
+  - 中译：好好跟他说——要讲究策略。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/diplomatic；
 > - He began the diplomatic discussions that resulted in the establishment of NATO. `[例]`
+  - 中译：他开始了最终促成北约建立的外交讨论。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/diplomatic；
 > - Lawyers should be diplomatic in dealing with a judge. `[例]`
+  - 中译：律师在与法官打交道时应该讲究外交手腕。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/diplomatic；
 
 
 ---

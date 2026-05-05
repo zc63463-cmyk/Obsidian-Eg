@@ -131,8 +131,14 @@ review_count: 0
 
 > [!example]- 语料
 > - I shut the shed door and wedged it with a log of wood. `[真题]`
+>   - 中译：我关上棚屋的门，用一根圆木楔住。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/wedge；
 > - She wedged herself into the passenger seat. `[真题]`
+>   - 中译：她把自己挤进了副驾驶座。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/wedge；
 > - Push a wedge under the door to keep it open while we're carrying the boxes in. `[例]`
+>   - 中译：在门下塞一个楔子，保持门开着，方便我们搬箱子进来。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/wedge；
 
 
 ---

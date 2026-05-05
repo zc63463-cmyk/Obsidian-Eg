@@ -127,8 +127,14 @@ review_count: 0
 
 > [!example]- 语料
 > - It is possible to make an insurance claim for any goods lost or damaged in transit. `[例]`
+>   - 中译：可以对任何在运输过程中丢失或损坏的货物提出保险索赔。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/transit；
 > - The question is whether road transit is cheaper than rail. `[例]`
+>   - 中译：问题是公路运输是否比铁路运输更便宜。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/transit；
 > - We booked tickets on the rapid-transit train. `[例]`
+>   - 中译：我们预订了快速列车的车票。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/transit；
 
 
 ---

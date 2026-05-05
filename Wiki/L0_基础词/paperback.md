@@ -124,9 +124,14 @@ review_count: 0
 
 > [!example]- 语料
 > - First published in hardback in 2003, the book is now available in paperback. `[例]`
+  - 中译：这本书于2003年首次出版精装版，现在已有平装本。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/paperback；
 > - The paperback edition will be useful supplementary reading in classrooms. `[例]`
+  - 中译：平装版将作为课堂补充阅读材料。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/paperback；
 > - I like to carry around paperback books because they are lighter and easier to transport than hardcovers. `[例]`
-
+  - 中译：我喜欢随身携带平装书，因为它们比精装书更轻、更方便携带。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/paperback；
 
 ---
 

@@ -127,9 +127,17 @@ wrinkle 源自古英语 *gewrinclod*（皱巴巴的、弯曲的），是 *gewrin
 
 > [!example]- 语料
 > - The new management team has been working to iron out the wrinkles in the company's operations. `[真题]`
+>   - 中译：新管理团队一直在努力消除公司运营中的问题。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/wrinkle；
 > - She wrinkled her brow in concentration as she tried to solve the complex math problem. `[真题]`
+>   - 中译：她皱着眉头集中精力，试图解决这道复杂的数学题。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/wrinkle；
 > - Despite her age, her face was remarkably free of wrinkles, thanks to years of careful skincare. `[真题]`
+>   - 中译：尽管年事已高，但由于多年来精心的护肤，她的脸上几乎没有皱纹。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/wrinkle；
 > - Every new policy has a few wrinkles that need to be smoothed out before it can be fully implemented. `[真题]`
+>   - 中译：每项新政策都有一些需要理顺才能全面实施的问题。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/wrinkle；
 
 
 ---

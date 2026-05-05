@@ -135,9 +135,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Throughout the trip , Jackson juggled multiple cameras and plate sizes using the " collodion process" that required him to coat the plates with a chemical mixture , then expose them and develop the resulting images with a portable darkroom. `[真题]`
+  - 中译：在整个旅途中，杰克逊使用“火棉胶工艺”同时操作多台相机和不同尺寸的感光板，该工艺要求他用化学混合物涂布感光板，然后曝光并用便携式暗房冲洗生成的影像。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/plate；
 > - There's still lots of food on your plate. `[例]`
+  - 中译：你的盘子里还有很多食物。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/plate；
 > - Stephen ate three plates of spaghetti. `[例]`
-
+  - 中译：斯蒂芬吃了三盘意大利面。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/plate；
 
 ---
 

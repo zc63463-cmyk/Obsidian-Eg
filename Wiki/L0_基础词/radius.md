@@ -136,8 +136,14 @@ radi-(辐射，拉丁语 *radius* 辐射线) + -us(拉丁语名词后缀)
 
 > [!example]- 语料
 > - The supermarket, shopping mall, and school are all within a one-mile radius of the house. `[真题]`
+>   - 中译：超市、购物中心和学校都在房子一英里的半径范围内。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/radius；
 > - The new museum is expected to draw people from a wide radius. `[真题]`
+>   - 中译：新博物馆预计将吸引来自很大范围内的人们。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/radius；
 > - They were yesterday combing a mile radius around the scene. `[真题]`
+>   - 中译：他们昨天正在搜索现场周围一英里的范围。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/radius；
 
 
 ---

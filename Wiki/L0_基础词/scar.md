@@ -128,8 +128,12 @@ review_count: 0
 
 > [!example]- 语料
 > - He had a scar on his arm from a childhood accident. `[例]`
+  - 中译：他手臂上有一道童年事故留下的伤疤。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/scar
 > - His father's alcoholism left scars that never healed. `[COCA-FICT]`
 > - She will probably be scarred for life by the experience. `[例]`
+  - 中译：这段经历可能会给她留下终身的创伤。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/scar
 
 
 ---

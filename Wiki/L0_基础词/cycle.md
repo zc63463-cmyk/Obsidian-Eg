@@ -132,8 +132,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Cycles cannot be taken on this train. `[例]`
+  - 中译：自行车不能带上这趟火车。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/cycle；
 > - A thousand people took part in the region's biggest-ever cycle race. `[例]`
+  - 中译：一千人参加了该地区有史以来规模最大的自行车赛。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/cycle；
 > - They are trapped in a cycle of violence. `[例]`
+  - 中译：他们陷入了暴力的恶性循环。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/cycle；
 
 
 ---

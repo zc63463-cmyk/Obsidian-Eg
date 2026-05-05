@@ -135,8 +135,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The busy traffic entrance was a hazard to pedestrians. `[例]`
+  - 中译：繁忙的交通入口对行人来说是一个安全隐患。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hazard；
 > - In golf , hazards are just another part of the game. `[例]`
+  - 中译：在高尔夫球中，障碍物只是比赛的另一个组成部分。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hazard；
 > - The golf course now features the most dramatic water hazards. `[例]`
+  - 中译：这个高尔夫球场现在拥有最引人注目的水障碍区。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hazard；
 
 
 ---

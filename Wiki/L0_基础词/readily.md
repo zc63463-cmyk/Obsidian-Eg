@@ -131,8 +131,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Drugs are so readily available, they become part of the day-to-day routine. `[真题]`
+>   - 中译：毒品如此容易获得，以至于它们成了日常生活的一部分。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/readily；
 > - He readily agreed to all our suggestions. `[真题]`
+>   - 中译：他欣然同意了我们所有的建议。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/readily；
 > - It was readily apparent how much more prosperous this town was than others. `[真题]`
+>   - 中译：很明显，这个城镇比其他城镇富裕得多。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/readily；
 
 
 ---

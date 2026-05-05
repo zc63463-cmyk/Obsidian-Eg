@@ -132,9 +132,14 @@ review_count: 0
 
 > [!example]- 语料
 > - I ordered some tea for myself and lit my pipe. `[例]`
+  - 中译：我给自己点了些茶，然后点燃了烟斗。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pipe；
 > - He played the pipes as the newlyweds left the church. `[例]`
+  - 中译：当新人们离开教堂时，他吹奏了风笛。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/pipe；
 > - He's one of hockey's all-time great goaltenders , with over 800 games between the pipes. `[例]`
-
+  - 中译：他是冰球史上最伟大的守门员之一，出场超过800场比赛把守球门。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/pipe；
 
 ---
 

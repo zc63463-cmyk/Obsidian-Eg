@@ -129,9 +129,17 @@ review_count: 0
 
 > [!example]- 语料
 > - After a week on the Mediterranean coast, she returned with a healthy golden tan. `[真题]`
+>   - 中译：在地中海海岸度过一周后，她带着健康的古铜色肌肤回来了。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/tan；
 > - The tanning industry has been criticized for its environmental impact and use of toxic chemicals. `[真题]`
+>   - 中译：制革行业因环境影响和使用有毒化学品而受到批评。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/tan；
 > - Leigh rolled over on her stomach to tan her back. `[真题]`
+>   - 中译：利翻过身趴着晒后背。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/tan；
 > - She is tall and blonde, with a permanent tan. `[真题]`
+>   - 中译：她身材高挑，金发碧眼，皮肤常年晒得黝黑。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/tan；
 
 
 ---

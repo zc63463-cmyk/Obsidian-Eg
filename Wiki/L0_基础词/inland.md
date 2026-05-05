@@ -130,8 +130,14 @@ inland = in-(=into, 向内) + land(=land, 陆地)
 
 > [!example]- 语料
 > - Sea winds that blow inland from the west are warmed by a current of warm water that flows through the Pacific Ocean. `[真题]`
+  - 中译：从西边吹向内陆的海风被流经太平洋的暖流所加热。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/inland；
 > - The government has invested heavily in developing inland transport infrastructure to connect remote areas with major cities. `[真题]`
+  - 中译：政府大力投资发展内陆交通基础设施，以将偏远地区与大城市连接起来。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/inland；
 > - Smaller ice shelves lose the ability to block inland glaciers from reaching the sea. `[例]`
+  - 中译：较小的冰架失去了阻挡内陆冰川流入大海的能力。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/inland；
 
 
 ---

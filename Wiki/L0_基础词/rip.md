@@ -125,8 +125,14 @@ rip（撕开，可能来自 PIE词根 *reub-/*reup- "撕/抓取"，北日耳曼�
 
 > [!example]- 语料
 > - The explosion ripped through the hotel. `[真题]`
+  - 中译：爆炸席卷了整座酒店。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rip
 > - He ripped the phone from her hand. `[真题]`
+  - 中译：他从她手中夺走了电话。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rip
 > - A violent streak of pain ripped through her whole body. `[真题]`
+  - 中译：一阵剧烈的疼痛席卷了她的全身。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rip
 
 
 ---

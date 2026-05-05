@@ -132,8 +132,14 @@ review_count: 0
 
 > [!example]- 语料
 > - I'm attending a training seminar for financial consultants. `[例]`
+  - 中译：我正在参加一个金融顾问培训研讨会。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/seminar
 > - The National Science Teaching Association is hosting a 90-minute professional development web seminar for educators on 5 January. `[例]`
+  - 中译：美国国家科学教学协会将于1月5日为教育工作者举办一场90分钟的专业发展网络研讨会。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/seminar
 > - The workshop will take place in the new seminar room on the first floor. `[例]`
+  - 中译：研讨会将在一楼的新研讨室举行。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/seminar
 
 
 ---

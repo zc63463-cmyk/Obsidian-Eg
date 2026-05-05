@@ -130,8 +130,14 @@ review_count: 0
 
 > [!example]- 语料
 > - They bought watermelons and ate them as they walked , spitting out the seeds. `[例]`
+>   - 中译：他们买了西瓜，边走边吃，把籽吐出来。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/spit；
 > - If it's only spitting (with rain ), perhaps we don't need waterproofs. `[例]`
+>   - 中译：如果只是下毛毛雨，也许我们不需要穿防水衣。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/spit；
 > - Trieste sits on a tiny spit of land , squashed between Slovenia and the Adriatic Sea. `[例]`
+>   - 中译：的里雅斯特坐落在一小块狭长地带上，夹在斯洛文尼亚和亚得里亚海之间。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/spit；
 
 
 ---

@@ -54,7 +54,7 @@ review_count: 0
 >    - → **极其严重的，危急的**：程度极深
 >      - 激活条件：desperate shortage, desperate illness
 
-### 统筹
+### 统筹（选择适用的模式）
 
 - **不同程度/过程**：失去希望（绝望）→ 不顾一切（行为）→ 极度缺乏（需求）→ 极其严重（程度）
 - **一句话统筹**：desperate 就是"被剥夺希望后的极端状态"——绝望、拼命、极需、危急
@@ -130,8 +130,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The situation is desperate - we have no food , very little water and no medical supplies. `[例]`
+  - 中译：她极度渴望钱。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/desperate；
 > - The earthquake survivors are in desperate need of help. `[例]`
+  - 中译：球队在最后一分钟做了孤注一掷的尝试来得分。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/desperate；
 > - He has a desperate desire to succeed. `[例]`
+  - 中译：他处于走投无路的绝境。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/desperate；
 
 
 ---

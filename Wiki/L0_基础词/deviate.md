@@ -133,8 +133,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The recent pattern of weather deviates from the norm for this time of year. `[例]`
+  - 中译：最近的天气模式偏离了该时节的常态。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/deviate；
 > - The path follows the river closely , occasionally deviating around a clump of trees. `[例]`
+  - 中译：小路紧沿河流延伸，偶尔绕过一片树丛。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/deviate；
 > - He never deviated from his strict vegetarian diet. `[例]`
+  - 中译：他从不偏离他严格的素食饮食。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/deviate；
 
 
 ---

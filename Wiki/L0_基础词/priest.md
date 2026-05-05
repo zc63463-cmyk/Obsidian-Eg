@@ -126,8 +126,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Father O'Dooley was ordained a priest in 1949. `[例]`
+>   - 中译：奥杜利神父于1949年被任命为牧师。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/priest；
 > - There is still a ban on women priests in the Catholic Church. `[例]`
+>   - 中译：天主教仍然禁止女性担任牧师。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/priest；
 > - The ordination of women priests. `[例]`
+>   - 中译：女性牧师的任命。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/priest；
 
 
 ---

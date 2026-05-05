@@ -122,8 +122,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The British Isles have a long and complex history of invasion and settlement. `[真题]`
+>   - 中译：不列颠群岛有着漫长而复杂的入侵和定居历史。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/isle；
 > - The Isle of Man became the first place in the British Isles to pass its assisted dying bill. `[真题]`
+>   - 中译：马恩岛成为英伦群岛中第一个通过协助死亡法案的地方。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/isle；
 > - He dreamed of escaping to a remote isle far from civilization. `[真题]`
+>   - 中译：他梦想着逃到一个远离文明的偏远小岛。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/isle；
 
 
 ---

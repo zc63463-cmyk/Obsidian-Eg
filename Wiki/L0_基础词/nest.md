@@ -128,8 +128,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Cuckoos are famous for laying their eggs in the nests of other birds. `[例]`
+>   - 中译：杜鹃以将蛋产在其他鸟类的巢中而闻名。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/nest；
 > - The alligators build their nests out of grass near the water's edge. `[例]`
+>   - 中译：鳄鱼在水边用草筑巢。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/nest；
 > - The diplomats have been sent home because their embassy has become a nest of spies. `[例]`
+>   - 中译：外交官们已被遣送回国，因为他们的大使馆已成为间谍窝点。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/nest；
 
 
 ---

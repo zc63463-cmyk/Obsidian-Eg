@@ -131,8 +131,14 @@ glide 源自古英语 *glidan*，与 gleam（闪光）、glint（闪烁）同源
 
 > [!example]- 语料
 > - The swans glided over the surface of the lake. `[例]`
+  - 中译：天鹅在湖面上滑行。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/glide；
 > - We watched the skiers glide down the slope. `[例]`
+  - 中译：我们看着滑雪者从斜坡上滑下。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/glide；
 > - The pilot glided the plane to a safe landing after the engine failed. `[例]`
+  - 中译：发动机故障后，飞行员驾驶飞机滑翔安全着陆。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/glide；
 
 
 ---

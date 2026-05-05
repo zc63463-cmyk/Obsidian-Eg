@@ -139,8 +139,14 @@ review_count: 0
 
 > [!example]- 语料
 > - A decisive win would certainly help to ease the pressure on the team's captain. `[真题]`
+>   - 中译：一场决定性的胜利无疑有助于减轻队长的压力。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ease；
 > - She performed the task with her accustomed ease. `[真题]`
+>   - 中译：她以一贯的轻松完成了任务。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/ease；
 > - To ease the problem of overcrowding , new prisons will be built. `[例]`
+>   - 中译：为缓解过度拥挤的问题，将建造新的监狱。；
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/ease；
 
 
 ---

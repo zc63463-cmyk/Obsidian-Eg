@@ -123,7 +123,11 @@ fisc(国库/钱篮子，拉丁语 *fiscus*) + -al(形容词后缀，与…有关
 > [!example]- 语料
 > - With the serious fiscal challenges facing the federal government , agencies must maximize their ability to manage and safeguard valuable taxpayers ' dollars. `[例]`
 > - Overall, the situation looks favourable in terms of the fiscal surplus he has projected. `[例]`
+>   - 中译：总体而言，就他预测的财政盈余来看，形势看起来是乐观的。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fiscal；
 > - The governor said the fiscal crisis couldn't be solved by spending cuts alone , insisting the state needs additional revenue. `[例]`
+>   - 中译：州长表示财政危机不能仅靠削减开支来解决，坚持认为该州需要额外收入。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fiscal；
 
 
 ---

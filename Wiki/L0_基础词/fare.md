@@ -137,8 +137,14 @@ fare(旅行/费用，古英语 *fær*)
 
 > [!example]- 语料
 > - Train fares are going up again. `[例]`
+  - 中译：火车票价又要涨了。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fare；
 > - Can I borrow £2 for my bus fare? `[例]`
+  - 中译：我能借2英镑付公交车费吗？；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fare；
 > - How did you fare in your exams? `[例]`
+  - 中译：你考试考得怎么样？；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fare；
 
 
 ---

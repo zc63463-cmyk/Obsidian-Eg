@@ -126,8 +126,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Surely there must be a better way to dispose of nuclear waste. `[真题]`
+>   - 中译：一定有更好的方法来处理核废料。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/dispose；
 > - It took only five minutes for the world champion to dispose of his opponent. `[真题]`
+>   - 中译：世界冠军只用了五分钟就击败了对手。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/dispose；
 > - She was not disposed to accept the offer without further negotiation. `[真题]`
+>   - 中译：她不倾向于在没有进一步谈判的情况下接受这个提议。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/dispose；
 
 
 ---

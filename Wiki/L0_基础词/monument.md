@@ -129,8 +129,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The landscape is dotted with ancient monuments. `[真题]`
+> - 中译：这片土地上散布着古代纪念碑。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/monument；
 > - The museum was built as a lasting monument to the civil war. `[真题]`
+> - 中译：这座博物馆的建立是内战的永久纪念。；
+> - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/monument；
 > - In the square in front of the hotel stands a monument to all the people killed in the war. `[真题]`
+> - 中译：酒店前面的广场上矗立着一座纪念所有战争死难者的纪念碑。；
+> - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/monument；
 
 
 ---

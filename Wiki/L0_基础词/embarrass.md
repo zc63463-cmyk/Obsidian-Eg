@@ -130,8 +130,14 @@ em-(=in-, 进入) + bar(障碍，栅栏) + -ass(后缀)
 
 > [!example]- 语料
 > - You're embarrassing him with your compliments! `[例]`
+>   - 中译：你的赞美让他很尴尬！；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/embarrass；
 > - I didn't want to embarrass her in front of her friends. `[例]`
+>   - 中译：我不想在她朋友面前让她难堪。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/embarrass；
 > - He knew that letter would embarrass him and later he tried to get rid of it. `[例]`
+>   - 中译：他知道那封信会让他难堪，后来他试图把它处理掉。；
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/embarrass；
 
 
 ---

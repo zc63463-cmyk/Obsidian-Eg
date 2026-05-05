@@ -130,9 +130,17 @@ review_count: 0
 
 > [!example]- 语料
 > - The keyboard can determine whether they should be given access to the computer it's connected to — regardless of whether someone gets the password right. `[真题]`
+  - 中译：键盘可以确定是否应该授予他们访问所连接计算机的权限——无论是否有人正确输入了密码。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/regardless；
 > - Our club is open to everyone regardless of age, sex or educational background. `[真题]`
+  - 中译：我们的俱乐部对所有人开放，不分年龄、性别或教育背景。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/regardless；
 > - We have no land ethic yet, but we have at least drawn nearer the point of admitting that birds should continue as a matter of intrinsic right, regardless of the presence or absence of economic advantage to us. `[真题]`
+  - 中译：我们还没有土地伦理，但至少我们已经接近承认鸟类应该作为一种固有权利而继续存在，无论对我们是否有经济利益。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/regardless；
 > - This job is open to all, regardless of previous experience. `[例]`
+  - 中译：这份工作对所有人开放，不论以往经验。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/regardless；
 
 
 ---

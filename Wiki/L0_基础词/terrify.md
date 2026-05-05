@@ -130,8 +130,14 @@ terr-（恐惧，拉丁语 *terrere*，使害怕）+ -ify（使动后缀，= mak
 
 > [!example]- 语料
 > - His looks are enough to terrify anyone. `[例]`
-> - Stop it! You’re terrifying the children! `[例]`
+>   - 中译：他的外表足以吓到任何人。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/terrify；
+> - Stop it! You're terrifying the children! `[例]`
+>   - 中译：停下！你把孩子们吓坏了！；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/terrify；
 > - Directed by Lee Sang-min, the film stars Kim Hye-yoon and Lee Jong-won as a road-view camera crew that encounters terrifying supernatural events at a remote reservoir. `[例]`
+>   - 中译：由李相民执导，金惠允和李钟元主演的这部电影讲述了一个街景拍摄团队在偏远水库遭遇恐怖超自然事件的故事。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/terrify；
 
 
 ---

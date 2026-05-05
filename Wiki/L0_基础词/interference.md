@@ -127,8 +127,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The government warned against foreign interference in domestic affairs. `[真题]`
+>   - 中译：政府警告防范外国干涉内政。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/interference；
 > - Electromagnetic interference can cause serious problems for communication systems. `[真题]`
+>   - 中译：电磁干扰可能给通信系统造成严重问题。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/interference；
 > - Pacemakers are sensitive to electromagnetic interference from mobile phones and other devices. `[真题]`
+>   - 中译：心脏起搏器对来自手机和其他设备的电磁干扰很敏感。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/interference；
 
 
 ---

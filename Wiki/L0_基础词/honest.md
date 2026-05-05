@@ -54,7 +54,7 @@ hon(荣誉，拉丁语 *honor* "荣誉/尊敬") + -est(形容词后缀，表"具
 >    - → **真正的，名副其实的**：具有真正品质的
 >      - 激活条件：honest effort, honest living
 
-### 统筹
+### 统筹（选择适用的模式）
 
 - **一字一词概括**：honest 就是"有荣誉品质的"——不说谎叫"诚实"，直说叫"坦率"，真做叫"真正的"
 - **延伸中心**：从"有荣誉"延伸到"诚实"再到"坦率"
@@ -132,8 +132,14 @@ hon(荣誉，拉丁语 *honor* "荣誉/尊敬") + -est(形容词后缀，表"具
 
 > [!example]- 语料
 > - He had an honest face (= he looked like he could be trusted ). `[例]`
+  - 中译：他有一张诚实的面孔（= 他看起来值得信赖）。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/honest；
 > - To be honest (= To tell the truth ) , I didn’t like the movie. `[例]`
+  - 中译：老实说（= 说实话），我不喜欢这部电影。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/honest；
 > - Be honest now - do you think this dress is too young for me? `[例]`
+  - 中译：说句实话——你觉得这条裙子我穿是不是太年轻了？；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/honest；
 
 
 ---

@@ -50,7 +50,7 @@ equip（源自古法语 *esquiper* "装备一艘船"，可能源自古诺斯语 
 >    - → **（使）准备好，使有资格**：为某任务配备必要条件
 >      - 激活条件：equip sb. for/to do sth., be equipped to do
 
-### 统筹
+### 统筹（选择适用的模式）
 
 - **一字一词概括**：equip 就是"配好"——配好工具叫"装备"，配好能力叫"准备好"
 - **延伸中心**：从"物理装备"延伸到"能力/资格准备"
@@ -123,8 +123,14 @@ equip（源自古法语 *esquiper* "装备一艘船"，可能源自古诺斯语 
 
 > [!example]- 语料
 > - It's going to cost $4 million to equip the hospital. `[例]`
+  - 中译：他们为工厂配备了新机器。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/equip；
 > - All the police officers were equipped with shields to defend themselves against the rioters. `[例]`
+  - 中译：这门课程旨在使学生具备所需的技能。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/equip；
 > - The thieves equipped themselves with duplicate keys to the safe. `[例]`
+  - 中译：她用保暖的衣服和一张好地图为旅程做好了准备。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/equip；
 
 
 ---

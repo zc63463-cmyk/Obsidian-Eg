@@ -134,8 +134,14 @@ instrument（13世纪末，源自古法语 *instrument*，源自拉丁语 *instr
 
 > [!example]- 语料
 > - Guitars, pianos , and cellos are different types of string instrument. `[例]`
+>   - 中译：吉他、钢琴和大提琴是不同类型的弦乐器。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/instrument；
 > - The spinet was an early keyboard instrument related to the harpsichord , often found in domestic contexts. `[例]`
+>   - 中译：斯皮内特是一种与拨弦古钢琴相关的早期键盘乐器，常见于家庭环境中。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/instrument；
 > - The cornet is a brass instrument related to the trumpet. `[例]`
+>   - 中译：短号是一种与小号相关的铜管乐器。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/instrument；
 
 
 ---

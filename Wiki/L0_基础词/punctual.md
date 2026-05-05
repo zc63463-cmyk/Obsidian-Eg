@@ -124,8 +124,14 @@ punct(=point，点，源自拉丁语 *punctus*，*pungere* 的过去分词) + -u
 
 > [!example]- 语料
 > - A punctual start to the meeting. `[例]`
+>   - 中译：会议准时开始。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/punctual；
 > - He's fairly punctual (= he usually arrives on time ). `[例]`
+>   - 中译：他相当守时（通常准时到达）。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/punctual；
 > - Please try to be punctual, so we can start the meeting on time. `[例]`
+>   - 中译：请尽量准时，这样我们就能按时开始会议。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/punctual；
 
 
 ---

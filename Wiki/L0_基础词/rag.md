@@ -135,8 +135,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The children were dressed in rags and had no shoes on their feet. `[真题]`
+>   - 中译：孩子们衣衫褴褛，脚上没有穿鞋。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rag；
 > - Hers was a classic tale of rags to riches. `[真题]`
+>   - 中译：她的故事是一个经典的白手起家的故事。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rag；
 > - Not many authors go from rags to riches, and in fact most never even land a book deal. `[真题]`
+>   - 中译：没有多少作家能从贫穷走向富有，事实上大多数人甚至都签不到出书合同。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rag；
 
 
 ---

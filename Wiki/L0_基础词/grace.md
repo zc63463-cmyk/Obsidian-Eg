@@ -131,7 +131,11 @@ review_count: 0
 > - His fall from grace in the 1980s, followed by his return to Apple in 1996 after a period in the wilderness, is an inspiration to any businessperson whose career has taken a turn for the worse. `[真题]`
 > - She handled the difficult situation with grace and dignity. `[真题]`
 > - By the grace of God, no one was seriously hurt. `[例]`
+  - 中译：谢天谢地，没有人受重伤。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/grace；
 > - He has shown remarkable grace during this crisis. `[例]`
+  - 中译：在这次危机中，他表现出了非凡的风度。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/grace；
 
 
 ---

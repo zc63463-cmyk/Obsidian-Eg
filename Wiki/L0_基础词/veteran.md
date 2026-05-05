@@ -138,9 +138,17 @@ vet-(=vetus, 老的，拉丁语 *vetus*) + -er(比较级) + -an(名词/形容词
 
 > [!example]- 语料
 > - He is a veteran parliamentarian whose views enjoy widespread respect. `[真题]`
+>   - 中译：他是一位资深议员，其观点受到广泛尊重。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/veteran；
 > - Women appear to be way ahead in at least one undesirable category... according to Dr. Yehuda, chief psychiatrist at New York's Veteran's Administration Hospital. `[真题]`
+>   - 中译：女性似乎至少在一个不受欢迎的类别中遥遥领先……据纽约退伍军人事务医院首席精神科医生耶胡达博士说。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/veteran；
 > - In addition to having served in World War II, he was a veteran of the Korean War. `[例]`
+>   - 中译：除了在第二次世界大战中服役外，他还是朝鲜战争的老兵。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/veteran；
 > - She is a veteran teacher who has dedicated thirty years to the classroom. `[例]`
+>   - 中译：她是一位资深教师，在讲台上奉献了三十年。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/veteran；
 
 
 ---

@@ -128,8 +128,14 @@ review_count: 0
 
 > [!example]- 语料
 > - His murder triggered vicious race riots across the city. `[真题]`
+  - 中译：他的遇害引发了全市范围内恶性的种族暴乱。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/riot
 > - All the cacti were in flower, so that the desert was a riot of colour. `[真题]`
+  - 中译：所有的仙人掌都开花了，沙漠一片色彩缤纷。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/riot
 > - Food riots resulted in two deaths and looting throughout the city. `[真题]`
+  - 中译：食物暴乱导致两人死亡，全市到处发生抢劫。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/riot
 
 
 ---

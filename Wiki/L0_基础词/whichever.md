@@ -127,8 +127,14 @@ which（哪个）+ ever（曾经/永远）。which 源自古英语 *hwilc*（哪
 
 > [!example]- 语料
 > - You may leave at 4:00 or when you've finished the job, whichever comes first. `[真题]`
+>   - 中译：你可以在四点离开，也可以在完成工作后离开，以先到者为准。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/whichever；
 > - It's going to be expensive whichever way you do it. `[真题]`
+>   - 中译：无论你用哪种方式做，都会很贵。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/whichever；
 > - Whichever option we choose there'll be disadvantages. `[真题]`
+>   - 中译：无论我们选择哪个方案，都会有不利之处。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/whichever；
 
 
 ---

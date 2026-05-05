@@ -126,8 +126,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The young teacher approached her work with missionary **zeal**, dedicating countless hours to helping underprivileged students. `[例]`
+>   - 中译：这位年轻教师以传教士般的热情投入工作，为帮助贫困学生奉献了无数时间。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/zeal；
 > - Reformers pursued their agenda with **zeal**, but their efforts were often met with resistance from entrenched interests. `[例]`
+>   - 中译：改革者以极大的热情推进他们的议程，但他们的努力经常遭到既得利益者的抵制。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/zeal；
 > - His **zeal** for environmental conservation led him to found a nonprofit organization dedicated to reforestation. `[例]`
+>   - 中译：他对环境保护的热忱促使他创立了一个致力于重新造林的非营利组织。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/zeal；
 
 
 ---

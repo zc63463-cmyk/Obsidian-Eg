@@ -127,8 +127,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The course is divided into ten modules, each focusing on a different aspect of digital marketing. `[真题]`
+> - 中译：该课程分为十个模块，每个模块侧重于数字营销的不同方面。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/module；
 > - The space station consists of several interconnected modules. `[真题]`
+> - 中译：空间站由几个相互连接的模块组成。；
+> - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/module；
 > - The project management module covers the critical evaluation of project management theory and methods. `[真题]`
+> - 中译：项目管理模块涵盖对项目管理理论和方法的批判性评估。；
+> - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/module；
 
 
 ---

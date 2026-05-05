@@ -130,8 +130,14 @@ nomin-（名字，拉丁语 *nomen*）+ -al（形容词后缀，"与……有关
 
 > [!example]- 语料
 > - She's the nominal head of our college - the real work is done by her deputy. `[例]`
+>   - 中译：她是我们学院的名义院长——实际工作由她的副手完成。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/nominal；
 > - For a nominal fee , they will deliver orders to customers ' homes. `[例]`
+>   - 中译：只需支付少量名义费用，他们就会将订单送到客户家中。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/nominal；
 > - There is a nominal fee for the workshop. `[例]`
+>   - 中译：该研讨会收取少量名义费用。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/nominal；
 
 
 ---

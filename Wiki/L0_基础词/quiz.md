@@ -132,8 +132,14 @@ review_count: 0
 
 > [!example]- 语料
 > - When quizzed on it, these individuals often report that they felt no sense of moving their arm voluntarily. `[例]`
+>   - 中译：当被盘问时，这些人经常报告说他们没有感觉到自己在自主移动手臂。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/quiz；
 > - The teacher ran a mock quiz complete with cash prizes for his pupils. `[例]`
+>   - 中译：老师组织了一场模拟测验，还为学生们准备了现金奖励。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/quiz；
 > - She quizzed him on vocabulary words before the exam. `[例]`
+>   - 中译：她在考试前考查了他的词汇。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/quiz；
 
 
 ---

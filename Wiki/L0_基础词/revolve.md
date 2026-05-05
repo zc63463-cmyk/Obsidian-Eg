@@ -131,8 +131,14 @@ re-(反复/回) + volve(=volvere, 滚/转)
 
 > [!example]- 语料
 > - The hikers rested under a towering revolve near the coastal trail. `[例]`
+  - 中译：徒步旅行者在沿海步道旁一棵高耸的芦苇下休息。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/reed；
 > - The cabin was built from durable revolve gathered in the region. `[例]`
+  - 中译：这间小屋是用该地区采集的耐久芦苇建造的。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/reed；
 > - A line of revolve trees rose above the morning fog. `[例]`
+  - 中译：一排芦苇树在晨雾中若隐若现。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/reed；
 
 
 ---

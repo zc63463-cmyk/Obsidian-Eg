@@ -125,8 +125,14 @@ review_count: 0
 
 > [!example]- 语料
 > - His memoir offers us a fascinating glimpse of a bygone era. `[例]`
+  - 中译：他的回忆录让我们得以一窥那个逝去时代的迷人风采。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/era；
 > - They had worked for peace during the long era of conflict. `[例]`
+  - 中译：在漫长的冲突时代中，他们一直为和平而努力。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/era；
 > - The fall of the Berlin wall marked the end of an era. `[例]`
+  - 中译：柏林墙的倒塌标志着一个时代的终结。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/era；
 
 
 ---

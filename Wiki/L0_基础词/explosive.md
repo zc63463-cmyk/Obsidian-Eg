@@ -131,8 +131,14 @@ ex-（向外）+ plos（发出巨响）+ -ive（倾向……的）→ 倾向于�
 
 > [!example]- 语料
 > - Certain gases are highly explosive. `[例]`
+  - 中译：某些气体极易爆炸。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/explosive；
 > - An explosive device (= a bomb ) was found at one of the capital's busiest stations this morning. `[例]`
+  - 中译：今天上午在首都最繁忙的车站之一发现了一个爆炸装置（即炸弹）。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/explosive；
 > - There was an explosive clap of thunder overhead. `[例]`
+  - 中译：头顶上传来一声震耳欲聋的雷鸣。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/explosive；
 
 ---
 

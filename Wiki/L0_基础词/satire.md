@@ -127,9 +127,17 @@ review_count: 0
 
 > [!example]- 语料
 > - Jonathan Swift's 'Gulliver's Travels' is not merely a children's adventure story but a brilliant satire on human nature and society. `[真题]`
+  - 中译：乔纳森-斯威夫特的《格列佛游记》不仅仅是一部儿童冒险故事，更是一部关于人性和社会的精彩讽刺作品。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/satire
 > - In an age of political satire, late-night talk shows have become an important platform for social commentary and criticism. `[真题]`
+  - 中译：在政治讽刺的时代，深夜脱口秀已成为社会评论和批评的重要平台。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/satire
 > - The hit HBO show is a biting satire about the television industry. `[例]`
+  - 中译：这部热门的HBO剧集是对电视行业的尖锐讽刺。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/satire
 > - He often merges politics and popular culture using satire. `[例]`
+  - 中译：他经常用讽刺手法将政治与流行文化融合在一起。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/satire
 
 
 ---

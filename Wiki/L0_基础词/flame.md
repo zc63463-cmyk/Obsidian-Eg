@@ -138,8 +138,14 @@ flame 源自拉丁语 *flamma*（火焰、火苗），来自动词 *flagrare*（
 
 > [!example]- 语料
 > - The flames grew larger as the fire spread. `[例]`
+>   - 中译：随着火势蔓延，火焰越来越大。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/flame；
 > - The car flipped over and burst into flames (= started burning immediately ). `[例]`
+>   - 中译：汽车翻倒后立即起火燃烧。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/flame；
 > - When the fire engine arrived the house was already in flames (= burning ). `[例]`
+>   - 中译：消防车到达时，房子已经在燃烧了。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/flame；
 
 
 ---

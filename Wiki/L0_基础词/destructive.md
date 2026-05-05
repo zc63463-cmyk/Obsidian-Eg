@@ -50,7 +50,7 @@ review_count: 0
 >    - → **造成严重损害的**：抽象的破坏
 >      - 激活条件：destructive behavior, destructive criticism
 
-### 统筹
+### 统筹（选择适用的模式）
 
 - **一字一词概括**：destructive 就是"毁的"——有破坏倾向的
 - **一句话统筹**：destructive = de（反向）+ struct（建造）+ ive（倾向）= 有反向建造倾向的
@@ -126,8 +126,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The destructive power of nuclear weapons. `[例]`
+  - 中译：核武器的破坏力。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/destructive；
 > - I worry about the destructive effect that violent films may have on children. `[例]`
+  - 中译：我担心暴力电影可能对儿童产生的有害影响。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/destructive；
 > - Lack of trust is very destructive in a relationship. `[例]`
+  - 中译：缺乏信任在一段关系中是非常有害的。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/destructive；
 
 
 ---

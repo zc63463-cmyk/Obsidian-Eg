@@ -123,8 +123,14 @@ review_count: 0
 
 > [!example]- 语料
 > - We spent the afternoon relaxing in the beautiful surroundings of my parents' home. `[例]`
+>   - 中译：我们在父母家美丽的环境中度过了一个轻松的下午。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/surroundings；
 > - Animals living in their natural surroundings exhibit more diverse behaviors. `[例]`
+>   - 中译：生活在自然环境中的动物表现出更多样的行为。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/surroundings；
 > - He was happy to be at home again in his usual surroundings. `[例]`
+>   - 中译：他很高兴又回到了家，回到了熟悉的环境中。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/surroundings；
 
 
 ---

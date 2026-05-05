@@ -135,8 +135,14 @@ far(远) + -ther(比较级后缀)
 
 > [!example]- 语料
 > - How much farther is it to the airport? `[例]`
+  - 中译：到机场还有多远？；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/farther；
 > - The fog's so thick , I can't see farther than about ten metres. `[例]`
+  - 中译：雾太大了，我看不到十米以外的地方。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/farther；
 > - It was farther to the shop than I expected. `[例]`
+  - 中译：到商店比我想象的要远。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/farther；
 
 
 ---

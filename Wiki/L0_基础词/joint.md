@@ -134,8 +134,14 @@ joint 源自古法语 *joint*，源自拉丁语 *iunctus*，为 *iungere*（连�
 
 > [!example]- 语料
 > - The researchers proposed a joint solution to the problem. `[真题]`
+>   - 中译：研究人员提出了一个联合解决方案。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/joint；
 > - The company adopted a joint approach to improve efficiency. `[例]`
+>   - 中译：公司采用了一种联合方法来提高效率。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/joint；
 > - The plan offers a joint option for small organizations. `[例]`
+>   - 中译：该计划为小型组织提供了一个联合选项。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/joint；
 
 
 ---

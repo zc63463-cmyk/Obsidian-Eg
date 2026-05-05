@@ -129,9 +129,17 @@ review_count: 0
 
 > [!example]- 语料
 > - In the 19th century, wagon trains carried thousands of settlers across the American West in search of new opportunities. `[例]`
+>   - 中译：19世纪，篷马车队载着成千上万的定居者穿越美国西部，寻找新的机遇。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/wagon；
 > - The factory uses automated guided wagons to transport materials between different production lines. `[例]`
+>   - 中译：工厂使用自动导引运输车在不同生产线之间运输材料。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/wagon；
 > - Intrepid pioneers came to California by wagon train. `[例]`
+>   - 中译：勇敢的先驱们乘篷马车来到加利福尼亚。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/wagon；
 > - We overtook carts and wagons stacked with fruit and veg. `[例]`
+>   - 中译：我们超过了装满水果和蔬菜的手推车和马车。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/wagon；
 
 
 ---

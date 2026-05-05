@@ -125,8 +125,14 @@ pro-(向前/在前) + [[vinc-vict|vinc]](征服，拉丁语 *vincere*) + -e(名�
 
 > [!example]- 语料
 > - Edmonton is the capital city of the Canadian province of Alberta. `[例]`
+>   - 中译：埃德蒙顿是加拿大艾伯塔省的省会城市。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/province；
 > - Asia Minor was Rome's richest province. `[例]`
+>   - 中译：小亚细亚是罗马最富裕的行省。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/province；
 > - Viareggio is the main coastal town in the Province of Lucca, in Italy. `[例]`
+>   - 中译：维亚雷焦是意大利卢卡省的主要沿海城镇。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/province；
 
 
 ---

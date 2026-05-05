@@ -125,8 +125,14 @@ review_count: 0
 
 > [!example]- 语料
 > - When I arrived he was sweeping the leaves from the driveway. `[例]`
+>   - 中译：我到达时，他正在清扫车道上的落叶。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sweep；
 > - A 1970s fashion revival is sweeping Europe. `[例]`
+>   - 中译：一股20世纪70年代的时尚复古风正在席卷欧洲。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/sweep；
 > - American minesweepers are sweeping the Arabian Sea. `[例]`
+>   - 中译：美国扫雷舰正在阿拉伯海进行扫雷。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sweep；
 
 
 ---

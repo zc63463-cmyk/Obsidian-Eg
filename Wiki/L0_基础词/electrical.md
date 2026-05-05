@@ -126,8 +126,14 @@ review_count: 0
 
 > [!example]- 语料
 > - There is a 25% discount on all electrical goods until the end of the week. `[真题]`
+>   - 中译：本周结束前所有电器商品打七五折。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/electrical；
 > - Never use water to put out fires in electrical equipment. `[真题]`
+>   - 中译：切勿用水扑灭电气设备中的火灾。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/electrical；
 > - An unexpected surge in electrical power caused the computer to crash. `[真题]`
+>   - 中译：一次意外的电力浪涌导致电脑崩溃。；
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/electrical；
 
 
 ---

@@ -127,8 +127,14 @@ review_count: 0
 
 > [!example]- 语料
 > - I am sure that common sense will prevail in the end. `[例]`
+>   - 中译：我相信常识最终会占上风。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/prevail；
 > - And did reason prevail over (= become a more powerful influence than) emotion? `[例]`
+>   - 中译：那么理性是否战胜了情感？；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/prevail；
 > - This attitude still prevails among the middle classes. `[例]`
+>   - 中译：这种态度在中产阶级中仍然盛行。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/prevail；
 
 
 ---

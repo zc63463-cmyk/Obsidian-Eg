@@ -133,8 +133,14 @@ re-(=back，回) + [[lev|lieve]](轻，拉丁语 *levare*，举起/减轻)
 
 > [!example]- 语料
 > - On July 29th they were relieved, at least temporarily. `[真题]`
+  - 中译：7月29日他们得到了解脱，至少暂时如此。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/relieve；
 > - The Government acted quickly to relieve the widespread distress caused by the earthquake. `[真题]`
+  - 中译：政府迅速采取行动，以缓解地震造成的广泛苦难。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/relieve；
 > - She was given morphine to relieve the pain. `[例]`
+  - 中译：她被注射了吗啡来缓解疼痛。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/relieve；
 
 
 ---

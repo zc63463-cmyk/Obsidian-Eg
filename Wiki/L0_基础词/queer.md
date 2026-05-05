@@ -129,9 +129,17 @@ review_count: 0
 
 > [!example]- 语料
 > - What a queer thing to say! `[例]`
+>   - 中译：说这话真奇怪！；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/queer；
 > - I'm feeling rather queer, may I sit down? `[例]`
+>   - 中译：我感觉有点不舒服，可以坐下吗？；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/queer；
 > - The endless and numberless avenues of bewildering pine woods gave him a queer feeling that he was driving through the countless corridors of a dream. `[例]`
+>   - 中译：无尽的令人迷失的松树林小路给了他一种奇怪的感觉，仿佛他正行驶在梦境中无数的走廊里。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/queer；
 > - I had a queer feeling that something bad was about to happen. `[例]`
+>   - 中译：我有一种奇怪的感觉，好像有什么不好的事情即将发生。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/queer；
 
 
 ---

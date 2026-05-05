@@ -52,7 +52,7 @@ review_count: 0
 >    - → **组曲**：配套的乐曲
 >      - 激活条件：a piano suite
 
-### 统筹
+### 统筹（选择适用的模式）
 
 - **一字一词概括**：suite 就是"一套"——一套房间、一套工具、一套乐曲、一套软件
 - **结构隐喻**：相连的房间→配套的事物→成套的系列
@@ -124,8 +124,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The company offers a complete suite of office productivity tools. `[真题]`
+>   - 中译：该公司提供一整套办公生产力工具。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/suite；
 > - They have a whole suite of offices on the 34th floor. `[真题]`
+>   - 中译：他们在34楼有一整套办公室。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/suite；
 > - The new stadium will feature 4,000 permanent seats, as well as 12 luxury suites. `[真题]`
+>   - 中译：新体育场将设有4000个固定座位以及12个豪华包厢。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/suite；
 
 
 ---

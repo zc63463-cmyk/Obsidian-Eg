@@ -122,8 +122,14 @@ turkey 为日耳曼语源词，16世纪时因火鸡从土耳其（经由土耳�
 
 > [!example]- 语料
 > - His last film was a complete turkey. `[例]`
+>   - 中译：他的最后一部电影是一部彻头彻尾的烂片。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/turkey；
 > - What did you do that for, you turkey? `[例]`
+>   - 中译：你为什么要那样做，你这个笨蛋？；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/turkey；
 > - We raise turkeys mainly for the Christmas market. `[例]`
+>   - 中译：我们养火鸡主要是为了供应圣诞节市场。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/turkey；
 
 
 ---

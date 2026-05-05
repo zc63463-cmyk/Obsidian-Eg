@@ -130,8 +130,14 @@ gender 源自拉丁语 *genus*（种族、种类、类别），原始印欧语�
 
 > [!example]- 语料
 > - Despite significant progress, the gender pay gap remains a persistent issue in many industries. `[真题]`
+>   - 中译：尽管取得了重大进展，但性别薪酬差距在许多行业中仍然是一个持续存在的问题。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/gender；
 > - Gender discrimination in the workplace is not only unethical but also illegal in many countries. `[真题]`
+>   - 中译：职场中的性别歧视不仅不道德，而且在许多国家也是违法的。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/gender；
 > - Our lab is committed to gender equality in the sciences and promotes men and women to senior positions in equal numbers. `[真题]`
+>   - 中译：我们的实验室致力于科学领域的性别平等，并以同等数量提拔男女到高级职位。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/gender；
 
 
 ---

@@ -53,7 +53,7 @@ review_count: 0
 >    - → **股本，资产净值**（商业）：公司资产中属于股东的"公平份额"
 >      - 激活条件：home equity, equity financing, private equity
 
-### 统筹
+### 统筹（选择适用的模式）
 
 - **一字一词概括**：equity 就是"公平份额"——社会公平叫"公正"，法律公平叫"衡平法"，财务公平叫"股本"
 - **延伸中心**：从"抽象的公平"延伸到"法律公正"再到"商业上的公平份额"
@@ -131,8 +131,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The rights give holders the opportunity to purchase additional equity interests in the company at a big discount. `[例]`
+  - 中译：这些权利使持有者有机会以大幅折扣购买公司额外的股权。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/equity；
 > - A society based on equity and social justice. `[例]`
+  - 中译：一个基于公平和社会正义的社会。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/equity；
 > - How much equity do you have in your home? `[例]`
+  - 中译：你的房屋中有多少净值？；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/equity；
 
 
 ---

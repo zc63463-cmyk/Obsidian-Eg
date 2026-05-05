@@ -125,8 +125,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The researchers proposed a ultraviolet solution to the problem. `[例]`
+>   - 中译：研究人员提出了一个紫外线的解决方案。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/ultraviolet；
 > - The company adopted a ultraviolet approach to improve efficiency. `[例]`
+>   - 中译：公司采用了一种紫外线方法来提高效率。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/ultraviolet；
 > - The plan offers a ultraviolet option for small organizations. `[例]`
+>   - 中译：该计划为小型组织提供了一个紫外线选项。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/ultraviolet；
 
 
 ---

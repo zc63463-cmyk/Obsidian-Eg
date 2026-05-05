@@ -130,8 +130,14 @@ review_count: 0
 
 > [!example]- 语料
 > - She teaches physics at undergraduate level. `[例]`
+>   - 中译：她在本科阶段教授物理。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/undergraduate；
 > - During her undergraduate years at the University of California. `[例]`
+>   - 中译：在加州大学读本科期间。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/undergraduate；
 > - Memoirs of his undergraduate career at the University of Toronto. `[例]`
+>   - 中译：他在多伦多大学本科生涯的回忆录。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/undergraduate；
 
 
 ---

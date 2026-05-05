@@ -133,8 +133,14 @@ flavour 源自古法语 *flaor*（气味、香味），可能来自通俗拉丁�
 
 > [!example]- 语料
 > - Add a little salt to bring out the flavour of the herbs. `[例]`
+>   - 中译：加一点盐来提香草的味。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/flavour；
 > - My fish was delicious but Charles' beef had almost no flavour (= did not taste of anything). `[例]`
+>   - 中译：我的鱼很好吃，但查尔斯的牛肉几乎没有味道。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/flavour；
 > - This wine has a light , fruity flavour (= the taste of fruit ). `[例]`
+>   - 中译：这种葡萄酒有一种清淡的水果味。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/flavour；
 
 
 ---

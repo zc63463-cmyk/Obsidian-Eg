@@ -54,7 +54,7 @@ grope（源自古英语 *grāpian* "抓握"，日耳曼语系，与 grip "抓住
 >    - → **探寻，摸索**：在未知领域中探索
 >      - 激活条件：grope for an answer, grope for the truth
 
-### 统筹
+### 统筹（选择适用的模式）
 
 - **一字一词概括**：grope 就是"摸着找"——黑暗中摸着找开关叫"摸索"，未知中摸着找答案叫"探寻"
 - **延伸中心**：从"物理上的手摸"延伸到"认知上的探索"
@@ -129,8 +129,14 @@ grope（源自古英语 *grāpian* "抓握"，日耳曼语系，与 grip "抓住
 
 > [!example]- 语料
 > - She groped for her glasses on the bedside table. `[例]`
+  - 中译：她在床头柜上摸索着找眼镜。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/grope；
 > - I had to grope my way up the dark stairs. `[例]`
+  - 中译：我不得不在黑暗的楼梯上摸索着往上走。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/grope；
 > - He groped me as I was going to the bar. `[例]`
+  - 中译：我去吧台时他对我不轨。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/grope；
 
 
 ---

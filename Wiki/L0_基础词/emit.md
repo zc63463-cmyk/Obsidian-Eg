@@ -129,8 +129,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The alarm emits infrared rays which are used to detect any intruder. `[例]`
+>   - 中译：警报器发出红外线，用于探测任何入侵者。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/emit；
 > - The machine emits a high-pitched sound when you press the button. `[例]`
+>   - 中译：按下按钮时，机器会发出高亢的声音。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/emit；
 > - The alarm emits a high-pitched sound if anyone tries to break in. `[例]`
+>   - 中译：如果有人试图闯入，警报器会发出尖锐的声音。；
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/emit；
 
 
 ---

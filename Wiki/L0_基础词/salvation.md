@@ -132,8 +132,14 @@ review_count: 0
 
 > [!example]- 语料
 > - It is striking that postal firms — once seen as obsolete because of the emergence of the internet — are now finding salvation from it. `[例]`
+  - 中译：引人注目的是，邮政公司——曾经因互联网的出现而被认为过时——现在正从中找到救赎。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/salvation
 > - Education was seen as the salvation of the poor. `[例]`
+  - 中译：教育被视为穷人的救星。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/salvation
 > - The Lord himself is my strength and my defense; he has become my salvation. `[例]`
+  - 中译：主本身是我的力量和保障；他已成为我的拯救。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/salvation
 
 
 ---

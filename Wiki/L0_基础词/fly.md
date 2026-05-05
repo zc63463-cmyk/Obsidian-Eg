@@ -131,8 +131,14 @@ fly（源自古英语 *flēogan*，原始印欧语 *pleu-* "流动/飞"）
 
 > [!example]- 语料
 > - The poor bird couldn't fly because it had a broken wing. `[例]`
+>   - 中译：那只可怜的鸟飞不了了，因为它的翅膀断了。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fly；
 > - The plane was a Boeing 757 flying out of Dulles International Airport. `[例]`
+>   - 中译：那架飞机是一架从杜勒斯国际机场起飞的波音757。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fly；
 > - The pianist is flying out from New York this week to play in Tokyo. `[例]`
+>   - 中译：这位钢琴家本周将从纽约飞往东京演出。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fly；
 
 
 ---

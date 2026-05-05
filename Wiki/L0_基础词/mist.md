@@ -129,8 +129,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The hills were covered in a thin mist. `[真题]`
+> - 中译：薄雾笼罩着群山。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/mist；
 > - His eyes misted over at the memory of his wife. `[真题]`
+> - 中译：想起妻子时，他的双眼泛起了泪光。；
+> - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/mist；
 > - The windshield misted over as we drove through the mountains. `[真题]`
+> - 中译：我们开车穿过山区时，挡风玻璃蒙上了一层雾。；
+> - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/mist；
 
 
 ---

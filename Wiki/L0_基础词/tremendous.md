@@ -133,8 +133,14 @@ trem(颤抖，拉丁语 *tremere*) + -end(名词后缀) + -ous(形容词后缀�
 
 > [!example]- 语料
 > - They were making a tremendous amount of noise last night. `[例]`
+>   - 中译：他们昨晚发出了巨大的噪音。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/tremendous；
 > - She's been a tremendous (= very great ) help to me over the last few months. `[例]`
+>   - 中译：过去几个月里她帮了我很大的忙。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/tremendous；
 > - You won ? That's tremendous! `[例]`
+>   - 中译：你赢了？太棒了！；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/tremendous；
 
 
 ---

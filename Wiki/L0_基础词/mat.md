@@ -125,8 +125,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The dog lay drooling on the mat. `[例]`
+> -   - 中译：狗趴在垫子上流口水；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/mat；
 > - The electrician must have called (round) this morning when we were out - there's a note on the door mat. `[例]`
+> -   - 中译：电工今天早上我们不在家时一定来过——门垫上有一张便条；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/mat；
 > - There was a rush mat by the entrance. `[例]`
+> -   - 中译：入口处有一张灯芯草席；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/mat；
 
 
 ---

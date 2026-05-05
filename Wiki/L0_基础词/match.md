@@ -130,8 +130,14 @@ review_count: 0
 
 > [!example]- 语料
 > - It's an interactive feature that lets visitors key in job criteria such as location, title, and salary, then E-mails them when a matching position is posted in the database. `[真题]`
+> -   - 中译：这是一个互动功能，让访客可以输入工作条件；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/match；
 > - She then realized that her life no longer matched her vision for it. `[真题]`
+> -   - 中译：然后她意识到自己的生活已经不再符合她的设想；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/match；
 > - Even the best farming techniques are no match for the strong, hot winds in that area. `[例]`
+> -   - 中译：即使是最先进的农业技术也无法抵御该地区强烈的热风；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/match；
 
 
 ---

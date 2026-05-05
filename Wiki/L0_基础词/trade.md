@@ -132,8 +132,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Caravanserais were also an important marketplace for commodities and _!Lin the trade of goods along the Silk Road. `[真题]`
+>   - 中译：商队旅馆也是商品交易的重要市场，是丝绸之路上货物贸易的重要场所。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/trade；
 > - The trade magazine The Bookseller reported that Waterstones branch managers were being told to remove PRH books from prominent areas such as tables , display spaces and windows, and were " quietly retiring them to their relevant sections". `[真题]`
+>   - 中译：行业杂志《书商》报道说，水石书店的门店经理被要求将企鹅兰登书屋的图书从桌面、展示区和橱窗等显眼位置撤下，并悄悄地将它们放回各自的分类区域。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/trade；
 > - The country's trade in manufactured goods has expanded in the last ten years. `[例]`
+>   - 中译：该国制成品的贸易在过去十年中有所扩大。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/trade；
 
 
 ---

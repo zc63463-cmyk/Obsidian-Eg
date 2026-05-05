@@ -128,8 +128,14 @@ review_count: 0
 
 > [!example]- 语料
 > - This may mean that the public's attention is fragmented across many different media outlets. `[真题]`
+> -   - 中译：这可能意味着公众的注意力分散在许多不同的；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/may；
 > - It may be said that the measure of the worth of any social institution is its effect in enlarging and improving experience. `[真题]`
+> -   - 中译：可以说，衡量任何社会机构价值的标准是它；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/may；
 > - The cause of the accident may never be discovered. `[例]`
+> -   - 中译：事故的原因可能永远不会被查明；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/may；
 
 
 ---

@@ -123,9 +123,17 @@ review_count: 0
 
 > [!example]- 语料
 > - At the conference, scientists from different countries mingled and exchanged ideas. `[真题]`
+> - 中译：在会议上，来自不同国家的科学家相互交流、交换想法。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/mingle；
 > - The aroma of coffee mingled with the scent of fresh pastries in the bakery. `[真题]`
+> - 中译：面包店里咖啡的香气与新鲜糕点的香味交融在一起。；
+> - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/mingle；
 > - At the party, guests were encouraged to mingle and get to know each other. `[真题]`
+> - 中译：在派对上，客人们被鼓励相互交流、彼此认识。；
+> - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/mingle；
 > - The different cultures mingle freely in this diverse urban environment. `[真题]`
+> - 中译：不同的文化在这个多元化的城市环境中自由交融。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/mingle；
 
 
 ---

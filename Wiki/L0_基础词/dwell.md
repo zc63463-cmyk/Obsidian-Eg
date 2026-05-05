@@ -128,9 +128,17 @@ review_count: 0
 
 > [!example]- 语料
 > - Don't dwell on the past; focus on the future. `[真题]`
+>   - 中译：不要沉湎于过去；要着眼于未来。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/dwell；
 > - The cabin was built from durable dwell gathered in the region. `[例]`
+>   - 中译：这间小屋是用该地区采集的耐用居住木材建造的。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/dwell；
 > - There is no need to dwell on the past. `[真题]`
+>   - 中译：没有必要纠结于过去。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/dwell；
 > - The hikers rested under a towering dwell near the coastal trail. `[例]`
+>   - 中译：徒步旅行者在沿海步道旁的一棵高大的居住树下休息。；
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/dwell；
 
 
 ---

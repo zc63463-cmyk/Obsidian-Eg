@@ -53,7 +53,7 @@ review_count: 0
 >    - → **巅峰，极点**：任何事物的最高点
 >      - 激活条件：the summit of one's career
 
-### 统筹
+### 统筹（选择适用的模式）
 
 - **一字一词概括**：summit 就是"最高点"——山的最高点叫山顶、会议的最高点叫峰会、事业的最高点叫巅峰
 - **方位隐喻**：空间上的最高点→级别上的最高点→成就上的最高点
@@ -127,8 +127,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Leaders from around the world gathered for the climate summit. `[真题]`
+>   - 中译：来自世界各地的领导人齐聚气候峰会。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/summit；
 > - The climbers failed to reach the summit before the storm hit. `[真题]`
+>   - 中译：登山者在风暴来袭前未能到达山顶。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/summit；
 > - A summit on global warming was held that year. `[真题]`
+>   - 中译：那一年举行了一次关于全球变暖的峰会。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/summit；
 
 
 ---

@@ -131,8 +131,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Are you sober enough to drive , Jim? `[例]`
+  - 中译：你清醒到可以开车了吗，吉姆？；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/sober；
 > - I'd had no wine all evening so I was stone cold (= completely ) sober. `[例]`
+  - 中译：我整个晚上都没喝酒，所以完全清醒。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/sober；
 > - Steve is a recovering alcoholic who has been sober for a decade. `[例]`
+  - 中译：史蒂夫是一个正在康复的酗酒者，他已经戒酒十年了。；
+  - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/sober；
 
 
 ---

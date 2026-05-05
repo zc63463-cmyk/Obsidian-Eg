@@ -126,8 +126,14 @@ review_count: 0
 
 > [!example]- 语料
 > - After years of disagreements, the couple decided to file for divorce. `[真题]`
+>   - 中译：经过多年的分歧，这对夫妻决定申请离婚。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/divorce；
 > - The divorce rate has been declining in recent years according to social researchers. `[真题]`
+>   - 中译：据社会研究人员称，近年来离婚率一直在下降。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/divorce；
 > - We should not divorce science from ethics. `[真题]`
+>   - 中译：我们不应将科学与伦理分开。；
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/divorce；
 
 
 ---

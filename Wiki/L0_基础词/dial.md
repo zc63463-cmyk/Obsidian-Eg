@@ -125,8 +125,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Can I dial this number direct , or do I have to go through the operator? `[例]`
+  - 中译：我可以直接拨这个号码，还是需要通过接线员转接？；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/dial；
 > - Can you read what it says on the dial? `[例]`
+  - 中译：你能读出表盘上的字吗？；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/dial；
 > - What number did you dial? `[例]`
+  - 中译：你拨了什么号码？；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/dial；
 
 
 ---

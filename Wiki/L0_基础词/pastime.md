@@ -136,9 +136,14 @@ review_count: 0
 
 > [!example]- 语料
 > - These days the Net, which has already re-made such everyday pastimes as buying books and sending mails, is reshaping Donovan's vocation as well. `[真题]`
+  - 中译：如今，已经重塑了购书和寄信等日常消遣的互联网，也在重塑多诺万的职业。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pastime；
 > - Hockey is Canada's national pastime. `[例]`
+  - 中译：冰球是加拿大的全民消遣。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/pastime；
 > - Gardening is my mother's favourite pastime. `[例]`
-
+  - 中译：园艺是我母亲最喜欢的消遣。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/pastime；
 
 ---
 

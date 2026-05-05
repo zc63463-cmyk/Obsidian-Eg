@@ -128,8 +128,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The term caravan was used to _4_ groups of people who travelled together across the ancient network for safety reasons , 5 merchants, travellers or pillgrims. `[真题]`
+>   - 中译：商队一词曾被用来指代为了安全起见结伴穿越古代商路的群体，包括商人、旅行者或朝圣者。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/network；
 > - Says Dan Quinn, senior communications strategist at the Texas Freedom Network, a non-profit group that monitors public education. `[真题]`
+>   - 中译：德克萨斯自由网络的高级传播策略师丹·奎因说。；
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/network；
 > - Beneath the city lies a labyrinthine network of tunnels. `[例]`
+>   - 中译：城市地下有一个迷宫般的隧道网络。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/network；
 
 
 ---

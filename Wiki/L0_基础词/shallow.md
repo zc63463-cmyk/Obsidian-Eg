@@ -139,8 +139,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The researchers proposed a shallow solution to the problem. `[真题]`
+  - 中译：研究人员提出了一个肤浅的解决方案。；
+  - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/shallow；
 > - The company adopted a shallow approach to improve efficiency. `[真题]`
+  - 中译：公司采取了一种肤浅的方法来提高效率。；
+  - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/shallow；
 > - The plan offers a shallow option for small organizations. `[真题]`
+  - 中译：该计划为小型组织提供了一个浅层的选项。；
+  - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/shallow；
 
 
 ---

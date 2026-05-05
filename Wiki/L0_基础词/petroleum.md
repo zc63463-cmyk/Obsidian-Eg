@@ -122,9 +122,14 @@ petr-/petro-(石头，岩石，希腊语 *petra*) + oleum(油，拉丁语)
 
 > [!example]- 语料
 > - And although you don't read about this much, the United States is also a large exporter of oil products, selling about 2 million barrels of petroleum products per day to about 90 countries. `[真题]`
+  - 中译：虽然你不太读到这方面的消息，但美国也是石油产品的大出口国，每天向约90个国家销售约200万桶石油产品。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/petroleum；
 > - In addition, other factors are putting downward pressure on oil prices: change in the strategic behavior of the Organization of Petroleum Exporting Countries, the projected increase in Iranian exports, the scaling-down of global demand. `[真题]`
+  - 中译：此外，其他因素也在给油价施加下行压力：石油输出国组织战略行为的改变、伊朗出口预计增加、全球需求缩减。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/petroleum；
 > - Petrol and diesel are produced from petroleum. `[例]`
-
+  - 中译：汽油和柴油是由石油提炼而成的。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/petroleum；
 
 ---
 

@@ -128,8 +128,14 @@ tu-/tut-(看护，拉丁语 *tueri*，to watch over) + -or(名词后缀，表"�
 
 > [!example]- 语料
 > - His parents got him a tutor to help with his maths. `[例]`
+>   - 中译：他的父母给他请了一位家教来帮助他学数学。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/tutor；
 > - His tutor encouraged him to use flashcards to help him study new vocabulary. `[例]`
+>   - 中译：他的导师鼓励他使用抽认卡来帮助学习新词汇。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/tutor；
 > - During my illness I was taught by a series of home tutors. `[例]`
+>   - 中译：我生病期间由一系列家庭教师授课。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/tutor；
 
 
 ---

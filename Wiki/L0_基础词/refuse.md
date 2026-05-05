@@ -127,9 +127,17 @@ re-(回，向后) + [[fus-fund-fuse|fus]](流，来自拉丁语 *fundere/fusus*)
 
 > [!example]- 语料
 > - Worst of all, when her son, Ned, fell and injured his knee, she refused to pay for a doctor and spent hours looking for free medical help. `[真题]`
+  - 中译：最糟糕的是，当她的儿子内德摔倒伤到膝盖时，她拒绝花钱请医生，花了几个小时寻找免费医疗帮助。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/refuse；
 > - The supervisor of personnel refused the request. `[真题]`
+  - 中译：人事主管拒绝了这一请求。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/refuse；
 > - An X-rays technician is refusing to do her job until the firm agrees to replace its out-dated equipment. `[真题]`
+  - 中译：一名X光技师拒绝工作，直到公司同意更换过时的设备。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/refuse；
 > - He asked me to give him another loan, but I refused. `[例]`
+  - 中译：他请求我再借给他一笔钱，但我拒绝了。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/refuse；
 
 
 ---

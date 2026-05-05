@@ -126,8 +126,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The servants did their mistress's bidding without question. `[真题]`
+> - 中译：仆人们毫无异议地执行女主人的命令。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/mistress；
 > - She had always been mistress of her own destiny. `[真题]`
+> - 中译：她始终是自己命运的主人。；
+> - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/mistress；
 > - Mrs. Goddard was the mistress of a school. `[真题]`
+> - 中译：戈达德夫人是一所学校的女校长。；
+> - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/mistress；
 
 
 ---

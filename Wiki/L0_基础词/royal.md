@@ -127,8 +127,14 @@ roy-(=reg-/rex-, 国王，拉丁语 *rex*/*regalis*) + -al(形容词后缀)
 
 > [!example]- 语料
 > - Few of the Western democracies still have a royal family with real political power. `[真题]`
+  - 中译：西方民主国家中几乎没有哪个还保留着拥有真正政治权力的王室。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/royal
 > - The team was given a royal reception upon their return from the championship. `[真题]`
+  - 中译：球队在锦标赛凯旋后受到了隆重的欢迎。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/royal
 > - We were given royal treatment at the hotel, with free meals and a private pool. `[真题]`
+  - 中译：我们在酒店受到了皇家般的待遇，有免费餐食和私人泳池。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/royal
 
 
 ---

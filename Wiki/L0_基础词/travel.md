@@ -131,8 +131,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The term caravan was used to _4_ groups of people who travelled together across the ancient network for safety reasons , 5 merchants, travellers or pillgrims. `[真题]`
+>   - 中译：商队一词用来指代为了安全起见在古代网络中结伴而行的群体，包括商人、旅行者或朝圣者。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/travel；
 > - Between school and university , she spent a year travelling, mostly in Africa and Asia. `[例]`
+>   - 中译：在中学和大学之间，她花了一年时间旅行，主要在非洲和亚洲。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/travel；
 > - For this reason, caravanserais were strategically placed 9 they could be reached in a day's travel time. `[真题]`
+>   - 中译：因此，商队旅馆被战略性地设置在一天行程内可以到达的地方。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/travel；
 
 
 ---

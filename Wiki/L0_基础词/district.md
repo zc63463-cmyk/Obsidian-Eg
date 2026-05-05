@@ -122,8 +122,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The city's business district is home to numerous multinational corporations. `[真题]`
+>   - 中译：该市的商业区是众多跨国公司的所在地。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/district；
 > - She was elected as the representative for the 5th congressional district. `[真题]`
+>   - 中译：她当选为第五国会选区的代表。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/district；
 > - There are more than 40 congressional districts where the number of registered Latino voters exceeds the margin of victory in 2024. `[真题]`
+>   - 中译：有超过40个国会选区的登记拉丁裔选民人数超过了2024年的胜选差距。；
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/district；
 
 
 ---

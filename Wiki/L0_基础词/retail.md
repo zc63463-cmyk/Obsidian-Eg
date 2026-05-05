@@ -136,8 +136,14 @@ re-(再/反复) + tail(=tailor, 切割/剪裁)
 
 > [!example]- 语料
 > - Retail stores usually count on the Christmas season to make up to half of their annual profits. `[真题]`
+  - 中译：零售商店通常指望圣诞季能带来高达一半的年利润。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/retail；
 > - The government must also urgently address problems across the retail sector as shops continue to close. `[真题]`
+  - 中译：随着商店不断关闭，政府还必须紧急解决整个零售行业的问题。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/retail；
 > - Reimbursement will be the lower of either the retail price or the wholesale price plus a handling fee. `[真题]`
+  - 中译：报销金额将取零售价或批发价加手续费中较低的一个。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/retail；
 
 
 ---

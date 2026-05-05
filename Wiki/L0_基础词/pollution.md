@@ -126,8 +126,14 @@ pollute(弄脏) + -ion(名词后缀，表示动作或状态)
 
 > [!example]- 语料
 > - The manifesto includes tough measures to tackle road congestion and environmental pollution. `[例]`
+>   - 中译：该宣言包含了应对道路拥堵和环境污染的严厉措施。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pollution；
 > - Pollution from the factory could be contaminating nearby wells. `[例]`
+>   - 中译：工厂的污染可能正在污染附近的水井。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pollution；
 > - It is the biggest environmental pollution incident in the history of the country. `[例]`
+>   - 中译：这是该国历史上最大的环境污染事件。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pollution；
 
 
 ---

@@ -130,8 +130,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The morning sun gradually dissipated the thick fog over the harbor. `[真题]`
+>   - 中译：晨阳逐渐驱散了港口上空的浓雾。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/dissipate；
 > - The jump in resignations earlier in the pandemic recovery has dissipated. `[真题]`
+>   - 中译：疫情恢复初期辞职人数激增的现象已经消退。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/dissipate；
 > - Some economists are sanguine that deflationary pressures will dissipate over time. `[真题]`
+>   - 中译：一些经济学家乐观地认为，通货紧缩压力会随着时间的推移而消散。；
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/dissipate；
 
 
 ---

@@ -50,7 +50,7 @@ review_count: 0
 >    - → **导演**：引导电影/戏剧创作方向的人
 >      - 激活条件：film director, debut as a director
 
-### 统筹
+### 统筹（选择适用的模式）
 
 - **一字一词概括**：director 就是"引路人"——引公司路叫"主管"，引电影路叫"导演"
 - **延伸中心**：从"引导方向"延伸到不同领域的管理者
@@ -129,6 +129,8 @@ review_count: 0
 > - Glenn Branch, the centre's deputy director, cautions that setting state-level science standards is only one limited benchmark in a country that decentralises decisions to local school bo.ards. `[真题]`
 > - We are at a crisis level on the supply of rental housing , " said Nick Taylor, executive director of the Workforce Housing Coalition of the Greater Seacoast. `[真题]`
 > - She served on the hospital's board of directors. `[例]`
+  - 中译：她在医院的董事会任职。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/director；
 
 
 ---

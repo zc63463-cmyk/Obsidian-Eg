@@ -135,8 +135,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The group is known for its belief in witchcraft and magic. `[例]`
+> -   - 中译：该团体以其对巫术和魔法的信仰而闻名；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/magic；
 > - As if by magic, the car changes into a boat when it hits the water. `[例]`
+> -   - 中译：仿佛变魔术一般，这辆车一碰到水就变成了船；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/magic；
 > - With just a click of one button , all the lights in the house turn off and the blinds close like magic. `[例]`
+> -   - 中译：只需按一下按钮，屋子里所有的灯都关了，百叶窗像变魔术一样自动合上；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/magic；
 
 
 ---

@@ -128,8 +128,14 @@ review_count: 0
 
 > [!example]- 语料
 > - It's tempting to buy all of this stuff on tick. `[例]`
+>   - 中译：把这些东西全部赊购买下来很诱人。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/tick；
 > - The ticking of the clock kept her awake. `[例]`
+>   - 中译：时钟的滴答声让她无法入睡。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/tick；
 > - That clock ticks too loudly. `[例]`
+>   - 中译：那座钟滴答声太响了。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/tick；
 
 
 ---

@@ -120,8 +120,14 @@ review_count: 0
 
 > [!example]- 语料
 > - She was taken hostage by the gunmen. `[例]`
+  - 中译：她被持枪者劫持为人质。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hostage；
 > - He was freed after being held hostage for twelve hours. `[例]`
+  - 中译：他被扣为人质十二小时后获释。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hostage；
 > - The terrorists have seized 20 hostages and are threatening to kill one a day unless their demands are met. `[例]`
+  - 中译：恐怖分子劫持了20名人质，并威胁除非满足他们的要求，否则每天杀害一人。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hostage；
 
 
 ---

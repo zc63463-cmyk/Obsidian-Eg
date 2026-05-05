@@ -127,9 +127,17 @@ review_count: 0
 
 > [!example]- 语料
 > - Customers may order merchandise in person, via telephone through a common call center or through our websites. `[真题]`
+> - 中译：顾客可以亲自、通过电话客服中心或通过我们的网站订购商品。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/merchandise；
 > - The store offers a wide range of official merchandise for fans of the band. `[真题]`
+> - 中译：这家商店为乐队粉丝提供种类繁多的官方周边商品。；
+> - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/merchandise；
 > - Defective merchandise can be returned within 30 days for a full refund. `[真题]`
+> - 中译：有缺陷的商品可在30天内退货并获得全额退款。；
+> - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/merchandise；
 > - The pop-up shop sells merchandise from his latest tour. `[真题]`
+> - 中译：这家快闪店出售他最新巡演的周边商品。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/merchandise；
 
 
 ---

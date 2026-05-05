@@ -126,8 +126,14 @@ en-(使动前缀，使…成为) + rich(富有) → 使富有
 
 > [!example]- 语料
 > - Fertilizer helps to enrich the soil. `[例]`
+>   - 中译：肥料有助于使土壤肥沃。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/enrich；
 > - My life was greatly enriched by knowing her. `[例]`
+>   - 中译：认识她极大地丰富了我的生活。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/enrich；
 > - He claimed that the large stores were enriching themselves at the expense of their customers. `[例]`
+>   - 中译：他声称大商店是在牺牲顾客利益来中饱私囊。；
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/enrich；
 
 
 ---

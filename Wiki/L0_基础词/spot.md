@@ -137,8 +137,14 @@ review_count: 0
 
 > [!example]- 语料
 > - He had a spot of grease on his tie. `[例]`
+>   - 中译：他的领带上有一块油渍。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/spot；
 > - I wore that skirt with the green spots. `[例]`
+>   - 中译：我穿了那条带绿色斑点的裙子。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/spot；
 > - Teenagers often suffer a lot from spots. `[例]`
+>   - 中译：青少年经常深受青春痘的困扰。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/spot；
 
 
 ---

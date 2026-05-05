@@ -132,8 +132,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Several governments have adopted tough new anti-terrorist legislation in the wake of the attacks. `[真题]`
+>   - 中译：在袭击事件之后，几国政府采取了严厉的新反恐立法。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/wake；
 > - It took years for the public to wake up to the serious environmental consequences of industrial pollution. `[真题]`
+>   - 中译：公众花了多年时间才认识到工业污染对环境的严重后果。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/wake；
 > - The governor has enjoyed a huge surge in the polls in the wake of last week's convention. `[例]`
+>   - 中译：在上周大会之后，州长在民调中获得了巨大的支持率飙升。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/wake；
 
 
 ---

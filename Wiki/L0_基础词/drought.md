@@ -125,8 +125,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Climate change is expected to increase the frequency and severity of droughts. `[真题]`
+>   - 中译：气候变化预计将增加干旱的频率和严重程度。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/drought；
 > - The region is suffering from a severe drought that has lasted for months. `[真题]`
+>   - 中译：该地区正遭受持续数月的严重干旱。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/drought；
 > - After a long drought of new ideas, the team finally came up with an innovative solution. `[真题]`
+>   - 中译：在经历了长期缺乏新想法之后，团队终于提出了一个创新的解决方案。；
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/drought；
 
 ---
 

@@ -134,6 +134,8 @@ forth（向前）+ -er(比较级后缀)
 > - We need to conduct further research before drawing any conclusions. `[真题]`
 > - The government should take further measures to reduce pollution. `[真题]`
 > - A line of further trees rose above the morning fog. `[例]`
+  - 中译：又一行树木从晨雾中升起。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/further_1；
 
 
 ---

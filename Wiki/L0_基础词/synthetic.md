@@ -124,8 +124,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Synthetic fibers are often more durable than natural ones. `[真题]`
+>   - 中译：合成纤维通常比天然纤维更耐用。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/synthetic；
 > - Her sympathy seemed synthetic rather than genuine. `[真题]`
+>   - 中译：她的同情似乎是出于虚伪而非真心。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/synthetic；
 > - The rug is made from a mixture of wool and synthetic fibres. `[例]`
+>   - 中译：这块地毯由羊毛和合成纤维混合制成。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/synthetic；
 
 
 ---

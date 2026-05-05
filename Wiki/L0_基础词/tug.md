@@ -125,8 +125,14 @@ tug 为日耳曼语源词（中古英语 *tuggen*），可能源自古诺斯语 
 
 > [!example]- 语料
 > - Tom tugged at his mother's arm. `[例]`
+>   - 中译：汤姆拉了拉母亲的胳膊。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/tug；
 > - Feeling a tug at his sleeve , he turned to see Joe beside him. `[例]`
+>   - 中译：感觉到有人拉了一下他的袖子，他转过头看到乔站在旁边。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/tug；
 > - We tugged the sled up the hill. `[例]`
+>   - 中译：我们把雪橇拉上了山。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/tug；
 
 
 ---

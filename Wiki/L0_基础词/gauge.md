@@ -130,8 +130,14 @@ gauge 词源不确定，可能来自日耳曼语源。与 [[gauge]]（也拼作 
 
 > [!example]- 语料
 > - It is difficult to gauge the full impact of the new policy at this early stage. `[真题]`
+>   - 中译：在现阶段很难评估新政策的全面影响。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/gauge；
 > - We conducted a survey in order to gauge customer satisfaction. `[真题]`
+>   - 中译：我们进行了一项调查以评估客户满意度。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/gauge；
 > - The fuel gauge indicated that the tank was nearly empty. `[真题]`
+>   - 中译：油量表显示油箱几乎空了。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/gauge；
 
 
 ---

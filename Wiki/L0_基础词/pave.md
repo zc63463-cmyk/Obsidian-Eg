@@ -139,9 +139,14 @@ pav(夯实/铺设，拉丁语 *pavire*) + -e
 
 > [!example]- 语料
 > - This would help pave the way for a human mission to Mars. `[真题]`
+  - 中译：这将有助于为人类火星任务铺平道路。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pave；
 > - After 1968, most of the city's cobblestone roads were also paved over to prevent the pavers from being used as projectiles in future protests. `[真题]`
+  - 中译：1968年后，城市大部分鹅卵石路面也被铺平，以防止铺路石在未来的抗议中被用作投掷物。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/pave；
 > - Their unique approach paved the way for an extraordinary leap into the deep earth. `[真题]`
-
+  - 中译：他们独特的方法为深入地球的非凡飞跃铺平了道路。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/pave；
 
 ---
 

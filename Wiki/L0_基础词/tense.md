@@ -139,8 +139,14 @@ review_count: 0
 
 > [!example]- 语料
 > - She was very tense as she waited for the interview. `[真题]`
+>   - 中译：她在等待面试时非常紧张。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/tense；
 > - There were some tense moments in the second half of the game. `[真题]`
+>   - 中译：比赛下半场有一些紧张的时刻。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/tense；
 > - This gesture of goodwill did little to improve the tense atmosphere at the talks. `[真题]`
+>   - 中译：这一善意的姿态对改善谈判的紧张气氛几乎没有帮助。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/tense；
 
 
 ---

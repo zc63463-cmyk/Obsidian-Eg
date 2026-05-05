@@ -122,8 +122,14 @@ ir-(=in-, 不，否定前缀) + [[spect-spec|spect]](看) + -ive(形容词后缀
 
 > [!example]- 语料
 > - All citizens are equal before the law, irrespective of their social status. `[真题]`
+>   - 中译：法律面前人人平等，不论其社会地位如何。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/irrespective；
 > - The rules apply to everyone, irrespective of how long they have been with the company. `[真题]`
+>   - 中译：这些规定适用于所有人，无论他们在公司待了多久。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/irrespective；
 > - The IELTS exam can be taken by anyone in the world, irrespective of their nationality, gender, age, race, or religion. `[真题]`
+>   - 中译：雅思考试面向全球所有人开放，不论国籍、性别、年龄、种族或宗教。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/irrespective；
 
 
 ---

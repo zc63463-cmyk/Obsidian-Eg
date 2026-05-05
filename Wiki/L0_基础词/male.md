@@ -139,9 +139,17 @@ male 源自拉丁语 *masculus*（男性的），与拉丁语 *mas*（男性）�
 
 > [!example]- 语料
 > - IT is very much a male-dominated industry. `[COCA-NEWS]`
+> -   - 中译：IT行业在很大程度上是男性主导的；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/male；
 > - Europe's top corporate-governance positions remain overwhelmingly male. `[真题]`
+> -   - 中译：欧洲顶级公司治理职位仍然绝大多数由男性担任；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/male；
 > - The patients in this study consisted of 30 males and 25 females. `[COCA-ACAD]`
+> -   - 中译：本研究中的患者由30名男性和25名女性组成；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/male；
 > - There are about 105 males born for every 100 females, but this ratio drops to near balance at the age of maturity. `[真题]`
+> -   - 中译：每出生100名女性大约对应105名男性，但这一比例在成年时降至接近平衡；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/male；
 
 
 ---

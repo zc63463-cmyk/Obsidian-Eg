@@ -125,8 +125,14 @@ dot（点，中古英语 *dot*，可能来自古法语 *dot* "点"，与 dose �
 
 > [!example]- 语料
 > - The countryside is dotted with small villages. `[真题]`
+>   - 中译：乡村点缀着小村庄。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/dot；
 > - Please sign on the dotted line. `[真题]`
+>   - 中译：请在虚线上签名。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/dot；
 > - The sky was dotted with stars. `[真题]`
+>   - 中译：天空中繁星点点。；
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/dot；
 
 
 ---

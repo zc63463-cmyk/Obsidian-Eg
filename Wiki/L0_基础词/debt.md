@@ -130,8 +130,14 @@ review_count: 0
 
 > [!example]- 语料
 > - He managed to pay off his debts in two years. `[例]`
+  - 中译：他设法在两年内还清了债务。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/debt；
 > - The company ran up huge debts. `[例]`
+  - 中译：公司积累了巨额债务。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/debt；
 > - They are in debt to (= owe money to) the bank. `[例]`
+  - 中译：他们欠银行的钱。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/debt；
 
 
 ---

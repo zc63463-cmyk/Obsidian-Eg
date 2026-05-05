@@ -50,7 +50,7 @@ review_count: 0
 >    - → **群集，聚集**：聚集在一起的动作
 >      - 激活条件：The children clustered around the teacher.
 
-### 统筹
+### 统筹（选择适用的模式）
 
 - **一字一词概括**：cluster 就是"簇"——物成簇，人成群
 - **一句话统筹**：cluster 就是自然或人为地聚集在一起的团块

@@ -133,8 +133,14 @@ yard 有两个不同的词源：
 
 > [!example]- 语料
 > - Children in the neighborhood often gathered in the back yard to play games after school. `[真题]`
+>   - 中译：附近的孩子们放学后经常在后院聚在一起玩游戏。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/yard；
 > - The house sits on a quarter-acre lot with a beautifully landscaped front yard and a vegetable garden. `[真题]`
+>   - 中译：这座房子坐落在一个四分之一英亩的地块上，拥有精心设计的前院和菜园。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/yard；
 > - The quarterback threw a spectacular 50-yard pass that led to the winning touchdown in the final seconds. `[真题]`
+>   - 中译：四分卫在最后几秒投出了一个精彩的50码传球，导致了制胜的达阵。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/yard；
 
 
 ---

@@ -134,8 +134,14 @@ review_count: 0
 
 > [!example]- 语料
 > - He was always a good boy, very friendly and eager to please. `[真题]`
+>   - 中译：他一直是个好孩子，非常友善，总是急于取悦别人。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/eager；
 > - They crowded around the spokesperson, eager for any news. `[真题]`
+>   - 中译：他们围在发言人周围，渴望得到任何消息。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/eager；
 > - I was eager to get back to work as soon as possible. `[真题]`
+>   - 中译：我急于尽快回到工作岗位。；
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/eager；
 
 
 ---

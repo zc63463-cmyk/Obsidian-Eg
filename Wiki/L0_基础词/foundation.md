@@ -132,8 +132,14 @@ found(=fundare, 奠基，拉丁语 fundus 底部) + -ation(名词后缀，表示
 
 > [!example]- 语料
 > - Her youngest child starts (in) foundation in September. `[例]`
+>   - 中译：她最小的孩子九月份开始上学前班。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/foundation；
 > - The foundations will have to be reinforced to prevent the house from sinking further into the ground. `[例]`
+>   - 中译：地基必须加固，以防止房子进一步下沉。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/foundation；
 > - These allegations are completely without foundation. `[例]`
+>   - 中译：这些指控完全没有根据。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/foundation；
 
 
 ---

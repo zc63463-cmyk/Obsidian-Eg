@@ -137,8 +137,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The drugs were found during a police raid on the house. `[真题]`
+>   - 中译：毒品是在警方对这栋房子的突击搜查中发现的。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/raid；
 > - Four people were arrested during a raid on a house in London. `[真题]`
+>   - 中译：在对伦敦一栋房子的突击搜查中，四人被逮捕。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/raid；
 > - Two schools were hit during the air raid. `[真题]`
+>   - 中译：两所学校在空袭中遭到袭击。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/raid；
 
 
 ---

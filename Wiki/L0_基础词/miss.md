@@ -133,9 +133,17 @@ miss 作为动词源自古英语 *missan*（未击中、错过、没达到），
 
 > [!example]- 语料
 > - Many job seekers miss the opportunity to negotiate salary because they are too eager to accept the first offer. `[真题]`
+> - 中译：许多求职者因为太急于接受第一个录用通知而错失了谈判薪资的机会。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/miss；
 > - Workers who miss the deadline for filing tax returns may face penalties from the tax authorities. `[真题]`
+> - 中译：错过报税截止日期的工人可能面临税务机关的处罚。；
+> - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/miss；
 > - Don't miss the chance to watch this brilliant crime drama. `[真题]`
+> - 中译：不要错过观看这部精彩犯罪剧的机会。；
+> - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/miss；
 > - Fear of missing a flight or leaving something important at home stresses out a quarter of British holidaymakers. `[真题]`
+> - 中译：害怕错过航班或把重要东西忘在家里的恐惧让四分之一的英国度假者感到压力。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/miss；
 
 
 ---

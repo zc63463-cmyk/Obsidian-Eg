@@ -131,8 +131,14 @@ review_count: 0
 
 > [!example]- 语料
 > - She fractured her skull in the accident. `[例]`
+>   - 中译：她在事故中颅骨骨折。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fracture；
 > - The impact fractured his elbow. `[例]`
+>   - 中译：撞击使他的肘部骨折。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fracture；
 > - Two of her ribs fractured when she was thrown from her horse. `[例]`
+>   - 中译：她从马上摔下来时断了两根肋骨。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fracture；
 
 
 ---

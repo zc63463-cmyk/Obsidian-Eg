@@ -132,8 +132,14 @@ gl-（光/视觉词根，印欧语系 *ghel-* "发光"）+ -itter（表示反复
 
 > [!example]- 语料
 > - His dark eyes glittered with anger behind his glasses. `[真题]`
+>   - 中译：他的黑眼睛在眼镜后面闪烁着愤怒的光芒。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/glitter；
 > - Many gems have glittered in tonight's speeches. `[真题]`
+>   - 中译：今晚的演讲中闪烁着许多精彩的语句。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/glitter；
 > - He shows us that all that glitters is not gold. `[真题]`
+>   - 中译：他向我们展示了闪闪发光的不都是金子。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/glitter；
 
 
 ---

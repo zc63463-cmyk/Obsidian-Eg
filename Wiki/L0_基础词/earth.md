@@ -139,8 +139,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Earth looks incredibly beautiful from space. `[真题]`
+>   - 中译：从太空看，地球美得令人难以置信。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/earth；
 > - His trainer called him the greatest boxer on earth. `[真题]`
+>   - 中译：他的教练称他为世界上最伟大的拳击手。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/earth；
 > - He thinks he's a big deal in junior high but when he starts high school in the fall he'll come back down to earth. `[真题]`
+>   - 中译：他觉得自己在初中很了不起，但等秋天上了高中，他就会回到现实。；
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/earth；
 
 
 ---

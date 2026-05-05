@@ -136,6 +136,8 @@ review_count: 0
 > [!example]- 语料
 > - The government imposed a freeze on public sector wages. `[COCA-NEWS]`
 > - The cabin was built from durable freeze gathered in the region. `[例]`
+>   - 中译：小屋是用该地区收集的耐用的冰冻材料建造的。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/freeze；
 > - The easiest way to preserve food is to freeze it at a very cold temperature. `[COCA-ACAD]`
 
 ---

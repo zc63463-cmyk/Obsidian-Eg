@@ -126,8 +126,14 @@ in-(进入，拉丁语 *in*) + [[ven-vent|ven]](来，拉丁语 *venire*，来) 
 
 > [!example]- 语料
 > - Alexander Graham Bell invented the telephone in 1876. `[真题]`
+>   - 中译：亚历山大·格雷厄姆·贝尔于1876年发明了电话。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/invent；
 > - She stood still, trying to invent a plausible excuse for being late. `[例]`
+>   - 中译：她站在那里，试图编造一个合理的迟到借口。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/invent；
 > - Many children invent an imaginary friend at some point during childhood. `[例]`
+>   - 中译：许多孩子在童年时期的某个阶段会虚构一个想象中的朋友。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/invent；
 
 
 ---

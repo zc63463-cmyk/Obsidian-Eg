@@ -120,8 +120,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The most unique feature of Little Gasparilla Island is that there is no bridge connecting the island to the mainland. `[COCA-NEWS]`
+> -   - 中译：小加斯帕里利亚岛最独特的特点是没有任何桥梁；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/mainland；
 > - Many young people from rural areas migrate to the mainland in search of better job opportunities and higher wages. `[COCA-ACAD]`
+> -   - 中译：许多来自农村地区的年轻人迁移到大陆寻找更好的；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/mainland；
 > - The bridge connecting the island to the mainland was completed after five years of construction. `[例]`
+> -   - 中译：连接岛屿与大陆的桥梁经过五年建设后完工；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/mainland；
 
 
 ---

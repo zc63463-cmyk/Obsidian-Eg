@@ -53,7 +53,7 @@ review_count: 0
     - → **激怒，使奋起**：把人的斗志"摇醒"
       - 激活条件：rouse the nation, rouse to action
 
-### 统筹
+### 统筹（选择适用的模式）
 
 - **一字一词概括**：rouse 就是"摇醒"——把人从睡梦中摇醒、把情感从沉睡中摇醒、把斗志从麻木中摇醒
 - **本体隐喻**：睡眠=不活跃状态，唤醒=激活
@@ -128,8 +128,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Around 2 a.m., I was roused by the sound of screaming coming from the street below. `[真题]`
+  - 中译：凌晨两点左右，我被楼下街道传来的尖叫声惊醒。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rouse
 > - The speaker attempted to rouse the crowd with a passionate cry for action. `[真题]`
+  - 中译：演讲者试图用充满激情的行动号召来激励人群。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rouse
 > - We don't want to rouse any suspicions before the plan is fully in place. `[真题]`
+  - 中译：我们不想在计划完全就绪之前引起任何怀疑。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rouse
 
 
 ---

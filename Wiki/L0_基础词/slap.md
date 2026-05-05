@@ -144,8 +144,14 @@ review_count: 0
 
 > [!example]- 语料
 > - She gave her son a slap for behaving badly. `[例]`
+  - 中译：她因为儿子表现不好扇了他一巴掌。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/slap；
 > - It was a real slap in the face for him when she refused to go out to dinner with him. `[例]`
+  - 中译：她拒绝和他共进晚餐，对他来说真是当头一棒。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/slap；
 > - The police officer gave Minna a slap on the wrist for not wearing her seat belt. `[例]`
+  - 中译：警察因为明娜没系安全带而给了她一个象征性的轻微处罚。；
+  - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/slap；
 
 
 ---

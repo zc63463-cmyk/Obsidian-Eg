@@ -134,9 +134,14 @@ peace(和平，古法语 *pais*，源自拉丁语 *pax*) + -ful(充满……的�
 
 > [!example]- 语料
 > - The researchers proposed a peaceful solution to the problem. `[真题]`
+  - 中译：研究人员提出了一个和平解决问题的方案。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/peaceful；
 > - Strikes were resorted to only if all other mechanisms for a peaceful settlement were exhausted. `[真题]`
+  - 中译：只有在所有其他和平解决的机制都用尽之后，才会诉诸罢工。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/peaceful；
 > - The plan offers a peaceful option for small organizations. `[真题]`
-
+  - 中译：该计划为小型组织提供了一个和平的选项。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/peaceful；
 
 ---
 

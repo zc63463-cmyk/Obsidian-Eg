@@ -125,8 +125,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The situation raises important questions about solidarity among member states of the UN. `[例]`
+  - 中译：这一情况引发了关于联合国成员国之间团结的重要问题。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/solidarity；
 > - The purpose of the speech was to show solidarity with the country's leaders. `[例]`
+  - 中译：这次演讲的目的是表达对该国领导人的声援。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/solidarity；
 > - Hundreds of supporters gathered to show solidarity for the three men. `[例]`
+  - 中译：数百名支持者聚集在一起，声援这三名男子。；
+  - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/solidarity；
 
 
 ---

@@ -50,7 +50,7 @@ review_count: 0
 >    - → **椭圆/椭圆形场地**：蛋形的空间
 >      - 激活条件：an oval office, a sports oval
 
-### 统筹
+### 统筹（选择适用的模式）
 
 - **一字一词概括**：oval 就是"蛋形"——蛋形的脸、蛋形的桌子、蛋形的场地
 - **延伸中心**：从"蛋形"延伸到"椭圆形的"和"椭圆形场地"
@@ -125,8 +125,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The researchers proposed a oval solution to the problem. `[例]`
+>   - 中译：研究人员提出了一个椭圆形的解决方案。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/oval；
 > - The company adopted a oval approach to improve efficiency. `[例]`
+>   - 中译：公司采用了一种椭圆的方法来提高效率。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/oval；
 > - The plan offers a oval option for small organizations. `[例]`
+>   - 中译：该计划为小型组织提供了一个椭圆形的选项。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/oval；
 
 
 ---

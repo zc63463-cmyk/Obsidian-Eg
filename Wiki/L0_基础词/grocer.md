@@ -49,7 +49,7 @@ gross(大量的/批发，源自古法语 *grossier* "批发商") + -er(人，做
 >    - → **杂货商，食品商**：专门经营食品杂货的零售商
 >      - 激活条件：the local grocer, online grocer
 
-### 统筹
+### 统筹（选择适用的模式）
 
 - **一字一词概括**：grocer 就是"大量进货卖货的人"——卖食品杂货的叫"杂货商"
 - **延伸中心**：从"批发商"收窄到"食品杂货零售商"
@@ -121,8 +121,14 @@ gross(大量的/批发，源自古法语 *grossier* "批发商") + -er(人，做
 
 > [!example]- 语料
 > - The UK's fourth biggest grocer operates 13 distribution centres. `[例]`
+  - 中译：英国第四大杂货商经营着13个配送中心。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/grocer；
 > - She is a grocer in a small town. `[例]`
+  - 中译：她是一个小镇上的杂货商。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/grocer；
 > - Ask your local grocer if he sells organic fruits and vegetables. `[例]`
+  - 中译：问问你当地的杂货商是否出售有机水果和蔬菜。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/grocer；
 
 
 ---

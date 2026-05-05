@@ -132,8 +132,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Snap decisions in reaction to rapid stimuli aren't exclusive to the interpersonal realm. `[真题]`
+>   - 中译：对快速刺激做出快速决策并非人际交往领域所独有。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rapid；
 > - The 1990s were a period of rapid change and rapid growth. `[真题]`
+>   - 中译：20世纪90年代是一个快速变化和快速增长的时期。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rapid；
 > - The plan offers a rapid option for small organizations. `[真题]`
+>   - 中译：该计划为小型组织提供了一个快速选项。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rapid；
 
 
 ---

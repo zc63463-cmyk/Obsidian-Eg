@@ -136,8 +136,14 @@ re-(向后/回) + treat(=tractus, 拉/拖/踏)
 
 > [!example]- 语料
 > - The army was forced to retreat from the city after three days of fierce fighting. `[真题]`
+  - 中译：经过三天的激战，军队被迫从城市撤退。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/retreat；
 > - The cabin in the woods was a perfect retreat from the noise and stress of city life. `[真题]`
+  - 中译：树林里的小木屋是远离城市喧嚣和压力的完美隐居之所。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/retreat；
 > - His proposals were clearly unreasonable and he was soon forced to retreat from his earlier position. `[真题]`
+  - 中译：他的提议显然不合理，他很快被迫放弃了先前的立场。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/retreat；
 
 
 ---

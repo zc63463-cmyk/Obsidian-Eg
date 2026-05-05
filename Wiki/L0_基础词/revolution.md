@@ -133,8 +133,14 @@ re-(向后/回) + volut(=volvere, 滚/转) + -ion(名词后缀，表示动作/�
 
 > [!example]- 语料
 > - The French Revolution changed France from a monarchy to a republic. `[真题]`
+  - 中译：法国大革命将法国从君主制变为共和国。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/revolution；
 > - The Industrial Revolution transformed the way people lived and worked, shifting societies from agrarian economies to industrial powerhouses. `[真题]`
+  - 中译：工业革命改变了人们的生活和工作方式，使社会从农业经济转变为工业强国。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/revolution；
 > - The digital revolution has brought about profound changes in education, making knowledge accessible to millions of people worldwide. `[真题]`
+  - 中译：数字革命给教育带来了深刻的变化，使全世界数百万人能够获取知识。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/revolution；
 
 
 ---

@@ -128,8 +128,14 @@ review_count: 0
 
 > [!example]- 语料
 > - She walked out in disgust. `[真题]`
+>   - 中译：她厌恶地走了出去。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/disgust；
 > - Much to the disgust of some listeners, the speech was interrupted several times by a few people in the audience. `[真题]`
+>   - 中译：令一些听众非常反感的是，演讲被台下的几个人打断了数次。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/disgust；
 > - He talked about his disgust with the way the news media focuses on celebrities. `[真题]`
+>   - 中译：他谈到了自己对新闻媒体热衷于报道名人现象的反感。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/disgust；
 
 
 ---

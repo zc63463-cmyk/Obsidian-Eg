@@ -137,9 +137,15 @@ late 源自古英语 *læt*，源自原始日耳曼语 *lataz*（迟的）。无
 ## 真题/语料关联
 
 > [!example]- 语料
-> - The problem began ]late last year, when PRH confirmed that it had introduced a credit limit �1ith Waterstones " at a very significant level". `[真题]`
-> - Jackson snapped them on a late 19th-century expedition through the Yellowstone Basin that was conducted by the · head of the U. `[真题]`
+> - The problem began ]late last year, when PRH confirmed that it had introduced a credit limit 1ith Waterstones " at a very significant level". `[真题]`
+>   - 中译：问题始于去年晚些时候，当时PRH确认已对Waterstones实施了"相当高水平的"信用额度限制。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/late；
+> - Jackson snapped them on a late 19th-century expedition through the Yellowstone Basin that was conducted by the head of the U. `[真题]`
+>   - 中译：杰克逊是在19世纪晚期一次穿越黄石盆地的探险中拍摄了这些照片，这次探险由美国……；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/late；
 > - It was late at night. `[例]`
+>   - 中译：当时已经是深夜了。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/late；
 
 
 ---

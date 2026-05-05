@@ -52,7 +52,7 @@ review_count: 0
 >    - → **概括的，简略的**：不详细的
 >      - 激活条件：a summary account
 
-### 统筹
+### 统筹（选择适用的模式）
 
 - **一字一词概括**：summary 就是"加在一起"——要点加在一起叫总结、不加赘述叫迅速的
 - **延伸中心**：从"概括总结"延伸到"迅速/即刻的"（因为总结就是快速概括，不啰嗦）
@@ -126,8 +126,14 @@ review_count: 0
 
 > [!example]- 语料
 > - In summary, the research findings support the hypothesis that early intervention is crucial. `[真题]`
+>   - 中译：总之，研究结果支持早期干预至关重要的假设。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/summary；
 > - What follows is a brief summary of the findings. `[真题]`
+>   - 中译：以下是对研究结果的简要总结。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/summary；
 > - In summary, we must aim to maintain a stable supply of crude oil while protecting the environment. `[真题]`
+>   - 中译：总之，我们必须在保护环境的同时，努力维持原油的稳定供应。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/summary；
 
 
 ---

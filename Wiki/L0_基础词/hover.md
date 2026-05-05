@@ -124,8 +124,14 @@ hover 源自中古英语 *hoveren*，可能与古英语 *hufe*（屋顶的屋檐
 
 > [!example]- 语料
 > - A hawk hovered in the sky , waiting to swoop down on its prey. `[例]`
+  - 中译：一只老鹰在天空中盘旋，等待俯冲捕猎。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hover；
 > - I heard the noise of a helicopter hovering overhead. `[例]`
+  - 中译：我听到头顶上方直升机盘旋的声音。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hover；
 > - A waiter hovered at the table , ready to take our order. `[例]`
+  - 中译：一名服务员在桌旁等候，随时准备为我们点菜。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hover；
 
 
 ---

@@ -138,9 +138,14 @@ pav(铺设，拉丁语 *pavire*) + -ment(名词后缀，表结果/产物)
 
 > [!example]- 语料
 > - Several pedestrians had come to grief on the icy pavement. `[真题]`
+  - 中译：几名行人在结冰的人行道上摔倒受伤。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pavement；
 > - Jackie fell over and scraped her knee on the pavement. `[真题]`
+  - 中译：杰基摔倒了，在人行道上擦伤了膝盖。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/pavement；
 > - While they were coming from a theatre his wife was robbed of a pearl necklace valued at six thousand pounds on the pavement. `[真题]`
-
+  - 中译：当他们从剧院出来时，他的妻子在人行道上被抢走了一条价值六千英镑的珍珠项链。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/pavement；
 
 ---
 

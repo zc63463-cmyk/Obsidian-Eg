@@ -132,8 +132,14 @@ not(知道/注意，拉丁语 *notus*，[[notare* "标记"]]) + -able(形容词�
 
 > [!example]- 语料
 > - A notable collection of rare plants. `[例]`
+>   - 中译：一批引人注目的稀有植物收藏。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/notable；
 > - Getting both sides to agree was a notable achievement. `[例]`
+>   - 中译：让双方达成一致是一项显著的成就。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/notable；
 > - This attractive building is particularly notable for its woodland setting. `[例]`
+>   - 中译：这座迷人的建筑因其林中环境而格外引人注目。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/notable；
 
 
 ---

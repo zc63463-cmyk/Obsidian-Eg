@@ -125,8 +125,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Gladys grows a lot of tomatoes in her greenhouse. `[例]`
+  - 中译：格拉迪丝在她的温室里种了很多番茄。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/greenhouse；
 > - These small, unheated enclosures use the sun’s energy to store heat like a greenhouse. `[例]`
+  - 中译：这些小型的、不加热的围栏利用太阳能像温室一样储存热量。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/greenhouse；
 > - Millstone accounts for 40% of Connecticut’s electricity and 90% of non- greenhouse gas emissions. `[例]`
+  - 中译：磨石发电厂占康涅狄格州电力的40%和非温室气体排放的90%。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/greenhouse；
 
 
 ---

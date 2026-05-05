@@ -123,8 +123,14 @@ tu-/tut-(看护，拉丁语 *tueri*，to watch over) + -tion(名词后缀，表�
 
 > [!example]- 语料
 > - All students receive tuition in logic and metaphysics. `[例]`
+>   - 中译：所有学生都接受逻辑学和形而上学的教学。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/tuition；
 > - Few can afford the tuition of $12,000 a semester. `[例]`
+>   - 中译：很少有人能负担得起每学期12000美元的学费。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/tuition；
 > - All students receive tuition in basic maths. `[例]`
+>   - 中译：所有学生都接受基础数学的教学。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/tuition；
 
 
 ---

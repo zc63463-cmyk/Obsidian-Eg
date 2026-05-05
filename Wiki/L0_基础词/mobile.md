@@ -135,8 +135,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The rise of mobile technology has transformed the way we communicate and access information. `[真题]`
+> - 中译：移动技术的兴起改变了我们通信和获取信息的方式。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/mobile；
 > - The company adopted a mobile approach to improve efficiency. `[真题]`
+> - 中译：公司采用了灵活机动的方式以提高效率。；
+> - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/mobile；
 > - For marginalized populations, mobile devices serve as lifelines to education. `[真题]`
+> - 中译：对于边缘化人群来说，移动设备是获取教育的生命线。；
+> - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/mobile；
 
 
 ---

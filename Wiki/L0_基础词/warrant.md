@@ -142,8 +142,14 @@ warr-(=ward-, 守卫，保护，古诺斯语 *varða*) + -ant(名词/形容词�
 
 > [!example]- 语料
 > - A judge has now issued a warrant for his arrest. `[真题]`
+>   - 中译：法官现在已经签发了对他的逮捕令。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/warrant；
 > - You don't have to let the police in unless they have a search warrant. `[真题]`
+>   - 中译：除非警察有搜查令，否则你不必让他们进来。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/warrant；
 > - There is no warrant for such criticism of the proposed policy. `[真题]`
+>   - 中译：对拟议政策的这种批评是没有根据的。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/warrant；
 
 
 ---

@@ -131,8 +131,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Dolphins often get tangled in the nets that are used to catch tuna fish. `[例]`
+>   - 中译：海豚经常被用来捕捞金枪鱼的渔网缠住。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/net；
 > - The living-room windows have net curtains that let in sunlight but stop passers-by looking in from the street. `[例]`
+>   - 中译：客厅的窗户装有网眼窗帘，能让阳光透进来，但阻止街上的行人往里看。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/net；
 > - The nets at the kitchen window were looking a bit yellow. `[例]`
+>   - 中译：厨房窗户上的网帘看起来有些发黄了。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/net；
 
 
 ---

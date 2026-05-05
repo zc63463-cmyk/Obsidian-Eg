@@ -128,8 +128,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Velcro is a registered trademark. `[例]`
+>   - 中译：维可牢是注册商标。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/trademark；
 > - He was wearing one of the brightly coloured ties that are his trademark. `[例]`
+>   - 中译：他戴着一条色彩鲜艳的领带，那是他的标志。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/trademark；
 > - She gave one of her trademark smiles. `[例]`
+>   - 中译：她露出了她标志性的微笑。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/trademark；
 
 
 ---

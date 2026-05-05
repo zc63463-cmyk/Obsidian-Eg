@@ -128,7 +128,11 @@ frown(整体词，源自古法语 *froignier*，皱眉)
 > [!example]- 语料
 > - She frowned at me, clearly annoyed. `[真题]`
 > - Being seen to be eccentric in the wrong way is frowned upon. `[例]`
+>   - 中译：以不恰当的方式表现古怪是不被认可的。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/frown；
 > - The Puritans frowned on ostentation. `[例]`
+>   - 中译：清教徒不赞成炫耀。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/frown；
 
 
 ---

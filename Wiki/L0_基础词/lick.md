@@ -130,8 +130,14 @@ review_count: 0
 
 > [!example]- 语料
 > - He licked the chocolate off his fingers. `[例]`
+> -   - 中译：他舔掉了手指上的巧克力；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lick；
 > - She licked the stamps and stuck them on the parcel. `[例]`
+> -   - 中译：她舔了舔邮票，贴在了包裹上；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lick；
 > - Within a few seconds flames were licking at the curtains. `[例]`
+> -   - 中译：几秒钟内火焰就开始舔舐窗帘；
+> -   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lick；
 
 
 ---

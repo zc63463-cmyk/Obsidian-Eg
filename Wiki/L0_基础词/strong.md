@@ -134,9 +134,17 @@ review_count: 0
 
 > [!example]- 语料
 > - There is strong evidence to support this theory. `[COCA-ACAD]`
+>   - 中译：有强有力的证据支持这一理论。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/strong；
 > - Despite his strong opposition, the bill was passed by a narrow margin. `[COCA-NEWS]`
+>   - 中译：尽管他强烈反对，该法案仍以微弱优势通过。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/strong；
 > - She has a strong determination to succeed in her career. `[COCA-ACAD]`
+>   - 中译：她有在事业上取得成功的坚定决心。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/strong；
 > - The economy showed strong growth in the third quarter of the year. `[COCA-NEWS]`
+>   - 中译：经济在第三季度显示出强劲增长。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/strong；
 
 
 ---

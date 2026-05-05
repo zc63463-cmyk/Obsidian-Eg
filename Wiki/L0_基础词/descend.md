@@ -129,8 +129,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The path descended steeply into the valley. `[例]`
+  - 中译：飞机开始下降。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/descend；
 > - The path descends to the valley below. `[例]`
+  - 中译：小路陡峭地通向村庄。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/descend；
 > - Jane descended the stairs. `[例]`
+  - 中译：他慢慢地走下楼梯。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/descend；
 
 
 ---

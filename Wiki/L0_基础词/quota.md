@@ -131,9 +131,17 @@ review_count: 0
 
 > [!example]- 语料
 > - The quota of four tickets per person had been reduced to two. `[例]`
+>   - 中译：每人四张票的配额已减少到两张。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/quota；
 > - The bill would force employers to adopt a quota system when recruiting workers. `[例]`
+>   - 中译：该法案将迫使雇主在招聘工人时采用配额制度。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/quota；
 > - Employees at warehouses across the country have reported working long hours and being expected to meet intense quotas. `[例]`
+>   - 中译：全国各地仓库的员工报告说工作时间很长，而且被要求完成高强度的工作配额。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/quota；
 > - Companies are given an annual quota by the government but this is set below their requirement so they always need more. `[例]`
+>   - 中译：政府给公司分配年度配额，但配额设定低于他们的需求，所以他们总是需要更多。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/quota；
 
 
 ---

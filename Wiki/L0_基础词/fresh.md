@@ -135,8 +135,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The researchers proposed a fresh solution to the problem. `[例]`
+>   - 中译：研究人员提出了一个全新的解决方案。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fresh；
 > - The company adopted a fresh approach to improve efficiency. `[例]`
+>   - 中译：公司采用了一种全新的方法来提高效率。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fresh；
 > - The plan offers a fresh option for small organizations. `[例]`
+>   - 中译：该计划为小型组织提供了一个全新的选择。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fresh；
 
 
 ---

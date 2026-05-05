@@ -131,8 +131,14 @@ review_count: 0
 
 > [!example]- 语料
 > - We thumbed a lift to London. `[例]`
+>   - 中译：我们竖起大拇指搭便车去了伦敦。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/thumb；
 > - He has thumbed his nose at authority all his life. `[例]`
+>   - 中译：他一生都在藐视权威。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/thumb；
 > - How did you cut your thumb? `[例]`
+>   - 中译：你怎么把大拇指弄伤了？；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/thumb；
 
 
 ---

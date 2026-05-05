@@ -139,8 +139,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The car parts themselves are not expensive , it's the labour that costs the money. `[例]`
+>   - 中译：汽车零件本身并不贵，贵的是人工费用。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/labour；
 > - Because of his back problems , he can no longer do manual labour. `[例]`
+>   - 中译：由于背部问题，他不能再从事体力劳动了。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/labour；
 > - Are you tired after your labours? `[例]`
+>   - 中译：劳动之后你累了吗？；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/labour；
 
 
 ---

@@ -51,7 +51,7 @@ over-(过度/超过) + flow(流)
 >    - → **充满，洋溢**：抽象层面的溢出（情感/信息）
 >      - 激活条件：Her heart overflowed with gratitude.
 
-### 统筹
+### 统筹（选择适用的模式）
 
 - **一字一词概括**：overflow 就是"装不下溢出来"——水装不下溢出来、情感装不下洋溢出来
 - **延伸中心**：从"液体溢出"延伸到"情感/信息的洋溢"
@@ -126,8 +126,14 @@ over-(过度/超过) + flow(流)
 
 > [!example]- 语料
 > - The hikers rested under a towering overflow near the coastal trail. `[例]`
+>   - 中译：徒步旅行者在海岸步道附近一个高耸的溢流处休息。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/overflow；
 > - The cabin was built from durable overflow gathered in the region. `[例]`
+>   - 中译：小木屋是用该地区收集的耐用的溢流材料建造的。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/overflow；
 > - A line of overflow trees rose above the morning fog. `[例]`
+>   - 中译：一排溢流树从晨雾中升起。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/overflow；
 
 
 ---

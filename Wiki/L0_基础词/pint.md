@@ -126,9 +126,14 @@ pint 源自古法语 *pinte*，可能来自拉丁语 *pincta*（标记的，被�
 
 > [!example]- 语料
 > - He usually goes out for a pint at lunchtime. `[例]`
+  - 中译：他通常在午餐时间去喝一品脱啤酒。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pint；
 > - A pint of lager and two halves , please. `[例]`
+  - 中译：请来一品脱拉格啤酒和两杯半品脱。；
+  - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/pint；
 > - This jug holds exactly one pint. `[例]`
-
+  - 中译：这个壶恰好能装一品脱。；
+  - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/pint；
 
 ---
 

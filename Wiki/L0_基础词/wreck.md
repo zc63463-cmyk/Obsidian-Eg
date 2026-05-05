@@ -131,9 +131,17 @@ review_count: 0
 
 > [!example]- 语料
 > - The ship was wrecked in a violent storm off the coast, and all crew members were rescued by helicopter. `[真题]`
+>   - 中译：该船在海岸外的猛烈风暴中失事，所有船员被直升机救起。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/wreck；
 > - Years of mismanagement and corruption have wrecked the country's economy beyond repair. `[真题]`
+>   - 中译：多年的管理不善和腐败已经将该国经济破坏得无法修复。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/wreck；
 > - Divers discovered the wreck of an ancient merchant vessel at the bottom of the Mediterranean Sea. `[真题]`
+>   - 中译：潜水员在地中海底部发现了一艘古代商船的残骸。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/wreck；
 > - After weeks of sleepless nights preparing for the exam, she was a nervous wreck by the time it started. `[真题]`
+>   - 中译：经过几周的不眠之夜准备考试，到考试开始时她已经紧张得崩溃了。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/wreck；
 
 
 ---

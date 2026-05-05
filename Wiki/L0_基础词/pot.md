@@ -126,8 +126,14 @@ pot（深圆容器，日耳曼语/拉丁语源，词源不确定）
 
 > [!example]- 语料
 > - Fill a large pot with salted water and bring it to the boil. `[例]`
+>   - 中译：在一个大锅里装满盐水，然后烧开。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pot；
 > - There's plenty of cupboard space in the kitchen for all your pots and pans. `[例]`
+>   - 中译：厨房里有充足的橱柜空间，可以放下你所有的锅碗瓢盆。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pot；
 > - The shelf was full of pots of paint. `[例]`
+>   - 中译：架子上摆满了油漆罐。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pot；
 
 
 ---

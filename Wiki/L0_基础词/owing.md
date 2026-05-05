@@ -125,8 +125,14 @@ owe（欠）+ -ing(分词/形容词后缀)
 
 > [!example]- 语料
 > - The flight was cancelled owing to severe weather conditions. `[真题]`
+>   - 中译：由于天气恶劣，航班被取消了。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/owing；
 > - The match was postponed owing to the heavy rain. `[真题]`
+>   - 中译：由于大雨，比赛被推迟了。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/owing；
 > - A significant portion of the department is still closed owing to the fact that spending to reopen it hasn't been approved. `[真题]`
+>   - 中译：由于重新开放该部门的支出尚未获得批准，该部门仍有很大一部分处于关闭状态。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/owing；
 
 
 ---

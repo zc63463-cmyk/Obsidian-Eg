@@ -128,8 +128,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Editing his journals for publication revealed to him how much he cared about what now seems trivial. `[例]`
+>   - 中译：为出版而编辑他的日记，让他意识到自己曾经多么在意现在看来微不足道的事情。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/edit；
 > - Students learn to edit their essays for grammar and punctuation. `[例]`
+>   - 中译：学生学习编辑自己文章的语法和标点。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/edit；
 > - He continued to edit the paper with great courage through the darkest years of the war. `[例]`
+>   - 中译：在战争最黑暗的岁月里，他继续以极大的勇气编辑这份报纸。；
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/edit；
 
 
 ---

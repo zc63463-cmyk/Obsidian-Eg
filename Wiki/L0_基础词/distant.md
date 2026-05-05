@@ -128,8 +128,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The distant sound of thunder warned us of the approaching storm. `[真题]`
+>   - 中译：远处传来的雷声提醒我们暴风雨即将来临。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/distant；
 > - She remained emotionally distant from her colleagues despite working together for years. `[真题]`
+>   - 中译：尽管共事多年，她与同事们之间始终保持着情感上的疏远。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/distant；
 > - Mars had surface water in the distant past. `[真题]`
+>   - 中译：火星在遥远的过去曾经拥有地表水。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/distant；
 
 
 ---

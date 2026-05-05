@@ -127,8 +127,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The selection process is designed to weed out unsuitable candidates. `[真题]`
+>   - 中译：选拔过程旨在淘汰不合格的候选人。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/weed；
 > - He is keen to weed out the many applicants he believes may be frauds. `[真题]`
+>   - 中译：他急于剔除他认为可能是骗子的众多申请者。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/weed；
 > - It might just help to weed out the parasites from the genuine cases. `[真题]`
+>   - 中译：这可能有助于从真正的案例中剔除那些寄生虫。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/weed；
 
 
 ---

@@ -138,8 +138,14 @@ fat-/fate(说/预言，拉丁语 *fari*，说)
 
 > [!example]- 语料
 > - His fate is now in the hands of the jury. `[例]`
+  - 中译：他的命运现在掌握在陪审团手中。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fate；
 > - The disciples were terrified that they would suffer the same fate as Jesus. `[例]`
+  - 中译：门徒们害怕他们会遭受与耶稣同样的命运。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fate；
 > - Parents in children's stories often meet a harsh fate. `[例]`
+  - 中译：儿童故事中的父母常常遭遇悲惨的命运。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fate；
 
 
 ---

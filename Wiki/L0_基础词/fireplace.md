@@ -117,8 +117,14 @@ review_count: 0
 
 > [!example]- 语料
 > - She swept the ashes from the fireplace. `[例]`
+>   - 中译：她清扫了壁炉里的灰烬。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fireplace；
 > - A log fire crackled in the fireplace. `[例]`
+>   - 中译：壁炉里的木柴火噼啪作响。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fireplace；
 > - Every room in the house has a fireplace. `[例]`
+>   - 中译：这栋房子的每个房间都有壁炉。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fireplace；
 
 
 ---

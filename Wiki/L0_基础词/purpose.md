@@ -133,8 +133,14 @@ pur-(=pro-, 向前/在前，拉丁语 *pro-* 在 *pur-* 前的同化形式) + [[
 
 > [!example]- 语料
 > - The purpose of the research is to try to find out more about the causes of the disease. `[例]`
+>   - 中译：这项研究的目的是试图更多地了解这种疾病的成因。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/purpose；
 > - His only purpose in life seems to be to enjoy himself. `[例]`
+>   - 中译：他人生中唯一的目的似乎就是享乐。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/purpose；
 > - Letters whose sole purpose is to make a political point will not be published. `[例]`
+>   - 中译：纯粹为了表达政治观点的信件将不予发表。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/purpose；
 
 
 ---

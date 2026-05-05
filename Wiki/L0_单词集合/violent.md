@@ -52,7 +52,7 @@ review_count: 0
 >    - → **强烈的，极端的**（adj.）：情感/态度上的"暴力"
 >      - 激活条件：搭配 violent disagreement, violent temper
 
-### 统筹
+### 统筹（选择适用的模式）
 
 - **一字一词概括**："烈"——猛烈粗暴
 - **一句话统筹**：violent 就是"充满粗暴力量"——暴力犯罪是 violent，暴风雨是 violent，激烈争论也是 violent。

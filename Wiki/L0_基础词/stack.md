@@ -129,8 +129,14 @@ review_count: 0
 
 > [!example]- 语料
 > - He chose a cartoon from the stack of DVDs on the shelf. `[例]`
+>   - 中译：他从架子上的那摞DVD中选了一部动画片。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/stack；
 > - Don't worry , we've got stacks of time. `[例]`
+>   - 中译：别担心，我们有充足的时间。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/stack；
 > - What's the best way to find a book in the stacks? `[例]`
+>   - 中译：在书库里找书的最佳方法是什么？；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/stack；
 
 
 ---

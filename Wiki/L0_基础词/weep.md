@@ -125,8 +125,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Our hearts have been left with ragged, weeping wounds. `[真题]`
+>   - 中译：我们的心中留下了参差不齐的、流血的伤口。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/weep；
 > - The sore is still weeping a lot so you'll have to change the dressing once a day. `[例]`
+>   - 中译：伤口仍在大量渗液，所以你必须每天换一次敷料。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/weep；
 > - It might help you to have a good weep. `[例]`
+>   - 中译：好好哭一场可能对你有帮助。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/weep；
 
 
 ---

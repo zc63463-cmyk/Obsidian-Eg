@@ -135,8 +135,14 @@ review_count: 0
 
 > [!example]- 语料
 > - She became the first black woman to be elected to the Senate. `[真题]`
+>   - 中译：她成为第一位当选参议员的黑人女性。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/elect；
 > - She elected to take early retirement instead of moving to the new location. `[真题]`
+>   - 中译：她选择提前退休，而不是搬到新地点。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/elect；
 > - Increasing numbers of people elect to work from home nowadays. `[真题]`
+>   - 中译：如今越来越多的人选择在家工作。；
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/elect；
 
 
 ---

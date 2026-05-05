@@ -130,8 +130,14 @@ review_count: 0
 
 > [!example]- 语料
 > - There are two entrances - one at the front and one around the back. `[例]`
+  - 中译：有两个入口——一个在前面，一个在后面。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/entrance；
 > - He makes a spectacular entrance in act two draped in a gold sheet. `[例]`
+  - 中译：他在第二幕披着金色的布料出场，场面十分壮观。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/entrance；
 > - I noticed her entrance because she slipped and fell in the doorway. `[例]`
+  - 中译：我注意到了她的入场，因为她在门口滑倒了。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/entrance；
 
 
 ---

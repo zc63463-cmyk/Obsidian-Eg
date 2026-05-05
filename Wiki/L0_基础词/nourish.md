@@ -129,8 +129,14 @@ review_count: 0
 
 > [!example]- 语料
 > - She looks happy and well nourished. `[例]`
+>   - 中译：她看起来快乐而营养充足。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/nourish；
 > - This cream is supposed to help nourish your skin. `[例]`
+>   - 中译：据说这种面霜有助于滋养皮肤。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/nourish；
 > - Lisa has long nourished the hope of becoming a famous writer. `[例]`
+>   - 中译：丽莎长期以来一直怀有成为著名作家的愿望。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/nourish；
 
 
 ---

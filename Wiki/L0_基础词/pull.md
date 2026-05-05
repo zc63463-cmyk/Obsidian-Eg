@@ -129,8 +129,14 @@ review_count: 0
 
 > [!example]- 语料
 > - Could you help me move this bookcase over there? You pull and I'll push. `[例]`
+>   - 中译：你能帮我把这个书柜移到那边吗？你拉，我推。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pull；
 > - He pulled the chair away from the desk. `[例]`
+>   - 中译：他把椅子从桌边拉开。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pull；
 > - He pulled the heavy box across the floor to the door. `[例]`
+>   - 中译：他把沉重的箱子从地板上拖到门口。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pull；
 
 
 ---

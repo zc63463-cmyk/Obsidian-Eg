@@ -132,9 +132,17 @@ review_count: 0
 
 > [!example]- 语料
 > - The economic situation is getting worse, with unemployment reaching its highest level in a decade. `[真题]`
+>   - 中译：经济形势正在恶化，失业率达到十年来最高水平。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/worse；
 > - Things went from bad to worse after the company announced its bankruptcy and laid off hundreds of workers. `[真题]`
+>   - 中译：在公司宣布破产并裁员数百人之后，情况每况愈下。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/worse；
 > - Students who skip breakfast tend to perform worse on tests than those who eat a proper meal. `[真题]`
+>   - 中译：不吃早餐的学生在考试中的表现往往比正常进食的学生差。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/worse；
 > - Poor people in rural areas are often worse off than those in cities when it comes to access to healthcare. `[真题]`
+>   - 中译：在医疗保健方面，农村地区的穷人往往比城市里的穷人处境更差。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/worse；
 
 
 ---

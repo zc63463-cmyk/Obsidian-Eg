@@ -129,8 +129,14 @@ review_count: 0
 
 > [!example]- 语料
 > - She was stabbed several times in the chest. `[例]`
+>   - 中译：她的胸部被刺了好几刀。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/stab；
 > - He was jailed for 15 years for stabbing his wife to death. `[例]`
+>   - 中译：他因刺死妻子被判入狱15年。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/stab；
 > - As she spoke she stabbed the air with her finger. `[例]`
+>   - 中译：她说话时用手指着空中比划。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/stab；
 
 
 ---

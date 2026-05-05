@@ -133,8 +133,14 @@ menace 源自拉丁语 *minacia*（威胁），*minari*（威胁、伸出）
 
 > [!example]- 语料
 > - The world is still facing the menace of terrorism. `[COCA-NEWS]`
+> - 中译：世界仍面临恐怖主义的威胁。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/menace；
 > - Drunk drivers are a menace to everyone. `[COCA-NEWS]`
+> - 中译：醉酒驾驶者对每个人都是威胁。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/menace；
 > - There was an air of controlled menace about him. `[COCA-FICT]`
+> - 中译：他身上有一种克制的威胁感。；
+> - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/menace；
 
 
 ---

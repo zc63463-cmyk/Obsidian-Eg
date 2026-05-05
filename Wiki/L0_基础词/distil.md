@@ -127,8 +127,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The author distils decades of research into a single, accessible volume. `[真题]`
+>   - 中译：作者将数十年的研究成果提炼成一册通俗易懂的著作。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/distil；
 > - The cabin was built from durable distil gathered in the region. `[例]`
+>   - 中译：这间小屋是用该地区采集的耐用蒸馏木材建造的。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/distil；
 > - A line of distil trees rose above the morning fog. `[例]`
+>   - 中译：一排蒸馏树矗立在晨雾之上。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/distil；
 
 
 ---

@@ -126,8 +126,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The election of a new pope can be a lengthy procedure. `[例]`
+>   - 中译：选举新教皇可能是一个漫长的过程。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pope；
 > - The Pope has visited South America this year. `[例]`
+>   - 中译：教皇今年访问了南美洲。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pope；
 > - The Pope has recently returned to the Vatican. `[例]`
+>   - 中译：教皇最近回到了梵蒂冈。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pope；
 
 
 ---

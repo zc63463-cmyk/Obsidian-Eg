@@ -135,10 +135,20 @@ review_count: 0
 
 > [!example]- 语料
 > - A quarter of America's public-sector workers have a university degree. `[例]`
+>   - 中译：四分之一的美国公共部门员工拥有大学学位。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/quarter；
 > - A quarter of this year's American grain harvest will be used to produce bio-fuel for cars. `[例]`
+>   - 中译：今年美国粮食收成的四分之一将用于生产汽车生物燃料。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/quarter；
 > - In the third quarter, CEO turnover was down 23%. `[例]`
+>   - 中译：第三季度，CEO更替率下降了23%。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/quarter；
 > - Under a quarter of people questioned said that they were happily married. `[例]`
+>   - 中译：不到四分之一的受访者表示他们的婚姻幸福。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/quarter；
 > - Prices have fallen by a quarter since January. `[例]`
+>   - 中译：自一月份以来，价格下降了四分之一。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/quarter；
 
 
 ---

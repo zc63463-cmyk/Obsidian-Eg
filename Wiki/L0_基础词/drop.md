@@ -136,8 +136,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The unemployment rate dropped to five percent last quarter. `[真题]`
+>   - 中译：上个季度失业率降至百分之五。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/drop；
 > - Students who drop out of high school have fewer job prospects. `[真题]`
+>   - 中译：高中辍学的学生就业前景较差。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/drop；
 > - The contribution is just a drop in the ocean compared to what is needed. `[真题]`
+>   - 中译：与所需相比，这笔贡献不过是沧海一粟。；
+>   - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/drop；
 
 ---
 

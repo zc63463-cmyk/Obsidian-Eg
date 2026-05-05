@@ -51,7 +51,7 @@ sun(太阳) + rise(升起)
 >    - → **新的开始，希望**：日出隐喻性的延伸
 >      - 激活条件：sunrise industry, a new sunrise
 
-### 统筹
+### 统筹（选择适用的模式）
 
 - **一字一词概括**：sunrise 就是"太阳升起"——日出的时刻、日出般的希望
 - **方位隐喻**：太阳从下方升起→新的开始/希望
@@ -126,8 +126,14 @@ sun(太阳) + rise(升起)
 
 > [!example]- 语料
 > - Renewable energy has become a sunrise industry in many countries. `[真题]`
+>   - 中译：可再生能源已成为许多国家的朝阳产业。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sunrise；
 > - In the morning I woke to a spectacular sunrise over the peaks. `[真题]`
+>   - 中译：早上醒来时，我看到了山峰上壮丽的日出。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/sunrise；
 > - You have to fast between sunrise and sunset. `[真题]`
+>   - 中译：你必须在日出和日落之间禁食。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sunrise；
 
 
 ---

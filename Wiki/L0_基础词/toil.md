@@ -129,8 +129,14 @@ toil 源自盎格鲁-法语 *toil*（争斗，混乱），来自古法语 *toeil
 
 > [!example]- 语料
 > - Lindi has achieved her comfortable life only after years of hard toil. `[例]`
+>   - 中译：林迪经过多年辛苦劳作才获得了如今舒适的生活。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/toil；
 > - Well, after a day's toil in the office I like to relax a little. `[例]`
+>   - 中译：嗯，在办公室辛苦一天后，我喜欢放松一下。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/toil；
 > - Farm workers have been toiling in the 100-degree heat over the past week. `[例]`
+>   - 中译：过去一周，农场工人一直在100度的高温下辛勤劳作。；
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/toil；
 
 
 ---

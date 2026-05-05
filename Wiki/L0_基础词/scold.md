@@ -135,9 +135,17 @@ review_count: 0
 
 > [!example]- 语料
 > - I was scolded by the teacher for being late. `[真题]`
+  - 中译：我因为迟到被老师责骂了。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/scold
 > - Her father scolded her for upsetting her mother. `[例]`
+  - 中译：她父亲因为她惹母亲不高兴而责骂了她。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/scold
 > - Don't scold him for doing badly at school, he's doing his best. `[例]`
+  - 中译：别因为他学习成绩不好就责骂他，他已经尽力了。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/scold
 > - Since infancy, his father scolded him when he didn't stand up for himself. `[例]`
+  - 中译：从婴儿时期起，当他不为自己辩护时，父亲就会责骂他。
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/scold
 
 
 ---

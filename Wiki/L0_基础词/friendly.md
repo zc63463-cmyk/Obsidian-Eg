@@ -131,8 +131,14 @@ friend(朋友) + -ly(具有……性质的)
 
 > [!example]- 语料
 > - The researchers proposed a friendly solution to the problem. `[例]`
+>   - 中译：研究人员提出了一个友好的解决方案。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/friendly；
 > - The company adopted a friendly approach to improve efficiency. `[例]`
+>   - 中译：公司采用了一种友好的方法来提高效率。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/friendly；
 > - The plan offers a friendly option for small organizations. `[例]`
+>   - 中译：该计划为小型组织提供了一个友好的选项。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/friendly；
 
 
 ---

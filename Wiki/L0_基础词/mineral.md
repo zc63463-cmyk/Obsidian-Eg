@@ -124,9 +124,17 @@ mine(矿，源自凯尔特语) + -ral(名词后缀，表示"与……相关的")
 
 > [!example]- 语料
 > - The country is rich in mineral resources, including gold, copper, and iron ore. `[真题]`
+> - 中译：该国矿产资源丰富，包括金、铜和铁矿石。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/mineral；
 > - A balanced diet should provide all the essential vitamins and minerals your body needs. `[真题]`
+> - 中译：均衡的饮食应提供身体所需的所有必需维生素和矿物质。；
+> - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/mineral；
 > - The company plans to spend millions looking for new mineral deposits this year. `[真题]`
+> - 中译：该公司计划今年花费数百万寻找新的矿床。；
+> - 来源：Merriam-Webster | https://www.merriam-webster.com/dictionary/mineral；
 > - Fish is a rich source of vitamins and minerals. `[真题]`
+> - 中译：鱼类富含维生素和矿物质。；
+> - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/mineral；
 
 
 ---

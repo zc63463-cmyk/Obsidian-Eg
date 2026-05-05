@@ -131,8 +131,14 @@ review_count: 0
 
 > [!example]- 语料
 > - He has a collection of rare insect specimens. `[例]`
+  - 中译：他收藏了一批稀有昆虫标本。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/specimen；
 > - Museums will pay large amounts of money for good dinosaur fossil specimens. `[例]`
+  - 中译：博物馆会花大价钱购买优质的恐龙化石标本。；
+  - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/specimen；
 > - Astronauts brought back specimens of moon rock. `[例]`
+  - 中译：宇航员带回了月球岩石标本。；
+  - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/specimen；
 
 
 ---

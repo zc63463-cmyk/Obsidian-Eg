@@ -128,9 +128,17 @@ review_count: 0
 
 > [!example]- 语料
 > - The actor gave a wooden performance, lacking any real emotion or connection with the audience. `[真题]`
+>   - 中译：这位演员的表演呆板生硬，缺乏真实的情感和与观众的连接。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/wooden；
 > - The old wooden bridge creaked dangerously as the heavy truck drove across it. `[真题]`
+>   - 中译：当重型卡车驶过时，老旧的木桥发出危险的嘎吱声。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/wooden；
 > - She forced a wooden smile when she received the disappointing news about her exam results. `[真题]`
+>   - 中译：当她收到考试结果不理想的消息时，她勉强挤出一个僵硬的微笑。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/wooden；
 > - The cottage had a charming wooden floor that added warmth to the entire room. `[真题]`
+>   - 中译：这间小屋有一块迷人的木地板，为整个房间增添了温暖。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/wooden；
 
 
 ---

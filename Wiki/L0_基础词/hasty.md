@@ -130,8 +130,14 @@ review_count: 0
 
 > [!example]- 语料
 > - He warned against making hasty decisions. `[例]`
+  - 中译：他警告不要做出草率的决定。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hasty；
 > - Now, let's not leap to any hasty conclusions. `[例]`
+  - 中译：好了，我们不要急于下结论。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hasty；
 > - I think perhaps we were a little hasty in judging him. `[例]`
+  - 中译：我想也许我们在评判他时有些草率了。；
+  - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hasty；
 
 
 ---

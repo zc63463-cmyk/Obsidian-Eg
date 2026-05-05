@@ -136,8 +136,14 @@ review_count: 0
 
 > [!example]- 语料
 > - I felt terrible last night but I feel fine this morning. `[例]`
+>   - 中译：我昨晚感觉糟透了，但今天早上好多了。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fine；
 > - The apartments are very small , which is fine for one person. `[例]`
+>   - 中译：这些公寓非常小，但一个人住没问题。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fine；
 > - Are you all right ?" "Everything's just fine, thanks. `[例]`
+>   - 中译：你还好吗？一切都很好，谢谢。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fine；
 
 
 ---

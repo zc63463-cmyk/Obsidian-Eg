@@ -122,8 +122,14 @@ well(好/充分) + known(known，know 的过去分词，"被知道的")
 
 > [!example]- 语料
 > - It is a well-known fact that men and women think very differently when it comes to love and romance. `[真题]`
+>   - 中译：众所周知，在爱情和浪漫方面，男性和女性的思维方式截然不同。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/well_known；
 > - He was well-known for his extreme political views. `[真题]`
+>   - 中译：他以其极端的政治观点而闻名。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/well_known；
 > - She was a well-known author in her day, writing fiction, biographies, translations, and even plays for children. `[真题]`
+>   - 中译：她是那个时代著名的作家，创作小说、传记、翻译作品，甚至还为儿童写剧本。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/well_known；
 
 
 ---

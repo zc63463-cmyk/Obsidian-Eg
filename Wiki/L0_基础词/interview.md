@@ -128,8 +128,14 @@ review_count: 0
 
 > [!example]- 语料
 > - They are holding interviews for the post next week. `[例]`
+>   - 中译：他们下周将为该职位举行面试。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/interview；
 > - I had an interview for a job with a publisher. `[例]`
+>   - 中译：我参加了一家出版社的求职面试。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/interview；
 > - In a television interview last night she denied she had any intention of resigning. `[例]`
+>   - 中译：在昨晚的电视采访中，她否认有任何辞职的打算。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/interview；
 
 
 ---

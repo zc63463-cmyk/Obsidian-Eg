@@ -135,8 +135,14 @@ review_count: 0
 
 > [!example]- 语料
 > - The invention of the telegraph made it possible to send messages by wire across vast distances in a matter of minutes. `[真题]`
+>   - 中译：电报的发明使通过电线在几分钟内跨越遥远距离发送信息成为可能。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/wire；
 > - Refugees were held behind barbed wire fences, waiting for their applications to be processed. `[真题]`
+>   - 中译：难民被关在有铁丝网围栏的后面，等待他们的申请被处理。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/wire；
 > - The president wired a message to the ambassador, instructing him to return to Washington immediately. `[真题]`
+>   - 中译：总统发电报给大使，指示他立即返回华盛顿。；
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/wire；
 
 
 ---
