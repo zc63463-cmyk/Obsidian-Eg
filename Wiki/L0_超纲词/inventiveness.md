@@ -129,7 +129,11 @@ review_count: 0
 
 > [!example]- 语料
 > - The inventor's remarkable inventiveness led to numerous breakthroughs. `[例]`
+>   - 中译：这位发明家非凡的创造力促成了众多突破。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/inventiveness
 > - Artistic inventiveness often emerges from the fusion of different cultural traditions. `[例]`
+>   - 中译：艺术创造力往往源于不同文化传统的融合。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/inventiveness
 
 ## 主动产出
 

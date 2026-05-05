@@ -122,7 +122,11 @@ en-(在……周围) + tour(转/环绕) + -age(名词后缀，表示集合)
 
 > [!example]- 语料
 > - The president arrived at the summit accompanied by a large entourage of advisors and security personnel. `[例]`
+>   - 中译：这位明星在保镖和经纪人的随行人员簇拥下抵达。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/entourage
 > - She always travels with her entourage, including a personal stylist, a makeup artist, and two bodyguards. `[例]`
+>   - 中译：总统的随行人员包括顾问、秘书和安全人员。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/entourage
 
 ## 主动产出
 

@@ -121,7 +121,11 @@ out-(向外) + cry(叫喊)
 
 > [!example]- 语料
 > - The release from prison of two of the terrorists has provoked a public outcry. `[例]`
+>   - 中译：这项政策引发了公众的强烈抗议。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/outcry
 > - Plans to tear down the old courthouse led to a public outcry. `[例]`
+>   - 中译：人们对价格上涨发出了愤怒的呼声。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/outcry
 
 ## 主动产出
 

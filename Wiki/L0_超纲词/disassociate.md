@@ -123,7 +123,11 @@ review_count: 0
 
 > [!example]- 语料
 > - So that would be kind of one of the goals is to disassociate from being an incel and overcome that. `[例]`
+>   - 中译：因此，其中一个目标就是与incel身份脱离并克服它。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/disassociate
 > - As a result, the Universal Zulu Nation disassociated itself from its founder. `[例]`
+>   - 中译：结果，环球祖鲁 Nation 与其创始人撇清了关系。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/disassociate
 
 ## 主动产出
 

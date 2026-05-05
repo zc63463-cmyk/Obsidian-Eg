@@ -123,7 +123,11 @@ review_count: 0
 
 > [!example]- 语料
 > - Financial analysts predict that the stock market will recover by the end of the year. `[例]`
+>   - 中译：金融分析师预测，股市将在年底前复苏。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/analyst
 > - The data analyst identified several patterns in the customer behavior report. `[例]`
+>   - 中译：数据分析师在客户行为报告中发现了几个模式。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/analyst
 
 ## 主动产出
 

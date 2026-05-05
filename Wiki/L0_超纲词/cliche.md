@@ -122,7 +122,11 @@ review_count: 0
 
 > [!example]- 语料
 > - All of these games are set in a futuristic urban cliche where it is dark and raining. `[例]`
+>   - 中译：所有这些游戏都设定在一个老套的未来城市场景中——阴暗而多雨。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/cliche
 > - It's a cliche to say that the creations of a great artist will forever live after them. `[例]`
+>   - 中译：说伟大艺术家的作品将永远流传于世，这已是陈词滥调了。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/cliche
 
 ## 主动产出
 

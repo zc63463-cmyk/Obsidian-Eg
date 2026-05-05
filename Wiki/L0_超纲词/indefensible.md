@@ -124,7 +124,11 @@ in-(不) + [[de|de]]-(去除) + fens(防守，拉丁语 *defendere*) + -able(可
 
 > [!example]- 语料
 > - The war is morally indefensible. `[例]`
+>   - 中译：这场战争在道德上是站不住脚的。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/indefensible
 > - His actions in destroying the tapes were indefensible. `[例]`
+>   - 中译：他销毁磁带的行为是无法辩护的。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/indefensible
 
 ## 主动产出
 

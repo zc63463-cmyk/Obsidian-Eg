@@ -130,7 +130,11 @@ re-(再次，重新) + [[vis-vid|vis]](看，拉丁语 *videre* 的过去分词 
 
 > [!example]- 语料
 > - These proposals will need a lot of revision. `[例]`
+>   - 中译：她对手稿进行了大量修改。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/revision
 > - He was forced to make several revisions to his speech. `[例]`
+>   - 中译：历史教科书需要全面修订。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/revision
 
 ## 主动产出
 

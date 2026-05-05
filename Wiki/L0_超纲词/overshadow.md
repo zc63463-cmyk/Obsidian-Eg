@@ -122,7 +122,11 @@ over-(在上面) + shadow(阴影)
 
 > [!example]- 语料
 > - Karen has always felt overshadowed by her famous elder sister. `[例]`
+>   - 中译：他的成就被丑闻所掩盖。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/overshadow
 > - My happiness was overshadowed by the bad news. `[例]`
+>   - 中译：经济问题使其他议题黯然失色。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/overshadow
 
 ## 主动产出
 

@@ -121,7 +121,11 @@ aphi-(源自希腊语 *aphis*，意为"吸食植物的虫")
 
 > [!example]- 语料
 > - Aphids can cause significant damage to crops by sucking sap from plant tissues. `[例]`
+>   - 中译：蚜虫通过吸取植物组织中的汁液，可能对农作物造成严重损害。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/aphid
 > - Gardeners often introduce ladybugs to control aphid populations on their rose bushes. `[例]`
+>   - 中译：园丁经常引入瓢虫来控制玫瑰花丛上的蚜虫数量。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/aphid
 
 ## 主动产出
 

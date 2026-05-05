@@ -124,7 +124,11 @@ review_count: 0
 
 > [!example]- 语料
 > - I could see immediately that the lock had been tampered with. `[例]`
+>   - 中译：有人篡改了投票箱里的选票。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/tamper
 > - Tampering with pipelines could result in ruptures or fires. `[例]`
+>   - 中译：请不要擅自改动这台机器的设置。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/tamper
 
 ## 主动产出
 

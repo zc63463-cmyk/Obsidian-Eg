@@ -128,7 +128,11 @@ un-(不，否定前缀) + [[con-|con]](共同/一起) + [[vent|vent]](来) + -io
 
 > [!example]- 语料
 > - He has an unconventional attitude toward work. `[例]`
+>   - 中译：她以一种非传统的方式教育孩子。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/unconventional
 > - The magazine describes him as having unconventional good looks. `[例]`
+>   - 中译：他的 unconventional 思维方式常常带来创新的解决方案。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/unconventional
 
 ## 主动产出
 

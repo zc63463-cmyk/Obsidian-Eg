@@ -123,7 +123,11 @@ sonar（缩写词：**so**und **na**vigation and **r**anging，声波导航与�
 
 > [!example]- 语料
 > - They detected the submarine by using sonar. `[例]`
+>   - 中译：潜艇使用声纳系统来探测水下物体。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sonar
 > - Often they use sonar to look for sunken ships on the sea floor. `[例]`
+>   - 中译：声纳技术在海洋勘探中被广泛使用。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/sonar
 
 ## 主动产出
 

@@ -125,7 +125,11 @@ lock（锁）+ out（外面）→ **把人锁在外面 → 停工**
 
 > [!example]- 语料
 > - The General Strike in 1926 was caused by the lockout of coal miners. `[例]`
+>   - 中译：1926年的大罢工是由煤矿工人被拒之门外引发的。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/lockout
 > - A contract agreement would end the company's lockout of nearly 500 union garbage haulers. `[例]`
+>   - 中译：一项合同协议将结束公司对近500名工会垃圾搬运工的停工。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lockout
 
 ## 主动产出
 

@@ -127,8 +127,14 @@ line（线→排成线→铺一层）+ -ing（名词后缀，表示"动作的结
 
 > [!example]- 语料
 > - Every cloud has a silver lining. `[例]`
+>   - 中译：黑暗中总有一丝光明。（谚语：每朵乌云都有一道银边。）
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/lining
 > - Spicy food can irritate the stomach lining. `[例]`
+>   - 中译：辛辣食物会刺激胃黏膜。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lining
 > - The jacket has a detachable fur lining. `[例]`
+>   - 中译：这件外套有可拆卸的毛皮内衬。
+>   - 来源：Collins | https://www.collinsdictionary.com/dictionary/english/lining
 
 ## 主动产出
 

@@ -125,7 +125,11 @@ review_count: 0
 
 > [!example]- 语料
 > - Predictably, after the initial media interest , the refugees now seem to have been forgotten. `[例]`
+>   - 中译：不出所料，他拒绝了邀请。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/predictably
 > - Prices were predictably high. `[例]`
+>   - 中译：可以预见的是，结果与预期一致。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/predictably
 
 ## 主动产出
 

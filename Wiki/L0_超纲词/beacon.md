@@ -130,7 +130,11 @@ review_count: 0
 
 > [!example]- 语料
 > - The university has long been a beacon of academic excellence and intellectual freedom. `[例]`
+>   - 中译：这所大学长期以来一直是学术卓越与思想自由的灯塔。
+>   - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/beacon
 > - In the darkness of the Great Depression, Roosevelt's fireside chats served as a beacon of reassurance. `[例]`
+>   - 中译：在大萧条的黑暗中，罗斯福的炉边谈话成为了安心的灯塔。
+>   - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/beacon
 
 ## 主动产出
 

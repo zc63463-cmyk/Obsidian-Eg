@@ -129,7 +129,11 @@ before-(在……之前) + hand(手，指"动手/行动")
 
 > [!example]- 语料
 > - Had we been informed beforehand, we could have taken preventive measures. `[例]`
+>   - 中译：如果我们事先得到通知，本可以采取预防措施。
+>   - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/beforehand
 > - The scientist emphasized the importance of planning beforehand when conducting experiments. `[例]`
+>   - 中译：科学家强调了在进行实验时事先规划的重要性。
+>   - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/beforehand
 
 ## 主动产出
 

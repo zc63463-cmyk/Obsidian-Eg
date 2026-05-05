@@ -127,7 +127,11 @@ un-(不，否定前缀) + [[bear|bear]](承受/忍受) + -able(可被...的) + -
 
 > [!example]- 语料
 > - The sun was almost unbearably hot today. `[例]`
+>   - 中译：夏天的炎热有时令人难以忍受。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/unbearably
 > - The novel , while almost unbearably sad , is still a joy to read. `[例]`
+>   - 中译：等待结果的过程令人痛苦地漫长。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/unbearably
 
 ## 主动产出
 

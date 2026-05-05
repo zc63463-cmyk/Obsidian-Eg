@@ -123,7 +123,11 @@ wood（木头，古英语 *wudu*）+ cut（切割，古英语 *cyttan*）
 
 > [!example]- 语料
 > - Long ago, woodcuts were used by printers for illustrations. `[例]`
+>   - 中译：这幅木版画展示了中世纪的乡村生活场景。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/woodcut
 > - A collection of fine woodcuts. `[例]`
+>   - 中译：艺术家使用传统的木刻技法创作了这幅作品。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/woodcut
 
 ## 主动产出
 

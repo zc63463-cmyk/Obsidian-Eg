@@ -121,7 +121,11 @@ market（市场）+ place（地方）→ 进行交易的地方
 
 > [!example]- 语料
 > - Caravanserais were also an important marketplace for commodities and _!Lin the trade of goods along the Silk Road. `[真题]`
+>   - 中译：商队旅馆也是商品交易的重要市场，在丝绸之路的货物贸易中发挥着作用。
+>   - 来源：考研真题 | http://gw.xztu.edu.cn/__local/D/8F/1D/8F556EF355DAB6127D7D2D4048F_BD575BBC_DE37A.pdf
 > - To remain competitive , the company has to be able to adapt to the changing marketplace. `[例]`
+>   - 中译：为了保持竞争力，公司必须能够适应不断变化的市场。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/marketplace
 
 ## 主动产出
 

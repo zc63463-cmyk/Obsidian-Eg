@@ -127,7 +127,11 @@ habit(=have/hold, 持有) + -ual(形容词后缀) + -ly(副词后缀)
 
 > [!example]- 语料
 > - There is something wrong with anyone who is so habitually rude. `[例]`
+>   - 中译：一个习惯性粗鲁的人一定有什么问题。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/habitually
 > - There were schools where more than half the students were habitually late. `[例]`
+>   - 中译：有些学校超过一半的学生习惯性迟到。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/habitually
 
 ## 主动产出
 

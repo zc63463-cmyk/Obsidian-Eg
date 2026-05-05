@@ -122,7 +122,11 @@ wade 源自古英语 *wadan*，日耳曼语族词，无拉丁/希腊词根可拆
 
 > [!example]- 语料
 > - The river was full but we managed to wade across. `[例]`
+>   - 中译：他涉水穿过小河到达对岸。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/wade
 > - We waded a shallow river. `[例]`
+>   - 中译：我不得不费力地读完这本厚厚的报告。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/wade
 
 ## 主动产出
 

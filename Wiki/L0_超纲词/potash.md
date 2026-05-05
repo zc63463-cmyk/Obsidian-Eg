@@ -117,7 +117,11 @@ pot（锅）+ ash（灰烬）= 锅灰→碳酸钾
 
 > [!example]- 语料
 > - Other fertilizers, like potash and sulfur, have also risen in price. `[例]`
+>   - 中译：钾肥是一种重要的农业肥料。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/potash
 > - Paying for fertilizer has been especially difficult due to tariffs on Canadian potash. `[例]`
+>   - 中译：该国拥有丰富的钾盐矿藏。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/potash
 
 ## 主动产出
 

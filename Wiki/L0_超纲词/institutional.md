@@ -124,7 +124,11 @@ in-(在) + [[st-sta-stat|st-/sta-/stat-]](站) + -it(走) + -ution(名词) + -al
 
 > [!example]- 语料
 > - Institutional reform is essential for the country's economic development. `[例]`
+>   - 中译：制度改革对该国的经济发展至关重要。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/institutional
 > - The problem of institutional racism requires a systematic approach to address. `[例]`
+>   - 中译：制度性种族主义问题需要系统性的方法来解决。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/institutional
 
 ## 主动产出
 

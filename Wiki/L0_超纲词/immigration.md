@@ -124,8 +124,14 @@ im-(=in-, 向内) + migr(迁移) + -ation(名词后缀)
 
 > [!example]- 语料
 > - The country revised its immigration policy to attract skilled workers from abroad. `[例]`
+>   - 中译：该国修订了移民政策以吸引海外技术工人。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/immigration
 > - Illegal immigration has become one of the most debated issues in recent elections. `[例]`
+>   - 中译：非法移民已成为最近选举中最受争议的问题之一。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/immigration
 > - Immigration to Australia increased significantly after the government introduced new visa programs. `[例]`
+>   - 中译：政府推出新的签证计划后，移民澳大利亚的人数大幅增加。
+>   - 来源：Collins | https://www.collinsdictionary.com/dictionary/english/immigration
 
 ## 主动产出
 

@@ -126,6 +126,8 @@ mill(千，拉丁语 *mille*) + -enn(年，拉丁语 *annus*) + -ial(形容词�
 > [!example]- 语料
 > - In the millennial year , millions of pilgrims flocked to Rome. `[例]`
 > - Millennials have grown up with the internet and can't imagine a world without it. `[例]`
+>   - 中译：千禧一代伴随着互联网长大，无法想象没有互联网的世界。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/millennial
 
 ## 主动产出
 

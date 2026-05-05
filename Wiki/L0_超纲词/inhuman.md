@@ -123,7 +123,11 @@ in-(不，否定) + human(人类的)
 
 > [!example]- 语料
 > - The prisoners were subjected to inhuman treatment. `[例]`
+>   - 中译：囚犯遭受了非人的待遇。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/inhuman
 > - Such inhuman cruelty has no place in a civilized society. `[例]`
+>   - 中译：这种非人的残忍行为在文明社会中没有立足之地。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/inhuman
 
 ## 主动产出
 

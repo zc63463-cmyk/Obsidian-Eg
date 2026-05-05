@@ -123,7 +123,11 @@ dogma(希腊语 *dogma*，意见/法令/教条)
 
 > [!example]- 语料
 > - Scientific progress often requires challenging established dogma. `[例]`
+>   - 中译：科学方法质疑一切教条。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/dogma
 > - The organization was criticized for being rigidly bound by outdated dogma. `[例]`
+>   - 中译：政治教条不应凌驾于证据之上。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/dogma
 > - Religious dogma should not be used to justify discrimination. `[例]`
 
 ## 主动产出

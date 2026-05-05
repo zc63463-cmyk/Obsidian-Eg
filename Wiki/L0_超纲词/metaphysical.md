@@ -124,6 +124,8 @@ meta-(超越，在……之后，希腊语) + phys(自然/物理，希腊语 *ph
 > [!example]- 语料
 > - Most teenagers ask themselves metaphysical questions such as "What is love ?" and "What is death? `[例]`
 > - He is practical and not given to metaphysical speculation. `[例]`
+>   - 中译：他很务实，不倾向于形而上学的思辨。
+>   - 来源：Collins | https://www.collinsdictionary.com/dictionary/english/metaphysical
 
 ## 主动产出
 

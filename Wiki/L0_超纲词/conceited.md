@@ -119,7 +119,11 @@ con-（加强语气）+ [[ceit]]（抓住，取得，拉丁语 *capere* 的变�
 
 > [!example]- 语料
 > - Without wishing to sound conceited, I am the best salesperson in the company. `[例]`
+>   - 中译：我不想显得自以为是，但我是公司里最好的销售人员。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/conceited
 > - She was too conceited to accept constructive criticism. `[例]`
+>   - 中译：她太自负了，无法接受建设性的批评。
+>   - 来源：Collins | https://www.collinsdictionary.com/dictionary/english/conceited
 
 ## 主动产出
 

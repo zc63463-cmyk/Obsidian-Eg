@@ -123,7 +123,11 @@ review_count: 0
 
 > [!example]- 语料
 > - UN observers are monitoring the ceasefire. `[例]`
+>   - 中译：联合国观察员正在监督停火。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/observer
 > - Throughout the novel , the story is seen through the eyes of a detached observer. `[例]`
+>   - 中译：整部小说中，故事都是通过一个超然的观察者的视角来叙述的。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/observer
 
 ## 主动产出
 

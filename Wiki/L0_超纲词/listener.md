@@ -125,7 +125,11 @@ listen（听）+ -er（名词后缀，"做……的人"）→ **倾听者，听�
 
 > [!example]- 语料
 > - Today on the show we'll be taking questions from listeners. `[例]`
+>   - 中译：在今天的节目中，我们将接受听众的提问。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/listener
 > - Millions of listeners tune in to his podcasts. `[例]`
+>   - 中译：数百万听众收听他的播客节目。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/listener
 
 ## 主动产出
 

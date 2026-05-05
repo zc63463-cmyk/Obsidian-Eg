@@ -129,7 +129,11 @@ review_count: 0
 
 > [!example]- 语料
 > - New evidence has invalidated the previous conclusions. `[例]`
+>   - 中译：新证据使先前的结论失效。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/invalidate
 > - A court may invalidate a contract if it was signed under duress. `[例]`
+>   - 中译：如果合同是在胁迫下签署的，法院可以宣布其无效。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/invalidate
 
 ## 主动产出
 

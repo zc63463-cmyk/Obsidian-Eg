@@ -125,7 +125,11 @@ review_count: 0
 
 > [!example]- 语料
 > - The organization is committed to AIDS prevention and education. `[例]`
+>   - 中译：预防胜于治疗。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/prevention
 > - As far as health is concerned , it is often said that prevention is better than cure. `[例]`
+>   - 中译：疾病的预防是公共卫生的首要目标。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/prevention
 
 ## 主动产出
 

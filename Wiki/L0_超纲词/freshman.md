@@ -126,7 +126,11 @@ fresh(新鲜的，新来的) + man(人)
 
 > [!example]- 语料
 > - He's a freshman at Harvard. `[例]`
+>   - 中译：他是哈佛大学的大一新生。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/freshman
 > - Greg and Jody met in their freshman year at college and married soon after they graduated. `[例]`
+>   - 中译：格雷格和乔迪在大学大一相识，毕业后不久就结婚了。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/freshman
 
 ## 主动产出
 

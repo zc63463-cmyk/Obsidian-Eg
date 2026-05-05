@@ -122,7 +122,11 @@ mis-(错误) + [[place|pos-pon-posit]](放置，拉丁语 *placea*)
 
 > [!example]- 语料
 > - She misplaced her keys so often that her secretary used to carry spare ones for her. `[例]`
+>   - 中译：她经常找不到钥匙，以至于她的秘书过去常为她带备用钥匙。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/misplace
 > - I am always misplacing my eyeglasses. `[例]`
+>   - 中译：我总是找不到我的眼镜。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/misplace
 
 ## 主动产出
 

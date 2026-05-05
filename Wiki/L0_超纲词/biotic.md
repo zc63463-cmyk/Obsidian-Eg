@@ -122,7 +122,11 @@ bio-(生命) + -tic(形容词后缀)
 
 > [!example]- 语料
 > - Biotic factors such as predation and competition play a crucial role in shaping ecosystems. `[例]`
+>   - 中译：捕食和竞争等生物因素在塑造生态系统方面发挥着关键作用。
+>   - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/biotic
 > - The researchers studied how biotic and abiotic factors interact in coral reef environments. `[例]`
+>   - 中译：研究人员研究了生物因素和非生物因素在珊瑚礁环境中如何相互作用。
+>   - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/biotic
 
 ## 主动产出
 

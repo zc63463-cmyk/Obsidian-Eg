@@ -126,7 +126,11 @@ review_count: 0
 
 > [!example]- 语料
 > - The organization advises on the simplification of trade procedures. `[例]`
+>   - 中译：税法的简化将使纳税人受益。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/simplification
 > - This is a gross simplification of what actually happened. `[例]`
+>   - 中译：这个过程的简化版本更容易理解。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/simplification
 
 ## 主动产出
 

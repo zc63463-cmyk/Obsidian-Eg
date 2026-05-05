@@ -125,7 +125,11 @@ review_count: 0
 
 > [!example]- 语料
 > - When you've finished reading your book , and I've finished mine, can we swap? `[例]`
+>   - 中译：我们交换了电子邮件地址以便保持联系。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/swap
 > - We swapped addresses with the people we met on holiday. `[例]`
+>   - 中译：如果你不喜欢这个颜色，我可以跟你换。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/swap
 
 ## 主动产出
 

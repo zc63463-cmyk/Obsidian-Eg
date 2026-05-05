@@ -125,7 +125,11 @@ un-(不，否定前缀) + [[chart|chart]](地图/图表) + -ed(形容词后缀�
 
 > [!example]- 语料
 > - During survival training , he was criticized for venturing recklessly into uncharted wilderness. `[例]`
+>   - 中译：探险家们踏入了未知的领域。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/uncharted
 > - Most of the underground tunnels and cave networks are uncharted or inadequately mapped. `[例]`
+>   - 中译：这家公司正在开辟一个全新的市场。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/uncharted
 
 ## 主动产出
 

@@ -125,7 +125,11 @@ eager（渴望的，源自古法语 *aigre*，"尖锐的/急切的"）+ -ness（
 
 > [!example]- 语料
 > - Her eagerness to learn new skills impressed everyone in the team. `[例]`
+>   - 中译：她对学习新技能的热情令人印象深刻。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/eagerness
 > - The children waited for the summer holiday with barely concealed eagerness. `[例]`
+>   - 中译：他急切地接受了这份工作邀请。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/eagerness
 
 ## 主动产出
 

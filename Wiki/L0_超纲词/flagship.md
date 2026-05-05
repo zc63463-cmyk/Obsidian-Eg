@@ -128,7 +128,11 @@ flag(旗帜) + ship(船)
 
 > [!example]- 语料
 > - The iPhone has always been Apple's flagship product. `[例]`
+>   - 中译：这家旗舰店是公司最大的零售门店。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/flagship
 > - They opened their flagship store on Fifth Avenue in New York. `[例]`
+>   - 中译：这是该汽车制造商的旗舰车型。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/flagship
 
 ## 主动产出
 

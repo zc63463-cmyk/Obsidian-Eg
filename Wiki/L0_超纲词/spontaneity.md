@@ -124,7 +124,11 @@ spont(自愿的，源自拉丁语 *sponte*"出于自愿") + -e(连接) + -ity(�
 
 > [!example]- 语料
 > - You should not work out the entire mock interview beforehand or you will lose the element of spontaneity. `[例]`
+>   - 中译：即兴表演的魅力在于它的自发性。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/spontaneity
 > - The script has a refreshing spontaneity and sparkle. `[例]`
+>   - 中译：她喜欢旅行中的随性，从不提前计划。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/spontaneity
 
 ## 主动产出
 

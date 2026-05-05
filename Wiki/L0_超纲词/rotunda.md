@@ -121,7 +121,11 @@ review_count: 0
 
 > [!example]- 语料
 > - We stood inside the rotunda of the U.S. Capitol Building. `[例]`
+>   - 中译：国会大厦的圆形大厅是这座建筑的标志性部分。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/rotunda
 > - Under the rotunda in the Cannon building, veterans — young, old, some with visible disabilities and all wearing military jackets— held a flag-folding ceremony to honor the American troops who have died in the current conflict. `[例]`
+>   - 中译：游客们在圆形大厅里驻足欣赏穹顶壁画。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/rotunda
 
 ## 主动产出
 

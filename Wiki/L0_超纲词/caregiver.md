@@ -119,7 +119,11 @@ care（照顾，关怀）+ give（给予）+ -er（人）
 
 > [!example]- 语料
 > - He is a caregiver for his autistic son. `[例]`
+>   - 中译：他是他自闭症儿子的照护者。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/caregiver
 > - She is able to take care of her husband at home with the help of several caregivers. `[例]`
+>   - 中译：在几位护理员的帮助下，她能够在家照顾丈夫。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/caregiver
 
 ## 主动产出
 

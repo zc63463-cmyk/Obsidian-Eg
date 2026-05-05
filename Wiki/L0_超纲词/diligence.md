@@ -121,7 +121,11 @@ review_count: 0
 
 > [!example]- 语料
 > - Success comes from diligence and perseverance. `[例]`
+>   - 中译：成功源于勤奋与毅力。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/diligence
 > - She completed the project with great diligence, checking every detail twice. `[例]`
+>   - 中译：她以极大的勤奋完成了项目，每个细节都检查了两遍。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/diligence
 
 ## 主动产出
 

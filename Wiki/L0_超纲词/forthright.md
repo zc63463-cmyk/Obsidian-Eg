@@ -126,7 +126,11 @@ forth(向前) + right(直的，正确的)
 
 > [!example]- 语料
 > - His forthright manner can be mistaken for rudeness. `[例]`
+>   - 中译：他直率的作风可能会被误认为粗鲁。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/forthright
 > - I admire her forthright way of dealing with people. `[例]`
+>   - 中译：我钦佩她待人接物直率的方式。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/forthright
 
 ## 主动产出
 

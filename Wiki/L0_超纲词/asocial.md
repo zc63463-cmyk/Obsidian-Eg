@@ -124,7 +124,11 @@ a-(=without, 没有，否定前缀) + soci(同伴，社会，拉丁语 *socius*)
 
 > [!example]- 语料
 > - Not all introverted people are asocial; many simply prefer smaller social gatherings. `[例]`
+>   - 中译：并非所有内向的人都不合群；许多人只是更喜欢小型的社交聚会。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/asocial
 > - The child displayed asocial tendencies, preferring to play alone rather than with peers. `[例]`
+>   - 中译：这个孩子表现出不合群的倾向，更喜欢独自玩耍而不是与同伴一起玩。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/asocial
 
 ## 主动产出
 

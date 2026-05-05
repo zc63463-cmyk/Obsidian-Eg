@@ -125,6 +125,8 @@ measure（测量）+ -able（可被……的）→ 可被测量的
 > [!example]- 语料
 > - The service produces clear , measurable benefits to people's health. `[例]`
 > - It is important to set achievable but measurable goals for employees. `[例]`
+>   - 中译：为员工设定可实现但可衡量的目标很重要。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/measurable
 
 ## 主动产出
 

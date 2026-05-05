@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**背诵，朗诵**==；②背诵的作品；③当众朗诵会；
+**n.** ①==**背诵，朗诵**== `a recitation of N` `oral recitation`；②背诵的作品 `a recitation` `a beautiful recitation`；③当众朗诵会 `a poetry recitation` `N recitation`；
 
 > [!tip] 原型义
 > **原型义**：背诵（反复说出已学内容）
@@ -122,7 +122,11 @@ review_count: 0
 
 > [!example]- 语料
 > - He gave a beautiful recitation of some poems by Blake. `[例]`
+>   - 中译：他优美地朗诵了几首布莱克的诗。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/recitation
 > - We were entertained with songs and recitations. `[例]`
+>   - 中译：我们欣赏了歌曲和朗诵表演。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/recitation
 
 ## 主动产出
 

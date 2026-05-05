@@ -124,7 +124,11 @@ in-(不，否定) + [[suf-|sub-]](下面/足够) + [[fac|fac-]](做) + -ient(…
 
 > [!example]- 语料
 > - The project was abandoned due to insufficient funding. `[例]`
+>   - 中译：该项目因资金不足而被放弃。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/insufficient
 > - The company adopted a insufficient approach to improve efficiency. `[例]`
+>   - 中译：公司采取了一项不足的措施来提高效率。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/insufficient
 
 ## 主动产出
 

@@ -122,7 +122,11 @@ review_count: 0
 
 > [!example]- 语料
 > - He's under the delusion that he will be promoted this year. `[例]`
+>   - 中译：他妄想今年会升职。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/delusion
 > - We have no delusions that these kids are going to play pro basketball , but they are having fun. `[例]`
+>   - 中译：我们并不自欺欺人地认为这些孩子会去打职业篮球，但他们玩得很开心。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/delusion
 
 ## 主动产出
 

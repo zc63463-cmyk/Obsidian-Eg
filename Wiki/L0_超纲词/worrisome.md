@@ -126,7 +126,11 @@ worry（担忧，古英语 *wyrgan*，原义为"扼杀、使窒息"）+ -some（
 
 > [!example]- 语料
 > - Alcohol and tobacco consumption by young people is especially worrisome because habits formed early are likely to persist. `[例]`
+>   - 中译：最近的统计数据令人担忧。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/worrisome
 > - The possibility of fire is especially worrisome for people who live on the edge of the forest. `[例]`
+>   - 中译：这种疾病的上升趋势令人不安。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/worrisome
 
 ## 主动产出
 

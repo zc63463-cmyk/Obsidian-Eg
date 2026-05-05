@@ -122,7 +122,11 @@ review_count: 0
 
 > [!example]- 语料
 > - She did a stencil of a rainbow on her daughter's bedroom wall. `[例]`
+>   - 中译：她用模板在墙上画出了漂亮的图案。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/stencil
 > - The back of the chair was painted solid black with designs stenciled in gold. `[例]`
+>   - 中译：工人用喷漆模板在路面上标出了停车位。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/stencil
 
 ## 主动产出
 

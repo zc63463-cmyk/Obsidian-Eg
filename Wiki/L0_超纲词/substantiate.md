@@ -124,7 +124,11 @@ review_count: 0
 
 > [!example]- 语料
 > - We have evidence to substantiate the allegations against him. `[例]`
+>   - 中译：检察官需要提供证据来证实这些指控。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/substantiate
 > - Reports that children had been hurt have not been substantiated. `[例]`
+>   - 中译：研究结果证实了先前的假设。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/substantiate
 
 ## 主动产出
 

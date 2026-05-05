@@ -128,7 +128,11 @@ un-(不，否定前缀) + at-(=ad-, 向) + [[tract|tract]](拉，拖) + -ive(倾
 
 > [!example]- 语料
 > - This is modern architecture at its most unattractive. `[例]`
+>   - 中译：这个地段缺乏吸引力，很难卖出好价钱。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/unattractive
 > - He was short and overweight and generally unattractive. `[例]`
+>   - 中译：低工资使得这个职位对优秀人才没有吸引力。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/unattractive
 
 ## 主动产出
 

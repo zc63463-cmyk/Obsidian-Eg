@@ -123,7 +123,11 @@ review_count: 0
 
 > [!example]- 语料
 > - Eye-witness accounts of the fighting differ markedly from police reports of what happened. `[例]`
+>   - 中译：目击者对战斗的描述与警方的报告截然不同。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/markedly
 > - She has markedly changed her eating habits. `[例]`
+>   - 中译：她的饮食习惯明显改变了。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/markedly
 
 ## 主动产出
 

@@ -125,7 +125,11 @@ ethn-(种族/民族，源自希腊语 *ethnos*，"民族/种族") + -ic(形容�
 
 > [!example]- 语料
 > - The study examined how students of different ethnicity performed across various school districts. `[例]`
+>   - 中译：这项调查收集了有关种族和民族的数据。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/ethnicity
 > - Census data on ethnicity and race provide critical insights into the changing demographics of the population. `[例]`
+>   - 中译：该地区居住着不同民族背景的人群。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ethnicity
 
 ## 主动产出
 

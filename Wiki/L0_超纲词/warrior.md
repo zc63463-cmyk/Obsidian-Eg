@@ -127,7 +127,11 @@ war（战争）+ -rior（表示"人"的后缀，源自拉丁语 *-ator*），日
 
 > [!example]- 语料
 > - This little girl is a warrior - she's going to get through this. `[例]`
+>   - 中译：古代的武士以勇敢和忠诚著称。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/warrior
 > - She is a warrior and that is something I admire in players. `[例]`
+>   - 中译：她是一位为社会正义而战的现代勇士。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/warrior
 
 ## 主动产出
 

@@ -122,7 +122,11 @@ as-(=ad-, 向，加强) + suav(甜的，温和的，拉丁语 *suavis*) + -ge(�
 
 > [!example]- 语料
 > - Nothing could assuage her grief after the loss of her child. `[例]`
+>   - 中译：失去孩子后，没有任何东西能缓解她的悲伤。
+>   - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/assuage
 > - The government introduced new policies to assuage public concerns about food safety. `[例]`
+>   - 中译：政府出台了新政策，以缓解公众对食品安全的担忧。
+>   - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/assuage
 
 ## 主动产出
 

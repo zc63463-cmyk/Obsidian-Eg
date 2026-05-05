@@ -131,7 +131,11 @@ gate（门，大门）+ keeper（看守者，来自 keep + -er）
 
 > [!example]- 语料
 > - The editor plays a crucial gatekeeper role in the publishing process. `[例]`
+>   - 中译：编辑在出版过程中扮演着关键的把关角色。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/gatekeeper
 > - Primary care physicians act as gatekeepers to specialist services. `[例]`
+>   - 中译：初级保健医生充当专科服务的把关人。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/gatekeeper
 
 ## 主动产出
 

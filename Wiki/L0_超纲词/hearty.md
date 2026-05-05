@@ -128,7 +128,11 @@ heart(心脏) + -y(充满……的) → 复合派生词
 
 > [!example]- 语料
 > - This is a lunch that will satisfy a hearty appetite (= the wish and ability to eat a lot). `[例]`
+>   - 中译：这是一顿能满足旺盛食欲的午餐。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hearty
 > - She has a hearty dislike of any sort of office work. `[例]`
+>   - 中译：她对任何形式的办公室工作都十分反感。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/hearty
 
 ## 主动产出
 

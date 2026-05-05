@@ -123,7 +123,11 @@ review_count: 0
 
 > [!example]- 语料
 > - Statisticians blamed the construction sector for the weaker-than-expected performance of the economy. `[例]`
+>   - 中译：统计学家分析了这些数据并得出了结论。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/statistician
 > - The company's chief statistician forecasts an upturn in the spring. `[例]`
+>   - 中译：她是一名出色的统计学家，擅长数据建模。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/statistician
 
 ## 主动产出
 

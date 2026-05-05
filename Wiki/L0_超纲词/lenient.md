@@ -125,7 +125,11 @@ len(柔软/温和，拉丁语 *lenis*) + -i- + -ent(形容词后缀，表示"具
 
 > [!example]- 语料
 > - The judge was lenient with the first-time offender, imposing only a fine. `[例]`
+>   - 中译：法官对初犯从宽处理，仅处以罚款。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/lenient
 > - The school has lenient rules regarding dress code. `[例]`
+>   - 中译：学校对着装规定比较宽松。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lenient
 
 ## 主动产出
 

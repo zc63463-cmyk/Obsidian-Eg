@@ -125,7 +125,11 @@ bless(祝福) + -ing(名词后缀，表动作或结果)
 
 > [!example]- 语料
 > - Losing that job turned out to be a blessing in disguise, as it pushed her to start her own business. `[例]`
+>   - 中译：失去那份工作结果成了因祸得福，因为它促使她创办了自己的企业。
+>   - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/blessing
 > - The elderly couple counted their blessings every evening, grateful for their health and family. `[例]`
+>   - 中译：这对老夫妇每天晚上都会感恩自己所拥有的，为他们的健康和家庭感到欣慰。
+>   - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/blessing
 
 ## 主动产出
 

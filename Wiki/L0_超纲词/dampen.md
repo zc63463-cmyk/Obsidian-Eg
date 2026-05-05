@@ -119,7 +119,11 @@ damp(潮湿) + -en(动词后缀，使变成...)
 
 > [!example]- 语料
 > - Rain had dampened the tent so we left it to dry in the afternoon sun. `[例]`
+>   - 中译：雨水把帐篷弄湿了，所以我们把它留在午后的阳光下晾干。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/dampen
 > - Nothing you can say will dampen her enthusiasm. `[例]`
+>   - 中译：你说什么都不能减弱她的热情。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/dampen
 
 ## 主动产出
 

@@ -122,7 +122,11 @@ auto-(自己) + bio(生命，希腊语 *bios*) + [[graph-gram|graph]](写，希�
 
 > [!example]- 语料
 > - In his autobiography, Nelson Mandela described his 27 years of imprisonment. `[例]`
+>   - 中译：纳尔逊·曼德拉在他的自传中描述了他27年的牢狱生涯。
+>   - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/autobiography
 > - The autobiography provides a revealing account of the author's childhood in rural China. `[例]`
+>   - 中译：这部自传生动地讲述了作者在中国农村的童年生活。
+>   - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/autobiography
 
 ## 主动产出
 

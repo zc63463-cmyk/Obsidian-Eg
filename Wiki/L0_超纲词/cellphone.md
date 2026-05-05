@@ -117,7 +117,11 @@ cell（蜂窝，单元格）+ phone（声音，电话）
 
 > [!example]- 语料
 > - The widespread use of cellphones has fundamentally changed the way people communicate. `[例]`
+>   - 中译：手机的广泛使用从根本上改变了人们的沟通方式。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/cellphone
 > - Studies have shown that excessive cellphone use can lead to sleep disorders. `[例]`
+>   - 中译：研究表明，过度使用手机可能导致睡眠障碍。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/cellphone
 
 ## 主动产出
 

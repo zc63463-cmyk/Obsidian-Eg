@@ -129,7 +129,11 @@ un-(不，否定前缀) + famili-(=family, 家庭/熟悉) + -ar(形容词后缀)
 
 > [!example]- 语料
 > - I noticed several unfamiliar faces in the meeting room. `[例]`
+>   - 中译：她对这座陌生的城市感到不安。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/unfamiliar
 > - His name was unfamiliar to me. `[例]`
+>   - 中译：这个概念对大多数学生来说很陌生。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/unfamiliar
 
 ## 主动产出
 

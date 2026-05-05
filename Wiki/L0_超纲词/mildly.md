@@ -126,6 +126,8 @@ mild(温和的，古英语 *milde*) + -ly(副词后缀)
 > [!example]- 语料
 > - I found the film mildly amusing , but not hilarious. `[例]`
 > - I was mildly surprised to see him here. `[例]`
+>   - 中译：在这里看到他让我有些惊讶。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/mildly
 
 ## 主动产出
 

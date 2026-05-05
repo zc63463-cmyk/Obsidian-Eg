@@ -129,7 +129,11 @@ review_count: 0
 
 > [!example]- 语料
 > - Its communities are in need of funding. `[真题]`
+>   - 中译：其社区需要资金支持。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/funding
 > - Alisha is trying to get funding for her research. `[例]`
+>   - 中译：阿莉莎正在为她的研究争取经费。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/funding
 
 ## 主动产出
 

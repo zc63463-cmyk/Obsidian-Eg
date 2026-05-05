@@ -128,7 +128,11 @@ snap(快速咬合/咔嚓一声) + shot(射击/拍摄)
 
 > [!example]- 语料
 > - Credit rating agencies provide a snapshot of the risks an investment poses at any one time. `[例]`
+>   - 中译：这张照片捕捉到了孩子们玩耍时的快乐瞬间。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/snapshot
 > - Snapshots of the children. `[例]`
+>   - 中译：这份报告提供了行业现状的一个快照。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/snapshot
 
 ## 主动产出
 

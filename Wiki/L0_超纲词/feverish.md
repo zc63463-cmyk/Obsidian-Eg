@@ -125,7 +125,11 @@ fever(发烧) + -ish(形容词后缀，有…特征的/稍微…的)
 
 > [!example]- 语料
 > - The city was gripped by feverish speculation about the upcoming election. `[例]`
+>   - 中译：孩子发烧了，额头滚烫。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/feverish
 > - She worked at a feverish pace to meet the deadline. `[例]`
+>   - 中译：团队以狂热的热情赶在截止日期前完成了项目。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/feverish
 
 ## 主动产出
 

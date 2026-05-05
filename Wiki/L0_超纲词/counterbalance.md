@@ -128,7 +128,11 @@ review_count: 0
 
 > [!example]- 语料
 > - The ugliness of the resort is counterbalanced by the excellence of the skiing. `[例]`
+>   - 中译：度假村的丑陋被滑雪设施的优越所抵消。
+>   - 来源：Collins | https://www.collinsdictionary.com/dictionary/english/counterbalance
 > - Her calm nature served as a natural counterbalance to his excitable personality. `[例]`
+>   - 中译：她冷静的性格自然而然地制衡了他易激动的个性。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/counterbalance
 
 ## 主动产出
 

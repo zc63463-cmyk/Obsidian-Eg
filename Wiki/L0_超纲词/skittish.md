@@ -126,7 +126,11 @@ skittish（源自 skittles"撞柱游戏"，木柱被击中后四处弹跳 → �
 
 > [!example]- 语料
 > - My horse is very skittish, so I have to keep him away from traffic. `[例]`
+>   - 中译：马在听到巨响后变得惊恐不安。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/skittish
 > - Investors are skittish about the impact of an economic downturn. `[例]`
+>   - 中译：投资者对市场波动感到紧张不安。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/skittish
 
 ## 主动产出
 

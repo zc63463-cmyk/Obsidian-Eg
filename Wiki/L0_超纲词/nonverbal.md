@@ -119,7 +119,11 @@ non-(不，否定前缀) + [[ver-vert|verb]](=ver-, 词/话语，拉丁语 *verb
 
 > [!example]- 语料
 > - The researchers proposed a nonverbal solution to the problem. `[例]`
+>   - 中译：研究人员提出了一个非语言交流的解决方案。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/nonverbal
 > - The company adopted a nonverbal approach to improve efficiency. `[例]`
+>   - 中译：公司采用了一种非语言交流的方法来提高效率。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/nonverbal
 
 ## 主动产出
 

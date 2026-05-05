@@ -121,7 +121,11 @@ review_count: 0
 
 > [!example]- 语料
 > - The prolonged war led to the demoralization of the entire nation. `[例]`
+>   - 中译：旷日持久的战争导致全国士气低落。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/demoralization
 > - The demoralization of the workforce resulted in a significant decline in productivity. `[例]`
+>   - 中译：劳动力的士气低落导致生产力大幅下降。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/demoralization
 
 ## 主动产出
 

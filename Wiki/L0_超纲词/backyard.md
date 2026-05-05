@@ -130,7 +130,11 @@ back-(后面) + yard(院子，围栏围起的空地)
 
 > [!example]- 语料
 > - Environmental pollution is not just a distant problem—it is happening right in our own backyard. `[例]`
+>   - 中译：环境污染不仅仅是一个遥远的问题——它就发生在我们自家门口。
+>   - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/backyard
 > - The invention was developed by a backyard inventor with no formal training. `[例]`
+>   - 中译：这项发明是由一位没有受过正规训练的业余发明家研发的。
+>   - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/backyard
 
 ## 主动产出
 

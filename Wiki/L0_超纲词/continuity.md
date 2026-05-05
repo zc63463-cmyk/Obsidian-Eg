@@ -131,7 +131,11 @@ con-(一起) + [[tend-tens|tin-/ten-]](保持/持有) + -u- + -ity(名词后缀�
 
 > [!example]- 语料
 > - There has been no continuity in that class - they've had six different teachers. `[例]`
+>   - 中译：那个班没有任何连续性——他们已经换了六位不同的老师。
+>   - 来源：Collins | https://www.collinsdictionary.com/dictionary/english/continuity
 > - You can skip this chapter without loss of continuity. `[例]`
+>   - 中译：你可以跳过这一章而不影响连贯性。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/continuity
 
 ## 主动产出
 

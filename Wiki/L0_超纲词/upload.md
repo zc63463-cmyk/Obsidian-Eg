@@ -126,7 +126,11 @@ review_count: 0
 
 > [!example]- 语料
 > - I uploaded the file as soon as I had finished working on it. `[例]`
+>   - 中译：请将你的作业上传到学校的网站。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/upload
 > - With the press of a single button , you can upload information to a server. `[例]`
+>   - 中译：她把旅行照片上传到了社交媒体。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/upload
 
 ## 主动产出
 

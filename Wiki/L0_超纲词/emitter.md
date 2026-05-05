@@ -126,7 +126,11 @@ e-(=ex-, 出来/向外) + [[mit|mit]](送/派遣) + -er(物/人)
 
 > [!example]- 语料
 > - China is currently the world's largest emitter of greenhouse gases. `[例]`
+>   - 中译：这种新型发光二极管是一种高效的发光器件。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/emitter
 > - The infrared emitter on the remote control sends signals to the television. `[例]`
+>   - 中译：碳排放在气候变化中扮演着重要角色。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/emitter
 
 ## 主动产出
 

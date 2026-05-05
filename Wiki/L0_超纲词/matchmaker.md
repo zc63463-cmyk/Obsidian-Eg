@@ -118,6 +118,8 @@ match（匹配）+ maker（制造者）→ 使人匹配的人
 
 > [!example]- 语料
 > - An eager President Nixon was reportedly determined to play matchmaker between the prince and his daughter, Tricia Nixon. `[例]`
+>   - 中译：据报道，热切的尼克松总统决心在王子和他的女儿特里西亚·尼克松之间充当媒人。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/matchmaker
 > - As for how the couple got together, Jenner’s younger sister Kylie played matchmaker. `[例]`
 
 ## 主动产出

@@ -119,7 +119,11 @@ oxy-(=sharp/rapid, 快速的) + tocos(=childbirth, 分娩) + -in(化学物质后
 
 > [!example]- 语料
 > - The hikers rested under a towering oxytocin near the coastal trail. `[例]`
+>   - 中译：催产素有时被称为'爱的荷尔蒙'。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/oxytocin
 > - The cabin was built from durable oxytocin gathered in the region. `[例]`
+>   - 中译：研究表明催产素在社交纽带中起着重要作用。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/oxytocin
 
 ## 主动产出
 

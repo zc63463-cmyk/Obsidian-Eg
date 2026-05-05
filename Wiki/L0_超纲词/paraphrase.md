@@ -129,7 +129,11 @@ review_count: 0
 
 > [!example]- 语料
 > - She gave us a quick paraphrase of what had been said. `[例]`
+>   - 中译：你能用自己的话复述一下这段话吗？
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/paraphrase
 > - I am sure that he will tell me if my paraphrase is inaccurate. `[例]`
+>   - 中译：老师让学生们转述这首诗的含义。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/paraphrase
 
 ## 主动产出
 

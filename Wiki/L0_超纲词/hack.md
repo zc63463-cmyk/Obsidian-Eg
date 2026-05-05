@@ -129,7 +129,11 @@ review_count: 0
 
 > [!example]- 语料
 > - The butcher hacked off a large chunk of meat. `[例]`
+>   - 中译：屠夫砍下了一大块肉。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hack
 > - Three villagers were hacked to death in a savage attack. `[例]`
+>   - 中译：三名村民在一次野蛮袭击中被砍死。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/hack
 
 ## 主动产出
 

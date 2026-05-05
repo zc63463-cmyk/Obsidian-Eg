@@ -121,8 +121,14 @@ in-(不) + con-(完全) + clus(关闭，拉丁语 *claudere*) + -ive(形容词�
 
 > [!example]- 语料
 > - The clinical trial proved inconclusive, and researchers decided to conduct a follow-up study. `[例]`
+>   - 中译：临床试验结果不确定，研究人员决定进行后续研究。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/inconclusive
 > - DNA evidence from the crime scene was inconclusive and could not definitively identify the suspect. `[例]`
+>   - 中译：犯罪现场的DNA证据不确定，无法明确确认嫌疑人身份。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/inconclusive
 > - The election results remained inconclusive for several days after the voting ended. `[例]`
+>   - 中译：选举结果在投票结束后数天内仍然没有定论。
+>   - 来源：Collins | https://www.collinsdictionary.com/dictionary/english/inconclusive
 
 ## 主动产出
 

@@ -125,7 +125,11 @@ half(一半) + -e(动词后缀，使动化)
 
 > [!example]- 语料
 > - In the past eight years , the elephant population in Africa has been halved. `[例]`
+>   - 中译：在过去八年中，非洲大象的数量减少了一半。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/halve
 > - The potatoes will cook more quickly if you halve them before you put them in the oven. `[例]`
+>   - 中译：如果你在把土豆放进烤箱之前切成两半，它们会熟得更快。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/halve
 
 ## 主动产出
 

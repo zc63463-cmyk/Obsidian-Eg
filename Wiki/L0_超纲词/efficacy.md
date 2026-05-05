@@ -122,7 +122,11 @@ ef-(=ex-, 出来/向外) + [[fac|fac]](做/制造) + -acy(名词后缀，表示�
 
 > [!example]- 语料
 > - Clinical trials have demonstrated the efficacy of the new vaccine in preventing infection. `[例]`
+>   - 中译：这种药物的疗效已经在临床试验中得到证实。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/efficacy
 > - The government questioned the efficacy of the current economic policy and proposed a series of reforms. `[例]`
+>   - 中译：研究人员正在测试这种新方法的效力。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/efficacy
 
 ## 主动产出
 

@@ -122,7 +122,11 @@ in-(在内) + sid(坐，拉丁语 *sedere*) + -ious(充满…的)
 
 > [!example]- 语料
 > - The insidious nature of the disease means it often goes undetected until it is too late. `[例]`
+>   - 中译：这种疾病的隐蔽特性意味着它往往到晚期才被发现。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/insidious
 > - The insidious effects of propaganda on public opinion are difficult to measure. `[例]`
+>   - 中译：宣传对公众舆论的潜移默化的影响难以衡量。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/insidious
 
 ## 主动产出
 

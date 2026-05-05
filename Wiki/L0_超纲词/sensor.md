@@ -123,7 +123,11 @@ review_count: 0
 
 > [!example]- 语料
 > - The security device has a heat sensor which detects the presence of people and animals. `[例]`
+>   - 中译：运动传感器可以检测到房间内是否有人。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sensor
 > - Security lights with an infrared sensor (= that come on when a person is near them). `[例]`
+>   - 中译：汽车的倒车雷达使用超声波传感器来探测障碍物。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/sensor
 
 ## 主动产出
 

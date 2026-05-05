@@ -125,7 +125,11 @@ review_count: 0
 
 > [!example]- 语料
 > - The storm wreaked (= caused ) havoc in the garden , uprooting trees and blowing a fence down. `[例]`
+>   - 中译：风暴在花园里造成了严重破坏，连根拔起树木并吹倒了栅栏。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/havoc
 > - The delay played (= caused ) havoc with their travel arrangements. `[例]`
+>   - 中译：延误严重打乱了他们的旅行安排。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/havoc
 
 ## 主动产出
 

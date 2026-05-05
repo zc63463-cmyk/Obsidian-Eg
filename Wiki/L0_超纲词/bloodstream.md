@@ -120,7 +120,11 @@ blood(血) + stream(溪流)
 
 > [!example]- 语料
 > - Once the medication enters the bloodstream, it is carried to every organ in the body. `[例]`
+>   - 中译：药物一旦进入血液，就会被输送到体内的每一个器官。
+>   - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/bloodstream
 > - The test measures the concentration of glucose in the bloodstream over a twelve-hour period. `[例]`
+>   - 中译：这项测试测量的是十二小时内血液中葡萄糖的浓度。
+>   - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/bloodstream
 
 ## 主动产出
 

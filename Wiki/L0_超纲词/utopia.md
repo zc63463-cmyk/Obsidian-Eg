@@ -126,7 +126,11 @@ u- (= ou-, 希腊语 *ou* = 不，无) + topos(地方，希腊语 *τόπος*) 
 
 > [!example]- 语料
 > - Try and imagine a perfect society , a utopia, in which the government really got everything right. `[例]`
+>   - 中译：他描绘了一个没有战争和贫穷的理想社会。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/utopia
 > - Humans, in the developed world at least, are as close to utopia as they are ever likely to be, argues the professor. `[例]`
+>   - 中译：建立一个完美的乌托邦是不可能的。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/utopia
 
 ## 主动产出
 

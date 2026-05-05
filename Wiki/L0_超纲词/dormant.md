@@ -122,7 +122,11 @@ dorm(睡眠，拉丁语 *dormire*) + -ant(形容词后缀，表状态) → 在�
 
 > [!example]- 语料
 > - The virus can remain dormant in the body for years. `[例]`
+>   - 中译：这座火山已经休眠了数百年。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/dormant
 > - Mount Fuji is a dormant volcano that last erupted in the early 18th century. `[例]`
+>   - 中译：旧日的记忆在他心中沉睡了多年。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/dormant
 > - Her musical talent lay dormant for decades before she finally decided to pursue a career in singing. `[例]`
 
 ## 主动产出

@@ -124,7 +124,11 @@ un-(不，否定前缀) + [[count|count]](计算) + -able(可被...的) + -ly(�
 
 > [!example]- 语料
 > - I felt unaccountably happy this morning. `[例]`
+>   - 中译：她莫名其妙地感到一阵悲伤。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/unaccountably
 > - Unaccountably, the lawyer never called this supposed witness. `[例]`
+>   - 中译：气温莫名其妙地骤降了十度。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/unaccountably
 
 ## 主动产出
 

@@ -125,7 +125,11 @@ review_count: 0
 
 > [!example]- 语料
 > - You can't mow the grass if it's wet. `[例]`
+>   - 中译：草湿的时候不能割。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/mow
 > - They have a gardener who mows the lawns and prunes the shrubbery. `[例]`
+>   - 中译：他们有一位园丁，负责修剪草坪和灌木。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/mow
 
 ## 主动产出
 

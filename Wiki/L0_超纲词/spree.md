@@ -124,7 +124,11 @@ spree（源自苏格兰语/爱尔兰语，可能源于 *spreath*"谷物的收成
 
 > [!example]- 语料
 > - After such a spree of wins , it seems unfair to talk too much about the team's weaknesses. `[例]`
+>   - 中译：她周末去商场疯狂购物，花了一大笔钱。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/spree
 > - He went on the defensive in an early morning social media spree. `[例]`
+>   - 中译：枪手在购物中心进行了疯狂的射击。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/spree
 
 ## 主动产出
 

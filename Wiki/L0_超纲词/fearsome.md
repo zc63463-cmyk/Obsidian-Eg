@@ -126,7 +126,11 @@ fear(恐惧) + -some(形容词后缀，引起…的/具有…倾向的)
 
 > [!example]- 语料
 > - The army was a fearsome fighting force that no enemy dared to challenge. `[例]`
+>   - 中译：这支军队拥有令人生畏的战斗力。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/fearsome
 > - She has a fearsome intellect that commands respect from everyone. `[例]`
+>   - 中译：暴风雨中大海看起来非常可怕。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fearsome
 
 ## 主动产出
 

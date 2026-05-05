@@ -125,7 +125,11 @@ review_count: 0
 
 > [!example]- 语料
 > - Recently, another expression of this predatory behavior has emerged: so-called support service consultancies that provide language and other editorial support to individual authors and to journals sometimes advise contributors to add a number of citations to their articles. `[真题]`
+>   - 中译：鹰是猛禽，以小型动物为食。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/predatory
 > - The owl is a predatory bird that kills its prey with its claws. `[例]`
+>   - 中译：一些放贷者以掠夺性的利率 targeting 穷人。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/predatory
 
 ## 主动产出
 

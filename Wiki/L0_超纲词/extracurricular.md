@@ -119,7 +119,11 @@ extra-(在……之外/超出) + curricul(课程，源自拉丁语 *curriculum*�
 
 > [!example]- 语料
 > - Participating in extracurricular activities helps students develop leadership and teamwork skills. `[例]`
+>   - 中译：她参加了各种课外活动，包括戏剧和辩论。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/extracurricular
 > - She balanced her demanding academic schedule with extracurricular involvement in the debate club and orchestra. `[例]`
+>   - 中译：课外活动有助于培养学生的领导能力和团队合作精神。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/extracurricular
 
 ## 主动产出
 

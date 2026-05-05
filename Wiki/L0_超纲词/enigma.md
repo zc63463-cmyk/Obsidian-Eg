@@ -124,7 +124,11 @@ review_count: 0
 
 > [!example]- 语料
 > - Despite years of research, the exact cause of the disease remains an enigma to scientists. `[例]`
+>   - 中译：这位作家的一生仍然是一个谜。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/enigma
 > - She was an enigma to her colleagues, rarely speaking and keeping her thoughts entirely to herself. `[例]`
+>   - 中译：这台加密机器的密码至今仍未被完全破解。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/enigma
 
 ## 主动产出
 

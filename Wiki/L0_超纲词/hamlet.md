@@ -120,8 +120,14 @@ ham(=home/homestead, 家/宅地) + -let(小称后缀，表示"小的")
 
 > [!example]- 语料
 > - The road wound through sleepy hamlets and rolling farmland. `[例]`
+>   - 中译：道路蜿蜒穿过宁静的小村庄和起伏的农田。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hamlet
 > - He lived in a tiny hamlet at the edge of the forest, far from the nearest town. `[例]`
+>   - 中译：他住在森林边缘的一个小村庄里，离最近的城镇很远。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/hamlet
 > - The picturesque hamlet was home to no more than a dozen families. `[例]`
+>   - 中译：这个风景如画的小村庄住着不超过十二户人家。
+>   - 来源：Collins | https://www.collinsdictionary.com/dictionary/english/hamlet
 
 ## 主动产出
 

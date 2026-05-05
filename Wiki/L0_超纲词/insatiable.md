@@ -124,7 +124,11 @@ in-(不，否定) + [[sati|sat-]](足够，满足) + -able(可被…的)
 
 > [!example]- 语料
 > - She had an insatiable appetite for learning new languages. `[例]`
+>   - 中译：她对学习新语言有着永不满足的渴望。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/insatiable
 > - The insatiable demand for natural resources has led to environmental degradation. `[例]`
+>   - 中译：对自然资源的贪得无厌的需求导致了环境退化。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/insatiable
 
 ## 主动产出
 

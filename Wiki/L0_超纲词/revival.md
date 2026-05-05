@@ -129,7 +129,11 @@ re-(再次，重新) + [[viv|vivere]](活，拉丁语 *vivere*) + -al(名词后�
 
 > [!example]- 语料
 > - Recently, there has been some revival of ( interest in ) ancient music. `[例]`
+>   - 中译：这座城市正在经历一场文化复兴。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/revival
 > - We're staging a revival of a 1950s play. `[例]`
+>   - 中译：传统手工艺的复兴引起了人们的关注。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/revival
 
 ## 主动产出
 

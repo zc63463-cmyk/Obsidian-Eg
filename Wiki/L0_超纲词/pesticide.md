@@ -122,7 +122,11 @@ review_count: 0
 
 > [!example]- 语料
 > - The pesticides that farmers spray on their crops kill pests , but they can also damage people's health. `[例]`
+>   - 中译：农民使用农药来保护庄稼。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pesticide
 > - Environmentalists called for cuts in pesticide use. `[例]`
+>   - 中译：农药残留对食品安全构成了威胁。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/pesticide
 
 ## 主动产出
 

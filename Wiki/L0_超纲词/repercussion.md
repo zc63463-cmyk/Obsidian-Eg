@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**反响，后果**==（通常指负面的）；②（物理）回弹；
+**n.** ①==**反响，后果**== `N` `prep N` [正式]（通常指负面的）；②==**（物理）回弹**== `N` [学术]；
 
 > [!tip] 原型义
 > **原型义**：反响（弹回来的后果）
@@ -126,7 +126,11 @@ review_count: 0
 
 > [!example]- 语料
 > - Any decrease in tourism could have serious repercussions for the local economy. `[例]`
+>   - 中译：这项决定可能会产生深远的后果。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/repercussion
 > - President Kennedy's assassination had far-reaching repercussions. `[例]`
+>   - 中译：经济危机的余波持续了数年。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/repercussion
 
 ## 主动产出
 

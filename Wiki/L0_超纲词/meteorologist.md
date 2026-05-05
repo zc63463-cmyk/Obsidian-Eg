@@ -122,6 +122,8 @@ meteor(大气现象，希腊语 *meteōron*) + -ology(学问) + -ist(人)
 > [!example]- 语料
 > - The team included a meteorologist, a zoologist, a mineralogist, and an agricultural statistician. `[真题]`
 > - A meteorologist is a theoretical authority about what we should believe the weather will be like. `[例]`
+>   - 中译：气象学家是关于我们应该相信天气会如何变化的理论权威。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/meteorologist
 
 ## 主动产出
 

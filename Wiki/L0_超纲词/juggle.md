@@ -127,7 +127,11 @@ juggle（源自拉丁语 *joculare* = 开玩笑，与 joke 同源）
 
 > [!example]- 语料
 > - Many working parents struggle to juggle their careers and family responsibilities. `[例]`
+>   - 中译：许多职场父母努力在事业和家庭责任之间兼顾平衡。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/juggle
 > - The accountant was caught juggling the books to hide the company's losses. `[例]`
+>   - 中译：会计被发现在账目上做手脚以掩盖公司的亏损。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/juggle
 
 ## 主动产出
 

@@ -118,7 +118,11 @@ deep(深的) + seat(坐/安置) + -ed(形容词后缀，表状态) → 深深坐
 
 > [!example]- 语料
 > - A deep-seated faith in God. `[例]`
+>   - 中译：对上帝根深蒂固的信仰。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/deep-seated
 > - The country's political divisions are deep-seated. `[例]`
+>   - 中译：该国的政治分歧根深蒂固。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/deep-seated
 
 ## 主动产出
 

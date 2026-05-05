@@ -123,7 +123,11 @@ parent（父母）+ -ing（动名词后缀，表行为/过程）
 
 > [!example]- 语料
 > - They share the responsibilities of parenting. `[例]`
+>   - 中译：育儿是一项充满挑战但又回报丰厚的任务。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/parenting
 > - And that really showed up in her parenting of me. `[例]`
+>   - 中译：她写了一本关于育儿技巧的书。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/parenting
 
 ## 主动产出
 

@@ -125,7 +125,11 @@ review_count: 0
 
 > [!example]- 语料
 > - Yesterday's coup brought further upheaval to a country already struggling with famine. `[例]`
+>   - 中译：战争给这个国家带来了巨大的动荡。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/upheaval
 > - I'm not sure it's worth the upheaval of moving to gain just a little more space. `[例]`
+>   - 中译：公司经历了一场管理层大变动。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/upheaval
 
 ## 主动产出
 

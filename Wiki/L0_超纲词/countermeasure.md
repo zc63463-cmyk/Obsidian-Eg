@@ -125,7 +125,11 @@ review_count: 0
 
 > [!example]- 语料
 > - The Chancellor's countermeasures against inflation have been completely ineffective. `[例]`
+>   - 中译：财政大臣对抗通货膨胀的措施完全无效。
+>   - 来源：Collins | https://www.collinsdictionary.com/dictionary/english/countermeasure
 > - There are several countermeasures that can be taken to reduce the likelihood of credit card fraud. `[例]`
+>   - 中译：可以采取多种对策来降低信用卡欺诈的可能性。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/countermeasure
 
 ## 主动产出
 

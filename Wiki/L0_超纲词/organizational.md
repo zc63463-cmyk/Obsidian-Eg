@@ -123,7 +123,11 @@ review_count: 0
 
 > [!example]- 语料
 > - The researchers proposed a organizational solution to the problem. `[例]`
+>   - 中译：公司需要进行组织结构的改革。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/organizational
 > - The company adopted a organizational approach to improve efficiency. `[例]`
+>   - 中译：良好的组织能力是管理者的关键素质。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/organizational
 > - The plan offers a organizational option for small organizations. `[例]`
 
 ## 主动产出

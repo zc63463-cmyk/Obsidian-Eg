@@ -123,7 +123,11 @@ bill（账单/海报）+ board（板）
 
 > [!example]- 语料
 > - The company rented a giant billboard along the highway to promote its new product line. `[例]`
+>   - 中译：公司在高速公路旁租用了一块巨大的广告牌来推广其新产品线。
+>   - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/billboard
 > - Digital billboards have become increasingly common in major cities around the world. `[例]`
+>   - 中译：数字广告牌在世界各大城市变得越来越普遍。
+>   - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/billboard
 
 ## 主动产出
 

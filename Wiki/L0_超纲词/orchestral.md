@@ -119,7 +119,11 @@ orchestra(管弦乐队) + -al(=……的，形容词后缀)
 
 > [!example]- 语料
 > - The researchers proposed a orchestral solution to the problem. `[例]`
+>   - 中译：这部交响曲需要大型管弦乐队的演奏。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/orchestral
 > - The company adopted a orchestral approach to improve efficiency. `[例]`
+>   - 中译：她喜欢管弦乐音乐胜过流行音乐。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/orchestral
 > - The plan offers a orchestral option for small organizations. `[例]`
 
 ## 主动产出

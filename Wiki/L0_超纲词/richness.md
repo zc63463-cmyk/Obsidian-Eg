@@ -128,7 +128,11 @@ rich(丰富的，富有的) + -ness(名词后缀，表状态/性质)
 
 > [!example]- 语料
 > - We were impressed by the great richness of detail in her painting. `[例]`
+>   - 中译：这个地区的文化多样性令人惊叹。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/richness
 > - It's a wonderful painting - I love the richness of the colours. `[例]`
+>   - 中译：土壤的肥沃程度直接影响作物的产量。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/richness
 
 ## 主动产出
 

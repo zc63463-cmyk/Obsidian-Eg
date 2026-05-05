@@ -129,7 +129,11 @@ spend(花费) + -ed(形容词后缀，表示"持有……状态的")
 
 > [!example]- 语料
 > - After several defeats in a row , people are starting to say that the team is a spent force. `[例]`
+>   - 中译：她精疲力竭地回到家，倒在沙发上。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/spent
 > - We arrived home spent after our long journey. `[例]`
+>   - 中译：这笔钱已经花光了，我们需要想办法筹集更多资金。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/spent
 
 ## 主动产出
 

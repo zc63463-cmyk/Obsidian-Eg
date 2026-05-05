@@ -124,7 +124,11 @@ short(短的) + [[termin|term]](期限) + -ism(主义，思想体系)
 
 > [!example]- 语料
 > - Corporate short-termism has led to underinvestment in research and development. `[例]`
+>   - 中译：短期主义是企业长期发展的最大障碍。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/short-termism
 > - Some of Europe's entrepreneurs reveal an alarming level of short-termism in making their investment decisions. `[例]`
+>   - 中译：投资者批评公司管理层过于注重短期利益。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/short-termism
 
 ## 主动产出
 

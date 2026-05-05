@@ -124,8 +124,14 @@ ag-(=ad-, 朝向) + -il(=ile，能够) + ag(做，行动，拉丁语 *agere*)
 
 > [!example]- 语料
 > - The company adopted an agile approach to software development, enabling rapid iteration. `[例]`
+>   - 中译：公司采用了敏捷的软件开发方法，实现了快速迭代。
+>   - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/agile
 > - Cats are remarkably agile creatures, capable of leaping great distances with precision. `[例]`
+>   - 中译：猫是极其敏捷的动物，能够精准地跃过很远的距离。
+>   - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/agile
 > - Her agile mind quickly grasped the complex mathematical concepts. `[例]`
+>   - 中译：她敏捷的头脑迅速掌握了那些复杂的数学概念。
+>   - 来源：Collins Dictionary | https://www.collinsdictionary.com/dictionary/english/agile
 
 ## 主动产出
 

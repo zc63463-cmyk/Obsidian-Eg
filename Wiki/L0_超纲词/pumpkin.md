@@ -121,7 +121,11 @@ pumpkin 源自希腊语 *pepōn*（成熟的瓜），经由拉丁语 *peponem*�
 
 > [!example]- 语料
 > - Pumpkin pie is a traditional American dish served on Thanksgiving. `[例]`
+>   - 中译：万圣节时我们雕刻了一个南瓜灯。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pumpkin
 > - Larger plates might include venison wrapped in chicken mousse (a nod to the Japanese sando), or pumpkin steeped in bacon dashi. `[例]`
+>   - 中译：她做了一道美味的南瓜汤。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/pumpkin
 
 ## 主动产出
 

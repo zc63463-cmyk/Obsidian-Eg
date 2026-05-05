@@ -121,7 +121,11 @@ review_count: 0
 
 > [!example]- 语料
 > - She joined a dance troupe and travelled all over the world. `[例]`
+>   - 中译：这个剧团在全国各地巡回演出。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/troupe
 > - A troupe of dancers from Beijing is one of the leading attractions in the festival. `[例]`
+>   - 中译：舞蹈团以其精彩的表演而闻名。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/troupe
 
 ## 主动产出
 

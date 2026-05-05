@@ -119,7 +119,11 @@ im-(=in-, 不) + poss(ible)(能够的) + -ibility(名词后缀，表示性质/�
 
 > [!example]- 语料
 > - The mathematician succeeded in proving the impossibility of constructing a perfect square using only a compass and straightedge. `[例]`
+>   - 中译：这位数学家成功证明了仅用圆规和直尺不可能构造出完美的正方形。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/impossibility
 > - Given the current budget constraints, completing the project by next month is an impossibility. `[例]`
+>   - 中译：鉴于目前的预算限制，在下个月前完成这个项目是不可能的。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/impossibility
 
 ## 主动产出
 

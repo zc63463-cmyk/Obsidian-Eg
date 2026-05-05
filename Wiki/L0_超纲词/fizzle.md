@@ -125,7 +125,11 @@ review_count: 0
 
 > [!example]- 语料
 > - The much-hyped protest fizzled out after just a few hours. `[例]`
+>   - 中译：抗议活动最终虎头蛇尾地结束了。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/fizzle
 > - What started as a promising initiative ended in a fizzle. `[例]`
+>   - 中译：他的竞选活动因缺乏支持而不了了之。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fizzle
 
 ## 主动产出
 

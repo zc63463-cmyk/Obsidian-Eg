@@ -125,7 +125,11 @@ push（推）+ back（向后）→ 向后推 → 抵制
 
 > [!example]- 语料
 > - There's plenty of pushback from environmentalists. `[例]`
+>   - 中译：该提议遭到了员工的强烈抵制。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pushback
 > - The plan was abandoned because the pushback from the military was so strong. `[例]`
+>   - 中译：政府面临来自环保组织的阻力。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/pushback
 
 ## 主动产出
 

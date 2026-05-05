@@ -120,7 +120,11 @@ down-(向下) + side(面/方面) → 向下的一面 → 不利方面
 
 > [!example]- 语料
 > - The downside of remote work is the lack of social interaction. `[例]`
+>   - 中译：住在城市中心的缺点是噪音太大。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/downside
 > - One downside of living in a big city is the high cost of housing. `[例]`
+>   - 中译：这项计划的唯一缺点是成本太高。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/downside
 > - Every investment has its upsides and downsides. `[例]`
 
 ## 主动产出

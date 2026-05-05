@@ -126,7 +126,11 @@ un-(不，否定前缀) + af-(=ad-, 向) + [[ford|ford]](提供/承担) + -able(
 
 > [!example]- 语料
 > - For many people , this type of treatment remains unaffordable. `[例]`
+>   - 中译：对许多家庭来说，房价已经高得难以承受。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/unaffordable
 > - Health insurance is now unaffordable for many people. `[例]`
+>   - 中译：医疗费用的上涨使治疗变得负担不起。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/unaffordable
 
 ## 主动产出
 

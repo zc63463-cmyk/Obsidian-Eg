@@ -123,7 +123,11 @@ review_count: 0
 
 > [!example]- 语料
 > - Bees pollinate the plants by carrying the pollen from one flower to another. `[例]`
+>   - 中译：蜜蜂帮助花朵授粉。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pollinate
 > - The plants are pollinated by bees. `[例]`
+>   - 中译：风将花粉从一棵树传播到另一棵树进行授粉。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/pollinate
 
 ## 主动产出
 

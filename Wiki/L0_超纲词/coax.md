@@ -121,7 +121,11 @@ review_count: 0
 
 > [!example]- 语料
 > - Perhaps you could coax your father into taking you to the station. `[例]`
+>   - 中译：也许你能哄你父亲送你去车站。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/coax
 > - I coaxed her to eat a little bit. `[例]`
+>   - 中译：我哄她吃了一点东西。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/coax
 
 ## 主动产出
 

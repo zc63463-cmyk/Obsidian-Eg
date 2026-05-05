@@ -122,7 +122,11 @@ review_count: 0
 
 > [!example]- 语料
 > - Stanley traversed the continent from west to east. `[例]`
+>   - 中译：探险队穿越了整个沙漠。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/traverse
 > - Bounded on the east by Lake Winnebago , the county is traversed by the Wolf and Fox rivers. `[例]`
+>   - 中译：这条公路横贯整个国家。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/traverse
 
 ## 主动产出
 

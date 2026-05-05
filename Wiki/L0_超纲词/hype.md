@@ -131,7 +131,11 @@ hyper-(=over/above, 过度，希腊语前缀) 的缩略形式
 
 > [!example]- 语料
 > - There's been a lot of hype around his latest film. `[例]`
+>   - 中译：围绕他的最新电影有很多炒作。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hype
 > - With all the hype surrounding the star player , she will be watched especially closely at the start of the season. `[例]`
+>   - 中译：由于围绕这位明星球员的各种炒作，她在赛季初将受到格外密切的关注。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/hype
 
 ## 主动产出
 

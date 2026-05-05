@@ -122,7 +122,11 @@ review_count: 0
 
 > [!example]- 语料
 > - I'm going to sail to the mouth of the Thames and then let the tide take me up a creek. `[例]`
+>   - 中译：我要航行到泰晤士河口，然后让潮水把我带进一条小溪。
+>   - 来源：Collins | https://www.collinsdictionary.com/dictionary/english/creek
 > - She loved the Suffolk coast,with its creeks and marshes and reed beds under a huge sky. `[例]`
+>   - 中译：她热爱萨福克郡的海岸，那里有广阔天空下的小溪、沼泽和芦苇床。
+>   - 来源：Collins | https://www.collinsdictionary.com/dictionary/english/creek
 
 ## 主动产出
 

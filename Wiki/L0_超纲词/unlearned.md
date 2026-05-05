@@ -127,7 +127,11 @@ un-(不，否定前缀) + [[lect-leg|learn]](学习) + -ed(形容词后缀，持
 
 > [!example]- 语料
 > - Although the people of the farming community were largely an unlearned lot, they wanted an advanced education for their children. `[例]`
+>   - 中译：她花了很多时间来消除那些有害的习惯。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/unlearned
 > - De-Stalinization was quick and brutal, with history having the last say — a lesson guaranteed to go unlearned. `[例]`
+>   - 中译：有时候，我们需要忘掉以前学过的东西才能学到新的。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/unlearned
 
 ## 主动产出
 

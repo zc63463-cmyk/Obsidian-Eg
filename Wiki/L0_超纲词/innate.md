@@ -124,7 +124,11 @@ in-(在内部) + [[nat|nat-nasc-]](出生) → 实际来自拉丁语 *innatus*�
 
 > [!example]- 语料
 > - She has an innate ability to connect with people from all walks of life. `[例]`
+>   - 中译：她有一种与各行各业的人建立联系的与生俱来的能力。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/innate
 > - The innate immune system provides the first line of defense against pathogens. `[例]`
+>   - 中译：先天免疫系统提供了抵御病原体的第一道防线。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/innate
 
 ## 主动产出
 

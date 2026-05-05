@@ -128,7 +128,11 @@ review_count: 0
 
 > [!example]- 语料
 > - It was a courageous decision to resign in protest at the company's pollution record. `[例]`
+>   - 中译：为抗议公司的污染记录而辞职，这是一个勇敢的决定。
+>   - 来源：Collins | https://www.collinsdictionary.com/dictionary/english/courageous
 > - It was courageous of her to challenge the managing director's decision. `[例]`
+>   - 中译：她敢于挑战总经理的决定，这很勇敢。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/courageous
 
 ## 主动产出
 

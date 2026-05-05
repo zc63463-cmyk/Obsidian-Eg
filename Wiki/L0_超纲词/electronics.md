@@ -124,7 +124,11 @@ electron（电子，源自希腊语 *elektron*，"琥珀"，因摩擦起电现�
 
 > [!example]- 语料
 > - The consumer electronics market has grown rapidly over the past decade. `[例]`
+>   - 中译：这家公司是全球领先的消费电子产品制造商。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/electronics
 > - He decided to study electronics at college because he was fascinated by circuit design. `[例]`
+>   - 中译：他大学时主修电子工程专业。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/electronics
 
 ## 主动产出
 

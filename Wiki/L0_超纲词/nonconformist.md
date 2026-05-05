@@ -126,7 +126,11 @@ non-(不，否定前缀) + [[form]](=form-, 形状/形式) + -ist(人，……�
 
 > [!example]- 语料
 > - He remains one of his generation's most nonconformist writers. `[例]`
+>   - 中译：他仍然是他那一代最不墨守成规的作家之一。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/nonconformist
 > - Initially he was attracted to the nonconformist church. `[例]`
+>   - 中译：最初他被非国教教会所吸引。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/nonconformist
 
 ## 主动产出
 

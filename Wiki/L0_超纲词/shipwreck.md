@@ -128,7 +128,11 @@ ship(船) + wreck(破坏，毁坏)
 
 > [!example]- 语料
 > - The danger of shipwreck is much greater in fog. `[例]`
+>   - 中译：潜水员在海底发现了一处古代沉船遗迹。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/shipwreck
 > - There have been many shipwrecks along this dangerous stretch of coastline. `[例]`
+>   - 中译：这场风暴造成了多起海难事故。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/shipwreck
 
 ## 主动产出
 

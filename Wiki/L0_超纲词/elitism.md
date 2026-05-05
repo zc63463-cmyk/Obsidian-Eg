@@ -126,7 +126,11 @@ elite（精英，源自法语 *elite*，"被选出的"）+ -ism(主义/学说)
 
 > [!example]- 语料
 > - Critics accused the university of intellectual elitism after it raised its admission requirements significantly. `[例]`
+>   - 中译：人们批评这所大学存在精英主义倾向。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/elitism
 > - The party's policies were widely criticised as promoting cultural elitism and excluding ordinary citizens. `[例]`
+>   - 中译：精英主义阻碍了社会流动性。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/elitism
 
 ## 主动产出
 

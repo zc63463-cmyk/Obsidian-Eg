@@ -122,7 +122,11 @@ review_count: 0
 
 > [!example]- 语料
 > - Literary agencies are getting bigger to have the clout to negotiate better terms with publishers, publishers consolidating to deal with Amazon, " . says Lownie. `[真题]`
+>   - 中译：文学经纪公司正在壮大，以便拥有与出版商谈判更好条款的影响力，而出版商则在整合以应对亚马逊。"劳尼说。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/clout
 > - Quigley clouted me smartly across the side of the head. `[例]`
+>   - 中译：奎格利在我脑袋侧面狠狠地打了一下。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/clout
 
 ## 主动产出
 

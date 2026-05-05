@@ -119,7 +119,11 @@ im-(=in-, 向内) + ping(e)(打击，拉丁语 *pingere*)
 
 > [!example]- 语料
 > - The government's spending limits will seriously impinge on the education budget. `[例]`
+>   - 中译：政府的支出限制将严重影响教育预算。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/impinge
 > - The Supreme Court will decide if the new communications bill impinges on the Constitutional right to free speech. `[例]`
+>   - 中译：最高法院将裁定新的通信法案是否侵犯了宪法规定的言论自由权。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/impinge
 
 ## 主动产出
 

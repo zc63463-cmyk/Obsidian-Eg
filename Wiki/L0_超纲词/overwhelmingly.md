@@ -120,7 +120,11 @@ over-(在上面/越过) + whelm(=淹没/翻覆) + -ing(进行时) + -ly(副词�
 
 > [!example]- 语料
 > - The team were overwhelmingly defeated in yesterday's game. `[例]`
+>   - 中译：投票结果以压倒性的多数通过了这项决议。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/overwhelmingly
 > - They voted overwhelmingly against the proposal. `[例]`
+>   - 中译：学生们压倒性地选择了在线学习。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/overwhelmingly
 
 ## 主动产出
 

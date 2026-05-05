@@ -123,7 +123,11 @@ mean（意味）+ -ing（动名词后缀）+ -ful（充满……的）→ 充满
 
 > [!example]- 语料
 > - He raised one eyebrow in a meaningful way. `[例]`
+>   - 中译：他意味深长地挑起了一边眉毛。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/meaningful
 > - She seems to find it difficult to form meaningful relationships. `[例]`
+>   - 中译：她似乎觉得很难建立有意义的关系。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/meaningful
 
 ## 主动产出
 

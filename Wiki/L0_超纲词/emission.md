@@ -127,7 +127,11 @@ e-(=ex-, 出来/向外) + [[miss|miss]](送/派遣) + -ion(名词后缀，表示
 
 > [!example]- 语料
 > - The government has imposed strict regulations on carbon emissions from industrial plants. `[例]`
+>   - 中译：政府计划在未来十年内减少碳排放。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/emission
 > - The emission of light from distant stars takes millions of years to reach Earth. `[例]`
+>   - 中译：工厂的废气排放严重超标。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/emission
 
 ## 主动产出
 

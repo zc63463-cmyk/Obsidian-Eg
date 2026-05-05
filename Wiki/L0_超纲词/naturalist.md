@@ -123,6 +123,8 @@ review_count: 0
 
 > [!example]- 语料
 > - Somehow the 200-acre eco-theme park avoids being hokey and trite—the biologists and naturalists here take their work seriously. `[例]`
+>   - 中译：不知为何，这个200英亩的生态主题公园避免了俗套——这里的生物学家和博物学家对待工作非常认真。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/naturalist
 > - The building was added to the National Register of Historic Places in 1976, and in 1977, the state built an obelisk on the church’s grounds to honor Benjamin Banneker, a naturalist and mathematician who reportedly worshipped at the church during the early 1800s. `[例]`
 
 ## 主动产出

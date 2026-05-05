@@ -125,7 +125,11 @@ drama（戏剧，源自希腊语 *drama*，"行动/表演"）+ -tic（形容词�
 
 > [!example]- 语料
 > - The company's profits improved dramatically after the new strategy was implemented. `[例]`
+>   - 中译：技术在过去十年中发生了巨大的变化。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/dramatically
 > - Technology has changed dramatically over the past two decades. `[例]`
+>   - 中译：药品价格大幅下降。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/dramatically
 > - The patient's condition deteriorated dramatically overnight. `[例]`
 
 ## 主动产出

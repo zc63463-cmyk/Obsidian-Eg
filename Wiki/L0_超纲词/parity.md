@@ -127,7 +127,11 @@ review_count: 0
 
 > [!example]- 语料
 > - Firefighters are demanding pay parity with police. `[例]`
+>   - 中译：男女之间的薪酬平等方面仍存在差距。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/parity
 > - Washington, DC, hopes to achieve political parity with the states. `[例]`
+>   - 中译：两国货币的汇率达到了平价。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/parity
 
 ## 主动产出
 

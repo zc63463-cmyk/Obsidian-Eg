@@ -130,7 +130,11 @@ con-(共同/一起) + [[tend-tens|ten-/tent-]](拉伸/趋向) + -ion(名词后�
 
 > [!example]- 语料
 > - There's a lot of contention about that issue - for every person firmly in favour , there's someone fiercely against it. `[例]`
+>   - 中译：关于那个问题有很多争论——每个坚决支持的人旁边，都有一个激烈反对的人。
+>   - 来源：Collins | https://www.collinsdictionary.com/dictionary/english/contention
 > - The issue has been settled - it's no longer in contention. `[例]`
+>   - 中译：这个问题已经解决了——它不再有争议了。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/contention
 
 ## 主动产出
 

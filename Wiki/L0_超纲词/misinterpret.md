@@ -122,6 +122,8 @@ mis-(错误) + [[inter|inter]]-(在……之间) + [[pret|pract-prag]](传递/�
 
 > [!example]- 语料
 > - My speech has been misinterpreted by the press. `[例]`
+>   - 中译：我的演讲被媒体误解了。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/misinterpret
 > - When we re-examined the regulations , we realized that we had misinterpreted them. `[例]`
 
 ## 主动产出

@@ -120,7 +120,11 @@ in-(在……内) + born(出生)
 
 > [!example]- 语料
 > - Some researchers argue that musical ability is largely inborn rather than acquired through training. `[例]`
+>   - 中译：一些研究者认为，音乐能力在很大程度上是天生的，而不是通过训练获得的。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/inborn
 > - The child displayed an inborn curiosity about the natural world that delighted her parents. `[例]`
+>   - 中译：这个孩子表现出对自然界的天生好奇心，这让她的父母很高兴。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/inborn
 
 ## 主动产出
 

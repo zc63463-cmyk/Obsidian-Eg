@@ -122,7 +122,11 @@ drop（掉落，退出）+ out（出来/离开）
 
 > [!example]- 语料
 > - The high school dropout rate has declined steadily over the past decade. `[例]`
+>   - 中译：高中辍学率在这一地区居高不下。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/dropout
 > - Several famous entrepreneurs were college dropouts who went on to build successful companies. `[例]`
+>   - 中译：他是一名大学辍学生，后来成为了一名成功的企业家。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/dropout
 > - Programs aimed at reducing dropout rates have shown promising results in urban schools. `[例]`
 
 ## 主动产出

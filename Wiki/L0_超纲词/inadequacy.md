@@ -120,7 +120,11 @@ in-(不) + [[equ|equ]](相等/足够) + -acy(名词后缀，表示状态)
 
 > [!example]- 语料
 > - The inadequacy of the budget is likely to cause problems. `[例]`
+>   - 中译：预算不足可能会引发问题。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/inadequacy
 > - I always suffer from feelings of inadequacy when I'm with him. `[例]`
+>   - 中译：和他在一起时，我总是感到自卑。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/inadequacy
 
 ## 主动产出
 

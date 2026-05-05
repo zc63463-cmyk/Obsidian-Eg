@@ -124,7 +124,11 @@ review_count: 0
 
 > [!example]- 语料
 > - Served as a conductor for the philharmonic. `[例]`
+>   - 中译：她经常去听爱乐乐团的音乐会。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/philharmonic
 > - It will be conducted by Gustavo Dudamel, who’s coming on as the philharmonic ’s music and artistic director. `[例]`
+>   - 中译：维也纳爱乐乐团是世界顶级的交响乐团之一。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/philharmonic
 
 ## 主动产出
 

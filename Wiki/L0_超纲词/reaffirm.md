@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**v.** ①==**重申，再次确认**==；②再次肯定；
+**v.** ①==**重申，再次确认**== `V N` `V one's N`；②再次肯定 `V the N of N` `V N`；
 
 > [!tip] 原型义
 > **原型义**：再次确认（重新坚定地说/做）
@@ -127,7 +127,11 @@ review_count: 0
 
 > [!example]- 语料
 > - The government yesterday reaffirmed its commitment to the current peace process. `[例]`
+>   - 中译：总统重申了政府对改革的承诺。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/reaffirm
 > - These events reaffirm my belief in the need for better information. `[例]`
+>   - 中译：会议再次确认了之前达成的协议。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/reaffirm
 
 ## 主动产出
 

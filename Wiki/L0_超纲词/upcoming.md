@@ -122,7 +122,11 @@ review_count: 0
 
 > [!example]- 语料
 > - Tickets are selling well for the group's upcoming concert tour. `[例]`
+>   - 中译：她正在为即将到来的考试做准备。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/upcoming
 > - Party officials met to nominate candidates for the upcoming election. `[例]`
+>   - 中译：乐队宣布了即将举行的巡回演唱会日期。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/upcoming
 
 ## 主动产出
 

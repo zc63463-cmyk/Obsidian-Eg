@@ -120,7 +120,11 @@ arch(古代的，希腊语 *archaios*) + aeol(=logy, 学科) + -ist(从事……
 
 > [!example]- 语料
 > - Archaeologists have unearthed a 5,000-year-old settlement in southern Turkey. `[例]`
+>   - 中译：考古学家在土耳其南部发掘了一个有5000年历史的定居点。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/archaeologist
 > - The archaeologist spent decades studying the ruins of Pompeii. `[例]`
+>   - 中译：这位考古学家花了几十年时间研究庞贝古城的遗址。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/archaeologist
 
 ## 主动产出
 

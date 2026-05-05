@@ -122,7 +122,11 @@ law(法律) + maker(制造者)
 
 > [!example]- 语料
 > - Lawmakers are considering new legislation to address climate change. `[例]`
+>   - 中译：议员们正在考虑新的立法以应对气候变化。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/lawmaker
 > - State lawmakers voted to increase funding for public education. `[例]`
+>   - 中译：州议员投票决定增加公共教育资金。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/lawmaker
 
 ## 主动产出
 

@@ -123,7 +123,11 @@ stand（站，站立）+ still（静止，不动）
 
 > [!example]- 语料
 > - The runaway bus eventually came to a standstill when it rolled into a muddy field. `[例]`
+>   - 中译：交通完全陷入了停滞。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/standstill
 > - Fighting and shortages have brought normal life to a virtual standstill in the city. `[例]`
+>   - 中译：谈判陷入了僵局，双方无法达成一致。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/standstill
 
 ## 主动产出
 

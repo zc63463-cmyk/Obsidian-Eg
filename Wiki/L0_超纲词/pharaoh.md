@@ -120,7 +120,11 @@ review_count: 0
 
 > [!example]- 语料
 > - To tell the pharaoh 's story in depth, NPR art director Jackie Lay lays out Hatshepsut's history through illustrations. `[例]`
+>   - 中译：法老被认为是古埃及的活神。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pharaoh
 > - Should anyone ever find themselves in a real jam, like imprisonment by a vengeful pharaoh or life-threatening thirst, God pops by long enough to get the story back on track. `[例]`
+>   - 中译：图坦卡蒙是最著名的法老之一。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pharaoh
 
 ## 主动产出
 

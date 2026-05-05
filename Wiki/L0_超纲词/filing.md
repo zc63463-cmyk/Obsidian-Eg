@@ -128,7 +128,11 @@ file(文件，档案，源自拉丁语 *filum*，线) + -ing(名词后缀，表�
 
 > [!example]- 语料
 > - The company has an efficient electronic filing system for all its documents. `[例]`
+>   - 中译：她花了一整个下午整理文件归档。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/filing
 > - The deadline for filing tax returns is April 15th. `[例]`
+>   - 中译：所有的文件都已按照字母顺序归档。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/filing
 
 ## 主动产出
 

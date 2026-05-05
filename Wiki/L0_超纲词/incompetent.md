@@ -122,7 +122,11 @@ in-(不) + com-(完全) + pet(追求/达到，拉丁语 *petere*) + -ent(形容�
 
 > [!example]- 语料
 > - He has described the government as corrupt and incompetent. `[例]`
+>   - 中译：他将政府描述为腐败且无能的。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/incompetent
 > - The country's being governed by a bunch of incompetents. `[例]`
+>   - 中译：这个国家正被一群无能的人治理着。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/incompetent
 
 ## 主动产出
 

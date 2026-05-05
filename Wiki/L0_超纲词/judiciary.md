@@ -129,7 +129,11 @@ jud(=judic, 审判/法律，拉丁语 *judex*) + -i- + -ary(与……有关的)
 
 > [!example]- 语料
 > - An independent judiciary is essential for the rule of law. `[例]`
+>   - 中译：独立的司法机构对于法治至关重要。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/judiciary
 > - The judiciary has the power to interpret laws and determine their constitutionality. `[例]`
+>   - 中译：司法机关有权解释法律并裁定其是否符合宪法。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/judiciary
 
 ## 主动产出
 

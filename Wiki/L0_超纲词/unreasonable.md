@@ -129,7 +129,11 @@ un-(不，否定) + [[under]](在下面→古法语 *raison* 源自拉丁语 *ra
 
 > [!example]- 语料
 > - It seems unreasonable to expect one person to do both jobs. `[例]`
+>   - 中译：房东提出了不合理的涨租要求。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/unreasonable
 > - She divorced him on the grounds of unreasonable behaviour. `[例]`
+>   - 中译：她对员工的要求过于苛刻。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/unreasonable
 
 ## 主动产出
 

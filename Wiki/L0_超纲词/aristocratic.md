@@ -123,7 +123,11 @@ aristo(最好的，希腊语 *aristos*) + crat(统治，希腊语 *kratos*) + -i
 
 > [!example]- 语料
 > - She came from an aristocratic family that had fallen on hard times. `[例]`
+>   - 中译：她出身于一个已经没落的贵族家庭。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/aristocratic
 > - The aristocratic lifestyle of the upper class was a subject of much criticism. `[例]`
+>   - 中译：上层阶级的贵族生活方式受到了广泛批评。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/aristocratic
 
 ## 主动产出
 

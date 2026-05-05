@@ -128,6 +128,8 @@ review_count: 0
 
 > [!example]- 语料
 > - They have shown great courage and nobility of purpose. `[例]`
+>   - 中译：他们展现了极大的勇气和高尚的目标。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/nobility
 > - In particular, popes wanted to select the church’s bishops rather than allowing nobility or a king to do so. `[例]`
 
 ## 主动产出

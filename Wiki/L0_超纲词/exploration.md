@@ -123,7 +123,11 @@ ex-(向外) + plor(呼喊/哭泣，源自拉丁语 *plorare*) + -ation(名词后
 
 > [!example]- 语料
 > - The exploration of deep-sea ecosystems has led to the discovery of previously unknown species. `[例]`
+>   - 中译：太空探索一直是人类的梦想。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/exploration
 > - Space exploration requires enormous financial investment and international cooperation. `[例]`
+>   - 中译：石油公司正在该地区进行地质勘探。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/exploration
 
 ## 主动产出
 

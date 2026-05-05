@@ -121,7 +121,11 @@ review_count: 0
 
 > [!example]- 语料
 > - She spent the entire Saturday morning running errands, picking up dry cleaning and dropping off packages at the post office. `[例]`
+>   - 中译：她去镇上办了几件差事。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/errand
 > - I'll meet you at six, I've got some errands to do first. `[例]`
+>   - 中译：我派他跑腿去买些牛奶和面包。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/errand
 
 ## 主动产出
 

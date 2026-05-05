@@ -123,7 +123,11 @@ col-（=com-，共同，一起）+ labor（劳动，工作）+ -ative（形容�
 
 > [!example]- 语料
 > - The presentation was a collaborative effort by all the children in the class. `[例]`
+>   - 中译：这次演示是全班所有孩子共同努力的成果。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/collaborative
 > - The presentation was a collaborative effort by everyone in the department. `[例]`
+>   - 中译：这次演示是部门所有人协作完成的。
+>   - 来源：Collins | https://www.collinsdictionary.com/dictionary/english/collaborative
 
 ## 主动产出
 

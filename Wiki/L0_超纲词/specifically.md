@@ -125,7 +125,11 @@ review_count: 0
 
 > [!example]- 语料
 > - These jeans are designed specifically for women. `[例]`
+>   - 中译：我特别要求你不要告诉任何人。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/specifically
 > - I bought it specifically to wear at the wedding. `[例]`
+>   - 中译：这个软件是专门为教育工作者设计的。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/specifically
 
 ## 主动产出
 

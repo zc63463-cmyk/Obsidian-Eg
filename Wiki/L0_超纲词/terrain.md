@@ -123,7 +123,11 @@ review_count: 0
 
 > [!example]- 语料
 > - The car handles particularly well on rough terrain. `[例]`
+>   - 中译：部队需要穿越崎岖的地形。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/terrain
 > - They walked for miles across steep and inhospitable terrain. `[例]`
+>   - 中译：这个地区的地形以山地和丘陵为主。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/terrain
 
 ## 主动产出
 

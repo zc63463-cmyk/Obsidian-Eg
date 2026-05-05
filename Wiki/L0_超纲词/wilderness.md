@@ -125,7 +125,11 @@ wild（野生的）+ -ness（表示状态的名词后缀），无拉丁/希腊�
 
 > [!example]- 语料
 > - A beautiful mountain wilderness. `[例]`
+>   - 中译：他们在荒野中徒步了三天。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/wilderness
 > - Alaska is the last great wilderness. `[例]`
+>   - 中译：这片荒原是许多珍稀动物的栖息地。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/wilderness
 
 ## 主动产出
 

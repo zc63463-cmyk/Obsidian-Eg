@@ -127,7 +127,11 @@ mund(世界，拉丁语 *mundus* 世界) + -ane(形容词后缀)
 
 > [!example]- 语料
 > - Mundane matters such as paying bills and shopping for food do not interest her. `[例]`
+>   - 中译：付账单和买菜等日常琐事不感兴趣。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/mundane
 > - The show was just another mundane family sitcom. `[例]`
+>   - 中译：这档节目不过是又一部平淡的家庭情景喜剧。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/mundane
 
 ## 主动产出
 

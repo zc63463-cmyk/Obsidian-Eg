@@ -128,6 +128,8 @@ review_count: 0
 
 > [!example]- 语料
 > - MMA is not a niche sport any more. `[例]`
+>   - 中译：综合格斗已不再是一项小众运动。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/niche
 > - Cars with classic black or grey are easy to resell , but those with red or green interiors are more niche. `[例]`
 
 ## 主动产出

@@ -124,7 +124,11 @@ com-（完全，一起）+ [[mit]]（送，派遣，拉丁语 *mittere*）+ -men
 
 > [!example]- 语料
 > - Players must make a commitment to play for a full season. `[例]`
+>   - 中译：球员必须承诺打满整个赛季。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/commitment
 > - Can you give a commitment that the money will be made available? `[例]`
+>   - 中译：你能保证这笔资金会到位吗？
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/commitment
 
 ## 主动产出
 

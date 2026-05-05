@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**adj.** ①==**著名的，有声望的**==；
+**adj.** ①==**著名的，有声望的**== `adj N` `be adj for N` [正式]；
 
 > [!tip] 原型义
 > **原型义**：著名的（被反复叫唤名字的人）
@@ -125,7 +125,11 @@ review_count: 0
 
 > [!example]- 语料
 > - The researchers proposed a renowned solution to the problem. `[例]`
+>   - 中译：她是一位享誉世界的钢琴家。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/renowned
 > - The company adopted a renowned approach to improve efficiency. `[例]`
+>   - 中译：这家餐厅以其出色的海鲜而闻名。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/renowned
 
 ## 主动产出
 

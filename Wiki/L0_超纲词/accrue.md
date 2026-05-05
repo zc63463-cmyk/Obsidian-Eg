@@ -125,8 +125,14 @@ ac-(=ad-, 朝向) + crue(=cresc，增长，拉丁语 *crescere*)
 
 > [!example]- 语料
 > - Interest accrues on a daily basis on most savings accounts. `[例]`
+>   - 中译：大多数储蓄账户的利息按日计息。
+>   - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/accrue
 > - Benefits accruing from the new policy will be distributed to all employees over the next fiscal year. `[例]`
+>   - 中译：新政策带来的好处将在下一财年内分配给全体员工。
+>   - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/accrue
 > - Vacation days accrue gradually as employees continue working for the organization. `[例]`
+>   - 中译：随着员工持续为本机构工作，带薪假期会逐步累积。
+>   - 来源：Collins Dictionary | https://www.collinsdictionary.com/dictionary/english/accrue
 
 ## 主动产出
 

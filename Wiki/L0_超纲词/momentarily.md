@@ -123,7 +123,11 @@ moment(片刻，拉丁语 *momentum* 运动/瞬间) + -ar(形容词后缀) + -ly
 
 > [!example]- 语料
 > - She was momentarily confused by the foreign road signs. `[例]`
+>   - 中译：她被陌生的路标短暂地弄糊涂了。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/momentarily
 > - I'll be ready to leave momentarily. `[例]`
+>   - 中译：我马上就准备好出发。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/momentarily
 
 ## 主动产出
 

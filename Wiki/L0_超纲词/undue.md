@@ -126,7 +126,11 @@ un-(不，否定前缀) + [[due|due]](应得的/到期的)
 
 > [!example]- 语料
 > - Such a high increase will impose an undue burden on the local tax payer. `[例]`
+>   - 中译：请不要给予这个问题过多的关注。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/undue
 > - The court said the state law placed an undue burden on working mothers. `[例]`
+>   - 中译：法官驳回了原告的不当要求。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/undue
 
 ## 主动产出
 

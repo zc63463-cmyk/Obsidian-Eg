@@ -125,7 +125,11 @@ broad(宽的) + band(频带/带子)
 
 > [!example]- 语料
 > - The government launched an initiative to expand broadband access to underserved rural communities across the nation. `[例]`
+>   - 中译：政府启动了一项计划，将宽带接入扩展到全国服务不足的农村社区。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/broadband
 > - Reliable broadband connection has become essential for remote work and online education in the digital age. `[例]`
+>   - 中译：在数字时代，可靠的宽带连接已成为远程办公和在线教育的必需品。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/broadband
 
 ## 主动产出
 

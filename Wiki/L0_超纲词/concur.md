@@ -122,7 +122,11 @@ con-（一起）+ [[cur]]（跑，拉丁语 *currere*）
 
 > [!example]- 语料
 > - The new report concurs with previous findings. `[例]`
+>   - 中译：新报告与先前的发现一致。
+>   - 来源：Collins | https://www.collinsdictionary.com/dictionary/english/concur
 > - The board concurred that the editor should have full control over editorial matters. `[例]`
+>   - 中译：董事会一致认为编辑应对编辑事务拥有完全控制权。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/concur
 
 ## 主动产出
 

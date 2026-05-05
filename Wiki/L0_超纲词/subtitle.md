@@ -123,7 +123,11 @@ review_count: 0
 
 > [!example]- 语料
 > - The subtitle of this biography is "The Making of an American". `[例]`
+>   - 中译：这部电影配有中文字幕。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/subtitle
 > - The Chinese movie was shown with English subtitles. `[例]`
+>   - 中译：这本书的副标题是“21世纪生存指南”。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/subtitle
 
 ## 主动产出
 

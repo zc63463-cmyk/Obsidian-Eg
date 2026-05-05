@@ -124,7 +124,11 @@ review_count: 0
 
 > [!example]- 语料
 > - You must give the bank (a) written notification if you wish to close your account. `[例]`
+>   - 中译：如果你想关闭账户，必须向银行发出书面通知。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/notification
 > - The car's owner would receive notification that the vehicle failed inspection. `[例]`
+>   - 中译：车主将收到车辆未通过检查的通知。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/notification
 
 ## 主动产出
 

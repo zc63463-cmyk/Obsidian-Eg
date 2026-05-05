@@ -122,7 +122,11 @@ com-（一起）+ [[par]]（相等，拉丁语 *parare*，准备/安排）+ -ati
 
 > [!example]- 语料
 > - We couldn't afford it and yet we're comparatively well off (= we are richer than most people ). `[例]`
+>   - 中译：我们买不起，不过相比之下我们还算富裕（即我们比大多数人都富有）。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/comparatively
 > - Comparatively speaking , this machine is easy to use. `[例]`
+>   - 中译：比较而言，这台机器很容易使用。
+>   - 来源：Collins | https://www.collinsdictionary.com/dictionary/english/comparatively
 
 ## 主动产出
 

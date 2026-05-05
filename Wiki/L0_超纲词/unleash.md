@@ -123,7 +123,11 @@ un-(解开/否定前缀) + [[leash]](皮带/牵引绳)
 
 > [!example]- 语料
 > - At worst , nuclear war could be unleashed. `[例]`
+>   - 中译：政府出台新政策以释放经济活力。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/unleash
 > - Rachel's arrival on the scene had unleashed passions in him that he could scarcely control. `[例]`
+>   - 中译：暴风雨释放了巨大的破坏力。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/unleash
 
 ## 主动产出
 

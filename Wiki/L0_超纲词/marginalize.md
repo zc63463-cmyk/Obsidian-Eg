@@ -124,6 +124,8 @@ margin（边缘）+ -al（形容词后缀）+ -ize（动词后缀，使……化
 > [!example]- 语料
 > - Now that English has taken over as the main language , the country's native language has been marginalized. `[例]`
 > - The program helps people from marginalized groups. `[例]`
+>   - 中译：该计划帮助来自被边缘化群体的人们。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/marginalize
 
 ## 主动产出
 

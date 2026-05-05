@@ -130,7 +130,11 @@ live（活→生命）+ -ly（形容词后缀）+ -ness（名词后缀，表示"
 
 > [!example]- 语料
 > - The concerts were intended to bring some cultural liveliness to the town. `[例]`
+>   - 中译：这些音乐会旨在为小镇带来一些文化活力。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/liveliness
 > - Despite being almost 90, she radiates liveliness. `[例]`
+>   - 中译：尽管已经90岁高龄，她依然充满活力。
+>   - 来源：Collins | https://www.collinsdictionary.com/dictionary/english/liveliness
 
 ## 主动产出
 

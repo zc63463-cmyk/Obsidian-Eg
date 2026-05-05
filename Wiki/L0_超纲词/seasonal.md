@@ -124,7 +124,11 @@ season(季节) + -al(形容词后缀，表示"与……有关的")
 
 > [!example]- 语料
 > - Temperatures are well below the seasonal average. `[例]`
+>   - 中译：这家酒店在旅游旺季的房价会上涨。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/seasonal
 > - Workers typically came north on a seasonal basis. `[例]`
+>   - 中译：季节性流感每年冬季都会流行。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/seasonal
 
 ## 主动产出
 

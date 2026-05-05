@@ -115,7 +115,11 @@ down-(向下) + load(加载) → 向下加载 → 下载
 
 > [!example]- 语料
 > - You can download the software from the official website. `[例]`
+>   - 中译：你可以从我们的网站免费下载该软件。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/download
 > - Users can download the app for free from the App Store. `[例]`
+>   - 中译：该应用的下载量已超过一百万次。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/download
 > - The file is too large to download on a mobile connection. `[例]`
 
 ## 主动产出

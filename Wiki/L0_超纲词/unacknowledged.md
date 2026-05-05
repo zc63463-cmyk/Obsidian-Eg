@@ -125,7 +125,11 @@ un-(不，否定前缀) + ac-(=ad-, 向/加强) + [[know]](知道) + -ledg(名�
 
 > [!example]- 语料
 > - Her contibution to the field of astronomy often goes unacknowledged. `[例]`
+>   - 中译：她在幕后做了大量未被认可的工作。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/unacknowledged
 > - Workers can feel unacknowledged in a large organization. `[例]`
+>   - 中译：他默默承受着未被人承认的痛苦。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/unacknowledged
 
 ## 主动产出
 

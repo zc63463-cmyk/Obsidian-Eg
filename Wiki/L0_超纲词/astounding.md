@@ -125,7 +125,11 @@ a-(=ex-, 出，向外) + stound(=stun, 击晕，使震惊) + -ing(形容词后�
 
 > [!example]- 语料
 > - The company reported an astounding 300% increase in revenue over the past year. `[例]`
+>   - 中译：该公司报告过去一年收入惊人地增长了300%。
+>   - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/astounding
 > - The discovery of penicillin was one of the most astounding breakthroughs in medical history. `[例]`
+>   - 中译：青霉素的发现是医学史上最令人惊叹的突破之一。
+>   - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/astounding
 
 ## 主动产出
 

@@ -124,7 +124,11 @@ art(艺术) + work(作品，工作成果)
 
 > [!example]- 语料
 > - The museum houses an impressive collection of modern artwork. `[例]`
+>   - 中译：这家博物馆收藏了一批令人印象深刻的现代艺术作品。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/artwork
 > - The album's cover artwork was designed by a famous graphic artist. `[例]`
+>   - 中译：这张专辑的封面设计是由一位著名的平面艺术家创作的。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/artwork
 
 ## 主动产出
 

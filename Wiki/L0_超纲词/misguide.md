@@ -121,6 +121,8 @@ mis-(错误) + guide(引导)
 > [!example]- 语料
 > - They casually dismiss the career work of scholars and scientists as just another misguided opinion. `[真题]`
 > - We were misguided by the flashy advertisements for what turned out to be pretty lousy pizza. `[例]`
+>   - 中译：我们被那些花哨的广告误导了，结果那批披萨相当难吃。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/misguide
 
 ## 主动产出
 

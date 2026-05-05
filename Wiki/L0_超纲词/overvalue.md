@@ -118,7 +118,11 @@ over-(过度) + value(价值)
 
 > [!example]- 语料
 > - The company is overvalued on the stock market. `[例]`
+>   - 中译：投资者往往高估这些公司的股票。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/overvalue
 > - Agents overvalue homes to attract customers , then slash prices when buyers do not appear. `[例]`
+>   - 中译：不要高估物质财富的重要性。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/overvalue
 
 ## 主动产出
 

@@ -123,7 +123,11 @@ high(高的) + profile(轮廓/形象) → 复合词
 
 > [!example]- 语料
 > - He resigned from a high-profile job as economic adviser to the president. `[例]`
+>   - 中译：他辞去了总统经济顾问这一引人注目的职位。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/high-profile
 > - He has many high-profile clients. `[例]`
+>   - 中译：他有许多知名客户。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/high-profile
 
 ## 主动产出
 

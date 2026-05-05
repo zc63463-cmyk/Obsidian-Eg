@@ -126,7 +126,11 @@ at-(=ad-, 向，加强) + test(见证，证据，拉丁语 *testis*)
 
 > [!example]- 语料
 > - Numerous studies attest to the effectiveness of regular exercise in reducing stress. `[例]`
+>   - 中译：大量研究证明了规律运动在减轻压力方面的有效性。
+>   - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/attest
 > - The ancient ruins attest to the sophistication of this early civilization. `[例]`
+>   - 中译：这些古代遗迹证明了这一早期文明的先进程度。
+>   - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/attest
 
 ## 主动产出
 

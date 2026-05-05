@@ -129,7 +129,11 @@ un-(不，否定前缀) + [[cert|cert]](确定/确信) + -ain(形容词后缀)
 
 > [!example]- 语料
 > - She's uncertain wh ether to go to New Zealand or not. `[例]`
+>   - 中译：未来充满了不确定性。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/uncertain
 > - Ariana was uncertain about meeting him. `[例]`
+>   - 中译：他对自己的决定感到犹豫不决。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/uncertain
 
 ## 主动产出
 

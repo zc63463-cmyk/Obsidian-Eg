@@ -121,7 +121,11 @@ review_count: 0
 
 > [!example]- 语料
 > - His proclivity for shapely blondes. `[例]`
+>   - 中译：他有拖延的倾向。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/proclivity
 > - The government’s proclivity for spending money. `[例]`
+>   - 中译：她对甜食有一种偏好。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/proclivity
 
 ## 主动产出
 

@@ -123,7 +123,11 @@ review_count: 0
 
 > [!example]- 语料
 > - She was prescribed medication for her condition. `[例]`
+>   - 中译：医生为她开了治疗病情的药物。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/medication
 > - He is currently taking medication for his heart. `[例]`
+>   - 中译：他目前正在服用心脏药物。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/medication
 
 ## 主动产出
 

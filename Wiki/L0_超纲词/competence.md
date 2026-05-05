@@ -123,7 +123,11 @@ com-（完全）+ [[pet|pet-]]（追求，努力，拉丁语 *petere*，追求/�
 
 > [!example]- 语料
 > - Her competence as a teacher is unquestionable. `[例]`
+>   - 中译：她作为一名教师的胜任力是毋庸置疑的。
+>   - 来源：Collins | https://www.collinsdictionary.com/dictionary/english/competence
 > - He reached a reasonable level of competence in his English. `[例]`
+>   - 中译：他的英语达到了合理的熟练水平。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/competence
 
 ## 主动产出
 

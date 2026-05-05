@@ -123,7 +123,11 @@ review_count: 0
 
 > [!example]- 语料
 > - In theory , most phone calls should be traceable. `[例]`
+>   - 中译：每一批产品都有可追溯的生产编号。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/traceable
 > - His medical problems were shown to be traceable to (= to have been caused by) his having been exposed to dangerous chemicals. `[例]`
+>   - 中译：这种疾病的起源可以追溯到几个世纪前。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/traceable
 
 ## 主动产出
 

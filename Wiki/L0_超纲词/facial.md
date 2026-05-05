@@ -125,7 +125,11 @@ review_count: 0
 
 > [!example]- 语料
 > - Facial expressions are a universal language of emotion that transcends cultural boundaries. `[例]`
+>   - 中译：她对面部护肤品非常挑剔。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/facial
 > - Facial recognition technology has raised serious privacy concerns among lawmakers and civil liberties advocates. `[例]`
+>   - 中译：面部识别技术被广泛应用于安全领域。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/facial
 
 ## 主动产出
 

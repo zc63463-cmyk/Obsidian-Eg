@@ -126,7 +126,11 @@ sludge（源自中古英语，与 slush"半融的雪"同源，模拟黏稠拖沓
 
 > [!example]- 语料
 > - We seemed to spend the last mile of the walk knee-deep in sludge. `[例]`
+>   - 中译：工厂排放的污泥严重污染了河流。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sludge
 > - There was some sludge at the bottom of the tank. `[例]`
+>   - 中译：下水道里积满了厚厚的淤泥。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/sludge
 
 ## 主动产出
 

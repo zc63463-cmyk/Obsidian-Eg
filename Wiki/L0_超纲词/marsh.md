@@ -122,7 +122,11 @@ review_count: 0
 
 > [!example]- 语料
 > - At the mouth of the river is a large area of marsh. `[例]`
+>   - 中译：河口处有一大片沼泽地。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/marsh
 > - Rain had been falling steadily all day and the ground had become a marsh. `[例]`
+>   - 中译：雨下了一整天，地面已经变成了一片沼泽。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/marsh
 
 ## 主动产出
 

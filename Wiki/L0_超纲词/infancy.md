@@ -122,8 +122,14 @@ in-(不) + fant(说话，拉丁语 *fari*) + -cy(名词后缀)
 
 > [!example]- 语料
 > - The technology is still in its infancy, but it holds great promise. `[例]`
+>   - 中译：这项技术仍处于起步阶段，但前景广阔。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/infancy
 > - Research into artificial intelligence was still in its infancy in the 1950s. `[例]`
+>   - 中译：在20世纪50年代，人工智能研究仍处于起步阶段。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/infancy
 > - Many species die in infancy due to environmental hazards and predation. `[例]`
+>   - 中译：许多物种因环境危害和捕食而在幼年时期夭折。
+>   - 来源：Collins | https://www.collinsdictionary.com/dictionary/english/infancy
 
 ## 主动产出
 

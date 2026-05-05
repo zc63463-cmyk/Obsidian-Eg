@@ -120,7 +120,11 @@ review_count: 0
 
 > [!example]- 语料
 > - Interprovincial trade barriers have been reduced significantly. `[例]`
+>   - 中译：省际贸易壁垒已大幅降低。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/provincial
 > - The interprovincial highway system connects major cities across the country. `[例]`
+>   - 中译：省际公路系统连接了全国各大城市。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/provincial
 
 ## 主动产出
 

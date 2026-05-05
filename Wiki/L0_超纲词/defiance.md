@@ -121,7 +121,11 @@ review_count: 0
 
 > [!example]- 语料
 > - The demonstration is a pointless act of defiance against the government. `[例]`
+>   - 中译：这场示威是对政府的无意义反抗行为。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/defiance
 > - In defiance of the ceasefire , rebel troops are again firing on the capital. `[例]`
+>   - 中译：叛军无视停火协议，再次向首都开火。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/defiance
 
 ## 主动产出
 

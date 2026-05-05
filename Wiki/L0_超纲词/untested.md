@@ -126,7 +126,11 @@ un-(不，否定) + [[test]](测试，拉丁语 *testum*，原义为"陶罐"，�
 
 > [!example]- 语料
 > - Initially, they were dismissed as being dreamers with lots of trendy , untested ideas. `[例]`
+>   - 中译：这种未经测试的新药存在潜在风险。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/untested
 > - Some laws are out of date ; others are new and untested. `[例]`
+>   - 中译：他是一位未经考验的新人，缺乏经验。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/untested
 
 ## 主动产出
 

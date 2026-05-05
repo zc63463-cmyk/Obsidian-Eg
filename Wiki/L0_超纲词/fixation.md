@@ -128,7 +128,11 @@ fix(固定) + -ation(名词后缀，表示动作/状态/结果)
 
 > [!example]- 语料
 > - He has an unhealthy fixation on social media likes. `[例]`
+>   - 中译：他对清洁有一种近乎偏执的执念。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/fixation
 > - Freud believed that early childhood experiences could lead to fixations that affect adult behavior. `[例]`
+>   - 中译：她小时候对恐龙有一种强烈的迷恋。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/fixation
 
 ## 主动产出
 

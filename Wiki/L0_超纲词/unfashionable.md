@@ -125,7 +125,11 @@ un-(不，否定前缀) + fashion(时尚/方式) + -able(可被...的)
 
 > [!example]- 语料
 > - They paid less for the house because it was in an unfashionable part of town. `[例]`
+>   - 中译：穿过时的衣服并不一定是坏事。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/unfashionable
 > - An old and unfashionable jacket that someone had donated to charity. `[例]`
+>   - 中译：这个观点在当今已经不合时宜了。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/unfashionable
 
 ## 主动产出
 

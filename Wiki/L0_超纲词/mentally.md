@@ -125,7 +125,11 @@ ment(心智，拉丁语 *mens*, *mentis*) + -al(形容词后缀) + -ly(副词后
 
 > [!example]- 语料
 > - Some of the patients are severely mentally ill and not capable of taking care of themselves. `[例]`
+>   - 中译：一些患者患有严重的精神疾病，无法照顾自己。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/mentally
 > - It's going to be a tough competition but I'm mentally prepared for it. `[例]`
+>   - 中译：这将是一场艰苦的比赛，但我在心理上已经做好了准备。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/mentally
 
 ## 主动产出
 

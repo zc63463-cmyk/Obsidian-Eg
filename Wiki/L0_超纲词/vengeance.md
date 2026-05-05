@@ -130,7 +130,11 @@ review_count: 0
 
 > [!example]- 语料
 > - The story features a woman who is evicted from her home and is seeking vengeance. `[例]`
+>   - 中译：他发誓要为父亲的死报仇。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/vengeance
 > - As he cradled his daughter's lifeless body in his arms , he swore (to take) vengeance on her killers. `[例]`
+>   - 中译：复仇只会带来更多的暴力和痛苦。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/vengeance
 
 ## 主动产出
 

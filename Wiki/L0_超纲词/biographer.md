@@ -124,7 +124,11 @@ bio-(生命) + [[graph-gram|graph]](写) + -er(人)
 
 > [!example]- 语料
 > - The acclaimed biographer spent ten years researching and writing the definitive biography of the former president. `[例]`
+>   - 中译：这位备受赞誉的传记作家花了十年时间研究和撰写前总统的权威传记。
+>   - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/biographer
 > - She worked as his biographer and gained unprecedented access to his personal archives and private letters. `[例]`
+>   - 中译：她担任他的传记作者，获得了前所未有的权限来查阅他的个人档案和私人信件。
+>   - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/biographer
 
 ## 主动产出
 

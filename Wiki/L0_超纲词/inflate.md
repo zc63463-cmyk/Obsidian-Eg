@@ -130,8 +130,14 @@ in-(向内) + [[flat|fla-]](吹，拉丁语 *flare*) → 不直接对应，实�
 
 > [!example]- 语料
 > - The government printed more money, which inflated the currency and led to rising prices. `[例]`
+>   - 中译：政府印发了更多货币，导致货币贬值和物价上涨。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/inflate
 > - He tends to inflate his achievements when talking to potential employers. `[例]`
+>   - 中译：他在与潜在雇主交谈时往往会夸大自己的成就。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/inflate
 > - Workers inflated the balloons with helium before the festival began. `[例]`
+>   - 中译：工人在节日开始前用氦气给气球充气。
+>   - 来源：Collins | https://www.collinsdictionary.com/dictionary/english/inflate
 
 ## 主动产出
 

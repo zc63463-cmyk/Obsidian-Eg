@@ -119,7 +119,11 @@ review_count: 0
 
 > [!example]- 语料
 > - The researchers proposed a obtainable solution to the problem. `[例]`
+>   - 中译：这种信息很容易获取。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/obtainable
 > - The company adopted a obtainable approach to improve efficiency. `[例]`
+>   - 中译：该证书可通过在线课程获得。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/obtainable
 
 ## 主动产出
 

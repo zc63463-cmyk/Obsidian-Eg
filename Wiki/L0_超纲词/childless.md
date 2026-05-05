@@ -119,7 +119,11 @@ child（孩子）+ -less（没有……的）
 
 > [!example]- 语料
 > - Couples who are childless can feel excluded from the rest of society. `[例]`
+>   - 中译：无子女的夫妇可能会感到被社会其余部分排斥。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/childless
 > - She lived a lonely, childless life after her husband's death. `[例]`
+>   - 中译：丈夫去世后，她过着孤独的、无子女的生活。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/childless
 
 ## 主动产出
 

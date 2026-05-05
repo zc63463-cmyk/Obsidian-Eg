@@ -124,7 +124,11 @@ review_count: 0
 
 > [!example]- 语料
 > - The streets echoed with the tramp of soldiers ' feet. `[例]`
+>   - 中译：一个流浪汉在火车站附近徘徊。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/tramp
 > - The girls went for a tramp through the woods. `[例]`
+>   - 中译：孩子们在雨中踩着泥水走回家。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/tramp
 
 ## 主动产出
 

@@ -122,7 +122,11 @@ peer（同等的人/同行）+ review（审查）+ -ed（已……的）
 
 > [!example]- 语料
 > - The researchers proposed a peer reviewed solution to the problem. `[例]`
+>   - 中译：这篇文章发表在同行评审的期刊上。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/peer-reviewed
 > - The company adopted a peer reviewed approach to improve efficiency. `[例]`
+>   - 中译：只有经过同行评审的研究才能被接受。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/peer-reviewed
 
 ## 主动产出
 

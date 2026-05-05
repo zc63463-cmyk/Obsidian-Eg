@@ -121,7 +121,11 @@ sur-（在……之上，超出）+ prise（抓取，源自拉丁语 *prehendere
 
 > [!example]- 语料
 > - The restaurant turned out to be surprisingly cheap. `[例]`
+>   - 中译：令人惊讶的是，他竟然通过了考试。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/surprisingly
 > - The journey was surprisingly hassle-free. `[例]`
+>   - 中译：这本书出人意料地有趣。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/surprisingly
 
 ## 主动产出
 

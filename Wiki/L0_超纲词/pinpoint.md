@@ -129,7 +129,11 @@ pin（针）+ point（点）
 
 > [!example]- 语料
 > - It is not possible to pinpoint precisely the time of death. `[例]`
+>   - 中译：调查人员无法确定事故的确切原因。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/pinpoint
 > - Emergency workers at the site are still unable to pinpoint the cause of the explosion. `[例]`
+>   - 中译：她精确定位了问题所在。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/pinpoint
 
 ## 主动产出
 

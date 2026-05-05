@@ -120,8 +120,14 @@ il-(=in-, 不) + [[liber|liber]](自由) + -al(形容词后缀)
 
 > [!example]- 语料
 > - The government's illiberal policies have drawn criticism from international human rights organizations. `[例]`
+>   - 中译：政府的不开明政策受到了国际人权组织的批评。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/illiberal
 > - His illiberal attitudes toward immigration alienated many of his colleagues. `[例]`
+>   - 中译：他对移民的不开明态度疏远了他的许多同事。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/illiberal
 > - Scholars warn that the rise of illiberal democracy threatens the foundations of constitutional governance. `[例]`
+>   - 中译：学者们警告说，非自由民主的崛起威胁到宪政治理的基础。
+>   - 来源：Collins | https://www.collinsdictionary.com/dictionary/english/illiberal
 
 ## 主动产出
 

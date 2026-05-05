@@ -123,7 +123,11 @@ style（风格，时尚）+ -ish（有……特征的，形容词后缀）
 
 > [!example]- 语料
 > - The film's direction is subtle and stylish. `[例]`
+>   - 中译：她穿着一件时髦的连衣裙出席了晚宴。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/stylish
 > - It's a very stylish and beautiful film , but it lacks content. `[例]`
+>   - 中译：这家酒店的设计非常时尚。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/stylish
 
 ## 主动产出
 

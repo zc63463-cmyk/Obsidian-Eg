@@ -121,7 +121,11 @@ over-(超过) + due(到期/应付)
 
 > [!example]- 语料
 > - The researchers proposed a overdue solution to the problem. `[例]`
+>   - 中译：这本书已经逾期两周了。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/overdue
 > - The company adopted a overdue approach to improve efficiency. `[例]`
+>   - 中译：这场改革早就该进行了。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/overdue
 
 ## 主动产出
 

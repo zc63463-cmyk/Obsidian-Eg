@@ -128,7 +128,11 @@ review_count: 0
 
 > [!example]- 语料
 > - The absolutist monarch claimed divine right to rule without any parliamentary oversight. `[例]`
+>   - 中译：这位专制君主声称拥有神授权力，无需任何议会监督即可统治。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/absolutist
 > - Moral absolutists believe that certain ethical principles are universally binding regardless of cultural context. `[例]`
+>   - 中译：道德绝对论者认为，某些伦理原则是普遍适用的，不受文化背景的影响。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/absolutist
 
 ## 主动产出
 

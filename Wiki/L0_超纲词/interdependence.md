@@ -121,7 +121,11 @@ review_count: 0
 
 > [!example]- 语料
 > - The growing economic interdependence between nations makes global cooperation essential. `[例]`
+>   - 中译：各国之间日益增长的经济相互依存使全球合作变得至关重要。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/interdependence
 > - The interdependence of ecosystems means that damage to one species can affect many others. `[例]`
+>   - 中译：生态系统的相互依存意味着对一个物种的损害会影响许多其他物种。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/interdependence
 
 ## 主动产出
 

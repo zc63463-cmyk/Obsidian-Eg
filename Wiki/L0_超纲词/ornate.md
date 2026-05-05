@@ -123,7 +123,11 @@ orn(=adorn/decorate, 装饰) + -ate(=having the characteristics of, 具有……
 
 > [!example]- 语料
 > - The researchers proposed a ornate solution to the problem. `[例]`
+>   - 中译：这座宫殿装饰着华丽的雕刻和壁画。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/ornate
 > - The company adopted a ornate approach to improve efficiency. `[例]`
+>   - 中译：她不喜欢过于华丽的家具。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/ornate
 > - The plan offers a ornate option for small organizations. `[例]`
 
 ## 主动产出

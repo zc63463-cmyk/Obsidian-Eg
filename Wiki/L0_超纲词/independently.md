@@ -123,8 +123,14 @@ in-(不) + [[de|de]]-(向下) + [[pend-pens|pend]](悬挂/依赖) + -ent(形容�
 
 > [!example]- 语料
 > - She has worked independently as a consultant for over ten years, managing her own clients and projects. `[例]`
+>   - 中译：她作为独立顾问工作了十多年，管理着自己的客户和项目。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/independently
 > - The two research teams independently arrived at the same conclusion, which strengthened the study's credibility. `[例]`
+>   - 中译：两个研究团队独立得出了相同的结论，这增强了研究的可信度。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/independently
 > - Students are encouraged to think independently rather than simply memorizing textbook content. `[例]`
+>   - 中译：鼓励学生独立思考，而不是简单地死记硬背课本内容。
+>   - 来源：Collins | https://www.collinsdictionary.com/dictionary/english/independently
 
 ## 主动产出
 

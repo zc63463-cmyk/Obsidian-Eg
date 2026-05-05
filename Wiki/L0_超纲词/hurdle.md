@@ -126,7 +126,11 @@ review_count: 0
 
 > [!example]- 语料
 > - She cleared (= jumped over) all the hurdles easily and raced to the finishing line. `[例]`
+>   - 中译：她轻松跨过了所有栏架，冲向终点线。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/hurdle
 > - Getting a work permit was the first hurdle to overcome. `[例]`
+>   - 中译：获得工作许可证是需要克服的第一个障碍。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/hurdle
 
 ## 主动产出
 

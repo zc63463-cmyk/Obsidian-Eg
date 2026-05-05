@@ -127,7 +127,11 @@ e-(=ex-, 出来/向外) + [[duc-duct|duc]](引导) + -at-(动词后缀) + -or(�
 
 > [!example]- 语料
 > - As an experienced educator, she believes that every child has the potential to succeed. `[例]`
+>   - 中译：她是一位备受尊敬的教育工作者，致力于改善公共教育。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/educator
 > - The conference brought together educators from around the world to discuss new teaching methods. `[例]`
+>   - 中译：教育工作者们在会议上讨论了新的教学方法。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/educator
 
 ## 主动产出
 

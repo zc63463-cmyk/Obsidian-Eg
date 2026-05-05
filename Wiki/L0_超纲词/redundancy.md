@@ -25,7 +25,7 @@ review_count: 0
 
 ## 核心释义
 
-**n.** ①==**冗余，多余**==；②裁员（因人员过剩）；③（信息论）冗余信息；
+**n.** ①==**冗余，多余**== `N` [中性/多义]；②==**裁员（因人员过剩）**== `V N` `N` [中性/商业]；③==**（信息论）冗余信息**== `N` [中性/技术]；
 
 > [!tip] 原型义
 > **原型义**：多余（超出需要的部分）
@@ -127,7 +127,11 @@ review_count: 0
 
 > [!example]- 语料
 > - There's a lot of redundancy in the area. `[例]`
+>   - 中译：公司宣布将裁员500人以削减成本。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/redundancy
 > - He was so fed up at work that redundancy was starting to look quite appealing. `[例]`
+>   - 中译：设计中存在大量冗余，使其过于复杂。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/redundancy
 
 ## 主动产出
 

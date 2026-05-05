@@ -125,7 +125,11 @@ kin(亲属/家族) + -ship(表示关系/状态的后缀)
 
 > [!example]- 语料
 > - Kinship ties play an important role in many traditional societies. `[例]`
+>   - 中译：亲属关系在许多传统社会中扮演着重要角色。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/kinship
 > - Different ethnic groups have different systems of kinship. `[例]`
+>   - 中译：不同族群有不同的亲属制度。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/kinship
 
 ## 主动产出
 

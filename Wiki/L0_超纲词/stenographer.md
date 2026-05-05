@@ -118,7 +118,11 @@ steno-（窄，紧密，源自希腊语 *stenos*）+ [[graph-gram|graph]]（写�
 
 > [!example]- 语料
 > - But that hasn’t stopped liberals and their media stenographers from praying that oil markets collapse amid the U.S.-Israel strikes against the Shia Islamic theocracy and its fledgling nuclear program. `[例]`
+>   - 中译：速记员在法庭上记录了所有的证词。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/stenographer
 > - For her part, Weiss has already proven to be a happy stenographer for the White House, pulling a bombshell segment from 60 Minutes that painted the administration in a bad light. `[例]`
+>   - 中译：随着语音识别技术的发展，速记员的需求逐渐减少。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/stenographer
 
 ## 主动产出
 

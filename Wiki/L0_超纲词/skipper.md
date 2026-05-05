@@ -127,7 +127,11 @@ skipper（源自中古荷兰语 *schipper*，与 ship"船"同源，意为"船的
 
 > [!example]- 语料
 > - John is (the) skipper of the team this year. `[例]`
+>   - 中译：船长决定改变航线以避开风暴。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/skipper
 > - We asked the skipper how long it would be before we reached port. `[例]`
+>   - 中译：球队队长在赛前鼓励队员们全力以赴。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/skipper
 
 ## 主动产出
 

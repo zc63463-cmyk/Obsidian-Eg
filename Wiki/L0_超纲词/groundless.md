@@ -125,7 +125,11 @@ ground(基础/根据) + -less(没有...的)
 
 > [!example]- 语料
 > - My fears turned out to be groundless. `[例]`
+>   - 中译：我的担忧结果是没有根据的。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/groundless
 > - Your concerns are groundless. `[例]`
+>   - 中译：你的担忧是没有根据的。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/groundless
 
 ## 主动产出
 

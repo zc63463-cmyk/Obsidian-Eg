@@ -125,7 +125,11 @@ un-(不，否定前缀) + clean(干净的)
 
 > [!example]- 语料
 > - The health risk from drinking unclean water is considerable. `[例]`
+>   - 中译：不洁净的水源是导致疾病传播的主要原因。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/unclean
 > - Jews and Muslims consider pigs unclean. `[例]`
+>   - 中译：他觉得自己在道德上是不洁净的。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/unclean
 
 ## 主动产出
 

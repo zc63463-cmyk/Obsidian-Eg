@@ -126,7 +126,11 @@ short(短的) + cut(切割，路径)
 
 > [!example]- 语料
 > - The kids take a shortcut through the parking lot to get to school. `[例]`
+>   - 中译：他走了一条捷径，比平时早到了十分钟。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/shortcut
 > - Don't use shortcuts to solve the problem , or the answer is likely to be wrong. `[例]`
+>   - 中译：学习没有捷径可走，只有刻苦努力。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/shortcut
 
 ## 主动产出
 

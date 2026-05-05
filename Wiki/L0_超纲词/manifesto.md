@@ -119,7 +119,11 @@ manu-（手，拉丁语 *manus*）+ fest（打击，可联想 manifest）→ 用
 
 > [!example]- 语料
 > - In their election manifesto, the Liberal Democrats proposed increasing taxes to pay for improvements in education. `[例]`
+>   - 中译：自由民主党在其选举宣言中提议增税以资助教育改善。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/manifesto
 > - The video chronicles a very different person compared to the portrait emerging from law enforcement interviews with Allen's brother and sister and his own writings in a manifesto. `[例]`
+>   - 中译：这段视频记录了一个截然不同的人，与执法部门对艾伦的兄弟姐妹的访谈以及他在宣言中的自述所呈现的形象大不相同。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/manifesto
 
 ## 主动产出
 

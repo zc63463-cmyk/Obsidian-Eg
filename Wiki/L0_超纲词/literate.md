@@ -132,7 +132,11 @@ liter-（来自拉丁语 *littera*，字母→文字→文学）+ -ate（形容�
 
 > [!example]- 语料
 > - Only 25% of the country's population is literate. `[例]`
+>   - 中译：该国只有25%的人口具备读写能力。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/literate
 > - The court heard that the defendant was not literate, had little schooling and was unemployed. `[例]`
+>   - 中译：法庭获悉，被告不识字，几乎没上过学，而且没有工作。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/literate
 
 ## 主动产出
 

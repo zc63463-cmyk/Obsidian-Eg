@@ -120,7 +120,11 @@ sparrow（源自古英语 *spearwa*，原始日耳曼语 *sparwan*）
 
 > [!example]- 语料
 > - Goldfinches are about the size of a sparrow. `[例]`
+>   - 中译：麻雀是城市中最常见的鸟类之一。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/sparrow
 > - The resulting rich royal blue outfit, which the doctor wore for a charity event, bears images related to hope and sparrows , which Bedlack told Atwood reminded him of a patient's tattoos. `[例]`
+>   - 中译：一只小麻雀在窗台上叽叽喳喳地叫着。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/sparrow
 
 ## 主动产出
 

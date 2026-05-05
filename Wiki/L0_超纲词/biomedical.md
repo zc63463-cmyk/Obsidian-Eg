@@ -121,7 +121,11 @@ bio-(生命) + [[medi|med]](医学) + -ical(形容词后缀)
 
 > [!example]- 语料
 > - Breakthroughs in biomedical research have led to the development of new treatments for previously incurable diseases. `[例]`
+>   - 中译：生物医学研究的突破为以前无法治愈的疾病带来了新疗法的发展。
+>   - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/biomedical
 > - The university established a new department of biomedical engineering to address the growing demand for medical technology innovation. `[例]`
+>   - 中译：该大学成立了一个新的生物医学工程系，以应对日益增长的医疗技术创新需求。
+>   - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/biomedical
 
 ## 主动产出
 

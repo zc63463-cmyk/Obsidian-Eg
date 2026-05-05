@@ -121,7 +121,11 @@ review_count: 0
 
 > [!example]- 语料
 > - WHO is an abbreviation for World Health Organization. `[例]`
+>   - 中译：WHO 是 World Health Organization（世界卫生组织）的缩写。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/abbreviation
 > - The abbreviation of the organization's name made it easier to print on business cards. `[例]`
+>   - 中译：该组织名称的缩写使其更容易印在名片上。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/abbreviation
 
 ## 主动产出
 

@@ -125,7 +125,11 @@ at-(=ad-, 向，加强) + [[tempt-tent|tent]](拉伸，倾向，拉丁语 *tende
 
 > [!example]- 语料
 > - The students were remarkably attentive during the guest lecture. `[例]`
+>   - 中译：学生们在客座讲座期间表现得格外专注。
+>   - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/attentive
 > - The hotel is known for its attentive service and luxurious amenities. `[例]`
+>   - 中译：这家酒店以其周到的服务和豪华的设施而闻名。
+>   - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/attentive
 
 ## 主动产出
 

@@ -123,6 +123,8 @@ mut(交换/改变，拉丁语 *mutare*) + -ual(形容词后缀) + -ly(副词后�
 
 > [!example]- 语料
 > - It will be a mutually beneficial project. `[例]`
+>   - 中译：这将是一个互利共赢的项目。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/mutually
 > - A lot of people still think brains and beauty are mutually exclusive (= cannot exist together at the same time ). `[例]`
 
 ## 主动产出

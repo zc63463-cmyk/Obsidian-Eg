@@ -125,7 +125,11 @@ re-(再次，反复) + pro-(向前) + [[duct|duct]](引导，带领) + -ive(形�
 
 > [!example]- 语料
 > - Some studies have linked hormones in the water to damaged reproductive organs in fish. `[例]`
+>   - 中译：这种化学物质对生殖系统有害。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/reproductive
 > - The review also analyzed the role climate change plays in declining birth rates, finding higher temperatures constitute a heavy toll on the reproductive prospects of most animal life. `[例]`
+>   - 中译：植物通过多种繁殖方式来延续种群。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/reproductive
 
 ## 主动产出
 

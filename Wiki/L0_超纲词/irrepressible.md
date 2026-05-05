@@ -128,7 +128,11 @@ review_count: 0
 
 > [!example]- 语料
 > - Her irrepressible laughter filled the entire room. `[例]`
+>   - 中译：她那不可遏制的笑声充满了整个房间。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/irrepressible
 > - The irrepressible spirit of the people could not be crushed by oppression. `[例]`
+>   - 中译：人民不可压制的精神无法被压迫所摧毁。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/irrepressible
 
 ## 主动产出
 

@@ -121,7 +121,11 @@ off-(离开/脱离) + line(线/连线)
 
 > [!example]- 语料
 > - The researchers proposed a offline solution to the problem. `[例]`
+>   - 中译：系统离线进行维护。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/offline
 > - The company adopted a offline approach to improve efficiency. `[例]`
+>   - 中译：我需要离线处理这些文件。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/offline
 
 ## 主动产出
 

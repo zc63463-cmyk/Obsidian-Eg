@@ -126,7 +126,11 @@ silt（源自古英语 *sylt*，与"盐"同源，原指"淤积物"）
 
 > [!example]- 语料
 > - The wreck was covered in a fine layer of silt. `[例]`
+>   - 中译：河流携带的泥沙在河口沉积。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/silt
 > - The tunnel had been blocked with silt. `[例]`
+>   - 中译：淤泥堵塞了河道，影响了航运。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/silt
 
 ## 主动产出
 

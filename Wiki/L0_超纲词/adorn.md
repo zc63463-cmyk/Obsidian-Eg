@@ -122,8 +122,14 @@ ad-(朝向，加强) + orn(装饰，拉丁语 *ornare*)
 
 > [!example]- 语料
 > - The hall was adorned with beautiful paintings and sculptures. `[例]`
+>   - 中译：大厅里装饰着精美的画作和雕塑。
+>   - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/adorn
 > - The ancient cathedral is adorned with intricate stained glass windows that date back to the 13th century. `[例]`
+>   - 中译：这座古老的大教堂装饰着可追溯至13世纪的精美彩色玻璃窗。
+>   - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/adorn
 > - She adorned herself with pearls and diamonds for the grand ceremony. `[例]`
+>   - 中译：为了这场盛大典礼，她用珍珠和钻石装扮自己。
+>   - 来源：Collins Dictionary | https://www.collinsdictionary.com/dictionary/english/adorn
 
 ## 主动产出
 

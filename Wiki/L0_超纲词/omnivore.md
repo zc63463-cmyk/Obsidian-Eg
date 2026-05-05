@@ -121,7 +121,11 @@ omni-(=all, 一切) + [[vor]](=eat, 吃) + -e(名词后缀)
 
 > [!example]- 语料
 > - The hikers rested under a towering omnivore near the coastal trail. `[例]`
+>   - 中译：人类是杂食动物，可以食用植物和动物。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/omnivore
 > - The cabin was built from durable omnivore gathered in the region. `[例]`
+>   - 中译：猪是杂食动物，几乎什么都吃。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/omnivore
 
 ## 主动产出
 

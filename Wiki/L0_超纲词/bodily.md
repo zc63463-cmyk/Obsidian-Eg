@@ -127,7 +127,11 @@ body(身体) + -ly(形容词/副词后缀)
 
 > [!example]- 语料
 > - The law imposes severe penalties for anyone who causes bodily harm to another person. `[例]`
+>   - 中译：法律对任何造成他人身体伤害的人施加严厉的惩罚。
+>   - 来源：Cambridge Dictionary | https://dictionary.cambridge.org/dictionary/english/bodily
 > - The security guards bodily removed the protester from the building. `[例]`
+>   - 中译：保安人员将抗议者整个人从大楼里抬了出去。
+>   - 来源：Oxford Learner's Dictionaries | https://www.oxfordlearnersdictionaries.com/definition/english/bodily
 
 ## 主动产出
 

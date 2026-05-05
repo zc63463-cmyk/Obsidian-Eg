@@ -122,7 +122,11 @@ review_count: 0
 
 > [!example]- 语料
 > - The depredations of invading armies left the region in ruins. `[例]`
+>   - 中译：入侵军队的掠夺使该地区沦为废墟。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/depredation
 > - Environmental depredations caused by industrial pollution have devastated the local ecosystem. `[例]`
+>   - 中译：工业污染造成的环境破坏已经摧毁了当地的生态系统。
+>   - 来源：Collins | https://www.collinsdictionary.com/dictionary/english/depredation
 
 ## 主动产出
 

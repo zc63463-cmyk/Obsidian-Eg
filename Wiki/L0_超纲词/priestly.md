@@ -122,7 +122,11 @@ priest（牧师/神父）+ -ly（形容词后缀，具有……性质的）= 像
 
 > [!example]- 语料
 > - He is a kind, priestly man. `[例]`
+>   - 中译：他穿着牧师般的白色长袍。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/priestly
 > - Majestically robed in priestly garments. `[例]`
+>   - 中译：牧师的职责包括主持宗教仪式。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/priestly
 
 ## 主动产出
 

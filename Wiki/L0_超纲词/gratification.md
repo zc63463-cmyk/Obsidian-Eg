@@ -133,7 +133,11 @@ review_count: 0
 
 > [!example]- 语料
 > - Saving money involves delayed gratification (= not getting what you want immediately ). `[例]`
+>   - 中译：存钱意味着延迟满足（即不立即得到你想要的东西）。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/gratification
 > - Sales of chocolate-covered snacks are up as people seek immediate gratification. `[例]`
+>   - 中译：巧克力涂层零食的销量上升了，因为人们追求即时满足。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/gratification
 
 ## 主动产出
 

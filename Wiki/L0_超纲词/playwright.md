@@ -121,7 +121,11 @@ play（戏剧）+ wright（工匠/制造者）
 
 > [!example]- 语料
 > - Which playwright wrote ‘Doctor Faustus’? `[例]`
+>   - 中译：莎士比亚是最伟大的剧作家之一。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/playwright
 > - Macy is a close collaborator of Pulitzer Prize-winning playwright David Mamet. `[例]`
+>   - 中译：这位年轻的剧作家写了一部关于社会正义的戏剧。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/playwright
 
 ## 主动产出
 

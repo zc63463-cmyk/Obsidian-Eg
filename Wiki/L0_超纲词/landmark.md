@@ -126,7 +126,11 @@ land(土地) + [[mark|mark]](标记)
 
 > [!example]- 语料
 > - The Supreme Court's ruling was a landmark decision in civil rights history. `[例]`
+>   - 中译：最高法院的裁决是民权史上的里程碑式判决。
+>   - 来源：Cambridge | https://dictionary.cambridge.org/dictionary/english/landmark
 > - The Colosseum is one of Rome's most famous landmarks. `[例]`
+>   - 中译：罗马斗兽场是罗马最著名的地标之一。
+>   - 来源：Oxford | https://www.oxfordlearnersdictionaries.com/definition/english/landmark
 
 ## 主动产出
 
